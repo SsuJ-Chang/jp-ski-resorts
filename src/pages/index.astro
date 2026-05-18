@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content'
 import BaseLayout from '../layouts/BaseLayout.astro'
 import { regions } from '../data/regions'
+import { filterPublishedResorts } from '../utils/resorts'
 
 const toneByRegion = {
   hokkaido: 'powder',
@@ -12,7 +13,7 @@ const toneByRegion = {
   'kansai-chugoku': 'weekend',
 } as const
 
-const resorts = await getCollection('resorts')
+const resorts = filterPublishedResorts(await getCollection('resorts'))
 
 const regionStats = regions.map((region) => {
   const regionResorts = resorts

@@ -9,3 +9,4 @@
 - Added Astro content collection schema, region/tag/ski-area constants, and three sample resort files.
 - Added minimal resort index and generated resort detail pages from the content collection.
 - Updated the home page region guide to use resort collection counts and replaced the Hakuba sample with Hakuba Goryu.
+- Added resort visibility statuses so draft or hidden resort entries can stay in the repository without appearing on public pages.

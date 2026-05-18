@@ -52,6 +52,12 @@ const resorts = defineCollection({
     prefecture: z.string(),
     skiArea: z.enum(skiAreaKeys).optional(),
     tags: z.array(z.enum(resortTags)).default([]),
+    visibility: z
+      .object({
+        status: z.enum(['published', 'draft', 'hidden']).default('published'),
+        note: z.string().optional(),
+      })
+      .default({ status: 'published' }),
     links: linkSchema,
     location: z
       .object({

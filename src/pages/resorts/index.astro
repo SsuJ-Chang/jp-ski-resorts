@@ -3,10 +3,9 @@ import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import { regions } from '../../data/regions'
 import { tagLabels } from '../../data/tags'
+import { filterPublishedResorts, sortResortsByEnglishName } from '../../utils/resorts'
 
-const resorts = (await getCollection('resorts')).sort((a, b) =>
-  a.data.name.en?.localeCompare(b.data.name.en ?? b.data.name.zhTw) ?? 0,
-)
+const resorts = sortResortsByEnglishName(filterPublishedResorts(await getCollection('resorts')))
 
 const regionByKey = new Map(regions.map((region) => [region.key, region]))
 ---
@@ -52,4 +51,3 @@ const regionByKey = new Map(regions.map((region) => [region.key, region]))
     </section>
   </main>
 </BaseLayout>
-

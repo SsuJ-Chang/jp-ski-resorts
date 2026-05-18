@@ -32,6 +32,11 @@ type Resort = {
 
   tags: ResortTag[]
 
+  visibility?: {
+    status: "published" | "draft" | "hidden"
+    note?: string
+  }
+
   links: {
     official: string
     googleMaps?: string
@@ -148,3 +153,21 @@ The first Astro content schema lives in:
 - `src/content/resorts/`
 
 The content collection currently validates Markdown resort files with stable metadata and source URLs. Resort data is intentionally incomplete at this stage; sample files exist to validate the schema and establish the editing pattern before broad data entry.
+
+## Visibility
+
+Resort entries may include a `visibility` block:
+
+```yaml
+visibility:
+  status: hidden
+  note: 暫時不顯示，等待資料確認
+```
+
+Supported statuses:
+
+- `published`: show in public pages and generate a detail page.
+- `draft`: keep in the repository but hide from public pages.
+- `hidden`: temporarily hide an entry that should not be public.
+
+If `visibility` is omitted, the default is `published`.

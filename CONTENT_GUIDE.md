@@ -94,3 +94,15 @@ For early samples, prefer conservative stable metadata:
 - Source URLs
 
 Avoid adding detailed numeric facts until their source URL is recorded and the field is needed by a page or comparison feature.
+
+## Temporarily Hiding A Resort
+
+If a resort should stay in the repository but not appear on the public site, add:
+
+```yaml
+visibility:
+  status: hidden
+  note: 暫時不顯示，等待資料確認
+```
+
+Use `draft` for entries still being prepared, and `hidden` for entries that were intentionally removed from public display. Public pages should only use `published` resorts.
