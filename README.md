@@ -75,9 +75,9 @@ Useful scripts:
 The site is configured for GitHub Pages at:
 
 ```txt
-https://SsuJ-Chang.github.io/jp-ski-resorts/
+https://jp-resorts.rj-tw.com/
 ```
 
 The GitHub Actions workflow in `.github/workflows/deploy.yml` builds and deploys the site when changes are pushed to `main`.
 
-When switching to a custom domain, update `astro.config.mjs`, remove the project `base`, and add `public/CNAME`.
+The custom domain is stored in `public/CNAME` so GitHub Pages keeps the domain after each deployment.

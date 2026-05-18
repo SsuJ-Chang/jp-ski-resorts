@@ -13,3 +13,4 @@
 - Updated GitHub Pages workflow actions for Node 24 compatibility and revised region taxonomy to place Hakuba Goryu in Kanto-Koshinetsu while adding Kyushu.
 - Added generated region pages and linked the home page region guide to them.
 - Fixed GitHub Pages base path handling for manually generated links and static asset references.
+- Switched deployment configuration to the custom domain `https://jp-resorts.rj-tw.com/`.
