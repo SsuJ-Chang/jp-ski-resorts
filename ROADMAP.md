@@ -31,7 +31,7 @@
 
 - [x] Home page with region guide and generated resort counts.
 - [x] Resort index page.
-- Region pages.
+- [x] Region pages.
 - [x] Resort detail pages.
 - Basic tag or access filters if they remain static and maintainable.
 
