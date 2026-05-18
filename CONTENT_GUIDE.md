@@ -79,3 +79,18 @@ Prefer:
 
 Avoid treating personal blogs, social posts, and forum posts as authoritative factual sources.
 
+## Current Sample Data
+
+Initial sample resort files live in `src/content/resorts/`.
+
+For early samples, prefer conservative stable metadata:
+
+- Names
+- Region
+- Prefecture
+- Ski area
+- Curated tags
+- Official links
+- Source URLs
+
+Avoid adding detailed numeric facts until their source URL is recorded and the field is needed by a page or comparison feature.

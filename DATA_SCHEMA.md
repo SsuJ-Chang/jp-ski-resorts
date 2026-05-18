@@ -137,3 +137,14 @@ Use distinct fields:
 - `links`: external official or trusted information entry points
 - `access`: structured transportation summary
 
+## Current Implementation
+
+The first Astro content schema lives in:
+
+- `src/content.config.ts`
+- `src/data/regions.ts`
+- `src/data/skiAreas.ts`
+- `src/data/tags.ts`
+- `src/content/resorts/`
+
+The content collection currently validates Markdown resort files with stable metadata and source URLs. Resort data is intentionally incomplete at this stage; sample files exist to validate the schema and establish the editing pattern before broad data entry.

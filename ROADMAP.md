@@ -12,18 +12,18 @@
 
 ## Phase 1: Static Data Model
 
-- Choose region taxonomy.
-- Define TypeScript types for resorts, regions, ski areas, tags, links, and access routes.
-- Set up validation once the implementation stack exists.
-- Create a small set of high-quality sample resort records.
-- Confirm source attribution rules.
+- [x] Choose region taxonomy.
+- [x] Define TypeScript types for resorts, regions, ski areas, tags, links, and access routes.
+- [x] Set up validation once the implementation stack exists.
+- [x] Create a small set of high-quality sample resort records.
+- [x] Confirm source attribution rules.
 
 ## Phase 2: Astro Setup
 
 - [x] Initialize Astro as a fully static site.
-- [ ] Configure content collections.
-- Add resort Markdown or MDX files.
-- Add region, ski area, and tag constants.
+- [x] Configure content collections.
+- [x] Add resort Markdown or MDX files.
+- [x] Add region, ski area, and tag constants.
 - [x] Add build and typecheck scripts.
 - [x] Prepare GitHub Pages deployment settings.
 
