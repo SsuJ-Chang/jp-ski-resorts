@@ -142,6 +142,20 @@ Use distinct fields:
 - `links`: external official or trusted information entry points
 - `access`: structured transportation summary
 
+## Region Taxonomy
+
+Current region keys:
+
+- `hokkaido`
+- `tohoku`
+- `kanto-koshinetsu`
+- `hokuriku`
+- `chubu`
+- `kansai-chugoku`
+- `kyushu`
+
+This is a ski travel taxonomy, not a strict administrative geography taxonomy. For example, Nagano resorts such as Hakuba Goryu are assigned to `kanto-koshinetsu` because they are commonly planned with Tokyo / Shinetsu access flows in this project.
+
 ## Current Implementation
 
 The first Astro content schema lives in:

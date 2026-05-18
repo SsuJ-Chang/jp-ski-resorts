@@ -2,7 +2,7 @@
 
 ## Status
 
-Proposed
+Superseded by `.ai/decisions/0006-region-taxonomy-update.md`
 
 ## Date
 
@@ -40,4 +40,3 @@ Use this initial ski-relevant taxonomy as a starting point:
 - PROJECT.md
 - DATA_SCHEMA.md
 - ROADMAP.md
-

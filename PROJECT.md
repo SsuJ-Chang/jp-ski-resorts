@@ -47,6 +47,6 @@ The home page may group resorts into ski-relevant regions:
 - Hokuriku
 - Chubu
 - Kansai / Chugoku
+- Kyushu
 
 The exact taxonomy can change later through a decision record.
-

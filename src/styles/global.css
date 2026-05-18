@@ -170,6 +170,10 @@ h1 {
   border-left: 6px solid #b79645;
 }
 
+.region-strip--south {
+  border-left: 6px solid #a75d63;
+}
+
 .panel-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));

@@ -5,6 +5,7 @@ export const regionKeys = [
   'hokuriku',
   'chubu',
   'kansai-chugoku',
+  'kyushu',
 ] as const
 
 export type RegionKey = (typeof regionKeys)[number]
@@ -41,7 +42,7 @@ export const regions: Region[] = [
       zhTw: '關東甲信越',
       en: 'Kanto-Koshinetsu',
     },
-    description: '從東京出發的選項多，包含新潟、長野與群馬等熱門滑雪目的地。',
+    description: '從東京出發的選項多，包含新潟、長野、群馬等熱門滑雪目的地；白馬資料先歸在此區。',
   },
   {
     key: 'hokuriku',
@@ -57,7 +58,7 @@ export const regions: Region[] = [
       zhTw: '中部',
       en: 'Chubu',
     },
-    description: '日本阿爾卑斯周邊滑雪場集中，包含白馬與志賀高原等滑雪旅行區。',
+    description: '以東海與岐阜等中部滑雪目的地為主；長野滑雪旅行資料先歸入關東甲信越。',
   },
   {
     key: 'kansai-chugoku',
@@ -67,5 +68,12 @@ export const regions: Region[] = [
     },
     description: '可從大阪、京都、神戶等城市延伸，適合短天數或城市旅行搭配滑雪。',
   },
+  {
+    key: 'kyushu',
+    name: {
+      zhTw: '九州',
+      en: 'Kyushu',
+    },
+    description: '涵蓋福岡及九州各縣可延伸的滑雪與冬季旅行目的地，先保留為後續資料擴充區域。',
+  },
 ]
-
