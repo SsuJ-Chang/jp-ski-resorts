@@ -29,6 +29,16 @@ const regionStats = regions.map((region) => {
     examples: regionResorts.map((resort) => resort.data.name.zhTw),
   }
 })
+
+const mapRegionClass = {
+  hokkaido: 'map-region--hokkaido',
+  tohoku: 'map-region--tohoku',
+  'kanto-koshinetsu': 'map-region--kanto',
+  hokuriku: 'map-region--hokuriku',
+  chubu: 'map-region--chubu',
+  'kansai-chugoku': 'map-region--kansai',
+  kyushu: 'map-region--kyushu',
+} as const
 ---
 
 <BaseLayout title="日本滑雪場指南" bodyClass="home-page">
@@ -42,19 +52,44 @@ const regionStats = regions.map((region) => {
         </p>
       </div>
       <div class="hero__guide" aria-label="Japan ski region guide">
-        {regionStats.map((region, index) => (
-          <a
-            class={`region-strip region-strip--${region.tone}`}
-            href={withBasePath(`/regions/${region.key}/`)}
-            style={`--index: ${index}`}
-          >
-            <span>{region.name.zhTw}</span>
-            <small>
-              {region.count} 間
-              {region.examples.length > 0 && ` / ${region.examples.slice(0, 2).join('、')}`}
-            </small>
-          </a>
-        ))}
+        <input class="view-toggle-input" id="region-view-list" type="radio" name="region-view" checked />
+        <input class="view-toggle-input" id="region-view-map" type="radio" name="region-view" />
+
+        <div class="view-toggle" aria-label="Region view mode">
+          <label for="region-view-list">列表</label>
+          <label for="region-view-map">地圖</label>
+        </div>
+
+        <div class="region-list-view">
+          {regionStats.map((region, index) => (
+            <a
+              class={`region-strip region-strip--${region.tone}`}
+              href={withBasePath(`/regions/${region.key}/`)}
+              style={`--index: ${index}`}
+            >
+              <span>{region.name.zhTw}</span>
+              <small>
+                {region.count} 間
+                {region.examples.length > 0 && ` / ${region.examples.slice(0, 2).join('、')}`}
+              </small>
+            </a>
+          ))}
+        </div>
+
+        <div class="region-map-view" aria-label="日本滑雪分區地圖">
+          <div class="japan-region-map">
+            {regionStats.map((region) => (
+              <a
+                class={`map-region ${mapRegionClass[region.key]} region-strip--${region.tone}`}
+                href={withBasePath(`/regions/${region.key}/`)}
+                aria-label={`${region.name.zhTw}，目前收錄 ${region.count} 間滑雪場`}
+              >
+                <span>{region.name.zhTw}</span>
+                <small>{region.count} 間</small>
+              </a>
+            ))}
+          </div>
+        </div>
       </div>
     </section>
   </main>

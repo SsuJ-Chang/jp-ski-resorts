@@ -122,8 +122,61 @@ h1 {
 
 .hero__guide {
   display: grid;
+  gap: 12px;
+  padding: 4px 0;
+}
+
+.view-toggle-input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+
+.view-toggle {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 148px;
+  min-height: 34px;
+  padding: 3px;
+  border: 1px solid rgba(23, 33, 31, 0.16);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.42);
+  justify-self: end;
+}
+
+.view-toggle label {
+  display: grid;
+  place-items: center;
+  border-radius: 6px;
+  color: #334643;
+  cursor: pointer;
+  font-size: 0.86rem;
+  font-weight: 800;
+}
+
+#region-view-list:checked ~ .view-toggle label[for="region-view-list"],
+#region-view-map:checked ~ .view-toggle label[for="region-view-map"] {
+  background: rgba(255, 255, 255, 0.84);
+  box-shadow: 0 4px 16px rgba(23, 33, 31, 0.08);
+}
+
+.region-list-view {
+  display: grid;
   gap: 10px;
-  padding: 12px 0;
+}
+
+.region-map-view {
+  display: none;
+}
+
+#region-view-map:checked ~ .region-list-view {
+  display: none;
+}
+
+#region-view-map:checked ~ .region-map-view {
+  display: block;
 }
 
 .region-strip {
@@ -184,6 +237,92 @@ h1 {
 
 .region-strip--south {
   border-left: 6px solid #a75d63;
+}
+
+.japan-region-map {
+  position: relative;
+  height: 456px;
+}
+
+.map-region {
+  position: absolute;
+  display: grid;
+  align-content: center;
+  min-height: 58px;
+  padding: 10px 14px;
+  border: 1px solid rgba(23, 33, 31, 0.14);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.78);
+  box-shadow: 0 10px 34px rgba(23, 33, 31, 0.08);
+  color: inherit;
+  text-decoration: none;
+}
+
+.map-region:hover,
+.map-region:focus-visible {
+  background: rgba(255, 255, 255, 0.94);
+  outline: 2px solid rgba(29, 93, 100, 0.22);
+  outline-offset: 2px;
+}
+
+.map-region span {
+  font-size: 1rem;
+  font-weight: 900;
+}
+
+.map-region small {
+  color: #526660;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.map-region--hokkaido {
+  top: 0;
+  right: 12px;
+  width: 160px;
+  height: 78px;
+}
+
+.map-region--tohoku {
+  top: 92px;
+  right: 40px;
+  width: 138px;
+  height: 124px;
+}
+
+.map-region--kanto {
+  top: 232px;
+  right: 84px;
+  width: 156px;
+  height: 82px;
+}
+
+.map-region--hokuriku {
+  top: 204px;
+  right: 210px;
+  width: 132px;
+  height: 72px;
+}
+
+.map-region--chubu {
+  top: 300px;
+  right: 182px;
+  width: 142px;
+  height: 82px;
+}
+
+.map-region--kansai {
+  top: 346px;
+  right: 282px;
+  width: 156px;
+  height: 72px;
+}
+
+.map-region--kyushu {
+  top: 410px;
+  right: 342px;
+  width: 104px;
+  height: 68px;
 }
 
 .info-panel {
@@ -394,7 +533,7 @@ h1 {
 
   .hero {
     grid-template-columns: 1fr;
-    gap: 20px;
+    gap: 16px;
     min-height: auto;
   }
 
@@ -411,6 +550,10 @@ h1 {
   .hero__guide {
     gap: 8px;
     padding: 4px 0;
+  }
+
+  .view-toggle {
+    justify-self: start;
   }
 
   .region-strip {
@@ -438,6 +581,72 @@ h1 {
   .detail-panel:first-child {
     grid-row: auto;
   }
+
+  .japan-region-map {
+    height: 330px;
+  }
+
+  .map-region {
+    min-height: 44px;
+    padding: 7px 10px;
+  }
+
+  .map-region span {
+    font-size: 0.88rem;
+  }
+
+  .map-region small {
+    font-size: 0.72rem;
+  }
+
+  .map-region--hokkaido {
+    top: 0;
+    right: 0;
+    width: 120px;
+    height: 54px;
+  }
+
+  .map-region--tohoku {
+    top: 64px;
+    right: 20px;
+    width: 110px;
+    height: 78px;
+  }
+
+  .map-region--kanto {
+    top: 154px;
+    right: 60px;
+    width: 128px;
+    height: 58px;
+  }
+
+  .map-region--hokuriku {
+    top: 144px;
+    right: 150px;
+    width: 100px;
+    height: 52px;
+  }
+
+  .map-region--chubu {
+    top: 216px;
+    right: 115px;
+    width: 110px;
+    height: 58px;
+  }
+
+  .map-region--kansai {
+    top: 248px;
+    right: 170px;
+    width: 116px;
+    height: 52px;
+  }
+
+  .map-region--kyushu {
+    top: 292px;
+    right: 218px;
+    width: 78px;
+    height: 48px;
+  }
 }
 
 @media (max-width: 420px) {
@@ -452,5 +661,9 @@ h1 {
 
   .site-header__nav a {
     padding: 8px;
+  }
+
+  .japan-region-map {
+    height: 324px;
   }
 }
