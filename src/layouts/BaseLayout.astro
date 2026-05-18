@@ -5,12 +5,15 @@ import { withBasePath } from '../utils/paths'
 type Props = {
   title: string
   description?: string
+  bodyClass?: string
 }
 
 const {
   title,
   description = '給台灣滑雪者使用的日本滑雪場靜態資料與行程規劃入口。',
+  bodyClass,
 } = Astro.props
+const currentYear = new Date().getFullYear()
 ---
 
 <!doctype html>
@@ -22,13 +25,7 @@ const {
     <link rel="icon" type="image/svg+xml" href={withBasePath('/favicon.svg')} />
     <title>{title}</title>
   </head>
-  <body>
-    <img
-      class="page-background"
-      src={withBasePath('/images/mountain-lines.svg')}
-      alt=""
-      aria-hidden="true"
-    />
+  <body class={bodyClass}>
     <header class="site-header">
       <a class="site-header__brand" href={withBasePath('/')}>日本滑雪場指南</a>
       <nav class="site-header__nav" aria-label="Primary navigation">
@@ -37,5 +34,6 @@ const {
       </nav>
     </header>
     <slot />
+    <footer class="site-footer">© {currentYear} RJ. All rights reserved.</footer>
   </body>
 </html>
