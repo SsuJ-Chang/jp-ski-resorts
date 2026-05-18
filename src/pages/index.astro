@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content'
 import BaseLayout from '../layouts/BaseLayout.astro'
 import { regions } from '../data/regions'
 import { filterPublishedResorts } from '../utils/resorts'
+import { withBasePath } from '../utils/paths'
 
 const toneByRegion = {
   hokkaido: 'powder',
@@ -44,7 +45,7 @@ const regionStats = regions.map((region) => {
         {regionStats.map((region, index) => (
           <a
             class={`region-strip region-strip--${region.tone}`}
-            href={`${import.meta.env.BASE_URL}regions/${region.key}/`}
+            href={withBasePath(`/regions/${region.key}/`)}
             style={`--index: ${index}`}
           >
             <span>{region.name.zhTw}</span>

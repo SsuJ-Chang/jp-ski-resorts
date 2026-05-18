@@ -12,3 +12,4 @@
 - Added resort visibility statuses so draft or hidden resort entries can stay in the repository without appearing on public pages.
 - Updated GitHub Pages workflow actions for Node 24 compatibility and revised region taxonomy to place Hakuba Goryu in Kanto-Koshinetsu while adding Kyushu.
 - Added generated region pages and linked the home page region guide to them.
+- Fixed GitHub Pages base path handling for manually generated links and static asset references.

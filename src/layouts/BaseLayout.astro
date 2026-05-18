@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css'
+import { withBasePath } from '../utils/paths'
 
 type Props = {
   title: string
@@ -18,21 +19,21 @@ const {
     <meta charset="UTF-8" />
     <meta name="description" content={description} />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}favicon.svg`} />
+    <link rel="icon" type="image/svg+xml" href={withBasePath('/favicon.svg')} />
     <title>{title}</title>
   </head>
   <body>
     <img
       class="page-background"
-      src={`${import.meta.env.BASE_URL}images/mountain-lines.svg`}
+      src={withBasePath('/images/mountain-lines.svg')}
       alt=""
       aria-hidden="true"
     />
     <header class="site-header">
-      <a class="site-header__brand" href={import.meta.env.BASE_URL}>JP Ski Resorts</a>
+      <a class="site-header__brand" href={withBasePath('/')}>JP Ski Resorts</a>
       <nav class="site-header__nav" aria-label="Primary navigation">
-        <a href={import.meta.env.BASE_URL}>首頁</a>
-        <a href={`${import.meta.env.BASE_URL}resorts/`}>滑雪場</a>
+        <a href={withBasePath('/')}>首頁</a>
+        <a href={withBasePath('/resorts/')}>滑雪場</a>
       </nav>
     </header>
     <slot />

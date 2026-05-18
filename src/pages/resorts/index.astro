@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import { regions } from '../../data/regions'
 import { tagLabels } from '../../data/tags'
+import { withBasePath } from '../../utils/paths'
 import { filterPublishedResorts, sortResortsByEnglishName } from '../../utils/resorts'
 
 const resorts = sortResortsByEnglishName(filterPublishedResorts(await getCollection('resorts')))
@@ -34,7 +35,7 @@ const regionByKey = new Map(regions.map((region) => [region.key, region]))
                 {region?.name.zhTw ?? resort.data.region} / {resort.data.prefecture}
               </p>
               <h2>
-                <a href={`${import.meta.env.BASE_URL}resorts/${resort.id}/`}>
+                <a href={withBasePath(`/resorts/${resort.id}/`)}>
                   {resort.data.name.zhTw}
                 </a>
               </h2>
