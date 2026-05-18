@@ -29,7 +29,7 @@
 
 ## Phase 3: Core Pages
 
-- Home page with region guide and generated resort counts.
+- [x] Home page with region guide and generated resort counts.
 - [x] Resort index page.
 - Region pages.
 - [x] Resort detail pages.

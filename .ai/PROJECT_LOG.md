@@ -8,3 +8,4 @@
 - Added Astro static site skeleton, GitHub Pages workflow, npm scripts, and a minimal landing page.
 - Added Astro content collection schema, region/tag/ski-area constants, and three sample resort files.
 - Added minimal resort index and generated resort detail pages from the content collection.
+- Updated the home page region guide to use resort collection counts and replaced the Hakuba sample with Hakuba Goryu.

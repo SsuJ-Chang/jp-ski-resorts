@@ -1,14 +1,31 @@
 ---
+import { getCollection } from 'astro:content'
 import BaseLayout from '../layouts/BaseLayout.astro'
+import { regions } from '../data/regions'
 
-const regions = [
-  { name: '北海道', key: 'Hokkaido', tone: 'powder', examples: ['Niseko', 'Furano', 'Rusutsu'] },
-  { name: '東北', key: 'Tohoku', tone: 'snow', examples: ['Zao Onsen', 'Appi Kogen'] },
-  { name: '關東甲信越', key: 'Kanto-Koshinetsu', tone: 'access', examples: ['Nozawa Onsen', 'Yuzawa'] },
-  { name: '北陸', key: 'Hokuriku', tone: 'coast', examples: ['Hakusan area'] },
-  { name: '中部', key: 'Chubu', tone: 'alps', examples: ['Hakuba', 'Shiga Kogen'] },
-  { name: '關西 / 中國', key: 'Kansai / Chugoku', tone: 'weekend', examples: ['Biwako Valley'] },
-]
+const toneByRegion = {
+  hokkaido: 'powder',
+  tohoku: 'snow',
+  'kanto-koshinetsu': 'access',
+  hokuriku: 'coast',
+  chubu: 'alps',
+  'kansai-chugoku': 'weekend',
+} as const
+
+const resorts = await getCollection('resorts')
+
+const regionStats = regions.map((region) => {
+  const regionResorts = resorts
+    .filter((resort) => resort.data.region === region.key)
+    .sort((a, b) => a.data.name.zhTw.localeCompare(b.data.name.zhTw, 'zh-Hant-TW'))
+
+  return {
+    ...region,
+    tone: toneByRegion[region.key],
+    count: regionResorts.length,
+    examples: regionResorts.map((resort) => resort.data.name.zhTw),
+  }
+})
 ---
 
 <BaseLayout title="JP Ski Resorts">
@@ -21,11 +38,14 @@ const regions = [
           面向台灣滑雪者的日本滑雪場資料庫。先整理穩定資訊、區域導覽、交通摘要與官方連結，再逐步擴充成可維護的靜態網站。
         </p>
       </div>
-      <div class="hero__guide" aria-label="Japan ski region guide preview">
-        {regions.map((region, index) => (
+      <div class="hero__guide" aria-label="Japan ski region guide">
+        {regionStats.map((region, index) => (
           <article class={`region-strip region-strip--${region.tone}`} style={`--index: ${index}`}>
-            <span>{region.name}</span>
-            <small>{region.key}</small>
+            <span>{region.name.zhTw}</span>
+            <small>
+              {region.count} 間
+              {region.examples.length > 0 && ` / ${region.examples.slice(0, 2).join('、')}`}
+            </small>
           </article>
         ))}
       </div>
@@ -47,4 +67,3 @@ const regions = [
     </section>
   </main>
 </BaseLayout>
-
