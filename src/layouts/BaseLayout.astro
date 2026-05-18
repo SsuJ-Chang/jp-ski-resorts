@@ -28,6 +28,13 @@ const {
       alt=""
       aria-hidden="true"
     />
+    <header class="site-header">
+      <a class="site-header__brand" href={import.meta.env.BASE_URL}>JP Ski Resorts</a>
+      <nav class="site-header__nav" aria-label="Primary navigation">
+        <a href={import.meta.env.BASE_URL}>首頁</a>
+        <a href={`${import.meta.env.BASE_URL}resorts/`}>滑雪場</a>
+      </nav>
+    </header>
     <slot />
   </body>
 </html>

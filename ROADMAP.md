@@ -30,9 +30,9 @@
 ## Phase 3: Core Pages
 
 - Home page with region guide and generated resort counts.
-- Resort index page.
+- [x] Resort index page.
 - Region pages.
-- Resort detail pages.
+- [x] Resort detail pages.
 - Basic tag or access filters if they remain static and maintainable.
 
 ## Phase 4: Content Expansion
