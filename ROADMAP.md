@@ -30,6 +30,7 @@
 ## Phase 3: Core Pages
 
 - [x] Home page with region guide and generated resort counts.
+- [x] Home page list/map toggle with clickable seven-region Japan silhouette.
 - [x] Resort index page.
 - [x] Region pages.
 - [x] Resort detail pages.

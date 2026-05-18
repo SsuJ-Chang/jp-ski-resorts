@@ -14,3 +14,6 @@
 - Added generated region pages and linked the home page region guide to them.
 - Fixed GitHub Pages base path handling for manually generated links and static asset references.
 - Switched deployment configuration to the custom domain `https://jp-resorts.rj-tw.com/`.
+- Updated the public site title to `日本滑雪場指南`.
+- Removed temporary homepage development panels, simplified the homepage background, and added a dynamic copyright footer.
+- Added a homepage list/map toggle and refined the map view into a clickable seven-region Japan silhouette.
