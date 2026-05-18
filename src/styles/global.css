@@ -300,6 +300,14 @@ h1 {
     transform 160ms ease;
 }
 
+.map-region .map-region__detail {
+  fill: none;
+  pointer-events: none;
+  stroke: rgba(255, 255, 255, 0.9);
+  stroke-width: 3;
+  transition: none;
+}
+
 .map-region text {
   fill: #17211f;
   font-size: 15px;
@@ -321,6 +329,14 @@ h1 {
   filter: drop-shadow(0 12px 12px rgba(23, 33, 31, 0.18));
   stroke-width: 4;
   transform: scale(1.025);
+}
+
+.map-region:hover .map-region__detail,
+.map-region:focus-visible .map-region__detail,
+.map-region--active .map-region__detail {
+  fill: none;
+  stroke-width: 3;
+  transform: none;
 }
 
 .map-region--static path {
@@ -367,47 +383,6 @@ h1 {
 }
 
 .region-heading {
-  position: relative;
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
-  gap: 24px;
-  align-items: center;
-  isolation: isolate;
-}
-
-.region-heading::before {
-  content: '';
-  position: absolute;
-  inset: -16px -24px;
-  z-index: 0;
-  border-radius: 12px;
-  background:
-    radial-gradient(circle at 78% 30%, rgba(255, 255, 255, 0.24), transparent 42%),
-    linear-gradient(140deg, rgba(245, 247, 244, 0.74), rgba(215, 222, 216, 0.18));
-  opacity: 0.9;
-}
-
-.region-heading__map {
-  position: absolute;
-  top: 50%;
-  right: 0;
-  z-index: 1;
-  width: min(46vw, 360px);
-  transform: translateY(-50%);
-  opacity: 0.78;
-  pointer-events: none;
-}
-
-.region-heading__map .japan-region-map {
-  margin-left: 0;
-  margin-right: 0;
-  width: 100%;
-  height: 360px;
-}
-
-.region-heading > .page-heading {
-  position: relative;
-  z-index: 2;
   max-width: 720px;
 }
 
@@ -619,24 +594,8 @@ h1 {
   }
 
   .resort-grid,
-  .detail-grid,
-  .region-heading {
+  .detail-grid {
     grid-template-columns: 1fr;
-  }
-
-  .region-heading__map {
-    position: absolute;
-    top: 56%;
-    right: -10px;
-    width: min(100%, 320px);
-    transform: translateY(-50%);
-    justify-self: start;
-    opacity: 0.34;
-    padding-top: 0;
-  }
-
-  .region-heading::before {
-    inset: -12px -12px;
   }
 
   .detail-hero {
@@ -688,10 +647,6 @@ h1 {
   .japan-region-map {
     width: min(100%, 360px);
     height: 340px;
-  }
-
-  .japan-region-map--region {
-    height: 300px;
   }
 
   .map-region text {
