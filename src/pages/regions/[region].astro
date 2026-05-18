@@ -7,16 +7,6 @@ import { tagLabels } from '../../data/tags'
 import { filterPublishedResorts, sortResortsByEnglishName } from '../../utils/resorts'
 import { withBasePath } from '../../utils/paths'
 
-const toneByRegion = {
-  hokkaido: 'powder',
-  tohoku: 'snow',
-  'kanto-koshinetsu': 'access',
-  hokuriku: 'coast',
-  chubu: 'alps',
-  'kansai-chugoku': 'weekend',
-  kyushu: 'south',
-} as const
-
 export function getStaticPaths() {
   return regions.map((region) => ({
     params: { region: region.key },
@@ -29,12 +19,6 @@ const publishedResorts = filterPublishedResorts(await getCollection('resorts'))
 const resorts = sortResortsByEnglishName(
   publishedResorts.filter((resort) => resort.data.region === region.key),
 )
-
-const regionStats = regions.map((mapRegion) => ({
-  ...mapRegion,
-  tone: toneByRegion[mapRegion.key],
-  count: publishedResorts.filter((resort) => resort.data.region === mapRegion.key).length,
-}))
 ---
 
 <BaseLayout
@@ -49,13 +33,8 @@ const regionStats = regions.map((mapRegion) => ({
         <p>{region.description}</p>
         <p class="count-line">目前收錄 {resorts.length} 座滑雪場</p>
       </div>
-      <div class="region-heading__map" aria-label={`${region.name.zhTw} 在日本滑雪分區地圖的位置`}>
-        <JapanRegionMap
-          regions={regionStats}
-          activeRegion={region.key}
-          labelledBy={`${region.key}-map-title`}
-          compact
-        />
+      <div class="region-heading__map" aria-label={`${region.name.zhTw} 的獨立輪廓`}>
+        <JapanRegionMap mode="region" region={region} labelledBy={`${region.key}-map-title`} />
       </div>
     </section>
 

@@ -36,7 +36,7 @@ Initial navigation direction:
 
 - Home page with a Japan ski region guide
 - Home page can switch between a region list and clickable seven-region Japan map
-- Region pages with resort cards, summaries, and the current region highlighted on the map
+- Region pages with resort cards, summaries, and a single independent region contour
 - Resort detail pages with structured facts and official links
 - External Google Maps links for actual route planning
 

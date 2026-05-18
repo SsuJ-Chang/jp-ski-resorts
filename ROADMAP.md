@@ -31,7 +31,7 @@
 
 - [x] Home page with region guide and generated resort counts.
 - [x] Home page list/map toggle with clickable seven-region Japan silhouette.
-- [x] Region pages reuse the seven-region map with the current region highlighted.
+- [x] Region pages show a single independent contour for the current region.
 - [x] Resort index page.
 - [x] Region pages.
 - [x] Resort detail pages.

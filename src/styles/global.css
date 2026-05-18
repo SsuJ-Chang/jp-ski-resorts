@@ -270,9 +270,14 @@ h1 {
   overflow: visible;
 }
 
-.japan-region-map--compact {
+.japan-region-map--overview {
+  min-width: 420px;
+}
+
+.japan-region-map--region {
   width: min(100%, 360px);
   height: 360px;
+  opacity: 0.92;
 }
 
 .map-region {
@@ -318,13 +323,8 @@ h1 {
   transform: scale(1.025);
 }
 
-.japan-region-map--has-active .map-region:not(.map-region--active) {
-  opacity: 0.32;
-}
-
-.japan-region-map--has-active .map-region:not(.map-region--active):hover,
-.japan-region-map--has-active .map-region:not(.map-region--active):focus-visible {
-  opacity: 1;
+.map-region--static path {
+  opacity: 0.78;
 }
 
 .info-panel {
@@ -658,8 +658,8 @@ h1 {
     margin: 0 auto;
   }
 
-  .japan-region-map--compact {
-    height: 320px;
+  .japan-region-map--overview {
+    min-width: 0;
   }
 
   .map-region text {
@@ -690,7 +690,7 @@ h1 {
     height: 340px;
   }
 
-  .japan-region-map--compact {
+  .japan-region-map--region {
     height: 300px;
   }
 
