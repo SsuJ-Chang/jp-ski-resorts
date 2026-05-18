@@ -20,12 +20,12 @@
 
 ## Phase 2: Astro Setup
 
-- Initialize Astro as a fully static site.
-- Configure content collections.
+- [x] Initialize Astro as a fully static site.
+- [ ] Configure content collections.
 - Add resort Markdown or MDX files.
 - Add region, ski area, and tag constants.
-- Add build and typecheck scripts.
-- Prepare GitHub Pages deployment settings.
+- [x] Add build and typecheck scripts.
+- [x] Prepare GitHub Pages deployment settings.
 
 ## Phase 3: Core Pages
 
@@ -49,4 +49,3 @@
 - Check official links.
 - Confirm no `.local-ai/` files are committed.
 - Publish to GitHub Pages.
-

@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+
+const regions = [
+  { name: '北海道', key: 'Hokkaido', tone: 'powder', examples: ['Niseko', 'Furano', 'Rusutsu'] },
+  { name: '東北', key: 'Tohoku', tone: 'snow', examples: ['Zao Onsen', 'Appi Kogen'] },
+  { name: '關東甲信越', key: 'Kanto-Koshinetsu', tone: 'access', examples: ['Nozawa Onsen', 'Yuzawa'] },
+  { name: '北陸', key: 'Hokuriku', tone: 'coast', examples: ['Hakusan area'] },
+  { name: '中部', key: 'Chubu', tone: 'alps', examples: ['Hakuba', 'Shiga Kogen'] },
+  { name: '關西 / 中國', key: 'Kansai / Chugoku', tone: 'weekend', examples: ['Biwako Valley'] },
+]
+---
+
+<BaseLayout title="JP Ski Resorts">
+  <main class="site-shell">
+    <section class="hero" aria-labelledby="page-title">
+      <div class="hero__copy">
+        <p class="eyebrow">Static Japan ski guide</p>
+        <h1 id="page-title">JP Ski Resorts</h1>
+        <p class="hero__lead">
+          面向台灣滑雪者的日本滑雪場資料庫。先整理穩定資訊、區域導覽、交通摘要與官方連結，再逐步擴充成可維護的靜態網站。
+        </p>
+      </div>
+      <div class="hero__guide" aria-label="Japan ski region guide preview">
+        {regions.map((region, index) => (
+          <article class={`region-strip region-strip--${region.tone}`} style={`--index: ${index}`}>
+            <span>{region.name}</span>
+            <small>{region.key}</small>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="panel-grid" aria-label="Project foundation">
+      <article class="info-panel">
+        <h2>目前階段</h2>
+        <p>專案正在建立 Astro 靜態網站骨架，資料與 UI 會在後續分階段加入。</p>
+      </article>
+      <article class="info-panel">
+        <h2>核心原則</h2>
+        <p>不做即時雪況、後端、登入或爬蟲；不重新散布官方雪道圖檔案。</p>
+      </article>
+      <article class="info-panel">
+        <h2>下一批內容</h2>
+        <p>先建立內容 collections、區域資料與少量高品質滑雪場範例。</p>
+      </article>
+    </section>
+  </main>
+</BaseLayout>
+

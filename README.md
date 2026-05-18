@@ -57,3 +57,27 @@ The MVP avoids:
 - [.ai/PROJECT_RULES.md](.ai/PROJECT_RULES.md)
 - [.ai/WORKFLOW.md](.ai/WORKFLOW.md)
 
+## Local Development
+
+```bash
+npm install
+npm run dev
+```
+
+Useful scripts:
+
+- `npm run dev`: start the local Astro dev server.
+- `npm run build`: run `astro check` and build the static site.
+- `npm run preview`: preview the production build locally.
+
+## Deployment
+
+The site is configured for GitHub Pages at:
+
+```txt
+https://SsuJ-Chang.github.io/jp-ski-resorts/
+```
+
+The GitHub Actions workflow in `.github/workflows/deploy.yml` builds and deploys the site when changes are pushed to `main`.
+
+When switching to a custom domain, update `astro.config.mjs`, remove the project `base`, and add `public/CNAME`.
