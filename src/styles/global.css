@@ -183,13 +183,6 @@ h1 {
   border-left: 6px solid #a75d63;
 }
 
-.panel-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 16px;
-  margin-top: -32px;
-}
-
 .info-panel {
   min-height: 150px;
   padding: 22px;
@@ -395,11 +388,6 @@ h1 {
 
   .region-strip {
     transform: none;
-  }
-
-  .panel-grid {
-    grid-template-columns: 1fr;
-    margin-top: 28px;
   }
 
   .resort-grid,
