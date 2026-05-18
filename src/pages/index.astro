@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content'
 import BaseLayout from '../layouts/BaseLayout.astro'
+import JapanRegionMap from '../components/JapanRegionMap.astro'
 import { regions } from '../data/regions'
 import { filterPublishedResorts } from '../utils/resorts'
 import { withBasePath } from '../utils/paths'
@@ -29,54 +30,6 @@ const regionStats = regions.map((region) => {
     examples: regionResorts.map((resort) => resort.data.name.zhTw),
   }
 })
-
-const mapRegionClass = {
-  hokkaido: 'map-region--hokkaido',
-  tohoku: 'map-region--tohoku',
-  'kanto-koshinetsu': 'map-region--kanto',
-  hokuriku: 'map-region--hokuriku',
-  chubu: 'map-region--chubu',
-  'kansai-chugoku': 'map-region--kansai',
-  kyushu: 'map-region--kyushu',
-} as const
-
-const mapRegionShapes = {
-  hokkaido: {
-    path: 'M330 18 L404 8 L455 34 L442 84 L386 106 L329 84 L304 46 Z',
-    labelX: 378,
-    labelY: 58,
-  },
-  tohoku: {
-    path: 'M330 112 L398 98 L424 142 L410 202 L432 242 L390 284 L346 248 L330 192 Z',
-    labelX: 382,
-    labelY: 190,
-  },
-  'kanto-koshinetsu': {
-    path: 'M292 226 L350 246 L390 292 L360 344 L304 346 L264 302 Z',
-    labelX: 326,
-    labelY: 296,
-  },
-  hokuriku: {
-    path: 'M214 214 L292 226 L266 296 L204 282 L174 242 Z',
-    labelX: 234,
-    labelY: 252,
-  },
-  chubu: {
-    path: 'M206 288 L282 306 L304 354 L260 398 L188 374 L166 326 Z',
-    labelX: 236,
-    labelY: 344,
-  },
-  'kansai-chugoku': {
-    path: 'M72 334 L166 324 L190 378 L124 424 L42 390 Z',
-    labelX: 118,
-    labelY: 376,
-  },
-  kyushu: {
-    path: 'M34 422 L100 430 L122 488 L80 544 L24 516 L10 462 Z',
-    labelX: 66,
-    labelY: 480,
-  },
-} as const
 ---
 
 <BaseLayout title="日本滑雪場指南" bodyClass="home-page">
@@ -86,7 +39,7 @@ const mapRegionShapes = {
         <p class="eyebrow">Japan ski guide</p>
         <h1 id="page-title" class="hero-title">日本滑雪場指南</h1>
         <p class="hero__lead">
-          面向台灣滑雪者的日本滑雪場資料庫。先整理穩定資訊、區域導覽、交通摘要與官方連結，再逐步擴充成可維護的靜態網站。
+          用分區方式整理日本滑雪場資料，先從官方資訊、交通位置與雪場特色開始，逐步補上住宿、交通與行程規劃需要的內容。
         </p>
       </div>
       <div class="hero__guide" aria-label="Japan ski region guide">
@@ -107,7 +60,7 @@ const mapRegionShapes = {
             >
               <span>{region.name.zhTw}</span>
               <small>
-                {region.count} 間
+                {region.count} 座
                 {region.examples.length > 0 && ` / ${region.examples.slice(0, 2).join('、')}`}
               </small>
             </a>
@@ -115,22 +68,7 @@ const mapRegionShapes = {
         </div>
 
         <div class="region-map-view" aria-label="日本滑雪分區地圖">
-          <svg class="japan-region-map" viewBox="0 0 470 560" role="img" aria-labelledby="map-title">
-            <title id="map-title">日本滑雪分區地圖</title>
-            {regionStats.map((region) => (
-              <a
-                class={`map-region ${mapRegionClass[region.key]} region-strip--${region.tone}`}
-                href={withBasePath(`/regions/${region.key}/`)}
-                aria-label={`${region.name.zhTw}，目前收錄 ${region.count} 間滑雪場`}
-              >
-                <path d={mapRegionShapes[region.key].path} />
-                <text x={mapRegionShapes[region.key].labelX} y={mapRegionShapes[region.key].labelY}>
-                  <tspan>{region.name.zhTw}</tspan>
-                  <tspan x={mapRegionShapes[region.key].labelX} dy="18">{region.count} 間</tspan>
-                </text>
-              </a>
-            ))}
-          </svg>
+          <JapanRegionMap regions={regionStats} labelledBy="home-map-title" />
         </div>
       </div>
     </section>

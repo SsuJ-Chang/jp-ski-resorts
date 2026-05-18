@@ -1,10 +1,21 @@
 ---
 import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
+import JapanRegionMap from '../../components/JapanRegionMap.astro'
 import { regions } from '../../data/regions'
 import { tagLabels } from '../../data/tags'
 import { filterPublishedResorts, sortResortsByEnglishName } from '../../utils/resorts'
 import { withBasePath } from '../../utils/paths'
+
+const toneByRegion = {
+  hokkaido: 'powder',
+  tohoku: 'snow',
+  'kanto-koshinetsu': 'access',
+  hokuriku: 'coast',
+  chubu: 'alps',
+  'kansai-chugoku': 'weekend',
+  kyushu: 'south',
+} as const
 
 export function getStaticPaths() {
   return regions.map((region) => ({
@@ -14,11 +25,16 @@ export function getStaticPaths() {
 }
 
 const { region } = Astro.props
+const publishedResorts = filterPublishedResorts(await getCollection('resorts'))
 const resorts = sortResortsByEnglishName(
-  filterPublishedResorts(await getCollection('resorts')).filter(
-    (resort) => resort.data.region === region.key,
-  ),
+  publishedResorts.filter((resort) => resort.data.region === region.key),
 )
+
+const regionStats = regions.map((mapRegion) => ({
+  ...mapRegion,
+  tone: toneByRegion[mapRegion.key],
+  count: publishedResorts.filter((resort) => resort.data.region === mapRegion.key).length,
+}))
 ---
 
 <BaseLayout
@@ -26,11 +42,21 @@ const resorts = sortResortsByEnglishName(
   description={`${region.name.zhTw}滑雪場資料、官方連結與旅行規劃入口。`}
 >
   <main class="site-shell page-stack">
-    <section class="page-heading" aria-labelledby="page-title">
-      <p class="eyebrow">{region.name.en}</p>
-      <h1 id="page-title">{region.name.zhTw}</h1>
-      <p>{region.description}</p>
-      <p class="count-line">目前收錄 {resorts.length} 間滑雪場。</p>
+    <section class="region-heading" aria-labelledby="page-title">
+      <div class="page-heading">
+        <p class="eyebrow">{region.name.en}</p>
+        <h1 id="page-title">{region.name.zhTw}</h1>
+        <p>{region.description}</p>
+        <p class="count-line">目前收錄 {resorts.length} 座滑雪場</p>
+      </div>
+      <div class="region-heading__map" aria-label={`${region.name.zhTw} 在日本滑雪分區地圖的位置`}>
+        <JapanRegionMap
+          regions={regionStats}
+          activeRegion={region.key}
+          labelledBy={`${region.key}-map-title`}
+          compact
+        />
+      </div>
     </section>
 
     {
@@ -57,8 +83,8 @@ const resorts = sortResortsByEnglishName(
         </section>
       ) : (
         <section class="empty-state" aria-label="No resorts">
-          <h2>尚未收錄滑雪場</h2>
-          <p>這個區域已保留在分類中，後續會依資料品質與官方來源逐步加入內容。</p>
+          <h2>目前沒有收錄滑雪場</h2>
+          <p>這個分區的資料還在整理中，後續會依據官方資訊與旅行規劃需求逐步補上。</p>
         </section>
       )
     }

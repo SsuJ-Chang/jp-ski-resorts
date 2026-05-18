@@ -265,9 +265,14 @@ h1 {
 .japan-region-map {
   display: block;
   width: min(100%, 460px);
-  height: min(54vh, 500px);
+  height: min(58vh, 560px);
   margin-left: auto;
   overflow: visible;
+}
+
+.japan-region-map--compact {
+  width: min(100%, 360px);
+  height: 360px;
 }
 
 .map-region {
@@ -305,11 +310,21 @@ h1 {
 }
 
 .map-region:hover path,
-.map-region:focus-visible path {
+.map-region:focus-visible path,
+.map-region--active path {
   fill: var(--region-fill-hover);
   filter: drop-shadow(0 12px 12px rgba(23, 33, 31, 0.18));
   stroke-width: 4;
   transform: scale(1.025);
+}
+
+.japan-region-map--has-active .map-region:not(.map-region--active) {
+  opacity: 0.32;
+}
+
+.japan-region-map--has-active .map-region:not(.map-region--active):hover,
+.japan-region-map--has-active .map-region:not(.map-region--active):focus-visible {
+  opacity: 1;
 }
 
 .info-panel {
@@ -349,6 +364,19 @@ h1 {
 
 .count-line {
   font-weight: 800;
+}
+
+.region-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
+  gap: 24px;
+  align-items: center;
+}
+
+.region-heading__map {
+  justify-self: end;
+  width: 100%;
+  padding: 10px 0;
 }
 
 .resort-grid {
@@ -559,8 +587,14 @@ h1 {
   }
 
   .resort-grid,
-  .detail-grid {
+  .detail-grid,
+  .region-heading {
     grid-template-columns: 1fr;
+  }
+
+  .region-heading__map {
+    justify-self: center;
+    max-width: 360px;
   }
 
   .detail-hero {
@@ -578,8 +612,12 @@ h1 {
 
   .japan-region-map {
     width: min(100%, 420px);
-    height: 330px;
+    height: 360px;
     margin: 0 auto;
+  }
+
+  .japan-region-map--compact {
+    height: 320px;
   }
 
   .map-region text {
@@ -607,7 +645,11 @@ h1 {
 
   .japan-region-map {
     width: min(100%, 360px);
-    height: 310px;
+    height: 340px;
+  }
+
+  .japan-region-map--compact {
+    height: 300px;
   }
 
   .map-region text {

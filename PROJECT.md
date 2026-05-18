@@ -35,7 +35,8 @@ The site should help users answer questions like:
 Initial navigation direction:
 
 - Home page with a Japan ski region guide
-- Region pages with resort cards and summaries
+- Home page can switch between a region list and clickable seven-region Japan map
+- Region pages with resort cards, summaries, and the current region highlighted on the map
 - Resort detail pages with structured facts and official links
 - External Google Maps links for actual route planning
 

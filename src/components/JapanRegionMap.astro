@@ -1,0 +1,105 @@
+---
+import type { RegionKey } from '../data/regions'
+import { withBasePath } from '../utils/paths'
+
+type MapRegion = {
+  key: RegionKey
+  name: {
+    zhTw: string
+  }
+  tone: string
+  count: number
+}
+
+type Props = {
+  regions: MapRegion[]
+  activeRegion?: RegionKey
+  labelledBy?: string
+  compact?: boolean
+}
+
+const { regions, activeRegion, labelledBy = 'map-title', compact = false } = Astro.props
+
+const mapRegionClass = {
+  hokkaido: 'map-region--hokkaido',
+  tohoku: 'map-region--tohoku',
+  'kanto-koshinetsu': 'map-region--kanto',
+  hokuriku: 'map-region--hokuriku',
+  chubu: 'map-region--chubu',
+  'kansai-chugoku': 'map-region--kansai',
+  kyushu: 'map-region--kyushu',
+} as const
+
+const mapRegionShapes = {
+  hokkaido: {
+    path:
+      'M332 38 C386 18 444 31 479 66 C456 83 454 116 425 128 C392 143 357 126 324 115 C297 106 284 79 299 58 C307 48 319 43 332 38 Z',
+    labelX: 385,
+    labelY: 86,
+  },
+  tohoku: {
+    path:
+      'M327 144 C360 133 397 140 413 166 C426 188 407 208 415 232 C422 254 445 273 432 301 C419 328 384 340 358 325 C332 309 339 278 323 256 C310 237 291 219 298 196 C304 174 309 153 327 144 Z',
+    labelX: 371,
+    labelY: 235,
+  },
+  'kanto-koshinetsu': {
+    path:
+      'M270 272 C299 254 335 262 358 292 C374 313 405 324 397 350 C388 380 347 391 318 379 C292 368 264 386 246 360 C228 334 237 292 270 272 Z',
+    labelX: 321,
+    labelY: 333,
+  },
+  hokuriku: {
+    path:
+      'M217 286 C238 267 267 264 292 276 C283 299 271 324 255 345 C230 339 202 335 184 318 C192 305 204 295 217 286 Z',
+    labelX: 238,
+    labelY: 315,
+  },
+  chubu: {
+    path:
+      'M212 337 C241 326 276 338 297 362 C313 380 301 407 280 423 C255 442 222 430 197 414 C174 399 169 367 190 350 C196 345 203 341 212 337 Z',
+    labelX: 244,
+    labelY: 388,
+  },
+  'kansai-chugoku': {
+    path:
+      'M63 390 C101 364 151 354 192 371 C210 379 215 405 203 423 C184 452 140 461 107 481 C78 498 39 491 25 464 C13 439 34 410 63 390 Z',
+    labelX: 124,
+    labelY: 427,
+  },
+  kyushu: {
+    path:
+      'M60 503 C91 490 126 506 139 539 C151 569 136 606 107 628 C78 650 39 636 23 606 C8 578 20 532 60 503 Z',
+    labelX: 80,
+    labelY: 570,
+  },
+} as const
+---
+
+<svg
+  class:list={['japan-region-map', compact && 'japan-region-map--compact', activeRegion && 'japan-region-map--has-active']}
+  viewBox="0 0 500 670"
+  role="img"
+  aria-labelledby={labelledBy}
+>
+  <title id={labelledBy}>日本滑雪分區地圖</title>
+  {regions.map((region) => (
+    <a
+      class:list={[
+        'map-region',
+        mapRegionClass[region.key],
+        `region-strip--${region.tone}`,
+        activeRegion === region.key && 'map-region--active',
+      ]}
+      href={withBasePath(`/regions/${region.key}/`)}
+      aria-current={activeRegion === region.key ? 'page' : undefined}
+      aria-label={`${region.name.zhTw}，收錄 ${region.count} 座滑雪場`}
+    >
+      <path d={mapRegionShapes[region.key].path} />
+      <text x={mapRegionShapes[region.key].labelX} y={mapRegionShapes[region.key].labelY}>
+        <tspan>{region.name.zhTw}</tspan>
+        <tspan x={mapRegionShapes[region.key].labelX} dy="18">{region.count} 座</tspan>
+      </text>
+    </a>
+  ))}
+</svg>
