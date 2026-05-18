@@ -212,117 +212,102 @@ h1 {
 }
 
 .region-strip--powder {
-  border-left: 6px solid #3d7e8a;
+  --region-color: #1f8a9e;
+  --region-fill: #74c7d3;
+  --region-fill-hover: #43adbf;
+  border-left: 6px solid var(--region-color);
 }
 
 .region-strip--snow {
-  border-left: 6px solid #8aa5b2;
+  --region-color: #4b77be;
+  --region-fill: #9cb8e5;
+  --region-fill-hover: #6f95d3;
+  border-left: 6px solid var(--region-color);
 }
 
 .region-strip--access {
-  border-left: 6px solid #ce6f44;
+  --region-color: #d94f3d;
+  --region-fill: #ee9a8e;
+  --region-fill-hover: #e56f60;
+  border-left: 6px solid var(--region-color);
 }
 
 .region-strip--coast {
-  border-left: 6px solid #5f8a72;
+  --region-color: #2e9d62;
+  --region-fill: #84d1a4;
+  --region-fill-hover: #55b97f;
+  border-left: 6px solid var(--region-color);
 }
 
 .region-strip--alps {
-  border-left: 6px solid #6d6f8f;
+  --region-color: #7c5cc4;
+  --region-fill: #b7a5e2;
+  --region-fill-hover: #967bd3;
+  border-left: 6px solid var(--region-color);
 }
 
 .region-strip--weekend {
-  border-left: 6px solid #b79645;
+  --region-color: #c8891f;
+  --region-fill: #e5bf6c;
+  --region-fill-hover: #d9a23b;
+  border-left: 6px solid var(--region-color);
 }
 
 .region-strip--south {
-  border-left: 6px solid #a75d63;
+  --region-color: #c7477a;
+  --region-fill: #e797b9;
+  --region-fill-hover: #d96a99;
+  border-left: 6px solid var(--region-color);
 }
 
 .japan-region-map {
-  position: relative;
-  height: 456px;
+  display: block;
+  width: min(100%, 460px);
+  height: min(54vh, 500px);
+  margin-left: auto;
+  overflow: visible;
 }
 
 .map-region {
-  position: absolute;
-  display: grid;
-  align-content: center;
-  min-height: 58px;
-  padding: 10px 14px;
-  border: 1px solid rgba(23, 33, 31, 0.14);
-  border-radius: 8px;
-  background: rgba(255, 255, 255, 0.78);
-  box-shadow: 0 10px 34px rgba(23, 33, 31, 0.08);
-  color: inherit;
+  color: #17211f;
+  cursor: pointer;
   text-decoration: none;
 }
 
-.map-region:hover,
-.map-region:focus-visible {
-  background: rgba(255, 255, 255, 0.94);
-  outline: 2px solid rgba(29, 93, 100, 0.22);
-  outline-offset: 2px;
+.map-region path {
+  fill: var(--region-fill);
+  stroke: rgba(23, 33, 31, 0.7);
+  stroke-linejoin: round;
+  stroke-width: 3;
+  transform-box: fill-box;
+  transform-origin: center;
+  transition:
+    fill 160ms ease,
+    filter 160ms ease,
+    stroke-width 160ms ease,
+    transform 160ms ease;
 }
 
-.map-region span {
-  font-size: 1rem;
+.map-region text {
+  fill: #17211f;
+  font-size: 15px;
   font-weight: 900;
+  pointer-events: none;
+  text-anchor: middle;
 }
 
-.map-region small {
-  color: #526660;
-  font-size: 0.78rem;
+.map-region tspan + tspan {
+  fill: #334643;
+  font-size: 12px;
   font-weight: 800;
 }
 
-.map-region--hokkaido {
-  top: 0;
-  right: 12px;
-  width: 160px;
-  height: 78px;
-}
-
-.map-region--tohoku {
-  top: 92px;
-  right: 40px;
-  width: 138px;
-  height: 124px;
-}
-
-.map-region--kanto {
-  top: 232px;
-  right: 84px;
-  width: 156px;
-  height: 82px;
-}
-
-.map-region--hokuriku {
-  top: 204px;
-  right: 210px;
-  width: 132px;
-  height: 72px;
-}
-
-.map-region--chubu {
-  top: 300px;
-  right: 182px;
-  width: 142px;
-  height: 82px;
-}
-
-.map-region--kansai {
-  top: 346px;
-  right: 282px;
-  width: 156px;
-  height: 72px;
-}
-
-.map-region--kyushu {
-  top: 410px;
-  right: 342px;
-  width: 104px;
-  height: 68px;
+.map-region:hover path,
+.map-region:focus-visible path {
+  fill: var(--region-fill-hover);
+  filter: drop-shadow(0 12px 12px rgba(23, 33, 31, 0.18));
+  stroke-width: 4;
+  transform: scale(1.025);
 }
 
 .info-panel {
@@ -583,69 +568,17 @@ h1 {
   }
 
   .japan-region-map {
+    width: min(100%, 420px);
     height: 330px;
+    margin: 0 auto;
   }
 
-  .map-region {
-    min-height: 44px;
-    padding: 7px 10px;
+  .map-region text {
+    font-size: 14px;
   }
 
-  .map-region span {
-    font-size: 0.88rem;
-  }
-
-  .map-region small {
-    font-size: 0.72rem;
-  }
-
-  .map-region--hokkaido {
-    top: 0;
-    right: 0;
-    width: 120px;
-    height: 54px;
-  }
-
-  .map-region--tohoku {
-    top: 64px;
-    right: 20px;
-    width: 110px;
-    height: 78px;
-  }
-
-  .map-region--kanto {
-    top: 154px;
-    right: 60px;
-    width: 128px;
-    height: 58px;
-  }
-
-  .map-region--hokuriku {
-    top: 144px;
-    right: 150px;
-    width: 100px;
-    height: 52px;
-  }
-
-  .map-region--chubu {
-    top: 216px;
-    right: 115px;
-    width: 110px;
-    height: 58px;
-  }
-
-  .map-region--kansai {
-    top: 248px;
-    right: 170px;
-    width: 116px;
-    height: 52px;
-  }
-
-  .map-region--kyushu {
-    top: 292px;
-    right: 218px;
-    width: 78px;
-    height: 48px;
+  .map-region tspan + tspan {
+    font-size: 11px;
   }
 }
 
@@ -664,6 +597,11 @@ h1 {
   }
 
   .japan-region-map {
-    height: 324px;
+    width: min(100%, 360px);
+    height: 310px;
+  }
+
+  .map-region text {
+    font-size: 13px;
   }
 }
