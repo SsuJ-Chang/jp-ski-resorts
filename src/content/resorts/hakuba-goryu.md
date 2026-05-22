@@ -9,6 +9,7 @@ prefecture: 長野縣
 skiArea: hakuba
 tags:
   - beginner_friendly
+  - night_skiing
   - no_car_accessible
   - resort_village
   - snowboard_friendly

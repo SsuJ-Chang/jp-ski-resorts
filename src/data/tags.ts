@@ -3,6 +3,7 @@ export const resortTags = [
   'family_friendly',
   'good_for_first_japan_trip',
   'large_ski_area',
+  'night_skiing',
   'no_car_accessible',
   'onsen',
   'powder',
@@ -18,6 +19,7 @@ export const tagLabels: Record<ResortTag, string> = {
   family_friendly: '親子友善',
   good_for_first_japan_trip: '第一次日本滑雪可考慮',
   large_ski_area: '大型雪場',
+  night_skiing: '夜滑',
   no_car_accessible: '可不自駕',
   onsen: '溫泉',
   powder: '粉雪',
@@ -25,4 +27,3 @@ export const tagLabels: Record<ResortTag, string> = {
   snowboard_friendly: '單板友善',
   tree_run: '樹林滑行',
 }
-

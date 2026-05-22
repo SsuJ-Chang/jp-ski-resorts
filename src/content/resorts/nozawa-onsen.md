@@ -9,6 +9,7 @@ prefecture: 長野縣
 skiArea: nozawa-onsen
 tags:
   - onsen
+  - night_skiing
   - no_car_accessible
   - good_for_first_japan_trip
   - resort_village
