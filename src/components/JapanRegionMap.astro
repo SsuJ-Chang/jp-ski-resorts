@@ -1,5 +1,6 @@
 ---
 import type { RegionKey } from '../data/regions'
+import { mapRegionShapes } from '../data/mapRegions'
 import { withBasePath } from '../utils/paths'
 
 type MapRegion = {
@@ -47,91 +48,10 @@ const mapRegionClass = {
   kyushu: 'map-region--kyushu',
 } as const
 
-const regionShapes = {
-  hokkaido: {
-    path:
-      'M600 88 L638 88 L720 154 L752 154 L752 214 L708 214 L674 236 L636 214 L616 214 L616 232 L570 232 L570 204 L602 178 Z',
-    details: ['M616 214 L636 214 L674 236', 'M720 154 L752 154'],
-    labelX: 664,
-    labelY: 170,
-  },
-  tohoku: {
-    path:
-      'M570 258 L600 258 L600 268 L626 268 L626 246 L648 246 L648 268 L678 286 L678 344 L670 354 L670 400 L678 410 L678 486 L642 486 L642 452 L620 452 L620 486 L570 486 L570 454 L550 454 L550 400 L570 380 Z',
-    details: [
-      'M570 300 L678 300',
-      'M570 348 L670 348',
-      'M570 400 L678 400',
-      'M570 440 L678 440',
-      'M618 300 L618 440',
-      'M642 452 L642 486',
-    ],
-    labelX: 622,
-    labelY: 364,
-  },
-  'kanto-koshinetsu': {
-    path:
-      'M490 430 L550 430 L550 486 L570 486 L570 532 L620 532 L620 566 L596 566 L596 552 L570 552 L544 568 L494 568 L494 532 L466 532 L466 486 L490 486 Z',
-    details: [
-      'M520 430 L520 532',
-      'M550 486 L570 486',
-      'M494 532 L570 532',
-      'M570 552 L596 552',
-    ],
-    labelX: 538,
-    labelY: 520,
-  },
-  hokuriku: {
-    path:
-      'M438 426 L490 426 L490 486 L464 486 L464 508 L390 508 L390 476 L438 476 Z',
-    details: ['M464 426 L464 508', 'M390 486 L490 486'],
-    labelX: 442,
-    labelY: 466,
-  },
-  chubu: {
-    path:
-      'M320 496 L390 496 L390 508 L464 508 L464 554 L452 554 L452 606 L424 606 L424 584 L392 584 L392 606 L370 606 L370 566 L340 566 L340 536 L320 536 Z',
-    details: [
-      'M340 496 L340 566',
-      'M390 508 L390 584',
-      'M424 508 L424 606',
-      'M340 536 L464 536',
-      'M370 566 L452 566',
-    ],
-    labelX: 402,
-    labelY: 548,
-  },
-  'kansai-chugoku': {
-    path:
-      'M198 520 L320 520 L320 536 L370 536 L370 566 L392 566 L392 606 L340 606 L340 584 L274 584 L274 604 L198 604 L198 578 L160 578 L160 520 Z',
-    details: [
-      'M198 554 L370 554',
-      'M238 520 L238 584',
-      'M278 520 L278 584',
-      'M320 536 L320 584',
-      'M340 566 L340 606',
-    ],
-    labelX: 276,
-    labelY: 560,
-  },
-  kyushu: {
-    path:
-      'M84 542 L188 542 L188 582 L176 582 L176 646 L146 666 L146 646 L118 646 L118 666 L88 666 L88 596 L102 596 L102 584 L84 584 Z M52 634 L70 634 L70 676 L52 676 Z',
-    details: [
-      'M110 542 L110 584',
-      'M146 542 L146 666',
-      'M176 582 L188 582',
-      'M88 596 L176 596',
-      'M118 646 L146 646',
-    ],
-    labelX: 134,
-    labelY: 606,
-  },
-} as const
-
 const overviewRegions = mode === 'overview' ? regions : []
-const regionShape = region ? regionShapes[region.key] : null
+const regionShape = region ? mapRegionShapes[region.key] : null
 const regionTone = region ? toneByRegion[region.key] : null
+const viewBox = mode === 'region' && regionShape ? regionShape.viewBox : '0 0 800 720'
 ---
 
 <svg
@@ -139,7 +59,7 @@ const regionTone = region ? toneByRegion[region.key] : null
     'japan-region-map',
     mode === 'overview' ? 'japan-region-map--overview' : 'japan-region-map--region',
   ]}
-  viewBox="0 0 800 720"
+  viewBox={viewBox}
   role="img"
   aria-labelledby={labelledBy}
 >
@@ -156,13 +76,10 @@ const regionTone = region ? toneByRegion[region.key] : null
           href={withBasePath(`/regions/${item.key}/`)}
           aria-label={`${item.name.zhTw}，收錄 ${item.count} 座滑雪場`}
         >
-          <path d={regionShapes[item.key].path} />
-          {regionShapes[item.key].details?.map((detailPath) => (
-            <path class="map-region__detail" d={detailPath} />
-          ))}
-          <text x={regionShapes[item.key].labelX} y={regionShapes[item.key].labelY}>
+          <path d={mapRegionShapes[item.key].path} />
+          <text x={mapRegionShapes[item.key].labelX} y={mapRegionShapes[item.key].labelY}>
             <tspan>{item.name.zhTw}</tspan>
-            <tspan x={regionShapes[item.key].labelX} dy="18">
+            <tspan x={mapRegionShapes[item.key].labelX} dy="18">
               {item.count} 座
             </tspan>
           </text>
@@ -180,9 +97,6 @@ const regionTone = region ? toneByRegion[region.key] : null
         aria-label={`${region.name.zhTw} 的獨立輪廓`}
       >
         <path d={regionShape.path} />
-        {regionShape.details?.map((detailPath) => (
-          <path class="map-region__detail" d={detailPath} />
-        ))}
       </g>
     ) : null
   }

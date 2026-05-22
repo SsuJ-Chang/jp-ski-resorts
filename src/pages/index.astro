@@ -61,7 +61,12 @@ const regionStats = regions.map((region) => {
               <span>{region.name.zhTw}</span>
               <small>
                 {region.count} 座
-                {region.examples.length > 0 && ` / ${region.examples.slice(0, 2).join('、')}`}
+                {region.examples.length > 0 && (
+                  <span class="region-strip__examples">
+                    {' '}
+                    / {region.examples.slice(0, 2).join('、')}
+                  </span>
+                )}
               </small>
             </a>
           ))}

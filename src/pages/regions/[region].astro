@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
+import JapanRegionMap from '../../components/JapanRegionMap.astro'
 import { regions } from '../../data/regions'
 import { tagLabels } from '../../data/tags'
 import { filterPublishedResorts, sortResortsByEnglishName } from '../../utils/resorts'
@@ -25,13 +26,14 @@ const resorts = sortResortsByEnglishName(
   description={`${region.name.zhTw}滑雪場資料、官方連結與旅行規劃入口。`}
 >
   <main class="site-shell page-stack">
-    <section class="region-heading" aria-labelledby="page-title">
+    <section class="region-heading region-heading--with-map" aria-labelledby="page-title">
       <div class="page-heading">
         <p class="eyebrow">{region.name.en}</p>
         <h1 id="page-title">{region.name.zhTw}</h1>
         <p>{region.description}</p>
         <p class="count-line">目前收錄 {resorts.length} 座滑雪場</p>
       </div>
+      <JapanRegionMap mode="region" region={region} labelledBy={`${region.key}-map-title`} />
     </section>
 
     {
