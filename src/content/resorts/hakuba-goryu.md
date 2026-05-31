@@ -66,6 +66,11 @@ tickets:
       audience: 成人 / 兒童
       price: 成人 ¥6,500、兒童 ¥3,000
       note: Toomi Slope 與 Iimori Slope，18:00-21:30
+snowWeather:
+  title: 白馬五龍滑雪場雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/34811/
+  note: 即時雪況、天氣與積雪資訊請以 Weathernews 頁面為準。
 courses:
   courseInfoPage: https://www.hakubaescal.com/winter-en/gelande/
   summary: 白馬五龍與 Hakuba47 共通雪道區域，後續可逐條補上雪道名稱、難度、坡度與影片連結。

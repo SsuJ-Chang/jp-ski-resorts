@@ -44,6 +44,13 @@ const ticketPlanSchema = z.object({
   note: z.string().optional(),
 })
 
+const snowWeatherSchema = z.object({
+  title: z.string(),
+  provider: z.string().optional(),
+  url: z.url(),
+  note: z.string().optional(),
+})
+
 const courseDetailSchema = z.object({
   name: z.string(),
   difficulty: z.enum(['beginner', 'intermediate', 'advanced', 'expert', 'ungroomed', 'mixed']),
@@ -119,6 +126,7 @@ const resorts = defineCollection({
         plans: z.array(ticketPlanSchema).min(1),
       })
       .optional(),
+    snowWeather: snowWeatherSchema.optional(),
     location: z
       .object({
         latitude: z.number(),

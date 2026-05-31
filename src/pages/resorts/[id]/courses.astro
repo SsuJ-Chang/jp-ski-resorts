@@ -62,10 +62,8 @@ const courseDetails = resort.data.courses?.details ?? []
             {resort.data.trailMaps.map((map) => (
               <li>
                 <div>
-                  <strong>{map.label}</strong>
-                  <span>{[map.language, map.season].filter(Boolean).join(' / ')}</span>
+                  <a href={map.url} target="_blank" rel="noreferrer">{map.label}</a>
                 </div>
-                <a href={map.url} target="_blank" rel="noreferrer">開啟 PDF</a>
               </li>
             ))}
           </ul>

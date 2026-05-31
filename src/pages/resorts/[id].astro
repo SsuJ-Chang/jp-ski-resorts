@@ -19,14 +19,6 @@ const { resort } = Astro.props
 const { Content } = await render(resort)
 const region = regions.find((item) => item.key === resort.data.region)
 
-const primaryLinks = [
-  ['官方網站', resort.data.links.official],
-  ['交通資訊', resort.data.links.access],
-  ['雪道圖', resort.data.links.trailMapPage],
-  ['票券資訊', resort.data.links.ticket],
-  ['Google Maps', resort.data.links.googleMaps],
-].filter((item): item is [string, string] => Boolean(item[1]))
-
 const hasExternalContent =
   (resort.data.externalContent?.blogs?.length ?? 0) > 0 ||
   (resort.data.externalContent?.vlogs?.length ?? 0) > 0
@@ -53,15 +45,6 @@ const hasExternalContent =
           <span>{tagLabels[tag]}</span>
         ))}
       </div>
-    </section>
-
-    <section class="resort-actions" aria-label="主要連結">
-      {primaryLinks.map(([label, url]) => (
-        <a href={url} target="_blank" rel="noreferrer">{label}</a>
-      ))}
-      {resort.data.courses?.courseInfoPage && (
-        <a href={withBasePath(`/resorts/${resort.id}/courses/`)}>雪道資訊</a>
-      )}
     </section>
 
     <section class="resort-detail-layout">
@@ -158,7 +141,6 @@ const hasExternalContent =
                 </article>
               ))}
             </div>
-            {resort.data.tickets.note && <p class="panel-note">{resort.data.tickets.note}</p>}
           </section>
         )
       }
@@ -171,16 +153,35 @@ const hasExternalContent =
               {resort.data.trailMaps.map((map) => (
                 <li>
                   <div>
-                    <strong>{map.label}</strong>
-                    <span>{[map.language, map.season].filter(Boolean).join(' / ')}</span>
+                    <a href={map.url} target="_blank" rel="noreferrer">{map.label}</a>
                   </div>
-                  <a href={map.url} target="_blank" rel="noreferrer">開啟 PDF</a>
                 </li>
               ))}
             </ul>
           </section>
         )
       }
+
+      <section class="info-panel detail-panel">
+        <h2>雪況天氣</h2>
+        {
+          resort.data.snowWeather ? (
+            <>
+              <p class="panel-note">{resort.data.snowWeather.note ?? '雪況與天氣資訊請以外部頁面為準。'}</p>
+              <div class="inline-actions">
+                <a href={resort.data.snowWeather.url} target="_blank" rel="noreferrer">
+                  {resort.data.snowWeather.title}
+                </a>
+              </div>
+              {resort.data.snowWeather.provider && (
+                <p class="resource-provider">資料來源：{resort.data.snowWeather.provider}</p>
+              )}
+            </>
+          ) : (
+            <p class="panel-note">雪況天氣連結待補。</p>
+          )
+        }
+      </section>
 
       {
         resort.data.courses?.courseInfoPage && (
@@ -228,17 +229,6 @@ const hasExternalContent =
           </section>
         )
       }
-
-      <aside class="info-panel detail-panel">
-        <h2>資料來源</h2>
-        <ul class="link-list">
-          {resort.data.sources.map((source) => (
-            <li>
-              <a href={source.url} target="_blank" rel="noreferrer">{source.label}</a>
-            </li>
-          ))}
-        </ul>
-      </aside>
     </section>
   </main>
 </BaseLayout>

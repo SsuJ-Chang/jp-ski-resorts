@@ -481,8 +481,7 @@ h1 {
 
 .resort-actions a,
 .inline-actions a,
-.section-heading-row a,
-.resource-list a {
+.section-heading-row a {
   display: inline-flex;
   align-items: center;
   min-height: 34px;
@@ -664,10 +663,6 @@ h1 {
 }
 
 .resource-list li {
-  display: flex;
-  gap: 12px;
-  justify-content: space-between;
-  align-items: center;
   padding: 12px 0;
   border-bottom: 1px solid rgba(23, 33, 31, 0.08);
 }
@@ -682,7 +677,20 @@ h1 {
   min-width: 0;
 }
 
+.resource-list a {
+  color: #1d5d64;
+  font-weight: 900;
+  text-decoration-color: rgba(29, 93, 100, 0.28);
+  text-underline-offset: 4px;
+}
+
 .resource-list span {
+  color: #526660;
+  font-size: 0.86rem;
+}
+
+.resource-provider {
+  margin: 12px 0 0;
   color: #526660;
   font-size: 0.86rem;
 }
