@@ -48,6 +48,18 @@ const snowWeatherSchema = z.object({
   title: z.string(),
   provider: z.string().optional(),
   url: z.url(),
+  snowDepth: z.string().optional(),
+  updatedAt: z.string().optional(),
+  forecast: z
+    .array(
+      z.object({
+        date: z.string(),
+        weather: z.string(),
+        low: z.string(),
+        high: z.string(),
+      }),
+    )
+    .optional(),
   note: z.string().optional(),
 })
 

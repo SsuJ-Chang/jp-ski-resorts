@@ -34,6 +34,10 @@ a {
   color: inherit;
 }
 
+a:visited {
+  color: inherit;
+}
+
 .site-header {
   position: sticky;
   top: 0;
@@ -664,7 +668,6 @@ h1 {
 
 .resource-list li {
   padding: 12px 0;
-  border-bottom: 1px solid rgba(23, 33, 31, 0.08);
 }
 
 .resource-list li:last-child {
@@ -693,6 +696,57 @@ h1 {
   margin: 12px 0 0;
   color: #526660;
   font-size: 0.86rem;
+}
+
+.resource-provider a {
+  color: #1d5d64;
+  font-weight: 800;
+  text-decoration-color: rgba(29, 93, 100, 0.28);
+  text-underline-offset: 4px;
+}
+
+.resource-provider a:visited {
+  color: #1d5d64;
+}
+
+.weather-summary {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.weather-summary div,
+.weather-grid article {
+  display: grid;
+  gap: 5px;
+  padding: 14px;
+  border: 1px solid rgba(23, 33, 31, 0.1);
+  border-radius: 8px;
+  background: rgba(245, 247, 244, 0.76);
+}
+
+.weather-summary span,
+.weather-grid span,
+.weather-grid small {
+  color: #526660;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.weather-summary strong,
+.weather-grid strong {
+  color: #17211f;
+}
+
+.weather-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.weather-grid article {
+  min-height: 96px;
 }
 
 .inline-actions {
@@ -901,8 +955,13 @@ h1 {
   }
 
   .ticket-grid,
-  .course-card {
+  .course-card,
+  .weather-summary {
     grid-template-columns: 1fr;
+  }
+
+  .weather-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .resource-list li,

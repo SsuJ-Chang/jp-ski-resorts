@@ -70,7 +70,38 @@ snowWeather:
   title: 白馬五龍滑雪場雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34811/
-  note: 即時雪況、天氣與積雪資訊請以 Weathernews 頁面為準。
+  snowDepth: 待確認
+  updatedAt: 待確認
+  forecast:
+    - date: Day 1
+      weather: 待確認
+      low: 待確認
+      high: 待確認
+    - date: Day 2
+      weather: 待確認
+      low: 待確認
+      high: 待確認
+    - date: Day 3
+      weather: 待確認
+      low: 待確認
+      high: 待確認
+    - date: Day 4
+      weather: 待確認
+      low: 待確認
+      high: 待確認
+    - date: Day 5
+      weather: 待確認
+      low: 待確認
+      high: 待確認
+    - date: Day 6
+      weather: 待確認
+      low: 待確認
+      high: 待確認
+    - date: Day 7
+      weather: 待確認
+      low: 待確認
+      high: 待確認
+  note: 即時雪況、天氣與積雪資訊請以 Weathernews 頁面為準；表格資料可人工更新。
 courses:
   courseInfoPage: https://www.hakubaescal.com/winter-en/gelande/
   summary: 白馬五龍與 Hakuba47 共通雪道區域，後續可逐條補上雪道名稱、難度、坡度與影片連結。

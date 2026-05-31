@@ -58,7 +58,7 @@ const hasExternalContent =
       {
         resort.data.contact && (
           <section class="info-panel detail-panel">
-            <h2>重點資訊</h2>
+            <h2>基本資訊</h2>
             <dl class="fact-list">
               <div>
                 <dt>地址</dt>
@@ -167,15 +167,34 @@ const hasExternalContent =
         {
           resort.data.snowWeather ? (
             <>
-              <p class="panel-note">{resort.data.snowWeather.note ?? '雪況與天氣資訊請以外部頁面為準。'}</p>
-              <div class="inline-actions">
-                <a href={resort.data.snowWeather.url} target="_blank" rel="noreferrer">
-                  {resort.data.snowWeather.title}
-                </a>
+              <div class="weather-summary">
+                <div>
+                  <span>積雪量</span>
+                  <strong>{resort.data.snowWeather.snowDepth ?? '待補'}</strong>
+                </div>
+                <div>
+                  <span>更新時間</span>
+                  <strong>{resort.data.snowWeather.updatedAt ?? '待補'}</strong>
+                </div>
               </div>
-              {resort.data.snowWeather.provider && (
-                <p class="resource-provider">資料來源：{resort.data.snowWeather.provider}</p>
+              {resort.data.snowWeather.forecast && resort.data.snowWeather.forecast.length > 0 && (
+                <div class="weather-grid" aria-label={`${resort.data.name.zhTw} 一週天氣`}>
+                  {resort.data.snowWeather.forecast.map((day) => (
+                    <article>
+                      <span>{day.date}</span>
+                      <strong>{day.weather}</strong>
+                      <small>{day.low} / {day.high}</small>
+                    </article>
+                  ))}
+                </div>
               )}
+              {resort.data.snowWeather.note && <p class="panel-note">{resort.data.snowWeather.note}</p>}
+              <p class="resource-provider">
+                資料來源：
+                <a href={resort.data.snowWeather.url} target="_blank" rel="noreferrer">
+                  {resort.data.snowWeather.provider ?? resort.data.snowWeather.title}
+                </a>
+              </p>
             </>
           ) : (
             <p class="panel-note">雪況天氣連結待補。</p>
