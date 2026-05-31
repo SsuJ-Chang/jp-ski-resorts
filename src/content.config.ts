@@ -23,6 +23,36 @@ const linkSchema = z.object({
   access: z.url().optional(),
 })
 
+const namedLinkSchema = z.object({
+  title: z.string(),
+  url: z.url(),
+  note: z.string().optional(),
+})
+
+const trailMapSchema = z.object({
+  label: z.string(),
+  language: z.string(),
+  season: z.string().optional(),
+  url: z.url(),
+  sourceLabel: z.string().optional(),
+})
+
+const ticketPlanSchema = z.object({
+  name: z.string(),
+  audience: z.string().optional(),
+  price: z.string(),
+  note: z.string().optional(),
+})
+
+const courseDetailSchema = z.object({
+  name: z.string(),
+  difficulty: z.enum(['beginner', 'intermediate', 'advanced', 'expert', 'ungroomed', 'mixed']),
+  maxSlope: z.string().optional(),
+  averageSlope: z.string().optional(),
+  videoLinks: z.array(namedLinkSchema).optional(),
+  note: z.string().optional(),
+})
+
 const accessRouteSchema = z.object({
   label: z.string(),
   steps: z.array(z.string()).min(1),
@@ -59,6 +89,36 @@ const resorts = defineCollection({
       })
       .default({ status: 'published' }),
     links: linkSchema,
+    contact: z
+      .object({
+        address: z.object({
+          zhTw: z.string(),
+          ja: z.string(),
+          googleMaps: z.url(),
+        }),
+        phone: z.string().optional(),
+      })
+      .optional(),
+    season: z
+      .object({
+        label: z.string(),
+        operatingPeriod: z.string().optional(),
+        hours: z.string().optional(),
+        nightSkiingHours: z.string().optional(),
+        note: z.string().optional(),
+        source: z.url().optional(),
+      })
+      .optional(),
+    trailMaps: z.array(trailMapSchema).optional(),
+    tickets: z
+      .object({
+        season: z.string(),
+        currency: z.string().default('JPY'),
+        source: z.url(),
+        note: z.string().optional(),
+        plans: z.array(ticketPlanSchema).min(1),
+      })
+      .optional(),
     location: z
       .object({
         latitude: z.number(),
@@ -90,6 +150,9 @@ const resorts = defineCollection({
         beginnerRatio: z.number().optional(),
         intermediateRatio: z.number().optional(),
         advancedRatio: z.number().optional(),
+        courseInfoPage: z.url().optional(),
+        summary: z.string().optional(),
+        details: z.array(courseDetailSchema).optional(),
       })
       .optional(),
     lifts: z
@@ -120,6 +183,12 @@ const resorts = defineCollection({
         advanced: z.string().optional(),
         snowboard: z.string().optional(),
         powder: z.string().optional(),
+      })
+      .optional(),
+    externalContent: z
+      .object({
+        blogs: z.array(namedLinkSchema).optional(),
+        vlogs: z.array(namedLinkSchema).optional(),
       })
       .optional(),
     sources: z.array(sourceSchema).min(1),

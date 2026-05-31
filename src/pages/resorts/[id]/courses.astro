@@ -1,0 +1,124 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '../../../layouts/BaseLayout.astro'
+import { tagLabels } from '../../../data/tags'
+import { filterPublishedResorts } from '../../../utils/resorts'
+import { withBasePath } from '../../../utils/paths'
+
+const difficultyLabels = {
+  beginner: '初級',
+  intermediate: '中級',
+  advanced: '上級',
+  expert: '專家',
+  ungroomed: '非壓雪',
+  mixed: '混合',
+} as const
+
+export async function getStaticPaths() {
+  const resorts = filterPublishedResorts(await getCollection('resorts')).filter(
+    (resort) => resort.data.courses?.courseInfoPage,
+  )
+
+  return resorts.map((resort) => ({
+    params: { id: resort.id },
+    props: { resort },
+  }))
+}
+
+const { resort } = Astro.props
+const courseDetails = resort.data.courses?.details ?? []
+---
+
+<BaseLayout
+  title={`${resort.data.name.zhTw}雪道資訊 | 日本滑雪場指南`}
+  description={`${resort.data.name.zhTw} 的雪道資料、難度、坡度與影片連結。`}
+>
+  <main class="site-shell page-stack">
+    <a class="text-link" href={withBasePath(`/resorts/${resort.id}/`)}>回雪場頁面</a>
+
+    <section class="page-heading" aria-labelledby="page-title">
+      <p class="eyebrow">Course guide</p>
+      <h1 id="page-title">{resort.data.name.zhTw}雪道資訊</h1>
+      <p>{resort.data.courses?.summary ?? '雪道資料整理中。'}</p>
+      <div class="tag-list">
+        {resort.data.tags.map((tag) => (
+          <span>{tagLabels[tag]}</span>
+        ))}
+      </div>
+    </section>
+
+    <section class="info-panel detail-panel">
+      <div class="section-heading-row">
+        <h2>官方雪道資料</h2>
+        {resort.data.courses?.courseInfoPage && (
+          <a href={resort.data.courses.courseInfoPage} target="_blank" rel="noreferrer">
+            官方雪道資訊
+          </a>
+        )}
+      </div>
+      {
+        resort.data.trailMaps && resort.data.trailMaps.length > 0 && (
+          <ul class="resource-list">
+            {resort.data.trailMaps.map((map) => (
+              <li>
+                <div>
+                  <strong>{map.label}</strong>
+                  <span>{[map.language, map.season].filter(Boolean).join(' / ')}</span>
+                </div>
+                <a href={map.url} target="_blank" rel="noreferrer">開啟 PDF</a>
+              </li>
+            ))}
+          </ul>
+        )
+      }
+    </section>
+
+    <section class="course-list" aria-label={`${resort.data.name.zhTw} courses`}>
+      {
+        courseDetails.length > 0 ? (
+          courseDetails.map((course) => (
+            <article class="course-card">
+              <div>
+                <span class={`difficulty-badge difficulty-badge--${course.difficulty}`}>
+                  {difficultyLabels[course.difficulty]}
+                </span>
+                <h2>{course.name}</h2>
+                {course.note && <p>{course.note}</p>}
+              </div>
+              <dl class="course-facts">
+                {course.maxSlope && (
+                  <div>
+                    <dt>最大坡度</dt>
+                    <dd>{course.maxSlope}</dd>
+                  </div>
+                )}
+                {course.averageSlope && (
+                  <div>
+                    <dt>平均坡度</dt>
+                    <dd>{course.averageSlope}</dd>
+                  </div>
+                )}
+              </dl>
+              {course.videoLinks && course.videoLinks.length > 0 && (
+                <ul class="link-list">
+                  {course.videoLinks.map((video) => (
+                    <li>
+                      <a href={video.url} target="_blank" rel="noreferrer">{video.title}</a>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </article>
+          ))
+        ) : (
+          <section class="empty-state">
+            <h2>雪道資料整理中</h2>
+            <p>
+              這裡會放各雪道名稱、難度分級、坡度與 YouTube 影片外部連結。影片連結之後可直接在資料檔補上 title 與 URL。
+            </p>
+          </section>
+        )
+      }
+    </section>
+  </main>
+</BaseLayout>

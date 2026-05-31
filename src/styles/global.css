@@ -351,6 +351,7 @@ h1 {
 }
 
 .info-panel {
+  min-width: 0;
   min-height: 150px;
   padding: 22px;
   border: 1px solid rgba(23, 33, 31, 0.12);
@@ -446,12 +447,14 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+  min-width: 0;
   margin-top: 22px;
 }
 
 .tag-list span {
   display: inline-flex;
   align-items: center;
+  max-width: 100%;
   min-height: 30px;
   padding: 4px 10px;
   border: 1px solid rgba(23, 33, 31, 0.12);
@@ -460,12 +463,36 @@ h1 {
   color: #334643;
   font-size: 0.82rem;
   font-weight: 700;
+  overflow-wrap: anywhere;
 }
 
 .tag-list--large {
+  width: 100%;
   max-width: 420px;
   justify-content: flex-end;
   margin-top: 0;
+}
+
+.resort-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.resort-actions a,
+.inline-actions a,
+.section-heading-row a,
+.resource-list a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 34px;
+  padding: 6px 12px;
+  border: 1px solid rgba(29, 93, 100, 0.22);
+  border-radius: 8px;
+  color: #1d5d64;
+  font-size: 0.88rem;
+  font-weight: 800;
+  text-decoration: none;
 }
 
 .detail-hero {
@@ -494,17 +521,30 @@ h1 {
   gap: 16px;
 }
 
+.resort-detail-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.9fr);
+  gap: 16px;
+}
+
 .detail-panel {
+  min-width: 0;
   min-height: auto;
 }
 
-.detail-panel:first-child {
+.detail-grid .detail-panel:first-child {
   grid-row: span 2;
+}
+
+.detail-panel--wide,
+.resort-summary {
+  grid-column: 1 / -1;
 }
 
 .content-body {
   color: #334643;
   line-height: 1.85;
+  overflow-wrap: anywhere;
 }
 
 .content-body p {
@@ -524,6 +564,220 @@ h1 {
   font-weight: 800;
   text-decoration-color: rgba(29, 93, 100, 0.28);
   text-underline-offset: 4px;
+}
+
+.fact-list {
+  display: grid;
+  gap: 16px;
+  margin: 0;
+}
+
+.fact-list div {
+  display: grid;
+  gap: 6px;
+}
+
+.fact-list dt {
+  color: #526660;
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.fact-list dd {
+  display: grid;
+  gap: 4px;
+  margin: 0;
+  color: #334643;
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+}
+
+.fact-list a {
+  color: #1d5d64;
+  font-weight: 800;
+  text-underline-offset: 4px;
+}
+
+.panel-note {
+  margin: 16px 0 0;
+  color: #526660;
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+.section-heading-row {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.section-heading-row h2 {
+  margin: 0;
+}
+
+.ticket-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.ticket-card {
+  display: grid;
+  gap: 8px;
+  padding: 16px;
+  border: 1px solid rgba(23, 33, 31, 0.1);
+  border-radius: 8px;
+  background: rgba(245, 247, 244, 0.75);
+}
+
+.ticket-card p,
+.ticket-card h3,
+.ticket-card strong,
+.ticket-card small {
+  margin: 0;
+}
+
+.ticket-card p,
+.ticket-card small {
+  color: #526660;
+  line-height: 1.5;
+}
+
+.ticket-card h3 {
+  font-size: 1.05rem;
+}
+
+.ticket-card strong {
+  color: #17211f;
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+}
+
+.resource-list {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.resource-list li {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(23, 33, 31, 0.08);
+}
+
+.resource-list li:last-child {
+  border-bottom: 0;
+}
+
+.resource-list div {
+  display: grid;
+  gap: 4px;
+  min-width: 0;
+}
+
+.resource-list span {
+  color: #526660;
+  font-size: 0.86rem;
+}
+
+.inline-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.subsection-title {
+  margin: 18px 0 10px;
+  color: #526660;
+  font-size: 0.86rem;
+  text-transform: uppercase;
+}
+
+.course-list {
+  display: grid;
+  gap: 14px;
+}
+
+.course-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(180px, 0.35fr);
+  gap: 18px;
+  padding: 22px;
+  border: 1px solid rgba(23, 33, 31, 0.12);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.82);
+}
+
+.course-card h2 {
+  margin: 10px 0 8px;
+  font-size: 1.35rem;
+}
+
+.course-card p {
+  margin: 0;
+  color: #425552;
+  line-height: 1.7;
+}
+
+.difficulty-badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: #dfe8e4;
+  color: #17211f;
+  font-size: 0.78rem;
+  font-weight: 900;
+}
+
+.difficulty-badge--beginner {
+  background: #d8efe1;
+}
+
+.difficulty-badge--intermediate {
+  background: #dce8f8;
+}
+
+.difficulty-badge--advanced,
+.difficulty-badge--expert {
+  background: #f5d8d4;
+}
+
+.difficulty-badge--ungroomed,
+.difficulty-badge--mixed {
+  background: #eadff6;
+}
+
+.course-facts {
+  display: grid;
+  align-content: start;
+  gap: 10px;
+  margin: 0;
+}
+
+.course-facts div {
+  display: grid;
+  gap: 3px;
+}
+
+.course-facts dt {
+  color: #526660;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.course-facts dd {
+  margin: 0;
+  font-weight: 800;
 }
 
 .empty-state {
@@ -562,7 +816,7 @@ h1 {
 
   .site-header {
     gap: 12px;
-    width: min(100% - 24px, 680px);
+    width: min(680px, calc(100% - 24px));
   }
 
   .site-header__brand {
@@ -570,7 +824,7 @@ h1 {
   }
 
   .site-shell {
-    width: min(100% - 24px, 680px);
+    width: min(680px, calc(100% - 24px));
     padding: 14px 0 36px;
   }
 
@@ -614,6 +868,7 @@ h1 {
   }
 
   .resort-grid,
+  .resort-detail-layout,
   .detail-grid {
     grid-template-columns: 1fr;
   }
@@ -629,11 +884,23 @@ h1 {
   }
 
   .tag-list--large {
+    max-width: 100%;
     justify-content: flex-start;
   }
 
-  .detail-panel:first-child {
+  .detail-grid .detail-panel:first-child {
     grid-row: auto;
+  }
+
+  .ticket-grid,
+  .course-card {
+    grid-template-columns: 1fr;
+  }
+
+  .resource-list li,
+  .section-heading-row {
+    align-items: flex-start;
+    flex-direction: column;
   }
 
   .japan-region-map {

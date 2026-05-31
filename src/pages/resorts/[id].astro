@@ -26,6 +26,10 @@ const primaryLinks = [
   ['票券資訊', resort.data.links.ticket],
   ['Google Maps', resort.data.links.googleMaps],
 ].filter((item): item is [string, string] => Boolean(item[1]))
+
+const hasExternalContent =
+  (resort.data.externalContent?.blogs?.length ?? 0) > 0 ||
+  (resort.data.externalContent?.vlogs?.length ?? 0) > 0
 ---
 
 <BaseLayout
@@ -51,24 +55,179 @@ const primaryLinks = [
       </div>
     </section>
 
-    <section class="detail-grid">
-      <article class="info-panel detail-panel">
+    <section class="resort-actions" aria-label="主要連結">
+      {primaryLinks.map(([label, url]) => (
+        <a href={url} target="_blank" rel="noreferrer">{label}</a>
+      ))}
+      {resort.data.courses?.courseInfoPage && (
+        <a href={withBasePath(`/resorts/${resort.id}/courses/`)}>雪道資訊</a>
+      )}
+    </section>
+
+    <section class="resort-detail-layout">
+      <article class="info-panel detail-panel resort-summary">
         <h2>概要</h2>
         <div class="content-body">
           <Content />
         </div>
       </article>
 
-      <aside class="info-panel detail-panel">
-        <h2>官方連結</h2>
-        <ul class="link-list">
-          {primaryLinks.map(([label, url]) => (
-            <li>
-              <a href={url} target="_blank" rel="noreferrer">{label}</a>
-            </li>
-          ))}
-        </ul>
-      </aside>
+      {
+        resort.data.contact && (
+          <section class="info-panel detail-panel">
+            <h2>重點資訊</h2>
+            <dl class="fact-list">
+              <div>
+                <dt>地址</dt>
+                <dd>
+                  <span>{resort.data.contact.address.zhTw}</span>
+                  <span>{resort.data.contact.address.ja}</span>
+                  <a href={resort.data.contact.address.googleMaps} target="_blank" rel="noreferrer">
+                    Google Maps
+                  </a>
+                </dd>
+              </div>
+              {resort.data.contact.phone && (
+                <div>
+                  <dt>電話</dt>
+                  <dd>{resort.data.contact.phone}</dd>
+                </div>
+              )}
+              <div>
+                <dt>官方網站</dt>
+                <dd>
+                  <a href={resort.data.links.official} target="_blank" rel="noreferrer">
+                    {resort.data.name.en ?? resort.data.name.zhTw}
+                  </a>
+                </dd>
+              </div>
+            </dl>
+          </section>
+        )
+      }
+
+      {
+        resort.data.season && (
+          <section class="info-panel detail-panel">
+            <h2>營業日期與時間</h2>
+            <dl class="fact-list">
+              <div>
+                <dt>雪季</dt>
+                <dd>{resort.data.season.label}</dd>
+              </div>
+              {resort.data.season.operatingPeriod && (
+                <div>
+                  <dt>期間</dt>
+                  <dd>{resort.data.season.operatingPeriod}</dd>
+                </div>
+              )}
+              {resort.data.season.hours && (
+                <div>
+                  <dt>日間</dt>
+                  <dd>{resort.data.season.hours}</dd>
+                </div>
+              )}
+              {resort.data.season.nightSkiingHours && (
+                <div>
+                  <dt>夜滑</dt>
+                  <dd>{resort.data.season.nightSkiingHours}</dd>
+                </div>
+              )}
+            </dl>
+            {resort.data.season.note && <p class="panel-note">{resort.data.season.note}</p>}
+          </section>
+        )
+      }
+
+      {
+        resort.data.tickets && (
+          <section class="info-panel detail-panel detail-panel--wide">
+            <div class="section-heading-row">
+              <h2>主要票種</h2>
+              <a href={resort.data.tickets.source} target="_blank" rel="noreferrer">
+                官方票價
+              </a>
+            </div>
+            <div class="ticket-grid">
+              {resort.data.tickets.plans.map((plan) => (
+                <article class="ticket-card">
+                  <p>{plan.audience}</p>
+                  <h3>{plan.name}</h3>
+                  <strong>{plan.price}</strong>
+                  {plan.note && <small>{plan.note}</small>}
+                </article>
+              ))}
+            </div>
+            {resort.data.tickets.note && <p class="panel-note">{resort.data.tickets.note}</p>}
+          </section>
+        )
+      }
+
+      {
+        resort.data.trailMaps && resort.data.trailMaps.length > 0 && (
+          <section class="info-panel detail-panel">
+            <h2>雪場圖</h2>
+            <ul class="resource-list">
+              {resort.data.trailMaps.map((map) => (
+                <li>
+                  <div>
+                    <strong>{map.label}</strong>
+                    <span>{[map.language, map.season].filter(Boolean).join(' / ')}</span>
+                  </div>
+                  <a href={map.url} target="_blank" rel="noreferrer">開啟 PDF</a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+
+      {
+        resort.data.courses?.courseInfoPage && (
+          <section class="info-panel detail-panel">
+            <h2>雪道資訊</h2>
+            <p class="panel-note">{resort.data.courses.summary ?? '雪道資料整理中。'}</p>
+            <div class="inline-actions">
+              <a href={withBasePath(`/resorts/${resort.id}/courses/`)}>查看雪道頁面</a>
+              <a href={resort.data.courses.courseInfoPage} target="_blank" rel="noreferrer">
+                官方雪道資訊
+              </a>
+            </div>
+          </section>
+        )
+      }
+
+      {
+        hasExternalContent && (
+          <section class="info-panel detail-panel">
+            <h2>其他資訊</h2>
+            {resort.data.externalContent?.blogs && resort.data.externalContent.blogs.length > 0 && (
+              <>
+                <h3 class="subsection-title">BLOG</h3>
+                <ul class="link-list">
+                  {resort.data.externalContent.blogs.map((blog) => (
+                    <li>
+                      <a href={blog.url} target="_blank" rel="noreferrer">{blog.title}</a>
+                    </li>
+                  ))}
+                </ul>
+              </>
+            )}
+            {resort.data.externalContent?.vlogs && resort.data.externalContent.vlogs.length > 0 && (
+              <>
+                <h3 class="subsection-title">VLOG</h3>
+                <ul class="link-list">
+                  {resort.data.externalContent.vlogs.map((vlog) => (
+                    <li>
+                      <a href={vlog.url} target="_blank" rel="noreferrer">{vlog.title}</a>
+                    </li>
+                  ))}
+                </ul>
+              </>
+            )}
+          </section>
+        )
+      }
 
       <aside class="info-panel detail-panel">
         <h2>資料來源</h2>
