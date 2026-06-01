@@ -146,23 +146,43 @@ const hasExternalContent =
       }
 
       {
-        resort.data.trailMaps && resort.data.trailMaps.length > 0 && (
-          <section class="info-panel detail-panel">
-            <h2>雪場圖</h2>
-            <ul class="resource-list">
-              {resort.data.trailMaps.map((map) => (
-                <li>
-                  <div>
-                    <a href={map.url} target="_blank" rel="noreferrer">{map.label}</a>
-                  </div>
-                </li>
-              ))}
-            </ul>
+        ((resort.data.trailMaps && resort.data.trailMaps.length > 0) ||
+          resort.data.courses?.courseInfoPage) && (
+          <section class="info-panel detail-panel detail-panel--wide">
+            <div class="section-heading-row">
+              <h2>雪道資訊 & 雪場圖</h2>
+              {resort.data.courses?.courseInfoPage && (
+                <a href={resort.data.courses.courseInfoPage} target="_blank" rel="noreferrer">
+                  官方雪道資訊
+                </a>
+              )}
+            </div>
+            {resort.data.courses?.courseInfoPage && (
+              <div class="resource-section">
+                <p class="panel-note">{resort.data.courses.summary ?? '雪道資料整理中。'}</p>
+                <a class="text-link resource-detail-link" href={withBasePath(`/resorts/${resort.id}/courses/`)}>
+                  雪道詳細資訊
+                </a>
+              </div>
+            )}
+            {resort.data.trailMaps && resort.data.trailMaps.length > 0 && (
+              <div class="resource-section">
+                <ul class="resource-list">
+                  {resort.data.trailMaps.map((map) => (
+                    <li>
+                      <div>
+                        <a href={map.url} target="_blank" rel="noreferrer">{map.label}</a>
+                      </div>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
           </section>
         )
       }
 
-      <section class="info-panel detail-panel">
+      <section class="info-panel detail-panel detail-panel--wide snow-weather-panel">
         <h2>雪況天氣</h2>
         {
           resort.data.snowWeather ? (
@@ -172,23 +192,38 @@ const hasExternalContent =
                   <span>積雪量</span>
                   <strong>{resort.data.snowWeather.snowDepth ?? '待補'}</strong>
                 </div>
-                <div>
-                  <span>更新時間</span>
-                  <strong>{resort.data.snowWeather.updatedAt ?? '待補'}</strong>
-                </div>
               </div>
               {resort.data.snowWeather.forecast && resort.data.snowWeather.forecast.length > 0 && (
-                <div class="weather-grid" aria-label={`${resort.data.name.zhTw} 一週天氣`}>
-                  {resort.data.snowWeather.forecast.map((day) => (
-                    <article>
-                      <span>{day.date}</span>
-                      <strong>{day.weather}</strong>
-                      <small>{day.low} / {day.high}</small>
-                    </article>
-                  ))}
+                <div class="weather-table-wrap" aria-label={`${resort.data.name.zhTw} 一週天氣`}>
+                  <table class="weather-table">
+                    <tbody>
+                      <tr>
+                        {resort.data.snowWeather.forecast.map((day) => (
+                          <th scope="col">{day.date}</th>
+                        ))}
+                      </tr>
+                      <tr>
+                        {resort.data.snowWeather.forecast.map((day) => (
+                          <td>{day.weather}</td>
+                        ))}
+                      </tr>
+                      <tr>
+                        {resort.data.snowWeather.forecast.map((day) => (
+                          <td>{day.high}</td>
+                        ))}
+                      </tr>
+                      <tr>
+                        {resort.data.snowWeather.forecast.map((day) => (
+                          <td>{day.low}</td>
+                        ))}
+                      </tr>
+                    </tbody>
+                  </table>
                 </div>
               )}
-              {resort.data.snowWeather.note && <p class="panel-note">{resort.data.snowWeather.note}</p>}
+              {resort.data.snowWeather.updatedAt && (
+                <p class="weather-updated">更新時間：{resort.data.snowWeather.updatedAt}</p>
+              )}
               <p class="resource-provider">
                 資料來源：
                 <a href={resort.data.snowWeather.url} target="_blank" rel="noreferrer">
@@ -203,23 +238,8 @@ const hasExternalContent =
       </section>
 
       {
-        resort.data.courses?.courseInfoPage && (
-          <section class="info-panel detail-panel">
-            <h2>雪道資訊</h2>
-            <p class="panel-note">{resort.data.courses.summary ?? '雪道資料整理中。'}</p>
-            <div class="inline-actions">
-              <a href={withBasePath(`/resorts/${resort.id}/courses/`)}>查看雪道頁面</a>
-              <a href={resort.data.courses.courseInfoPage} target="_blank" rel="noreferrer">
-                官方雪道資訊
-              </a>
-            </div>
-          </section>
-        )
-      }
-
-      {
         hasExternalContent && (
-          <section class="info-panel detail-panel">
+          <section class="info-panel detail-panel detail-panel--wide external-content-panel">
             <h2>其他資訊</h2>
             {resort.data.externalContent?.blogs && resort.data.externalContent.blogs.length > 0 && (
               <>

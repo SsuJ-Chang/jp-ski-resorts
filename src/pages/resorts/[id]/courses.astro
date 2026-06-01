@@ -38,37 +38,12 @@ const courseDetails = resort.data.courses?.details ?? []
 
     <section class="page-heading" aria-labelledby="page-title">
       <p class="eyebrow">Course guide</p>
-      <h1 id="page-title">{resort.data.name.zhTw}雪道資訊</h1>
-      <p>{resort.data.courses?.summary ?? '雪道資料整理中。'}</p>
+      <h1 id="page-title">{resort.data.name.zhTw}</h1>
       <div class="tag-list">
         {resort.data.tags.map((tag) => (
           <span>{tagLabels[tag]}</span>
         ))}
       </div>
-    </section>
-
-    <section class="info-panel detail-panel">
-      <div class="section-heading-row">
-        <h2>官方雪道資料</h2>
-        {resort.data.courses?.courseInfoPage && (
-          <a href={resort.data.courses.courseInfoPage} target="_blank" rel="noreferrer">
-            官方雪道資訊
-          </a>
-        )}
-      </div>
-      {
-        resort.data.trailMaps && resort.data.trailMaps.length > 0 && (
-          <ul class="resource-list">
-            {resort.data.trailMaps.map((map) => (
-              <li>
-                <div>
-                  <a href={map.url} target="_blank" rel="noreferrer">{map.label}</a>
-                </div>
-              </li>
-            ))}
-          </ul>
-        )
-      }
     </section>
 
     <section class="course-list" aria-label={`${resort.data.name.zhTw} courses`}>

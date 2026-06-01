@@ -70,45 +70,78 @@ snowWeather:
   title: 白馬五龍滑雪場雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34811/
-  snowDepth: 待確認
-  updatedAt: 待確認
+  snowDepth: 200 cm
+  updatedAt: 2026/4/30 09:00:00
   forecast:
-    - date: Day 1
-      weather: 待確認
-      low: 待確認
-      high: 待確認
-    - date: Day 2
-      weather: 待確認
-      low: 待確認
-      high: 待確認
-    - date: Day 3
-      weather: 待確認
-      low: 待確認
-      high: 待確認
-    - date: Day 4
-      weather: 待確認
-      low: 待確認
-      high: 待確認
-    - date: Day 5
-      weather: 待確認
-      low: 待確認
-      high: 待確認
-    - date: Day 6
-      weather: 待確認
-      low: 待確認
-      high: 待確認
-    - date: Day 7
-      weather: 待確認
-      low: 待確認
-      high: 待確認
+    - date: 12/27(日)
+      weather: 雪
+      low: -5°C
+      high: 4°C
+    - date: 12/28(一)
+      weather: 大雪
+      low: -8°C
+      high: 0°C
+    - date: 12/29(二)
+      weather: 大雪
+      low: -9°C
+      high: -2°C
+    - date: 12/30(三)
+      weather: 雪
+      low: -5°C
+      high: 0°C
+    - date: 12/31(四)
+      weather: 陰
+      low: -3°C
+      high: 3°C
+    - date: 1/1(五)
+      weather: 雨
+      low: -4°C
+      high: 1°C
+    - date: 1/2(六)
+      weather: 晴
+      low: 8°C
+      high: 3°C
   note: 即時雪況、天氣與積雪資訊請以 Weathernews 頁面為準；表格資料可人工更新。
 courses:
   courseInfoPage: https://www.hakubaescal.com/winter-en/gelande/
-  summary: 白馬五龍與 Hakuba47 共通雪道區域，後續可逐條補上雪道名稱、難度、坡度與影片連結。
-  details: []
+  summary: 白馬五龍與 Hakuba47 共通雪道區域。
+  details:
+    - name: Toomi とおみ
+      difficulty: beginner
+      maxSlope: 17°
+      averageSlope: 13°
+      note: 滑雪場的主要入口，夜滑主要開放區域之一，每天傍晚都會重新壓雪整地。
+      videoLinks:
+        - title: YouTube 影片標題
+          url: https://www.youtube.com/watch?v=xxxx
+    - name: Iimori いいもり
+      difficulty: beginner
+      maxSlope: 18°
+      averageSlope: 12°
+      note: 環境更加寬廣且人潮較少，非常適合初次體驗滑雪的初學者。這裡也是滑雪學校（包含官方中文滑雪學校）的主要據點。
+    - name: Alps-daira アルプス平
+      difficulty: mixed
+      maxSlope: 35°
+      averageSlope: 24°
+      note: >
+        搭乘纜車直達山頂的區域，海拔較高（約 1,500 公尺），雪質極佳。
+        天氣晴朗時可遠眺北阿爾卑斯山。
+        包含適合中級練習的紅線，也有較陡與非壓雪區。
 externalContent:
-  blogs: []
-  vlogs: []
+  blogs:
+    - title: 【範例】白馬五龍初訪心得：交通、雪道與住宿整理
+      url: https://example.com/blog/hakuba-goryu-first-trip
+      note: 範例資料，之後請替換成實際 BLOG 連結。
+    - title: 【範例】白馬五龍與 Hakuba47 一日滑雪路線分享
+      url: https://example.com/blog/hakuba-goryu-47-route
+      note: 範例資料，可用來放個人部落格、旅遊文章或攻略文。
+  vlogs:
+    - title: 【範例】白馬五龍滑雪 VLOG：Toomi 夜滑與山頂雪況
+      url: https://www.youtube.com/watch?v=example001
+      note: 範例資料，之後請替換成實際 YouTube 影片。
+    - title: 【範例】Hakuba Goryu & 47 Snowboarding Day Trip
+      url: https://www.youtube.com/watch?v=example002
+      note: 範例資料，可用來放 VLOG、雪道實拍或行程紀錄。
 sources:
   - label: Hakuba Goryu Snow Resort Official Website
     url: https://www.hakubaescal.com/winter-en/
@@ -118,4 +151,4 @@ sources:
     url: https://www.hakubaescal.com/winter-en/tickets/lift/
 ---
 
-白馬五龍滑雪場位於長野縣白馬村，與白馬 47 相鄰。MVP 先建立官方入口、分類標籤與雪道圖連結，詳細開放狀態與票券資訊以官方頁面為準。
+白馬五龍滑雪場位於長野縣白馬村，與白馬 47 相鄰。

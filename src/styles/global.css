@@ -544,6 +544,14 @@ h1 {
   grid-column: 1 / -1;
 }
 
+.snow-weather-panel {
+  order: 10;
+}
+
+.external-content-panel {
+  order: 11;
+}
+
 .content-body {
   color: #334643;
   line-height: 1.85;
@@ -660,18 +668,23 @@ h1 {
 
 .resource-list {
   display: grid;
-  gap: 10px;
+  gap: 8px;
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-.resource-list li {
-  padding: 12px 0;
+.resource-section + .resource-section {
+  margin-top: 28px;
 }
 
-.resource-list li:last-child {
-  border-bottom: 0;
+.resource-detail-link {
+  display: inline-flex;
+  margin-top: 14px;
+}
+
+.resource-list li {
+  padding: 2px 0;
 }
 
 .resource-list div {
@@ -711,42 +724,64 @@ h1 {
 
 .weather-summary {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 180px);
   gap: 12px;
-  margin-bottom: 16px;
+  margin-bottom: 12px;
 }
 
-.weather-summary div,
-.weather-grid article {
+.weather-summary div {
   display: grid;
   gap: 5px;
-  padding: 14px;
+  padding: 12px 14px;
   border: 1px solid rgba(23, 33, 31, 0.1);
   border-radius: 8px;
   background: rgba(245, 247, 244, 0.76);
 }
 
-.weather-summary span,
-.weather-grid span,
-.weather-grid small {
+.weather-summary span {
   color: #526660;
   font-size: 0.82rem;
   font-weight: 700;
 }
 
-.weather-summary strong,
-.weather-grid strong {
+.weather-summary strong {
   color: #17211f;
 }
 
-.weather-grid {
-  display: grid;
-  grid-template-columns: repeat(7, minmax(0, 1fr));
-  gap: 8px;
+.weather-table-wrap {
+  width: 100%;
+  overflow-x: auto;
 }
 
-.weather-grid article {
-  min-height: 96px;
+.weather-table {
+  width: 100%;
+  min-width: 620px;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.weather-table th,
+.weather-table td {
+  height: 42px;
+  padding: 6px 8px;
+  border: 1px solid rgba(23, 33, 31, 0.1);
+  background: rgba(245, 247, 244, 0.76);
+  color: #17211f;
+  font-size: 0.9rem;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.weather-table th {
+  color: #526660;
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.weather-updated {
+  margin: 10px 0 0;
+  color: #526660;
+  font-size: 0.82rem;
 }
 
 .inline-actions {
@@ -958,10 +993,6 @@ h1 {
   .course-card,
   .weather-summary {
     grid-template-columns: 1fr;
-  }
-
-  .weather-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .resource-list li,

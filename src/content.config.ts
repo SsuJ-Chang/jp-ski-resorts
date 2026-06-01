@@ -44,6 +44,8 @@ const ticketPlanSchema = z.object({
   note: z.string().optional(),
 })
 
+const textOrNumberSchema = z.union([z.string(), z.number()])
+
 const snowWeatherSchema = z.object({
   title: z.string(),
   provider: z.string().optional(),
@@ -55,8 +57,8 @@ const snowWeatherSchema = z.object({
       z.object({
         date: z.string(),
         weather: z.string(),
-        low: z.string(),
-        high: z.string(),
+        low: textOrNumberSchema,
+        high: textOrNumberSchema,
       }),
     )
     .optional(),
