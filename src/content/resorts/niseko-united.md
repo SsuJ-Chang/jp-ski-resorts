@@ -1,7 +1,7 @@
 ---
 id: niseko-united
 name:
-  zhTw: 二世谷聯合
+  zhTw: 二世谷聯合滑雪場
   ja: ニセコユナイテッド
   en: Niseko United
 region: hokkaido
@@ -12,12 +12,57 @@ tags:
   - large_ski_area
   - resort_village
   - good_for_first_japan_trip
+  - no_car_accessible
+  - night_skiing
+  - snowboard_friendly
+  - tree_run
 links:
   official: https://www.niseko.ne.jp/
   trailMapPage: https://www.niseko.ne.jp/en/trail-map/
-  ticket: https://www.niseko.ne.jp/en/lift-tickets/
-  access: https://www.niseko.ne.jp/en/access/
+  trailMapPdf: https://www.niseko.ne.jp/ja/wp-content/uploads/2020/08/2025-2026_WEBMAP_JP.pdf
+  ticket: https://www.niseko.ne.jp/ja/lift/
+  access: https://www.niseko.ne.jp/en/niseko/niseko-access/
   weather: https://weathernews.jp/ski/spot/31605/
+  liftStatus: https://www.niseko.ne.jp/en/niseko-lift-status/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20United
+contact:
+  address:
+    zhTw: 北海道虻田郡俱知安町與二世谷町一帶
+    ja: 北海道虻田郡倶知安町・ニセコ町周辺
+    googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20United
+  phone: 0136-55-6068
+season:
+  label: 2025-2026
+  operatingPeriod: 2025/11/29-2026/5/6
+  hours: 各區域約 8:30-16:30；夜滑區域約 16:00-19:00
+  nightSkiingHours: Grand Hirafu、HANAZONO、Niseko Village 等區域於指定期間營業至約 19:00
+  note: Niseko United 由 Annupuri、Niseko Village、Grand Hirafu、HANAZONO 四區組成；各區開放期間與夜滑日期不同，請以官方運行資訊為準。
+  source: https://www.niseko.ne.jp/en/niseko-lift-status/
+trailMaps:
+  - label: Niseko United 2025-2026 雪場圖
+    language: 日本語 / English
+    season: 2025-2026
+    url: https://www.niseko.ne.jp/ja/wp-content/uploads/2020/08/2025-2026_WEBMAP_JP.pdf
+    sourceLabel: Niseko United Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://www.niseko.ne.jp/ja/lift/
+  note: 以下為 2025-2026 全山共通券主要票種摘要；不同季節、線上購票與各單區票價可能不同。
+  plans:
+    - name: 全山共通 1 日券（Regular Season）
+      audience: 大人 / 兒童 / 中學生 / 敬老
+      price: 大人 ¥12,000；兒童 ¥7,200；中學生 ¥10,200；敬老 ¥10,200
+      note: Regular Season 為 2025/12/13-2026/3/22。
+    - name: 全山共通 2 日券（Regular Season）
+      audience: 大人 / 兒童 / 中學生 / 敬老
+      price: 大人 ¥23,500；兒童 ¥14,100；中學生 ¥20,000；敬老 ¥20,000
+    - name: 全山共通 5 日券（Regular Season）
+      audience: 大人 / 兒童 / 中學生 / 敬老
+      price: 大人 ¥58,000；兒童 ¥34,800；中學生 ¥49,300；敬老 ¥49,300
+    - name: 全山共通 1 日券（Early / Spring）
+      audience: 大人 / 兒童 / 中學生 / 敬老
+      price: 大人 ¥8,400；兒童 ¥5,000；中學生 ¥7,100；敬老 ¥7,100
 snowWeather:
   title: 二世谷聯合滑雪場雪況天氣
   provider: Weathernews
@@ -54,11 +99,33 @@ snowWeather:
       low: 8°C
       high: 3°C
   note: Weathernews 沒有單一 Niseko United 頁面，先以ニセコ東急 グラン・ヒラフ作為代表來源；天氣表格先沿用白馬五龍範例資料。
+elevation:
+  top: 1308
+  bottom: 260
+courses:
+  total: 73
+  beginnerRatio: 35
+  intermediateRatio: 35
+  advancedRatio: 30
+  courseInfoPage: https://www.niseko.ne.jp/en/trail-map/
+  summary: 二世谷聯合由 Annupuri、Niseko Village、Grand Hirafu、HANAZONO 四個滑雪區組成，可使用全山共通券跨區滑行，特色是粉雪、樹林區、夜滑與大型住宿聚落。
+  details: []
+lifts:
+  total: 30
+externalContent:
+  blogs: []
+  vlogs: []
 sources:
   - label: Niseko United Official Website
     url: https://www.niseko.ne.jp/
+  - label: Niseko United All Mountain Lift Pass
+    url: https://www.niseko.ne.jp/ja/lift/
+  - label: Niseko United Trail Map 2025-2026
+    url: https://www.niseko.ne.jp/ja/wp-content/uploads/2020/08/2025-2026_WEBMAP_JP.pdf
+  - label: Niseko United Lift Status
+    url: https://www.niseko.ne.jp/en/niseko-lift-status/
   - label: Niseko Tokyu Grand Hirafu Weathernews
     url: https://weathernews.jp/ski/spot/31605/
 ---
 
-二世谷聯合是北海道代表性的滑雪區之一。MVP 先保留穩定的官方入口與分類資訊，詳細交通、雪道與票券資訊以官方頁面為準。
+二世谷聯合是北海道最具代表性的粉雪滑雪區之一，由 Annupuri、Niseko Village、Grand Hirafu 與 HANAZONO 四個區域組成。全山共通券可跨區使用，適合重視粉雪、夜滑、住宿選擇與國際化滑雪村氛圍的旅客。
