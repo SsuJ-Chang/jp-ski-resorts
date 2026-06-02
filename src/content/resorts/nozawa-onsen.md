@@ -65,6 +65,42 @@ courses:
   courseInfoPage: https://en.nozawaski.com/the-mountain/ski-slopes-and-lift-status/
   summary: 野澤溫泉雪場範圍大，後續可依官方雪道圖逐條整理雪道名稱、難度、坡度與影片連結。
   details: []
+snowWeather:
+  title: 野澤溫泉滑雪場雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/34801/
+  snowDepth: 200 cm
+  updatedAt: 2026/4/30 09:00:00
+  forecast:
+    - date: 12/27(日)
+      weather: 雪
+      low: -5°C
+      high: 4°C
+    - date: 12/28(一)
+      weather: 大雪
+      low: -8°C
+      high: 0°C
+    - date: 12/29(二)
+      weather: 大雪
+      low: -9°C
+      high: -2°C
+    - date: 12/30(三)
+      weather: 雪
+      low: -5°C
+      high: 0°C
+    - date: 12/31(四)
+      weather: 陰
+      low: -3°C
+      high: 3°C
+    - date: 1/1(五)
+      weather: 雨
+      low: -4°C
+      high: 1°C
+    - date: 1/2(六)
+      weather: 晴
+      low: 8°C
+      high: 3°C
+  note: 天氣表格先沿用白馬五龍範例資料，僅 Weathernews 來源已改為野澤溫泉頁面。
 externalContent:
   blogs: []
   vlogs: []
@@ -75,6 +111,8 @@ sources:
     url: https://en.nozawaski.com/the-mountain/lift-ticket/ticket-prices/
   - label: Nozawa Onsen Trail Map 2025-2026
     url: https://en.nozawaski.com/pdf/gelandemap2025-26_en.pdf
+  - label: Nozawa Onsen Weathernews
+    url: https://weathernews.jp/ski/spot/34801/
 ---
 
 野澤溫泉滑雪場結合滑雪場與溫泉聚落。MVP 先記錄官方資訊入口，後續再補上從東京出發的交通摘要與適合族群。

@@ -53,10 +53,38 @@ snowWeather:
   title: 白馬岩岳滑雪場雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34809/
-  snowDepth: 待補
-  updatedAt: 待補
-  forecast: []
-  note: Weathernews 來源已確認，表格資料待人工更新。
+  snowDepth: 200 cm
+  updatedAt: 2026/4/30 09:00:00
+  forecast:
+    - date: 12/27(日)
+      weather: 雪
+      low: -5°C
+      high: 4°C
+    - date: 12/28(一)
+      weather: 大雪
+      low: -8°C
+      high: 0°C
+    - date: 12/29(二)
+      weather: 大雪
+      low: -9°C
+      high: -2°C
+    - date: 12/30(三)
+      weather: 雪
+      low: -5°C
+      high: 0°C
+    - date: 12/31(四)
+      weather: 陰
+      low: -3°C
+      high: 3°C
+    - date: 1/1(五)
+      weather: 雨
+      low: -4°C
+      high: 1°C
+    - date: 1/2(六)
+      weather: 晴
+      low: 8°C
+      high: 3°C
+  note: 天氣表格先沿用白馬五龍範例資料，僅 Weathernews 來源已改為白馬岩岳頁面。
 elevation:
   top: 1289
   bottom: 750
