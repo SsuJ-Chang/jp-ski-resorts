@@ -103,13 +103,13 @@ courses:
   details:
   - name: 草莓雪道 ストロベリーコース
     difficulty: beginner
-    length: 2200m
+    length: 2,200m
     maxSlope: 20°
     averageSlope: 10°
     note: 全場最長巡航雪道，沿途能飽覽上川盆地絕景。前半段平緩，後半段帶點微幅坡度，兩側富有天然雪牆地形（Bank），對單板 Regular 玩家來說是切牆盪來盪去的滑行天堂，非常適合新手與各層級玩家享受長途巡航。
   - name: 家庭雪道 ファミリーコース
     difficulty: beginner
-    length: 2000m
+    length: 2,000m
     maxSlope: 20°
     averageSlope: 13°
     note: 位於雪場右側、寬敞且極其和緩的超長巡航路線。非常適合初學者與親子家庭攜手共滑，能一邊欣賞大雪山連峰美景，一邊毫無壓力地在超長距離中安心練習 S 轉彎基本功。
@@ -127,25 +127,25 @@ courses:
     note: 初級想進階中級的安心練習區。坡度循序漸進，能讓玩家在無壓力的狀態下適應地形與不平整雪況。本雪道為雪場唯二開放夜間滑雪的路線，適合晚上想要挑戰帶有坡度、練動作的中級玩家。
   - name: 鑽石雪道 ダイヤモンドコース
     difficulty: intermediate
-    length: 1500m
+    length: 1,500m
     maxSlope: 20°
     averageSlope: 16°
     note: 坡度適中且穩定，被官方譽為能讓滑雪狂熱者身心愉悅的雪道。位置緊鄰第 3 纜車下方，兩側經常保有未壓過的鬆雪，非常適合拿來練習在「壓雪與粉雪」之間來回切換噴雪的滑法。
   - name: 活力雪道 ダイナミックコース
     difficulty: intermediate
-    length: 1800m
+    length: 1,800m
     maxSlope: 25°
     averageSlope: 16°
-    note: 寬幅極大的開放式滑道（Open Barn），地形起伏豐富。清晨壓雪後像精緻的壓雪麵條，寬敞到會讓人失去速度感，提供極佳的視野與空間，非常適合中上級玩家在此飆速、大腳狂切 Carving 刻滑。
+    note: 寬幅極大的開放式滑道（Open Barn），地形起伏豐富。清晨壓雪後像精緻的壓雪麵條，寬敞到會讓人失去速度感，提供極佳的視野與空間，非常適合中上級玩家在此飆速、大腳 carving。
   - name: 黃金雪道 ゴールデンコース
     difficulty: advanced
-    length: 1200m
+    length: 1,200m
     maxSlope: 33°
     averageSlope: 20°
     note: 從山頂直衝而下的急斜面雪道，由高處往下看極具視覺震撼。雪道上佈滿了狂野且不規則的天然雪丘（Moguls 饅頭地形），非常考驗連續轉彎的技術以及玩家過人的腳力。
   - name: 深雪・行家雪道 深雪・ベテランコース
     difficulty: ungroomed
-    length: 1300m
+    length: 1,300m
     maxSlope: 36°
     averageSlope: 20°
     note: 全場最陡、地形起伏與落差最大的強悍高難度黑道。屬於未整地雪道，在大雪過後的粉雪日（粉雪 Day），這裡會瞬間變成當地極限專家與粉雪愛好者第一時間衝上去搶衝 First Track 的深雪天堂。

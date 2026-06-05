@@ -118,7 +118,7 @@ courses:
     difficulty: beginner
     length: 900m
     maxSlope: 15°
-    note: 山麓寬幅初學者路線，從第 4 pair 纜車 左側下車後往 Center House 方向滑行，適合練習滑雪與 雪板。
+    note: 山麓寬幅初學者路線，從第 4 pair 纜車 左側下車後往 Center House 方向滑行，適合練習雙板與雪板。
   - name: センター / Center
     difficulty: beginner
     length: 800m
@@ -131,7 +131,7 @@ courses:
     note: 山麓寬幅初級路線，可運用寬敞雪道安全練習。
   - name: 初心者コース / Next Step
     difficulty: beginner
-    length: 4000m
+    length: 4,000m
     maxSlope: 18°
     note: 全長約 4,000m，從山頂延伸到山麓的初級路線，可欣賞樹冰並練習長距離滑行。
   - name: Jr.チャレンジ大岩 / The Rock
@@ -166,12 +166,12 @@ courses:
     note: 官方列為中級未壓雪粉雪路線，可從 Next Step 旁進入，適合已有基礎的滑雪者初次體驗 粉雪。
   - name: ゴールド2 / Gold 2
     difficulty: intermediate
-    length: 1200m
+    length: 1,200m
     maxSlope: 30°
     note: 神居主線 Gold 的中腹段，最大寬度約 150m，斜度與寬度適合動態 carving，但需注意速度。
   - name: 白樺2 / Shirakaba 2
     difficulty: intermediate
-    length: 1000m
+    length: 1,000m
     maxSlope: 28°
     note: 官方列為中級未壓雪路線，是 FIS、SAJ 公認競技設計路線的中腹段，急斜面常用於競賽與 pole 練習。
   - name: ロイヤル中級 / Royal Intermediate
@@ -181,17 +181,17 @@ courses:
     note: 山頂附近未壓雪路線，可享受深雪與急斜面，末段會與 Next Step 合流，需注意速度控制。
   - name: 連絡 / Link
     difficulty: intermediate
-    length: 1100m
+    length: 1,100m
     maxSlope: 26°
     note: 連接山頂、第 5 pair 纜車 與 箱型纜車 方向的壓雪路線、官方提醒注意第 5 pair 纜車 結束時間。
   - name: スラロームバーン / Slalom
     difficulty: intermediate
-    length: 1100m
+    length: 1,100m
     maxSlope: 28°
     note: 官方列為中級壓雪路線，位於第 5 pair 纜車 山頂左側，是神居最北側、雪質佳的壓雪斜面。
   - name: 林道 / Logging Road
     difficulty: intermediate
-    length: 1300m
+    length: 1,300m
     maxSlope: 26°
     note: 北向雪質佳的壓雪林道路線，也作為 Fresh 粉雪、Treerun、Bumps 等上級路線的連絡路。
   - name: ロイヤル上級 / Royal Advanced
@@ -206,7 +206,7 @@ courses:
     note: 山頂附近未壓雪 mogul 類型路線，官方提醒依自身技術滑行並注意安全。
   - name: ダイナミック / Dynamic
     difficulty: advanced
-    length: 1100m
+    length: 1,100m
     maxSlope: 35°
     note: 神居發祥路線，曾舉辦國體與全日本選手權，北向高坡度斜面適合具備控制能力的上級者。
   - name: ディープパウダー / Deep Powder
@@ -221,12 +221,12 @@ courses:
     note: 從 Logging Road 進入的期間限定林間深雪路線，可較輕鬆體驗神居名物 粉雪。
   - name: ツリーラン / Treerun
     difficulty: advanced
-    length: 1200m
+    length: 1,200m
     maxSlope: 30°
     note: 從 Logging Road 旁 gate 進入、往 箱型纜車 山麓方向下滑的未壓雪樹林路線，需具備深雪速度控制能力。
   - name: バンプス / Bumps
     difficulty: advanced
-    length: 1100m
+    length: 1,100m
     maxSlope: 30°
     note: 從 Logging Road 旁 gate 進入、往 箱型纜車 山麓方向下滑的未壓雪路線，包含樹木、倒木與凹凸地形。
   - name: トド松 / Todomatsu
@@ -285,7 +285,22 @@ terrainSummary:
   powder: 官方雪道資訊列出 Deep 粉雪、Fresh 粉雪、Royal粉雪、Treerun 等未壓雪粉雪路線，是神居的主要特色之一。
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+  - title: 滑雪新手必看｜日本旭川教練親身指導
+    url: https://www.youtube.com/watch?v=IgdO75z4ZnQ
+    note: 大林滑雪男子
+  - title: 「轉彎要耐心等待」？破解換刃卡關的關鍵：給板子空間去咬雪！
+    url: https://www.youtube.com/watch?v=mbAaTbFQfRQ&t=31s
+    note: 大林滑雪男子
+  - title: 為什麼滑雪高手都要「上下分離」？Willie 教練教你如何在神居滑出激進線條
+    url: https://www.youtube.com/watch?v=VJUC9pc4SRY
+    note: 大林滑雪男子
+  - title: 神居滑雪 VLOG：Willie 教練的一拳教學法！
+    url: https://www.youtube.com/watch?v=YJqxAG1rIkw
+    note: 大林滑雪男子
+  - title: 樹林深雪陷阱：掉進雪洞該如何自救？
+    url: https://www.youtube.com/watch?v=9DklDLj-4kI
+    note: 大林滑雪男子
 sources:
 - label: Kamui Ski Links Official Website
   url: https://www.kamui-skilinks.com/
