@@ -1,56 +1,65 @@
 ---
-id: hakuba-iwatake
+id: joetsu-kokusai
 name:
-  zhTw: 白馬岩岳
-  ja: 白馬岩岳マウンテンリゾート
-  en: Hakuba Iwatake Snow Field
+  zhTw: 上越國際
+  ja: 上越国際スキー場
+  en: Joetsu Kokusai Ski Resort
 region: kanto-koshinetsu
-prefecture: 長野縣
-skiArea: hakuba
+prefecture: 新潟縣
+skiArea: yuzawa
 tags:
-- powder
-- large_ski_area
-- snowboard_friendly
-- tree_run
+- beginner_friendly
 - family_friendly
+- good_for_first_japan_trip
+- no_car_accessible
+- snowboard_friendly
+- large_ski_area
+- night_skiing
+- resort_village
 links:
-  official: https://iwatake-mountain-resort.com/winter
-  trailMapPage: https://iwatake-mountain-resort.com/winter/course_lift
-  ticket: https://iwatake-mountain-resort.com/winter/rates/
-  access: https://iwatake-mountain-resort.com/access
-  weather: https://iwatake-mountain-resort.com/winter/course_lift
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Iwatake%20Snow%20Field
+  official: https://jkokusai.co.jp/ski/
+  trailMapPage: https://jkokusai.co.jp/ski/gelande/
+  ticket: https://jkokusai.co.jp/ski/lift/hayawariticket/
+  access: https://jkokusai.co.jp/ski/access/
+  weather: https://jkokusai.co.jp/ski/gelande/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=Joetsu%20Kokusai%20Ski%20Resort
 contact:
   address:
-    zhTw: 長野縣北安曇郡白馬村北城 12056
-    ja: "〒399-9301 長野県北安曇郡白馬村北城12056"
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Iwatake%20Snow%20Field
-  phone: 0261-72-2474
+    zhTw: 新潟縣南魚沼市樺野澤 112-1
+    ja: "〒949-6431 新潟県南魚沼市樺野沢112-1"
+    googleMaps: https://www.google.com/maps/search/?api=1&query=Joetsu%20Kokusai%20Ski%20Resort
+  phone: 025-782-1028
 season:
   label: 2025-2026
   operatingPeriod: 請以官方公告為準
   hours: 請以官方營業時間公告為準
   note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
-  source: https://iwatake-mountain-resort.com/winter/rates/
+  source: https://jkokusai.co.jp/ski/lift/hayawariticket/
 trailMaps:
-- label: 白馬岩岳雪場圖
+- label: 上越國際雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://iwatake-mountain-resort.com/winter/course_lift
-  sourceLabel: Hakuba Iwatake Snow Field
+  url: https://jkokusai.co.jp/ski/gelande/
+  sourceLabel: Joetsu Kokusai Ski Resort
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://iwatake-mountain-resort.com/winter/rates/
+  source: https://jkokusai.co.jp/ski/lift/hayawariticket/
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
-  - name: 1 日券
-    audience: 成人、兒童
-    price: 待依 2025-2026 官網票價頁補齊
+  - name: 1 日入場券
+    audience: 成人、兒童、熟齡
+    price: 成人 ¥5,500、兒童 ¥3,500、熟齡 ¥4,300
+  - name: 1 日入場券+
+    audience: 成人、兒童、熟齡
+    price: 成人 ¥5,800、兒童 ¥3,800、熟齡 ¥4,600
+  - name: 夜滑入場券
+    audience: 成人、兒童、熟齡
+    price: 成人 ¥1,500、兒童 ¥1,000、熟齡 ¥1,000
 snowWeather:
-  title: 白馬岩岳雪況天氣
+  title: 上越國際雪況天氣
   provider: Official / Weathernews
-  url: https://iwatake-mountain-resort.com/winter/course_lift
+  url: https://jkokusai.co.jp/ski/gelande/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:
@@ -87,11 +96,11 @@ mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3
   approximatePosition:
-    x: 55
-    "y": 43
+    x: 47
+    "y": 54
 courses:
-  courseInfoPage: https://iwatake-mountain-resort.com/winter/course_lift
-  summary: 白馬岩岳以山頂景觀、Iwatake Back Bowl、寬廣巡航與觀光設施為特色。
+  courseInfoPage: https://jkokusai.co.jp/ski/gelande/
+  summary: 上越國際是南魚沼的大型雪場，官方票價頁列出 2025/12/13-2026/4/5 營業與夜滑期間。
   details: []
 access:
   fromTokyo:
@@ -103,8 +112,8 @@ access:
     difficulty: medium
     note: 詳細班次與接駁期間請以官方 access 頁與當季時刻表為準。
     links:
-    - label: Hakuba Iwatake Snow Field Access
-      url: https://iwatake-mountain-resort.com/access
+    - label: Joetsu Kokusai Ski Resort Access
+      url: https://jkokusai.co.jp/ski/access/
   car:
     recommended: false
     snowTireRequired: true
@@ -118,11 +127,11 @@ externalContent:
   blogs: []
   vlogs: []
 sources:
-- label: Hakuba Iwatake Snow Field Official Website
-  url: https://iwatake-mountain-resort.com/winter
-- label: Hakuba Iwatake Snow Field Course / Trail Map
-  url: https://iwatake-mountain-resort.com/winter/course_lift
-- label: Hakuba Iwatake Snow Field Ticket
-  url: https://iwatake-mountain-resort.com/winter/rates/
+- label: Joetsu Kokusai Ski Resort Official Website
+  url: https://jkokusai.co.jp/ski/
+- label: Joetsu Kokusai Ski Resort Course / Trail Map
+  url: https://jkokusai.co.jp/ski/gelande/
+- label: Joetsu Kokusai Ski Resort Ticket
+  url: https://jkokusai.co.jp/ski/lift/hayawariticket/
 ---
-白馬岩岳以山頂景觀、Iwatake Back Bowl、寬廣巡航與觀光設施為特色。
+上越國際是南魚沼的大型雪場，官方票價頁列出 2025/12/13-2026/4/5 營業與夜滑期間。

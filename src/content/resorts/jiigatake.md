@@ -1,56 +1,60 @@
 ---
-id: hakuba-iwatake
+id: jiigatake
 name:
-  zhTw: 白馬岩岳
-  ja: 白馬岩岳マウンテンリゾート
-  en: Hakuba Iwatake Snow Field
+  zhTw: 爺岳
+  ja: 爺ガ岳スキー場
+  en: Jiigatake Snow Resort
 region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: hakuba
 tags:
-- powder
-- large_ski_area
-- snowboard_friendly
-- tree_run
+- beginner_friendly
 - family_friendly
+- snowboard_friendly
 links:
-  official: https://iwatake-mountain-resort.com/winter
-  trailMapPage: https://iwatake-mountain-resort.com/winter/course_lift
-  ticket: https://iwatake-mountain-resort.com/winter/rates/
-  access: https://iwatake-mountain-resort.com/access
-  weather: https://iwatake-mountain-resort.com/winter/course_lift
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Iwatake%20Snow%20Field
+  official: https://jiigatake.com/
+  trailMapPage: https://jiigatake.com/slope/
+  ticket: https://jiigatake.com/price/
+  access: https://jiigatake.com/access/
+  weather: https://jiigatake.com/slope/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=Jiigatake%20Snow%20Resort
 contact:
   address:
-    zhTw: 長野縣北安曇郡白馬村北城 12056
-    ja: "〒399-9301 長野県北安曇郡白馬村北城12056"
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Iwatake%20Snow%20Field
-  phone: 0261-72-2474
+    zhTw: 長野縣大町市平 4819
+    ja: 長野県大町市平4819
+    googleMaps: https://www.google.com/maps/search/?api=1&query=Jiigatake%20Snow%20Resort
+  phone: 0261-22-0551
 season:
   label: 2025-2026
   operatingPeriod: 請以官方公告為準
   hours: 請以官方營業時間公告為準
   note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
-  source: https://iwatake-mountain-resort.com/winter/rates/
+  source: https://jiigatake.com/price/
 trailMaps:
-- label: 白馬岩岳雪場圖
+- label: 爺岳雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://iwatake-mountain-resort.com/winter/course_lift
-  sourceLabel: Hakuba Iwatake Snow Field
+  url: https://jiigatake.com/slope/
+  sourceLabel: Jiigatake Snow Resort
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://iwatake-mountain-resort.com/winter/rates/
+  source: https://jiigatake.com/price/
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童
-    price: 待依 2025-2026 官網票價頁補齊
+    audience: 成人、兒童、學生與熟齡
+    price: 成人 ¥5,400、兒童 ¥3,200、學生與熟齡 ¥4,400
+  - name: 平日 1 日券
+    audience: 成人、兒童、學生與熟齡
+    price: 成人 ¥4,900、兒童 ¥2,900、學生與熟齡 ¥3,900
+  - name: 半日券
+    audience: 成人、兒童、學生與熟齡
+    price: 成人 ¥3,900、兒童 ¥2,500、學生與熟齡 ¥3,200
 snowWeather:
-  title: 白馬岩岳雪況天氣
+  title: 爺岳雪況天氣
   provider: Official / Weathernews
-  url: https://iwatake-mountain-resort.com/winter/course_lift
+  url: https://jiigatake.com/slope/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:
@@ -90,8 +94,8 @@ mapDisplay:
     x: 55
     "y": 43
 courses:
-  courseInfoPage: https://iwatake-mountain-resort.com/winter/course_lift
-  summary: 白馬岩岳以山頂景觀、Iwatake Back Bowl、寬廣巡航與觀光設施為特色。
+  courseInfoPage: https://jiigatake.com/slope/
+  summary: 爺岳是白馬 Valley 南端的家庭與初學者取向雪場，官網主打 debut slope。
   details: []
 access:
   fromTokyo:
@@ -103,8 +107,8 @@ access:
     difficulty: medium
     note: 詳細班次與接駁期間請以官方 access 頁與當季時刻表為準。
     links:
-    - label: Hakuba Iwatake Snow Field Access
-      url: https://iwatake-mountain-resort.com/access
+    - label: Jiigatake Snow Resort Access
+      url: https://jiigatake.com/access/
   car:
     recommended: false
     snowTireRequired: true
@@ -118,11 +122,11 @@ externalContent:
   blogs: []
   vlogs: []
 sources:
-- label: Hakuba Iwatake Snow Field Official Website
-  url: https://iwatake-mountain-resort.com/winter
-- label: Hakuba Iwatake Snow Field Course / Trail Map
-  url: https://iwatake-mountain-resort.com/winter/course_lift
-- label: Hakuba Iwatake Snow Field Ticket
-  url: https://iwatake-mountain-resort.com/winter/rates/
+- label: Jiigatake Snow Resort Official Website
+  url: https://jiigatake.com/
+- label: Jiigatake Snow Resort Course / Trail Map
+  url: https://jiigatake.com/slope/
+- label: Jiigatake Snow Resort Ticket
+  url: https://jiigatake.com/price/
 ---
-白馬岩岳以山頂景觀、Iwatake Back Bowl、寬廣巡航與觀光設施為特色。
+爺岳是白馬 Valley 南端的家庭與初學者取向雪場，官網主打 debut slope。

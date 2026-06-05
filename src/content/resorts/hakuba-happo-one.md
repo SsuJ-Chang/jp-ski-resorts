@@ -1,9 +1,9 @@
 ---
-id: hakuba-iwatake
+id: hakuba-happo-one
 name:
-  zhTw: 白馬岩岳
-  ja: 白馬岩岳マウンテンリゾート
-  en: Hakuba Iwatake Snow Field
+  zhTw: 白馬八方尾根
+  ja: 白馬八方尾根スキー場
+  en: Hakuba Happo-one Snow Resort
 region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: hakuba
@@ -11,46 +11,51 @@ tags:
 - powder
 - large_ski_area
 - snowboard_friendly
-- tree_run
-- family_friendly
+- no_car_accessible
 links:
-  official: https://iwatake-mountain-resort.com/winter
-  trailMapPage: https://iwatake-mountain-resort.com/winter/course_lift
-  ticket: https://iwatake-mountain-resort.com/winter/rates/
-  access: https://iwatake-mountain-resort.com/access
-  weather: https://iwatake-mountain-resort.com/winter/course_lift
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Iwatake%20Snow%20Field
+  official: https://www.happo-one.jp/
+  trailMapPage: https://www.happo-one.jp/gelande/
+  ticket: https://www.happo-one.jp/ticket/
+  access: https://www.happo-one.jp/access/
+  weather: https://www.happo-one.jp/gelande/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Happo-one%20Snow%20Resort
 contact:
   address:
-    zhTw: 長野縣北安曇郡白馬村北城 12056
-    ja: "〒399-9301 長野県北安曇郡白馬村北城12056"
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Iwatake%20Snow%20Field
-  phone: 0261-72-2474
+    zhTw: 長野縣北安曇郡白馬村北城八方
+    ja: 長野県北安曇郡白馬村北城八方
+    googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Happo-one%20Snow%20Resort
+  phone: 0261-72-3066
 season:
   label: 2025-2026
   operatingPeriod: 請以官方公告為準
   hours: 請以官方營業時間公告為準
   note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
-  source: https://iwatake-mountain-resort.com/winter/rates/
+  source: https://www.happo-one.jp/ticket/
 trailMaps:
-- label: 白馬岩岳雪場圖
+- label: 白馬八方尾根雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://iwatake-mountain-resort.com/winter/course_lift
-  sourceLabel: Hakuba Iwatake Snow Field
+  url: https://www.happo-one.jp/gelande/
+  sourceLabel: Hakuba Happo-one Snow Resort
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://iwatake-mountain-resort.com/winter/rates/
+  source: https://www.happo-one.jp/ticket/
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
-  - name: 1 日券
+  - name: 高峰期 1 日券
+    audience: 成人、兒童、熟齡
+    price: 成人 ¥8,700、兒童 ¥4,350、熟齡 ¥8,400
+  - name: 高峰期 2 日券
+    audience: 成人、兒童、熟齡
+    price: 成人 ¥17,400、兒童 ¥8,700、熟齡 ¥16,800
+  - name: 上午／下午券
     audience: 成人、兒童
-    price: 待依 2025-2026 官網票價頁補齊
+    price: 成人 ¥7,200、兒童 ¥3,600
 snowWeather:
-  title: 白馬岩岳雪況天氣
+  title: 白馬八方尾根雪況天氣
   provider: Official / Weathernews
-  url: https://iwatake-mountain-resort.com/winter/course_lift
+  url: https://www.happo-one.jp/gelande/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:
@@ -90,8 +95,8 @@ mapDisplay:
     x: 55
     "y": 43
 courses:
-  courseInfoPage: https://iwatake-mountain-resort.com/winter/course_lift
-  summary: 白馬岩岳以山頂景觀、Iwatake Back Bowl、寬廣巡航與觀光設施為特色。
+  courseInfoPage: https://www.happo-one.jp/gelande/
+  summary: 白馬八方尾根是白馬代表性大型雪場，2025-2026 官網票價頁已公開主要票種。
   details: []
 access:
   fromTokyo:
@@ -103,8 +108,8 @@ access:
     difficulty: medium
     note: 詳細班次與接駁期間請以官方 access 頁與當季時刻表為準。
     links:
-    - label: Hakuba Iwatake Snow Field Access
-      url: https://iwatake-mountain-resort.com/access
+    - label: Hakuba Happo-one Snow Resort Access
+      url: https://www.happo-one.jp/access/
   car:
     recommended: false
     snowTireRequired: true
@@ -118,11 +123,11 @@ externalContent:
   blogs: []
   vlogs: []
 sources:
-- label: Hakuba Iwatake Snow Field Official Website
-  url: https://iwatake-mountain-resort.com/winter
-- label: Hakuba Iwatake Snow Field Course / Trail Map
-  url: https://iwatake-mountain-resort.com/winter/course_lift
-- label: Hakuba Iwatake Snow Field Ticket
-  url: https://iwatake-mountain-resort.com/winter/rates/
+- label: Hakuba Happo-one Snow Resort Official Website
+  url: https://www.happo-one.jp/
+- label: Hakuba Happo-one Snow Resort Course / Trail Map
+  url: https://www.happo-one.jp/gelande/
+- label: Hakuba Happo-one Snow Resort Ticket
+  url: https://www.happo-one.jp/ticket/
 ---
-白馬岩岳以山頂景觀、Iwatake Back Bowl、寬廣巡航與觀光設施為特色。
+白馬八方尾根是白馬代表性大型雪場，2025-2026 官網票價頁已公開主要票種。

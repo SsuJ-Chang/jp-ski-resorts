@@ -1,9 +1,9 @@
 ---
-id: hakuba-iwatake
+id: kashimayari
 name:
-  zhTw: 白馬岩岳
-  ja: 白馬岩岳マウンテンリゾート
-  en: Hakuba Iwatake Snow Field
+  zhTw: 鹿島槍
+  ja: 鹿島槍スキー場
+  en: Kashimayari Snow Resort
 region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: hakuba
@@ -11,46 +11,45 @@ tags:
 - powder
 - large_ski_area
 - snowboard_friendly
-- tree_run
 - family_friendly
 links:
-  official: https://iwatake-mountain-resort.com/winter
-  trailMapPage: https://iwatake-mountain-resort.com/winter/course_lift
-  ticket: https://iwatake-mountain-resort.com/winter/rates/
-  access: https://iwatake-mountain-resort.com/access
-  weather: https://iwatake-mountain-resort.com/winter/course_lift
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Iwatake%20Snow%20Field
+  official: https://www.kashimayari.net/snow/
+  trailMapPage: https://www.kashimayari.net/snow/course/
+  ticket: https://www.kashimayari.net/snow/ticket/
+  access: https://www.kashimayari.net/snow/access/
+  weather: https://www.kashimayari.net/snow/course/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=Kashimayari%20Snow%20Resort
 contact:
   address:
-    zhTw: 長野縣北安曇郡白馬村北城 12056
-    ja: "〒399-9301 長野県北安曇郡白馬村北城12056"
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Iwatake%20Snow%20Field
-  phone: 0261-72-2474
+    zhTw: 長野縣大町市平 20490-4
+    ja: "〒398-0001 長野県大町市平20490-4"
+    googleMaps: https://www.google.com/maps/search/?api=1&query=Kashimayari%20Snow%20Resort
+  phone: 0261-23-1231
 season:
   label: 2025-2026
   operatingPeriod: 請以官方公告為準
   hours: 請以官方營業時間公告為準
   note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
-  source: https://iwatake-mountain-resort.com/winter/rates/
+  source: https://www.kashimayari.net/snow/ticket/
 trailMaps:
-- label: 白馬岩岳雪場圖
+- label: 鹿島槍雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://iwatake-mountain-resort.com/winter/course_lift
-  sourceLabel: Hakuba Iwatake Snow Field
+  url: https://www.kashimayari.net/snow/course/
+  sourceLabel: Kashimayari Snow Resort
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://iwatake-mountain-resort.com/winter/rates/
+  source: https://www.kashimayari.net/snow/ticket/
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 1 日券
     audience: 成人、兒童
     price: 待依 2025-2026 官網票價頁補齊
 snowWeather:
-  title: 白馬岩岳雪況天氣
+  title: 鹿島槍雪況天氣
   provider: Official / Weathernews
-  url: https://iwatake-mountain-resort.com/winter/course_lift
+  url: https://www.kashimayari.net/snow/course/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:
@@ -90,8 +89,8 @@ mapDisplay:
     x: 55
     "y": 43
 courses:
-  courseInfoPage: https://iwatake-mountain-resort.com/winter/course_lift
-  summary: 白馬岩岳以山頂景觀、Iwatake Back Bowl、寬廣巡航與觀光設施為特色。
+  courseInfoPage: https://www.kashimayari.net/snow/course/
+  summary: 鹿島槍位於白馬 Valley 南側的大町區域，近年以 family park 與雪上活動設施為特色。
   details: []
 access:
   fromTokyo:
@@ -103,8 +102,8 @@ access:
     difficulty: medium
     note: 詳細班次與接駁期間請以官方 access 頁與當季時刻表為準。
     links:
-    - label: Hakuba Iwatake Snow Field Access
-      url: https://iwatake-mountain-resort.com/access
+    - label: Kashimayari Snow Resort Access
+      url: https://www.kashimayari.net/snow/access/
   car:
     recommended: false
     snowTireRequired: true
@@ -118,11 +117,11 @@ externalContent:
   blogs: []
   vlogs: []
 sources:
-- label: Hakuba Iwatake Snow Field Official Website
-  url: https://iwatake-mountain-resort.com/winter
-- label: Hakuba Iwatake Snow Field Course / Trail Map
-  url: https://iwatake-mountain-resort.com/winter/course_lift
-- label: Hakuba Iwatake Snow Field Ticket
-  url: https://iwatake-mountain-resort.com/winter/rates/
+- label: Kashimayari Snow Resort Official Website
+  url: https://www.kashimayari.net/snow/
+- label: Kashimayari Snow Resort Course / Trail Map
+  url: https://www.kashimayari.net/snow/course/
+- label: Kashimayari Snow Resort Ticket
+  url: https://www.kashimayari.net/snow/ticket/
 ---
-白馬岩岳以山頂景觀、Iwatake Back Bowl、寬廣巡航與觀光設施為特色。
+鹿島槍位於白馬 Valley 南側的大町區域，近年以 family park 與雪上活動設施為特色。

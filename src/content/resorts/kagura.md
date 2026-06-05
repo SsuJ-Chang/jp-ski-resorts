@@ -32,7 +32,12 @@ season:
   nightSkiingHours: 無夜滑
   note: かぐら、みつまた、田代三區域構成，營業期間較長、實際開放請以官方公告為準。
   source: https://www.princehotels.co.jp/ski/kagura/winter/lift/
-trailMaps: []
+trailMaps:
+- label: 神樂雪場圖
+  language: 日本語
+  season: 2025-2026
+  url: https://www.princehotels.co.jp/ski/kagura/winter/coursemap/
+  sourceLabel: Kagura Official
 tickets:
   season: 2025-2026
   currency: JPY
@@ -95,17 +100,189 @@ courses:
   intermediateRatio: 44
   advancedRatio: 19
   courseInfoPage: https://www.princehotels.co.jp/ski/kagura/winter/coursemap/
-  summary: 神樂由かぐら、みつまた、田代三區域組成，海拔高、雪季長，是湯澤區域著名的大型粉雪與春滑雪場。
-  details: []
+  summary: 神樂由かぐら、みつまた、田代三區域組成，官方列出 30 條雪道，包含初級連絡長距離路線、中級主線與上級非壓雪、雪丘路線。
+  details:
+  - name: E1 ゴンドラコース
+    difficulty: beginner
+    length: 3,362m
+    maxSlope: 26°
+    averageSlope: 7°
+    note: 穿越山毛櫸林的長距離路線，官方說明中段有部分中斜面，但可透過迂迴路線通過，也是從かぐら區域返回的路線。
+  - name: A1 ファミリーコース
+    difficulty: beginner
+    length: 1,082m
+    maxSlope: 18°
+    averageSlope: 10°
+  - name: E2 ゴンドララインコース
+    difficulty: beginner
+    length: 644m
+    maxSlope: 16°
+    averageSlope: 10°
+    note: 官方說明為初級者向路線，也作為前往かぐら區域的連絡路。
+  - name: T1 らくらくコース
+    difficulty: beginner
+    length: 499m
+    maxSlope: 9°
+    averageSlope: 7°
+  - name: U1 田代レディースコース
+    difficulty: beginner
+    length: 882m
+    maxSlope: 17°
+    averageSlope: 9°
+    note: 官方說明這是整備良好的寬廣緩坡，初級者與女性滑行者也容易使用，上部可眺望三國連山。
+  - name: U2 スカイラインコース
+    difficulty: beginner
+    length: 2,083m
+    maxSlope: 18°
+    averageSlope: 6°
+    note: 從田代第 1 高速纜車一路滑向田代 Ladies Course；官方提醒起滑處稍有坡度，要注意不要速度過快。
+  - name: V1 ゴンドライーストコース
+    difficulty: beginner
+    length: 1,099m
+    maxSlope: 18°
+    averageSlope: 7°
+    note: 全長約 1,000m 的林間路線，官方說明前方可見谷川連峰，下方有 Dragondola 山頂站與餐廳 Almu。
+  - name: X1 田代アリエスカコース
+    difficulty: beginner
+    length: 1,408m
+    maxSlope: 15°
+    averageSlope: 9°
+    note: 官方說明這是田代區域人氣路線，視野可見田代湖與越後連山，下方有餐廳可休息。
+  - name: X2 田代第1高速リフト連絡コース
+    difficulty: beginner
+    length: 1,058m
+    maxSlope: 9°
+    averageSlope: 4°
+    note: 田代第 2 高速與第 2 romance 纜車下車後，前往田代第 1 高速纜車的聯絡路線。
+  - name: X3 親切コース
+    difficulty: beginner
+    length: 346m
+    maxSlope: 10°
+    averageSlope: 4°
+  - name: Y1 田代湖コース
+    difficulty: beginner
+    length: 578m
+    maxSlope: 18°
+    averageSlope: 10°
+    note: 官方說明坡度適中且雪道寬，可依自己的節奏轉彎。
+  - name: F1 かぐらメインゲレンデ
+    difficulty: intermediate
+    length: 1,512m
+    maxSlope: 27°
+    averageSlope: 13°
+    note: かぐら代表性人氣路線，官方說明從雪季初期到春滑都可滑行；中段可利用迂迴路線，初級者也可通過。
+  - name: F2 かぐらメインゲレンデ迂回
+    difficulty: intermediate
+    length: 628m
+    maxSlope: 22°
+    averageSlope: 9°
+  - name: F3 かぐら連絡コース
+    difficulty: intermediate
+    length: 962m
+    maxSlope: 14°
+    averageSlope: 12°
+  - name: H1 パノラマコース
+    difficulty: intermediate
+    length: 655m
+    maxSlope: 22°
+    averageSlope: 16°
+    note: 可眺望田代湖的かぐら區域路線，官方說明景觀佳，也能一望田代區域。
+  - name: H2 田代ーかぐら連絡コース
+    difficulty: intermediate
+    length: 815m
+    maxSlope: 9°
+    averageSlope: 6°
+    note: 連接かぐら區域與田代區域的連絡路線；官方提醒開放與關閉時間會因日照時間而改變。
+  - name: X4 かぐら第1高速リフト～田代第1高速リフト連絡コース
+    difficulty: intermediate
+    length: 2,673m
+    maxSlope: 23°
+    averageSlope: 8°
+  - name: MR1 下山コース
+    difficulty: intermediate
+    length: 1,499m
+    maxSlope: 19°
+    averageSlope: 9°
+    note: 官方說明雪道寬度較窄，為上級者專用下山路線；初級與中級者建議搭乘 ropeway 箱型纜車下山。
+  - name: B1 大会バーン
+    difficulty: intermediate
+    length: 800m
+    maxSlope: 18°
+    averageSlope: 13°
+    note: 官方說明有適度緩急變化，適合作為脫離初級的練習路線，也常設 slopestyle cross 雪道。
+  - name: C1 サンシャインコース
+    difficulty: intermediate
+    length: 266m
+    maxSlope: 12°
+    averageSlope: 12°
+  - name: T2 田代第1ゲレンデA
+    difficulty: intermediate
+    length: 343m
+    maxSlope: 27°
+    averageSlope: 16°
+    note: 從田代 ropeway 箱型纜車山頂站出發後的第一條路線；官方建議初級者改走 Rakuraku Course。
+  - name: V2 こぶこぶコース
+    difficulty: intermediate
+    length: 444m
+    maxSlope: 23°
+    averageSlope: 8°
+  - name: Y2 ダイナミックコース
+    difficulty: intermediate
+    length: 423m
+    maxSlope: 27°
+    averageSlope: 14°
+    note: 官方說明為中級者人氣路線，適合高速轉彎；雪道側邊設有非壓雪區，可體驗粉雪。
+  - name: Z1 かもしかコース
+    difficulty: intermediate
+    length: 612m
+    maxSlope: 11°
+    averageSlope: 11°
+    note: 從田代第 6 romance 纜車下車處前往田代第 8 romance 纜車乘車處的初級者迂迴路線。
+  - name: F4 ジャイアントコース
+    difficulty: advanced
+    length: 611m
+    maxSlope: 27°
+    averageSlope: 21°
+    note: 官方說明此路線變化豐富、最大 27°，未經雪上車整備，降雪時可享受非壓雪滑行。
+  - name: F5 テクニカルコース
+    difficulty: advanced
+    length: 441m
+    maxSlope: 29°
+    averageSlope: 20°
+    note: 官方說明為未經雪上車整備的急斜面，連續不規則雪丘；1-2 月為深雪，春滑時受雪丘愛好者歡迎。
+  - name: F6 かぐら第5ロマンスリフト～かぐらメインコース
+    difficulty: advanced
+    length: 444m
+    maxSlope: 24°
+    averageSlope: 11°
+  - name: I1 林間エキスパートコース
+    difficulty: advanced
+    length: 661m
+    maxSlope: 30°
+    averageSlope: 18°
+    note: 位於かぐら最上部、標高約 1,800m 的非壓雪林間路線；官方說明是上級者專用路線。
+  - name: Y3 チャレンジバーン
+    difficulty: advanced
+    length: 492m
+    maxSlope: 32°
+    averageSlope: 24°
+    note: 官方說明上部看似平緩，但有 32° 斜面與雪丘；深雪時可享受粉雪。
+  - name: T3 田代第1ゲレンデB
+    difficulty: advanced
+    length: 367m
+    maxSlope: 27°
+    averageSlope: 17°
 lifts:
-  total: 18
+  total: 17
 externalContent:
   blogs: []
   vlogs: []
 sources:
-- label: Kagura Ski Resort Official Website
+- label: Kagura Official Website
   url: https://www.princehotels.co.jp/ski/kagura/winter/
-- label: Kagura 纜車 Fee
+- label: Kagura Course Map and Status
+  url: https://www.princehotels.co.jp/ski/kagura/winter/coursemap/
+- label: Kagura Lift Fee
   url: https://www.princehotels.co.jp/ski/kagura/winter/lift/
 - label: Kagura Weathernews
   url: https://weathernews.jp/ski/spot/35473/
