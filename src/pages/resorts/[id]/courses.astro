@@ -27,6 +27,21 @@ export async function getStaticPaths() {
 
 const { resort } = Astro.props
 const courseDetails = resort.data.courses?.details ?? []
+const previewCourseCount = 3
+const difficultyOrder = ['beginner', 'intermediate', 'advanced', 'expert', 'ungroomed', 'mixed'] as const
+const courseGroups = difficultyOrder
+  .map((difficulty) => {
+    const courses = courseDetails.filter((course) => course.difficulty === difficulty)
+
+    return {
+      difficulty,
+      label: difficultyLabels[difficulty],
+      courses,
+      previewCourses: courses.slice(0, previewCourseCount),
+      collapsedCourses: courses.slice(previewCourseCount),
+    }
+  })
+  .filter((group) => group.courses.length > 0)
 ---
 
 <BaseLayout
@@ -46,48 +61,113 @@ const courseDetails = resort.data.courses?.details ?? []
       </div>
     </section>
 
-    <section class="course-list" aria-label={`${resort.data.name.zhTw} courses`}>
+    <section class="course-level-list" aria-label={`${resort.data.name.zhTw} courses`}>
       {
-        courseDetails.length > 0 ? (
-          courseDetails.map((course) => (
-            <article class="course-card">
-              <div>
-                <span class={`difficulty-badge difficulty-badge--${course.difficulty}`}>
-                  {difficultyLabels[course.difficulty]}
-                </span>
-                <h2>{course.name}</h2>
-                {course.note && <p>{course.note}</p>}
+        courseGroups.length > 0 ? (
+          courseGroups.map((group) => (
+            <section class="course-level-section" aria-labelledby={`course-level-${group.difficulty}`}>
+              <div class="course-level-header">
+                <div>
+                  <span class={`difficulty-badge difficulty-badge--${group.difficulty}`}>
+                    {group.label}
+                  </span>
+                  <h2 id={`course-level-${group.difficulty}`}>{group.label}雪道</h2>
+                </div>
+                <p>{group.courses.length} 條雪道</p>
               </div>
-              <dl class="course-facts">
-                {course.length && (
-                  <div>
-                    <dt>長度</dt>
-                    <dd>{course.length}</dd>
+
+              <div class="course-list">
+                {group.previewCourses.map((course) => (
+                  <article class="course-card">
+                    <div>
+                      <h3>{course.name}</h3>
+                      {course.note && <p>{course.note}</p>}
+                    </div>
+                    <dl class="course-facts">
+                      {course.length && (
+                        <div>
+                          <dt>長度</dt>
+                          <dd>{course.length}</dd>
+                        </div>
+                      )}
+                      {course.maxSlope && (
+                        <div>
+                          <dt>最大坡度</dt>
+                          <dd>{course.maxSlope}</dd>
+                        </div>
+                      )}
+                      {course.averageSlope && (
+                        <div>
+                          <dt>平均坡度</dt>
+                          <dd>{course.averageSlope}</dd>
+                        </div>
+                      )}
+                    </dl>
+                    {course.videoLinks && course.videoLinks.length > 0 && (
+                      <ul class="link-list">
+                        {course.videoLinks.map((video) => (
+                          <li>
+                            <a href={video.url} target="_blank" rel="noreferrer">{video.title}</a>
+                          </li>
+                        ))}
+                      </ul>
+                    )}
+                  </article>
+                ))}
+              </div>
+
+              {group.collapsedCourses.length > 0 && (
+                <details class="course-collapse">
+                  <summary>
+                    <span class="summary-state summary-state--closed">
+                      顯示其餘 {group.collapsedCourses.length} 條{group.label}雪道
+                    </span>
+                    <span class="summary-state summary-state--open">
+                      收合{group.label}雪道
+                    </span>
+                  </summary>
+                  <div class="course-list course-list--collapsed">
+                    {group.collapsedCourses.map((course) => (
+                      <article class="course-card">
+                        <div>
+                          <h3>{course.name}</h3>
+                          {course.note && <p>{course.note}</p>}
+                        </div>
+                        <dl class="course-facts">
+                          {course.length && (
+                            <div>
+                              <dt>長度</dt>
+                              <dd>{course.length}</dd>
+                            </div>
+                          )}
+                          {course.maxSlope && (
+                            <div>
+                              <dt>最大坡度</dt>
+                              <dd>{course.maxSlope}</dd>
+                            </div>
+                          )}
+                          {course.averageSlope && (
+                            <div>
+                              <dt>平均坡度</dt>
+                              <dd>{course.averageSlope}</dd>
+                            </div>
+                          )}
+                        </dl>
+                        {course.videoLinks && course.videoLinks.length > 0 && (
+                          <ul class="link-list">
+                            {course.videoLinks.map((video) => (
+                              <li>
+                                <a href={video.url} target="_blank" rel="noreferrer">{video.title}</a>
+                              </li>
+                            ))}
+                          </ul>
+                        )}
+                      </article>
+                    ))}
                   </div>
-                )}
-                {course.maxSlope && (
-                  <div>
-                    <dt>最大坡度</dt>
-                    <dd>{course.maxSlope}</dd>
-                  </div>
-                )}
-                {course.averageSlope && (
-                  <div>
-                    <dt>平均坡度</dt>
-                    <dd>{course.averageSlope}</dd>
-                  </div>
-                )}
-              </dl>
-              {course.videoLinks && course.videoLinks.length > 0 && (
-                <ul class="link-list">
-                  {course.videoLinks.map((video) => (
-                    <li>
-                      <a href={video.url} target="_blank" rel="noreferrer">{video.title}</a>
-                    </li>
-                  ))}
-                </ul>
+                </details>
               )}
-            </article>
+            </section>
           ))
         ) : (
           <section class="empty-state">

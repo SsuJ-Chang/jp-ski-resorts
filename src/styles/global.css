@@ -798,9 +798,49 @@ h1 {
   text-transform: uppercase;
 }
 
-.course-list {
+.course-level-list {
+  display: grid;
+  gap: 22px;
+}
+
+.course-level-section {
   display: grid;
   gap: 14px;
+  padding: 18px;
+  border: 1px solid rgba(23, 33, 31, 0.12);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.56);
+}
+
+.course-level-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid rgba(23, 33, 31, 0.1);
+}
+
+.course-level-header h2 {
+  margin: 8px 0 0;
+  font-size: 1.35rem;
+}
+
+.course-level-header p {
+  margin: 0;
+  color: #526660;
+  font-size: 0.9rem;
+  font-weight: 900;
+  white-space: nowrap;
+}
+
+.course-list {
+  display: grid;
+  gap: 12px;
+}
+
+.course-list--collapsed {
+  margin-top: 12px;
 }
 
 .course-card {
@@ -813,9 +853,9 @@ h1 {
   background: rgba(255, 255, 255, 0.82);
 }
 
-.course-card h2 {
+.course-card h3 {
   margin: 10px 0 8px;
-  font-size: 1.35rem;
+  font-size: 1.18rem;
 }
 
 .course-card p {
@@ -875,6 +915,50 @@ h1 {
 .course-facts dd {
   margin: 0;
   font-weight: 800;
+}
+
+.course-collapse {
+  border-top: 1px solid rgba(23, 33, 31, 0.1);
+}
+
+.course-collapse summary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 10px 0 0;
+  color: #245e55;
+  font-weight: 900;
+  cursor: pointer;
+  list-style: none;
+}
+
+.course-collapse summary::-webkit-details-marker {
+  display: none;
+}
+
+.course-collapse summary::after {
+  content: '';
+  width: 8px;
+  height: 8px;
+  margin-left: 10px;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(45deg) translateY(-2px);
+  transition: transform 160ms ease;
+}
+
+.course-collapse[open] summary::after {
+  transform: rotate(225deg) translateY(-2px);
+}
+
+.summary-state--open,
+.course-collapse[open] .summary-state--closed {
+  display: none;
+}
+
+.course-collapse[open] .summary-state--open {
+  display: inline;
 }
 
 .empty-state {
