@@ -68,12 +68,25 @@ const courseGroups = difficultyOrder
             <section class="course-level-section" aria-labelledby={`course-level-${group.difficulty}`}>
               <div class="course-level-header">
                 <div>
-                  <span class={`difficulty-badge difficulty-badge--${group.difficulty}`}>
+                  <h2 id={`course-level-${group.difficulty}`} class={`course-level-title course-level-title--${group.difficulty}`}>
                     {group.label}
-                  </span>
-                  <h2 id={`course-level-${group.difficulty}`}>{group.label}雪道</h2>
+                  </h2>
                 </div>
-                <p>{group.courses.length} 條雪道</p>
+                {
+                  group.collapsedCourses.length > 0 ? (
+                    <button
+                      class="course-level-toggle"
+                      type="button"
+                      data-course-toggle
+                      aria-expanded="false"
+                      aria-controls={`course-extra-${resort.id}-${group.difficulty}`}
+                    >
+                      <span>{group.courses.length} 條雪道</span>
+                    </button>
+                  ) : (
+                    <p class="course-level-count">{group.courses.length} 條雪道</p>
+                  )
+                }
               </div>
 
               <div class="course-list">
@@ -116,17 +129,13 @@ const courseGroups = difficultyOrder
                 ))}
               </div>
 
-              {group.collapsedCourses.length > 0 && (
-                <details class="course-collapse">
-                  <summary>
-                    <span class="summary-state summary-state--closed">
-                      顯示其餘 {group.collapsedCourses.length} 條{group.label}雪道
-                    </span>
-                    <span class="summary-state summary-state--open">
-                      收合{group.label}雪道
-                    </span>
-                  </summary>
-                  <div class="course-list course-list--collapsed">
+              {
+                group.collapsedCourses.length > 0 && (
+                  <div
+                    id={`course-extra-${resort.id}-${group.difficulty}`}
+                    class="course-list course-list--extra"
+                    hidden
+                  >
                     {group.collapsedCourses.map((course) => (
                       <article class="course-card">
                         <div>
@@ -165,8 +174,8 @@ const courseGroups = difficultyOrder
                       </article>
                     ))}
                   </div>
-                </details>
-              )}
+                )
+              }
             </section>
           ))
         ) : (
@@ -180,4 +189,19 @@ const courseGroups = difficultyOrder
       }
     </section>
   </main>
+
+  <script>
+    document.querySelectorAll('[data-course-toggle]').forEach((toggle) => {
+      toggle.addEventListener('click', () => {
+        const controls = toggle.getAttribute('aria-controls')
+        const target = controls ? document.getElementById(controls) : null
+
+        if (!target) return
+
+        const isExpanded = toggle.getAttribute('aria-expanded') === 'true'
+        toggle.setAttribute('aria-expanded', String(!isExpanded))
+        target.hidden = isExpanded
+      })
+    })
+  </script>
 </BaseLayout>
