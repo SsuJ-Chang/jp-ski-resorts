@@ -1,7 +1,7 @@
 ---
 id: naeba
 name:
-  zhTw: 苗場滑雪場
+  zhTw: 苗場
   ja: 苗場スキー場
   en: Naeba Ski Resort
 region: kanto-koshinetsu
@@ -32,12 +32,12 @@ season:
   hours: 平日 8:00-17:00、假日 8:00-20:30
   nightSkiingHours: 16:30-20:30
   note: 初版依 Weathernews 與官方票價頁整理、實際營業狀態請以官方公告為準。
-  source: https://www.princehotels.co.jp/ski/naeba/winter/纜車/
+  source: https://www.princehotels.co.jp/ski/naeba/winter/lift/
 trailMaps: []
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://www.princehotels.co.jp/ski/naeba/winter/纜車/
+  source: https://www.princehotels.co.jp/ski/naeba/winter/lift/
   note: 主要票種摘要，完整票價與會員優惠請以官方頁面為準。
   plans:
   - name: Mt.Naeba 1 日券
@@ -55,7 +55,7 @@ tickets:
     audience: 成人
     price: "¥6,300"
 snowWeather:
-  title: 苗場滑雪場雪況天氣
+  title: 苗場雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35405/
   snowDepth: 200 cm

@@ -1,7 +1,7 @@
 ---
 id: kamui-ski-links
 name:
-  zhTw: 神居滑雪場
+  zhTw: 神居
   ja: カムイスキーリンクス
   en: Kamui Ski Links
 region: hokkaido
@@ -62,7 +62,7 @@ tickets:
     price: 成人 ¥20,000、長者 ¥18,000、小學生 ¥7,200
     note: 雪季內以 1 小時為單位使用，不能多人分用。
 snowWeather:
-  title: 神居滑雪場雪況天氣
+  title: 神居雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31203/
   snowDepth: 200 cm
@@ -289,7 +289,7 @@ externalContent:
   - title: 滑雪新手必看｜日本旭川教練親身指導
     url: https://www.youtube.com/watch?v=IgdO75z4ZnQ
     note: 大林滑雪男子
-  - title: 「轉彎要耐心等待」？破解換刃卡關的關鍵：給板子空間去咬雪！
+  - title: "「轉彎要耐心等待」？破解換刃卡關的關鍵：給板子空間去咬雪！"
     url: https://www.youtube.com/watch?v=mbAaTbFQfRQ&t=31s
     note: 大林滑雪男子
   - title: 為什麼滑雪高手都要「上下分離」？Willie 教練教你如何在神居滑出激進線條

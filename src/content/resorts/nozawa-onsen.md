@@ -1,7 +1,7 @@
 ---
 id: nozawa-onsen
 name:
-  zhTw: 野澤溫泉滑雪場
+  zhTw: 野澤溫泉
   ja: 野沢温泉スキー場
   en: Nozawa Onsen Snow Resort
 region: kanto-koshinetsu
@@ -36,7 +36,7 @@ season:
   hours: 8:30-16:30（2025/11/29-2026/3/29）、8:10-16:00（2026/3/30-5/6）
   nightSkiingHours: 日間營業結束後至 20:00
   note: 春滑期間與夜滑營業依官方公告調整、完整規則請以官方頁面為準。
-  source: https://en.nozawaski.com/the-mountain/纜車-ticket/ticket-prices/
+  source: https://en.nozawaski.com/the-mountain/lift-ticket/ticket-prices/
 trailMaps:
 - label: 野澤溫泉 2025-2026 雪場圖
   language: English
@@ -46,7 +46,7 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://en.nozawaski.com/the-mountain/纜車-ticket/ticket-prices/
+  source: https://en.nozawaski.com/the-mountain/lift-ticket/ticket-prices/
   note: Winter Fares 2025-2026 主要票種摘要、價格不含部分特殊票種與住宿配套。
   plans:
   - name: 1 日券
@@ -66,7 +66,7 @@ tickets:
     price: 成人 ¥2,700、兒童 ¥1,600
     note: 17:00-20:00。
 snowWeather:
-  title: 野澤溫泉滑雪場雪況天氣
+  title: 野澤溫泉雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34801/
   snowDepth: 200 cm
@@ -110,7 +110,7 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 30
   advancedRatio: 30
-  courseInfoPage: https://en.nozawaski.com/the-mountain/ski-slopes-and-纜車-status/
+  courseInfoPage: https://en.nozawaski.com/the-mountain/ski-slopes-and-lift-status/
   summary: 野澤溫泉是大型雪場與溫泉聚落結合的代表，最長滑走距離約 10,000m，雪道範圍涵蓋山頂、上之平、日影、長坂與柄澤等區域。
   details: []
 lifts:

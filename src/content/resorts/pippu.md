@@ -1,7 +1,7 @@
 ---
 id: pippu
 name:
-  zhTw: 比布滑雪場
+  zhTw: 比布
   ja: ぴっぷスキー場
   en: Pippu Ski Resort
 region: hokkaido
@@ -32,12 +32,12 @@ season:
   hours: 9:00-16:00
   nightSkiingHours: 16:00-20:30
   note: 夜滑營業至 2 月底、12/31 營業至 16:00，1/1 自 10:00 開始。
-  source: https://www.town.pippu.hokkaido.jp/ski/纜車.html
+  source: https://www.town.pippu.hokkaido.jp/ski/lift.html
 trailMaps: []
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://www.town.pippu.hokkaido.jp/ski/纜車.html
+  source: https://www.town.pippu.hokkaido.jp/ski/lift.html
   note: 主要票種摘要，完整規則請以官方頁面為準。
   plans:
   - name: 1 日券（附入浴券）
@@ -55,7 +55,7 @@ tickets:
     price: 成人 ¥1,200、兒童 ¥1,000
     note: 16:00-20:30。
 snowWeather:
-  title: 比布滑雪場雪況天氣
+  title: 比布雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31208/
   snowDepth: 200 cm

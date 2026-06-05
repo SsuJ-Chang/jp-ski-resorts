@@ -1,7 +1,7 @@
 ---
 id: hakuba-iwatake
 name:
-  zhTw: 白馬岩岳滑雪場
+  zhTw: 白馬岩岳
   ja: 白馬岩岳スノーフィールド
   en: Hakuba Iwatake Snow Field
 region: kanto-koshinetsu
@@ -17,10 +17,11 @@ tags:
 - tree_run
 links:
   official: https://iwatake-mountain-resort.com/winter
-  trailMapPage: https://iwatake-mountain-resort.com/course_lift
+  trailMapPage: https://iwatake-mountain-resort.com/winter/course_lift
   ticket: https://iwatake-mountain-resort.com/winter/rates/
   access: https://iwatake-mountain-resort.com/access
   googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Iwatake%20Snow%20Field
+  trailMapPdf: https://iwatake-mountain-resort.com/wp-content/uploads/2026/02/2025_JAP_A4_ol_t_s.pdf
 contact:
   address:
     zhTw: 長野縣北安曇郡白馬村北城岩岳
@@ -34,7 +35,12 @@ season:
   nightSkiingHours: 無夜滑
   note: 初版依 Weathernews 與官方票價頁整理、實際營業請以官方公告為準。
   source: https://iwatake-mountain-resort.com/winter/rates/
-trailMaps: []
+trailMaps:
+- label: 白馬岩岳雪場圖
+  language: 日本語
+  season: 2025-2026
+  url: https://iwatake-mountain-resort.com/wp-content/uploads/2026/02/2025_JAP_A4_ol_t_s.pdf
+  sourceLabel: Hakuba Iwatake Official
 tickets:
   season: 2025-2026
   currency: JPY
@@ -50,7 +56,7 @@ tickets:
     audience: 成人、兒童、長者
     price: 成人 ¥12,200、兒童 ¥7,300、長者 ¥11,100
 snowWeather:
-  title: 白馬岩岳滑雪場雪況天氣
+  title: 白馬岩岳雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34809/
   snowDepth: 200 cm
@@ -89,24 +95,66 @@ elevation:
   top: 1289
   bottom: 750
 courses:
-  total: 26
+  total: 8
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20
-  courseInfoPage: https://iwatake-mountain-resort.com/course_纜車
-  summary: 白馬岩岳以北阿爾卑斯景觀、自然地形與多樣雪道聞名，也有 Snow Park、粉雪區與親子遊雪設施。
-  details: []
+  courseInfoPage: https://iwatake-mountain-resort.com/winter/course_lift
+  summary: 白馬岩岳官方 course/lift 狀態表列出山頂側與山麓側主要雪道，包含開闊緩坡、Back Bowl、Hikage/沢、White Ribbon 與 Sunny Valley 等路線。
+  details:
+  - name: イーストゲレンデ / East Slope
+    difficulty: beginner
+    length: 330m
+    maxSlope: 17°
+    averageSlope: 14°
+  - name: ノースゲレンデ / North Slope
+    difficulty: beginner
+    length: 700m
+    maxSlope: 17°
+    averageSlope: 11°
+  - name: サウス / Five Side
+    difficulty: mixed
+    length: 820m
+    maxSlope: 23°
+    averageSlope: 10°
+  - name: Iwatake Back Bowl
+    difficulty: mixed
+    length: 1,280m
+    maxSlope: 25°
+    averageSlope: 9°
+  - name: Hikage / 沢
+    difficulty: mixed
+    length: 980m
+    maxSlope: 30°
+    averageSlope: 15°
+  - name: 山麓エリア（かもしか・こめつが）
+    difficulty: mixed
+    length: 1,100m
+    maxSlope: 33°
+    averageSlope: 14°
+  - name: ホワイトリボンコース / White Ribbon Course
+    difficulty: advanced
+    length: 1,100m
+    maxSlope: 26°
+    averageSlope: 14°
+  - name: サニーバレーコース / Sunny Valley Course
+    difficulty: advanced
+    length: 3,300m
+    maxSlope: 24°
+    averageSlope: 11°
 lifts:
-  total: 8
+  total: 9
 externalContent:
   blogs: []
   vlogs: []
 sources:
 - label: Hakuba Iwatake Official Website
   url: https://iwatake-mountain-resort.com/winter
-- label: Hakuba Iwatake 纜車 Fee
+- label: Hakuba Iwatake Course and Lift Status
+  url: https://iwatake-mountain-resort.com/winter/course_lift
+- label: Hakuba Iwatake Lift Fee
   url: https://iwatake-mountain-resort.com/winter/rates/
 - label: Hakuba Iwatake Weathernews
   url: https://weathernews.jp/ski/spot/34809/
 ---
-白馬岩岳滑雪場位於白馬村北城，是可眺望北阿爾卑斯山景的白馬區域雪場。雪道涵蓋初級到進階，並以自然地形、粉雪區與山頂景觀體驗為特色。
+白馬岩岳位於白馬村北城，是可眺望北阿爾卑斯山景的白馬區域雪場。雪道涵蓋初級到進階，並以自然地形、粉雪區與山頂景觀體驗為特色。

@@ -1,7 +1,7 @@
 ---
 id: hakuba-goryu
 name:
-  zhTw: 白馬五龍滑雪場
+  zhTw: 白馬五龍
   ja: エイブル白馬五竜スキー場
   en: Hakuba Goryu Snow Resort
 region: kanto-koshinetsu
@@ -14,11 +14,11 @@ tags:
 - resort_village
 - snowboard_friendly
 links:
-  official: https://www.hakubaescal.com/winter-en/
-  trailMapPage: https://www.hakubaescal.com/winter-en/gelande/
-  trailMapPdf: https://www.hakubaescal.com/winter-en/common/pdf/gelande/gelandemap2025.pdf
-  ticket: https://www.hakubaescal.com/winter-en/tickets/
-  access: https://www.hakubaescal.com/winter-en/access/
+  official: https://www.hakubaescal.com/winter/
+  trailMapPage: https://www.hakubaescal.com/winter/gelande/course/
+  trailMapPdf: https://www.hakubaescal.com/winter/common/pdf/gelande/gelandemap2025.pdf
+  ticket: https://www.hakubaescal.com/winter/tickets/lift/
+  access: https://www.hakubaescal.com/winter/access/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Able%20Hakuba%20Goryu%20Escal%20Plaza
 contact:
   address:
@@ -32,7 +32,7 @@ season:
   hours: 2026/3/31 前票務中心 7:45-17:00、2026/4/1-5/6 為 8:00-16:45
   nightSkiingHours: 18:00-21:30（夜滑票 17:30 起販售）
   note: 實際開放範圍與時間會依雪況調整，出發前請確認官方公告。
-  source: https://www.hakubaescal.com/winter-en/tickets/纜車/
+  source: https://www.hakubaescal.com/winter/tickets/lift/
 trailMaps:
 - label: 白馬五龍 & Hakuba47 雪道圖（英文）
   language: 英文
@@ -47,8 +47,8 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://www.hakubaescal.com/winter-en/tickets/纜車/
-  note: 以下為現場 Ticket Center 主要票種摘要，價格含 IC 卡押金、完整規則與線上票價以官方頁面為準。
+  source: https://www.hakubaescal.com/winter/tickets/lift/
+  note: 現場 Ticket Center 主要票種摘要，價格含 IC 卡押金；完整規則與線上票價以官方頁面為準。
   plans:
   - name: 1 日券
     audience: 成人、長者、青年、兒童
@@ -67,7 +67,7 @@ tickets:
     price: 成人 ¥6,500、兒童 ¥3,000
     note: Toomi Slope 與 Iimori Slope，18:00-21:30
 snowWeather:
-  title: 白馬五龍滑雪場雪況天氣
+  title: 白馬五龍雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34811/
   snowDepth: 200 cm
@@ -103,27 +103,138 @@ snowWeather:
     high: 3°C
   note: 非雪季與網站製作初期先使用白馬五龍的假資料作為 UI 佔位；實際資料待人工更新。
 courses:
-  courseInfoPage: https://www.hakubaescal.com/winter-en/gelande/
-  summary: 白馬五龍與 Hakuba47 共通雪道區域。
+  courseInfoPage: https://www.hakubaescal.com/winter/gelande/course/
+  summary: 白馬五龍與 Hakuba47 共通雪道區域共有 24 條雪道，從山麓初級緩坡、夜滑區，到高海拔展望路線、非壓雪與上級路線都有。
   details:
-  - name: Toomi とおみ
+  - name: ソフトクリームコース / Soft Cream Course
     difficulty: beginner
-    maxSlope: 17°
-    averageSlope: 13°
-    note: 滑雪場的主要入口，夜滑主要開放區域之一，每天傍晚都會重新壓雪整地。
-    videoLinks:
-    - title: YouTube 影片標題
-      url: https://www.youtube.com/watch?v=xxxx
-  - name: Iimori いいもり
-    difficulty: beginner
-    maxSlope: 18°
+    length: 520m
+    maxSlope: 14°
     averageSlope: 12°
-    note: 環境更加寬廣且人潮較少，非常適合初次體驗滑雪的初學者。這裡也是滑雪學校（包含官方中文滑雪學校）的主要據點。
-  - name: Alps-daira アルプス平
-    difficulty: mixed
+  - name: メリーランドコース / Maryland Course
+    difficulty: beginner
+    length: 550m
+    maxSlope: 12°
+    averageSlope: 9°
+  - name: R-5
+    difficulty: beginner
+    length: 800m
+    maxSlope: 14°
+    averageSlope: 12°
+  - name: R-6
+    difficulty: beginner
+    length: 850m
+    maxSlope: 12°
+    averageSlope: 10°
+  - name: R-7
+    difficulty: beginner
+    length: 3,600m
+    maxSlope: 11°
+    averageSlope: 7°
+  - name: R-8
+    difficulty: beginner
+    length: 2,800m
+    maxSlope: 16°
+    averageSlope: 10°
+  - name: ウッディーコース / Woody Course
+    difficulty: intermediate
+    length: 800m
+    maxSlope: 13°
+    averageSlope: 11°
+    note: 林間雪道特有的坡度較緩，但官方提醒雪道寬度較窄，且與壓雪面交界處需注意其他滑行者與雪面高低差。
+  - name: R-1
+    difficulty: intermediate
+    length: 2,500m
+    maxSlope: 28°
+    averageSlope: 22°
+  - name: R-4
+    difficulty: intermediate
+    length: 600m
+    maxSlope: 16°
+    averageSlope: 14°
+  - name: アドベンチャーコース / Adventure Course
+    difficulty: advanced
+    length: 700m
+    maxSlope: 28°
+    averageSlope: 19°
+  - name: R-2
+    difficulty: advanced
+    length: 1,620m
+    maxSlope: 30°
+    averageSlope: 18°
+  - name: R-3
+    difficulty: advanced
+    length: 800m
+    maxSlope: 32°
+    averageSlope: 20°
+  - name: チャンピオンエキスパートコース / Champion Expert Course
+    difficulty: expert
+    length: 500m
     maxSlope: 35°
+    averageSlope: 30°
+    note: 五龍最急斜面。官方說明新雪時可感受粉雪樂趣，雪丘連續且滑行感充足，並提醒這是最上級者專用路線。
+  - name: パノラマコース / Panorama Course
+    difficulty: mixed
+    length: 850m
+    maxSlope: 18°
+    averageSlope: 15°
+    note: 阿爾卑斯平最平緩的壓雪路線，晴天景觀值得一看，並可連接 Hakuba47。官方提醒此處海拔較高，需做好防寒。
+  - name: グランプリコース / Grand Prix Course
+    difficulty: mixed
+    length: 900m
+    maxSlope: 23°
+    averageSlope: 21°
+    note: 五龍最大的一枚バーン。官方說明早上人少時大迴轉滑行感佳，雪道旁也有非壓雪區域，並提醒注意速度。
+  - name: テクニカルコース / Technical Course
+    difficulty: mixed
+    length: 300m
+    maxSlope: 28°
     averageSlope: 24°
-    note: 搭乘纜車直達山頂的區域，海拔較高（約 1,500 公尺），雪質極佳。 天氣晴朗時可遠眺北阿爾卑斯山。 包含適合中級練習的紅線，也有較陡與非壓雪區。
+    note: 全面未壓雪路線，官方說明降雪後的新雪是主要目標。
+  - name: スーパーコース / Super Course
+    difficulty: mixed
+    length: 450m
+    maxSlope: 20°
+    averageSlope: 16°
+    note: 從箱型纜車 Telecabin 阿爾卑斯平站通往 Grand Prix 的連絡型雪道。官方說明有兩條路線，上方較平，下方較陡，與 Grand Prix 合流時需減速或暫停。
+  - name: チャンピオンダイナミックコース / Champion Dynamic Course
+    difficulty: mixed
+    length: 500m
+    maxSlope: 23°
+    averageSlope: 21°
+    note: 官方說明為相當陡的斜面，雪道寬度會逐漸變窄，需要確實控制速度；初學者建議搭乘箱型纜車下山。
+  - name: とおみゲレンデ / Toomi Slope
+    difficulty: mixed
+    length: 1,500m
+    maxSlope: 18°
+    averageSlope: 14°
+    note: 壓雪整備完善的緩斜面，官方說明上中下段坡度不同，可依技術選擇纜車與斜度；也是夜滑與 sunrise 營業區域。
+  - name: パウダースノーコース / Powder Snow Course
+    difficulty: mixed
+    length: 700m
+    maxSlope: 19°
+    averageSlope: 15°
+  - name: サニーウェイコース / Sunny Way Course
+    difficulty: mixed
+    length: 1,800m
+    maxSlope: 18°
+    averageSlope: 14°
+  - name: コスモリバーコース / Cosmo River Course
+    difficulty: mixed
+    length: 1,500m
+    maxSlope: 28°
+    averageSlope: 19°
+  - name: ストレートウイスキーコース / Straight Whiskey Course
+    difficulty: mixed
+    length: 800m
+    maxSlope: 30°
+    averageSlope: 20°
+  - name: スノーダイビングコース / Snow Diving Course
+    difficulty: mixed
+    length: 250m
+    maxSlope: 32°
+    averageSlope: 27°
+  total: 24
 externalContent:
   blogs:
   - title: "【範例】白馬五龍初訪心得：交通、雪道與住宿整理"
@@ -140,11 +251,15 @@ externalContent:
     url: https://www.youtube.com/watch?v=example002
     note: 範例資料，可用來放 VLOG、雪道實拍或行程紀錄。
 sources:
-- label: Hakuba Goryu Snow Resort Official Website
-  url: https://www.hakubaescal.com/winter-en/
+- label: Hakuba Goryu Official Website
+  url: https://www.hakubaescal.com/winter/
+- label: Hakuba Goryu Course Guide
+  url: https://www.hakubaescal.com/winter/gelande/course/
+- label: Hakuba Goryu Lift Tickets 2025-26
+  url: https://www.hakubaescal.com/winter/tickets/lift/
 - label: Hakuba Goryu Access
-  url: https://www.hakubaescal.com/winter-en/access/
-- label: Hakuba Goryu 纜車 Tickets 2025-26
-  url: https://www.hakubaescal.com/winter-en/tickets/lift/
+  url: https://www.hakubaescal.com/winter/access/
+- label: Hakuba Goryu Weathernews
+  url: https://weathernews.jp/ski/spot/34811/
 ---
-白馬五龍滑雪場位於長野縣白馬村，與白馬 47 相鄰。
+白馬五龍位於長野縣白馬村，與白馬 47 相鄰。

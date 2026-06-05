@@ -1,7 +1,7 @@
 ---
 id: kandatsu
 name:
-  zhTw: 神立高原滑雪場
+  zhTw: 神立高原
   ja: 神立スノーリゾート
   en: Kandatsu Snow Resort
 region: kanto-koshinetsu
@@ -51,7 +51,7 @@ tickets:
     audience: 成人、兒童
     price: 成人 ¥4,900、兒童 ¥3,000
 snowWeather:
-  title: 神立高原滑雪場雪況天氣
+  title: 神立高原雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35425/
   snowDepth: 200 cm

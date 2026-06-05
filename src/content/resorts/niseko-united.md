@@ -1,7 +1,7 @@
 ---
 id: niseko-united
 name:
-  zhTw: 二世谷聯合滑雪場
+  zhTw: 二世谷聯合
   ja: ニセコユナイテッド
   en: Niseko United
 region: hokkaido
@@ -37,7 +37,7 @@ season:
   hours: 各區域約 8:30-16:30、夜滑區域約 16:00-19:00
   nightSkiingHours: Grand Hirafu、HANAZONO、Niseko Village 等區域於指定期間營業至約 19:00
   note: Niseko United 由 Annupuri、Niseko Village、Grand Hirafu、HANAZONO 四區組成、各區開放期間與夜滑日期不同，請以官方運行資訊為準。
-  source: https://www.niseko.ne.jp/en/niseko-纜車-status/
+  source: https://www.niseko.ne.jp/en/niseko-lift-status/
 trailMaps:
 - label: Niseko United 2025-2026 雪場圖
   language: 日本語 / English
@@ -47,7 +47,7 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://www.niseko.ne.jp/ja/纜車/
+  source: https://www.niseko.ne.jp/ja/lift/
   note: 以下為 2025-2026 全山共通券主要票種摘要、不同季節、線上購票與各單區票價可能不同。
   plans:
   - name: 全山共通 1 日券（Regular Season）
@@ -64,7 +64,7 @@ tickets:
     audience: 成人、兒童、國中生、長者
     price: 成人 ¥8,400、兒童 ¥5,000、國中生 ¥7,100、長者 ¥7,100
 snowWeather:
-  title: 二世谷聯合滑雪場雪況天氣
+  title: 二世谷聯合雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31605/
   snowDepth: 200 cm

@@ -1,7 +1,7 @@
 ---
 id: hakuba-sanosaka
 name:
-  zhTw: 白馬佐野坂滑雪場
+  zhTw: 白馬佐野坂
   ja: White Resort 白馬さのさか
   en: White Resort Hakuba Sanosaka
 region: kanto-koshinetsu
@@ -15,9 +15,11 @@ tags:
 - snowboard_friendly
 links:
   official: https://sanosaka.jp/
-  trailMapPage: https://sanosaka.jp/
+  trailMapPage: https://sanosaka.jp/course/
   ticket: https://sanosaka.jp/lift/
   googleMaps: https://www.google.com/maps/search/?api=1&query=White%20Resort%20Hakuba%20Sanosaka
+  trailMapPdf: https://sanosaka.jp/wp/wp-content/uploads/2025/12/sanosaka_map.pdf
+  access: https://sanosaka.jp/access/
 contact:
   address:
     zhTw: 長野縣北安曇郡白馬村神城 458
@@ -30,12 +32,17 @@ season:
   hours: 8:00-16:15
   nightSkiingHours: 無夜滑
   note: 官方票價頁標示 2025-26 冬季預定期間為 2025/12/19-2026/3/29、Weathernews 顯示期間略有差異，請以官方公告為準。
-  source: https://sanosaka.jp/纜車/
-trailMaps: []
+  source: https://sanosaka.jp/lift/
+trailMaps:
+- label: 白馬佐野坂雪場圖
+  language: 日本語
+  season: 2025-2026
+  url: https://sanosaka.jp/wp/wp-content/uploads/2025/12/sanosaka_map.pdf
+  sourceLabel: White Resort Hakuba Sanosaka Official
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://sanosaka.jp/纜車/
+  source: https://sanosaka.jp/lift/
   plans:
   - name: 1 日券
     audience: 成人、小學生
@@ -46,8 +53,9 @@ tickets:
   - name: 3 小時券
     audience: 成人
     price: "¥4,200"
+  note: 成人為國中生以上；學齡前兒童免費，但仍需纜車券。小學生 1 日券有 A/B 兩種，B 含 Snow Friends Park 入場。
 snowWeather:
-  title: 白馬佐野坂滑雪場雪況天氣
+  title: 白馬佐野坂雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34850/
   snowDepth: 200 cm
@@ -90,9 +98,32 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20
-  courseInfoPage: https://sanosaka.jp/
-  summary: 白馬佐野坂可眺望青木湖，雪道以緩至中斜面為主，適合家庭、初學者與想避開白馬熱門主場人潮的旅客。
-  details: []
+  courseInfoPage: https://sanosaka.jp/course/
+  summary: 白馬佐野坂官方 course guide 強調寬幅雪道、青木湖景觀、天然雪與 New Paradise 上級斜面；營業狀態表列出 10 條雪道。
+  details:
+  - name: レイクダウン・レイクビュー / Lake Down & Lake View
+    difficulty: mixed
+    length: 1,500m
+    maxSlope: 28°
+    note: 森林包圍並可眺望湖景的路線，官方說明是能優雅滑行、適合留下照片的位置。
+  - name: パラダイス・パラダイスダウンヒル / Paradise & Paradise Downhill
+    difficulty: mixed
+    length: 2,100m
+    maxSlope: 18°
+    note: 中級者與初學者可一起滑行的路線，也常作為 step up 練習與檢定バーン。後段 Paradise Downhill 為連續緩斜面，初學者可較穩定練習。
+  - name: カービングゲレンデ / Carving Slope
+    difficulty: mixed
+    length: 700m
+    maxSlope: 23°
+    note: 官方說明此路線有適度寬度與坡度，聚集喜歡 carving 的滑行者，也以技術型雪板聖地聞名。
+  - name: ニューパラダイス / New Paradise
+    difficulty: advanced
+    length: 500m
+    maxSlope: 32°
+    note: 可一望青木湖的上級路線。官方說明降雪後可享受良好粉雪，第 5 pair 纜車旁也有 mogul 路線。
+  - name: 貸切トレーニングゲレンデ / Reserved Training Slope
+    difficulty: advanced
+    note: 位於 Carving Slope 旁的包場專用雪道，官方說明斜度更高，可集中練習 pole 與 carving，也曾用於品牌拍攝。
 lifts:
   total: 4
 externalContent:
@@ -101,9 +132,17 @@ externalContent:
 sources:
 - label: Hakuba Sanosaka Official Website
   url: https://sanosaka.jp/
-- label: Hakuba Sanosaka 纜車 Fee
+- label: Hakuba Sanosaka Course Guide
+  url: https://sanosaka.jp/course/
+- label: Hakuba Sanosaka Lift Fee
   url: https://sanosaka.jp/lift/
 - label: Hakuba Sanosaka Weathernews
   url: https://weathernews.jp/ski/spot/34850/
+terrainSummary:
+  beginner: Paradise Downhill 等緩斜面適合初學者穩定練習，Shirayuki Daira 也有 Snow Friends Park。
+  intermediate: Paradise、Lake Down、Lake View 與 Carving Slope 提供中級練習與青木湖景觀。
+  advanced: New Paradise 與 Reserved Training Slope 是主要進階路線，最大斜度可達 32°。
+  snowboard: 官方介紹 Carving Slope 以技術型雪板滑行者聞名，Snow Friends Park 也可在下場前練習。
+  powder: 官方特色說明白馬佐野坂為天然雪 100%，New Paradise 急斜面與粉雪相性佳。
 ---
-白馬佐野坂滑雪場位於白馬村神城，特色是可眺望青木湖的開闊景觀與相對平易近人的雪道配置。初版先建立基本資料、票價摘要與 Weathernews 雪況入口。
+白馬佐野坂位於白馬村神城，特色是可眺望青木湖的開闊景觀與相對平易近人的雪道配置。初版先建立基本資料、票價摘要與 Weathernews 雪況入口。

@@ -1,7 +1,7 @@
 ---
 id: kagura
 name:
-  zhTw: 神樂滑雪場
+  zhTw: 神樂
   ja: かぐらスキー場
   en: Kagura Ski Resort
 region: kanto-koshinetsu
@@ -31,12 +31,12 @@ season:
   hours: 8:00-16:30
   nightSkiingHours: 無夜滑
   note: かぐら、みつまた、田代三區域構成，營業期間較長、實際開放請以官方公告為準。
-  source: https://www.princehotels.co.jp/ski/kagura/winter/纜車/
+  source: https://www.princehotels.co.jp/ski/kagura/winter/lift/
 trailMaps: []
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://www.princehotels.co.jp/ski/kagura/winter/纜車/
+  source: https://www.princehotels.co.jp/ski/kagura/winter/lift/
   plans:
   - name: かぐら滑雪場 1 日券
     audience: 成人
@@ -51,7 +51,7 @@ tickets:
     audience: 成人
     price: "¥9,800"
 snowWeather:
-  title: 神樂滑雪場雪況天氣
+  title: 神樂雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35473/
   snowDepth: 200 cm
