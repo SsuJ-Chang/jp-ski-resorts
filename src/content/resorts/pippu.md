@@ -98,7 +98,7 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20
-  courseInfoPage: https://www.town.pippu.hokkaido.jp/ski/course.html
+  courseInfoPage: https://pippu.ski/course/
   summary: 比布滑雪場位於道北，擁有 9 條雪道，從初學者到進階滑雪者都可利用；可眺望上川盆地與大雪山連峰。
   details:
     - name: 草莓雪道 ストロベリーコース

@@ -1,187 +1,343 @@
 # Data Schema
 
-The core data unit is `Resort`.
+本文件是雪場 content schema 的主要說明文件，說明 `src/content/resorts/*.md` 的 YAML frontmatter 欄位。實際驗證規則以 `src/content.config.ts` 為準。
 
-Resort metadata should feed:
+完整填寫範例請看 `RESORT_ENTRY_EXAMPLE.md`。
 
-- Home page region counts
-- Region pages
-- Tag pages
-- Resort cards
-- Search indexes
-- Comparison tables
-- Future static map-like guides
+## 基本規則
 
-Markdown body content may be used for resort detail pages, but list pages should rely on structured metadata.
+- 每筆雪場資料是一個 Markdown 檔，放在 `src/content/resorts/`。
+- YAML frontmatter 之外的 Markdown body 會作為雪場概要內容使用。
+- 找不到資料時，不要硬補；可以先填 `待補`、`待確認`，或省略 optional 欄位。
+- 即時資訊不要當成永久事實保存，例如今日雪況、即時纜車狀態、即時天氣。
+- `sources` 目前為必填，至少要放一筆官方網站來源。
 
-## Resort
+## 頂層欄位
 
-```ts
-type Resort = {
-  id: string
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `id` | 是 | string | 雪場唯一識別碼，使用小寫英文與連字號，例如 `hakuba-goryu`。 |
+| `name` | 是 | object | 雪場名稱，多語系名稱放在此欄。 |
+| `region` | 是 | enum | 大區域，必須使用現有 `regionKeys`。 |
+| `prefecture` | 是 | string | 都道府縣，建議用繁體中文，例如 `長野縣`。 |
+| `skiArea` | 否 | enum | 滑雪旅行區，例如 `hakuba`、`yuzawa`。必須使用現有 `skiAreaKeys`。 |
+| `tags` | 否 | array | 雪場特色標籤。未填時預設為空陣列。 |
+| `visibility` | 否 | object | 控制是否公開顯示。 |
+| `links` | 是 | object | 官方網站與外部資訊連結。 |
+| `contact` | 否 | object | 地址、Google Maps、電話。 |
+| `season` | 否 | object | 雪季、營業期間與時間。 |
+| `trailMaps` | 否 | array | 官方雪場圖或 PDF 連結。 |
+| `tickets` | 否 | object | 主要票種摘要。 |
+| `snowWeather` | 否 | object | 雪況天氣區塊資料。 |
+| `location` | 否 | object | 經緯度。 |
+| `mapDisplay` | 否 | object | 靜態地圖或區域頁標示用位置。 |
+| `elevation` | 否 | object | 海拔與落差。 |
+| `courses` | 否 | object | 雪道總覽與雪道詳細資料。 |
+| `lifts` | 否 | object | 纜車數量。現階段畫面尚未顯示。 |
+| `access` | 否 | object | 從主要城市或機場前往的交通摘要。 |
+| `terrainSummary` | 否 | object | 不同程度與滑行需求的地形摘要。 |
+| `externalContent` | 否 | object | 外部遊記與影片連結。 |
+| `sources` | 是 | array | 資料來源。 |
 
-  name: {
-    zhTw: string
-    ja: string
-    en?: string
-  }
+## `name`
 
-  region: RegionKey
-  prefecture: string
-  skiArea?: SkiAreaKey
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `zhTw` | 是 | string | 繁體中文名稱。 |
+| `ja` | 是 | string | 日文名稱。 |
+| `en` | 否 | string | 英文名稱。 |
 
-  tags: ResortTag[]
+## `region`
 
-  visibility?: {
-    status: "published" | "draft" | "hidden"
-    note?: string
-  }
+可用值：
 
-  links: {
-    official: string
-    googleMaps?: string
-    trailMapPage?: string
-    trailMapPdf?: string
-    weather?: string
-    snowReport?: string
-    liftStatus?: string
-    ticket?: string
-    access?: string
-  }
-
-  location?: {
-    latitude: number
-    longitude: number
-  }
-
-  mapDisplay?: {
-    showOnRegionGuide?: boolean
-    labelPriority?: 1 | 2 | 3
-    approximatePosition?: {
-      x: number
-      y: number
-    }
-  }
-
-  elevation?: {
-    top?: number
-    bottom?: number
-    verticalDrop?: number
-  }
-
-  courses?: {
-    total?: number
-    beginnerRatio?: number
-    intermediateRatio?: number
-    advancedRatio?: number
-  }
-
-  lifts?: {
-    total?: number
-  }
-
-  access?: {
-    fromTokyo?: AccessRoute[]
-    fromOsaka?: AccessRoute[]
-    fromNagoya?: AccessRoute[]
-    fromSapporo?: AccessRoute[]
-    fromAirport?: AccessRoute[]
-    car?: {
-      recommended: boolean
-      snowTireRequired: boolean
-      note?: string
-    }
-  }
-
-  terrainSummary?: {
-    beginner?: string
-    intermediate?: string
-    advanced?: string
-    snowboard?: string
-    powder?: string
-  }
-
-  sources: Source[]
-}
+```txt
+hokkaido
+tohoku
+kanto-koshinetsu
+hokuriku
+chubu
+kansai-chugoku
+kyushu
 ```
 
-## Supporting Types
+## `skiArea`
 
-```ts
-type AccessRoute = {
-  label: string
-  steps: string[]
-  estimatedTime?: string
-  difficulty: "easy" | "medium" | "hard"
-  note?: string
-  links?: {
-    label: string
-    url: string
-  }[]
-}
+可用值：
 
-type Source = {
-  label: string
-  url: string
-  note?: string
-}
+```txt
+niseko
+furano
+rusutsu
+zao
+appi
+nozawa-onsen
+yuzawa
+hakuba
+shiga-kogen
 ```
 
-## Modeling Rules
+如果雪場不屬於現有 `skiArea`，先省略此欄，不要自行新增 enum 值。
 
-Do not put everything into `tags`.
+## `tags`
 
-Use distinct fields:
+可用值：
 
-- `region`: large geographic region
-- `prefecture`: Japanese prefecture
-- `skiArea`: ski travel area, such as Hakuba, Yuzawa, Niseko
-- `location`: actual coordinates, optional
-- `mapDisplay`: visual placement for simplified static guide maps, optional
-- `tags`: ski-related attributes and user needs
-- `links`: external official or trusted information entry points
-- `access`: structured transportation summary
-
-## Region Taxonomy
-
-Current region keys:
-
-- `hokkaido`
-- `tohoku`
-- `kanto-koshinetsu`
-- `hokuriku`
-- `chubu`
-- `kansai-chugoku`
-- `kyushu`
-
-This is a ski travel taxonomy, not a strict administrative geography taxonomy. For example, Nagano resorts such as Hakuba Goryu are assigned to `kanto-koshinetsu` because they are commonly planned with Tokyo / Shinetsu access flows in this project.
-
-## Current Implementation
-
-The first Astro content schema lives in:
-
-- `src/content.config.ts`
-- `src/data/regions.ts`
-- `src/data/skiAreas.ts`
-- `src/data/tags.ts`
-- `src/content/resorts/`
-
-The content collection currently validates Markdown resort files with stable metadata and source URLs. Resort data is intentionally incomplete at this stage; sample files exist to validate the schema and establish the editing pattern before broad data entry.
-
-## Visibility
-
-Resort entries may include a `visibility` block:
-
-```yaml
-visibility:
-  status: hidden
-  note: 暫時不顯示，等待資料確認
+```txt
+beginner_friendly
+family_friendly
+good_for_first_japan_trip
+large_ski_area
+night_skiing
+no_car_accessible
+onsen
+powder
+resort_village
+snowboard_friendly
+tree_run
 ```
 
-Supported statuses:
+## `visibility`
 
-- `published`: show in public pages and generate a detail page.
-- `draft`: keep in the repository but hide from public pages.
-- `hidden`: temporarily hide an entry that should not be public.
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `status` | 否 | enum | `published`、`draft`、`hidden`。預設為 `published`。 |
+| `note` | 否 | string | 狀態備註。 |
 
-If `visibility` is omitted, the default is `published`.
+建議用法：
+
+- `published`：公開顯示。
+- `draft`：資料仍在整理。
+- `hidden`：保留資料，但前台不顯示。
+
+## `links`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `official` | 是 | URL | 官方網站。 |
+| `googleMaps` | 否 | URL | Google Maps 連結。 |
+| `trailMapPage` | 否 | URL | 官方雪場圖頁面。 |
+| `trailMapPdf` | 否 | URL | 官方雪場圖 PDF。 |
+| `weather` | 否 | URL | 天氣頁，例如 Weathernews。 |
+| `snowReport` | 否 | URL | 官方雪況頁。 |
+| `liftStatus` | 否 | URL | 纜車運行狀態頁。 |
+| `ticket` | 否 | URL | 票價頁。 |
+| `access` | 否 | URL | 交通資訊頁。 |
+
+## `contact`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `address.zhTw` | 是 | string | 繁體中文地址。 |
+| `address.ja` | 是 | string | 日文地址。 |
+| `address.googleMaps` | 是 | URL | Google Maps 連結。 |
+| `phone` | 否 | string | 電話。 |
+
+`contact` 整個區塊是 optional；但只要填 `contact`，`address` 內三個欄位都要填。
+
+## `season`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `label` | 是 | string | 雪季標籤，例如 `2025-2026`。 |
+| `operatingPeriod` | 否 | string | 營業期間。 |
+| `hours` | 否 | string | 日間營業時間。 |
+| `nightSkiingHours` | 否 | string | 夜滑時間。 |
+| `note` | 否 | string | 營業相關備註。 |
+| `source` | 否 | URL | 資料來源。 |
+
+## `trailMaps`
+
+`trailMaps` 是陣列，可放多筆不同語言或不同年度的官方雪場圖。
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `label` | 是 | string | 顯示標題。 |
+| `language` | 是 | string | 語言，例如 `日本語`、`English`。 |
+| `season` | 否 | string | 適用雪季。 |
+| `url` | 是 | URL | 官方頁面或 PDF URL。 |
+| `sourceLabel` | 否 | string | 來源名稱。 |
+
+## `tickets`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `season` | 是 | string | 票價所屬雪季。 |
+| `currency` | 否 | string | 幣別，預設 `JPY`。 |
+| `source` | 是 | URL | 官方票價來源。 |
+| `note` | 否 | string | 票價備註。 |
+| `plans` | 是 | array | 主要票種，至少一筆。 |
+
+### `tickets.plans`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `name` | 是 | string | 票種名稱。 |
+| `audience` | 否 | string | 適用對象，例如大人、兒童、敬老。 |
+| `price` | 是 | string | 價格。 |
+| `note` | 否 | string | 票種備註。 |
+
+票價只建議放主要票種，不需要把官方完整票價表全部搬進來。
+
+## `snowWeather`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `title` | 是 | string | 雪況天氣標題。 |
+| `provider` | 否 | string | 來源名稱，例如 `Weathernews`。 |
+| `url` | 是 | URL | 天氣或雪況頁。 |
+| `snowDepth` | 否 | string | 積雪量。 |
+| `updatedAt` | 否 | string | 更新時間。 |
+| `forecast` | 否 | array | 一週天氣。 |
+| `note` | 否 | string | 備註。 |
+
+### `snowWeather.forecast`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `date` | 是 | string | 日期，例如 `12/27(日)`。 |
+| `weather` | 是 | string | 天氣，例如 `晴`、`陰`、`雪`。 |
+| `low` | 是 | string 或 number | 最低溫。 |
+| `high` | 是 | string 或 number | 最高溫。 |
+
+## `location`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `latitude` | 是 | number | 緯度。 |
+| `longitude` | 是 | number | 經度。 |
+
+`location` 整個區塊是 optional；但只要填 `location`，兩個欄位都要填。
+
+## `mapDisplay`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `showOnRegionGuide` | 否 | boolean | 是否顯示在區域導覽圖。 |
+| `labelPriority` | 否 | `1`、`2`、`3` | 標籤優先度。 |
+| `approximatePosition.x` | 否 | number | 靜態地圖上的 x 位置。 |
+| `approximatePosition.y` | 否 | number | 靜態地圖上的 y 位置。 |
+
+## `elevation`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `top` | 否 | number | 最高海拔，單位通常為公尺。 |
+| `bottom` | 否 | number | 最低海拔，單位通常為公尺。 |
+| `verticalDrop` | 否 | number | 標高差，單位通常為公尺。 |
+
+## `courses`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `total` | 否 | number | 雪道總數。 |
+| `beginnerRatio` | 否 | number | 初級比例。 |
+| `intermediateRatio` | 否 | number | 中級比例。 |
+| `advancedRatio` | 否 | number | 進階比例。 |
+| `courseInfoPage` | 否 | URL | 官方雪道資訊頁。填此欄會產生雪道詳細資訊頁。 |
+| `summary` | 否 | string | 雪道整體摘要。 |
+| `details` | 否 | array | 每條雪道資料。 |
+
+### `courses.details`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `name` | 是 | string | 雪道名稱。 |
+| `difficulty` | 是 | enum | 難度。 |
+| `length` | 否 | string | 長度，例如 `1200m` 或 `1,200m`。 |
+| `maxSlope` | 否 | string | 最大坡度，例如 `25°`。 |
+| `averageSlope` | 否 | string | 平均坡度，例如 `13°`。 |
+| `videoLinks` | 否 | array | 相關影片。 |
+| `note` | 否 | string | 雪道說明。 |
+
+`difficulty` 可用值：
+
+```txt
+beginner
+intermediate
+advanced
+expert
+ungroomed
+mixed
+```
+
+### `courses.details.videoLinks`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `title` | 是 | string | 影片標題。 |
+| `url` | 是 | URL | 影片連結。 |
+| `note` | 否 | string | 備註。 |
+
+## `lifts`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `total` | 否 | number | 纜車、吊椅、廂型纜車等總數。 |
+
+目前前台尚未顯示 `lifts`。
+
+## `access`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `fromTokyo` | 否 | array | 東京出發交通。 |
+| `fromOsaka` | 否 | array | 大阪出發交通。 |
+| `fromNagoya` | 否 | array | 名古屋出發交通。 |
+| `fromSapporo` | 否 | array | 札幌出發交通。 |
+| `fromAirport` | 否 | array | 機場出發交通。 |
+| `car` | 否 | object | 自駕資訊。 |
+
+### `access` 路線
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `label` | 是 | string | 路線名稱。 |
+| `steps` | 是 | string[] | 交通步驟，至少一筆。 |
+| `estimatedTime` | 否 | string | 預估時間。 |
+| `difficulty` | 是 | enum | `easy`、`medium`、`hard`。 |
+| `note` | 否 | string | 備註。 |
+| `links` | 否 | array | 相關連結。 |
+
+### `access.car`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `recommended` | 是 | boolean | 是否建議自駕。 |
+| `snowTireRequired` | 是 | boolean | 是否需要雪胎或雪鏈。 |
+| `note` | 否 | string | 自駕備註。 |
+
+## `terrainSummary`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `beginner` | 否 | string | 初學者適合度。 |
+| `intermediate` | 否 | string | 中級者適合度。 |
+| `advanced` | 否 | string | 進階者適合度。 |
+| `snowboard` | 否 | string | 單板適合度。 |
+| `powder` | 否 | string | 粉雪適合度。 |
+
+## `externalContent`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `blogs` | 否 | array | 外部遊記或文章。 |
+| `vlogs` | 否 | array | 外部影片。 |
+
+### `externalContent.blogs` / `externalContent.vlogs`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `title` | 是 | string | 顯示標題。 |
+| `url` | 是 | URL | 外部連結。 |
+| `note` | 否 | string | 備註，例如作者、頻道或用途。 |
+
+## `sources`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `label` | 是 | string | 來源名稱。 |
+| `url` | 是 | URL | 來源網址。 |
+| `note` | 否 | string | 來源備註。 |
+
+建議每個重要事實都能回到某個 `sources` 或欄位內的 `source` URL。
