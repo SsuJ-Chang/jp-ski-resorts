@@ -68,6 +68,7 @@ const snowWeatherSchema = z.object({
 const courseDetailSchema = z.object({
   name: z.string(),
   difficulty: z.enum(['beginner', 'intermediate', 'advanced', 'expert', 'ungroomed', 'mixed']),
+  length: z.string().optional(),
   maxSlope: z.string().optional(),
   averageSlope: z.string().optional(),
   videoLinks: z.array(namedLinkSchema).optional(),

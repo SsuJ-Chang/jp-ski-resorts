@@ -59,6 +59,12 @@ const courseDetails = resort.data.courses?.details ?? []
                 {course.note && <p>{course.note}</p>}
               </div>
               <dl class="course-facts">
+                {course.length && (
+                  <div>
+                    <dt>長度</dt>
+                    <dd>{course.length}</dd>
+                  </div>
+                )}
                 {course.maxSlope && (
                   <div>
                     <dt>最大坡度</dt>
