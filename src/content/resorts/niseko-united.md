@@ -7,6 +7,9 @@ name:
 region: hokkaido
 prefecture: 北海道
 skiArea: niseko
+visibility:
+  status: hidden
+  note: 已改以 Annupuri、Niseko Village、Grand Hirafu、HANAZONO 四個主要雪場分開呈現；此檔保留作彙整資料參考。
 tags:
 - powder
 - large_ski_area

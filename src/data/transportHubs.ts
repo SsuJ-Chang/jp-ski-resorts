@@ -39,6 +39,22 @@ export const transportHubs = {
       longitude: 138.4922,
     },
   },
+  kutchanStation: {
+    id: 'kutchan-station',
+    label: '倶知安站',
+    location: {
+      latitude: 42.9011,
+      longitude: 140.7456,
+    },
+  },
+  nisekoStation: {
+    id: 'niseko-station',
+    label: 'Niseko 站',
+    location: {
+      latitude: 42.8087,
+      longitude: 140.6865,
+    },
+  },
 } as const
 
 export type TransportHubKey = keyof typeof transportHubs
