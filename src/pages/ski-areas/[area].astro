@@ -1,0 +1,97 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '../../layouts/BaseLayout.astro'
+import SkiAreaPositionMap from '../../components/SkiAreaPositionMap.astro'
+import { publishedSkiAreaKeys, skiAreas } from '../../data/skiAreas'
+import { tagLabels } from '../../data/tags'
+import { filterPublishedResorts, sortResortsByEnglishName } from '../../utils/resorts'
+import { withBasePath } from '../../utils/paths'
+
+export function getStaticPaths() {
+  return publishedSkiAreaKeys.map((key) => ({
+    params: { area: key },
+    props: { area: skiAreas[key] },
+  }))
+}
+
+const { area } = Astro.props
+const publishedResorts = filterPublishedResorts(await getCollection('resorts'))
+const resorts = sortResortsByEnglishName(
+  publishedResorts.filter((resort) => resort.data.skiArea === area.key),
+)
+const resortById = new Map(resorts.map((resort) => [resort.id, resort]))
+const featuredResortIds = area.featuredResorts as readonly string[]
+const featuredResorts = area.featuredResorts
+  .map((id) => resortById.get(id))
+  .filter((resort): resort is (typeof resorts)[number] => Boolean(resort))
+const otherResorts = resorts.filter((resort) => !featuredResortIds.includes(resort.id))
+const orderedResorts = [...featuredResorts, ...otherResorts]
+
+const areaTitle = `${area.name.zhTw}一帶雪場`
+---
+
+<BaseLayout
+  title={`${area.name.zhTw}雪場區域 | 日本滑雪資料庫`}
+  description={area.summary}
+>
+  <main class="site-shell page-stack">
+    <a class="text-link" href={withBasePath('/ski-areas/')}>返回雪場區域</a>
+
+    <section class="ski-area-hero" aria-labelledby="page-title">
+      <div>
+        <p class="eyebrow">{area.name.en} / {area.prefecture}</p>
+        <h1 id="page-title">{area.name.zhTw}</h1>
+        <p>{area.summary}</p>
+      </div>
+      <dl class="ski-area-facts" aria-label={`${area.name.zhTw}基本資訊`}>
+        <div>
+          <dt>交通核心</dt>
+          <dd>{area.accessHub}</dd>
+        </div>
+        <div>
+          <dt>收錄雪場</dt>
+          <dd>{resorts.length} 間</dd>
+        </div>
+      </dl>
+    </section>
+
+    <section class="ski-area-traits" aria-label={`${area.name.zhTw}特色`}>
+      {area.traits.map((trait) => <span>{trait}</span>)}
+    </section>
+
+    <section class="info-panel ski-area-map-panel" aria-labelledby="connection-map-title">
+      <div class="section-heading-row">
+        <h2 id="connection-map-title">{area.name.zhTw}區域圖</h2>
+        <p class="ski-area-map-note">交通與關聯示意，非精準地理比例</p>
+      </div>
+
+      <SkiAreaPositionMap areaKey={area.key} resorts={publishedResorts} />
+    </section>
+
+    <section class="info-panel detail-panel--wide" aria-labelledby="area-resorts-title">
+      <div class="section-heading-row">
+        <h2 id="area-resorts-title">{areaTitle}</h2>
+        <span class="section-count">{orderedResorts.length} 間</span>
+      </div>
+      <div class="area-resort-list">
+        {orderedResorts.map((resort) => (
+          <article class="area-resort-row">
+            <div>
+              <p class="resort-card__meta">{resort.data.prefecture}</p>
+              <h3>
+                <a href={withBasePath(`/resorts/${resort.id}/`)}>{resort.data.name.zhTw}</a>
+              </h3>
+              <p>{resort.data.courses?.summary ?? resort.body}</p>
+            </div>
+            <div class="area-resort-row__side">
+              <span>{resort.data.courses?.total ? `${resort.data.courses.total} 條雪道` : '雪道數未提供'}</span>
+              <div class="tag-list">
+                {resort.data.tags.slice(0, 3).map((tag) => <span>{tagLabels[tag]}</span>)}
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+  </main>
+</BaseLayout>

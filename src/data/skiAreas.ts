@@ -1,3 +1,138 @@
+export const skiAreas = {
+  yuzawa: {
+    key: 'yuzawa',
+    type: 'cluster',
+    name: {
+      zhTw: '湯澤',
+      ja: '湯沢',
+      en: 'Yuzawa',
+    },
+    region: 'kanto-koshinetsu',
+    prefecture: '新潟縣',
+    baseTown: '越後湯澤',
+    accessHub: '越後湯澤站',
+    summary:
+      '以越後湯澤站為核心的滑雪區域，東京出發交通直接，適合一日滑雪、短天數行程與第一次日本滑雪。',
+    traits: ['新幹線方便', '雪場選擇多', '初學友善', '短天數行程'],
+    featuredResorts: [
+      'gala-yuzawa',
+      'yuzawa-kogen',
+      'ishiuchi-maruyama',
+      'kandatsu',
+      'iwappara',
+      'yuzawa-nakazato',
+      'naspa-ski-garden',
+      'kagura',
+      'naeba',
+    ],
+  },
+  hakuba: {
+    key: 'hakuba',
+    type: 'cluster',
+    name: {
+      zhTw: '白馬',
+      ja: '白馬',
+      en: 'Hakuba',
+    },
+    region: 'kanto-koshinetsu',
+    prefecture: '長野縣',
+    baseTown: '白馬村',
+    accessHub: '白馬站 / 八方巴士總站',
+    summary: '白馬 Valley 一帶的多雪場區域，雪場風格差異大，適合安排多日行程比較不同山域。',
+    traits: ['大型雪場群', '粉雪', '多日行程', '雪場差異大'],
+    featuredResorts: [
+      'hakuba-happo-one',
+      'hakuba-iwatake',
+      'hakuba-goryu',
+      'hakuba47',
+      'tsugaike-kogen',
+      'hakuba-cortina',
+      'hakuba-norikura-onsen',
+      'hakuba-sanosaka',
+      'kashimayari',
+      'jiigatake',
+    ],
+  },
+  'nozawa-onsen': {
+    key: 'nozawa-onsen',
+    type: 'destination',
+    name: {
+      zhTw: '野澤溫泉',
+      ja: '野沢温泉',
+      en: 'Nozawa Onsen',
+    },
+    region: 'kanto-koshinetsu',
+    prefecture: '長野縣',
+    baseTown: '野澤溫泉村',
+    accessHub: '飯山站',
+    summary: '以單一大型雪場與溫泉村構成的滑雪旅遊目的地。',
+    traits: ['單一大型雪場', '溫泉村', '住宿型行程'],
+    featuredResorts: ['nozawa-onsen'],
+  },
+  niseko: {
+    key: 'niseko',
+    type: 'linked',
+    name: { zhTw: '二世谷', ja: 'ニセコ', en: 'Niseko' },
+    region: 'hokkaido',
+    prefecture: '北海道',
+    baseTown: '倶知安 / Niseko',
+    accessHub: '倶知安站',
+    summary: '北海道代表性的聯合雪場區域，以粉雪與國際化住宿圈聞名。',
+    traits: ['粉雪', '聯合雪場', '國際化住宿圈'],
+    featuredResorts: ['niseko-united'],
+  },
+  furano: {
+    key: 'furano',
+    type: 'destination',
+    name: { zhTw: '富良野', ja: '富良野', en: 'Furano' },
+    region: 'hokkaido',
+    prefecture: '北海道',
+    summary: '北海道內陸代表性滑雪目的地。',
+    traits: ['北海道內陸', '粉雪'],
+    featuredResorts: [],
+  },
+  rusutsu: {
+    key: 'rusutsu',
+    type: 'destination',
+    name: { zhTw: '留壽都', ja: 'ルスツ', en: 'Rusutsu' },
+    region: 'hokkaido',
+    prefecture: '北海道',
+    summary: '北海道大型度假村型滑雪目的地。',
+    traits: ['度假村型', '粉雪'],
+    featuredResorts: [],
+  },
+  zao: {
+    key: 'zao',
+    type: 'destination',
+    name: { zhTw: '藏王', ja: '蔵王', en: 'Zao' },
+    region: 'tohoku',
+    prefecture: '山形縣',
+    summary: '東北代表性滑雪與溫泉目的地。',
+    traits: ['樹冰', '溫泉'],
+    featuredResorts: [],
+  },
+  appi: {
+    key: 'appi',
+    type: 'destination',
+    name: { zhTw: '安比', ja: '安比', en: 'Appi' },
+    region: 'tohoku',
+    prefecture: '岩手縣',
+    summary: '東北大型度假村型滑雪目的地。',
+    traits: ['度假村型', '東北'],
+    featuredResorts: [],
+  },
+  'shiga-kogen': {
+    key: 'shiga-kogen',
+    type: 'cluster',
+    name: { zhTw: '志賀高原', ja: '志賀高原', en: 'Shiga Kogen' },
+    region: 'kanto-koshinetsu',
+    prefecture: '長野縣',
+    summary: '長野縣大型聯合雪場區域。',
+    traits: ['大型雪場群', '聯合雪場'],
+    featuredResorts: [],
+  },
+} as const
+
 export const skiAreaKeys = [
   'niseko',
   'furano',
@@ -8,7 +143,12 @@ export const skiAreaKeys = [
   'yuzawa',
   'hakuba',
   'shiga-kogen',
-] as const
+] as const satisfies readonly (keyof typeof skiAreas)[]
 
 export type SkiAreaKey = (typeof skiAreaKeys)[number]
 
+export type SkiArea = (typeof skiAreas)[SkiAreaKey]
+
+export const publishedSkiAreaKeys = ['yuzawa', 'hakuba'] as const satisfies readonly SkiAreaKey[]
+
+export type PublishedSkiAreaKey = (typeof publishedSkiAreaKeys)[number]

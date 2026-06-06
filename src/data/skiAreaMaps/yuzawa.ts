@@ -1,0 +1,120 @@
+import { transportHubs } from '../transportHubs'
+import type { SkiAreaMapDefinition } from './types'
+
+export const yuzawaMap = {
+  areaKey: 'yuzawa',
+  title: '湯澤區域圖',
+  note: '依經緯度正規化後的大致相對位置，非精準比例地圖。',
+  layout: {
+    collision: {
+      minX: 17,
+      minY: 8,
+      iterations: 14,
+    },
+  },
+  nodes: [
+    {
+      id: 'ishiuchi-maruyama',
+      label: '石打丸山',
+      kind: 'resort',
+      resortId: 'ishiuchi-maruyama',
+      nudge: { x: -2 },
+    },
+    {
+      id: 'maiko',
+      label: '舞子',
+      kind: 'resort',
+      resortId: 'maiko',
+      nudge: { x: 2 },
+    },
+    {
+      id: 'joetsu-kokusai',
+      label: '上越國際',
+      kind: 'resort',
+      resortId: 'joetsu-kokusai',
+      nudge: { x: 2 },
+    },
+    {
+      id: 'gala-yuzawa',
+      label: 'GALA湯澤',
+      kind: 'resort',
+      resortId: 'gala-yuzawa',
+      nudge: { x: -1 },
+    },
+    {
+      id: 'yuzawa-kogen',
+      label: '湯澤高原',
+      kind: 'resort',
+      resortId: 'yuzawa-kogen',
+      nudge: { x: -4 },
+    },
+    {
+      id: 'ipponsugi',
+      label: '一本杉',
+      kind: 'resort',
+      resortId: 'ipponsugi',
+      nudge: { x: 4, y: -2 },
+    },
+    {
+      ...transportHubs.echigoYuzawaStation,
+      kind: 'hub',
+      hubId: 'echigoYuzawaStation',
+      nudge: { x: 5 },
+    },
+    {
+      id: 'naspa-ski-garden',
+      label: 'NASPA Ski Garden',
+      kind: 'resort',
+      resortId: 'naspa-ski-garden',
+      nudge: { x: 4 },
+    },
+    {
+      id: 'kandatsu',
+      label: '神立高原',
+      kind: 'resort',
+      resortId: 'kandatsu',
+      nudge: { x: -4 },
+    },
+    {
+      id: 'iwappara',
+      label: '岩原',
+      kind: 'resort',
+      resortId: 'iwappara',
+      nudge: { x: 4 },
+    },
+    {
+      id: 'yuzawa-park',
+      label: '湯澤公園',
+      kind: 'resort',
+      resortId: 'yuzawa-park',
+      nudge: { x: 2, y: 3 },
+    },
+    {
+      id: 'yuzawa-nakazato',
+      label: '湯澤中里',
+      kind: 'resort',
+      resortId: 'yuzawa-nakazato',
+      nudge: { x: 4, y: -3 },
+    },
+    {
+      id: 'nakazato-snow-wood',
+      label: '中里Snow Wood',
+      kind: 'resort',
+      resortId: 'nakazato-snow-wood',
+      nudge: { x: -3, y: 4 },
+    },
+    {
+      id: 'kagura',
+      label: '神樂',
+      kind: 'resort',
+      resortId: 'kagura',
+      nudge: { x: -2 },
+    },
+    {
+      id: 'naeba',
+      label: '苗場',
+      kind: 'resort',
+      resortId: 'naeba',
+    },
+  ],
+} as const satisfies SkiAreaMapDefinition

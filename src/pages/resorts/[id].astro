@@ -2,6 +2,7 @@
 import { getCollection, render } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import { regions } from '../../data/regions'
+import { publishedSkiAreaKeys, skiAreas } from '../../data/skiAreas'
 import { tagLabels } from '../../data/tags'
 import { filterPublishedResorts } from '../../utils/resorts'
 import { withBasePath } from '../../utils/paths'
@@ -18,6 +19,11 @@ export async function getStaticPaths() {
 const { resort } = Astro.props
 const { Content } = await render(resort)
 const region = regions.find((item) => item.key === resort.data.region)
+const publishedSkiAreaSet = new Set<string>(publishedSkiAreaKeys)
+const skiArea =
+  resort.data.skiArea && publishedSkiAreaSet.has(resort.data.skiArea)
+    ? skiAreas[resort.data.skiArea]
+    : undefined
 
 const hasExternalContent =
   (resort.data.externalContent?.blogs?.length ?? 0) > 0 ||
@@ -39,6 +45,11 @@ const hasExternalContent =
           {resort.data.name.ja}
           {resort.data.name.en && <span>{resort.data.name.en}</span>}
         </p>
+        {skiArea && (
+          <a class="ski-area-pill-link" href={withBasePath(`/ski-areas/${skiArea.key}/`)}>
+            雪場區域：{skiArea.name.zhTw}
+          </a>
+        )}
       </div>
       <div class="tag-list tag-list--large" aria-label={`${resort.data.name.zhTw} tags`}>
         {resort.data.tags.map((tag) => (
@@ -190,7 +201,7 @@ const hasExternalContent =
               <div class="weather-summary">
                 <div>
                   <span>積雪量</span>
-                  <strong>{resort.data.snowWeather.snowDepth ?? '待補'}</strong>
+                  <strong>{resort.data.snowWeather.snowDepth ?? '未提供'}</strong>
                 </div>
               </div>
               {resort.data.snowWeather.forecast && resort.data.snowWeather.forecast.length > 0 && (
@@ -232,7 +243,7 @@ const hasExternalContent =
               </p>
             </>
           ) : (
-            <p class="panel-note">雪況天氣連結待補。</p>
+            <p class="panel-note">這座雪場尚未提供雪況天氣資料；出發前請以官方公告或可信的天氣資訊為準。</p>
           )
         }
       </section>

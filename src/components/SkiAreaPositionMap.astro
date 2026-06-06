@@ -1,0 +1,116 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { skiAreaMaps, type SkiAreaMapKey } from '../data/skiAreaMaps'
+import type { SkiAreaMapDefinition, SkiAreaMapNode } from '../data/skiAreaMaps/types'
+import { withBasePath } from '../utils/paths'
+import '../styles/ski-area-map.css'
+
+type Props = {
+  areaKey: string
+  resorts: CollectionEntry<'resorts'>[]
+}
+
+const { areaKey, resorts } = Astro.props
+const areaMap = skiAreaMaps[areaKey as SkiAreaMapKey] as SkiAreaMapDefinition | undefined
+
+const resortLocationById = new Map(
+  resorts
+    .filter((resort) => resort.data.location)
+    .map((resort) => [resort.id, resort.data.location]),
+)
+const nodesWithCoordinates =
+  areaMap?.nodes
+    .map((rawNode) => {
+      const node = rawNode as SkiAreaMapNode
+      const location = node.location ?? (node.kind === 'resort' ? resortLocationById.get(node.resortId) : undefined)
+
+      return location ? { ...node, location } : undefined
+    })
+    .filter((node): node is SkiAreaMapNode & { location: NonNullable<SkiAreaMapNode['location']> } => Boolean(node)) ??
+  []
+
+const padding = 8
+const coordinates = nodesWithCoordinates.map((node) => node.location)
+const latitudes = coordinates.map((coord) => coord.latitude)
+const longitudes = coordinates.map((coord) => coord.longitude)
+const minLat = Math.min(...latitudes)
+const maxLat = Math.max(...latitudes)
+const minLon = Math.min(...longitudes)
+const maxLon = Math.max(...longitudes)
+const latRange = maxLat - minLat || 1
+const lonRange = maxLon - minLon || 1
+const clampPosition = (value: number) => Math.min(94, Math.max(6, value))
+const collisionSettings = {
+  minX: areaMap?.layout?.collision?.minX ?? 15,
+  minY: areaMap?.layout?.collision?.minY ?? 7,
+  iterations: areaMap?.layout?.collision?.iterations ?? 8,
+}
+
+const positionedNodes =
+  nodesWithCoordinates.map((node) => {
+    const baseX = padding + ((node.location.longitude - minLon) / lonRange) * (100 - padding * 2)
+    const baseY = padding + ((maxLat - node.location.latitude) / latRange) * (100 - padding * 2)
+    const x = clampPosition(baseX + (node.nudge?.x ?? 0))
+    const y = clampPosition(baseY + (node.nudge?.y ?? 0))
+    const href = node.kind === 'resort' ? withBasePath(`/resorts/${node.resortId}/`) : undefined
+
+    return { ...node, x, y, href }
+  }) ?? []
+
+for (let iteration = 0; iteration < collisionSettings.iterations; iteration += 1) {
+  for (let firstIndex = 0; firstIndex < positionedNodes.length; firstIndex += 1) {
+    for (let secondIndex = firstIndex + 1; secondIndex < positionedNodes.length; secondIndex += 1) {
+      const first = positionedNodes[firstIndex]
+      const second = positionedNodes[secondIndex]
+      const dx = second.x - first.x
+      const dy = second.y - first.y
+      const overlapX = collisionSettings.minX - Math.abs(dx)
+      const overlapY = collisionSettings.minY - Math.abs(dy)
+
+      if (overlapX <= 0 || overlapY <= 0) {
+        continue
+      }
+
+      if (overlapX < overlapY) {
+        const direction = dx === 0 ? (firstIndex % 2 === 0 ? 1 : -1) : Math.sign(dx)
+        const shift = (overlapX / 2 + 0.2) * direction
+        first.x = clampPosition(first.x - shift)
+        second.x = clampPosition(second.x + shift)
+      } else {
+        const direction = dy === 0 ? (firstIndex % 2 === 0 ? 1 : -1) : Math.sign(dy)
+        const shift = (overlapY / 2 + 0.2) * direction
+        first.y = clampPosition(first.y - shift)
+        second.y = clampPosition(second.y + shift)
+      }
+    }
+  }
+}
+---
+
+{
+  areaMap && (
+    <div class="ski-area-position-map" aria-label={areaMap.title}>
+      <div class="ski-area-position-map__axis" aria-hidden="true"></div>
+      <span class="ski-area-position-map__direction ski-area-position-map__direction--north">北</span>
+      <span class="ski-area-position-map__direction ski-area-position-map__direction--south">南</span>
+      {positionedNodes.map((node) =>
+        node.href ? (
+          <a
+            class={`ski-area-position-map__node ski-area-position-map__node--${node.kind}`}
+            href={node.href}
+            style={`--x: ${node.x}; --y: ${node.y};`}
+          >
+            {node.label}
+          </a>
+        ) : (
+          <div
+            class={`ski-area-position-map__node ski-area-position-map__node--${node.kind}`}
+            style={`--x: ${node.x}; --y: ${node.y};`}
+          >
+            {node.label}
+          </div>
+        ),
+      )}
+    </div>
+  )
+}

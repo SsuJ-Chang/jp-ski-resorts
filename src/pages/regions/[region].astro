@@ -31,7 +31,7 @@ const resorts = sortResortsByEnglishName(
         <p class="eyebrow">{region.name.en}</p>
         <h1 id="page-title">{region.name.zhTw}</h1>
         <p>{region.description}</p>
-        <p class="count-line">目前收錄 {resorts.length} 座滑雪場</p>
+        <p class="count-line">收錄 {resorts.length} 座滑雪場</p>
       </div>
       <JapanRegionMap mode="region" region={region} labelledBy={`${region.key}-map-title`} />
     </section>
@@ -60,8 +60,8 @@ const resorts = sortResortsByEnglishName(
         </section>
       ) : (
         <section class="empty-state" aria-label="No resorts">
-          <h2>目前沒有收錄滑雪場</h2>
-          <p>這個分區的資料還在整理中，後續會依據官方資訊與旅行規劃需求逐步補上。</p>
+          <h2>這個分區尚未收錄滑雪場</h2>
+          <p>我們會以官方資訊、交通便利性與旅遊規劃需求為基準，整理適合放入本站的滑雪目的地。</p>
         </section>
       )
     }

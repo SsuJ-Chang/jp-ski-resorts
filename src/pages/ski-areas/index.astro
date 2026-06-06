@@ -1,0 +1,47 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '../../layouts/BaseLayout.astro'
+import { publishedSkiAreaKeys, skiAreas } from '../../data/skiAreas'
+import { filterPublishedResorts } from '../../utils/resorts'
+import { withBasePath } from '../../utils/paths'
+
+const resorts = filterPublishedResorts(await getCollection('resorts'))
+const resortCountByArea = new Map<string, number>()
+
+for (const resort of resorts) {
+  if (!resort.data.skiArea) continue
+  resortCountByArea.set(resort.data.skiArea, (resortCountByArea.get(resort.data.skiArea) ?? 0) + 1)
+}
+
+const areas = publishedSkiAreaKeys.map((key) => skiAreas[key])
+---
+
+<BaseLayout title="雪場區域 | 日本滑雪資料庫" description="依滑雪旅遊區域整理日本雪場，協助比較同區雪場與交通關係。">
+  <main class="site-shell page-stack">
+    <section class="page-heading" aria-labelledby="page-title">
+      <p class="eyebrow">Ski areas</p>
+      <h1 id="page-title">雪場區域</h1>
+      <p>
+        整理常聽到的滑雪區域資訊，例如湯澤、白馬、二世谷。聚焦在明確動線與區域特色的雪場群，方便比較交通、住宿範圍與可搭配的滑雪目的地。
+      </p>
+    </section>
+
+    <section class="ski-area-grid" aria-label="雪場區域列表">
+      {areas.map((area) => (
+        <article class="ski-area-card">
+          <div>
+            <p class="resort-card__meta">{area.prefecture} / {area.accessHub}</p>
+            <h2>
+              <a href={withBasePath(`/ski-areas/${area.key}/`)}>{area.name.zhTw}</a>
+            </h2>
+            <p>{area.summary}</p>
+          </div>
+          <div class="ski-area-card__footer">
+            <span>{resortCountByArea.get(area.key) ?? 0} 間雪場</span>
+            <a class="text-link" href={withBasePath(`/ski-areas/${area.key}/`)}>查看區域</a>
+          </div>
+        </article>
+      ))}
+    </section>
+  </main>
+</BaseLayout>

@@ -518,6 +518,181 @@ h1 {
   color: #526660;
 }
 
+.ski-area-pill-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 34px;
+  margin-top: 16px;
+  padding: 6px 12px;
+  border: 1px solid rgba(29, 93, 100, 0.22);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.62);
+  color: #1d5d64;
+  font-size: 0.9rem;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.ski-area-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.ski-area-card {
+  display: grid;
+  gap: 22px;
+  min-height: 230px;
+  padding: 22px;
+  border: 1px solid rgba(23, 33, 31, 0.12);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.82);
+  box-shadow: 0 10px 34px rgba(23, 33, 31, 0.06);
+}
+
+.ski-area-card h2 {
+  margin: 0 0 10px;
+  font-size: 1.45rem;
+}
+
+.ski-area-card h2 a {
+  text-decoration: none;
+}
+
+.ski-area-card p {
+  margin: 0;
+  color: #425552;
+  line-height: 1.7;
+}
+
+.ski-area-card__footer {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: center;
+  color: #526660;
+  font-weight: 900;
+}
+
+.ski-area-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
+  gap: 28px;
+  align-items: end;
+}
+
+.ski-area-hero h1 {
+  margin-bottom: 18px;
+}
+
+.ski-area-hero p {
+  max-width: 760px;
+  margin: 0;
+  color: #334643;
+  font-size: 1.06rem;
+  line-height: 1.8;
+}
+
+.ski-area-facts {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  margin: 0;
+}
+
+.ski-area-facts div {
+  display: grid;
+  gap: 6px;
+  min-height: 82px;
+  padding: 14px;
+  border: 1px solid rgba(23, 33, 31, 0.12);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.ski-area-facts dt {
+  color: #526660;
+  font-size: 0.8rem;
+  font-weight: 800;
+}
+
+.ski-area-facts dd {
+  margin: 0;
+  color: #17211f;
+  font-weight: 900;
+  line-height: 1.35;
+}
+
+.ski-area-traits {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.ski-area-traits span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 32px;
+  padding: 5px 12px;
+  border: 1px solid rgba(23, 33, 31, 0.12);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.72);
+  color: #334643;
+  font-size: 0.88rem;
+  font-weight: 900;
+}
+
+.ski-area-map-panel {
+  overflow: hidden;
+}
+
+.ski-area-map-note,
+.section-count {
+  margin: 0;
+  color: #526660;
+  font-size: 0.9rem;
+  font-weight: 900;
+}
+
+.area-resort-list {
+  display: grid;
+  gap: 10px;
+}
+
+.area-resort-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(180px, 260px);
+  gap: 18px;
+  align-items: start;
+  padding: 16px;
+  border: 1px solid rgba(23, 33, 31, 0.1);
+  border-radius: 8px;
+  background: rgba(245, 247, 244, 0.76);
+}
+
+.area-resort-row h3 {
+  margin: 0 0 8px;
+  font-size: 1.1rem;
+}
+
+.area-resort-row h3 a {
+  text-decoration: none;
+}
+
+.area-resort-row p {
+  margin: 0;
+  color: #425552;
+  line-height: 1.65;
+}
+
+.area-resort-row__side {
+  display: grid;
+  gap: 10px;
+  justify-items: end;
+  color: #526660;
+  font-weight: 900;
+}
+
 .detail-grid {
   display: grid;
   grid-template-columns: minmax(0, 1.4fr) minmax(240px, 0.8fr);
@@ -1065,9 +1240,24 @@ h1 {
   }
 
   .resort-grid,
+  .ski-area-grid,
   .resort-detail-layout,
   .detail-grid {
     grid-template-columns: 1fr;
+  }
+
+  .ski-area-hero,
+  .ski-area-facts,
+  .area-resort-row {
+    grid-template-columns: 1fr;
+  }
+
+  .ski-area-facts {
+    max-width: 100%;
+  }
+
+  .area-resort-row__side {
+    justify-items: start;
   }
 
   .detail-hero {

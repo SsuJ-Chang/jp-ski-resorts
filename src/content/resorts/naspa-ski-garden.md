@@ -83,7 +83,10 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 非即時資料，目前作為 UI 顯示用 placeholder；實際雪況請以官方雪況頁或 Weathernews 為準。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+location:
+  latitude: 36.92451
+  longitude: 138.80501
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

@@ -96,7 +96,10 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 非雪季與網站製作初期先使用白馬五龍的假資料作為 UI 佔位；實際資料待人工更新。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+location:
+  latitude: 43.70509882216627
+  longitude: 142.18723074127666
 elevation:
   top: 751
   bottom: 150

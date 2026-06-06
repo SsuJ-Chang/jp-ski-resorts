@@ -26,7 +26,7 @@ export const regions: Region[] = [
       zhTw: '北海道',
       en: 'Hokkaido',
     },
-    description: '粉雪與大型度假村集中，是第一次規劃日本滑雪旅行時常見的候選區域。',
+    description: '粉雪與大型度假村集中，從一日滑雪到多日住宿型行程都有豐富選擇。',
   },
   {
     key: 'tohoku',
@@ -42,7 +42,7 @@ export const regions: Region[] = [
       zhTw: '關東甲信越',
       en: 'Kanto-Koshinetsu',
     },
-    description: '從東京出發的選項多，包含新潟、長野、群馬等熱門滑雪目的地；白馬資料先歸在此區。',
+    description: '從東京出發的選項多，包含新潟、長野、群馬等熱門滑雪目的地，交通與雪場類型都相當多元。',
   },
   {
     key: 'hokuriku',
@@ -50,7 +50,7 @@ export const regions: Region[] = [
       zhTw: '北陸',
       en: 'Hokuriku',
     },
-    description: '可與金澤、富山等北陸城市旅行搭配，適合作為後續資料擴充區域。',
+    description: '可與金澤、富山等北陸城市旅行搭配，適合安排滑雪與地方觀光並行的冬季行程。',
   },
   {
     key: 'chubu',
@@ -58,7 +58,7 @@ export const regions: Region[] = [
       zhTw: '中部',
       en: 'Chubu',
     },
-    description: '以東海與岐阜等中部滑雪目的地為主；長野滑雪旅行資料先歸入關東甲信越。',
+    description: '以東海、岐阜與中部山區的滑雪目的地為主，適合搭配名古屋或周邊城市規劃行程。',
   },
   {
     key: 'kansai-chugoku',
@@ -74,6 +74,6 @@ export const regions: Region[] = [
       zhTw: '九州',
       en: 'Kyushu',
     },
-    description: '涵蓋福岡及九州各縣可延伸的滑雪與冬季旅行目的地，先保留為後續資料擴充區域。',
+    description: '涵蓋福岡及九州各縣可延伸的滑雪與冬季旅行目的地，適合與溫泉、城市觀光一起安排。',
   },
 ]

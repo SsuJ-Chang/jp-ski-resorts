@@ -89,7 +89,10 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 非雪季與網站製作初期先使用白馬五龍的假資料作為 UI 佔位；實際資料待人工更新。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+location:
+  latitude: 36.6302
+  longitude: 137.8402
 elevation:
   top: 1200
   bottom: 740
@@ -145,4 +148,4 @@ terrainSummary:
   snowboard: 官方介紹 Carving Slope 以技術型雪板滑行者聞名，Snow Friends Park 也可在下場前練習。
   powder: 官方特色說明白馬佐野坂為天然雪 100%，New Paradise 急斜面與粉雪相性佳。
 ---
-白馬佐野坂位於白馬村神城，特色是可眺望青木湖的開闊景觀與相對平易近人的雪道配置。初版先建立基本資料、票價摘要與 Weathernews 雪況入口。
+白馬佐野坂位於白馬村神城，特色是可眺望青木湖的開闊景觀與相對平易近人的雪道配置。本站整理基本資料、票價摘要與雪況資訊入口，方便規劃白馬南側的滑雪行程。

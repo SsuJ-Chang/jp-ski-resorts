@@ -94,7 +94,10 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 非雪季與網站製作初期先使用白馬五龍的假資料作為 UI 佔位；實際資料待人工更新。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+location:
+  latitude: 36.79391
+  longitude: 138.77102
 elevation:
   top: 1789
   bottom: 889
@@ -234,7 +237,10 @@ courses:
 lifts:
   total: 12
 externalContent:
-  blogs: []
+  blogs:
+    - title: 日本苗場親子滑雪/新手看過來 !! | 初訪苗場Naeba滑雪場 & 新潟苗場王子飯店Naeba Prince Hotel開箱 by 豬圈圈樂活趣
+      url: https://psonfamily.com/naeba-prince-hotel-family/
+      note: 豬圈圈樂活趣
   vlogs: []
 sources:
 - label: Naeba Official Website

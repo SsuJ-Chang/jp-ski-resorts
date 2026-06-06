@@ -101,7 +101,10 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 非雪季與網站製作初期先使用白馬五龍的假資料作為 UI 佔位；實際資料待人工更新。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+location:
+  latitude: 36.66451
+  longitude: 137.82522
 courses:
   courseInfoPage: https://www.hakubaescal.com/winter/gelande/course/
   summary: 白馬五龍與 Hakuba47 共通雪道區域共有 24 條雪道，從山麓初級緩坡、夜滑區，到高海拔展望路線、非壓雪與上級路線都有。
@@ -236,20 +239,8 @@ courses:
     averageSlope: 27°
   total: 24
 externalContent:
-  blogs:
-  - title: "【範例】白馬五龍初訪心得：交通、雪道與住宿整理"
-    url: https://example.com/blog/hakuba-goryu-first-trip
-    note: 範例資料，之後請替換成實際 BLOG 連結。
-  - title: "【範例】白馬五龍與 Hakuba47 一日滑雪路線分享"
-    url: https://example.com/blog/hakuba-goryu-47-route
-    note: 範例資料，可用來放個人部落格、旅遊文章或攻略文。
-  vlogs:
-  - title: "【範例】白馬五龍滑雪 VLOG：Toomi 夜滑與山頂雪況"
-    url: https://www.youtube.com/watch?v=example001
-    note: 範例資料，之後請替換成實際 YouTube 影片。
-  - title: "【範例】Hakuba Goryu & 47 Snowboarding Day Trip"
-    url: https://www.youtube.com/watch?v=example002
-    note: 範例資料，可用來放 VLOG、雪道實拍或行程紀錄。
+  blogs: []
+  vlogs: []
 sources:
 - label: Hakuba Goryu Official Website
   url: https://www.hakubaescal.com/winter/
