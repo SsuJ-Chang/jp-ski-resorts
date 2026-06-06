@@ -37,7 +37,7 @@ const areas = publishedSkiAreaKeys.map((key) => skiAreas[key])
             <p>{area.summary}</p>
           </div>
           <div class="ski-area-card__footer">
-            <span>{resortCountByArea.get(area.key) ?? 0} 間雪場</span>
+            <span>{resortCountByArea.get(area.key) ?? 0} 座雪場</span>
             <a class="text-link" href={withBasePath(`/ski-areas/${area.key}/`)}>查看區域</a>
           </div>
         </article>
