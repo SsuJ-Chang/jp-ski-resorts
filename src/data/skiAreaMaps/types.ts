@@ -3,7 +3,7 @@ export type Coordinates = {
   longitude: number
 }
 
-export type SkiAreaMapNodeKind = 'resort' | 'hub'
+export type SkiAreaMapNodeKind = 'resort' | 'hub' | 'zone'
 
 type SkiAreaMapNodeBase = {
   id: string
@@ -27,7 +27,12 @@ export type SkiAreaHubMapNode = SkiAreaMapNodeBase & {
   location: Coordinates
 }
 
-export type SkiAreaMapNode = SkiAreaResortMapNode | SkiAreaHubMapNode
+export type SkiAreaZoneMapNode = SkiAreaMapNodeBase & {
+  kind: 'zone'
+  location: Coordinates
+}
+
+export type SkiAreaMapNode = SkiAreaResortMapNode | SkiAreaHubMapNode | SkiAreaZoneMapNode
 
 export type SkiAreaMapDefinition = {
   areaKey: string

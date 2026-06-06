@@ -77,6 +77,12 @@
   color: #17365d;
 }
 
+.ski-area-position-map__node--zone {
+  border-color: rgba(46, 157, 98, 0.28);
+  background: #e5f2ea;
+  color: #1d5033;
+}
+
 .ski-area-position-map__node--resort:hover,
 .ski-area-position-map__node--resort:focus-visible {
   outline: 2px solid rgba(29, 93, 100, 0.28);

@@ -23,6 +23,22 @@ export const transportHubs = {
       longitude: 137.8465,
     },
   },
+  yudanakaStation: {
+    id: 'yudanaka-station',
+    label: '湯田中站',
+    location: {
+      latitude: 36.741684,
+      longitude: 138.41464,
+    },
+  },
+  shigaKogenYamanoeki: {
+    id: 'shiga-kogen-yamanoeki',
+    label: '志賀高原山之站',
+    location: {
+      latitude: 36.7198,
+      longitude: 138.4922,
+    },
+  },
 } as const
 
 export type TransportHubKey = keyof typeof transportHubs

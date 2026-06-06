@@ -127,9 +127,31 @@ export const skiAreas = {
     name: { zhTw: '志賀高原', ja: '志賀高原', en: 'Shiga Kogen' },
     region: 'kanto-koshinetsu',
     prefecture: '長野縣',
-    summary: '長野縣大型聯合雪場區域。',
-    traits: ['大型雪場群', '聯合雪場'],
-    featuredResorts: [],
+    baseTown: '山之內町',
+    accessHub: '長野站 / 湯田中站 / 志賀高原山之站',
+    summary:
+      '長野縣山之內町的大型聯合雪場群，海拔多在 1,500 公尺以上，包含奧志賀、燒額、一之瀨、高天原、熊之湯與橫手山等區域，適合住宿型多日滑雪。',
+    traits: ['大型雪場群', '高海拔', '聯合雪場', '溫泉住宿'],
+    featuredResorts: [
+      'shiga-kogen-sun-valley',
+      'shiga-kogen-maruike',
+      'shiga-kogen-hasuike',
+      'shiga-kogen-giant',
+      'shiga-kogen-hoppo-bunadaira',
+      'shiga-kogen-nishidateyama',
+      'shiga-kogen-higashidateyama',
+      'shiga-kogen-terakoya',
+      'shiga-kogen-takamagahara-mammoth',
+      'shiga-kogen-tanne-no-mori-okojo',
+      'shiga-kogen-ichinose-family',
+      'shiga-kogen-ichinose-diamond',
+      'shiga-kogen-ichinose-yamanokami',
+      'shiga-kogen-yakebitaiyama',
+      'shiga-kogen-okushiga-kogen',
+      'shiga-kogen-kumanoyu',
+      'shiga-kogen-yokoteyama',
+      'shiga-kogen-shibutoge',
+    ],
   },
 } as const
 
@@ -149,6 +171,6 @@ export type SkiAreaKey = (typeof skiAreaKeys)[number]
 
 export type SkiArea = (typeof skiAreas)[SkiAreaKey]
 
-export const publishedSkiAreaKeys = ['yuzawa', 'hakuba'] as const satisfies readonly SkiAreaKey[]
+export const publishedSkiAreaKeys = ['yuzawa', 'hakuba', 'shiga-kogen'] as const satisfies readonly SkiAreaKey[]
 
 export type PublishedSkiAreaKey = (typeof publishedSkiAreaKeys)[number]
