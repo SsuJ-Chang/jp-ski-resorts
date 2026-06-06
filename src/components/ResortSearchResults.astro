@@ -1,0 +1,82 @@
+---
+import type { ResortEntry } from '../utils/resorts'
+import { tagLabels } from '../data/tags'
+import { withBasePath } from '../utils/paths'
+
+type Props = {
+  resorts: ResortEntry[]
+  regionNamesByKey: Record<string, string>
+}
+
+const { resorts, regionNamesByKey } = Astro.props
+---
+
+<div class="resort-list-summary" aria-live="polite">
+  <span id="resort-result-count">{resorts.length} 座雪場</span>
+</div>
+
+<section class="resort-grid" aria-label="Resorts">
+  {resorts.map((resort) => {
+    const searchableName = [
+      resort.data.name.zhTw,
+      resort.data.name.ja,
+      resort.data.name.en,
+    ].filter(Boolean).join(' ')
+
+    return (
+      <article class="resort-card" data-resort-card data-search-text={searchableName}>
+        <div>
+          <p class="resort-card__meta">
+            {regionNamesByKey[resort.data.region] ?? resort.data.region} / {resort.data.prefecture}
+          </p>
+          <h2>
+            <a href={withBasePath(`/resorts/${resort.id}/`)}>
+              {resort.data.name.zhTw}
+            </a>
+          </h2>
+          <p>{resort.data.name.en}</p>
+        </div>
+        <div class="tag-list" aria-label={`${resort.data.name.zhTw} tags`}>
+          {resort.data.tags.slice(0, 4).map((tag) => (
+            <span>{tagLabels[tag]}</span>
+          ))}
+        </div>
+      </article>
+    )
+  })}
+</section>
+
+<script>
+  const normalizeSearchText = (value: string) =>
+    value
+      .normalize('NFKC')
+      .toLocaleLowerCase()
+      .replace(/[\s\p{P}\p{S}]+/gu, '')
+
+  const fuzzyMatch = (text: string, query: string) => {
+    if (text.includes(query)) return true
+
+    let queryIndex = 0
+    for (const character of text) {
+      if (character === query[queryIndex]) queryIndex += 1
+      if (queryIndex === query.length) return true
+    }
+
+    return false
+  }
+
+  const resortCards = Array.from(document.querySelectorAll<HTMLElement>('[data-resort-card]'))
+  const countElement = document.querySelector<HTMLElement>('#resort-result-count')
+  const query = normalizeSearchText(new URLSearchParams(window.location.search).get('q') ?? '')
+
+  let visibleCount = 0
+
+  for (const card of resortCards) {
+    const searchText = normalizeSearchText(card.dataset.searchText ?? '')
+    const isVisible = query.length === 0 || fuzzyMatch(searchText, query)
+    card.hidden = !isVisible
+    if (isVisible) visibleCount += 1
+  }
+
+  if (countElement) countElement.textContent = `${visibleCount} 座雪場`
+</script>

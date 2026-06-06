@@ -16,7 +16,11 @@ for (const resort of resorts) {
 const areas = publishedSkiAreaKeys.map((key) => skiAreas[key])
 ---
 
-<BaseLayout title="雪場區域 | 日本滑雪資料庫" description="依滑雪旅遊區域整理日本雪場，協助比較同區雪場與交通關係。">
+<BaseLayout
+  title="雪場區域 | 日本滑雪資料庫"
+  description="依滑雪旅遊區域整理日本雪場，協助比較同區雪場與交通關係。"
+  showHeaderSearch
+>
   <main class="site-shell page-stack">
     <section class="page-heading" aria-labelledby="page-title">
       <p class="eyebrow">Ski areas</p>

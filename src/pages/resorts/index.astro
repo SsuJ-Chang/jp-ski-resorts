@@ -1,19 +1,21 @@
 ---
 import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
+import ResortSearchResults from '../../components/ResortSearchResults.astro'
 import { regions } from '../../data/regions'
-import { tagLabels } from '../../data/tags'
-import { withBasePath } from '../../utils/paths'
 import { filterPublishedResorts, sortResortsByEnglishName } from '../../utils/resorts'
 
 const resorts = sortResortsByEnglishName(filterPublishedResorts(await getCollection('resorts')))
 
-const regionByKey = new Map(regions.map((region) => [region.key, region]))
+const regionNamesByKey = Object.fromEntries(
+  regions.map((region) => [region.key, region.name.zhTw]),
+)
 ---
 
 <BaseLayout
   title="滑雪場列表 | 日本滑雪場指南"
   description="日本滑雪場靜態資料列表，整理區域、標籤與官方資訊入口。"
+  showHeaderSearch
 >
   <main class="site-shell page-stack">
     <section class="page-heading" aria-labelledby="page-title">
@@ -24,31 +26,6 @@ const regionByKey = new Map(regions.map((region) => [region.key, region]))
       </p>
     </section>
 
-    <section class="resort-grid" aria-label="Resorts">
-      {resorts.map((resort) => {
-        const region = regionByKey.get(resort.data.region)
-
-        return (
-          <article class="resort-card">
-            <div>
-              <p class="resort-card__meta">
-                {region?.name.zhTw ?? resort.data.region} / {resort.data.prefecture}
-              </p>
-              <h2>
-                <a href={withBasePath(`/resorts/${resort.id}/`)}>
-                  {resort.data.name.zhTw}
-                </a>
-              </h2>
-              <p>{resort.data.name.en}</p>
-            </div>
-            <div class="tag-list" aria-label={`${resort.data.name.zhTw} tags`}>
-              {resort.data.tags.slice(0, 4).map((tag) => (
-                <span>{tagLabels[tag]}</span>
-              ))}
-            </div>
-          </article>
-        )
-      })}
-    </section>
+    <ResortSearchResults resorts={resorts} regionNamesByKey={regionNamesByKey} />
   </main>
 </BaseLayout>

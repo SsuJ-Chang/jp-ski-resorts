@@ -1,19 +1,23 @@
 ---
 import '../styles/global.css'
+import HeaderSearch from '../components/HeaderSearch.astro'
 import { withBasePath } from '../utils/paths'
 
 type Props = {
   title: string
   description?: string
   bodyClass?: string
+  showHeaderSearch?: boolean
 }
 
 const {
   title,
   description = '給台灣滑雪者使用的日本滑雪場靜態資料與行程規劃入口。',
   bodyClass,
+  showHeaderSearch = false,
 } = Astro.props
 const currentYear = new Date().getFullYear()
+const resortListPath = withBasePath('/resorts/')
 ---
 
 <!doctype html>
@@ -28,11 +32,14 @@ const currentYear = new Date().getFullYear()
   <body class={bodyClass}>
     <header class="site-header">
       <a class="site-header__brand" href={withBasePath('/')}>日本滑雪場指南</a>
-      <nav class="site-header__nav" aria-label="Primary navigation">
-        <a href={withBasePath('/')}>首頁</a>
-        <a href={withBasePath('/resorts/')}>滑雪場</a>
-        <a href={withBasePath('/ski-areas/')}>雪場區域</a>
-      </nav>
+      <div class="site-header__actions">
+        <nav class="site-header__nav" aria-label="Primary navigation">
+          <a href={withBasePath('/')}>首頁</a>
+          <a href={resortListPath}>滑雪場</a>
+          <a href={withBasePath('/ski-areas/')}>雪場區域</a>
+        </nav>
+        {showHeaderSearch && <HeaderSearch resortsUrl={resortListPath} />}
+      </div>
     </header>
     <slot />
     <footer class="site-footer">© {currentYear} RJ. All rights reserved.</footer>
