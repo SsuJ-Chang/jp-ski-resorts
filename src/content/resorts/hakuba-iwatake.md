@@ -66,10 +66,40 @@ tickets:
     note: 季初期間 2025/12/19-12/26；春滑期間 2026/3/16-3/29。
 snowWeather:
   title: 白馬岩岳雪況天氣
-  provider: Official
-  url: https://iwatake-mountain-resort.com/winter/course_lift
-  updatedAt: 2026/03/29 16:03
-  note: 2025-2026 雪季已於 2026/3/29 結束；此欄保留官方 course/lift 狀態頁作為雪道與纜車狀態查核入口。
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/34809/
+  snowDepth: 200 cm
+  updatedAt: 2026/4/30 09:00:00
+  forecast:
+  - date: 12/27(六)
+    weather: 雪
+    low: "-5°C"
+    high: 4°C
+  - date: 12/28(日)
+    weather: 大雪
+    low: "-8°C"
+    high: 0°C
+  - date: 12/29(一)
+    weather: 大雪
+    low: "-9°C"
+    high: "-2°C"
+  - date: 12/30(二)
+    weather: 陰
+    low: "-5°C"
+    high: 0°C
+  - date: 12/31(三)
+    weather: 雪
+    low: "-3°C"
+    high: 3°C
+  - date: 1/1(四)
+    weather: 晴
+    low: "-4°C"
+    high: 1°C
+  - date: 1/2(五)
+    weather: 雨
+    low: 8°C
+    high: 3°C
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
 location:
   latitude: 36.72437
   longitude: 137.84539

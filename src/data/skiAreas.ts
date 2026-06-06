@@ -37,8 +37,8 @@ export const skiAreas = {
     region: 'kanto-koshinetsu',
     prefecture: '長野縣',
     baseTown: '白馬村',
-    accessHub: '白馬站 / 八方巴士總站',
-    summary: '白馬 Valley 一帶的多雪場區域，雪場風格差異大，適合安排多日行程比較不同山域。',
+    accessHub: '白馬站 / 八方巴士總站 / 長野站',
+    summary: '白馬 Valley 一帶的多雪場區域，雪場風格差異大，適合安排多日行程比較不同山域。可從長野站東口搭乘巴士前往，交通便利。',
     traits: ['大型雪場群', '粉雪', '多日行程', '雪場差異大'],
     featuredResorts: [
       'hakuba-happo-one',
