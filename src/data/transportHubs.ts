@@ -55,6 +55,22 @@ export const transportHubs = {
       longitude: 140.6865,
     },
   },
+  takasuIc: {
+    id: 'takasu-ic',
+    label: '高鷲 IC',
+    location: {
+      latitude: 35.9258,
+      longitude: 136.874,
+    },
+  },
+  hiruganoSmartIc: {
+    id: 'hirugano-smart-ic',
+    label: 'ひるがの高原 Smart IC',
+    location: {
+      latitude: 36.0047,
+      longitude: 136.8938,
+    },
+  },
 } as const
 
 export type TransportHubKey = keyof typeof transportHubs
