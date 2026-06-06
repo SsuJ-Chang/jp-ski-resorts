@@ -19,6 +19,8 @@ links:
   ticket: https://iwatake-mountain-resort.com/winter/rates/
   access: https://iwatake-mountain-resort.com/access
   weather: https://iwatake-mountain-resort.com/winter/course_lift
+  snowReport: https://iwatake-mountain-resort.com/winter/course_lift
+  liftStatus: https://iwatake-mountain-resort.com/winter/course_lift
   googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Iwatake%20Snow%20Field
 contact:
   address:
@@ -28,9 +30,9 @@ contact:
   phone: 0261-72-2474
 season:
   label: 2025-2026
-  operatingPeriod: 請以官方公告為準
-  hours: 請以官方營業時間公告為準
-  note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
+  operatingPeriod: 2025/12/19-2026/3/29
+  hours: 依官方 course/lift 狀態頁每日公告；2025-2026 雪季已於 2026/3/29 結束
+  note: 官方票價頁標示 2025-2026 winter season 營業期間為 2025/12/19-2026/3/29；官方公告確認 2026/3/29 為本季最後一天。
   source: https://iwatake-mountain-resort.com/winter/rates/
 trailMaps:
 - label: 白馬岩岳雪場圖
@@ -44,45 +46,30 @@ tickets:
   source: https://iwatake-mountain-resort.com/winter/rates/
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
-  - name: 1 日券
+  - name: 岩岳 1 日券
+    audience: 成人、兒童、熟齡、身心障礙
+    price: 成人 ¥7,000、兒童 ¥4,300、熟齡 ¥6,600、身心障礙成人 ¥4,900、身心障礙兒童 ¥2,800
+  - name: 岩岳 1 日券（線上事前購入／加值）
     audience: 成人、兒童
-    price: 待依 2025-2026 官網票價頁補齊
+    price: 成人 ¥6,300、兒童 ¥3,900
+  - name: 岩岳半日券
+    audience: 成人、兒童、熟齡、身心障礙
+    price: 成人 ¥6,500、兒童 ¥3,700、熟齡 ¥6,000、身心障礙 ¥4,200
+    note: AM 券為營業開始至 13:00；PM 券為 12:00 至營業結束。
+  - name: 岩岳 2 日券
+    audience: 成人、兒童、熟齡、身心障礙
+    price: 成人 ¥12,200、兒童 ¥7,300、熟齡 ¥11,100、身心障礙成人 ¥8,200、身心障礙兒童 ¥5,000
+    note: 需連續 2 日使用。
+  - name: 季初／春滑 1 日券
+    audience: 成人、兒童、熟齡
+    price: 成人／熟齡 ¥5,300、兒童 ¥2,700
+    note: 季初期間 2025/12/19-12/26；春滑期間 2026/3/16-3/29。
 snowWeather:
   title: 白馬岩岳雪況天氣
-  provider: Official / Weathernews
+  provider: Official
   url: https://iwatake-mountain-resort.com/winter/course_lift
-  snowDepth: 200 cm
-  updatedAt: 2026/4/30 09:00:00
-  forecast:
-  - date: 12/27(六)
-    weather: 雪
-    low: "-5°C"
-    high: 4°C
-  - date: 12/28(日)
-    weather: 大雪
-    low: "-8°C"
-    high: 0°C
-  - date: 12/29(一)
-    weather: 大雪
-    low: "-9°C"
-    high: "-2°C"
-  - date: 12/30(二)
-    weather: 陰
-    low: "-5°C"
-    high: 0°C
-  - date: 12/31(三)
-    weather: 雪
-    low: "-3°C"
-    high: 3°C
-  - date: 1/1(四)
-    weather: 晴
-    low: "-4°C"
-    high: 1°C
-  - date: 1/2(五)
-    weather: 雨
-    low: 8°C
-    high: 3°C
-  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+  updatedAt: 2026/03/29 16:03
+  note: 2025-2026 雪季已於 2026/3/29 結束；此欄保留官方 course/lift 狀態頁作為雪道與纜車狀態查核入口。
 location:
   latitude: 36.72437
   longitude: 137.84539
@@ -92,31 +79,98 @@ mapDisplay:
   approximatePosition:
     x: 55
     "y": 43
+elevation:
+  top: 1289
+  bottom: 750
+  verticalDrop: 539
 courses:
+  total: 8
   courseInfoPage: https://iwatake-mountain-resort.com/winter/course_lift
-  summary: 白馬岩岳以山頂景觀、Iwatake Back Bowl、寬廣巡航與觀光設施為特色。
-  details: []
+  summary: 白馬岩岳官方 course/lift 頁列出 Mountain Side 與 Village Side 主要 8 條滑行雪道，另有 3,000m cross-country course；最長滑走距離為 Sunny Valley 的 3,300m。
+  details:
+  - name: Iwatake Back Bowl
+    difficulty: mixed
+    length: 1280m
+    maxSlope: 25°
+    averageSlope: 9°
+    note: Mountain Side 的代表性地形，官方等級 2-5，適合想找自然地形與粉雪感的人，但需依當日開放狀態判斷。
+  - name: ノースゲレンデ
+    difficulty: beginner
+    length: 700m
+    maxSlope: 17°
+    averageSlope: 11°
+    note: 官方等級 2，屬山頂側相對好掌握的練習與巡航路線。
+  - name: サウス / Five Side
+    difficulty: intermediate
+    length: 820m
+    maxSlope: 23°
+    averageSlope: 10°
+    note: 官方等級 2-3，可作為 Mountain Side 中級巡航與轉換區。
+  - name: Hikage / 沢
+    difficulty: mixed
+    length: 980m
+    maxSlope: 30°
+    averageSlope: 15°
+    note: 官方等級 2-4，最大斜度 30°，難度變化較大。
+  - name: イーストゲレンデ
+    difficulty: beginner
+    length: 330m
+    maxSlope: 17°
+    averageSlope: 14°
+    note: 官方等級 1，距離短，適合初級練習。
+  - name: サニーバレーコース
+    difficulty: advanced
+    length: 3300m
+    maxSlope: 24°
+    averageSlope: 11°
+    note: Village Side 最長路線，官方等級 5；雖平均斜度不高，但整體等級標示偏高，需確認雪況與開放狀態。
+  - name: 山麓エリア（かもしか・こめつが）
+    difficulty: mixed
+    length: 1100m
+    maxSlope: 33°
+    averageSlope: 14°
+    note: 官方等級 2-4，最大斜度達 33°，也常作為 pole barn 使用基礎區域。
+  - name: ホワイトリボンコース
+    difficulty: advanced
+    length: 1100m
+    maxSlope: 26°
+    averageSlope: 14°
+    note: 官方等級 4，屬 Village Side 中上級路線。
+lifts:
+  total: 9
 access:
   fromTokyo:
   - label: 東京出發
     steps:
-    - 東京站或上野站搭乘新幹線至鄰近車站。
-    - 依雪場位置轉乘接駁巴士、路線巴士、計程車或步行前往。
-    estimatedTime: 依雪場與轉乘方式而定
+    - 東京站搭乘北陸新幹線至長野站。
+    - 於長野站轉乘長野-白馬線特急巴士至白馬站或白馬八方巴士總站。
+    - 轉乘岩岳接駁、村內巴士或計程車至白馬岩岳 Mountain Resort。
+    estimatedTime: 約 3 小時，依巴士與接駁班次而定
     difficulty: medium
-    note: 詳細班次與接駁期間請以官方 access 頁與當季時刻表為準。
+    note: 官方 access 頁標示東京經長野站轉特急巴士約 3 小時；白馬站、白馬八方巴士總站等處有期間限定免費接駁，需看當季公告。
     links:
     - label: Hakuba Iwatake Snow Field Access
+      url: https://iwatake-mountain-resort.com/access
+  fromNagoya:
+  - label: 名古屋出發
+    steps:
+    - 名古屋站搭乘特急信濃往白馬方向。
+    - 抵達白馬站後轉乘免費接駁、村內巴士或計程車至岩岳。
+    estimatedTime: 約 3.5 小時以上，依鐵路與接駁銜接而定
+    difficulty: medium
+    links:
+    - label: Hakuba Iwatake Mountain Resort Access
       url: https://iwatake-mountain-resort.com/access
   car:
     recommended: false
     snowTireRequired: true
-    note: 雪季自駕需準備雪胎或雪鏈；初次前往建議優先確認接駁與大眾運輸。
+    note: 官方標示 Gondola 山麓站前有大型停車場與多處免費停車場；雪季自駕仍需雪胎或雪鏈，並確認道路與停車狀態。
 terrainSummary:
-  beginner: 官方資料顯示有初級者可使用的雪道或家庭設施。
-  intermediate: 可依官方雪場圖安排中級巡航路線。
-  advanced: 較高難度路線需依官方雪場圖與當日開放狀態確認。
-  snowboard: 雙板與雪板使用規則請以官方公告為準。
+  beginner: East、North 與部分 Mountain Side 緩斜面適合初級者練習；但岩岳地形分散，移動前要先確認回到山麓的路線是否開放。
+  intermediate: South/Five Side、Iwatake Back Bowl 等可安排山頂巡航與自然地形體驗，適合已能控制速度的滑雪者。
+  advanced: Sunny Valley、White Ribbon、山麓區域部分線路官方等級偏高，最大斜度可到 33°，適合想找較有變化的斜面。
+  snowboard: 官方票種有 snowboard 初心者應援方案，岩岳也有自然地形與 park/觀光設施，雪板使用者可留意平緩連絡路與回山麓動線。
+  powder: Iwatake Back Bowl 與 Mountain Side 降雪後較有粉雪與自然地形感，但開放與安全管制需以官方狀態頁為準。
 externalContent:
   blogs: []
   vlogs: []
@@ -127,5 +181,9 @@ sources:
   url: https://iwatake-mountain-resort.com/winter/course_lift
 - label: Hakuba Iwatake Snow Field Ticket
   url: https://iwatake-mountain-resort.com/winter/rates/
+- label: Hakuba Iwatake 2025-2026 Closure Notice
+  url: https://iwatake-mountain-resort.com/2026/03/29/2025-2026-%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B
+- label: Hakuba Iwatake Mountain Resort Access
+  url: https://iwatake-mountain-resort.com/access
 ---
-白馬岩岳以山頂景觀、Iwatake Back Bowl、寬廣巡航與觀光設施為特色。
+白馬岩岳是白馬村中較重視山頂景觀與觀光設施的雪場，山頂 HAKUBA MOUNTAIN HARBOR 周邊可看北阿爾卑斯全景。滑雪地形分成 Mountain Side 與 Village Side，從初級緩斜面、自然地形到 Sunny Valley、White Ribbon 等中上級路線都有；適合想把滑雪、山頂景觀、咖啡與白馬村內移動安排在同一天的人。
