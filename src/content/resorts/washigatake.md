@@ -50,8 +50,8 @@ tickets:
     price: 成人 ¥6,500、兒童 ¥3,800、長者 ¥5,500、中高生 ¥4,500
 snowWeather:
   title: 鷲ヶ岳雪況天氣
-  provider: Official
-  url: https://ski.washigatake.jp/condition/
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/35205/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:

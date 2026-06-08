@@ -55,8 +55,8 @@ tickets:
     price: 成人 ¥11,800、兒童 ¥6,900、長者 ¥10,500、中高生 ¥8,500
 snowWeather:
   title: Dynaland 雪況天氣
-  provider: Official
-  url: https://www.dynaland.co.jp/condition/
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/35203/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:

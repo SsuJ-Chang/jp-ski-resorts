@@ -58,8 +58,8 @@ tickets:
     price: 成人 ¥17,100、兒童 ¥10,000、長者 ¥15,500、中高生 ¥12,800
 snowWeather:
   title: 高鷲 Snow Park 雪況天氣
-  provider: Official
-  url: https://www.takasu.gr.jp/condition/
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/35241/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:
