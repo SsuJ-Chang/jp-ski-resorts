@@ -53,8 +53,8 @@ tickets:
     price: 成人 ¥3,900、兒童 ¥2,500、學生與熟齡 ¥3,200
 snowWeather:
   title: 爺岳雪況天氣
-  provider: Official / Weathernews
-  url: https://jiigatake.com/slope/
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/34888/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:

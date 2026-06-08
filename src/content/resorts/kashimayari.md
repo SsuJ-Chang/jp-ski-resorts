@@ -48,8 +48,8 @@ tickets:
     price: 待依 2025-2026 官網票價頁補齊
 snowWeather:
   title: 鹿島槍雪況天氣
-  provider: Official / Weathernews
-  url: https://www.kashimayari.net/snow/course/
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/34851/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:

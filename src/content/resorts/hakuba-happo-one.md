@@ -109,7 +109,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://www.happo-one.jp/gelande/
-  summary: 白馬八方尾根官方列出 16 條雪道、總滑走面積 220ha、最長滑走距離 8,000m；山頂 1,831m 到山麓 760m 的高低差超過 1,000m，是白馬代表性大型山岳雪場。
+  summary: 白馬八方尾根是白馬最具代表性的指標級大型高山雪場。官方一共規劃了 16 條雪道，總滑走面積達 220 公頃，最長滑走距離高達 8,000 公尺；從山頂 1,831 公尺到山麓 760 公尺，高低落差更是超過 1,000 公尺。
   details:
   - name: リーゼンスラロームコース
     difficulty: intermediate
