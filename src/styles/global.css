@@ -909,6 +909,85 @@ h1 {
   line-height: 1.65;
 }
 
+.course-difficulty-chart {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: min(100%, 420px);
+  min-height: 174px;
+  margin-top: 18px;
+  background: transparent;
+}
+
+.course-difficulty-chart__pie {
+  position: relative;
+  z-index: 1;
+  width: 132px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: #e6ece8;
+  box-shadow: 0 10px 24px rgba(23, 33, 31, 0.08);
+  overflow: hidden;
+}
+
+.course-difficulty-chart__slice {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: conic-gradient(
+    from -90deg,
+    transparent 0 var(--slice-start),
+    var(--slice-color) var(--slice-start) var(--slice-end),
+    transparent var(--slice-end) 100%
+  );
+}
+
+.course-difficulty-chart__slice--beginner {
+  --slice-color: #2f9e5f;
+}
+
+.course-difficulty-chart__slice--intermediate {
+  --slice-color: #2f6fb3;
+}
+
+.course-difficulty-chart__slice--advanced {
+  --slice-color: #17211f;
+}
+
+.course-difficulty-chart__labels {
+  position: absolute;
+  inset: 0;
+}
+
+.course-difficulty-chart__label {
+  position: absolute;
+  max-width: 112px;
+  color: #334643;
+  font-size: 0.88rem;
+  font-weight: 900;
+  line-height: 1.25;
+  white-space: nowrap;
+}
+
+.course-difficulty-chart__label--beginner {
+  top: 18px;
+  right: 16px;
+  color: #2f7d50;
+}
+
+.course-difficulty-chart__label--intermediate {
+  right: 16px;
+  bottom: 20px;
+  color: #2f6fb3;
+}
+
+.course-difficulty-chart__label--advanced {
+  top: 50%;
+  left: 8px;
+  color: #17211f;
+  transform: translateY(-50%);
+}
+
 .section-heading-row {
   display: flex;
   gap: 12px;
@@ -1475,6 +1554,31 @@ h1 {
 
   .hero__lead {
     font-size: 0.95rem;
+  }
+
+  .course-difficulty-chart {
+    width: 100%;
+    min-height: auto;
+    padding-top: 0;
+    place-items: start;
+  }
+
+  .course-difficulty-chart__pie {
+    width: min(132px, 100%);
+  }
+
+  .course-difficulty-chart__labels {
+    position: static;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 14px;
+    margin-top: 12px;
+  }
+
+  .course-difficulty-chart__label {
+    position: static;
+    max-width: none;
+    transform: none;
   }
 
   .region-strip {

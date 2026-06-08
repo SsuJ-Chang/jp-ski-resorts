@@ -28,6 +28,48 @@ const skiArea =
 const hasExternalContent =
   (resort.data.externalContent?.blogs?.length ?? 0) > 0 ||
   (resort.data.externalContent?.vlogs?.length ?? 0) > 0
+
+const courseDifficultyRatios = [
+  {
+    key: 'beginner',
+    label: '初級',
+    ratio: resort.data.courses?.beginnerRatio,
+  },
+  {
+    key: 'intermediate',
+    label: '中級',
+    ratio: resort.data.courses?.intermediateRatio,
+  },
+  {
+    key: 'advanced',
+    label: '進階',
+    ratio: resort.data.courses?.advancedRatio,
+  },
+].filter(
+  (
+    level,
+  ): level is {
+    key: string
+    label: string
+    ratio: number
+  } => level.ratio !== undefined,
+)
+
+let courseDifficultyCursor = 0
+const courseDifficultySegments = courseDifficultyRatios.map((level) => {
+  const start = courseDifficultyCursor
+  const end = Math.min(100, start + Math.max(level.ratio, 0))
+  courseDifficultyCursor = end
+
+  return { ...level, start, end }
+})
+
+const hasCourseDifficultyRatios = courseDifficultyRatios.length > 0
+const hasCourseSummary =
+  Boolean(resort.data.courses?.summary) || hasCourseDifficultyRatios || Boolean(resort.data.courses?.courseInfoPage)
+const courseDifficultyLabel = courseDifficultyRatios
+  .map((level) => `${level.label} ${level.ratio}%`)
+  .join('、')
 ---
 
 <BaseLayout
@@ -158,7 +200,8 @@ const hasExternalContent =
 
       {
         ((resort.data.trailMaps && resort.data.trailMaps.length > 0) ||
-          resort.data.courses?.courseInfoPage) && (
+          resort.data.courses?.courseInfoPage ||
+          hasCourseSummary) && (
           <section class="info-panel detail-panel detail-panel--wide">
             <div class="section-heading-row">
               <h2>雪道資訊 & 雪場圖</h2>
@@ -168,12 +211,33 @@ const hasExternalContent =
                 </a>
               )}
             </div>
-            {resort.data.courses?.courseInfoPage && (
+            {hasCourseSummary && (
               <div class="resource-section">
-                <p class="panel-note">{resort.data.courses.summary ?? '雪道資料整理中。'}</p>
-                <a class="text-link resource-detail-link" href={withBasePath(`/resorts/${resort.id}/courses/`)}>
-                  雪道詳細資訊
-                </a>
+                <p class="panel-note">{resort.data.courses?.summary ?? '雪道資料整理中。'}</p>
+                {hasCourseDifficultyRatios && (
+                  <div class="course-difficulty-chart" aria-label={`雪道難度比例：${courseDifficultyLabel}`}>
+                    <div class="course-difficulty-chart__pie" aria-hidden="true">
+                      {courseDifficultySegments.map((segment) => (
+                        <span
+                          class={`course-difficulty-chart__slice course-difficulty-chart__slice--${segment.key}`}
+                          style={`--slice-start: ${segment.start}%; --slice-end: ${segment.end}%;`}
+                        />
+                      ))}
+                    </div>
+                    <div class="course-difficulty-chart__labels" aria-hidden="true">
+                      {courseDifficultyRatios.map((level) => (
+                        <span class={`course-difficulty-chart__label course-difficulty-chart__label--${level.key}`}>
+                          {level.label} {level.ratio}%
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                )}
+                {resort.data.courses?.courseInfoPage && (
+                  <a class="text-link resource-detail-link" href={withBasePath(`/resorts/${resort.id}/courses/`)}>
+                    雪道詳細資訊
+                  </a>
+                )}
               </div>
             )}
             {resort.data.trailMaps && resort.data.trailMaps.length > 0 && (
