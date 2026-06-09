@@ -6,9 +6,11 @@ import { takasuMountainsMap } from './takasu-mountains'
 import { myokoKogenMap } from './myoko-kogen'
 import { bandaiMap } from './bandai'
 import { tottoriDaisenMap } from './tottori-daisen'
+import { hachibuseYamaMap } from './hachibuse-yama'
 
 export const skiAreaMaps = {
   bandai: bandaiMap,
+  'hachibuse-yama': hachibuseYamaMap,
   hakuba: hakubaMap,
   'myoko-kogen': myokoKogenMap,
   niseko: nisekoMap,
