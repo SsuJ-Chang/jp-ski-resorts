@@ -68,7 +68,17 @@
   line-height: 1.25;
   text-align: center;
   text-decoration: none;
-  transform: translate(-50%, -50%);
+  transform: translate(var(--node-offset-x, -50%), -50%);
+}
+
+.ski-area-position-map__node--edge-left {
+  /* 靠近左側邊緣時只往內收一點，避免卡片明顯離邊界太遠。 */
+  --node-offset-x: -40%;
+}
+
+.ski-area-position-map__node--edge-right {
+  /* 靠近右側邊緣時只往內收一點，避免卡片明顯離邊界太遠。 */
+  --node-offset-x: -60%;
 }
 
 .ski-area-position-map__node--hub {

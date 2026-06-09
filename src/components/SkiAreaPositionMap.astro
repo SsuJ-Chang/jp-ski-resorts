@@ -40,6 +40,18 @@ const maxLon = Math.max(...longitudes)
 const latRange = maxLat - minLat || 1
 const lonRange = maxLon - minLon || 1
 const clampPosition = (value: number) => Math.min(94, Math.max(6, value))
+const edgeAnchorThreshold = padding + 6
+const getNodeEdgeClass = (x: number) => {
+  if (x <= edgeAnchorThreshold) {
+    return ' ski-area-position-map__node--edge-left'
+  }
+
+  if (x >= 100 - edgeAnchorThreshold) {
+    return ' ski-area-position-map__node--edge-right'
+  }
+
+  return ''
+}
 const collisionSettings = {
   minX: areaMap?.layout?.collision?.minX ?? 15,
   minY: areaMap?.layout?.collision?.minY ?? 7,
@@ -96,7 +108,7 @@ for (let iteration = 0; iteration < collisionSettings.iterations; iteration += 1
       {positionedNodes.map((node) =>
         node.href ? (
           <a
-            class={`ski-area-position-map__node ski-area-position-map__node--${node.kind}`}
+            class={`ski-area-position-map__node ski-area-position-map__node--${node.kind}${getNodeEdgeClass(node.x)}`}
             href={node.href}
             style={`--x: ${node.x}; --y: ${node.y};`}
           >
@@ -104,7 +116,7 @@ for (let iteration = 0; iteration < collisionSettings.iterations; iteration += 1
           </a>
         ) : (
           <div
-            class={`ski-area-position-map__node ski-area-position-map__node--${node.kind}`}
+            class={`ski-area-position-map__node ski-area-position-map__node--${node.kind}${getNodeEdgeClass(node.x)}`}
             style={`--x: ${node.x}; --y: ${node.y};`}
           >
             {node.label}
