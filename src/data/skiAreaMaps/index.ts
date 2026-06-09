@@ -5,6 +5,7 @@ import { nisekoMap } from './niseko'
 import { takasuMountainsMap } from './takasu-mountains'
 import { myokoKogenMap } from './myoko-kogen'
 import { bandaiMap } from './bandai'
+import { tottoriDaisenMap } from './tottori-daisen'
 
 export const skiAreaMaps = {
   bandai: bandaiMap,
@@ -12,6 +13,7 @@ export const skiAreaMaps = {
   'myoko-kogen': myokoKogenMap,
   niseko: nisekoMap,
   'takasu-mountains': takasuMountainsMap,
+  'tottori-daisen': tottoriDaisenMap,
   yuzawa: yuzawaMap,
   'shiga-kogen': shigaKogenMap,
 } as const
