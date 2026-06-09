@@ -1,0 +1,87 @@
+import type { SkiAreaMapDefinition } from './types'
+
+export const minakamiMap = {
+  areaKey: 'minakami',
+  title: '水上雪場區域圖',
+  note: '以群馬縣みなかみ町、水上站、上毛高原站與關越道水上 IC 為主要交通節點的示意圖，節點位置為概略標示，實際路線、巴士與冬季道路狀況請以官方公告為準。',
+  layout: {
+    collision: {
+      minX: 18,
+      minY: 8,
+      iterations: 10,
+    },
+  },
+  nodes: [
+    {
+      id: 'jomo-kogen-station',
+      label: '上毛高原站',
+      kind: 'hub',
+      hubId: 'jomo-kogen-station',
+      location: { latitude: 36.693, longitude: 138.978 },
+      nudge: { x: 5, y: 4 },
+    },
+    {
+      id: 'minakami-station',
+      label: '水上站',
+      kind: 'hub',
+      hubId: 'minakami-station',
+      location: { latitude: 36.778, longitude: 138.969 },
+      nudge: { x: 4, y: 2 },
+    },
+    {
+      id: 'minakami-ic',
+      label: '水上 IC',
+      kind: 'hub',
+      hubId: 'minakami-ic',
+      location: { latitude: 36.745, longitude: 138.979 },
+      nudge: { x: -5, y: 3 },
+    },
+    {
+      id: 'tanigawadake',
+      label: '谷川岳',
+      kind: 'zone',
+      location: { latitude: 36.837, longitude: 138.93 },
+      nudge: { x: -6, y: -4 },
+    },
+    {
+      id: 'minakami-hodaigi',
+      label: '寶台樹',
+      kind: 'resort',
+      resortId: 'minakami-hodaigi',
+      location: { latitude: 36.837423, longitude: 139.078326 },
+      nudge: { x: 4, y: -2 },
+    },
+    {
+      id: 'tanigawadake-tenjindaira',
+      label: '谷川岳天神平',
+      kind: 'resort',
+      resortId: 'tanigawadake-tenjindaira',
+      location: { latitude: 36.837, longitude: 138.938 },
+      nudge: { x: -8, y: 1 },
+    },
+    {
+      id: 'minakami-kogen',
+      label: '水上高原',
+      kind: 'resort',
+      resortId: 'minakami-kogen',
+      location: { latitude: 36.873, longitude: 139.075 },
+      nudge: { x: 6, y: -4 },
+    },
+    {
+      id: 'norn-minakami',
+      label: 'Norn 水上',
+      kind: 'resort',
+      resortId: 'norn-minakami',
+      location: { latitude: 36.748, longitude: 138.99 },
+      nudge: { x: -6, y: 6 },
+    },
+    {
+      id: 'white-valley-minakami',
+      label: 'White Valley',
+      kind: 'resort',
+      resortId: 'white-valley-minakami',
+      location: { latitude: 36.798, longitude: 138.943 },
+      nudge: { x: -7, y: -2 },
+    },
+  ],
+} satisfies SkiAreaMapDefinition
