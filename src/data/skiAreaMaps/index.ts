@@ -4,8 +4,10 @@ import { shigaKogenMap } from './shiga-kogen'
 import { nisekoMap } from './niseko'
 import { takasuMountainsMap } from './takasu-mountains'
 import { myokoKogenMap } from './myoko-kogen'
+import { bandaiMap } from './bandai'
 
 export const skiAreaMaps = {
+  bandai: bandaiMap,
   hakuba: hakubaMap,
   'myoko-kogen': myokoKogenMap,
   niseko: nisekoMap,
