@@ -194,15 +194,15 @@ a:visited {
   padding: 0;
 }
 
-.hero {
+.home-hero {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(320px, 460px);
   gap: 48px;
   align-items: center;
 }
 
-.hero__copy,
-.hero__guide {
+.home-hero__copy,
+.home-region-guide {
   min-width: 0;
 }
 
@@ -223,13 +223,13 @@ h1 {
   letter-spacing: 0;
 }
 
-.hero-title {
+.home-hero__title {
   overflow-wrap: keep-all;
   word-break: keep-all;
   line-break: strict;
 }
 
-.hero__lead {
+.home-hero__lead {
   max-width: 680px;
   margin: 28px 0 0;
   color: #334643;
@@ -238,7 +238,7 @@ h1 {
   overflow-wrap: anywhere;
 }
 
-.hero__stat {
+.home-hero__stat {
   display: inline-flex;
   align-items: center;
   margin: 24px 0 0;
@@ -252,13 +252,13 @@ h1 {
   box-shadow: 0 12px 26px rgba(23, 33, 31, 0.08);
 }
 
-.hero__guide {
+.home-region-guide {
   display: grid;
   gap: 12px;
   padding: 4px 0;
 }
 
-.view-toggle-input {
+.region-view-toggle__input {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -266,7 +266,7 @@ h1 {
   clip: rect(0 0 0 0);
 }
 
-.view-toggle {
+.region-view-toggle {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   width: 148px;
@@ -278,7 +278,7 @@ h1 {
   justify-self: end;
 }
 
-.view-toggle label {
+.region-view-toggle label {
   display: grid;
   place-items: center;
   border-radius: 6px;
@@ -288,26 +288,26 @@ h1 {
   font-weight: 800;
 }
 
-#region-view-list:checked ~ .view-toggle label[for="region-view-list"],
-#region-view-map:checked ~ .view-toggle label[for="region-view-map"] {
+#region-view-list:checked ~ .region-view-toggle label[for="region-view-list"],
+#region-view-map:checked ~ .region-view-toggle label[for="region-view-map"] {
   background: rgba(255, 255, 255, 0.84);
   box-shadow: 0 4px 16px rgba(23, 33, 31, 0.08);
 }
 
-.region-list-view {
+.home-region-guide__list {
   display: grid;
   gap: 10px;
 }
 
-.region-map-view {
+.home-region-guide__map {
   display: none;
 }
 
-#region-view-map:checked ~ .region-list-view {
+#region-view-map:checked ~ .home-region-guide__list {
   display: none;
 }
 
-#region-view-map:checked ~ .region-map-view {
+#region-view-map:checked ~ .home-region-guide__map {
   display: block;
 }
 
@@ -1425,7 +1425,7 @@ h1 {
     padding: 8px 0 12px;
   }
 
-  .hero {
+  .home-hero {
     grid-template-columns: 1fr;
     gap: 16px;
     min-height: auto;
@@ -1435,18 +1435,18 @@ h1 {
     font-size: 3rem;
   }
 
-  .hero__lead {
+  .home-hero__lead {
     margin-top: 20px;
     font-size: 1rem;
     line-height: 1.7;
   }
 
-  .hero__guide {
+  .home-region-guide {
     gap: 8px;
     padding: 4px 0;
   }
 
-  .view-toggle {
+  .region-view-toggle {
     justify-self: start;
   }
 
@@ -1566,7 +1566,7 @@ h1 {
     width: min(100%, calc(100vw - 88px));
   }
 
-  .hero__lead {
+  .home-hero__lead {
     font-size: 0.95rem;
   }
 

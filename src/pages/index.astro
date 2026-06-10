@@ -35,25 +35,25 @@ const regionStats = regions.map((region) => {
 
 <BaseLayout title="日本滑雪場指南" bodyClass="home-page" showHeaderSearch>
   <main class="site-shell">
-    <section class="hero" aria-labelledby="page-title">
-      <div class="hero__copy">
+    <section class="home-hero" aria-labelledby="page-title">
+      <div class="home-hero__copy">
         <p class="eyebrow">Japan ski guide</p>
-        <h1 id="page-title" class="hero-title">日本滑雪場指南</h1>
-        <p class="hero__lead">
+        <h1 id="page-title" class="home-hero__title">日本滑雪場指南</h1>
+        <p class="home-hero__lead">
           身為台灣滑雪愛好者，每次規劃滑雪行程要蒐集資料都很辛苦，所以此網站為整理日本各地滑雪場的官方資訊、交通位置與雪場特色。希望能協助每個愛滑雪的你能輕鬆取得滑雪場資訊並安排適合的旅程。
         </p>
-        <p class="hero__stat">收錄 {resortCount} 座滑雪場</p>
+        <p class="home-hero__stat">收錄 {resortCount} 座滑雪場</p>
       </div>
-      <div class="hero__guide" aria-label="Japan ski region guide">
-        <input class="view-toggle-input" id="region-view-list" type="radio" name="region-view" checked />
-        <input class="view-toggle-input" id="region-view-map" type="radio" name="region-view" />
+      <div class="home-region-guide" aria-label="Japan ski region guide">
+        <input class="region-view-toggle__input" id="region-view-list" type="radio" name="region-view" checked />
+        <input class="region-view-toggle__input" id="region-view-map" type="radio" name="region-view" />
 
-        <div class="view-toggle" aria-label="Region view mode">
+        <div class="region-view-toggle" aria-label="Region view mode">
           <label for="region-view-list">列表</label>
           <label for="region-view-map">地圖</label>
         </div>
 
-        <div class="region-list-view">
+        <div class="home-region-guide__list">
           {regionStats.map((region, index) => (
             <a
               class={`region-strip region-strip--${region.tone}`}
@@ -74,7 +74,7 @@ const regionStats = regions.map((region) => {
           ))}
         </div>
 
-        <div class="region-map-view" aria-label="日本滑雪分區地圖">
+        <div class="home-region-guide__map" aria-label="日本滑雪分區地圖">
           <JapanRegionMap mode="overview" regions={regionStats} labelledBy="home-map-title" />
         </div>
       </div>
