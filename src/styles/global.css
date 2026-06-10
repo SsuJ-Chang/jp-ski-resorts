@@ -312,9 +312,9 @@ h1 {
 }
 
 .region-strip {
-  display: flex;
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
   gap: 12px;
-  justify-content: space-between;
   align-items: center;
   width: 100%;
   min-width: 0;
@@ -329,14 +329,27 @@ h1 {
   transform: translateX(calc(var(--index) * -8px));
 }
 
-.region-strip > span,
-.region-strip > small {
-  min-width: 0;
+.region-strip__name {
+  white-space: nowrap;
 }
 
-.region-strip > small {
+.region-strip__meta {
+  display: inline-flex;
+  min-width: 0;
   overflow: hidden;
+  justify-content: flex-end;
+  gap: 6px;
   text-align: right;
+  white-space: nowrap;
+}
+
+.region-strip__count {
+  flex: 0 0 auto;
+}
+
+.region-strip__examples {
+  min-width: 0;
+  overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
@@ -348,12 +361,12 @@ h1 {
   outline-offset: 2px;
 }
 
-.region-strip span {
+.region-strip__name {
   font-size: 1.05rem;
   font-weight: 800;
 }
 
-.region-strip small {
+.region-strip__meta {
   color: #526660;
   font-size: 0.78rem;
 }
@@ -1599,8 +1612,7 @@ h1 {
     padding: 0 12px;
   }
 
-  .region-strip > small {
-    flex: 0 0 auto;
+  .region-strip__meta {
     max-width: none;
   }
 

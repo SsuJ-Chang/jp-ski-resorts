@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content'
 import BaseLayout from '../layouts/BaseLayout.astro'
 import JapanRegionMap from '../components/JapanRegionMap.astro'
 import { regions } from '../data/regions'
+import { publishedSkiAreaKeys, skiAreas } from '../data/skiAreas'
 import { filterPublishedResorts } from '../utils/resorts'
 import { withBasePath } from '../utils/paths'
 
@@ -18,17 +19,43 @@ const toneByRegion = {
 
 const resorts = filterPublishedResorts(await getCollection('resorts'))
 const resortCount = resorts.length
+const regionExampleLimit = 2
+const regionExampleCollator = new Intl.Collator('zh-Hant-TW')
+const resortById = new Map(resorts.map((resort) => [resort.id, resort]))
+type Resort = (typeof resorts)[number]
+
+// 首頁範例雪場優先採用已發布 ski area 的 featuredResorts；不足兩座才用繁中名稱排序補足。
+const getRegionExampleNames = (regionKey: (typeof regions)[number]['key'], regionResorts: Resort[]) => {
+  const examples: Resort[] = []
+  const selectedIds = new Set<string>()
+
+  const addExample = (resort?: Resort) => {
+    if (!resort || resort.data.region !== regionKey || selectedIds.has(resort.id)) return
+    examples.push(resort)
+    selectedIds.add(resort.id)
+  }
+
+  publishedSkiAreaKeys.forEach((areaKey) => {
+    const area = skiAreas[areaKey]
+    if (area.region !== regionKey) return
+    area.featuredResorts.forEach((resortId) => addExample(resortById.get(resortId)))
+  })
+
+  regionResorts.forEach(addExample)
+
+  return examples.slice(0, regionExampleLimit).map((resort) => resort.data.name.zhTw)
+}
 
 const regionStats = regions.map((region) => {
   const regionResorts = resorts
     .filter((resort) => resort.data.region === region.key)
-    .sort((a, b) => a.data.name.zhTw.localeCompare(b.data.name.zhTw, 'zh-Hant-TW'))
+    .sort((a, b) => regionExampleCollator.compare(a.data.name.zhTw, b.data.name.zhTw))
 
   return {
     ...region,
     tone: toneByRegion[region.key],
     count: regionResorts.length,
-    examples: regionResorts.map((resort) => resort.data.name.zhTw),
+    examples: getRegionExampleNames(region.key, regionResorts),
   }
 })
 ---
@@ -60,13 +87,12 @@ const regionStats = regions.map((region) => {
               href={withBasePath(`/regions/${region.key}/`)}
               style={`--index: ${index}`}
             >
-              <span>{region.name.zhTw}</span>
-              <small>
-                {region.count} 座
+              <span class="region-strip__name">{region.name.zhTw}</span>
+              <small class="region-strip__meta">
+                <span class="region-strip__count">{region.count} 座</span>
                 {region.examples.length > 0 && (
                   <span class="region-strip__examples">
-                    {' '}
-                    / {region.examples.slice(0, 2).join('、')}
+                    / {region.examples.join('、')}
                   </span>
                 )}
               </small>
