@@ -8,8 +8,8 @@ region: hokkaido
 prefecture: 北海道
 skiArea: niseko
 visibility:
-  status: hidden
-  note: 已改以 Annupuri、Niseko Village、Grand Hirafu、HANAZONO 四個主要雪場分開呈現；此檔保留作彙整資料參考。
+  status: published
+  note: 以 Niseko United 全山共通券與四區彙整資料對外顯示；單區細節仍可參考 Annupuri、Niseko Village、Grand Hirafu、HANAZONO 條目。
 tags:
 - powder
 - large_ski_area
@@ -19,13 +19,15 @@ tags:
 - night_skiing
 - snowboard_friendly
 - tree_run
+- onsen
 links:
-  official: https://www.niseko.ne.jp/
-  trailMapPage: https://www.niseko.ne.jp/en/trail-map/
-  trailMapPdf: https://www.niseko.ne.jp/ja/wp-content/uploads/2020/08/2025-2026_WEBMAP_JP.pdf
-  ticket: https://www.niseko.ne.jp/ja/lift/
-  access: https://www.niseko.ne.jp/en/niseko/niseko-access/
+  official: https://www.niseko.ne.jp/en/
+  trailMapPage: https://www.niseko.ne.jp/en/map/
+  trailMapPdf: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
+  ticket: https://www.niseko.ne.jp/en/lift/
+  access: https://www.niseko.ne.jp/en/niseko-access/
   weather: https://weathernews.jp/ski/spot/31605/
+  snowReport: https://www.niseko.ne.jp/en/niseko-lift-status/
   liftStatus: https://www.niseko.ne.jp/en/niseko-lift-status/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20United
 contact:
@@ -35,37 +37,40 @@ contact:
     googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20United
   phone: 0136-55-6068
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/11/29-2026/5/6
-  hours: 各區域約 8:30-16:30、夜滑區域約 16:00-19:00
-  nightSkiingHours: Grand Hirafu、HANAZONO、Niseko Village 等區域於指定期間營業至約 19:00
-  note: Niseko United 由 Annupuri、Niseko Village、Grand Hirafu、HANAZONO 四區組成、各區開放期間與夜滑日期不同，請以官方運行資訊為準。
-  source: https://www.niseko.ne.jp/en/niseko-lift-status/
+  label: 2026-2027
+  operatingPeriod: Annupuri 與 Grand Hirafu 2026/11/28-2027/5/5、Niseko Village 2026/11/28-2027/4/4、HANAZONO 2026/11/28-2027/4/11
+  hours: 日間約 8:30-16:30，實際依各區與當日官方公告調整
+  nightSkiingHours: 2026/12/12-2027/3/22，夜滑區域與時間依官方公告調整
+  note: Niseko United 由 Annupuri、Niseko Village、Grand Hirafu、HANAZONO 四區組成；官方註明開放日與營業時間可能調整。
+  source: https://www.niseko.ne.jp/en/lift/
 trailMaps:
-- label: Niseko United 2025-2026 雪場圖
-  language: 日本語 / English
+- label: Niseko United 2025-2026 全山雪場圖
+  language: English
   season: 2025-2026
-  url: https://www.niseko.ne.jp/ja/wp-content/uploads/2020/08/2025-2026_WEBMAP_JP.pdf
+  url: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
   sourceLabel: Niseko United Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
-  source: https://www.niseko.ne.jp/ja/lift/
-  note: 以下為 2025-2026 全山共通券主要票種摘要、不同季節、線上購票與各單區票價可能不同。
+  source: https://www.niseko.ne.jp/en/lift/
+  note: Niseko United All Mountain Pass 主要 1 日券摘要；多日券、點數券、線上限定 50 小時券與夜滑有效規則請以官方頁面為準。
   plans:
-  - name: 全山共通 1 日券（Regular Season）
-    audience: 成人、兒童、國中生、長者
-    price: 成人 ¥12,000、兒童 ¥7,200、國中生 ¥10,200、長者 ¥10,200
-    note: Regular Season 為 2025、12、13-2026、3、22。
-  - name: 全山共通 2 日券（Regular Season）
-    audience: 成人、兒童、國中生、長者
-    price: 成人 ¥23,500、兒童 ¥14,100、國中生 ¥20,000、長者 ¥20,000
-  - name: 全山共通 5 日券（Regular Season）
-    audience: 成人、兒童、國中生、長者
-    price: 成人 ¥58,000、兒童 ¥34,800、國中生 ¥49,300、長者 ¥49,300
-  - name: 全山共通 1 日券（Early、Spring）
-    audience: 成人、兒童、國中生、長者
-    price: 成人 ¥8,400、兒童 ¥5,000、國中生 ¥7,100、長者 ¥7,100
+  - name: Peak Season 全山 1 日券
+    audience: 成人、4-12 歲兒童、13-15 歲青少年、65 歲以上長者
+    price: 成人 ¥13,500、4-12 歲兒童 ¥8,100、13-15 歲青少年 ¥11,500、65 歲以上長者 ¥11,500
+    note: 2026/12/24-2027/2/28
+  - name: Regular Season 全山 1 日券
+    audience: 成人、4-12 歲兒童、13-15 歲青少年、65 歲以上長者
+    price: 成人 ¥12,600、4-12 歲兒童 ¥7,600、13-15 歲青少年 ¥10,700、65 歲以上長者 ¥10,700
+    note: 2026/12/12-12/23、2027/3/1-3/22
+  - name: Early / Spring Season 全山 1 日券
+    audience: 成人、4-12 歲兒童、13-15 歲青少年、65 歲以上長者
+    price: 成人 ¥8,800、4-12 歲兒童 ¥5,300、13-15 歲青少年 ¥7,500、65 歲以上長者 ¥7,500
+    note: Early Season 為 2026/11/28-12/11，Spring Season 為 2027/3/23-4/4
+  - name: Final Season 全山 1 日券
+    audience: 成人、4-12 歲兒童、13-15 歲青少年、65 歲以上長者
+    price: 成人 ¥6,300、4-12 歲兒童 ¥3,800、13-15 歲青少年 ¥5,400、65 歲以上長者 ¥5,400
+    note: 2027/4/5-5/5
 snowWeather:
   title: 二世谷聯合雪況天氣
   provider: Weathernews
@@ -76,11 +81,11 @@ snowWeather:
   - date: 12/27(六)
     weather: 雪
     low: "-5°C"
-    high: 4°C
+    high: "4°C"
   - date: 12/28(日)
     weather: 大雪
     low: "-8°C"
-    high: 0°C
+    high: "0°C"
   - date: 12/29(一)
     weather: 大雪
     low: "-9°C"
@@ -88,49 +93,423 @@ snowWeather:
   - date: 12/30(二)
     weather: 陰
     low: "-5°C"
-    high: 0°C
+    high: "0°C"
   - date: 12/31(三)
     weather: 雪
     low: "-3°C"
-    high: 3°C
+    high: "3°C"
   - date: 1/1(四)
     weather: 晴
     low: "-4°C"
-    high: 1°C
+    high: "1°C"
   - date: 1/2(五)
     weather: 雨
-    low: 8°C
-    high: 3°C
-  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+    low: "8°C"
+    high: "3°C"
+  note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時狀態與 Weathernews 為準。
 location:
   latitude: 42.86197
   longitude: 140.69789
 elevation:
   top: 1308
   bottom: 260
+  verticalDrop: 1048
 courses:
-  total: 73
+  total: 75
   beginnerRatio: 35
   intermediateRatio: 35
   advancedRatio: 30
-  courseInfoPage: https://www.niseko.ne.jp/en/trail-map/
-  summary: 二世谷聯合由 Annupuri、Niseko Village、Grand Hirafu、HANAZONO 四個滑雪區組成，可使用全山共通券跨區滑行，特色是粉雪、樹林區、夜滑與大型住宿聚落。
-  details: []
+  courseInfoPage: https://www.niseko.ne.jp/en/map/
+  summary: 二世谷聯合由 Annupuri、Niseko Village、Grand Hirafu、HANAZONO 四個滑雪區組成，可使用全山共通券跨區滑行；官方區域雪道頁合計列出 75 條主要雪道，特色是粉雪、樹林滑行、夜滑與大型住宿聚落。
+  details:
+  - name: Annupuri / Paradise
+    difficulty: beginner
+    length: 560m
+    maxSlope: 12°
+    averageSlope: 11°
+  - name: Annupuri / Family
+    difficulty: beginner
+    length: 580m
+    maxSlope: 11°
+    averageSlope: 6°
+  - name: Annupuri / Junior
+    difficulty: beginner
+    length: 960m
+    maxSlope: 13°
+    averageSlope: 9°
+  - name: Niseko Village / Cruiser
+    difficulty: beginner
+    length: 900m
+    maxSlope: 17°
+    averageSlope: 7°
+  - name: Niseko Village / Banzai
+    difficulty: beginner
+    length: 950m
+    maxSlope: 15°
+    averageSlope: 7°
+  - name: Niseko Village / Shakey Knees
+    difficulty: beginner
+    length: 650m
+    maxSlope: 9°
+    averageSlope: 4°
+  - name: Niseko Village / Final Fling
+    difficulty: beginner
+    length: 650m
+    maxSlope: 9°
+    averageSlope: 4°
+  - name: Niseko Village / Ageimo
+    difficulty: beginner
+    length: 1,200m
+  - name: Grand Hirafu / Shirakaba
+    difficulty: beginner
+    length: 945m
+    maxSlope: 20°
+    averageSlope: 13°
+  - name: Grand Hirafu / Rinkan
+    difficulty: beginner
+    length: 780m
+    maxSlope: 17°
+    averageSlope: 14°
+  - name: Grand Hirafu / Beginners Access
+    difficulty: beginner
+    length: 342m
+    maxSlope: 20°
+    averageSlope: 14°
+  - name: Grand Hirafu / Green
+    difficulty: beginner
+    length: 840m
+    maxSlope: 25°
+    averageSlope: 14°
+  - name: Grand Hirafu / Holiday
+    difficulty: beginner
+    length: 2,883m
+    maxSlope: 19°
+    averageSlope: 9°
+  - name: Grand Hirafu / Boyo
+    difficulty: beginner
+    length: 700m
+    maxSlope: 20°
+    averageSlope: 11°
+  - name: Grand Hirafu / Kogen
+    difficulty: beginner
+    length: 595m
+    maxSlope: 16°
+    averageSlope: 10°
+  - name: Grand Hirafu / King Area Access Pass
+    difficulty: beginner
+    length: 300m
+    maxSlope: 10°
+    averageSlope: 4°
+  - name: Grand Hirafu / Sennoki
+    difficulty: beginner
+    length: 1,080m
+    maxSlope: 30°
+    averageSlope: 10°
+  - name: Grand Hirafu / Family
+    difficulty: beginner
+    length: 750m
+    maxSlope: 17°
+    averageSlope: 7°
+  - name: HANAZONO / Renraku
+    difficulty: beginner
+    length: 281m
+    maxSlope: 10°
+    averageSlope: 10°
+  - name: HANAZONO / Mango Salad
+    difficulty: beginner
+    length: 800m
+    maxSlope: 8°
+    averageSlope: 7°
+  - name: HANAZONO / Juicy Fruit
+    difficulty: beginner
+    length: 800m
+    maxSlope: 12°
+    averageSlope: 7°
+  - name: HANAZONO / Crystal Garden
+    difficulty: beginner
+    length: 1,047m
+    maxSlope: 17°
+    averageSlope: 7°
+  - name: Annupuri / Panorama
+    difficulty: intermediate
+    length: 475m
+    maxSlope: 24°
+    averageSlope: 19°
+  - name: Annupuri / Utopia
+    difficulty: intermediate
+    length: 600m
+    maxSlope: 22°
+    averageSlope: 15°
+  - name: Annupuri / Silver
+    difficulty: intermediate
+    length: 150m
+    maxSlope: 22°
+    averageSlope: 20°
+  - name: Annupuri / “S” Ji
+    difficulty: intermediate
+    length: 700m
+    maxSlope: 20°
+    averageSlope: 14°
+  - name: Annupuri / Shirakaba
+    difficulty: intermediate
+    length: 800m
+    maxSlope: 20°
+    averageSlope: 16°
+  - name: Annupuri / Dynamic
+    difficulty: intermediate
+    length: 390m
+    maxSlope: 33°
+    averageSlope: 19°
+  - name: Niseko Village / Dabesa
+    difficulty: intermediate
+    length: 1,880m
+    maxSlope: 26°
+    averageSlope: 8°
+  - name: Niseko Village / Junkyard
+    difficulty: intermediate
+    length: 300m
+    maxSlope: 23°
+    averageSlope: 20°
+  - name: Niseko Village / Jagaimo
+    difficulty: intermediate
+    length: 250m
+    maxSlope: 26°
+    averageSlope: 17°
+  - name: Niseko Village / Namara
+    difficulty: intermediate
+    length: 650m
+    maxSlope: 27°
+    averageSlope: 18°
+  - name: Niseko Village / Koguma
+    difficulty: intermediate
+    length: 350m
+    maxSlope: 27°
+    averageSlope: 12°
+  - name: Niseko Village / Don't Blink
+    difficulty: intermediate
+    length: 260m
+    maxSlope: 24°
+    averageSlope: 11°
+  - name: Niseko Village / Next Stage
+    difficulty: intermediate
+  - name: Niseko Village / Yard Sale
+    difficulty: intermediate
+  - name: Niseko Village / Boomerang
+    difficulty: intermediate
+  - name: Niseko Village / Hinode Ski Run
+    difficulty: intermediate
+  - name: Niseko Village / Ritz Ski Run
+    difficulty: intermediate
+  - name: Grand Hirafu / Center
+    difficulty: intermediate
+    length: 900m
+    maxSlope: 25°
+    averageSlope: 12°
+  - name: Grand Hirafu / Furiko
+    difficulty: intermediate
+    length: 460m
+    maxSlope: 30°
+    averageSlope: 20°
+  - name: Grand Hirafu / Kokutai & Ni-Kabe
+    difficulty: intermediate
+    length: 1,100m
+    maxSlope: 34°
+    averageSlope: 18°
+  - name: Grand Hirafu / Alpen
+    difficulty: intermediate
+    length: 814m
+    maxSlope: 28°
+    averageSlope: 15°
+  - name: HANAZONO / Silver Dream
+    difficulty: intermediate
+    length: 2,700m
+    maxSlope: 20°
+    averageSlope: 8°
+  - name: HANAZONO / Parallel
+    difficulty: intermediate
+    length: 575m
+    maxSlope: 20°
+    averageSlope: 14°
+  - name: HANAZONO / Colly's Folly
+    difficulty: intermediate
+    length: 550m
+    maxSlope: 22°
+    averageSlope: 17°
+  - name: HANAZONO / Stairway to Heaven
+    difficulty: intermediate
+    length: 1,200m
+    maxSlope: 26°
+    averageSlope: 13°
+  - name: HANAZONO / Hanazono Park
+    difficulty: intermediate
+    length: 624m
+    maxSlope: 25°
+    averageSlope: 16°
+  - name: HANAZONO / Setsuzoku
+    difficulty: intermediate
+    length: 257m
+    maxSlope: 24°
+    averageSlope: 16°
+  - name: Annupuri / Championship
+    difficulty: advanced
+    length: 565m
+    maxSlope: 25°
+    averageSlope: 21°
+  - name: Annupuri / Merchen
+    difficulty: advanced
+    length: 277m
+    maxSlope: 28°
+    averageSlope: 18°
+  - name: Annupuri / Challenge
+    difficulty: advanced
+    length: 250m
+    maxSlope: 33°
+    averageSlope: 21°
+  - name: Annupuri / Fukayuki Rinkan
+    difficulty: advanced
+    length: 400m
+    maxSlope: 34°
+    averageSlope: 24°
+  - name: Niseko Village / Wonderland
+    difficulty: advanced
+    length: 960m
+    maxSlope: 25°
+    averageSlope: 14°
+  - name: Niseko Village / Ukairo
+    difficulty: advanced
+  - name: Niseko Village / Snorkel
+    difficulty: advanced
+  - name: Niseko Village / Joppin
+    difficulty: advanced
+  - name: Niseko Village / Zangi
+    difficulty: advanced
+  - name: Niseko Village / Nekko no Kabe
+    difficulty: advanced
+  - name: Niseko Village / Konbu
+    difficulty: advanced
+  - name: Niseko Village / Superstition
+    difficulty: advanced
+    length: 970m
+    maxSlope: 35°
+    averageSlope: 13°
+  - name: Niseko Village / Enchantment
+    difficulty: advanced
+  - name: Niseko Village / Make Sense
+    difficulty: advanced
+  - name: Niseko Village / Misoshiru
+    difficulty: advanced
+    length: 850m
+    maxSlope: 32°
+    averageSlope: 25°
+  - name: Niseko Village / Unforgettable
+    difficulty: advanced
+  - name: Niseko Village / Pure Magic
+    difficulty: advanced
+  - name: Grand Hirafu / Large
+    difficulty: advanced
+    length: 650m
+    maxSlope: 32°
+    averageSlope: 19°
+  - name: Grand Hirafu / Dynamic
+    difficulty: advanced
+    length: 530m
+    maxSlope: 30°
+    averageSlope: 18°
+  - name: Grand Hirafu / Jumbo
+    difficulty: advanced
+    length: 1,200m
+    maxSlope: 34°
+    averageSlope: 17°
+  - name: Grand Hirafu / Super
+    difficulty: advanced
+    length: 1,220m
+    maxSlope: 35°
+    averageSlope: 18°
+  - name: Grand Hirafu / Konayuki
+    difficulty: advanced
+    length: 403m
+    maxSlope: 37°
+    averageSlope: 21°
+  - name: Grand Hirafu / Miharashi
+    difficulty: advanced
+    length: 880m
+    maxSlope: 32°
+    averageSlope: 18°
+  - name: Grand Hirafu / Onsenzawa
+    difficulty: advanced
+    length: 268m
+    maxSlope: 40°
+    averageSlope: 16°
+  - name: HANAZONO / Youtei Sunset
+    difficulty: advanced
+    length: 1,238m
+    maxSlope: 29°
+    averageSlope: 20°
+  - name: HANAZONO / Legend of Shinya
+    difficulty: advanced
+    length: 896m
+    maxSlope: 30°
+    averageSlope: 14°
 lifts:
   total: 30
+access:
+  fromSapporo:
+  - label: 札幌出發，直達巴士或自駕
+    steps:
+    - 札幌站或札幌市區搭乘冬季直達巴士前往 Niseko Hirafu、Hilton Niseko Village 或 Annupuri
+    - 抵達二世谷後依住宿與滑行區域使用 Niseko United Shuttle Bus、路線巴士或飯店接駁
+    estimatedTime: 約 2.5-3.5 小時，依目的區域、班次與天候而定
+    difficulty: medium
+    note: 冬季巴士需確認營運期間與預約規則；自駕需行經中山峠、喜茂別或倶知安方向，冬季道路可能積雪或結冰。
+    links:
+    - label: Niseko United 交通資訊
+      url: https://www.niseko.ne.jp/en/niseko-access/
+  fromAirport:
+  - label: 新千歲機場出發，直達巴士或 JR 轉乘
+    steps:
+    - 新千歲機場搭乘冬季滑雪巴士前往二世谷各區，或搭乘 JR 經小樽、倶知安方向轉乘
+    - 抵達二世谷後依目的區域轉乘 Niseko United Shuttle Bus、路線巴士或飯店接駁
+    estimatedTime: 約 3-3.5 小時，依交通方式、班次與天候而定
+    difficulty: medium
+    note: 官方交通頁列出新千歲機場與札幌往返二世谷的冬季巴士資訊；實際期間、班次與停靠點請以各巴士業者公告為準。
+    links:
+    - label: Niseko United 交通資訊
+      url: https://www.niseko.ne.jp/en/niseko-access/
+  car:
+    recommended: false
+    snowTireRequired: true
+    note: 官方交通頁列出札幌出發至各區約 92-105km；冬季自駕需雪胎、雪道駕駛經驗，並預留天候與道路延誤時間。
+terrainSummary:
+  beginner: 四區皆有初級雪道與山麓練習動線，若是第一次到二世谷，建議先確認住宿點與最近的初級區域。
+  intermediate: Grand Hirafu、HANAZONO、Niseko Village 與 Annupuri 都有中級巡航路線，可用全山共通券安排跨區滑行。
+  advanced: 各區都有黑線、高坡度或樹林路線；挑戰高難度與 gate 外區域前，需確認官方開放狀態與 Niseko Rules。
+  snowboard: 二世谷有寬雪道、夜滑、地形公園與大量住宿圈，雪板玩家可依住宿位置選擇 Hirafu、HANAZONO 或其他區域作為主要據點。
+  powder: 官方介紹二世谷以乾爽輕質粉雪與冬季林間地形聞名；粉雪、樹林與非管制區域需遵守官方規則與雪崩資訊。
 externalContent:
   blogs: []
   vlogs: []
 sources:
 - label: Niseko United Official Website
-  url: https://www.niseko.ne.jp/
-- label: Niseko United All Mountain 纜車 Pass
-  url: https://www.niseko.ne.jp/ja/lift/
+  url: https://www.niseko.ne.jp/en/
+- label: Niseko United About
+  url: https://www.niseko.ne.jp/en/niseko/
+- label: Niseko United All Mountain Pass
+  url: https://www.niseko.ne.jp/en/lift/
 - label: Niseko United Trail Map 2025-2026
-  url: https://www.niseko.ne.jp/ja/wp-content/uploads/2020/08/2025-2026_WEBMAP_JP.pdf
-- label: Niseko United 纜車 Status
-  url: https://www.niseko.ne.jp/en/niseko-lift-status/
-- label: Niseko Tokyu Grand Hirafu Weathernews
+  url: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
+- label: Niseko United Course Details - Annupuri
+  url: https://www.niseko.ne.jp/en/map/annupuri/
+- label: Niseko United Course Details - Niseko Village
+  url: https://www.niseko.ne.jp/en/map/village/
+- label: Niseko United Course Details - Grand Hirafu
+  url: https://www.niseko.ne.jp/en/map/grand-hirafu/
+- label: Niseko United Course Details - HANAZONO
+  url: https://www.niseko.ne.jp/en/map/hanazono/
+- label: Niseko United Access
+  url: https://www.niseko.ne.jp/en/niseko-access/
+- label: Niseko Rules
+  url: https://www.niseko.ne.jp/en/niseko-rules/
+- label: Weathernews Niseko Tokyu Grand Hirafu
   url: https://weathernews.jp/ski/spot/31605/
 ---
-二世谷聯合是北海道最具代表性的粉雪滑雪區之一，由 Annupuri、Niseko Village、Grand Hirafu 與 HANAZONO 四個區域組成。全山共通券可跨區使用，適合重視粉雪、夜滑、住宿選擇與國際化滑雪村氛圍的旅客。
+二世谷聯合是北海道代表性的粉雪滑雪區，由 Annupuri、Niseko Village、Grand Hirafu 與 HANAZONO 四個區域組成。全山共通券可跨區使用，適合重視粉雪、夜滑、住宿選擇與國際化滑雪村氛圍的旅客；若需要單區雪道配置，可再搭配四個單區條目查看。
