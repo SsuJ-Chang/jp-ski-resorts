@@ -1,0 +1,120 @@
+---
+id: kuju-ski-resort
+name:
+  zhTw: 九重森林公園
+  ja: くじゅうスキー場
+  en: Kuju Forest Park Snow Resort
+region: kyushu
+prefecture: 大分縣
+tags:
+- beginner_friendly
+- family_friendly
+- night_skiing
+- onsen
+- snowboard_friendly
+visibility:
+  status: published
+links:
+  official: https://www.kujyuski.co.jp/
+  weather: https://weathernews.jp/ski/spot/38301/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=%E3%81%8F%E3%81%98%E3%82%85%E3%81%86%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4
+contact:
+  address:
+    zhTw: 大分縣玖珠郡九重町大字湯坪 612-1
+    ja: 〒879-4912 大分県玖珠郡九重町大字湯坪612-1
+    googleMaps: https://www.google.com/maps/search/?api=1&query=%E3%81%8F%E3%81%98%E3%82%85%E3%81%86%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4
+  phone: 0973-79-2200
+season:
+  label: 2025-2026
+  operatingPeriod: 2025/12/5-2026/3/22
+  hours: 9:00-17:00
+  nightSkiingHours: 17:30-21:00
+  note: 初版依 Weathernews 公開資訊整理；實際營業日、夜滑日期與開放雪道請以官方公告為準。
+  source: https://weathernews.jp/ski/spot/38301/
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/38301/
+  note: 初版先依 Weathernews 公開的主要票種整理；完整票價、租借與優惠規則請以官方當季公告為準。
+  plans:
+  - name: 平日 1 日券
+    audience: 成人、兒童、長者
+    price: 成人 ¥5,500、兒童 ¥4,500、長者 ¥5,000
+  - name: 假日 1 日券
+    audience: 成人、兒童、長者
+    price: 成人 ¥6,500、兒童 ¥5,500、長者 ¥6,000
+  - name: 平日半日券
+    audience: 成人、兒童、長者
+    price: 成人 ¥4,500、兒童 ¥3,500、長者 ¥4,000
+  - name: 假日半日券
+    audience: 成人、兒童、長者
+    price: 成人 ¥5,500、兒童 ¥4,500、長者 ¥5,000
+snowWeather:
+  title: 九重森林公園雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/38301/
+  snowDepth: 200 cm
+  updatedAt: 2026/4/30 09:00:00
+  forecast:
+  - date: 12/27(六)
+    weather: 雪
+    low: "-5°C"
+    high: 4°C
+  - date: 12/28(日)
+    weather: 大雪
+    low: "-8°C"
+    high: 0°C
+  - date: 12/29(一)
+    weather: 大雪
+    low: "-9°C"
+    high: "-2°C"
+  - date: 12/30(二)
+    weather: 陰
+    low: "-5°C"
+    high: 0°C
+  - date: 12/31(三)
+    weather: 雪
+    low: "-3°C"
+    high: 3°C
+  - date: 1/1(四)
+    weather: 晴
+    low: "-4°C"
+    high: 1°C
+  - date: 1/2(五)
+    weather: 雨
+    low: 8°C
+    high: 3°C
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+elevation:
+  top: 1300
+  bottom: 1150
+  verticalDrop: 150
+courses:
+  total: 6
+  beginnerRatio: 20
+  intermediateRatio: 30
+  advancedRatio: 50
+  summary: 九重森林公園位於大分縣九重町，Weathernews 公開資訊列為 6 條雪道、3 座纜車，並設有夜滑時段；詳細雪道名稱與開放狀態仍需以官方公告確認。
+lifts:
+  total: 3
+access:
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: 九州山區冬季仍可能有積雪或結冰，建議出發前確認道路狀況並準備雪胎或雪鏈。
+terrainSummary:
+  beginner: Weathernews 列初級比例 20%，初版先標示為有初級路線，詳細適合程度需後續依官方雪道資料補強。
+  intermediate: Weathernews 列中級比例 30%，可作為初版雪道結構參考。
+  advanced: Weathernews 列上級比例 50%，實際開放與雪況請以官方公告確認。
+  snowboard: Weathernews 標示雪板全面可滑，實際仍需遵守官方現場規則。
+externalContent:
+  blogs: []
+  vlogs: []
+sources:
+- label: Kuju Forest Park Snow Resort Official Website
+  url: https://www.kujyuski.co.jp/
+- label: くじゅうスキー場 Weathernews
+  url: https://weathernews.jp/ski/spot/38301/
+  note: 使用者指定附上的 Weathernews 雪場頁。
+---
+九重森林公園位於大分縣九重町，是九州地區可安排滑雪與溫泉旅行的冬季目的地。初版先收錄官方入口與 Weathernews 公開資訊，票價、營業日與詳細雪道資料後續仍需以官方當季公告補強。
