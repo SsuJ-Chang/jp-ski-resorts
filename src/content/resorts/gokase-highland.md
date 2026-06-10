@@ -11,6 +11,7 @@ tags:
 - family_friendly
 - onsen
 - snowboard_friendly
+homeRegionExample: true
 visibility:
   status: published
 links:

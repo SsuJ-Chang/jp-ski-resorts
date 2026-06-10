@@ -15,6 +15,7 @@ tags:
 - no_car_accessible
 - snowboard_friendly
 - tree_run
+homeRegionExample: true
 links:
   official: https://www.dynaland.co.jp/
   trailMapPage: https://www.dynaland.co.jp/gelande/

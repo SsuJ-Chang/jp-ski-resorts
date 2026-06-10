@@ -12,6 +12,7 @@ tags:
 - family_friendly
 - no_car_accessible
 - snowboard_friendly
+homeRegionExample: true
 links:
   official: https://www.daisen-resort.jp/
   trailMapPage: https://www.daisen-resort.jp/4/13.html

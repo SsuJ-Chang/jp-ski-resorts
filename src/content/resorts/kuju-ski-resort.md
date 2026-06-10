@@ -12,6 +12,7 @@ tags:
 - night_skiing
 - onsen
 - snowboard_friendly
+homeRegionExample: true
 visibility:
   status: published
 links:

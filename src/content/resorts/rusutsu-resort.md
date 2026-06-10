@@ -13,6 +13,7 @@ tags:
 - "night_skiing"
 - "snowboard_friendly"
 - "resort_village"
+homeRegionExample: true
 visibility:
   status: "published"
   note: "Weathernews 北海道人氣排行榜前 20 名雪場；資料以 Weathernews spot 頁與官方網站整理。"

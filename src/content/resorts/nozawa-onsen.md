@@ -16,6 +16,7 @@ tags:
 - large_ski_area
 - powder
 - snowboard_friendly
+homeRegionExample: true
 links:
   official: https://en.nozawaski.com/
   trailMapPage: https://en.nozawaski.com/the-mountain/moutain-info/slopes-lifts/

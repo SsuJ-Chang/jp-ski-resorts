@@ -10,6 +10,7 @@ tags:
   - "large_ski_area"
   - "resort_village"
   - "snowboard_friendly"
+homeRegionExample: true
 visibility:
   status: "published"
   note: "福井縣雪場，未歸入現有 skiArea enum；資料以 Weathernews 縣別雪場清單與官方網站整理。"

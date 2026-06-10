@@ -14,6 +14,7 @@ tags:
 - no_car_accessible
 - onsen
 - snowboard_friendly
+homeRegionExample: true
 visibility:
   status: published
   note: 石川縣白山市雪場，未歸入現有 skiArea enum。

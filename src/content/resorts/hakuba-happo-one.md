@@ -12,6 +12,7 @@ tags:
 - large_ski_area
 - snowboard_friendly
 - no_car_accessible
+homeRegionExample: true
 links:
   official: https://www.happo-one.jp/
   trailMapPage: https://www.happo-one.jp/gelande/

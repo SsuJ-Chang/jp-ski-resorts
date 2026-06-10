@@ -14,6 +14,7 @@ tags:
 - no_car_accessible
 - snowboard_friendly
 - tree_run
+homeRegionExample: true
 links:
   official: https://www.takasu.gr.jp/
   trailMapPage: https://www.takasu.gr.jp/gelande/

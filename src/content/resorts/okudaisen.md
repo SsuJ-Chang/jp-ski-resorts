@@ -12,6 +12,7 @@ tags:
 - family_friendly
 - resort_village
 - snowboard_friendly
+homeRegionExample: true
 links:
   official: https://www.qkamura.or.jp/daisen/ski/
   trailMapPage: https://www.qkamura.or.jp/daisen/ski/

@@ -15,6 +15,7 @@ tags:
 - resort_village
 - snowboard_friendly
 - tree_run
+homeRegionExample: true
 links:
   official: https://www.nekoma.co.jp/
   trailMapPage: https://www.nekoma.co.jp/liftguide/

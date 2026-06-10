@@ -14,6 +14,7 @@ tags:
 - no_car_accessible
 - powder
 - snowboard_friendly
+homeRegionExample: true
 links:
   official: https://www.inawashiro-ski.com/
   trailMapPage: https://www.inawashiro-ski.com/gelande/
