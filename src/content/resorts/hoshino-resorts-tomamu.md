@@ -84,7 +84,7 @@ snowWeather:
     weather: "雨"
     low: "8°C"
     high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 elevation:
   top: 1171
   bottom: 586
@@ -96,6 +96,124 @@ courses:
   advancedRatio: 30
   courseInfoPage: "https://weathernews.jp/ski/spot/31201/"
   summary: "星野 Resorts Tomamu 在北海道人氣雪場清單列為第 4 名。共有 29 條雪道、6 座纜車，難度比例為初級 30%、中級 40%、上級 30%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  details:
+    - name: "プラチナベル"
+      difficulty: beginner
+      length: "650m"
+      averageSlope: "4deg"
+    - name: "シルバーベル"
+      difficulty: beginner
+      length: "3,300m"
+      averageSlope: "4deg"
+    - name: "クネクネフォレスト"
+      difficulty: beginner
+      length: "1,400m"
+      averageSlope: "8deg"
+    - name: "ビギナースチョイス"
+      difficulty: beginner
+      length: "900m"
+      averageSlope: "5deg"
+    - name: "ロードトゥゴンドラ"
+      difficulty: beginner
+      length: "520m"
+      averageSlope: "8deg"
+    - name: "サンシャイン"
+      difficulty: beginner
+      length: "1,600m"
+      averageSlope: "13deg"
+    - name: "ハローニポ"
+      difficulty: beginner
+      length: "710m"
+      averageSlope: "7deg"
+    - name: "森の迷路"
+      difficulty: beginner
+      length: "250m"
+      averageSlope: "4deg"
+    - name: "ホタルストリート"
+      difficulty: beginner
+      length: "250m"
+      averageSlope: "7deg"
+    - name: "フェアリーウッズ"
+      difficulty: beginner
+      length: "710m"
+      averageSlope: "9deg"
+    - name: "パインロード"
+      difficulty: beginner
+      length: "220m"
+      averageSlope: "6deg"
+    - name: "ドラゴンリッジ"
+      difficulty: intermediate
+      length: "840m"
+      averageSlope: "20deg"
+    - name: "ショートストーリー"
+      difficulty: intermediate
+      length: "150m"
+      averageSlope: "15deg"
+    - name: "シルキーウェイ"
+      difficulty: intermediate
+      length: "510m"
+      averageSlope: "15deg"
+    - name: "パノラマリッジ"
+      difficulty: intermediate
+      length: "790m"
+      averageSlope: "10deg"
+    - name: "アスペンバーン"
+      difficulty: intermediate
+      length: "370m"
+      averageSlope: "15deg"
+    - name: "ナスターコース"
+      difficulty: intermediate
+      length: "850m"
+      averageSlope: "12deg"
+    - name: "エキシビジョン"
+      difficulty: intermediate
+      length: "1,500m"
+      averageSlope: "18deg"
+    - name: "ハイウェイコースター"
+      difficulty: intermediate
+      length: "1,450m"
+      averageSlope: "18deg"
+    - name: "ジェミニ"
+      difficulty: intermediate
+      length: "540m"
+      averageSlope: "15deg"
+    - name: "ヴィーナス"
+      difficulty: intermediate
+      length: "540m"
+      averageSlope: "15deg"
+    - name: "ムーンシャイン"
+      difficulty: intermediate
+      length: "130m"
+      averageSlope: "18deg"
+    - name: "ナチュラルテレイン"
+      difficulty: intermediate
+      length: "480m"
+      averageSlope: "15deg"
+    - name: "バードウォッチャー（アカゲラの森）"
+      difficulty: intermediate
+      length: "160m"
+      averageSlope: "12deg"
+    - name: "グローリー"
+      difficulty: advanced
+      length: "520m"
+      averageSlope: "20deg"
+    - name: "ノーグラビティ"
+      difficulty: advanced
+      length: "770m"
+      maxSlope: "35deg"
+      averageSlope: "26deg"
+    - name: "ノーススター"
+      difficulty: advanced
+      length: "500m"
+      averageSlope: "22deg"
+    - name: "グランプリZ"
+      difficulty: advanced
+      length: "450m"
+      averageSlope: "21deg"
+    - name: "フリーウェイ"
+      difficulty: advanced
+      length: "400m"
+      averageSlope: "16deg"
 lifts:
   total: 6
 access:

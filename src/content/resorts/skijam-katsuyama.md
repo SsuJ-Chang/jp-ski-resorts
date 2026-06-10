@@ -76,7 +76,7 @@ snowWeather:
       weather: "雨"
       low: "8°C"
       high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 courses:
   total: 14
   beginnerRatio: 30
@@ -84,6 +84,73 @@ courses:
   advancedRatio: 30
   courseInfoPage: "https://weathernews.jp/ski/spot/35707/"
   summary: "Ski Jam 勝山共有 14 條雪道，最大斜度 37°，初級 30%、中級 40%、上級 30%。最低斜度約 6°，實際開放狀況請以官方公告為準。"
+  details:
+    - name: "林道コース"
+      difficulty: beginner
+      length: "3,000m"
+      averageSlope: "4deg"
+    - name: "ドリーミーコース"
+      difficulty: beginner
+      length: "430m"
+      averageSlope: "4deg"
+    - name: "バラエティコース"
+      difficulty: mixed
+      length: "1,670m"
+      averageSlope: "12deg"
+    - name: "ファンタジーAコース"
+      difficulty: mixed
+      length: "1,620m"
+      averageSlope: "11deg"
+    - name: "ファンタジーBコース"
+      difficulty: mixed
+      length: "1,330m"
+      averageSlope: "11deg"
+    - name: "ストリームBコース"
+      difficulty: mixed
+      length: "600m"
+      averageSlope: "11deg"
+    - name: "ファンタジーアクセスコース"
+      difficulty: mixed
+      length: "830m"
+      averageSlope: "7deg"
+    - name: "イリュージョンAコース"
+      difficulty: intermediate
+      length: "1,230m"
+      averageSlope: "15deg"
+    - name: "ストリームAコース"
+      difficulty: intermediate
+      length: "1,170m"
+      averageSlope: "14deg"
+    - name: "ストリームCコース"
+      difficulty: intermediate
+      length: "680m"
+      averageSlope: "13deg"
+    - name: "イリュージョンBコース"
+      difficulty: mixed
+      length: "750m"
+      maxSlope: "30deg"
+      averageSlope: "19deg"
+    - name: "エクストリームコース"
+      difficulty: advanced
+      length: "380m"
+      maxSlope: "37deg"
+      averageSlope: "20deg"
+    - name: "ツリーランコースA"
+      difficulty: advanced
+      length: "620m"
+      averageSlope: "15deg"
+    - name: "ツリーランコースB"
+      difficulty: advanced
+      length: "830m"
+      averageSlope: "18deg"
+    - name: "ツリーランコースC"
+      difficulty: advanced
+      length: "300m"
+      averageSlope: "11deg"
+    - name: "ツリーランD"
+      difficulty: advanced
+      length: "400m"
+      averageSlope: "16deg"
 lifts:
   total: 8
 access:

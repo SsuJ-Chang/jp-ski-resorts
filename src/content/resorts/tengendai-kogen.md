@@ -63,7 +63,7 @@ snowWeather:
       weather: "雨"
       low: "8°C"
       high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 location:
   latitude: 37.77532
   longitude: 140.134323
@@ -78,6 +78,19 @@ courses:
   advancedRatio: 30
   courseInfoPage: "https://weathernews.jp/ski/spot/33506/"
   summary: "天元台高原以長雪季與乾爽粉雪為特色，標高範圍高低落差大。共有 7 條雪道，初級 30%、中級 40%、上級 30%。"
+  details:
+    - name: "しらかばゲレンデ"
+      difficulty: mixed
+      length: "600m"
+    - name: "つがもりゲレンデ"
+      difficulty: mixed
+      length: "1,500m"
+    - name: "しゃくなげゲレンデ"
+      difficulty: mixed
+      length: "850m"
+    - name: "湯の平コース"
+      difficulty: mixed
+      length: "3,000m"
 lifts:
   total: 3
 terrainSummary:

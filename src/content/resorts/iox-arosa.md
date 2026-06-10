@@ -75,7 +75,7 @@ snowWeather:
       weather: "雨"
       low: "8°C"
       high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 courses:
   total: 7
   beginnerRatio: 30
@@ -83,6 +83,28 @@ courses:
   advancedRatio: 10
   courseInfoPage: "https://iox-arosa.jp/map"
   summary: "IOX-AROSA 共有 7 條雪道，最大斜度 35°，初級 30%、中級 60%、上級 10%。最低斜度約 7°，實際開放狀況請以官方公告為準。"
+  details:
+    - name: "山麓初級バーン（名稱待確認）"
+      difficulty: beginner
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "ゴンドラ連絡コース（名稱待確認）"
+      difficulty: beginner
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "メインバーン（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "上部中級コース（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "ナイターゲレンデ（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "スノーパーク（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "上級斜面（名稱待確認）"
+      difficulty: advanced
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
 lifts:
   total: 5
 access:

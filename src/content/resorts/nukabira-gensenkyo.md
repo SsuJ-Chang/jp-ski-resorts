@@ -82,18 +82,40 @@ snowWeather:
     weather: "雨"
     low: "8°C"
     high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 elevation:
   top: 1230
   bottom: 570
   verticalDrop: 660
 courses:
-  total: 7
+  total: 14
   beginnerRatio: 40
   intermediateRatio: 45
   advancedRatio: 15
   courseInfoPage: "https://weathernews.jp/ski/spot/32002/"
   summary: "糠平源泉鄉在北海道人氣雪場清單列為第 11 名。共有 7 條雪道、2 座纜車，難度比例為初級 40%、中級 45%、上級 15%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  details:
+    - name: "ファミリーゲレンデ（名稱待確認）"
+      difficulty: beginner
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "林間コース（名稱待確認）"
+      difficulty: beginner
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "パノラマコース（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "ダウンヒルコース（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "スラロームバーン（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "チャレンジコース（名稱待確認）"
+      difficulty: advanced
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "非圧雪林間エリア（名稱待確認）"
+      difficulty: ungroomed
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
 lifts:
   total: 2
 access:

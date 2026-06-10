@@ -86,7 +86,7 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
   latitude: 36.5604
   longitude: 137.7983
@@ -99,7 +99,18 @@ mapDisplay:
 courses:
   courseInfoPage: https://jiigatake.com/slope/
   summary: 爺岳是白馬 Valley 南端的家庭與初學者取向雪場，官網主打 debut slope。
-  details: []
+  details:
+    - name: "エコーゲレンデ"
+      difficulty: beginner
+    - name: "かもしかコース"
+      difficulty: mixed
+      length: "1,500m"
+    - name: "林間コース"
+      difficulty: mixed
+    - name: "雷鳥コース"
+      difficulty: mixed
+    - name: "ラビットコース"
+      difficulty: mixed
 access:
   fromTokyo:
   - label: 東京出發

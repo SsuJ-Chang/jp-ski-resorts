@@ -85,7 +85,7 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
   latitude: 36.9096
   longitude: 138.8507
@@ -98,7 +98,59 @@ mapDisplay:
 courses:
   courseInfoPage: https://www.yuzawa-nakazato.com/winter/course/
   summary: 湯澤中里鄰近越後中里站，官方票價頁標示 2025/12/20-2026/3/29 營業，適合家庭、初學與搭火車前往。
-  details: []
+  details:
+    - name: "ジョイフルコース"
+      difficulty: beginner
+      length: "1,500m"
+    - name: "スマイルコース"
+      difficulty: beginner
+      length: "1,010m"
+      averageSlope: "9deg"
+    - name: "キャノピーコース"
+      difficulty: beginner
+      length: "750m"
+    - name: "ファミリーコース"
+      difficulty: beginner
+      length: "650m"
+    - name: "エンゼルゲレンデ"
+      difficulty: beginner
+      length: "150m"
+    - name: "フォレストコース"
+      difficulty: beginner
+      length: "300m"
+      averageSlope: "9deg"
+    - name: "第6ゲレンデ"
+      difficulty: beginner
+    - name: "第6イベントコース"
+      difficulty: beginner
+    - name: "パノラマコース"
+      difficulty: intermediate
+      length: "500m"
+    - name: "パラレルコース"
+      difficulty: intermediate
+      length: "650m"
+    - name: "スカイラインコース"
+      difficulty: intermediate
+      length: "200m"
+    - name: "ジャイアントコース"
+      difficulty: advanced
+      length: "580m"
+    - name: "トレーニングバーン"
+      difficulty: advanced
+      length: "300m"
+    - name: "ダイナミックコース"
+      difficulty: advanced
+      length: "600m"
+    - name: "FWT ZONE"
+      difficulty: advanced
+      length: "1,170m"
+      maxSlope: "32deg"
+      averageSlope: "25deg"
+    - name: "エクストリームコース"
+      difficulty: advanced
+      length: "200m"
+      maxSlope: "31deg"
+      averageSlope: "24deg"
 access:
   fromTokyo:
   - label: 東京出發

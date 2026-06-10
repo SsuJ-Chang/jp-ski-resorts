@@ -91,7 +91,7 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
   latitude: 37.03
   longitude: 138.85
@@ -104,7 +104,88 @@ mapDisplay:
 courses:
   courseInfoPage: https://jkokusai.co.jp/ski/gelande/
   summary: 上越國際是南魚沼的大型雪場，官方票價頁列出 2025/12/13-2026/4/5 營業與夜滑期間。
-  details: []
+  details:
+    - name: "リーゼンファミリー林間コース"
+      difficulty: beginner
+      length: "1,000m"
+      averageSlope: "8deg"
+    - name: "ホテル前ゲレンデ"
+      difficulty: beginner
+      length: "120m"
+      averageSlope: "14deg"
+    - name: "ファミリー林間コース"
+      difficulty: beginner
+      length: "6,000m"
+      averageSlope: "7deg"
+    - name: "当間第5ゲレンデ迂回コース"
+      difficulty: beginner
+    - name: "長峰第1ゲレンデ"
+      difficulty: mixed
+      length: "600m"
+      averageSlope: "10deg"
+    - name: "長峰第2ゲレンデ"
+      difficulty: mixed
+      length: "600m"
+      averageSlope: "12deg"
+    - name: "長峰第3ゲレンデ"
+      difficulty: mixed
+      length: "600m"
+      averageSlope: "15deg"
+    - name: "パノラマ第1ゲレンデ"
+      difficulty: mixed
+      length: "600m"
+      averageSlope: "7deg"
+    - name: "当間第1ゲレンデ"
+      difficulty: mixed
+      length: "1,000m"
+      averageSlope: "10deg"
+    - name: "当間第2ゲレンデ"
+      difficulty: mixed
+      length: "1,000m"
+      averageSlope: "11deg"
+    - name: "当間第4ゲレンデ迂回コース"
+      difficulty: mixed
+      length: "760m"
+      averageSlope: "11deg"
+    - name: "当間第5ゲレンデ"
+      difficulty: mixed
+      length: "600m"
+      averageSlope: "12deg"
+    - name: "大別当ゲレンデ迂回コース"
+      difficulty: intermediate
+    - name: "美奈第2ゲレンデ"
+      difficulty: intermediate
+    - name: "パノラマ第3ゲレンデ"
+      difficulty: intermediate
+      length: "1,000m"
+      averageSlope: "15deg"
+    - name: "パノラマ第3ゲレンデ尾根コース"
+      difficulty: intermediate
+    - name: "当間第4ゲレンデメインコース"
+      difficulty: intermediate
+      length: "2,000m"
+      averageSlope: "12deg"
+    - name: "大沢ジャイアントコース"
+      difficulty: mixed
+      length: "1,200m"
+      averageSlope: "15deg"
+    - name: "美奈第1ゲレンデ"
+      difficulty: mixed
+      length: "1,000m"
+      averageSlope: "16deg"
+    - name: "パノラマ第2ゲレンデ"
+      difficulty: mixed
+      length: "1,000m"
+      averageSlope: "12deg"
+    - name: "当間第4ゲレンデ中コース"
+      difficulty: mixed
+      length: "980m"
+      averageSlope: "12deg"
+    - name: "大別当チャンピオンコース"
+      difficulty: advanced
+      length: "700m"
+      maxSlope: "38deg"
+      averageSlope: "20deg"
 access:
   fromTokyo:
   - label: 東京出發

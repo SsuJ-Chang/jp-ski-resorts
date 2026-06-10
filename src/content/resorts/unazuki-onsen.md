@@ -76,14 +76,18 @@ snowWeather:
       weather: "雨"
       low: "8°C"
       high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 courses:
-  total: 3
-  beginnerRatio: 50
-  intermediateRatio: 30
+  total: 1
+  beginnerRatio: 20
+  intermediateRatio: 60
   advancedRatio: 20
   courseInfoPage: "https://weathernews.jp/ski/spot/35511/"
   summary: "宇奈月溫泉共有 3 條雪道，最大斜度 35°，初級 50%、中級 30%、上級 20%。最低斜度約 10°，實際開放狀況請以官方公告為準。"
+  details:
+    - name: "宇奈月温泉ゲレンデ"
+      difficulty: mixed
+      note: "單一雪道包含初級至上級坡段，並有壓雪、非壓雪與雪包變化；實際狀況請以當日公告為準。"
 lifts:
   total: 3
 access:

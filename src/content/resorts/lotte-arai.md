@@ -82,7 +82,7 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
   latitude: 36.9854
   longitude: 138.2278
@@ -97,7 +97,81 @@ courses:
   advancedRatio: 25
   courseInfoPage: https://weathernews.jp/ski/spot/35494/
   summary: 樂天新井一帶的滑雪區域依公開資料共有 14 條雪道，並以大型度假村、長雪季與粉雪取向行程聞名；詳細官方雪道資料待補。
-  details: []
+  details:
+    - name: "妙高ロングラン"
+      difficulty: beginner
+      length: "2,300m"
+      averageSlope: "8deg"
+    - name: "タテガミ"
+      difficulty: beginner
+      length: "500m"
+      averageSlope: "12deg"
+    - name: "六本木ロード"
+      difficulty: beginner
+      length: "1,100m"
+      averageSlope: "7deg"
+    - name: "ヴィレッジロード"
+      difficulty: beginner
+      length: "2,100m"
+      averageSlope: "5deg"
+    - name: "ポニー"
+      difficulty: beginner
+      length: "400m"
+      averageSlope: "4deg"
+    - name: "ビーフリー"
+      difficulty: intermediate
+      length: "1,300m"
+      averageSlope: "18deg"
+    - name: "アンコール"
+      difficulty: intermediate
+      length: "1,400m"
+      averageSlope: "15deg"
+    - name: "ベアバレー"
+      difficulty: intermediate
+      length: "1,100m"
+      averageSlope: "13deg"
+    - name: "ウマノセ"
+      difficulty: intermediate
+      length: "1,460m"
+      averageSlope: "12deg"
+    - name: "サンライズ"
+      difficulty: intermediate
+      length: "880m"
+      averageSlope: "12deg"
+    - name: "ハッピープレイス"
+      difficulty: intermediate
+    - name: "ベンザク"
+      difficulty: ungroomed
+    - name: "船石"
+      difficulty: ungroomed
+    - name: "膳棚ボウル"
+      difficulty: ungroomed
+    - name: "大斜面"
+      difficulty: ungroomed
+    - name: "東斜面"
+      difficulty: ungroomed
+    - name: "マムシ"
+      difficulty: ungroomed
+    - name: "KG"
+      difficulty: ungroomed
+    - name: "レジェンダリー"
+      difficulty: advanced
+      length: "1,360m"
+      averageSlope: "23deg"
+    - name: "エキサイター"
+      difficulty: advanced
+      length: "1,310m"
+      averageSlope: "21deg"
+    - name: "マムシガエシ"
+      difficulty: advanced
+      length: "720m"
+      averageSlope: "28deg"
+    - name: "ディスカバリー"
+      difficulty: advanced
+      length: "650m"
+      averageSlope: "22deg"
+    - name: "オオソト"
+      difficulty: ungroomed
 lifts:
   total: 8
 access:

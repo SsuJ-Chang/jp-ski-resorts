@@ -63,7 +63,7 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
   total: 9
   courseInfoPage: https://www.ozetokura.co.jp/pages/cource

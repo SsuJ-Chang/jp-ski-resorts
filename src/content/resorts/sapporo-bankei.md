@@ -82,7 +82,7 @@ snowWeather:
     weather: "雨"
     low: "8°C"
     high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 elevation:
   top: 482
   bottom: 200
@@ -94,6 +94,41 @@ courses:
   advancedRatio: 30
   courseInfoPage: "https://weathernews.jp/ski/spot/31405/"
   summary: "札幌盤溪在北海道人氣雪場清單列為第 16 名。共有 17 條雪道、4 座纜車，難度比例為初級 30%、中級 40%、上級 30%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  details:
+    - name: "センターAコース"
+      difficulty: beginner
+    - name: "センターBコース"
+      difficulty: beginner
+    - name: "センターCコース"
+      difficulty: beginner
+    - name: "くるみコース"
+      difficulty: beginner
+    - name: "どんぐりコース"
+      difficulty: beginner
+    - name: "きのこコース"
+      difficulty: beginner
+    - name: "グリーンAコース"
+      difficulty: beginner
+    - name: "グリーンBコース"
+      difficulty: beginner
+    - name: "オレンジ連絡コース"
+      difficulty: beginner
+    - name: "ウエスト林間コース"
+      difficulty: beginner
+    - name: "オレンジコース"
+      difficulty: intermediate
+    - name: "イーストAコース"
+      difficulty: intermediate
+    - name: "イーストBコース"
+      difficulty: intermediate
+    - name: "ウエストAコース"
+      difficulty: intermediate
+    - name: "スラロームバーン"
+      difficulty: advanced
+    - name: "モーグルバーン"
+      difficulty: advanced
+    - name: "ハーフパイプ"
+      difficulty: advanced
 lifts:
   total: 4
 access:

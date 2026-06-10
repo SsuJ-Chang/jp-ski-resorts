@@ -82,7 +82,7 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
   latitude: 36.90408
   longitude: 138.85348
@@ -95,7 +95,13 @@ mapDisplay:
 courses:
   courseInfoPage: https://www.nakazato-snowwood.com/
   summary: 中里Snow Wood 是湯澤中里周邊的小型雪場，適合雪上體驗與短時間滑行。
-  details: []
+  details:
+    - name: "Snow Wood 緩斜面（名稱待確認）"
+      difficulty: beginner
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "Snow Wood 中級斜面（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
 access:
   fromTokyo:
   - label: 東京出發

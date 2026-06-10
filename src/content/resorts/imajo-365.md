@@ -73,7 +73,7 @@ snowWeather:
       weather: "雨"
       low: "8°C"
       high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 courses:
   total: 8
   beginnerRatio: 30
@@ -81,6 +81,31 @@ courses:
   advancedRatio: 30
   courseInfoPage: "https://weathernews.jp/ski/spot/35704/"
   summary: "今庄 365 共有 8 條雪道，最大斜度 33°，初級 30%、中級 40%、上級 30%。最低斜度約 5°，實際開放狀況請以官方公告為準。"
+  details:
+    - name: "初級コース（名稱待確認）"
+      difficulty: beginner
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "山麓練習バーン（名稱待確認）"
+      difficulty: beginner
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "中級コースA（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "中級コースB（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "中級コースC（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "スノーボードパーク（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "上級コースA（名稱待確認）"
+      difficulty: advanced
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "上級コースB（名稱待確認）"
+      difficulty: advanced
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
 lifts:
   total: 3
 access:

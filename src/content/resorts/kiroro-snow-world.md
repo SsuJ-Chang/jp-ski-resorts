@@ -84,7 +84,7 @@ snowWeather:
     weather: "雨"
     low: "8°C"
     high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 elevation:
   top: 1180
   bottom: 520
@@ -96,6 +96,51 @@ courses:
   advancedRatio: 26
   courseInfoPage: "https://weathernews.jp/ski/spot/31609/"
   summary: "Kiroro Snow World 在北海道人氣雪場清單列為第 3 名。共有 23 條雪道、9 座纜車，難度比例為初級 37%、中級 37%、上級 26%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  details:
+    - name: "Family Course"
+      difficulty: beginner
+    - name: "Center Link"
+      difficulty: beginner
+    - name: "Center Course A"
+      difficulty: beginner
+    - name: "Center Course B"
+      difficulty: intermediate
+    - name: "Center Course C"
+      difficulty: intermediate
+    - name: "Nagamine Course 1"
+      difficulty: beginner
+    - name: "Nagamine Course 2-A"
+      difficulty: intermediate
+    - name: "Nagamine Course 2-B"
+      difficulty: intermediate
+    - name: "Nagamine Course 2-C"
+      difficulty: intermediate
+    - name: "Yoichi Course 1-A"
+      difficulty: beginner
+    - name: "Yoichi Course 1-B"
+      difficulty: intermediate
+    - name: "Yoichi Course 2-A"
+      difficulty: intermediate
+    - name: "Yoichi Course 2-B"
+      difficulty: intermediate
+    - name: "Asari Panorama Course"
+      difficulty: intermediate
+    - name: "Asari Course 1-A"
+      difficulty: intermediate
+    - name: "Asari Course 1-B"
+      difficulty: intermediate
+    - name: "Asari Course 2-A"
+      difficulty: intermediate
+    - name: "Asari Course 2-B"
+      difficulty: advanced
+    - name: "Asari Course 2-C"
+      difficulty: advanced
+    - name: "Asari Dynamic Course"
+      difficulty: advanced
+    - name: "Asari Expert A Course"
+      difficulty: advanced
+    - name: "Asari Expert B Course"
+      difficulty: advanced
 lifts:
   total: 9
 access:

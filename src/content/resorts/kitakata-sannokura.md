@@ -62,7 +62,7 @@ snowWeather:
       weather: "雨"
       low: "8°C"
       high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 location:
   latitude: 37.750168
   longitude: 139.867288
@@ -77,6 +77,16 @@ courses:
   advancedRatio: 10
   courseInfoPage: "https://weathernews.jp/ski/spot/33629/"
   summary: "喜多方市三之倉可俯瞰會津盆地，票價相對平實，適合家庭安排。共有 3 條雪道，初級 30%、中級 60%、上級 10%。"
+  details:
+    - name: "初級コース（名稱待確認）"
+      difficulty: beginner
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "中級コース（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "上級コース（名稱待確認）"
+      difficulty: advanced
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
 lifts:
   total: 2
 terrainSummary:

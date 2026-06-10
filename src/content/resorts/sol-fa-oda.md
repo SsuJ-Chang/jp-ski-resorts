@@ -45,7 +45,33 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+courses:
+  total: 5
+  beginnerRatio: 30
+  intermediateRatio: 50
+  advancedRatio: 20
+  courseInfoPage: "https://weathernews.jp/ski/spot/37304/"
+  summary: "SOL-FA Oda 共有 5 條雪道與 1 個地形區，初級 30%、中級 50%、上級 20%。全區設有人工降雪設備，實際開放與地形道具配置請以當季公告為準。"
+  details:
+    - name: "初級ゲレンデ（名稱待確認）"
+      difficulty: beginner
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "ファミリーゲレンデ（名稱待確認）"
+      difficulty: beginner
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "中級者ゲレンデ"
+      difficulty: intermediate
+      note: "四國地區較大規模的中級坡面；個別長度待確認。"
+    - name: "林間コース（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "上級ゲレンデ（名稱待確認）"
+      difficulty: advanced
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "スノーパーク"
+      difficulty: mixed
+      note: "設有跳台、box、rail 等項目；配置會依季節與積雪調整。"
 sources:
 - label: SOL-FA Official Website
   url: https://sol-fa.com/

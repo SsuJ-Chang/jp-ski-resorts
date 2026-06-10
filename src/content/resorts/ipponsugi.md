@@ -82,7 +82,7 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
   latitude: 36.94
   longitude: 138.806
@@ -95,7 +95,12 @@ mapDisplay:
 courses:
   courseInfoPage: https://www.ipponsugi.net/
   summary: 一本杉是越後湯澤站附近的小型雪場，適合雪上遊戲、初學與短時間體驗。
-  details: []
+  details:
+    - name: "一本杉ゲレンデ"
+      difficulty: beginner
+      length: "60m"
+      maxSlope: "12deg"
+      note: "緩斜面中心的小型練習坡，適合初次滑行與雪上遊戲。"
 access:
   fromTokyo:
   - label: 東京出發

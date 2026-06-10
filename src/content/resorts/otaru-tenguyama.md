@@ -82,7 +82,7 @@ snowWeather:
     weather: "雨"
     low: "8°C"
     high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 elevation:
   top: 532
   bottom: 211
@@ -94,6 +94,32 @@ courses:
   advancedRatio: 50
   courseInfoPage: "https://weathernews.jp/ski/spot/31503/"
   summary: "小樽天狗山在北海道人氣雪場清單列為第 19 名。共有 5 條雪道、1 座纜車，難度比例為初級 10%、中級 40%、上級 50%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  details:
+    - name: "A ファミリーコース"
+      difficulty: beginner
+      length: "400m"
+      maxSlope: "16deg"
+      averageSlope: "11deg"
+    - name: "B ロングラインコース"
+      difficulty: intermediate
+      length: "1,247m"
+      maxSlope: "23deg"
+      averageSlope: "13deg"
+    - name: "C バンビコース"
+      difficulty: intermediate
+      length: "270m"
+      maxSlope: "22deg"
+      averageSlope: "19deg"
+    - name: "D 旧コース"
+      difficulty: advanced
+      length: "947m"
+      maxSlope: "38deg"
+      averageSlope: "17deg"
+    - name: "E 新コース"
+      difficulty: advanced
+      length: "963m"
+      maxSlope: "40deg"
+      averageSlope: "19deg"
 lifts:
   total: 1
 access:

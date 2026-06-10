@@ -64,7 +64,7 @@ snowWeather:
       weather: "雨"
       low: "8°C"
       high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 location:
   latitude: 40.579533
   longitude: 140.99318
@@ -79,6 +79,13 @@ courses:
   advancedRatio: 5
   courseInfoPage: "https://weathernews.jp/ski/spot/33110/"
   summary: "奧入瀨溪流溫泉可搭配溫泉住宿，雙板與雪板都可使用。共有 2 條雪道，初級 70%、中級 25%、上級 5%。"
+  details:
+    - name: "ファミリーゲレンデ"
+      difficulty: beginner
+      note: "緩斜面中心，適合初學者與家庭練習。"
+    - name: "湯の平コース"
+      difficulty: intermediate
+      note: "坡度變化較多的雪道，實際開放請以當日公告為準。"
 lifts:
   total: 2
 terrainSummary:

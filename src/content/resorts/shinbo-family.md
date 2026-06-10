@@ -75,7 +75,7 @@ snowWeather:
       weather: "雨"
       low: "8°C"
       high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 courses:
   total: 1
   beginnerRatio: 50
@@ -83,6 +83,12 @@ courses:
   advancedRatio: 0
   courseInfoPage: "http://www.ski.ikeda-kibou.com/img/img_ski_maps.jpg"
   summary: "新保 Family 共有 1 條雪道，最大斜度 20°，初級 50%、中級 50%、上級 0%。最低斜度約 10°，實際開放狀況請以官方公告為準。"
+  details:
+    - name: "新保ファミリーゲレンデ"
+      difficulty: beginner
+      maxSlope: "20deg"
+      averageSlope: "8deg"
+      note: "平均斜度約 8 度的緩斜面，適合初學者與兒童練習。"
 lifts:
   total: 1
 access:

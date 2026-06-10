@@ -85,7 +85,7 @@ snowWeather:
     weather: 雨
     low: "8°C"
     high: "3°C"
-  note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時狀態與 Weathernews 為準。
+  note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
   total: 3
   courseInfoPage: https://www.city.nanao.lg.jp/syougai/shisetsu/korosa.html

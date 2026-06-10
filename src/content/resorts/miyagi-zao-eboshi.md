@@ -62,7 +62,7 @@ snowWeather:
       weather: "雨"
       low: "8°C"
       high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 location:
   latitude: 38.127024
   longitude: 140.5288
@@ -77,6 +77,38 @@ courses:
   advancedRatio: 20
   courseInfoPage: "https://weathernews.jp/ski/spot/33404/"
   summary: "宮城藏王 Eboshi Resort 的全長 4.3km dynamic course 可長距離巡航，天氣好時可眺望太平洋與仙台平野。共有 9 條雪道，初級 50%、中級 30%、上級 20%。"
+  details:
+    - name: "ファミリーゲレンデ"
+      difficulty: beginner
+      length: "1,300m"
+    - name: "ダイナミックコース"
+      difficulty: mixed
+      length: "4,300m"
+    - name: "石子ゲレンデ"
+      difficulty: mixed
+      length: "500m"
+    - name: "マイペースコース"
+      difficulty: mixed
+      length: "800m"
+    - name: "パノラマコース"
+      difficulty: mixed
+      length: "800m"
+    - name: "ジャンボコース"
+      difficulty: mixed
+      length: "1,500m"
+    - name: "高原ゲレンデ"
+      difficulty: mixed
+      length: "1,000m"
+    - name: "かもしかコース"
+      difficulty: mixed
+      length: "800m"
+    - name: "チャレンジコース"
+      difficulty: advanced
+      length: "700m"
+      maxSlope: "35deg"
+    - name: "ネイチャーパーク"
+      difficulty: ungroomed
+      length: "650m"
 lifts:
   total: 6
 terrainSummary:

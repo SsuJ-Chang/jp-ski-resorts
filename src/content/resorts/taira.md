@@ -73,14 +73,30 @@ snowWeather:
       weather: "雨"
       low: "8°C"
       high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 courses:
-  total: 4
+  total: 5
   beginnerRatio: 20
-  intermediateRatio: 30
-  advancedRatio: 50
+  intermediateRatio: 40
+  advancedRatio: 40
   courseInfoPage: "https://weathernews.jp/ski/spot/35504/"
   summary: "Taira 共有 4 條雪道，最大斜度 35°，初級 20%、中級 30%、上級 50%。最低斜度約 10°，實際開放狀況請以官方公告為準。"
+  details:
+    - name: "初級コース（名稱待確認）"
+      difficulty: beginner
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "中級コースA（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "中級コースB（名稱待確認）"
+      difficulty: intermediate
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "上級コースA（名稱待確認）"
+      difficulty: advanced
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+    - name: "上級コースB（名稱待確認）"
+      difficulty: advanced
+      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
 lifts:
   total: 4
 access:

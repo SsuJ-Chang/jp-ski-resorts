@@ -85,17 +85,30 @@ snowWeather:
     weather: 雨
     low: 8°C
     high: 3°C
-  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 elevation:
   top: 1300
   bottom: 1150
   verticalDrop: 150
 courses:
   total: 6
-  beginnerRatio: 20
+  beginnerRatio: 50
   intermediateRatio: 30
-  advancedRatio: 50
+  advancedRatio: 20
   summary: 九重森林公園位於大分縣九重町，公開資料列為 6 條雪道、3 座纜車，並設有夜滑時段；詳細雪道名稱與開放狀態仍需以官方公告確認。
+  details:
+    - name: "ファミリーゲレンデ"
+      difficulty: beginner
+    - name: "レッスンゲレンデ"
+      difficulty: beginner
+    - name: "林間コース"
+      difficulty: mixed
+    - name: "トライアルゲレンデ"
+      difficulty: intermediate
+    - name: "パノラマゲレンデ"
+      difficulty: intermediate
+    - name: "チャレンジゲレンデ"
+      difficulty: advanced
 lifts:
   total: 3
 access:
