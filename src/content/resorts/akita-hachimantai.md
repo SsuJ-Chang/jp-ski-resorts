@@ -77,8 +77,21 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20
-  courseInfoPage: "https://weathernews.jp/ski/spot/33211/"
+  courseInfoPage: "https://www.akihachi.jp/"
   summary: "秋田八幡平是東北較早可滑的雪場之一，雪質佳，周邊也有溫泉可搭配。共有 2 條雪道，初級 40%、中級 40%、上級 20%。"
+  details:
+    - name: "ぶな森雪道 / ぶな森ゲレンデ"
+      difficulty: "mixed"
+      length: "1,100m"
+      maxSlope: "24.4°"
+      averageSlope: "10.2°"
+      note: "初級至中級取向，雪道寬且可放鬆滑行；靠纜車側較緩，中央森林側坡度較明顯。"
+    - name: "トド松雪道 / トド松ゲレンデ"
+      difficulty: "mixed"
+      length: "1,300m"
+      maxSlope: "27.0°"
+      averageSlope: "13.4°"
+      note: "中級至上級取向，也會作為各類賽事坡面；可眺望八幡平大沼，賽事期間可能不開放一般滑行。"
 lifts:
   total: 1
 terrainSummary:
@@ -97,5 +110,9 @@ sources:
     url: "https://weathernews.jp/ski/spot/33211/"
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
+  - label: "秋田八幡平スキー場 Course Guide"
+    url: "https://www.akihachi.jp/"
+  - label: "秋田八幡平スキー場 Course Guide Image"
+    url: "https://www.akihachi.jp/img_01/main_02.png"
 ---
 秋田八幡平位於秋田縣鹿角市八幡平字熊澤外國有林，東北人氣雪場清單列為第 17 名；共有 2 條雪道與 1 座纜車，雪板可全區滑行。

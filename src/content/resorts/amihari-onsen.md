@@ -76,8 +76,37 @@ courses:
   beginnerRatio: 15
   intermediateRatio: 50
   advancedRatio: 35
-  courseInfoPage: "https://weathernews.jp/ski/spot/33305/"
+  courseInfoPage: "https://qkamura.or.jp/cms/blog/05260003/20170916200919.pdf"
   summary: "網張溫泉小學生以下可免費搭乘纜車，雪道配置有樹冰中的雙子林間 Course、白樺 Slope 與雙子滑走 Course 等變化。共有 7 條雪道，初級 15%、中級 50%、上級 35%。"
+  details:
+    - name: "雙子林間 Course / 双子林間コース"
+      difficulty: "beginner"
+      length: "1,000m"
+      maxSlope: "10°"
+    - name: "落葉松坡 / カラマツスロープ"
+      difficulty: "beginner"
+      length: "600m"
+      maxSlope: "20°"
+    - name: "水楢坡 / ミズナラスロープ"
+      difficulty: "intermediate"
+      length: "1,000m"
+      maxSlope: "30°"
+    - name: "雙子滑降 Course / 双子滑降コース"
+      difficulty: "intermediate"
+      length: "850m"
+      maxSlope: "25°"
+    - name: "椴松坡 / トドマツスロープ"
+      difficulty: "intermediate"
+      length: "700m"
+      maxSlope: "22°"
+    - name: "白樺坡 / 白樺スロープ"
+      difficulty: "intermediate"
+      length: "1,800m"
+      maxSlope: "28°"
+    - name: "Slalom 坡面 / スラロームバーン"
+      difficulty: "advanced"
+      length: "1,000m"
+      maxSlope: "37°"
 lifts:
   total: 4
 terrainSummary:
@@ -95,5 +124,9 @@ sources:
     url: "https://weathernews.jp/ski/spot/33305/"
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
+  - label: "休暇村 網張温泉スキー場 Course Map PDF"
+    url: "https://qkamura.or.jp/cms/blog/05260003/20170916200919.pdf"
+  - label: "楽天トラベル 網張温泉スキー場 コース情報"
+    url: "https://travel.rakuten.co.jp/ski/49/course.html"
 ---
 網張溫泉位於岩手縣岩手郡雫石町網張溫泉，東北人氣雪場清單列為第 20 名；共有 7 條雪道與 4 座纜車，雪板可全區滑行。
