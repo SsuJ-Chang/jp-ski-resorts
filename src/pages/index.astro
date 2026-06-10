@@ -96,9 +96,10 @@ const regionStats = regions.map((region) => {
               <small class="region-strip__meta">
                 <span class="region-strip__count">{region.count} 座</span>
                 {region.examples.length > 0 && (
-                  <span class="region-strip__examples">
-                    / {region.examples.join('、')}
-                  </span>
+                  <>
+                    <span class="region-strip__separator" aria-hidden="true">/</span>
+                    <span class="region-strip__examples">{region.examples.join('、')}</span>
+                  </>
                 )}
               </small>
             </a>
