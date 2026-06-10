@@ -20,7 +20,7 @@ links:
   trailMapPage: https://akakura-ski.com/
   ticket: https://akakura-ski.com/
   access: https://akakura-ski.com/
-  weather: https://weathernews.jp/ski/spot/35412/
+  weather: https://weathernews.jp/ski/spot/35493/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Akakura%20Onsen%20Ski%20Area
 contact:
   address:
@@ -62,7 +62,7 @@ tickets:
 snowWeather:
   title: 赤倉溫泉雪況天氣
   provider: Weathernews
-  url: https://weathernews.jp/ski/spot/35412/
+  url: https://weathernews.jp/ski/spot/35493/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:
@@ -192,6 +192,6 @@ sources:
 - label: Akakura Onsen Official Website
   url: https://akakura-ski.com/
 - label: Akakura Onsen Weathernews
-  url: https://weathernews.jp/ski/spot/35412/
+  url: https://weathernews.jp/ski/spot/35493/
 ---
 赤倉溫泉位於新潟縣妙高市赤倉溫泉區，官方雪道配置以初級比例高、溫泉住宿與夜滑為主要特色，可搭配赤倉觀光、池之平與杉之原安排妙高高原多日行程。

@@ -11,6 +11,7 @@ tags:
 - powder
 - no_car_accessible
 links:
+  weather: https://weathernews.jp/ski/spot/34804/
   official: https://yokoteyama2307.com/
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
@@ -44,8 +45,8 @@ tickets:
     price: 成人 ¥8,700、中高生 ¥6,900、長者 ¥7,100、兒童 ¥4,300
 snowWeather:
   title: 澀峠雪況天氣
-  provider: Official
-  url: https://www.shigakogen.gr.jp/english/lift_information/
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/34804/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:
@@ -109,5 +110,7 @@ sources:
   url: https://shigakogen-ski.or.jp/winter/ticket/
 - label: Yokoteyama Shibutoge Official
   url: https://yokoteyama2307.com/
+- label: Weathernews 横手山・渋峠スキー場
+  url: https://weathernews.jp/ski/spot/34804/
 ---
 澀峠是志賀高原最東南側的小型高海拔區域，雪道數少，常與橫手山一起安排。官方列出的雪道以初級與中級為主，實際滑行前應先確認纜車是否開放。

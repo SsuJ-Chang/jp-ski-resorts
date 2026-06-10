@@ -13,6 +13,7 @@ tags:
 - snowboard_friendly
 - no_car_accessible
 links:
+  weather: https://weathernews.jp/ski/spot/34803/
   official: https://www.princehotels.co.jp/ski/shiga/winter/
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
@@ -46,8 +47,8 @@ tickets:
     price: 成人 ¥8,700、中高生 ¥6,900、長者 ¥7,100、兒童 ¥4,300
 snowWeather:
   title: 志賀高原 燒額山雪況天氣
-  provider: Official
-  url: https://www.shigakogen.gr.jp/english/lift_information/
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/34803/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:
@@ -141,5 +142,7 @@ sources:
   url: https://shigakogen-ski.or.jp/winter/ticket/
 - label: Shiga Kogen Prince Hotel Official
   url: https://www.princehotels.co.jp/ski/shiga/winter/
+- label: Weathernews 志賀高原焼額山
+  url: https://weathernews.jp/ski/spot/34803/
 ---
 燒額山位於志賀高原東側，是雪道數與纜車配置都較完整的區域。住宿、纜車與雪道動線靠近王子飯店一帶，適合把它當成志賀高原東側行程的主要據點。
