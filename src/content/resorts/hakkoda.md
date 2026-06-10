@@ -11,7 +11,7 @@ tags:
   - "snowboard_friendly"
 visibility:
   status: "published"
-  note: "Weathernews 東北人氣排名頁列入的雪場；初版以 Weathernews 2025-2026 雪季頁面與官方首頁整理。"
+  note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "http://www.hakkoda-ropeway.jp"
   weather: "https://weathernews.jp/ski/spot/33105/"
@@ -25,7 +25,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/05/03"
-  note: "營業期間為 Weathernews 2025-2026 雪季頁面資訊；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
+  note: "營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
   source: "https://weathernews.jp/ski/spot/33105/"
 snowWeather:
   title: "八甲田雪況天氣"
@@ -76,15 +76,15 @@ courses:
   intermediateRatio: 60
   advancedRatio: 20
   courseInfoPage: "https://weathernews.jp/ski/spot/33105/"
-  summary: "Weathernews 介紹八甲田可在較長雪季中享受粉雪，雪場資料列出 5 條雪道。 Weathernews 標示共有 5 條雪道，初級 20%、中級 60%、上級 20%。"
+  summary: "八甲田可在較長雪季中享受粉雪，雪場資料列出 5 條雪道。共有 5 條雪道，初級 20%、中級 60%、上級 20%。"
 lifts:
   total: 3
 terrainSummary:
-  beginner: "Weathernews 顯示八甲田初級雪道占 20%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
-  intermediate: "Weathernews 顯示中級雪道占 60%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
-  advanced: "Weathernews 顯示上級雪道占 20%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
-  snowboard: "Weathernews 標示雪板可全區滑行。"
-  powder: "Weathernews 介紹八甲田可在較長雪季中享受粉雪，雪場資料列出 5 條雪道。 粉雪與積雪狀況會隨天候變動，請以官方公告與 Weathernews 即時資訊為準。"
+  beginner: "八甲田初級雪道占 20%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
+  intermediate: "中級雪道占 60%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
+  advanced: "上級雪道占 20%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
+  snowboard: "雪板可全區滑行。"
+  powder: "八甲田可在較長雪季中享受粉雪，雪場資料列出 5 條雪道。粉雪與積雪狀況會隨天候變動，請以官方公告與當日資訊為準。"
 externalContent:
   blogs: []
   vlogs: []
@@ -96,4 +96,4 @@ sources:
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
-八甲田位於青森縣青森市大字荒川字寒水澤，Weathernews 東北人氣排名頁列為第 2 名；Weathernews 標示共有 5 條雪道與 3 座纜車，雪板可全區滑行。
+八甲田位於青森縣青森市大字荒川字寒水澤，東北人氣雪場清單列為第 2 名；共有 5 條雪道與 3 座纜車，雪板可全區滑行。

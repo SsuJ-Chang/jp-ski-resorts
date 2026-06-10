@@ -28,13 +28,13 @@ season:
   operatingPeriod: 2025/12/20-2026/3/29
   hours: 平日 8:30-16:30、假日 8:30-16:30
   nightSkiingHours: 有夜滑，日期與區域請以官方公告為準
-  note: Weathernews 標示有夜滑；實際日期、區域與活動請以官方公告為準。
+  note: 有夜滑；實際日期、區域與活動請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34832/
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34832/
-  note: 主要票種依 Weathernews 2025-2026 雪場資料整理；完整票價、夜滑與活動票種請以官方為準。
+  note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、夜滑與活動票種請以官方為準。
   plans:
   - name: 1 日券
     audience: 成人、兒童、長者
@@ -182,8 +182,8 @@ lifts:
 terrainSummary:
   beginner: 初級約 40%，可從山麓與主要區域安排練習。
   intermediate: 中級約 40%，適合有基礎後銜接不同區域。
-  advanced: 上級約 20%，Weathernews 提到地形、park 與 mogul 等玩法。
-  powder: Weathernews 介紹戶狩溫泉可期待粉雪與地形變化，實際仍需看當日開放。
+  advanced: 上級約 20%，公開資料提到地形、park 與 mogul 等玩法。
+  powder: 戶狩溫泉可期待粉雪與地形變化，實際仍需看當日開放。
 sources:
 - label: TOGARI SKI RESORT Official Website
   url: https://togari.jp
@@ -192,4 +192,4 @@ sources:
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
 ---
-戶狩溫泉位於長野縣飯山市，Weathernews 介紹它兼具粉雪、地形、溫泉與餐飲活動，並可由飯山站或戶狩野澤溫泉站轉乘前往。
+戶狩溫泉位於長野縣飯山市，它兼具粉雪、地形、溫泉與餐飲活動，並可由飯山站或戶狩野澤溫泉站轉乘前往。

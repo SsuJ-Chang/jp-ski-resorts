@@ -22,15 +22,15 @@ contact:
   phone: 025-795-2750
 season:
   label: 2025-2026
-  operatingPeriod: 初滑り季與春季的二段營業；Weathernews 目前列出春季 2026/3/20-2026/5/6
+  operatingPeriod: 初滑り季與春季的二段營業；公開資料目前列出春季 2026/3/20-2026/5/6
   hours: 初滑り季平假日 8:30-16:00；春季平日 8:30-16:30、假日 8:00-16:30
-  note: Weathernews 說明此雪場有初滑り季與春季兩段營業，1 月上旬至 3 月中旬會暫停營業；實際日期請以官方公告為準。
+  note: 公開資料說明此雪場有初滑り季與春季兩段營業，1 月上旬至 3 月中旬會暫停營業；實際日期請以官方公告為準。
   source: https://weathernews.jp/ski/spot/35431/
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/35431/
-  note: 主要票種依 Weathernews 2025-2026 雪場資料整理；完整票價、套票與長者證明規則請以官方為準。
+  note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、套票與長者證明規則請以官方為準。
   plans:
   - name: 1 日券
     audience: 成人、兒童、長者
@@ -122,8 +122,8 @@ lifts:
 terrainSummary:
   beginner: 初級比例約 40%，可作為春季練習與暖身路線參考。
   intermediate: 中級與上級比例接近，適合有基礎後再安排行程。
-  advanced: Weathernews 介紹初滑り季可期待粉雪，春季可滑饅頭與林間路線。
-  powder: 天然雪 100% 與豐富積雪是 Weathernews 介紹的主要特色。
+  advanced: 初滑り季可期待粉雪，春季可滑饅頭與林間路線。
+  powder: 天然雪 100% 與豐富積雪是 的主要特色。
 sources:
 - label: Okutadami Maruyama Ski Resort Official Website
   url: http://okutadami.co.jp/ski/
@@ -132,4 +132,4 @@ sources:
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
 ---
-奧只見丸山位於新潟縣魚沼市，Weathernews 介紹它採初滑り季與春季兩段營業，是日本少見會在雪季中段暫停、再於春季重新營業的雪場。
+奧只見丸山位於新潟縣魚沼市，它採初滑り季與春季兩段營業，是日本少見會在雪季中段暫停、再於春季重新營業的雪場。

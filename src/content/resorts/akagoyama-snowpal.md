@@ -18,7 +18,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2026/01/23-2026/02/22
   hours: 平日：9:30〜16:00 休日：9:30〜16:00
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36008/
 trailMaps:
 - label: 赤子山 Snowpal 官方雪道資訊
@@ -65,11 +65,11 @@ snowWeather:
 courses:
   total: 1
   courseInfoPage: https://woodypal.jp/
-  summary: Weathernews 列為 1 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 共 1 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: スノーパルゲレンデ
     difficulty: beginner
-    note: Weathernews 列 1 條雪道，定位為小型入門與親子取向雪場。
+    note: 公開資料列 1 條雪道，定位為小型入門與親子取向雪場。
   beginnerRatio: 70
   intermediateRatio: 30
 terrainSummary:
@@ -96,6 +96,6 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：北陸本線木ノ本駅下車、バス (20分) 電車 ：北陸本線木ノ本駅下車、タクシー (15分) 車 ：北陸道木之本ICから車で (10分) 300台 平日 無料 休日 無料
+    note: 交通資訊摘要：北陸本線木ノ本駅下車、バス (20分) 電車 ：北陸本線木ノ本駅下車、タクシー (15分) 車 ：北陸道木之本ICから車で (10分) 300台 平日 無料 休日 無料
 ---
-赤子山 Snowpal（赤子山スキー場スノーパル）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+赤子山 Snowpal（赤子山スキー場スノーパル）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

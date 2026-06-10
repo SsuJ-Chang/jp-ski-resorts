@@ -23,13 +23,13 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/3/22
   hours: 平日 8:30-16:30、假日 8:30-16:30
-  note: Weathernews 註記雪板僅平日可滑，且 1/1-1/4、週末與國定假日除外；實際開放請以官方公告為準。
+  note: 資料註記雪板僅平日可滑，且 1/1-1/4、週末與國定假日除外；實際開放請以官方公告為準。
   source: https://weathernews.jp/ski/spot/35101/
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/35101/
-  note: 主要票種依 Weathernews 2025-2026 雪場資料整理；完整票價、折扣日與 belt conveyor 券請以官方為準。
+  note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、折扣日與 belt conveyor 券請以官方為準。
   plans:
   - name: 1 日券
     audience: 成人、兒童
@@ -40,7 +40,7 @@ tickets:
   - name: 平日 1 日券
     audience: 成人、兒童
     price: 成人 ¥2,500、兒童 ¥1,000
-    note: Weathernews 列為平日票種。
+    note: 資料列為平日票種。
 snowWeather:
   title: 茶臼山高原雪況天氣
   provider: Weathernews
@@ -90,7 +90,7 @@ courses:
   intermediateRatio: 60
   advancedRatio: 10
   courseInfoPage: http://www.chausuyama.jp/exercise/2014022119103644.html
-  summary: 官方頁列出ファミリーゲレンデ、A・B・C コース共 4 條滑雪雪道，另有 60m そりゲレンデ；Weathernews 的 3 條雪道統計可能未含不定期開放或兒童練習區。
+  summary: 官方頁列出ファミリーゲレンデ、A・B・C コース共 4 條滑雪雪道，另有 60m そりゲレンデ；公開資料的 3 條雪道統計可能未含不定期開放或兒童練習區。
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner
@@ -130,4 +130,4 @@ sources:
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
 ---
-茶臼山高原位於愛知縣北設樂郡豐根村，Weathernews 介紹它是愛知縣內唯一滑雪場，主打名古屋、豐橋、濱松周邊可安排的親子雪上行程。
+茶臼山高原位於愛知縣北設樂郡豐根村，它是愛知縣內唯一滑雪場，主打名古屋、豐橋、濱松周邊可安排的親子雪上行程。

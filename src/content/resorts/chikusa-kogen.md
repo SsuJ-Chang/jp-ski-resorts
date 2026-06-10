@@ -20,7 +20,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/14-2026/03/29
   hours: 平日：8:30〜17:00 休日：8:00〜17:00 ナイター：17:30〜21:00or17:30〜22:30
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36304/
 trailMaps:
 - label: 千種高原 官方雪道資訊
@@ -67,7 +67,7 @@ snowWeather:
 courses:
   total: 7
   courseInfoPage: https://www.chikusakogen.com/gelande/
-  summary: Weathernews 列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: メルヘンコース
     difficulty: beginner
@@ -97,7 +97,7 @@ terrainSummary:
   beginner: 初級雪道以 メルヘンコース、パノラマコース（第3リフト下部） 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 ダイナミックコース（第1リフト下部）、クィーンコース、クリスタルコース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 ダイナミックコース（上部）、パノラマコース（上部），請依當日開放狀態與雪況判斷。
-  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 sources:
 - label: Chikusa Kogen Ski Resort Official
   url: https://www.chikusakogen.com/
@@ -115,7 +115,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36304/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券
     price: 成人 ¥4,500 兒童 ¥3,500 樂齡 ¥4,000
@@ -142,6 +142,6 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：中国自動車道山崎ICから (60分) 車 ：中国自動車道佐用ICから (60分) 1000台 平日 無料 休日 1000円
+    note: 交通資訊摘要：中国自動車道山崎ICから (60分) 車 ：中国自動車道佐用ICから (60分) 1000台 平日 無料 休日 1000円
 ---
-千種高原（ちくさ高原スキー場）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+千種高原（ちくさ高原スキー場）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

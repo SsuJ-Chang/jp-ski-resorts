@@ -21,7 +21,7 @@ season:
   operatingPeriod: 2025/12/06-2026/03/08
   hours: は朝9時から夕方5時までです。 パイプ × ペットの同伴 × 近場の温泉 有馬温泉 名実ともに日本を代表する名泉の一つであり、秀吉が愛したことでも有名です。 住所 〒657-0101 兵庫県神戸市灘区六甲山町北六甲4512-98
     地図を見る お問い合わせ TEL：078-891-0366 ホームページ 営業期間 2025年12月06日 ~ 2026年03月08日 営業時間 平日：9:00〜17:00 休日：9:00〜20:00（土曜・日曜・祝日および12/25〜1/7は休日扱い。12/6、12/31、1/1は9:00~17:00営業。）
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36306/
 trailMaps:
 - label: 六甲山 Snow Park 官方雪道資訊
@@ -68,7 +68,7 @@ snowWeather:
 courses:
   total: 3
   courseInfoPage: https://www.rokkosan.com/ski/beginner/ski/
-  summary: Weathernews 列為 3 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 3 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: 第1ゲレンデ
     difficulty: beginner
@@ -85,7 +85,7 @@ courses:
   intermediateRatio: 30
 terrainSummary:
   beginner: 初級雪道以 第1ゲレンデ、第2ゲレンデ、スノーランド 為主，適合練習速度控制與穩定轉彎。
-  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 sources:
 - label: Rokkosan Snow Park Official
   url: https://www.rokkosan.com/ski/
@@ -103,7 +103,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36306/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 平日1日券
     price: 成人 ¥1,600 兒童 ¥1,600
@@ -126,7 +126,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：阪神御影駅、JR六甲道駅、阪急六甲駅からバス、六甲ケーブル経由 (60分) 車 ：阪神高速3号神戸線魚崎ICより 表六甲ドライブウェイ経由 (40分) 700台 平日 1500円 休日
+    note: 交通資訊摘要：阪神御影駅、JR六甲道駅、阪急六甲駅からバス、六甲ケーブル経由 (60分) 車 ：阪神高速3号神戸線魚崎ICより 表六甲ドライブウェイ経由 (40分) 700台 平日 1500円 休日
       1500円
 ---
-六甲山 Snow Park（六甲山スノーパーク）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+六甲山 Snow Park（六甲山スノーパーク）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

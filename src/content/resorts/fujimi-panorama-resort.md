@@ -1,4 +1,4 @@
-﻿---
+---
 id: fujimi-panorama-resort
 name:
   zhTw: 富士見 Panorama Resort
@@ -31,7 +31,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34836/
-  note: 主要票種依 Weathernews 2025-2026 雪場資料整理；未就學兒童、開幕期間優惠與完整票價請以官方為準。
+  note: 主要票種依 2025-2026 公開雪場資料整理；未就學兒童、開幕期間優惠與完整票價請以官方為準。
   plans:
   - name: 1 日券
     audience: 成人、兒童、長者
@@ -123,10 +123,10 @@ courses:
 lifts:
   total: 6
 terrainSummary:
-  beginner: 初級約 30%，Weathernews 介紹有 family slope 與兒童雪上設施。
+  beginner: 初級約 30%，有 family slope 與兒童雪上設施。
   intermediate: 中級約 40%，可搭配箱型纜車路線安排較長滑行。
   advanced: 上級約 30%，可在有限雪道數中安排進階練習。
-  snowboard: Weathernews 標示雪板可全區滑行。
+  snowboard: 雪板可全區滑行。
 sources:
 - label: Fujimi Panorama Resort Official Website
   url: https://www.fujimipanorama.com
@@ -135,4 +135,4 @@ sources:
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
 ---
-富士見 Panorama Resort 位於長野縣富士見町，Weathernews 介紹它距離中央自動車道諏訪南 IC 約 7 分，並有箱型纜車長距離路線與親子雪上設施。
+富士見 Panorama Resort 位於長野縣富士見町，它距離中央自動車道諏訪南 IC 約 7 分，並有箱型纜車長距離路線與親子雪上設施。

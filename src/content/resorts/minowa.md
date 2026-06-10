@@ -26,27 +26,27 @@ season:
   label: 2025-2026
   operatingPeriod: 待官方 2025-2026 營業資訊確認
   hours: 待官方 2025-2026 營業資訊確認
-  note: 初版可讀取的可信來源以 Weathernews 既有頁面為主；官方網站與當季營業資訊需後續人工再確認。
+  note: 初版可讀取的可信來源以公開資料既有頁面為主；官方網站與當季營業資訊需後續人工再確認。
   source: https://weathernews.jp/ski/spot/33604/
 trailMaps: []
 tickets:
   season: 待 2025-2026 官方票價確認
   currency: JPY
   source: https://weathernews.jp/ski/spot/33604/
-  note: 以下為 Weathernews 頁面保留的歷史票價參考，已標示待確認；正式票價請以 Minowa 官方當季公告為準。
+  note: 以下為公開資料頁面保留的歷史票價參考，已標示待確認；正式票價請以 Minowa 官方當季公告為準。
   plans:
   - name: 1 日券（待確認）
     audience: 成人、長者、兒童
     price: 成人 ¥5,000、長者 ¥4,500、兒童 ¥3,300
-    note: Weathernews 歷史資訊，需以當季官方票價確認
+    note: 公開資料歷史資訊，需以當季官方票價確認
   - name: 4 小時券（待確認）
     audience: 成人、長者、兒童
     price: 成人 ¥4,500、長者 ¥4,000、兒童 ¥2,800
-    note: Weathernews 歷史資訊，需以當季官方票價確認
+    note: 公開資料歷史資訊，需以當季官方票價確認
   - name: 夜滑券（待確認）
     audience: 成人、長者、兒童
     price: 成人 ¥2,500、長者 ¥2,500、兒童 ¥1,700
-    note: Weathernews 歷史資訊，需以當季官方票價確認
+    note: 公開資料歷史資訊，需以當季官方票價確認
 snowWeather:
   title: Minowa雪況天氣
   provider: Weathernews
@@ -96,7 +96,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://weathernews.jp/ski/spot/33604/
-  summary: Minowa 位於磐梯山與吾妻山系之間，Weathernews 既有資料列出 11 條雪道、山頂標高約 1,500m；詳細官方雪道名稱、票價與當季營業資訊待人工補齊。
+  summary: Minowa 位於磐梯山與吾妻山系之間，公開資料既有資料列出 11 條雪道、山頂標高約 1,500m；詳細官方雪道名稱、票價與當季營業資訊待人工補齊。
   details: []
 lifts:
   total: 3
@@ -117,9 +117,9 @@ access:
     snowTireRequired: true
     note: 山區道路冬季可能積雪或結冰，自駕需雪胎或雪鏈；路線與停車資訊待官方當季資訊確認。
 terrainSummary:
-  beginner: Weathernews 既有資料顯示有初級路線，但官方詳細雪道名稱待補。
-  intermediate: Weathernews 既有資料顯示中級比例較高，可作為巡航型雪場初版參考。
-  advanced: Weathernews 既有資料顯示有上級路線與較高坡度區域，實際開放請以官方公告為準。
+  beginner: 公開資料既有有初級路線，但官方詳細雪道名稱待補。
+  intermediate: 公開資料既有中級比例較高，可作為巡航型雪場初版參考。
+  advanced: 公開資料既有有上級路線與較高坡度區域，實際開放請以官方公告為準。
   snowboard: 雙板與雪板規則待官方當季資訊確認。
   powder: 高海拔區與山區位置在新雪後較有粉雪行程彈性，實際開放請以官方雪況為準。
 externalContent:
@@ -131,6 +131,6 @@ sources:
   note: 官方網站入口需後續人工確認可用狀態與當季資訊。
 - label: Minowa Ski Resort Weathernews
   url: https://weathernews.jp/ski/spot/33604/
-  note: 目前初版主要引用此 Weathernews 既有資料，部分票價與營業資訊需以官方當季公告更新。
+  note: 目前初版主要引用此公開資料既有資料，部分票價與營業資訊需以官方當季公告更新。
 ---
-Minowa 位於福島縣豬苗代町北側山區，是磐梯山區域中位置較高的雪場之一。初版先收錄 Weathernews 既有資料與官方入口；當季營業、票價、雪道名稱與交通接駁仍需後續人工確認。
+Minowa 位於福島縣豬苗代町北側山區，是磐梯山區域中位置較高的雪場之一。初版先收錄公開資料既有資料與官方入口；當季營業、票價、雪道名稱與交通接駁仍需後續人工確認。

@@ -30,7 +30,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/28-2026/3/22
   hours: 8:30-17:00
-  note: Weathernews 顯示 2025-2026 雪季資訊已更新結束；下雪季資訊預計 11 月後再更新。實際營業日與開放區域請以官方公告為準。
+  note: 2025-2026 雪季資訊已更新結束；下雪季資訊預計 11 月後再更新。實際營業日與開放區域請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36904/
 trailMaps:
 - label: 大山白色度假村雪道圖
@@ -42,7 +42,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.daisen-resort.jp/6/
-  note: 主要票種依官方與 Weathernews 公開資訊整理；IC key card 與各種優惠、期間限定票請以官方頁面為準。
+  note: 主要票種依官方與公開資料整理；IC key card 與各種優惠、期間限定票請以官方頁面為準。
   plans:
   - name: 1 日券
     audience: 成人、兒童
@@ -50,7 +50,7 @@ tickets:
   - name: 平日 1 日券
     audience: 成人、兒童
     price: 成人 ¥5,200、兒童 ¥4,000
-    note: Weathernews 列為成人平日 1 日券；兒童票價依一般 1 日券整理
+    note: 資料列為成人平日 1 日券；兒童票價依一般 1 日券整理
   - name: 2 日券
     audience: 成人、兒童
     price: 成人 ¥10,000、兒童 ¥7,400
@@ -176,7 +176,7 @@ access:
     - 從米子站轉乘往大山方向的巴士或計程車前往大山寺、雪場周邊。
     estimatedTime: 約 4-5 小時，依交通方式而定
     difficulty: medium
-    note: Weathernews 公開資訊列出山陰本線米子站轉巴士約 50 分鐘；冬季班次請以官方 access 與巴士時刻表為準。
+    note: 公開資料列出山陰本線米子站轉巴士約 50 分鐘；冬季班次請以官方 access 與巴士時刻表為準。
     links:
     - label: Daisen White Resort Access
       url: https://www.daisen-resort.jp/10/
@@ -196,7 +196,7 @@ terrainSummary:
   beginner: 豪圓山與 U1、Technicdas 提供緩坡、寬幅與長距離練習空間。
   intermediate: 中之原、國際與 Paradise 中段可作為主要巡航與進階練習區。
   advanced: U2、Riesen、Champion 提供未壓雪、雪丘與較長距離下坡路線。
-  snowboard: Weathernews 與官方雪道表顯示全區可使用雪板；實際開放與裝備規則請以官方公告為準。
+  snowboard: 公開資料與官方雪道表顯示全區可使用雪板；實際開放與裝備規則請以官方公告為準。
   powder: U2 為官方說明的未壓雪區域，新雪後較有粉雪行程彈性，開放狀況請以官方雪況為準。
 externalContent:
   blogs: []

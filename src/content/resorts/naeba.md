@@ -31,7 +31,7 @@ season:
   operatingPeriod: 2025/12/13-2026/4/5
   hours: 平日 8:00-17:00、假日 8:00-20:30
   nightSkiingHours: 16:30-20:30
-  note: 初版依 Weathernews 與官方票價頁整理、實際營業狀態請以官方公告為準。
+  note: 初版依公開資料與官方票價頁整理，實際營業狀態請以官方公告為準。
   source: https://www.princehotels.co.jp/ski/naeba/winter/lift/
 trailMaps:
 - label: 苗場雪場圖

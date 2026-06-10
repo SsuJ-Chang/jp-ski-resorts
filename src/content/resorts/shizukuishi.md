@@ -13,7 +13,7 @@ tags:
   - "snowboard_friendly"
 visibility:
   status: "published"
-  note: "Weathernews 東北人氣排名頁列入的雪場；初版以 Weathernews 2025-2026 雪季頁面與官方首頁整理。"
+  note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "http://www.princehotels.co.jp/ski/shizukuishi/index.html"
   weather: "https://weathernews.jp/ski/spot/33302/"
@@ -27,7 +27,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/22"
-  note: "營業期間為 Weathernews 2025-2026 雪季頁面資訊；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
+  note: "營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
   source: "https://weathernews.jp/ski/spot/33302/"
 snowWeather:
   title: "雫石雪況天氣"
@@ -78,14 +78,14 @@ courses:
   intermediateRatio: 45
   advancedRatio: 25
   courseInfoPage: "https://weathernews.jp/ski/spot/33302/"
-  summary: "Weathernews 標示雫石共有 20 條雪道與 6 座纜車，並註明小學生以下兒童纜車費免費。 Weathernews 標示共有 20 條雪道，初級 30%、中級 45%、上級 25%。"
+  summary: "雫石共有 20 條雪道與 6 座纜車，並註明小學生以下兒童纜車費免費。共有 20 條雪道，初級 30%、中級 45%、上級 25%。"
 lifts:
   total: 6
 terrainSummary:
-  beginner: "Weathernews 顯示雫石初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
-  intermediate: "Weathernews 顯示中級雪道占 45%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
-  advanced: "Weathernews 顯示上級雪道占 25%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
-  snowboard: "Weathernews 標示雪板可全區滑行。"
+  beginner: "雫石初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
+  intermediate: "中級雪道占 45%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
+  advanced: "上級雪道占 25%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
+  snowboard: "雪板可全區滑行。"
 externalContent:
   blogs: []
   vlogs: []
@@ -97,4 +97,4 @@ sources:
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
-雫石位於岩手縣岩手郡雫石町高倉溫泉，Weathernews 東北人氣排名頁列為第 19 名；Weathernews 標示共有 20 條雪道與 6 座纜車，雪板可全區滑行。
+雫石位於岩手縣岩手郡雫石町高倉溫泉，東北人氣雪場清單列為第 19 名；共有 20 條雪道與 6 座纜車，雪板可全區滑行。

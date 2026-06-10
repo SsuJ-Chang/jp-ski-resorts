@@ -31,7 +31,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/13-2026/3/29
   hours: 8:30-16:30
-  note: Weathernews 公開 2025-2026 營業期間與營業時間，實際開放日、各纜車運行與雪道開放仍會受天候與積雪影響。
+  note: 公開資料列出 2025-2026 營業期間與營業時間，實際開放日、各纜車運行與雪道開放仍會受天候與積雪影響。
   source: https://weathernews.jp/ski/spot/34216/
 trailMaps:
   - label: 寶台樹官方雪場・雪道頁

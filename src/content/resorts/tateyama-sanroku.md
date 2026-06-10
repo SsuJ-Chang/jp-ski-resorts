@@ -10,7 +10,7 @@ tags:
   - "snowboard_friendly"
 visibility:
   status: "published"
-  note: "富山縣雪場，未歸入現有 skiArea enum；資料以 Weathernews 縣別雪場清單與官方網站整理。"
+  note: "富山縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。"
 links:
   official: "https://www.tateyama36.co.jp/"
   weather: "https://weathernews.jp/ski/spot/35505/"
@@ -27,13 +27,13 @@ season:
   label: "2025-2026"
   operatingPeriod: "2025-2026 雪季：12/13-3/15"
   hours: "8:00-16:00"
-  note: "營業期間、營業時間與票價為 Weathernews 2025-2026 雪季頁面資訊，仍請以官方最新公告為準。"
+  note: "營業期間、營業時間與票價為 2025-2026 雪季公開資料，仍請以官方最新公告為準。"
   source: "https://weathernews.jp/ski/spot/35505/"
 tickets:
   season: "2025-2026"
   currency: "JPY"
   source: "https://weathernews.jp/ski/spot/35505/"
-  note: "主要票種摘要取自 Weathernews；實際販售條件、優惠與停車費請以官方公告為準。"
+  note: "主要票種摘要取自公開雪場資料；實際販售條件、優惠與停車費請以官方公告為準。"
   plans:
     - name: "1 日券"
       audience: "成人、小學生"
@@ -80,23 +80,23 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: "https://www.tateyama36.co.jp/course/"
-  summary: "Weathernews 顯示立山山麓共有 7 條雪道，最大斜度 32°，初級 30%、中級 40%、上級 30%。最低斜度約 10°，實際開放狀況請以官方公告為準。"
+  summary: "立山山麓共有 7 條雪道，最大斜度 32°，初級 30%、中級 40%、上級 30%。最低斜度約 10°，實際開放狀況請以官方公告為準。"
 lifts:
   total: 4
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "Weathernews 表示可由北陸自動車道立山 IC，經立山公園線與縣道 6 號前往，約 25km、35 分鐘。"
+    note: "可由北陸自動車道立山 IC，經立山公園線與縣道 6 號前往，約 25km、35 分鐘。"
 terrainSummary:
-  beginner: "Weathernews 顯示初級雪道占 30%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
-  intermediate: "Weathernews 顯示中級雪道占 40%，適合已能穩定轉彎的滑雪者參考。"
-  advanced: "Weathernews 顯示上級雪道占 30%，進階路線請依當日雪況與官方管制判斷。"
-  snowboard: "Weathernews 標示雪板可滑行。"
+  beginner: "初級雪道占 30%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
+  intermediate: "中級雪道占 40%，適合已能穩定轉彎的滑雪者參考。"
+  advanced: "上級雪道占 30%，進階路線請依當日雪況與官方管制判斷。"
+  snowboard: "雪板可滑行。"
 sources:
   - label: "立山山麓スキー場 Official"
     url: "https://www.tateyama36.co.jp/"
   - label: "Weathernews 立山山麓スキー場"
     url: "https://weathernews.jp/ski/spot/35505/"
 ---
-立山山麓位於富山市本宮一帶，是富山縣 Weathernews 清單內的北陸雪場。Weathernews 標示共有 7 條雪道與 4 座纜車，雪板可滑行。
+立山山麓位於富山市本宮一帶，是富山縣公開雪場清單內的北陸雪場。共有 7 條雪道與 4 座纜車，雪板可滑行。

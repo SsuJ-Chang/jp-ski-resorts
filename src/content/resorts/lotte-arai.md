@@ -29,14 +29,14 @@ season:
   operatingPeriod: 2025/12/14-2026/5/12
   hours: 8:30-16:00
   nightSkiingHours: 16:30-20:00
-  note: Weathernews 公開資訊顯示有夜滑時段；實際營業日期、區域與夜滑開放日請以官方公告為準。
+  note: 公開資料顯示有夜滑時段；實際營業日期、區域與夜滑開放日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/35494/
 trailMaps: []
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/35494/
-  note: 初版依 Weathernews 公開資訊整理主要票種；官方頁面若更新，請優先以 LOTTE ARAI RESORT 官方資訊為準。
+  note: 初版依公開資料整理主要票種；官方頁面若更新，請優先以 LOTTE ARAI RESORT 官方資訊為準。
   plans:
   - name: 1 日券
     audience: 成人、長者、兒童
@@ -96,7 +96,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 25
   courseInfoPage: https://weathernews.jp/ski/spot/35494/
-  summary: 樂天新井一帶的滑雪區域依 Weathernews 公開資訊共有 14 條雪道，並以大型度假村、長雪季與粉雪取向行程聞名；詳細官方雪道資料待補。
+  summary: 樂天新井一帶的滑雪區域依公開資料共有 14 條雪道，並以大型度假村、長雪季與粉雪取向行程聞名；詳細官方雪道資料待補。
   details: []
 lifts:
   total: 8
@@ -125,9 +125,9 @@ access:
     snowTireRequired: true
     note: 雪季自駕需準備雪胎或雪鏈；山區道路與度假村周邊可能積雪或結冰。
 terrainSummary:
-  beginner: Weathernews 公開資訊顯示初級比例約 35%，詳細雪道名稱與適用區域待官方資料補齊。
-  intermediate: Weathernews 公開資訊顯示中級比例約 40%，可作為主要巡航區域的初版參考。
-  advanced: Weathernews 公開資訊顯示上級比例約 25%，實際開放與安全規則請以官方公告為準。
+  beginner: 公開資料顯示初級比例約 35%，詳細雪道名稱與適用區域待官方資料補齊。
+  intermediate: 公開資料顯示中級比例約 40%，可作為主要巡航區域的初版參考。
+  advanced: 公開資料顯示上級比例約 25%，實際開放與安全規則請以官方公告為準。
   snowboard: 雙板與雪板規則請以官方公告為準。
   powder: 以粉雪與大型度假村行程作為主要整理方向，詳細非壓雪、樹林與 freeride 規則待官方資料補齊。
 externalContent:
@@ -140,4 +140,4 @@ sources:
 - label: Arai Mountain Resort Weathernews
   url: https://weathernews.jp/ski/spot/35494/
 ---
-樂天新井位於新潟縣妙高市兩善寺，是妙高高原區域北側的大型度假村型雪場。初版先收錄官方入口與 Weathernews 公開的基本資料，詳細雪道、交通與票券規則仍需後續以官方頁面補強。
+樂天新井位於新潟縣妙高市兩善寺，是妙高高原區域北側的大型度假村型雪場。初版先收錄官方入口與公開資料整理的基本資料，詳細雪道、交通與票券規則仍需後續以官方頁面補強。

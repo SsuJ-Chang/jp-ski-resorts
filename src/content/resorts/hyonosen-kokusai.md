@@ -19,7 +19,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/28-2026/03/15
   hours: 平日：8:30-17:00 休日：8:30-17:00
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36909/
 trailMaps:
 - label: 冰之山國際 官方雪道資訊
@@ -66,7 +66,7 @@ snowWeather:
 courses:
   total: 7
   courseInfoPage: https://www.hyounosen.jp/gelande/
-  summary: Weathernews 列為 7 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 7 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner
@@ -96,7 +96,7 @@ terrainSummary:
   beginner: 初級雪道以 ファミリーゲレンデ、ビギナーゲレンデ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 パノラマコース、ロマンス左コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 ロマンス右コース，請依當日開放狀態與雪況判斷。
-  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 sources:
 - label: Hyonosen Kokusai Ski Resort Official
   url: https://www.hyounosen.jp/
@@ -114,7 +114,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36909/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券（平日）
     price: 成人 ¥4,000 兒童 ¥2,200 樂齡 ¥3,400
@@ -141,7 +141,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：山陰本線JR八鹿駅から全但バスで (50分) 車 ：中国吹田IC→北近畿豊岡自動車道八鹿氷ノ山IC→一般道 (130分) 車 ：岡山IC→北近畿豊岡自動車道八鹿氷ノ山IC→一般道 (140分)
+    note: 交通資訊摘要：山陰本線JR八鹿駅から全但バスで (50分) 車 ：中国吹田IC→北近畿豊岡自動車道八鹿氷ノ山IC→一般道 (130分) 車 ：岡山IC→北近畿豊岡自動車道八鹿氷ノ山IC→一般道 (140分)
       450台 平日 500円 休日 1500円
 ---
-冰之山國際（氷ノ山国際スキー場）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+冰之山國際（氷ノ山国際スキー場）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

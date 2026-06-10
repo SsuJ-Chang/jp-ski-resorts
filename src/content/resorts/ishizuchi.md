@@ -51,6 +51,6 @@ sources:
   url: https://www.ishizuchi.com/ski/
 - label: 石鎚 Weathernews
   url: https://weathernews.jp/ski/spot/37301/
-  note: 使用者指定附上的 Weathernews 雪場頁。
+  note: 使用者指定附上的雪場資料頁。
 ---
-石鎚位於愛媛縣，是四國地區可安排滑雪與山岳冬季旅行的雪場。初版先收錄官方入口與 Weathernews 雪況天氣頁，詳細營業日、票價、交通與雪道資料待後續以官方當季公告補強。
+石鎚位於愛媛縣，是四國地區可安排滑雪與山岳冬季旅行的雪場。初版先收錄官方入口與 雪況天氣資料頁，詳細營業日、票價、交通與雪道資料待後續以官方當季公告補強。

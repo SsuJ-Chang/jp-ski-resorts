@@ -12,7 +12,7 @@ tags:
 - "snowboard_friendly"
 visibility:
   status: "published"
-  note: "Weathernews 北海道人氣排行榜前 20 名雪場；資料以 Weathernews spot 頁與官方網站整理。"
+  note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://www.bankei.co.jp/winter/ski/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Sapporo%20Bankei%20Ski%20Area"
@@ -29,14 +29,14 @@ season:
   label: "2025-2026"
   operatingPeriod: "2025/12/12-2026/3/29"
   hours: "平日：9:00〜21:00 假日：9:00〜22:00 毎週土曜日 夜滑：16:00〜21:00"
-  note: "營業期間、營業時間與票價為 Weathernews 2025-2026 雪季頁面資訊；實際營運會受積雪、天候與官方公告影響。"
+  note: "營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。"
   source: "https://weathernews.jp/ski/spot/31405/"
   nightSkiingHours: "16:00〜21:00"
 tickets:
   season: "2025-2026"
   currency: "JPY"
   source: "https://weathernews.jp/ski/spot/31405/"
-  note: "主要票種摘要取自 Weathernews；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。"
+  note: "主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。"
   plans:
   - name: "2 小時券"
     audience: "成人"
@@ -93,19 +93,19 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: "https://weathernews.jp/ski/spot/31405/"
-  summary: "札幌盤溪在 Weathernews 北海道人氣排名第 16 名。Weathernews 顯示共有 17 條雪道、4 座纜車，難度比例為初級 30%、中級 40%、上級 30%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  summary: "札幌盤溪在北海道人氣雪場清單列為第 16 名。共有 17 條雪道、4 座纜車，難度比例為初級 30%、中級 40%、上級 30%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
 lifts:
   total: 4
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "Weathernews 交通案內：電車：札幌市営地下鉄東西線円山公園由、巴士か計程車 (15分) 自駕：札幌北IC由一般道路（16.5km） (20分) 機場：新千歳空港 (80分)"
+    note: "交通資訊摘要：電車：札幌市営地下鉄東西線円山公園由、巴士か計程車 (15分) 自駕：札幌北IC由一般道路（16.5km） (20分) 機場：新千歳空港 (80分)"
 terrainSummary:
-  beginner: "Weathernews 顯示初級雪道佔 30%，可作為安排練習與暖身的參考。"
-  intermediate: "Weathernews 顯示中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。"
-  advanced: "Weathernews 顯示上級雪道佔 30%，進階路線請依當日雪況與官方管制判斷。"
-  snowboard: "Weathernews 標示雪板可滑行。"
+  beginner: "初級雪道佔 30%，可作為安排練習與暖身的參考。"
+  intermediate: "中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。"
+  advanced: "上級雪道佔 30%，進階路線請依當日雪況與官方管制判斷。"
+  snowboard: "雪板可滑行。"
   powder: "北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。"
 sources:
 - label: "さっぽろばんけいスキー場 Official"
@@ -115,4 +115,4 @@ sources:
 - label: "Weathernews 北海道人氣排行"
   url: "https://weathernews.jp/ski/area/hokkaido/ranking.html"
 ---
-札幌盤溪在 Weathernews 北海道人氣排名第 16 名。Weathernews 顯示共有 17 條雪道、4 座纜車。本頁為靜態資料整理，出發前請以官方公告與 Weathernews 為準。
+札幌盤溪在北海道人氣雪場清單列為第 16 名。共有 17 條雪道、4 座纜車。本頁為靜態資料整理，出發前請以官方公告與當日資訊為準。

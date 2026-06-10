@@ -28,13 +28,13 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/26-2026/3/1
   hours: 8:00-16:30
-  note: 初版依 Weathernews 與官方 2025-2026 雪季公告整理；實際營業與開放雪道請以官方公告為準。
+  note: 初版依公開資料與官方 2025-2026 雪季公告整理；實際營業與開放雪道請以官方公告為準。
   source: https://weathernews.jp/ski/spot/38602/
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/38602/
-  note: 初版先依 Weathernews 公開的主要票種整理；完整票價、租借與優惠規則請以官方當季公告為準。
+  note: 初版先依公開資料整理主要票種；完整票價、租借與優惠規則請以官方當季公告為準。
   plans:
   - name: 1 日券
     audience: 成人、兒童、長者
@@ -94,7 +94,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 0
   courseInfoPage: https://www.gokase.co.jp/ski/slope/
-  summary: 五瀨高原位於宮崎縣五瀨町，Weathernews 公開資訊列為 2 條雪道、3 座纜車；官方雪道頁另介紹 Beginner course、Paradise Course、Dynamic Course、Snow Park 與 Family Gelande 等區域。
+  summary: 五瀨高原位於宮崎縣五瀨町，公開資料列為 2 條雪道、3 座纜車；官方雪道頁另介紹 Beginner course、Paradise Course、Dynamic Course、Snow Park 與 Family Gelande 等區域。
   details:
   - name: Beginner course
     difficulty: beginner
@@ -113,9 +113,9 @@ access:
     snowTireRequired: true
     note: 九州山區冬季仍可能有積雪或結冰，建議出發前確認道路狀況並準備雪胎或雪鏈。
 terrainSummary:
-  beginner: Weathernews 列初級比例 50%，官方雪道頁亦有 Beginner course 與 Family Gelande 等區域。
-  intermediate: Weathernews 列中級比例 50%，官方雪道頁列有 Paradise Course 與 Dynamic Course 等區域。
-  snowboard: Weathernews 標示雪板全面可滑，實際仍需遵守官方現場規則。
+  beginner: 公開資料列初級比例 50%，官方雪道頁亦有 Beginner course 與 Family Gelande 等區域。
+  intermediate: 公開資料列中級比例 50%，官方雪道頁列有 Paradise Course 與 Dynamic Course 等區域。
+  snowboard: 雪板可全區滑行，實際仍需遵守官方現場規則。
 externalContent:
   blogs: []
   vlogs: []
@@ -126,6 +126,6 @@ sources:
   url: https://www.gokase.co.jp/ski/slope/
 - label: 五ヶ瀬ハイランドスキー場 Weathernews
   url: https://weathernews.jp/ski/spot/38602/
-  note: 使用者指定附上的 Weathernews 雪場頁。
+  note: 使用者指定附上的雪場資料頁。
 ---
-五瀨高原位於宮崎縣西臼杵郡五瀨町，是九州山區代表性的滑雪場之一。初版先收錄官方入口、官方雪道頁與 Weathernews 公開資訊，票價、營業日與詳細雪道資料後續仍需以官方當季公告補強。
+五瀨高原位於宮崎縣西臼杵郡五瀨町，是九州山區代表性的滑雪場之一。初版先收錄官方入口、官方雪道頁與公開資料，票價、營業日與詳細雪道資料後續仍需以官方當季公告補強。

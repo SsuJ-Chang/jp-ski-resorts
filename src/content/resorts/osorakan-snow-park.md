@@ -18,7 +18,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/27-2026/03/29
   hours: 平日：8:00〜17:00 休日：8:00〜17:00
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36706/
 trailMaps:
 - label: 恐羅漢 Snow Park 官方雪道資訊
@@ -65,7 +65,7 @@ snowWeather:
 courses:
   total: 10
   courseInfoPage: http://osorakan.co.jp/winter/
-  summary: Weathernews 列為 10 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 10 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: ブナ坂第1ゲレンデ
     difficulty: beginner
@@ -98,7 +98,7 @@ terrainSummary:
   beginner: 初級雪道以 ブナ坂第1ゲレンデ、ヒエ畑第1ゲレンデ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 ブナ坂第3ゲレンデ、立山第1ゲレンデ、立山第2ゲレンデ 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 立山第3ゲレンデ、かやばた A コース，請依當日開放狀態與雪況判斷。
-  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 sources:
 - label: Osorakan Snow Park Official
   url: http://osorakan.co.jp/winter/
@@ -114,7 +114,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36706/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 平日9時間券
     price: 成人 ¥5,400 兒童 ¥2,000 樂齡 ¥4,400
@@ -141,6 +141,6 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：広島駅 車 ：広島IC→戸河内IC→一般道 (57分) 車 ：岡山IC→戸河内IC→一般道 (169分) 1700台 平日 無料 休日 無料
+    note: 交通資訊摘要：広島駅 車 ：広島IC→戸河内IC→一般道 (57分) 車 ：岡山IC→戸河内IC→一般道 (169分) 1700台 平日 無料 休日 無料
 ---
-恐羅漢 Snow Park（恐羅漢スノーパーク）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+恐羅漢 Snow Park（恐羅漢スノーパーク）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

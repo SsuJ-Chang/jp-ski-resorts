@@ -26,22 +26,22 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/13-2026/3/29
   hours: 平日 8:45-16:30、假日 8:45-16:30
-  note: Weathernews 註記 18 歲以下纜車免費；完整條件、營業日與票種請以官方公告為準。
+  note: 資料註記 18 歲以下纜車免費；完整條件、營業日與票種請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34807/
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34807/
-  note: 主要票種依 Weathernews 2025-2026 雪場資料整理；18 歲以下免費與長野縣民割 PLUS 條件請以官方為準。
+  note: 主要票種依 2025-2026 公開雪場資料整理；18 歲以下免費與長野縣民割 PLUS 條件請以官方為準。
   plans:
   - name: 1 日券 S/A
     audience: 成人、長者
     price: 成人 ¥5,500、長者 ¥5,500
-    note: 18 歲以下依 Weathernews 註記免費。
+    note: 18 歲以下依 資料註記免費。
   - name: 4 小時券 S2/A
     audience: 成人、長者
     price: 成人 ¥4,500、長者 ¥4,500
-    note: Weathernews 列有一般與長野縣民割 PLUS 票種。
+    note: 公開資料列有一般與長野縣民割 PLUS 票種。
   - name: 1 日券 B
     audience: 成人、長者
     price: 成人 ¥4,500、長者 ¥3,500
@@ -183,10 +183,10 @@ courses:
 lifts:
   total: 8
 terrainSummary:
-  beginner: Weathernews 介紹有夢の平 Course、Kids Park 等設施，可搭配親子或練習行程。
+  beginner: 有夢の平 Course、Kids Park 等設施，可搭配親子或練習行程。
   intermediate: 可用巡航路線安排中級滑行，但實際開放需看官方公告。
-  advanced: Weathernews 提到かもしかゲレンデ與 sidecountry 氛圍，進階玩家需留意開放狀態與安全規則。
-  powder: 乘鞍岳山麓與粉雪是 Weathernews 介紹的主要特色之一。
+  advanced: 公開資料提到かもしかゲレンデ與 sidecountry 氛圍，進階玩家需留意開放狀態與安全規則。
+  powder: 乘鞍岳山麓與粉雪是 的主要特色之一。
 sources:
 - label: Mt. Norikura Snow Resort Official Website
   url: https://www.brnorikura.jp/
@@ -195,4 +195,4 @@ sources:
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
 ---
-Mt.乘鞍 Snow Resort 位於長野縣松本市乘鞍高原，Weathernews 介紹它以乘鞍岳山麓粉雪、乳白色溫泉與 18 歲以下纜車免費為特色。
+Mt.乘鞍 Snow Resort 位於長野縣松本市乘鞍高原，它以乘鞍岳山麓粉雪、乳白色溫泉與 18 歲以下纜車免費為特色。

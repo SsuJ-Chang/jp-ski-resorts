@@ -22,7 +22,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/18-2026/03/28
   hours: 平日：8:30〜16:30 休日：8:00〜16:30 ナイター：16:30〜20:00
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34206/
 trailMaps:
 - label: 草津溫泉 官方雪道資訊
@@ -69,7 +69,7 @@ snowWeather:
 courses:
   total: 9
   courseInfoPage: https://www.932-onsen.com/winter/course/
-  summary: Weathernews 列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: しゃくなげコース
     difficulty: beginner
@@ -132,7 +132,7 @@ terrainSummary:
   beginner: 初級雪道以 しゃくなげコース、R292 コース、ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 おなり山ゲレンデ、夏道コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 夏道チャレンジコース、青葉山第1ゲレンデ、青葉山第2ゲレンデ，請依當日開放狀態與雪況判斷。
-  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 sources:
 - label: Kusatsu Onsen Ski Resort Official
   url: https://www.932-onsen.com/winter/
@@ -150,7 +150,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34206/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券（運転開始〜17:00）
     price: 成人 ¥6,000 兒童 ¥2,000 樂齡 ¥5,200
@@ -163,7 +163,7 @@ tickets:
   - name: 回数券（1回券）
     price: 成人 ¥600 兒童 ¥600 樂齡 ¥600
   - name: 初滑り情報 スキー場OPEN日にリフト券ご購入のお客様へ、オリジナルステッカー＆次回使用可能なリフト1日50％OFF券をペアでプレゼント！
-    price: 請見 Weathernews 或官方公告
+    price: 請見官方公告
 elevation:
   top: 1600
   bottom: 1245
@@ -177,7 +177,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：吾妻線長野原草津口駅 (25分) 車 ：練馬IC→関越道(103km)渋川伊香保IC→一般道(60km) (171分) 車 ：練馬IC→上信越道(130km)碓井軽井沢IC→一般道(55km)
+    note: 交通資訊摘要：吾妻線長野原草津口駅 (25分) 車 ：練馬IC→関越道(103km)渋川伊香保IC→一般道(60km) (171分) 車 ：練馬IC→上信越道(130km)碓井軽井沢IC→一般道(55km)
       (189分) 1260台 平日 無料 休日 12/27-1/4のみ普通車1台1000円 天狗山第四駐車場 年末年始・土日祝日 1,000円
 ---
-草津溫泉（草津温泉スキー場）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+草津溫泉（草津温泉スキー場）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

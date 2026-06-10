@@ -197,7 +197,7 @@ access:
         - 依官方交通頁轉乘預約制接駁、路線巴士或計程車前往水上高原。
       estimatedTime: 上毛高原站後約 70 分鐘，水上站後約 50 分鐘
       difficulty: medium
-      note: Weathernews 標示需使用有料預約制接駁巴士，接駁方式與班次會依住宿、日期與雪季調整，請依官方交通頁預約與確認。
+      note: 需使用有料預約制接駁巴士，接駁方式與班次會依住宿、日期與雪季調整，請依官方交通頁預約與確認。
       links:
         - label: Minakami Kogen Access
           url: https://www.minakami-ski.jp/access/
@@ -218,7 +218,7 @@ terrainSummary:
   intermediate: Grand Concourse、Top of Minakami、まさかり與モンキーダンス等中級雪道構成主要滑行動線。
   advanced: ももんが、熊ぼっこす與熊つっとす屬官方上級雪道，其中熊ぼっこす最大坡度 34 度。
   snowboard: 官方雪場為一般雙板與雪板皆可利用，實際 park 或設施開放請依當日公告。
-  powder: 上部與上級雪道在降雪後較有粉雪機會，實際雪況需依官方或 Weathernews 公告判斷。
+  powder: 上部與上級雪道在降雪後較有粉雪機會，實際雪況需依官方或公開資料公告判斷。
 externalContent:
   blogs: []
   vlogs: []

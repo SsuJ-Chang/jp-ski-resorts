@@ -13,7 +13,7 @@ tags:
   - "snowboard_friendly"
 visibility:
   status: "published"
-  note: "Weathernews 東北人氣排名頁列入的雪場；初版以 Weathernews 2025-2026 雪季頁面與官方首頁整理。"
+  note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "http://www.oirase.or.jp/ski/ski.htm"
   weather: "https://weathernews.jp/ski/spot/33110/"
@@ -27,7 +27,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/29-2026/03/08"
-  note: "營業期間為 Weathernews 2025-2026 雪季頁面資訊；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
+  note: "營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
   source: "https://weathernews.jp/ski/spot/33110/"
 snowWeather:
   title: "奧入瀨溪流溫泉雪況天氣"
@@ -78,14 +78,14 @@ courses:
   intermediateRatio: 25
   advancedRatio: 5
   courseInfoPage: "https://weathernews.jp/ski/spot/33110/"
-  summary: "Weathernews 介紹奧入瀨溪流溫泉可搭配溫泉住宿，雙板與雪板都可使用。 Weathernews 標示共有 2 條雪道，初級 70%、中級 25%、上級 5%。"
+  summary: "奧入瀨溪流溫泉可搭配溫泉住宿，雙板與雪板都可使用。共有 2 條雪道，初級 70%、中級 25%、上級 5%。"
 lifts:
   total: 2
 terrainSummary:
-  beginner: "Weathernews 顯示奧入瀨溪流溫泉初級雪道占 70%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
-  intermediate: "Weathernews 顯示中級雪道占 25%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
-  advanced: "Weathernews 顯示上級雪道占 5%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
-  snowboard: "Weathernews 標示雪板可全區滑行。"
+  beginner: "奧入瀨溪流溫泉初級雪道占 70%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
+  intermediate: "中級雪道占 25%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
+  advanced: "上級雪道占 5%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
+  snowboard: "雪板可全區滑行。"
 externalContent:
   blogs: []
   vlogs: []
@@ -97,4 +97,4 @@ sources:
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
-奧入瀨溪流溫泉位於青森縣十和田市法量字燒山，Weathernews 東北人氣排名頁列為第 9 名；Weathernews 標示共有 2 條雪道與 2 座纜車，雪板可全區滑行。
+奧入瀨溪流溫泉位於青森縣十和田市法量字燒山，東北人氣雪場清單列為第 9 名；共有 2 條雪道與 2 座纜車，雪板可全區滑行。

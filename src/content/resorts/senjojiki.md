@@ -25,18 +25,18 @@ season:
   operatingPeriod: 待確認
   hours: 平日 8:00-17:00、假日 8:00-17:00
   nightSkiingHours: 無夜滑
-  note: Weathernews 未列出 2025-2026 營業期間；官方說明 Ropeway 運賃採變動制，且需另搭路線巴士，出發前請以官方公告為準。
+  note: 公開資料未列出 2025-2026 營業期間；官方說明 Ropeway 運賃採變動制，且需另搭路線巴士，出發前請以官方公告為準。
   source: https://weathernews.jp/ski/spot/44806/
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/44806/
-  note: Weathernews 2025-2026 雪場資料列示 Ropeway 往復券；此雪場不同於一般纜車券，完整票價請以中央阿爾卑斯駒ヶ岳 Ropeway 官方公告為準。
+  note: 2025-2026 公開雪場資料列示 Ropeway 往復券；此雪場不同於一般纜車券，完整票價請以中央阿爾卑斯駒ヶ岳 Ropeway 官方公告為準。
   plans:
   - name: 駒ヶ岳 Ropeway 往復券
     audience: 成人、兒童、長者
     price: 成人 ¥2,540 或 ¥2,790、兒童 ¥1,260 或 ¥1,390、長者 ¥2,540 或 ¥2,790
-    note: Weathernews 以 Ropeway 往復券列示；實際運賃可能採變動制，且路線巴士運賃另計。
+    note: 公開資料以 Ropeway 往復券列示；實際運賃可能採變動制，且路線巴士運賃另計。
 snowWeather:
   title: 中央阿爾卑斯千疊敷雪況天氣
   provider: Weathernews
@@ -106,10 +106,10 @@ courses:
 lifts:
   total: 1
 terrainSummary:
-  beginner: Weathernews 標示初級約 20%，但整體環境屬高海拔山岳雪場，行程規劃需保守。
+  beginner: 初級約 20%，但整體環境屬高海拔山岳雪場，行程規劃需保守。
   intermediate: 中級比例約 50%，實際可滑範圍需視 Ropeway、天候與積雪狀況。
-  advanced: Weathernews 介紹可體驗本格山岳滑雪與 backcountry 氛圍，需注意安全與開放條件。
-  powder: 高海拔與積雪條件是主要特色，但即時雪況請以官方與 Weathernews 為準。
+  advanced: 可體驗本格山岳滑雪與 backcountry 氛圍，需注意安全與開放條件。
+  powder: 高海拔與積雪條件是主要特色，但即時雪況請以官方與當日資訊為準。
 sources:
 - label: Senjojiki Ski Area Official Website
   url: https://www.chuo-alps.com/ski/
@@ -118,4 +118,4 @@ sources:
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
 ---
-中央阿爾卑斯千疊敷位於駒ヶ岳 Ropeway 千疊敷站周邊，Weathernews 介紹它是 2,600m 以上高海拔山岳雪場。此處交通與天候限制比一般雪場更明顯，行程需先確認官方公告。
+中央阿爾卑斯千疊敷位於駒ヶ岳 Ropeway 千疊敷站周邊，它是 2,600m 以上高海拔山岳雪場。此處交通與天候限制比一般雪場更明顯，行程需先確認官方公告。

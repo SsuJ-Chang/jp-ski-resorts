@@ -19,7 +19,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/03/15
   hours: 平日：8:30〜17:00 休日：土休日曜8:00〜17:00日(変動あり） ナイター：なし
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36007/
 trailMaps:
 - label: 箱館山 官方雪道資訊
@@ -66,7 +66,7 @@ snowWeather:
 courses:
   total: 8
   courseInfoPage: https://www.hakodateyama.com/winter/about/
-  summary: Weathernews 列為 8 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 8 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: びわこビューコース
     difficulty: beginner
@@ -111,7 +111,7 @@ terrainSummary:
   beginner: 初級雪道以 びわこビューコース、ヤッホーゲレンデ 初級 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 ヤッホーゲレンデ 中級、スリーバレー 1 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 スリーバレー 2、スリーバレー 3，請依當日開放狀態與雪況判斷。
-  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 sources:
 - label: Hakodateyama Ski Resort Official
   url: https://www.hakodateyama.com/winter/
@@ -129,7 +129,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36007/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: リフト・ゴンドラセット1日券（土休日・年末年始）
     price: 成人 ¥5,500 兒童 ¥4,400 樂齡 ¥4,700
@@ -156,7 +156,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：湖西線近江今津駅下車 バスで (20分) 車 ：小牧IC→名神道→北陸道木之本IC→一般道 (108分) 車 ：吹田IC→名神道京都東IC→湖西道路、Ｒ161号線経由 (60分) 1100台
+    note: 交通資訊摘要：湖西線近江今津駅下車 バスで (20分) 車 ：小牧IC→名神道→北陸道木之本IC→一般道 (108分) 車 ：吹田IC→名神道京都東IC→湖西道路、Ｒ161号線経由 (60分) 1100台
       平日 1000円 休日 1000円
 ---
-箱館山（箱館山）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+箱館山（箱館山）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

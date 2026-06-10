@@ -31,7 +31,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/28-2026/3/22
   hours: 平日登行纜車 8:30-17:00 / 場內纜車 8:30-16:40；假日登行纜車 8:00-17:00 / 場內纜車 8:00-16:40
-  note: Weathernews 公開 2025-2026 營業期間與營業時間；實際開放日、山頂連絡與各纜車運行仍會受天候與積雪影響。
+  note: 公開資料列出 2025-2026 營業期間與營業時間；實際開放日、山頂連絡與各纜車運行仍會受天候與積雪影響。
   source: https://weathernews.jp/ski/spot/36310/
 trailMaps:
   - label: HACHI 高原官方雪場・課程頁
@@ -165,7 +165,7 @@ access:
         - 於八鹿氷ノ山 IC 下交流道後，經 R9、關神社前與 R87 前往 HACHI 高原。
       estimatedTime: 約 130 分鐘
       difficulty: medium
-      note: Weathernews 公開的自駕範例；冬季道路需確認積雪與防滑裝備。
+      note: 公開資料整理的自駕範例；冬季道路需確認積雪與防滑裝備。
       links:
         - label: HACHI Access
           url: https://www.hachi-hachikita.co.jp/hachi/access.html
@@ -195,7 +195,7 @@ terrainSummary:
   beginner: 中央雪場、Family、林間與大久保等初級路線較多，適合練習基本轉彎、親子滑行與暖身。
   intermediate: 中央トリプル與 Downhill 提供較寬或較長的中級滑行感，並可搭配 THE PARKS 雪上設施安排。
   advanced: Highland View 與 Superstar 是需積雪充足才開放的山頂上級區域，官方特別標示開放條件。
-  snowboard: Weathernews 標示 snowboard 全面可，官方亦介紹 THE PARKS 雪上設施。
+  snowboard: 雪板可全區滑行，官方亦介紹 THE PARKS 雪上設施。
   powder: Highland View 官方說明降雪後可享受粉雪，但屬限定開放區域。
 externalContent:
   blogs: []

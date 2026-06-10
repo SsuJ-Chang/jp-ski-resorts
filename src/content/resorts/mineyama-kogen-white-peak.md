@@ -22,7 +22,7 @@ season:
   operatingPeriod: 2025/12/27-2026/03/15
   hours: 平日：(月〜木)8:30〜17:00、(金)8:30〜21:00 当日の営業情報は当スキー場のHPをご確認ください。 休日：(土)8:00〜21:00、(日)8:00〜18:00 当日の営業情報は当スキー場のHPをご確認ください。
     ナイター：17:00〜21:00
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36313/
 trailMaps:
 - label: 峰山高原 Resort WHITE PEAK 官方雪道資訊
@@ -69,7 +69,7 @@ snowWeather:
 courses:
   total: 3
   courseInfoPage: https://mineyama-kogen-resort.com/course/
-  summary: Weathernews 列為 3 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 3 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: サウスコース
     difficulty: beginner
@@ -89,7 +89,7 @@ courses:
 terrainSummary:
   beginner: 初級雪道以 サウスコース 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 センターコース、ウエストコース 串接較長滑行或主坡巡航。
-  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 sources:
 - label: Mineyama Kogen Resort WHITE PEAK Official
   url: https://mineyama-kogen-resort.com/
@@ -107,7 +107,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36313/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券(土、日、祝)
     price: 成人 ¥4,800 兒童 ¥3,300 樂齡 ¥3,300
@@ -134,6 +134,6 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：JR播但線寺前駅下車 シャトルバス有（要予約） (30分) 車 ：播但道神崎南IC (30分) 600台 平日 500円 休日 1000円
+    note: 交通資訊摘要：JR播但線寺前駅下車 シャトルバス有（要予約） (30分) 車 ：播但道神崎南IC (30分) 600台 平日 500円 休日 1000円
 ---
-峰山高原 Resort WHITE PEAK（峰山高原リゾート WHITE PEAK）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+峰山高原 Resort WHITE PEAK（峰山高原リゾート WHITE PEAK）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

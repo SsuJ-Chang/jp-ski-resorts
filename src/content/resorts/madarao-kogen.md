@@ -29,13 +29,13 @@ season:
   operatingPeriod: 2025/12/13-2026/3/29
   hours: 平日 8:30-16:30、假日 8:30-16:30
   nightSkiingHours: 16:30-21:00（指定營業日）
-  note: Weathernews 標示夜滑營業日為 12/27-1/3、1/10、1/11、2/21、2/22；實際請以官方公告為準。
+  note: 夜滑營業日為 12/27-1/3、1/10、1/11、2/21、2/22；實際請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34805/
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34805/
-  note: 主要票種依 Weathernews 2025-2026 雪場資料整理；Mountain Pass 與 Area Pass 的可用範圍請以官方為準。
+  note: 主要票種依 2025-2026 公開雪場資料整理；Mountain Pass 與 Area Pass 的可用範圍請以官方為準。
   plans:
   - name: Mountain Pass 1 日券
     audience: 成人、兒童、長者
@@ -265,8 +265,8 @@ lifts:
 terrainSummary:
   beginner: 初級約 30%，可與飯山站接駁安排住宿型滑雪行程。
   intermediate: 中級約 35%，適合在主雪道巡航與移動。
-  advanced: 上級約 35%，Weathernews 強調粉雪與 tree run 是斑尾高原特色。
-  powder: Weathernews 介紹斑尾高原有豐富積雪與 madapow 粉雪特色。
+  advanced: 上級約 35%，公開資料強調粉雪與 tree run 是斑尾高原特色。
+  powder: 斑尾高原有豐富積雪與 madapow 粉雪特色。
 sources:
 - label: Madarao Mountain Resort Official Website
   url: https://www.madarao.jp/ski
@@ -275,4 +275,4 @@ sources:
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
 ---
-斑尾高原位於長野縣飯山市與新潟縣妙高市縣境附近，Weathernews 介紹它以粉雪、tree run 與多樣化雪道聞名，適合安排飯山站進出的住宿型行程。
+斑尾高原位於長野縣飯山市與新潟縣妙高市縣境附近，它以粉雪、tree run 與多樣化雪道聞名，適合安排飯山站進出的住宿型行程。

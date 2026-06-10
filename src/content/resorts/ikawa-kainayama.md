@@ -51,6 +51,6 @@ sources:
   url: https://www.ikawaski.jp/
 - label: 井川スキー場腕山 Weathernews
   url: https://weathernews.jp/ski/spot/37103/
-  note: 使用者指定附上的 Weathernews 雪場頁。
+  note: 使用者指定附上的雪場資料頁。
 ---
-井川腕山位於德島縣，是四國山區的滑雪場之一。初版先收錄官方入口與 Weathernews 雪況天氣頁，詳細營業日、票價、交通與雪道資料待後續以官方當季公告補強。
+井川腕山位於德島縣，是四國山區的滑雪場之一。初版先收錄官方入口與 雪況天氣資料頁，詳細營業日、票價、交通與雪道資料待後續以官方當季公告補強。

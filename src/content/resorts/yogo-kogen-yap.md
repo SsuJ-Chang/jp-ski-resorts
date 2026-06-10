@@ -20,7 +20,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2026/01/02-2026/03/17
   hours: 平日：8:30〜16:30 休日：8:00〜16:30 ナイター：18:00〜22:00(土曜日)2026年1月24日（土）からの予定
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36002/
 trailMaps:
 - label: Yogo Kogen Resort YAP 官方雪道資訊
@@ -67,7 +67,7 @@ snowWeather:
 courses:
   total: 6
   courseInfoPage: http://yogo45.co.jp/gelande-map/
-  summary: Weathernews 列為 6 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 6 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: モンブラン
     difficulty: beginner
@@ -112,7 +112,7 @@ terrainSummary:
   beginner: 初級雪道以 モンブラン 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 バレ・ブランシュ、モンテローザ、ブライトホルン、ブレバン 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 マッターホルン，請依當日開放狀態與雪況判斷。
-  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 sources:
 - label: Yogo Kogen Resort YAP Official
   url: http://yogo45.co.jp/
@@ -130,7 +130,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36002/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券（平日）
     price: 成人 ¥4,500 兒童 ¥2,500 樂齡 ¥4,000
@@ -157,7 +157,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：北陸本線木之本駅下車 タクシー (30分) 車 ：小牧IC→名神道→北陸道木之本IC→R365で23km北上 (80分) 車 ：京都東IC→名神道→北陸道木之本IC→R365で23km北上
+    note: 交通資訊摘要：北陸本線木之本駅下車 タクシー (30分) 車 ：小牧IC→名神道→北陸道木之本IC→R365で23km北上 (80分) 車 ：京都東IC→名神道→北陸道木之本IC→R365で23km北上
       (90分) 1200台 平日 0円 休日 1000円
 ---
-Yogo Kogen Resort YAP（ヨゴコーゲンリゾート☆ヤップ）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+Yogo Kogen Resort YAP（ヨゴコーゲンリゾート☆ヤップ）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

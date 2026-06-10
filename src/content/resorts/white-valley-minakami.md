@@ -31,7 +31,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/3/15（原訂至 2026/3/22，官方雪場頁公告 3/15 結束）
   hours: 平日 9:00-16:00，週末假日 8:30-16:15，定休日為每週三、四，部分假日除外
-  note: 官方營業時間頁原訂 2025/12/20-2026/3/22，官方雪場頁與 Weathernews 顯示 2025-2026 雪季已於 2026/3/15 結束。
+  note: 官方營業時間頁原訂 2025/12/20-2026/3/22，官方雪場頁與公開資料顯示 2025-2026 雪季已於 2026/3/15 結束。
   source: https://www.whitevalley.jp/free/time
 trailMaps:
   - label: White Valley 官方雪場・雪道頁
@@ -159,12 +159,12 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 標示可由關越道水上 IC 前往，距離約 7km，冬季山區道路需準備雪胎或鏈條。
+    note: 可由關越道水上 IC 前往，距離約 7km，冬季山區道路需準備雪胎或鏈條。
 terrainSummary:
   beginner: Fantasy 是官方唯一標示初級的雪道，並設有 pole burn、wave 等元素。
   intermediate: White Heaven 與 Forest 為中級路線，官方描述分別強調粉雪景觀與谷間滑行。
   advanced: Champion 與 Fighting 是官方上級路線，重點在自然地形與荒地感。
-  snowboard: Weathernews 標示雪板全面可滑，實際仍需遵守官方開放狀態。
+  snowboard: 雪板可全區滑行，實際仍需遵守官方開放狀態。
   powder: 官方雪場頁強調粉雪，並介紹上部 90% 非壓雪的 Premium Powder Day，實施日依官方公告。
 externalContent:
   blogs: []

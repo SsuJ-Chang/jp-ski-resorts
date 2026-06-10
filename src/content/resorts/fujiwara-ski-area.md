@@ -25,7 +25,7 @@ season:
   operatingPeriod: 2025/12/20-2026/03/30
   hours: ：9時〜16時半まで パイプ × ペットの同伴 × 近場の温泉 奥利根温泉ホテルサンバード ゲレンデ直結 大浴場や11種類から選べる雪見の貸切露天風呂を利用できます。※有料 住所 〒379-1721 群馬県利根郡みなかみ町藤原4957-1
     地図を見る お問い合わせ TEL：0278-75-2321 ホームページ 営業期間 2025年12月20日 ~ 2026年03月30日 営業時間 平日：8:30〜16:45 休日：8:30〜16:45 ナイター：なし
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34227/
 trailMaps:
 - label: 藤原 官方雪道資訊
@@ -72,7 +72,7 @@ snowWeather:
 courses:
   total: 10
   courseInfoPage: https://fujiwaraski.com/cource/
-  summary: Weathernews 列為 10 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 10 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: 木の葉隠れ
     difficulty: beginner
@@ -132,7 +132,7 @@ terrainSummary:
   beginner: 初級雪道以 木の葉隠れ、森の探検、第2リフトゲレンデ、フジワラキッズランド 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 ジャンピング、スピードチャレンジ 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 チャレンジ林間、チャレンジ、觔斗雲，請依當日開放狀態與雪況判斷。
-  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
   powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
 sources:
 - label: Fujiwara Ski Area Official
@@ -152,7 +152,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34227/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券
     price: 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,800
@@ -177,6 +177,6 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：上越線水上駅からバスで (40分) 電車 ：上越新幹線上毛高原駅からバスで (60分) 車 ：関越自動車道 水上IC (40分) 250台 平日 無料 休日 無料
+    note: 交通資訊摘要：上越線水上駅からバスで (40分) 電車 ：上越新幹線上毛高原駅からバスで (60分) 車 ：関越自動車道 水上IC (40分) 250台 平日 無料 休日 無料
 ---
-藤原（水上高原・奥利根温泉 藤原スキー場）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+藤原（水上高原・奥利根温泉 藤原スキー場）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

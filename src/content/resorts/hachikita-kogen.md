@@ -33,7 +33,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/28-2026/4/5
   hours: 平日登行纜車 8:30-17:00 / 場內纜車 8:00-16:40；假日登行纜車 8:00-17:00 / 場內纜車 8:00-16:40
-  note: Weathernews 公開 2025-2026 營業期間與營業時間；實際開放日、山頂連絡與各纜車運行仍會受天候與積雪影響。
+  note: 公開資料列出 2025-2026 營業期間與營業時間；實際開放日、山頂連絡與各纜車運行仍會受天候與積雪影響。
   source: https://weathernews.jp/ski/spot/36301/
 trailMaps:
   - label: HACHI 北高原官方雪場・課程頁
@@ -122,7 +122,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://www.hachi-hachikita.co.jp/hachikita/slope.html
-  summary: HACHI 北高原以鉢伏山頂長滑路線、中央雪場、北壁、Alpen 與 Nature Zone 組成；Weathernews 列為 14 條課程，官方課程頁另列 mini snow park、time challenge、Panorama mogul 與 kids park 等設施。
+  summary: HACHI 北高原以鉢伏山頂長滑路線、中央雪場、北壁、Alpen 與 Nature Zone 組成；列為 14 條課程，官方課程頁另列 mini snow park、time challenge、Panorama mogul 與 kids park 等設施。
   details:
     - name: パノラマゲレンデ
       difficulty: beginner
@@ -176,7 +176,7 @@ access:
         - 於八鹿氷ノ山 IC 下交流道後，經 R9 前往 HACHI 北高原。
       estimatedTime: 約 120 分鐘
       difficulty: medium
-      note: Weathernews 公開的自駕範例；冬季道路需確認積雪與防滑裝備。
+      note: 公開資料整理的自駕範例；冬季道路需確認積雪與防滑裝備。
       links:
         - label: Hachikita Access
           url: https://www.hachi-hachikita.co.jp/hachikita/access.html
@@ -206,7 +206,7 @@ terrainSummary:
   beginner: Panorama、Noma、Family 與 Sky Road 下部可安排初級練習，山麓也有 Kids Park 與 beginner-friendly 設施。
   intermediate: Sky Road、中央雪場、樹冰與林間路線構成主要巡航動線，可從山頂一路滑回 Base 區。
   advanced: 北壁、Alpen、Challenge 與 Nature Zone 提供較陡、不整地或自然地形滑行，需注意現場開放狀態。
-  snowboard: Weathernews 標示 snowboard 全面可，官方亦列出 mini snow park 與 time challenge 等設施。
+  snowboard: 雪板可全區滑行，官方亦列出 mini snow park 與 time challenge 等設施。
   powder: Nature Zone 保留自然地形與木立，降雪後較能感受未整理雪面，但須遵守官方規則與開放條件。
 externalContent:
   blogs: []

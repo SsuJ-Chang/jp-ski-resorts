@@ -18,7 +18,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/28-2026/03/22
   hours: 平日：8:30〜16:30 休日：8:30〜16:30
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36001/
 trailMaps:
 - label: 琵琶湖 Valley 官方雪道資訊
@@ -65,7 +65,7 @@ snowWeather:
 courses:
   total: 9
   courseInfoPage: https://www.biwako-valley.com/winter/
-  summary: Weathernews 列為 9 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 9 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: 打見ゲレンデ
     difficulty: beginner
@@ -101,7 +101,7 @@ terrainSummary:
   beginner: 初級雪道以 打見ゲレンデ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 ジャイアントコース、アルペンコース、ホーライパノラマゲレンデ、ホーライ北ゲレンデ 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 チャンピオンコース、ダイナミックコース，請依當日開放狀態與雪況判斷。
-  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 sources:
 - label: Biwako Valley Official
   url: https://www.biwako-valley.com/winter/
@@ -117,12 +117,12 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36001/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1回券
-    price: 請見 Weathernews 或官方公告
+    price: 請見官方公告
   - name: 初滑り情報 詳しくは公式ウェブサイトを確認ください
-    price: 請見 Weathernews 或官方公告
+    price: 請見官方公告
 elevation:
   top: 1174
   bottom: 950
@@ -136,6 +136,6 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：湖西線志賀駅下車 路線バス (10分) 車 ：名神京都東IC→湖西道路「志賀」 (5分) 1700台 平日 1000円 休日 1000円
+    note: 交通資訊摘要：湖西線志賀駅下車 路線バス (10分) 車 ：名神京都東IC→湖西道路「志賀」 (5分) 1700台 平日 1000円 休日 1000円
 ---
-琵琶湖 Valley（びわ湖バレイ）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+琵琶湖 Valley（びわ湖バレイ）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

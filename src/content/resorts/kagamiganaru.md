@@ -29,7 +29,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/3/29
   hours: 9:00-16:30
-  note: 官方頁面與 Weathernews 以鏡ヶ成スキー場、休暇村奥大山スキー場名稱呈現相同雪場資訊；此 entry 依使用者提供的「鏡成」拆分整理。
+  note: 官方頁面與公開資料以鏡ヶ成スキー場、休暇村奥大山スキー場名稱呈現相同雪場資訊；此 entry 依使用者提供的「鏡成」拆分整理。
   source: https://www.qkamura.or.jp/daisen/ski/
 trailMaps:
 - label: 鏡ヶ成雪道圖
@@ -108,7 +108,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 0
   courseInfoPage: https://www.qkamura.or.jp/daisen/ski/
-  summary: 鏡ヶ成スキー場位於休暇村奧大山周邊，官方與 Weathernews 資料顯示為 3 條左右的短距離初中級雪道，偏親子、雪盆與練習型雪場。
+  summary: 鏡ヶ成スキー場位於休暇村奧大山周邊，官方與公開資料共有 3 條左右的短距離初中級雪道，偏親子、雪盆與練習型雪場。
   details:
   - name: 初心者ゲレンデ / Beginner Slope
     difficulty: beginner
@@ -164,4 +164,4 @@ sources:
 - label: Kagamiganaru Weathernews
   url: https://weathernews.jp/ski/spot/36908/
 ---
-鏡ヶ成位於休暇村奧大山周邊。官方與 Weathernews 資料和「奧大山」使用相同雪場資訊，本專案初版依使用者清單拆成獨立 entry，並在資料中保留待後續合併或確認的脈絡。
+鏡ヶ成位於休暇村奧大山周邊。官方與公開資料和「奧大山」使用相同雪場資訊，本專案初版依使用者清單拆成獨立 entry，並在資料中保留待後續合併或確認的脈絡。

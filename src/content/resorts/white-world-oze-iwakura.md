@@ -23,7 +23,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/13-2026/04/05
   hours: 平日：8:30〜16:45 休日：8:30〜16:45 ナイター：16:30〜20:00(12/31、1/3、1/10、1/11、1/17、1/24、1/31、2/7、2/14、2/21、2/22、2/28）
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34207/
 trailMaps:
 - label: White World 尾瀨岩鞍 官方雪道資訊
@@ -70,7 +70,7 @@ snowWeather:
 courses:
   total: 18
   courseInfoPage: https://www.oze-iwakura.co.jp/ski/slopeguide/index.html
-  summary: Weathernews 列為 16 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 16 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: ファミリーコース
     difficulty: beginner
@@ -187,7 +187,7 @@ terrainSummary:
   beginner: 初級雪道以 ファミリーコース、ロマンスコース、しらかばコース、ミルキーウェイ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 チャレンジ A、チャレンジ B、国体女子（沢）、チャンピオン B 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 国体女子（西山）、国体男子、エキスパート下、エキスパート上，請依當日開放狀態與雪況判斷。
-  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
   powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
 sources:
 - label: White World Oze Iwakura Official
@@ -206,7 +206,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34207/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券
     price: 成人 ¥6,500 兒童 ¥4,500 樂齡 ¥6,000
@@ -233,7 +233,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：JR上越線沼田駅→路線バス (50分) 電車 ：上越新幹線上毛高原駅→路線バス (70分) 車 ：前橋IC→沼田IC経由 (70分) 車 ：練馬IC→沼田IC経由 (140分) 飛行機：羽田空港
+    note: 交通資訊摘要：JR上越線沼田駅→路線バス (50分) 電車 ：上越新幹線上毛高原駅→路線バス (70分) 車 ：前橋IC→沼田IC経由 (70分) 車 ：練馬IC→沼田IC経由 (140分) 飛行機：羽田空港
       (180分) 2200台 平日 無料 休日 1000円（乗用車1台に4名以上乗車の場合は無料）3/16以降は全日無料
 ---
-White World 尾瀨岩鞍（ホワイトワールド尾瀬岩鞍）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+White World 尾瀨岩鞍（ホワイトワールド尾瀬岩鞍）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

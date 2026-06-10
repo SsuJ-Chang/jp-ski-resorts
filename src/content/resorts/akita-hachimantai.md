@@ -13,7 +13,7 @@ tags:
   - "snowboard_friendly"
 visibility:
   status: "published"
-  note: "Weathernews 東北人氣排名頁列入的雪場；初版以 Weathernews 2025-2026 雪季頁面與官方首頁整理。"
+  note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "https://www.akihachi.jp"
   weather: "https://weathernews.jp/ski/spot/33211/"
@@ -27,7 +27,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/11/21-2026/05/02"
-  note: "營業期間為 Weathernews 2025-2026 雪季頁面資訊；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
+  note: "營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
   source: "https://weathernews.jp/ski/spot/33211/"
 snowWeather:
   title: "秋田八幡平雪況天氣"
@@ -78,15 +78,15 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: "https://weathernews.jp/ski/spot/33211/"
-  summary: "Weathernews 介紹秋田八幡平是東北較早可滑的雪場之一，雪質佳，周邊也有溫泉可搭配。 Weathernews 標示共有 2 條雪道，初級 40%、中級 40%、上級 20%。"
+  summary: "秋田八幡平是東北較早可滑的雪場之一，雪質佳，周邊也有溫泉可搭配。共有 2 條雪道，初級 40%、中級 40%、上級 20%。"
 lifts:
   total: 1
 terrainSummary:
-  beginner: "Weathernews 顯示秋田八幡平初級雪道占 40%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
-  intermediate: "Weathernews 顯示中級雪道占 40%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
-  advanced: "Weathernews 顯示上級雪道占 20%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
-  snowboard: "Weathernews 標示雪板可全區滑行。"
-  powder: "Weathernews 介紹秋田八幡平是東北較早可滑的雪場之一，雪質佳，周邊也有溫泉可搭配。 粉雪與積雪狀況會隨天候變動，請以官方公告與 Weathernews 即時資訊為準。"
+  beginner: "秋田八幡平初級雪道占 40%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
+  intermediate: "中級雪道占 40%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
+  advanced: "上級雪道占 20%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
+  snowboard: "雪板可全區滑行。"
+  powder: "秋田八幡平是東北較早可滑的雪場之一，雪質佳，周邊也有溫泉可搭配。粉雪與積雪狀況會隨天候變動，請以官方公告與當日資訊為準。"
 externalContent:
   blogs: []
   vlogs: []
@@ -98,4 +98,4 @@ sources:
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
-秋田八幡平位於秋田縣鹿角市八幡平字熊澤外國有林，Weathernews 東北人氣排名頁列為第 17 名；Weathernews 標示共有 2 條雪道與 1 座纜車，雪板可全區滑行。
+秋田八幡平位於秋田縣鹿角市八幡平字熊澤外國有林，東北人氣雪場清單列為第 17 名；共有 2 條雪道與 1 座纜車，雪板可全區滑行。

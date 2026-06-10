@@ -12,7 +12,7 @@ tags:
   - "tree_run"
 visibility:
   status: "published"
-  note: "Weathernews 東北人氣排名頁列入的雪場；初版以 Weathernews 2025-2026 雪季頁面與官方首頁整理。"
+  note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "https://www.okunakayamakogen.jp/"
   weather: "https://weathernews.jp/ski/spot/33317/"
@@ -26,7 +26,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/13-2026/03/29"
-  note: "營業期間為 Weathernews 2025-2026 雪季頁面資訊；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
+  note: "營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
   source: "https://weathernews.jp/ski/spot/33317/"
 snowWeather:
   title: "奧中山高原雪況天氣"
@@ -77,14 +77,14 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: "https://weathernews.jp/ski/spot/33317/"
-  summary: "Weathernews 介紹奧中山高原山頂可看 360 度展望，山麓有平均 7 度的緩坡，並設有上級者向 tree run area。 Weathernews 標示共有 11 條雪道，初級 30%、中級 40%、上級 30%。"
+  summary: "奧中山高原山頂可看 360 度展望，山麓有平均 7 度的緩坡，並設有上級者向 tree run area。共有 11 條雪道，初級 30%、中級 40%、上級 30%。"
 lifts:
   total: 4
 terrainSummary:
-  beginner: "Weathernews 顯示奧中山高原初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
-  intermediate: "Weathernews 顯示中級雪道占 40%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
-  advanced: "Weathernews 顯示上級雪道占 30%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
-  snowboard: "Weathernews 標示雪板可全區滑行。"
+  beginner: "奧中山高原初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
+  intermediate: "中級雪道占 40%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
+  advanced: "上級雪道占 30%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
+  snowboard: "雪板可全區滑行。"
 externalContent:
   blogs: []
   vlogs: []
@@ -96,4 +96,4 @@ sources:
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
-奧中山高原位於岩手縣二戶郡一戶町奧中山，Weathernews 東北人氣排名頁列為第 15 名；Weathernews 標示共有 11 條雪道與 4 座纜車，雪板可全區滑行。
+奧中山高原位於岩手縣二戶郡一戶町奧中山，東北人氣雪場清單列為第 15 名；共有 11 條雪道與 4 座纜車，雪板可全區滑行。

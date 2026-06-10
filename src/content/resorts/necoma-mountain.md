@@ -225,7 +225,7 @@ access:
     - 從郡山站轉乘官方接駁巴士、路線巴士或租車前往 Necoma Mountain。
     estimatedTime: 約 3-4 小時，依接駁與轉乘方式而定
     difficulty: medium
-    note: Weathernews 公開資訊列出郡山站至雪場接駁約 70 分鐘；接駁需以官方當季資訊為準。
+    note: 公開資料列出郡山站至雪場接駁約 70 分鐘；接駁需以官方當季資訊為準。
     links:
     - label: NEKOMA Mountain Access
       url: https://www.nekoma.co.jp/access/

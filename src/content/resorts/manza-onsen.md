@@ -23,7 +23,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/03/22
   hours: 平日：8:30〜16:30（平日・日曜日・祝日） 休日：8:30〜17:00（土曜日・年末年始・連休中日）
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34203/
 trailMaps:
 - label: 萬座溫泉 官方雪道資訊
@@ -70,7 +70,7 @@ snowWeather:
 courses:
   total: 14
   courseInfoPage: https://www.princehotels.co.jp/ski/manza/winter/coursemap/
-  summary: Weathernews 列為 14 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 14 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: B1 どうぶつの森コース
     difficulty: beginner
@@ -163,7 +163,7 @@ terrainSummary:
   beginner: 初級雪道以 B1 どうぶつの森コース、B6 ハイクアップ A、C1 パノラマゲレンデ R、C2 パノラマゲレンデ L 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 A1 プリンスゲレンデ L、A2 プリンスゲレンデ R、B2 しゃくなげコース、B7 ハイクアップ B 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 D1 万座山ゲレンデ、B3 エキスパートコース、B4 チャレンジコース、B5 黒湯上級コース，請依當日開放狀態與雪況判斷。
-  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
   powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
 sources:
 - label: Manza Onsen Ski Resort Official
@@ -182,7 +182,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34203/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券（12/30〜1/3は¥200追加）
     price: 成人 ¥5,700 兒童 0円
@@ -201,7 +201,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：吾妻線万座・鹿沢口駅、タクシー (30分) 電車 ：吾妻線万座・鹿沢口駅、西武高原バス (50分) 車 ：関越自動車道 渋川伊香保IC→万座温泉 (100分) 車 ：上信越自動車道 碓氷軽井沢IC→万座温泉
+    note: 交通資訊摘要：吾妻線万座・鹿沢口駅、タクシー (30分) 電車 ：吾妻線万座・鹿沢口駅、西武高原バス (50分) 車 ：関越自動車道 渋川伊香保IC→万座温泉 (100分) 車 ：上信越自動車道 碓氷軽井沢IC→万座温泉
       (90分) 400台 平日 無料 休日 無料
 ---
-萬座溫泉（万座温泉スキー場）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+萬座溫泉（万座温泉スキー場）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

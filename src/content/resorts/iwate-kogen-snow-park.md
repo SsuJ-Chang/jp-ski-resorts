@@ -11,7 +11,7 @@ tags:
   - "snowboard_friendly"
 visibility:
   status: "published"
-  note: "Weathernews 東北人氣排名頁列入的雪場；初版以 Weathernews 2025-2026 雪季頁面與官方首頁整理。"
+  note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "http://www.iwatekogen.jp/"
   weather: "https://weathernews.jp/ski/spot/33309/"
@@ -25,7 +25,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/13-2026/03/31"
-  note: "營業期間為 Weathernews 2025-2026 雪季頁面資訊；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
+  note: "營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
   source: "https://weathernews.jp/ski/spot/33309/"
 snowWeather:
   title: "岩手高原 Snow Park雪況天氣"
@@ -76,14 +76,14 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: "https://weathernews.jp/ski/spot/33309/"
-  summary: "Weathernews 介紹岩手高原 Snow Park 有箱型纜車、多樣雪道配置與服務設施，並標示小學生以下可免費搭乘纜車與箱型纜車。 Weathernews 標示共有 10 條雪道，初級 30%、中級 50%、上級 20%。"
+  summary: "岩手高原 Snow Park 有箱型纜車、多樣雪道配置與服務設施，並標示小學生以下可免費搭乘纜車與箱型纜車。共有 10 條雪道，初級 30%、中級 50%、上級 20%。"
 lifts:
   total: 7
 terrainSummary:
-  beginner: "Weathernews 顯示岩手高原 Snow Park初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
-  intermediate: "Weathernews 顯示中級雪道占 50%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
-  advanced: "Weathernews 顯示上級雪道占 20%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
-  snowboard: "Weathernews 標示雪板可全區滑行。"
+  beginner: "岩手高原 Snow Park 初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
+  intermediate: "中級雪道占 50%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
+  advanced: "上級雪道占 20%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
+  snowboard: "雪板可全區滑行。"
 externalContent:
   blogs: []
   vlogs: []
@@ -95,4 +95,4 @@ sources:
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
-岩手高原 Snow Park 位於岩手縣岩手郡雫石町長山字岩手山，Weathernews 東北人氣排名頁列為第 11 名；Weathernews 標示共有 10 條雪道與 7 座纜車，雪板可全區滑行。
+岩手高原 Snow Park 位於岩手縣岩手郡雫石町長山字岩手山，東北人氣雪場清單列為第 11 名；共有 10 條雪道與 7 座纜車，雪板可全區滑行。

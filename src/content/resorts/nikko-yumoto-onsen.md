@@ -20,7 +20,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/30-2026/03/19
   hours: 平日：9:00〜16:00 休日：8:30〜16:00(時間延長の場合あり） ナイター：なし
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34102/
 trailMaps:
 - label: 日光湯元溫泉 官方雪道資訊
@@ -67,7 +67,7 @@ snowWeather:
 courses:
   total: 4
   courseInfoPage: https://nikkoyumoto-ski.com/guide.html#course
-  summary: Weathernews 列為 4 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 4 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: A コース
     difficulty: beginner
@@ -103,7 +103,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34102/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券
     price: 成人 ¥4,000 兒童 ¥2,900
@@ -130,6 +130,6 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：東武鉄道日光線東武日光駅下車、バス (85分) 車 ：東北自動車宇都宮IC下車〜日光宇都宮有料道路清滝ICより国道120号で (45分) 100台 平日 無料 休日 1000円
+    note: 交通資訊摘要：東武鉄道日光線東武日光駅下車、バス (85分) 車 ：東北自動車宇都宮IC下車〜日光宇都宮有料道路清滝ICより国道120号で (45分) 100台 平日 無料 休日 1000円
 ---
-日光湯元溫泉（日光湯元温泉）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+日光湯元溫泉（日光湯元温泉）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

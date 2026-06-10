@@ -13,7 +13,7 @@ tags:
   - "tree_run"
 visibility:
   status: "published"
-  note: "Weathernews 東北人氣排名頁列入的雪場；初版以 Weathernews 2025-2026 雪季頁面與官方首頁整理。"
+  note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "https://www.getokogen.com/winter/"
   weather: "https://weathernews.jp/ski/spot/33315/"
@@ -27,7 +27,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/05-2026/05/02"
-  note: "營業期間為 Weathernews 2025-2026 雪季頁面資訊；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
+  note: "營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
   source: "https://weathernews.jp/ski/spot/33315/"
 snowWeather:
   title: "夏油高原雪況天氣"
@@ -78,15 +78,15 @@ courses:
   intermediateRatio: 35
   advancedRatio: 35
   courseInfoPage: "https://weathernews.jp/ski/spot/33315/"
-  summary: "Weathernews 介紹夏油高原積雪豐富、雪季長，有 14 條多變化雪道、集中的滑雪中心與 16 個 tree run area。 Weathernews 標示共有 14 條雪道，初級 30%、中級 35%、上級 35%。"
+  summary: "夏油高原積雪豐富、雪季長，有 14 條多變化雪道、集中的滑雪中心與 16 個 tree run area。共有 14 條雪道，初級 30%、中級 35%、上級 35%。"
 lifts:
   total: 5
 terrainSummary:
-  beginner: "Weathernews 顯示夏油高原初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
-  intermediate: "Weathernews 顯示中級雪道占 35%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
-  advanced: "Weathernews 顯示上級雪道占 35%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
-  snowboard: "Weathernews 標示雪板可全區滑行。"
-  powder: "Weathernews 介紹夏油高原積雪豐富、雪季長，有 14 條多變化雪道、集中的滑雪中心與 16 個 tree run area。 粉雪與積雪狀況會隨天候變動，請以官方公告與 Weathernews 即時資訊為準。"
+  beginner: "夏油高原初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
+  intermediate: "中級雪道占 35%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
+  advanced: "上級雪道占 35%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
+  snowboard: "雪板可全區滑行。"
+  powder: "夏油高原積雪豐富、雪季長，有 14 條多變化雪道、集中的滑雪中心與 16 個 tree run area。粉雪與積雪狀況會隨天候變動，請以官方公告與當日資訊為準。"
 externalContent:
   blogs: []
   vlogs: []
@@ -98,4 +98,4 @@ sources:
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
-夏油高原位於岩手縣北上市和賀町岩崎新田，Weathernews 東北人氣排名頁列為第 10 名；Weathernews 標示共有 14 條雪道與 5 座纜車，雪板可全區滑行。
+夏油高原位於岩手縣北上市和賀町岩崎新田，東北人氣雪場清單列為第 10 名；共有 14 條雪道與 5 座纜車，雪板可全區滑行。

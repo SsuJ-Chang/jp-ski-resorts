@@ -31,7 +31,7 @@ season:
   operatingPeriod: 2025/12/19-2026/3/29
   hours: 8:00-16:15
   nightSkiingHours: 無夜滑
-  note: 官方票價頁標示 2025-26 冬季預定期間為 2025/12/19-2026/3/29、Weathernews 顯示期間略有差異，請以官方公告為準。
+  note: 官方票價頁標示 2025-26 冬季預定期間為 2025/12/19-2026/3/29，公開資料的期間略有差異，請以官方公告為準。
   source: https://sanosaka.jp/lift/
 trailMaps:
 - label: 白馬佐野坂雪場圖

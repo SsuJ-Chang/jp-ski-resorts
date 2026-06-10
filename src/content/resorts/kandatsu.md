@@ -30,7 +30,7 @@ season:
   operatingPeriod: 2025/12/13-2026/4/7
   hours: 平日 8:00-16:30、假日 7:00-16:30
   nightSkiingHours: 金、六與休前日營業
-  note: 初版依 Weathernews 與官方頁面整理、夜滑詳細日期請以官方公告為準。
+  note: 初版依公開資料與官方頁面整理，夜滑詳細日期請以官方公告為準。
   source: https://www.kandatsu.com/price/
 trailMaps:
 - label: 神立高原雪場圖

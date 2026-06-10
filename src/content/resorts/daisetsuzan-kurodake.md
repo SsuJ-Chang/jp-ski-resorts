@@ -12,7 +12,7 @@ tags:
 - "snowboard_friendly"
 visibility:
   status: "published"
-  note: "Weathernews 北海道人氣排行榜前 20 名雪場；資料以 Weathernews spot 頁與官方網站整理。"
+  note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://www.rinyu.co.jp/kurodake/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Daisetsuzan%20Kurodake%20Ski%20Resort"
@@ -29,13 +29,13 @@ season:
   label: "2025-2026"
   operatingPeriod: "2025/12/1-2026/5/17"
   hours: "平日：ロープウェイ8:00〜16:00(リフトは9:00〜15:20)＊期間変動あり 假日：ロープウェイ8:00〜16:00(リフトは9:00〜15:20)＊期間変動あり"
-  note: "營業期間、營業時間與票價為 Weathernews 2025-2026 雪季頁面資訊；實際營運會受積雪、天候與官方公告影響。"
+  note: "營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。"
   source: "https://weathernews.jp/ski/spot/31215/"
 tickets:
   season: "2025-2026"
   currency: "JPY"
   source: "https://weathernews.jp/ski/spot/31215/"
-  note: "主要票種摘要取自 Weathernews；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。"
+  note: "主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。"
   plans:
   - name: "日間券（空中纜車、纜車共通）"
     audience: "成人、兒童"
@@ -92,19 +92,19 @@ courses:
   intermediateRatio: 30
   advancedRatio: 20
   courseInfoPage: "https://weathernews.jp/ski/spot/31215/"
-  summary: "大雪山黑岳在 Weathernews 北海道人氣排名第 1 名。Weathernews 顯示共有 2 條雪道、2 座纜車，難度比例為初級 50%、中級 30%、上級 20%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  summary: "大雪山黑岳在北海道人氣雪場清單列為第 1 名。共有 2 條雪道、2 座纜車，難度比例為初級 50%、中級 30%、上級 20%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
 lifts:
   total: 2
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "Weathernews 交通案內：電車：JR函館本線旭川駅由巴士利用 (110分) 電車：JR石北本線上川駅由巴士利用 (30分) 自駕：札幌道札幌北IC由約200km (154分) 自駕：旭川紋別道上川層雲峡IC由約20km (30分) 機場：旭川空港由車で (90分)"
+    note: "交通資訊摘要：電車：JR函館本線旭川駅由巴士利用 (110分) 電車：JR石北本線上川駅由巴士利用 (30分) 自駕：札幌道札幌北IC由約200km (154分) 自駕：旭川紋別道上川層雲峡IC由約20km (30分) 機場：旭川空港由車で (90分)"
 terrainSummary:
-  beginner: "Weathernews 顯示初級雪道佔 50%，可作為安排練習與暖身的參考。"
-  intermediate: "Weathernews 顯示中級雪道佔 30%，適合已能穩定轉彎的滑雪者參考。"
-  advanced: "Weathernews 顯示上級雪道佔 20%，進階路線請依當日雪況與官方管制判斷。"
-  snowboard: "Weathernews 標示雪板可滑行。"
+  beginner: "初級雪道佔 50%，可作為安排練習與暖身的參考。"
+  intermediate: "中級雪道佔 30%，適合已能穩定轉彎的滑雪者參考。"
+  advanced: "上級雪道佔 20%，進階路線請依當日雪況與官方管制判斷。"
+  snowboard: "雪板可滑行。"
   powder: "北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。"
 sources:
 - label: "大雪山黒岳スキー場 Official"
@@ -114,4 +114,4 @@ sources:
 - label: "Weathernews 北海道人氣排行"
   url: "https://weathernews.jp/ski/area/hokkaido/ranking.html"
 ---
-大雪山黑岳在 Weathernews 北海道人氣排名第 1 名。Weathernews 顯示共有 2 條雪道、2 座纜車。本頁為靜態資料整理，出發前請以官方公告與 Weathernews 為準。
+大雪山黑岳在北海道人氣雪場清單列為第 1 名。共有 2 條雪道、2 座纜車。本頁為靜態資料整理，出發前請以官方公告與當日資訊為準。

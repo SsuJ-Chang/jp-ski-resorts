@@ -12,7 +12,7 @@ tags:
 - "snowboard_friendly"
 visibility:
   status: "published"
-  note: "Weathernews 北海道人氣排行榜前 20 名雪場；資料以 Weathernews spot 頁與官方網站整理。"
+  note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://tenguyama.ckk.chuo-bus.co.jp/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Otaru%20Tenguyama%20Ski%20Resort"
@@ -29,14 +29,14 @@ season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/3/22"
   hours: "平日：9:00〜16:00 假日：9:00〜16:00 夜滑：1/10~2/22 の土日祝 （19：00迄）"
-  note: "營業期間、營業時間與票價為 Weathernews 2025-2026 雪季頁面資訊；實際營運會受積雪、天候與官方公告影響。"
+  note: "營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。"
   source: "https://weathernews.jp/ski/spot/31503/"
   nightSkiingHours: "1/10~2/22 の土日祝 （19：00迄）"
 tickets:
   season: "2025-2026"
   currency: "JPY"
   source: "https://weathernews.jp/ski/spot/31503/"
-  note: "主要票種摘要取自 Weathernews；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。"
+  note: "主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。"
   plans:
   - name: "1 回券"
     audience: "成人、兒童、長者"
@@ -93,19 +93,19 @@ courses:
   intermediateRatio: 40
   advancedRatio: 50
   courseInfoPage: "https://weathernews.jp/ski/spot/31503/"
-  summary: "小樽天狗山在 Weathernews 北海道人氣排名第 19 名。Weathernews 顯示共有 5 條雪道、1 座纜車，難度比例為初級 10%、中級 40%、上級 50%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  summary: "小樽天狗山在北海道人氣雪場清單列為第 19 名。共有 5 條雪道、1 座纜車，難度比例為初級 10%、中級 40%、上級 50%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
 lifts:
   total: 1
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "Weathernews 交通案內：電車：函館本線小樽駅由巴士か計程車 (18分) 自駕：札幌南IC由札樽道(35.6km)小樽ICその後一般道路(4.9km） (40分) 機場：新千歳空港由道央道千歳IC由札樽道小樽ICその後一般道路 (85分)"
+    note: "交通資訊摘要：電車：函館本線小樽駅由巴士か計程車 (18分) 自駕：札幌南IC由札樽道(35.6km)小樽ICその後一般道路(4.9km） (40分) 機場：新千歳空港由道央道千歳IC由札樽道小樽ICその後一般道路 (85分)"
 terrainSummary:
-  beginner: "Weathernews 顯示初級雪道佔 10%，可作為安排練習與暖身的參考。"
-  intermediate: "Weathernews 顯示中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。"
-  advanced: "Weathernews 顯示上級雪道佔 50%，進階路線請依當日雪況與官方管制判斷。"
-  snowboard: "Weathernews 標示雪板可滑行。"
+  beginner: "初級雪道佔 10%，可作為安排練習與暖身的參考。"
+  intermediate: "中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。"
+  advanced: "上級雪道佔 50%，進階路線請依當日雪況與官方管制判斷。"
+  snowboard: "雪板可滑行。"
   powder: "北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。"
 sources:
 - label: "小樽天狗山スキー場 Official"
@@ -115,4 +115,4 @@ sources:
 - label: "Weathernews 北海道人氣排行"
   url: "https://weathernews.jp/ski/area/hokkaido/ranking.html"
 ---
-小樽天狗山在 Weathernews 北海道人氣排名第 19 名。Weathernews 顯示共有 5 條雪道、1 座纜車。本頁為靜態資料整理，出發前請以官方公告與 Weathernews 為準。
+小樽天狗山在北海道人氣雪場清單列為第 19 名。共有 5 條雪道、1 座纜車。本頁為靜態資料整理，出發前請以官方公告與當日資訊為準。

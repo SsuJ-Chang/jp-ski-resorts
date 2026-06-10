@@ -11,7 +11,7 @@ tags:
   - "snowboard_friendly"
 visibility:
   status: "published"
-  note: "Weathernews 東北人氣排名頁列入的雪場；初版以 Weathernews 2025-2026 雪季頁面與官方首頁整理。"
+  note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "http://www.nposki.com"
   weather: "https://weathernews.jp/ski/spot/33411/"
@@ -25,7 +25,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/19-2026/03/15"
-  note: "營業期間為 Weathernews 2025-2026 雪季頁面資訊；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
+  note: "營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
   source: "https://weathernews.jp/ski/spot/33411/"
 snowWeather:
   title: "宮城藏王白石雪況天氣"
@@ -76,15 +76,15 @@ courses:
   intermediateRatio: 30
   advancedRatio: 30
   courseInfoPage: "https://weathernews.jp/ski/spot/33411/"
-  summary: "Weathernews 介紹宮城藏王白石位於南藏王不忘山，有天然粉雪、緩坡、中斜面與新雪路線。 Weathernews 標示共有 9 條雪道，初級 40%、中級 30%、上級 30%。"
+  summary: "宮城藏王白石位於南藏王不忘山，有天然粉雪、緩坡、中斜面與新雪路線。共有 9 條雪道，初級 40%、中級 30%、上級 30%。"
 lifts:
   total: 4
 terrainSummary:
-  beginner: "Weathernews 顯示宮城藏王白石初級雪道占 40%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
-  intermediate: "Weathernews 顯示中級雪道占 30%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
-  advanced: "Weathernews 顯示上級雪道占 30%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
-  snowboard: "Weathernews 標示雪板可全區滑行。"
-  powder: "Weathernews 介紹宮城藏王白石位於南藏王不忘山，有天然粉雪、緩坡、中斜面與新雪路線。 粉雪與積雪狀況會隨天候變動，請以官方公告與 Weathernews 即時資訊為準。"
+  beginner: "宮城藏王白石初級雪道占 40%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
+  intermediate: "中級雪道占 30%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
+  advanced: "上級雪道占 30%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
+  snowboard: "雪板可全區滑行。"
+  powder: "宮城藏王白石位於南藏王不忘山，有天然粉雪、緩坡、中斜面與新雪路線。粉雪與積雪狀況會隨天候變動，請以官方公告與當日資訊為準。"
 externalContent:
   blogs: []
   vlogs: []
@@ -96,4 +96,4 @@ sources:
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
-宮城藏王白石位於宮城縣白石市福岡八宮字不忘山，Weathernews 東北人氣排名頁列為第 8 名；Weathernews 標示共有 9 條雪道與 4 座纜車，雪板可全區滑行。
+宮城藏王白石位於宮城縣白石市福岡八宮字不忘山，東北人氣雪場清單列為第 8 名；共有 9 條雪道與 4 座纜車，雪板可全區滑行。

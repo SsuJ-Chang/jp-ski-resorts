@@ -27,7 +27,7 @@ contact:
 season:
   label: 2025-2026
   operatingPeriod: 營業期間依積雪與官方公告調整
-  note: 官方頁面未列固定雪季日期；出發前請以官方設施頁、電話或 Weathernews 資訊確認。
+  note: 官方頁面未列固定雪季日期；出發前請以官方設施頁、電話或 公開雪況資訊確認。
   source: https://www.city.nanao.lg.jp/syougai/shisetsu/korosa.html
 tickets:
   season: 2025-2026

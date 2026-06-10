@@ -1,4 +1,4 @@
-﻿---
+---
 id: snow-park-yeti
 name:
   zhTw: Snow Park YETI
@@ -27,13 +27,13 @@ season:
   operatingPeriod: 2025/10/24-2026/3/29
   hours: 平日 9:00-22:00、假日 9:00-22:00
   nightSkiingHours: 17:00-22:00
-  note: Weathernews 標示營業至 22:00 並有夜滑；實際營業日與雪道開放請以官方公告為準。
+  note: 營業至 22:00 並有夜滑；實際營業日與雪道開放請以官方公告為準。
   source: https://weathernews.jp/ski/spot/35003/
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/35003/
-  note: 主要票種依 Weathernews 2025-2026 雪場資料整理；完整票價、營業時段與直行巴士資訊請以官方為準。
+  note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、營業時段與直行巴士資訊請以官方為準。
   plans:
   - name: 土日祝 1 日券
     audience: 成人、兒童、長者
@@ -119,7 +119,7 @@ terrainSummary:
   beginner: 初級約 50%，適合第一次滑雪或短時間體驗。
   intermediate: 中級約 40%，可在小型雪場內練習連續轉彎。
   advanced: 上級約 10%，進階路線比例較低。
-  snowboard: Weathernews 標示雪板可全區滑行。
+  snowboard: 雪板可全區滑行。
 sources:
 - label: FUJIYAMA SNOW RESORT YETI Official Website
   url: https://www.yeti-resort.com/
@@ -128,4 +128,4 @@ sources:
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
 ---
-Snow Park YETI 位於靜岡縣裾野市富士山二合目，Weathernews 介紹它可由首都圈與靜岡搭巴士前往，並有夜滑時段，適合短天數雪上體驗。
+Snow Park YETI 位於靜岡縣裾野市富士山二合目，它可由首都圈與靜岡搭巴士前往，並有夜滑時段，適合短天數雪上體驗。

@@ -36,7 +36,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34816/
-  note: 主要票種依 Weathernews 2025-2026 雪場資料整理；完整票價、販售條件與 IC 卡規則請以官方為準。
+  note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、販售條件與 IC 卡規則請以官方為準。
   plans:
   - name: All Area 1 日券
     audience: 成人、兒童、長者
@@ -95,7 +95,7 @@ courses:
   intermediateRatio: 60
   advancedRatio: 20
   courseInfoPage: https://sugadaira-snowresort.com/condition/
-  summary: Weathernews 標示菅平高原共有 60 條雪道、18 座纜車；雪道名稱依官方網站連結的 Yukiyama 數位地圖整理，該地圖未公開各路線全長與坡度時不另行補值。
+  summary: 菅平高原共有 60 條雪道、18 座纜車；雪道名稱依官方網站連結的 Yukiyama 數位地圖整理，該地圖未公開各路線全長與坡度時不另行補值。
   details:
   - name: 奥ダボスゲレンデ　上級
     difficulty: advanced
@@ -283,7 +283,7 @@ terrainSummary:
   beginner: 初級雪道約 20%，可作為練習坡與暖身路線規劃參考。
   intermediate: 中級雪道比例最高，適合想在大範圍高原雪道巡航的滑雪者。
   advanced: 上級雪道約 20%，可搭配不同區域安排進階滑行。
-  snowboard: Weathernews 標示雪板可全區滑行。
+  snowboard: 雪板可全區滑行。
 sources:
 - label: Sugadaira Kogen Snow Resort Official Website
   url: https://sugadaira-snowresort.com/
@@ -294,4 +294,4 @@ sources:
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
 ---
-菅平高原 Snow Resort 位於長野縣上田市，Weathernews 介紹它以首都圈交通距離、寬廣高原雪道與 60 條雪道規模為特色。資料先以 Weathernews 與官方網站作為靜態初版，實際營業與票價請以官方公告為準。
+菅平高原 Snow Resort 位於長野縣上田市，它以首都圈交通距離、寬廣高原雪道與 60 條雪道規模為特色。資料先以公開資料與官方網站作為靜態初版，實際營業與票價請以官方公告為準。

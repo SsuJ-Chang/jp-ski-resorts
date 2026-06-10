@@ -16,7 +16,7 @@ tags:
 homeRegionExample: true
 visibility:
   status: "published"
-  note: "Weathernews 北海道人氣排行榜前 20 名雪場；資料以 Weathernews spot 頁與官方網站整理。"
+  note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://rusutsu.com/rusutsu-in-winter/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Rusutsu%20Resort"
@@ -33,14 +33,14 @@ season:
   label: "2025-2026"
   operatingPeriod: "2025/12/5-2026/3/31"
   hours: "平日：9:00〜20:00 ※季票始めと3/31は17:00まで 假日：9:00〜20:00 ※季票始めと3/31は17:00まで 夜滑：16:00〜20:00"
-  note: "營業期間、營業時間與票價為 Weathernews 2025-2026 雪季頁面資訊；實際營運會受積雪、天候與官方公告影響。"
+  note: "營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。"
   source: "https://weathernews.jp/ski/spot/31601/"
   nightSkiingHours: "16:00〜20:00"
 tickets:
   season: "2025-2026"
   currency: "JPY"
   source: "https://weathernews.jp/ski/spot/31601/"
-  note: "主要票種摘要取自 Weathernews；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。"
+  note: "主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。"
   plans:
   - name: "25 小時券（窗口購買）"
     audience: "成人、兒童、長者"
@@ -97,19 +97,19 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: "https://weathernews.jp/ski/spot/31601/"
-  summary: "留壽都 Resort 在 Weathernews 北海道人氣排名第 5 名。Weathernews 顯示共有 37 條雪道、18 座纜車，難度比例為初級 30%、中級 40%、上級 30%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  summary: "留壽都 Resort 在北海道人氣雪場清單列為第 5 名。共有 37 條雪道、18 座纜車，難度比例為初級 30%、中級 40%、上級 30%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
 lifts:
   total: 18
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "Weathernews 交通案內：電車：JR札幌駅近くの加森ビル3由予約制の免費接駁巴士「ルスツ号」にて (120分) 自駕：札幌市街地由車で (90分) 自駕：新千歳空港由車で (90分) 機場：新千歳空港由予約制の有料巴士「ビッグランズ号」にて (120分)"
+    note: "交通資訊摘要：電車：JR札幌駅近くの加森ビル3由予約制の免費接駁巴士「ルスツ号」にて (120分) 自駕：札幌市街地由車で (90分) 自駕：新千歳空港由車で (90分) 機場：新千歳空港由予約制の有料巴士「ビッグランズ号」にて (120分)"
 terrainSummary:
-  beginner: "Weathernews 顯示初級雪道佔 30%，可作為安排練習與暖身的參考。"
-  intermediate: "Weathernews 顯示中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。"
-  advanced: "Weathernews 顯示上級雪道佔 30%，進階路線請依當日雪況與官方管制判斷。"
-  snowboard: "Weathernews 標示雪板可滑行。"
+  beginner: "初級雪道佔 30%，可作為安排練習與暖身的參考。"
+  intermediate: "中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。"
+  advanced: "上級雪道佔 30%，進階路線請依當日雪況與官方管制判斷。"
+  snowboard: "雪板可滑行。"
   powder: "北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。"
 sources:
 - label: "ルスツリゾート Official"
@@ -119,4 +119,4 @@ sources:
 - label: "Weathernews 北海道人氣排行"
   url: "https://weathernews.jp/ski/area/hokkaido/ranking.html"
 ---
-留壽都 Resort 在 Weathernews 北海道人氣排名第 5 名。Weathernews 顯示共有 37 條雪道、18 座纜車。本頁為靜態資料整理，出發前請以官方公告與 Weathernews 為準。
+留壽都 Resort 在北海道人氣雪場清單列為第 5 名。共有 37 條雪道、18 座纜車。本頁為靜態資料整理，出發前請以官方公告與當日資訊為準。

@@ -18,7 +18,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/10/31-2026/03/29
   hours: 平日：10:00〜21:00 休日：10:00〜21:00 ナイター：17:00〜21:00
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34303/
 trailMaps:
 - label: 狹山 官方雪道資訊
@@ -65,7 +65,7 @@ snowWeather:
 courses:
   total: 1
   courseInfoPage: https://sayamaski.jp/slope.html
-  summary: Weathernews 列為 1 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 共 1 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: 屋內人工雪ゲレンデ
     difficulty: beginner
@@ -90,7 +90,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34303/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: ワンデーチケット
     price: 成人 ¥4,000 兒童 ¥1,000
@@ -109,7 +109,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：狭山線 西武球場前駅下車 摩湖線 多摩湖駅乗り換え 山口線（レオライナー）「西武球場前」駅下車 車 ：関越自動車道所沢ICより30分 圏央道入間ICより20分 中央自動車道国立府中ICより60分
+    note: 交通資訊摘要：狭山線 西武球場前駅下車 摩湖線 多摩湖駅乗り換え 山口線（レオライナー）「西武球場前」駅下車 車 ：関越自動車道所沢ICより30分 圏央道入間ICより20分 中央自動車道国立府中ICより60分
       当施設の専用駐車場はございません。台
 ---
-狹山（狭山スキー場）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+狹山（狭山スキー場）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

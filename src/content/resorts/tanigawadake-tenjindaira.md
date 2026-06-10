@@ -30,7 +30,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/4/5
   hours: 8:30-16:30（纜車至 16:00）
-  note: 官方 Mt.T 頁與 Weathernews 均列 2025/12/20-2026/4/5，實際開放與田尻沢コース會受積雪、雪崩風險與天候影響。
+  note: 官方 Mt.T 頁與公開資料均列 2025/12/20-2026/4/5，實際開放與田尻沢コース會受積雪、雪崩風險與天候影響。
   source: https://tanigawadake-joch.com/mt-t/
 trailMaps:
   - label: Mt.T 官方 Snowfield Map
@@ -115,20 +115,20 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://tanigawadake-joch.com/mt-t/
-  summary: 官方 Mt.T 頁提供 Snowfield Map，Weathernews 列為 8 條雪道、4 座纜車，並強調 100% 天然雪、粉雪與起伏地形，文字可確認的重點區域包含天神峠上級區與田尻沢コース A。
+  summary: 官方 Mt.T 頁提供 Snowfield Map，列為 8 條雪道、4 座纜車，並強調 100% 天然雪、粉雪與起伏地形，文字可確認的重點區域包含天神峠上級區與田尻沢コース A。
   details:
     - name: 天神平エリア
       difficulty: beginner
-      note: 官方條件頁以天神平纜車與 Ropeway 作為主要營運資訊，Weathernews 顯示整體初級比例為 30%。
+      note: 官方條件頁以天神平纜車與 Ropeway 作為主要營運資訊，整體初級比例為 30%。
     - name: 高倉山第一ペアリフトエリア
       difficulty: intermediate
-      note: Weathernews 說明田尻沢コース A 從高倉山第一ペアリフト乘車處附近開始，屬雪場重要連絡區域。
+      note: 公開資料說明田尻沢コース A 從高倉山第一ペアリフト乘車處附近開始，屬雪場重要連絡區域。
     - name: 天神峠ペアリフト上級エリア
       difficulty: advanced
-      note: Weathernews 說明此區是名物未壓雪區域，降雪後可先瞄準這裡，上部有超過 30 度的滑行感。
+      note: 公開資料說明此區是名物未壓雪區域，降雪後可先瞄準這裡，上部有超過 30 度的滑行感。
     - name: 田尻沢コース A
       difficulty: advanced
-      note: Weathernews 說明此路線從高倉山第一ペアリフト乘車處開始，上部為未壓雪急斜面，並可一路長滑至底部，開放與否需依官方現場判斷。
+      note: 公開資料說明此路線從高倉山第一ペアリフト乘車處開始，上部為未壓雪急斜面，並可一路長滑至底部，開放與否需依官方現場判斷。
 lifts:
   total: 4
 access:
@@ -154,13 +154,13 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 標示可由關越道水上 IC 銜接，冬季山岳道路與停車場狀況需事先確認。
+    note: 可由關越道水上 IC 銜接，冬季山岳道路與停車場狀況需事先確認。
 terrainSummary:
-  beginner: Weathernews 列整體初級比例 30%，但官方定位偏粉雪與自然地形，初學者需確認當日開放雪道。
+  beginner: 公開資料列整體初級比例 30%，但官方定位偏粉雪與自然地形，初學者需確認當日開放雪道。
   intermediate: 天神平與高倉山周邊提供中級動線，實際可滑範圍會受天候、風雪與雪崩風險影響。
   advanced: 天神峠上級區與田尻沢コース A 是粉雪與未壓雪重點，部分區域超過 30 度。
-  snowboard: Weathernews 標示雪板全面可滑，官方要求攜帶雙板或雪板搭乘 Ropeway 時需購買對應滑雪票券。
-  powder: 官方定位為 Ultimate Powder Field，Weathernews 亦標示 100% 天然雪與 powder snow 特性。
+  snowboard: 雪板可全區滑行，官方要求攜帶雙板或雪板搭乘 Ropeway 時需購買對應滑雪票券。
+  powder: 官方定位為 Ultimate Powder Field，公開資料亦標示 100% 天然雪與 powder snow 特性。
 externalContent:
   blogs: []
   vlogs: []

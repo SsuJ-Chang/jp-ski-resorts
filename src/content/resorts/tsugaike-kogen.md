@@ -32,7 +32,7 @@ season:
   operatingPeriod: 2025/12/1-2026/5/6
   hours: 8:00-17:00
   nightSkiingHours: 無夜滑
-  note: 初版依 Weathernews 與官方票價頁整理、春滑與實際開放請以官方公告為準。
+  note: 初版依公開資料與官方票價頁整理，春滑與實際開放請以官方公告為準。
   source: https://www.tsugaike.gr.jp/snow/price
 trailMaps:
 - label: 栂池高原雪場圖

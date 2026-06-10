@@ -18,7 +18,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/12/27-2026/03/22
   hours: 平日：8:30〜16:00 休日：8:30〜16:30 ナイター：なし
-  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36801/
 trailMaps:
 - label: 瑞穗 Highland 官方雪道資訊
@@ -65,7 +65,7 @@ snowWeather:
 courses:
   total: 5
   courseInfoPage: https://www.mizuhohighland.com/course/
-  summary: Weathernews 列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  summary: 列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: ナスターコース
     difficulty: beginner
@@ -99,7 +99,7 @@ terrainSummary:
   beginner: 初級雪道以 ナスターコース、ビーチコース 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 スカイラインコース、チェスナットコース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 ラビットコース，請依當日開放狀態與雪況判斷。
-  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 sources:
 - label: Mizuho Highland Official
   url: https://www.mizuhohighland.com/
@@ -117,7 +117,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36801/
-  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 休日1日券（休日）
     price: 成人 ¥6,500 兒童 ¥2,900
@@ -144,7 +144,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: Weathernews 交通資訊摘要：山陽本線広島駅からバスで (70分) 車 ：広島IC→瑞穂IC→一般道 (50分) 車 ：岡山IC→瑞穂IC→一般道 (161分) 飛行機：広島空港 (100分) 2000台 平日 普通車1000円大型車2000円
+    note: 交通資訊摘要：山陽本線広島駅からバスで (70分) 車 ：広島IC→瑞穂IC→一般道 (50分) 車 ：岡山IC→瑞穂IC→一般道 (161分) 飛行機：広島空港 (100分) 2000台 平日 普通車1000円大型車2000円
       休日 普通車1000円大型車2000円
 ---
-瑞穗 Highland（瑞穂ハイランド）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
+瑞穗 Highland（瑞穂ハイランド）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

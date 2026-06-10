@@ -30,13 +30,13 @@ season:
   operatingPeriod: 2025/12/5-2026/3/22
   hours: 9:00-17:00
   nightSkiingHours: 17:30-21:00
-  note: 初版依 Weathernews 公開資訊整理；實際營業日、夜滑日期與開放雪道請以官方公告為準。
+  note: 初版依公開資料整理；實際營業日、夜滑日期與開放雪道請以官方公告為準。
   source: https://weathernews.jp/ski/spot/38301/
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/38301/
-  note: 初版先依 Weathernews 公開的主要票種整理；完整票價、租借與優惠規則請以官方當季公告為準。
+  note: 初版先依公開資料整理主要票種；完整票價、租借與優惠規則請以官方當季公告為準。
   plans:
   - name: 平日 1 日券
     audience: 成人、兒童、長者
@@ -95,7 +95,7 @@ courses:
   beginnerRatio: 20
   intermediateRatio: 30
   advancedRatio: 50
-  summary: 九重森林公園位於大分縣九重町，Weathernews 公開資訊列為 6 條雪道、3 座纜車，並設有夜滑時段；詳細雪道名稱與開放狀態仍需以官方公告確認。
+  summary: 九重森林公園位於大分縣九重町，公開資料列為 6 條雪道、3 座纜車，並設有夜滑時段；詳細雪道名稱與開放狀態仍需以官方公告確認。
 lifts:
   total: 3
 access:
@@ -104,10 +104,10 @@ access:
     snowTireRequired: true
     note: 九州山區冬季仍可能有積雪或結冰，建議出發前確認道路狀況並準備雪胎或雪鏈。
 terrainSummary:
-  beginner: Weathernews 列初級比例 20%，初版先標示為有初級路線，詳細適合程度需後續依官方雪道資料補強。
-  intermediate: Weathernews 列中級比例 30%，可作為初版雪道結構參考。
-  advanced: Weathernews 列上級比例 50%，實際開放與雪況請以官方公告確認。
-  snowboard: Weathernews 標示雪板全面可滑，實際仍需遵守官方現場規則。
+  beginner: 公開資料列初級比例 20%，初版先標示為有初級路線，詳細適合程度需後續依官方雪道資料補強。
+  intermediate: 公開資料列中級比例 30%，可作為初版雪道結構參考。
+  advanced: 公開資料列上級比例 50%，實際開放與雪況請以官方公告確認。
+  snowboard: 雪板可全區滑行，實際仍需遵守官方現場規則。
 externalContent:
   blogs: []
   vlogs: []
@@ -116,6 +116,6 @@ sources:
   url: https://www.kujyuski.co.jp/
 - label: くじゅうスキー場 Weathernews
   url: https://weathernews.jp/ski/spot/38301/
-  note: 使用者指定附上的 Weathernews 雪場頁。
+  note: 使用者指定附上的雪場資料頁。
 ---
-九重森林公園位於大分縣九重町，是九州地區可安排滑雪與溫泉旅行的冬季目的地。初版先收錄官方入口與 Weathernews 公開資訊，票價、營業日與詳細雪道資料後續仍需以官方當季公告補強。
+九重森林公園位於大分縣九重町，是九州地區可安排滑雪與溫泉旅行的冬季目的地。初版先收錄官方入口與公開資料，票價、營業日與詳細雪道資料後續仍需以官方當季公告補強。
