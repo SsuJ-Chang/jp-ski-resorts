@@ -1,0 +1,98 @@
+---
+id: "iwate-kogen-snow-park"
+name:
+  zhTw: "岩手高原 Snow Park"
+  ja: "岩手高原スノーパーク"
+  en: "Iwate Kogen Snow Park"
+region: "tohoku"
+prefecture: "岩手縣"
+tags:
+  - "family_friendly"
+  - "snowboard_friendly"
+visibility:
+  status: "published"
+  note: "Weathernews 東北人氣排名頁列入的雪場；初版以 Weathernews 2025-2026 雪季頁面與官方首頁整理。"
+links:
+  official: "http://www.iwatekogen.jp/"
+  weather: "https://weathernews.jp/ski/spot/33309/"
+  googleMaps: "https://www.google.com/maps/search/?api=1&query=Iwate%20Kogen%20Snow%20Park"
+contact:
+  address:
+    zhTw: "日本岩手縣岩手郡雫石町長山字岩手山"
+    ja: "〒020-0585 岩手県岩手郡雫石町長山字岩手山"
+    googleMaps: "https://www.google.com/maps/search/?api=1&query=Iwate%20Kogen%20Snow%20Park"
+  phone: "019-693-4000"
+season:
+  label: "2025-2026"
+  operatingPeriod: "2025/12/13-2026/03/31"
+  note: "營業期間為 Weathernews 2025-2026 雪季頁面資訊；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
+  source: "https://weathernews.jp/ski/spot/33309/"
+snowWeather:
+  title: "岩手高原 Snow Park雪況天氣"
+  provider: "Weathernews"
+  url: "https://weathernews.jp/ski/spot/33309/"
+  snowDepth: "200 cm"
+  updatedAt: "2026/4/30 09:00:00"
+  forecast:
+    - date: "12/27(六)"
+      weather: "雪"
+      low: "-5°C"
+      high: "4°C"
+    - date: "12/28(日)"
+      weather: "大雪"
+      low: "-8°C"
+      high: "0°C"
+    - date: "12/29(一)"
+      weather: "大雪"
+      low: "-9°C"
+      high: "-2°C"
+    - date: "12/30(二)"
+      weather: "陰"
+      low: "-5°C"
+      high: "0°C"
+    - date: "12/31(三)"
+      weather: "雪"
+      low: "-3°C"
+      high: "3°C"
+    - date: "1/1(四)"
+      weather: "晴"
+      low: "-4°C"
+      high: "1°C"
+    - date: "1/2(五)"
+      weather: "雨"
+      low: "8°C"
+      high: "3°C"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+location:
+  latitude: 39.813961
+  longitude: 140.966088
+elevation:
+  top: 1213
+  bottom: 630
+  verticalDrop: 583
+courses:
+  total: 10
+  beginnerRatio: 30
+  intermediateRatio: 50
+  advancedRatio: 20
+  courseInfoPage: "https://weathernews.jp/ski/spot/33309/"
+  summary: "Weathernews 介紹岩手高原 Snow Park 有箱型纜車、多樣雪道配置與服務設施，並標示小學生以下可免費搭乘纜車與箱型纜車。 Weathernews 標示共有 10 條雪道，初級 30%、中級 50%、上級 20%。"
+lifts:
+  total: 7
+terrainSummary:
+  beginner: "Weathernews 顯示岩手高原 Snow Park初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
+  intermediate: "Weathernews 顯示中級雪道占 50%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
+  advanced: "Weathernews 顯示上級雪道占 20%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
+  snowboard: "Weathernews 標示雪板可全區滑行。"
+externalContent:
+  blogs: []
+  vlogs: []
+sources:
+  - label: "岩手高原スノーパーク Official Website"
+    url: "http://www.iwatekogen.jp/"
+  - label: "Weathernews 岩手高原スノーパーク"
+    url: "https://weathernews.jp/ski/spot/33309/"
+  - label: "Weathernews 東北のスキー場人気ランキング"
+    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
+---
+岩手高原 Snow Park 位於岩手縣岩手郡雫石町長山字岩手山，Weathernews 東北人氣排名頁列為第 11 名；Weathernews 標示共有 10 條雪道與 7 座纜車，雪板可全區滑行。

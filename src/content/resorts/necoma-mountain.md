@@ -251,5 +251,7 @@ sources:
   url: https://www.nekoma.co.jp/price/
 - label: NEKOMA Mountain Weathernews
   url: https://weathernews.jp/ski/spot/33632/
+- label: Weathernews 東北のスキー場人気ランキング
+  url: https://weathernews.jp/ski/area/tohoku/ranking.html
 ---
 Necoma Mountain 是由舊 Alts 磐梯與舊貓魔滑雪場以連結纜車整合而成的大型雪場，橫跨磐梯山南北兩側。南區有豬苗代湖景觀、夜滑與長距離路線，北區則以粉雪、樹林與春季營業聞名。

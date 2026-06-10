@@ -207,5 +207,7 @@ sources:
   url: https://resort.en-hotel.com/grandeco/snow/ja/
 - label: Grandeco Snow Resort Weathernews
   url: https://weathernews.jp/ski/spot/33609/
+- label: Weathernews 東北のスキー場人気ランキング
+  url: https://weathernews.jp/ski/area/tohoku/ranking.html
 ---
 Grandeco 位於福島縣北鹽原村裏磐梯一帶，海拔較高，雪季時間通常較長。官方雪道以山頂景觀巡航、粉雪與 freeride 取向路線，加上飯店連接動線構成。
