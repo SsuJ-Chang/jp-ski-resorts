@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css'
 import HeaderSearch from '../components/HeaderSearch.astro'
+import GoogleAnalytics from '../components/GoogleAnalytics.astro'
 import { withBasePath } from '../utils/paths'
 
 type Props = {
@@ -29,6 +30,7 @@ const authorHomeUrl = 'https://rj-tw.com/'
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href={withBasePath('/favicon.svg')} />
     <title>{title}</title>
+    <GoogleAnalytics />
   </head>
   <body class={bodyClass}>
     <header class="site-header">

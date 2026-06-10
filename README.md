@@ -70,6 +70,12 @@ Useful scripts:
 - `npm run build`: run `astro check` and build the static site.
 - `npm run preview`: preview the production build locally.
 
+## Analytics
+
+Production builds load Google Analytics 4 for pageview analytics.
+
+Set `PUBLIC_GA_MEASUREMENT_ID` only when replacing the GA4 stream.
+
 ## Deployment
 
 The site is configured for GitHub Pages at:
