@@ -23,6 +23,7 @@
 | `skiArea` | 否 | enum | 滑雪旅行區，例如 `hakuba`、`yuzawa`。必須使用現有 `skiAreaKeys`。 |
 | `tags` | 否 | array | 雪場特色標籤。未填時預設為空陣列。 |
 | `visibility` | 否 | object | 控制是否公開顯示。 |
+| `homeRegionExample` | 否 | boolean | 是否作為首頁右側 region 列表的範例雪場候選。 |
 | `links` | 是 | object | 官方網站與外部資訊連結。 |
 | `contact` | 否 | object | 地址、Google Maps、電話。 |
 | `season` | 否 | object | 雪季、營業期間與時間。 |
@@ -125,6 +126,19 @@ tree_run
 - `published`：公開顯示。
 - `draft`：資料仍在整理。
 - `hidden`：保留資料，但前台不顯示。
+
+## `homeRegionExample`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `homeRegionExample` | 否 | boolean | 設為 `true` 時，此雪場會成為首頁右側 region 列表的範例雪場候選。 |
+
+使用規則：
+
+- 首頁每個 region 最多顯示 2 座範例雪場。
+- 只會取 `visibility.status` 為 `published` 的雪場。
+- 建議每個 region 只標記 2 座，避免實際顯示結果不符合預期。
+- 若同一 region 標記超過 2 座，畫面會依已發布 `skiArea.featuredResorts` 的順序優先顯示；未列在 `featuredResorts` 的雪場再依繁中名稱排序補上。
 
 ## `links`
 

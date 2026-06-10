@@ -110,6 +110,7 @@ const resorts = defineCollection({
         note: z.string().optional(),
       })
       .default({ status: 'published' }),
+    homeRegionExample: z.boolean().optional(),
     links: linkSchema,
     contact: z
       .object({

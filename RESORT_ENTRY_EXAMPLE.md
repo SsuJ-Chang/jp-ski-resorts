@@ -29,6 +29,7 @@ tags:
 visibility:
   status: published
   note: 對外顯示。若資料未完成可改為 draft 或 hidden。
+homeRegionExample: true
 links:
   official: https://example.com/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Example%20Snow%20Resort

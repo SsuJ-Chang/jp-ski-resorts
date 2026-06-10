@@ -21,30 +21,35 @@ const resorts = filterPublishedResorts(await getCollection('resorts'))
 const resortCount = resorts.length
 const regionExampleLimit = 2
 const regionExampleCollator = new Intl.Collator('zh-Hant-TW')
-const resortById = new Map(resorts.map((resort) => [resort.id, resort]))
 type Resort = (typeof resorts)[number]
 
-// 首頁範例雪場優先採用已發布 ski area 的 featuredResorts；不足兩座才用繁中名稱排序補足。
-const getRegionExampleNames = (regionKey: (typeof regions)[number]['key'], regionResorts: Resort[]) => {
-  const examples: Resort[] = []
-  const selectedIds = new Set<string>()
+const featuredResortOrder = new Map<string, number>()
 
-  const addExample = (resort?: Resort) => {
-    if (!resort || resort.data.region !== regionKey || selectedIds.has(resort.id)) return
-    examples.push(resort)
-    selectedIds.add(resort.id)
+publishedSkiAreaKeys.forEach((areaKey, areaIndex) => {
+  const area = skiAreas[areaKey]
+  area.featuredResorts.forEach((resortId, resortIndex) => {
+    featuredResortOrder.set(resortId, areaIndex * 100 + resortIndex)
+  })
+})
+
+const sortRegionExamples = (a: Resort, b: Resort) => {
+  const orderA = featuredResortOrder.get(a.id) ?? Number.MAX_SAFE_INTEGER
+  const orderB = featuredResortOrder.get(b.id) ?? Number.MAX_SAFE_INTEGER
+
+  if (orderA !== orderB) {
+    return orderA - orderB
   }
 
-  publishedSkiAreaKeys.forEach((areaKey) => {
-    const area = skiAreas[areaKey]
-    if (area.region !== regionKey) return
-    area.featuredResorts.forEach((resortId) => addExample(resortById.get(resortId)))
-  })
-
-  regionResorts.forEach(addExample)
-
-  return examples.slice(0, regionExampleLimit).map((resort) => resort.data.name.zhTw)
+  return regionExampleCollator.compare(a.data.name.zhTw, b.data.name.zhTw)
 }
+
+// 首頁範例雪場由 resort frontmatter 的 homeRegionExample boolean 控制。
+const getRegionExampleNames = (regionResorts: Resort[]) =>
+  regionResorts
+    .filter((resort) => resort.data.homeRegionExample)
+    .sort(sortRegionExamples)
+    .slice(0, regionExampleLimit)
+    .map((resort) => resort.data.name.zhTw)
 
 const regionStats = regions.map((region) => {
   const regionResorts = resorts
@@ -55,7 +60,7 @@ const regionStats = regions.map((region) => {
     ...region,
     tone: toneByRegion[region.key],
     count: regionResorts.length,
-    examples: getRegionExampleNames(region.key, regionResorts),
+    examples: getRegionExampleNames(regionResorts),
   }
 })
 ---
