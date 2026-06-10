@@ -229,6 +229,8 @@ terrainSummary:
   snowboard: Hirafu 聚落、夜滑與纜車密度高，是 snowboarder 常用的二世谷核心據點。
   powder: 高處黑線與 gate 外地形需遵守 Niseko Rules，並以官方開放狀態為準。
 sources:
+- label: Weathernews ニセコ東急 グラン・ヒラフ
+  url: https://weathernews.jp/ski/spot/31605/
 - label: Niseko United Grand Hirafu Course Details
   url: https://www.niseko.ne.jp/en/map/grand-hirafu/
 - label: Niseko United Trail Map 2025-2026

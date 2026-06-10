@@ -20,7 +20,7 @@ links:
   trailMapPdf: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
   ticket: https://www.niseko.ne.jp/en/lift/
   access: https://www.niseko.ne.jp/en/niseko-access/
-  weather: https://weathernews.jp/ski/spot/31605/
+  weather: https://weathernews.jp/ski/spot/31603/
   liftStatus: https://www.niseko.ne.jp/en/niseko-lift-status/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20Annupuri%20International%20Ski%20Area
 contact:
@@ -67,7 +67,7 @@ tickets:
 snowWeather:
   title: 二世谷 Annupuri 雪況天氣
   provider: Weathernews
-  url: https://weathernews.jp/ski/spot/31605/
+  url: https://weathernews.jp/ski/spot/31603/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:
@@ -187,6 +187,8 @@ terrainSummary:
   snowboard: 地形寬度與坡度變化較溫和，適合與 Niseko Village 串成西側行程。
   powder: 高難度林間與深雪路線需遵守 Niseko Rules 與官方開放狀態。
 sources:
+- label: Weathernews ニセコアンヌプリ国際スキー場
+  url: https://weathernews.jp/ski/spot/31603/
 - label: Niseko United Annupuri Course Details
   url: https://www.niseko.ne.jp/en/map/annupuri/
 - label: Niseko United Trail Map 2025-2026

@@ -21,7 +21,7 @@ links:
   trailMapPdf: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
   ticket: https://www.niseko.ne.jp/en/lift/
   access: https://www.niseko.ne.jp/en/niseko-access/
-  weather: https://weathernews.jp/ski/spot/31605/
+  weather: https://weathernews.jp/ski/spot/31618/
   liftStatus: https://www.niseko.ne.jp/en/niseko-lift-status/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20Hanazono%20Resort
 contact:
@@ -68,7 +68,7 @@ tickets:
 snowWeather:
   title: 二世谷 HANAZONO 雪況天氣
   provider: Weathernews
-  url: https://weathernews.jp/ski/spot/31605/
+  url: https://weathernews.jp/ski/spot/31618/
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:
@@ -183,6 +183,8 @@ terrainSummary:
   snowboard: 地形公園與長距離滑行線明確，適合和 Hirafu 一起安排。
   powder: 東側樹林與非壓雪路線需依官方開放與 Niseko Rules 滑行。
 sources:
+- label: Weathernews ニセコHANAZONOリゾート
+  url: https://weathernews.jp/ski/spot/31618/
 - label: Niseko United Hanazono Course Details
   url: https://www.niseko.ne.jp/en/map/hanazono/
 - label: Niseko United Trail Map 2025-2026
