@@ -72,22 +72,22 @@ courses:
   - name: チェリーコース
     difficulty: beginner
     length: 400m
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；官方資料並列出全長 400m。
   - name: パインコース
     difficulty: intermediate
-    note: 官方介紹為人工造雪主線。
+    note: 官方介紹為人工造雪主線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: エルムコース
     difficulty: intermediate
-    note: 起段較陡、後段較緩的路線。
+    note: 起段較陡、後段較緩的路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: メイプルコース
     difficulty: intermediate
     note: 人工造雪路線，可銜接 Elm / Cherry。
   - name: 林間コース
     difficulty: intermediate
-    note: 林間巡航路線。
+    note: 林間巡航路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: オークコース
     difficulty: advanced
-    note: 官方列名 Oak 路線。
+    note: 官方列名 Oak 路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ヒッコリーコース
     difficulty: advanced
     maxSlope: 25°

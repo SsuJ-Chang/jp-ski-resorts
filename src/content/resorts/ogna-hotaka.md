@@ -73,79 +73,79 @@ courses:
     length: 550m
     maxSlope: 20°
     averageSlope: 12°
-    note: 山麓側初級坡。
+    note: 山麓側初級坡；官方資料並列出全長 550m、最大坡度 20°、平均坡度 12°。
   - name: ロマンス連絡コース
     difficulty: beginner
     length: 250m
     maxSlope: 18°
     averageSlope: 13°
-    note: Romance 區連絡線。
+    note: Romance 區連絡線；官方資料並列出全長 250m、最大坡度 18°、平均坡度 13°。
   - name: ロマンスコース
     difficulty: beginner
     length: 1,500m
     maxSlope: 12°
     averageSlope: 8°
-    note: 長距離緩坡。
+    note: 長距離緩坡；官方資料並列出全長 1,500m、最大坡度 12°、平均坡度 8°。
   - name: 初級者迂回コース
     difficulty: beginner
     length: 1,040m
     maxSlope: 3°
     averageSlope: 2°
-    note: 坡度很緩的迂迴路線。
+    note: 坡度很緩的迂迴路線；官方資料並列出全長 1,040m、最大坡度 3°、平均坡度 2°。
   - name: スラロームコース
     difficulty: intermediate
     length: 400m
     maxSlope: 30°
     averageSlope: 22°
-    note: 中級 slalom 取向路線。
+    note: 中級 slalom 取向路線；官方資料並列出全長 400m、最大坡度 30°、平均坡度 22°。
   - name: 第4ゲレンデ
     difficulty: intermediate
     length: 850m
     maxSlope: 28°
     averageSlope: 18°
-    note: 中級坡面。
+    note: 中級坡面；官方資料並列出全長 850m、最大坡度 28°、平均坡度 18°。
   - name: 大沢コース
     difficulty: intermediate
     length: 450m
     maxSlope: 25°
     averageSlope: 20°
-    note: 中級路線。
+    note: 中級路線；官方資料並列出全長 450m、最大坡度 25°、平均坡度 20°。
   - name: ほたかスカイウェイ
     difficulty: intermediate
     length: 2,250m
     maxSlope: 26°
     averageSlope: 14°
-    note: 長距離中級巡航線。
+    note: 長距離中級巡航線；官方資料並列出全長 2,250m、最大坡度 26°、平均坡度 14°。
   - name: 第5ゲレンデ
     difficulty: intermediate
     length: 500m
     maxSlope: 12°
     averageSlope: 10°
-    note: 中級坡面。
+    note: 中級坡面；官方資料並列出全長 500m、最大坡度 12°、平均坡度 10°。
   - name: 第6ゲレンデ
     difficulty: intermediate
     length: 750m
     maxSlope: 25°
     averageSlope: 18°
-    note: 中級坡面。
+    note: 中級坡面；官方資料並列出全長 750m、最大坡度 25°、平均坡度 18°。
   - name: エキスパートコース
     difficulty: advanced
     length: 600m
     maxSlope: 32°
     averageSlope: 20°
-    note: 進階路線。
+    note: 進階路線；官方資料並列出全長 600m、最大坡度 32°、平均坡度 20°。
   - name: トレーニングコース
     difficulty: ungroomed
     length: 400m
     maxSlope: 30°
     averageSlope: 20°
-    note: 官方說明可享 powder 感。
+    note: 官方說明可享 powder 感；官方資料並列出全長 400m、最大坡度 30°、平均坡度 20°。
   - name: ウェーデルンコース
     difficulty: ungroomed
     length: 300m
     maxSlope: 30°
     averageSlope: 22°
-    note: 官方列為非壓雪路線。
+    note: 官方列為非壓雪路線；官方資料並列出全長 300m、最大坡度 30°、平均坡度 22°。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

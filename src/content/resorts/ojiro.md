@@ -73,16 +73,16 @@ courses:
   details:
   - name: 大谷第1ゲレンデ
     difficulty: beginner
-    note: 官方介紹為可長距離下滑的坡面。
+    note: 官方介紹為可長距離下滑的坡面；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 谷山第1ゲレンデ
     difficulty: intermediate
-    note: 谷山區整備坡面。
+    note: 谷山區整備坡面；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 谷山第2ゲレンデ
     difficulty: intermediate
-    note: 谷山區中級坡，旁側含非整備變化。
+    note: 谷山區中級坡，旁側含非整備變化；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 中央ゲレンデ
     difficulty: intermediate
-    note: 寬闊的一枚バーン主坡。
+    note: 寬闊的一枚バーン主坡；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 小代ゲレンデ
     difficulty: advanced
     note: 官方介紹為上級一枚バーン，也用於檢定。

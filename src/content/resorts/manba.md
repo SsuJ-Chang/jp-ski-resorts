@@ -72,37 +72,37 @@ courses:
     difficulty: beginner
     length: 500m
     averageSlope: 11°
-    note: 家庭與初級者取向。
+    note: 家庭與初級者取向；官方資料並列出全長 500m、平均坡度 11°。
   - name: 林間コース
     difficulty: beginner
     length: 4,000m
     averageSlope: 10°
-    note: 長距離林間巡航線。
+    note: 長距離林間巡航線；官方資料並列出全長 4,000m、平均坡度 10°。
   - name: ユートピアコース
     difficulty: intermediate
     length: 360m
     averageSlope: 17°
-    note: 中級路線。
+    note: 中級路線；官方資料並列出全長 360m、平均坡度 17°。
   - name: センターホールコース
     difficulty: intermediate
     length: 600m
     averageSlope: 23°
-    note: 中心區中級坡。
+    note: 中心區中級坡；官方資料並列出全長 600m、平均坡度 23°。
   - name: トライアングル B
     difficulty: advanced
     length: 350m
     averageSlope: 20°
-    note: Triangle 區進階線。
+    note: Triangle 區進階線；官方資料並列出全長 350m、平均坡度 20°。
   - name: トライアングル A
     difficulty: advanced
     length: 300m
     averageSlope: 30°
-    note: Triangle 區高坡度路線。
+    note: Triangle 區高坡度路線；官方資料並列出全長 300m、平均坡度 30°。
   - name: トライアングル C
     difficulty: advanced
     length: 200m
     averageSlope: 30°
-    note: Triangle 區高坡度短線。
+    note: Triangle 區高坡度短線；官方資料並列出全長 200m、平均坡度 30°。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

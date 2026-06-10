@@ -147,7 +147,7 @@ courses:
     difficulty: advanced
     length: 800m
     maxSlope: 26°
-    note: 官方說明此路線為未壓雪路線。
+    note: 官方說明此路線為未壓雪路線；官方資料並列出全長 800m、最大坡度 26°。
 lifts:
   total: 6
 access:

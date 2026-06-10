@@ -92,11 +92,11 @@ courses:
   - name: Higashitateyama - Terakoya Connection Course
     difficulty: beginner
     length: 500m
-    note: 連接東館山與寺小屋區域的連絡路。
+    note: 連接東館山與寺小屋區域的連絡路；官方資料並列出全長 500m。
   - name: Higashitateyama Olympic Course (Upper section)
     difficulty: intermediate
     length: 400m
-    note: 奧運使用路線，可感受競賽路線氣氛。
+    note: 奧運使用路線，可感受競賽路線氣氛；官方資料並列出全長 400m。
   - name: Higashitateyama Olympic Course (Middle section)
     difficulty: intermediate
     length: 800m

@@ -97,7 +97,7 @@ courses:
   - name: Sun Valley A + Polar Bear Course
     difficulty: advanced
     length: 650m
-    note: 未壓雪且有饅頭的挑戰型斜面。
+    note: 未壓雪且有饅頭的挑戰型斜面；官方資料並列出全長 650m。
 lifts:
   total: 1
 terrainSummary:

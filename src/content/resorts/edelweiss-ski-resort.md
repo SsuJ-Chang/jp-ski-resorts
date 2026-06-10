@@ -74,52 +74,52 @@ courses:
     difficulty: beginner
     length: 400m
     averageSlope: 5-9°
-    note: 家庭與初級練習坡。
+    note: 家庭與初級練習坡；官方資料並列出全長 400m、平均坡度 5-9°。
   - name: スマイルコース
     difficulty: beginner
     length: 500m
     averageSlope: 11-15°
-    note: 初級到中級銜接路線。
+    note: 初級到中級銜接路線；官方資料並列出全長 500m、平均坡度 11-15°。
   - name: センターコース
     difficulty: intermediate
     length: 1,000m
     averageSlope: 13-27°
-    note: 中心主線。
+    note: 中心主線；官方資料並列出全長 1,000m、平均坡度 13-27°。
   - name: スクランブル A
     difficulty: intermediate
     length: 500m
     averageSlope: 12-18°
-    note: 中級路線。
+    note: 中級路線；官方資料並列出全長 500m、平均坡度 12-18°。
   - name: プロムナードコース
     difficulty: intermediate
     length: 1,400m
     averageSlope: 13-26°
-    note: 較長中級巡航線。
+    note: 較長中級巡航線；官方資料並列出全長 1,400m、平均坡度 13-26°。
   - name: テクニカルコース
     difficulty: intermediate
     length: 1,800m
     averageSlope: 8-25°
-    note: 長距離技術練習線。
+    note: 長距離技術練習線；官方資料並列出全長 1,800m、平均坡度 8-25°。
   - name: スクランブル B
     difficulty: intermediate
     length: 350m
     averageSlope: 13-18°
-    note: 中級短線。
+    note: 中級短線；官方資料並列出全長 350m、平均坡度 13-18°。
   - name: ロマンスコース
     difficulty: intermediate
     length: 710m
     averageSlope: 10-16°
-    note: 中級路線。
+    note: 中級路線；官方資料並列出全長 710m、平均坡度 10-16°。
   - name: ダイナミックコース
     difficulty: advanced
     length: 1,400m
     averageSlope: 16-30°
-    note: 進階主線。
+    note: 進階主線；官方資料並列出全長 1,400m、平均坡度 16-30°。
   - name: チャレンジコース
     difficulty: advanced
     length: 360m
     averageSlope: 22-31°
-    note: 坡度較集中的挑戰線。
+    note: 坡度較集中的挑戰線；官方資料並列出全長 360m、平均坡度 22-31°。
   beginnerRatio: 40
   intermediateRatio: 30
   advancedRatio: 30

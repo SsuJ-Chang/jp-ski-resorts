@@ -78,19 +78,19 @@ courses:
     note: 官方 lift/area 資訊列名區域。
   - name: 立山第1ゲレンデ
     difficulty: intermediate
-    note: 立山區路線之一。
+    note: 立山區路線之一；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 立山第2ゲレンデ
     difficulty: intermediate
-    note: 立山區路線之一。
+    note: 立山區路線之一；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 立山第3ゲレンデ
     difficulty: advanced
-    note: 立山區較進階路線。
+    note: 立山區較進階路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: かやばた A コース
     difficulty: advanced
     note: 官方列名區域，鄰近 park 資訊。
   - name: カヤバタパーク
     difficulty: mixed
-    note: 官方介紹為 park 取向區域。
+    note: 官方介紹為 park 取向區域；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

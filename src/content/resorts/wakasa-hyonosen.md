@@ -74,28 +74,28 @@ courses:
     length: 500m
     maxSlope: 20°
     averageSlope: 8°
-    note: 初級巡航線。
+    note: 初級巡航線；官方資料並列出全長 500m、最大坡度 20°、平均坡度 8°。
   - name: アルパインコース
     difficulty: intermediate
-    note: 官方介紹雪況穩定的主要路線。
+    note: 官方介紹雪況穩定的主要路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: パノラマコース
     difficulty: intermediate
     length: 1,000m
     maxSlope: 32°
     averageSlope: 10°
-    note: 長距離路線，最大坡度較高。
+    note: 長距離路線，最大坡度較高；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: イヌワシコース
     difficulty: advanced
     length: 800m
     maxSlope: 39°
     averageSlope: 17°
-    note: 高坡度進階路線。
+    note: 高坡度進階路線；官方資料並列出全長 800m、最大坡度 39°、平均坡度 17°。
   - name: チャレンジコース
     difficulty: advanced
     length: 500m
     maxSlope: 39°
     averageSlope: 18°
-    note: 高坡度挑戰線。
+    note: 高坡度挑戰線；官方資料並列出全長 500m、最大坡度 39°、平均坡度 18°。
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20

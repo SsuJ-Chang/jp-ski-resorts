@@ -75,10 +75,10 @@ courses:
     note: 依既有雪場配置整理的中級坡面，出發前請以官方公告為準。
   - name: 林間コース
     difficulty: intermediate
-    note: 林間型巡航路線。
+    note: 林間型巡航路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 上級コース
     difficulty: advanced
-    note: 進階者取向坡面。
+    note: 進階者取向坡面；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

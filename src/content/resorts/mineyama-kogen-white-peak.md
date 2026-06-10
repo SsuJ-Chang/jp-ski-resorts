@@ -74,11 +74,11 @@ courses:
   - name: サウスコース
     difficulty: beginner
     length: 862m
-    note: 官方介紹為初級與雪盆使用取向。
+    note: 官方介紹為初級與雪盆使用取向；官方資料並列出全長 862m。
   - name: センターコース
     difficulty: intermediate
     length: 1,170m
-    note: 中心主線，可搭配夜滑營運。
+    note: 中心主線，可搭配夜滑營運；官方資料並列出全長 1,170m。
   - name: ウエストコース
     difficulty: intermediate
     length: 917m

@@ -116,6 +116,7 @@ courses:
     length: 1,082m
     maxSlope: 18°
     averageSlope: 10°
+    note: 官方雪道資料列為初級路線，全長 1,082m、最大坡度 18°、平均坡度 10°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: E2 ゴンドララインコース
     difficulty: beginner
     length: 644m
@@ -127,6 +128,7 @@ courses:
     length: 499m
     maxSlope: 9°
     averageSlope: 7°
+    note: 官方雪道資料列為初級路線，全長 499m、最大坡度 9°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: U1 田代レディースコース
     difficulty: beginner
     length: 882m
@@ -162,6 +164,7 @@ courses:
     length: 346m
     maxSlope: 10°
     averageSlope: 4°
+    note: 官方雪道資料列為初級路線，全長 346m、最大坡度 10°、平均坡度 4°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Y1 田代湖コース
     difficulty: beginner
     length: 578m
@@ -179,11 +182,13 @@ courses:
     length: 628m
     maxSlope: 22°
     averageSlope: 9°
+    note: 官方雪道資料列為中級路線，全長 628m、最大坡度 22°、平均坡度 9°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: F3 かぐら連絡コース
     difficulty: intermediate
     length: 962m
     maxSlope: 14°
     averageSlope: 12°
+    note: 官方雪道資料列為中級路線，全長 962m、最大坡度 14°、平均坡度 12°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: H1 パノラマコース
     difficulty: intermediate
     length: 655m
@@ -201,6 +206,7 @@ courses:
     length: 2,673m
     maxSlope: 23°
     averageSlope: 8°
+    note: 官方雪道資料列為中級路線，全長 2,673m、最大坡度 23°、平均坡度 8°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: MR1 下山コース
     difficulty: intermediate
     length: 1,499m
@@ -218,6 +224,7 @@ courses:
     length: 266m
     maxSlope: 12°
     averageSlope: 12°
+    note: 官方雪道資料列為中級路線，全長 266m、最大坡度 12°、平均坡度 12°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: T2 田代第1ゲレンデA
     difficulty: intermediate
     length: 343m
@@ -229,6 +236,7 @@ courses:
     length: 444m
     maxSlope: 23°
     averageSlope: 8°
+    note: 官方雪道資料列為中級路線，全長 444m、最大坡度 23°、平均坡度 8°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Y2 ダイナミックコース
     difficulty: intermediate
     length: 423m
@@ -258,6 +266,7 @@ courses:
     length: 444m
     maxSlope: 24°
     averageSlope: 11°
+    note: 官方雪道資料列為上級路線，全長 444m、最大坡度 24°、平均坡度 11°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: I1 林間エキスパートコース
     difficulty: advanced
     length: 661m
@@ -275,6 +284,7 @@ courses:
     length: 367m
     maxSlope: 27°
     averageSlope: 17°
+    note: 官方雪道資料列為上級路線，全長 367m、最大坡度 27°、平均坡度 17°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 17
 externalContent:

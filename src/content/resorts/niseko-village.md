@@ -113,99 +113,128 @@ courses:
     length: 900m
     maxSlope: 17°
     averageSlope: 7°
+    note: 官方雪道資料列為初級路線，全長 900m、最大坡度 17°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Banzai
     difficulty: beginner
     length: 950m
     maxSlope: 15°
     averageSlope: 7°
+    note: 官方雪道資料列為初級路線，全長 950m、最大坡度 15°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Shakey Knees
     difficulty: beginner
     length: 650m
     maxSlope: 9°
     averageSlope: 4°
+    note: 官方雪道資料列為初級路線，全長 650m、最大坡度 9°、平均坡度 4°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Final Fling
     difficulty: beginner
     length: 650m
     maxSlope: 9°
     averageSlope: 4°
+    note: 官方雪道資料列為初級路線，全長 650m、最大坡度 9°、平均坡度 4°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Ageimo
     difficulty: beginner
     length: 1,200m
+    note: 官方雪道資料列為初級路線，全長 1,200m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Dabesa
     difficulty: intermediate
     length: 1,880m
     maxSlope: 26°
     averageSlope: 8°
+    note: 官方雪道資料列為中級路線，全長 1,880m、最大坡度 26°、平均坡度 8°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Junkyard
     difficulty: intermediate
     length: 300m
     maxSlope: 23°
     averageSlope: 20°
+    note: 官方雪道資料列為中級路線，全長 300m、最大坡度 23°、平均坡度 20°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Jagaimo
     difficulty: intermediate
     length: 250m
     maxSlope: 26°
     averageSlope: 17°
+    note: 官方雪道資料列為中級路線，全長 250m、最大坡度 26°、平均坡度 17°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Namara
     difficulty: intermediate
     length: 650m
     maxSlope: 27°
     averageSlope: 18°
+    note: 官方雪道資料列為中級路線，全長 650m、最大坡度 27°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Koguma
     difficulty: intermediate
     length: 350m
     maxSlope: 27°
     averageSlope: 12°
+    note: 官方雪道資料列為中級路線，全長 350m、最大坡度 27°、平均坡度 12°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: "Don't Blink"
     difficulty: intermediate
     length: 260m
     maxSlope: 24°
     averageSlope: 11°
+    note: 官方雪道資料列為中級路線，全長 260m、最大坡度 24°、平均坡度 11°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Next Stage
     difficulty: intermediate
+    note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Yard Sale
     difficulty: intermediate
+    note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Boomerang
     difficulty: intermediate
+    note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Hinode Ski Run
     difficulty: intermediate
+    note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Ritz Ski Run
     difficulty: intermediate
+    note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Wonderland
     difficulty: advanced
     length: 960m
     maxSlope: 25°
     averageSlope: 14°
+    note: 官方雪道資料列為上級路線，全長 960m、最大坡度 25°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Ukairo
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Snorkel
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Joppin
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Zangi
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Nekko no Kabe
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Konbu
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Superstition
     difficulty: advanced
     length: 970m
     maxSlope: 35°
     averageSlope: 13°
+    note: 官方雪道資料列為上級路線，全長 970m、最大坡度 35°、平均坡度 13°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Enchantment
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Make Sense
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Misoshiru
     difficulty: advanced
     length: 850m
     maxSlope: 32°
     averageSlope: 25°
+    note: 官方雪道資料列為上級路線，全長 850m、最大坡度 32°、平均坡度 25°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Unforgettable
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Pure Magic
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
 lifts:
   total: 8
 access:

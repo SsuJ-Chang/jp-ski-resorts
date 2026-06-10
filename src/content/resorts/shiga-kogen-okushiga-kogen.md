@@ -91,27 +91,36 @@ courses:
   - name: Forest Course
     difficulty: beginner
     length: 1,500m
+    note: 官方雪道資料列為初級路線，全長 1,500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.1 Beginner Course
     difficulty: beginner
     length: 800m
+    note: 官方雪道資料列為初級路線，全長 800m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.4 Beginner Course
     difficulty: beginner
     length: 400m
+    note: 官方雪道資料列為初級路線，全長 400m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.2 Expert Course
     difficulty: advanced
     length: 700m
+    note: 官方雪道資料列為上級路線，全長 700m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.3 Expert Course
     difficulty: advanced
     length: 600m
+    note: 官方雪道資料列為上級路線，全長 600m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.6 Expert Course
     difficulty: advanced
     length: 700m
+    note: 官方雪道資料列為上級路線，全長 700m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Downhill Course - High Line
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Downhill Course - Mont Blanc
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Downhill Course - Cruising
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
 lifts:
   total: 6
 terrainSummary:

@@ -92,42 +92,55 @@ courses:
   - name: South Course
     difficulty: beginner
     length: 960m
+    note: 官方雪道資料列為初級路線，全長 960m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Shirakaba Course
     difficulty: beginner
     length: 850m
+    note: 官方雪道資料列為初級路線，全長 850m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Panorama IN Course
     difficulty: beginner
     length: 650m
+    note: 官方雪道資料列為初級路線，全長 650m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Panorama OUT Course
     difficulty: beginner
     length: 700m
+    note: 官方雪道資料列為初級路線，全長 700m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Family Course
     difficulty: beginner
     length: 650m
+    note: 官方雪道資料列為初級路線，全長 650m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Bridge Course
     difficulty: beginner
     length: 200m
+    note: 官方雪道資料列為初級路線，全長 200m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.2 Mountain Stream Course
     difficulty: intermediate
     length: 2,500m
+    note: 官方雪道資料列為中級路線，全長 2,500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.2 High-speed Course
     difficulty: intermediate
     length: 1,000m
+    note: 官方雪道資料列為中級路線，全長 1,000m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Panorama Course
     difficulty: intermediate
     length: 2,500m
+    note: 官方雪道資料列為中級路線，全長 2,500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: GS Course
     difficulty: intermediate
     length: 2,400m
+    note: 官方雪道資料列為中級路線，全長 2,400m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Olympic Course
     difficulty: advanced
     length: 900m
+    note: 官方雪道資料列為上級路線，全長 900m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Middle Course
     difficulty: advanced
     length: 400m
+    note: 官方雪道資料列為上級路線，全長 400m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: East Course
     difficulty: advanced
     length: 800m
+    note: 官方雪道資料列為上級路線，全長 800m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 5
 terrainSummary:

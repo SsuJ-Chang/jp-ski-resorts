@@ -75,37 +75,37 @@ courses:
     length: 400m
     maxSlope: 12°
     averageSlope: 10°
-    note: 山麓練習坡。
+    note: 山麓練習坡；官方資料並列出全長 400m、最大坡度 12°、平均坡度 10°。
   - name: センターコース
     difficulty: beginner
     length: 400m
     maxSlope: 15°
     averageSlope: 13°
-    note: 中心初中級坡。
+    note: 中心初中級坡；官方資料並列出全長 400m、最大坡度 15°、平均坡度 13°。
   - name: レストハウス前コース
     difficulty: intermediate
     length: 400m
     maxSlope: 19°
     averageSlope: 13°
-    note: 休息屋前坡面。
+    note: 休息屋前坡面；官方資料並列出全長 400m、最大坡度 19°、平均坡度 13°。
   - name: チャンピオンコース
     difficulty: advanced
     length: 700m
     maxSlope: 28°
     averageSlope: 16°
-    note: 進階路線。
+    note: 進階路線；官方資料並列出全長 700m、最大坡度 28°、平均坡度 16°。
   - name: ジャイアントコース
     difficulty: advanced
     length: 750m
     maxSlope: 25°
     averageSlope: 15°
-    note: 進階長線。
+    note: 進階長線；官方資料並列出全長 750m、最大坡度 25°、平均坡度 15°。
   - name: OFF PISTE
     difficulty: ungroomed
     length: 750m
     maxSlope: 24°
     averageSlope: 16°
-    note: 官方列為 off-piste 路線。
+    note: 官方列為 off-piste 路線；官方資料並列出全長 750m、最大坡度 24°、平均坡度 16°。
   beginnerRatio: 50
   intermediateRatio: 30
   advancedRatio: 20

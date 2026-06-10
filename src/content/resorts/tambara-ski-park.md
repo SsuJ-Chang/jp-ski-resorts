@@ -78,43 +78,43 @@ courses:
     length: 750m
     maxSlope: 10°
     averageSlope: 5°
-    note: 家庭與初級練習取向。
+    note: 家庭與初級練習取向；官方資料並列出全長 750m、最大坡度 10°、平均坡度 5°。
   - name: H マルチユースコース
     difficulty: beginner
     length: 300m
     maxSlope: 8°
     averageSlope: 7°
-    note: 多用途緩坡區。
+    note: 多用途緩坡區；官方資料並列出全長 300m、最大坡度 8°、平均坡度 7°。
   - name: E ウッディコース
     difficulty: beginner
     length: 2,000m
     maxSlope: 15°
     averageSlope: 7°
-    note: 長距離初級巡航。
+    note: 長距離初級巡航；官方資料並列出全長 2,000m、最大坡度 15°、平均坡度 7°。
   - name: F チャレンジコース
     difficulty: intermediate
     length: 650m
     maxSlope: 16°
     averageSlope: 10°
-    note: 中級挑戰線。
+    note: 中級挑戰線；官方資料並列出全長 650m、最大坡度 16°、平均坡度 10°。
   - name: A センターコース
     difficulty: intermediate
     length: 1,450m
     maxSlope: 22°
     averageSlope: 10°
-    note: 中心主線。
+    note: 中心主線；官方資料並列出全長 1,450m、最大坡度 22°、平均坡度 10°。
   - name: C レイクウッドコース
     difficulty: intermediate
     length: 900m
     maxSlope: 22°
     averageSlope: 13°
-    note: 中級路線。
+    note: 中級路線；官方資料並列出全長 900m、最大坡度 22°、平均坡度 13°。
   - name: D フォレスターコース
     difficulty: intermediate
     length: 1,600m
     maxSlope: 18°
     averageSlope: 10°
-    note: 林間感巡航路線。
+    note: 林間感巡航路線；官方資料並列出全長 1,600m、最大坡度 18°、平均坡度 10°。
   - name: B トライアルコース
     difficulty: ungroomed
     length: 800m

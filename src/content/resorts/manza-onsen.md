@@ -77,85 +77,85 @@ courses:
     length: 1,687m
     maxSlope: 19°
     averageSlope: 6°
-    note: 林間感較強的長距離初級路線。
+    note: 林間感較強的長距離初級路線；官方資料並列出全長 1,687m、最大坡度 19°、平均坡度 6°。
   - name: B6 ハイクアップ A
     difficulty: beginner
     length: 728m
     maxSlope: 11°
     averageSlope: 8°
-    note: 需步行上行的初級路線。
+    note: 需步行上行的初級路線；官方資料並列出全長 728m、最大坡度 11°、平均坡度 8°。
   - name: C1 パノラマゲレンデ R
     difficulty: beginner
     length: 535m
     maxSlope: 16°
     averageSlope: 10°
-    note: Panorama 區右側初級路線。
+    note: Panorama 區右側初級路線；官方資料並列出全長 535m、最大坡度 16°、平均坡度 10°。
   - name: C2 パノラマゲレンデ L
     difficulty: beginner
     length: 433m
     maxSlope: 15°
     averageSlope: 10°
-    note: Panorama 區左側初級路線。
+    note: Panorama 區左側初級路線；官方資料並列出全長 433m、最大坡度 15°、平均坡度 10°。
   - name: C3 ウェーブコース
     difficulty: beginner
     length: 663m
     maxSlope: 17°
     averageSlope: 8°
-    note: 帶有波浪變化的初級路線。
+    note: 帶有波浪變化的初級路線；官方資料並列出全長 663m、最大坡度 17°、平均坡度 8°。
   - name: A1 プリンスゲレンデ L
     difficulty: intermediate
     length: 325m
     maxSlope: 19°
     averageSlope: 13°
-    note: Prince 區左側中級坡。
+    note: Prince 區左側中級坡；官方資料並列出全長 325m、最大坡度 19°、平均坡度 13°。
   - name: A2 プリンスゲレンデ R
     difficulty: intermediate
     length: 334m
     maxSlope: 20°
     averageSlope: 13°
-    note: Prince 區右側中級坡。
+    note: Prince 區右側中級坡；官方資料並列出全長 334m、最大坡度 20°、平均坡度 13°。
   - name: B2 しゃくなげコース
     difficulty: intermediate
     length: 261m
     maxSlope: 30°
     averageSlope: 16°
-    note: 短距離但最大坡度較高的中級路線。
+    note: 短距離但最大坡度較高的中級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: B7 ハイクアップ B
     difficulty: intermediate
     length: 453m
     maxSlope: 19°
     averageSlope: 13°
-    note: 需步行上行，官方標示為非壓雪的中級路線。
+    note: 需步行上行，官方標示為非壓雪的中級路線；官方資料並列出全長 453m、最大坡度 19°、平均坡度 13°。
   - name: D1 万座山ゲレンデ
     difficulty: ungroomed
     length: 748m
     maxSlope: 29°
     averageSlope: 15°
-    note: 萬座山側路線，官方以粉雪取向介紹。
+    note: 萬座山側路線，官方以粉雪取向介紹；官方資料並列出全長 748m、最大坡度 29°、平均坡度 15°。
   - name: D2 万座山林間コース
     difficulty: intermediate
     length: 663m
     maxSlope: 24°
     averageSlope: 16°
-    note: 萬座山側林間路線。
+    note: 萬座山側林間路線；官方資料並列出全長 663m、最大坡度 24°、平均坡度 16°。
   - name: B3 エキスパートコース
     difficulty: advanced
     length: 266m
     maxSlope: 28°
     averageSlope: 19°
-    note: Expert 路線，坡度集中。
+    note: Expert 路線，坡度集中；官方資料並列出全長 266m、最大坡度 28°、平均坡度 19°。
   - name: B4 チャレンジコース
     difficulty: advanced
     length: 237m
     maxSlope: 26°
     averageSlope: 18°
-    note: 短距離挑戰坡。
+    note: 短距離挑戰坡；官方資料並列出全長 237m、最大坡度 26°、平均坡度 18°。
   - name: B5 黒湯上級コース
     difficulty: advanced
     length: 646m
     maxSlope: 26°
     averageSlope: 10°
-    note: 黑湯側上級路線。
+    note: 黑湯側上級路線；官方資料並列出全長 646m、最大坡度 26°、平均坡度 10°。
   beginnerRatio: 50
   intermediateRatio: 30
   advancedRatio: 20

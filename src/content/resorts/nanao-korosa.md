@@ -94,14 +94,14 @@ courses:
   - name: 初級コース / Beginner Course
     difficulty: beginner
     length: 120m
-    note: 官方說明為大幅迴轉的初級雪道。
+    note: 官方說明為大幅迴轉的初級雪道；官方資料並列出全長 120m。
   - name: 中級コース / Intermediate Course
     difficulty: intermediate
     note: 官方說明位在初級與進階雪道之間的谷間路線。
   - name: 上級コース / Advanced Course
     difficulty: advanced
     length: 200m
-    note: 官方說明位於纜車線下方。
+    note: 官方說明位於纜車線下方；官方資料並列出全長 200m。
 lifts:
   total: 1
 access:

@@ -165,7 +165,7 @@ courses:
     length: 1100m
     maxSlope: 26°
     averageSlope: 14°
-    note: 官方等級 4，屬 Village Side 中上級路線。
+    note: 官方等級 4，屬 Village Side 中上級路線；官方資料並列出全長 1100m、最大坡度 26°、平均坡度 14°。
 lifts:
   total: 9
 access:

@@ -71,31 +71,31 @@ courses:
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner
-    note: 官方營運狀態列名的初級/家庭坡。
+    note: 官方營運狀態列名的初級/家庭坡；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ロマンスコース
     difficulty: intermediate
     length: 800m
     maxSlope: 20°
     averageSlope: 14°
-    note: 中級巡航線。
+    note: 中級巡航線；官方資料並列出全長 800m、最大坡度 20°、平均坡度 14°。
   - name: 栃の木コース
     difficulty: advanced
     length: 1,200m
     maxSlope: 27°
     averageSlope: 16°
-    note: 較長進階路線。
+    note: 較長進階路線；官方資料並列出全長 1,200m、最大坡度 27°、平均坡度 16°。
   - name: スーパーゲレンデ
     difficulty: advanced
     length: 600m
     maxSlope: 30°
     averageSlope: 20°
-    note: 最大坡度 30 度的進階坡。
+    note: 最大坡度 30 度的進階坡；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ロングランコース
     difficulty: intermediate
-    note: 官方營運狀態列名長距離路線。
+    note: 官方營運狀態列名長距離路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: オフピステエリア
     difficulty: ungroomed
-    note: 官方營運狀態列名 off-piste 區。
+    note: 官方營運狀態列名 off-piste 區；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

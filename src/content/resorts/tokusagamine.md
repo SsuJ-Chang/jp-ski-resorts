@@ -72,19 +72,19 @@ courses:
   details:
   - name: 初級・ソリゲレンデ
     difficulty: beginner
-    note: 官方狀態頁列為初級者與雪盆區。
+    note: 官方狀態頁列為初級者與雪盆區；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 初級・中級者コース
     difficulty: intermediate
-    note: 官方狀態頁列為初中級者路線。
+    note: 官方狀態頁列為初中級者路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 林間コース
     difficulty: intermediate
-    note: 官方狀態頁列名林間路線。
+    note: 官方狀態頁列名林間路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 中級・上級者コース
     difficulty: advanced
-    note: 官方狀態頁列為中上級者路線。
+    note: 官方狀態頁列為中上級者路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 上級者コース
     difficulty: advanced
-    note: 官方狀態頁列為上級者路線。
+    note: 官方狀態頁列為上級者路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

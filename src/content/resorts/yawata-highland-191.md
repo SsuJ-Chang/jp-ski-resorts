@@ -72,28 +72,28 @@ courses:
   details:
   - name: A コース
     difficulty: beginner
-    note: 官方營運狀態列名路線。
+    note: 官方營運狀態列名路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: B コース
     difficulty: beginner
-    note: 官方營運狀態列名路線。
+    note: 官方營運狀態列名路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: C コース
     difficulty: intermediate
-    note: 官方營運狀態列名路線。
+    note: 官方營運狀態列名路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: D コース
     difficulty: intermediate
-    note: 官方營運狀態列名路線。
+    note: 官方營運狀態列名路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: E コース（一本松）
     difficulty: intermediate
-    note: 官方營運狀態列名路線。
+    note: 官方營運狀態列名路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: F コース
     difficulty: advanced
-    note: 官方營運狀態列名路線。
+    note: 官方營運狀態列名路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: G コース（人工雪）
     difficulty: beginner
-    note: 官方標示人工雪路線。
+    note: 官方標示人工雪路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: キッズスノーランド
     difficulty: beginner
-    note: 兒童雪上遊樂區。
+    note: 兒童雪上遊樂區；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20

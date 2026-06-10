@@ -74,15 +74,15 @@ courses:
     difficulty: beginner
     maxSlope: 9°
     averageSlope: 7°
-    note: 官方標示為平緩坡面。
+    note: 官方標示為平緩坡面；官方資料並列出最大坡度 9°、平均坡度 7°。
   - name: 中央ゲレンデ
     difficulty: intermediate
     length: 680m
-    note: 中心坡面，官方列為可夜滑區域。
+    note: 中心坡面，官方列為可夜滑區域；官方資料並列出全長 680m。
   - name: みやの森ゲレンデ
     difficulty: intermediate
     length: 650m
-    note: 官方介紹設有 park item。
+    note: 官方介紹設有 park item；官方資料並列出全長 650m。
   - name: 北壁コース
     difficulty: ungroomed
     note: 官方說明降雪早晨可有非壓雪感，適合進階者。

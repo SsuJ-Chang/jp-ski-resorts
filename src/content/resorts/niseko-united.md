@@ -127,329 +127,404 @@ courses:
     length: 560m
     maxSlope: 12°
     averageSlope: 11°
+    note: 官方雪道資料列為初級路線，全長 560m、最大坡度 12°、平均坡度 11°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Annupuri / Family
     difficulty: beginner
     length: 580m
     maxSlope: 11°
     averageSlope: 6°
+    note: 官方雪道資料列為初級路線，全長 580m、最大坡度 11°、平均坡度 6°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Annupuri / Junior
     difficulty: beginner
     length: 960m
     maxSlope: 13°
     averageSlope: 9°
+    note: 官方雪道資料列為初級路線，全長 960m、最大坡度 13°、平均坡度 9°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Cruiser
     difficulty: beginner
     length: 900m
     maxSlope: 17°
     averageSlope: 7°
+    note: 官方雪道資料列為初級路線，全長 900m、最大坡度 17°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Banzai
     difficulty: beginner
     length: 950m
     maxSlope: 15°
     averageSlope: 7°
+    note: 官方雪道資料列為初級路線，全長 950m、最大坡度 15°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Shakey Knees
     difficulty: beginner
     length: 650m
     maxSlope: 9°
     averageSlope: 4°
+    note: 官方雪道資料列為初級路線，全長 650m、最大坡度 9°、平均坡度 4°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Final Fling
     difficulty: beginner
     length: 650m
     maxSlope: 9°
     averageSlope: 4°
+    note: 官方雪道資料列為初級路線，全長 650m、最大坡度 9°、平均坡度 4°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Ageimo
     difficulty: beginner
     length: 1,200m
+    note: 官方雪道資料列為初級路線，全長 1,200m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Shirakaba
     difficulty: beginner
     length: 945m
     maxSlope: 20°
     averageSlope: 13°
+    note: 官方雪道資料列為初級路線，全長 945m、最大坡度 20°、平均坡度 13°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Rinkan
     difficulty: beginner
     length: 780m
     maxSlope: 17°
     averageSlope: 14°
+    note: 官方雪道資料列為初級路線，全長 780m、最大坡度 17°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Beginners Access
     difficulty: beginner
     length: 342m
     maxSlope: 20°
     averageSlope: 14°
+    note: 官方雪道資料列為初級路線，全長 342m、最大坡度 20°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Green
     difficulty: beginner
     length: 840m
     maxSlope: 25°
     averageSlope: 14°
+    note: 官方雪道資料列為初級路線，全長 840m、最大坡度 25°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Holiday
     difficulty: beginner
     length: 2,883m
     maxSlope: 19°
     averageSlope: 9°
+    note: 官方雪道資料列為初級路線，全長 2,883m、最大坡度 19°、平均坡度 9°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Boyo
     difficulty: beginner
     length: 700m
     maxSlope: 20°
     averageSlope: 11°
+    note: 官方雪道資料列為初級路線，全長 700m、最大坡度 20°、平均坡度 11°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Kogen
     difficulty: beginner
     length: 595m
     maxSlope: 16°
     averageSlope: 10°
+    note: 官方雪道資料列為初級路線，全長 595m、最大坡度 16°、平均坡度 10°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / King Area Access Pass
     difficulty: beginner
     length: 300m
     maxSlope: 10°
     averageSlope: 4°
+    note: 官方雪道資料列為初級路線，全長 300m、最大坡度 10°、平均坡度 4°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Sennoki
     difficulty: beginner
     length: 1,080m
     maxSlope: 30°
     averageSlope: 10°
+    note: 官方雪道資料列為初級路線，全長 1,080m、最大坡度 30°、平均坡度 10°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Family
     difficulty: beginner
     length: 750m
     maxSlope: 17°
     averageSlope: 7°
+    note: 官方雪道資料列為初級路線，全長 750m、最大坡度 17°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: HANAZONO / Renraku
     difficulty: beginner
     length: 281m
     maxSlope: 10°
     averageSlope: 10°
+    note: 官方雪道資料列為初級路線，全長 281m、最大坡度 10°、平均坡度 10°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: HANAZONO / Mango Salad
     difficulty: beginner
     length: 800m
     maxSlope: 8°
     averageSlope: 7°
+    note: 官方雪道資料列為初級路線，全長 800m、最大坡度 8°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: HANAZONO / Juicy Fruit
     difficulty: beginner
     length: 800m
     maxSlope: 12°
     averageSlope: 7°
+    note: 官方雪道資料列為初級路線，全長 800m、最大坡度 12°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: HANAZONO / Crystal Garden
     difficulty: beginner
     length: 1,047m
     maxSlope: 17°
     averageSlope: 7°
+    note: 官方雪道資料列為初級路線，全長 1,047m、最大坡度 17°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Annupuri / Panorama
     difficulty: intermediate
     length: 475m
     maxSlope: 24°
     averageSlope: 19°
+    note: 官方雪道資料列為中級路線，全長 475m、最大坡度 24°、平均坡度 19°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Annupuri / Utopia
     difficulty: intermediate
     length: 600m
     maxSlope: 22°
     averageSlope: 15°
+    note: 官方雪道資料列為中級路線，全長 600m、最大坡度 22°、平均坡度 15°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Annupuri / Silver
     difficulty: intermediate
     length: 150m
     maxSlope: 22°
     averageSlope: 20°
+    note: 官方雪道資料列為中級路線，全長 150m、最大坡度 22°、平均坡度 20°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Annupuri / “S” Ji
     difficulty: intermediate
     length: 700m
     maxSlope: 20°
     averageSlope: 14°
+    note: 官方雪道資料列為中級路線，全長 700m、最大坡度 20°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Annupuri / Shirakaba
     difficulty: intermediate
     length: 800m
     maxSlope: 20°
     averageSlope: 16°
+    note: 官方雪道資料列為中級路線，全長 800m、最大坡度 20°、平均坡度 16°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Annupuri / Dynamic
     difficulty: intermediate
     length: 390m
     maxSlope: 33°
     averageSlope: 19°
+    note: 官方雪道資料列為中級路線，全長 390m、最大坡度 33°、平均坡度 19°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Dabesa
     difficulty: intermediate
     length: 1,880m
     maxSlope: 26°
     averageSlope: 8°
+    note: 官方雪道資料列為中級路線，全長 1,880m、最大坡度 26°、平均坡度 8°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Junkyard
     difficulty: intermediate
     length: 300m
     maxSlope: 23°
     averageSlope: 20°
+    note: 官方雪道資料列為中級路線，全長 300m、最大坡度 23°、平均坡度 20°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Jagaimo
     difficulty: intermediate
     length: 250m
     maxSlope: 26°
     averageSlope: 17°
+    note: 官方雪道資料列為中級路線，全長 250m、最大坡度 26°、平均坡度 17°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Namara
     difficulty: intermediate
     length: 650m
     maxSlope: 27°
     averageSlope: 18°
+    note: 官方雪道資料列為中級路線，全長 650m、最大坡度 27°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Koguma
     difficulty: intermediate
     length: 350m
     maxSlope: 27°
     averageSlope: 12°
+    note: 官方雪道資料列為中級路線，全長 350m、最大坡度 27°、平均坡度 12°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Don't Blink
     difficulty: intermediate
     length: 260m
     maxSlope: 24°
     averageSlope: 11°
+    note: 官方雪道資料列為中級路線，全長 260m、最大坡度 24°、平均坡度 11°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Next Stage
     difficulty: intermediate
+    note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Niseko Village / Yard Sale
     difficulty: intermediate
+    note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Niseko Village / Boomerang
     difficulty: intermediate
+    note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Niseko Village / Hinode Ski Run
     difficulty: intermediate
+    note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Niseko Village / Ritz Ski Run
     difficulty: intermediate
+    note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Grand Hirafu / Center
     difficulty: intermediate
     length: 900m
     maxSlope: 25°
     averageSlope: 12°
+    note: 官方雪道資料列為中級路線，全長 900m、最大坡度 25°、平均坡度 12°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Furiko
     difficulty: intermediate
     length: 460m
     maxSlope: 30°
     averageSlope: 20°
+    note: 官方雪道資料列為中級路線，全長 460m、最大坡度 30°、平均坡度 20°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Kokutai & Ni-Kabe
     difficulty: intermediate
     length: 1,100m
     maxSlope: 34°
     averageSlope: 18°
+    note: 官方雪道資料列為中級路線，全長 1,100m、最大坡度 34°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Alpen
     difficulty: intermediate
     length: 814m
     maxSlope: 28°
     averageSlope: 15°
+    note: 官方雪道資料列為中級路線，全長 814m、最大坡度 28°、平均坡度 15°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: HANAZONO / Silver Dream
     difficulty: intermediate
     length: 2,700m
     maxSlope: 20°
     averageSlope: 8°
+    note: 官方雪道資料列為中級路線，全長 2,700m、最大坡度 20°、平均坡度 8°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: HANAZONO / Parallel
     difficulty: intermediate
     length: 575m
     maxSlope: 20°
     averageSlope: 14°
+    note: 官方雪道資料列為中級路線，全長 575m、最大坡度 20°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: HANAZONO / Colly's Folly
     difficulty: intermediate
     length: 550m
     maxSlope: 22°
     averageSlope: 17°
+    note: 官方雪道資料列為中級路線，全長 550m、最大坡度 22°、平均坡度 17°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: HANAZONO / Stairway to Heaven
     difficulty: intermediate
     length: 1,200m
     maxSlope: 26°
     averageSlope: 13°
+    note: 官方雪道資料列為中級路線，全長 1,200m、最大坡度 26°、平均坡度 13°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: HANAZONO / Hanazono Park
     difficulty: intermediate
     length: 624m
     maxSlope: 25°
     averageSlope: 16°
+    note: 官方雪道資料列為中級路線，全長 624m、最大坡度 25°、平均坡度 16°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: HANAZONO / Setsuzoku
     difficulty: intermediate
     length: 257m
     maxSlope: 24°
     averageSlope: 16°
+    note: 官方雪道資料列為中級路線，全長 257m、最大坡度 24°、平均坡度 16°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Annupuri / Championship
     difficulty: advanced
     length: 565m
     maxSlope: 25°
     averageSlope: 21°
+    note: 官方雪道資料列為上級路線，全長 565m、最大坡度 25°、平均坡度 21°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Annupuri / Merchen
     difficulty: advanced
     length: 277m
     maxSlope: 28°
     averageSlope: 18°
+    note: 官方雪道資料列為上級路線，全長 277m、最大坡度 28°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Annupuri / Challenge
     difficulty: advanced
     length: 250m
     maxSlope: 33°
     averageSlope: 21°
+    note: 官方雪道資料列為上級路線，全長 250m、最大坡度 33°、平均坡度 21°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Annupuri / Fukayuki Rinkan
     difficulty: advanced
     length: 400m
     maxSlope: 34°
     averageSlope: 24°
+    note: 官方雪道資料列為上級路線，全長 400m、最大坡度 34°、平均坡度 24°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Wonderland
     difficulty: advanced
     length: 960m
     maxSlope: 25°
     averageSlope: 14°
+    note: 官方雪道資料列為上級路線，全長 960m、最大坡度 25°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Ukairo
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Niseko Village / Snorkel
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Niseko Village / Joppin
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Niseko Village / Zangi
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Niseko Village / Nekko no Kabe
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Niseko Village / Konbu
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Niseko Village / Superstition
     difficulty: advanced
     length: 970m
     maxSlope: 35°
     averageSlope: 13°
+    note: 官方雪道資料列為上級路線，全長 970m、最大坡度 35°、平均坡度 13°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Enchantment
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Niseko Village / Make Sense
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Niseko Village / Misoshiru
     difficulty: advanced
     length: 850m
     maxSlope: 32°
     averageSlope: 25°
+    note: 官方雪道資料列為上級路線，全長 850m、最大坡度 32°、平均坡度 25°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Niseko Village / Unforgettable
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Niseko Village / Pure Magic
     difficulty: advanced
+    note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: Grand Hirafu / Large
     difficulty: advanced
     length: 650m
     maxSlope: 32°
     averageSlope: 19°
+    note: 官方雪道資料列為上級路線，全長 650m、最大坡度 32°、平均坡度 19°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Dynamic
     difficulty: advanced
     length: 530m
     maxSlope: 30°
     averageSlope: 18°
+    note: 官方雪道資料列為上級路線，全長 530m、最大坡度 30°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Jumbo
     difficulty: advanced
     length: 1,200m
     maxSlope: 34°
     averageSlope: 17°
+    note: 官方雪道資料列為上級路線，全長 1,200m、最大坡度 34°、平均坡度 17°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Super
     difficulty: advanced
     length: 1,220m
     maxSlope: 35°
     averageSlope: 18°
+    note: 官方雪道資料列為上級路線，全長 1,220m、最大坡度 35°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Konayuki
     difficulty: advanced
     length: 403m
     maxSlope: 37°
     averageSlope: 21°
+    note: 官方雪道資料列為上級路線，全長 403m、最大坡度 37°、平均坡度 21°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Miharashi
     difficulty: advanced
     length: 880m
     maxSlope: 32°
     averageSlope: 18°
+    note: 官方雪道資料列為上級路線，全長 880m、最大坡度 32°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Grand Hirafu / Onsenzawa
     difficulty: advanced
     length: 268m
     maxSlope: 40°
     averageSlope: 16°
+    note: 官方雪道資料列為上級路線，全長 268m、最大坡度 40°、平均坡度 16°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: HANAZONO / Youtei Sunset
     difficulty: advanced
     length: 1,238m
     maxSlope: 29°
     averageSlope: 20°
+    note: 官方雪道資料列為上級路線，全長 1,238m、最大坡度 29°、平均坡度 20°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: HANAZONO / Legend of Shinya
     difficulty: advanced
     length: 896m
     maxSlope: 30°
     averageSlope: 14°
+    note: 官方雪道資料列為上級路線，全長 896m、最大坡度 30°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 30
 access:

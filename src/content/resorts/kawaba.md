@@ -112,7 +112,7 @@ courses:
   - name: モーグルコース
     difficulty: advanced
     length: 638m
-    note: 官方列為 mogul 專用路線，適合熟悉不整地滑行者。
+    note: 官方列為 mogul 專用路線，適合熟悉不整地滑行者；官方資料並列出全長 638m。
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20

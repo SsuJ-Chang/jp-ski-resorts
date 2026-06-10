@@ -72,7 +72,7 @@ courses:
     difficulty: beginner
     length: 270m
     averageSlope: 10°
-    note: Panorama 區初級坡。
+    note: Panorama 區初級坡；官方資料並列出全長 270m、平均坡度 10°。
   - name: パノラマ第1裏
     difficulty: intermediate
     length: 460m
@@ -82,32 +82,32 @@ courses:
     difficulty: intermediate
     length: 470m
     averageSlope: 14°
-    note: Lakeside 第 1 坡。
+    note: Lakeside 第 1 坡；官方資料並列出全長 470m、平均坡度 14°。
   - name: パノラマ第1表
     difficulty: advanced
     length: 330m
     averageSlope: 15°
-    note: Panorama 第 1 表側坡。
+    note: Panorama 第 1 表側坡；官方資料並列出全長 330m、平均坡度 15°。
   - name: パノラマ第2表
     difficulty: advanced
     length: 600m
     averageSlope: 16°
-    note: Panorama 第 2 表側坡。
+    note: Panorama 第 2 表側坡；官方資料並列出全長 600m、平均坡度 16°。
   - name: パノラマ第2裏
     difficulty: advanced
     length: 700m
     averageSlope: 12°
-    note: Panorama 第 2 裏側坡。
+    note: Panorama 第 2 裏側坡；官方資料並列出全長 700m、平均坡度 12°。
   - name: レイクサイド第2表
     difficulty: advanced
     length: 490m
     averageSlope: 20°
-    note: Lakeside 第 2 表側坡。
+    note: Lakeside 第 2 表側坡；官方資料並列出全長 490m、平均坡度 20°。
   - name: レイクサイド第2裏
     difficulty: advanced
     length: 430m
     averageSlope: 16°
-    note: Lakeside 第 2 裏側坡。
+    note: Lakeside 第 2 裏側坡；官方資料並列出全長 430m、平均坡度 16°。
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20

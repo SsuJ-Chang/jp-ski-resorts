@@ -70,16 +70,16 @@ courses:
   details:
   - name: 振子沢第1ペア沿いゲレンデ
     difficulty: beginner
-    note: 官方首頁營運狀態列名區域之一。
+    note: 官方首頁營運狀態列名區域之一；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: みはらしペア沿いゲレンデ
     difficulty: intermediate
-    note: 官方首頁營運狀態列名區域之一。
+    note: 官方首頁營運狀態列名區域之一；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 高丸トリプル沿いゲレンデ
     difficulty: advanced
-    note: 官方首頁營運狀態列名區域之一。
+    note: 官方首頁營運狀態列名區域之一；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: キッズパーク
     difficulty: beginner
-    note: 兒童雪上遊樂區。
+    note: 兒童雪上遊樂區；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 20
   intermediateRatio: 40
   advancedRatio: 40

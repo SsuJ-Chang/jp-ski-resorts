@@ -89,13 +89,13 @@ courses:
     length: 80m
     maxSlope: 16°
     averageSlope: 12°
-    note: 官方說明為兒童與雪盆遊玩區域。
+    note: 官方說明為兒童與雪盆遊玩區域；官方資料並列出全長 80m、最大坡度 16°、平均坡度 12°。
   - name: 日本海コース / Nihonkai Course
     difficulty: intermediate
     length: 670m
     maxSlope: 23°
     averageSlope: 14°
-    note: 官方說明為可眺望日本海的下滑雪道。
+    note: 官方說明為可眺望日本海的下滑雪道；官方資料並列出全長 670m、最大坡度 23°、平均坡度 14°。
   - name: ウェーデルンコース / Wedeln Course
     difficulty: advanced
     length: 430m

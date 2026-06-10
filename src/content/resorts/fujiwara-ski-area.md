@@ -79,7 +79,7 @@ courses:
     length: 400m
     maxSlope: 23°
     averageSlope: 18°
-    note: 第 1 lift 區初級線。
+    note: 第 1 lift 區初級線；官方資料並列出全長 400m、最大坡度 23°、平均坡度 18°。
   - name: 森の探検
     difficulty: beginner
     length: 400m
@@ -91,16 +91,16 @@ courses:
     length: 280m
     maxSlope: 20°
     averageSlope: 15°
-    note: 第二 lift 區坡面。
+    note: 第二 lift 區坡面；官方資料並列出全長 280m、最大坡度 20°、平均坡度 15°。
   - name: フジワラキッズランド
     difficulty: beginner
-    note: 兒童雪上遊樂與入門練習區。
+    note: 兒童雪上遊樂與入門練習區；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ジャンピング
     difficulty: intermediate
     length: 400m
     maxSlope: 23°
     averageSlope: 18°
-    note: 第 1 lift 區中級線。
+    note: 第 1 lift 區中級線；官方資料並列出全長 400m、最大坡度 23°、平均坡度 18°。
   - name: スピードチャレンジ
     difficulty: intermediate
     length: 400m
@@ -112,13 +112,13 @@ courses:
     length: 350m
     maxSlope: 25°
     averageSlope: 22°
-    note: 第 3 lift 區林間挑戰線。
+    note: 第 3 lift 區林間挑戰線；官方資料並列出全長 350m、最大坡度 25°、平均坡度 22°。
   - name: チャレンジ
     difficulty: advanced
     length: 350m
     maxSlope: 25°
     averageSlope: 22°
-    note: 第 3 lift 區挑戰坡。
+    note: 第 3 lift 區挑戰坡；官方資料並列出全長 350m、最大坡度 25°、平均坡度 22°。
   - name: 觔斗雲
     difficulty: ungroomed
     length: 400m

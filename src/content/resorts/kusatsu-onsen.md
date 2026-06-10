@@ -76,55 +76,55 @@ courses:
     length: 3,200m
     maxSlope: 12°
     averageSlope: 8°
-    note: 長距離初級巡航線。
+    note: 長距離初級巡航線；官方資料並列出全長 3,200m、最大坡度 12°、平均坡度 8°。
   - name: R292 コース
     difficulty: beginner
     length: 2,000m
     maxSlope: 8°
     averageSlope: 5°
-    note: 緩坡長距離路線。
+    note: 緩坡長距離路線；官方資料並列出全長 2,000m、最大坡度 8°、平均坡度 5°。
   - name: ファミリーゲレンデ
     difficulty: beginner
     length: 450m
     maxSlope: 8°
     averageSlope: 8°
-    note: 家庭與初級練習坡。
+    note: 家庭與初級練習坡；官方資料並列出全長 450m、最大坡度 8°、平均坡度 8°。
   - name: おなり山ゲレンデ
     difficulty: intermediate
     length: 250m
     maxSlope: 18°
     averageSlope: 8°
-    note: 中級坡。
+    note: 中級坡；官方資料並列出全長 250m、最大坡度 18°、平均坡度 8°。
   - name: 夏道コース
     difficulty: intermediate
     length: 600m
     maxSlope: 15°
     averageSlope: 10°
-    note: 中級巡航路線。
+    note: 中級巡航路線；官方資料並列出全長 600m、最大坡度 15°、平均坡度 10°。
   - name: 夏道チャレンジコース
     difficulty: advanced
     length: 300m
     maxSlope: 23°
     averageSlope: 20°
-    note: 夏道區挑戰線。
+    note: 夏道區挑戰線；官方資料並列出全長 300m、最大坡度 23°、平均坡度 20°。
   - name: 青葉山第1ゲレンデ
     difficulty: advanced
     length: 250m
     maxSlope: 28°
     averageSlope: 21°
-    note: 青葉山側上級坡。
+    note: 青葉山側上級坡；官方資料並列出全長 250m、最大坡度 28°、平均坡度 21°。
   - name: 青葉山第2ゲレンデ
     difficulty: advanced
     length: 360m
     maxSlope: 23°
     averageSlope: 15°
-    note: 青葉山側上級坡。
+    note: 青葉山側上級坡；官方資料並列出全長 360m、最大坡度 23°、平均坡度 15°。
   - name: 天狗山ゲレンデ
     difficulty: mixed
     length: 450m
     maxSlope: 30°
     averageSlope: 16°
-    note: 天狗山側主坡，坡面難度混合。
+    note: 天狗山側主坡，坡面難度混合；官方資料並列出全長 450m、最大坡度 30°、平均坡度 16°。
   beginnerRatio: 50
   intermediateRatio: 30
   advancedRatio: 20

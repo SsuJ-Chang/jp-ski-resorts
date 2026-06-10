@@ -114,61 +114,73 @@ courses:
     length: 281m
     maxSlope: 10°
     averageSlope: 10°
+    note: 官方雪道資料列為初級路線，全長 281m、最大坡度 10°、平均坡度 10°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Mango Salad
     difficulty: beginner
     length: 800m
     maxSlope: 8°
     averageSlope: 7°
+    note: 官方雪道資料列為初級路線，全長 800m、最大坡度 8°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Juicy Fruit
     difficulty: beginner
     length: 800m
     maxSlope: 12°
     averageSlope: 7°
+    note: 官方雪道資料列為初級路線，全長 800m、最大坡度 12°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Crystal Garden
     difficulty: beginner
     length: 1,047m
     maxSlope: 17°
     averageSlope: 7°
+    note: 官方雪道資料列為初級路線，全長 1,047m、最大坡度 17°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Silver Dream
     difficulty: intermediate
     length: 2,700m
     maxSlope: 20°
     averageSlope: 8°
+    note: 官方雪道資料列為中級路線，全長 2,700m、最大坡度 20°、平均坡度 8°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Parallel
     difficulty: intermediate
     length: 575m
     maxSlope: 20°
     averageSlope: 14°
+    note: 官方雪道資料列為中級路線，全長 575m、最大坡度 20°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Colly's Folly
     difficulty: intermediate
     length: 550m
     maxSlope: 22°
     averageSlope: 17°
+    note: 官方雪道資料列為中級路線，全長 550m、最大坡度 22°、平均坡度 17°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Stairway to Heaven
     difficulty: intermediate
     length: 1,200m
     maxSlope: 26°
     averageSlope: 13°
+    note: 官方雪道資料列為中級路線，全長 1,200m、最大坡度 26°、平均坡度 13°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Hanazono Park
     difficulty: intermediate
     length: 624m
     maxSlope: 25°
     averageSlope: 16°
+    note: 官方雪道資料列為中級路線，全長 624m、最大坡度 25°、平均坡度 16°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Setsuzoku
     difficulty: intermediate
     length: 257m
     maxSlope: 24°
     averageSlope: 16°
+    note: 官方雪道資料列為中級路線，全長 257m、最大坡度 24°、平均坡度 16°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Youtei Sunset
     difficulty: advanced
     length: 1,238m
     maxSlope: 29°
     averageSlope: 20°
+    note: 官方雪道資料列為上級路線，全長 1,238m、最大坡度 29°、平均坡度 20°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Legend of Shinya
     difficulty: advanced
     length: 896m
     maxSlope: 30°
     averageSlope: 14°
+    note: 官方雪道資料列為上級路線，全長 896m、最大坡度 30°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 4
 access:

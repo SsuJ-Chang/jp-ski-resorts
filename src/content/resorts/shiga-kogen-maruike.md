@@ -90,7 +90,7 @@ courses:
   - name: Maruike B Course
     difficulty: intermediate
     length: 450m
-    note: 適合想提升技巧的中級滑雪者練習。
+    note: 適合想提升技巧的中級滑雪者練習；官方資料並列出全長 450m。
   - name: Maruike 2nd Gelende
     difficulty: intermediate
     length: 200m

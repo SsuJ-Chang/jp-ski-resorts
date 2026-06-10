@@ -115,106 +115,127 @@ courses:
     length: 945m
     maxSlope: 20°
     averageSlope: 13°
+    note: 官方雪道資料列為初級路線，全長 945m、最大坡度 20°、平均坡度 13°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Rinkan
     difficulty: beginner
     length: 780m
     maxSlope: 17°
     averageSlope: 14°
+    note: 官方雪道資料列為初級路線，全長 780m、最大坡度 17°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Beginners Access
     difficulty: beginner
     length: 342m
     maxSlope: 20°
     averageSlope: 14°
+    note: 官方雪道資料列為初級路線，全長 342m、最大坡度 20°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Green
     difficulty: beginner
     length: 840m
     maxSlope: 25°
     averageSlope: 14°
+    note: 官方雪道資料列為初級路線，全長 840m、最大坡度 25°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Holiday
     difficulty: beginner
     length: 2,883m
     maxSlope: 19°
     averageSlope: 9°
+    note: 官方雪道資料列為初級路線，全長 2,883m、最大坡度 19°、平均坡度 9°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Boyo
     difficulty: beginner
     length: 700m
     maxSlope: 20°
     averageSlope: 11°
+    note: 官方雪道資料列為初級路線，全長 700m、最大坡度 20°、平均坡度 11°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Kogen
     difficulty: beginner
     length: 595m
     maxSlope: 16°
     averageSlope: 10°
+    note: 官方雪道資料列為初級路線，全長 595m、最大坡度 16°、平均坡度 10°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: King Area Access Pass
     difficulty: beginner
     length: 300m
     maxSlope: 10°
     averageSlope: 4°
+    note: 官方雪道資料列為初級路線，全長 300m、最大坡度 10°、平均坡度 4°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Sennoki
     difficulty: beginner
     length: 1,080m
     maxSlope: 30°
     averageSlope: 10°
+    note: 官方雪道資料列為初級路線，全長 1,080m、最大坡度 30°、平均坡度 10°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Family
     difficulty: beginner
     length: 750m
     maxSlope: 17°
     averageSlope: 7°
+    note: 官方雪道資料列為初級路線，全長 750m、最大坡度 17°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Center
     difficulty: intermediate
     length: 900m
     maxSlope: 25°
     averageSlope: 12°
+    note: 官方雪道資料列為中級路線，全長 900m、最大坡度 25°、平均坡度 12°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Furiko
     difficulty: intermediate
     length: 460m
     maxSlope: 30°
     averageSlope: 20°
+    note: 官方雪道資料列為中級路線，全長 460m、最大坡度 30°、平均坡度 20°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Kokutai & Ni-Kabe
     difficulty: intermediate
     length: 1,100m
     maxSlope: 34°
     averageSlope: 18°
+    note: 官方雪道資料列為中級路線，全長 1,100m、最大坡度 34°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Alpen
     difficulty: intermediate
     length: 814m
     maxSlope: 28°
     averageSlope: 15°
+    note: 官方雪道資料列為中級路線，全長 814m、最大坡度 28°、平均坡度 15°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Large
     difficulty: advanced
     length: 650m
     maxSlope: 32°
     averageSlope: 19°
+    note: 官方雪道資料列為上級路線，全長 650m、最大坡度 32°、平均坡度 19°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Dynamic
     difficulty: advanced
     length: 530m
     maxSlope: 30°
     averageSlope: 18°
+    note: 官方雪道資料列為上級路線，全長 530m、最大坡度 30°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Jumbo
     difficulty: advanced
     length: 1,200m
     maxSlope: 34°
     averageSlope: 17°
+    note: 官方雪道資料列為上級路線，全長 1,200m、最大坡度 34°、平均坡度 17°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Super
     difficulty: advanced
     length: 1,220m
     maxSlope: 35°
     averageSlope: 18°
+    note: 官方雪道資料列為上級路線，全長 1,220m、最大坡度 35°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Konayuki
     difficulty: advanced
     length: 403m
     maxSlope: 37°
     averageSlope: 21°
+    note: 官方雪道資料列為上級路線，全長 403m、最大坡度 37°、平均坡度 21°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Miharashi
     difficulty: advanced
     length: 880m
     maxSlope: 32°
     averageSlope: 18°
+    note: 官方雪道資料列為上級路線，全長 880m、最大坡度 32°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Onsenzawa
     difficulty: advanced
     length: 268m
     maxSlope: 40°
     averageSlope: 16°
+    note: 官方雪道資料列為上級路線，全長 268m、最大坡度 40°、平均坡度 16°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 10
 access:

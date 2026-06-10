@@ -71,25 +71,25 @@ courses:
   details:
   - name: メルヘンコース
     difficulty: beginner
-    note: 官方營運狀態列為初級。
+    note: 官方營運狀態列為初級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: パノラマコース（第3リフト下部）
     difficulty: beginner
-    note: Panorama 下部，官方列為初級。
+    note: Panorama 下部，官方列為初級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ダイナミックコース（第1リフト下部）
     difficulty: intermediate
-    note: Dynamic 下部，官方列為中級。
+    note: Dynamic 下部，官方列為中級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: クィーンコース
     difficulty: intermediate
-    note: 官方營運狀態列為中級。
+    note: 官方營運狀態列為中級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: クリスタルコース
     difficulty: intermediate
-    note: 官方營運狀態列為中級。
+    note: 官方營運狀態列為中級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ダイナミックコース（上部）
     difficulty: advanced
-    note: Dynamic 上部，官方列為上級。
+    note: Dynamic 上部，官方列為上級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: パノラマコース（上部）
     difficulty: advanced
-    note: Panorama 上部，官方列為上級。
+    note: Panorama 上部，官方列為上級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20

@@ -133,7 +133,7 @@ courses:
     length: 1620m
     maxSlope: 30°
     averageSlope: 18°
-    note: 上級路線，坡度與長度平衡，官方建議給較有經驗的滑雪者。
+    note: 上級路線，坡度與長度平衡，官方建議給較有經驗的滑雪者；官方資料並列出全長 1620m、最大坡度 30°、平均坡度 18°。
   - name: Route 3
     difficulty: expert
     length: 800m

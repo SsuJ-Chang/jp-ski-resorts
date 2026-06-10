@@ -84,7 +84,7 @@ courses:
   - name: Monkey Course
     difficulty: beginner
     length: 750m
-    note: 從燒額山區域通往中央區域的連絡路。
+    note: 從燒額山區域通往中央區域的連絡路；官方資料並列出全長 750m。
   - name: Kamoshika Course
     difficulty: intermediate
     length: 800m

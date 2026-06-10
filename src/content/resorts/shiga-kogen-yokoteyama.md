@@ -91,42 +91,55 @@ courses:
   - name: No.2 Beginners Course
     difficulty: beginner
     length: 1,000m
+    note: 官方雪道資料列為初級路線，全長 1,000m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Ocean Course
     difficulty: beginner
     length: 300m
+    note: 官方雪道資料列為初級路線，全長 300m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.1 Gelende
     difficulty: intermediate
     length: 600m
+    note: 官方雪道資料列為中級路線，全長 600m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: King Course
     difficulty: advanced
     length: 1,000m
+    note: 官方雪道資料列為上級路線，全長 1,000m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Queen Course
     difficulty: advanced
     length: 1,000m
+    note: 官方雪道資料列為上級路線，全長 1,000m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Kaede Course
     difficulty: advanced
     length: 550m
+    note: 官方雪道資料列為上級路線，全長 550m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Jumping Course
     difficulty: advanced
     length: 500m
+    note: 官方雪道資料列為上級路線，全長 500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Wall Slope
     difficulty: advanced
     length: 400m
+    note: 官方雪道資料列為上級路線，全長 400m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: White Slope
     difficulty: advanced
     length: 500m
+    note: 官方雪道資料列為上級路線，全長 500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Slope in the Sea of Clouds
     difficulty: advanced
     length: 400m
+    note: 官方雪道資料列為上級路線，全長 400m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Yokote Wall
     difficulty: advanced
     length: 300m
+    note: 官方雪道資料列為上級路線，全長 300m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Super G Course
     difficulty: advanced
     length: 650m
+    note: 官方雪道資料列為上級路線，全長 650m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Active Course
     difficulty: advanced
     length: 1,300m
+    note: 官方雪道資料列為上級路線，全長 1,300m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 12
 terrainSummary:

@@ -71,27 +71,27 @@ courses:
     difficulty: beginner
     length: 500m
     averageSlope: 6.9°
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；官方資料並列出全長 500m、平均坡度 6.9°。
   - name: ビーチコース
     difficulty: beginner
     length: 1,000m
     averageSlope: 9.0°
-    note: 初級長線。
+    note: 初級長線；官方資料並列出全長 1,000m、平均坡度 9.0°。
   - name: スカイラインコース
     difficulty: intermediate
     length: 1,100m
     averageSlope: 10.3°
-    note: 中級巡航線。
+    note: 中級巡航線；官方資料並列出全長 1,100m、平均坡度 10.3°。
   - name: チェスナットコース
     difficulty: intermediate
     length: 2,600m
     averageSlope: 12°
-    note: 官方標示依積雪狀況開放。
+    note: 官方標示依積雪狀況開放；官方資料並列出全長 2,600m、平均坡度 12°。
   - name: ラビットコース
     difficulty: advanced
     length: 1,000m
     averageSlope: 21°
-    note: 官方標示依積雪狀況開放的上級線。
+    note: 官方標示依積雪狀況開放的上級線；官方資料並列出全長 1,000m、平均坡度 21°。
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20

@@ -69,31 +69,31 @@ courses:
   details:
   - name: 打見ゲレンデ
     difficulty: beginner
-    note: 山頂站附近坡面，適合入門與暖身。
+    note: 山頂站附近坡面，適合入門與暖身；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ジャイアントコース
     difficulty: intermediate
-    note: 官方營運狀態列名路線。
+    note: 官方營運狀態列名路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: アルペンコース
     difficulty: intermediate
-    note: 官方營運狀態列名路線。
+    note: 官方營運狀態列名路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ホーライパノラマゲレンデ
     difficulty: intermediate
-    note: 蓬萊山側可展望琵琶湖的主要坡面。
+    note: 蓬萊山側可展望琵琶湖的主要坡面；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ホーライ北ゲレンデ
     difficulty: intermediate
-    note: 蓬萊山北側路線。
+    note: 蓬萊山北側路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: フォレストコース
     difficulty: intermediate
-    note: 林間感路線。
+    note: 林間感路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ロマンスコース
     difficulty: intermediate
-    note: 官方營運狀態列名路線。
+    note: 官方營運狀態列名路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: チャンピオンコース
     difficulty: advanced
-    note: 官方營運狀態列名進階路線。
+    note: 官方營運狀態列名進階路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ダイナミックコース
     difficulty: advanced
-    note: 官方營運狀態列名進階路線。
+    note: 官方營運狀態列名進階路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 20
   intermediateRatio: 70
   advancedRatio: 10

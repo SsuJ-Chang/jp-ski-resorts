@@ -114,31 +114,37 @@ courses:
     length: 520m
     maxSlope: 14°
     averageSlope: 12°
+    note: 官方雪道資料列為初級路線，全長 520m、最大坡度 14°、平均坡度 12°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: メリーランドコース / Maryland Course
     difficulty: beginner
     length: 550m
     maxSlope: 12°
     averageSlope: 9°
+    note: 官方雪道資料列為初級路線，全長 550m、最大坡度 12°、平均坡度 9°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: R-5
     difficulty: beginner
     length: 800m
     maxSlope: 14°
     averageSlope: 12°
+    note: Hakuba47 官方說明此線是山腰側初級路線，有自然的練習進階感；附近有箱型纜車站、餐廳與洗手間。
   - name: R-6
     difficulty: beginner
     length: 850m
     maxSlope: 12°
     averageSlope: 10°
+    note: Hakuba47 官方說明此線與 R-5 並行，屬山腰側初級路線，可作為緩坡練習與中腹移動動線。
   - name: R-7
     difficulty: beginner
     length: 3,600m
     maxSlope: 11°
     averageSlope: 7°
+    note: Hakuba47 官方說明此線連接箱型纜車山頂與 base area，全長 3,600m，屬適合兒童與初級者的緩坡長線。
   - name: R-8
     difficulty: beginner
     length: 2,800m
     maxSlope: 16°
     averageSlope: 10°
+    note: Hakuba47 官方說明此線連接五龍 Telecabin 山頂與 Hakuba47 Line E，為 2,800m 緩坡，但下段有較窄且較陡的區段。
   - name: ウッディーコース / Woody Course
     difficulty: intermediate
     length: 800m
@@ -150,26 +156,31 @@ courses:
     length: 2,500m
     maxSlope: 28°
     averageSlope: 22°
+    note: Hakuba47 官方說明 R-1 早上壓雪狀態佳，兼具坡度、景觀與長度，適合中級以上滑行並建議早段時段使用。
   - name: R-4
     difficulty: intermediate
     length: 600m
     maxSlope: 16°
     averageSlope: 14°
+    note: Hakuba47 官方說明 R-4 是 47PARKS 所在路線，含 half pipe、kicker、rail、box 與 berm 等 park item，配置會依維護與開放狀態調整。
   - name: アドベンチャーコース / Adventure Course
     difficulty: advanced
     length: 700m
     maxSlope: 28°
     averageSlope: 19°
+    note: 官方雪道資料列為上級路線，全長 700m、最大坡度 28°、平均坡度 19°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: R-2
     difficulty: advanced
     length: 1,620m
     maxSlope: 30°
     averageSlope: 18°
+    note: Hakuba47 官方說明 R-2 適合實力較強的滑雪者，長度足、人潮較少，且大多為壓雪路線。
   - name: R-3
     difficulty: advanced
     length: 800m
     maxSlope: 32°
     averageSlope: 20°
+    note: Hakuba47 官方說明 R-3 面向想練習饅頭雪道的專家級滑雪者，最大坡度 32°。
   - name: チャンピオンエキスパートコース / Champion Expert Course
     difficulty: expert
     length: 500m
@@ -217,26 +228,31 @@ courses:
     length: 700m
     maxSlope: 19°
     averageSlope: 15°
+    note: 官方雪道資料列為綜合難度路線，全長 700m、最大坡度 19°、平均坡度 15°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: サニーウェイコース / Sunny Way Course
     difficulty: mixed
     length: 1,800m
     maxSlope: 18°
     averageSlope: 14°
+    note: 官方雪道資料列為綜合難度路線，全長 1,800m、最大坡度 18°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: コスモリバーコース / Cosmo River Course
     difficulty: mixed
     length: 1,500m
     maxSlope: 28°
     averageSlope: 19°
+    note: 官方雪道資料列為綜合難度路線，全長 1,500m、最大坡度 28°、平均坡度 19°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: ストレートウイスキーコース / Straight Whiskey Course
     difficulty: mixed
     length: 800m
     maxSlope: 30°
     averageSlope: 20°
+    note: 官方雪道資料列為綜合難度路線，全長 800m、最大坡度 30°、平均坡度 20°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: スノーダイビングコース / Snow Diving Course
     difficulty: mixed
     length: 250m
     maxSlope: 32°
     averageSlope: 27°
+    note: 官方雪道資料列為綜合難度路線，全長 250m、最大坡度 32°、平均坡度 27°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   total: 24
 externalContent:
   blogs: []
@@ -246,6 +262,8 @@ sources:
   url: https://www.hakubaescal.com/winter/
 - label: Hakuba Goryu Course Guide
   url: https://www.hakubaescal.com/winter/gelande/course/
+- label: Hakuba47 Mountain Info
+  url: https://www.hakuba47.co.jp/winter/en/mountain/mountain_info/
 - label: Hakuba Goryu Lift Tickets 2025-26
   url: https://www.hakubaescal.com/winter/tickets/lift/
 - label: Hakuba Goryu Access

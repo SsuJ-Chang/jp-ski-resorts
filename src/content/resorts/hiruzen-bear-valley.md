@@ -73,13 +73,13 @@ courses:
     note: 官方介紹涵蓋初級者到進階者，Weathernews 列 4 條雪道。
   - name: メインゲレンデ
     difficulty: intermediate
-    note: 中級主坡，適合一般巡航。
+    note: 中級主坡，適合一般巡航；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ナイターゲレンデ
     difficulty: intermediate
-    note: 官方介紹有夜滑營運。
+    note: 官方介紹有夜滑營運；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: チャレンジバーン
     difficulty: advanced
-    note: 進階者挑戰坡。
+    note: 進階者挑戰坡；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20

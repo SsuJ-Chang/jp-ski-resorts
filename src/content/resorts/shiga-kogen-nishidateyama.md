@@ -96,7 +96,7 @@ courses:
   - name: World Cup Course（Upper section）
     difficulty: intermediate
     length: 1,000m
-    note: 奧運比賽使用路線，可同時欣賞景觀。
+    note: 奧運比賽使用路線，可同時欣賞景觀；官方資料並列出全長 1,000m。
   - name: World Cup Course（Lower section）
     difficulty: intermediate
     length: 450m

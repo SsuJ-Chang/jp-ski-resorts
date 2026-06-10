@@ -114,91 +114,109 @@ courses:
     length: 821m
     maxSlope: 13.4°
     averageSlope: 8.45°
+    note: 官方雪道資料列為初級路線，全長 821m、最大坡度 13.4°、平均坡度 8.45°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: E1 第5ゲレンデ
     difficulty: beginner
     length: 676m
     maxSlope: 17.52°
     averageSlope: 12.33°
+    note: 官方雪道資料列為初級路線，全長 676m、最大坡度 17.52°、平均坡度 12.33°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: H1 第4ゲレンデ南側
     difficulty: beginner
     length: 337m
     maxSlope: 14.22°
     averageSlope: 9.34°
+    note: 官方雪道資料列為初級路線，全長 337m、最大坡度 14.22°、平均坡度 9.34°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: H2 第4ゲレンデ北側
     difficulty: beginner
     length: 329m
     maxSlope: 15.07°
     averageSlope: 11.12°
+    note: 官方雪道資料列為初級路線，全長 329m、最大坡度 15.07°、平均坡度 11.12°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: DG1 ドラゴンドラ連絡コース
     difficulty: beginner
     length: 1,078m
     maxSlope: 14.02°
     averageSlope: 8.51°
+    note: 官方雪道資料列為初級路線，全長 1,078m、最大坡度 14.02°、平均坡度 8.51°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: G1 第2ゲレンデ
     difficulty: beginner
     length: 976m
     maxSlope: 16.51°
     averageSlope: 11.09°
+    note: 官方雪道資料列為初級路線，全長 976m、最大坡度 16.51°、平均坡度 11.09°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: G2 火打ゲレンデ
     difficulty: beginner
     length: 845m
     maxSlope: 12.31°
     averageSlope: 5.17°
+    note: 官方雪道資料列為初級路線，全長 845m、最大坡度 12.31°、平均坡度 5.17°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: L1 火打第1ロマンスリフトゲレンデ
     difficulty: beginner
     length: 394m
     maxSlope: 14.02°
     averageSlope: 11.25°
+    note: 官方雪道資料列為初級路線，全長 394m、最大坡度 14.02°、平均坡度 11.25°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: J1 筍平ゲレンデ
     difficulty: beginner
     length: 438m
     maxSlope: 11.35°
     averageSlope: 11.03°
+    note: 官方雪道資料列為初級路線，全長 438m、最大坡度 11.35°、平均坡度 11.03°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: J2 筍平連絡コース
     difficulty: beginner
     length: 506m
     maxSlope: 15.15°
     averageSlope: 7.36°
+    note: 官方雪道資料列為初級路線，全長 506m、最大坡度 15.15°、平均坡度 7.36°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: F1 第8高速リフト北側
     difficulty: intermediate
     length: 806m
     maxSlope: 21.02°
     averageSlope: 16.39°
+    note: 官方雪道資料列為中級路線，全長 806m、最大坡度 21.02°、平均坡度 16.39°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: G3 第3ゲレンデ
     difficulty: intermediate
     length: 513m
     maxSlope: 21.3°
     averageSlope: 16.4°
+    note: 官方雪道資料列為中級路線，全長 513m、最大坡度 21.3°、平均坡度 16.4°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: A1 大斜面～一般コース
     difficulty: intermediate
     length: 2,387m
     maxSlope: 27.08°
     averageSlope: 14.55°
+    note: 官方雪道資料列為中級路線，全長 2,387m、最大坡度 27.08°、平均坡度 14.55°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: B1 わくわくコース
     difficulty: intermediate
     length: 1,300m
     maxSlope: 18°
     averageSlope: 8.19°
+    note: 官方雪道資料列為中級路線，全長 1,300m、最大坡度 18°、平均坡度 8.19°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: DG2 チャレンジ
     difficulty: intermediate
     length: 945m
     maxSlope: 23.48°
     averageSlope: 14.24°
+    note: 官方雪道資料列為中級路線，全長 945m、最大坡度 23.48°、平均坡度 14.24°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: K1 筍山スカイライン
     difficulty: intermediate
     length: 1,286m
     maxSlope: 21.48°
     averageSlope: 11.15°
+    note: 官方雪道資料列為中級路線，全長 1,286m、最大坡度 21.48°、平均坡度 11.15°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: F2 第8高速リフト南側
     difficulty: advanced
     length: 490m
     maxSlope: 25.54°
     averageSlope: 19.1°
+    note: 官方雪道資料列為上級路線，全長 490m、最大坡度 25.54°、平均坡度 19.1°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: F3 ワールドカップモーグルバーン
     difficulty: advanced
     length: 222m
     maxSlope: 30.57°
     averageSlope: 25.38°
+    note: 官方雪道資料列為上級路線，全長 222m、最大坡度 30.57°、平均坡度 25.38°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: A2 スプラッシュボウル
     difficulty: advanced
     length: 463m
@@ -216,24 +234,25 @@ courses:
     length: 415m
     maxSlope: 30.01°
     averageSlope: 26°
-    note: 官方註記為非壓雪、上級者路線。
+    note: 官方註記為非壓雪、上級者路線；官方資料並列出全長 415m、最大坡度 30.01°、平均坡度 26°。
   - name: B4 男子スラローム
     difficulty: advanced
     length: 206m
     maxSlope: 34.04°
     averageSlope: 33.55°
-    note: 官方註記為非壓雪、上級者路線。
+    note: 官方註記為非壓雪、上級者路線；官方資料並列出全長 206m、最大坡度 34.04°、平均坡度 33.55°。
   - name: I1 ジグザグコース
     difficulty: advanced
     length: 1,519m
     maxSlope: 21.02°
     averageSlope: 9.53°
+    note: 官方雪道資料列為上級路線，全長 1,519m、最大坡度 21.02°、平均坡度 9.53°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: K2 筍山ゲレンデ
     difficulty: advanced
     length: 435m
     maxSlope: 32°
     averageSlope: 21.33°
-    note: 官方註記為非壓雪、上級者路線。
+    note: 官方註記為非壓雪、上級者路線；官方資料並列出全長 435m、最大坡度 32°、平均坡度 21.33°。
 lifts:
   total: 12
 externalContent:

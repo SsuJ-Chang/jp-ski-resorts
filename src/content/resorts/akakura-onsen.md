@@ -112,55 +112,55 @@ courses:
   details:
   - name: 2 銀嶺第3コース / Ginrei No.3 Course
     difficulty: beginner
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 3 銀嶺第2コース / Ginrei No.2 Course
     difficulty: beginner
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 5 くまどー第1コース / Kumado No.1 Course
     difficulty: beginner
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 6 くまどー第3コース / Kumado No.3 Course
     difficulty: beginner
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 7 くまどー第6コース / Kumado No.6 Course
     difficulty: beginner
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 9 中央ゲレンデ / Central Slope
     difficulty: beginner
-    note: 官方列為初級雪道。
+    note: 官方列為初級雪道；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 10 パノラマコース / Panorama Course
     difficulty: beginner
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 13 ヨーデル林間コース / Yodel Forest Course
     difficulty: beginner
-    note: 官方列為初級林間路線。
+    note: 官方列為初級林間路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 15 ユートピア A コース / Utopia A Course
     difficulty: beginner
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 16 ユートピア B コース / Utopia B Course
     difficulty: beginner
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 17 ファミリーゲレンデ / Family Slope
     difficulty: beginner
-    note: 官方列為初級雪道。
+    note: 官方列為初級雪道；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 1 銀嶺第4コース / Ginrei No.4 Course
     difficulty: intermediate
-    note: 官方列為中級路線。
+    note: 官方列為中級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 4 くまどー第4コース / Kumado No.4 Course
     difficulty: intermediate
-    note: 官方列為中級路線。
+    note: 官方列為中級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 8 くまどー第2コース / Kumado No.2 Course
     difficulty: intermediate
-    note: 官方列為中級路線。
+    note: 官方列為中級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 12 ヨーデルモーグルチャレンジ / Yodel Mogul Challenge
     difficulty: intermediate
-    note: 官方列為中級路線。
+    note: 官方列為中級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 14 チャンピオン A コース / Champion A Course
     difficulty: intermediate
-    note: 官方列為中級路線。
+    note: 官方列為中級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 11 チャンピオン B コース / Champion B Course
     difficulty: advanced
-    note: 官方列為上級路線。
+    note: 官方列為上級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
 lifts:
   total: 14
 access:

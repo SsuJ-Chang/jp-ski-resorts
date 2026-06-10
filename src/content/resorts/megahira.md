@@ -73,43 +73,43 @@ courses:
   - name: ファミリーゲレンデ
     difficulty: beginner
     length: 200m
-    note: 家庭與入門練習坡。
+    note: 家庭與入門練習坡；官方資料並列出全長 200m。
   - name: 林間 700 コース
     difficulty: intermediate
     length: 700m
-    note: 林間區中級線。
+    note: 林間區中級線；官方資料並列出全長 700m。
   - name: 林間 800 コース
     difficulty: intermediate
     length: 800m
-    note: 林間區中級線。
+    note: 林間區中級線；官方資料並列出全長 800m。
   - name: 林間 900 IN / OUT
     difficulty: intermediate
     length: 900m
-    note: 林間區 900m 進出路線。
+    note: 林間區 900m 進出路線；官方資料並列出全長 900m。
   - name: 林間 1000 コース
     difficulty: intermediate
     length: 1,000m
-    note: 林間區長線。
+    note: 林間區長線；官方資料並列出全長 1,000m。
   - name: センター 2300 トップ
     difficulty: intermediate
     length: 2,300m
-    note: 中心長距離路線上段。
+    note: 中心長距離路線上段；官方資料並列出全長 2,300m。
   - name: センター 2300 ボトム
     difficulty: intermediate
     length: 2,300m
-    note: 中心長距離路線下段。
+    note: 中心長距離路線下段；官方資料並列出全長 2,300m。
   - name: ダウンヒルコース
     difficulty: advanced
-    note: 進階下滑路線。
+    note: 進階下滑路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: スカイコース
     difficulty: advanced
-    note: 上部進階路線。
+    note: 上部進階路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: チャレンジコース
     difficulty: advanced
-    note: 挑戰線。
+    note: 挑戰線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ソリコース
     difficulty: beginner
-    note: 雪盆區。
+    note: 雪盆區；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 30
   intermediateRatio: 60
   advancedRatio: 10

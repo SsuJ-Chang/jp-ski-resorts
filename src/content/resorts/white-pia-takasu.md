@@ -128,7 +128,7 @@ courses:
     note: 官方列為中級 course，位於 Bravo Quad line 的多分岐布局中。
   - name: ダイビング / Diving
     difficulty: advanced
-    note: 官方列為上級 course，從上部 line 進入。
+    note: 官方列為上級 course，從上部 line 進入；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ダンシング / Dancing
     difficulty: advanced
     note: 官方列為上級 course，位於 Bravo Quad line 的急斜分岐。

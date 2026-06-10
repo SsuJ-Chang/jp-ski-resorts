@@ -97,7 +97,7 @@ courses:
     length: 100m
     maxSlope: 12°
     averageSlope: 9°
-    note: 小朋友與初學者向，坡度較緩。
+    note: 小朋友與初學者向，坡度較緩；官方資料並列出全長 100m、最大坡度 12°、平均坡度 9°。
   - name: Aコース
     difficulty: intermediate
     length: 1,000m

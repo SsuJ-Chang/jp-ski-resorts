@@ -73,19 +73,19 @@ courses:
     length: 310m
     maxSlope: 21°
     averageSlope: 11°
-    note: 可眺望琵琶湖的初級線。
+    note: 可眺望琵琶湖的初級線；官方資料並列出全長 310m、最大坡度 21°、平均坡度 11°。
   - name: ヤッホーゲレンデ 初級
     difficulty: beginner
     length: 300m
     maxSlope: 21°
     averageSlope: 7°
-    note: Yawhoo 區初級線。
+    note: Yawhoo 區初級線；官方資料並列出全長 300m、最大坡度 21°、平均坡度 7°。
   - name: ヤッホーゲレンデ 中級
     difficulty: intermediate
     length: 310m
     maxSlope: 21°
     averageSlope: 15°
-    note: Yawhoo 區中級線。
+    note: Yawhoo 區中級線；官方資料並列出全長 310m、最大坡度 21°、平均坡度 15°。
   - name: スリーバレー 1
     difficulty: intermediate
     length: 635m
@@ -103,7 +103,7 @@ courses:
     length: 700m
     maxSlope: 38°
     averageSlope: 10°
-    note: 最大坡度高的進階線。
+    note: 最大坡度高的進階線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 25
   intermediateRatio: 50
   advancedRatio: 25

@@ -77,109 +77,109 @@ courses:
     length: 400m
     maxSlope: 10°
     averageSlope: 7°
-    note: 山麓側 family 緩坡。
+    note: 山麓側 family 緩坡；官方資料並列出全長 400m、最大坡度 10°、平均坡度 7°。
   - name: ロマンスコース
     difficulty: beginner
     length: 950m
     maxSlope: 15°
     averageSlope: 10°
-    note: 適合初級者練習長一點的滑行。
+    note: 適合初級者練習長一點的滑行；官方資料並列出全長 950m、最大坡度 15°、平均坡度 10°。
   - name: しらかばコース
     difficulty: beginner
     length: 550m
     maxSlope: 19°
     averageSlope: 11°
-    note: 官方列為初級路線，可銜接西山側。
+    note: 官方列為初級路線，可銜接西山側；官方資料並列出全長 550m、最大坡度 19°、平均坡度 11°。
   - name: ミルキーウェイ
     difficulty: beginner
     length: 2,800m
     maxSlope: 18°
     averageSlope: 14°
-    note: 長距離初級巡航路線。
+    note: 長距離初級巡航路線；官方資料並列出全長 2,800m、最大坡度 18°、平均坡度 14°。
   - name: チャレンジ A
     difficulty: intermediate
     length: 500m
     maxSlope: 22°
     averageSlope: 15°
-    note: Challenge 區中級線。
+    note: Challenge 區中級線；官方資料並列出全長 500m、最大坡度 22°、平均坡度 15°。
   - name: チャレンジ B
     difficulty: intermediate
     length: 500m
     maxSlope: 22°
     averageSlope: 15°
-    note: Challenge 區中級線。
+    note: Challenge 區中級線；官方資料並列出全長 500m、最大坡度 22°、平均坡度 15°。
   - name: 国体女子（沢）
     difficulty: intermediate
     length: 800m
     maxSlope: 23°
     averageSlope: 18°
-    note: 官方列名的競技取向中級路線。
+    note: 官方列名的競技取向中級路線；官方資料並列出全長 800m、最大坡度 23°、平均坡度 18°。
   - name: チャンピオン B
     difficulty: intermediate
     length: 400m
     maxSlope: 28°
     averageSlope: 22°
-    note: Champion 區中上級坡。
+    note: Champion 區中上級坡；官方資料並列出全長 400m、最大坡度 28°、平均坡度 22°。
   - name: 国体女子（西山）
     difficulty: advanced
     length: 850m
     maxSlope: 27°
     averageSlope: 21°
-    note: 西山側較陡路線。
+    note: 西山側較陡路線；官方資料並列出全長 850m、最大坡度 27°、平均坡度 21°。
   - name: 国体男子
     difficulty: ungroomed
     length: 1,800m
     maxSlope: 29°
     averageSlope: 19°
-    note: 官方標示非壓雪，適合進階者。
+    note: 官方標示非壓雪，適合進階者；官方資料並列出全長 1,800m、最大坡度 29°、平均坡度 19°。
   - name: エキスパート下
     difficulty: advanced
     length: 550m
     maxSlope: 21°
     averageSlope: 18°
-    note: Expert 下段。
+    note: Expert 下段；官方資料並列出全長 550m、最大坡度 21°、平均坡度 18°。
   - name: エキスパート上
     difficulty: expert
     length: 250m
     maxSlope: 40°
     averageSlope: 40°
-    note: 官方標示非壓雪且坡度非常高。
+    note: 官方標示非壓雪且坡度非常高；官方資料並列出全長 250m、最大坡度 40°、平均坡度 40°。
   - name: チャンピオン A
     difficulty: advanced
     length: 1,050m
     maxSlope: 24°
     averageSlope: 19°
-    note: Champion 區主線。
+    note: Champion 區主線；官方資料並列出全長 1,050m、最大坡度 24°、平均坡度 19°。
   - name: リーゼン
     difficulty: ungroomed
     length: 750m
     maxSlope: 27°
     averageSlope: 22°
-    note: 官方標示非壓雪。
+    note: 官方標示非壓雪；官方資料並列出全長 750m、最大坡度 27°、平均坡度 22°。
   - name: ななかまどコース
     difficulty: intermediate
     length: 1,100m
     maxSlope: 22°
     averageSlope: 14°
-    note: 西山側中級巡航路線。
+    note: 西山側中級巡航路線；官方資料並列出全長 1,100m、最大坡度 22°、平均坡度 14°。
   - name: ぶなの木コース
     difficulty: intermediate
     length: 1,050m
     maxSlope: 23°
     averageSlope: 16°
-    note: 西山側中級路線。
+    note: 西山側中級路線；官方資料並列出全長 1,050m、最大坡度 23°、平均坡度 16°。
   - name: みずならコース
     difficulty: advanced
     length: 1,090m
     maxSlope: 28°
     averageSlope: 15°
-    note: 西山側進階路線。
+    note: 西山側進階路線；官方資料並列出全長 1,090m、最大坡度 28°、平均坡度 15°。
   - name: とちの木コース
     difficulty: advanced
     length: 1,140m
     maxSlope: 28°
     averageSlope: 14°
-    note: 西山側進階路線。
+    note: 西山側進階路線；官方資料並列出全長 1,140m、最大坡度 28°、平均坡度 14°。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

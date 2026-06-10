@@ -100,7 +100,7 @@ courses:
     length: 450m
     maxSlope: 20°
     averageSlope: 15°
-    note: 穿過林間的人氣 course。
+    note: 穿過林間的人氣 course；官方資料並列出全長 450m、最大坡度 20°、平均坡度 15°。
   - name: スペードスロープ / Spade Slope
     difficulty: beginner
     length: 800m
@@ -112,13 +112,13 @@ courses:
     length: 400m
     maxSlope: 15°
     averageSlope: 10°
-    note: 被林木包圍、可享受氣氛的緩坡。
+    note: 被林木包圍、可享受氣氛的緩坡；官方資料並列出全長 400m、最大坡度 15°、平均坡度 10°。
   - name: ダイヤスロープ / Dia Slope
     difficulty: beginner
     length: 400m
     maxSlope: 10°
     averageSlope: 10°
-    note: 官方說明適合初級者練習。
+    note: 官方說明適合初級者練習；官方資料並列出全長 400m、最大坡度 10°、平均坡度 10°。
   - name: クイーンスロープ / Queen Slope
     difficulty: intermediate
     length: 800m

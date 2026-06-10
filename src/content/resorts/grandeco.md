@@ -119,19 +119,19 @@ courses:
     length: 1,000m
     maxSlope: 10°
     averageSlope: 5°
-    note: 官方列為可連接飯店的緩坡道路型路線。
+    note: 官方列為可連接飯店的緩坡道路型路線；官方資料並列出全長 1,000m、最大坡度 10°、平均坡度 5°。
   - name: Main Street
     difficulty: beginner
     length: 1,800m
     maxSlope: 18°
     averageSlope: 8°
-    note: 官方列為初級主線路線。
+    note: 官方列為初級主線路線；官方資料並列出全長 1,800m、最大坡度 18°、平均坡度 8°。
   - name: Road to Powder
     difficulty: intermediate
     length: 1,000m
     maxSlope: 25°
     averageSlope: 20°
-    note: 官方列為通往粉雪區域的道路型路線。
+    note: 官方列為通往粉雪區域的道路型路線；官方資料並列出全長 1,000m、最大坡度 25°、平均坡度 20°。
   - name: The View
     difficulty: intermediate
     length: 2,000m
@@ -143,37 +143,37 @@ courses:
     length: 850m
     maxSlope: 26°
     averageSlope: 11°
-    note: 官方列為中級路線。
+    note: 官方列為中級路線；官方資料並列出全長 850m、最大坡度 26°、平均坡度 11°。
   - name: Powder
     difficulty: intermediate
     length: 600m
     maxSlope: 19°
     averageSlope: 12°
-    note: 官方列為粉雪取向路線。
+    note: 官方列為粉雪取向路線；官方資料並列出全長 600m、最大坡度 19°、平均坡度 12°。
   - name: Fall Line
     difficulty: intermediate
     length: 450m
     maxSlope: 21°
     averageSlope: 12°
-    note: 官方列為沿最大傾斜方向滑行的路線。
+    note: 官方列為沿最大傾斜方向滑行的路線；官方資料並列出全長 450m、最大坡度 21°、平均坡度 12°。
   - name: Center 33
     difficulty: advanced
     length: 450m
     maxSlope: 33°
     averageSlope: 18°
-    note: 官方列為最大斜度 33° 的上級路線。
+    note: 官方列為最大斜度 33° 的上級路線；官方資料並列出全長 450m、最大坡度 33°、平均坡度 18°。
   - name: The Rock
     difficulty: advanced
     length: 450m
     maxSlope: 30°
     averageSlope: 20°
-    note: 官方列為上級路線。
+    note: 官方列為上級路線；官方資料並列出全長 450m、最大坡度 30°、平均坡度 20°。
   - name: Free Ride
     difficulty: advanced
     length: 650m
     maxSlope: 30°
     averageSlope: 15°
-    note: 官方列為 freeride 取向路線，實際開放與規則請依官方公告。
+    note: 官方列為 freeride 取向路線，實際開放與規則請依官方公告；官方資料並列出全長 650m、最大坡度 30°、平均坡度 15°。
 lifts:
   total: 5
 access:

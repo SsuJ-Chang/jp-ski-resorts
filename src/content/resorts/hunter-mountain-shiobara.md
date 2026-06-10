@@ -74,73 +74,73 @@ courses:
     length: 220m
     maxSlope: 8°
     averageSlope: 5°
-    note: 初級練習坡。
+    note: 初級練習坡；官方資料並列出全長 220m、最大坡度 8°、平均坡度 5°。
   - name: セブンス・アベニュー
     difficulty: beginner
     length: 700m
     maxSlope: 10°
     averageSlope: 7°
-    note: 初級巡航線。
+    note: 初級巡航線；官方資料並列出全長 700m、最大坡度 10°、平均坡度 7°。
   - name: ファッション・アベニュー
     difficulty: beginner
     length: 380m
     maxSlope: 5°
     averageSlope: 5°
-    note: 坡度很緩的初級路線。
+    note: 坡度很緩的初級路線；官方資料並列出全長 380m、最大坡度 5°、平均坡度 5°。
   - name: ウェストサイド・ストリート
     difficulty: beginner
     length: 960m
     maxSlope: 15°
     averageSlope: 10°
-    note: 較長的初級巡航線。
+    note: 較長的初級巡航線；官方資料並列出全長 960m、最大坡度 15°、平均坡度 10°。
   - name: ブロードウェイ
     difficulty: intermediate
     length: 1,010m
     maxSlope: 22°
     averageSlope: 10°
-    note: 中級主線之一。
+    note: 中級主線之一；官方資料並列出全長 1,010m、最大坡度 22°、平均坡度 10°。
   - name: フォーティーセカンド・ストリート
     difficulty: intermediate
     length: 1,000m
     maxSlope: 22°
     averageSlope: 15°
-    note: 中級主線之一。
+    note: 中級主線之一；官方資料並列出全長 1,000m、最大坡度 22°、平均坡度 15°。
   - name: レキシントン・アベニュー
     difficulty: intermediate
     length: 870m
     maxSlope: 20°
     averageSlope: 15°
-    note: 中級巡航線。
+    note: 中級巡航線；官方資料並列出全長 870m、最大坡度 20°、平均坡度 15°。
   - name: パーク・アベニュー
     difficulty: intermediate
     length: 970m
     maxSlope: 20°
     averageSlope: 15°
-    note: 中級路線。
+    note: 中級路線；官方資料並列出全長 970m、最大坡度 20°、平均坡度 15°。
   - name: ウォール・ストリート
     difficulty: advanced
     length: 600m
     maxSlope: 25°
     averageSlope: 20°
-    note: 進階坡。
+    note: 進階坡；官方資料並列出全長 600m、最大坡度 25°、平均坡度 20°。
   - name: マディソン・アベニュー
     difficulty: advanced
     length: 650m
     maxSlope: 20°
     averageSlope: 15°
-    note: 進階路線。
+    note: 進階路線；官方資料並列出全長 650m、最大坡度 20°、平均坡度 15°。
   - name: ニュー・マディソン
     difficulty: advanced
     length: 380m
     maxSlope: 25°
     averageSlope: 20°
-    note: 進階路線。
+    note: 進階路線；官方資料並列出全長 380m、最大坡度 25°、平均坡度 20°。
   - name: エフ・ディー・アール
     difficulty: advanced
     length: 810m
     maxSlope: 25°
     averageSlope: 18°
-    note: 進階路線。
+    note: 進階路線；官方資料並列出全長 810m、最大坡度 25°、平均坡度 18°。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

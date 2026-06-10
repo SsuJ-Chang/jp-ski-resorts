@@ -70,16 +70,16 @@ courses:
   details:
   - name: ロマンスゲレンデ
     difficulty: beginner
-    note: 官方營運狀態列名坡面。
+    note: 官方營運狀態列名坡面；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 第2ゲレンデ
     difficulty: intermediate
-    note: 官方營運狀態列名坡面。
+    note: 官方營運狀態列名坡面；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ダウンヒルコース
     difficulty: intermediate
-    note: 官方營運狀態列名下滑路線。
+    note: 官方營運狀態列名下滑路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: キッズゲレンデ
     difficulty: beginner
-    note: 兒童與入門取向坡面。
+    note: 兒童與入門取向坡面；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 50
   intermediateRatio: 50
 terrainSummary:

@@ -75,25 +75,25 @@ courses:
     length: 200m
     maxSlope: 10°
     averageSlope: 10°
-    note: 初級練習坡。
+    note: 初級練習坡；官方資料並列出全長 200m、最大坡度 10°、平均坡度 10°。
   - name: ファミリーゲレンデ
     difficulty: beginner
     length: 400m
     maxSlope: 13°
     averageSlope: 10°
-    note: 家庭與初級者取向。
+    note: 家庭與初級者取向；官方資料並列出全長 400m、最大坡度 13°、平均坡度 10°。
   - name: バラエティーコース
     difficulty: intermediate
     length: 900m
     maxSlope: 20°
     averageSlope: 13°
-    note: 中級巡航路線。
+    note: 中級巡航路線；官方資料並列出全長 900m、最大坡度 20°、平均坡度 13°。
   - name: パラダイスコース
     difficulty: intermediate
     length: 650m
     maxSlope: 18°
     averageSlope: 13°
-    note: 中級路線。
+    note: 中級路線；官方資料並列出全長 650m、最大坡度 18°、平均坡度 13°。
   - name: ダイナミックコース
     difficulty: intermediate
     note: 官方 course guide 列名路線。
@@ -108,7 +108,7 @@ courses:
     length: 700m
     maxSlope: 27°
     averageSlope: 24°
-    note: 坡度較集中的技術路線。
+    note: 坡度較集中的技術路線；官方資料並列出全長 700m、最大坡度 27°、平均坡度 24°。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

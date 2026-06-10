@@ -90,12 +90,15 @@ courses:
   - name: Waver Course
     difficulty: beginner
     length: 1,000m
+    note: 官方雪道資料列為初級路線，全長 1,000m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Simple Course
     difficulty: beginner
     length: 1,300m
+    note: 官方雪道資料列為初級路線，全長 1,300m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Gemse Course
     difficulty: intermediate
     length: 600m
+    note: 官方雪道資料列為中級路線，全長 600m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 1
 terrainSummary:

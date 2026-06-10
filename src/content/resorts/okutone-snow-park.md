@@ -74,43 +74,43 @@ courses:
     length: 200m
     maxSlope: 18°
     averageSlope: 12°
-    note: 山麓初級坡。
+    note: 山麓初級坡；官方資料並列出全長 200m、最大坡度 18°、平均坡度 12°。
   - name: 向山ゲレンデ
     difficulty: beginner
     length: 600m
     maxSlope: 22°
     averageSlope: 15°
-    note: 初級者可使用的主要坡面。
+    note: 初級者可使用的主要坡面；官方資料並列出全長 600m、最大坡度 22°、平均坡度 15°。
   - name: かもしかコース
     difficulty: beginner
     length: 600m
     maxSlope: 8°
     averageSlope: 5°
-    note: 緩坡路線。
+    note: 緩坡路線；官方資料並列出全長 600m、最大坡度 8°、平均坡度 5°。
   - name: 林道連絡路
     difficulty: beginner
     length: 1,500m
     maxSlope: 8°
     averageSlope: 5°
-    note: 林道型連絡路。
+    note: 林道型連絡路；官方資料並列出全長 1,500m、最大坡度 8°、平均坡度 5°。
   - name: ゆきざるコース
     difficulty: intermediate
     length: 1,000m
     maxSlope: 30°
     averageSlope: 18°
-    note: 中級路線，最大坡度較高。
+    note: 中級路線，最大坡度較高；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ブナの木コース
     difficulty: intermediate
     length: 900m
     maxSlope: 25°
     averageSlope: 18°
-    note: 中級路線。
+    note: 中級路線；官方資料並列出全長 900m、最大坡度 25°、平均坡度 18°。
   - name: 林間連絡路
     difficulty: intermediate
     length: 550m
     maxSlope: 25°
     averageSlope: 18°
-    note: 林間型中級連絡路。
+    note: 林間型中級連絡路；官方資料並列出全長 550m、最大坡度 25°、平均坡度 18°。
   - name: くらししコース
     difficulty: ungroomed
     length: 600m

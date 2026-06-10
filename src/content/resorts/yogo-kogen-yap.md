@@ -74,31 +74,31 @@ courses:
     length: 400m
     maxSlope: 16°
     averageSlope: 12°
-    note: 初中級路線。
+    note: 初中級路線；官方資料並列出全長 400m、最大坡度 16°、平均坡度 12°。
   - name: バレ・ブランシュ
     difficulty: intermediate
     length: 1,000m
     maxSlope: 21°
     averageSlope: 11°
-    note: 中級巡航線。
+    note: 中級巡航線；官方資料並列出全長 1,000m、最大坡度 21°、平均坡度 11°。
   - name: モンテローザ
     difficulty: intermediate
     length: 750m
     maxSlope: 22°
     averageSlope: 12°
-    note: 中級路線。
+    note: 中級路線；官方資料並列出全長 750m、最大坡度 22°、平均坡度 12°。
   - name: ブライトホルン
     difficulty: intermediate
     length: 240m
     maxSlope: 21°
     averageSlope: 12°
-    note: 短距離中級線。
+    note: 短距離中級線；官方資料並列出全長 240m、最大坡度 21°、平均坡度 12°。
   - name: ブレバン
     difficulty: intermediate
     length: 1,100m
     maxSlope: 18°
     averageSlope: 11°
-    note: 長距離中級線。
+    note: 長距離中級線；官方資料並列出全長 1,100m、最大坡度 18°、平均坡度 11°。
   - name: マッターホルン
     difficulty: advanced
     length: 300m

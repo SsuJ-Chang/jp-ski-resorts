@@ -111,97 +111,97 @@ courses:
     length: 740m
     maxSlope: 15°
     averageSlope: 8°
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；官方資料並列出全長 740m、最大坡度 15°、平均坡度 8°。
   - name: 連絡コース / Connection Course
     difficulty: beginner
     length: 1,250m
     maxSlope: 15°
     averageSlope: 8°
-    note: 官方列為初級連絡路線。
+    note: 官方列為初級連絡路線；官方資料並列出全長 1,250m、最大坡度 15°、平均坡度 8°。
   - name: 白樺コース / Shirakaba Course
     difficulty: beginner
     length: 1,400m
     maxSlope: 17°
     averageSlope: 11°
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；官方資料並列出全長 1,400m、最大坡度 17°、平均坡度 11°。
   - name: くるみヶ丘ゲレンデ / Kurumigaoka Slope
     difficulty: beginner
     length: 600m
     maxSlope: 13°
     averageSlope: 9°
-    note: 官方列為初級雪道。
+    note: 官方列為初級雪道；官方資料並列出全長 600m、最大坡度 13°、平均坡度 9°。
   - name: スターライトゲレンデ / Starlight Slope
     difficulty: beginner
     length: 600m
     maxSlope: 17°
     averageSlope: 12°
-    note: 官方列為初級雪道。
+    note: 官方列為初級雪道；官方資料並列出全長 600m、最大坡度 17°、平均坡度 12°。
   - name: しなの木コース / Shinanoki Course
     difficulty: beginner
     length: 450m
     maxSlope: 17°
     averageSlope: 12°
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；官方資料並列出全長 450m、最大坡度 17°、平均坡度 12°。
   - name: 天狗おとし A / Tenguotoshi A
     difficulty: intermediate
     length: 650m
     maxSlope: 24°
     averageSlope: 15°
-    note: 官方列為中級路線。
+    note: 官方列為中級路線；官方資料並列出全長 650m、最大坡度 24°、平均坡度 15°。
   - name: パノラマゲレンデ / Panorama Slope
     difficulty: intermediate
     length: 1,450m
     maxSlope: 20°
     averageSlope: 13°
-    note: 官方列為中級雪道。
+    note: 官方列為中級雪道；官方資料並列出全長 1,450m、最大坡度 20°、平均坡度 13°。
   - name: ダウンヒル連絡コース / Downhill Connection Course
     difficulty: intermediate
     length: 550m
     maxSlope: 17°
     averageSlope: 10°
-    note: 官方列為中級連絡路線。
+    note: 官方列為中級連絡路線；官方資料並列出全長 550m、最大坡度 17°、平均坡度 10°。
   - name: ダイナミックコース / Dynamic Course
     difficulty: intermediate
     length: 1,250m
     maxSlope: 18°
     averageSlope: 10°
-    note: 官方列為中級路線。
+    note: 官方列為中級路線；官方資料並列出全長 1,250m、最大坡度 18°、平均坡度 10°。
   - name: ジャイアントコース / Giant Course
     difficulty: intermediate
     length: 900m
     maxSlope: 18°
     averageSlope: 14°
-    note: 官方列為中級路線。
+    note: 官方列為中級路線；官方資料並列出全長 900m、最大坡度 18°、平均坡度 14°。
   - name: 杉ノ原連絡コース / Suginohara Connection Course
     difficulty: intermediate
     length: 450m
     maxSlope: 18°
     averageSlope: 14°
-    note: 官方列為中級連絡路線。
+    note: 官方列為中級連絡路線；官方資料並列出全長 450m、最大坡度 18°、平均坡度 14°。
   - name: 杉ノ原ゾーン / Suginohara Zone
     difficulty: intermediate
     length: 1,500m
     maxSlope: 17°
     averageSlope: 13°
-    note: 官方列為中級區域。
+    note: 官方列為中級區域；官方資料並列出全長 1,500m、最大坡度 17°、平均坡度 13°。
   - name: スーパージャイアントコース / Super Giant Course
     difficulty: advanced
     length: 1,000m
     maxSlope: 38°
     averageSlope: 16°
-    note: 官方列為上級路線。
+    note: 官方列為上級路線；官方資料並列出全長 1,000m、最大坡度 38°、平均坡度 16°。
   - name: ダウンヒルコース / Downhill Course
     difficulty: advanced
     length: 1,100m
     maxSlope: 23°
     averageSlope: 14°
-    note: 官方列為上級路線。
+    note: 官方列為上級路線；官方資料並列出全長 1,100m、最大坡度 23°、平均坡度 14°。
   - name: スーパーモーグルコース / Super Mogul Course
     difficulty: advanced
     length: 500m
     maxSlope: 32°
     averageSlope: 25°
-    note: 官方列為上級路線。
+    note: 官方列為上級路線；官方資料並列出全長 500m、最大坡度 32°、平均坡度 25°。
 lifts:
   total: 4
 access:

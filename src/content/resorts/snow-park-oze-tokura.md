@@ -73,37 +73,37 @@ courses:
     difficulty: beginner
     length: 325m
     maxSlope: 8.8°
-    note: 練習與課程取向的初級坡。
+    note: 練習與課程取向的初級坡；官方資料並列出全長 325m、最大坡度 8.8°。
   - name: 十二平ゲレンデ
     difficulty: intermediate
     length: 240m
     maxSlope: 16.9°
-    note: 短距離中級坡。
+    note: 短距離中級坡；官方資料並列出全長 240m、最大坡度 16.9°。
   - name: ロマンスコース
     difficulty: intermediate
     length: 2,200m
     maxSlope: 13.4°
-    note: 官方列為長距離主線。
+    note: 官方列為長距離主線；官方資料並列出全長 2,200m、最大坡度 13.4°。
   - name: 富士見コース
     difficulty: intermediate
     length: 468m
     maxSlope: 17.6°
-    note: 中級巡航路線。
+    note: 中級巡航路線；官方資料並列出全長 468m、最大坡度 17.6°。
   - name: A コース
     difficulty: ungroomed
     length: 520m
     maxSlope: 21.1°
-    note: 官方說明上部為非壓雪。
+    note: 官方說明上部為非壓雪；官方資料並列出全長 520m、最大坡度 21.1°。
   - name: ダイナミックコース
     difficulty: advanced
     length: 1,041m
     maxSlope: 16.3°
-    note: 官方標示為 SAJ 公認相關路線。
+    note: 官方標示為 SAJ 公認相關路線；官方資料並列出全長 1,041m、最大坡度 16.3°。
   - name: 荒山コース
     difficulty: advanced
     length: 925m
     maxSlope: 16.0°
-    note: 官方介紹為 mogul 取向路線。
+    note: 官方介紹為 mogul 取向路線；官方資料並列出全長 925m、最大坡度 16.0°。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

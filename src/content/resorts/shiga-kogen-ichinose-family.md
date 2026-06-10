@@ -105,7 +105,7 @@ courses:
   - name: Panorama Course
     difficulty: intermediate
     length: 2,300m
-    note: 中級林間路線，景觀佳且滑行順暢。
+    note: 中級林間路線，景觀佳且滑行順暢；官方資料並列出全長 2,300m。
   - name: Perfecter Course
     difficulty: advanced
     length: 1,500m

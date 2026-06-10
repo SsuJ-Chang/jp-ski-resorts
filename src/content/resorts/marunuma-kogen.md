@@ -78,7 +78,7 @@ courses:
     note: 串接綠線與山麓區的連絡路線，作為初級者移動用。
   - name: イエローコース A
     difficulty: beginner
-    note: 官方列為 Yellow 區路線之一，坡度相對溫和。
+    note: 官方列為 Yellow 區路線之一，坡度相對溫和；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: イエローコース B
     difficulty: beginner
     note: Yellow 區的初級滑行線，可與相鄰路線串接。
@@ -87,7 +87,7 @@ courses:
     note: Yellow 區的初級滑行線，適合練習穩定速度控制。
   - name: ローズコース
     difficulty: intermediate
-    note: 中段巡航路線，可銜接山麓主要區域。
+    note: 中段巡航路線，可銜接山麓主要區域；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: バイオレットコース A
     difficulty: intermediate
     note: Violet 區路線之一，官方營運狀態頁分列 A 線。

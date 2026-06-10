@@ -91,33 +91,43 @@ courses:
   - name: Horseback Course
     difficulty: beginner
     length: 600m
+    note: 官方雪道資料列為初級路線，全長 600m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.2 Beginner Course
     difficulty: beginner
     length: 600m
+    note: 官方雪道資料列為初級路線，全長 600m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.4 Event Course
     difficulty: beginner
     length: 500m
+    note: 官方雪道資料列為初級路線，全長 500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.2 Beginner Detour Course
     difficulty: beginner
     length: 600m
+    note: 官方雪道資料列為初級路線，全長 600m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.3 A Course
     difficulty: intermediate
     length: 400m
+    note: 官方雪道資料列為中級路線，全長 400m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.3 B Course
     difficulty: intermediate
     length: 800m
+    note: 官方雪道資料列為中級路線，全長 800m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.3 Detour Course
     difficulty: intermediate
     length: 1,000m
+    note: 官方雪道資料列為中級路線，全長 1,000m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.4 Course
     difficulty: intermediate
     length: 450m
+    note: 官方雪道資料列為中級路線，全長 450m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.2 A Course
     difficulty: advanced
     length: 1,200m
+    note: 官方雪道資料列為上級路線，全長 1,200m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.2 B Course
     difficulty: advanced
     length: 1,000m
+    note: 官方雪道資料列為上級路線，全長 1,000m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 5
 terrainSummary:

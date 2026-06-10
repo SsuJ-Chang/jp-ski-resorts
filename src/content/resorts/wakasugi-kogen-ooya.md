@@ -72,13 +72,13 @@ courses:
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner
-    note: 官方新頁列為初級坡。
+    note: 官方新頁列為初級坡；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: メインバーン
     difficulty: intermediate
     note: 官方新頁列為初級到中級者使用的主坡。
   - name: キッズパーク・そりゲレンデ
     difficulty: beginner
-    note: 兒童與雪盆區。
+    note: 兒童與雪盆區；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 40
   intermediateRatio: 30
   advancedRatio: 30

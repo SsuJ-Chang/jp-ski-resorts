@@ -1,4 +1,4 @@
-﻿---
+---
 id: mt-norikura-snow-resort
 name:
   zhTw: Mt.乘鞍 Snow Resort
@@ -99,6 +99,7 @@ courses:
   - name: すずらんコース
     difficulty: beginner
     length: 1,000m
+    note: 官方雪道資料列為初級路線，全長 1,000m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: パラダイスコース
     difficulty: beginner
     length: 520m
@@ -108,11 +109,14 @@ courses:
   - name: ヨーデルコース
     difficulty: beginner
     length: 500m
+    note: 官方雪道資料列為初級路線，全長 500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: 鍋つるコース
     difficulty: beginner
     length: 1,100m
+    note: 官方雪道資料列為初級路線，全長 1,100m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: しらかばコース
     difficulty: beginner
+    note: 官方雪道資料列為初級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: 夢の平コース
     difficulty: beginner
     length: 800m
@@ -122,8 +126,10 @@ courses:
   - name: 林間コース
     difficulty: beginner
     length: 500m
+    note: 官方雪道資料列為初級路線，全長 500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: ユートピアコース
     difficulty: beginner
+    note: 官方雪道資料列為初級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: スカイラブコース
     difficulty: intermediate
     length: 620m
@@ -133,18 +139,24 @@ courses:
   - name: 木の陰コース
     difficulty: intermediate
     length: 700m
+    note: 官方雪道資料列為中級路線，全長 700m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: 兔待ちコース
     difficulty: intermediate
     length: 500m
+    note: 官方雪道資料列為中級路線，全長 500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: かもしかBコース
     difficulty: intermediate
+    note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: 迂回コース
     difficulty: intermediate
+    note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: パノラマコース
     difficulty: intermediate
+    note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
   - name: フィニッシュバーン
     difficulty: advanced
     length: 200m
+    note: 官方雪道資料列為上級路線，全長 200m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: テクニカルコース
     difficulty: advanced
     length: 150m
@@ -152,9 +164,11 @@ courses:
   - name: アルペンコース
     difficulty: advanced
     length: 600m
+    note: 官方雪道資料列為上級路線，全長 600m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: チャレンジコース
     difficulty: advanced
     length: 500m
+    note: 官方雪道資料列為上級路線，全長 500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: かもしかAコース
     difficulty: advanced
     length: 600m

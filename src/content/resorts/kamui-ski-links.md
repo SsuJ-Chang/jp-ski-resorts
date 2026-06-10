@@ -116,7 +116,7 @@ courses:
     difficulty: beginner
     length: 100m
     maxSlope: 8°
-    note: 官方列為初級壓雪路線，是小朋友與初學者專用斜面。
+    note: 官方列為初級壓雪路線，是小朋友與初學者專用斜面；官方資料並列出全長 100m、最大坡度 8°。
   - name: レッスン / First Timer
     difficulty: beginner
     length: 900m

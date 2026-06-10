@@ -113,66 +113,79 @@ courses:
     length: 560m
     maxSlope: 12°
     averageSlope: 11°
+    note: 官方雪道資料列為初級路線，全長 560m、最大坡度 12°、平均坡度 11°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Family
     difficulty: beginner
     length: 580m
     maxSlope: 11°
     averageSlope: 6°
+    note: 官方雪道資料列為初級路線，全長 580m、最大坡度 11°、平均坡度 6°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Junior
     difficulty: beginner
     length: 960m
     maxSlope: 13°
     averageSlope: 9°
+    note: 官方雪道資料列為初級路線，全長 960m、最大坡度 13°、平均坡度 9°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Panorama
     difficulty: intermediate
     length: 475m
     maxSlope: 24°
     averageSlope: 19°
+    note: 官方雪道資料列為中級路線，全長 475m、最大坡度 24°、平均坡度 19°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Utopia
     difficulty: intermediate
     length: 600m
     maxSlope: 22°
     averageSlope: 15°
+    note: 官方雪道資料列為中級路線，全長 600m、最大坡度 22°、平均坡度 15°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Silver
     difficulty: intermediate
     length: 150m
     maxSlope: 22°
     averageSlope: 20°
+    note: 官方雪道資料列為中級路線，全長 150m、最大坡度 22°、平均坡度 20°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: "“S” Ji"
     difficulty: intermediate
     length: 700m
     maxSlope: 20°
     averageSlope: 14°
+    note: 官方雪道資料列為中級路線，全長 700m、最大坡度 20°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Shirakaba
     difficulty: intermediate
     length: 800m
     maxSlope: 20°
     averageSlope: 16°
+    note: 官方雪道資料列為中級路線，全長 800m、最大坡度 20°、平均坡度 16°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Dynamic
     difficulty: intermediate
     length: 390m
     maxSlope: 33°
     averageSlope: 19°
+    note: 官方雪道資料列為中級路線，全長 390m、最大坡度 33°、平均坡度 19°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Championship
     difficulty: advanced
     length: 565m
     maxSlope: 25°
     averageSlope: 21°
+    note: 官方雪道資料列為上級路線，全長 565m、最大坡度 25°、平均坡度 21°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Merchen
     difficulty: advanced
     length: 277m
     maxSlope: 28°
     averageSlope: 18°
+    note: 官方雪道資料列為上級路線，全長 277m、最大坡度 28°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Challenge
     difficulty: advanced
     length: 250m
     maxSlope: 33°
     averageSlope: 21°
+    note: 官方雪道資料列為上級路線，全長 250m、最大坡度 33°、平均坡度 21°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Fukayuki Rinkan
     difficulty: advanced
     length: 400m
     maxSlope: 34°
     averageSlope: 24°
+    note: 官方雪道資料列為上級路線，全長 400m、最大坡度 34°、平均坡度 24°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 6
 access:

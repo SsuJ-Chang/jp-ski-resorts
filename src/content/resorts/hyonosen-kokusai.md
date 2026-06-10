@@ -70,25 +70,25 @@ courses:
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner
-    note: 家庭與初級練習坡。
+    note: 家庭與初級練習坡；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ビギナーゲレンデ
     difficulty: beginner
-    note: 初級坡。
+    note: 初級坡；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: パノラマコース
     difficulty: intermediate
     length: 900m
     maxSlope: 20°
-    note: 中級巡航路線。
+    note: 中級巡航路線；官方資料並列出全長 900m、最大坡度 20°。
   - name: ロマンス左コース
     difficulty: intermediate
     length: 850m
     maxSlope: 22°
-    note: Romance 左側路線。
+    note: Romance 左側路線；官方資料並列出全長 850m、最大坡度 22°。
   - name: ロマンス右コース
     difficulty: advanced
     length: 800m
     maxSlope: 25°
-    note: Romance 右側較進階路線。
+    note: Romance 右側較進階路線；官方資料並列出全長 800m、最大坡度 25°。
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20

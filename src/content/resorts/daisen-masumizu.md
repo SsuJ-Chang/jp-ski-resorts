@@ -70,7 +70,7 @@ courses:
   details:
   - name: 初心者練習ゲレンデ
     difficulty: beginner
-    note: 山麓側入門練習坡。
+    note: 山麓側入門練習坡；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: メインゲレンデ
     difficulty: intermediate
     length: 700m
@@ -78,7 +78,7 @@ courses:
     note: 官方說明主坡約 700m、標高差約 160m、最大坡度 30 度。
   - name: スノープレイゾーン
     difficulty: beginner
-    note: 雪上遊樂與親子取向區域。
+    note: 雪上遊樂與親子取向區域；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20

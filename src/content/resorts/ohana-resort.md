@@ -74,25 +74,25 @@ courses:
     length: 1,200m
     maxSlope: 16°
     averageSlope: 9°
-    note: 較長的初級線。
+    note: 較長的初級線；官方資料並列出全長 1,200m、最大坡度 16°、平均坡度 9°。
   - name: 乗鞍第2コース
     difficulty: intermediate
     length: 460m
     maxSlope: 20°
     averageSlope: 11°
-    note: 中級路線。
+    note: 中級路線；官方資料並列出全長 460m、最大坡度 20°、平均坡度 11°。
   - name: 大谷第2コース
     difficulty: intermediate
     length: 520m
     maxSlope: 25°
     averageSlope: 12°
-    note: 中級路線。
+    note: 中級路線；官方資料並列出全長 520m、最大坡度 25°、平均坡度 12°。
   - name: 大谷第1コース
     difficulty: advanced
     length: 600m
     maxSlope: 31°
     averageSlope: 17°
-    note: 進階坡。
+    note: 進階坡；官方資料並列出全長 600m、最大坡度 31°、平均坡度 17°。
   beginnerRatio: 20
   intermediateRatio: 60
   advancedRatio: 20

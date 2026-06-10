@@ -129,7 +129,7 @@ courses:
     note: 官方說明沿山間景色巡航的長距離路線。
   - name: ホワイトバレー３ / White Valley3
     difficulty: beginner
-    note: 官方說明為通往南區深處的初級路線。
+    note: 官方說明為通往南區深處的初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ブラックバレー３ / Black Valley3
     difficulty: beginner
     note: 官方說明是橫越急斜面的尾根路線，初級者可通過，但深入後會接近急斜面。
@@ -199,10 +199,10 @@ courses:
     note: 官方說明為通往貓魔咖啡休息所的短距離急斜面。
   - name: バトウ１ / Batow1
     difficulty: expert
-    note: 官方說明為設置 Global Park 的超上級路線。
+    note: 官方說明為設置 Global Park 的超上級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ホワイトバレー２ / White Valley2
     difficulty: advanced
-    note: 官方說明滑行方向正面可看見磐梯山。
+    note: 官方說明滑行方向正面可看見磐梯山；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: ブラックバレー１ / Black Valley1
     difficulty: advanced
     note: 官方說明為南區急斜四兄弟之一，斜面有扭轉變化；公園設置期間會成為公園專用路線。

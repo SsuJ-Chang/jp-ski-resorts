@@ -116,67 +116,67 @@ courses:
   - name: やまばと林間コース / Yamabato Forest Course
     difficulty: beginner
     length: 1,300m
-    note: 官方列為初級林間雪道。
+    note: 官方列為初級林間雪道；官方資料並列出全長 1,300m。
   - name: ガッシュタイナーコース / Gasteiner Course
     difficulty: beginner
     length: 1,600m
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；官方資料並列出全長 1,600m。
   - name: カヤバゲレンデ / Kayaba Slope
     difficulty: beginner
     length: 750m
-    note: 官方列為初級雪道。
+    note: 官方列為初級雪道；官方資料並列出全長 750m。
   - name: ガッシュタイナー林間コース / Gasteiner Forest Course
     difficulty: beginner
     length: 2,500m
-    note: 官方列為初級林間路線。
+    note: 官方列為初級林間路線；官方資料並列出全長 2,500m。
   - name: しらかばカプセルペアコース / Shirakaba Capsule Pair Course
     difficulty: beginner
     length: 750m
-    note: 官方列為初級路線。
+    note: 官方列為初級路線；官方資料並列出全長 750m。
   - name: クワッド1コース / Quad 1 Course
     difficulty: intermediate
     length: 1,500m
-    note: 官方列為中級路線。
+    note: 官方列為中級路線；官方資料並列出全長 1,500m。
   - name: ヤッホーコース / Yahoo Course
     difficulty: intermediate
     length: 2,300m
-    note: 官方列為中級路線。
+    note: 官方列為中級路線；官方資料並列出全長 2,300m。
   - name: クワッド3コース / Quad 3 Course
     difficulty: intermediate
     length: 1,500m
-    note: 官方列為中級路線。
+    note: 官方列為中級路線；官方資料並列出全長 1,500m。
   - name: パーク専用コース / Park Course
     difficulty: intermediate
     length: 850m
-    note: 官方列為中級的公園專用路線。
+    note: 官方列為中級的公園專用路線；官方資料並列出全長 850m。
   - name: カプセルペアコース / Capsule Pair Course
     difficulty: intermediate
     length: 1,100m
-    note: 官方列為中級路線。
+    note: 官方列為中級路線；官方資料並列出全長 1,100m。
   - name: アルペンブリックゲレンデ / Alpenblick Slope
     difficulty: intermediate
     length: 750m
-    note: 官方列為中級雪道。
+    note: 官方列為中級雪道；官方資料並列出全長 750m。
   - name: クワッドツリーランコース / Quad Tree Run Course
     difficulty: intermediate
     length: 1,500m
-    note: 官方列為中級樹林滑行路線。
+    note: 官方列為中級樹林滑行路線；官方資料並列出全長 1,500m。
   - name: ツリーランコース / Tree Run Course
     difficulty: intermediate
     length: 750m
-    note: 官方列為中級樹林滑行路線。
+    note: 官方列為中級樹林滑行路線；官方資料並列出全長 750m。
   - name: アルペンブリックコース / Alpenblick Course
     difficulty: advanced
     length: 1,400m
-    note: 官方列為上級路線。
+    note: 官方列為上級路線；官方資料並列出全長 1,400m。
   - name: ドリームコース / Dream Course
     difficulty: advanced
     length: 900m
-    note: 官方列為上級路線。
+    note: 官方列為上級路線；官方資料並列出全長 900m。
   - name: しらかばコース / Shirakaba Course
     difficulty: advanced
     length: 2,500m
-    note: 官方列為上級路線。
+    note: 官方列為上級路線；官方資料並列出全長 2,500m。
 lifts:
   total: 6
 access:
