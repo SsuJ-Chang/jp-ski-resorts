@@ -1,0 +1,104 @@
+---
+id: hiruzen-kids-snow-park
+name:
+  zhTw: 蒜山 Kids Snow Park
+  ja: ひるぜんキッズスノーパーク
+  en: Hiruzen Kids Snow Park
+region: kansai-chugoku
+prefecture: 岡山縣
+tags:
+- beginner_friendly
+- family_friendly
+- night_skiing
+links:
+  official: https://www.qkamura.or.jp/hiruzen/
+  trailMapPage: https://www.qkamura.or.jp/hiruzen/
+  weather: https://weathernews.jp/ski/spot/36604/
+  googleMaps: https://maps.google.co.jp/maps?q=35.294759,133.630111
+season:
+  label: 2025-2026
+  operatingPeriod: 2025/12/28-2026/02/23
+  hours: 平日：平日はCLOSE（土・日・祝日及び12/30〜1/3のみ営業） 休日：9:00〜16:00（最終入場15：00） ナイター：ナイター営業無し
+  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  source: https://weathernews.jp/ski/spot/36604/
+trailMaps:
+- label: 蒜山 Kids Snow Park 官方雪道資訊
+  language: 日本語
+  season: 2025-2026
+  url: https://www.qkamura.or.jp/hiruzen/
+  sourceLabel: Hiruzen Kids Snow Park Official
+snowWeather:
+  title: 蒜山 Kids Snow Park雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/36604/
+  snowDepth: 200 cm
+  updatedAt: 2026/4/30 09:00:00
+  forecast:
+  - date: 12/27(六)
+    weather: 雪
+    low: -5°C
+    high: 4°C
+  - date: 12/28(日)
+    weather: 大雪
+    low: -8°C
+    high: 0°C
+  - date: 12/29(一)
+    weather: 大雪
+    low: -9°C
+    high: -2°C
+  - date: 12/30(二)
+    weather: 陰
+    low: -5°C
+    high: 0°C
+  - date: 12/31(三)
+    weather: 雪
+    low: -3°C
+    high: 3°C
+  - date: 1/1(四)
+    weather: 晴
+    low: -4°C
+    high: 1°C
+  - date: 1/2(五)
+    weather: 雨
+    low: 8°C
+    high: 3°C
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+courses:
+  total: 1
+  courseInfoPage: https://www.qkamura.or.jp/hiruzen/
+  summary: Weathernews 列為 1 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  details:
+  - name: 有料エリア入場雪遊びゾーン
+    difficulty: beginner
+    note: Weathernews 顯示為兒童 Snow Park，主要供親子雪上遊樂與入門體驗。
+terrainSummary:
+  beginner: 初級雪道以 有料エリア入場雪遊びゾーン 為主，適合練習速度控制與穩定轉彎。
+sources:
+- label: Hiruzen Kids Snow Park Official
+  url: https://www.qkamura.or.jp/hiruzen/
+- label: ひるぜんキッズスノーパーク Weathernews
+  url: https://weathernews.jp/ski/spot/36604/
+contact:
+  address:
+    zhTw: 岡山縣真庭市蒜山上福田1205-281
+    ja: 〒717-0602 岡山県真庭市蒜山上福田1205-281
+    googleMaps: https://maps.google.co.jp/maps?q=35.294759,133.630111
+  phone: "0867-66-2501"
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/36604/
+  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1日券（有料エリア入場券）
+    price: 訪客 成人 ¥800 兒童 ¥800 樂齡 ¥800
+location:
+  latitude: 35.294759
+  longitude: 133.630111
+access:
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: Weathernews 交通資訊摘要：姫新線中国勝山駅→蒜山高原行市営バス終点蒜山高原下車 (100分) 車 ：米子自動車道蒜山IC→一般道（約4km） (10分) 100台 平日 無料 休日 無料
+---
+蒜山 Kids Snow Park（ひるぜんキッズスノーパーク）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

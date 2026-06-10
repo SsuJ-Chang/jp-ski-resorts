@@ -1,0 +1,183 @@
+---
+id: okutone-snow-park
+name:
+  zhTw: 奧利根 Snow Park
+  ja: 奥利根スノーパーク
+  en: Okutone Snow Park
+region: kanto-koshinetsu
+prefecture: 群馬縣
+tags:
+- night_skiing
+- powder
+- snowboard_friendly
+- tree_run
+links:
+  official: https://okutone.jp/
+  trailMapPage: https://okutone.jp/gelande/
+  weather: https://weathernews.jp/ski/spot/34225/
+  googleMaps: https://maps.google.co.jp/maps?q=36.803306,139.006577
+season:
+  label: 2025-2026
+  operatingPeriod: 2025/12/13-2026/03/29
+  hours: 平日：8:00〜17:00 休日：8:00〜17:00 ナイター：16:00〜22:00
+  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  source: https://weathernews.jp/ski/spot/34225/
+trailMaps:
+- label: 奧利根 Snow Park 官方雪道資訊
+  language: 日本語
+  season: 2025-2026
+  url: https://okutone.jp/gelande/
+  sourceLabel: Okutone Snow Park Official
+snowWeather:
+  title: 奧利根 Snow Park雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/34225/
+  snowDepth: 200 cm
+  updatedAt: 2026/4/30 09:00:00
+  forecast:
+  - date: 12/27(六)
+    weather: 雪
+    low: -5°C
+    high: 4°C
+  - date: 12/28(日)
+    weather: 大雪
+    low: -8°C
+    high: 0°C
+  - date: 12/29(一)
+    weather: 大雪
+    low: -9°C
+    high: -2°C
+  - date: 12/30(二)
+    weather: 陰
+    low: -5°C
+    high: 0°C
+  - date: 12/31(三)
+    weather: 雪
+    low: -3°C
+    high: 3°C
+  - date: 1/1(四)
+    weather: 晴
+    low: -4°C
+    high: 1°C
+  - date: 1/2(五)
+    weather: 雨
+    low: 8°C
+    high: 3°C
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+courses:
+  total: 9
+  courseInfoPage: https://okutone.jp/gelande/
+  summary: Weathernews 列為 7 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  details:
+  - name: 万治平ゲレンデ
+    difficulty: beginner
+    length: 200m
+    maxSlope: 18°
+    averageSlope: 12°
+    note: 山麓初級坡。
+  - name: 向山ゲレンデ
+    difficulty: beginner
+    length: 600m
+    maxSlope: 22°
+    averageSlope: 15°
+    note: 初級者可使用的主要坡面。
+  - name: かもしかコース
+    difficulty: beginner
+    length: 600m
+    maxSlope: 8°
+    averageSlope: 5°
+    note: 緩坡路線。
+  - name: 林道連絡路
+    difficulty: beginner
+    length: 1,500m
+    maxSlope: 8°
+    averageSlope: 5°
+    note: 林道型連絡路。
+  - name: ゆきざるコース
+    difficulty: intermediate
+    length: 1,000m
+    maxSlope: 30°
+    averageSlope: 18°
+    note: 中級路線，最大坡度較高。
+  - name: ブナの木コース
+    difficulty: intermediate
+    length: 900m
+    maxSlope: 25°
+    averageSlope: 18°
+    note: 中級路線。
+  - name: 林間連絡路
+    difficulty: intermediate
+    length: 550m
+    maxSlope: 25°
+    averageSlope: 18°
+    note: 林間型中級連絡路。
+  - name: くらししコース
+    difficulty: ungroomed
+    length: 600m
+    maxSlope: 30°
+    averageSlope: 18°
+    note: 官方介紹有 powder 與 mogul 取向。
+  - name: くまおとしコース
+    difficulty: ungroomed
+    length: 1,000m
+    maxSlope: 30°
+    averageSlope: 18°
+    note: 官方介紹為 tree/off-piste 取向的進階路線。
+  beginnerRatio: 30
+  intermediateRatio: 40
+  advancedRatio: 30
+terrainSummary:
+  beginner: 初級雪道以 万治平ゲレンデ、向山ゲレンデ、かもしかコース、林道連絡路 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 ゆきざるコース、ブナの木コース、林間連絡路 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 くらししコース、くまおとしコース，請依當日開放狀態與雪況判斷。
+  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
+sources:
+- label: Okutone Snow Park Official
+  url: https://okutone.jp/
+- label: Okutone Snow Park Course Info
+  url: https://okutone.jp/gelande/
+- label: 奥利根スノーパーク Weathernews
+  url: https://weathernews.jp/ski/spot/34225/
+skiArea: minakami
+contact:
+  address:
+    zhTw: 群馬縣利根郡みなかみ町向山39
+    ja: 〒379-1724 群馬県利根郡みなかみ町向山39
+    googleMaps: https://maps.google.co.jp/maps?q=36.803306,139.006577
+  phone: "0278-72-8101"
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/34225/
+  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1日券
+    price: 成人 ¥6,500 兒童 0円 樂齡 ¥5,200
+  - name: 5時間券
+    price: 成人 ¥6,000 兒童 0円 樂齡 ¥4,800
+  - name: 1DAY PASSPORT
+    price: 成人 ¥8,000 兒童 0円 樂齡 ¥6,400
+  - name: ナイター券
+    price: 成人 ¥3,500 兒童 0円 樂齡 ¥3,500
+  - name: 1回券
+    price: 成人 ¥800 兒童 0円 樂齡 ¥800
+  - name: 全日シーズン券
+    price: 成人 ¥70,000 樂齡 ¥60,000
+elevation:
+  top: 1180
+  bottom: 680
+  verticalDrop: 500
+location:
+  latitude: 36.803306
+  longitude: 139.006577
+lifts:
+  total: 7
+access:
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: Weathernews 交通資訊摘要：上越線水上駅より無料シャトルバスで (10分) 電車 ：上越新幹線上毛高原駅よりバスで (40分) 車 ：関越自動車道水上ICよりR291を10km (15分) 飛行機：羽田空港 (170分)
+      600台 平日 無料 休日 無料
+---
+奧利根 Snow Park（奥利根スノーパーク）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

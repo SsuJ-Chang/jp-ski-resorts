@@ -1,0 +1,239 @@
+---
+id: white-world-oze-iwakura
+name:
+  zhTw: White World 尾瀨岩鞍
+  ja: ホワイトワールド尾瀬岩鞍
+  en: White World Oze Iwakura
+region: kanto-koshinetsu
+prefecture: 群馬縣
+tags:
+- family_friendly
+- large_ski_area
+- night_skiing
+- onsen
+- powder
+- snowboard_friendly
+- resort_village
+links:
+  official: https://www.oze-iwakura.co.jp/ski/
+  trailMapPage: https://www.oze-iwakura.co.jp/ski/slopeguide/index.html
+  weather: https://weathernews.jp/ski/spot/34207/
+  googleMaps: https://maps.google.co.jp/maps?q=36.815088,139.220384
+season:
+  label: 2025-2026
+  operatingPeriod: 2025/12/13-2026/04/05
+  hours: 平日：8:30〜16:45 休日：8:30〜16:45 ナイター：16:30〜20:00(12/31、1/3、1/10、1/11、1/17、1/24、1/31、2/7、2/14、2/21、2/22、2/28）
+  note: Weathernews 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
+  source: https://weathernews.jp/ski/spot/34207/
+trailMaps:
+- label: White World 尾瀨岩鞍 官方雪道資訊
+  language: 日本語
+  season: 2025-2026
+  url: https://www.oze-iwakura.co.jp/ski/slopeguide/index.html
+  sourceLabel: White World Oze Iwakura Official
+snowWeather:
+  title: White World 尾瀨岩鞍雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/34207/
+  snowDepth: 200 cm
+  updatedAt: 2026/4/30 09:00:00
+  forecast:
+  - date: 12/27(六)
+    weather: 雪
+    low: -5°C
+    high: 4°C
+  - date: 12/28(日)
+    weather: 大雪
+    low: -8°C
+    high: 0°C
+  - date: 12/29(一)
+    weather: 大雪
+    low: -9°C
+    high: -2°C
+  - date: 12/30(二)
+    weather: 陰
+    low: -5°C
+    high: 0°C
+  - date: 12/31(三)
+    weather: 雪
+    low: -3°C
+    high: 3°C
+  - date: 1/1(四)
+    weather: 晴
+    low: -4°C
+    high: 1°C
+  - date: 1/2(五)
+    weather: 雨
+    low: 8°C
+    high: 3°C
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+courses:
+  total: 18
+  courseInfoPage: https://www.oze-iwakura.co.jp/ski/slopeguide/index.html
+  summary: Weathernews 列為 16 條雪道；本資料依官方雪道頁整理主要雪道，並以 Weathernews 難度比例作為總覽參考。
+  details:
+  - name: ファミリーコース
+    difficulty: beginner
+    length: 400m
+    maxSlope: 10°
+    averageSlope: 7°
+    note: 山麓側 family 緩坡。
+  - name: ロマンスコース
+    difficulty: beginner
+    length: 950m
+    maxSlope: 15°
+    averageSlope: 10°
+    note: 適合初級者練習長一點的滑行。
+  - name: しらかばコース
+    difficulty: beginner
+    length: 550m
+    maxSlope: 19°
+    averageSlope: 11°
+    note: 官方列為初級路線，可銜接西山側。
+  - name: ミルキーウェイ
+    difficulty: beginner
+    length: 2,800m
+    maxSlope: 18°
+    averageSlope: 14°
+    note: 長距離初級巡航路線。
+  - name: チャレンジ A
+    difficulty: intermediate
+    length: 500m
+    maxSlope: 22°
+    averageSlope: 15°
+    note: Challenge 區中級線。
+  - name: チャレンジ B
+    difficulty: intermediate
+    length: 500m
+    maxSlope: 22°
+    averageSlope: 15°
+    note: Challenge 區中級線。
+  - name: 国体女子（沢）
+    difficulty: intermediate
+    length: 800m
+    maxSlope: 23°
+    averageSlope: 18°
+    note: 官方列名的競技取向中級路線。
+  - name: チャンピオン B
+    difficulty: intermediate
+    length: 400m
+    maxSlope: 28°
+    averageSlope: 22°
+    note: Champion 區中上級坡。
+  - name: 国体女子（西山）
+    difficulty: advanced
+    length: 850m
+    maxSlope: 27°
+    averageSlope: 21°
+    note: 西山側較陡路線。
+  - name: 国体男子
+    difficulty: ungroomed
+    length: 1,800m
+    maxSlope: 29°
+    averageSlope: 19°
+    note: 官方標示非壓雪，適合進階者。
+  - name: エキスパート下
+    difficulty: advanced
+    length: 550m
+    maxSlope: 21°
+    averageSlope: 18°
+    note: Expert 下段。
+  - name: エキスパート上
+    difficulty: expert
+    length: 250m
+    maxSlope: 40°
+    averageSlope: 40°
+    note: 官方標示非壓雪且坡度非常高。
+  - name: チャンピオン A
+    difficulty: advanced
+    length: 1,050m
+    maxSlope: 24°
+    averageSlope: 19°
+    note: Champion 區主線。
+  - name: リーゼン
+    difficulty: ungroomed
+    length: 750m
+    maxSlope: 27°
+    averageSlope: 22°
+    note: 官方標示非壓雪。
+  - name: ななかまどコース
+    difficulty: intermediate
+    length: 1,100m
+    maxSlope: 22°
+    averageSlope: 14°
+    note: 西山側中級巡航路線。
+  - name: ぶなの木コース
+    difficulty: intermediate
+    length: 1,050m
+    maxSlope: 23°
+    averageSlope: 16°
+    note: 西山側中級路線。
+  - name: みずならコース
+    difficulty: advanced
+    length: 1,090m
+    maxSlope: 28°
+    averageSlope: 15°
+    note: 西山側進階路線。
+  - name: とちの木コース
+    difficulty: advanced
+    length: 1,140m
+    maxSlope: 28°
+    averageSlope: 14°
+    note: 西山側進階路線。
+  beginnerRatio: 30
+  intermediateRatio: 40
+  advancedRatio: 30
+terrainSummary:
+  beginner: 初級雪道以 ファミリーコース、ロマンスコース、しらかばコース、ミルキーウェイ 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 チャレンジ A、チャレンジ B、国体女子（沢）、チャンピオン B 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 国体女子（西山）、国体男子、エキスパート下、エキスパート上，請依當日開放狀態與雪況判斷。
+  snowboard: Weathernews 標示 snowboard 全面可；park、非壓雪與管制區仍以現場公告為準。
+  powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
+sources:
+- label: White World Oze Iwakura Official
+  url: https://www.oze-iwakura.co.jp/ski/
+- label: White World Oze Iwakura Course Info
+  url: https://www.oze-iwakura.co.jp/ski/slopeguide/index.html
+- label: ホワイトワールド尾瀬岩鞍 Weathernews
+  url: https://weathernews.jp/ski/spot/34207/
+contact:
+  address:
+    zhTw: 群馬縣利根郡片品村大字土出2609
+    ja: 〒378-0412 群馬県利根郡片品村大字土出2609
+    googleMaps: https://maps.google.co.jp/maps?q=36.815088,139.220384
+  phone: "0278-58-7777"
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/34207/
+  note: Weathernews 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1日券
+    price: 成人 ¥6,500 兒童 ¥4,500 樂齡 ¥6,000
+  - name: 1回券
+    price: 成人 ¥700 兒童 ¥500
+  - name: 5時間券
+    price: 成人 ¥5,800 兒童 ¥3,800 樂齡 ¥5,300
+  - name: ナイター券
+    price: 成人 ¥2,500 兒童 ¥1,600 樂齡 ¥2,300
+  - name: 20時間券
+    price: 成人 ¥21,000 兒童 ¥13,000 樂齡 ¥19,000
+  - name: ※
+    price: 國高中生のリフト券あり
+elevation:
+  top: 1703
+  bottom: 1006
+  verticalDrop: 697
+location:
+  latitude: 36.815088
+  longitude: 139.220384
+lifts:
+  total: 11
+access:
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: Weathernews 交通資訊摘要：JR上越線沼田駅→路線バス (50分) 電車 ：上越新幹線上毛高原駅→路線バス (70分) 車 ：前橋IC→沼田IC経由 (70分) 車 ：練馬IC→沼田IC経由 (140分) 飛行機：羽田空港
+      (180分) 2200台 平日 無料 休日 1000円（乗用車1台に4名以上乗車の場合は無料）3/16以降は全日無料
+---
+White World 尾瀨岩鞍（ホワイトワールド尾瀬岩鞍）資料依官方雪道資訊與 Weathernews 2025-2026 雪場頁整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
