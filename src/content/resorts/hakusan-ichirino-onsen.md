@@ -100,10 +100,65 @@ snowWeather:
     weather: 雨
     low: "8°C"
     high: "3°C"
-  note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時狀態與 Weathernews 為準。
+  note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時狀態與最新雪況資訊為準。
 courses:
+  total: 13
   courseInfoPage: https://www.sam-hakusan.com/white/ichirino/course/
-  summary: 官方介紹白山一里野溫泉為石川縣內最大級雪場，包含初級、中級、進階者可使用的多樣雪道，並設有兒童雪上遊樂區與夜滑時段。
+  summary: 官方介紹白山一里野溫泉為石川縣內最大級雪場，2025-2026 官方雪道圖以 A-L 標示主要雪道與區域，其中 D 分為 D1 未壓雪與 D2 壓雪區，包含初級、中級、進階者可使用的多樣雪道，並設有兒童雪上遊樂區與夜滑時段。
+  details:
+  - name: Fureai Gelande / ふれあいゲレンデ
+    difficulty: beginner
+    maxSlope: 11°
+    averageSlope: 10°
+    note: 官方地圖標示為平緩初級區，設有 moving belt，適合初次練習雙板與雪板。
+  - name: Rakuraku Course Lower / らくらくコース下部
+    difficulty: beginner
+    note: 官方地圖標示為初級路線，接續至山麓側，可從山頂一路滑下時作為下段緩斜面使用。
+  - name: Rakuraku Course Uma-no-se / らくらくコース（馬の背コース）
+    difficulty: beginner
+    note: 官方地圖說明此段連接山頂與のだいらゲレンデ，沿尾根滑行時需注意前方與速度控制。
+  - name: Aia-ru Gelande Lower / あいあーるゲレンデ下部
+    difficulty: beginner
+    maxSlope: 17°
+    averageSlope: 11°
+    note: 官方地圖標示為寬廣主要雪道，夜滑時也會使用。
+  - name: Kamoshika Course / かもしかコース
+    difficulty: intermediate
+    maxSlope: 23°
+    averageSlope: 18°
+    note: 官方地圖說明此路線坡度稍強，適合從中級往上級練習銜接。
+  - name: Aia-ru Gelande Upper Groomed Area / あいあーるゲレンデ上部 D2
+    difficulty: intermediate
+    note: 官方地圖標示 D2 為壓雪區域，可由あいあーる第2リフト使用，並可作為技術測驗練習區域。
+  - name: Nodaira Gelande / のだいらゲレンデ
+    difficulty: intermediate
+    maxSlope: 17°
+    averageSlope: 13°
+    note: 官方地圖標示為主要雪道之一，從初級到上級滑雪者都可依程度使用。
+  - name: Miyasama Course / 宮様コース
+    difficulty: intermediate
+    maxSlope: 23°
+    averageSlope: 18°
+    note: 官方地圖說明此路線從のだいらゲレンデ連接而來，初級者通過時需慢速並注意控速。
+  - name: Rakuraku Course Upper / らくらくコース（上部）
+    difficulty: intermediate
+    note: 官方地圖標示為山頂側較平緩路線，提醒滑行時注意速度控制。
+  - name: Excite Gelande / エキサイトゲレンデ
+    difficulty: advanced
+    maxSlope: 30°
+    averageSlope: 21°
+    note: 官方地圖標示為從山頂滑下的急斜面，可眺望白山一帶景觀。
+  - name: Challenge Course / チャレンジコース
+    difficulty: advanced
+    maxSlope: 32°
+    averageSlope: 30°
+    note: 官方地圖標示為一里野溫泉雪場的不整地區域，新雪時為粉雪路線。
+  - name: Aia-ru Gelande Upper Ungroomed Area / あいあーるゲレンデ上部 D1
+    difficulty: advanced
+    note: 官方地圖標示 D1 為未壓雪區域；實際可滑行狀態請依當日開放與管制為準。
+  - name: Tokimeki Course / ときめきコース
+    difficulty: mixed
+    note: 官方地圖說明此路線由較平坦的山頂側滑向のだいら第1リフト搭乘處與のだいらロッジ方向。
 lifts:
   total: 6
 access:

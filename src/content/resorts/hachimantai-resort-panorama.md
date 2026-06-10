@@ -63,7 +63,7 @@ snowWeather:
       weather: "雨"
       low: "8°C"
       high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或最新雪況資訊為準。"
 location:
   latitude: 39.894268
   longitude: 140.975123
@@ -76,8 +76,42 @@ courses:
   beginnerRatio: 70
   intermediateRatio: 30
   advancedRatio: 0
-  courseInfoPage: "https://weathernews.jp/ski/spot/33311/"
-  summary: "八幡平 Resort Panorama 位於岩手山山麓，有緩斜長距離路線，也可搭配八幡平 Winterland 雪上活動。共有 7 條雪道，初級 70%、中級 30%、上級 0%。"
+  courseInfoPage: "https://surfsnow.jp/guide/htm/r0009gc1.htm"
+  summary: "八幡平 Resort Panorama 位於岩手山山麓，有緩斜長距離路線，也可搭配八幡平 Winterland 雪上活動。Panorama 區共有 7 條主要雪道，初級 70%、中級 30%、上級 0%；公開雪道資料另將 Panorama 與下倉合併列為 14 條雪道。"
+  details:
+    - name: "Family Course / ファミリーコース"
+      difficulty: beginner
+      length: "450m"
+      averageSlope: "13°"
+      note: "這條路線適合第一次滑雪、兒童初次體驗與練習，並設有 beginner park。"
+    - name: "Conide A Course / コニーデAコース"
+      difficulty: mixed
+      length: "2,600m"
+      averageSlope: "12°"
+      note: "全長 2,600m 的長距離緩斜面主雪道，可依程度進行 long cruising，也是夜滑營業時使用的雪道。"
+    - name: "Conide B Course / コニーデBコース"
+      difficulty: mixed
+      length: "2,000m"
+      averageSlope: "12°"
+    - name: "Conide C Course / コニーデCコース"
+      difficulty: mixed
+      length: "1,600m"
+      averageSlope: "12°"
+    - name: "Panorama A Course / パノラマAコース"
+      difficulty: mixed
+      length: "2,700m"
+      averageSlope: "12°"
+      note: "Panorama 區最長路線；頂部約標高 1,000m、上部開闊，上級者也能享受滑行。"
+    - name: "Panorama B Course / パノラマBコース"
+      difficulty: mixed
+      length: "800m"
+      averageSlope: "14°"
+      note: "此路線設有常設 pole。"
+    - name: "Panorama C Course / パノラマCコース"
+      difficulty: mixed
+      length: "800m"
+      averageSlope: "14°"
+      note: "林間路線，路線較窄且蜿蜒。"
 lifts:
   total: 4
 terrainSummary:
@@ -91,6 +125,8 @@ externalContent:
 sources:
   - label: "八幡平リゾート・パノラマスキー場 Official Website"
     url: "http://www.hachimantai.co.jp/"
+  - label: "SURF&SNOW 八幡平リゾート パノラマスキー場＆下倉スキー場 コース"
+    url: "https://surfsnow.jp/guide/htm/r0009gc1.htm"
   - label: "Weathernews 八幡平リゾート・パノラマスキー場"
     url: "https://weathernews.jp/ski/spot/33311/"
   - label: "Weathernews 東北のスキー場人気ランキング"

@@ -73,14 +73,33 @@ snowWeather:
       weather: "雨"
       low: "8°C"
       high: "3°C"
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
+  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或最新雪況資訊為準。"
 courses:
   total: 6
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: "https://fukuiizumi.com/gerendemap/"
-  summary: "福井和泉共有 6 條雪道，最大斜度 25°，初級 30%、中級 40%、上級 30%。最低斜度約 8°，實際開放狀況請以官方公告為準。"
+  summary: "福井和泉共有 6 條雪道，最大斜度 25°，初級 30%、中級 40%、上級 30%。官方地圖另標示 Doberman Park 地形公園與 Powder エリア；各雪道長度與個別坡度未公開，實際開放狀況請以官方公告為準。"
+  details:
+    - name: "Paradise C / パラダイスC"
+      difficulty: beginner
+      note: "官方地圖以初級者路線色標示，為銜接山麓方向的路線；未公開個別長度與坡度。"
+    - name: "Paradise B / パラダイスB"
+      difficulty: intermediate
+      note: "官方地圖以中級者路線色標示，從上部往右側山麓方向滑行；未公開個別長度與坡度。"
+    - name: "Paradise A / パラダイスA"
+      difficulty: advanced
+      note: "官方地圖以上級者路線色標示，旁註為寬闊平坦斜面，也可作為競技專用包場使用；未公開個別長度與坡度。"
+    - name: "Panorama A / パノラマA"
+      difficulty: advanced
+      note: "官方地圖標在標高 901m 的山頂側，鄰近 Powder エリア，以上級者路線色標示；未公開個別長度與坡度。"
+    - name: "Panorama B / パノラマB"
+      difficulty: advanced
+      note: "官方地圖標在標高 901m 的山頂側，以上級者路線色標示；未公開個別長度與坡度。"
+    - name: "Powder Area / Powder エリア"
+      difficulty: ungroomed
+      note: "官方地圖標示 2025-2026 雪季擴寬粉雪區域；天候或雪道狀況不佳時限上級者，初學者或技術不足者避免進入，並需 2 人以上同行。"
 lifts:
   total: 2
 access:
@@ -96,6 +115,8 @@ terrainSummary:
 sources:
   - label: "福井和泉スキー場 Official"
     url: "https://fukuiizumi.com/"
+  - label: "福井和泉スキー場 ゲレンデマップ"
+    url: "https://fukuiizumi.com/gerendemap/"
   - label: "Weathernews 福井和泉スキー場"
     url: "https://weathernews.jp/ski/spot/35706/"
 ---

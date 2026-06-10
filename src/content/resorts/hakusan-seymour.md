@@ -91,10 +91,57 @@ snowWeather:
     weather: 雨
     low: "8°C"
     high: "3°C"
-  note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時狀態與 Weathernews 為準。
+  note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時狀態與最新雪況資訊為準。
 courses:
+  total: 9
   courseInfoPage: https://www.sam-hakusan.com/white/seymour/course/
-  summary: 官方介紹白山 Seymour 具有多樣斜面與白山冬季景觀，並設有 4 條主要纜車動線。詳細雪道開放狀態請以官方即時資訊為準。
+  summary: 官方介紹白山 Seymour 具有多樣斜面與白山冬季景觀，2025-2026 官方雪道圖列出 A-I 共 9 條主要雪道，並設有 4 條主要纜車動線。詳細雪道開放狀態請以官方即時資訊為準。
+  details:
+  - name: Menuet Course / メヌエットコース
+    difficulty: beginner
+    maxSlope: 18°
+    averageSlope: 15°
+    note: 官方地圖說明此路線由上部接往 Center Lodge，為寬廣的初級路線。
+  - name: Concerto Course / コンチェルトコース
+    difficulty: beginner
+    maxSlope: 18°
+    averageSlope: 12°
+    note: 官方地圖標示為主要區域之一，地形呈缽狀、程度不拘皆可使用；人氣區域需注意碰撞。
+  - name: Variation Course / バリエーションコース
+    difficulty: intermediate
+    maxSlope: 25°
+    averageSlope: 16°
+    note: 官方地圖說明此路線雪質良好，晴天時可一邊巡航一邊看白山方向景色。
+  - name: Sweet Course / スイートコース
+    difficulty: intermediate
+    maxSlope: 25°
+    averageSlope: 15°
+    note: 官方地圖說明此路線可用於基礎或高山滑雪競賽，滑行感較紮實。
+  - name: Romance Course / ロマンスコース
+    difficulty: intermediate
+    maxSlope: 22°
+    averageSlope: 20°
+    note: 官方地圖說明可依壓雪、粉雪或 bumps 等雪況變化調整玩法；ロマンス林道コース為下山路線。
+  - name: Symphony Course / シンフォニーコース
+    difficulty: advanced
+    maxSlope: 38°
+    averageSlope: 32°
+    note: 官方地圖標示為未壓雪且為 Seymour 最難關路線，需注意速度與技術門檻。
+  - name: Rhapsody Course / ラプソディーコース
+    difficulty: advanced
+    maxSlope: 36°
+    averageSlope: 30°
+    note: 官方地圖標示為未壓雪寬闊急斜面，新雪或粉雪時是人氣路線。
+  - name: Bolero Course / ボレロコース
+    difficulty: advanced
+    maxSlope: 36°
+    averageSlope: 26°
+    note: 官方地圖標示為未壓雪路線，地形變化明顯，適合挑戰更高技術。
+  - name: Prelude Course / プレリュードコース
+    difficulty: advanced
+    maxSlope: 35°
+    averageSlope: 30°
+    note: 官方地圖標示為未壓雪路線，從中腹連接山麓，最後急斜面需保留體力並持續控速。
 lifts:
   total: 4
 access:
