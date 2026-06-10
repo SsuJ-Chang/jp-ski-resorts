@@ -1,4 +1,5 @@
 ---
+
 id: "akan-lakeside"
 name:
   zhTw: "阿寒湖畔"
@@ -91,8 +92,15 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 30
   advancedRatio: 40
-  courseInfoPage: "https://weathernews.jp/ski/spot/31901/"
+  courseInfoPage: "http://akan-ski.com/course-facility/"
   summary: "阿寒湖畔在北海道人氣雪場清單列為第 6 名。共有 2 條雪道、1 座纜車，難度比例為初級 30%、中級 30%、上級 40%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  details:
+    - name: "レフトウィング"
+      difficulty: "mixed"
+      note: "官方標示為初級與中級路線。"
+    - name: "ライトウィング"
+      difficulty: "mixed"
+      note: "官方標示為上級與 expert 路線。"
 lifts:
   total: 1
 access:

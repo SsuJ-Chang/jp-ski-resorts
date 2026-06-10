@@ -19,7 +19,7 @@ tags:
 - tree_run
 links:
   official: https://ishiuchi.or.jp/en/
-  trailMapPage: https://ishiuchi.or.jp/en/winter/ski/lift-course/
+  trailMapPage: https://ishiuchi.or.jp/winter/ski/lift-course/
   ticket: https://ishiuchi.or.jp/en/price/
   access: https://ishiuchi.or.jp/en/access/
   weather: https://ishiuchi.or.jp/en/winter/ski/lift-course/
@@ -97,10 +97,145 @@ mapDisplay:
     x: 48
     "y": 55
 courses:
-  total: 23
-  courseInfoPage: https://ishiuchi.or.jp/en/winter/ski/lift-course/
+  total: 27
+  courseInfoPage: https://ishiuchi.or.jp/winter/ski/lift-course/
   summary: 石打丸山是湯澤、南魚沼一帶的大型雪場，官方 lift/course 頁提供雪場圖與路線資訊，也有夜滑、非壓雪與 tree run 元素。
-  details: []
+  details:
+    - name: 1 メルヘンコース
+      difficulty: beginner
+      length: 1,000m
+      maxSlope: 20°
+      averageSlope: 14°
+    - name: 3 パラダイスコース
+      difficulty: beginner
+      length: 830m
+      maxSlope: 16°
+      averageSlope: 9°
+    - name: 6 北丸山ファミリーゲレンデ
+      difficulty: beginner
+      length: 350m
+      maxSlope: 18°
+      averageSlope: 12°
+    - name: 8 グリーンコース
+      difficulty: beginner
+      length: 200m
+      maxSlope: 12°
+      averageSlope: 10°
+    - name: 11 サンライズライン
+      difficulty: beginner
+      length: 1,350m
+      maxSlope: 18°
+      averageSlope: 12°
+    - name: 21 中央斜滑降コース
+      difficulty: beginner
+      length: 200m
+      maxSlope: 12°
+      averageSlope: 10°
+    - name: 24 林間コース
+      difficulty: beginner
+      length: 850m
+      maxSlope: 10°
+      averageSlope: 6°
+    - name: 26 ハツカ石ファミリーゲレンデ
+      difficulty: beginner
+      length: 420m
+      maxSlope: 15°
+      averageSlope: 9°
+    - name: 27 カモシカゲレンデ
+      difficulty: beginner
+      length: 180m
+      maxSlope: 18°
+      averageSlope: 15°
+    - name: 4 尾根コース
+      difficulty: intermediate
+      length: 250m
+      maxSlope: 21°
+      averageSlope: 15°
+    - name: 7 大丸山ゲレンデ
+      difficulty: intermediate
+      length: 500m
+      maxSlope: 30°
+      averageSlope: 13°
+    - name: 9 エンゼルコース（スノーパーク）
+      difficulty: intermediate
+      length: 500m
+      maxSlope: 20°
+      averageSlope: 12°
+    - name: 10 銀座ゲレンデ
+      difficulty: intermediate
+      length: 670m
+      maxSlope: 18°
+      averageSlope: 12°
+    - name: 12 ザイラーコース
+      difficulty: intermediate
+      length: 350m
+      maxSlope: 29°
+      averageSlope: 18°
+    - name: 13 ホピヒラーコース
+      difficulty: intermediate
+      length: 270m
+      maxSlope: 30°
+      averageSlope: 18°
+    - name: 14 スポーツマンコース
+      difficulty: intermediate
+      length: 650m
+      maxSlope: 18°
+      averageSlope: 11°
+    - name: 18 源五郎コース
+      difficulty: intermediate
+      length: 500m
+      maxSlope: 25°
+      averageSlope: 13°
+    - name: 25 クルーザーゲレンデ
+      difficulty: intermediate
+      length: 600m
+      maxSlope: 27°
+      averageSlope: 15°
+    - name: 2 山頂ゲレンデ
+      difficulty: advanced
+      length: 900m
+      maxSlope: 35°
+      averageSlope: 15°
+    - name: 17 ダイナミックコースB
+      difficulty: advanced
+      length: 430m
+      maxSlope: 24°
+      averageSlope: 20°
+    - name: 15 デビルダウンコース
+      difficulty: ungroomed
+      length: 430m
+      maxSlope: 32°
+      averageSlope: 28°
+    - name: 16 ダイナミックコースA
+      difficulty: ungroomed
+      length: 430m
+      maxSlope: 24°
+      averageSlope: 20°
+    - name: 22 ジャイアントコース
+      difficulty: ungroomed
+      length: 900m
+      maxSlope: 35°
+      averageSlope: 15°
+    - name: 7 大丸山バイパス
+      difficulty: mixed
+      length: 170m
+      maxSlope: 18°
+      averageSlope: 10°
+    - name: 19 ダイナミックバイパス
+      difficulty: mixed
+      length: 350m
+      maxSlope: 10°
+      averageSlope: 8°
+    - name: 20 中央バイパス
+      difficulty: mixed
+      length: 150m
+      maxSlope: 10°
+      averageSlope: 6°
+    - name: 23 ハツカ石バイパス
+      difficulty: mixed
+      length: 850m
+      maxSlope: 10°
+      averageSlope: 6°
 access:
   fromTokyo:
   - label: 東京出發

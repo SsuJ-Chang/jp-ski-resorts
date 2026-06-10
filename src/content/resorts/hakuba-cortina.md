@@ -1,4 +1,5 @@
 ---
+
 id: hakuba-cortina
 name:
   zhTw: 白馬Cortina
@@ -93,9 +94,37 @@ mapDisplay:
     x: 55
     "y": 43
 courses:
-  courseInfoPage: https://www.hgp.co.jp/cortina/ski/gelande/
+  courseInfoPage: "https://www.hgp.co.jp/cortina/ski/gelande/"
   summary: 白馬Cortina 與白馬乘鞍溫泉採共通 lift ticket，是白馬北部粉雪與住宿型行程代表雪場。
-  details: []
+  details:
+    - name: "池の田ゲレンデ"
+      difficulty: "beginner"
+      length: "1,125m"
+      averageSlope: "10°"
+    - name: "わらび平ゲレンデ"
+      difficulty: "beginner"
+      length: "830m"
+      averageSlope: "14°"
+    - name: "稗田山林間コース"
+      difficulty: "beginner"
+      length: "2,025m"
+      averageSlope: "7°"
+    - name: "板平コース"
+      difficulty: "intermediate"
+      length: "600m"
+      averageSlope: "26°"
+    - name: "ラビットコース"
+      difficulty: "intermediate"
+      length: "800m"
+      averageSlope: "14°"
+    - name: "稗田山コース2"
+      difficulty: "advanced"
+      length: "625m"
+      averageSlope: "36°"
+    - name: "ジャイアントコース"
+      difficulty: "expert"
+      length: "500m"
+      averageSlope: "30°"
 access:
   fromTokyo:
   - label: 東京出發

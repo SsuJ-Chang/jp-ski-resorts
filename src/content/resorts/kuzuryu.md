@@ -1,4 +1,5 @@
 ---
+
 id: "kuzuryu"
 name:
   zhTw: "九頭龍"
@@ -76,12 +77,53 @@ snowWeather:
       high: "3°C"
   note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
 courses:
-  total: 3
+  total: 8
   beginnerRatio: 40
   intermediateRatio: 30
   advancedRatio: 30
-  courseInfoPage: "https://kuzuryu-skiland.com/gelande/"
+  courseInfoPage: "https://www.kuzuryu-skiland.com/gelande"
   summary: "九頭龍共有 3 條雪道，最大斜度 40°，初級 40%、中級 30%、上級 30%。最低斜度約 10°，實際開放狀況請以官方公告為準。"
+  details:
+    - name: "ファミリーゲレンデ"
+      difficulty: "beginner"
+      length: "450m"
+      maxSlope: "15°"
+      averageSlope: "20°"
+    - name: "センターゲレンデ"
+      difficulty: "mixed"
+      length: "400m"
+      maxSlope: "28°"
+      averageSlope: "18°"
+    - name: "ホースラインコース"
+      difficulty: "intermediate"
+      length: "700m"
+      maxSlope: "28°"
+      averageSlope: "20°"
+    - name: "パノラマコース"
+      difficulty: "advanced"
+      length: "550m"
+      maxSlope: "30°"
+      averageSlope: "25°"
+    - name: "ダウンヒルコース"
+      difficulty: "expert"
+      length: "640m"
+      maxSlope: "42°"
+      averageSlope: "27°"
+    - name: "チャレンジコースA"
+      difficulty: "expert"
+      length: "350m"
+      maxSlope: "41°"
+      averageSlope: "39°"
+    - name: "チャレンジコースB"
+      difficulty: "advanced"
+      length: "300m"
+      maxSlope: "35°"
+      averageSlope: "28°"
+    - name: "ミニクロスコース"
+      difficulty: "beginner"
+      length: "300m"
+      maxSlope: "25°"
+      averageSlope: "17°"
 lifts:
   total: 3
 access:

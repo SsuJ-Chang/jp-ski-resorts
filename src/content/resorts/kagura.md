@@ -36,7 +36,7 @@ trailMaps:
 - label: 神樂雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://www.princehotels.co.jp/ski/kagura/winter/coursemap/
+  url: https://www.princehotels.co.jp/file.jsp?id=498187
   sourceLabel: Kagura Official
 tickets:
   season: 2025-2026

@@ -86,12 +86,21 @@ elevation:
   bottom: 800
   verticalDrop: 180
 courses:
-  total: 3
+  total: 2
   beginnerRatio: 0
   intermediateRatio: 100
   advancedRatio: 0
-  courseInfoPage: "https://weathernews.jp/ski/spot/31606/"
+  courseInfoPage: https://nakayama-ski.com/gerende
   summary: "中山峠在北海道人氣雪場清單列為第 10 名。共有 3 條雪道、1 座纜車，難度比例為初級 0%、中級 100%、上級 0%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  details:
+    - name: シルバーコース
+      difficulty: intermediate
+      length: 700m
+      maxSlope: 24°
+    - name: ダウンヒルコース
+      difficulty: mixed
+      length: 850m
+      maxSlope: 22°
 lifts:
   total: 1
 access:

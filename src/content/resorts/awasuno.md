@@ -1,4 +1,5 @@
 ---
+
 id: "awasuno"
 name:
   zhTw: "Awasuno"
@@ -76,12 +77,43 @@ snowWeather:
       high: "3°C"
   note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
 courses:
-  total: 4
+  total: 6
   beginnerRatio: 35
   intermediateRatio: 40
   advancedRatio: 25
   courseInfoPage: "https://awasuno.com/winter/gelande"
   summary: "Awasuno 共有 4 條雪道，最大斜度 34°，初級 35%、中級 40%、上級 25%。最低斜度約 10°，實際開放狀況請以官方公告為準。"
+  details:
+    - name: "スノードルフィンコース"
+      difficulty: "advanced"
+      length: "730m"
+      maxSlope: "32°"
+      averageSlope: "17°"
+    - name: "ダイナミックコース"
+      difficulty: "intermediate"
+      length: "1,000m"
+      maxSlope: "26°"
+      averageSlope: "12°"
+    - name: "レッスンバーン"
+      difficulty: "beginner"
+      length: "400m"
+      maxSlope: "25°"
+      averageSlope: "13°"
+    - name: "ウェーデルンコース"
+      difficulty: "intermediate"
+      length: "300m"
+      maxSlope: "28°"
+      averageSlope: "13°"
+    - name: "ファミリーゲレンデ"
+      difficulty: "beginner"
+      length: "350m"
+      maxSlope: "12°"
+      averageSlope: "7°"
+    - name: "キッズパークゲレンデ"
+      difficulty: "beginner"
+      length: "60m"
+      maxSlope: "8°"
+      averageSlope: "6°"
 lifts:
   total: 3
 access:

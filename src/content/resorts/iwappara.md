@@ -37,7 +37,7 @@ trailMaps:
 - label: 岩原雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://iwa-ppara.com/gelande/
+  url: https://iwa-ppara.com/wp-content/uploads/2024/10/gelandemap_2024.jpg
   sourceLabel: Iwappara Ski Resort
 tickets:
   season: 2025-2026
@@ -97,7 +97,107 @@ courses:
   total: 20
   courseInfoPage: https://iwa-ppara.com/gelande/
   summary: 岩原官方介紹有 20 條雪道，特色是寬廣緩坡與家庭、初學者友善的雪場配置。
-  details: []
+  details:
+    - name: 1 メインバーン
+      difficulty: beginner
+      length: 1,200m
+      maxSlope: 12°
+      averageSlope: 10°
+    - name: 2 グランドバーン
+      difficulty: beginner
+      length: 650m
+      maxSlope: 14°
+      averageSlope: 10°
+    - name: 3 ワイドバーン
+      difficulty: beginner
+      length: 1,200m
+      maxSlope: 12°
+      averageSlope: 10°
+    - name: 4 スマイルコース
+      difficulty: beginner
+      length: 800m
+      maxSlope: 12°
+      averageSlope: 10°
+    - name: 8 ビギナーコース
+      difficulty: beginner
+      length: 150m
+      maxSlope: 18°
+      averageSlope: 12°
+    - name: 9 テラスコース
+      difficulty: beginner
+      length: 400m
+      maxSlope: 18°
+      averageSlope: 12°
+    - name: 16 クルーズコース
+      difficulty: beginner
+      length: 1,600m
+      maxSlope: 12°
+      averageSlope: 7°
+    - name: 18 ロマンスコース
+      difficulty: beginner
+      length: 650m
+      maxSlope: 18°
+      averageSlope: 13°
+    - name: 19 ファインスノーバーン
+      difficulty: beginner
+      length: 650m
+      maxSlope: 18°
+      averageSlope: 13°
+    - name: 20 アーチコース
+      difficulty: beginner
+      length: 400m
+      maxSlope: 12°
+      averageSlope: 5°
+    - name: 5 ウエストコース
+      difficulty: intermediate
+      length: 650m
+      maxSlope: 23°
+      averageSlope: 14°
+    - name: 6 チャレンジコース
+      difficulty: intermediate
+      length: 400m
+      maxSlope: 23°
+      averageSlope: 18°
+    - name: 7 パノラマコース
+      difficulty: intermediate
+      length: 220m
+      maxSlope: 18°
+      averageSlope: 12°
+    - name: 10 フロントコース
+      difficulty: intermediate
+      length: 400m
+      maxSlope: 22°
+      averageSlope: 13°
+    - name: 13 スカイコース
+      difficulty: intermediate
+      length: 1,400m
+      maxSlope: 25°
+      averageSlope: 18°
+    - name: 11 レーサーズコース
+      difficulty: advanced
+      length: 220m
+      maxSlope: 24°
+      averageSlope: 22°
+    - name: 12 ジャイアントコース
+      difficulty: advanced
+      length: 600m
+      maxSlope: 35°
+      averageSlope: 18°
+    - name: 14 ダイナミックコース
+      difficulty: advanced
+      length: 650m
+      maxSlope: 30°
+      averageSlope: 28°
+    - name: 15 テクニカルコース
+      difficulty: advanced
+      length: 1,200m
+      maxSlope: 35°
+      averageSlope: 18°
+    - name: 17 ナチュラルコース
+      difficulty: advanced
+      length: 650m
+      maxSlope: 30°
+      averageSlope: 28°
 access:
   fromTokyo:
   - label: 東京出發

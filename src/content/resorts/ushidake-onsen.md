@@ -1,4 +1,5 @@
 ---
+
 id: "ushidake-onsen"
 name:
   zhTw: "牛岳溫泉"
@@ -84,6 +85,13 @@ courses:
   advancedRatio: 25
   courseInfoPage: "https://ushidake.com/ski/gelande/"
   summary: "牛岳溫泉共有 3 條雪道，最大斜度 20°，初級 25%、中級 50%、上級 25%。最低斜度約 10°，實際開放狀況請以官方公告為準。"
+  details:
+    - name: "東コース"
+      difficulty: "mixed"
+    - name: "正面コース"
+      difficulty: "mixed"
+    - name: "西コース"
+      difficulty: "mixed"
 lifts:
   total: 3
 access:

@@ -1,4 +1,5 @@
 ---
+
 id: "hakkoda"
 name:
   zhTw: "八甲田"
@@ -71,12 +72,23 @@ elevation:
   bottom: 660
   verticalDrop: 664
 courses:
-  total: 5
+  total: 2
   beginnerRatio: 20
   intermediateRatio: 60
   advancedRatio: 20
-  courseInfoPage: "https://weathernews.jp/ski/spot/33105/"
+  courseInfoPage: "https://www.hakkoda-ropeway.jp/ski"
   summary: "八甲田可在較長雪季中享受粉雪，雪場資料列出 5 條雪道。共有 5 條雪道，初級 20%、中級 60%、上級 20%。"
+  details:
+    - name: "ダイレクトコース"
+      difficulty: "mixed"
+      length: "3.5km"
+      maxSlope: "30°"
+      averageSlope: "11°"
+    - name: "フォレストコース"
+      difficulty: "mixed"
+      length: "5.0km"
+      maxSlope: "30°"
+      averageSlope: "8°"
 lifts:
   total: 3
 terrainSummary:

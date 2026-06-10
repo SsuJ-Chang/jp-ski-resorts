@@ -80,8 +80,17 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 50
   advancedRatio: 10
-  courseInfoPage: "https://gokayama-kankou.com/slope_info/"
+  courseInfoPage: https://gokayama-kankou.com/slope_info/
   summary: "Takanbo 共有 4 條雪道，最大斜度 30°，初級 40%、中級 50%、上級 10%。最低斜度約 5°，實際開放狀況請以官方公告為準。"
+  details:
+    - name: 初級コース
+      difficulty: beginner
+    - name: 上級コース
+      difficulty: advanced
+    - name: 初・中級コース
+      difficulty: mixed
+    - name: 林間コース
+      difficulty: mixed
 lifts:
   total: 4
 access:

@@ -1,4 +1,5 @@
 ---
+
 id: "hakodate-nanae-snow-park"
 name:
   zhTw: "函館七飯 Snow Park"
@@ -94,8 +95,49 @@ courses:
   beginnerRatio: 60
   intermediateRatio: 20
   advancedRatio: 20
-  courseInfoPage: "https://weathernews.jp/ski/spot/32301/"
+  courseInfoPage: "https://hakodate-nanae.jp/winter/gelande/"
   summary: "函館七飯 Snow Park 在北海道人氣雪場清單列為第 14 名。共有 8 條雪道、3 座纜車，難度比例為初級 60%、中級 20%、上級 20%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  details:
+    - name: "小沼コース"
+      difficulty: "beginner"
+      length: "1,000m"
+      maxSlope: "11°"
+      averageSlope: "6°"
+    - name: "ファミリーコース"
+      difficulty: "beginner"
+      length: "2,000m"
+      maxSlope: "15°"
+      averageSlope: "10°"
+    - name: "大沼コース"
+      difficulty: "beginner"
+      length: "1,000m"
+      maxSlope: "11°"
+      averageSlope: "6°"
+    - name: "からまつコース"
+      difficulty: "beginner"
+      length: "2,000m"
+      maxSlope: "10°"
+      averageSlope: "8°"
+    - name: "しらかばコース"
+      difficulty: "beginner"
+      length: "2,000m"
+      maxSlope: "18°"
+      averageSlope: "12°"
+    - name: "チャンピオンコース"
+      difficulty: "intermediate"
+      length: "800m"
+      maxSlope: "29°"
+      averageSlope: "16°"
+    - name: "チャレンジコース"
+      difficulty: "intermediate"
+      length: "2,000m"
+      maxSlope: "26°"
+      averageSlope: "12°"
+    - name: "とどまつコース"
+      difficulty: "advanced"
+      length: "1,000m"
+      maxSlope: "24°"
+      averageSlope: "11°"
 lifts:
   total: 3
 access:

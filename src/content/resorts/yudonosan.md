@@ -72,12 +72,39 @@ elevation:
   bottom: 530
   verticalDrop: 170
 courses:
-  total: 5
+  total: 7
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20
-  courseInfoPage: "https://weathernews.jp/ski/spot/33505/"
+  courseInfoPage: https://yudonosan.com/facility/
   summary: "湯殿山初級與中級雪道較多，降雪早且雪量多，並有 half pipe、snow park 與多樣地形。共有 5 條雪道，初級 30%、中級 50%、上級 20%。"
+  details:
+    - name: 林間コース
+      difficulty: beginner
+      length: 2,000m
+      maxSlope: 10°
+      averageSlope: 8°
+    - name: 初級コース
+      difficulty: beginner
+    - name: うさぎさんコース
+      difficulty: beginner
+    - name: ロマンスリーゼンコース
+      difficulty: intermediate
+      length: 1,000m
+      maxSlope: 30°
+      averageSlope: 13°
+    - name: 正面ゲレンデ
+      difficulty: intermediate
+      length: 850m
+      maxSlope: 15°
+      averageSlope: 15°
+    - name: 上級コース
+      difficulty: advanced
+      length: 300m
+      maxSlope: 35°
+      averageSlope: 25°
+    - name: 沢コース
+      difficulty: mixed
 lifts:
   total: 2
 terrainSummary:

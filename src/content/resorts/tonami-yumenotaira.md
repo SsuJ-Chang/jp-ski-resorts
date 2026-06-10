@@ -1,4 +1,5 @@
 ---
+
 id: "tonami-yumenotaira"
 name:
   zhTw: "砺波夢之平"
@@ -86,6 +87,14 @@ courses:
   advancedRatio: 0
   courseInfoPage: "https://ski.yumeno-taira.com/slope/"
   summary: "砺波夢之平共有 3 條雪道，最大斜度 25°，初級 70%、中級 30%、上級 0%。最低斜度約 10°，實際開放狀況請以官方公告為準。"
+  details:
+    - name: "Aコース"
+      difficulty: "advanced"
+      maxSlope: "30°"
+    - name: "Bコース"
+      difficulty: "intermediate"
+    - name: "Cコース"
+      difficulty: "beginner"
 lifts:
   total: 1
 access:

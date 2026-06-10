@@ -18,7 +18,7 @@ tags:
 - powder
 links:
   official: https://www.maiko-resort.com/winter/
-  trailMapPage: https://www.maiko-resort.com/winter/gelande/
+  trailMapPage: https://www.maiko-resort.com/winter/gelande.html
   ticket: https://www.maiko-resort.com/winter/price/
   access: https://www.maiko-resort.com/winter/access/
   weather: https://www.maiko-resort.com/winter/gelande/
@@ -96,9 +96,139 @@ mapDisplay:
     x: 47
     "y": 54
 courses:
-  courseInfoPage: https://www.maiko-resort.com/winter/gelande/
+  total: 27
+  courseInfoPage: https://www.maiko-resort.com/winter/gelande.html
   summary: 舞子 Snow Resort 由舞子、長峰、奧添地等區域構成，適合家庭、巡航與粉雪取向滑行。
-  details: []
+  details:
+    - name: O3 奥添地ランランコース
+      difficulty: beginner
+      length: 1,000m
+      maxSlope: 10°
+      averageSlope: 6°
+    - name: O5 ルンルンコース
+      difficulty: beginner
+      length: 300m
+      maxSlope: 12°
+      averageSlope: 10°
+    - name: O7 ラクラクコース
+      difficulty: beginner
+      length: 400m
+      maxSlope: 9°
+      averageSlope: 6°
+    - name: M19 パラダイスコース
+      difficulty: beginner
+      length: 760m
+      maxSlope: 15°
+      averageSlope: 10°
+    - name: M20 キンダーコース
+      difficulty: beginner
+      length: 930m
+      maxSlope: 10°
+      averageSlope: 8°
+    - name: M21 イージーコース
+      difficulty: beginner
+      length: 300m
+      maxSlope: 9°
+      averageSlope: 7°
+    - name: M22 バンビコース
+      difficulty: beginner
+      length: 1,430m
+      maxSlope: 9°
+      averageSlope: 7°
+    - name: M23 ファミリーコース
+      difficulty: beginner
+      length: 480m
+      maxSlope: 7°
+      averageSlope: 6°
+    - name: M24 ロマンスコース
+      difficulty: beginner
+      length: 830m
+      maxSlope: 8°
+      averageSlope: 7°
+    - name: M25 森のステージ
+      difficulty: beginner
+    - name: M26 メロディーライン
+      difficulty: beginner
+    - name: N3 長峰ランランコース
+      difficulty: beginner
+      length: 5,000m
+      maxSlope: 9°
+      averageSlope: 6°
+    - name: N12 チョイチョイコース
+      difficulty: beginner
+      length: 700m
+      maxSlope: 5°
+      averageSlope: 4°
+    - name: O4 グイグイコース
+      difficulty: intermediate
+      length: 940m
+      maxSlope: 23°
+      averageSlope: 13°
+    - name: O6 スイスイコース
+      difficulty: intermediate
+      length: 500m
+      maxSlope: 20°
+      averageSlope: 10°
+    - name: O8 サンサンコース
+      difficulty: intermediate
+      length: 300m
+      maxSlope: 13°
+      averageSlope: 10°
+    - name: M13 ドルフィンコース
+      difficulty: intermediate
+      length: 1,370m
+      maxSlope: 29°
+      averageSlope: 11°
+    - name: M15 ブロンズコース
+      difficulty: intermediate
+      length: 500m
+      maxSlope: 18°
+      averageSlope: 14°
+    - name: M16 ゴールドコース
+      difficulty: intermediate
+      length: 180m
+      maxSlope: 27°
+      averageSlope: 22°
+    - name: M17 シルバーコース
+      difficulty: intermediate
+      length: 300m
+      maxSlope: 26°
+      averageSlope: 21°
+    - name: M18 リーゼンコース
+      difficulty: intermediate
+      length: 680m
+      maxSlope: 18°
+      averageSlope: 9°
+    - name: N9 ギンギンコース
+      difficulty: intermediate
+      length: 670m
+      maxSlope: 22°
+      averageSlope: 15°
+    - name: N11 ビュンビュンコース
+      difficulty: intermediate
+      length: 800m
+      maxSlope: 17°
+      averageSlope: 10°
+    - name: O1 グングンコース
+      difficulty: advanced
+      length: 820m
+      maxSlope: 24°
+      averageSlope: 15°
+    - name: O2 ゾクゾクコース
+      difficulty: advanced
+      length: 410m
+      maxSlope: 28°
+      averageSlope: 20°
+    - name: M14 チャンピオンコース
+      difficulty: advanced
+      length: 170m
+      maxSlope: 32°
+      averageSlope: 30°
+    - name: N10 ガンガンコース
+      difficulty: advanced
+      length: 800m
+      maxSlope: 24°
+      averageSlope: 14°
 access:
   fromTokyo:
   - label: 東京出發

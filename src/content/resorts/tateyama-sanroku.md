@@ -1,4 +1,5 @@
 ---
+
 id: "tateyama-sanroku"
 name:
   zhTw: "立山山麓"
@@ -75,12 +76,58 @@ snowWeather:
       high: "3°C"
   note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。"
 courses:
-  total: 7
+  total: 9
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: "https://www.tateyama36.co.jp/course/"
   summary: "立山山麓共有 7 條雪道，最大斜度 32°，初級 30%、中級 40%、上級 30%。最低斜度約 10°，實際開放狀況請以官方公告為準。"
+  details:
+    - name: "パノラマコース"
+      difficulty: "mixed"
+      length: "2,000m"
+      maxSlope: "25°"
+      averageSlope: "20°"
+    - name: "パラダイスゲレンデ上部"
+      difficulty: "mixed"
+      length: "500m"
+      maxSlope: "32°"
+      averageSlope: "16°"
+    - name: "パラダイスゲレンデ下部"
+      difficulty: "intermediate"
+      length: "800m"
+      maxSlope: "27°"
+      averageSlope: "16°"
+    - name: "ユートピアゲレンデ"
+      difficulty: "beginner"
+      length: "900m"
+      maxSlope: "15°"
+      averageSlope: "10°"
+    - name: "ジャイアントコース"
+      difficulty: "advanced"
+      length: "1,000m"
+      maxSlope: "32°"
+      averageSlope: "20°"
+    - name: "エキスパートコース"
+      difficulty: "advanced"
+      length: "1,300m"
+      maxSlope: "32°"
+      averageSlope: "20°"
+    - name: "ロマンスコース"
+      difficulty: "intermediate"
+      length: "1,400m"
+      maxSlope: "25°"
+      averageSlope: "15°"
+    - name: "チャレンジコース"
+      difficulty: "mixed"
+      length: "1,500m"
+      maxSlope: "32°"
+      averageSlope: "15°"
+    - name: "ファミリーゲレンデ"
+      difficulty: "beginner"
+      length: "500m"
+      maxSlope: "15°"
+      averageSlope: "10°"
 lifts:
   total: 4
 access:

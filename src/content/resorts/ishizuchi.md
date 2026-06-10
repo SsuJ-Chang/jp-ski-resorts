@@ -1,4 +1,5 @@
 ---
+
 id: ishizuchi
 name:
   zhTw: 石鎚
@@ -46,6 +47,19 @@ snowWeather:
     low: 8°C
     high: 3°C
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或 Weathernews 資訊為準。
+courses:
+  total: 3
+  courseInfoPage: "https://www.ishizuchi.com/ski/course"
+  details:
+    - name: "ピクニック園地コース"
+      difficulty: "beginner"
+      note: "ロープウェイ山頂駅から徒歩約 150m の初級者向け緩斜面。"
+    - name: "成就Aコース"
+      difficulty: "mixed"
+      note: "中上級者向けゲレンデ。晴天時は石鎚山頂方面や瀬戸内海方面の眺望がある。"
+    - name: "成就Bコース"
+      difficulty: "mixed"
+      note: "中上級者向けゲレンデ。自然雪の日は off-piste 狀態で開放される場合がある。"
 sources:
 - label: Ishizuchi Ski Resort Official Website
   url: https://www.ishizuchi.com/ski/

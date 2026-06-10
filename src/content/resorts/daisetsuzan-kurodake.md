@@ -1,4 +1,5 @@
 ---
+
 id: "daisetsuzan-kurodake"
 name:
   zhTw: "大雪山黑岳"
@@ -87,12 +88,17 @@ elevation:
   bottom: 1300
   verticalDrop: 220
 courses:
-  total: 2
+  total: 1
   beginnerRatio: 50
   intermediateRatio: 30
   advancedRatio: 20
-  courseInfoPage: "https://weathernews.jp/ski/spot/31215/"
+  courseInfoPage: "https://www.rinyu.co.jp/kurodake/ski_slope/"
   summary: "大雪山黑岳在北海道人氣雪場清單列為第 1 名。共有 2 條雪道、2 座纜車，難度比例為初級 50%、中級 30%、上級 20%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  details:
+    - name: "黒岳スキーコース"
+      difficulty: "mixed"
+      maxSlope: "25°"
+      note: "官方介紹為最高 25°、最低 8°，途中可分岐為路線下、林間與雪庇等路線。"
 lifts:
   total: 2
 access:

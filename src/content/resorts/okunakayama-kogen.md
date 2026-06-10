@@ -1,4 +1,5 @@
 ---
+
 id: "okunakayama-kogen"
 name:
   zhTw: "奧中山高原"
@@ -76,8 +77,53 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
-  courseInfoPage: "https://weathernews.jp/ski/spot/33317/"
+  courseInfoPage: "https://www.okunakayamakogen.jp/winter-season/course-guide/"
   summary: "奧中山高原山頂可看 360 度展望，山麓有平均 7 度的緩坡，並設有上級者向 tree run area。共有 11 條雪道，初級 30%、中級 40%、上級 30%。"
+  details:
+    - name: "ぶなの木"
+      difficulty: "advanced"
+      length: "200m"
+      maxSlope: "25°"
+    - name: "はやぶさ"
+      difficulty: "advanced"
+      length: "1,200m"
+      maxSlope: "28°"
+    - name: "つばめ"
+      difficulty: "advanced"
+      length: "300m"
+      maxSlope: "30°"
+    - name: "やまばと"
+      difficulty: "advanced"
+      length: "500m"
+      maxSlope: "30°"
+    - name: "こなゆき"
+      difficulty: "intermediate"
+      length: "1,000m"
+      maxSlope: "28°"
+    - name: "しらかば"
+      difficulty: "mixed"
+      length: "700m"
+      maxSlope: "27°"
+    - name: "山彦"
+      difficulty: "mixed"
+      length: "2,000m"
+      maxSlope: "25°"
+    - name: "ビギナー"
+      difficulty: "beginner"
+      length: "600m"
+      maxSlope: "10°"
+    - name: "こぐまゲレンデ"
+      difficulty: "beginner"
+      length: "600m"
+      maxSlope: "10°"
+    - name: "かもしか"
+      difficulty: "mixed"
+      length: "900m"
+      maxSlope: "20°"
+    - name: "西岳"
+      difficulty: "mixed"
+      length: "2,000m"
+      maxSlope: "28°"
 lifts:
   total: 4
 terrainSummary:

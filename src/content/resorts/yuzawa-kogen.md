@@ -37,7 +37,7 @@ trailMaps:
 - label: 湯澤高原雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://www.yuzawakogen.com/winter/slope/
+  url: https://www.yuzawakogen.com/wordpress/wp-content/uploads/2024/12/241202win_map.jpg
   sourceLabel: Yuzawa Kogen Ski Resort
 tickets:
   season: 2025-2026

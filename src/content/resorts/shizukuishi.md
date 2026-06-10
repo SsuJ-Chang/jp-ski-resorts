@@ -77,8 +77,108 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 45
   advancedRatio: 25
-  courseInfoPage: "https://weathernews.jp/ski/spot/33302/"
+  courseInfoPage: https://www.princehotels.co.jp/ski/shizukuishi/winter/coursemap/
   summary: "雫石共有 20 條雪道與 6 座纜車，並註明小學生以下兒童纜車費免費。共有 20 條雪道，初級 30%、中級 45%、上級 25%。"
+  details:
+    - name: B1 ファミリーゲレンデ
+      difficulty: beginner
+      length: 736m
+      maxSlope: 14°
+      averageSlope: 7°
+    - name: B2 クリスタルコース
+      difficulty: beginner
+      length: 484m
+      maxSlope: 14°
+      averageSlope: 7°
+    - name: B3 EASY PARK
+      difficulty: beginner
+      length: 464m
+      maxSlope: 14°
+      averageSlope: 7°
+    - name: B4 クリスタル連絡
+      difficulty: beginner
+      length: 389m
+      maxSlope: 20°
+      averageSlope: 12°
+    - name: D1 パラダイスコース
+      difficulty: beginner
+      length: 694m
+      maxSlope: 20°
+      averageSlope: 13°
+    - name: D2 パラダイス連絡
+      difficulty: beginner
+      length: 351m
+      averageSlope: 5°
+    - name: A1 プリンスゲレンデ
+      difficulty: intermediate
+      length: 594m
+      maxSlope: 23°
+      averageSlope: 12°
+    - name: A2 プリンスゲレンデ迂回
+      difficulty: intermediate
+      length: 503m
+      maxSlope: 18°
+      averageSlope: 10°
+    - name: A3 プリンスパノラマコース
+      difficulty: intermediate
+      length: 1,720m
+      maxSlope: 25°
+      averageSlope: 15°
+    - name: B5 クリスタルバイパス
+      difficulty: intermediate
+      length: 603m
+      maxSlope: 23°
+      averageSlope: 16°
+    - name: C4 クリスタルコース上部
+      difficulty: intermediate
+      length: 828m
+      maxSlope: 23°
+      averageSlope: 17°
+    - name: D3 ジョイフルコース
+      difficulty: intermediate
+      length: 382m
+      maxSlope: 24°
+      averageSlope: 14°
+    - name: E1 ダウンヒルコース
+      difficulty: intermediate
+      length: 2,648m
+      maxSlope: 24°
+      averageSlope: 15°
+    - name: E2 ロマンスコース
+      difficulty: intermediate
+      length: 1,339m
+      maxSlope: 25°
+      averageSlope: 12°
+    - name: E3 ダウンヒルコース下部
+      difficulty: intermediate
+      length: 413m
+      maxSlope: 25°
+      averageSlope: 9°
+    - name: C1 ジャイアントスラローム
+      difficulty: advanced
+      length: 746m
+      maxSlope: 22°
+      averageSlope: 18°
+    - name: C2 スラロームバーン
+      difficulty: advanced
+      length: 648m
+      maxSlope: 30°
+      averageSlope: 21°
+    - name: C3 サンシャインコース
+      difficulty: advanced
+      length: 904m
+      maxSlope: 30°
+      averageSlope: 20°
+    - name: E4 ダウンヒル下部
+      difficulty: advanced
+      length: 791m
+      maxSlope: 29°
+      averageSlope: 15°
+    - name: E5 ダウンヒル下部
+      difficulty: advanced
+      length: 422m
+      maxSlope: 33°
+      averageSlope: 18°
 lifts:
   total: 6
 terrainSummary:

@@ -94,8 +94,37 @@ courses:
   beginnerRatio: 50
   intermediateRatio: 30
   advancedRatio: 20
-  courseInfoPage: "https://weathernews.jp/ski/spot/31613/"
+  courseInfoPage: https://www.gp-onuma.com/ski/ski_course/
   summary: "Greenpia 大沼在北海道人氣雪場清單列為第 17 名。共有 7 條雪道、2 座纜車，難度比例為初級 50%、中級 30%、上級 20%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  details:
+    - name: ロマンスコース
+      difficulty: beginner
+      length: 800m
+      maxSlope: 17°
+    - name: コスミックコース
+      difficulty: advanced
+      length: 560m
+      maxSlope: 24°
+    - name: 超上級者コース
+      difficulty: expert
+      length: 200m
+      maxSlope: 26°
+    - name: ファミリーロード
+      difficulty: mixed
+      length: 1,200m
+      maxSlope: 14°
+    - name: ミルキーウェイ
+      difficulty: mixed
+      length: 550m
+      maxSlope: 17°
+    - name: パノラマコース
+      difficulty: mixed
+      length: 800m
+      maxSlope: 22°
+    - name: スカイウェイ
+      difficulty: mixed
+      length: 400m
+      maxSlope: 30°
 lifts:
   total: 2
 access:

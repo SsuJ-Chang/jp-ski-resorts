@@ -37,7 +37,7 @@ trailMaps:
 - label: NASPA滑雪公園雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://www.naspa.co.jp/ski/gelande/
+  url: https://www-naspa-co-jp-t.athp.transer.com/ski/media-download/4318/5be20ac1af57355a/
   sourceLabel: NASPA Ski Garden
 tickets:
   season: 2025-2026
@@ -94,9 +94,50 @@ mapDisplay:
     x: 47
     "y": 54
 courses:
-  courseInfoPage: https://www.naspa.co.jp/ski/gelande/
+  total: 8
+  courseInfoPage: "https://www.naspa.co.jp/ski/course/"
   summary: NASPA滑雪公園鄰近 NASPA New Otani，偏向住宿、家庭與初學者友善的雪場。
-  details: []
+  details:
+    - name: "Aコース"
+      difficulty: "intermediate"
+      length: "340m"
+      maxSlope: "25°"
+      averageSlope: "13°"
+    - name: "Bコース"
+      difficulty: "beginner"
+      length: "400m"
+      maxSlope: "18°"
+      averageSlope: "10°"
+    - name: "Cコース"
+      difficulty: "advanced"
+      length: "480m"
+      maxSlope: "30°"
+      averageSlope: "21°"
+    - name: "Dコース"
+      difficulty: "advanced"
+      length: "750m"
+      maxSlope: "38°"
+      averageSlope: "16°"
+    - name: "Eコース"
+      difficulty: "intermediate"
+      length: "800m"
+      maxSlope: "30°"
+      averageSlope: "15°"
+    - name: "Fコース"
+      difficulty: "beginner"
+      length: "600m"
+      maxSlope: "12°"
+      averageSlope: "7°"
+    - name: "Gコース"
+      difficulty: "intermediate"
+      length: "580m"
+      maxSlope: "27°"
+      averageSlope: "14°"
+    - name: "Hコース"
+      difficulty: "beginner"
+      length: "1,600m"
+      maxSlope: "20°"
+      averageSlope: "9°"
 access:
   fromTokyo:
   - label: 東京出發

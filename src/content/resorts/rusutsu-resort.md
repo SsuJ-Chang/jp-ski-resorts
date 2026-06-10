@@ -96,8 +96,194 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
-  courseInfoPage: "https://weathernews.jp/ski/spot/31601/"
+  courseInfoPage: https://rusutsu.com/trail-map/
   summary: "留壽都 Resort 在北海道人氣雪場清單列為第 5 名。共有 37 條雪道、18 座纜車，難度比例為初級 30%、中級 40%、上級 30%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  details:
+    - name: ファミリーコース
+      difficulty: beginner
+      length: 650m
+      maxSlope: 12°
+      averageSlope: 10°
+    - name: ホワイトラバーコース
+      difficulty: beginner
+      length: 650m
+      maxSlope: 11°
+      averageSlope: 10°
+    - name: レインボーコースナイター
+      difficulty: beginner
+      length: 2,000m
+      maxSlope: 13°
+      averageSlope: 8°
+    - name: イージートレイル
+      difficulty: beginner
+      length: 750m
+      maxSlope: 8°
+      averageSlope: 7°
+    - name: フーボルコース
+      difficulty: beginner
+      length: 1,200m
+      maxSlope: 16°
+      averageSlope: 8°
+    - name: 連絡コース
+      difficulty: beginner
+      length: 200m
+      maxSlope: 8°
+      averageSlope: 7°
+    - name: フリコ沢コース
+      difficulty: beginner
+      length: 2,100m
+      maxSlope: 10°
+      averageSlope: 7°
+    - name: イゾラD迂回コース
+      difficulty: beginner
+      length: 380m
+      maxSlope: 14°
+      averageSlope: 12°
+    - name: イゾラ山頂迂回コース
+      difficulty: beginner
+      length: 350m
+      maxSlope: 10°
+      averageSlope: 6°
+    - name: イゾラグラン迂回コース
+      difficulty: beginner
+      length: 690m
+      maxSlope: 16°
+      averageSlope: 10°
+    - name: バンビコースナイター
+      difficulty: intermediate
+      length: 650m
+      maxSlope: 21°
+      averageSlope: 18°
+    - name: エバーコースナイター
+      difficulty: intermediate
+      length: 650m
+      maxSlope: 21°
+      averageSlope: 14°
+    - name: イーストビバルディコース
+      difficulty: intermediate
+      length: 2,300m
+      maxSlope: 24°
+      averageSlope: 11°
+    - name: イーストティーニュコース
+      difficulty: intermediate
+      length: 2,500m
+      maxSlope: 19°
+      averageSlope: 11°
+    - name: イゾラグランコース
+      difficulty: intermediate
+      length: 3,500m
+      maxSlope: 20°
+      averageSlope: 12°
+    - name: イゾラCコース
+      difficulty: intermediate
+      length: 550m
+      maxSlope: 25°
+      averageSlope: 17°
+    - name: イゾラDコース
+      difficulty: intermediate
+      length: 800m
+      maxSlope: 21°
+      averageSlope: 13°
+    - name: スティームボートAコース
+      difficulty: intermediate
+      length: 2,200m
+      maxSlope: 26°
+      averageSlope: 12°
+    - name: スティームボートBコース
+      difficulty: intermediate
+      length: 2,100m
+      maxSlope: 26°
+      averageSlope: 12°
+    - name: ヘブンリービューコース
+      difficulty: intermediate
+      length: 2,700m
+      maxSlope: 16°
+      averageSlope: 9°
+    - name: ヘブンリーリッジBコース
+      difficulty: intermediate
+      length: 1,000m
+      maxSlope: 20°
+      averageSlope: 12°
+    - name: ヘブンリートレイルコース
+      difficulty: intermediate
+      length: 350m
+      maxSlope: 18°
+      averageSlope: 15°
+    - name: エリートコース
+      difficulty: advanced
+      length: 600m
+      maxSlope: 26°
+      averageSlope: 16°
+    - name: ダイナミックコースナイター
+      difficulty: advanced
+      length: 650m
+      maxSlope: 25°
+      averageSlope: 17°
+    - name: ジャイアントコース
+      difficulty: advanced
+      length: 1,200m
+      maxSlope: 26°
+      averageSlope: 13°
+    - name: ヘブンリーリッジAコース
+      difficulty: advanced
+      length: 1,250m
+      maxSlope: 30°
+      averageSlope: 14°
+    - name: 林間コース非圧雪
+      difficulty: ungroomed
+      length: 750m
+      maxSlope: 26°
+      averageSlope: 16°
+    - name: タイガーコース非圧雪
+      difficulty: ungroomed
+      length: 300m
+      maxSlope: 29°
+      averageSlope: 22°
+    - name: スカイコース非圧雪ナイター
+      difficulty: ungroomed
+      length: 500m
+      maxSlope: 27°
+      averageSlope: 15°
+    - name: スーパーイーストコース非圧雪
+      difficulty: ungroomed
+      length: 500m
+      maxSlope: 40°
+      averageSlope: 32°
+    - name: アクロスAコース非圧雪
+      difficulty: ungroomed
+      length: 300m
+      maxSlope: 33°
+      averageSlope: 29°
+    - name: アクロスBコース非圧雪
+      difficulty: ungroomed
+      length: 200m
+      maxSlope: 33°
+      averageSlope: 22°
+    - name: イゾラAコース非圧雪
+      difficulty: ungroomed
+      length: 1,000m
+      maxSlope: 27°
+      averageSlope: 24°
+    - name: イゾラBコース非圧雪
+      difficulty: ungroomed
+      length: 800m
+      maxSlope: 25°
+      averageSlope: 22°
+    - name: ルスツNo.1コース非圧雪
+      difficulty: ungroomed
+      length: 380m
+      maxSlope: 35°
+      averageSlope: 22°
+    - name: ヘブンリーキャニオンコース非圧雪
+      difficulty: ungroomed
+      length: 1,850m
+      maxSlope: 29°
+      averageSlope: 13°
+    - name: ヘブンリースピリットコース非圧雪
+      difficulty: ungroomed
+      length: 550m
+      maxSlope: 22°
+      averageSlope: 19°
 lifts:
   total: 18
 access:

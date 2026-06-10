@@ -71,12 +71,40 @@ elevation:
   bottom: 850
   verticalDrop: 300
 courses:
-  total: 9
+  total: 8
   beginnerRatio: 40
   intermediateRatio: 30
   advancedRatio: 30
-  courseInfoPage: "https://weathernews.jp/ski/spot/33411/"
+  courseInfoPage: http://www.nposki.com/gerende/
   summary: "宮城藏王白石位於南藏王不忘山，有天然粉雪、緩坡、中斜面與新雪路線。共有 9 條雪道，初級 40%、中級 30%、上級 30%。"
+  details:
+    - name: エプロン
+      difficulty: beginner
+      length: 800m
+    - name: ファミリーコース
+      difficulty: beginner
+      length: 560m
+      averageSlope: 12°
+    - name: Aコース
+      difficulty: intermediate
+      length: 940m
+    - name: Bコース
+      difficulty: advanced
+      length: 640m
+    - name: Eコース
+      difficulty: advanced
+      length: 660m
+    - name: Pコース
+      difficulty: ungroomed
+      length: 460m
+    - name: Cコース
+      difficulty: ungroomed
+      length: 460m
+      maxSlope: 35°
+    - name: Dコース
+      difficulty: ungroomed
+      length: 570m
+      averageSlope: 35°
 lifts:
   total: 4
 terrainSummary:

@@ -37,7 +37,7 @@ trailMaps:
 - label: 苗場雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://www.princehotels.co.jp/ski/naeba/winter/coursemap/
+  url: https://www.princehotels.co.jp/file.jsp?id=205769
   sourceLabel: Naeba Official
 tickets:
   season: 2025-2026

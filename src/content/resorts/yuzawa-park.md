@@ -36,7 +36,7 @@ trailMaps:
 - label: 湯澤公園雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://www.park-resort.com/ski/gelande/
+  url: https://www.park-resort.com/renew/wp-content/uploads/2024/10/map.jpeg
   sourceLabel: Yuzawa Park Ski Resort
 tickets:
   season: 2025-2026
@@ -93,9 +93,44 @@ mapDisplay:
     x: 47
     "y": 54
 courses:
-  courseInfoPage: https://www.park-resort.com/ski/gelande/
+  total: 11
+  courseInfoPage: "https://www.park-resort.com/ski/course/"
   summary: 湯澤公園是鄰近住宿設施的湯澤雪場，適合家庭與住宿型滑雪行程。
-  details: []
+  details:
+    - name: "銀河コース"
+      difficulty: "beginner"
+      maxSlope: "13°"
+      averageSlope: "7°"
+    - name: "第7初心者コース"
+      difficulty: "beginner"
+    - name: "ファミリーコース"
+      difficulty: "beginner"
+      averageSlope: "10°"
+    - name: "スカイラインコース"
+      difficulty: "beginner"
+    - name: "スカイバレーコース"
+      difficulty: "mixed"
+      maxSlope: "31°"
+      averageSlope: "21°"
+    - name: "ムーンライトコース"
+      difficulty: "intermediate"
+    - name: "パノラマコース"
+      difficulty: "intermediate"
+      length: "550m"
+      maxSlope: "27°"
+      averageSlope: "12°"
+    - name: "ポール専用コース"
+      difficulty: "intermediate"
+    - name: "ダイナミックコース"
+      difficulty: "mixed"
+      maxSlope: "28°"
+      averageSlope: "16°"
+    - name: "ヨーデルコース"
+      difficulty: "mixed"
+    - name: "チャレンジコース"
+      difficulty: "intermediate"
+      maxSlope: "31°"
+      averageSlope: "17°"
 access:
   fromTokyo:
   - label: 東京出發

@@ -1,4 +1,5 @@
 ---
+
 id: gala-yuzawa
 name:
   zhTw: GALA湯澤
@@ -97,9 +98,53 @@ elevation:
   top: 1181
 courses:
   total: 16
-  courseInfoPage: https://gala.co.jp/en/winter/course/
+  courseInfoPage: "https://gala.co.jp/en/winter/course/"
   summary: GALA湯澤以新幹線直達 GALA湯澤站的交通便利性為主要特色，官方課程頁列出中央、北、南等區域與 16 條雪道。
-  details: []
+  details:
+    - name: "Melody Beginners Course"
+      difficulty: "beginner"
+    - name: "Edelweiss Beginner Course"
+      difficulty: "beginner"
+      length: "1,600m"
+    - name: "Entertainment Beginner/Intermediate Course"
+      difficulty: "mixed"
+      length: "920m"
+    - name: "Gigi Intermediate Course"
+      difficulty: "intermediate"
+    - name: "Grenoble Intermediate/Advanced Course"
+      difficulty: "mixed"
+      length: "750m"
+    - name: "Swan Beginners Course"
+      difficulty: "beginner"
+    - name: "Super Swan Advanced Course"
+      difficulty: "expert"
+      length: "160m"
+    - name: "Broadway Intermediate Course"
+      difficulty: "intermediate"
+      length: "700m"
+    - name: "Super Broadway Intermediate Course"
+      difficulty: "intermediate"
+      length: "450m"
+    - name: "Joanna Intermediate Course"
+      difficulty: "intermediate"
+    - name: "Roman Holiday Beginner Course"
+      difficulty: "beginner"
+      length: "500m"
+    - name: "Downhill Course"
+      difficulty: "advanced"
+      length: "2.5km"
+    - name: "$2,600,000 Advanced Course"
+      difficulty: "advanced"
+      length: "920m"
+    - name: "Bronco Advanced Course"
+      difficulty: "advanced"
+      length: "700m"
+    - name: "Eliza Intermediate Course"
+      difficulty: "intermediate"
+      length: "1,000m"
+    - name: "Batman Intermediate Connecting Course"
+      difficulty: "intermediate"
+      length: "530m"
 access:
   fromTokyo:
   - label: 東京出發

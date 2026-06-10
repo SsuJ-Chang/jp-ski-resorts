@@ -1,4 +1,5 @@
 ---
+
 id: "aizu-kogen-nango"
 name:
   zhTw: "會津高原南鄉"
@@ -75,8 +76,55 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20
-  courseInfoPage: "https://weathernews.jp/ski/spot/33618/"
+  courseInfoPage: "https://www.nango-ski.com/gelande/"
   summary: "會津高原南鄉有多條 powder course，並有 snow park、half pipe 與 R park。共有 12 條雪道，初級 40%、中級 40%、上級 20%。"
+  details:
+    - name: "横手コース"
+      difficulty: "advanced"
+      maxSlope: "30°"
+      averageSlope: "13°"
+    - name: "伝上コース"
+      difficulty: "mixed"
+      maxSlope: "37°"
+      averageSlope: "20°"
+    - name: "白樺コース"
+      difficulty: "mixed"
+      maxSlope: "25°"
+      averageSlope: "10°"
+    - name: "高山コース"
+      difficulty: "advanced"
+      maxSlope: "37°"
+      averageSlope: "20°"
+    - name: "笠松コース"
+      difficulty: "beginner"
+      maxSlope: "18°"
+      averageSlope: "15°"
+    - name: "さゆりAコース"
+      difficulty: "intermediate"
+      maxSlope: "25°"
+      averageSlope: "18°"
+    - name: "さゆりBコース"
+      difficulty: "intermediate"
+      maxSlope: "25°"
+      averageSlope: "18°"
+    - name: "さゆりCコース"
+      difficulty: "advanced"
+      maxSlope: "25°"
+      averageSlope: "18°"
+    - name: "さゆりDコース"
+      difficulty: "intermediate"
+      maxSlope: "25°"
+      averageSlope: "18°"
+    - name: "日向Aコース"
+      difficulty: "advanced"
+      maxSlope: "35°"
+      averageSlope: "15°"
+    - name: "日向Bコース"
+      difficulty: "advanced"
+      maxSlope: "35°"
+      averageSlope: "15°"
+    - name: "日向迂回コース"
+      difficulty: "beginner"
 lifts:
   total: 3
 terrainSummary:

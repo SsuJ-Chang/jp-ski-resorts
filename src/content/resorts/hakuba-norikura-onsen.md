@@ -93,9 +93,71 @@ mapDisplay:
     x: 55
     "y": 43
 courses:
-  courseInfoPage: https://www.hakunori.com/gelande/
+  total: 14
+  courseInfoPage: https://www.hakunori.com/guide/?id=data
   summary: 白馬乘鞍溫泉與白馬Cortina 相鄰，2025-2026 採兩雪場共通 lift ticket。
-  details: []
+  details:
+    - name: はくのりファミリーコース
+      difficulty: beginner
+      length: 750m
+      maxSlope: 10°
+      averageSlope: 5°
+    - name: 若栗林間コース
+      difficulty: beginner
+      length: 800m
+      maxSlope: 10°
+      averageSlope: 8°
+    - name: 里見若栗アクセスライン
+      difficulty: intermediate
+    - name: スネークコース
+      difficulty: advanced
+      length: 700m
+      maxSlope: 30°
+      averageSlope: 25°
+    - name: エキスパートコース
+      difficulty: advanced
+      length: 700m
+      maxSlope: 35°
+      averageSlope: 25°
+    - name: スカイビューゲレンデ
+      difficulty: advanced
+      length: 500m
+      maxSlope: 38°
+      averageSlope: 25°
+    - name: カモシカコース
+      difficulty: mixed
+      length: 1,200m
+      maxSlope: 25°
+      averageSlope: 20°
+    - name: ハイウェイコース
+      difficulty: mixed
+      length: 800m
+      maxSlope: 28°
+      averageSlope: 25°
+    - name: 若栗中央ゲレンデ
+      difficulty: mixed
+      length: 700m
+      maxSlope: 18°
+      averageSlope: 15°
+    - name: ラビットコース
+      difficulty: mixed
+      length: 1,150m
+      maxSlope: 30°
+      averageSlope: 18°
+    - name: 里見中央ゲレンデ
+      difficulty: mixed
+      length: 600m
+      maxSlope: 15°
+      averageSlope: 11°
+    - name: 里見尾根コース
+      difficulty: mixed
+      length: 800m
+      maxSlope: 23°
+      averageSlope: 18°
+    - name: クロスコース
+      difficulty: mixed
+    - name: モーグルコース
+      difficulty: mixed
 access:
   fromTokyo:
   - label: 東京出發

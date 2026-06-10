@@ -1,4 +1,5 @@
 ---
+
 id: "sapporo-kokusai"
 name:
   zhTw: "札幌國際"
@@ -90,8 +91,44 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20
-  courseInfoPage: "https://weathernews.jp/ski/spot/31403/"
+  courseInfoPage: "https://www.sapporo-kokusai.jp/slopes/"
   summary: "札幌國際在北海道人氣雪場清單列為第 7 名。共有 7 條雪道、4 座纜車，難度比例為初級 30%、中級 50%、上級 20%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  details:
+    - name: "林間コース"
+      difficulty: "beginner"
+      length: "1.2km"
+      maxSlope: "12°"
+      averageSlope: "8°"
+    - name: "メルヘンコース"
+      difficulty: "beginner"
+      length: "2.4km"
+      maxSlope: "12°"
+      averageSlope: "8°"
+    - name: "ウッディコース"
+      difficulty: "intermediate"
+      length: "1.2km"
+      maxSlope: "16°"
+      averageSlope: "11°"
+    - name: "スイングコース"
+      difficulty: "intermediate"
+      length: "2.0km"
+      maxSlope: "28°"
+      averageSlope: "10°"
+    - name: "ファミリーコース"
+      difficulty: "intermediate"
+      length: "1.6km"
+      maxSlope: "20°"
+      averageSlope: "11°"
+    - name: "エコーコース"
+      difficulty: "advanced"
+      length: "1.0km"
+      maxSlope: "22°"
+      averageSlope: "12°"
+    - name: "ダウンヒルコース"
+      difficulty: "advanced"
+      length: "2.2km"
+      maxSlope: "30°"
+      averageSlope: "15°"
 lifts:
   total: 4
 access:
