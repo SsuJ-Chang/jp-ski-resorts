@@ -16,7 +16,7 @@ tags:
 - onsen
 links:
   official: https://www.yuzawakogen.com/winter/
-  trailMapPage: https://www.yuzawakogen.com/winter/slope/
+  trailMapPage: https://www.yuzawakogen.com/winter/gelaende/
   ticket: https://www.yuzawakogen.com/winter/tickets/
   access: https://www.yuzawakogen.com/access/
   weather: https://www.yuzawakogen.com/winter/
@@ -35,7 +35,7 @@ season:
   source: https://www.yuzawakogen.com/winter/tickets/
 trailMaps:
 - label: 湯澤高原雪場圖
-  language: 日本語
+  language: 日本語 / English
   season: 2025-2026
   url: https://www.yuzawakogen.com/wordpress/wp-content/uploads/2024/12/241202win_map.jpg
   sourceLabel: Yuzawa Kogen Ski Resort
@@ -95,9 +95,57 @@ mapDisplay:
     "y": 54
 courses:
   total: 8
-  courseInfoPage: https://www.yuzawakogen.com/winter/slope/
+  courseInfoPage: https://www.yuzawakogen.com/winter/gelaende/
   summary: 湯澤高原以 ropeway 上山的高原景觀與越後湯澤溫泉街近距離交通為特色，適合滑雪與觀光同時安排。
-  details: []
+  details:
+    - name: 全景雪道 / パノラマコース
+      difficulty: beginner
+      length: 2,200m
+      maxSlope: 9°
+      averageSlope: 7°
+      note: 可一邊眺望湯澤群山一邊滑行的初級路線，官方標示適合初學者與家庭使用。
+    - name: 波斯菊雪道 / コスモスコース
+      difficulty: beginner
+      length: 500m
+      maxSlope: 10°
+      averageSlope: 7°
+      note: 從高原 Express Lift 上站往右進入的緩斜面，適合放鬆滑行。
+    - name: 鈴蘭雪道 / スズランコース
+      difficulty: beginner
+      length: 500m
+      maxSlope: 7°
+      averageSlope: 7°
+      note: 位於波斯菊雪道旁的平緩雪道，官方說明常作為雙板與雪板課程使用。
+    - name: 家庭雪道 / ファミリーコース
+      difficulty: beginner
+      length: 250m
+      maxSlope: 8°
+      averageSlope: 7°
+      note: 布場區的家庭取向雪道，適合初學者與兒童練習。
+    - name: 入門雪道 / デビューコース
+      difficulty: beginner
+      length: 100m
+      maxSlope: 12°
+      averageSlope: 12°
+      note: 布場區下方的初次練習用雪道，官方說明不用搭纜車也能從斜面回到纜車站。
+    - name: 萱草雪道 / キスゲコース
+      difficulty: intermediate
+      length: 700m
+      maxSlope: 27°
+      averageSlope: 20°
+      note: 高原區的主要寬幅雪道，下部設有非壓雪區，官方標示可享受深雪。
+    - name: 藍罌粟雪道 / 青いケシコース
+      difficulty: advanced
+      length: 550m
+      maxSlope: 28°
+      averageSlope: 22°
+      note: 從高原 Express Lift 上站進入、沿 Lift 旁滑下的陡斜面路線。
+    - name: 駒草下山雪道 / コマクサ下山コース
+      difficulty: advanced
+      length: 2,000m
+      maxSlope: 20°
+      averageSlope: 12°
+      note: 從山頂高原區滑往布場區的下山路線，上部為狹窄蜿蜒路段，官方建議中級以上滑行者注意使用。
 access:
   fromTokyo:
   - label: 東京出發
@@ -125,7 +173,7 @@ sources:
 - label: Yuzawa Kogen Ski Resort Official Website
   url: https://www.yuzawakogen.com/winter/
 - label: Yuzawa Kogen Ski Resort Course / Trail Map
-  url: https://www.yuzawakogen.com/winter/slope/
+  url: https://www.yuzawakogen.com/winter/gelaende/
 - label: Yuzawa Kogen Ski Resort Ticket
   url: https://www.yuzawakogen.com/winter/tickets/
 ---
