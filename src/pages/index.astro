@@ -17,6 +17,7 @@ const toneByRegion = {
 } as const
 
 const resorts = filterPublishedResorts(await getCollection('resorts'))
+const resortCount = resorts.length
 
 const regionStats = regions.map((region) => {
   const regionResorts = resorts
@@ -41,6 +42,7 @@ const regionStats = regions.map((region) => {
         <p class="hero__lead">
           身為台灣滑雪愛好者，每次規劃滑雪行程要蒐集資料都很辛苦，所以此網站為整理日本各地滑雪場的官方資訊、交通位置與雪場特色。希望能協助每個愛滑雪的你能輕鬆取得滑雪場資訊並安排適合的旅程。
         </p>
+        <p class="hero__stat">收錄 {resortCount} 座滑雪場</p>
       </div>
       <div class="hero__guide" aria-label="Japan ski region guide">
         <input class="view-toggle-input" id="region-view-list" type="radio" name="region-view" checked />

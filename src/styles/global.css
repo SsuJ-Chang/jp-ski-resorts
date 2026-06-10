@@ -238,6 +238,20 @@ h1 {
   overflow-wrap: anywhere;
 }
 
+.hero__stat {
+  display: inline-flex;
+  align-items: center;
+  margin: 24px 0 0;
+  padding: 8px 14px;
+  border: 1px solid rgba(23, 33, 31, 0.14);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.54);
+  color: #17211f;
+  font-size: 0.98rem;
+  font-weight: 800;
+  box-shadow: 0 12px 26px rgba(23, 33, 31, 0.08);
+}
+
 .hero__guide {
   display: grid;
   gap: 12px;
