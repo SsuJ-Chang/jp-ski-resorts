@@ -52,7 +52,7 @@ tickets:
   - name: 高峰期 2 日券
     audience: 成人、兒童、熟齡
     price: 成人 ¥17,400、兒童 ¥8,700、熟齡 ¥16,800
-  - name: 上午／下午券
+  - name: 上午 / 下午券
     audience: 成人、兒童
     price: 成人 ¥7,200、兒童 ¥3,600
 snowWeather:
