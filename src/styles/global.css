@@ -1247,7 +1247,10 @@ h1 {
 }
 
 .weather-summary strong {
+  display: block;
+  width: 100%;
   color: #17211f;
+  text-align: center;
 }
 
 .weather-table-wrap {
