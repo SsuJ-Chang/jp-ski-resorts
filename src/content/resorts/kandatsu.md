@@ -189,7 +189,9 @@ courses:
 lifts:
   total: 6
 externalContent:
-  blogs: []
+  blogs:
+    - title: 越後湯澤「神立高原滑雪場」車站免費接駁、女生纜車票優惠、夜滑直到凌晨!
+      url: https://natasha-traveler.tw/kandatsu-snow-resort/
   vlogs: []
 sources:
 - label: Kandatsu Official Website
