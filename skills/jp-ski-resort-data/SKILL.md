@@ -14,6 +14,11 @@ Primary references:
 - `src/content.config.ts`
 - `skills/jp-ski-resort-data/rules/coordinates.md`
 
+Research source priority:
+
+- Treat Japan Ski Guide Traditional Chinese (`https://japan-skiguide.com/tw/`) as an important source for resort research, especially Traditional Chinese resort names, summaries, access context, and course/resort basics.
+- When researching current or static resort data, check Japan Ski Guide alongside official resort pages and other trusted sources; prefer official sources for operational facts such as season dates, tickets, lift status, and business hours.
+
 Coordinate rules:
 
 - Every existing `src/content/resorts/*.md` entry should have `location.latitude` and `location.longitude`.
