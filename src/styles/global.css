@@ -929,13 +929,119 @@ h1 {
   line-height: 1.65;
 }
 
+.resource-section > .panel-note:first-child {
+  margin-top: 0;
+}
+
+.course-overview {
+  min-width: 0;
+}
+
+.course-overview .panel-note {
+  margin-top: 0;
+}
+
+.terrain-visual-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  row-gap: 18px;
+  column-gap: 0;
+  align-items: center;
+  justify-items: center;
+}
+
+.terrain-visual-row--paired {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.elevation-mountain {
+  flex: 0 1 290px;
+  width: min(100%, 290px);
+  margin: 0;
+}
+
+.elevation-mountain__canvas {
+  position: relative;
+  width: 100%;
+  height: 176px;
+}
+
+.elevation-mountain__svg,
+.elevation-mountain__values {
+  position: absolute;
+  inset: 0;
+}
+
+.elevation-mountain__svg {
+  z-index: 0;
+  overflow: visible;
+}
+
+.elevation-mountain__values {
+  z-index: 1;
+}
+
+.elevation-mountain__shape {
+  vector-effect: non-scaling-stroke;
+  shape-rendering: geometricPrecision;
+}
+
+.elevation-mountain__shape--top {
+  fill: #a8cdbc;
+}
+
+.elevation-mountain__shape--bottom {
+  fill: #e0ece5;
+}
+
+.elevation-mountain__ridge {
+  fill: none;
+  stroke: rgba(82, 102, 96, 0.18);
+  stroke-linejoin: round;
+  stroke-width: 1.5;
+  vector-effect: non-scaling-stroke;
+}
+
+.elevation-mountain__ridge--bottom {
+  stroke: rgba(82, 102, 96, 0.12);
+}
+
+.elevation-mountain__values {
+  margin: 0;
+}
+
+.elevation-mountain__value {
+  position: absolute;
+  color: #17211f;
+  font-size: 1.06rem;
+  font-weight: 950;
+  line-height: 1.12;
+  text-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.86),
+    0 8px 18px rgba(23, 33, 31, 0.12);
+  white-space: nowrap;
+}
+
+.elevation-mountain__value--top {
+  top: 16px;
+  left: 52%;
+  transform: translateX(-50%);
+}
+
+.elevation-mountain__value--bottom {
+  top: 80px;
+  left: 30%;
+  transform: translateX(-50%);
+}
+
 .course-difficulty-chart {
   position: relative;
   display: grid;
   place-items: center;
-  width: min(100%, 420px);
+  flex: 0 1 330px;
+  width: min(100%, 330px);
   min-height: 174px;
-  margin-top: 18px;
+  margin-top: 0;
   background: transparent;
 }
 
@@ -1073,6 +1179,10 @@ h1 {
 .resource-detail-link {
   display: inline-flex;
   margin-top: 14px;
+}
+
+.resource-detail-actions .resource-detail-link {
+  margin-top: 0;
 }
 
 .resource-list li {
@@ -1706,7 +1816,7 @@ h1 {
     width: 100%;
     min-height: auto;
     padding-top: 0;
-    place-items: start;
+    place-items: center;
   }
 
   .course-difficulty-chart__pie {
@@ -1717,6 +1827,7 @@ h1 {
     position: static;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 8px 14px;
     margin-top: 12px;
   }
@@ -1725,6 +1836,27 @@ h1 {
     position: static;
     max-width: none;
     transform: none;
+  }
+
+  .elevation-mountain {
+    flex-basis: 270px;
+    width: min(100%, 280px);
+  }
+
+  .elevation-mountain__canvas {
+    height: 166px;
+  }
+
+  .elevation-mountain__value {
+    font-size: 0.98rem;
+  }
+
+  .elevation-mountain__value--bottom {
+    top: 76px;
+  }
+
+  .terrain-visual-row--paired {
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .region-strip {

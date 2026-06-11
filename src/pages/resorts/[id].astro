@@ -70,6 +70,16 @@ const hasCourseSummary =
 const courseDifficultyLabel = courseDifficultyRatios
   .map((level) => `${level.label} ${level.ratio}%`)
   .join('、')
+
+const formatNumber = (value: number) => new Intl.NumberFormat('zh-Hant-TW').format(value)
+const elevation = resort.data.elevation
+const hasElevationOverview = elevation?.top !== undefined || elevation?.bottom !== undefined
+const elevationLabel = [
+  elevation?.top !== undefined ? `top ${formatNumber(elevation.top)}m` : undefined,
+  elevation?.bottom !== undefined ? `bottom ${formatNumber(elevation.bottom)}m` : undefined,
+]
+  .filter(Boolean)
+  .join('、')
 ---
 
 <BaseLayout
@@ -201,10 +211,11 @@ const courseDifficultyLabel = courseDifficultyRatios
       {
         ((resort.data.trailMaps && resort.data.trailMaps.length > 0) ||
           resort.data.courses?.courseInfoPage ||
-          hasCourseSummary) && (
+          hasCourseSummary ||
+          hasElevationOverview) && (
           <section class="info-panel detail-panel detail-panel--wide">
             <div class="section-heading-row">
-              <h2>雪道資訊 & 雪場圖</h2>
+              <h2>雪道與地形資訊</h2>
               {resort.data.courses?.courseInfoPage && (
                 <a href={resort.data.courses.courseInfoPage} target="_blank" rel="noreferrer">
                   官方雪道資訊
@@ -212,8 +223,18 @@ const courseDifficultyLabel = courseDifficultyRatios
               )}
             </div>
             {hasCourseSummary && (
-              <div class="resource-section">
+              <div class="resource-section course-overview">
                 <p class="panel-note">{resort.data.courses?.summary ?? '雪道資料整理中。'}</p>
+              </div>
+            )}
+            {(hasElevationOverview || hasCourseDifficultyRatios) && (
+              <div
+                class:list={[
+                  'resource-section',
+                  'terrain-visual-row',
+                  hasCourseDifficultyRatios && hasElevationOverview && 'terrain-visual-row--paired',
+                ]}
+              >
                 {hasCourseDifficultyRatios && (
                   <div class="course-difficulty-chart" aria-label={`雪道難度比例：${courseDifficultyLabel}`}>
                     <div class="course-difficulty-chart__pie" aria-hidden="true">
@@ -233,11 +254,37 @@ const courseDifficultyLabel = courseDifficultyRatios
                     </div>
                   </div>
                 )}
-                {resort.data.courses?.courseInfoPage && (
-                  <a class="text-link resource-detail-link" href={withBasePath(`/resorts/${resort.id}/courses/`)}>
-                    雪道詳細資訊
-                  </a>
+                {hasElevationOverview && (
+                  <figure class="elevation-mountain" role="img" aria-label={`${resort.data.name.zhTw} 標高：${elevationLabel}`}>
+                    <div class="elevation-mountain__canvas">
+                      <svg class="elevation-mountain__svg" viewBox="0 0 260 160" aria-hidden="true">
+                        <polygon class="elevation-mountain__shape elevation-mountain__shape--top" points="136 26 40 148 232 148" />
+                        <polyline class="elevation-mountain__ridge" points="136 26 40 148 232 148 136 26" />
+                        <polygon class="elevation-mountain__shape elevation-mountain__shape--bottom" points="78 76 21 148 135 148" />
+                        <polyline class="elevation-mountain__ridge elevation-mountain__ridge--bottom" points="78 76 21 148 135 148 78 76" />
+                      </svg>
+                      <div class="elevation-mountain__values" aria-hidden="true">
+                        {elevation?.top !== undefined && (
+                          <span class="elevation-mountain__value elevation-mountain__value--top">
+                            {formatNumber(elevation.top)}m
+                          </span>
+                        )}
+                        {elevation?.bottom !== undefined && (
+                          <span class="elevation-mountain__value elevation-mountain__value--bottom">
+                            {formatNumber(elevation.bottom)}m
+                          </span>
+                        )}
+                      </div>
+                    </div>
+                  </figure>
                 )}
+              </div>
+            )}
+            {resort.data.courses?.courseInfoPage && (
+              <div class="resource-section resource-detail-actions">
+                <a class="text-link resource-detail-link" href={withBasePath(`/resorts/${resort.id}/courses/`)}>
+                  雪道詳細資訊
+                </a>
               </div>
             )}
             {resort.data.trailMaps && resort.data.trailMaps.length > 0 && (
