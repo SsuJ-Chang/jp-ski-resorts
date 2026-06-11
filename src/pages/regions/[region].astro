@@ -41,14 +41,10 @@ const resorts = sortResortsByEnglishName(
       resorts.length > 0 ? (
         <section class="resort-grid" aria-label={`${region.name.zhTw} resorts`}>
           {resorts.map((resort) => (
-            <article class="resort-card">
+            <a class="resort-card" href={withBasePath(`/resorts/${resort.id}/`)}>
               <div>
                 <p class="resort-card__meta">{resort.data.prefecture}</p>
-                <h2>
-                  <a href={withBasePath(`/resorts/${resort.id}/`)}>
-                    {resort.data.name.zhTw}
-                  </a>
-                </h2>
+                <h2>{resort.data.name.zhTw}</h2>
                 <p>{resort.data.name.en}</p>
               </div>
               <div class="tag-list" aria-label={`${resort.data.name.zhTw} tags`}>
@@ -56,7 +52,7 @@ const resorts = sortResortsByEnglishName(
                   <span>{tagLabels[tag]}</span>
                 ))}
               </div>
-            </article>
+            </a>
           ))}
         </section>
       ) : (

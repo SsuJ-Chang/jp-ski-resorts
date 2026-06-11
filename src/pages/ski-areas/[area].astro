@@ -73,23 +73,18 @@ const areaTitle = `${area.name.zhTw}一帶雪場`
         <h2 id="area-resorts-title">{areaTitle}</h2>
         <span class="section-count">{orderedResorts.length} 座</span>
       </div>
-      <div class="area-resort-list">
+      <div class="resort-grid">
         {orderedResorts.map((resort) => (
-          <article class="area-resort-row">
+          <a class="resort-card" href={withBasePath(`/resorts/${resort.id}/`)}>
             <div>
               <p class="resort-card__meta">{resort.data.prefecture}</p>
-              <h3>
-                <a href={withBasePath(`/resorts/${resort.id}/`)}>{resort.data.name.zhTw}</a>
-              </h3>
-              <p>{resort.data.courses?.summary ?? resort.body}</p>
+              <h2>{resort.data.name.zhTw}</h2>
+              <p>{resort.data.name.en}</p>
             </div>
-            <div class="area-resort-row__side">
-              <span>{resort.data.courses?.total ? `${resort.data.courses.total} 條雪道` : '雪道數未提供'}</span>
-              <div class="tag-list">
-                {resort.data.tags.slice(0, 3).map((tag) => <span>{tagLabels[tag]}</span>)}
-              </div>
+            <div class="tag-list" aria-label={`${resort.data.name.zhTw} tags`}>
+              {resort.data.tags.slice(0, 4).map((tag) => <span>{tagLabels[tag]}</span>)}
             </div>
-          </article>
+          </a>
         ))}
       </div>
     </section>

@@ -572,6 +572,12 @@ h1 {
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.82);
   box-shadow: 0 10px 34px rgba(23, 33, 31, 0.06);
+  text-decoration: none;
+  transition:
+    transform 160ms ease,
+    border-color 160ms ease,
+    background 160ms ease,
+    box-shadow 160ms ease;
 }
 
 .resort-card[hidden] {
@@ -589,10 +595,6 @@ h1 {
   margin: 0 0 10px;
   font-size: 1.35rem;
   line-height: 1.25;
-}
-
-.resort-card h2 a {
-  text-decoration: none;
 }
 
 .resort-card p {
@@ -702,15 +704,17 @@ h1 {
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.82);
   box-shadow: 0 10px 34px rgba(23, 33, 31, 0.06);
+  text-decoration: none;
+  transition:
+    transform 160ms ease,
+    border-color 160ms ease,
+    background 160ms ease,
+    box-shadow 160ms ease;
 }
 
 .ski-area-card h2 {
   margin: 0 0 10px;
   font-size: 1.45rem;
-}
-
-.ski-area-card h2 a {
-  text-decoration: none;
 }
 
 .ski-area-card p {
@@ -808,43 +812,23 @@ h1 {
   font-weight: 900;
 }
 
-.area-resort-list {
-  display: grid;
-  gap: 10px;
+.resort-card:hover,
+.ski-area-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(23, 33, 31, 0.22);
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 14px 38px rgba(23, 33, 31, 0.09);
 }
 
-.area-resort-row {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(180px, 260px);
-  gap: 18px;
-  align-items: start;
-  padding: 16px;
-  border: 1px solid rgba(23, 33, 31, 0.1);
-  border-radius: 8px;
-  background: rgba(245, 247, 244, 0.76);
+.resort-card:active,
+.ski-area-card:active {
+  transform: translateY(-1px);
 }
 
-.area-resort-row h3 {
-  margin: 0 0 8px;
-  font-size: 1.1rem;
-}
-
-.area-resort-row h3 a {
-  text-decoration: none;
-}
-
-.area-resort-row p {
-  margin: 0;
-  color: #425552;
-  line-height: 1.65;
-}
-
-.area-resort-row__side {
-  display: grid;
-  gap: 10px;
-  justify-items: end;
-  color: #526660;
-  font-weight: 900;
+.resort-card:focus-visible,
+.ski-area-card:focus-visible {
+  outline: 3px solid rgba(51, 70, 67, 0.32);
+  outline-offset: 3px;
 }
 
 .detail-grid {
@@ -1611,17 +1595,12 @@ h1 {
   }
 
   .ski-area-hero,
-  .ski-area-facts,
-  .area-resort-row {
+  .ski-area-facts {
     grid-template-columns: 1fr;
   }
 
   .ski-area-facts {
     max-width: 100%;
-  }
-
-  .area-resort-row__side {
-    justify-items: start;
   }
 
   .detail-hero {
