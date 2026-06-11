@@ -68,6 +68,11 @@
   line-height: 1.25;
   text-align: center;
   text-decoration: none;
+  transition:
+    background-color 160ms ease,
+    box-shadow 160ms ease,
+    color 160ms ease,
+    transform 160ms ease;
   transform: translate(var(--node-offset-x, -50%), -50%);
 }
 
@@ -95,27 +100,21 @@
 
 .ski-area-position-map__node--resort:hover,
 .ski-area-position-map__node--resort:focus-visible {
-  outline: 2px solid rgba(29, 93, 100, 0.28);
-  outline-offset: 3px;
+  outline: none;
+  background: #eef7f2;
+  box-shadow: 0 14px 32px rgba(23, 33, 31, 0.12);
+  color: #1d5d64;
+  transform: translate(var(--node-offset-x, -50%), calc(-50% - 2px));
+}
+
+.ski-area-position-map__node--resort:active {
+  background: #e2f0e8;
+  box-shadow: 0 8px 18px rgba(23, 33, 31, 0.1);
+  transform: translate(var(--node-offset-x, -50%), calc(-50% - 1px)) scale(0.985);
 }
 
 @media (max-width: 820px) {
-  .ski-area-position-map {
-    display: grid;
-    gap: 10px;
-    min-height: auto;
-    padding: 18px;
-  }
-
-  .ski-area-position-map::before,
-  .ski-area-position-map__axis,
-  .ski-area-position-map__direction {
+  .ski-area-map-panel {
     display: none;
-  }
-
-  .ski-area-position-map__node {
-    position: static;
-    width: 100%;
-    transform: none;
   }
 }
