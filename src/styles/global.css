@@ -1359,6 +1359,62 @@ h1 {
   text-decoration-color: rgba(18, 63, 67, 0.55);
 }
 
+.back-to-top-button {
+  position: fixed;
+  right: max(20px, calc(env(safe-area-inset-right) + 16px));
+  bottom: max(20px, calc(env(safe-area-inset-bottom) + 16px));
+  z-index: 30;
+  display: inline-grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  border: 1px solid rgba(23, 33, 31, 0.14);
+  border-radius: 999px;
+  background: rgba(247, 249, 244, 0.88);
+  color: #1d5d64;
+  font-size: 1.35rem;
+  font-weight: 900;
+  line-height: 1;
+  -webkit-text-stroke: 3.5px currentColor;
+  text-shadow:
+    1.5px 0 0 currentColor,
+    -1.5px 0 0 currentColor;
+  box-shadow: 0 16px 36px rgba(23, 33, 31, 0.14);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(12px) scale(0.96);
+  transition:
+    opacity 160ms ease,
+    transform 180ms ease,
+    background-color 160ms ease,
+    color 160ms ease;
+  backdrop-filter: blur(12px);
+  cursor: pointer;
+}
+
+.back-to-top-button--visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0) scale(1);
+}
+
+.back-to-top-button:hover {
+  background: rgba(255, 255, 255, 0.96);
+  color: #123f43;
+  transform: translateY(-2px) scale(1);
+}
+
+.back-to-top-button:focus-visible {
+  outline: 3px solid rgba(36, 94, 85, 0.38);
+  outline-offset: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .back-to-top-button {
+    transition: none;
+  }
+}
+
 .difficulty-badge {
   display: inline-flex;
   align-items: center;
@@ -1632,6 +1688,14 @@ h1 {
 @media (max-width: 600px) {
   h1 {
     font-size: 2.3rem;
+  }
+
+  .back-to-top-button {
+    right: max(14px, calc(env(safe-area-inset-right) + 12px));
+    bottom: max(14px, calc(env(safe-area-inset-bottom) + 12px));
+    width: 44px;
+    height: 44px;
+    font-size: 1.22rem;
   }
 
   .site-header__actions {

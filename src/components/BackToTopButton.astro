@@ -1,0 +1,55 @@
+<button
+  class="back-to-top-button"
+  type="button"
+  data-back-to-top
+  aria-label="回到頁面頂端"
+  aria-hidden="true"
+  tabindex="-1"
+>
+  ↑
+</button>
+
+<script>
+  const backToTopButton = document.querySelector<HTMLButtonElement>('[data-back-to-top]')
+
+  if (backToTopButton) {
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)')
+    let isTicking = false
+
+    const hasEnoughScroll = () =>
+      document.documentElement.scrollHeight > window.innerHeight * 1.5
+
+    const shouldShowButton = () => {
+      const revealPoint = Math.min(640, window.innerHeight * 0.9)
+
+      return hasEnoughScroll() && window.scrollY > revealPoint
+    }
+
+    const updateButtonState = () => {
+      const shouldShow = shouldShowButton()
+
+      backToTopButton.classList.toggle('back-to-top-button--visible', shouldShow)
+      backToTopButton.setAttribute('aria-hidden', String(!shouldShow))
+      backToTopButton.tabIndex = shouldShow ? 0 : -1
+      isTicking = false
+    }
+
+    const requestUpdate = () => {
+      if (isTicking) return
+
+      isTicking = true
+      window.requestAnimationFrame(updateButtonState)
+    }
+
+    backToTopButton.addEventListener('click', () => {
+      window.scrollTo({
+        top: 0,
+        behavior: reducedMotion.matches ? 'auto' : 'smooth',
+      })
+    })
+
+    window.addEventListener('scroll', requestUpdate, { passive: true })
+    window.addEventListener('resize', requestUpdate)
+    updateButtonState()
+  }
+</script>
