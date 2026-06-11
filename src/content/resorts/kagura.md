@@ -111,18 +111,25 @@ courses:
     maxSlope: 26°
     averageSlope: 7°
     note: 穿越山毛櫸林的長距離路線，官方說明中段有部分中斜面，但可透過迂迴路線通過，也是從かぐら區域返回的路線。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: A1 ファミリーコース
     difficulty: beginner
     length: 1,082m
     maxSlope: 18°
     averageSlope: 10°
     note: 官方雪道資料列為初級路線，全長 1,082m、最大坡度 18°、平均坡度 10°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - "https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s"
+      - "https://www.youtube.com/watch?v=QHK_tK4DTY0"
   - name: E2 ゴンドララインコース
     difficulty: beginner
     length: 644m
     maxSlope: 16°
     averageSlope: 10°
     note: 官方說明為初級者向路線，也作為前往かぐら區域的連絡路。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: T1 らくらくコース
     difficulty: beginner
     length: 499m
@@ -135,12 +142,16 @@ courses:
     maxSlope: 17°
     averageSlope: 9°
     note: 官方說明這是整備良好的寬廣緩坡，初級者與女性滑行者也容易使用，上部可眺望三國連山。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: U2 スカイラインコース
     difficulty: beginner
     length: 2,083m
     maxSlope: 18°
     averageSlope: 6°
     note: 從田代第 1 高速纜車一路滑向田代 Ladies Course；官方提醒起滑處稍有坡度，要注意不要速度過快。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: V1 ゴンドライーストコース
     difficulty: beginner
     length: 1,099m
@@ -153,12 +164,16 @@ courses:
     maxSlope: 15°
     averageSlope: 9°
     note: 官方說明這是田代區域人氣路線，視野可見田代湖與越後連山，下方有餐廳可休息。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: X2 田代第1高速リフト連絡コース
     difficulty: beginner
     length: 1,058m
     maxSlope: 9°
     averageSlope: 4°
     note: 田代第 2 高速與第 2 romance 纜車下車後，前往田代第 1 高速纜車的聯絡路線。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: X3 親切コース
     difficulty: beginner
     length: 346m
@@ -171,12 +186,16 @@ courses:
     maxSlope: 18°
     averageSlope: 10°
     note: 官方說明坡度適中且雪道寬，可依自己的節奏轉彎。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: F1 かぐらメインゲレンデ
     difficulty: intermediate
     length: 1,512m
     maxSlope: 27°
     averageSlope: 13°
     note: かぐら代表性人氣路線，官方說明從雪季初期到春滑都可滑行；中段可利用迂迴路線，初級者也可通過。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: F2 かぐらメインゲレンデ迂回
     difficulty: intermediate
     length: 628m
@@ -189,6 +208,8 @@ courses:
     maxSlope: 14°
     averageSlope: 12°
     note: 官方雪道資料列為中級路線，全長 962m、最大坡度 14°、平均坡度 12°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: H1 パノラマコース
     difficulty: intermediate
     length: 655m
@@ -201,12 +222,16 @@ courses:
     maxSlope: 9°
     averageSlope: 6°
     note: 連接かぐら區域與田代區域的連絡路線；官方提醒開放與關閉時間會因日照時間而改變。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: X4 かぐら第1高速リフト～田代第1高速リフト連絡コース
     difficulty: intermediate
     length: 2,673m
     maxSlope: 23°
     averageSlope: 8°
     note: 官方雪道資料列為中級路線，全長 2,673m、最大坡度 23°、平均坡度 8°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: MR1 下山コース
     difficulty: intermediate
     length: 1,499m
@@ -219,6 +244,8 @@ courses:
     maxSlope: 18°
     averageSlope: 13°
     note: 官方說明有適度緩急變化，適合作為脫離初級的練習路線，也常設 slopestyle cross 雪道。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: C1 サンシャインコース
     difficulty: intermediate
     length: 266m
@@ -231,6 +258,8 @@ courses:
     maxSlope: 27°
     averageSlope: 16°
     note: 從田代 ropeway 箱型纜車山頂站出發後的第一條路線；官方建議初級者改走 Rakuraku Course。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: V2 こぶこぶコース
     difficulty: intermediate
     length: 444m
@@ -249,6 +278,8 @@ courses:
     maxSlope: 11°
     averageSlope: 11°
     note: 從田代第 6 romance 纜車下車處前往田代第 8 romance 纜車乘車處的初級者迂迴路線。
+    videoLinks:
+      - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=2145s
   - name: F4 ジャイアントコース
     difficulty: advanced
     length: 611m

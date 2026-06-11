@@ -146,9 +146,7 @@ courses:
       averageSlope: 8°
       note: 寬敞平緩，適合初學者練習轉彎與煞車。
       videoLinks:
-        - title: 範例雪道滑行影片
-          url: https://www.youtube.com/watch?v=example001
-          note: 可放官方或使用者拍攝影片。
+        - https://www.youtube.com/watch?v=example001
     - name: 中級景觀雪道 パノラマコース
       difficulty: intermediate
       length: 1800m

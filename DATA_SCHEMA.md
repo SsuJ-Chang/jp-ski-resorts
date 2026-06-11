@@ -277,7 +277,7 @@ tree_run
 | `length` | 否 | string | 長度，例如 `1200m` 或 `1,200m`。 |
 | `maxSlope` | 否 | string | 最大坡度，例如 `25°`。 |
 | `averageSlope` | 否 | string | 平均坡度，例如 `13°`。 |
-| `videoLinks` | 否 | array | 相關影片。 |
+| `videoLinks` | 否 | URL[] | 相關影片連結。頁面會依陣列順序顯示為 `參考影片1`、`參考影片2`。 |
 | `note` | 否 | string | 雪道說明。 |
 
 `difficulty` 可用值：
@@ -295,9 +295,7 @@ mixed
 
 | 欄位 | 必填 | 型別 | 說明 |
 |---|---:|---|---|
-| `title` | 是 | string | 影片標題。 |
-| `url` | 是 | URL | 影片連結。 |
-| `note` | 否 | string | 備註。 |
+| item | 是 | URL | 影片連結字串，不需要填標題；前端會依順序產生顯示名稱。 |
 
 ## `lifts`
 

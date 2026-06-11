@@ -71,7 +71,7 @@ const courseDetailSchema = z.object({
   length: z.string().optional(),
   maxSlope: z.string().optional(),
   averageSlope: z.string().optional(),
-  videoLinks: z.array(namedLinkSchema).optional(),
+  videoLinks: z.array(z.url()).optional(),
   note: z.string().optional(),
 })
 

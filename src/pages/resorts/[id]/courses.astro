@@ -117,10 +117,12 @@ const courseGroups = difficultyOrder
                       )}
                     </dl>
                     {course.videoLinks && course.videoLinks.length > 0 && (
-                      <ul class="link-list">
-                        {course.videoLinks.map((video) => (
+                      <ul class="course-video-links">
+                        {course.videoLinks.map((videoUrl, videoIndex) => (
                           <li>
-                            <a href={video.url} target="_blank" rel="noreferrer">{video.title}</a>
+                            <a href={videoUrl} target="_blank" rel="noreferrer noopener">
+                              {(course.videoLinks?.length ?? 0) > 1 ? `參考影片${videoIndex + 1}` : '參考影片'}
+                            </a>
                           </li>
                         ))}
                       </ul>
@@ -163,10 +165,12 @@ const courseGroups = difficultyOrder
                           )}
                         </dl>
                         {course.videoLinks && course.videoLinks.length > 0 && (
-                          <ul class="link-list">
-                            {course.videoLinks.map((video) => (
+                          <ul class="course-video-links">
+                            {course.videoLinks.map((videoUrl, videoIndex) => (
                               <li>
-                                <a href={video.url} target="_blank" rel="noreferrer">{video.title}</a>
+                                <a href={videoUrl} target="_blank" rel="noreferrer noopener">
+                                  {(course.videoLinks?.length ?? 0) > 1 ? `參考影片${videoIndex + 1}` : '參考影片'}
+                                </a>
                               </li>
                             ))}
                           </ul>
