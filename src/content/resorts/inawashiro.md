@@ -231,9 +231,9 @@ access:
     - 東京站搭乘東北新幹線至郡山站。
     - 轉乘 JR 磐越西線至豬苗代站。
     - 從豬苗代站搭乘官方接駁、路線巴士或計程車前往雪場。
-    estimatedTime: 約 3 小時，依轉乘方式而定
+    estimatedTime: 約 3 小時
     difficulty: medium
-    note: 官方 access 頁列出豬苗代站可銜接接駁交通；班次與期間請以當季時刻表為準。
+    note: 官方 access 頁列出豬苗代站可銜接接駁交通；班次與期間請以當季時刻表為準。依轉乘方式而定。
     links:
     - label: Inawashiro Ski Resort Access
       url: https://www.inawashiro-ski.com/access/

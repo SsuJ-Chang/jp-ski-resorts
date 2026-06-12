@@ -533,9 +533,9 @@ access:
     steps:
     - 札幌站或札幌市區搭乘冬季直達巴士前往 Niseko Hirafu、Hilton Niseko Village 或 Annupuri
     - 抵達二世谷後依住宿與滑行區域使用 Niseko United Shuttle Bus、路線巴士或飯店接駁
-    estimatedTime: 約 2.5-3.5 小時，依目的區域、班次與天候而定
+    estimatedTime: 約 2.5-3.5 小時
     difficulty: medium
-    note: 冬季巴士需確認營運期間與預約規則；自駕需行經中山峠、喜茂別或倶知安方向，冬季道路可能積雪或結冰。
+    note: 冬季巴士需確認營運期間與預約規則；自駕需行經中山峠、喜茂別或倶知安方向，冬季道路可能積雪或結冰。依目的區域、班次與天候而定。
     links:
     - label: Niseko United 交通資訊
       url: https://www.niseko.ne.jp/en/niseko-access/
@@ -544,9 +544,9 @@ access:
     steps:
     - 新千歲機場搭乘冬季滑雪巴士前往二世谷各區，或搭乘 JR 經小樽、倶知安方向轉乘
     - 抵達二世谷後依目的區域轉乘 Niseko United Shuttle Bus、路線巴士或飯店接駁
-    estimatedTime: 約 3-3.5 小時，依交通方式、班次與天候而定
+    estimatedTime: 約 3-3.5 小時
     difficulty: medium
-    note: 官方交通頁列出新千歲機場與札幌往返二世谷的冬季巴士資訊；實際期間、班次與停靠點請以各巴士業者公告為準。
+    note: 官方交通頁列出新千歲機場與札幌往返二世谷的冬季巴士資訊；實際期間、班次與停靠點請以各巴士業者公告為準。依交通方式、班次與天候而定。
     links:
     - label: Niseko United 交通資訊
       url: https://www.niseko.ne.jp/en/niseko-access/

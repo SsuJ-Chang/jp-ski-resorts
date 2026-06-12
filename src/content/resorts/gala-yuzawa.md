@@ -245,9 +245,9 @@ access:
     steps:
     - 從東京站搭乘上越新幹線，於 GALA湯沢站下車。
     - 出站後即可連接 Ski Center Cowabunga，依當日開放狀況搭乘廂型纜車上山。
-    estimatedTime: 最快約 71 分鐘抵達 GALA湯沢站
+    estimatedTime: 最快約 71 分鐘
     difficulty: easy
-    note: GALA湯沢站為冬季營業使用車站；非直達時段可在越後湯澤站下車後轉乘接駁巴士。
+    note: GALA湯沢站為冬季營業使用車站；非直達時段可在越後湯澤站下車後轉乘接駁巴士。可直接抵達 GALA湯沢站。
     links:
     - label: GALA Yuzawa Snow Resort Access
       url: https://gala.co.jp/winter/access/

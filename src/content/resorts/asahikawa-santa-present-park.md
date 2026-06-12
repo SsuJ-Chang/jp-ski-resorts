@@ -157,9 +157,9 @@ access:
     steps:
     - 從札幌站搭 JR 函館本線特急前往旭川站。
     - 從旭川站改搭冬季道北巴士 455 快速サンタリンクス線、計程車，或租車前往雪場。
-    estimatedTime: 約 2 小時以上，依列車、巴士班次與道路狀況而定
+    estimatedTime: 約 2 小時以上
     difficulty: medium
-    note: 冬季巴士班次與時間每年可能調整，請以當季時刻表與道北巴士公告為準。
+    note: 冬季巴士班次與時間每年可能調整，請以當季時刻表與道北巴士公告為準。依列車、巴士班次與道路狀況而定。
     links:
     - label: 冬期間のバス運行時刻表
       url: https://www.asahikawasantapresentpark.com/cont9/43.html

@@ -275,9 +275,9 @@ access:
     steps:
     - 東京站搭乘上越新幹線至越後湯澤站。
     - 從越後湯澤站東口案內所附近搭乘岩原免費接駁巴士前往山麓或中腹リゾートセンター。
-    estimatedTime: 越後湯澤站起約 10～15 分鐘
+    estimatedTime: 站後約 10-15 分鐘
     difficulty: easy
-    note: 土休日與年末年始有定期免費接駁；平日班次較少，另有需預約的循環巴士與岩原—上越國際接駁，出發前請確認當季時刻表。
+    note: 土休日與年末年始有定期免費接駁；平日班次較少，另有需預約的循環巴士與岩原—上越國際接駁，出發前請確認當季時刻表。越後湯澤站起約 10-15 分鐘。
     links:
     - label: Iwappara Ski Resort Access
       url: https://iwa-ppara.com/access/

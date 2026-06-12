@@ -156,9 +156,9 @@ access:
     steps:
     - 東京站搭乘北陸新幹線至長野站或上越妙高站。
     - 轉乘至妙高高原站後，再依官方巴士、接駁或計程車前往赤倉觀光。
-    estimatedTime: 約 3-4 小時，依轉乘方式而定
+    estimatedTime: 約 3-4 小時
     difficulty: medium
-    note: 官方 access 頁列出電車與高速巴士等交通方式，實際班次請以當季資訊為準。
+    note: 官方 access 頁列出電車與高速巴士等交通方式，實際班次請以當季資訊為準。依轉乘方式而定。
     links:
     - label: Akakura Kanko Resort Access
       url: https://akr-ski.com/access/

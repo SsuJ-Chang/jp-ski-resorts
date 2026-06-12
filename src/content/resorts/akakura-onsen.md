@@ -169,9 +169,9 @@ access:
     steps:
     - 東京站搭乘北陸新幹線至長野站或上越妙高站。
     - 轉乘至妙高高原站後，再依官方巴士、接駁或計程車前往赤倉溫泉區。
-    estimatedTime: 約 3-4 小時，依轉乘方式而定
+    estimatedTime: 約 3-4 小時
     difficulty: medium
-    note: 赤倉溫泉區住宿與雪場位置接近，但雪季路面可能積雪，請確認官方交通資訊與住宿接駁。
+    note: 赤倉溫泉區住宿與雪場位置接近，但雪季路面可能積雪，請確認官方交通資訊與住宿接駁。依轉乘方式而定。
     links:
     - label: Akakura Onsen Official
       url: https://akakura-ski.com/

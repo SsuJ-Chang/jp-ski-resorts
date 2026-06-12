@@ -174,9 +174,9 @@ access:
     steps:
     - 從大阪、京都或神戶搭乘 JR 或高速巴士前往米子站。
     - 從米子站轉乘往大山方向的巴士或計程車前往大山寺、雪場周邊。
-    estimatedTime: 約 4-5 小時，依交通方式而定
+    estimatedTime: 約 4-5 小時
     difficulty: medium
-    note: 公開資料列出山陰本線米子站轉巴士約 50 分鐘；冬季班次請以官方 access 與巴士時刻表為準。
+    note: 公開資料列出山陰本線米子站轉巴士約 50 分鐘；冬季班次請以官方 access 與巴士時刻表為準。依交通方式而定。
     links:
     - label: Daisen White Resort Access
       url: https://www.daisen-resort.jp/10/
@@ -185,9 +185,9 @@ access:
     steps:
     - 從東京搭乘飛機至米子鬼太郎機場，或以新幹線、特急列車銜接至米子站。
     - 從米子機場或米子站轉乘計程車、巴士或租車前往大山。
-    estimatedTime: 約 4 小時以上，依航班與轉乘方式而定
+    estimatedTime: 約 4 小時以上
     difficulty: hard
-    note: 從關東出發建議先確認米子機場與米子站接駁時間。
+    note: 從關東出發建議先確認米子機場與米子站接駁時間。依航班與轉乘方式而定。
   car:
     recommended: true
     snowTireRequired: true

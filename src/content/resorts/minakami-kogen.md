@@ -195,9 +195,9 @@ access:
       steps:
         - 搭乘上越新幹線至上毛高原站，或搭乘 JR 上越線至水上站。
         - 依官方交通頁轉乘預約制接駁、路線巴士或計程車前往水上高原。
-      estimatedTime: 上毛高原站後約 70 分鐘，水上站後約 50 分鐘
+      estimatedTime: 站後約 50-70 分鐘
       difficulty: medium
-      note: 需使用有料預約制接駁巴士，接駁方式與班次會依住宿、日期與雪季調整，請依官方交通頁預約與確認。
+      note: 需使用有料預約制接駁巴士，接駁方式與班次會依住宿、日期與雪季調整，請依官方交通頁預約與確認。上毛高原站後約 70 分鐘，水上站後約 50 分鐘。
       links:
         - label: Minakami Kogen Access
           url: https://www.minakami-ski.jp/access/

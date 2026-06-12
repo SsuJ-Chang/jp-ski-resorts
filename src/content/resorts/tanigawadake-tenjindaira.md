@@ -137,9 +137,9 @@ access:
       steps:
         - 搭乘上越新幹線至上毛高原站。
         - 從上毛高原站轉乘巴士前往谷川岳 Ropeway / Mt.T。
-      estimatedTime: 東京起約 2 小時，上毛高原站後約 45 分鐘
+      estimatedTime: 東京起約 2 小時
       difficulty: medium
-      note: 官方 Mt.T 頁標示首都圈最短約 2 小時，巴士班次請以谷川岳ヨッホ與交通業者公告為準。
+      note: 官方 Mt.T 頁標示首都圈最短約 2 小時，巴士班次請以谷川岳ヨッホ與交通業者公告為準。上毛高原站後約 45 分鐘。
       links:
         - label: Mt.T Official
           url: https://tanigawadake-joch.com/mt-t/

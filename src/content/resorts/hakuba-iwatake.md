@@ -175,9 +175,9 @@ access:
     - 東京站搭乘北陸新幹線至長野站。
     - 於長野站轉乘長野-白馬線特急巴士至白馬站或白馬八方巴士總站。
     - 轉乘岩岳接駁、村內巴士或計程車至白馬岩岳 Mountain Resort。
-    estimatedTime: 約 3 小時，依巴士與接駁班次而定
+    estimatedTime: 約 3 小時
     difficulty: medium
-    note: 官方 access 頁標示東京經長野站轉特急巴士約 3 小時；白馬站、白馬八方巴士總站等處有期間限定免費接駁，需看當季公告。
+    note: 官方 access 頁標示東京經長野站轉特急巴士約 3 小時；白馬站、白馬八方巴士總站等處有期間限定免費接駁，需看當季公告。依巴士與接駁班次而定。
     links:
     - label: Hakuba Iwatake Snow Field Access
       url: https://iwatake-mountain-resort.com/access
@@ -186,8 +186,9 @@ access:
     steps:
     - 名古屋站搭乘特急信濃往白馬方向。
     - 抵達白馬站後轉乘免費接駁、村內巴士或計程車至岩岳。
-    estimatedTime: 約 3.5 小時以上，依鐵路與接駁銜接而定
+    estimatedTime: 約 3.5 小時以上
     difficulty: medium
+    note: 依鐵路與接駁銜接而定。
     links:
     - label: Hakuba Iwatake Mountain Resort Access
       url: https://iwatake-mountain-resort.com/access

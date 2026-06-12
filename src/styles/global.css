@@ -1179,13 +1179,15 @@ h1 {
   flex-wrap: wrap;
   gap: 6px;
   justify-content: flex-end;
+  justify-self: end;
   min-width: 0;
   max-width: 240px;
 }
 
 .access-card__badges span {
-  display: inline-flex;
-  align-items: center;
+  display: block;
+  box-sizing: border-box;
+  max-width: 100%;
   min-height: 28px;
   padding: 5px 9px;
   border: 1px solid rgba(23, 33, 31, 0.08);
@@ -1195,6 +1197,9 @@ h1 {
   font-size: 0.78rem;
   font-weight: 800;
   line-height: 1.35;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .access-steps {

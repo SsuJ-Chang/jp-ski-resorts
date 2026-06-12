@@ -179,9 +179,9 @@ access:
     - 東京站搭乘北陸新幹線至長野站。
     - 於長野站轉乘長野-白馬線巴士至白馬站或白馬村主要站點。
     - 轉乘 Hakuba47 / Goryu 接駁、村內巴士或計程車至 Hakuba47 base。
-    estimatedTime: 約 3-4 小時，依新幹線、巴士與接駁銜接而定
+    estimatedTime: 約 3-4 小時
     difficulty: medium
-    note: 官方英文 access 頁標示東京至長野新幹線約 88 分鐘，長野站至白馬直達巴士約 1 小時；實際班次需以當季時刻表為準。
+    note: 官方英文 access 頁標示東京至長野新幹線約 88 分鐘，長野站至白馬直達巴士約 1 小時；實際班次需以當季時刻表為準。依新幹線、巴士與接駁銜接而定。
     links:
     - label: Hakuba 47 Winter Sports Park Access
       url: https://www.hakuba47.co.jp/winter/en/access/
@@ -191,8 +191,9 @@ access:
     - 名古屋站搭乘特急信濃至松本站。
     - 轉乘 JR 大糸線至白馬站。
     - 從白馬站轉乘接駁、巴士或計程車至 Hakuba47。
-    estimatedTime: 約 3.5-4.5 小時，依鐵路與接駁銜接而定
+    estimatedTime: 約 3.5-4.5 小時
     difficulty: medium
+    note: 依鐵路與接駁銜接而定。
     links:
     - label: Hakuba 47 Winter Sports Park Access
       url: https://www.hakuba47.co.jp/winter/en/access/

@@ -199,9 +199,9 @@ access:
     steps:
     - 東京站搭乘北陸新幹線至長野站或上越妙高站。
     - 轉乘至妙高高原站後，依官方接駁、路線巴士或計程車前往池之平溫泉區。
-    estimatedTime: 約 3-4 小時，依轉乘方式而定
+    estimatedTime: 約 3-4 小時
     difficulty: medium
-    note: 接駁與巴士班次會依雪季調整，請以官方 access 頁與當季時刻表為準。
+    note: 接駁與巴士班次會依雪季調整，請以官方 access 頁與當季時刻表為準。依轉乘方式而定。
     links:
     - label: Alpenblick Resort Access
       url: https://alpenblick-resort.com/access

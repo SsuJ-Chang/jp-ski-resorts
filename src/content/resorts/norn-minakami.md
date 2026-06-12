@@ -159,9 +159,9 @@ access:
       steps:
         - 搭乘上越新幹線至上毛高原站，或搭乘 JR 上越線至水上站。
         - 依官方交通頁轉乘免費接駁巴士前往 Norn 水上。
-      estimatedTime: 上毛高原站後約 20-30 分鐘
+      estimatedTime: 站後約 20-30 分鐘
       difficulty: easy
-      note: 官方雪場頁標示水上站、上毛高原站有免費接駁巴士，班次與預約規則請以官方交通頁為準。
+      note: 官方雪場頁標示水上站、上毛高原站有免費接駁巴士，班次與預約規則請以官方交通頁為準。上毛高原站後約 20-30 分鐘。
       links:
         - label: Norn Access
           url: https://www.norn.co.jp/winter/access/

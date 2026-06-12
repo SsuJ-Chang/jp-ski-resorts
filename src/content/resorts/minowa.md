@@ -139,9 +139,9 @@ access:
     steps:
     - 東京站搭乘東北新幹線至郡山站。
     - 轉乘 JR 磐越西線至豬苗代站，或依當季交通資訊轉乘巴士、計程車或租車前往 Minowa。
-    estimatedTime: 約 3.5-4.5 小時，依轉乘方式而定
+    estimatedTime: 約 3.5-4.5 小時
     difficulty: medium
-    note: Minowa 位於山區，冬季大眾運輸與接駁資訊需以官方或住宿方當季公告確認。
+    note: Minowa 位於山區，冬季大眾運輸與接駁資訊需以官方或住宿方當季公告確認。依轉乘方式而定。
     links:
     - label: Minowa Weathernews
       url: https://weathernews.jp/ski/spot/33604/

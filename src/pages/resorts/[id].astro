@@ -95,6 +95,7 @@ const accessRoutes = accessRouteGroups.flatMap((group) =>
 )
 const carAccess = resort.data.access?.car
 const hasAccessInfo = accessRoutes.length > 0 || Boolean(carAccess)
+const getAccessTimeLabel = (estimatedTime?: string) => estimatedTime?.split(/[，,、]/)[0]?.trim() ?? ''
 ---
 
 <BaseLayout
@@ -221,7 +222,9 @@ const hasAccessInfo = accessRoutes.length > 0 || Boolean(carAccess)
                     </div>
                     {item.route.estimatedTime && (
                       <div class="access-card__badges">
-                        <span>{item.route.estimatedTime}</span>
+                        <span title={item.route.estimatedTime} aria-label={item.route.estimatedTime}>
+                          {getAccessTimeLabel(item.route.estimatedTime)}
+                        </span>
                       </div>
                     )}
                   </div>

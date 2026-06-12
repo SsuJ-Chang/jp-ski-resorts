@@ -180,9 +180,9 @@ access:
     steps:
     - 東京站搭乘北陸新幹線至上越妙高站。
     - 依官方接駁、巴士、計程車或租車前往 LOTTE ARAI RESORT。
-    estimatedTime: 約 2.5-3.5 小時，依轉乘方式而定
+    estimatedTime: 約 2.5-3.5 小時
     difficulty: medium
-    note: 接駁與巴士資訊請以 LOTTE ARAI RESORT 官方公告與當季時刻表為準。
+    note: 接駁與巴士資訊請以 LOTTE ARAI RESORT 官方公告與當季時刻表為準。依轉乘方式而定。
     links:
     - label: LOTTE ARAI RESORT Official
       url: https://www.lottehotel.com/arai-resort/ja.html
@@ -191,9 +191,8 @@ access:
     steps:
     - 抵達東京、北陸或新潟周邊機場後，銜接新幹線或租車至上越妙高、新井周邊。
     - 再依官方接駁、巴士或計程車前往度假村。
-    estimatedTime: 依機場與轉乘方式而定
     difficulty: hard
-    note: 跨區轉乘時間差異大，建議出發前確認官方交通資訊與住宿接駁。
+    note: 跨區轉乘時間差異大，建議出發前確認官方交通資訊與住宿接駁。依機場與轉乘方式而定。
   car:
     recommended: true
     snowTireRequired: true

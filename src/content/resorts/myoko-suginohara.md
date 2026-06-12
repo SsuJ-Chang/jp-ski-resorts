@@ -210,9 +210,9 @@ access:
     steps:
     - 東京站搭乘北陸新幹線至長野站或上越妙高站。
     - 轉乘鐵道至妙高高原站後，再依官方接駁、路線巴士或計程車前往雪場。
-    estimatedTime: 約 3-4 小時，依轉乘方式而定
+    estimatedTime: 約 3-4 小時
     difficulty: medium
-    note: 接駁巴士與路線巴士會依雪季調整，出發前請確認官方 access 頁與當季時刻表。
+    note: 接駁巴士與路線巴士會依雪季調整，出發前請確認官方 access 頁與當季時刻表。依轉乘方式而定。
     links:
     - label: Myoko Suginohara Access
       url: https://www.princehotels.co.jp/ski/myoko/winter/access/

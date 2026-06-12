@@ -225,9 +225,9 @@ access:
       steps:
         - 搭乘上越新幹線至上毛高原站，或搭乘 JR 上越線至水上站。
         - 轉乘往藤原、寶台樹方向的路線巴士或雪場接駁資訊所列交通方式前往雪場。
-      estimatedTime: 上毛高原站後計程車約 45 分鐘，水上站後計程車約 30 分鐘
+      estimatedTime: 站後約 30-45 分鐘
       difficulty: medium
-      note: 冬季班次與接駁會依年度調整，請出發前確認官方交通頁與巴士時刻。
+      note: 冬季班次與接駁會依年度調整，請出發前確認官方交通頁與巴士時刻。上毛高原站後計程車約 45 分鐘，水上站後計程車約 30 分鐘。
       links:
         - label: Hodaigi Access
           url: https://hodaigi.jp/access/

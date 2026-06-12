@@ -132,9 +132,9 @@ access:
     steps:
     - 從大阪或關西方向搭乘 JR、高速巴士或自駕前往米子、江府町或江尾站周邊。
     - 依官方交通資訊銜接接駁、計程車或租車前往休暇村奧大山。
-    estimatedTime: 約 4-5 小時以上，依交通方式而定
+    estimatedTime: 約 4-5 小時以上
     difficulty: hard
-    note: 鳥取大山南側冬季大眾運輸班次有限，建議出發前確認住宿接駁與官方 access。
+    note: 鳥取大山南側冬季大眾運輸班次有限，建議出發前確認住宿接駁與官方 access。依交通方式而定。
     links:
     - label: Kyukamura Oku-Daisen Access
       url: https://www.qkamura.or.jp/daisen/access/
@@ -143,9 +143,8 @@ access:
     steps:
     - 從東京搭乘飛機至米子鬼太郎機場，或以新幹線、特急列車銜接至米子、江尾周邊。
     - 再轉乘租車、計程車或住宿接駁前往休暇村奧大山。
-    estimatedTime: 依航班與轉乘方式而定
     difficulty: hard
-    note: 從關東出發建議先確認米子機場、JR 班次與住宿接駁。
+    note: 從關東出發建議先確認米子機場、JR 班次與住宿接駁。依航班與轉乘方式而定。
   car:
     recommended: true
     snowTireRequired: true

@@ -156,9 +156,9 @@ access:
     - 東京站搭乘北陸新幹線至長野站。
     - 於長野站轉乘長野-白馬線特急巴士至白馬八方巴士總站。
     - 從白馬八方巴士總站步行或轉乘村內 / 雪場接駁至 Gondola Adam、名木山或咲花入口。
-    estimatedTime: 約 3-4 小時，依新幹線與巴士銜接而定
+    estimatedTime: 約 3-4 小時
     difficulty: medium
-    note: 官方 access 頁提供東京、名古屋、大阪、新潟、金澤、札幌、福岡等出發地入口；雪季接駁與巴士班次需以當季時刻表為準。
+    note: 官方 access 頁提供東京、名古屋、大阪、新潟、金澤、札幌、福岡等出發地入口；雪季接駁與巴士班次需以當季時刻表為準。依新幹線與巴士銜接而定。
     links:
     - label: Hakuba Happo-one Snow Resort Access
       url: https://www.happo-one.jp/access/
@@ -168,8 +168,9 @@ access:
     - 名古屋站搭乘特急信濃至松本站。
     - 轉乘 JR 大糸線至白馬站。
     - 從白馬站轉乘巴士或計程車至白馬八方尾根各入口。
-    estimatedTime: 約 3.5-4.5 小時，依大糸線與巴士銜接而定
+    estimatedTime: 約 3.5-4.5 小時
     difficulty: medium
+    note: 依大糸線與巴士銜接而定，雪季班次需以當季時刻表為準。
     links:
     - label: Hakuba Happo-one Snow Resort Access
       url: https://www.happo-one.jp/access/

@@ -183,9 +183,9 @@ access:
     - 東京站搭乘東北新幹線至郡山站。
     - 轉乘 JR 磐越西線至豬苗代站，或依官方資訊轉乘高速巴士、接駁或租車。
     - 從豬苗代、裏磐梯方向前往 Grandeco。
-    estimatedTime: 約 3.5-4.5 小時，依接駁與轉乘方式而定
+    estimatedTime: 約 3.5-4.5 小時
     difficulty: medium
-    note: 裏磐梯區域冬季接駁與巴士班次有限，出發前請確認官方交通資訊。
+    note: 裏磐梯區域冬季接駁與巴士班次有限，出發前請確認官方交通資訊。依接駁與轉乘方式而定。
     links:
     - label: Grandeco Official
       url: https://resort.en-hotel.com/grandeco/snow/ja/

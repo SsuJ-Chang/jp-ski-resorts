@@ -162,9 +162,8 @@ access:
     steps:
     - 東京站或上野站搭乘新幹線至鄰近車站。
     - 依雪場位置轉乘接駁巴士、路線巴士、計程車或步行前往。
-    estimatedTime: 依雪場與轉乘方式而定
     difficulty: medium
-    note: 詳細班次與接駁期間請以官方 access 頁與當季時刻表為準。
+    note: 詳細班次與接駁期間請以官方 access 頁與當季時刻表為準。依雪場與轉乘方式而定。
     links:
     - label: Kashimayari Snow Resort Access
       url: https://www.kashimayari.net/snow/access/
