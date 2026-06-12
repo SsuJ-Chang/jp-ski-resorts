@@ -15,7 +15,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Higashidateyama%20Ski%20Area%20Shiga%20Kogen
@@ -107,6 +107,19 @@ courses:
     note: Olympic Course 下段，銜接東館山下部。
 lifts:
   total: 1
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站東口搭直達巴士前往志賀高原，於發哺溫泉、東館山或中央區域可銜接站點下車。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "medium"
+      note: "東館山與一之瀨、寺小屋之間可透過雪場內動線銜接，但公共交通下車點與纜車營運需以當日資訊為準。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。東館山 Gondola 停車場約 40 台，空間較少，冬季需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: Forest Course 長達 4,000m，是中央區域重要長距離初級路線。
   intermediate: Olympic Course 上中下段是主要中級路線。
@@ -116,5 +129,7 @@ sources:
   url: https://www.shigakogen.gr.jp/english/lift_information/
 - label: Shiga Kogen Lift Ticket
   url: https://shigakogen-ski.or.jp/winter/ticket/
+- label: Shiga Kogen Access
+  url: https://shigakogen-ski.or.jp/access/
 ---
 志賀高原東館山以奧運路線與長距離 Forest Course 為特色，能串接一之瀨與寺小屋，是中央區域移動與長距離滑行的重要節點。

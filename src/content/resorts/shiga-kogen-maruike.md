@@ -15,7 +15,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Maruike%20Ski%20Area%20Shiga%20Kogen
@@ -101,6 +101,19 @@ courses:
     note: 中央區域最具難度的斜面之一，適合進階饅頭滑雪者。
 lifts:
   total: 2
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站東口搭直達巴士前往志賀高原，於丸池、蓮池或山之站周邊站點下車。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "medium"
+      note: "丸池位於志賀高原入口與中央區域交界，巴士站、住宿與停車位置會影響最後步行距離。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。入口區停車位置較分散，建議依住宿或現地指示使用周邊停車場。"
 terrainSummary:
   beginner: C Course 與 Snowland 對初學者和家庭較友善。
   intermediate: B Course 可作為短距離技術練習。
@@ -111,5 +124,7 @@ sources:
   url: https://www.shigakogen.gr.jp/english/lift_information/
 - label: Shiga Kogen Lift Ticket
   url: https://shigakogen-ski.or.jp/winter/ticket/
+- label: Shiga Kogen Access
+  url: https://shigakogen-ski.or.jp/access/
 ---
 志賀高原丸池位於入口與中央區域交界，雪道短但難度分布清楚。初學者可使用 C Course，進階者則可挑戰 A Course 的短陡與饅頭地形。

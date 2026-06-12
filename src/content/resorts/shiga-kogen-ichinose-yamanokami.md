@@ -15,7 +15,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Ichinose%20Yamanokami%20Ski%20Area%20Shiga%20Kogen
@@ -91,6 +91,19 @@ courses:
     note: 從一之瀨 Diamond 區域通往燒額山區域的連絡路。
 lifts:
   total: 1
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站東口搭直達巴士前往志賀高原，於一之瀨或燒額山側站點下車後銜接。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "medium"
+      note: "一之瀨山之神主要是中央區域與燒額山之間的連絡雪場，實際進出通常會配合一之瀨或燒額山的住宿、巴士站與纜車營運。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。一之瀨區域停車合計約 1,300 台，部分為住宿者專用。"
 terrainSummary:
   beginner: Monkey Course 是初級連絡路，可從燒額山回到中央區域。
   intermediate: Kamoshika Course 連接一之瀨 Diamond 與燒額山。
@@ -100,5 +113,7 @@ sources:
   url: https://www.shigakogen.gr.jp/english/lift_information/
 - label: Shiga Kogen Lift Ticket
   url: https://shigakogen-ski.or.jp/winter/ticket/
+- label: Shiga Kogen Access
+  url: https://shigakogen-ski.or.jp/access/
 ---
 志賀高原一之瀨山之神是中央區域與燒額山之間的重要連絡雪場，雪道本身不多，但對跨區滑行動線很重要。

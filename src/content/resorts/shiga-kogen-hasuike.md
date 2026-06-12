@@ -15,7 +15,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Hasuike%20Ski%20Area%20Shiga%20Kogen
@@ -95,6 +95,19 @@ courses:
     note: 官方說明為適合初學者與第一天滑雪、雪板練習的緩坡。
 lifts:
   total: 1
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站東口搭直達巴士前往志賀高原，於山之站、蓮池或丸池周邊站點下車。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "medium"
+      note: "蓮池位於志賀高原入口與中央區域交界，巴士站與住宿位置會影響步行距離；冬季班次與末班車需先確認。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。入口區停車位置較分散，建議依住宿或現地指示使用周邊停車場。"
 terrainSummary:
   beginner: B Course 與 Junior Course 可做短距離基本練習。
   intermediate: A Course 可銜接 Giant，適合開始區域移動的人。
@@ -104,5 +117,7 @@ sources:
   url: https://www.shigakogen.gr.jp/english/lift_information/
 - label: Shiga Kogen Lift Ticket
   url: https://shigakogen-ski.or.jp/winter/ticket/
+- label: Shiga Kogen Access
+  url: https://shigakogen-ski.or.jp/access/
 ---
 志賀高原蓮池是靠近山之站與中央區域入口的短距離雪場，適合暖身、初級練習與銜接 Giant 一帶。

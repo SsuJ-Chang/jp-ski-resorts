@@ -17,7 +17,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Kumanoyu%20Ski%20Area%20Shiga%20Kogen
@@ -130,6 +130,19 @@ courses:
     note: 官方雪道資料列為上級路線，全長 1,000m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 5
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站東口搭直達巴士前往志賀高原，於熊之湯或ほたる温泉周邊站點下車。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "medium"
+      note: "熊之湯位於志賀高原往橫手山、澀峠方向，車程通常比入口區更長；冬季班次、末班車與回程需先確認。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。熊之湯與ほたる温泉共用周邊停車場約 400 台，冬季需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: 初級線與迂迴線可支撐較保守的滑行安排。
   intermediate: No.3 與 No.4 系列提供中級練習與銜接。
@@ -142,5 +155,7 @@ sources:
   url: https://shigakogen-ski.or.jp/winter/ticket/
 - label: Kumanoyu Official
   url: https://www.kumanoyu.co.jp/
+- label: Shiga Kogen Access
+  url: https://shigakogen-ski.or.jp/access/
 ---
 熊之湯位在志賀高原往橫手山、澀峠方向的南東側，雪道數量不算少，從初級迂迴線到進階 No.2 系列都有。想把溫泉住宿與高海拔滑雪排在一起時，這裡是常見據點。

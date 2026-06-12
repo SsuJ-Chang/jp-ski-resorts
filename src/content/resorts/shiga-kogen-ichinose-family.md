@@ -16,7 +16,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Ichinose%20Family%20Ski%20Area%20Shiga%20Kogen
@@ -112,6 +112,19 @@ courses:
     note: 中央區域具高難度的路線之一，斜度變化多，進階者也具挑戰性。
 lifts:
   total: 4
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站東口搭直達巴士前往志賀高原，於一之瀨周邊站點下車。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "medium"
+      note: "一之瀨 Family 位於中央區域核心，住宿與滑行動線多；下車站需依住宿或當日行程確認。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。一之瀨區域停車合計約 1,300 台，部分為住宿者專用。"
 terrainSummary:
   beginner: Front Gelende 下部、Tengu Course 與連絡路適合初學者與家庭。
   intermediate: Panorama Course 提供長距離中級林間滑行。
@@ -122,5 +135,7 @@ sources:
   url: https://www.shigakogen.gr.jp/english/lift_information/
 - label: Shiga Kogen Lift Ticket
   url: https://shigakogen-ski.or.jp/winter/ticket/
+- label: Shiga Kogen Access
+  url: https://shigakogen-ski.or.jp/access/
 ---
 志賀高原一之瀨 Family 是中央區域住宿與滑行核心之一，初級、家庭與中級巡航路線都集中，並可往高天原、寺小屋與燒額山方向移動。

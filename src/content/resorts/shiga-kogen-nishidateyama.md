@@ -15,7 +15,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Nishidateyama%20Ski%20Area%20Shiga%20Kogen
@@ -111,6 +111,19 @@ courses:
     note: 中級下段林間路線，可銜接西館山下部。
 lifts:
   total: 3
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站東口搭直達巴士前往志賀高原，於 Giant、發哺溫泉或中央區域可銜接站點下車。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "medium"
+      note: "西館山可與 Giant、發哺ブナ平等中央區域動線銜接，公共交通最後一段需配合下車站與纜車營運。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。此區常利用 Giant 停車場約 350 台，冬季需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: Beginner Course 上下段和 Gelende 提供林間初級路線。
   intermediate: World Cup Course 與 Intermediate Course 是主要中級路線。
@@ -121,5 +134,7 @@ sources:
   url: https://www.shigakogen.gr.jp/english/lift_information/
 - label: Shiga Kogen Lift Ticket
   url: https://shigakogen-ski.or.jp/winter/ticket/
+- label: Shiga Kogen Access
+  url: https://shigakogen-ski.or.jp/access/
 ---
 志賀高原西館山是中央區域的重要山體之一，包含奧運使用過的 World Cup Course，也有多條林間初中級路線，適合在中央區域做中長距離滑行。
