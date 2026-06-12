@@ -1,0 +1,146 @@
+---
+id: meiho
+name:
+  zhTw: めいほう
+  ja: めいほうスキー場
+  en: Meiho Ski Resort
+region: chubu
+prefecture: 岐阜縣
+tags:
+  - beginner_friendly
+  - family_friendly
+  - large_ski_area
+  - powder
+  - snowboard_friendly
+links:
+  official: https://www.meihoski.co.jp/winter/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=35.941931%2C137.042838
+  trailMapPage: https://www.meihoski.co.jp/gelande/
+  weather: https://weathernews.jp/ski/spot/35206/
+  ticket: https://www.meihoski.co.jp/price/
+  access: https://www.meihoski.co.jp/access/
+contact:
+  address:
+    zhTw: 日本岐阜縣郡上市明寶奧住 3447-1
+    ja: 〒501-4304 岐阜県郡上市明宝奥住3447-1
+    googleMaps: https://www.google.com/maps/search/?api=1&query=35.941931%2C137.042838
+  phone: 0575-87-2811
+season:
+  label: 2025-2026
+  operatingPeriod: 2025/12/13-2026/4/8
+  hours: 平日 8:00-16:30，假日 7:30-16:30
+  note: 營業日期與時間可能依積雪與天候調整，出發前請確認官方公告。
+  source: https://weathernews.jp/ski/spot/35206/
+trailMaps:
+  - label: めいほう雪場圖
+    language: Japanese
+    season: 2025-2026
+    url: https://www.meihoski.co.jp/gelande/
+    sourceLabel: Meiho Ski Resort Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://www.meihoski.co.jp/price/
+  note: 主要票種摘要，實際販售日、特定日設定與附加票券請以官方售票資訊為準。
+  plans:
+    - name: 平日 1 日券
+      audience: 大人／兒童／年長者
+      price: 大人 ¥5,300、兒童 ¥2,500、年長者 ¥4,800
+    - name: 特定日 1 日券
+      audience: 大人／兒童／年長者
+      price: 大人 ¥6,000、兒童 ¥2,500、年長者 ¥5,500
+    - name: 平日下午券
+      audience: 大人／兒童／年長者
+      price: 大人 ¥4,300、兒童 ¥2,500、年長者 ¥4,300
+    - name: 特定日下午券
+      audience: 大人／兒童／年長者
+      price: 大人 ¥5,000、兒童 ¥2,500、年長者 ¥5,000
+snowWeather:
+  title: めいほう雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/35206/
+  snowDepth: 200 cm
+  updatedAt: 2026/4/30 09:00:00
+  forecast:
+    - date: 12/27(日)
+      weather: 晴
+      low: "-5°C"
+      high: "4°C"
+    - date: 12/28(月)
+      weather: 雪
+      low: "-8°C"
+      high: "0°C"
+    - date: 12/29(火)
+      weather: 雪
+      low: "-9°C"
+      high: "-2°C"
+    - date: 12/30(水)
+      weather: 晴
+      low: "-5°C"
+      high: "0°C"
+    - date: 12/31(木)
+      weather: 晴
+      low: "-3°C"
+      high: "3°C"
+    - date: 1/1(金)
+      weather: 晴
+      low: "-4°C"
+      high: "1°C"
+    - date: 1/2(土)
+      weather: 晴
+      low: "8°C"
+      high: "3°C"
+  note: 靜態展示用雪況資料，出發前請以官方與天氣頁面最新公告為準。
+location:
+  latitude: 35.941931
+  longitude: 137.042838
+elevation:
+  top: 1600
+  bottom: 900
+  verticalDrop: 700
+courses:
+  total: 13
+  beginnerRatio: 45
+  intermediateRatio: 40
+  advancedRatio: 15
+  summary: 公開資料標示 13 條 course，海拔約 900m 到 1,600m，初級 45%、中級 40%、上級 15%。雪場有 kids park、snow park，並標示全區可 snowboard。
+lifts:
+  total: 5
+access:
+  fromNagoya:
+    - label: 名古屋方向：鐵道轉計程車
+      steps:
+        - 搭乘鐵道至長良川鐵道 郡上八幡站
+        - 由郡上八幡站轉計程車或當地交通前往雪場
+      estimatedTime: 車站後約 40 分
+      difficulty: medium
+      note: 冬季交通與接駁安排請行前確認。
+  fromAirport:
+    - label: 中部國際機場方向
+      steps:
+        - 由中部國際機場往郡上八幡方向移動
+        - 抵達郡上市後轉乘當地交通前往雪場
+      estimatedTime: 約 150 分
+      difficulty: hard
+      note: 交通時間為公開資料摘要，實際時間會受轉乘與道路狀況影響。
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: 可由東海北陸自動車道 郡上八幡 IC 前往，約 30 分。冬季山路請準備雪胎與雪道駕駛裝備。
+terrainSummary:
+  beginner: 初級比例約 45%，適合初學者與家庭安排練習路線。
+  intermediate: 中級比例約 40%，可作為整天巡航與練習轉彎的主要區域。
+  advanced: 上級比例約 15%，包含較陡與非壓雪特色路線。
+  snowboard: 官方資料標示全區可 snowboard，並設有 snow park。
+  powder: 高難度區域有非壓雪與粉雪特色，需依當日開放狀態滑行。
+sources:
+  - label: Weathernews Mino Ski Area
+    url: https://weathernews.jp/ski/area/mino/
+  - label: Weathernews Meiho Ski Resort
+    url: https://weathernews.jp/ski/spot/35206/
+  - label: Meiho Ski Resort Official
+    url: https://www.meihoski.co.jp/winter/
+  - label: Meiho Ski Resort Ticket
+    url: https://www.meihoski.co.jp/price/
+---
+めいほう是位在岐阜縣郡上市明寶一帶的滑雪場，公開資料標示海拔落差約 700m、13 條 course，初級與中級比例較高，也保留部分較有挑戰性的非壓雪特色。若從名古屋或中部國際機場方向安排，建議出發前先確認冬季道路、接駁與營業公告。

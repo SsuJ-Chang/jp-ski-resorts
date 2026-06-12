@@ -1,0 +1,136 @@
+---
+id: snow-wave-park-shiratori-kogen
+name:
+  zhTw: Snow Wave Park 白鳥高原
+  ja: スノーウェーブパーク白鳥高原
+  en: Snow Wave Park Shiratori Kogen
+region: chubu
+prefecture: 岐阜縣
+tags:
+  - family_friendly
+  - powder
+  - snowboard_friendly
+links:
+  official: https://siratori-k.jp/swp/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=35.957200%2C136.805143
+  trailMapPage: https://siratori-k.jp/swp/gelande
+  weather: https://weathernews.jp/ski/spot/35221/
+  ticket: https://siratori-k.jp/swp/price
+  access: https://siratori-k.jp/swp/access
+contact:
+  address:
+    zhTw: 日本岐阜縣郡上市白鳥町石徹白 133
+    ja: 〒501-5231 岐阜県郡上市白鳥町石徹白133
+    googleMaps: https://www.google.com/maps/search/?api=1&query=35.957200%2C136.805143
+  phone: 0575-86-3111
+season:
+  label: 2025-2026
+  operatingPeriod: 2025/12/6-2026/3/30
+  hours: 8:00-16:30
+  note: 營業日期與時間可能依積雪與天候調整，出發前請確認官方公告。
+  source: https://weathernews.jp/ski/spot/35221/
+trailMaps:
+  - label: Snow Wave Park 白鳥高原雪場圖
+    language: Japanese
+    season: 2025-2026
+    url: https://siratori-k.jp/swp/gelande
+    sourceLabel: Snow Wave Park Shiratori Kogen Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://siratori-k.jp/swp/price
+  note: 主要票種摘要，實際販售日、特定日設定與其他加購票券請以官方售票資訊為準。
+  plans:
+    - name: 平日 1 日券
+      audience: 大人／兒童／年長者
+      price: 大人 ¥3,500、兒童 ¥1,500、年長者 ¥3,300
+    - name: 特定日 1 日券
+      audience: 大人／兒童／年長者
+      price: 大人 ¥4,900、兒童 ¥1,500、年長者 ¥3,300
+    - name: 下午券
+      audience: 大人
+      price: 大人 ¥3,500
+    - name: 中高生券
+      audience: 國高中生
+      price: ¥3,300
+snowWeather:
+  title: Snow Wave Park 白鳥高原雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/35221/
+  snowDepth: 200 cm
+  updatedAt: 2026/4/30 09:00:00
+  forecast:
+    - date: 12/27(日)
+      weather: 晴
+      low: "-5°C"
+      high: "4°C"
+    - date: 12/28(月)
+      weather: 雪
+      low: "-8°C"
+      high: "0°C"
+    - date: 12/29(火)
+      weather: 雪
+      low: "-9°C"
+      high: "-2°C"
+    - date: 12/30(水)
+      weather: 晴
+      low: "-5°C"
+      high: "0°C"
+    - date: 12/31(木)
+      weather: 晴
+      low: "-3°C"
+      high: "3°C"
+    - date: 1/1(金)
+      weather: 晴
+      low: "-4°C"
+      high: "1°C"
+    - date: 1/2(土)
+      weather: 晴
+      low: "8°C"
+      high: "3°C"
+  note: 靜態展示用雪況資料，出發前請以官方與天氣頁面最新公告為準。
+location:
+  latitude: 35.9572
+  longitude: 136.805143
+elevation:
+  top: 1276
+  bottom: 1000
+  verticalDrop: 276
+courses:
+  total: 15
+  beginnerRatio: 20
+  intermediateRatio: 70
+  advancedRatio: 10
+  summary: 公開資料標示 15 條 course，海拔約 1,000m 到 1,276m，中級比例約 70%。雪場有 snow park、kids park，並標示全區可 snowboard。
+lifts:
+  total: 3
+access:
+  fromNagoya:
+    - label: 名古屋方向：鐵道轉計程車
+      steps:
+        - 搭乘鐵道至長良川鐵道 美濃白鳥站
+        - 由美濃白鳥站轉計程車前往雪場
+      estimatedTime: 車站後約 25 分
+      difficulty: medium
+      note: 冬季交通與計程車安排請行前確認。
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: 可由東海北陸自動車道 白鳥 IC，經國道 156 號與縣道 314 號前往，約 25 分。冬季請準備雪胎與雪道駕駛裝備。
+terrainSummary:
+  beginner: 初級比例約 20%，可作為暖身與基礎練習區域。
+  intermediate: 中級比例約 70%，整體更偏向已有基礎的滑雪者與 snowboarder 巡航。
+  advanced: 上級比例約 10%，可依當日雪況選擇挑戰路線。
+  snowboard: 官方資料標示全區可 snowboard，並有 park item。
+  powder: 公開資料標示有粉雪與非壓雪特色，降雪後請依開放狀態滑行。
+sources:
+  - label: Weathernews Mino Ski Area
+    url: https://weathernews.jp/ski/area/mino/
+  - label: Weathernews Snow Wave Park Shiratori Kogen
+    url: https://weathernews.jp/ski/spot/35221/
+  - label: Snow Wave Park Shiratori Kogen Official
+    url: https://siratori-k.jp/swp/
+  - label: Snow Wave Park Shiratori Kogen Ticket
+    url: https://siratori-k.jp/swp/price
+---
+Snow Wave Park 白鳥高原位在岐阜縣郡上市白鳥町石徹白一帶，公開資料標示 15 條 course 與 3 條 lift，中級比例較高。它有 snow park、kids park，也標示粉雪與非壓雪特色，適合已有基礎、想以中級巡航與地形變化為主的滑雪者與 snowboarder。
