@@ -160,6 +160,28 @@ courses:
     note: 全場最平緩的極緩坡雪道，完全不會有速度失控的恐懼感，極度適合零經驗新手第一趟練習。此外，雪場的單雙板特技公園（Snow Park）也設置於此區域，供玩家嘗試小跳台或道具。
 lifts:
   total: 3
+access:
+  fromSapporo:
+  - label: "札幌出發經旭川"
+    steps:
+    - "從札幌站搭特急列車到旭川站。"
+    - "從旭川站可轉乘 JR 到比布站，再搭雪季免費接駁巴士前往雪場。"
+    - "也可從旭川站前搭乘道北巴士直達雪場。"
+    estimatedTime: "約 2.5-3 小時"
+    difficulty: "medium"
+    note: "免費接駁巴士在雪場營業期間每日運行，旭川站前的道北巴士為付費路線；班次可能調整，出發前需確認時刻表。"
+  fromAirport:
+  - label: "旭川機場出發"
+    steps:
+    - "從旭川機場租車、計程車或包車，經道道 37 號與國道 40 號方向前往比布。"
+    - "依當日道路與積雪狀況前往 Pippu。"
+    estimatedTime: "約 50-60 分"
+    difficulty: "hard"
+    note: "機場後公開資料以車行時間為主；若不自駕，可先移動到旭川站，再轉乘道北巴士或經比布站接駁。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從旭川紋別自動車道比布北 IC 下交流道後約 3 分；旭川市區出發約 35 分，札幌市區經道央道約 2 小時。冬季需準備雪胎或防滑裝備。"
 externalContent:
   blogs: []
   vlogs:
@@ -185,6 +207,8 @@ sources:
   url: https://www.town.pippu.hokkaido.jp/ski/lift.html
 - label: Pippu Course Guide
   url: https://www.town.pippu.hokkaido.jp/ski/course.html
+- label: Pippu Access
+  url: https://www.town.pippu.hokkaido.jp/ski/access.html
 - label: Pippu Weathernews
   url: https://weathernews.jp/ski/spot/31208/
 ---
