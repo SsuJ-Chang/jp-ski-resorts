@@ -98,10 +98,26 @@ courses:
 lifts:
   total: 1
 access:
+  fromTokyo:
+    - label: "東京出發經高岡"
+      steps:
+        - "從東京搭北陸新幹線到新高岡或高岡周邊。"
+        - "從高岡站轉租車或計程車前往砺波夢之平。"
+      estimatedTime: "站後約 33 分"
+      difficulty: "hard"
+      note: "公開交通資料以車程為主，未列直達大眾運輸；若不自駕，建議先確認叫車與回程安排。"
+  fromAirport:
+    - label: "富山機場出發"
+      steps:
+        - "從富山機場租車或包車前往砺波市五谷方向。"
+        - "依當日道路狀況前往砺波夢之平停車場。"
+      estimatedTime: "約 40 分"
+      difficulty: "hard"
+      note: "雪場位於山側，冬季建議以雪胎車輛前往並預留道路積雪時間。"
   car:
     recommended: true
     snowTireRequired: true
-    note: "可由北陸自動車道砺波 IC，經國道 359 號前往，約 8km、15 分鐘。"
+    note: "可由北陸自動車道砺波 IC 前往，約 17-20 分鐘；官方也列出高岡站、城端站與小杉站後以車輛銜接。"
 terrainSummary:
   beginner: "初級雪道占 70%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 30%，適合已能穩定轉彎的滑雪者參考。"
@@ -110,6 +126,8 @@ terrainSummary:
 sources:
   - label: "となみ夢の平スキー場 Official"
     url: "https://ski.yumeno-taira.com/"
+  - label: "となみ夢の平スキー場 Access"
+    url: "https://ski.yumeno-taira.com/access/"
   - label: "Weathernews となみ夢の平スキー場"
     url: "https://weathernews.jp/ski/spot/35502/"
 ---

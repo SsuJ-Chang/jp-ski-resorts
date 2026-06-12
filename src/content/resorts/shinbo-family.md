@@ -92,10 +92,18 @@ courses:
 lifts:
   total: 1
 access:
+  fromOsaka:
+    - label: "大阪出發經武生"
+      steps:
+        - "從大阪方向搭 JR 特急與在來線到武生站。"
+        - "從武生站搭往池田町方向的巴士，在「菅生」下車後步行前往雪場。"
+      estimatedTime: "站後約 50 分"
+      difficulty: "hard"
+      note: "巴士班次需依當季與當日路線時刻確認；冬季若攜帶雪具，建議預留轉乘與步行時間。"
   car:
     recommended: true
     snowTireRequired: true
-    note: "可由北陸自動車道武生 IC，經國道 476 號前往，約 20km、35 分鐘。"
+    note: "可由北陸自動車道武生 IC 往池田町方向前往，約 20-30 分鐘；冬季山區道路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: "初級雪道占 50%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 50%，適合已能穩定轉彎的滑雪者參考。"

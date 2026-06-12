@@ -154,10 +154,25 @@ courses:
 lifts:
   total: 8
 access:
+  fromTokyo:
+    - label: "東京出發經福井・勝山"
+      steps:
+        - "從東京搭北陸新幹線到福井站。"
+        - "住宿旅客可從 JR 福井站搭預約制免費接駁；日歸可轉往勝山站或恐龍博物館後，再搭預約制免費接駁。"
+      difficulty: "medium"
+      note: "接駁巴士需事先上網預約，福井站路線以住宿旅客為主；運行時間請以預約頁與當季公告為準。"
+  fromAirport:
+    - label: "小松機場出發"
+      steps:
+        - "從小松機場租車或包車，經北陸自動車道與中部縱貫自動車道往勝山 IC。"
+        - "從勝山 IC 轉法恩寺山有料道路前往 Ski Jam 勝山。"
+      estimatedTime: "約 80 分"
+      difficulty: "hard"
+      note: "公開交通資料以車程為主；若不自駕，建議先移動到福井站或勝山站再銜接預約制接駁。"
   car:
     recommended: true
     snowTireRequired: true
-    note: "可由北陸自動車道福井北 IC 經中部縱貫自動車道，從勝山 IC 與法恩寺山有料道路前往，約 40 分鐘。"
+    note: "可由中部縱貫自動車道勝山 IC 前往，約 15km、20 分鐘；停車場約 3,400 台，雪季普通車與大型車皆需除雪協力金。"
 terrainSummary:
   beginner: "初級雪道占 30%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 40%，適合已能穩定轉彎的滑雪者參考。"
@@ -166,8 +181,9 @@ terrainSummary:
 sources:
   - label: "JAM福井勝山マウンテンリゾート Official"
     url: "https://jamresort.jp/"
+  - label: "JAM福井勝山マウンテンリゾート Access"
+    url: "https://jamresort.jp/access/"
   - label: "Weathernews スキージャム勝山"
     url: "https://weathernews.jp/ski/spot/35707/"
 ---
 Ski Jam 勝山位於福井縣勝山市，共有 14 條雪道與 8 座纜車，是福井縣清單中規模較大的雪場。
-

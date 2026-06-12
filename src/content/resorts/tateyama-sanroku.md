@@ -131,10 +131,26 @@ courses:
 lifts:
   total: 4
 access:
+  fromTokyo:
+    - label: "東京出發經富山・立山"
+      steps:
+        - "從東京搭北陸新幹線到富山站。"
+        - "轉乘富山地方鐵道立山線到立山站。"
+        - "從立山站前搭往らいちょうバレー、粟巣野、極楽坂方向的雪場周邊巴士。"
+      difficulty: "medium"
+      note: "立山站前的雪場周邊巴士有日文與英文時刻表；實際運行日與停靠雪區需以當季公告為準。"
+  fromAirport:
+    - label: "富山機場出發"
+      steps:
+        - "從富山機場搭巴士到 JR 富山站。"
+        - "轉乘富山地方鐵道立山線到立山站，再轉雪場周邊巴士前往各雪區。"
+      estimatedTime: "約 90 分"
+      difficulty: "medium"
+      note: "富山站與立山站的轉乘時間會影響總車程，建議先查好鐵道與雪場周邊巴士時刻。"
   car:
     recommended: true
     snowTireRequired: true
-    note: "可由北陸自動車道立山 IC，經立山公園線與縣道 6 號前往，約 25km、35 分鐘。"
+    note: "可由北陸自動車道立山 IC 下交流道，經縣道立山公園線前往，約 19km、35 分鐘；各雪區周邊設有免費停車場。"
 terrainSummary:
   beginner: "初級雪道占 30%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 40%，適合已能穩定轉彎的滑雪者參考。"
@@ -143,6 +159,8 @@ terrainSummary:
 sources:
   - label: "立山山麓スキー場 Official"
     url: "https://www.tateyama36.co.jp/"
+  - label: "立山山麓スキー場 Access"
+    url: "https://www.tateyama36.co.jp/access/"
   - label: "Weathernews 立山山麓スキー場"
     url: "https://weathernews.jp/ski/spot/35505/"
 ---

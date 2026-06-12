@@ -95,10 +95,19 @@ courses:
 lifts:
   total: 3
 access:
+  fromTokyo:
+    - label: "東京出發經富山・八尾"
+      steps:
+        - "從東京搭北陸新幹線到富山站。"
+        - "從富山站轉 JR 高山本線到越中八尾站。"
+        - "從八尾站搭市營巴士到山田中核型地区センター前，再轉往牛岳溫泉雪場的市營巴士臨時便。"
+      estimatedTime: "巴士約 35 分"
+      difficulty: "hard"
+      note: "官方列出的巴士轉乘表為建議銜接，實際時刻、臨時便與道路狀況需自行再確認。"
   car:
     recommended: true
     snowTireRequired: true
-    note: "可由北陸自動車道富山 IC，經國道 41、國道 359、縣道 59 與縣道 35 前往，約 20km、30 分鐘。"
+    note: "可由北陸自動車道富山 IC、富山西 IC、砺波 IC 或小杉 IC 銜接前往；富山西 IC、砺波 IC、小杉 IC 後約 30 分，富山 IC 後約 40 分。"
 terrainSummary:
   beginner: "初級雪道占 25%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 50%，適合已能穩定轉彎的滑雪者參考。"
@@ -107,6 +116,8 @@ terrainSummary:
 sources:
   - label: "牛岳温泉スキー場 Official"
     url: "https://ushidake.com/"
+  - label: "牛岳温泉スキー場 Access"
+    url: "https://ushidake.com/ski/access/"
   - label: "Weathernews 牛岳温泉スキー場"
     url: "https://weathernews.jp/ski/spot/35501/"
 ---

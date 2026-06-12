@@ -94,10 +94,18 @@ courses:
 lifts:
   total: 4
 access:
+  fromTokyo:
+    - label: "東京出發經城端"
+      steps:
+        - "從東京搭北陸新幹線到新高岡或富山，轉 JR 城端線到城端站。"
+        - "從城端站搭巴士到「ささら館前」，下車後步行前往雪場。"
+      estimatedTime: "步行約 20 分"
+      difficulty: "hard"
+      note: "巴士下車後仍需步行，雪具較多時建議評估計程車或自駕；班次與回程需出發前確認。"
   car:
     recommended: true
     snowTireRequired: true
-    note: "可由東海北陸自動車道五箇山 IC，經國道 156 號前往，約 4km、5 分鐘。"
+    note: "可由東海北陸自動車道五箇山 IC 前往，約 3-4km、5 分鐘；冬季道路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: "初級雪道占 40%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 50%，適合已能穩定轉彎的滑雪者參考。"

@@ -91,10 +91,27 @@ courses:
 lifts:
   total: 3
 access:
+  fromTokyo:
+    - label: "東京出發經黑部宇奈月溫泉"
+      steps:
+        - "從東京搭北陸新幹線到黑部宇奈月溫泉站，步行銜接富山地方鐵道新黑部站。"
+        - "轉乘富山地方鐵道到宇奈月溫泉站。"
+        - "從宇奈月溫泉站步行約 5 分到第 1 pair lift，銜接雪場。"
+      estimatedTime: "轉乘後約 30 分"
+      difficulty: "easy"
+      note: "雪場入口與溫泉街相鄰，仍需確認富山地方鐵道班次與回程時間。"
+  fromAirport:
+    - label: "富山機場出發"
+      steps:
+        - "從富山機場移動到富山站或黑部宇奈月溫泉站周邊。"
+        - "轉乘富山地方鐵道到宇奈月溫泉站後，步行前往第 1 pair lift。"
+      estimatedTime: "約 120 分"
+      difficulty: "medium"
+      note: "機場出發需銜接巴士、鐵道或包車，總時間會受轉乘等待影響。"
   car:
     recommended: true
     snowTireRequired: true
-    note: "可由北陸自動車道黑部 IC，經縣道 53 號前往，約 14km、20 分鐘。"
+    note: "可由北陸自動車道黑部 IC 前往，約 13km、20 分鐘；可停在宇奈月停車場後步行約 5 分銜接第 1 pair lift。"
 terrainSummary:
   beginner: "初級雪道占 50%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 30%，適合已能穩定轉彎的滑雪者參考。"
@@ -103,6 +120,8 @@ terrainSummary:
 sources:
   - label: "宇奈月温泉スキー場 Official"
     url: "https://www.unazuki-snowpark.com/"
+  - label: "宇奈月温泉スキー場 Access"
+    url: "https://www.unazuki-snowpark.com/access/"
   - label: "Weathernews 宇奈月温泉スキー場"
     url: "https://weathernews.jp/ski/spot/35511/"
 ---

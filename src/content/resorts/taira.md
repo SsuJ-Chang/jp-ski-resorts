@@ -100,10 +100,18 @@ courses:
 lifts:
   total: 4
 access:
+  fromTokyo:
+    - label: "東京出發經城端"
+      steps:
+        - "從東京搭北陸新幹線到新高岡或富山，轉 JR 城端線到城端站。"
+        - "從城端站轉乘巴士前往 Taira 方向。"
+      estimatedTime: "站後約 20 分"
+      difficulty: "medium"
+      note: "城端站後的巴士班次需出發前確認；回程時間也建議一併排好。"
   car:
     recommended: true
     snowTireRequired: true
-    note: "可由東海北陸自動車道五箇山 IC，經國道 156、國道 304 與縣道五箇山上平線前往，約 14km、20 分鐘。"
+    note: "可由東海北陸自動車道福光 IC，經國道 304 號前往，約 20 分鐘；冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: "初級雪道占 20%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 30%，適合已能穩定轉彎的滑雪者參考。"
