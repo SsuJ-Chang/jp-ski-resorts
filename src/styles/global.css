@@ -1126,6 +1126,127 @@ h1 {
   margin: 0;
 }
 
+.access-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr));
+  gap: 12px;
+}
+
+.access-card {
+  display: grid;
+  gap: 8px;
+  min-width: 0;
+  padding: 16px;
+  border: 1px solid rgba(23, 33, 31, 0.1);
+  border-radius: 8px;
+  background: rgba(245, 247, 244, 0.75);
+}
+
+.access-card__header {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 8px 14px;
+  align-items: flex-start;
+}
+
+.access-card__header > div:first-child {
+  min-width: 0;
+}
+
+.access-card__origin,
+.access-card h3,
+.access-card__note {
+  margin: 0;
+}
+
+.access-card__origin {
+  color: #526660;
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+}
+
+.access-card h3 {
+  margin-top: 3px;
+  color: #17211f;
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
+
+.access-card__badges {
+  display: flex;
+  flex: 0 1 auto;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: flex-end;
+  min-width: 0;
+  max-width: 240px;
+}
+
+.access-card__badges span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 5px 9px;
+  border: 1px solid rgba(23, 33, 31, 0.08);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.74);
+  color: #334643;
+  font-size: 0.78rem;
+  font-weight: 800;
+  line-height: 1.35;
+}
+
+.access-steps {
+  display: grid;
+  gap: 14px;
+  margin: 0;
+  padding: 0;
+  color: #334643;
+  counter-reset: access-step;
+  list-style: none;
+}
+
+.access-steps li {
+  position: relative;
+  min-height: 24px;
+  padding-left: 30px;
+  line-height: 1.65;
+}
+
+.access-steps li::before {
+  position: absolute;
+  top: 0.2em;
+  left: 0;
+  display: grid;
+  place-items: center;
+  width: 21px;
+  height: 21px;
+  border-radius: 999px;
+  background: #dfe8df;
+  color: #334643;
+  font-size: 0.72rem;
+  font-weight: 900;
+  content: counter(access-step);
+  counter-increment: access-step;
+}
+
+.access-steps li:not(:last-child)::after {
+  position: absolute;
+  top: 29px;
+  left: 10px;
+  width: 1px;
+  height: 14px;
+  background: rgba(51, 70, 67, 0.15);
+  content: "";
+}
+
+.access-card__note {
+  color: #526660;
+  font-size: 0.88rem;
+  line-height: 1.65;
+}
+
 .ticket-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1135,6 +1256,7 @@ h1 {
 .ticket-card {
   display: grid;
   gap: 8px;
+  min-width: 0;
   padding: 16px;
   border: 1px solid rgba(23, 33, 31, 0.1);
   border-radius: 8px;
@@ -1813,6 +1935,16 @@ h1 {
 
   .home-hero__lead {
     font-size: 0.95rem;
+  }
+
+  .access-card__header {
+    grid-template-columns: 1fr;
+  }
+
+  .access-card__badges {
+    justify-content: flex-start;
+    max-width: none;
+    min-width: 0;
   }
 
   .course-difficulty-chart {

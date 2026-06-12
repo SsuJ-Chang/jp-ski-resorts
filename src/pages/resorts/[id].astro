@@ -80,6 +80,21 @@ const elevationLabel = [
 ]
   .filter(Boolean)
   .join('、')
+const accessRouteGroups = [
+  { origin: '東京出發', routes: resort.data.access?.fromTokyo },
+  { origin: '大阪出發', routes: resort.data.access?.fromOsaka },
+  { origin: '名古屋出發', routes: resort.data.access?.fromNagoya },
+  { origin: '札幌出發', routes: resort.data.access?.fromSapporo },
+  { origin: '機場出發', routes: resort.data.access?.fromAirport },
+]
+const accessRoutes = accessRouteGroups.flatMap((group) =>
+  (group.routes ?? []).map((route) => ({
+    origin: group.origin,
+    route,
+  })),
+)
+const carAccess = resort.data.access?.car
+const hasAccessInfo = accessRoutes.length > 0 || Boolean(carAccess)
 ---
 
 <BaseLayout
@@ -181,6 +196,59 @@ const elevationLabel = [
               )}
             </dl>
             {resort.data.season.note && <p class="panel-note">{resort.data.season.note}</p>}
+          </section>
+        )
+      }
+
+      {
+        hasAccessInfo && (
+          <section class="info-panel detail-panel detail-panel--wide access-panel" aria-labelledby="access-heading">
+            <div class="section-heading-row">
+              <h2 id="access-heading">交通方式</h2>
+              {resort.data.links.access && (
+                <a href={resort.data.links.access} target="_blank" rel="noreferrer">
+                  官方交通資訊
+                </a>
+              )}
+            </div>
+            <div class="access-grid">
+              {accessRoutes.map((item) => (
+                <article class="access-card">
+                  <div class="access-card__header">
+                    <div>
+                      <p class="access-card__origin">{item.origin}</p>
+                      <h3>{item.route.label}</h3>
+                    </div>
+                    {item.route.estimatedTime && (
+                      <div class="access-card__badges">
+                        <span>{item.route.estimatedTime}</span>
+                      </div>
+                    )}
+                  </div>
+                  <ol class="access-steps">
+                    {item.route.steps.map((step) => (
+                      <li>{step}</li>
+                    ))}
+                  </ol>
+                  {item.route.note && <p class="access-card__note">{item.route.note}</p>}
+                </article>
+              ))}
+              {carAccess && (
+                <article class="access-card">
+                  <div class="access-card__header">
+                    <div>
+                      <p class="access-card__origin">自駕</p>
+                      <h3>開車前往</h3>
+                    </div>
+                    <div class="access-card__badges">
+                      <span>{carAccess.recommended ? '建議自駕' : '大眾運輸優先'}</span>
+                      <span>{carAccess.snowTireRequired ? '需雪胎／雪鏈' : '依路況準備防滑裝備'}</span>
+                    </div>
+                  </div>
+                  {carAccess.note && <p class="access-card__note">{carAccess.note}</p>}
+                </article>
+              )}
+            </div>
           </section>
         )
       }
