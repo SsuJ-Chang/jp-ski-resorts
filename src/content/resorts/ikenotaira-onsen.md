@@ -117,10 +117,14 @@ courses:
     difficulty: beginner
     length: 1,300m
     note: 官方列為初級林間雪道；官方資料並列出全長 1,300m。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=345s
   - name: ガッシュタイナーコース / Gasteiner Course
     difficulty: beginner
     length: 1,600m
     note: 官方列為初級路線；官方資料並列出全長 1,600m。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=713s
   - name: カヤバゲレンデ / Kayaba Slope
     difficulty: beginner
     length: 750m
@@ -137,10 +141,14 @@ courses:
     difficulty: intermediate
     length: 1,500m
     note: 官方列為中級路線；官方資料並列出全長 1,500m。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=197s
   - name: ヤッホーコース / Yahoo Course
     difficulty: intermediate
     length: 2,300m
     note: 官方列為中級路線；官方資料並列出全長 2,300m。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=439s
   - name: クワッド3コース / Quad 3 Course
     difficulty: intermediate
     length: 1,500m
@@ -149,6 +157,8 @@ courses:
     difficulty: intermediate
     length: 850m
     note: 官方列為中級的公園專用路線；官方資料並列出全長 850m。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=287s
   - name: カプセルペアコース / Capsule Pair Course
     difficulty: intermediate
     length: 1,100m
@@ -161,6 +171,8 @@ courses:
     difficulty: intermediate
     length: 1,500m
     note: 官方列為中級樹林滑行路線；官方資料並列出全長 1,500m。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=1501s
   - name: ツリーランコース / Tree Run Course
     difficulty: intermediate
     length: 750m
@@ -173,6 +185,8 @@ courses:
     difficulty: advanced
     length: 900m
     note: 官方列為上級路線；官方資料並列出全長 900m。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=622s
   - name: しらかばコース / Shirakaba Course
     difficulty: advanced
     length: 2,500m
@@ -211,5 +225,8 @@ sources:
   url: https://alpenblick-resort.com/access
 - label: Ikenotaira Onsen Weathernews
   url: https://weathernews.jp/ski/spot/35413/
+- label: Real Japan Nature YouTube Course Video
+  url: https://www.youtube.com/watch?v=KEAamblTuXo
+  note: 影片說明欄提供池之平各雪道章節秒數，已對應至 courses.details[].videoLinks。
 ---
 池之平位於新潟縣妙高市池之平溫泉周邊，官方雪道資料以寬廣初級路線、中級巡航、樹林滑行與公園路線構成，適合排入妙高高原住宿型多雪場行程。
