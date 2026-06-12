@@ -15,6 +15,7 @@ visibility:
 links:
   official: "http://www.eboshi.co.jp/"
   weather: "https://weathernews.jp/ski/spot/33404/"
+  access: "https://eboshi.co.jp/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Miyagi%20Zao%20Eboshi%20Resort"
 contact:
   address:
@@ -111,6 +112,27 @@ courses:
       length: "650m"
 lifts:
   total: 6
+access:
+  fromTokyo:
+    - label: "東京出發經仙台直達巴士"
+      steps:
+        - "從東京搭東北新幹線到仙台站。"
+        - "從仙台站東口或地下鐵長町南站，轉乘完全預約制滑雪巴士前往雪場。"
+      estimatedTime: "仙台後約 2 小時"
+      difficulty: "medium"
+      note: "直達巴士依雪季期間與指定日期運行，需事前預約，且可能有最低成行人數限制。"
+  fromAirport:
+    - label: "仙台機場出發"
+      steps:
+        - "從仙台機場租車或包車，往藏王町遠刈田溫泉方向移動。"
+        - "依當日道路與積雪狀況前往宮城藏王 Eboshi Resort。"
+      estimatedTime: "約 60 分"
+      difficulty: "hard"
+      note: "不自駕時可先移動到仙台市區，再視當季運行日銜接預約制滑雪巴士。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從東北自動車道村田 IC 或白石 IC 下交流道後約 30 分；仙台站出發約 60 分。雪場道路雖設有融雪設備，冬季仍需準備雪胎或防滑裝備。"
 terrainSummary:
   beginner: "宮城藏王 Eboshi Resort 初級雪道占 50%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 30%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
@@ -122,6 +144,8 @@ externalContent:
 sources:
   - label: "みやぎ蔵王えぼしリゾート Official Website"
     url: "http://www.eboshi.co.jp/"
+  - label: "みやぎ蔵王えぼしリゾート Access"
+    url: "https://eboshi.co.jp/access/"
   - label: "Weathernews みやぎ蔵王えぼしリゾート"
     url: "https://weathernews.jp/ski/spot/33404/"
   - label: "Weathernews 東北のスキー場人気ランキング"

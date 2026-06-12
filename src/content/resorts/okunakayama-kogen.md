@@ -17,6 +17,7 @@ visibility:
 links:
   official: "https://www.okunakayamakogen.jp/"
   weather: "https://weathernews.jp/ski/spot/33317/"
+  access: "https://www.okunakayamakogen.jp/access"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Okunakayama%20Kogen%20Ski%20Resort"
 contact:
   address:
@@ -126,6 +127,20 @@ courses:
       maxSlope: "28°"
 lifts:
   total: 4
+access:
+  fromTokyo:
+    - label: "東京出發經盛岡或岩手沼宮內"
+      steps:
+        - "從東京搭東北、秋田新幹線到盛岡站或岩手沼宮內站。"
+        - "轉乘 IGR 岩手銀河鐵道到奧中山高原站。"
+        - "從奧中山高原站轉乘巴士前往雪場。"
+      estimatedTime: "站後約 10 分"
+      difficulty: "medium"
+      note: "東京到盛岡約 2 小時 30 分，盛岡到奧中山高原約 40 分；也可經岩手沼宮內轉乘，請先確認鐵道與巴士班次。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "東京方向可從東北自動車道瀧澤 IC 經國道 4 號北上約 50 分；八戶方向可從八戶自動車道一戶 IC 經國道 4 號南下約 40 分。冬季需準備雪胎或防滑裝備。"
 terrainSummary:
   beginner: "奧中山高原初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 40%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
@@ -137,6 +152,8 @@ externalContent:
 sources:
   - label: "奥中山高原スキー場 Official Website"
     url: "https://www.okunakayamakogen.jp/"
+  - label: "奥中山高原 Access"
+    url: "https://www.okunakayamakogen.jp/access"
   - label: "Weathernews 奥中山高原スキー場"
     url: "https://weathernews.jp/ski/spot/33317/"
   - label: "Weathernews 東北のスキー場人気ランキング"

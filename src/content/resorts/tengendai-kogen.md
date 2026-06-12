@@ -16,6 +16,7 @@ visibility:
 links:
   official: "https://www.tengendai.jp"
   weather: "https://weathernews.jp/ski/spot/33506/"
+  access: "https://www.tengendai.jp/access"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Tengendai%20Kogen%20Ski%20Resort"
 contact:
   address:
@@ -93,6 +94,27 @@ courses:
       length: "3,000m"
 lifts:
   total: 3
+access:
+  fromTokyo:
+    - label: "東京出發經米澤"
+      steps:
+        - "從東京搭山形新幹線到米澤站。"
+        - "從米澤站轉乘山交巴士米澤至白布溫泉方向班次。"
+        - "抵達白布溫泉、天元台周邊後，前往纜車山麓站。"
+      estimatedTime: "站後約 40 分"
+      difficulty: "medium"
+      note: "米澤站後班次以山交巴士時刻為準；請同時確認天元台纜車營運狀況。"
+  fromAirport:
+    - label: "仙台或山形機場出發"
+      steps:
+        - "從機場先移動到米澤站或租車往米澤、白布溫泉方向移動。"
+        - "搭乘山交巴士或開車前往天元台高原纜車山麓站。"
+      difficulty: "hard"
+      note: "機場出發需依航班與地面交通重新組合路線；若行李較多，自駕或包車會較容易掌握時間。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "停車場位於纜車山麓站「湯元站」周邊，約可停 300 台且免費。冬季山路與高海拔路段需準備雪胎或防滑裝備。"
 terrainSummary:
   beginner: "天元台高原初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 40%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
@@ -105,6 +127,8 @@ externalContent:
 sources:
   - label: "天元台高原 Official Website"
     url: "https://www.tengendai.jp"
+  - label: "天元台高原 Access"
+    url: "https://www.tengendai.jp/access"
   - label: "Weathernews 天元台高原"
     url: "https://weathernews.jp/ski/spot/33506/"
   - label: "Weathernews 東北のスキー場人気ランキング"

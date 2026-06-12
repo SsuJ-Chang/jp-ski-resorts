@@ -20,6 +20,7 @@ visibility:
 links:
   official: "https://zaomountainresort.com/"
   weather: "https://weathernews.jp/ski/spot/33501/"
+  access: "https://zaomountainresort.com/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Zao%20Onsen%20Ski%20Resort"
 contact:
   address:
@@ -117,6 +118,28 @@ courses:
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
 lifts:
   total: 32
+access:
+  fromTokyo:
+    - label: "東京出發經山形"
+      steps:
+        - "從東京搭山形新幹線到山形站。"
+        - "從山形站轉乘巴士前往藏王溫泉。"
+        - "抵達藏王溫泉後，依住宿或滑行入口步行、接駁或搭乘當地交通移動。"
+      estimatedTime: "站後約 45 分"
+      difficulty: "medium"
+      note: "藏王溫泉範圍大，請依住宿位置、纜車站與當日巴士班次安排下車點。"
+  fromAirport:
+    - label: "山形機場出發"
+      steps:
+        - "從山形機場搭乘共乘計程車、計程車或接駁交通往藏王溫泉。"
+        - "抵達藏王溫泉後，依住宿或滑行入口移動。"
+      estimatedTime: "約 60 分"
+      difficulty: "medium"
+      note: "共乘計程車與巴士需依當季公告與預約規則確認；若先到山形站，仍可轉乘往藏王溫泉的巴士。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從仙台宮城 IC 經山形藏王 IC 約 66 分；從首都圈川口 JCT 經山形藏王 IC 約 288 分。冬季需準備雪胎或防滑裝備，並留意藏王溫泉內停車場位置。"
 terrainSummary:
   beginner: "藏王溫泉初級雪道占 40%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 40%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
@@ -129,6 +152,8 @@ externalContent:
 sources:
   - label: "蔵王温泉スキー場 Official Website"
     url: "https://zaomountainresort.com/"
+  - label: "蔵王温泉 Access"
+    url: "https://zaomountainresort.com/access/"
   - label: "Weathernews 蔵王温泉スキー場"
     url: "https://weathernews.jp/ski/spot/33501/"
   - label: "Weathernews 東北のスキー場人気ランキング"

@@ -88,6 +88,28 @@ courses:
       note: "坡度變化較多的雪道，實際開放請以當日公告為準。"
 lifts:
   total: 2
+access:
+  fromTokyo:
+    - label: "東京出發經八戶"
+      steps:
+        - "從東京搭東北新幹線到八戶站。"
+        - "從八戶站轉乘巴士往奧入瀨溪流溫泉、燒山方向。"
+        - "下車後依住宿或當地交通安排前往雪場。"
+      estimatedTime: "站後約 85 分"
+      difficulty: "medium"
+      note: "也可經三澤站轉巴士，站後約 50 分；冬季班次與下車點需出發前確認。"
+  fromAirport:
+    - label: "三澤機場出發"
+      steps:
+        - "從三澤機場租車或包車，往十和田市燒山方向移動。"
+        - "依當日道路與積雪狀況前往奧入瀨溪流溫泉。"
+      estimatedTime: "約 60 分"
+      difficulty: "hard"
+      note: "機場後公開資料以車行時間為主，不自駕時建議事先確認巴士或住宿接送。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從下田百石 IC 往燒山方向約 70 分；從十和田南 IC 往燒山方向約 95 分。冬季請準備雪胎或防滑裝備。"
 terrainSummary:
   beginner: "奧入瀨溪流溫泉初級雪道占 70%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 25%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"

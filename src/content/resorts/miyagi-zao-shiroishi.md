@@ -15,6 +15,7 @@ visibility:
 links:
   official: "http://www.nposki.com"
   weather: "https://weathernews.jp/ski/spot/33411/"
+  access: "https://www.nposki.com/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Miyagi%20Zao%20Shiroishi%20Ski%20Resort"
 contact:
   address:
@@ -107,6 +108,27 @@ courses:
       averageSlope: 35°
 lifts:
   total: 4
+access:
+  fromTokyo:
+    - label: "東京出發經白石藏王"
+      steps:
+        - "從東京搭東北新幹線到白石藏王站。"
+        - "從白石藏王站轉乘預約制免費接駁巴士，經白石站前往雪場。"
+      estimatedTime: "站後約 50 分"
+      difficulty: "medium"
+      note: "免費接駁巴士需事前預約，主要在週末假日、年末年始與部分 3 月平日運行；名額額滿即停止受理。"
+  fromAirport:
+    - label: "仙台機場出發"
+      steps:
+        - "從仙台機場租車或包車，往白石市與南藏王方向移動。"
+        - "依當日道路與積雪狀況前往宮城藏王白石。"
+      estimatedTime: "約 60 分"
+      difficulty: "hard"
+      note: "若以大眾運輸移動，可先前往白石藏王或白石站，再確認當季接駁巴士運行日。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從東北自動車道白石 IC 下交流道後約 30 分；冬季山區道路需準備雪胎或防滑裝備。"
 terrainSummary:
   beginner: "宮城藏王白石初級雪道占 40%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 30%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
@@ -119,6 +141,8 @@ externalContent:
 sources:
   - label: "みやぎ蔵王白石スキー場 Official Website"
     url: "http://www.nposki.com"
+  - label: "みやぎ蔵王白石スキー場 Access"
+    url: "https://www.nposki.com/access/"
   - label: "Weathernews みやぎ蔵王白石スキー場"
     url: "https://weathernews.jp/ski/spot/33411/"
   - label: "Weathernews 東北のスキー場人気ランキング"

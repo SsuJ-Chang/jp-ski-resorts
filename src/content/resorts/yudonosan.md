@@ -16,6 +16,7 @@ visibility:
 links:
   official: "https://yudonosan.com/"
   weather: "https://weathernews.jp/ski/spot/33505/"
+  access: "https://yudonosan.com/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Yudonosan%20Ski%20Resort"
 contact:
   address:
@@ -107,6 +108,27 @@ courses:
       difficulty: mixed
 lifts:
   total: 2
+access:
+  fromTokyo:
+    - label: "東京出發經鶴岡"
+      steps:
+        - "從東京方向搭新幹線與在來線，或改搭高速巴士、飛機等方式前往鶴岡。"
+        - "從鶴岡站轉乘租車、計程車或包車，往國道 112 號與湯殿山方向移動。"
+      estimatedTime: "鶴岡後約 40 分"
+      difficulty: "hard"
+      note: "鶴岡後公開資料以車行時間為主；不自駕時建議先安排回程交通或住宿接送。"
+  fromAirport:
+    - label: "庄內機場出發"
+      steps:
+        - "從庄內機場租車、計程車或包車，往鶴岡與湯殿山方向移動。"
+        - "依當日道路與積雪狀況前往湯殿山。"
+      estimatedTime: "約 40 分"
+      difficulty: "hard"
+      note: "機場後公開資料以車行時間為主；冬季請先確認道路與回程交通。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從山形自動車道湯殿山 IC 下交流道後約 10 分，月山 IC 下交流道後約 20 分；從鶴岡或酒田出發約 40 分，山形出發約 90 分。冬季需準備雪胎或防滑裝備。"
 terrainSummary:
   beginner: "湯殿山初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 50%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
@@ -119,6 +141,8 @@ externalContent:
 sources:
   - label: "湯殿山スキー場 Official Website"
     url: "https://yudonosan.com/"
+  - label: "湯殿山スキー場 Access"
+    url: "https://yudonosan.com/access/"
   - label: "Weathernews 湯殿山スキー場"
     url: "https://weathernews.jp/ski/spot/33505/"
   - label: "Weathernews 東北のスキー場人気ランキング"
