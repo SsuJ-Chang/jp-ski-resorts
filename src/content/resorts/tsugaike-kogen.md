@@ -163,12 +163,29 @@ courses:
     note: 栂池名物難路線，沿著像馬背般狹窄的尾根滑行。官方說明最大斜度 32°，連續大型雪丘會遮住滑行者身影，晴天時可眺望富士山。
 lifts:
   total: 16
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站東口搭長野－白馬線特急巴士，於栂池高原下車。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "medium"
+      note: "長野－白馬線會依季節與班次調整停靠站，滑雪季建議先確認當季時刻表與回程末班車。"
+  car:
+    recommended: false
+    snowTireRequired: true
+    note: "自駕可由長野 IC、安曇野 IC 或糸魚川 IC 轉一般道路前往；栂池高原周邊有多處停車場，部分停車場、特定日或預約車位可能收費。白馬山區冬季需準備雪胎或雪鏈。"
 externalContent:
   blogs: []
   vlogs: []
 sources:
 - label: Tsugaike Mountain Resort Official Website
   url: https://www.tsugaike.gr.jp/snow
+- label: Tsugaike Mountain Resort Access
+  url: https://www.tsugaike.gr.jp/snow/access
+- label: Alpico Nagano-Hakuba Express Bus
+  url: https://www.alpico.co.jp/traffic/express/nagano_hakuba/
 - label: Tsugaike Gelande
   url: https://www.tsugaike.gr.jp/snow/gelande
 - label: Tsugaike Lift Fee

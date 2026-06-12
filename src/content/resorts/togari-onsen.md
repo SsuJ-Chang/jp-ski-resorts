@@ -16,6 +16,7 @@ tags:
 links:
   official: https://togari.jp
   weather: https://weathernews.jp/ski/spot/34832/
+  access: https://togari.jp/winter/access/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Togari%20Onsen%20Ski%20Resort
 contact:
   address:
@@ -179,6 +180,19 @@ courses:
     note: 具獨特地形與粉雪的路線，山頂景觀佳且有初級路線並行。
 lifts:
   total: 4
+access:
+  fromTokyo:
+    - label: "東京出發經飯山"
+      steps:
+        - "從東京搭北陸新幹線到飯山站。"
+        - "從飯山站搭直結接駁巴士或計程車前往戶狩溫泉。"
+      estimatedTime: "飯山後約 20 分"
+      difficulty: "easy"
+      note: "滑雪季有飯山站與雪場之間的接駁巴士，也可從戶狩野澤溫泉站搭計程車約 5 分；班次、費用與停靠點需先確認。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從上信越自動車道豐田飯山 IC 約 25 分。普通車停車免費，巴士車輛另收費；停車場不建議車宿，冬季需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: 初級約 40%，可從山麓與主要區域安排練習。
   intermediate: 中級約 40%，適合有基礎後銜接不同區域。
@@ -191,5 +205,7 @@ sources:
   url: https://weathernews.jp/ski/spot/34832/
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
+- label: TOGARI SKI RESORT Access
+  url: https://togari.jp/winter/access/
 ---
 戶狩溫泉位於長野縣飯山市，它兼具粉雪、地形、溫泉與餐飲活動，並可由飯山站或戶狩野澤溫泉站轉乘前往。

@@ -16,7 +16,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://yokoteyama2307.com/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Shibutoge%20Ski%20Area%20Shiga%20Kogen
@@ -101,6 +101,19 @@ courses:
     note: 官方雪道資料列為中級路線，全長 600m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 1
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站轉乘志賀高原方向巴士，前往橫手山、澀峠周邊站點。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "medium"
+      note: "也可利用湯田中站至橫手山、澀峠的預約制免費接駁；此區海拔高且位置深，需先確認巴士、接駁與纜車營運。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從信州中野 IC 經志賀中野有料道路與國道 292 號進入志賀高原，再依指標往橫手山、澀峠。冬季路況嚴格，需準備雪胎或雪鏈；草津萬座路線為夏季路線。"
 terrainSummary:
   beginner: Waver 與 Simple Course 是主要初級動線。
   intermediate: Gemse Course 是官方標示的中級雪道。
@@ -115,5 +128,7 @@ sources:
   url: https://yokoteyama2307.com/
 - label: Weathernews 横手山・渋峠スキー場
   url: https://weathernews.jp/ski/spot/34804/
+- label: Yokoteyama Shibutoge Access
+  url: https://yokoteyama2307.com/access/
 ---
 澀峠是志賀高原最東南側的小型高海拔區域，雪道數少，常與橫手山一起安排。官方列出的雪道以初級與中級為主，實際滑行前應先確認纜車是否開放。

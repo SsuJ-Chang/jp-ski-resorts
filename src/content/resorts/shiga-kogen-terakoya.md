@@ -15,7 +15,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Terakoya%20Ski%20Area%20Shiga%20Kogen
@@ -99,6 +99,19 @@ courses:
     note: 位於 2,100m 級高海拔，官方說明可享受天然粉雪。
 lifts:
   total: 2
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站東口搭直達巴士前往志賀高原，於一之瀨或高天原周邊下車後，利用雪場內纜車與滑行動線銜接。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "hard"
+      note: "寺小屋位於中央區域高海拔帶，進出高度依賴纜車、連絡雪道與當日開放狀況，需先確認回程動線。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "自駕可先到一之瀨或高天原周邊停車，再利用雪場內動線前往；從信州中野 IC 經國道 292 號進入志賀高原，冬季需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: Connection Course 可銜接東館山 Forest Course。
   intermediate: Eternal、Philosophy、LIPS 三條中級路線集中在高海拔區。
@@ -109,5 +122,7 @@ sources:
   url: https://www.shigakogen.gr.jp/english/lift_information/
 - label: Shiga Kogen Lift Ticket
   url: https://shigakogen-ski.or.jp/winter/ticket/
+- label: Shiga Kogen Access
+  url: https://shigakogen-ski.or.jp/access/
 ---
 志賀高原寺小屋位於中央區域高海拔帶，雪質與景觀是主要特色。雪道數不多，但可連接東館山 Forest Course，適合安排中央區域長距離滑行。

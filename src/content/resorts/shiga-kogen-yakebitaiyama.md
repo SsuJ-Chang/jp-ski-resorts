@@ -18,7 +18,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://www.princehotels.co.jp/ski/shiga/winter/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Yakebitaiyama%20Ski%20Area%20Shiga%20Kogen
@@ -143,6 +143,19 @@ courses:
     note: 官方雪道資料列為上級路線，全長 800m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 5
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站東口搭往奧志賀高原方向的急行巴士，於燒額山或志賀高原王子飯店周邊站點下車。"
+      estimatedTime: "長野後約 1 小時 24 分"
+      difficulty: "medium"
+      note: "燒額山位於志賀高原東側，適合配合志賀高原王子飯店一帶安排；巴士班次與停靠點需先確認。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從上信越自動車道信州中野 IC 約 30km、平常約 45 分。志賀高原內沒有加油站，建議先補給；燒額山免費停車場約 1,500 台。"
 terrainSummary:
   beginner: 初級雪道集中在飯店前與全景線周邊，適合在東側區域移動。
   intermediate: 多條 1,000m 以上中級線可串接，包含山溪線、全景線與 GS 線。
@@ -157,5 +170,7 @@ sources:
   url: https://www.princehotels.co.jp/ski/shiga/winter/
 - label: Weathernews 志賀高原焼額山
   url: https://weathernews.jp/ski/spot/34803/
+- label: Shiga Kogen Yakebitaiyama Access
+  url: https://www.princehotels.co.jp/ski/shiga/winter/access/
 ---
 燒額山位於志賀高原東側，是雪道數與纜車配置都較完整的區域。住宿、纜車與雪道動線靠近王子飯店一帶，適合把它當成志賀高原東側行程的主要據點。

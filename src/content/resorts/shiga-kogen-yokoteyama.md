@@ -17,7 +17,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://yokoteyama2307.com/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Yokoteyama%20Ski%20Area%20Shiga%20Kogen
@@ -142,6 +142,19 @@ courses:
     note: 官方雪道資料列為上級路線，全長 1,300m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 12
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站轉乘志賀高原方向巴士，前往橫手山、澀峠周邊站點。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "medium"
+      note: "也可利用湯田中站至橫手山、澀峠的預約制免費接駁；高海拔區域天候變化快，需先確認巴士、接駁與纜車營運。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從信州中野 IC 經志賀中野有料道路與國道 292 號進入志賀高原，再依指標前往橫手山。冬季需準備雪胎或雪鏈；草津萬座路線為夏季路線。"
 terrainSummary:
   beginner: 初級線集中在 No.2 Beginners 與 Ocean Course。
   intermediate: No.1 Gelende 是官方標示的中級雪道。
@@ -156,5 +169,7 @@ sources:
   url: https://yokoteyama2307.com/
 - label: Weathernews 横手山・渋峠スキー場
   url: https://weathernews.jp/ski/spot/34804/
+- label: Yokoteyama Access
+  url: https://yokoteyama2307.com/access/
 ---
 橫手山位於志賀高原南東側，海拔感與高難度雪道比例是它的特色。官方雪道表顯示進階線很多，初學者若要排這一區，最好先確認當日開放雪道與回程交通。

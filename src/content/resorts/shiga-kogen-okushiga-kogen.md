@@ -17,7 +17,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Okushiga%20Kogen%20Ski%20Area
@@ -123,6 +123,19 @@ courses:
     note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
 lifts:
   total: 6
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站東口搭往奧志賀高原方向的直達巴士，於奧志賀高原周邊站點下車。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "medium"
+      note: "奧志賀高原位於志賀高原東北端，回程巴士與跨區纜車時間要特別確認。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發到志賀高原約 3 小時 30 分。奧志賀高原周邊停車合計約 900 台，冬季需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: Forest Course 與 No.1、No.4 初級線提供內側區域的入門動線。
   intermediate: 官方即時狀態頁未把雪道標示為中級，主要以初級與進階線組成。
@@ -135,5 +148,7 @@ sources:
   url: https://shigakogen-ski.or.jp/winter/ticket/
 - label: Okushiga Kogen Official
   url: https://okushigakogenresort.com/
+- label: Shiga Kogen Access
+  url: https://shigakogen-ski.or.jp/access/
 ---
 奧志賀高原在志賀高原東北端，位置較深，常被安排成與燒額山一起滑的區域。官方雪道分類以初級線與進階線為主，行程規劃時要留意回程纜車與巴士時間。

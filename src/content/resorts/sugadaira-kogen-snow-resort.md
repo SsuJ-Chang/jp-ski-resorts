@@ -18,6 +18,7 @@ links:
   weather: https://weathernews.jp/ski/spot/34816/
   trailMapPage: https://yukiyama-app-dl.s3-ap-northeast-1.amazonaws.com/webmap/index.html?id=204
   trailMapPdf: https://sugadaira-snowresort.com/wp2/wp-content/uploads/2025/10/sugadaira_map.pdf
+  access: https://sugadaira-snowresort.com/access/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Sugadaira%20Kogen%20Snow%20Resort
 contact:
   address:
@@ -279,6 +280,19 @@ courses:
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
 lifts:
   total: 18
+access:
+  fromTokyo:
+    - label: "東京出發經上田"
+      steps:
+        - "從東京搭北陸新幹線到上田站。"
+        - "從上田站轉乘菅平方向巴士、週末假日直達巴士或計程車前往菅平高原。"
+      estimatedTime: "上田後約 50 分"
+      difficulty: "medium"
+      note: "直達巴士主要在 2026/1/4-3/29 的週六、週日與國定假日運行；場內跨區可利用路線巴士或雪場接駁，時刻需先確認。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "東京方向自駕約 2 小時 30 分，也可由上田菅平 IC 接一般道路前往。全區停車約 3,000 台且全日免費；道路雖有除雪，仍需使用冬胎，須坂側部分路段較陡。"
 terrainSummary:
   beginner: 初級雪道約 20%，可作為練習坡與暖身路線規劃參考。
   intermediate: 中級雪道比例最高，適合想在大範圍高原雪道巡航的滑雪者。
@@ -293,5 +307,7 @@ sources:
   url: https://weathernews.jp/ski/spot/34816/
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
+- label: Sugadaira Kogen Snow Resort Access
+  url: https://sugadaira-snowresort.com/access/
 ---
 菅平高原 Snow Resort 位於長野縣上田市，它以首都圈交通距離、寬廣高原雪道與 60 條雪道規模為特色。資料先以公開資料與官方網站作為靜態初版，實際營業與票價請以官方公告為準。

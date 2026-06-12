@@ -15,7 +15,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Takamagahara%20Mammoth%20Ski%20Area%20Shiga%20Kogen
@@ -91,6 +91,19 @@ courses:
     note: 位於中央區域核心，上段有未壓雪與饅頭地形。
 lifts:
   total: 4
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站東口搭直達巴士前往志賀高原，於高天原或一之瀨周邊站點下車。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "medium"
+      note: "高天原 Mammoth 是中央區域核心節點，下車點需配合住宿位置、當日滑行動線與巴士時刻。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。高天原區域停車合計約 200 台，部分為住宿者專用。"
 terrainSummary:
   beginner: 下段 500m 是中央區域核心的初級斜面。
   intermediate: 上段含未壓雪與饅頭地形，難度比下段高。
@@ -100,5 +113,7 @@ sources:
   url: https://www.shigakogen.gr.jp/english/lift_information/
 - label: Shiga Kogen Lift Ticket
   url: https://shigakogen-ski.or.jp/winter/ticket/
+- label: Shiga Kogen Access
+  url: https://shigakogen-ski.or.jp/access/
 ---
 志賀高原高天原 Mammoth 是中央區域核心節點，路線可接往東館山、Tanne no Mori Okojo 與西館山，適合做區域移動與中央區域巡航。

@@ -16,7 +16,7 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://www.shigakogen.gr.jp/english/access/
+  access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Tanne%20no%20Mori%20Okojo%20Ski%20Area%20Shiga%20Kogen
@@ -88,6 +88,19 @@ courses:
     note: 在樹林間緩坡滑行，初學者也能感受類似樹林滑行的氣氛。
 lifts:
   total: 1
+access:
+  fromTokyo:
+    - label: "東京出發經長野"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站東口搭直達巴士前往志賀高原，於一之瀨、高天原或周邊站點下車。"
+      estimatedTime: "長野後約 1.5-2 小時"
+      difficulty: "medium"
+      note: "Tanne no Mori Okojo 位於一之瀨與高天原之間，適合配合中央區域住宿或滑行動線進出。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。可利用一之瀨區域停車，合計約 1,300 台，部分為住宿者專用。"
 terrainSummary:
   beginner: 緩斜面穿過樹林，對初學者和家庭較友善。
   snowboard: 樹林間緩坡適合雪板初學者練習轉彎與視線控制。
@@ -96,5 +109,7 @@ sources:
   url: https://www.shigakogen.gr.jp/english/lift_information/
 - label: Shiga Kogen Lift Ticket
   url: https://shigakogen-ski.or.jp/winter/ticket/
+- label: Shiga Kogen Access
+  url: https://shigakogen-ski.or.jp/access/
 ---
 志賀高原 Tanne no Mori Okojo 是中央區域的緩坡樹林雪場，路線短但氣氛特殊，適合初學者、家庭與想在樹林間慢慢滑的人。
