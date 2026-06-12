@@ -15,6 +15,7 @@ tags:
 links:
   official: https://www.brnorikura.jp/
   weather: https://weathernews.jp/ski/spot/34807/
+  access: https://www.brnorikura.jp/access/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Mt.%20Norikura%20Snow%20Resort
 contact:
   address:
@@ -182,6 +183,20 @@ courses:
     note: 官方標示中級・上級，寬廣平整，適合高速 long turn。
 lifts:
   total: 8
+access:
+  fromTokyo:
+    - label: "東京出發經松本、新島々"
+      steps:
+        - "從東京或新宿方向搭 JR 到松本站。"
+        - "從松本站轉乘松本電鐵上高地線到新島々站。"
+        - "從新島々站轉乘路線巴士前往乘鞍高原、雪場方向。"
+      estimatedTime: "新島々後約 60 分"
+      difficulty: "medium"
+      note: "松本站到新島々站約 30 分；冬季另有免費接駁資訊，需依當季公告確認停靠點與班次。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從長野自動車道松本 IC 約 60 分；從中部縱貫道高山 IC 約 80 分。停車場約 1,000 台，平假日免費；冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: 有夢の平 Course、Kids Park 等設施，可搭配親子或練習行程。
   intermediate: 可用巡航路線安排中級滑行，但實際開放需看官方公告。
@@ -194,5 +209,7 @@ sources:
   url: https://weathernews.jp/ski/spot/34807/
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
+- label: Mt. Norikura Snow Resort Access
+  url: https://www.brnorikura.jp/access/
 ---
 Mt.乘鞍 Snow Resort 位於長野縣松本市乘鞍高原，它以乘鞍岳山麓粉雪、乳白色溫泉與 18 歲以下纜車免費為特色。

@@ -129,6 +129,18 @@ courses:
     note: 位於 Carving Slope 旁的包場專用雪道，官方說明斜度更高，可集中練習 pole 與 carving，也曾用於品牌拍攝。
 lifts:
   total: 4
+access:
+  fromTokyo:
+    - label: "東京出發經長野與白馬"
+      steps:
+        - "從東京搭北陸新幹線到長野站。"
+        - "從長野站轉乘白馬方向巴士，抵達白馬村內後銜接雪場接駁、Hakuba Valley 接駁或計程車。"
+      difficulty: "hard"
+      note: "公共交通最後一段需配合白馬村內住宿區接駁、Hakuba Valley 白馬至大町間接駁或計程車，建議先確認當季時刻與回程。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從長野自動車道安曇野 IC 約 60 分、上信越自動車道長野 IC 約 60 分、北陸自動車道糸魚川 IC 約 70 分。降雪或路面結冰時必須使用雪胎，2WD 車輛需準備雪鏈。"
 externalContent:
   blogs: []
   vlogs: []
@@ -141,6 +153,8 @@ sources:
   url: https://sanosaka.jp/lift/
 - label: Hakuba Sanosaka Weathernews
   url: https://weathernews.jp/ski/spot/34850/
+- label: Hakuba Sanosaka Access
+  url: https://sanosaka.jp/access/
 terrainSummary:
   beginner: Paradise Downhill 等緩斜面適合初學者穩定練習，Shirayuki Daira 也有 Snow Friends Park。
   intermediate: Paradise、Lake Down、Lake View 與 Carving Slope 提供中級練習與青木湖景觀。

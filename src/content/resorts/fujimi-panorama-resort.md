@@ -14,6 +14,7 @@ tags:
 links:
   official: https://www.fujimipanorama.com
   weather: https://weathernews.jp/ski/spot/34836/
+  access: https://www.fujimipanorama.com/snow/access/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Fujimi%20Panorama%20Resort
 contact:
   address:
@@ -122,6 +123,19 @@ courses:
     note: 富士見 Panorama 最硬派的ゲレンデ，通稱リンデンの壁，官方描述為整備良好的平整一枚バーン。
 lifts:
   total: 6
+access:
+  fromTokyo:
+    - label: "東京出發經富士見"
+      steps:
+        - "從新宿或東京方向搭 JR 中央本線到富士見站。"
+        - "從富士見站搭冬季免費接駁巴士，或改搭計程車前往雪場。"
+      estimatedTime: "站後約 10 分"
+      difficulty: "easy"
+      note: "免費接駁巴士在冬季營業期間運行，班次有限且免預約；若班次不合適可改搭計程車。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從中央自動車道諏訪南 IC 下交流道後約 7 分；八王子方向約 90 分、小牧方向約 150 分。停車場約 1,300 台，平假日免費。"
 terrainSummary:
   beginner: 初級約 30%，有 family slope 與兒童雪上設施。
   intermediate: 中級約 40%，可搭配箱型纜車路線安排較長滑行。
@@ -134,5 +148,7 @@ sources:
   url: https://weathernews.jp/ski/spot/34836/
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
+- label: Fujimi Panorama Resort Access
+  url: https://www.fujimipanorama.com/snow/access/
 ---
 富士見 Panorama Resort 位於長野縣富士見町，它距離中央自動車道諏訪南 IC 約 7 分，並有箱型纜車長距離路線與親子雪上設施。

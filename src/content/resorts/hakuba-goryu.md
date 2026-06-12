@@ -254,6 +254,19 @@ courses:
     averageSlope: 27°
     note: 官方雪道資料列為綜合難度路線，全長 250m、最大坡度 32°、平均坡度 27°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   total: 24
+access:
+  fromTokyo:
+    - label: "東京出發經長野或白馬"
+      steps:
+        - "從東京搭北陸新幹線到長野站，轉乘路線巴士前往白馬五龍。"
+        - "也可從新宿搭特急 Azusa 到白馬站，再銜接接駁巴士或計程車。"
+      estimatedTime: "長野後約 1 小時"
+      difficulty: "medium"
+      note: "神城站與飯森站到各自雪場入口約 5 分車程；冬季另有雪場免費接駁與 Hakuba Valley 接駁，班次與期間需先確認。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "東京方向約 4 小時，可由長野自動車道安曇野 IC 或上信越自動車道長野 IC 方向進入。11 月底至 3 月底官方要求雪胎，停車場禁止夜間停車與車宿。"
 externalContent:
   blogs: []
   vlogs: []

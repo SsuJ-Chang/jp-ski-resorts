@@ -255,6 +255,19 @@ courses:
     note: 官方註記為非壓雪、上級者路線；官方資料並列出全長 435m、最大坡度 32°、平均坡度 21.33°。
 lifts:
   total: 12
+access:
+  fromTokyo:
+    - label: "東京出發經越後湯澤"
+      steps:
+        - "從東京搭上越新幹線到越後湯澤站。"
+        - "從越後湯澤站轉乘巴士前往苗場滑雪場或苗場王子飯店。"
+      estimatedTime: "湯澤後約 60 分"
+      difficulty: "medium"
+      note: "巴士會受冬季道路與雪況影響，建議先確認當季班次、末班車與住宿接駁安排。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "可由關越自動車道月夜野 IC 經國道 17 號約 33km、約 50 分，或由湯澤 IC 經國道 17 號約 21km、約 30 分。停車場約 3,800 台，平日與假日收費不同。"
 externalContent:
   blogs:
     - title: 日本苗場親子滑雪/新手看過來 !! | 初訪苗場Naeba滑雪場 & 新潟苗場王子飯店Naeba Prince Hotel開箱 by 豬圈圈樂活趣
@@ -270,6 +283,8 @@ sources:
   url: https://www.princehotels.co.jp/ski/naeba/winter/lift/
 - label: Naeba Weathernews
   url: https://weathernews.jp/ski/spot/35405/
+- label: Naeba Access
+  url: https://www.princehotels.co.jp/ski/naeba/winter/access/
 terrainSummary:
   beginner: 飯店前、火打與筍平區域有多條初級雪道，適合家庭與住宿型行程練習。
   intermediate: 大斜面、わくわく、筍山 Skyline 等中級路線提供較長滑行距離與不同區域串聯。

@@ -17,6 +17,7 @@ tags:
 links:
   official: https://www.madarao.jp/ski
   weather: https://weathernews.jp/ski/spot/34805/
+  access: https://www.madarao.jp/ski/access
   googleMaps: https://www.google.com/maps/search/?api=1&query=Madarao%20Mountain%20Resort
 contact:
   address:
@@ -262,6 +263,19 @@ courses:
     note: Snow Park、Terrain Park、Mogul course 的複合區，營業期間與 item 會隨雪況調整。
 lifts:
   total: 10
+access:
+  fromTokyo:
+    - label: "東京出發經飯山"
+      steps:
+        - "從東京搭北陸新幹線到飯山站。"
+        - "從飯山站轉乘往斑尾高原的巴士，或改搭計程車前往雪場。"
+      estimatedTime: "飯山後約 30 分"
+      difficulty: "medium"
+      note: "冬季有飯山站與斑尾高原之間的巴士，另有周邊度假區接駁；行前需確認當季時刻與乘車位置。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從上信越自動車道豐田飯山 IC 約 17 分。日歸 P7、P8 停車場為主要免費選項，P1、P2 與大型車 P3 冬季收費；冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: 初級約 30%，可與飯山站接駁安排住宿型滑雪行程。
   intermediate: 中級約 35%，適合在主雪道巡航與移動。
@@ -274,5 +288,7 @@ sources:
   url: https://weathernews.jp/ski/spot/34805/
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
+- label: Madarao Mountain Resort Access
+  url: https://www.madarao.jp/ski/access
 ---
 斑尾高原位於長野縣飯山市與新潟縣妙高市縣境附近，它以粉雪、tree run 與多樣化雪道聞名，適合安排飯山站進出的住宿型行程。

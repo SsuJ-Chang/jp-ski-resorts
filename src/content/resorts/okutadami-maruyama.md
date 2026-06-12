@@ -13,6 +13,7 @@ tags:
 links:
   official: http://okutadami.co.jp/ski/
   weather: https://weathernews.jp/ski/spot/35431/
+  access: http://www.okutadami.co.jp/ski/access3.html
   googleMaps: https://www.google.com/maps/search/?api=1&query=Okutadami%20Maruyama%20Ski%20Resort
 contact:
   address:
@@ -119,6 +120,19 @@ courses:
     note: 春季限定開放，官方介紹為可享受ブナ林景觀的林間路線。
 lifts:
   total: 5
+access:
+  fromTokyo:
+    - label: "東京出發經浦佐"
+      steps:
+        - "從東京搭上越新幹線到浦佐站。"
+        - "從浦佐站東口搭完全預約制免費接駁巴士前往奧只見丸山。"
+      estimatedTime: "浦佐後約 80 分"
+      difficulty: "hard"
+      note: "免費接駁巴士需於使用日前一天 15:00 前電話預約；沒有預約的日子不運行，且可能受天候與道路狀況延遲。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從魚沼 IC（舊小出 IC）往奧只見方向約 35km，需行經奧只見 Silver Line 隧道路段；途中沒有加油站，建議在魚沼 IC 周邊先補給。停車場約 700 台，平日免費，週末、國定假日與特定日第 1、第 2 停車場收費。"
 terrainSummary:
   beginner: 初級比例約 40%，可作為春季練習與暖身路線參考。
   intermediate: 中級與上級比例接近，適合有基礎後再安排行程。
@@ -131,5 +145,7 @@ sources:
   url: https://weathernews.jp/ski/spot/35431/
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
+- label: Okutadami Maruyama Access
+  url: http://www.okutadami.co.jp/ski/access3.html
 ---
 奧只見丸山位於新潟縣魚沼市，它採初滑り季與春季兩段營業，是日本少見會在雪季中段暫停、再於春季重新營業的雪場。

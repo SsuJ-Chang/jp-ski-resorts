@@ -188,6 +188,19 @@ courses:
     note: 2019-20 雪季新設，官方說明為 C 纜車旁開闢森林而成的樹林滑行路線。
 lifts:
   total: 6
+access:
+  fromTokyo:
+    - label: "東京出發經越後湯澤"
+      steps:
+        - "從東京搭上越新幹線到越後湯澤站。"
+        - "從越後湯澤站西口 Kandatsu BUS LOUNGE 搭免費接駁巴士到雪場。"
+      estimatedTime: "湯澤後約 7 分"
+      difficulty: "easy"
+      note: "免費接駁巴士班次會依營業日與時段調整，夜滑或早朝時段需先確認時刻。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從關越自動車道湯澤 IC 方向進入很近；練馬 IC 出發約 110 分、新潟西 IC 出發約 90 分。停車場約 2,000 台，平假日免費。"
 externalContent:
   blogs:
     - title: 越後湯澤「神立高原滑雪場」車站免費接駁、女生纜車票優惠、夜滑直到凌晨!
@@ -202,6 +215,8 @@ sources:
   url: https://www.kandatsu.com/price/
 - label: Kandatsu Weathernews
   url: https://weathernews.jp/ski/spot/35425/
+- label: Kandatsu Access
+  url: https://www.kandatsu.com/access/
 terrainSummary:
   beginner: Procyon、Pollux、Vega、Polaris 等初級路線提供緩坡、寬幅與長距離練習。
   intermediate: Subaru、Pegasus、Sirius、Regulus、Castor 提供中級地形變化、夜滑與地形公園鄰近路線。

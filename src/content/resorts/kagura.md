@@ -317,6 +317,19 @@ courses:
     note: 官方雪道資料列為上級路線，全長 367m、最大坡度 27°、平均坡度 17°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 17
+access:
+  fromTokyo:
+    - label: "東京出發經越後湯澤"
+      steps:
+        - "從東京搭上越新幹線到越後湯澤站。"
+        - "從越後湯澤站東口搭乘往苗場、神樂方向的急行巴士或路線巴士，依入口選擇みつまた或田代站下車。"
+      estimatedTime: "湯澤後約 20 分"
+      difficulty: "medium"
+      note: "神樂有みつまた、田代等入口，搭車前需先確認當日開放區域、巴士停靠點與回程班次。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "みつまた入口從關越自動車道湯澤 IC 約 8km、約 10 分；田代方向也可由月夜野 IC 方向進入，約 39km、約 70 分。冬季週末、假日與特定日普通車停車收費。"
 externalContent:
   blogs: []
   vlogs: []
@@ -332,5 +345,7 @@ sources:
 - label: Real Japan Nature YouTube Course Video
   url: https://www.youtube.com/watch?v=dY4f3Il-7VE
   note: 影片說明欄提供神樂各雪道章節秒數，已對應至 courses.details[].videoLinks。
+- label: Kagura Access
+  url: https://www.princehotels.co.jp/ski/kagura/winter/access/
 ---
 神樂滑雪場位於新潟縣湯澤町，由かぐら、みつまた、田代三個區域構成。雪場海拔高、雪季長，適合想在湯澤區域尋找粉雪、長雪季與大型雪場體驗的滑雪者。
