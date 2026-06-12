@@ -69,6 +69,11 @@ courses:
     - name: "上級コース（名稱待確認）"
       difficulty: advanced
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+access:
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從德島市區使用高速道路約 100 分、約 80km；從高松市區使用高速道路約 130 分、約 70km。冬季山區道路需準備雪胎或防滑裝備。"
 sources:
 - label: Ikawa Ski Resort Kainayama Official Website
   url: https://www.ikawaski.jp/

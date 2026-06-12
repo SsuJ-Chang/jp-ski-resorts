@@ -9,6 +9,7 @@ prefecture: 愛媛縣
 links:
   official: https://sol-fa.com/
   weather: https://weathernews.jp/ski/spot/37304/
+  access: https://sol-fa.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9-1/
   googleMaps: https://www.google.com/maps/search/?api=1&query=SOL-FA%E3%82%AA%E3%83%80%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%B2%E3%83%AC%E3%83%B3%E3%83%87
 snowWeather:
   title: SOL-FA Oda雪況天氣
@@ -72,9 +73,31 @@ courses:
     - name: "スノーパーク"
       difficulty: mixed
       note: "設有跳台、box、rail 等項目；配置會依季節與積雪調整。"
+access:
+  fromOsaka:
+  - label: "大阪出發經內子"
+    steps:
+    - "從新大阪搭新幹線到岡山，再轉乘特急往松山、內子方向。"
+    - "在 JR 內子站下車後，轉乘計程車或事先安排接送前往雪場。"
+    estimatedTime: "內子後約 60 分"
+    difficulty: "hard"
+    note: "內子站後公開資料以計程車銜接為主；雪場位於山區，建議事前安排回程交通。"
+  fromAirport:
+  - label: "松山機場出發"
+    steps:
+    - "從松山機場租車或包車，往松山自動車道與內子、小田深山方向移動。"
+    - "依當日道路與積雪狀況前往 SOL-FA Oda。"
+    difficulty: "hard"
+    note: "松山 IC 後到雪場約 80 分；若不自駕，建議先移動到松山或內子，再安排計程車或接送。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "從松山 IC 約 80 分，從內子 IC 約 60 分；停車場約 700 台，冬季山區道路需準備雪胎或防滑裝備。"
 sources:
 - label: SOL-FA Official Website
   url: https://sol-fa.com/
+- label: SOL-FA Access
+  url: https://sol-fa.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9-1/
 - label: SOL-FAオダスキーゲレンデ Weathernews
   url: https://weathernews.jp/ski/spot/37304/
   note: 使用者指定附上的雪場資料頁。
