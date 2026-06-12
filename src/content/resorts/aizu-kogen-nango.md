@@ -16,6 +16,7 @@ visibility:
 links:
   official: "http://www.nango-ski.com"
   weather: "https://weathernews.jp/ski/spot/33618/"
+  access: "https://www.nango-ski.com/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Aizu%20Kogen%20Nango%20Ski%20Resort"
 contact:
   address:
@@ -127,6 +128,27 @@ courses:
       difficulty: "beginner"
 lifts:
   total: 3
+access:
+  fromTokyo:
+    - label: "東京出發經會津田島"
+      steps:
+        - "從東京淺草方向搭東武、野岩鐵道與會津鐵道系統前往會津田島站。"
+        - "從會津田島站轉計程車、租車或當地接駁車輛前往會津高原南鄉。"
+      estimatedTime: "站後約 40-50 分"
+      difficulty: "hard"
+      note: "會津田島站後的公共交通銜接有限，建議先確認當季巴士、計程車與回程安排。"
+  fromAirport:
+    - label: "福島機場出發"
+      steps:
+        - "從福島機場租車或包車，往會津田島、南會津町方向移動。"
+        - "依當日道路狀況前往會津高原南鄉停車場。"
+      estimatedTime: "約 100 分"
+      difficulty: "hard"
+      note: "公開交通資料以車程為主；冬季山路需準備雪胎或雪鏈。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "可由西那須野塩原 IC、白河 IC 或會津若松 IC 方向銜接國道前往；官方提醒冬季需確認雪胎、雪鏈與雪道駕駛安全。"
 terrainSummary:
   beginner: "會津高原南鄉初級雪道占 40%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 40%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
@@ -139,6 +161,8 @@ externalContent:
 sources:
   - label: "会津高原南郷スキー場 Official Website"
     url: "http://www.nango-ski.com"
+  - label: "会津高原南郷スキー場 Access"
+    url: "https://www.nango-ski.com/access/"
   - label: "Weathernews 会津高原南郷スキー場"
     url: "https://weathernews.jp/ski/spot/33618/"
   - label: "Weathernews 東北のスキー場人気ランキング"

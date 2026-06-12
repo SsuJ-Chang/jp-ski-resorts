@@ -150,6 +150,19 @@ courses:
       note: "如其名，官方形容為會激起挑戰精神的難攻不落坡面。"
 lifts:
   total: 8
+access:
+  fromTokyo:
+    - label: "東京出發經會津高原尾瀨口"
+      steps:
+        - "從東京方向搭東武、野岩鐵道與會津鐵道系統前往會津高原尾瀨口站。"
+        - "從會津高原尾瀨口站轉乘往會津高原高杖方向的巴士。"
+      estimatedTime: "站後約 30 分"
+      difficulty: "medium"
+      note: "巴士運行日與時刻需以當季資訊為準；若攜帶大型雪具，建議預留轉乘時間。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "東京方向可經東北自動車道西那須野塩原 IC 後前往；冬季山區道路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: "會津高原高杖初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 40%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"

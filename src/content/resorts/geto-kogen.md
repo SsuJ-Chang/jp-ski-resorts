@@ -18,6 +18,7 @@ visibility:
 links:
   official: "https://www.getokogen.com/winter/"
   weather: "https://weathernews.jp/ski/spot/33315/"
+  access: "https://www.getokogen.com/winter/05access/index.html"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Geto%20Kogen%20Ski%20Resort"
 contact:
   address:
@@ -153,6 +154,26 @@ courses:
       averageSlope: "21°"
 lifts:
   total: 5
+access:
+  fromTokyo:
+    - label: "東京出發經北上"
+      steps:
+        - "從東京搭東北新幹線到北上站。"
+        - "從北上站東口搭當季接駁巴士前往夏油高原。"
+      estimatedTime: "站後約 50 分"
+      difficulty: "medium"
+      note: "2025-2026 雪季北上站至雪場接駁為免預約；官方公告 2026-2027 雪季起接駁將改為收費，需以當季公告為準。"
+  fromAirport:
+    - label: "岩手花卷機場出發"
+      steps:
+        - "從岩手花卷機場搭往北上站方向的機場接駁，或改以租車前往北上站周邊。"
+        - "從北上站東口銜接當季雪場接駁巴士。"
+      difficulty: "medium"
+      note: "只有部分航班時間能順利銜接雪場接駁；若班次不合，需改用租車、計程車或住宿前後泊安排。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "可依出發方向使用北上西 IC、北上金ヶ崎 IC 或北上江釣子 IC；冬季需雪胎，且雪場道路 23:00-5:00 會因除雪安全暫停通行。"
 terrainSummary:
   beginner: "夏油高原初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 35%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
@@ -165,6 +186,8 @@ externalContent:
 sources:
   - label: "夏油高原スキー場 Official Website"
     url: "https://www.getokogen.com/winter/"
+  - label: "夏油高原スキー場 Access"
+    url: "https://www.getokogen.com/winter/05access/index.html"
   - label: "Weathernews 夏油高原スキー場"
     url: "https://weathernews.jp/ski/spot/33315/"
   - label: "Weathernews 東北のスキー場人気ランキング"

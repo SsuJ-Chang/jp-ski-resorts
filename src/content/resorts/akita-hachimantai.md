@@ -94,6 +94,19 @@ courses:
       note: "中級至上級取向，也會作為各類賽事坡面；可眺望八幡平大沼，賽事期間可能不開放一般滑行。"
 lifts:
   total: 1
+access:
+  fromTokyo:
+    - label: "東京出發經鹿角花輪"
+      steps:
+        - "從東京搭東北新幹線到盛岡站，轉 JR 花輪線到鹿角花輪站。"
+        - "從鹿角花輪站搭乘 Dragon 號等當地巴士前往秋田八幡平。"
+      estimatedTime: "站後約 50 分"
+      difficulty: "hard"
+      note: "鹿角花輪站後的巴士班次有限，需先確認當季運行日、時刻與回程。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "可由東北自動車道鹿角八幡平 IC，經國道 282、341 號方向前往，約 40 分鐘；八幡平周邊冬季會有道路管制，出發前需確認通行資訊。"
 terrainSummary:
   beginner: "秋田八幡平初級雪道占 40%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 40%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"

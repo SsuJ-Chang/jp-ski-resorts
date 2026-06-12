@@ -16,6 +16,7 @@ visibility:
 links:
   official: "http://www.hachimantai.co.jp/"
   weather: "https://weathernews.jp/ski/spot/33311/"
+  access: "https://www.hachimantai.co.jp/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Hachimantai%20Resort%20Panorama%20Ski%20Area"
 contact:
   address:
@@ -114,6 +115,27 @@ courses:
       note: "林間路線，路線較窄且蜿蜒。"
 lifts:
   total: 4
+access:
+  fromTokyo:
+    - label: "東京出發經盛岡"
+      steps:
+        - "從東京搭東北新幹線到盛岡站。"
+        - "從盛岡站搭岩手縣北巴士往八幡平 Mountain Hotel 方向，於雪場周邊下車。"
+      estimatedTime: "盛岡後約 90 分"
+      difficulty: "medium"
+      note: "盛岡站往八幡平的路線巴士需依當季時刻表安排；官方沒有盛岡站至飯店的免費接駁。"
+  fromAirport:
+    - label: "岩手花卷機場出發"
+      steps:
+        - "從岩手花卷機場搭巴士到盛岡站。"
+        - "從盛岡站轉岩手縣北巴士往八幡平 Mountain Hotel 方向。"
+      estimatedTime: "約 2 小時 15 分"
+      difficulty: "medium"
+      note: "機場巴士與八幡平方向巴士需分段銜接，請先確認等候時間與末班車。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "可由東北自動車道松尾八幡平 IC，經縣道 45 號前往，約 15 分鐘；冬季需雪胎或雪鏈。"
 terrainSummary:
   beginner: "八幡平 Resort Panorama 初級雪道占 70%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 30%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
@@ -125,6 +147,8 @@ externalContent:
 sources:
   - label: "八幡平リゾート・パノラマスキー場 Official Website"
     url: "http://www.hachimantai.co.jp/"
+  - label: "八幡平リゾート Access"
+    url: "https://www.hachimantai.co.jp/access/"
   - label: "SURF&SNOW 八幡平リゾート パノラマスキー場＆下倉スキー場 コース"
     url: "https://surfsnow.jp/guide/htm/r0009gc1.htm"
   - label: "Weathernews 八幡平リゾート・パノラマスキー場"

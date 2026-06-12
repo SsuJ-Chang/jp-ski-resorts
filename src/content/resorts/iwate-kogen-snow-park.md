@@ -16,6 +16,7 @@ visibility:
 links:
   official: "http://www.iwatekogen.jp/"
   weather: "https://weathernews.jp/ski/spot/33309/"
+  access: "https://iwatekogen.jp/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Iwate%20Kogen%20Snow%20Park"
 contact:
   address:
@@ -131,6 +132,27 @@ courses:
       averageSlope: "20°"
 lifts:
   total: 7
+access:
+  fromTokyo:
+    - label: "東京出發經盛岡"
+      steps:
+        - "從東京搭東北新幹線到盛岡站。"
+        - "從盛岡站西口巴士站搭雪場接駁巴士前往岩手高原 Snow Park。"
+      estimatedTime: "站後約 45 分"
+      difficulty: "easy"
+      note: "接駁巴士運行日與時刻需以當季公告為準；氣象與道路狀況可能造成停駛或延誤。"
+  fromAirport:
+    - label: "岩手花卷機場出發"
+      steps:
+        - "從岩手花卷機場租車、包車或搭計程車往雫石、岩手山方向。"
+        - "依當日道路狀況前往岩手高原 Snow Park 停車場。"
+      estimatedTime: "約 60 分"
+      difficulty: "hard"
+      note: "公開資料以車程為主；若不自駕，建議先到盛岡站再銜接雪場接駁。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "可由東北自動車道盛岡 IC 前往，約 35 分鐘；停車場約 2,800 台且每日免費。"
 terrainSummary:
   beginner: "岩手高原 Snow Park 初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 50%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
@@ -142,6 +164,8 @@ externalContent:
 sources:
   - label: "岩手高原スノーパーク Official Website"
     url: "http://www.iwatekogen.jp/"
+  - label: "岩手高原スノーパーク Access"
+    url: "https://iwatekogen.jp/access/"
   - label: "Weathernews 岩手高原スノーパーク"
     url: "https://weathernews.jp/ski/spot/33309/"
   - label: "Weathernews 東北のスキー場人気ランキング"

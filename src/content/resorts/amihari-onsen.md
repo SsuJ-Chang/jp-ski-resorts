@@ -109,6 +109,19 @@ courses:
       maxSlope: "37°"
 lifts:
   total: 4
+access:
+  fromTokyo:
+    - label: "東京出發經盛岡"
+      steps:
+        - "從東京搭東北新幹線到盛岡站。"
+        - "從盛岡站轉乘往網張溫泉方向的巴士前往雪場。"
+      estimatedTime: "站後約 60 分"
+      difficulty: "medium"
+      note: "盛岡站後巴士班次需以當季時刻為準；冬季天候可能影響運行。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "可由東北自動車道盛岡 IC 往小岩井、網張溫泉方向前往；冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: "網張溫泉初級雪道占 15%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 50%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"

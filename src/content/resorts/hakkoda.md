@@ -16,6 +16,7 @@ visibility:
 links:
   official: "http://www.hakkoda-ropeway.jp"
   weather: "https://weathernews.jp/ski/spot/33105/"
+  access: "https://hakkoda-ropeway.jp/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Hakkoda%20Ropeway%20Ski"
 contact:
   address:
@@ -91,6 +92,27 @@ courses:
       averageSlope: "8°"
 lifts:
   total: 3
+access:
+  fromTokyo:
+    - label: "東京出發經青森"
+      steps:
+        - "從東京搭東北、北海道新幹線到新青森站，轉往青森站。"
+        - "從青森站搭 JR 巴士往八甲田 Ropeway 站前。"
+      estimatedTime: "站後約 80 分"
+      difficulty: "medium"
+      note: "冬季巴士行駛時間較長，且會受道路積雪與天候影響；時刻需以當季公告為準。"
+  fromAirport:
+    - label: "青森機場出發"
+      steps:
+        - "從青森機場搭定額計程車、計程車或包車前往八甲田 Ropeway 山麓站。"
+        - "抵達山麓站後依當日 Ropeway 與雪場開放狀況入場。"
+      estimatedTime: "約 50 分"
+      difficulty: "medium"
+      note: "若改搭大眾運輸，通常需先進青森市區再轉 JR 巴士；冬季天候可能影響 Ropeway 運行。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "可由青森中央 IC 約 19km、青森 IC 約 25km，經國道 103 號前往；冬季山區道路需雪胎或雪鏈。"
 terrainSummary:
   beginner: "八甲田初級雪道占 20%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 60%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
@@ -103,6 +125,8 @@ externalContent:
 sources:
   - label: "八甲田 Official Website"
     url: "http://www.hakkoda-ropeway.jp"
+  - label: "八甲田ロープウェー Access"
+    url: "https://hakkoda-ropeway.jp/access/"
   - label: "Weathernews 八甲田"
     url: "https://weathernews.jp/ski/spot/33105/"
   - label: "Weathernews 東北のスキー場人気ランキング"

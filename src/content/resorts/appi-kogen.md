@@ -19,6 +19,7 @@ visibility:
 links:
   official: "https://www.appi.co.jp/snow-mountain-resort/"
   weather: "https://weathernews.jp/ski/spot/33301/"
+  access: "https://www.appi.co.jp/snow-mountain-resort/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Appi%20Kogen%20Ski%20Resort"
 contact:
   address:
@@ -189,6 +190,28 @@ courses:
       averageSlope: "23°"
 lifts:
   total: 7
+access:
+  fromTokyo:
+    - label: "東京出發經盛岡・安比高原"
+      steps:
+        - "從東京搭東北新幹線到盛岡站。"
+        - "從盛岡站轉 JR 花輪線到安比高原站。"
+        - "從安比高原站搭安比區域接駁前往住宿設施或雪場。"
+      estimatedTime: "盛岡後約 1 小時"
+      difficulty: "medium"
+      note: "安比高原站後的區域接駁依季節與住宿設施安排；部分列車可能需事前聯絡住宿櫃台協助銜接。"
+  fromAirport:
+    - label: "岩手花卷機場出發"
+      steps:
+        - "從岩手花卷機場搭機場交通到盛岡站。"
+        - "從盛岡站轉 JR 花輪線到安比高原站，再銜接安比區域接駁。"
+      estimatedTime: "約 1.5 小時"
+      difficulty: "medium"
+      note: "總時間會受機場巴士、JR 花輪線與安比區域接駁銜接影響，建議先查好班次。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "可由東北自動車道松尾八幡平 IC 方向前往；冬季需使用雪胎或雪鏈，並預留道路積雪與天候造成的延誤。"
 terrainSummary:
   beginner: "安比高原初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 40%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
@@ -201,6 +224,8 @@ externalContent:
 sources:
   - label: "安比高原 Official Website"
     url: "https://www.appi.co.jp/snow-mountain-resort/"
+  - label: "安比高原 Access"
+    url: "https://www.appi.co.jp/snow-mountain-resort/access/"
   - label: "Weathernews 安比高原"
     url: "https://weathernews.jp/ski/spot/33301/"
   - label: "Weathernews 東北のスキー場人気ランキング"

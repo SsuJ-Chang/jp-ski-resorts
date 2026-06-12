@@ -89,6 +89,27 @@ courses:
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
 lifts:
   total: 2
+access:
+  fromTokyo:
+    - label: "東京出發經喜多方"
+      steps:
+        - "從東京搭東北新幹線到郡山站，轉 JR 磐越西線往會津若松、喜多方方向。"
+        - "從喜多方站轉計程車前往喜多方市三之倉。"
+      estimatedTime: "站後約 35 分"
+      difficulty: "hard"
+      note: "喜多方站後公開資料以計程車為主；建議先確認叫車、回程與夜滑時段的交通安排。"
+  fromAirport:
+    - label: "福島機場出發"
+      steps:
+        - "從福島機場租車或包車，往會津若松、喜多方方向移動。"
+        - "依當日道路狀況前往喜多方市三之倉停車場。"
+      estimatedTime: "約 120 分"
+      difficulty: "hard"
+      note: "公開交通資料以車程為主；冬季與夜滑時段需特別確認道路積雪與回程。"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "可由磐越自動車道會津若松 IC 前往，約 50 分鐘；也可由東北自動車道飯坂 IC 方向前往，約 90 分鐘。"
 terrainSummary:
   beginner: "喜多方市三之倉初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 60%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
