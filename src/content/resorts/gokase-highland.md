@@ -16,6 +16,7 @@ visibility:
   status: published
 links:
   official: https://www.gokase.co.jp/ski/
+  access: https://www.gokase.co.jp/wp/wp-content/themes/biz-vektor/pdf/shuttle_bus_timetable.pdf
   weather: https://weathernews.jp/ski/spot/38602/
   googleMaps: https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E3%83%B6%E7%80%AC%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4
 contact:
@@ -108,10 +109,24 @@ courses:
 lifts:
   total: 3
 access:
+  fromAirport:
+  - label: 熊本機場出發
+    steps:
+    - 抵達熊本機場後，租車往五瀨町、山都町方向前往五瀨高原。
+    - 依山都通潤橋 IC 或藏田 IC 周邊道路資訊進入一般道路後，前往本屋敷停車場或雪場入口。
+    - 抵達後依官方免費接駁巴士時刻表，往返本屋敷停車場與入場纜車搭乘處。
+    estimatedTime: 約 90 分鐘
+    difficulty: hard
+    note: 公開資料列熊本機場約 90 分鐘；官方另提供停車場與入場纜車搭乘處之間的免費接駁巴士時刻表，冬季山路需確認路況與接駁時刻。
+    links:
+    - label: 五瀨高原免費接駁巴士時刻表
+      url: https://www.gokase.co.jp/wp/wp-content/themes/biz-vektor/pdf/shuttle_bus_timetable.pdf
+    - label: 五瀨高原 Weathernews
+      url: https://weathernews.jp/ski/spot/38602/
   car:
     recommended: true
     snowTireRequired: true
-    note: 九州山區冬季仍可能有積雪或結冰，建議出發前確認道路狀況並準備雪胎或雪鏈。
+    note: 山都通潤橋 IC 或藏田 IC 後約 60 分鐘；九州山區冬季仍可能有積雪或結冰，建議出發前確認道路狀況並準備雪胎或雪鏈。
 terrainSummary:
   beginner: 公開資料列初級比例 50%，官方雪道頁亦有 Beginner course 與 Family Gelande 等區域。
   intermediate: 公開資料列中級比例 50%，官方雪道頁列有 Paradise Course 與 Dynamic Course 等區域。
@@ -124,6 +139,8 @@ sources:
   url: https://www.gokase.co.jp/ski/
 - label: Gokase Highland Slope Info
   url: https://www.gokase.co.jp/ski/slope/
+- label: Gokase Highland Shuttle Bus Timetable
+  url: https://www.gokase.co.jp/wp/wp-content/themes/biz-vektor/pdf/shuttle_bus_timetable.pdf
 - label: 五ヶ瀬ハイランドスキー場 Weathernews
   url: https://weathernews.jp/ski/spot/38602/
   note: 使用者指定附上的雪場資料頁。

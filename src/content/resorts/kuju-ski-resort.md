@@ -17,6 +17,7 @@ visibility:
   status: published
 links:
   official: https://www.kujyuski.co.jp/
+  access: https://www.kujyuski.co.jp/facility/access
   weather: https://weathernews.jp/ski/spot/38301/
   googleMaps: https://www.google.com/maps/search/?api=1&query=%E3%81%8F%E3%81%98%E3%82%85%E3%81%86%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4
 contact:
@@ -112,10 +113,32 @@ courses:
 lifts:
   total: 3
 access:
+  fromAirport:
+    - label: 福岡・大分方向租車
+      steps:
+        - 抵達福岡或大分方向後，租車銜接高速道路前往九重町。
+        - 福岡方向可經大分自動車道九重 IC、四季彩 Road、筋湯溫泉方向進入雪場。
+        - 大分方向可經大分自動車道湯布院 IC、やまなみ Highway、筋湯溫泉方向前往。
+      estimatedTime: 約 1-2 小時
+      difficulty: medium
+      note: 官方 access 頁列福岡方向約 2 小時、大分方向約 1 小時；冬季請確認官方路面狀況並準備雪鏈。
+      links:
+        - label: Kuju Forest Park Access
+          url: https://www.kujyuski.co.jp/facility/access
+    - label: 博多站電車與預約接駁
+      steps:
+        - 抵達福岡後先前往博多站，搭乘特急「ゆふ 1 號」直達豊後中村站。
+        - 於豊後中村站銜接官方免費送迎巴士、路線巴士或計程車前往雪場。
+      estimatedTime: 約 2 小時以上
+      difficulty: medium
+      note: 官方 access 頁列博多站至豊後中村站約 2 小時；免費送迎巴士每日早上 9:45 發車 1 班且需事前預約，實際接駁請以官方公告為準。
+      links:
+        - label: Kuju Forest Park Access
+          url: https://www.kujyuski.co.jp/facility/access#free_shuttle_bus
   car:
     recommended: true
     snowTireRequired: true
-    note: 九州山區冬季仍可能有積雪或結冰，建議出發前確認道路狀況並準備雪胎或雪鏈。
+    note: 官方 access 頁列福岡方向約 2 小時、大分方向約 1 小時、熊本方向約 2 小時；冬季山路需確認路面狀況並準備雪胎或雪鏈。
 terrainSummary:
   beginner: 公開資料列初級比例 20%，初版先標示為有初級路線，詳細適合程度需後續依官方雪道資料補強。
   intermediate: 公開資料列中級比例 30%，可作為初版雪道結構參考。
@@ -127,6 +150,8 @@ externalContent:
 sources:
 - label: Kuju Forest Park Snow Resort Official Website
   url: https://www.kujyuski.co.jp/
+- label: Kuju Forest Park Snow Resort Access
+  url: https://www.kujyuski.co.jp/facility/access
 - label: くじゅうスキー場 Weathernews
   url: https://weathernews.jp/ski/spot/38301/
   note: 使用者指定附上的雪場資料頁。
