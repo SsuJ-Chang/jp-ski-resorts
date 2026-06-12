@@ -1,0 +1,120 @@
+---
+id: "taiheizan-opas"
+name:
+  zhTw: "太平山 Opas"
+  ja: "太平山スキー場オーパス"
+  en: "Taiheizan Ski Area Opas"
+region: "tohoku"
+prefecture: "秋田縣"
+tags:
+  - "beginner_friendly"
+  - "family_friendly"
+  - "night_skiing"
+  - "no_car_accessible"
+  - "onsen"
+  - "snowboard_friendly"
+visibility:
+  status: "published"
+  note: "秋田縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
+links:
+  official: "http://www.theboon.net/opas/"
+  weather: "https://weathernews.jp/ski/spot/33210/"
+  googleMaps: "https://www.google.com/maps/search/?api=1&query=39.7854,140.2199"
+  access: "http://www.theboon.net/opas/"
+contact:
+  address:
+    zhTw: "日本秋田縣秋田市仁別字蛇馬目澤111"
+    ja: "〒010-0824 秋田県秋田市仁別字蛇馬目沢111"
+    googleMaps: "https://www.google.com/maps/search/?api=1&query=39.7854,140.2199"
+  phone: "018-827-2221"
+season:
+  label: "2025-2026"
+  operatingPeriod: "2025/12/21-2026/03/15"
+  hours: "平日：9:00〜16:00 / 休日：9:00〜16:00 / ナイター：17:00〜21:00(クワッドリフトのみ運転)"
+  note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
+  source: "https://weathernews.jp/ski/spot/33210/"
+snowWeather:
+  title: "太平山 Opas 積雪與天氣"
+  provider: "Weathernews"
+  url: "https://weathernews.jp/ski/spot/33210/"
+  snowDepth: "200 cm"
+  updatedAt: "2026/4/30 09:00:00"
+  forecast:
+    - date: "12/27(六)"
+      weather: "雪"
+      low: "-5°C"
+      high: "4°C"
+    - date: "12/28(日)"
+      weather: "大雪"
+      low: "-8°C"
+      high: "0°C"
+    - date: "12/29(一)"
+      weather: "大雪"
+      low: "-9°C"
+      high: "-2°C"
+    - date: "12/30(二)"
+      weather: "陰"
+      low: "-5°C"
+      high: "0°C"
+    - date: "12/31(三)"
+      weather: "雪"
+      low: "-3°C"
+      high: "3°C"
+    - date: "1/1(四)"
+      weather: "晴"
+      low: "-4°C"
+      high: "1°C"
+    - date: "1/2(五)"
+      weather: "陰"
+      low: "8°C"
+      high: "3°C"
+  note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
+location:
+  latitude: 39.7854
+  longitude: 140.2199
+elevation:
+  top: 330
+  bottom: 140
+  verticalDrop: 190
+courses:
+  total: 6
+  beginnerRatio: 60
+  intermediateRatio: 30
+  advancedRatio: 10
+  courseInfoPage: "https://weathernews.jp/ski/spot/33210/"
+  summary: "太平山 Opas共有 6 條雪道，難度比例約初級 60%、中級 30%、進階 10%，適合依雪況與同行者程度安排滑行路線。"
+lifts:
+  total: 3
+access:
+  fromTokyo:
+    - label: "大眾交通工具（主要車站銜接）"
+      steps:
+        - "鐵路：秋田新幹線JR秋田駅下車、秋田中央交通バス 仁別リゾート公園線（「スキー場前」下車） (35分)"
+      estimatedTime: "約 35 分"
+      difficulty: "medium"
+  fromAirport:
+    - label: "機場銜接"
+      steps:
+        - "飛機：秋田空港より (60分)"
+      estimatedTime: "約 60 分"
+      difficulty: "medium"
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: "自駕參考：自駕：秋田自動車道秋田中央ICより13km (20分)；自駕：秋田自動車道秋田北ICより19km (25分)。停車場：1400台 / 平日 無料 / 休日 無料。冬季山路需準備雪胎或雪鏈。"
+terrainSummary:
+  beginner: "初級比例約 60%，可作為暖身、親子同行或初訪時的主要安排。"
+  intermediate: "中級比例約 30%，適合已能穩定轉彎的滑雪者串接主要雪道。"
+  advanced: "進階比例約 10%，建議視當日積雪與壓雪狀況選擇。"
+  snowboard: "全面可；單板實際可滑區域仍以現場開放為準。"
+externalContent:
+  blogs: []
+  vlogs: []
+sources:
+  - label: "Taiheizan Ski Area Opas Official Website"
+    url: "http://www.theboon.net/opas/"
+  - label: "Weathernews 太平山スキー場オーパス"
+    url: "https://weathernews.jp/ski/spot/33210/"
+---
+
+太平山 Opas位於秋田縣，共有 6 條雪道與 3 條纜車，是可放入東北滑雪行程的地方型雪場。雪道比例約為初級 60%、中級 30%、進階 10%，建議出發前再確認官方公告、當日雪況與營業範圍。
