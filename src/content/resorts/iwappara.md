@@ -67,7 +67,7 @@ tickets:
     note: 每搭乘 1 條纜車需 1 張。
   - name: キッズパラダイス入場券
     price: A ¥1,000、B ¥1,500
-    note: A 可於當日中途進出；B 含 キッズパラダイス 入場與單次入場券／纜車 1 次搭乘券組合。
+    note: A 可於當日中途進出；B 含 キッズパラダイス 入場與單次入場券 / 纜車 1 次搭乘券組合。
 snowWeather:
   title: 岩原雪況天氣
   provider: Weathernews
@@ -271,7 +271,7 @@ lifts:
   total: 9
 access:
   fromTokyo:
-  - label: 東京／越後湯澤站轉乘
+  - label: 東京 / 越後湯澤站轉乘
     steps:
     - 東京站搭乘上越新幹線至越後湯澤站。
     - 從越後湯澤站東口案內所附近搭乘岩原免費接駁巴士前往山麓或中腹リゾートセンター。
