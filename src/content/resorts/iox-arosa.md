@@ -108,6 +108,24 @@ courses:
 lifts:
   total: 5
 access:
+  fromOsaka:
+    - label: 大阪出發鐵路轉計程車
+      steps:
+        - 從大阪站搭特急 Thunderbird 到金澤站。
+        - 轉乘北陸新幹線至新高岡站，再轉 JR 城端線到福光站。
+        - 從福光站搭計程車前往 IOX-AROSA。
+      estimatedTime: 約 4 小時
+      difficulty: hard
+      note: 官方路線以福光站轉計程車銜接；實際時間會受列車轉乘與叫車狀況影響。
+  fromNagoya:
+    - label: 名古屋出發鐵路轉計程車
+      steps:
+        - 從名古屋站搭特急 Shirasagi 到金澤站。
+        - 轉乘北陸新幹線至新高岡站，再轉 JR 城端線到福光站。
+        - 從福光站搭計程車前往 IOX-AROSA。
+      estimatedTime: 約 4 小時 15 分
+      difficulty: hard
+      note: 官方路線以福光站轉計程車銜接；實際時間會受列車轉乘與叫車狀況影響。
   car:
     recommended: true
     snowTireRequired: true
@@ -120,6 +138,8 @@ terrainSummary:
 sources:
   - label: "IOX-AROSA Official"
     url: "https://www.iox-arosa.jp/"
+  - label: "IOX-AROSA Access"
+    url: "https://www.iox-arosa.jp/access"
   - label: "Weathernews IOX-AROSA"
     url: "https://weathernews.jp/ski/spot/35510/"
 ---

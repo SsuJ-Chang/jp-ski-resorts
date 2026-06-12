@@ -16,6 +16,7 @@ visibility:
 links:
   official: https://www.city.nanao.lg.jp/syougai/shisetsu/korosa.html
   ticket: https://www.city.nanao.lg.jp/syougai/shisetsu/korosa.html
+  access: https://www.city.nanao.lg.jp/syougai/shisetsu/korosa.html
   weather: https://weathernews.jp/ski/spot/35611/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Nanao%20Korosa%20Ski%20Area
 contact:
@@ -105,10 +106,25 @@ courses:
 lifts:
   total: 1
 access:
+  fromAirport:
+    - label: 能登機場出發
+      steps:
+        - 從能登機場租車、包車或搭計程車往七尾市多根町方向。
+        - 依當日道路狀況前往七尾 Korosa 停車場。
+      estimatedTime: 約 100 分
+      difficulty: hard
+      note: 公開資料未列出可直達雪場的大眾運輸；冬季能登半島道路與營業狀況需出發前確認。
+  fromTokyo:
+    - label: 東京出發經七尾
+      steps:
+        - 從東京搭北陸新幹線到金澤，轉乘 JR 或 IR 相關路線前往七尾站。
+        - 從七尾站轉租車或計程車前往雪場。
+      difficulty: hard
+      note: 七尾站後約 35 分鐘；大眾運輸無直達雪場班次，建議先確認叫車與回程安排。
   car:
     recommended: true
     snowTireRequired: true
-    note: 雪場位於七尾市多根町；冬季道路可能積雪或結冰，自駕請準備雪胎並於出發前確認營業與道路狀況。
+    note: 能越自動車道七尾城山 IC 起約 25 分鐘；冬季道路可能積雪或結冰，自駕請準備雪胎並於出發前確認營業與道路狀況。
 terrainSummary:
   beginner: 初級雪道、雪盆區與滑雪手扶梯讓此雪場偏向親子與入門使用。
   intermediate: 官方列出位於谷間的中級雪道。

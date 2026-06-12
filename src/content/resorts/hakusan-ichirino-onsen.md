@@ -162,6 +162,21 @@ courses:
 lifts:
   total: 6
 access:
+  fromAirport:
+    - label: 小松機場・小松站接駁
+      steps:
+        - 從小松機場或小松站搭乘預約制 White Ring Bus 前往一里野溫泉。
+        - 抵達一里野溫泉後步行前往白山一里野溫泉雪場。
+      estimatedTime: 約 1-1.5 小時
+      difficulty: medium
+      note: 接駁車需於 5 日前預約，2025 年 12 月至 2026 年 3 月雪場營業期間運行，2026/1/1-1/3 停駛；若無預約可能不運行。
+  fromTokyo:
+    - label: 東京出發經金澤
+      steps:
+        - 從東京搭北陸新幹線到金澤站。
+        - 轉乘金澤站往一里野的預約制日歸滑雪 tour 或北陸鐵道當季滑雪巴士。
+      difficulty: medium
+      note: 金澤出發的日歸 tour 最少 2 人成行，需於 3 個營業日前預約；巴士運行日與時刻需以當季公告為準。
   car:
     recommended: true
     snowTireRequired: true
@@ -180,6 +195,8 @@ sources:
   url: https://www.sam-hakusan.com/white/ichirino/lift/
 - label: SAM 白山一里野溫泉 Access
   url: https://www.sam-hakusan.com/white/ichirino/access/
+- label: SAM 白山一里野溫泉 Bus
+  url: https://www.sam-hakusan.com/white/ichirino/bus/
 - label: Weathernews 白山一里野溫泉
   url: https://weathernews.jp/ski/spot/35603/
 ---

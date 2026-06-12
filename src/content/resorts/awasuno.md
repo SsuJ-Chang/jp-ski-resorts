@@ -117,6 +117,21 @@ courses:
 lifts:
   total: 3
 access:
+  fromTokyo:
+    - label: 東京出發經富山・立山
+      steps:
+        - 從東京搭北陸新幹線到富山站。
+        - 轉乘富山地方鐵道立山線到立山站，再搭雪場營業日配合電車發車的聯絡巴士前往 Awasuno。
+      estimatedTime: 約 3.5-4 小時
+      difficulty: medium
+      note: 立山站至雪場聯絡巴士僅於雪場營業日運行；出發前需確認當季巴士 PDF 時刻表。
+  fromAirport:
+    - label: 富山機場出發
+      steps:
+        - 從富山機場租車或搭計程車前往 Awasuno。
+      estimatedTime: 約 45 分
+      difficulty: medium
+      note: 以自駕或計程車銜接為主；冬季需確認道路積雪、結冰與停車場狀況。
   car:
     recommended: true
     snowTireRequired: true
@@ -129,6 +144,8 @@ terrainSummary:
 sources:
   - label: "あわすのスキー場 Official"
     url: "https://www.awasuno.com/"
+  - label: "あわすのスキー場 Access"
+    url: "https://www.awasuno.com/access/"
   - label: "Weathernews あわすのスキー場"
     url: "https://weathernews.jp/ski/spot/35509/"
 ---

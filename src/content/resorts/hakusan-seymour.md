@@ -145,6 +145,13 @@ courses:
 lifts:
   total: 4
 access:
+  fromTokyo:
+    - label: 東京出發經金澤
+      steps:
+        - 從東京搭北陸新幹線到金澤站。
+        - 轉乘北陸鐵道當季直行滑雪巴士前往白山 Seymour。
+      difficulty: medium
+      note: 直行滑雪巴士運行日、時刻與運價需以北陸鐵道當季資訊為準；積雪或天候不佳時可能停駛或調整。
   car:
     recommended: true
     snowTireRequired: true
@@ -162,6 +169,8 @@ sources:
   url: https://www.sam-hakusan.com/white/seymour/lift/
 - label: SAM 白山 Seymour Access
   url: https://www.sam-hakusan.com/white/seymour/access/
+- label: SAM 白山 Seymour Bus
+  url: https://www.sam-hakusan.com/white/seymour/bus/
 - label: Weathernews 白山千丈溫泉 Seymour
   url: https://weathernews.jp/ski/spot/35601/
 ---

@@ -109,10 +109,17 @@ courses:
 lifts:
   total: 3
 access:
+  fromOsaka:
+    - label: 大阪出發經敦賀
+      steps:
+        - 從大阪或京都搭 JR 至敦賀站。
+        - 從敦賀站轉計程車或租車前往今庄 365。
+      difficulty: hard
+      note: 敦賀站後約 20 分鐘；若改由今庄站轉乘，今庄站後同樣以計程車為主，班次與叫車需事前確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: "可由北陸自動車道今庄 IC，經國道 365 號前往，約 13km、20 分鐘。"
+    note: "可由北陸自動車道今庄 IC 經國道 365 號前往，約 14km、20 分鐘；也可由敦賀 IC 經國道 476 號約 15km、20 分鐘。"
 terrainSummary:
   beginner: "初級雪道占 30%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 40%，適合已能穩定轉彎的滑雪者參考。"

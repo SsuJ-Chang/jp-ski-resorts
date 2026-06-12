@@ -126,6 +126,14 @@ courses:
 lifts:
   total: 2
 access:
+  fromTokyo:
+    - label: 東京出發經金澤
+      steps:
+        - 從東京搭北陸新幹線到金澤站。
+        - 從金澤站東口 8 號乘車處搭北鐵巴士 13 醫王山線，於「医王山スキー場前」下車。
+        - 下車後步行約 1 分鐘抵達雪場。
+      difficulty: medium
+      note: 金澤站後車程約 55 分鐘；此巴士資訊標示為週末運行，冬季班次需行前確認。
   car:
     recommended: false
     snowTireRequired: true

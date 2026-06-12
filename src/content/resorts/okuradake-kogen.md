@@ -105,10 +105,25 @@ courses:
 lifts:
   total: 3
 access:
+  fromAirport:
+    - label: 小松機場出發
+      steps:
+        - 從小松機場租車或搭計程車前往大倉岳高原。
+        - 依當日道路狀況前往雪場停車場。
+      estimatedTime: 約 35 分
+      difficulty: medium
+      note: 以自駕、計程車或包車銜接為主；夜滑回程需先確認叫車與道路狀況。
+  fromTokyo:
+    - label: 東京出發經小松
+      steps:
+        - 從東京搭北陸新幹線至小松站。
+        - 從小松站轉租車或計程車前往大倉岳高原。
+      difficulty: hard
+      note: 小松站後約 25 分鐘；冬季山路與夜滑回程需留意積雪、結冰與叫車安排。
   car:
     recommended: true
     snowTireRequired: true
-    note: 官方交通頁提供前往方式；冬季山路與夜滑回程需留意積雪、結冰與營業日曆。
+    note: 小松 IC 起約 30 分鐘；冬季山路與夜滑回程需留意積雪、結冰與營業日曆。
 terrainSummary:
   beginner: Family 雪坡與兒童雪坡適合初學者與親子練習。
   intermediate: 日本海 Course 提供中級下滑路線。
@@ -121,6 +136,8 @@ sources:
   url: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/guide/
 - label: 大倉岳高原 Price
   url: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/price/
+- label: 大倉岳高原 Access
+  url: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/access/
 - label: Weathernews 大倉岳高原
   url: https://weathernews.jp/ski/spot/35605/
 ---

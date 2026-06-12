@@ -103,10 +103,24 @@ courses:
 lifts:
   total: 2
 access:
+  fromNagoya:
+    - label: 名古屋出發直行巴士
+      steps:
+        - 從名古屋或東岡崎搭乘雪場連結的滑雪 tour bus。
+        - 免轉乘直達福井和泉，日歸方案通常含 1 日券。
+      difficulty: easy
+      note: 巴士 tour 為預約制，出發日、上車地與方案內容需以當季預約頁為準。
+  fromOsaka:
+    - label: 大阪出發直行巴士
+      steps:
+        - 從大阪難波搭乘雪場連結的滑雪 tour bus。
+        - 免轉乘直達福井和泉，日歸或住宿方案需事前預約。
+      difficulty: easy
+      note: 巴士 tour 為預約制，出發日、上車地與方案內容需以當季預約頁為準。
   car:
     recommended: true
     snowTireRequired: true
-    note: "可由東海北陸自動車道白鳥 IC，經油坂峠道路前往，約 30km、40 分鐘。"
+    note: "可由東海北陸自動車道白鳥 IC 經油坂峠道路前往；也可由中部縱貫自動車道九頭龍 IC 起約 10 分鐘，冬季需雪胎或防滑鏈。"
 terrainSummary:
   beginner: "初級雪道占 30%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 40%，適合已能穩定轉彎的滑雪者參考。"
@@ -117,6 +131,10 @@ sources:
     url: "https://fukuiizumi.com/"
   - label: "福井和泉スキー場 ゲレンデマップ"
     url: "https://fukuiizumi.com/gerendemap/"
+  - label: "福井和泉スキー場 Access"
+    url: "https://fukuiizumi.com/access/"
+  - label: "福井和泉スキー場 Bus Tour"
+    url: "https://fukuiizumi.com/bustour/"
   - label: "Weathernews 福井和泉スキー場"
     url: "https://weathernews.jp/ski/spot/35706/"
 ---
