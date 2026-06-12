@@ -16,7 +16,7 @@ links:
   official: https://www.gujyokogen-hotel.com/
   trailMapPage: https://www.takasumountains.com/ski/
   ticket: https://www.takasumountains.com/lift/
-  access: https://www.gujyokogen-hotel.com/en/
+  access: https://www.takasu.gr.jp/access/
   snowReport: https://www.gujyokogen-hotel.com/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Gujo%20Vacance%20Mura%20Ski%20Area
 contact:
@@ -105,6 +105,19 @@ courses:
     note: 官方飯店說明為平均 11°、最大 18°，適合初級到中級與家庭練習；逐條 course 名稱待官方資料確認。
 lifts:
   total: 2
+access:
+  fromNagoya:
+    - label: 名古屋出發高速巴士與接駁
+      steps:
+        - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
+        - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE，於郡上ヴァカンス村ホテル相關站點下車。
+      estimatedTime: 約 3 小時以上
+      difficulty: hard
+      note: 郡上ヴァカンス村ホテル停靠班次較少，部分班次需由住宿設施預約；行前務必確認接駁營運日、上下車站與回程班次。
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: 雪場位於郡上ヴァカンス村ホテル旁，冬季建議以雪胎或防滑鏈前往，並先確認高原道路與飯店周邊路況。
 terrainSummary:
   beginner: 官方區域頁標示初級比例 80%，飯店頁也說明適合初學者與家庭。
   intermediate: 中級比例約 20%，主要仍是緩坡練習。
@@ -117,5 +130,7 @@ sources:
   url: https://www.takasumountains.com/ski/
 - label: TAKASU MOUNTAINS Lift Fee
   url: https://www.takasumountains.com/lift/
+- label: TAKASU MOUNTAINS Access
+  url: https://www.takasu.gr.jp/access/
 ---
 郡上高原是郡上ヴァカンス村ホテル旁的小型準私人感雪場，坡度溫和、課程數少，主要適合家庭、初學者與住宿客練習。官方沒有公開每條 course 名稱，因此目前只保留官方可確認的整體 course 數、坡度與比例。

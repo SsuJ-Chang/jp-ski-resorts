@@ -177,6 +177,19 @@ courses:
     note: 從 Buna-Daira 分出的長距離路線，終段有 35° 壁面。
 lifts:
   total: 4
+access:
+  fromNagoya:
+    - label: 名古屋出發高速巴士與接駁
+      steps:
+        - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
+        - 轉乘 Takasu Snow Shuttle Bus 鷲ヶ岳 LINE 前往鷲ヶ岳。
+      estimatedTime: 約 2.5-3 小時
+      difficulty: medium
+      note: 也可利用名古屋出發的預約制 tour bus；免費接駁有季節與班次限制，需確認上下車站與回程班次。
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: 東海北陸自動車道高鷲 IC 起約 3km；冬季需雪胎或防滑鏈，並留意高鷲周邊道路狀況。
 terrainSummary:
   beginner: North Way、Eagle 與 Panorama 提供從山頂或中段迂迴的初級路線。
   intermediate: Rabbit、Buna-Daira、Attack 與 Rinkan 有林間、天然雪與坡度變化。
@@ -190,5 +203,7 @@ sources:
   url: https://www.takasumountains.com/ski/
 - label: TAKASU MOUNTAINS Lift Fee
   url: https://www.takasumountains.com/lift/
+- label: Washigatake Access
+  url: https://ski.washigatake.jp/access/
 ---
 鷲ヶ岳位在高鷲 IC 附近，官方強調交通方便、寬廣坡面與 park。雪道配置從初級迂迴線到 35° 的尾根 course 都有，也有土曜指定日夜滑，適合從名古屋、關西方向安排一日或短天數滑雪。

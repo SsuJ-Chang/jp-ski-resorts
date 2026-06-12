@@ -187,6 +187,14 @@ courses:
 lifts:
   total: 4
 access:
+  fromNagoya:
+    - label: 名古屋出發高速巴士與接駁
+      steps:
+        - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
+        - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE 前往高鷲 Snow Park。
+      estimatedTime: 約 2.5-3 小時
+      difficulty: medium
+      note: 也可利用名古屋直行日歸 tour bus；免費接駁有季節與班次限制，回程需確認上行線巴士站。
   car:
     recommended: true
     snowTireRequired: true
@@ -204,5 +212,7 @@ sources:
   url: https://www.takasumountains.com/ski/
 - label: TAKASU MOUNTAINS Lift Fee
   url: https://www.takasumountains.com/lift/
+- label: Takasu Snow Park Access
+  url: https://www.takasu.gr.jp/access/
 ---
 高鷲 Snow Park 是 Takasu Mountains 的核心大型雪場之一，與 Dynaland 相鄰並可在山頂往來。它的重點是 4,000m 級長距離 course、寬廣緩坡、park、half pipe 與 tree run，從初學家庭到進階 snowboarder 都能安排路線。

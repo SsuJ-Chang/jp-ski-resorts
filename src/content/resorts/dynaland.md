@@ -213,6 +213,19 @@ courses:
     note: 上部壓雪後接未壓雪坡面，官方說明為機關多、較高階的 trick course。
 lifts:
   total: 5
+access:
+  fromNagoya:
+    - label: 名古屋出發高速巴士與接駁
+      steps:
+        - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
+        - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE 前往 Dynaland。
+      estimatedTime: 約 2.5-3.5 小時
+      difficulty: medium
+      note: 也可利用名古屋直行日歸 tour bus；免費接駁有季節與班次限制，回程需確認上行線巴士站。
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: 東海北陸自動車道高鷲 IC 起約 10 分鐘，ひるがの高原 Smart IC（ETC 專用）起約 15 分鐘；冬季需雪胎或防滑鏈。
 terrainSummary:
   beginner: Paradise A、Karamatsu、No.1 Gelende 與第 6 Gelende 支撐初級與家庭動線。
   intermediate: Downhill 與 Skyline B 是長距離巡航主軸，夜滑也以 Downhill 為核心。
@@ -226,5 +239,7 @@ sources:
   url: https://www.takasumountains.com/ski/
 - label: TAKASU MOUNTAINS Lift Fee
   url: https://www.takasumountains.com/lift/
+- label: Dynaland Access
+  url: https://www.dynaland.co.jp/access/
 ---
 Dynaland 是 Takasu Mountains 的夜滑與長時間營業核心，與高鷲 Snow Park 相鄰。早朝營業、夜滑、park、tree run 與多條長距離 course 讓它很適合排成一整天滑行，也能與高鷲 Snow Park 串成大範圍行程。

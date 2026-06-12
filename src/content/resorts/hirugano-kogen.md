@@ -133,6 +133,19 @@ courses:
     note: Quad lift 沿線的寬廣中級 course。
 lifts:
   total: 3
+access:
+  fromNagoya:
+    - label: 名古屋出發高速巴士
+      steps:
+        - 從名古屋搭岐阜巴士高速巴士「名古屋郡上ひるがの線」。
+        - 於「ひるがの高原スキー場直通便」站下車即可抵達雪場。
+      estimatedTime: 約 2 小時 29 分
+      difficulty: easy
+      note: 若改搭到「高速ひるがの高原」站，需再轉乘 Takasu Snow Shuttle Bus；接駁班次與營運期間需行前確認。
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: ひるがの高原 Smart IC（ETC 專用）起約 5km；未使用 ETC 時可由高鷲 IC 約 13km 或莊川 IC 約 11km 前往。
 terrainSummary:
   beginner: 林間、Spade、Clover、Dia Slope 都偏初學與家庭練習。
   intermediate: Queen 與 King Slope 提供較明確的轉彎練習與中級坡度。
@@ -145,5 +158,7 @@ sources:
   url: https://www.takasumountains.com/ski/
 - label: TAKASU MOUNTAINS Lift Fee
   url: https://www.takasumountains.com/lift/
+- label: Hirugano Kogen Access
+  url: https://www.hiruganokogen.com/access/
 ---
 ひるがの高原是 Takasu Mountains 中最適合初學者與家庭的雪場，離ひるがの高原 Smart IC 近，坡面寬且相對單純。若同行者有小孩、第一次滑雪者，或只想做半天練習，它比高鷲 Snow Park 與 Dynaland 更好掌握。

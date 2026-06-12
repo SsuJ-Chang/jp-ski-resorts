@@ -14,6 +14,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.yeti-resort.com/
+  access: https://www.yeti-resort.com/access/
   weather: https://weathernews.jp/ski/spot/35003/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Snow%20Park%20Yeti
 contact:
@@ -115,6 +116,19 @@ courses:
     note: YETI 最高難度ゲレンデ，官方標示中級到上級向。
 lifts:
   total: 3
+access:
+  fromTokyo:
+    - label: 東京出發直行巴士
+      steps:
+        - 從新宿、上野、町田等官方列出的發車點搭乘預約制直行巴士。
+        - 直達 Snow Park YETI，或改由 JR 御殿場、三島、裾野等車站轉路線巴士。
+      estimatedTime: 約 2-3 小時
+      difficulty: easy
+      note: 直行巴士與路線巴士皆為季節性班次，發車地、開始日與預約狀態需以官方頁面為準。
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: 東名裾野 IC 起約 25 分鐘；中央道河口湖 IC 經東富士五湖道路約 60 分鐘，冬季需確認富士山二合目道路狀況。
 terrainSummary:
   beginner: 初級約 50%，適合第一次滑雪或短時間體驗。
   intermediate: 中級約 40%，可在小型雪場內練習連續轉彎。
@@ -123,6 +137,12 @@ terrainSummary:
 sources:
 - label: FUJIYAMA SNOW RESORT YETI Official Website
   url: https://www.yeti-resort.com/
+- label: FUJIYAMA SNOW RESORT YETI Access
+  url: https://www.yeti-resort.com/access/
+- label: FUJIYAMA SNOW RESORT YETI Liner Bus
+  url: https://www.yeti-resort.com/access/linerbus.html
+- label: FUJIYAMA SNOW RESORT YETI Route Bus
+  url: https://www.yeti-resort.com/access/bus.html
 - label: Weathernews スノーパーク イエティ
   url: https://weathernews.jp/ski/spot/35003/
 - label: Weathernews 中部人氣排名

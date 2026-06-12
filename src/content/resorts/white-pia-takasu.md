@@ -137,6 +137,19 @@ courses:
     note: 官方列為上級 course，與 Dancing、Swing、Skip 等形成 White Pia 特有分岐。
 lifts:
   total: 4
+access:
+  fromNagoya:
+    - label: 名古屋出發高速巴士與接駁
+      steps:
+        - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
+        - 轉乘 Takasu Snow Shuttle Bus 鷲ヶ岳 LINE 前往 White Pia たかす。
+      estimatedTime: 約 2.5-3 小時
+      difficulty: medium
+      note: 免費接駁有季節與班次限制；部分時段只停靠特定方向，需行前確認上下車站與回程班次。
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: 高鷲 IC 起約 15 分鐘；ひるがの高原 Smart IC（ETC 專用）起約 10 分鐘，官方特別提醒橋面容易結冰。
 terrainSummary:
   beginner: Black Bear 下部、Center Way、Center C、Panorama Way 與 Snake Street 是主要緩坡動線。
   intermediate: Center A/B、Star、Swing、Skip 提供中級與 mogul 練習銜接。
@@ -150,5 +163,7 @@ sources:
   url: https://www.takasumountains.com/ski/
 - label: TAKASU MOUNTAINS Lift Fee
   url: https://www.takasumountains.com/lift/
+- label: White Pia Takasu Access
+  url: https://whitepia.jp/access/
 ---
 White Pia たかす是 Takasu Mountains 裡偏地形與展望特色的雪場，官方說明 course layout 呈熊手狀，從初級緩坡到 mogul、freestyle park 與高難度分岐都有。它也和鷲ヶ岳形成「ワシトピア」動線，適合安排同區滑行。

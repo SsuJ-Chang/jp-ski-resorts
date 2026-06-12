@@ -11,6 +11,7 @@ tags:
 - family_friendly
 links:
   official: http://www.chausuyama.jp/exercise/2014022119103644.html
+  access: https://www.chausuyama.jp/access/
   weather: https://weathernews.jp/ski/spot/35101/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Chausuyama%20Kogen%20Ski%20Resort
 contact:
@@ -118,6 +119,19 @@ courses:
     note: 官方數值坡度較高，實際開放需依積雪與營運公告確認。
 lifts:
   total: 2
+access:
+  fromNagoya:
+    - label: 名古屋出發自駕
+      steps:
+        - 從名古屋 IC 方向接猿投 Green Road，轉國道 153、國道 257。
+        - 進入茶臼山高原道路（縣道 507）後，前往茶臼山高原停車場。
+      estimatedTime: 約 2 小時
+      difficulty: hard
+      note: 目前公開資料以自駕動線為主；冬季山區道路需確認積雪、結冰與防滑裝備。
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: 名古屋 IC 方向約 120 分鐘；三遠南信自動車道鳳來峽 IC 方向約 70 分鐘，冬季需留意縣道與高原道路路況。
 terrainSummary:
   beginner: 初級雪道約 30%，可搭配雪上遊樂區規劃親子或第一次滑雪。
   intermediate: 中級比例最高，適合已能控制速度的滑雪者短程練習。
@@ -125,6 +139,8 @@ terrainSummary:
 sources:
 - label: Chausuyama Kogen Ski Resort Official Website
   url: http://www.chausuyama.jp/exercise/2014022119103644.html
+- label: Chausuyama Kogen Access
+  url: https://www.chausuyama.jp/access/
 - label: Weathernews 茶臼山高原スキー場
   url: https://weathernews.jp/ski/spot/35101/
 - label: Weathernews 中部人氣排名
