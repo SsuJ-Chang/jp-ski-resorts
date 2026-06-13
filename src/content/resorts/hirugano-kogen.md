@@ -29,7 +29,7 @@ contact:
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/26-2026/3/22，實際依積雪與官方公告調整
-  hours: 平日 8:30-16:30；土日祝 8:00-16:30
+  hours: 平日 8:30-16:30；週末及國定假日 8:00-16:30
   source: https://www.takasumountains.com/ski/
 trailMaps:
 - label: ひるがの高原雪場圖
@@ -57,7 +57,7 @@ snowWeather:
       weather: 雪
       low: "-5°C"
       high: "4°C"
-    - date: 12/28(日)
+    - date: 12/28(週日)
       weather: 大雪
       low: "-8°C"
       high: "0°C"

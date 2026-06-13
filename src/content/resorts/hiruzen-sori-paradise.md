@@ -25,7 +25,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/28-2026/02/23"
-  hours: "平日：9:00〜16:30 / 休日：9:00〜16:30 / 夜滑：無"
+  hours: "平日：9:00〜16:30 / 假日：9:00〜16:30 / 夜滑：無"
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/36611/"
 snowWeather:
@@ -39,7 +39,7 @@ snowWeather:
       weather: "雪"
       low: "-5°C"
       high: "4°C"
-    - date: "12/28(日)"
+    - date: "12/28(週日)"
       weather: "大雪"
       low: "-8°C"
       high: "0°C"
@@ -95,7 +95,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "自駕參考：米子自動車道蒜山 IC 至現地約 3 分。停車場約 600 台，平日與休日免費；冬季需準備雪胎或雪鏈。"
+    note: "自駕參考：米子自動車道蒜山 IC 至現地約 3 分。停車場約 600 台，平日與假日免費；冬季需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: "主要為雪橇與親子雪上遊樂取向，適合以玩雪、雪盆與短時間停留來安排。"
   intermediate: "公開資料未列一般中級滑走雪道。"

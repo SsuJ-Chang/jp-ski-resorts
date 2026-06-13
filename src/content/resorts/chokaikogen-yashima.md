@@ -29,7 +29,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/02-2026/03/22"
-  hours: "平日：9:00〜16:00 / 休日：9:00〜16:00 / ナイター：17:30〜21:00"
+  hours: "平日：9:00〜16:00 / 假日：9:00〜16:00 / 夜滑：17:30〜21:00"
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/33206/"
 snowWeather:
@@ -43,7 +43,7 @@ snowWeather:
       weather: "雪"
       low: "-5°C"
       high: "4°C"
-    - date: "12/28(日)"
+    - date: "12/28(週日)"
       weather: "大雪"
       low: "-8°C"
       high: "0°C"
@@ -94,7 +94,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "自駕參考：自駕：国道108号線から9km。案内塔あり (25分)；自駕：国道7号線西目から約30km、象潟から約30km。 (60分)。停車場：1000台 / 平日 無料 / 休日 無料。冬季山路需準備雪胎或雪鏈。"
+    note: "自駕參考：自駕：国道108号線から9km。案内塔あり (25分)；自駕：国道7号線西目から約30km、象潟から約30km。 (60分)。停車場：1000台 / 平日 免費 / 假日 免費。冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: "初級比例約 20%，可作為暖身、親子同行或初訪時的主要安排。"
   intermediate: "中級比例約 50%，適合已能穩定轉彎的滑雪者串接主要雪道。"

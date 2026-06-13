@@ -31,7 +31,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025 年 12 月 20 日～2026 年 3 月 29 日
   hours: 日間 8:00～17:00；有夜滑營業日時營業至 19:00 或 20:00
-  nightSkiingHours: 2025 年 12 月 20 日～2026 年 3 月 28 日，平日、日曜與連休最終日至 19:00，土曜至 20:00
+  nightSkiingHours: 2025 年 12 月 20 日～2026 年 3 月 28 日，平日、週日與連休最終日至 19:00，週六至 20:00
   note: 營業期間、時間與開放範圍會受積雪與天候影響，3 月 29 日沒有夜滑營業。
   source: https://iwa-ppara.com/price/
 trailMaps:
@@ -54,11 +54,11 @@ tickets:
     audience: 大人、兒童、熟齡
     price: 大人 ¥5,800、兒童 ¥3,800、熟齡 ¥4,600
     note: 8:00～夜滑結束。
-  - name: 午後＆ナイター入場券
+  - name: 午後＆夜滑入場券
     audience: 大人、兒童、熟齡
     price: 大人 ¥4,500、兒童 ¥2,800、熟齡 ¥3,500
     note: 13:00～夜滑結束。
-  - name: ナイター入場券
+  - name: 夜滑入場券
     audience: 大人、兒童、熟齡
     price: 大人 ¥1,500、兒童 ¥1,000、熟齡 ¥1,000
     note: 17:00～夜滑結束。
@@ -79,7 +79,7 @@ snowWeather:
     weather: 雪
     low: "-5°C"
     high: 4°C
-  - date: 12/28(日)
+  - date: 12/28(週日)
     weather: 大雪
     low: "-8°C"
     high: 0°C
@@ -277,7 +277,7 @@ access:
     - 從越後湯澤站東口案內所附近搭乘岩原免費接駁巴士前往山麓或中腹リゾートセンター。
     estimatedTime: 站後約 10-15 分鐘
     difficulty: easy
-    note: 土休日與年末年始有定期免費接駁；平日班次較少，另有需預約的循環巴士與岩原—上越國際接駁，出發前請確認當季時刻表。越後湯澤站起約 10-15 分鐘。
+    note: 土假日與年末年始有定期免費接駁；平日班次較少，另有需預約的循環巴士與岩原—上越國際接駁，出發前請確認當季時刻表。越後湯澤站起約 10-15 分鐘。
     links:
     - label: Iwappara Ski Resort Access
       url: https://iwa-ppara.com/access/

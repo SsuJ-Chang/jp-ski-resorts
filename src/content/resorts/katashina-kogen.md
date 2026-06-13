@@ -27,7 +27,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/25-2026/03/22"
-  hours: "平日：8:30〜16:15（2 月以後至 16:30） / 休日：8:00〜16:15（2 月以後至 16:30）"
+  hours: "平日：8:30〜16:15（2 月以後至 16:30） / 假日：8:00〜16:15（2 月以後至 16:30）"
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/34229/"
 trailMaps:
@@ -42,9 +42,9 @@ tickets:
   source: "https://weathernews.jp/ski/spot/34229/"
   note: "2025-2026 主要票種摘要；實際販售條件、日期與折扣請以官方公告為準。"
   plans:
-    - name: "休日 1 日券"
+    - name: "假日 1 日券"
       price: "成人 ¥5,100、兒童 ¥3,600、樂齡 ¥4,800"
-    - name: "休日 Super 上午・下午券"
+    - name: "假日 Super 上午・下午券"
       price: "成人 ¥4,600、兒童 ¥3,200、樂齡 ¥4,300"
     - name: "1 回券"
       price: "成人 ¥500、兒童 ¥400、樂齡 ¥500"
@@ -63,7 +63,7 @@ snowWeather:
       weather: "雪"
       low: "-5°C"
       high: "4°C"
-    - date: "12/28(日)"
+    - date: "12/28(週日)"
       weather: "大雪"
       low: "-8°C"
       high: "0°C"
@@ -115,7 +115,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "自駕參考：關越自動車道沼田 IC 至雪場約 35 分。停車場約 1,200 台，平日免費、休日約 ¥1,000；冬季山路需準備雪胎或雪鏈。"
+    note: "自駕參考：關越自動車道沼田 IC 至雪場約 35 分。停車場約 1,200 台，平日免費、假日約 ¥1,000；冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: "初級比例約 30%，適合基礎練習與親子同行。"
   intermediate: "中級比例約 50%，可作為主要滑行與穩定轉彎練習區域。"

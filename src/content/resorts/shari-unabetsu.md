@@ -26,7 +26,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/上旬-2026/03/上旬"
-  hours: "平日：9:30〜16:00 / 休日：9:30〜16:00 / ナイター：18:00〜21:00(月土日祝日以外)"
+  hours: "平日：9:30〜16:00 / 假日：9:30〜16:00 / 夜滑：18:00〜21:00(月週末及國定假日以外)"
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/31701/"
 snowWeather:
@@ -40,7 +40,7 @@ snowWeather:
       weather: "雪"
       low: "-5°C"
       high: "4°C"
-    - date: "12/28(日)"
+    - date: "12/28(週日)"
       weather: "大雪"
       low: "-8°C"
       high: "0°C"
@@ -97,12 +97,12 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "停車場：80台 / 平日 無料 / 休日 無料。冬季山路需準備雪胎或雪鏈。"
+    note: "停車場：80台 / 平日 免費 / 假日 免費。冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: "初級比例約 30%，可作為暖身、親子同行或初訪時的主要安排。"
   intermediate: "中級比例約 40%，適合已能穩定轉彎的滑雪者串接主要雪道。"
   advanced: "進階比例約 30%，建議視當日積雪與壓雪狀況選擇。"
-  snowboard: "一部のみ可；單板實際可滑區域仍以現場開放為準。"
+  snowboard: "一部限定可；單板實際可滑區域仍以現場開放為準。"
 externalContent:
   blogs: []
   vlogs: []

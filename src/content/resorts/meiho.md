@@ -62,31 +62,31 @@ snowWeather:
   snowDepth: 200 cm
   updatedAt: 2026/4/30 09:00:00
   forecast:
-    - date: 12/27(日)
+    - date: 12/27(週日)
       weather: 晴
       low: "-5°C"
       high: "4°C"
-    - date: 12/28(月)
+    - date: 12/28(週一)
       weather: 雪
       low: "-8°C"
       high: "0°C"
-    - date: 12/29(火)
+    - date: 12/29(週二)
       weather: 雪
       low: "-9°C"
       high: "-2°C"
-    - date: 12/30(水)
+    - date: 12/30(週三)
       weather: 晴
       low: "-5°C"
       high: "0°C"
-    - date: 12/31(木)
+    - date: 12/31(週四)
       weather: 晴
       low: "-3°C"
       high: "3°C"
-    - date: 1/1(金)
+    - date: 1/1(週五)
       weather: 晴
       low: "-4°C"
       high: "1°C"
-    - date: 1/2(土)
+    - date: 1/2(週六)
       weather: 晴
       low: "8°C"
       high: "3°C"

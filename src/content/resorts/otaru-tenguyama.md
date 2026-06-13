@@ -28,10 +28,10 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/3/22"
-  hours: "平日：9:00〜16:00 假日：9:00〜16:00 夜滑：1/10~2/22 の土日祝 （19：00迄）"
+  hours: "平日：9:00〜16:00 假日：9:00〜16:00 夜滑：1/10~2/22 の週末及國定假日 （19：00迄）"
   note: "營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。"
   source: "https://weathernews.jp/ski/spot/31503/"
-  nightSkiingHours: "1/10~2/22 の土日祝 （19：00迄）"
+  nightSkiingHours: "1/10~2/22 の週末及國定假日 （19：00迄）"
 tickets:
   season: "2025-2026"
   currency: "JPY"
@@ -58,7 +58,7 @@ snowWeather:
     weather: "雪"
     low: "-5°C"
     high: "4°C"
-  - date: "12/28(日)"
+  - date: "12/28(週日)"
     weather: "大雪"
     low: "-8°C"
     high: "0°C"

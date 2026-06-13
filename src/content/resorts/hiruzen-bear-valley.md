@@ -18,7 +18,7 @@ links:
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/27-2026/03/01
-  hours: 平日：8:30〜16:55 休日：8:00〜16:55 ナイター：17:30〜21:00
+  hours: 平日：8:30〜16:55 假日：8:00〜16:55 夜滑：17:30〜21:00
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36607/
 trailMaps:
@@ -38,7 +38,7 @@ snowWeather:
     weather: 雪
     low: -5°C
     high: 4°C
-  - date: 12/28(日)
+  - date: 12/28(週日)
     weather: 大雪
     low: -8°C
     high: 0°C
@@ -74,7 +74,7 @@ courses:
   - name: メインゲレンデ
     difficulty: intermediate
     note: 中級主坡，適合一般巡航；目前官方來源未公開更細的全長、坡度或雪面特色描述。
-  - name: ナイターゲレンデ
+  - name: 夜滑ゲレンデ
     difficulty: intermediate
     note: 官方介紹有夜滑營運；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: チャレンジバーン
@@ -85,7 +85,7 @@ courses:
   advancedRatio: 20
 terrainSummary:
   beginner: 初級雪道以 ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 メインゲレンデ、ナイターゲレンデ 串接較長滑行或主坡巡航。
+  intermediate: 中級者可用 メインゲレンデ、夜滑ゲレンデ 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 チャレンジバーン，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 sources:
@@ -115,7 +115,7 @@ tickets:
     price: 成人 ¥3,500 兒童 ¥2,500
   - name: 午後券
     price: 成人 ¥3,500 兒童 ¥2,500
-  - name: ナイター券
+  - name: 夜滑券
     price: 成人 ¥3,000 兒童 ¥3,000
 elevation:
   top: 727
@@ -130,6 +130,6 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：伯備線江尾駅からタクシーで (30分) 車 ：米子自動車道蒜山ICより (5分) 車 ：岡山、倉敷から (70分) 飛行機：岡山空港から (70分) 500台 平日 無料 休日 ナイター時無料、他500円
+    note: 交通資訊摘要：伯備線江尾駅からタクシーで (30分) 車 ：米子自動車道蒜山ICより (5分) 車 ：岡山、倉敷から (70分) 飛行機：岡山空港から (70分) 500台 平日 免費 假日 夜滑時免費、他500円
 ---
 蒜山 Bear Valley（ひるぜんベアバレー）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

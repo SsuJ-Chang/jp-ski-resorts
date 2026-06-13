@@ -39,7 +39,7 @@ tickets:
       audience: "成人／兒童／樂齡"
       price: "成人 ¥6,000、兒童 ¥1,200、樂齡 ¥4,800"
     -
-      name: "1day passport(8:30〜夜間終了まで）"
+      name: "1day passport(8:30〜夜間終了止）"
       audience: "成人／兒童／樂齡"
       price: "成人 ¥7,500、兒童 ¥1,300、樂齡 ¥6,000"
     -
@@ -63,7 +63,7 @@ snowWeather:
       low: "-5°C"
       high: "4°C"
     -
-      date: "12/28(日)"
+      date: "12/28(週日)"
       weather: "大雪"
       low: "-8°C"
       high: "0°C"

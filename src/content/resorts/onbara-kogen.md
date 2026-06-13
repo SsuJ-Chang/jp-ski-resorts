@@ -18,7 +18,7 @@ links:
 season:
   label: 2025-2026
   operatingPeriod: 2026/01/05-2026/03/01
-  hours: 平日：8:30〜16:30 休日：8:30〜16:30
+  hours: 平日：8:30〜16:30 假日：8:30〜16:30
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36602/
 trailMaps:
@@ -38,7 +38,7 @@ snowWeather:
     weather: 雪
     low: -5°C
     high: 4°C
-  - date: 12/28(日)
+  - date: 12/28(週日)
     weather: 大雪
     low: -8°C
     high: 0°C
@@ -142,7 +142,7 @@ tickets:
   - name: 午後券
     price: 成人 ¥3,000 兒童 ¥2,000
   - name: 票券
-    price: 樂齡1日券（日曜祝日を除く） 樂齡 ¥3,500
+    price: 樂齡1日券（週日國定假日除外） 樂齡 ¥3,500
   - name: 回数券（11回）
     price: 成人 ¥3,000
   - name: 1回券
@@ -160,6 +160,6 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：岡山IC→院庄IC→一般道 (120分) 車 ：高松西IC→院庄IC→一般道 (150分) 700台 平日 無料 休日 無料
+    note: 交通資訊摘要：岡山IC→院庄IC→一般道 (120分) 車 ：高松西IC→院庄IC→一般道 (150分) 700台 平日 免費 假日 免費
 ---
 恩原高原（恩原高原スキー場）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

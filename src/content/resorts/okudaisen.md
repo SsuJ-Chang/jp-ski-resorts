@@ -71,7 +71,7 @@ snowWeather:
     weather: 雪
     low: "-5°C"
     high: 4°C
-  - date: 12/28(日)
+  - date: 12/28(週日)
     weather: 大雪
     low: "-8°C"
     high: 0°C

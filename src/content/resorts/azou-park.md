@@ -24,7 +24,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/27-2026/03/15"
-  hours: "休日：9:00〜16:00（積雪時的週末假日營業）"
+  hours: "假日：9:00〜16:00（積雪時的週末假日營業）"
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/36913/"
 trailMaps:
@@ -52,7 +52,7 @@ snowWeather:
       weather: "雪"
       low: "-5°C"
       high: "4°C"
-    - date: "12/28(日)"
+    - date: "12/28(週日)"
       weather: "大雪"
       low: "-8°C"
       high: "0°C"
@@ -94,7 +94,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "自駕參考：鳥取市區至雪場約 40 分；山陰道鳥取西 IC 至雪場約 30 分。停車場約 37 台，休日停車免費；冬季山路需準備雪胎或雪鏈。"
+    note: "自駕參考：鳥取市區至雪場約 40 分；山陰道鳥取西 IC 至雪場約 30 分。停車場約 37 台，假日停車免費；冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: "小型單區雪場，適合以短時間練習或親子雪上活動來安排。"
   intermediate: "公開資料未列一般中級滑走雪道。"

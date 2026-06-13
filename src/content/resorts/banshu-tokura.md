@@ -18,7 +18,7 @@ links:
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/30-2026/03/01
-  hours: 平日：定休日 ・ 年末年始は営業(12/27〜1/4まで営業) 休日：8:00〜17:00 ナイター：なし
+  hours: 平日：定假日 ・ 年末年始は營業(12/27〜1/4止營業) 假日：8:00〜17:00 夜滑：無
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36311/
 trailMaps:
@@ -38,7 +38,7 @@ snowWeather:
     weather: 雪
     low: -5°C
     high: 4°C
-  - date: 12/28(日)
+  - date: 12/28(週日)
     weather: 大雪
     low: -8°C
     high: 0°C
@@ -105,7 +105,7 @@ tickets:
   source: https://weathernews.jp/ski/spot/36311/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券(土日祝)
+  - name: 1日券(週末及國定假日)
     price: 成人 ¥4,000 兒童 ¥500 樂齡 ¥3,500
   - name: 午後券
     price: 成人 ¥3,000 兒童 ¥500 樂齡 ¥3,000
@@ -128,6 +128,6 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：中国道山崎IC (50分) 車 ：養父IC (60分) 550台 休日 1000円
+    note: 交通資訊摘要：中国道山崎IC (50分) 車 ：養父IC (60分) 550台 假日 1000円
 ---
 播州戶倉（ばんしゅう戸倉スキー場）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

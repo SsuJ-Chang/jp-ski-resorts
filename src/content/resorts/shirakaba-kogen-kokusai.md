@@ -60,7 +60,7 @@ snowWeather:
       low: "-5°C"
       high: "4°C"
     -
-      date: "12/28(日)"
+      date: "12/28(週日)"
       weather: "大雪"
       low: "-8°C"
       high: "0°C"
@@ -117,7 +117,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "自駕可參考官方路線：中央自動車道高井戸IC→中央道諏訪南IC経由 (174分)；冬季需準備雪胎或防滑鏈。停車資訊：1500台、平日  免費、假日  一部(約20台分)のみ有料。"
+    note: "自駕可參考官方路線：中央自動車道高井戸IC→中央道諏訪南IC経由 (174分)；冬季需準備雪胎或防滑鏈。停車資訊：1500台、平日  免費、假日  一部(約20台分)限定有料。"
 terrainSummary:
   beginner: "初級雪道約 50%，可安排暖身、基礎練習或親子滑行。"
   intermediate: "中級雪道約 40%，適合穩定滑行與轉彎練習。"

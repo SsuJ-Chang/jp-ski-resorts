@@ -29,7 +29,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/05-2026/03/08"
-  hours: "平日：9:00〜16:00 / 休日：9:00〜16:00 / ナイター：16:00〜20:00 ※土曜日は18:00まで、日、月曜日は無し"
+  hours: "平日：9:00〜16:00 / 假日：9:00〜16:00 / 夜滑：16:00〜20:00 ※週六は18:00止、週日、週一は無"
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/32201/"
 snowWeather:
@@ -43,7 +43,7 @@ snowWeather:
       weather: "雪"
       low: "-5°C"
       high: "4°C"
-    - date: "12/28(日)"
+    - date: "12/28(週日)"
       weather: "大雪"
       low: "-8°C"
       high: "0°C"
@@ -88,7 +88,7 @@ access:
   fromSapporo:
     - label: "大眾交通工具（主要車站銜接）"
       steps:
-        - "鐵路：JR石勝線占冠駅下車 日高町までバスで (30分)"
+        - "鐵路：JR石勝線占冠駅下車 日高町止バスで (30分)"
       estimatedTime: "約 30 分"
       difficulty: "medium"
   fromAirport:
@@ -100,7 +100,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "自駕參考：自駕：道東自動車道占冠ICより (20分)；自駕：日高自動車道日高富川ICより (60分)。停車場：300台 / 平日 無料 / 休日 無料。冬季山路需準備雪胎或雪鏈。"
+    note: "自駕參考：自駕：道東自動車道占冠ICより (20分)；自駕：日高自動車道日高富川ICより (60分)。停車場：300台 / 平日 免費 / 假日 免費。冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: "初級比例約 30%，可作為暖身、親子同行或初訪時的主要安排。"
   intermediate: "中級比例約 40%，適合已能穩定轉彎的滑雪者串接主要雪道。"

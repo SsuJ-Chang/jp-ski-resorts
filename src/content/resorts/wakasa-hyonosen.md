@@ -19,7 +19,7 @@ links:
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/27-2026/03/22
-  hours: 平日：9:00〜16:00 休日：8:00〜17:00 ナイター：なし
+  hours: 平日：9:00〜16:00 假日：8:00〜17:00 夜滑：無
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36805/
 trailMaps:
@@ -39,7 +39,7 @@ snowWeather:
     weather: 雪
     low: -5°C
     high: 4°C
-  - date: 12/28(日)
+  - date: 12/28(週日)
     weather: 大雪
     low: -8°C
     high: 0°C
@@ -147,6 +147,6 @@ access:
     recommended: true
     snowTireRequired: true
     note: 交通資訊摘要：若桜鉄道若桜駅より車で (20分) 車 ：中国山崎IC→R29→R482→わかさ氷ノ山 (70km) (100分) 車 ：津山IC→R29→R53→R482→わかさ氷ノ山 (88km)
-      (120分) 870台 平日 無料 休日 600円
+      (120分) 870台 平日 免費 假日 600円
 ---
 若櫻冰之山（わかさ氷ノ山スキー場）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

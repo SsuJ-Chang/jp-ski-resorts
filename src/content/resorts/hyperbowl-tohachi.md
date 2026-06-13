@@ -28,7 +28,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/27-2026/03/08"
-  hours: "平日：8:30〜16:40 / 休日：8:30〜16:40 / ナイター：なし"
+  hours: "平日：8:30〜16:40 / 假日：8:30〜16:40 / 夜滑：無"
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/36307/"
 snowWeather:
@@ -42,7 +42,7 @@ snowWeather:
       weather: "雪"
       low: "-5°C"
       high: "4°C"
-    - date: "12/28(日)"
+    - date: "12/28(週日)"
       weather: "大雪"
       low: "-8°C"
       high: "0°C"
@@ -93,7 +93,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "自駕參考：自駕：中国吹田IC→北近畿豊岡道八鹿氷ノ山IC→国道9号 (120分)；自駕：岡山IC→播但連絡道和田山IC経由→北近畿豊岡道八鹿氷ノ山IC→国道9号 (150分)。停車場：1000台 / 平日 1000円 / 休日 1500円。冬季山路需準備雪胎或雪鏈。"
+    note: "自駕參考：自駕：中国吹田IC→北近畿豊岡道八鹿氷ノ山IC→国道9号 (120分)；自駕：岡山IC→播但連絡道和田山IC経由→北近畿豊岡道八鹿氷ノ山IC→国道9号 (150分)。停車場：1000台 / 平日 1000円 / 假日 1500円。冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: "初級比例約 30%，可作為暖身、親子同行或初訪時的主要安排。"
   intermediate: "中級比例約 40%，適合已能穩定轉彎的滑雪者串接主要雪道。"

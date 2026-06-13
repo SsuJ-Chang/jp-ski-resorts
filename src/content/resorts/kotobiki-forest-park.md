@@ -19,7 +19,7 @@ links:
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/19-2026/03/01
-  hours: 平日：8:30〜16:30 休日：8:30〜16:30 ナイター：貸し切り販売のみ（要予約）
+  hours: 平日：8:30〜16:30 假日：8:30〜16:30 夜滑：貸し切り販売限定（要予約）
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36804/
 trailMaps:
@@ -39,7 +39,7 @@ snowWeather:
     weather: 雪
     low: -5°C
     high: 4°C
-  - date: 12/28(日)
+  - date: 12/28(週日)
     weather: 大雪
     low: -8°C
     high: 0°C
@@ -145,6 +145,6 @@ access:
     recommended: true
     snowTireRequired: true
     note: 交通資訊摘要：芸備線三次駅下車でタクシー（バスあり） (40分) 車 ：中国自動車道 三次ICより国道54号松江方面へ (40分) 車 ：山陰自動車道吉田掛合ICより広島方面へR54で約20km (20分)
-      500台 平日 無料 休日 無料
+      500台 平日 免費 假日 免費
 ---
 琴引 Forest Park（琴引フォレストパーク）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

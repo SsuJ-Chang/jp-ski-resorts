@@ -31,7 +31,7 @@ season:
   label: 2025-2026
   operatingPeriod: 2025/11/21-2026/4/6，實際依積雪與官方公告調整
   hours: 全日 8:00-16:30
-  nightSkiingHours: 土曜限定夜滑，指定日 16:00-22:30
+  nightSkiingHours: 週六限定夜滑，指定日 16:00-22:30
   source: https://www.takasumountains.com/ski/
 trailMaps:
 - label: 鷲ヶ岳 course map
@@ -59,7 +59,7 @@ snowWeather:
       weather: 雪
       low: "-5°C"
       high: "4°C"
-    - date: 12/28(日)
+    - date: 12/28(週日)
       weather: 大雪
       low: "-8°C"
       high: "0°C"
@@ -95,7 +95,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://ski.washigatake.jp/gelande/
-  summary: 鷲ヶ岳官方列出 13 條 course，最長 3,500m，特色是高鷲 IC 附近的便利交通、寬大名物坡面、park 與土曜指定日夜滑。
+  summary: 鷲ヶ岳官方列出 13 條 course，最長 3,500m，特色是高鷲 IC 附近的便利交通、寬大名物坡面、park 與週六指定日夜滑。
   details:
   - name: ノースウェイコース / North Way Course
     difficulty: beginner
@@ -206,4 +206,4 @@ sources:
 - label: Washigatake Access
   url: https://ski.washigatake.jp/access/
 ---
-鷲ヶ岳位在高鷲 IC 附近，官方強調交通方便、寬廣坡面與 park。雪道配置從初級迂迴線到 35° 的尾根 course 都有，也有土曜指定日夜滑，適合從名古屋、關西方向安排一日或短天數滑雪。
+鷲ヶ岳位在高鷲 IC 附近，官方強調交通方便、寬廣坡面與 park。雪道配置從初級迂迴線到 35° 的尾根 course 都有，也有週六指定日夜滑，適合從名古屋、關西方向安排一日或短天數滑雪。

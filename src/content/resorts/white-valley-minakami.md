@@ -30,7 +30,7 @@ contact:
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/3/15（原訂至 2026/3/22，官方雪場頁公告 3/15 結束）
-  hours: 平日 9:00-16:00，週末假日 8:30-16:15，定休日為每週三、四，部分假日除外
+  hours: 平日 9:00-16:00，週末假日 8:30-16:15，定假日為每週三、四，部分假日除外
   note: 官方營業時間頁原訂 2025/12/20-2026/3/22，官方雪場頁與公開資料顯示 2025-2026 雪季已於 2026/3/15 結束。
   source: https://www.whitevalley.jp/free/time
 trailMaps:
@@ -73,7 +73,7 @@ snowWeather:
       weather: 雪
       low: "-5°C"
       high: "4°C"
-    - date: 12/28(日)
+    - date: 12/28(週日)
       weather: 大雪
       low: "-8°C"
       high: "0°C"

@@ -36,7 +36,7 @@ tickets:
   source: https://weathernews.jp/ski/spot/35003/
   note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、營業時段與直行巴士資訊請以官方為準。
   plans:
-  - name: 土日祝 1 日券
+  - name: 週末及國定假日 1 日券
     audience: 成人、兒童、長者
     price: 成人 ¥5,300、兒童 ¥4,300、長者 ¥4,300
   - name: 平日 1 日券
@@ -59,7 +59,7 @@ snowWeather:
       weather: 雪
       low: "-5°C"
       high: "4°C"
-    - date: 12/28(日)
+    - date: 12/28(週日)
       weather: 大雪
       low: "-8°C"
       high: "0°C"

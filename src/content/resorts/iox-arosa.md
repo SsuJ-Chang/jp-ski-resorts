@@ -51,7 +51,7 @@ snowWeather:
       weather: "雪"
       low: "-5°C"
       high: "4°C"
-    - date: "12/28(日)"
+    - date: "12/28(週日)"
       weather: "大雪"
       low: "-8°C"
       high: "0°C"
@@ -96,7 +96,7 @@ courses:
     - name: "上部中級コース（名稱待確認）"
       difficulty: intermediate
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "ナイターゲレンデ（名稱待確認）"
+    - name: "夜滑ゲレンデ（名稱待確認）"
       difficulty: intermediate
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
     - name: "スノーパーク（名稱待確認）"

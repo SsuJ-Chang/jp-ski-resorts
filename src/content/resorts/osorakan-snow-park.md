@@ -17,7 +17,7 @@ links:
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/27-2026/03/29
-  hours: 平日：8:00〜17:00 休日：8:00〜17:00
+  hours: 平日：8:00〜17:00 假日：8:00〜17:00
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36706/
 trailMaps:
@@ -37,7 +37,7 @@ snowWeather:
     weather: 雪
     low: -5°C
     high: 4°C
-  - date: 12/28(日)
+  - date: 12/28(週日)
     weather: 大雪
     low: -8°C
     high: 0°C
@@ -124,9 +124,9 @@ tickets:
     price: 成人 ¥500
   - name: 2日券
     price: 成人 ¥9,900
-  - name: 休日9時間券
+  - name: 假日9時間券
     price: 成人 ¥5,900 兒童 ¥2,000 樂齡 ¥4,900
-  - name: 休日5時間券
+  - name: 假日5時間券
     price: 成人 ¥5,300 兒童 ¥1,500 樂齡 ¥4,300
 elevation:
   top: 1346
@@ -141,6 +141,6 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：広島駅 車 ：広島IC→戸河内IC→一般道 (57分) 車 ：岡山IC→戸河内IC→一般道 (169分) 1700台 平日 無料 休日 無料
+    note: 交通資訊摘要：広島駅 車 ：広島IC→戸河内IC→一般道 (57分) 車 ：岡山IC→戸河内IC→一般道 (169分) 1700台 平日 免費 假日 免費
 ---
 恐羅漢 Snow Park（恐羅漢スノーパーク）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。

@@ -30,10 +30,10 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/6-2026/5/3"
-  hours: "平日：纜車開始運行 9:00 ※結束時間依時期變動 假日：纜車開始運行 9:00 ※結束時間依時期變動 夜滑：16:00〜19:00(ナイター営業日はキロロHPでご確認下さい。）"
+  hours: "平日：纜車開始運行 9:00 ※結束時間依時期變動 假日：纜車開始運行 9:00 ※結束時間依時期變動 夜滑：16:00〜19:00(夜滑營業日はキロロHPでご確認下さい。）"
   note: "營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。"
   source: "https://weathernews.jp/ski/spot/31609/"
-  nightSkiingHours: "16:00〜19:00(ナイター営業日はキロロHPでご確認下さい。）"
+  nightSkiingHours: "16:00〜19:00(夜滑營業日はキロロHPでご確認下さい。）"
 tickets:
   season: "2025-2026"
   currency: "JPY"
@@ -60,7 +60,7 @@ snowWeather:
     weather: "雪"
     low: "-5°C"
     high: "4°C"
-  - date: "12/28(日)"
+  - date: "12/28(週日)"
     weather: "大雪"
     low: "-8°C"
     high: "0°C"

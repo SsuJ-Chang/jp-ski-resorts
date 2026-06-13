@@ -31,7 +31,7 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/29"
-  hours: "平日：9:00〜16:00 / 休日：8:30〜16:00"
+  hours: "平日：9:00〜16:00 / 假日：8:30〜16:00"
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/33204/"
 snowWeather:
@@ -45,7 +45,7 @@ snowWeather:
       weather: "雪"
       low: "-5°C"
       high: "4°C"
-    - date: "12/28(日)"
+    - date: "12/28(週日)"
       weather: "大雪"
       low: "-8°C"
       high: "0°C"
@@ -97,13 +97,13 @@ access:
   fromAirport:
     - label: "機場銜接"
       steps:
-        - "飛機：秋田空港よりエアポートライナーで田沢湖まで(2日前までに要予約018-867-7444) (105分)"
+        - "飛機：秋田空港よりエアポートライナーで田沢湖止(2日前止に要予約018-867-7444) (105分)"
       estimatedTime: "約 105 分"
       difficulty: "medium"
   car:
     recommended: true
     snowTireRequired: true
-    note: "自駕參考：自駕：仙台宮城ICより東北道(179.7km)のち盛岡ICより一般道(49km) (210分)；自駕：川口JCTより東北道(512.1km)のち盛岡ICより一般道(49km) (510分)。停車場：2800台 / 平日 無料 / 休日 無料。冬季山路需準備雪胎或雪鏈。"
+    note: "自駕參考：自駕：仙台宮城ICより東北道(179.7km)のち盛岡ICより一般道(49km) (210分)；自駕：川口JCTより東北道(512.1km)のち盛岡ICより一般道(49km) (510分)。停車場：2800台 / 平日 免費 / 假日 免費。冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
   beginner: "初級比例約 30%，可作為暖身、親子同行或初訪時的主要安排。"
   intermediate: "中級比例約 40%，適合已能穩定轉彎的滑雪者串接主要雪道。"

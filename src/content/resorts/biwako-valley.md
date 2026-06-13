@@ -17,7 +17,7 @@ links:
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/28-2026/03/22
-  hours: 平日：8:30〜16:30 休日：8:30〜16:30
+  hours: 平日：8:30〜16:30 假日：8:30〜16:30
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36001/
 trailMaps:
@@ -37,7 +37,7 @@ snowWeather:
     weather: 雪
     low: -5°C
     high: 4°C
-  - date: 12/28(日)
+  - date: 12/28(週日)
     weather: 大雪
     low: -8°C
     high: 0°C
@@ -136,6 +136,6 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：湖西線志賀駅下車 路線バス (10分) 車 ：名神京都東IC→湖西道路「志賀」 (5分) 1700台 平日 1000円 休日 1000円
+    note: 交通資訊摘要：湖西線志賀駅下車 路線バス (10分) 車 ：名神京都東IC→湖西道路「志賀」 (5分) 1700台 平日 1000円 假日 1000円
 ---
 琵琶湖 Valley（びわ湖バレイ）資料依官方雪道資訊與 2025-2026 公開雪場資料整理；實際開放雪道、票價與營業時間請以出發日前官方公告為準。
