@@ -2,10 +2,12 @@
 import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import JapanRegionMap from '../../components/JapanRegionMap.astro'
+import PrefectureFilterNav from '../../components/PrefectureFilterNav.astro'
+import ResortSearchResults from '../../components/ResortSearchResults.astro'
 import { regions } from '../../data/regions'
-import { tagLabels } from '../../data/tags'
-import { filterPublishedResorts, sortResortsByEnglishName } from '../../utils/resorts'
-import { withBasePath } from '../../utils/paths'
+import { getPrefectureStats } from '../../utils/resortBrowse'
+import { sortResortsForListing } from '../../utils/resortOrdering'
+import { filterPublishedResorts } from '../../utils/resorts'
 
 export function getStaticPaths() {
   return regions.map((region) => ({
@@ -16,8 +18,12 @@ export function getStaticPaths() {
 
 const { region } = Astro.props
 const publishedResorts = filterPublishedResorts(await getCollection('resorts'))
-const resorts = sortResortsByEnglishName(
+const resorts = sortResortsForListing(
   publishedResorts.filter((resort) => resort.data.region === region.key),
+)
+const prefectureStats = getPrefectureStats(resorts)
+const regionNamesByKey = Object.fromEntries(
+  regions.map((region) => [region.key, region.name.zhTw]),
 )
 ---
 
@@ -37,24 +43,19 @@ const resorts = sortResortsByEnglishName(
       <JapanRegionMap mode="region" region={region} labelledBy={`${region.key}-map-title`} />
     </section>
 
+    <PrefectureFilterNav
+      stats={prefectureStats}
+      basePath={`/regions/${region.key}/`}
+    />
+
     {
       resorts.length > 0 ? (
-        <section class="resort-grid" aria-label={`${region.name.zhTw} resorts`}>
-          {resorts.map((resort) => (
-            <a class="resort-card" href={withBasePath(`/resorts/${resort.id}/`)}>
-              <div>
-                <p class="resort-card__meta">{resort.data.prefecture}</p>
-                <h2>{resort.data.name.zhTw}</h2>
-                <p>{resort.data.name.en}</p>
-              </div>
-              <div class="tag-list" aria-label={`${resort.data.name.zhTw} tags`}>
-                {resort.data.tags.slice(0, 4).map((tag) => (
-                  <span>{tagLabels[tag]}</span>
-                ))}
-              </div>
-            </a>
-          ))}
-        </section>
+        <ResortSearchResults
+          resorts={resorts}
+          regionNamesByKey={regionNamesByKey}
+          showRegionMeta={false}
+          ariaLabel={`${region.name.zhTw} resorts`}
+        />
       ) : (
         <section class="empty-state" aria-label="No resorts">
           <h2>這個分區尚未收錄滑雪場</h2>

@@ -1,0 +1,57 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '../../layouts/BaseLayout.astro'
+import ResortSearchResults from '../../components/ResortSearchResults.astro'
+import { regions } from '../../data/regions'
+import { filterResortsByPrefecture, getPrefectureStats } from '../../utils/resortBrowse'
+import { sortResortsForListing } from '../../utils/resortOrdering'
+import { filterPublishedResorts } from '../../utils/resorts'
+import { withBasePath } from '../../utils/paths'
+
+export async function getStaticPaths() {
+  const resorts = filterPublishedResorts(await getCollection('resorts'))
+  const prefectureStats = getPrefectureStats(resorts)
+
+  return prefectureStats.map((prefecture) => ({
+    params: { prefecture: prefecture.key },
+    props: { prefecture },
+  }))
+}
+
+const { prefecture } = Astro.props
+const publishedResorts = filterPublishedResorts(await getCollection('resorts'))
+const resorts = sortResortsForListing(filterResortsByPrefecture(publishedResorts, prefecture.key))
+const region = regions.find((region) => region.key === prefecture.region)
+const regionNamesByKey = Object.fromEntries(
+  regions.map((region) => [region.key, region.name.zhTw]),
+)
+---
+
+<BaseLayout
+  title={`${prefecture.name.zhTw}滑雪場 | 日本滑雪場指南`}
+  description={`${prefecture.name.zhTw}已收錄滑雪場列表，整理官方資訊入口、特色標籤與雪道資料。`}
+  showHeaderSearch
+>
+  <main class="site-shell page-stack">
+    <div class="inline-actions">
+      <a href={withBasePath('/prefectures/')}>返回縣別總覽</a>
+      {region && <a href={withBasePath(`/regions/${region.key}/`)}>查看{region.name.zhTw}</a>}
+    </div>
+
+    <section class="page-heading" aria-labelledby="page-title">
+      <p class="eyebrow">{prefecture.name.en} / {prefecture.name.ja}</p>
+      <h1 id="page-title">{prefecture.name.zhTw}滑雪場</h1>
+      <p>
+        這裡整理本站目前收錄於{prefecture.name.zhTw}的滑雪場。列表使用全站共用排序：代表雪場清單優先，其餘雪場依縣別與名稱穩定排序。
+      </p>
+      <p class="count-line">收錄 {resorts.length} 座滑雪場</p>
+    </section>
+
+    <ResortSearchResults
+      resorts={resorts}
+      regionNamesByKey={regionNamesByKey}
+      showRegionMeta={false}
+      ariaLabel={`${prefecture.name.zhTw} resorts`}
+    />
+  </main>
+</BaseLayout>

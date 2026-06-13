@@ -4,7 +4,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro'
 import SkiAreaPositionMap from '../../components/SkiAreaPositionMap.astro'
 import { publishedSkiAreaKeys, skiAreas } from '../../data/skiAreas'
 import { tagLabels } from '../../data/tags'
-import { filterPublishedResorts, sortResortsByEnglishName } from '../../utils/resorts'
+import { sortResortsForListing } from '../../utils/resortOrdering'
+import { filterPublishedResorts } from '../../utils/resorts'
 import { withBasePath } from '../../utils/paths'
 
 export function getStaticPaths() {
@@ -16,7 +17,7 @@ export function getStaticPaths() {
 
 const { area } = Astro.props
 const publishedResorts = filterPublishedResorts(await getCollection('resorts'))
-const resorts = sortResortsByEnglishName(
+const resorts = sortResortsForListing(
   publishedResorts.filter((resort) => resort.data.skiArea === area.key),
 )
 const resortById = new Map(resorts.map((resort) => [resort.id, resort]))

@@ -1,0 +1,59 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '../../layouts/BaseLayout.astro'
+import { browseAreaKeys, browseAreaLabels } from '../../data/prefectures'
+import { getPrefectureStats } from '../../utils/resortBrowse'
+import { filterPublishedResorts } from '../../utils/resorts'
+import { withBasePath } from '../../utils/paths'
+
+const resorts = filterPublishedResorts(await getCollection('resorts'))
+const prefectureStats = getPrefectureStats(resorts)
+const prefectureGroups = browseAreaKeys
+  .map((browseArea) => {
+    const prefectures = prefectureStats.filter((prefecture) => prefecture.browseArea === browseArea)
+
+    return {
+      browseArea,
+      label: browseAreaLabels[browseArea],
+      count: prefectures.reduce((sum, prefecture) => sum + prefecture.count, 0),
+      prefectures,
+    }
+  })
+  .filter((group) => group.prefectures.length > 0)
+---
+
+<BaseLayout
+  title="縣別滑雪場 | 日本滑雪場指南"
+  description="依日本都道府縣整理已收錄滑雪場，提供可分享的縣別列表頁。"
+  showHeaderSearch
+>
+  <main class="site-shell page-stack">
+    <section class="page-heading" aria-labelledby="page-title">
+      <p class="eyebrow">Prefecture index</p>
+      <h1 id="page-title">縣別滑雪場</h1>
+      <p>
+        依日本常見由北至南的地理順序整理縣別入口。若已確定要去的縣，可直接進入縣別頁查看已收錄雪場。
+      </p>
+      <p class="count-line">目前有 {prefectureStats.length} 個縣別收錄雪場</p>
+    </section>
+
+    <section class="prefecture-group-grid" aria-label="縣別滑雪場入口">
+      {prefectureGroups.map((group) => (
+        <article class="info-panel prefecture-group">
+          <div class="section-heading-row">
+            <h2>{group.label}</h2>
+            <span class="section-count">{group.count} 座</span>
+          </div>
+          <div class="prefecture-link-list">
+            {group.prefectures.map((prefecture) => (
+              <a class="prefecture-link-card" href={withBasePath(`/prefectures/${prefecture.key}/`)}>
+                <span>{prefecture.name.zhTw}</span>
+                <strong>{prefecture.count} 座</strong>
+              </a>
+            ))}
+          </div>
+        </article>
+      ))}
+    </section>
+  </main>
+</BaseLayout>

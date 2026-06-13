@@ -1,11 +1,15 @@
 ---
 import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
+import PrefectureFilterNav from '../../components/PrefectureFilterNav.astro'
 import ResortSearchResults from '../../components/ResortSearchResults.astro'
 import { regions } from '../../data/regions'
-import { filterPublishedResorts, sortResortsByEnglishName } from '../../utils/resorts'
+import { getPrefectureStats } from '../../utils/resortBrowse'
+import { sortResortsForListing } from '../../utils/resortOrdering'
+import { filterPublishedResorts } from '../../utils/resorts'
 
-const resorts = sortResortsByEnglishName(filterPublishedResorts(await getCollection('resorts')))
+const resorts = sortResortsForListing(filterPublishedResorts(await getCollection('resorts')))
+const prefectureStats = getPrefectureStats(resorts)
 
 const regionNamesByKey = Object.fromEntries(
   regions.map((region) => [region.key, region.name.zhTw]),
@@ -25,6 +29,8 @@ const regionNamesByKey = Object.fromEntries(
         彙整各滑雪場的基本資訊、特色標籤、官方連結與雪道資料。雪季營業時間、票價與雪況可能依年度調整，出發前請再以各雪場官方公告為準。
       </p>
     </section>
+
+    <PrefectureFilterNav stats={prefectureStats} basePath="/resorts/" />
 
     <ResortSearchResults resorts={resorts} regionNamesByKey={regionNamesByKey} />
   </main>

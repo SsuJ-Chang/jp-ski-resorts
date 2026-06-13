@@ -544,6 +544,176 @@ h1 {
   font-weight: 900;
 }
 
+.listing-toolbar {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  min-height: 40px;
+}
+
+.listing-toolbar__link {
+  margin-left: auto;
+}
+
+.filter-menu {
+  position: relative;
+}
+
+.filter-menu__button {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  min-width: 176px;
+  min-height: 38px;
+  padding: 7px 12px;
+  border: 1px solid rgba(23, 33, 31, 0.16);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.78);
+  color: #243633;
+  font-size: 0.92rem;
+  font-weight: 900;
+  cursor: pointer;
+  list-style: none;
+}
+
+.filter-menu__button::-webkit-details-marker {
+  display: none;
+}
+
+.filter-menu__button:hover,
+.filter-menu__button:focus-visible {
+  background: rgba(255, 255, 255, 0.96);
+  outline: 2px solid rgba(29, 93, 100, 0.2);
+  outline-offset: 2px;
+}
+
+.filter-menu__chevron {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-left: auto;
+  border-right: 2px solid #526660;
+  border-bottom: 2px solid #526660;
+  transform: translateY(-2px) rotate(45deg);
+}
+
+.filter-menu[open] .filter-menu__chevron {
+  transform: translateY(2px) rotate(225deg);
+}
+
+.filter-menu__panel {
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 8px);
+  left: 0;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr) auto;
+  gap: 10px;
+  width: min(560px, calc(100vw - 32px));
+  max-height: min(520px, calc(100vh - 180px));
+  padding: 12px;
+  overflow: hidden;
+  border: 1px solid rgba(23, 33, 31, 0.14);
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 18px 48px rgba(23, 33, 31, 0.16);
+}
+
+.filter-menu__header,
+.filter-menu__footer {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.filter-menu__header strong {
+  color: #17211f;
+  font-size: 0.96rem;
+}
+
+.filter-menu__header span {
+  color: #66756f;
+  font-size: 0.84rem;
+  font-weight: 800;
+}
+
+.filter-option-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 4px 8px;
+  min-height: 0;
+  overflow: auto;
+  padding-right: 2px;
+}
+
+.filter-option {
+  display: grid;
+  grid-template-columns: 18px minmax(0, 1fr);
+  gap: 10px;
+  align-items: center;
+  min-height: 34px;
+  padding: 7px 8px;
+  border-radius: 8px;
+  color: #334643;
+  font-size: 0.92rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.filter-option:hover,
+.filter-option:focus-within {
+  background: rgba(29, 93, 100, 0.08);
+}
+
+.filter-option input {
+  width: 16px;
+  height: 16px;
+  accent-color: #1d5d64;
+}
+
+.filter-menu__footer {
+  position: sticky;
+  right: 0;
+  bottom: 0;
+  padding-top: 8px;
+  border-top: 1px solid rgba(23, 33, 31, 0.1);
+  background: #fff;
+}
+
+.button-link,
+.button-primary {
+  min-height: 34px;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font: inherit;
+  font-size: 0.88rem;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.button-link {
+  border: 0;
+  background: transparent;
+  color: #526660;
+}
+
+.button-primary {
+  border: 1px solid #1d5d64;
+  background: #1d5d64;
+  color: #fff;
+}
+
+.button-link:hover,
+.button-link:focus-visible,
+.button-primary:hover,
+.button-primary:focus-visible {
+  outline: 2px solid rgba(29, 93, 100, 0.22);
+  outline-offset: 2px;
+}
+
 .region-heading {
   max-width: 720px;
 }
@@ -641,6 +811,7 @@ h1 {
 
 .resort-actions a,
 .inline-actions a,
+.listing-toolbar__link,
 .section-heading-row a {
   display: inline-flex;
   align-items: center;
@@ -693,6 +864,52 @@ h1 {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 16px;
+}
+
+.prefecture-group-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.prefecture-group {
+  display: grid;
+  align-content: start;
+  gap: 14px;
+}
+
+.prefecture-link-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.prefecture-link-card {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 48px;
+  padding: 10px 12px;
+  border: 1px solid rgba(23, 33, 31, 0.1);
+  border-radius: 8px;
+  background: rgba(245, 247, 244, 0.75);
+  color: #334643;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.prefecture-link-card strong {
+  color: #1d5d64;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.prefecture-link-card:hover,
+.prefecture-link-card:focus-visible {
+  background: rgba(255, 255, 255, 0.92);
+  outline: 2px solid rgba(29, 93, 100, 0.22);
+  outline-offset: 2px;
 }
 
 .ski-area-card {
@@ -1829,6 +2046,7 @@ h1 {
 
   .resort-grid,
   .ski-area-grid,
+  .prefecture-group-grid,
   .resort-detail-layout,
   .detail-grid {
     grid-template-columns: 1fr;
@@ -1936,6 +2154,10 @@ h1 {
 
   .site-search--open .site-search__field {
     width: min(100%, calc(100vw - 88px));
+  }
+
+  .prefecture-link-list {
+    grid-template-columns: 1fr;
   }
 
   .home-hero__lead {

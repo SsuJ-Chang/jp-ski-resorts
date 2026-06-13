@@ -2,25 +2,38 @@
 import type { ResortEntry } from '../utils/resorts'
 import { tagLabels } from '../data/tags'
 import { withBasePath } from '../utils/paths'
+import { getResortPrefectureKey } from '../utils/resortBrowse'
 
 type Props = {
   resorts: ResortEntry[]
-  regionNamesByKey: Record<string, string>
+  regionNamesByKey?: Record<string, string>
+  showRegionMeta?: boolean
+  ariaLabel?: string
 }
 
-const { resorts, regionNamesByKey } = Astro.props
+const {
+  resorts,
+  regionNamesByKey = {},
+  showRegionMeta = true,
+  ariaLabel = 'Resorts',
+} = Astro.props
 ---
 
 <div class="resort-list-summary" aria-live="polite">
   <span id="resort-result-count">{resorts.length} 座雪場</span>
 </div>
 
-<section class="resort-grid" aria-label="Resorts">
+<section class="resort-grid" aria-label={ariaLabel}>
   {resorts.map((resort) => {
+    const prefectureKey = getResortPrefectureKey(resort) ?? ''
+    const regionName = regionNamesByKey[resort.data.region] ?? resort.data.region
+    const metaParts = showRegionMeta ? [regionName, resort.data.prefecture] : [resort.data.prefecture]
     const searchableName = [
       resort.data.name.zhTw,
       resort.data.name.ja,
       resort.data.name.en,
+      resort.data.prefecture,
+      regionName,
     ].filter(Boolean).join(' ')
 
     return (
@@ -29,10 +42,11 @@ const { resorts, regionNamesByKey } = Astro.props
         href={withBasePath(`/resorts/${resort.id}/`)}
         data-resort-card
         data-search-text={searchableName}
+        data-prefecture-key={prefectureKey}
       >
         <div>
           <p class="resort-card__meta">
-            {regionNamesByKey[resort.data.region] ?? resort.data.region} / {resort.data.prefecture}
+            {metaParts.join(' / ')}
           </p>
           <h2>{resort.data.name.zhTw}</h2>
           <p>{resort.data.name.en}</p>
@@ -68,13 +82,18 @@ const { resorts, regionNamesByKey } = Astro.props
 
   const resortCards = Array.from(document.querySelectorAll<HTMLElement>('[data-resort-card]'))
   const countElement = document.querySelector<HTMLElement>('#resort-result-count')
-  const query = normalizeSearchText(new URLSearchParams(window.location.search).get('q') ?? '')
+  const params = new URLSearchParams(window.location.search)
+  const query = normalizeSearchText(params.get('q') ?? '')
+  const prefectures = params.getAll('prefecture').filter(Boolean)
 
   let visibleCount = 0
 
   for (const card of resortCards) {
     const searchText = normalizeSearchText(card.dataset.searchText ?? '')
-    const isVisible = query.length === 0 || fuzzyMatch(searchText, query)
+    const matchesQuery = query.length === 0 || fuzzyMatch(searchText, query)
+    const matchesPrefecture =
+      prefectures.length === 0 || prefectures.includes(card.dataset.prefectureKey ?? '')
+    const isVisible = matchesQuery && matchesPrefecture
     card.hidden = !isVisible
     if (isVisible) visibleCount += 1
   }
