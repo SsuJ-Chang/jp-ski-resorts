@@ -63,9 +63,32 @@ const regionStats = regions.map((region) => {
     examples: getRegionExampleNames(regionResorts),
   }
 })
+
+const siteUrl = Astro.site ?? new URL('https://jp-resorts.rj-tw.com')
+const homeUrl = new URL('/', siteUrl).toString()
+const websiteStructuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: '日本滑雪場指南',
+  url: homeUrl,
+  inLanguage: 'zh-Hant-TW',
+  description: '給台灣滑雪者使用的日本滑雪場靜態資料與行程規劃入口。',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: `${new URL('/resorts/', siteUrl).toString()}?q={search_term_string}`,
+    'query-input': 'required name=search_term_string',
+  },
+}
 ---
 
-<BaseLayout title="日本滑雪場指南" bodyClass="home-page" showHeaderSearch>
+<BaseLayout
+  title="日本滑雪場指南"
+  description="給台灣滑雪者使用的日本滑雪場資料庫，整理日本各地滑雪場、雪場區域、交通位置、官方資訊與行程規劃入口。"
+  bodyClass="home-page"
+  canonicalPath="/"
+  structuredData={websiteStructuredData}
+  showHeaderSearch
+>
   <main class="site-shell">
     <section class="home-hero" aria-labelledby="page-title">
       <div class="home-hero__copy">

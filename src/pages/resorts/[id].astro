@@ -96,11 +96,108 @@ const accessRoutes = accessRouteGroups.flatMap((group) =>
 const carAccess = resort.data.access?.car
 const hasAccessInfo = accessRoutes.length > 0 || Boolean(carAccess)
 const getAccessTimeLabel = (estimatedTime?: string) => estimatedTime?.split(/[，,、]/)[0]?.trim() ?? ''
+
+const resortCanonicalPath = `/resorts/${resort.id}/`
+const resortDescriptionParts = [
+  `${resort.data.name.zhTw}滑雪場資料`,
+  resort.data.prefecture,
+  region?.name.zhTw,
+  skiArea ? `${skiArea.name.zhTw}雪場區域` : undefined,
+  resort.data.courses?.summary,
+]
+  .filter(Boolean)
+  .filter((part, index, parts) => parts.indexOf(part) === index)
+
+const resortDescription = resortDescriptionParts
+  .join('，')
+  .slice(0, 155)
+const siteUrl = Astro.site ?? new URL('https://jp-resorts.rj-tw.com')
+const resortUrl = new URL(resortCanonicalPath, siteUrl).toString()
+const resortStructuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'SportsActivityLocation',
+    name: resort.data.name.zhTw,
+    alternateName: [
+      resort.data.name.ja,
+      resort.data.name.en,
+    ].filter(Boolean),
+    url: resortUrl,
+    sameAs: resort.data.links.official,
+    description: resortDescription,
+    telephone: resort.data.contact?.phone,
+    address: resort.data.contact && {
+      '@type': 'PostalAddress',
+      addressCountry: 'JP',
+      addressRegion: resort.data.prefecture,
+      streetAddress: resort.data.contact.address.zhTw,
+    },
+    geo: resort.data.location && {
+      '@type': 'GeoCoordinates',
+      latitude: resort.data.location.latitude,
+      longitude: resort.data.location.longitude,
+    },
+    openingHoursSpecification: resort.data.season?.hours && {
+      '@type': 'OpeningHoursSpecification',
+      description: resort.data.season.hours,
+    },
+    additionalProperty: [
+      resort.data.courses?.total !== undefined && {
+        '@type': 'PropertyValue',
+        name: '雪道數',
+        value: resort.data.courses.total,
+      },
+      resort.data.lifts?.total !== undefined && {
+        '@type': 'PropertyValue',
+        name: '纜車數',
+        value: resort.data.lifts.total,
+      },
+      elevation?.top !== undefined && {
+        '@type': 'PropertyValue',
+        name: '最高標高',
+        value: elevation.top,
+        unitText: 'm',
+      },
+      elevation?.bottom !== undefined && {
+        '@type': 'PropertyValue',
+        name: '最低標高',
+        value: elevation.bottom,
+        unitText: 'm',
+      },
+    ].filter(Boolean),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: '首頁',
+        item: new URL('/', siteUrl).toString(),
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: '滑雪場',
+        item: new URL('/resorts/', siteUrl).toString(),
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: resort.data.name.zhTw,
+        item: resortUrl,
+      },
+    ],
+  },
+]
 ---
 
 <BaseLayout
   title={`${resort.data.name.zhTw} | 日本滑雪場指南`}
-  description={`${resort.data.name.zhTw} 的穩定資料、分類標籤與官方資訊連結。`}
+  description={resortDescription}
+  canonicalPath={resortCanonicalPath}
+  structuredData={resortStructuredData}
 >
   <main class="site-shell page-stack">
     <a class="text-link" href={withBasePath('/resorts/')}>回滑雪場列表</a>

@@ -10,6 +10,10 @@ type Props = {
   description?: string
   bodyClass?: string
   showHeaderSearch?: boolean
+  canonicalPath?: string
+  ogType?: 'website' | 'article'
+  noindex?: boolean
+  structuredData?: Record<string, unknown> | Record<string, unknown>[]
 }
 
 const {
@@ -17,20 +21,43 @@ const {
   description = '給台灣滑雪者使用的日本滑雪場靜態資料與行程規劃入口。',
   bodyClass,
   showHeaderSearch = false,
+  canonicalPath,
+  ogType = 'website',
+  noindex = false,
+  structuredData,
 } = Astro.props
 const currentYear = new Date().getFullYear()
 const resortListPath = withBasePath('/resorts/')
 const authorHomeUrl = 'https://rj-tw.com/'
+const siteUrl = Astro.site ?? new URL('https://jp-resorts.rj-tw.com')
+const canonicalUrl = new URL(canonicalPath ?? Astro.url.pathname, siteUrl).toString()
+const siteName = '日本滑雪場指南'
 ---
 
 <!doctype html>
 <html lang="zh-Hant-TW">
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content={description} />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/svg+xml" href={withBasePath('/favicon.svg')} />
     <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content={noindex ? 'noindex,nofollow' : 'index,follow'} />
+    <meta name="author" content="RJ" />
+    <meta name="theme-color" content="#f7f8f3" />
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="icon" type="image/svg+xml" href={withBasePath('/favicon.svg')} />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:locale" content="zh_TW" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    {structuredData && (
+      <script type="application/ld+json" is:inline set:html={JSON.stringify(structuredData)} />
+    )}
     <GoogleAnalytics />
   </head>
   <body class={bodyClass}>

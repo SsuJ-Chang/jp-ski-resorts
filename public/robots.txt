@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jp-resorts.rj-tw.com/sitemap.xml
