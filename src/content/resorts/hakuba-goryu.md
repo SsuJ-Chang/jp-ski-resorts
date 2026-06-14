@@ -150,6 +150,8 @@ courses:
     length: 800m
     maxSlope: 13°
     averageSlope: 11°
+    videoLinks:
+      - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=435s
     note: 林間雪道特有的坡度較緩，但官方提醒雪道寬度較窄，且與壓雪面交界處需注意其他滑行者與雪面高低差。
   - name: R-1
     difficulty: intermediate
@@ -168,6 +170,8 @@ courses:
     length: 700m
     maxSlope: 28°
     averageSlope: 19°
+    videoLinks:
+      - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=837s
     note: 官方雪道資料列為上級路線，全長 700m、最大坡度 28°、平均坡度 19°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: R-2
     difficulty: advanced
@@ -210,18 +214,25 @@ courses:
     length: 450m
     maxSlope: 20°
     averageSlope: 16°
+    videoLinks:
+      - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=702s
     note: 從箱型纜車 Telecabin 阿爾卑斯平站通往 Grand Prix 的連絡型雪道。官方說明有兩條路線，上方較平，下方較陡，與 Grand Prix 合流時需減速或暫停。
   - name: チャンピオンダイナミックコース / Champion Dynamic Course
     difficulty: mixed
     length: 500m
     maxSlope: 23°
     averageSlope: 21°
+    videoLinks:
+      - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=360s
     note: 官方說明為相當陡的斜面，雪道寬度會逐漸變窄，需要確實控制速度；初學者建議搭乘箱型纜車下山。
   - name: とおみゲレンデ / Toomi Slope
     difficulty: mixed
     length: 1,500m
     maxSlope: 18°
     averageSlope: 14°
+    videoLinks:
+      - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=518s
+      - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=1358s
     note: 壓雪整備完善的緩斜面，官方說明上中下段坡度不同，可依技術選擇纜車與斜度；也是夜滑與 sunrise 營業區域。
   - name: パウダースノーコース / Powder Snow Course
     difficulty: mixed
@@ -281,6 +292,8 @@ sources:
   url: https://www.hakubaescal.com/winter/tickets/lift/
 - label: Hakuba Goryu Access
   url: https://www.hakubaescal.com/winter/access/
+- label: Hakuba Goryu Course Video
+  url: https://www.youtube.com/watch?v=cBoeR4oKjUE
 - label: Hakuba Goryu Weathernews
   url: https://weathernews.jp/ski/spot/34811/
 ---
