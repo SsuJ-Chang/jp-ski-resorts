@@ -116,81 +116,128 @@ courses:
   - name: やまばと林間コース / Yamabato Forest Course
     difficulty: beginner
     length: 1,300m
-    note: 官方列為初級林間雪道；官方資料並列出全長 1,300m。
+    averageSlope: 16deg
+    maxSlope: 20deg
+    note: 官方列為初級林間雪道；官方資料列出全長 1,300m、平均 16 度、最大 20 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=345s
-  - name: ガッシュタイナーコース / Gasteiner Course
+  - name: カラマツコース / Karamatsu Course
     difficulty: beginner
-    length: 1,600m
-    note: 官方列為初級路線；官方資料並列出全長 1,600m。
+    length: 900m
+    averageSlope: 19deg
+    maxSlope: 21deg
+    note: 官方列為初級路線；官方資料列出全長 900m、平均 19 度、最大 21 度。影片章節中前後各出現一次。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=713s
-  - name: カヤバゲレンデ / Kayaba Slope
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=953s
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=1804s
+  - name: ワイドロングランコース / Wide Long Run Course
     difficulty: beginner
-    length: 750m
-    note: 官方列為初級雪道；官方資料並列出全長 750m。
-  - name: ガッシュタイナー林間コース / Gasteiner Forest Course
-    difficulty: beginner
-    length: 2,500m
-    note: 官方列為初級林間路線；官方資料並列出全長 2,500m。
-  - name: しらかばカプセルペアコース / Shirakaba Capsule Pair Course
-    difficulty: beginner
-    length: 750m
-    note: 官方列為初級路線；官方資料並列出全長 750m。
-  - name: クワッド1コース / Quad 1 Course
+    length: 1,100m
+    averageSlope: 18deg
+    maxSlope: 20deg
+    note: 官方列為初級路線；官方資料列出全長 1,100m、平均 18 度、最大 20 度。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=1745s
+  - name: カヤバコース / Kayaba Course
     difficulty: intermediate
-    length: 1,500m
-    note: 官方列為中級路線；官方資料並列出全長 1,500m。
+    length: 900m
+    averageSlope: 18deg
+    maxSlope: 20deg
+    note: 官方列為中級路線，並標示為閉鎖中；官方資料列出全長 900m、平均 18 度、最大 20 度。
+  - name: レイクビューコース / Lake View Course
+    difficulty: intermediate
+    length: 900m
+    averageSlope: 20deg
+    maxSlope: 24deg
+    note: 官方列為中級路線；官方資料列出全長 900m、平均 20 度、最大 24 度。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=1621s
+  - name: やまばとコース / Yamabato Course
+    difficulty: intermediate
+    length: 500m
+    averageSlope: 20deg
+    maxSlope: 23deg
+    note: 官方列為中級路線；官方資料列出全長 500m、平均 20 度、最大 23 度。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=232s
+  - name: クワッドコース / Quad Course
+    difficulty: intermediate
+    length: 1,420m
+    averageSlope: 23deg
+    maxSlope: 26deg
+    note: 官方列為中級路線；官方資料列出全長 1,420m、平均 23 度、最大 26 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=197s
-  - name: ヤッホーコース / Yahoo Course
+  - name: 頂（イタダキ） / Itadaki Course
+    difficulty: advanced
+    length: 200m
+    averageSlope: 24deg
+    maxSlope: 27deg
+    note: 官方列為上級路線；官方資料列出全長 200m、平均 24 度、最大 27 度。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=125s
+  - name: ヤッホーコース / Yahho Course
     difficulty: intermediate
-    length: 2,300m
-    note: 官方列為中級路線；官方資料並列出全長 2,300m。
+    length: 1,200m
+    averageSlope: 20deg
+    maxSlope: 25deg
+    note: 官方列為中級路線；官方資料列出全長 1,200m、平均 20 度、最大 25 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=439s
-  - name: クワッド3コース / Quad 3 Course
-    difficulty: intermediate
-    length: 1,500m
-    note: 官方列為中級路線；官方資料並列出全長 1,500m。
-  - name: パーク専用コース / Park Course
-    difficulty: intermediate
-    length: 850m
-    note: 官方列為中級的公園專用路線；官方資料並列出全長 850m。
-    videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=287s
-  - name: カプセルペアコース / Capsule Pair Course
-    difficulty: intermediate
-    length: 1,100m
-    note: 官方列為中級路線；官方資料並列出全長 1,100m。
-  - name: アルペンブリックゲレンデ / Alpenblick Slope
-    difficulty: intermediate
-    length: 750m
-    note: 官方列為中級雪道；官方資料並列出全長 750m。
   - name: クワッドツリーランコース / Quad Tree Run Course
     difficulty: intermediate
-    length: 1,500m
-    note: 官方列為中級樹林滑行路線；官方資料並列出全長 1,500m。
+    length: 300m
+    averageSlope: 22deg
+    maxSlope: 24deg
+    note: 官方列為中級樹林滑行路線；官方資料列出全長 300m、平均 22 度、最大 24 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=1501s
-  - name: ツリーランコース / Tree Run Course
+  - name: ガッシュタイナーコース / Gasteiner Course
     difficulty: intermediate
-    length: 750m
-    note: 官方列為中級樹林滑行路線；官方資料並列出全長 750m。
-  - name: アルペンブリックコース / Alpenblick Course
+    length: 1,800m
+    averageSlope: 20deg
+    maxSlope: 26deg
+    note: 官方列為中級路線；官方資料列出全長 1,800m、平均 20 度、最大 26 度。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=713s
+  - name: サイドツリーコース / Side Tree Course
+    difficulty: intermediate
+    length: 250m
+    averageSlope: 23deg
+    maxSlope: 27deg
+    note: 官方列為中級樹林滑行路線；官方資料列出全長 250m、平均 23 度、最大 27 度。
+  - name: アルペンダイナミック / Alpine Dynamic Course
     difficulty: advanced
+    length: 250m
+    averageSlope: 25deg
+    maxSlope: 29deg
+    note: 官方列為上級路線；官方資料列出全長 250m、平均 25 度、最大 29 度。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=597s
+  - name: ハッピーゲレンデ / Happy Slope
+    difficulty: beginner
     length: 1,400m
-    note: 官方列為上級路線；官方資料並列出全長 1,400m。
+    averageSlope: 8deg
+    maxSlope: 21deg
+    note: 官方列為初級雪道；官方資料列出全長 1,400m、平均 8 度、最大 21 度。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=878s
   - name: ドリームコース / Dream Course
-    difficulty: advanced
-    length: 900m
-    note: 官方列為上級路線；官方資料並列出全長 900m。
+    difficulty: beginner
+    length: 1,100m
+    averageSlope: 7deg
+    maxSlope: 11deg
+    note: 官方列為初級路線；官方資料列出全長 1,100m、平均 7 度、最大 11 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=622s
-  - name: しらかばコース / Shirakaba Course
+  - name: カナメゲレンデ / Kaname Slope
     difficulty: advanced
-    length: 2,500m
-    note: 官方列為上級路線；官方資料並列出全長 2,500m。
+    length: 470m
+    averageSlope: 23deg
+    maxSlope: 26deg
+    note: 官方列為上級雪道；官方資料列出全長 470m、平均 23 度、最大 26 度。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KEAamblTuXo&t=1333s
 lifts:
   total: 6
 access:
