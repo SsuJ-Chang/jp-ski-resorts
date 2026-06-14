@@ -123,6 +123,8 @@ courses:
     length: 1,400m
     maxSlope: 17°
     averageSlope: 11°
+    videoLinks:
+      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1609s
     note: 官方列為初級路線；官方資料並列出全長 1,400m、最大坡度 17°、平均坡度 11°。
   - name: くるみヶ丘ゲレンデ / Kurumigaoka Slope
     difficulty: beginner
@@ -141,6 +143,8 @@ courses:
     length: 450m
     maxSlope: 17°
     averageSlope: 12°
+    videoLinks:
+      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1368s
     note: 官方列為初級路線；官方資料並列出全長 450m、最大坡度 17°、平均坡度 12°。
   - name: 天狗おとし A / Tenguotoshi A
     difficulty: intermediate
@@ -153,6 +157,9 @@ courses:
     length: 1,450m
     maxSlope: 20°
     averageSlope: 13°
+    videoLinks:
+      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=893s
+      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=994s
     note: 官方列為中級雪道；官方資料並列出全長 1,450m、最大坡度 20°、平均坡度 13°。
   - name: ダウンヒル連絡コース / Downhill Connection Course
     difficulty: intermediate
@@ -165,18 +172,25 @@ courses:
     length: 1,250m
     maxSlope: 18°
     averageSlope: 10°
+    videoLinks:
+      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=334s
+      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=371s
     note: 官方列為中級路線；官方資料並列出全長 1,250m、最大坡度 18°、平均坡度 10°。
   - name: ジャイアントコース / Giant Course
     difficulty: intermediate
     length: 900m
     maxSlope: 18°
     averageSlope: 14°
+    videoLinks:
+      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1546s
     note: 官方列為中級路線；官方資料並列出全長 900m、最大坡度 18°、平均坡度 14°。
   - name: 杉ノ原連絡コース / Suginohara Connection Course
     difficulty: intermediate
     length: 450m
     maxSlope: 18°
     averageSlope: 14°
+    videoLinks:
+      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=777s
     note: 官方列為中級連絡路線；官方資料並列出全長 450m、最大坡度 18°、平均坡度 14°。
   - name: 杉ノ原ゾーン / Suginohara Zone
     difficulty: intermediate
@@ -189,18 +203,24 @@ courses:
     length: 1,000m
     maxSlope: 38°
     averageSlope: 16°
+    videoLinks:
+      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=31s
     note: 官方列為上級路線；官方資料並列出全長 1,000m、最大坡度 38°、平均坡度 16°。
   - name: ダウンヒルコース / Downhill Course
     difficulty: advanced
     length: 1,100m
     maxSlope: 23°
     averageSlope: 14°
+    videoLinks:
+      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1247s
     note: 官方列為上級路線；官方資料並列出全長 1,100m、最大坡度 23°、平均坡度 14°。
   - name: スーパーモーグルコース / Super Mogul Course
     difficulty: advanced
     length: 500m
     maxSlope: 32°
     averageSlope: 25°
+    videoLinks:
+      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=521s
     note: 官方列為上級路線；官方資料並列出全長 500m、最大坡度 32°、平均坡度 25°。
 lifts:
   total: 4
@@ -240,5 +260,8 @@ sources:
   url: https://www.princehotels.co.jp/ski/myoko/winter/access/
 - label: Myoko Suginohara Weathernews
   url: https://weathernews.jp/ski/spot/35423/
+- label: Real Japan Nature YouTube Course Video
+  url: https://www.youtube.com/watch?v=KB5dscP0Pw4
+  note: 影片章節提供杉之原部分雪道秒數，已對應至 courses.details[].videoLinks。
 ---
 杉之原位於新潟縣妙高市杉野澤，是妙高高原一帶具代表性的長距離滑行雪場。官方列出的 16 條雪道涵蓋初級緩坡、中級巡航與上級急斜面，可作為妙高高原多日行程中的其中一站。
