@@ -92,10 +92,14 @@ courses:
   - name: South Course
     difficulty: beginner
     length: 960m
+    videoLinks:
+      - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=522s
     note: 官方雪道資料列為初級路線，全長 960m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Shirakaba Course
     difficulty: beginner
     length: 850m
+    videoLinks:
+      - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=253s
     note: 官方雪道資料列為初級路線，全長 850m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Panorama IN Course
     difficulty: beginner
@@ -124,22 +128,34 @@ courses:
   - name: Panorama Course
     difficulty: intermediate
     length: 2,500m
+    videoLinks:
+      - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=97s
     note: 官方雪道資料列為中級路線，全長 2,500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: GS Course
     difficulty: intermediate
     length: 2,400m
+    videoLinks:
+      - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=1103s
+      - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=1262s
+      - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=1584s
     note: 官方雪道資料列為中級路線，全長 2,400m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Olympic Course
     difficulty: advanced
     length: 900m
+    videoLinks:
+      - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=1170s
     note: 官方雪道資料列為上級路線，全長 900m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Middle Course
     difficulty: advanced
     length: 400m
+    videoLinks:
+      - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=917s
     note: 官方雪道資料列為上級路線，全長 400m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: East Course
     difficulty: advanced
     length: 800m
+    videoLinks:
+      - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=844s
     note: 官方雪道資料列為上級路線，全長 800m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
 lifts:
   total: 5
@@ -172,5 +188,8 @@ sources:
   url: https://weathernews.jp/ski/spot/34803/
 - label: Shiga Kogen Yakebitaiyama Access
   url: https://www.princehotels.co.jp/ski/shiga/winter/access/
+- label: Real Japan Nature YouTube Course Video
+  url: https://www.youtube.com/watch?v=j3pg5rzX1hA
+  note: 影片章節提供志賀高原燒額山部分雪道秒數，已對應至 courses.details[].videoLinks。
 ---
 燒額山位於志賀高原東側，是雪道數與纜車配置都較完整的區域。住宿、纜車與雪道動線靠近王子飯店一帶，適合把它當成志賀高原東側行程的主要據點。
