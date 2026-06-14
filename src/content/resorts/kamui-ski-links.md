@@ -304,6 +304,9 @@ externalContent:
   - title: 樹林深雪陷阱：掉進雪洞該如何自救？
     url: https://www.youtube.com/watch?v=9DklDLj-4kI
     note: 大林滑雪男子
+  - title: 用「速度」判斷前腳！Edge Roll 與 Early Edge 的進階關鍵。
+    url: https://www.youtube.com/watch?v=YfDdnCCY618
+    note: 大林滑雪男子
 sources:
 - label: Kamui Ski Links Official Website
   url: https://www.kamui-skilinks.com/
