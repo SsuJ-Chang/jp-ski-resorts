@@ -112,26 +112,36 @@ courses:
     difficulty: beginner
     length: 700m
     maxSlope: 10°
+    videoLinks:
+      - https://www.youtube.com/watch?v=FbHgahuNBoc&t=367s
     note: 官方說明此路線位於赤倉觀光 Hotel 前方，坡度平緩，可通往 Champion A Course 與女子國體路線。
   - name: 女子国体コース / Women's National Sports Festival Course
     difficulty: intermediate
     length: 1,900m
     maxSlope: 20°
+    videoLinks:
+      - https://www.youtube.com/watch?v=lCY_86gTt9A&t=60s
     note: 官方說明此路線寬廣，適合大迴轉滑行，並可眺望妙高高原。
   - name: Champion A コース / Champion A Course
     difficulty: intermediate
     length: 1,200m
     maxSlope: 22°
+    videoLinks:
+      - https://www.youtube.com/watch?v=lCY_86gTt9A&t=374s
     note: 官方說明這條路線有起伏變化，是赤倉觀光自豪的下山路線。
   - name: ホテルメインスロープ / Hotel Main Slope
     difficulty: intermediate
     length: 1,000m
     maxSlope: 18°
+    videoLinks:
+      - https://www.youtube.com/watch?v=FbHgahuNBoc&t=300s
     note: 官方說明雪場主要斜面寬廣且平坦，可從 Hotel No.3 Quad Lift 山頂連續滑下 2,300m。
   - name: チャンピオン B コース / Champion B Course
     difficulty: advanced
     length: 800m
     maxSlope: 32°
+    videoLinks:
+      - https://www.youtube.com/watch?v=lCY_86gTt9A&t=1184s
     note: 官方說明此路線為未壓雪，有雪丘與可享受粉雪的地形，請留意下方與中央為中級者路線。
   - name: チャンピオンビフカテッドコース / Champion Bifurcated Course
     difficulty: advanced
@@ -184,5 +194,11 @@ sources:
   url: https://akr-ski.com/access/
 - label: Akakura Kanko Resort Weathernews
   url: https://weathernews.jp/ski/spot/35411/
+- label: Real Japan Nature YouTube Course Video 1
+  url: https://www.youtube.com/watch?v=FbHgahuNBoc
+  note: 影片章節提供赤倉觀光 Hotel 區部分雪道秒數，已對應至 courses.details[].videoLinks。
+- label: Real Japan Nature YouTube Course Video 2
+  url: https://www.youtube.com/watch?v=lCY_86gTt9A
+  note: 影片章節提供赤倉觀光 Champion 區與女子國體等部分雪道秒數，已對應至 courses.details[].videoLinks。
 ---
 赤倉觀光位於新潟縣妙高市田切，鄰近赤倉溫泉區。官方雪道資料包含飯店前緩坡、中級巡航路線與多條未壓雪上級路線，適合與赤倉溫泉雪場搭配安排。
