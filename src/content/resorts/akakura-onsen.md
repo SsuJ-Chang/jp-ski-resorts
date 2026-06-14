@@ -112,6 +112,8 @@ courses:
   details:
   - name: 2 銀嶺第3コース / Ginrei No.3 Course
     difficulty: beginner
+    videoLinks:
+      - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=338s
     note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 3 銀嶺第2コース / Ginrei No.2 Course
     difficulty: beginner
@@ -127,15 +129,21 @@ courses:
     note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 9 中央ゲレンデ / Central Slope
     difficulty: beginner
+    videoLinks:
+      - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=811s
     note: 官方列為初級雪道；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 10 パノラマコース / Panorama Course
     difficulty: beginner
+    videoLinks:
+      - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=197s
     note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 13 ヨーデル林間コース / Yodel Forest Course
     difficulty: beginner
     note: 官方列為初級林間路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 15 ユートピア A コース / Utopia A Course
     difficulty: beginner
+    videoLinks:
+      - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=435s
     note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 16 ユートピア B コース / Utopia B Course
     difficulty: beginner
@@ -193,5 +201,8 @@ sources:
   url: https://akakura-ski.com/
 - label: Akakura Onsen Weathernews
   url: https://weathernews.jp/ski/spot/35493/
+- label: Real Japan Nature YouTube Course Video
+  url: https://www.youtube.com/watch?v=x2LkQtz_wQM
+  note: 影片章節提供赤倉溫泉部分雪道秒數，已對應至 courses.details[].videoLinks。
 ---
 赤倉溫泉位於新潟縣妙高市赤倉溫泉區，官方雪道配置以初級比例高、溫泉住宿與夜滑為主要特色，可搭配赤倉觀光、池之平與杉之原安排妙高高原多日行程。
