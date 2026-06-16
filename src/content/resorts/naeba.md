@@ -270,6 +270,9 @@ access:
     note: "可由關越自動車道月夜野 IC 經國道 17 號約 33km、約 50 分，或由湯澤 IC 經國道 17 號約 21km、約 30 分。停車場約 3,800 台，平日與假日收費不同。"
 externalContent:
   blogs:
+    - title: 日本苗場親子滑雪/新手看過來 !! | 初訪苗場Naeba滑雪場 & 新潟苗場王子飯店Naeba Prince Hotel開箱 by 豬圈圈樂活趣
+      url: https://psonfamily.com/naeba-prince-hotel-family/
+      note: 豬圈圈樂活趣
     - title: "苗場王子飯店、苗場滑雪場2025美食攻略！從早吃到晚不停歇"
       url: https://natasha-traveler.tw/naeba-foodie/
       note: "娜塔蝦的滑雪食旅手記，2024-02-28"
@@ -281,10 +284,7 @@ externalContent:
       note: "娜塔蝦的滑雪食旅手記，2020-08-11"
     - title: "日本苗場滑雪記行：Dragondola龍纜車、神樂滑雪場與和田小屋的咖哩飯"
       url: https://natasha-traveler.tw/dragondola/
-      note: "娜塔蝦的滑雪食旅手記，2015-09-13"
-    - title: 日本苗場親子滑雪/新手看過來 !! | 初訪苗場Naeba滑雪場 & 新潟苗場王子飯店Naeba Prince Hotel開箱 by 豬圈圈樂活趣
-      url: https://psonfamily.com/naeba-prince-hotel-family/
-      note: 豬圈圈樂活趣
+      note: "娜塔蝦的滑雪食旅手記，2015-09-13" 
   vlogs: []
 sources:
 - label: Naeba Official Website
