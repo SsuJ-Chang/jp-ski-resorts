@@ -108,16 +108,23 @@ courses:
     difficulty: mixed
     length: 1,500m
     maxSlope: 28°
+    videoLinks:
+      - https://www.youtube.com/watch?v=z0gx096qXa0&t=250s
     note: 森林包圍並可眺望湖景的路線，官方說明是能優雅滑行、適合留下照片的位置。
   - name: パラダイス・パラダイスダウンヒル / Paradise & Paradise Downhill
     difficulty: mixed
     length: 2,100m
     maxSlope: 18°
+    videoLinks:
+      - https://www.youtube.com/watch?v=z0gx096qXa0&t=454s
+      - https://www.youtube.com/watch?v=z0gx096qXa0&t=534s
     note: 中級者與初學者可一起滑行的路線，也常作為 step up 練習與檢定バーン。後段 Paradise Downhill 為連續緩斜面，初學者可較穩定練習。
   - name: カービングゲレンデ / Carving Slope
     difficulty: mixed
     length: 700m
     maxSlope: 23°
+    videoLinks:
+      - https://www.youtube.com/watch?v=z0gx096qXa0&t=759s
     note: 官方說明此路線有適度寬度與坡度，聚集喜歡 carving 的滑行者，也以技術型雪板聖地聞名。
   - name: ニューパラダイス / New Paradise
     difficulty: advanced
@@ -126,6 +133,8 @@ courses:
     note: 可一望青木湖的上級路線。官方說明降雪後可享受良好粉雪，第 5 pair 纜車旁也有 mogul 路線。
   - name: 貸切トレーニングゲレンデ / Reserved Training Slope
     difficulty: advanced
+    videoLinks:
+      - https://www.youtube.com/watch?v=z0gx096qXa0&t=676s
     note: 位於 Carving Slope 旁的包場專用雪道，官方說明斜度更高，可集中練習 pole 與 carving，也曾用於品牌拍攝。
 lifts:
   total: 4
@@ -155,6 +164,9 @@ sources:
   url: https://weathernews.jp/ski/spot/34850/
 - label: Hakuba Sanosaka Access
   url: https://sanosaka.jp/access/
+- label: Hakuba Sanosaka Course Video
+  url: https://www.youtube.com/watch?v=z0gx096qXa0
+  note: 影片說明欄提供 Lake Down、Paradise、Paradise Downhill、Training Slope、Carving Slope 的章節時間軸。
 terrainSummary:
   beginner: Paradise Downhill 等緩斜面適合初學者穩定練習，Shirayuki Daira 也有 Snow Friends Park。
   intermediate: Paradise、Lake Down、Lake View 與 Carving Slope 提供中級練習與青木湖景觀。
