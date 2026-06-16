@@ -62,35 +62,37 @@ const {
 </section>
 
 <script>
-  const normalizeSearchText = (value: string) =>
+  const splitSearchTokens = (value: string) =>
     value
       .normalize('NFKC')
       .toLocaleLowerCase()
-      .replace(/[\s\p{P}\p{S}]+/gu, '')
+      .split(/[\s\p{P}\p{S}]+/gu)
+      .filter(Boolean)
 
-  const fuzzyMatch = (text: string, query: string) => {
-    if (text.includes(query)) return true
+  const tokenMatchesQuery = (textToken: string, queryToken: string) =>
+    textToken.includes(queryToken) || textToken.startsWith(queryToken)
 
-    let queryIndex = 0
-    for (const character of text) {
-      if (character === query[queryIndex]) queryIndex += 1
-      if (queryIndex === query.length) return true
-    }
+  const matchesSearchQuery = (text: string, query: string) => {
+    const queryTokens = splitSearchTokens(query)
+    if (queryTokens.length === 0) return true
 
-    return false
+    const textTokens = splitSearchTokens(text)
+    // Match inside a normalized token only; do not assemble letters across unrelated tokens.
+    return queryTokens.every((queryToken) =>
+      textTokens.some((textToken) => tokenMatchesQuery(textToken, queryToken)),
+    )
   }
 
   const resortCards = Array.from(document.querySelectorAll<HTMLElement>('[data-resort-card]'))
   const countElement = document.querySelector<HTMLElement>('#resort-result-count')
   const params = new URLSearchParams(window.location.search)
-  const query = normalizeSearchText(params.get('q') ?? '')
+  const query = params.get('q') ?? ''
   const prefectures = params.getAll('prefecture').filter(Boolean)
 
   let visibleCount = 0
 
   for (const card of resortCards) {
-    const searchText = normalizeSearchText(card.dataset.searchText ?? '')
-    const matchesQuery = query.length === 0 || fuzzyMatch(searchText, query)
+    const matchesQuery = matchesSearchQuery(card.dataset.searchText ?? '', query)
     const matchesPrefecture =
       prefectures.length === 0 || prefectures.includes(card.dataset.prefectureKey ?? '')
     const isVisible = matchesQuery && matchesPrefecture
