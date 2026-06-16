@@ -209,9 +209,6 @@ terrainSummary:
   snowboard: "雪板可全區滑行。"
 externalContent:
   blogs:
-    - title: "仙台車站行李寄放-可以寄放滑雪板袋、大件行李的地方(2026年更新)"
-      url: https://natasha-traveler.tw/sendai-station/
-      note: "娜塔蝦的滑雪食旅手記，2026-01-21"
     - title: "雫石王子飯店住宿心得︱ski in out滑雪進出、自助餐美食吃到飽、露天溫泉賞雪景"
       url: https://natasha-traveler.tw/shizukuishi-princehote/
       note: "娜塔蝦的滑雪食旅手記，2025-07-21"
@@ -221,12 +218,6 @@ externalContent:
     - title: "日本東北雫石滑雪場，漫步在雲端的粉雪天堂，搭乘壓雪車滑野雪!"
       url: https://natasha-traveler.tw/shizukuishi-02/
       note: "娜塔蝦的滑雪食旅手記，2023-03-10"
-    - title: "台灣虎航直飛花卷機場心得｜免費接駁車到安比高原滑雪，省時又便利！"
-      url: https://natasha-traveler.tw/tigerair-hanamaki/
-      note: "娜塔蝦的滑雪食旅手記，2018-12-23"
-    - title: "[日本東北]雫石王子飯店絕佳法式餐廳「Kobushi」"
-      url: https://natasha-traveler.tw/shizukuishi-kobushi/
-      note: "娜塔蝦的滑雪食旅手記，2016-03-08"
     - title: "[雫石交通]如何前往岩手縣的雫石王子飯店&雫石滑雪場?"
       url: https://natasha-traveler.tw/shizukuishi-01/
       note: "娜塔蝦的滑雪食旅手記，2016-03-07"

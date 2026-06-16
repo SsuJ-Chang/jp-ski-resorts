@@ -121,9 +121,6 @@ externalContent:
     - title: "秋田｜田澤湖住宿｜親切款待的田澤湖森之風飯店(已改名田澤湖溫泉度假村飯店)"
       url: https://natasha-traveler.tw/hotel-morinokaze-tazawako/
       note: "娜塔蝦的滑雪食旅手記，2016-09-02"
-    - title: "【日本交通】如何前往日本秋田縣田澤湖?(田澤湖車站周邊介紹)"
-      url: https://natasha-traveler.tw/tazawako/
-      note: "娜塔蝦的滑雪食旅手記，2016-09-01"
   vlogs: []
 sources:
   - label: "Tazawako Ski Resort Official Website"

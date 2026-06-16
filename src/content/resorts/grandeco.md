@@ -210,9 +210,6 @@ externalContent:
     - title: "日本滑雪｜裏磐梯Grandeco滑雪場｜東北評鑑第一的滑雪場"
       url: https://natasha-traveler.tw/grandeco-ski-resort/
       note: "娜塔蝦的滑雪食旅手記，2021-10-02"
-    - title: "到雪國就只能滑雪嗎？我要玩點不一樣的！"
-      url: https://natasha-traveler.tw/snow-activity/
-      note: "娜塔蝦的滑雪食旅手記，2018-03-07"
   vlogs: []
 sources:
 - label: Grandeco Snow Resort Official Website

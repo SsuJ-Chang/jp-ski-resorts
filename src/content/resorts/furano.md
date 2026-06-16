@@ -259,9 +259,6 @@ externalContent:
     - title: "北海道滑雪｜富良野滑雪場攻略2026，適合新手和親子，交通住宿景點總整理【有影片】"
       url: https://natasha-traveler.tw/furano-ski-resort-guide/
       note: "娜塔蝦的滑雪食旅手記，2026-03-09"
-    - title: "北海道富良野美食推薦，10間必吃餐廳，燒肉、迴轉壽司、米其林拉麵等，快收口袋名單"
-      url: https://natasha-traveler.tw/furano-restaurant/
-      note: "娜塔蝦的滑雪食旅手記，2025-06-07"
     - title: "北海道滑雪交通｜滑雪巴士機場直達二世谷、留壽都、Tomamu、富良野、手稻等各大滑雪場【有影片】"
       url: https://natasha-traveler.tw/hokkaido-ski-bus-review/
       note: "娜塔蝦的滑雪食旅手記，2025-06-06"
@@ -271,18 +268,6 @@ externalContent:
     - title: "北海道︱新富良野王子飯店滑雪住宿心得．高樓層景觀客房．晚餐蟹腳吃到飽【有影片】"
       url: https://natasha-traveler.tw/shin-furano-prince-hotel-review/
       note: "娜塔蝦的滑雪食旅手記，2025-05-07"
-    - title: "富良野最美風景：森林精靈露台、森之時計咖啡，富良野景點必去推薦"
-      url: https://natasha-traveler.tw/furano-ninguru-terrace/
-      note: "娜塔蝦的滑雪食旅手記，2025-05-06"
-    - title: "富良野美食「富川製麵所」米其林指南推薦拉麵，必點味噌煙燻叉燒拉麵"
-      url: https://natasha-traveler.tw/furano-tomikawa-ramen/
-      note: "娜塔蝦的滑雪食旅手記，2024-05-05"
-    - title: "富良野秘密美食景點，欣賞群山環繞絕景，品味美味多汁的漢堡"
-      url: https://natasha-traveler.tw/lunch-burger/
-      note: "娜塔蝦的滑雪食旅手記，2023-03-05"
-    - title: "【北海道交通】前往富良野之旭川車站換車半日遊"
-      url: https://natasha-traveler.tw/asahikawa-eki/
-      note: "娜塔蝦的滑雪食旅手記，2016-07-19"
   vlogs: []
 sources:
 - label: "富良野スキー場 Official"

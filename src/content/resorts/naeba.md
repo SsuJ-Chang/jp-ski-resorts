@@ -282,9 +282,6 @@ externalContent:
     - title: "日本苗場滑雪記行：Dragondola龍纜車、神樂滑雪場與和田小屋的咖哩飯"
       url: https://natasha-traveler.tw/dragondola/
       note: "娜塔蝦的滑雪食旅手記，2015-09-13"
-    - title: "日本苗場滑雪記行之2：越後湯澤篇，得過諾貝爾文學獎的雪景"
-      url: https://natasha-traveler.tw/naeba-02/
-      note: "娜塔蝦的滑雪食旅手記，2015-09-10"
     - title: 日本苗場親子滑雪/新手看過來 !! | 初訪苗場Naeba滑雪場 & 新潟苗場王子飯店Naeba Prince Hotel開箱 by 豬圈圈樂活趣
       url: https://psonfamily.com/naeba-prince-hotel-family/
       note: 豬圈圈樂活趣

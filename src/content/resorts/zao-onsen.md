@@ -154,30 +154,18 @@ externalContent:
     - title: "藏王滑雪場攻略2026｜藏王樹冰一生必看奇景，開放時間、適合初學者嗎?"
       url: https://natasha-traveler.tw/zao-ski/
       note: "娜塔蝦的滑雪食旅手記，2026-03-13"
-    - title: "仙台車站行李寄放-可以寄放滑雪板袋、大件行李的地方(2026年更新)"
-      url: https://natasha-traveler.tw/sendai-station/
-      note: "娜塔蝦的滑雪食旅手記，2026-01-21"
     - title: "藏王滑雪場&賞藏王樹冰住宿推薦2026，8間藏王溫泉滑雪場的飯店民宿推薦"
       url: https://natasha-traveler.tw/zao-ski-hotel-guide/
       note: "娜塔蝦的滑雪食旅手記，2026-01-02"
     - title: "2026藏王樹冰夜間點燈日期、注意事項、心得分享，藏王滑雪必玩體驗"
       url: https://natasha-traveler.tw/zao-juhyo-night-crusing/
       note: "娜塔蝦的滑雪食旅手記，2025-12-18"
-    - title: "藏王溫泉景點推薦｜夜訪藏王酢川溫泉神社、藏王公湯巡禮、點燈日期"
-      url: https://natasha-traveler.tw/yamagata-zao-jinia/
-      note: "娜塔蝦的滑雪食旅手記，2025-12-17"
     - title: "山形藏王滑雪住宿推薦︱高見屋Lucent飯店，靠近滑雪纜車站，體驗千年秘湯溫泉"
       url: https://natasha-traveler.tw/zao-lucen/
       note: "娜塔蝦的滑雪食旅手記，2025-03-18"
     - title: "藏王滑雪場隱藏版美食 三五郎小屋的巨無霸牛排"
       url: https://natasha-traveler.tw/sangoro/
       note: "娜塔蝦的滑雪食旅手記，2016-02-22"
-    - title: "仙台景點｜青葉城參拜伊達政宗、飽覽仙台市景好風光"
-      url: https://natasha-traveler.tw/sendai/
-      note: "娜塔蝦的滑雪食旅手記，2016-02-14"
-    - title: "日本仙台美食：牛舌一定要吃厚切！仙台機場「冠舌屋」回國前大吃牛舌！"
-      url: https://natasha-traveler.tw/sendai-2/
-      note: "娜塔蝦的滑雪食旅手記，2015-09-28"
     - title: "日本藏王滑雪：藏王溫泉住宿-樹林飯店「ホテル樹林」完整介紹"
       url: https://natasha-traveler.tw/zao-01/
       note: "娜塔蝦的滑雪食旅手記，2015-09-17"

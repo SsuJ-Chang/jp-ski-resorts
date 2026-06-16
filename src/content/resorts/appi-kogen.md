@@ -226,18 +226,9 @@ externalContent:
     - title: "安比高原住宿推薦｜ANA皇冠假日度假飯店住宿心得2026，ski in/out，新房型&飯店設施&餐廳美食分享"
       url: https://natasha-traveler.tw/appi-kogen-hotel-review/
       note: "娜塔蝦的滑雪食旅手記，2026-02-10"
-    - title: "仙台車站行李寄放-可以寄放滑雪板袋、大件行李的地方(2026年更新)"
-      url: https://natasha-traveler.tw/sendai-station/
-      note: "娜塔蝦的滑雪食旅手記，2026-01-21"
     - title: "安比高原滑雪場住宿推薦︱ANA洲際酒店住宿心得─房間篇(ANA InterContinental )"
       url: https://natasha-traveler.tw/intercontinental-appi-kogen/
       note: "娜塔蝦的滑雪食旅手記，2025-07-05"
-    - title: "安比高原ANA洲際酒店─下午茶&Happy Hour酒水無限暢飲"
-      url: https://natasha-traveler.tw/appi-kogen-hapy-hour/
-      note: "娜塔蝦的滑雪食旅手記，2025-07-04"
-    - title: "安比高原ANA洲際酒店─晚餐點了Room Service還有精彩早餐!"
-      url: https://natasha-traveler.tw/appi-kogen-diner/
-      note: "娜塔蝦的滑雪食旅手記，2025-07-03"
     - title: "安比高原住宿心得｜安比白樺之森酒店Villa3(已更名為ANA假日度假飯店)"
       url: https://natasha-traveler.tw/appi-kogen-hotel/
       note: "娜塔蝦的滑雪食旅手記，2021-12-21"

@@ -127,18 +127,9 @@ externalContent:
     - title: "輕井澤王子大飯店西館住宿心得，日本料理 からまつ的精緻日式早餐"
       url: https://natasha-traveler.tw/karuizawa-west/
       note: "娜塔蝦的滑雪食旅手記，2023-07-07"
-    - title: "輕井澤雪上摩托車，享受Snow Ride極速奔馳快感！"
-      url: https://natasha-traveler.tw/karuizawa-snow-ride/
-      note: "娜塔蝦的滑雪食旅手記，2016-11-02"
-    - title: "長野滑雪｜輕井澤Outlet購物中心之滑雪用品採買攻略"
-      url: https://natasha-traveler.tw/karuizawa-outle/
-      note: "娜塔蝦的滑雪食旅手記，2016-11-01"
     - title: "日本滑雪．長野輕井澤王子滑雪場，初學者最佳選擇"
       url: https://natasha-traveler.tw/karuizawa-ski/
       note: "娜塔蝦的滑雪食旅手記，2016-10-31"
-    - title: "輕井澤王子飯店餐廳總整理：New York、和食 からまつ、Main Dining Room、和食堂信濃"
-      url: https://natasha-traveler.tw/karuizawa-prince-hote/
-      note: "娜塔蝦的滑雪食旅手記，2016-02-10"
   vlogs: []
 sources:
   -

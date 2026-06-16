@@ -190,12 +190,6 @@ externalContent:
     - title: "札幌手稻滑雪場2026攻略：交通方式、巴士/纜車票與滑雪課程費用、美食介紹"
       url: https://natasha-traveler.tw/sapporo-teine-ski-resort-review/
       note: "娜塔蝦的滑雪食旅手記，2025-12-30"
-    - title: "北海道手稻神社｜日本罕見的滑雪安全御守，快蒐集起來！"
-      url: https://natasha-traveler.tw/teine-jinjya/
-      note: "娜塔蝦的滑雪食旅手記，2025-05-25"
-    - title: "札幌住宿︱東急REI飯店-薄野平價飯店推薦，札幌車站免費接送服務，滑雪和觀光巴士停靠站"
-      url: https://natasha-traveler.tw/sapporo-tokyu-rei-hotel/
-      note: "娜塔蝦的滑雪食旅手記，2022-02-01"
   vlogs: []
 sources:
 - label: "サッポロテイネ Official"
