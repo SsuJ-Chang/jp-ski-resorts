@@ -1,0 +1,62 @@
+type ResortCard = HTMLElement & {
+  dataset: DOMStringMap & {
+    searchText?: string
+    prefectureKey?: string
+    tags?: string
+  }
+}
+
+const splitSearchTokens = (value: string) =>
+  value
+    .normalize('NFKC')
+    .toLocaleLowerCase()
+    .split(/[\s\p{P}\p{S}]+/gu)
+    .filter(Boolean)
+
+const tokenMatchesQuery = (textToken: string, queryToken: string) =>
+  textToken.includes(queryToken) || textToken.startsWith(queryToken)
+
+const matchesSearchQuery = (text: string, query: string) => {
+  const queryTokens = splitSearchTokens(query)
+  if (queryTokens.length === 0) return true
+
+  const textTokens = splitSearchTokens(text)
+  // Match inside a normalized token only; do not assemble letters across unrelated tokens.
+  return queryTokens.every((queryToken) =>
+    textTokens.some((textToken) => tokenMatchesQuery(textToken, queryToken)),
+  )
+}
+
+const getCardTags = (card: ResortCard) =>
+  (card.dataset.tags ?? '').split(' ').filter(Boolean)
+
+const matchesSelectedPrefectures = (card: ResortCard, selectedPrefectures: string[]) =>
+  selectedPrefectures.length === 0 || selectedPrefectures.includes(card.dataset.prefectureKey ?? '')
+
+const matchesSelectedTags = (card: ResortCard, selectedTags: string[]) =>
+  selectedTags.length === 0 || selectedTags.every((tag) => getCardTags(card).includes(tag))
+
+const applyResortFilters = () => {
+  const resortCards = Array.from(document.querySelectorAll<ResortCard>('[data-resort-card]'))
+  const countElement = document.querySelector<HTMLElement>('[data-resort-result-count]')
+  const params = new URLSearchParams(window.location.search)
+  const query = params.get('q') ?? ''
+  const selectedPrefectures = params.getAll('prefecture').filter(Boolean)
+  const selectedTags = params.getAll('tag').filter(Boolean)
+
+  let visibleCount = 0
+
+  for (const card of resortCards) {
+    const isVisible =
+      matchesSearchQuery(card.dataset.searchText ?? '', query) &&
+      matchesSelectedPrefectures(card, selectedPrefectures) &&
+      matchesSelectedTags(card, selectedTags)
+
+    card.hidden = !isVisible
+    if (isVisible) visibleCount += 1
+  }
+
+  if (countElement) countElement.textContent = `${visibleCount} 座雪場`
+}
+
+applyResortFilters()

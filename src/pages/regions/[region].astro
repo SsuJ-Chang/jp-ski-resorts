@@ -2,10 +2,10 @@
 import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import JapanRegionMap from '../../components/JapanRegionMap.astro'
-import PrefectureFilterNav from '../../components/PrefectureFilterNav.astro'
+import ListingFilterNav from '../../components/ListingFilterNav.astro'
 import ResortSearchResults from '../../components/ResortSearchResults.astro'
 import { regions } from '../../data/regions'
-import { getPrefectureStats } from '../../utils/resortBrowse'
+import { getPrefectureStats, getTagStats } from '../../utils/resortBrowse'
 import { sortResortsForListing } from '../../utils/resortOrdering'
 import { filterPublishedResorts } from '../../utils/resorts'
 
@@ -22,6 +22,7 @@ const resorts = sortResortsForListing(
   publishedResorts.filter((resort) => resort.data.region === region.key),
 )
 const prefectureStats = getPrefectureStats(resorts)
+const tagStats = getTagStats(resorts)
 const regionNamesByKey = Object.fromEntries(
   regions.map((region) => [region.key, region.name.zhTw]),
 )
@@ -43,8 +44,9 @@ const regionNamesByKey = Object.fromEntries(
       <JapanRegionMap mode="region" region={region} labelledBy={`${region.key}-map-title`} />
     </section>
 
-    <PrefectureFilterNav
-      stats={prefectureStats}
+    <ListingFilterNav
+      prefectureStats={prefectureStats}
+      tagStats={tagStats}
       basePath={`/regions/${region.key}/`}
     />
 

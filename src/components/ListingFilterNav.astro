@@ -1,0 +1,112 @@
+---
+import type { PrefectureStat, TagStat } from '../utils/resortBrowse'
+import { withBasePath } from '../utils/paths'
+
+type FilterOption = {
+  value: string
+  label: string
+  count: number
+}
+
+type FilterMenu = {
+  key: string
+  allLabel: string
+  title: string
+  options: FilterOption[]
+}
+
+type Props = {
+  basePath: string
+  prefectureStats?: PrefectureStat[]
+  tagStats?: TagStat[]
+  showIndexLink?: boolean
+}
+
+const {
+  basePath,
+  prefectureStats = [],
+  tagStats = [],
+  showIndexLink = true,
+} = Astro.props
+
+const normalizedBasePath = basePath.endsWith('/') ? basePath : `${basePath}/`
+const allHref = withBasePath(normalizedBasePath)
+const filterMenus: FilterMenu[] = [
+  {
+    key: 'prefecture',
+    allLabel: '全部縣別',
+    title: '選擇縣別',
+    options: prefectureStats.map((prefecture) => ({
+      value: prefecture.key,
+      label: prefecture.name.zhTw,
+      count: prefecture.count,
+    })),
+  },
+  {
+    key: 'tag',
+    allLabel: '全部標籤',
+    title: '選擇標籤',
+    options: tagStats.map((tag) => ({
+      value: tag.key,
+      label: tag.label,
+      count: tag.count,
+    })),
+  },
+].filter((menu) => menu.options.length > 0)
+
+const showToolbar = filterMenus.length > 0 || showIndexLink
+---
+
+{showToolbar && (
+  <section class="listing-toolbar" aria-label="列表篩選" data-listing-filter data-filter-base-path={allHref}>
+    {filterMenus.map((menu) => (
+      <details class="filter-menu" data-filter-menu data-filter-param={menu.key}>
+        <summary class="filter-menu__button">
+          <span
+            data-filter-label
+            data-filter-param={menu.key}
+            data-all-label={menu.allLabel}
+          >
+            {menu.allLabel}
+          </span>
+          <span class="filter-menu__chevron" aria-hidden="true"></span>
+        </summary>
+
+        <form class="filter-menu__panel" method="get" action={allHref} data-filter-form>
+          <div class="filter-menu__header">
+            <strong>{menu.title}</strong>
+          </div>
+
+          <div class="filter-option-list">
+            {menu.options.map((option) => (
+              <label class="filter-option">
+                <input
+                  type="checkbox"
+                  name={menu.key}
+                  value={option.value}
+                  data-filter-option
+                  data-filter-param={menu.key}
+                  data-option-label={option.label}
+                />
+                <span>{option.label} ({option.count})</span>
+              </label>
+            ))}
+          </div>
+
+          <div class="filter-menu__footer">
+            <button type="button" class="button-link" data-filter-clear data-filter-param={menu.key}>
+              清除
+            </button>
+            <button type="submit" class="button-primary">套用</button>
+          </div>
+        </form>
+      </details>
+    ))}
+
+    {showIndexLink && <a class="listing-toolbar__link" href={withBasePath('/prefectures/')}>縣別索引</a>}
+  </section>
+)}
+
+<script>
+  import '../scripts/listingFilterNav.ts'
+</script>

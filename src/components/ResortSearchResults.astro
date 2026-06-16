@@ -20,7 +20,7 @@ const {
 ---
 
 <div class="resort-list-summary" aria-live="polite">
-  <span id="resort-result-count">{resorts.length} 座雪場</span>
+  <span data-resort-result-count>{resorts.length} 座雪場</span>
 </div>
 
 <section class="resort-grid" aria-label={ariaLabel}>
@@ -43,6 +43,7 @@ const {
         data-resort-card
         data-search-text={searchableName}
         data-prefecture-key={prefectureKey}
+        data-tags={resort.data.tags.join(' ')}
       >
         <div>
           <p class="resort-card__meta">
@@ -62,43 +63,5 @@ const {
 </section>
 
 <script>
-  const splitSearchTokens = (value: string) =>
-    value
-      .normalize('NFKC')
-      .toLocaleLowerCase()
-      .split(/[\s\p{P}\p{S}]+/gu)
-      .filter(Boolean)
-
-  const tokenMatchesQuery = (textToken: string, queryToken: string) =>
-    textToken.includes(queryToken) || textToken.startsWith(queryToken)
-
-  const matchesSearchQuery = (text: string, query: string) => {
-    const queryTokens = splitSearchTokens(query)
-    if (queryTokens.length === 0) return true
-
-    const textTokens = splitSearchTokens(text)
-    // Match inside a normalized token only; do not assemble letters across unrelated tokens.
-    return queryTokens.every((queryToken) =>
-      textTokens.some((textToken) => tokenMatchesQuery(textToken, queryToken)),
-    )
-  }
-
-  const resortCards = Array.from(document.querySelectorAll<HTMLElement>('[data-resort-card]'))
-  const countElement = document.querySelector<HTMLElement>('#resort-result-count')
-  const params = new URLSearchParams(window.location.search)
-  const query = params.get('q') ?? ''
-  const prefectures = params.getAll('prefecture').filter(Boolean)
-
-  let visibleCount = 0
-
-  for (const card of resortCards) {
-    const matchesQuery = matchesSearchQuery(card.dataset.searchText ?? '', query)
-    const matchesPrefecture =
-      prefectures.length === 0 || prefectures.includes(card.dataset.prefectureKey ?? '')
-    const isVisible = matchesQuery && matchesPrefecture
-    card.hidden = !isVisible
-    if (isVisible) visibleCount += 1
-  }
-
-  if (countElement) countElement.textContent = `${visibleCount} 座雪場`
+  import '../scripts/resortSearchResults.ts'
 </script>

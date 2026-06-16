@@ -1,9 +1,10 @@
 ---
 import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
+import ListingFilterNav from '../../components/ListingFilterNav.astro'
 import ResortSearchResults from '../../components/ResortSearchResults.astro'
 import { regions } from '../../data/regions'
-import { filterResortsByPrefecture, getPrefectureStats } from '../../utils/resortBrowse'
+import { filterResortsByPrefecture, getPrefectureStats, getTagStats } from '../../utils/resortBrowse'
 import { sortResortsForListing } from '../../utils/resortOrdering'
 import { filterPublishedResorts } from '../../utils/resorts'
 import { withBasePath } from '../../utils/paths'
@@ -21,6 +22,7 @@ export async function getStaticPaths() {
 const { prefecture } = Astro.props
 const publishedResorts = filterPublishedResorts(await getCollection('resorts'))
 const resorts = sortResortsForListing(filterResortsByPrefecture(publishedResorts, prefecture.key))
+const tagStats = getTagStats(resorts)
 const region = regions.find((region) => region.key === prefecture.region)
 const regionNamesByKey = Object.fromEntries(
   regions.map((region) => [region.key, region.name.zhTw]),
@@ -46,6 +48,12 @@ const regionNamesByKey = Object.fromEntries(
       </p>
       <p class="count-line">收錄 {resorts.length} 座滑雪場</p>
     </section>
+
+    <ListingFilterNav
+      tagStats={tagStats}
+      basePath={`/prefectures/${prefecture.key}/`}
+      showIndexLink={false}
+    />
 
     <ResortSearchResults
       resorts={resorts}

@@ -1,4 +1,5 @@
 import type { RegionKey } from '../data/regions'
+import { resortTags, tagLabels, type ResortTag } from '../data/tags'
 import {
   getPrefectureByName,
   prefectures,
@@ -8,6 +9,12 @@ import {
 import type { ResortEntry } from './resorts'
 
 export type PrefectureStat = Prefecture & {
+  count: number
+}
+
+export type TagStat = {
+  key: ResortTag
+  label: string
   count: number
 }
 
@@ -40,4 +47,22 @@ export function getPrefectureStats(resorts: ResortEntry[]) {
 
 export function getPrefectureStatsByRegion(resorts: ResortEntry[], region: RegionKey) {
   return getPrefectureStats(resorts).filter((prefecture) => prefecture.region === region)
+}
+
+export function getTagStats(resorts: ResortEntry[]) {
+  const countByTag = new Map<ResortTag, number>()
+
+  for (const resort of resorts) {
+    for (const tag of resort.data.tags) {
+      countByTag.set(tag, (countByTag.get(tag) ?? 0) + 1)
+    }
+  }
+
+  return resortTags
+    .map((tag) => ({
+      key: tag,
+      label: tagLabels[tag],
+      count: countByTag.get(tag) ?? 0,
+    }))
+    .filter((tag) => tag.count > 0)
 }

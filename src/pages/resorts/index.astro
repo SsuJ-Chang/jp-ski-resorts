@@ -1,15 +1,16 @@
 ---
 import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
-import PrefectureFilterNav from '../../components/PrefectureFilterNav.astro'
+import ListingFilterNav from '../../components/ListingFilterNav.astro'
 import ResortSearchResults from '../../components/ResortSearchResults.astro'
 import { regions } from '../../data/regions'
-import { getPrefectureStats } from '../../utils/resortBrowse'
+import { getPrefectureStats, getTagStats } from '../../utils/resortBrowse'
 import { sortResortsForListing } from '../../utils/resortOrdering'
 import { filterPublishedResorts } from '../../utils/resorts'
 
 const resorts = sortResortsForListing(filterPublishedResorts(await getCollection('resorts')))
 const prefectureStats = getPrefectureStats(resorts)
+const tagStats = getTagStats(resorts)
 
 const regionNamesByKey = Object.fromEntries(
   regions.map((region) => [region.key, region.name.zhTw]),
@@ -30,7 +31,11 @@ const regionNamesByKey = Object.fromEntries(
       </p>
     </section>
 
-    <PrefectureFilterNav stats={prefectureStats} basePath="/resorts/" />
+    <ListingFilterNav
+      prefectureStats={prefectureStats}
+      tagStats={tagStats}
+      basePath="/resorts/"
+    />
 
     <ResortSearchResults resorts={resorts} regionNamesByKey={regionNamesByKey} />
   </main>
