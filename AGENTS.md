@@ -51,6 +51,11 @@ Use Antigravity for:
 - Always check `git status` before asking an AI tool to modify files.
 - UI work should not change the data schema unless explicitly requested.
 - Schema and data work should not redesign UI unless explicitly requested.
-- Run build or typecheck before committing once available.
 - Never commit `.local-ai/`.
 
+## Validation
+
+- Run `npm run check` before committing code, content model, schema, SEO, sitemap, metadata, or CI changes.
+- `npm run check` runs `npm run build` and then `npm run seo:audit`.
+- Run `npm run seo:audit` only after a successful build, because it audits the generated `dist/` output.
+- For documentation-only changes, validation can be skipped, but mention that it was skipped.
