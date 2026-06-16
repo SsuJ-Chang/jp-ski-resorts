@@ -207,7 +207,16 @@ terrainSummary:
   advanced: 較高難度路線需依官方雪場圖與當日開放狀態確認。
   snowboard: 雙板與雪板使用規則請以官方公告為準。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "新潟上越國際滑雪場，214個東京巨蛋面積的超大型滑雪場"
+      url: https://natasha-traveler.tw/jkokusai-ski/
+      note: "娜塔蝦的滑雪食旅手記，2022-02-05"
+    - title: "上越國際滑雪場住宿︱歐式風情無限的Hotel Green Plaza Joetsu"
+      url: https://natasha-traveler.tw/hotel-green-plaza-joetsu/
+      note: "娜塔蝦的滑雪食旅手記，2021-01-24"
+    - title: "日本滑雪自由行｜如何從越後湯澤車站到上越國際滑雪場?"
+      url: https://natasha-traveler.tw/jkokusai-bus/
+      note: "娜塔蝦的滑雪食旅手記，2016-01-25"
   vlogs: []
 sources:
 - label: Joetsu Kokusai Ski Resort Official Website

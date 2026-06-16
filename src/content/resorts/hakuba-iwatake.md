@@ -203,7 +203,10 @@ terrainSummary:
   snowboard: 官方票種有 snowboard 初心者應援方案，岩岳也有自然地形與 park/觀光設施，雪板使用者可留意平緩連絡路與回山麓動線。
   powder: Iwatake Back Bowl 與 Mountain Side 降雪後較有粉雪與自然地形感，但開放與安全管制需以官方狀態頁為準。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "白馬岩岳滑雪場︱觀景平台賞美景、雪場美食推薦、挑戰巨大盪鞦韆【有影片】"
+      url: https://natasha-traveler.tw/iwatake-ski/
+      note: "娜塔蝦的滑雪食旅手記，2025-04-26"
   vlogs: []
 sources:
 - label: Hakuba Iwatake Snow Field Official Website

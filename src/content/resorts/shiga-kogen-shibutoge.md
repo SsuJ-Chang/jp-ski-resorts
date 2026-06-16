@@ -119,6 +119,12 @@ terrainSummary:
   intermediate: Gemse Course 是官方標示的中級雪道。
   advanced: 官方即時狀態頁未列出進階雪道。
   powder: 位在高海拔峠區，雪況與天候變化要以當日公告為準。
+externalContent:
+  blogs:
+    - title: "横手山．渋峠滑雪場，樹冰、鬆雪、雲海、美食一次滿足︱志賀高原Day3"
+      url: https://natasha-traveler.tw/yokoteyama-ski/
+      note: "娜塔蝦的滑雪食旅手記，2020-03-12"
+  vlogs: []
 sources:
 - label: Shiga Kogen Real-Time Lift Status
   url: https://www.shigakogen.gr.jp/english/lift_information/

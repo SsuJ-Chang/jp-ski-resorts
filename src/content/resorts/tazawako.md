@@ -111,7 +111,19 @@ terrainSummary:
   snowboard: "全面可；單板實際可滑區域仍以現場開放為準。"
   powder: "○ / ツリーランコースで非圧雪ゾーンも楽しめます。；粉雪與非壓雪區域會受天候與管理狀態影響。"
 externalContent:
-  blogs: []
+  blogs:
+    - title: "【日本田澤湖滑雪番外篇】Cat Tour搭乘壓雪車，挑戰秘境鬆雪滑道"
+      url: https://natasha-traveler.tw/tazawako-cat-ride/
+      note: "娜塔蝦的滑雪食旅手記，2016-09-08"
+    - title: "秋田滑雪．田澤湖滑雪場，跟著「IRIS特務情人」來趟浪漫滑雪之旅"
+      url: https://natasha-traveler.tw/tazawako-ski/
+      note: "娜塔蝦的滑雪食旅手記，2016-09-04"
+    - title: "秋田｜田澤湖住宿｜親切款待的田澤湖森之風飯店(已改名田澤湖溫泉度假村飯店)"
+      url: https://natasha-traveler.tw/hotel-morinokaze-tazawako/
+      note: "娜塔蝦的滑雪食旅手記，2016-09-02"
+    - title: "【日本交通】如何前往日本秋田縣田澤湖?(田澤湖車站周邊介紹)"
+      url: https://natasha-traveler.tw/tazawako/
+      note: "娜塔蝦的滑雪食旅手記，2016-09-01"
   vlogs: []
 sources:
   - label: "Tazawako Ski Resort Official Website"

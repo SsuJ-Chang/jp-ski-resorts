@@ -297,6 +297,36 @@ terrainSummary:
   advanced: "上級雪道佔 30%，進階路線請依當日雪況與官方管制判斷。"
   snowboard: "雪板可滑行。"
   powder: "北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。"
+externalContent:
+  blogs:
+    - title: "留壽都省錢滑雪攻略：留壽都免費接駁車，先省交通、再省住宿費!"
+      url: https://natasha-traveler.tw/rusutsu-shuttle-bus/
+      note: "娜塔蝦的滑雪食旅手記，2026-03-15"
+    - title: "北海道最大滑雪渡假村：留壽都渡假村南北館房間開箱&心得、溫泉介紹"
+      url: https://natasha-traveler.tw/rusutsu-resort-hotel-review/
+      note: "娜塔蝦的滑雪食旅手記，2026-01-22"
+    - title: "北海道留壽都滑雪場2026詳細攻略，留壽都渡假村的住宿交通美食介紹"
+      url: https://natasha-traveler.tw/rusutsu-ski-resort-review/
+      note: "娜塔蝦的滑雪食旅手記，2025-12-28"
+    - title: "北海道滑雪交通｜滑雪巴士機場直達二世谷、留壽都、Tomamu、富良野、手稻等各大滑雪場【有影片】"
+      url: https://natasha-traveler.tw/hokkaido-ski-bus-review/
+      note: "娜塔蝦的滑雪食旅手記，2025-06-06"
+    - title: "北海道留壽都威斯汀酒店開箱介紹，留壽都住宿推薦，享受精緻滑雪假期(有影片)"
+      url: https://natasha-traveler.tw/westin-rusutsu/
+      note: "娜塔蝦的滑雪食旅手記，2025-04-16"
+    - title: "留壽都滑雪便宜住宿推建2026｜渡假村之外的經濟實惠民宿6選"
+      url: https://natasha-traveler.tw/rusutsu-lodges/
+      note: "娜塔蝦的滑雪食旅手記，2025-03-20"
+    - title: "The Vale Rusutsu留壽都奢華飯店開箱介紹，頂樓環景公寓景觀看滑雪場太無敵！"
+      url: https://natasha-traveler.tw/the-vale-rusutsu/
+      note: "娜塔蝦的滑雪食旅手記，2025-02-25"
+    - title: "留壽都滑雪渡假村美食特蒐！除了蟹腳吃到飽，還有這些必吃美食！"
+      url: https://natasha-traveler.tw/rusutsu-hotel-2/
+      note: "娜塔蝦的滑雪食旅手記，2023-01-22"
+    - title: "[留壽都滑雪]吃在留壽都渡假村，6間美食餐廳攻略"
+      url: https://natasha-traveler.tw/rusutsu-restauran/
+      note: "娜塔蝦的滑雪食旅手記，2016-08-06"
+  vlogs: []
 sources:
 - label: "ルスツリゾート Official"
   url: "https://rusutsu.com/rusutsu-in-winter/"

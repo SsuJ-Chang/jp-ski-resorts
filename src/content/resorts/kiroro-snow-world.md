@@ -154,6 +154,36 @@ terrainSummary:
   advanced: "上級雪道佔 26%，進階路線請依當日雪況與官方管制判斷。"
   snowboard: "雪板可滑行。"
   powder: "北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。"
+externalContent:
+  blogs:
+    - title: "Club Med Kiroro Grand 5大亮點，全包式滑雪假期適合那些人？真的划算嗎？"
+      url: https://natasha-traveler.tw/club-med-kiroro-holiday/
+      note: "娜塔蝦的滑雪食旅手記，2026-01-08"
+    - title: "Kiroro滑雪場住宿推薦『YU Kiroro公寓式酒店」開箱，ski in/out 盡情享受豪華粉雪假期"
+      url: https://natasha-traveler.tw/yu-kiroro-hotel-review/
+      note: "娜塔蝦的滑雪食旅手記，2025-07-14"
+    - title: "Club Med Kiroro Grand 美食餐廳完整攻略！自助餐、火鍋、燒肉、下午茶等，一日8餐不怕肚子餓！"
+      url: https://natasha-traveler.tw/club-med-kiroro-restaurant/
+      note: "娜塔蝦的滑雪食旅手記，2025-03-26"
+    - title: "Club Med Kiroro 滑雪學校上課囉！雪具租借、課程預約、上課心得分享"
+      url: https://natasha-traveler.tw/club-med-kiroro-ski/
+      note: "娜塔蝦的滑雪食旅手記，2025-03-16"
+    - title: "北海道Club Med Kiroro Grand度假村詳細開箱，適合滑雪新手、親子家庭渡假去"
+      url: https://natasha-traveler.tw/club-med-kiroro-grand/
+      note: "娜塔蝦的滑雪食旅手記，2025-03-15"
+    - title: "北海道Kiroro滑雪渡假村攻略，交通住宿雪場介紹，Club Med Kiroro滑雪度假村攻略"
+      url: https://natasha-traveler.tw/kiroro-ski/
+      note: "娜塔蝦的滑雪食旅手記，2025-03-14"
+    - title: "北海道Kiroro 滑雪場｜歐風飯店 Tribute Portfolio hotel住宿心得"
+      url: https://natasha-traveler.tw/kiroro-resort-hote/
+      note: "娜塔蝦的滑雪食旅手記，2021-12-22"
+    - title: "北海道Kiroro住宿｜Kiroro滑雪度假村美食餐廳總整理"
+      url: https://natasha-traveler.tw/kiroro-resort-restauran/
+      note: "娜塔蝦的滑雪食旅手記，2016-08-22"
+    - title: "[北海道．Kiroro住宿]Kiroro Town吃喝玩樂一條街(Tribute Portfolio飯店)"
+      url: https://natasha-traveler.tw/kiroro-town-tribute-portfolio/
+      note: "娜塔蝦的滑雪食旅手記，2016-08-21"
+  vlogs: []
 sources:
 - label: "キロロスノーワールド Official"
   url: "http://www.kiroro.co.jp/"

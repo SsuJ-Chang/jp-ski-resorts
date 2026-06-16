@@ -177,7 +177,19 @@ access:
     snowTireRequired: true
     note: "自駕可由長野 IC、安曇野 IC 或糸魚川 IC 轉一般道路前往；栂池高原周邊有多處停車場，部分停車場、特定日或預約車位可能收費。白馬山區冬季需準備雪胎或雪鏈。"
 externalContent:
-  blogs: []
+  blogs:
+    - title: "白馬滑雪︱栂池高原滑雪場住宿推薦2026，地點超好的6間栂池飯店&背包客住宿"
+      url: https://natasha-traveler.tw/tsugaike-ski-resort-hotel-guidw/
+      note: "娜塔蝦的滑雪食旅手記，2026-01-01"
+    - title: "栂池高原滑雪場美食餐廳6選，晚餐好選擇，燒肉、定食、牛排飯都美味"
+      url: https://natasha-traveler.tw/tsugaike-restaurant/
+      note: "娜塔蝦的滑雪食旅手記，2025-05-23"
+    - title: "栂池高原滑雪場住宿︱栂池太陽廣場飯店，近纜車站、溫泉大浴場 (Hotel Sun Plaza Tsugaike)"
+      url: https://natasha-traveler.tw/sunplaza-tsugaike-hotel/
+      note: "娜塔蝦的滑雪食旅手記，2025-04-08"
+    - title: "白馬栂池高原滑雪場攻略－日本最容易搭訕成功的雪場、適合新手練功"
+      url: https://natasha-traveler.tw/tsugaike-ski/
+      note: "娜塔蝦的滑雪食旅手記，2025-02-16"
   vlogs: []
 sources:
 - label: Tsugaike Mountain Resort Official Website

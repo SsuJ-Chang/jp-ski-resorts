@@ -133,6 +133,24 @@ terrainSummary:
   intermediate: 中級者可用 おなり山ゲレンデ、夏道コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 夏道チャレンジコース、青葉山第1ゲレンデ、青葉山第2ゲレンデ，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+externalContent:
+  blogs:
+    - title: "草津溫泉美食｜四大必吃美食，到草津溫泉看這篇就夠了！"
+      url: https://natasha-traveler.tw/kusatsu-onsen-3/
+      note: "娜塔蝦的滑雪食旅手記，2016-01-27"
+    - title: "草津溫泉3大必看景點︱湯畑、 熱乃湯湯揉表演， 西の河原通り 溫泉街"
+      url: https://natasha-traveler.tw/kusatsu-onsen-2/
+      note: "娜塔蝦的滑雪食旅手記，2016-01-27"
+    - title: "【草津溫泉住宿】草津Now Resort Hotel：滑雪、溫泉、螃蟹吃到飽"
+      url: https://natasha-traveler.tw/now-resort-hote/
+      note: "娜塔蝦的滑雪食旅手記，2016-01-26"
+    - title: "[日本交通]如何從東京到草津溫泉?"
+      url: https://natasha-traveler.tw/kusatsu-onsen-1/
+      note: "娜塔蝦的滑雪食旅手記，2016-01-26"
+    - title: "【日本滑雪．群馬】草津國際滑雪場，8公里粉雪滑道享受滑行快感!"
+      url: https://natasha-traveler.tw/kusatsu-kokusai-ski/
+      note: "娜塔蝦的滑雪食旅手記，2016-01-25"
+  vlogs: []
 sources:
 - label: Kusatsu Onsen Ski Resort Official
   url: https://www.932-onsen.com/winter/

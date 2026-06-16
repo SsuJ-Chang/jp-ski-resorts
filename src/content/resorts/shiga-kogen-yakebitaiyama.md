@@ -177,6 +177,15 @@ terrainSummary:
   intermediate: 多條 1,000m 以上中級線可串接，包含山溪線、全景線與 GS 線。
   advanced: Olympic、Middle、East 為燒額山的高難度雪道。
   snowboard: 區域規模大、雪道寬度變化多，適合 snowboarder 安排行程。
+externalContent:
+  blogs:
+    - title: "志賀高原滑雪攻略2026，日本最大滑雪區域，志賀高原交通住宿美食詳細介紹"
+      url: https://natasha-traveler.tw/shiga-kogen-ski-resort-guide/
+      note: "娜塔蝦的滑雪食旅手記，2025-07-10"
+    - title: "志賀高原滑雪住宿︱ski in/out 志賀高原王子飯店 、東西南館詳細介紹"
+      url: https://natasha-traveler.tw/shiga-kogen-prince-hotel-review/
+      note: "娜塔蝦的滑雪食旅手記，2025-04-18"
+  vlogs: []
 sources:
 - label: Shiga Kogen Real-Time Lift Status
   url: https://www.shigakogen.gr.jp/english/lift_information/

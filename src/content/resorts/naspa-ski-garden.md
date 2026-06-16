@@ -159,7 +159,10 @@ terrainSummary:
   advanced: 較高難度路線需依官方雪場圖與當日開放狀態確認。
   snowboard: 雙板與雪板使用規則請以官方公告為準。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "Naspa新大谷飯店住宿心得︱ski in/out 旁邊是Naspa滑雪場，親子友善飯店，蟹腳&牛排豪華晚餐"
+      url: https://natasha-traveler.tw/naspa-new-otani-hotel/
+      note: "娜塔蝦的滑雪食旅手記，2025-05-13"
   vlogs: []
 sources:
 - label: NASPA Ski Garden Official Website

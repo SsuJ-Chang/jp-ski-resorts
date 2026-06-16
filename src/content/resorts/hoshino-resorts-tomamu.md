@@ -227,6 +227,42 @@ terrainSummary:
   advanced: "上級雪道佔 30%，進階路線請依當日雪況與官方管制判斷。"
   snowboard: "雪板可滑行。"
   powder: "北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。"
+externalContent:
+  blogs:
+    - title: "Club Med Tomamu 全包式滑雪假期玩什麼？真的划算嗎？住宿、餐食、滑雪課程、活動全面剖析"
+      url: https://natasha-traveler.tw/club-med-tomamu-holiday/
+      note: "娜塔蝦的滑雪食旅手記，2025-06-22"
+    - title: "北海道滑雪交通｜滑雪巴士機場直達二世谷、留壽都、Tomamu、富良野、手稻等各大滑雪場【有影片】"
+      url: https://natasha-traveler.tw/hokkaido-ski-bus-review/
+      note: "娜塔蝦的滑雪食旅手記，2025-06-06"
+    - title: "星野Tomamu渡假村美食特搜(有影片)！13間餐廳、下午茶、酒吧總整理！"
+      url: https://natasha-traveler.tw/tomamu-restaurent-guide/
+      note: "娜塔蝦的滑雪食旅手記，2025-06-03"
+    - title: "星野TOMAMU渡假村的螃蟹吃到飽！「Buffet Dining hal餐廳」超狂自助晚餐、早餐分享"
+      url: https://natasha-traveler.tw/tomamu-hal/
+      note: "娜塔蝦的滑雪食旅手記，2024-10-06"
+    - title: "北海道葡萄酒大集合！星野渡假村TOMAMU Wine House，銅板價品嘗美酒"
+      url: https://natasha-traveler.tw/tomamu-wine-house/
+      note: "娜塔蝦的滑雪食旅手記，2023-03-28"
+    - title: "星野Tomamu渡假村絕景早餐！SORA高樓餐廳品嘗頂級螃蟹、鮭魚卵蓋飯"
+      url: https://natasha-traveler.tw/tomamu-sora/
+      note: "娜塔蝦的滑雪食旅手記，2023-03-27"
+    - title: "星野Tomamu渡假村隱藏版美食，戶外暖桌享用豪華關東煮"
+      url: https://natasha-traveler.tw/tomamu-oden/
+      note: "娜塔蝦的滑雪食旅手記，2023-03-17"
+    - title: "星野Tomamu渡假村Risonare飯店、100平方公尺頂級套房奢華體驗【有影片】"
+      url: https://natasha-traveler.tw/risonare-tomamu/
+      note: "娜塔蝦的滑雪食旅手記，2023-03-13"
+    - title: "星野Tomamu渡假村「森林餐廳」早晨夜晚都夢幻！牛排、干貝吃到飽！"
+      url: https://natasha-traveler.tw/tomamu-nininupuri/
+      note: "娜塔蝦的滑雪食旅手記，2023-03-11"
+    - title: "Club Med Tomamu滑雪學校上課體驗！兒童滑雪俱樂部是爸媽救星！"
+      url: https://natasha-traveler.tw/club-med-tomamu-ski/
+      note: "娜塔蝦的滑雪食旅手記，2023-01-30"
+    - title: "Club Med Tomamu 雪鞋健行，森林中的冒險旅程、遇見野生山豬!"
+      url: https://natasha-traveler.tw/club-med-snowshoe-tour/
+      note: "娜塔蝦的滑雪食旅手記，2023-01-29"
+  vlogs: []
 sources:
 - label: "星野リゾート トマム スキー場 Official"
   url: "http://www.snowtomamu.jp"

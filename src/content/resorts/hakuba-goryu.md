@@ -279,7 +279,13 @@ access:
     snowTireRequired: true
     note: "東京方向約 4 小時，可由長野自動車道安曇野 IC 或上信越自動車道長野 IC 方向進入。11 月底至 3 月底官方要求雪胎，停車場禁止夜間停車與車宿。"
 externalContent:
-  blogs: []
+  blogs:
+    - title: "白馬五龍滑雪場2026攻略，滑雪中心與雪道詳細介紹、裝備租借Step on不加價、美食與住宿推薦"
+      url: https://natasha-traveler.tw/goryu/
+      note: "娜塔蝦的滑雪食旅手記，2026-01-04"
+    - title: "白馬五龍滑雪場住宿︱亞貝斯特白馬度假村飯店，雪場步行3分鐘，有溫泉和停車場"
+      url: https://natasha-traveler.tw/hotelabest-hakuba/
+      note: "娜塔蝦的滑雪食旅手記，2025-02-09"
   vlogs: []
 sources:
 - label: Hakuba Goryu Official Website

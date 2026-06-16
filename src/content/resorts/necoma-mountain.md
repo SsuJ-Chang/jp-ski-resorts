@@ -240,7 +240,22 @@ terrainSummary:
   snowboard: 官方列有多座 snow park、地形公園與雪板可滑行區域，雙板與雪板規則請以官方公告為準。
   powder: 北區 Deep 與南區 Frozen、Peak、Black Valley 周邊有粉雪、樹林與未壓雪取向路線，開放規則請以官方公告為準。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "星野磐梯山溫泉飯店，體驗「お洒落」時髦的大人感，豐盛早晚餐大滿足！"
+      url: https://natasha-traveler.tw/hoshino-bandaisan/
+      note: "娜塔蝦的滑雪食旅手記，2025-02-03"
+    - title: "ALTS磐梯滑雪場，鬆雪、跳台、Snowcat Tour隨你玩"
+      url: https://natasha-traveler.tw/alts-ski/
+      note: "娜塔蝦的滑雪食旅手記，2022-10-08"
+    - title: "日本滑雪｜東北ALTS磐梯滑雪場、交通、住宿總整理"
+      url: https://natasha-traveler.tw/japan-alts-ski-resort/
+      note: "娜塔蝦的滑雪食旅手記，2017-11-04"
+    - title: "日本東北-星野ALTS磐梯滑雪場，Free Mountain Tour免費跟著教練逛山去"
+      url: https://natasha-traveler.tw/alts-ski-free-mountain-tour/
+      note: "娜塔蝦的滑雪食旅手記，2016-08-20"
+    - title: "滑雪交通｜前往星野磐梯山温泉飯店和ALTS磐梯滑雪場(2017.11更新)"
+      url: https://natasha-traveler.tw/bandaisan-bus/
+      note: "娜塔蝦的滑雪食旅手記，2016-08-16"
   vlogs: []
 sources:
 - label: NEKOMA Mountain Official Website

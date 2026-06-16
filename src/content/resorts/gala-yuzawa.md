@@ -262,7 +262,10 @@ terrainSummary:
   snowboard: 雙板與單板皆可使用；ローマンホリデー下段會銜接 Snow Park 練習區。
   powder: 降雪後可在非壓雪與較陡路線尋找粉雪，但開放狀況會受積雪、天候與安全管制影響。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "GALA湯澤滑雪場2026攻略︱滑雪教練帶你玩~滑雪新手最愛，美食交通詳細介紹"
+      url: https://natasha-traveler.tw/gala-ski-resort-review/
+      note: "娜塔蝦的滑雪食旅手記，2025-12-29"
   vlogs: []
 sources:
 - label: GALA Yuzawa Snow Resort Official Website

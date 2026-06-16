@@ -561,7 +561,43 @@ terrainSummary:
   snowboard: 二世谷有寬雪道、夜滑、地形公園與大量住宿圈，雪板玩家可依住宿位置選擇 Hirafu、HANAZONO 或其他區域作為主要據點。
   powder: 官方介紹二世谷以乾爽輕質粉雪與冬季林間地形聞名；粉雪、樹林與非管制區域需遵守官方規則與雪崩資訊。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "2026二世谷Niseko住宿推薦｜18間人氣飯店&民宿實住心得，滑雪場近、交通便利"
+      url: https://natasha-traveler.tw/niseko-hotel-guide/
+      note: "娜塔蝦的滑雪食旅手記，2026-04-30"
+    - title: "Park Hyatt Niseko Hanazono 二世谷花園柏悅飯店的完美一天 (亞洲最佳奢華滑雪飯店)"
+      url: https://natasha-traveler.tw/park-hyatt-niseko-hanazono/
+      note: "娜塔蝦的滑雪食旅手記，2025-07-11"
+    - title: "二世谷平價住宿推薦：B&B「My Ecolodge」車站&滑雪場免費接送服務"
+      url: https://natasha-traveler.tw/my-ecolodge/
+      note: "娜塔蝦的滑雪食旅手記，2025-06-26"
+    - title: "二世谷住宿推薦︱The Green Leaf 綠葉渡假村，有溫泉、機場巴士直達、ski in/out超便利"
+      url: https://natasha-traveler.tw/niseko-green-leaf-hotel/
+      note: "娜塔蝦的滑雪食旅手記，2025-06-25"
+    - title: "北海道滑雪交通｜滑雪巴士機場直達二世谷、留壽都、Tomamu、富良野、手稻等各大滑雪場【有影片】"
+      url: https://natasha-traveler.tw/hokkaido-ski-bus-review/
+      note: "娜塔蝦的滑雪食旅手記，2025-06-06"
+    - title: "二世谷住宿推薦∣Setsu Niseko雪二世谷，豪華公寓型酒店，飯店設施開箱介紹"
+      url: https://natasha-traveler.tw/setsu-niseko-hotel-review-1/
+      note: "娜塔蝦的滑雪食旅手記，2024-11-30"
+    - title: "二世谷樂水山RAKU SUISAN︱二世谷私密奢華溫泉旅館的靜謐時光"
+      url: https://natasha-traveler.tw/niseko-raku-suisan/
+      note: "娜塔蝦的滑雪食旅手記，2024-06-24"
+    - title: "北海道二世谷奢華飯店:Andaru Niseko Villas私密獨棟別墅，1日只接待6組客人【有影片】"
+      url: https://natasha-traveler.tw/andaru-niseko-villas/
+      note: "娜塔蝦的滑雪食旅手記，2023-12-20"
+    - title: "二世谷平價飯店推薦︱Midtown Niseko 有廚房餐廳、免費接送服務"
+      url: https://natasha-traveler.tw/midtown-niseko/
+      note: "娜塔蝦的滑雪食旅手記，2023-12-16"
+    - title: "二世谷住宿推薦︱Ki Niseko木二世谷飯店，纜車站旁、世界最佳滑雪精品飯店"
+      url: https://natasha-traveler.tw/ki-niseko-hotel-review/
+      note: "娜塔蝦的滑雪食旅手記，2023-12-01"
+    - title: "二世谷住宿推薦︱The Vale Niseko 世界最佳滑雪精品飯店、超讚服務&地點"
+      url: https://natasha-traveler.tw/the-vale-niseko/
+      note: "娜塔蝦的滑雪食旅手記，2023-11-10"
+    - title: "Setsu Niseko雪二世谷房間篇︱二世谷最新最夯飯店，羊蹄山景觀無敵"
+      url: https://natasha-traveler.tw/setsu-niseko-2/
+      note: "娜塔蝦的滑雪食旅手記，2023-01-01"
   vlogs: []
 sources:
 - label: Niseko United Official Website

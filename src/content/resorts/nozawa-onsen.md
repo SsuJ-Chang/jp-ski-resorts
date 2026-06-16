@@ -335,7 +335,16 @@ terrainSummary:
   snowboard: 官方雪場圖標示雙板、雪板、snowscoot、snowmoto、snowfeet、air board 等可用裝備；雪板使用者需依官方規則繫安全繩。
   powder: 官方雪場圖標示非壓雪區、Yamabiko 自己責任區與 backcountry gate，需依官方邊界與 gate 規則行動。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "野澤溫泉滑雪場住宿︱河一屋旅館，享受露天溫泉與美味鄉土料理【跟著Double Black Crew去滑雪~1】"
+      url: https://natasha-traveler.tw/nozawa-onsen-kawaichiya-ryokan/
+      note: "娜塔蝦的滑雪食旅手記，2025-05-03"
+    - title: "野澤溫泉滑雪場攻略，特色雪道、打卡景點、滑雪課程、必吃美食【跟著Double Black Crew去滑雪~2】"
+      url: https://natasha-traveler.tw/nozawa-ski/
+      note: "娜塔蝦的滑雪食旅手記，2024-09-12"
+    - title: "野澤溫泉滑雪場ski菜鳥練功心得、古樸溫泉街超好逛【跟著DOUBLE BLACK CREW去滑雪~3】"
+      url: https://natasha-traveler.tw/double-black-crew/
+      note: "娜塔蝦的滑雪食旅手記，2023-05-31"
   vlogs: []
 sources:
 - label: Nozawa Onsen Official Website

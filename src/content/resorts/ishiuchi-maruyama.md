@@ -320,7 +320,10 @@ terrainSummary:
   snowboard: 官方 snow park 包含 500m 主 park、Beginner Park 與 GungHo Monster Pipe，並標示可供滑雪者與 snowboard 玩家使用。
   powder: 官方 tree run 頁面列出 2 個 tree run 區與 5 個非壓雪區，雪後可期待天然雪，但需依入口、巡邏與安全公告開放。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "石打丸山滑雪場攻略2026，雪道介紹，住宿、交通、美食、滑雪教練課推薦，ptt/dcard推薦"
+      url: https://natasha-traveler.tw/ishiuchi-maruyama-ski-resort-guide/
+      note: "娜塔蝦的滑雪食旅手記，2026-03-02"
   vlogs:
   - title: 【4K SKI JAPOW】石打丸山スキー場｜2025 Season｜全コース紹介（Ishiuchi Maruyama Ski resort）-2025/1/14
     url: https://www.youtube.com/watch?v=bd5A7FB11qg

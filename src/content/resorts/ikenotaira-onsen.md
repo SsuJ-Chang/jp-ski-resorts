@@ -263,7 +263,10 @@ terrainSummary:
   snowboard: 官方列有公園專用路線與多條寬廣雪道，雙板與雪板規則請以官方公告為準。
   powder: 樹林滑行路線與高海拔區域在新雪後較有粉雪行程彈性，實際開放請以官方公告為準。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "妙高高原滑雪住宿推薦｜Hotel Alpen Blick心得，池之平滑雪場Ski in /out"
+      url: https://natasha-traveler.tw/hotel-alpen-blick/
+      note: "娜塔蝦的滑雪食旅手記，2025-01-20"
   vlogs: []
 sources:
 - label: Alpenblick Resort Ski Official

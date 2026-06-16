@@ -292,7 +292,10 @@ terrainSummary:
   snowboard: 整體滑行者組成約雙板 60%、單板 40%，寬坡與中級路線對單板也相對友善。
   powder: 未整雪與饅頭坡比例雖不高，但ジャイアント、テクニカル、ナチュラル等路線在新雪後有粉雪與不整地練習空間。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "岩原滑雪場攻略2026，雪道平緩、滑雪新手練功首選！岩原滑雪場特色、交通、票價、美食介紹"
+      url: https://natasha-traveler.tw/iwappara-ski/
+      note: "娜塔蝦的滑雪食旅手記，2025-12-20"
   vlogs: []
 sources:
 - label: Iwappara Ski Resort Official Website

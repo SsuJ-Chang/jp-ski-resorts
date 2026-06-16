@@ -250,7 +250,10 @@ terrainSummary:
   advanced: 較高難度路線需依官方雪場圖與當日開放狀態確認。
   snowboard: 雙板與雪板使用規則請以官方公告為準。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "越後湯澤‧舞子高原滑雪場2026攻略，ski in/out、適合新手和親子滑雪"
+      url: https://natasha-traveler.tw/maiko-resor/
+      note: "娜塔蝦的滑雪食旅手記，2025-07-08"
   vlogs: []
 sources:
 - label: Maiko Snow Resort Official Website

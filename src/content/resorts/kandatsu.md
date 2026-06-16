@@ -203,8 +203,9 @@ access:
     note: "從關越自動車道湯澤 IC 方向進入很近；練馬 IC 出發約 110 分、新潟西 IC 出發約 90 分。停車場約 2,000 台，平假日免費。"
 externalContent:
   blogs:
-    - title: 越後湯澤「神立高原滑雪場」車站免費接駁、女生纜車票優惠、夜滑直到凌晨!
+    - title: "越後湯澤「神立高原滑雪場」車站免費接駁、女生纜車票優惠、夜滑直到凌晨!"
       url: https://natasha-traveler.tw/kandatsu-snow-resort/
+      note: "娜塔蝦的滑雪食旅手記，2025-03-23"
   vlogs: []
 sources:
 - label: Kandatsu Official Website

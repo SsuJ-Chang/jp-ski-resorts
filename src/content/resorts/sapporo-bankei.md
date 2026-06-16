@@ -142,6 +142,12 @@ terrainSummary:
   advanced: "上級雪道佔 30%，進階路線請依當日雪況與官方管制判斷。"
   snowboard: "雪板可滑行。"
   powder: "北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。"
+externalContent:
+  blogs:
+    - title: "[北海道]札幌盤溪滑雪場，市區出發只要30分鐘，夜景超美!"
+      url: https://natasha-traveler.tw/sapporo-bankei-ski/
+      note: "娜塔蝦的滑雪食旅手記，2017-09-03"
+  vlogs: []
 sources:
 - label: "さっぽろばんけいスキー場 Official"
   url: "https://www.bankei.co.jp/winter/ski/"

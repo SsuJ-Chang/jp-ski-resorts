@@ -200,7 +200,19 @@ terrainSummary:
   snowboard: 雙板與雪板皆可使用，詳細 freeride 與 tree run 規則請以官方公告為準。
   powder: Powder、Road to Powder、Free Ride 與高海拔區域在新雪後較有粉雪行程彈性。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "EN Resort Grandeco飯店住宿心得︱ski in/out 滑雪進出，車站免費接送，精緻度假飯店"
+      url: https://natasha-traveler.tw/en-resort-grandeco/
+      note: "娜塔蝦的滑雪食旅手記，2025-06-10"
+    - title: "日本東北︱Grandeco滑雪場，雪季長、雪質好，ski in/out滑雪進出"
+      url: https://natasha-traveler.tw/grandeco-ski/
+      note: "娜塔蝦的滑雪食旅手記，2025-06-09"
+    - title: "日本滑雪｜裏磐梯Grandeco滑雪場｜東北評鑑第一的滑雪場"
+      url: https://natasha-traveler.tw/grandeco-ski-resort/
+      note: "娜塔蝦的滑雪食旅手記，2021-10-02"
+    - title: "到雪國就只能滑雪嗎？我要玩點不一樣的！"
+      url: https://natasha-traveler.tw/snow-activity/
+      note: "娜塔蝦的滑雪食旅手記，2018-03-07"
   vlogs: []
 sources:
 - label: Grandeco Snow Resort Official Website

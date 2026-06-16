@@ -247,7 +247,10 @@ terrainSummary:
   snowboard: 官方雪道圖以雙板與雪板共用雪道呈現，實際規則請以官方公告為準。
   powder: 高海拔與上級路線在新雪後較有粉雪行程彈性，開放情況請以官方雪況為準。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "妙高衫之原滑雪場｜居酒屋民宿-富士美莊住宿心得"
+      url: https://natasha-traveler.tw/myoko-fujimiso/
+      note: "娜塔蝦的滑雪食旅手記，2019-06-23"
   vlogs: []
 sources:
 - label: Myoko Suginohara Official Website

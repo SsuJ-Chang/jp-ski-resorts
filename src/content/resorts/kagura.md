@@ -331,7 +331,13 @@ access:
     snowTireRequired: true
     note: "みつまた入口從關越自動車道湯澤 IC 約 8km、約 10 分；田代方向也可由月夜野 IC 方向進入，約 39km、約 70 分。冬季週末、假日與特定日普通車停車收費。"
 externalContent:
-  blogs: []
+  blogs:
+    - title: "神樂滑雪場攻略2026-搭乘日本最長龍纜車、衝鬆雪、和田小屋美食推薦"
+      url: https://natasha-traveler.tw/kagura-ski-resort-review/
+      note: "娜塔蝦的滑雪食旅手記，2025-11-20"
+    - title: "日本苗場滑雪記行：Dragondola龍纜車、神樂滑雪場與和田小屋的咖哩飯"
+      url: https://natasha-traveler.tw/dragondola/
+      note: "娜塔蝦的滑雪食旅手記，2015-09-13"
   vlogs: []
 sources:
 - label: Kagura Official Website

@@ -132,7 +132,10 @@ terrainSummary:
   advanced: 較高難度路線需依官方雪場圖與當日開放狀態確認。
   snowboard: 雙板與雪板使用規則請以官方公告為準。
 externalContent:
-  blogs: []
+  blogs:
+    - title: "白馬爺岳滑雪場攻略，推薦滑雪新手練功、鄰近溫泉鄉，雪地摩托車穿梭樹林超刺激"
+      url: https://natasha-traveler.tw/hakuba-jiigatake-ski/
+      note: "娜塔蝦的滑雪食旅手記，2025-02-07"
   vlogs: []
 sources:
 - label: Jiigatake Snow Resort Official Website

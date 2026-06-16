@@ -160,6 +160,12 @@ terrainSummary:
   intermediate: No.1 Gelende 是官方標示的中級雪道。
   advanced: 進階雪道數量多，包含 King、Queen、Wall、Super G 與 Active 等線。
   powder: 高海拔與風雪條件變化明顯，實際開放要看官方即時狀態。
+externalContent:
+  blogs:
+    - title: "横手山．渋峠滑雪場，樹冰、鬆雪、雲海、美食一次滿足︱志賀高原Day3"
+      url: https://natasha-traveler.tw/yokoteyama-ski/
+      note: "娜塔蝦的滑雪食旅手記，2020-03-12"
+  vlogs: []
 sources:
 - label: Shiga Kogen Real-Time Lift Status
   url: https://www.shigakogen.gr.jp/english/lift_information/
