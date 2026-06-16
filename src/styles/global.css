@@ -2005,6 +2005,30 @@ h1 {
     padding: 14px 0 36px;
   }
 
+  .listing-toolbar {
+    align-items: stretch;
+  }
+
+  .filter-menu {
+    width: min(100%, 420px);
+  }
+
+  .filter-menu__button {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .filter-menu__panel {
+    position: static;
+    width: 100%;
+    max-height: min(480px, 70vh);
+    margin-top: 8px;
+  }
+
+  .listing-toolbar__link {
+    margin-left: 0;
+  }
+
   .home-page .site-shell {
     align-items: start;
     flex: 1 0 auto;
