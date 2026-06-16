@@ -32,6 +32,8 @@ const authorHomeUrl = 'https://rj-tw.com/'
 const siteUrl = Astro.site ?? new URL('https://jp-resorts.rj-tw.com')
 const canonicalUrl = new URL(canonicalPath ?? Astro.url.pathname, siteUrl).toString()
 const siteName = '日本滑雪場指南'
+const socialImageUrl = new URL(withBasePath('/images/og-image.png'), siteUrl).toString()
+const socialImageAlt = '日本滑雪場指南'
 ---
 
 <!doctype html>
@@ -52,9 +54,16 @@ const siteName = '日本滑雪場指南'
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalUrl} />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:image" content={socialImageUrl} />
+    <meta property="og:image:width" content="1731" />
+    <meta property="og:image:height" content="909" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:alt" content={socialImageAlt} />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={socialImageUrl} />
+    <meta name="twitter:image:alt" content={socialImageAlt} />
     {structuredData && (
       <script type="application/ld+json" is:inline set:html={JSON.stringify(structuredData)} />
     )}
