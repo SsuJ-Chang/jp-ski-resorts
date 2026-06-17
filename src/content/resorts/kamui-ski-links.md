@@ -289,24 +289,54 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: 滑雪新手必看｜日本旭川教練親身指導
-    url: https://www.youtube.com/watch?v=IgdO75z4ZnQ
-    note: 大林滑雪男子
-  - title: "「轉彎要耐心等待」？破解換刃卡關的關鍵：給板子空間去咬雪！"
-    url: https://www.youtube.com/watch?v=mbAaTbFQfRQ&t=31s
-    note: 大林滑雪男子
-  - title: 為什麼滑雪高手都要「上下分離」？Willie 教練教你如何在神居滑出激進線條
-    url: https://www.youtube.com/watch?v=VJUC9pc4SRY
-    note: 大林滑雪男子
-  - title: 神居滑雪 VLOG：Willie 教練的一拳教學法！
-    url: https://www.youtube.com/watch?v=YJqxAG1rIkw
-    note: 大林滑雪男子
-  - title: 樹林深雪陷阱：掉進雪洞該如何自救？
-    url: https://www.youtube.com/watch?v=9DklDLj-4kI
-    note: 大林滑雪男子
-  - title: 用「速度」判斷前腳！Edge Roll 與 Early Edge 的進階關鍵。
-    url: https://www.youtube.com/watch?v=YfDdnCCY618
-    note: 大林滑雪男子
+    - title: "KC 困惑多年的滑雪難題終於茅塞頓開｜Kamui Snowboarding"
+      url: https://www.youtube.com/watch?v=YfDdnCCY618
+      note: "大林滑雪男子"
+    - title: "🏂 樹林深雪陷阱：掉進雪洞該如何自救？🏔️ Snowboarding in KAMUI EP06"
+      url: https://www.youtube.com/watch?v=9DklDLj-4kI
+      note: "大林滑雪男子"
+    - title: "🏂神居滑雪 VLOG：Willie 教練的一拳教學法！🏔️ Snowboarding in KAMUI EP05"
+      url: https://www.youtube.com/watch?v=YJqxAG1rIkw
+      note: "大林滑雪男子"
+    - title: "🏂為什麼滑雪高手都要「上下分離」？Willie 教練教你如何在神居滑出激進線條🏔️ Snowboarding in KAMUI EP04"
+      url: https://www.youtube.com/watch?v=VJUC9pc4SRY
+      note: "大林滑雪男子"
+    - title: "🏂「轉彎要耐心等待」？破解換刃卡關的關鍵：給板子空間去咬雪！🏔️ Snowboarding in Asahikawa EP03"
+      url: https://www.youtube.com/watch?v=mbAaTbFQfRQ
+      note: "大林滑雪男子"
+    - title: "滑雪新手必看｜日本旭川教練親身指導"
+      url: https://www.youtube.com/watch?v=IgdO75z4ZnQ
+      note: "大林滑雪男子"
+    - title: "🎯 搓雪小迴旋：轉彎控制的第一堂課🏂Snowboarding with CJ EP09 in Kamui神居滑雪場"
+      url: https://www.youtube.com/watch?v=MFLjZ0LqmYw
+      note: "大林滑雪男子"
+    - title: "利用傾身克服蛇彎！🏂Snowboarding with CJ EP08 in Kamui神居滑雪場"
+      url: https://www.youtube.com/watch?v=YiLlHNgC-G4
+      note: "大林滑雪男子"
+    - title: "失去傾倒的勇氣！🏂Snowboarding with CJ EP07 in Kamui神居滑雪場"
+      url: https://www.youtube.com/watch?v=9ZvhQnXQitc
+      note: "大林滑雪男子"
+    - title: "挑戰 Pencil Line：雕刻一條銳利的軌跡！🏂Snowboarding with CJ EP06 in Kamui神居滑雪場"
+      url: https://www.youtube.com/watch?v=Z2GO63g4bto
+      note: "大林滑雪男子"
+    - title: "Carving結合到一般滑行裡 🏂Snowboarding with CJ EP05 in Kamui神居滑雪場"
+      url: https://www.youtube.com/watch?v=XLfZm69uUL4
+      note: "大林滑雪男子"
+    - title: "10分鐘學會企鵝走路☃️🏂Snowboarding with CJ EP04 in Kamui神居滑雪場"
+      url: https://www.youtube.com/watch?v=H3u5o6eDsos
+      note: "大林滑雪男子"
+    - title: "Carving 的極限在倒與不倒之間☃️🏂Snowboarding with CJ EP03 in Kamui神居滑雪場"
+      url: https://www.youtube.com/watch?v=SS5MpdQ6XUY
+      note: "大林滑雪男子"
+    - title: "兩招擺脫單腳滑雪困境☃️🏂Snowboarding with CJ EP02 in Kamui神居滑雪場"
+      url: https://www.youtube.com/watch?v=UA8CsUSSVtU
+      note: "大林滑雪男子"
+    - title: "Carving 101 with CJ 從零開始學刻滑 EP01 in Kamui神居滑雪場"
+      url: https://www.youtube.com/watch?v=E5wTHBRIgoM
+      note: "大林滑雪男子"
+    - title: "北海道雪山受困全紀錄- 神居滑雪場受困 Kamui snowboarding"
+      url: https://www.youtube.com/watch?v=1FsV-Tefrsg
+      note: "大林滑雪男子"
 sources:
 - label: Kamui Ski Links Official Website
   url: https://www.kamui-skilinks.com/

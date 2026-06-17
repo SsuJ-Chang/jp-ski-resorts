@@ -268,7 +268,34 @@ externalContent:
     - title: "北海道︱新富良野王子飯店滑雪住宿心得．高樓層景觀客房．晚餐蟹腳吃到飽【有影片】"
       url: https://natasha-traveler.tw/shin-furano-prince-hotel-review/
       note: "娜塔蝦的滑雪食旅手記，2025-05-07"
-  vlogs: []
+  vlogs:
+    - title: "哭啊～好想滑雪 |北海道滑雪2020gopro max/富良野滑雪day 05 part 3"
+      url: https://www.youtube.com/watch?v=bDkflp8ERAo
+      note: "大林滑雪男子"
+    - title: "雖然沒教練但是沒關係(?) |北海道滑雪 gopro/富良野滑雪day 05 part 2"
+      url: https://www.youtube.com/watch?v=08G1fzBwmM4
+      note: "大林滑雪男子"
+    - title: "沒有教練的一天 |北海道滑雪 gopro/富良野滑雪day 05 part 1"
+      url: https://www.youtube.com/watch?v=UFG4Auy_oU0
+      note: "大林滑雪男子"
+    - title: "暴雪無料 滑雪女孩KC2.0 |北海道滑雪 gopro/富良野滑雪day 04 part 2"
+      url: https://www.youtube.com/watch?v=PnDRQoDt8Rs
+      note: "大林滑雪男子"
+    - title: "拯救落難滑雪女孩 |北海道滑雪 gopro/富良野滑雪day 04 part 1| Top to bottom"
+      url: https://www.youtube.com/watch?v=g4aDAkjjXzM
+      note: "大林滑雪男子"
+    - title: "午の雪|北海道滑雪 gopro/富良野滑雪day 03 part 2| Top to bottom"
+      url: https://www.youtube.com/watch?v=1bDG86g4bTE
+      note: "大林滑雪男子"
+    - title: "永遠的滑雪初學者|北海道滑雪 gopro/富良野滑雪day 03 | Top to bottom XD"
+      url: https://www.youtube.com/watch?v=7n-nizw8EPo
+      note: "大林滑雪男子"
+    - title: "教練我好想滑雪|北海道滑雪 gopro/富良野滑雪day 02 | gopro & gopro max"
+      url: https://www.youtube.com/watch?v=yCqzYHxl8Wo
+      note: "大林滑雪男子"
+    - title: "雪之旅|北海道滑雪gopro/富良野滑雪day 01 | A7m3 16-35GM/gopro max |A journey to snow"
+      url: https://www.youtube.com/watch?v=_MZSqJ44eZ4
+      note: "大林滑雪男子"
 sources:
 - label: "富良野スキー場 Official"
   url: "https://www.princehotels.co.jp/ski/furano/winter/"

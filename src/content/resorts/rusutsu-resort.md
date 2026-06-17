@@ -326,7 +326,13 @@ externalContent:
     - title: "[留壽都滑雪]吃在留壽都渡假村，6間美食餐廳攻略"
       url: https://natasha-traveler.tw/rusutsu-restauran/
       note: "娜塔蝦的滑雪食旅手記，2016-08-06"
-  vlogs: []
+  vlogs:
+    - title: "留壽都西山全面滑走 | Vale Rusutsu 2024追雪 acepro | 留壽都滑雪day 02"
+      url: https://www.youtube.com/watch?v=FUrF-cMsaF8
+      note: "大林滑雪男子"
+    - title: "2024滑雪還行嗎？ | 留壽都 Vale Rusutsu 2024 acepro | 留壽都滑雪day 01"
+      url: https://www.youtube.com/watch?v=ToRW8ZCl4h8
+      note: "大林滑雪男子"
 sources:
 - label: "ルスツリゾート Official"
   url: "https://rusutsu.com/rusutsu-in-winter/"

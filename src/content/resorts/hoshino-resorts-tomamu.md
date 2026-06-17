@@ -244,7 +244,82 @@ externalContent:
     - title: "Club Med Tomamu滑雪學校上課體驗！兒童滑雪俱樂部是爸媽救星！"
       url: https://natasha-traveler.tw/club-med-tomamu-ski/
       note: "娜塔蝦的滑雪食旅手記，2023-01-30"
-  vlogs: []
+  vlogs:
+    - title: "🏂 TOMAMU秘密基地：滑雪吉光片羽 🏔️ Snowboarding in TOMAMU EP25 星野滑雪場"
+      url: https://www.youtube.com/watch?v=83nfewECxvc
+      note: "大林滑雪男子"
+    - title: "🏂 滑雪禁區：快樂的邪教，風險的邊緣 🏔️ Snowboarding in TOMAMU EP24 星野滑雪場"
+      url: https://www.youtube.com/watch?v=_UKBfUeot8c
+      note: "大林滑雪男子"
+    - title: "🏂 滑雪：拋下一切，盡享雪地自由 🏔️ Snowboarding in TOMAMU EP23 星野滑雪場"
+      url: https://www.youtube.com/watch?v=WXTzZLRPRiA
+      note: "大林滑雪男子"
+    - title: "🎿 TOMAMU滑雪界外探險的平衡之道 🏔️ Snowboarding in TOMAMU EP22 星野滑雪場"
+      url: https://www.youtube.com/watch?v=TGAbNycFHpM
+      note: "大林滑雪男子"
+    - title: "🎿 滑雪的奇蹟 ❄️ Snowboarding in TOMAMU EP21 星野滑雪場"
+      url: https://www.youtube.com/watch?v=gxP57F5ybCw
+      note: "大林滑雪男子"
+    - title: "🎿 滑雪Vlog KUMO Cafe：海拔千米的味蕾與視覺饗宴 🧥 Snowboarding in TOMAMU EP20 星野滑雪場"
+      url: https://www.youtube.com/watch?v=pKkehx89bB4
+      note: "大林滑雪男子"
+    - title: "🎿 Tomamu 的雙重奏：觀光與滑雪秘境 🧥 Snowboarding in TOMAMU EP19 星野滑雪場"
+      url: https://www.youtube.com/watch?v=KhDvM0KKZzU
+      note: "大林滑雪男子"
+    - title: "🎿 Tomamu 奇幻之夜：冰城、煙火與教堂 🧥 Snowboarding in TOMAMU EP18 星野滑雪場"
+      url: https://www.youtube.com/watch?v=lzXHUuFivTQ
+      note: "大林滑雪男子"
+    - title: "🎿 滑雪冰面攻略：穩健前行的藝術 🧥Snowboarding in TOMAMU EP17 星野滑雪場"
+      url: https://www.youtube.com/watch?v=ZGchGVILyhI
+      note: "大林滑雪男子"
+    - title: "🏂 TOMAMU 的寶藏滑雪路線：野雪的誘惑與智慧🏂Snowboarding in TOMAMU EP16 星野滑雪場"
+      url: https://www.youtube.com/watch?v=GOUbVmuEoxc
+      note: "大林滑雪男子"
+    - title: "🏂 Retract Unweighted Turn 縮腳滑雪🏂Snowboarding in TOMAMU EP15 星野滑雪場"
+      url: https://www.youtube.com/watch?v=_xEDPrpayQ0
+      note: "大林滑雪男子"
+    - title: "🏂 謝謝Burton把拔🏂Snowboarding in TOMAMU EP14 星野滑雪場"
+      url: https://www.youtube.com/watch?v=xfsOnJB41Ho
+      note: "大林滑雪男子"
+    - title: "🏂 鬆雪裡的過彎重心順序：前 → 中 → 後 → 中🏂Snowboarding in TOMAMU EP13 星野滑雪場"
+      url: https://www.youtube.com/watch?v=PQHyeaabMCI
+      note: "大林滑雪男子"
+    - title: "❄️ 無重力的感覺，就在鬆雪裡🏂Snowboarding in TOMAMU EP12 星野滑雪場"
+      url: https://www.youtube.com/watch?v=AkPILRoahZ0
+      note: "大林滑雪男子"
+    - title: "🎯 滑行節奏露出馬腳 ☃️🏂Snowboarding in TOMAMU EP11 星野滑雪場"
+      url: https://www.youtube.com/watch?v=Qlqs0M-sbIQ
+      note: "大林滑雪男子"
+    - title: "🎯 「隱藏武器」—Twist 扭轉☃️🏂Snowboarding in TOMAMU EP10 星野滑雪場"
+      url: https://www.youtube.com/watch?v=tfFOPmVPxUw
+      note: "大林滑雪男子"
+    - title: "🎯 為什麼要保持前腳軸心？☃️🏂Snowboarding in TOMAMU EP09 星野滑雪場"
+      url: https://www.youtube.com/watch?v=Cyw-prp8i14
+      note: "大林滑雪男子"
+    - title: "🧠 大隻佬滑雪只有劣勢嗎？☃️🏂Snowboarding in TOMAMU EP08 星野滑雪場"
+      url: https://www.youtube.com/watch?v=tuJRQBucHNw
+      note: "大林滑雪男子"
+    - title: "🧠 開站姿的真相：左右不是鏡像，是兩種語言☃️🏂Snowboarding in TOMAMU EP07 星野滑雪場"
+      url: https://www.youtube.com/watch?v=JOIoJPD99sA
+      note: "大林滑雪男子"
+    - title: "🏔️ 鬆雪的誘惑：嘴巴說不要☃️🏂Snowboarding in TOMAMU EP06 星野滑雪場"
+      url: https://www.youtube.com/watch?v=Ecos4bPEfCc
+      note: "大林滑雪男子"
+    - title: "🎿 滑雪的四個動向：重心決定一切 ☃️🏂Snowboarding in TOMAMU EP05 星野滑雪場"
+      url: https://www.youtube.com/watch?v=n281aKJ7flk
+      note: "大林滑雪男子"
+    - title: "🎯太舒服了也不行？自動導航的陷阱🏂Snowboarding in TOMAMU EP04 星野滑雪場"
+      url: https://www.youtube.com/watch?v=ItWa44BB3uo
+      note: "大林滑雪男子"
+    - title: "🎯路線決定技術:路徑選擇的重要性 🏂Snowboarding in TOMAMU EP03 星野滑雪場"
+      url: https://www.youtube.com/watch?v=QrM_r0njVeo
+      note: "大林滑雪男子"
+    - title: "🎯TOMAMU秘境：道外入門的天堂！ 🏂Snowboarding in TOMAMU EP02 星野滑雪場"
+      url: https://www.youtube.com/watch?v=su1rBgfhx4g
+      note: "大林滑雪男子"
+    - title: "🎯讓你看看滑雪是甚麼 🏂Snowboarding in TOMAMU EP01 星野滑雪場"
+      url: https://www.youtube.com/watch?v=B608Ty6R-3c
+      note: "大林滑雪男子"
 sources:
 - label: "星野リゾート トマム スキー場 Official"
   url: "http://www.snowtomamu.jp"

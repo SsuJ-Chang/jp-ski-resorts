@@ -185,21 +185,21 @@ access:
 externalContent:
   blogs: []
   vlogs:
-  - title: Toe Side 總是卡住、轉不順？學會這招「麥可·傑克森（Michael Jackson）頂胯法」讓滑行瞬間變流暢！
-    url: https://www.youtube.com/watch?v=9Fsv4M0jQRQ
-    note: 大林滑雪男子
-  - title: "【滑雪教學】日本八字刻滑vs紐西蘭流派？專家 Willie 揭秘如何真正「站在板子上」！"
-    url: https://www.youtube.com/watch?v=n7lGF-7sYEA
-    note: 大林滑雪男子
-  - title: "【滑雪技術】開站姿 (Open Stance) 怎麼滑？Willie 教官拆解：為什麼前腳會變輕？"
-    url: https://www.youtube.com/watch?v=FEvR768yDUo
-    note: 大林滑雪男子
-  - title: "【單板滑雪教學】別再只是撞過雪堆！大師 Willie 教你如何利用地形輕鬆換刃 (Terrain Unweighted)"
-    url: https://www.youtube.com/watch?v=vt0wtmrzKF4&t=3s&pp=0gcJCSgLAYcqIYzv
-    note: 大林滑雪男子
-  - title: "【單板滑雪進階】為什麼你滑不流暢？Willie 老司機揭秘提升「滑行效率」與兩種核心換刃技巧！"
-    url: https://www.youtube.com/watch?v=TWUY4p3OEMM
-    note: 大林滑雪男子
+    - title: "🏂【單板滑雪進階】為什麼你滑不流暢？Willie 老司機揭秘提升「滑行效率」與兩種核心換刃技巧！🏔️ Snowboarding in PIPPU 比布滑雪 EP05"
+      url: https://www.youtube.com/watch?v=TWUY4p3OEMM
+      note: "大林滑雪男子"
+    - title: "🏂 從開放站姿到道外亂雪：地形減壓換刃 🏔️ Snowboarding in PIPPU 比布滑雪 EP04"
+      url: https://www.youtube.com/watch?v=vt0wtmrzKF4
+      note: "大林滑雪男子"
+    - title: "🏂【滑雪技術】開站姿 (Open Stance) 怎麼滑？Willie 教官拆解：為什麼前腳會變輕？🏔️ Snowboarding in PIPPU 比布滑雪 EP03"
+      url: https://www.youtube.com/watch?v=FEvR768yDUo
+      note: "大林滑雪男子"
+    - title: "🏂 【滑雪教學】日本八字刻滑vs紐西蘭流派？專家 Willie 揭秘如何真正「站在板子上」！🏔️ Snowboarding in PIPPU 比布滑雪 EP02"
+      url: https://www.youtube.com/watch?v=n7lGF-7sYEA
+      note: "大林滑雪男子"
+    - title: "🏂 Toe Side 總是卡住、轉不順？學會這招「麥可·傑克森（Michael Jackson）頂胯法」讓滑行瞬間變流暢！🏔️ Snowboarding in PIPPU 比布滑雪 EP01"
+      url: https://www.youtube.com/watch?v=9Fsv4M0jQRQ
+      note: "大林滑雪男子"
 sources:
 - label: Pippu Ski Resort Official Website
   url: https://www.town.pippu.hokkaido.jp/ski/top.html

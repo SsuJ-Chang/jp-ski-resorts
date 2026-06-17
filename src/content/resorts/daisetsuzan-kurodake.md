@@ -112,6 +112,12 @@ terrainSummary:
   advanced: "上級雪道佔 20%，進階路線請依當日雪況與官方管制判斷。"
   snowboard: "雪板可滑行。"
   powder: "北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。"
+externalContent:
+  blogs: []
+  vlogs:
+    - title: "下半身失蹤的極致粉雪體驗！黑岳滑雪為什麼是北海道硬核聖地"
+      url: https://www.youtube.com/watch?v=ma5bGZLbNQQ
+      note: "大林滑雪男子"
 sources:
 - label: "大雪山黒岳スキー場 Official"
   url: "https://www.rinyu.co.jp/kurodake/"

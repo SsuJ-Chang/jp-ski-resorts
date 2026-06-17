@@ -285,7 +285,13 @@ externalContent:
     - title: "日本苗場滑雪記行：Dragondola龍纜車、神樂滑雪場與和田小屋的咖哩飯"
       url: https://natasha-traveler.tw/dragondola/
       note: "娜塔蝦的滑雪食旅手記，2015-09-13" 
-  vlogs: []
+  vlogs:
+    - title: "🏂 搭龍纜前必知！苗場到神樂的這個陷阱會毀掉你的滑雪行程🏔️ Snowboarding in NAEBA EP02 苗場滑雪場"
+      url: https://www.youtube.com/watch?v=ez13R50G-eo
+      note: "大林滑雪男子"
+    - title: "苗場沒有雪怎麼滑?  爛雪應對的兩種玩法 🏔️ Snowboarding in NAEBA EP01 苗場滑雪場"
+      url: https://www.youtube.com/watch?v=Mz2i2GjpNwY
+      note: "大林滑雪男子"
 sources:
 - label: Naeba Official Website
   url: https://www.princehotels.co.jp/ski/naeba/winter/

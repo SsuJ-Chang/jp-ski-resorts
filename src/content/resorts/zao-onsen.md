@@ -169,7 +169,100 @@ externalContent:
     - title: "日本藏王滑雪：藏王溫泉住宿-樹林飯店「ホテル樹林」完整介紹"
       url: https://natasha-traveler.tw/zao-01/
       note: "娜塔蝦的滑雪食旅手記，2015-09-17"
-  vlogs: []
+  vlogs:
+    - title: "☃️藏王樹冰區滑雪：與自然奇景共舞的獨特體驗"
+      url: https://www.youtube.com/watch?v=9g9-IlCm3d4
+      note: "大林滑雪男子"
+    - title: "☃️不坐1號纜車看樹冰 |  藏王 滑雪 day 05 part 6"
+      url: https://www.youtube.com/watch?v=zws8xIzAu8Q
+      note: "大林滑雪男子"
+    - title: "☃️滑雪就是要舒服 |  藏王 滑雪 day 05 part 5"
+      url: https://www.youtube.com/watch?v=GWAJ5n2hGDI
+      note: "大林滑雪男子"
+    - title: "☃️藏王秘密基地 |  藏王 滑雪 day 05 part 4"
+      url: https://www.youtube.com/watch?v=WyWd4JudILw
+      note: "大林滑雪男子"
+    - title: "☃️小跳台的訣竅 |  藏王 滑雪 day 05 part 3"
+      url: https://www.youtube.com/watch?v=K0vI7lalbm4
+      note: "大林滑雪男子"
+    - title: "☃️藏王樹枝雪怪 |  藏王 滑雪 day 05 part 2"
+      url: https://www.youtube.com/watch?v=-SkTbmgrSgk
+      note: "大林滑雪男子"
+    - title: "☃️藏王樹冰纜車 |  藏王 滑雪 day 05 part1"
+      url: https://www.youtube.com/watch?v=Ek3ScABf8Eo
+      note: "大林滑雪男子"
+    - title: "☃️Willie教練的放課後調教 |  藏王 滑雪 day 04 part9"
+      url: https://www.youtube.com/watch?v=rKQAONColVE
+      note: "大林滑雪男子"
+    - title: "☃️踩下坡刃 : Carving前置練習 |  藏王 滑雪 day 04 part8"
+      url: https://www.youtube.com/watch?v=DUD9yBZ8rLk
+      note: "大林滑雪男子"
+    - title: "☃️雪道救援 |  藏王 滑雪 day 04 part7"
+      url: https://www.youtube.com/watch?v=I9nuAcetjRQ
+      note: "大林滑雪男子"
+    - title: "Edge Pressure Steer |  藏王 滑雪 day 04 part6"
+      url: https://www.youtube.com/watch?v=940VgZmiKsQ
+      note: "大林滑雪男子"
+    - title: "滑雪進階技巧 EXPOSED! 🎿  |  藏王 滑雪 day 04 part5"
+      url: https://www.youtube.com/watch?v=bmfLkSHFDO4
+      note: "大林滑雪男子"
+    - title: "滑雪蹲不是深蹲 | 藏王滑雪第四天 part4"
+      url: https://www.youtube.com/watch?v=eQxzezsft6A
+      note: "大林滑雪男子"
+    - title: "藏王克服饅頭 | 滑雪 day 04 part3"
+      url: https://www.youtube.com/watch?v=u43bUFNsUlw
+      note: "大林滑雪男子"
+    - title: "滑雪 Like a Pro! 不要當控制狂 |  藏王 滑雪 day 04 part2"
+      url: https://www.youtube.com/watch?v=5hV2VIAxG48
+      note: "大林滑雪男子"
+    - title: "☃️「摸屁股」 |  藏王 滑雪 day 04 part1"
+      url: https://www.youtube.com/watch?v=d1lbNahoMuk
+      note: "大林滑雪男子"
+    - title: "☃️沒有教練的午後雪 |  藏王 滑雪 day 03 part9"
+      url: https://www.youtube.com/watch?v=A36WIr6zRso
+      note: "大林滑雪男子"
+    - title: "☃️ Down Unweighted Turns  |  藏王 滑雪 day 03 part8"
+      url: https://www.youtube.com/watch?v=G_dpPaqQtMg
+      note: "大林滑雪男子"
+    - title: "☃️ Low Edge 滑行：克服陡坡 |  藏王 滑雪 day 03 part7"
+      url: https://www.youtube.com/watch?v=5hhZQ6T9RCg
+      note: "大林滑雪男子"
+    - title: "☃️CASI 考照很水?! 加拿大滑雪證書(Canadian Association of Snowboard Instructors) |  藏王滑雪day 03 part6"
+      url: https://www.youtube.com/watch?v=Ez0C8ZUkLAc
+      note: "大林滑雪男子"
+    - title: "☃️美食街 學 滑雪：生活中的 滑雪 啟示|  藏王滑雪day 03 part5"
+      url: https://www.youtube.com/watch?v=L0z-cnmH5QU
+      note: "大林滑雪男子"
+    - title: "提早換刃|  藏王滑雪day 03 part4"
+      url: https://www.youtube.com/watch?v=VX2OkeCegkI
+      note: "大林滑雪男子"
+    - title: "初學者也可以學 Carving嗎？ |  藏王滑雪day 03 part3"
+      url: https://www.youtube.com/watch?v=5esFQQve6o4
+      note: "大林滑雪男子"
+    - title: "滑雪滑得不開心還要滑嗎？ |  藏王滑雪day 03 part2"
+      url: https://www.youtube.com/watch?v=xlJrdqdA2S8
+      note: "大林滑雪男子"
+    - title: "站姿都不會調可以滑雪嗎？ |  藏王滑雪day 03 part1"
+      url: https://www.youtube.com/watch?v=dJUEDVYq0vQ
+      note: "大林滑雪男子"
+    - title: "二月都是草還可以滑雪嗎？|  藏王滑雪day 02 part6"
+      url: https://www.youtube.com/watch?v=uK7zcNQ0qc0
+      note: "大林滑雪男子"
+    - title: "遇到初學者不友善教練怎麼辦 |  藏王滑雪day 02 part5"
+      url: https://www.youtube.com/watch?v=ijeYqNdPDSo
+      note: "大林滑雪男子"
+    - title: "ski真的比snowboard好嗎? |  藏王滑雪day 02 part4"
+      url: https://www.youtube.com/watch?v=Yjz3JQePwtE
+      note: "大林滑雪男子"
+    - title: "滑雪坑很大！水很深！| ZAO 2024追雪 | 藏王滑雪day 02 part3"
+      url: https://www.youtube.com/watch?v=yWLf8tZFEkg
+      note: "大林滑雪男子"
+    - title: "藏王推坑滑雪夥伴 | ZAO 2024追雪 acepro | 藏王滑雪day 02 part2"
+      url: https://www.youtube.com/watch?v=ZZHOm1MAjWc
+      note: "大林滑雪男子"
+    - title: "Ryan Knapton雪板比較好嗎？ | ZAO 2024追雪 acepro | 藏王滑雪day 02 part1"
+      url: https://www.youtube.com/watch?v=mvwF0qNgOS4
+      note: "大林滑雪男子"
 sources:
   - label: "蔵王温泉スキー場 Official Website"
     url: "https://zaomountainresort.com/"

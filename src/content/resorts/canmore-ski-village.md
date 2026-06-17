@@ -108,7 +108,10 @@ terrainSummary:
   snowboard: "全面可；單板實際可滑區域仍以現場開放為準。"
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+    - title: "探秘旭川便宜小雪場 Canmore Ski Village（キャンモアスキービレッジ）with 教練帶我飛"
+      url: https://www.youtube.com/watch?v=8jPJySbYFNs
+      note: "大林滑雪男子"
 sources:
   - label: "Canmore Ski Village Official Website"
     url: "https://www.canmore-ski.jp"
