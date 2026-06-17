@@ -102,9 +102,14 @@ courses:
   details:
     - name: "エコーゲレンデ"
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=Y52z_hxbCHI&t=196s
+        - https://www.youtube.com/watch?v=Y52z_hxbCHI&t=298s
     - name: "かもしかコース"
       difficulty: mixed
       length: "1,500m"
+      videoLinks:
+        - https://www.youtube.com/watch?v=Y52z_hxbCHI&t=87s
     - name: "林間コース"
       difficulty: mixed
     - name: "雷鳥コース"
@@ -144,5 +149,8 @@ sources:
   url: https://jiigatake.com/slope/
 - label: Jiigatake Snow Resort Ticket
   url: https://jiigatake.com/price/
+- label: Jiigatake Course Video
+  url: https://www.youtube.com/watch?v=Y52z_hxbCHI
+  note: 影片說明欄提供かもしかコース、エコーゲレンデ與 snow park 章節時間軸。
 ---
 爺岳是白馬 Valley 南端的家庭與初學者取向雪場，官網主打 debut slope。

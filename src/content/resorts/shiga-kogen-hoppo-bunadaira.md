@@ -84,6 +84,8 @@ courses:
     difficulty: intermediate
     length: 1,500m
     note: 上部寬且平緩，是中央區域初級雪道中較寬的斜面之一。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KQCss9sO5U0&t=765s
 lifts:
   total: 1
 access:
@@ -110,5 +112,8 @@ sources:
   url: https://shigakogen-ski.or.jp/winter/ticket/
 - label: Shiga Kogen Access
   url: https://shigakogen-ski.or.jp/access/
+- label: Shiga Kogen Central Area Part 2 Course Video
+  url: https://www.youtube.com/watch?v=KQCss9sO5U0
+  note: 影片說明欄以區域章節提供発哺ブナ平滑行時間軸；此處對應至現有 Bunadaira Gelende。
 ---
 志賀高原發哺ブナ平位於中央區域銜接動線上，以寬廣緩斜面聞名，適合想在較寬場地練習基本轉彎與速度控制的人。

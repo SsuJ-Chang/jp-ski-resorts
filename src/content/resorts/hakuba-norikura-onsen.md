@@ -102,13 +102,19 @@ courses:
       length: 750m
       maxSlope: 10°
       averageSlope: 5°
+      videoLinks:
+        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=904s
     - name: 若栗林間コース
       difficulty: beginner
       length: 800m
       maxSlope: 10°
       averageSlope: 8°
+      videoLinks:
+        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=1193s
     - name: 里見若栗アクセスライン
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=1296s
     - name: スネークコース
       difficulty: advanced
       length: 700m
@@ -129,26 +135,37 @@ courses:
       length: 1,200m
       maxSlope: 25°
       averageSlope: 20°
+      videoLinks:
+        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=627s
     - name: ハイウェイコース
       difficulty: mixed
       length: 800m
       maxSlope: 28°
       averageSlope: 25°
+      videoLinks:
+        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=384s
+        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=1038s
     - name: 若栗中央ゲレンデ
       difficulty: mixed
       length: 700m
       maxSlope: 18°
       averageSlope: 15°
+      videoLinks:
+        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=73s
     - name: ラビットコース
       difficulty: mixed
       length: 1,150m
       maxSlope: 30°
       averageSlope: 18°
+      videoLinks:
+        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=215s
     - name: 里見中央ゲレンデ
       difficulty: mixed
       length: 600m
       maxSlope: 15°
       averageSlope: 11°
+      videoLinks:
+        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=1458s
     - name: 里見尾根コース
       difficulty: mixed
       length: 800m
@@ -188,5 +205,8 @@ sources:
   url: https://www.hakunori.com/gelande/
 - label: Hakuba Norikura Onsen Snow Resort Ticket
   url: https://www.hakunori.com/ticket/
+- label: Hakuba Norikura Onsen Course Video
+  url: https://www.youtube.com/watch?v=Gx5MMhOO6oU
+  note: 影片說明欄提供若栗中央、ラビット、ハイウェイ、カモシカ、はくのりファミリー、若栗林間、里見若栗アクセスライン、里見中央等雪道章節時間軸。
 ---
 白馬乘鞍溫泉與白馬Cortina 相鄰，2025-2026 採兩雪場共通 lift ticket。

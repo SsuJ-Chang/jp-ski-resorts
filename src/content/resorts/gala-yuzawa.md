@@ -142,6 +142,7 @@ courses:
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=775s
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=1561s
+        - https://www.youtube.com/watch?v=vxT0r069KSE&t=1081s
     - name: N1 スワン / Swan
       difficulty: beginner
       length: 1,050m
@@ -149,6 +150,7 @@ courses:
       note: ブロードウェイ的迂迴路線；入口較窄但整體平緩，可從北區進出。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=1685s
+        - https://www.youtube.com/watch?v=vxT0r069KSE&t=331s
     - name: N7/N8 ローマンホリデー / Roman Holiday
       difficulty: beginner
       length: 500m
@@ -156,6 +158,7 @@ courses:
       note: 相對人少，適合以自己的節奏滑行；下段會銜接 Snow Park 練習區。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=1880s
+        - https://www.youtube.com/watch?v=vxT0r069KSE&t=1423s
     - name: C3 エンターテイメント / Entertainment
       difficulty: intermediate
       length: 920m
@@ -163,6 +166,7 @@ courses:
       note: 中央區域主要雪道，寬度較寬、坡面變化少，偏初中級取向。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=667s
+        - https://www.youtube.com/watch?v=vxT0r069KSE&t=213s
     - name: N9 下山コース ファルコン / Falcon
       difficulty: intermediate
       length: 2,500m
@@ -170,6 +174,7 @@ courses:
       note: 從北區一路滑回 Ski Center Cowabunga 的下山雪道，全長約 2.5km，可眺望谷川連峰與南魚沼一帶雪山。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=246s
+        - https://www.youtube.com/watch?v=vxT0r069KSE&t=505s
     - name: S2 バットマン / Batman
       difficulty: intermediate
       length: 530m
@@ -184,11 +189,14 @@ courses:
       note: 整備過的 S 字高速雪面，可用於自由滑行與 carving。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=916s
+        - https://www.youtube.com/watch?v=vxT0r069KSE&t=1288s
     - name: C4 ジジ / Gigi
       difficulty: intermediate
       length: 1,000m
       maxSlope: 23°
       note: 單一寬面雪道，下段逐漸變寬，可滑順地做大迴轉。
+      videoLinks:
+        - https://www.youtube.com/watch?v=vxT0r069KSE&t=970s
     - name: N2 ブロードウェイ / Broadway
       difficulty: intermediate
       length: 700m
@@ -196,6 +204,7 @@ courses:
       note: 整備後的單一寬面雪道，適合練習高速系轉彎；相較中央區較容易照自己的節奏滑行。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=63s
+        - https://www.youtube.com/watch?v=vxT0r069KSE&t=804s
     - name: N3 スーパーブロードウェイ / Super Broadway
       difficulty: intermediate
       length: 450m
@@ -208,6 +217,7 @@ courses:
       note: 往雙人纜車 Chariot 右側為滑雪學校課程專用，左側為短雪道，適合基礎練習；往反方向可到下山コース起點。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=179s
+        - https://www.youtube.com/watch?v=vxT0r069KSE&t=902s
     - name: C5 グルノーブル / Grenoble
       difficulty: mixed
       length: 750m
@@ -215,6 +225,7 @@ courses:
       note: 從 GALA 標高最高一帶開始的急斜面；春季容易形成 bumps，起點視野開闊。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=546s
+        - https://www.youtube.com/watch?v=vxT0r069KSE&t=95s
     - name: "S3 260万ダラー / $2,600,000"
       difficulty: advanced
       length: 920m
@@ -282,5 +293,8 @@ sources:
   url: https://weathernews.jp/ski/spot/35430/
 - label: GALA Yuzawa course video
   url: https://www.youtube.com/watch?v=IaD2DEbzV9o
+- label: GALA Yuzawa 2022 Course Video
+  url: https://www.youtube.com/watch?v=vxT0r069KSE
+  note: 影片說明欄提供グルノーブル、エンターテイメント、スワン、ファルコン、ブロードウェイ、ジョアンナ、ジジ、エーデルワイス、イライザ、ローマンホリデー等雪道章節時間軸。
 ---
 GALA湯澤與上越新幹線 GALA湯澤站直結，從東京出發可安排一日滑雪。雪場分為中央、北、南與下山路線，另可依營運狀況銜接湯澤高原、石打丸山等周邊區域。

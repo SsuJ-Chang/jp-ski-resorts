@@ -92,21 +92,32 @@ courses:
     - name: "横倉ゲレンデ（名稱待確認）"
       difficulty: beginner
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+      videoLinks:
+        - https://www.youtube.com/watch?v=860eRhy28oA&t=1273s
     - name: "上の台ゲレンデ（名稱待確認）"
       difficulty: beginner
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+      videoLinks:
+        - https://www.youtube.com/watch?v=860eRhy28oA&t=587s
     - name: "中央ゲレンデ（名稱待確認）"
       difficulty: intermediate
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
     - name: "パラダイスゲレンデ（名稱待確認）"
       difficulty: intermediate
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+      videoLinks:
+        - https://www.youtube.com/watch?v=860eRhy28oA&t=238s
+        - https://www.youtube.com/watch?v=860eRhy28oA&t=695s
     - name: "ユートピアゲレンデ（名稱待確認）"
       difficulty: intermediate
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+      videoLinks:
+        - https://www.youtube.com/watch?v=860eRhy28oA&t=1023s
     - name: "樹氷原コース（名稱待確認）"
       difficulty: intermediate
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+      videoLinks:
+        - https://www.youtube.com/watch?v=860eRhy28oA&t=923s
     - name: "大森ゲレンデ（名稱待確認）"
       difficulty: advanced
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
@@ -272,5 +283,8 @@ sources:
     url: "https://weathernews.jp/ski/spot/33501/"
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
+  - label: Zao Onsen Top to Bottom Course Video
+    url: https://www.youtube.com/watch?v=860eRhy28oA
+    note: 影片說明欄提供パラダイス、上の台、樹氷原、ユートピア、横倉等雪道章節時間軸。
 ---
 藏王溫泉位於山形縣山形市藏王溫泉，東北人氣雪場清單列為第 1 名；共有 26 條雪道與 32 座纜車，雪板可全區滑行。

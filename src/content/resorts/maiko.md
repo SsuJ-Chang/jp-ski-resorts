@@ -102,26 +102,37 @@ courses:
   details:
     - name: O3 奥添地ランランコース
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=148s
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=1404s
       length: 1,000m
       maxSlope: 10°
       averageSlope: 6°
     - name: O5 ルンルンコース
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=236s
       length: 300m
       maxSlope: 12°
       averageSlope: 10°
     - name: O7 ラクラクコース
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=815s
       length: 400m
       maxSlope: 9°
       averageSlope: 6°
     - name: M19 パラダイスコース
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=879s
       length: 760m
       maxSlope: 15°
       averageSlope: 10°
     - name: M20 キンダーコース
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=696s
       length: 930m
       maxSlope: 10°
       averageSlope: 8°
@@ -132,16 +143,22 @@ courses:
       averageSlope: 7°
     - name: M22 バンビコース
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=95s
       length: 1,430m
       maxSlope: 9°
       averageSlope: 7°
     - name: M23 ファミリーコース
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=983s
       length: 480m
       maxSlope: 7°
       averageSlope: 6°
     - name: M24 ロマンスコース
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=798s
       length: 830m
       maxSlope: 8°
       averageSlope: 7°
@@ -149,43 +166,61 @@ courses:
       difficulty: beginner
     - name: M26 メロディーライン
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=939s
     - name: N3 長峰ランランコース
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=1541s
       length: 5,000m
       maxSlope: 9°
       averageSlope: 6°
     - name: N12 チョイチョイコース
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=1904s
       length: 700m
       maxSlope: 5°
       averageSlope: 4°
     - name: O4 グイグイコース
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=396s
       length: 940m
       maxSlope: 23°
       averageSlope: 13°
     - name: O6 スイスイコース
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=270s
       length: 500m
       maxSlope: 20°
       averageSlope: 10°
     - name: O8 サンサンコース
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=747s
       length: 300m
       maxSlope: 13°
       averageSlope: 10°
     - name: M13 ドルフィンコース
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=172s
       length: 1,370m
       maxSlope: 29°
       averageSlope: 11°
     - name: M15 ブロンズコース
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=1173s
       length: 500m
       maxSlope: 18°
       averageSlope: 14°
     - name: M16 ゴールドコース
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=597s
       length: 180m
       maxSlope: 27°
       averageSlope: 22°
@@ -196,36 +231,50 @@ courses:
       averageSlope: 21°
     - name: M18 リーゼンコース
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=1076s
       length: 680m
       maxSlope: 18°
       averageSlope: 9°
     - name: N9 ギンギンコース
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=1003s
       length: 670m
       maxSlope: 22°
       averageSlope: 15°
     - name: N11 ビュンビュンコース
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=1262s
       length: 800m
       maxSlope: 17°
       averageSlope: 10°
     - name: O1 グングンコース
       difficulty: advanced
+      videoLinks:
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=558s
       length: 820m
       maxSlope: 24°
       averageSlope: 15°
     - name: O2 ゾクゾクコース
       difficulty: advanced
+      videoLinks:
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=892s
       length: 410m
       maxSlope: 28°
       averageSlope: 20°
     - name: M14 チャンピオンコース
       difficulty: advanced
+      videoLinks:
+        - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=360s
       length: 170m
       maxSlope: 32°
       averageSlope: 30°
     - name: N10 ガンガンコース
       difficulty: advanced
+      videoLinks:
+        - https://www.youtube.com/watch?v=rjL8o3aKQII&t=1149s
       length: 800m
       maxSlope: 24°
       averageSlope: 14°
@@ -262,5 +311,11 @@ sources:
   url: https://www.maiko-resort.com/winter/gelande/
 - label: Maiko Snow Resort Ticket
   url: https://www.maiko-resort.com/winter/price/
+- label: Maiko Area Course Video 2026
+  url: https://www.youtube.com/watch?v=vGkPIXt9d9U
+  note: 影片說明欄提供舞子區域バンビ、ドルフィン、チャンピオン、ゴールド、キンダー、ロマンス、パラダイス、メロディーライン、ファミリー、リーゼン、ブロンズ等雪道章節時間軸。
+- label: Maiko Okusoechi Nagamine Course Video 2026
+  url: https://www.youtube.com/watch?v=rjL8o3aKQII
+  note: 影片說明欄提供奧添地與長峰區域ランラン、ルンルン、スイスイ、グイグイ、グングン、サンサン、ラクラク、ゾクゾク、ギンギン、ガンガン、ビュンビュン、チョイチョイ等雪道章節時間軸。
 ---
 舞子 Snow Resort 由舞子、長峰、奧添地等區域構成，適合家庭、巡航與粉雪取向滑行。

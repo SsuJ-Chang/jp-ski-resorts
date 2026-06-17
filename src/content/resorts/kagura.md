@@ -135,6 +135,8 @@ courses:
     maxSlope: 9°
     averageSlope: 7°
     note: 官方雪道資料列為初級路線，全長 499m、最大坡度 9°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=1091s
   - name: U1 田代レディースコース
     difficulty: beginner
     length: 882m
@@ -143,6 +145,7 @@ courses:
     note: 官方說明這是整備良好的寬廣緩坡，初級者與女性滑行者也容易使用，上部可眺望三國連山。
     videoLinks:
       - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=650s
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=687s
   - name: U2 スカイラインコース
     difficulty: beginner
     length: 2,083m
@@ -151,12 +154,15 @@ courses:
     note: 從田代第 1 高速纜車一路滑向田代 Ladies Course；官方提醒起滑處稍有坡度，要注意不要速度過快。
     videoLinks:
       - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=563s
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=586s
   - name: V1 ゴンドライーストコース
     difficulty: beginner
     length: 1,099m
     maxSlope: 18°
     averageSlope: 7°
     note: 全長約 1,000m 的林間路線，官方說明前方可見谷川連峰，下方有 Dragondola 山頂站與餐廳 Almu。
+    videoLinks:
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=1205s
   - name: X1 田代アリエスカコース
     difficulty: beginner
     length: 1,408m
@@ -165,6 +171,7 @@ courses:
     note: 官方說明這是田代區域人氣路線，視野可見田代湖與越後連山，下方有餐廳可休息。
     videoLinks:
       - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=963s
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=1563s
   - name: X2 田代第1高速リフト連絡コース
     difficulty: beginner
     length: 1,058m
@@ -173,6 +180,7 @@ courses:
     note: 田代第 2 高速與第 2 romance 纜車下車後，前往田代第 1 高速纜車的聯絡路線。
     videoLinks:
       - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=826s
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=1375s
   - name: X3 親切コース
     difficulty: beginner
     length: 346m
@@ -187,6 +195,7 @@ courses:
     note: 官方說明坡度適中且雪道寬，可依自己的節奏轉彎。
     videoLinks:
       - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=1014s
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=1670s
   - name: F1 かぐらメインゲレンデ
     difficulty: intermediate
     length: 1,512m
@@ -223,6 +232,7 @@ courses:
     note: 連接かぐら區域與田代區域的連絡路線；官方提醒開放與關閉時間會因日照時間而改變。
     videoLinks:
       - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=1214s
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=2239s
   - name: X4 かぐら第1高速リフト～田代第1高速リフト連絡コース
     difficulty: intermediate
     length: 2,673m
@@ -231,6 +241,7 @@ courses:
     note: 官方雪道資料列為中級路線，全長 2,673m、最大坡度 23°、平均坡度 8°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
     videoLinks:
       - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=289s
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=310s
   - name: MR1 下山コース
     difficulty: intermediate
     length: 1,499m
@@ -259,18 +270,23 @@ courses:
     note: 從田代 ropeway 箱型纜車山頂站出發後的第一條路線；官方建議初級者改走 Rakuraku Course。
     videoLinks:
       - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=713s
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=964s
   - name: V2 こぶこぶコース
     difficulty: intermediate
     length: 444m
     maxSlope: 23°
     averageSlope: 8°
     note: 官方雪道資料列為中級路線，全長 444m、最大坡度 23°、平均坡度 8°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=1328s
   - name: Y2 ダイナミックコース
     difficulty: intermediate
     length: 423m
     maxSlope: 27°
     averageSlope: 14°
     note: 官方說明為中級者人氣路線，適合高速轉彎；雪道側邊設有非壓雪區，可體驗粉雪。
+    videoLinks:
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=2028s
   - name: Z1 かもしかコース
     difficulty: intermediate
     length: 612m
@@ -279,6 +295,7 @@ courses:
     note: 從田代第 6 romance 纜車下車處前往田代第 8 romance 纜車乘車處的初級者迂迴路線。
     videoLinks:
       - https://www.youtube.com/watch?v=dY4f3Il-7VE&t=1111s
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=2170s
   - name: F4 ジャイアントコース
     difficulty: advanced
     length: 611m
@@ -309,12 +326,16 @@ courses:
     maxSlope: 32°
     averageSlope: 24°
     note: 官方說明上部看似平緩，但有 32° 斜面與雪丘；深雪時可享受粉雪。
+    videoLinks:
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=1789s
   - name: T3 田代第1ゲレンデB
     difficulty: advanced
     length: 367m
     maxSlope: 27°
     averageSlope: 17°
     note: 官方雪道資料列為上級路線，全長 367m、最大坡度 27°、平均坡度 17°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=fHGeTO5y4Xw&t=791s
 lifts:
   total: 17
 access:
@@ -353,5 +374,8 @@ sources:
   note: 影片說明欄提供神樂各雪道章節秒數，已對應至 courses.details[].videoLinks。
 - label: Kagura Access
   url: https://www.princehotels.co.jp/ski/kagura/winter/access/
+- label: Kagura Tashiro Area Course Video
+  url: https://www.youtube.com/watch?v=fHGeTO5y4Xw
+  note: 影片說明欄提供田代區域 X4、U2、U1、T3、T2、T1、V1、V2、X2、X1、Y1、Y3、Y2、Z1、H2 等雪道章節時間軸。
 ---
 神樂滑雪場位於新潟縣湯澤町，由かぐら、みつまた、田代三個區域構成。雪場海拔高、雪季長，適合想在湯澤區域尋找粉雪、長雪季與大型雪場體驗的滑雪者。

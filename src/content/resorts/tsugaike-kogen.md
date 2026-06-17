@@ -130,6 +130,8 @@ courses:
     length: 630m
     maxSlope: 23°
     averageSlope: 14°
+    videoLinks:
+      - https://www.youtube.com/watch?v=BvHin_2Mcog&t=1662s
     note: 栂池最上部雪道。官方說明此處具備標高 1,700m 才有的優質天然雪、原生林包圍的山岳氛圍與展望，5 月上旬前也會設置 TG PARKS。
   - name: 白樺ゲレンデ / Shirakaba Slope
     difficulty: intermediate
@@ -204,5 +206,8 @@ sources:
   url: https://www.tsugaike.gr.jp/snow/price
 - label: Tsugaike Weathernews
   url: https://weathernews.jp/ski/spot/34808/
+- label: Hakuba Norikura Backcountry Course Video
+  url: https://www.youtube.com/watch?v=BvHin_2Mcog
+  note: 影片說明欄包含栂の森ゲレンデ章節時間軸，其餘 backcountry 章節未加入雪道連結。
 ---
 栂池高原位於白馬山麓的小谷村，是白馬區域的大型雪場之一。山麓寬廣緩斜面適合初學者與家庭，高海拔區域與粉雪路線則保留進階滑雪者需要的變化。

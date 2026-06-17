@@ -141,6 +141,8 @@ courses:
     difficulty: beginner
     length: 2,000m
     note: 官方家庭雪道頁說明，上之平與 Paradise 一帶坡面寬且平緩，山上氣溫較低、雪質良好，適合剛開始練習的滑雪者。
+    videoLinks:
+      - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=217s
   - name: 9 UENOTAIRA-FAMILY
     difficulty: beginner
     note: 接續在上之平下方的寬敞雪道。整體視野豁然開朗，充滿度假村的悠閒氛圍，稍微增加了一點點坡度，非常適合進階初學者練習控速。
@@ -149,10 +151,14 @@ courses:
     difficulty: beginner
     length: 1,200m
     note: 穿梭在野澤著名的國立公園山毛櫸與白橡木林間。整條雪道充滿大自然的靜謐感，是一條兼具森林浴與漫滑樂趣的浪漫初級長道。
+    videoLinks:
+      - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=422s
   - name: 21 RINKAN
     difficulty: beginner 
     length: 5,000m
     note: 總長達 5 公里、圍繞著整座山頭盤旋而下的蜿蜒綠道。雖然寬度很窄且有許多髮夾彎，但對於體力不足、無法滑黑道的初學者來說，是唯一能從山頂一路滑回日影基地的安全下山通道。
+    videoLinks:
+      - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=525s
   - name: 29 HIKAGE-A
     difficulty: beginner
     note: 緊鄰全新長坂箱型纜車總站前的大斜坡。交通極度便利，是下午雪場關門前，所有人從山頂滑下山腳時必定交匯的熱鬧核心區。
@@ -164,10 +170,16 @@ courses:
   - name: 33 NAGASAKA
     difficulty: beginner
     note: 從日影區橫跨到長坂區的長距離初級道。雪道兩側被寬廣的森林包圍，遠離主要幹道的喧囂，整體滑行步調非常舒服、放鬆。
+    videoLinks:
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=863s
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1791s
     length: 700m
   - name: 35 KARASAWA
     difficulty: beginner
     note: 一條極具技術挑戰性的高級賽道。雪道前半段視野開闊，後半段則突然轉入急轉彎與地形變化的狹窄陡坡，需要高超的控速技巧。
+    videoLinks:
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=445s
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1317s
     length: 300m
   - name: 38 NAGASAKA-LINK
     difficulty: beginner
@@ -180,6 +192,9 @@ courses:
   - name: 40 KITSUNE
     difficulty: beginner
     note: 橫穿整個長坂核心滑行區的橫向平地通道，用來調節並引導滑雪客流向雪場東西兩側不同的纜車搭乘點。
+    videoLinks:
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=814s
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1756s
     length: 650m
   - name: 41 KARASAWA-LINK
     difficulty: beginner
@@ -188,6 +203,8 @@ courses:
   - name: 44 USAGI
     difficulty: beginner
     note: 野澤溫泉最溫馨的浪漫綠道。傍晚雪場廣播響起時，它能引導全山的滑雪客，穿過樹林與雪橋，直接一路滑到溫泉街的核心旅館與外湯大眾溫泉門口，完美結束一整天的滑雪行程。
+    videoLinks:
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=685s
     length: 500m
   - name: 1 YAMABIKO-A
     difficulty: intermediate
@@ -205,14 +222,23 @@ courses:
     difficulty: intermediate
     note: 位於山彥區中段的長距離雪道。因樹影交錯，即使在大晴天也能維持極佳的乾粉雪質，滑行感非常流暢。
     length: 1,250m
+    videoLinks:
+      - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=72s
   - name: 5 YAMABIKO-E
     difficulty: intermediate
     note: 山彥區最右側的邊界路線。這裡是前往全山著名的「樹林滑雪開放區」的主要切入口，充滿野雪探險的風格。
+    videoLinks:
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=74s
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=921s
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1443s
+      - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=100s
     length: 1,000m
   - name: 6 KOKENASHI-A
     difficulty: intermediate
     note: 圍繞在海拔 1,650 公尺毛無山碑附近的小型過渡綠道。主要用來連接各個山頂纜車站，坡度極緩，純粹以賞景為主。
     length: 200m
+    videoLinks:
+      - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=196s
   - name: 16 CHALLENGE
     difficulty: intermediate
     note: 野澤出了名的魔王級黑道之一。前半段是宽闊的大斜坡，後半段則是未整雪區，大雪後是高手瘋搶的齊腰深雪，無雪時則是滿滿的天然饅頭牆。
@@ -232,6 +258,10 @@ courses:
   - name: 26 SKYLINE
     difficulty: intermediate
     note: 延續競技場雪道後半段的過渡路線。坡度逐漸收斂轉為中級紅道，並與其他山腳主幹線匯合。
+    videoLinks:
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=167s
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1002s
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1514s
     length: 3,500m
   - name: 30 HIKAGE-B
     difficulty: intermediate
@@ -244,10 +274,14 @@ courses:
   - name: 42 KAMOSHIKA
     difficulty: intermediate
     note: 曾作為全日本國民體育大會國體滑雪迴轉賽事專用的標準賽道。雪質硬、坡度陡且均勻，適合追求速度與純粹重力加速度的高級滑雪客。
+    videoLinks:
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=359s
     length: 950m
   - name: 43 TANUKI
     difficulty: intermediate
     note: 在日影主要大本營旁劃分出的獨立、封閉式安全教學區。禁止一般高速滑雪客進入，確保完全零基礎的新手在教練指導下擁有最安全的練習空間。
+    videoLinks:
+      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1217s
     length: 900m
   - name: 11 YUNOMINE
     difficulty: advanced
@@ -361,5 +395,11 @@ sources:
   url: https://en.nozawaski.com/the-mountain/mountain-facilities/family-slopes/
 - label: Nozawa Onsen Weathernews
   url: https://weathernews.jp/ski/spot/34801/
+- label: Nozawa Onsen Skyline Course Video
+  url: https://www.youtube.com/watch?v=ZGXV1RLRfDE
+  note: 影片說明欄提供やまびこ E、SKYLINE、KAMOSHIKA、KARASAWA、USAGI、KITSUNE、NAGASAKA、TANUKI 等雪道章節時間軸。
+- label: Nozawa Onsen Long Run Course Video
+  url: https://www.youtube.com/watch?v=PS5A2fQd8b4
+  note: 影片說明欄提供 Yamabiko D、Yamabiko E、Kokenashi A、Uenotaira、Paradise、Rinkan 等雪道章節時間軸。
 ---
 野澤溫泉位於長野縣北部，是結合大型雪場與溫泉村住宿文化的日本代表性滑雪地。雪場從山頂 Yamabiko、上之平與 Paradise 一路延伸到日影、長坂、柄澤等山麓區域，適合想把滑雪、溫泉街與住宿行程安排在同一個村內的旅客。

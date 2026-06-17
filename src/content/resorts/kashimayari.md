@@ -101,21 +101,30 @@ courses:
       length: 1,100m
       maxSlope: 28°
       averageSlope: 16°
+      videoLinks:
+        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=757s
     - name: 1B・1C コース1：遠見グランドビューB・C
       difficulty: mixed
       length: 1,100m
       maxSlope: 28°
       averageSlope: 16°
+      videoLinks:
+        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=874s
+        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=1024s
     - name: 2 コース2：黒沢ゲレンデ
       difficulty: mixed
       length: 400m
       maxSlope: 17°
       averageSlope: 14°
+      videoLinks:
+        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=160s
     - name: 3 鹿島槍林道コース
       difficulty: mixed
       length: 2,500m
       maxSlope: 17°
       averageSlope: 11°
+      videoLinks:
+        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=572s
     - name: 5A コース5-A
       difficulty: mixed
       length: 950m
@@ -136,6 +145,8 @@ courses:
       length: 2,000m
       maxSlope: 26°
       averageSlope: 15°
+      videoLinks:
+        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=220s
     - name: 7 コース7：丸山ゲレンデ
       difficulty: mixed
       length: 400m
@@ -146,11 +157,15 @@ courses:
       length: 300m
       maxSlope: 25°
       averageSlope: 15°
+      videoLinks:
+        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=1129s
     - name: 11 中綱スーパー林道コース
       difficulty: mixed
       length: 3,000m
       maxSlope: 8°
       averageSlope: 6°
+      videoLinks:
+        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=1156s
     - name: 1C・9・11 ロングダウンヒルコース・4100
       difficulty: mixed
       length: 4,100m
@@ -186,5 +201,8 @@ sources:
   url: https://www.kashimayari.net/snow/course/
 - label: Kashimayari Snow Resort Ticket
   url: https://www.kashimayari.net/snow/ticket/
+- label: Kashimayari Course Video
+  url: https://www.youtube.com/watch?v=pykcVTbi5_I
+  note: 影片說明欄提供黒沢、一本ブナ、鹿島槍林道、遠見グランドビュー、丸山バイパス、中綱スーパー林道等雪道章節時間軸。
 ---
 鹿島槍位於白馬 Valley 南側的大町區域，近年以 family park 與雪上活動設施為特色。

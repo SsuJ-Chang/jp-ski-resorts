@@ -121,18 +121,29 @@ courses:
   - name: ピーク４ / Peak4
     difficulty: beginner
     note: 官方說明路線寬且坡度較緩，可用大彎滑行。
+    videoLinks:
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1007s
   - name: ズナイ２ / Zunai2
     difficulty: beginner
     note: 官方說明為抵達雪場後最先看見的雪道，適合初級者練習。
+    videoLinks:
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=367s
   - name: パノラマライン / Panorama Line
     difficulty: beginner
     note: 官方說明沿山間景色巡航的長距離路線。
+    videoLinks:
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=707s
   - name: ホワイトバレー３ / White Valley3
     difficulty: beginner
     note: 官方說明為通往南區深處的初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    videoLinks:
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=140s
   - name: ブラックバレー３ / Black Valley3
     difficulty: beginner
     note: 官方說明是橫越急斜面的尾根路線，初級者可通過，但深入後會接近急斜面。
+    videoLinks:
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1786s
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1960s
   - name: デビル1 / Devil1
     difficulty: intermediate
     note: 官方說明為寬廣舒適的中斜面，春季早朝營業時也有良好雪面。
@@ -154,22 +165,33 @@ courses:
   - name: ピーク１ / Peak1
     difficulty: intermediate
     note: 官方說明為從山頂沿尾根下降、寬度稍窄的路線，需注意與前方滑行者的間距。
+    videoLinks:
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1695s
   - name: ピーク２ / Peak2
     difficulty: intermediate
     note: 官方說明為景觀佳且有粉雪的隱藏路線，需要從 Frozen1 步行約 5 分鐘抵達。
   - name: フローズン１ / Frozen1
     difficulty: intermediate
     note: 官方說明為前往 Peak3 的連絡路線。
+    videoLinks:
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1581s
   - name: フローズン2 / Frozen2
     difficulty: intermediate
     note: 官方說明無積雪時原則壓雪，有積雪時可享受粉雪，是可長距離巡航的路線。
+    videoLinks:
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1355s
   - name: フローズン３ / Frozen3
     difficulty: intermediate
     note: 官方說明可穿越霧冰景觀，後段坡度較高，有中急斜面滑行感。
+    videoLinks:
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1139s
   - name: ズナイ１ / Zunai1
     difficulty: intermediate
     length: 2,000m
     note: 官方說明為約 2km 長距離路線，也是夜滑舉辦路線。
+    videoLinks:
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=77s
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=284s
   - name: ダット上部 / Datto Upper
     difficulty: intermediate
     note: 官方說明為地形遊玩型的 Flowing Park。
@@ -179,6 +201,8 @@ courses:
   - name: ホワイトバレー１ / White Valley1
     difficulty: intermediate
     note: 官方說明為中級斜面，適合想做 carving 轉彎的滑行者。
+    videoLinks:
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=571s
   - name: デビル2 / Devil2
     difficulty: advanced
     note: 官方說明為通往公園的急斜面，粉雪日可配合公園開放進入。
@@ -209,9 +233,13 @@ courses:
   - name: ブラックバレー２ / Black Valley2
     difficulty: advanced
     note: 官方說明為南區急斜四兄弟之一，另有初級者用迂迴路。
+    videoLinks:
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1834s
   - name: ブラックバレー４ / Black Valley4
     difficulty: advanced
     note: 官方說明為南區急斜四兄弟之一，也稱 Alts Bahn，是寬廣平坦的急斜面。
+    videoLinks:
+      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1978s
   - name: ブラックバレー５ / Black Valley5
     difficulty: expert
     note: 官方說明以象徵性岩石為特色，常時未壓雪，是接近崖面的急斜路線。
@@ -268,5 +296,8 @@ sources:
   url: https://weathernews.jp/ski/spot/33632/
 - label: Weathernews 東北のスキー場人気ランキング
   url: https://weathernews.jp/ski/area/tohoku/ranking.html
+- label: NEKOMA Mountain South Area Course Video 2024
+  url: https://www.youtube.com/watch?v=d5Uc9bj0M94
+  note: 影片說明欄提供南區 Zunai、White Valley、Panorama Line、Peak、Frozen、Black Valley 等雪道章節時間軸。
 ---
 Necoma Mountain 是由舊 Alts 磐梯與舊貓魔滑雪場以連結纜車整合而成的大型雪場，橫跨磐梯山南北兩側。南區有豬苗代湖景觀、夜滑與長距離路線，北區則以粉雪、樹林與春季營業聞名。

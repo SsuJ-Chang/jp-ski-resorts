@@ -99,9 +99,18 @@ courses:
   - name: ブナ平ゲレンデ
     difficulty: beginner
     note: ブナ原生林中的林間路線，官方建議可供初級者練習，也適合中上級者休息滑。
+    videoLinks:
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=361s
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=416s
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=782s
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=848s
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1504s
   - name: カモシカゲレンデ B・Cコース
     difficulty: intermediate
     note: カモシカ主雪場中變化較多的中級練習路線。
+    videoLinks:
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=230s
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=920s
   - name: 八崎ゲレンデ
     difficulty: intermediate
     averageSlope: 15°
@@ -109,15 +118,26 @@ courses:
   - name: カモシカゲレンデ Aコース下部
     difficulty: expert
     note: 官方標示為エキスパート向け的下部路線。
+    videoLinks:
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=145s
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=574s
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1303s
   - name: カモシカゲレンデ Eコース
     difficulty: ungroomed
     note: 春季限定開放的非壓雪路線，可享受粉雪與春季雪包。
+    videoLinks:
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1117s
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1370s
   - name: 丸山ゲレンデ
     difficulty: mixed
     note: 山頂景觀開闊，官方介紹良質雪況受初中級者歡迎，春季可搭配 snow park。
+    videoLinks:
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=537s
   - name: カモシカゲレンデ Dコース
     difficulty: mixed
     note: 春季限定開放，官方介紹為可享受ブナ林景觀的林間路線。
+    videoLinks:
+      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=623s
 lifts:
   total: 5
 access:
@@ -147,5 +167,8 @@ sources:
   url: https://weathernews.jp/ski/area/chubu/ranking.html
 - label: Okutadami Maruyama Access
   url: http://www.okutadami.co.jp/ski/access3.html
+- label: Okutadami Maruyama Course Video
+  url: https://www.youtube.com/watch?v=OkFyM-vlew0
+  note: 影片說明欄提供カモシカ A-E、ブナ平 A-C、丸山ゲレンデ等雪道章節時間軸。
 ---
 奧只見丸山位於新潟縣魚沼市，它採初滑り季與春季兩段營業，是日本少見會在雪季中段暫停、再於春季重新營業的雪場。

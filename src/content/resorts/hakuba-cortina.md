@@ -101,6 +101,8 @@ courses:
       difficulty: "beginner"
       length: "1,125m"
       averageSlope: "10°"
+      videoLinks:
+        - https://www.youtube.com/watch?v=e72np4-Qpz4&t=1156s
     - name: "わらび平ゲレンデ"
       difficulty: "beginner"
       length: "830m"
@@ -109,14 +111,21 @@ courses:
       difficulty: "beginner"
       length: "2,025m"
       averageSlope: "7°"
+      videoLinks:
+        - https://www.youtube.com/watch?v=e72np4-Qpz4&t=237s
+        - https://www.youtube.com/watch?v=e72np4-Qpz4&t=548s
     - name: "板平コース"
       difficulty: "intermediate"
       length: "600m"
       averageSlope: "26°"
+      videoLinks:
+        - https://www.youtube.com/watch?v=e72np4-Qpz4&t=1038s
     - name: "ラビットコース"
       difficulty: "intermediate"
       length: "800m"
       averageSlope: "14°"
+      videoLinks:
+        - https://www.youtube.com/watch?v=e72np4-Qpz4&t=1348s
     - name: "稗田山コース2"
       difficulty: "advanced"
       length: "625m"
@@ -155,5 +164,8 @@ sources:
   url: https://www.hgp.co.jp/cortina/ski/gelande/
 - label: Hakuba Cortina Snow Resort Ticket
   url: https://www.hgp.co.jp/cortina/ski/charge/
+- label: Hakuba Cortina Course Video
+  url: https://www.youtube.com/watch?v=e72np4-Qpz4
+  note: 影片說明欄提供池の田、稗田山林間、板平、ラビット等雪道章節時間軸。
 ---
 白馬Cortina 與白馬乘鞍溫泉採共通 lift ticket，是白馬北部粉雪與住宿型行程代表雪場。

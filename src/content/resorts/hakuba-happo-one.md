@@ -123,12 +123,17 @@ courses:
     length: 500m
     maxSlope: 20°
     averageSlope: 11°
+    videoLinks:
+      - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=664s
     note: 位於 Gondola Adam 山麓側，屬初級到中級練習區域。
   - name: 咲花ゲレンデ
     difficulty: beginner
     length: 600m
     maxSlope: 18°
     averageSlope: 10°
+    videoLinks:
+      - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=576s
+      - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=1407s
     note: 寬廣緩斜面，適合初學者與家庭練習；可銜接黑菱林道形成較長初級路線。
   - name: 兎平ゲレンデ
     difficulty: advanced
@@ -146,6 +151,9 @@ courses:
     length: 600m
     maxSlope: 30°
     averageSlope: 13°
+    videoLinks:
+      - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=55s
+      - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=770s
     note: 位於 1,830m 級最上部，可眺望白馬三山與五龍岳；降雪後有粉雪條件，但也接近登山與 backcountry 出入口，需遵守官方安全規則。
 lifts:
   total: 21
@@ -200,5 +208,8 @@ sources:
   url: https://www.happo-one.jp/news/38164/
 - label: Hakuba Valley Ski Resort Info
   url: https://www.hakubavalley.com/ski_resort_info/
+- label: Hakuba Happo-one Course Video
+  url: https://www.youtube.com/watch?v=AvCYA9LCWC8
+  note: 影片說明欄提供リーゼングラート、白樺、咲花等雪道章節時間軸。
 ---
 白馬八方尾根是白馬最大級、也是長野冬奧競技場地之一的代表性山岳雪場。山頂 1,831m、標高差超過 1,000m，雪道配置偏中高階，適合想滑長距離巡航、饅頭、不整地與粉雪地形的滑雪者；初學者也能從白樺、咲花與黑菱林道等區域安排練習，但需留意路線銜接與當日開放狀態。

@@ -203,12 +203,16 @@ courses:
     maxSlope: 23°
     averageSlope: 21°
     note: 五龍最大的一枚バーン。官方說明早上人少時大迴轉滑行感佳，雪道旁也有非壓雪區域，並提醒注意速度。
+    videoLinks:
+      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1391s
   - name: テクニカルコース / Technical Course
     difficulty: mixed
     length: 300m
     maxSlope: 28°
     averageSlope: 24°
     note: 全面未壓雪路線，官方說明降雪後的新雪是主要目標。
+    videoLinks:
+      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1213s
   - name: スーパーコース / Super Course
     difficulty: mixed
     length: 450m
@@ -224,6 +228,7 @@ courses:
     averageSlope: 21°
     videoLinks:
       - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=360s
+      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1552s
     note: 官方說明為相當陡的斜面，雪道寬度會逐漸變窄，需要確實控制速度；初學者建議搭乘箱型纜車下山。
   - name: とおみゲレンデ / Toomi Slope
     difficulty: mixed
@@ -233,6 +238,7 @@ courses:
     videoLinks:
       - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=518s
       - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=1358s
+      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1798s
     note: 壓雪整備完善的緩斜面，官方說明上中下段坡度不同，可依技術選擇纜車與斜度；也是夜滑與 sunrise 營業區域。
   - name: パウダースノーコース / Powder Snow Course
     difficulty: mixed
@@ -302,5 +308,8 @@ sources:
   url: https://www.youtube.com/watch?v=cBoeR4oKjUE
 - label: Hakuba Goryu Weathernews
   url: https://weathernews.jp/ski/spot/34811/
+- label: Hakuba Goryu and Hakuba47 Course Video 2024
+  url: https://www.youtube.com/watch?v=EuUdXoyB2mo
+  note: 影片說明欄提供白馬五龍 Technical、Grand Prix、Champion Dynamic、Toomi，以及 Hakuba47 部分雪道章節時間軸。
 ---
 白馬五龍位於長野縣白馬村，與白馬 47 相鄰。

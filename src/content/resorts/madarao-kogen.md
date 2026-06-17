@@ -121,6 +121,9 @@ courses:
     length: 600m
     maxSlope: 19°
     note: 由チャンピオン下部連接第7日歸停車場。
+    videoLinks:
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=324s
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1453s
   - name: ポールバーンA
     difficulty: beginner
     length: 700m
@@ -131,6 +134,8 @@ courses:
     length: 600m
     maxSlope: 10°
     note: 由スーパークワッド或第3リフト中間站通往クリスタル方面，晴天可望日本海。
+    videoLinks:
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=593s
   - name: スカイビュー
     difficulty: beginner
     length: 1,400m
@@ -156,26 +161,36 @@ courses:
     length: 500m
     maxSlope: 20°
     note: 斑尾高原ホテル側主雪道，從 main gate 進場後首先滑下的壓雪坡。
+    videoLinks:
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=104s
   - name: カービング
     difficulty: intermediate
     length: 800m
     maxSlope: 25°
     note: 第2クワッドリフト可到達的中級壓雪路線，適合轉彎練習與課程。
+    videoLinks:
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=500s
   - name: オーシャンビュー
     difficulty: intermediate
     length: 800m
     maxSlope: 25°
     note: 由第3リフト山頂通往クリスタル方面的九十九折壓雪路線，上部可望日本海。
+    videoLinks:
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=765s
   - name: ワールドカップ
     difficulty: advanced
     length: 500m
     maxSlope: 35°
     note: 曾舉辦 mogul World Cup，現為非壓雪粉雪路線。
+    videoLinks:
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1328s
   - name: パウダーライン
     difficulty: advanced
     length: 360m
     maxSlope: 35°
     note: アドベンチャーアイル後方的非壓雪路線，可接往第13リフト或 NINJA。
+    videoLinks:
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1762s
   - name: ラビットコース -Family Adventure-
     difficulty: advanced
     length: 270m
@@ -211,6 +226,8 @@ courses:
     length: 380m
     maxSlope: 17°
     note: 通往 powder area 的 tree run 連絡路，可望野尻湖、黒姫山與妙高山。
+    videoLinks:
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1592s
   - name: クリスタルボウル
     difficulty: advanced
     length: 550m
@@ -241,21 +258,31 @@ courses:
     length: 1,000m
     maxSlope: 30°
     note: 上部為斑尾最陡壓雪坡之一，下部為較緩斜面，官方標示初級與中級。
+    videoLinks:
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=212s
   - name: ジャイアント
     difficulty: mixed
     length: 1,200m
     maxSlope: 31°
     note: 主雪道，上部非壓雪上級、中段非壓雪中級、下部壓雪中級。
+    videoLinks:
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=387s
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1082s
   - name: クリスタル
     difficulty: mixed
     length: 2,100m
     maxSlope: 36°
     note: 斑尾最長路線，上部非壓雪上級、中段壓雪中斜面、下部初級緩斜面。
+    videoLinks:
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=890s
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1944s
   - name: スカイラブ
     difficulty: mixed
     length: 1,300m
     maxSlope: 30°
     note: 尾根沿い上部為非壓雪，下方為中級者向壓雪林間路線。
+    videoLinks:
+      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=2110s
   - name: FreeRidePark Madarao
     difficulty: mixed
     length: 280m
@@ -290,5 +317,8 @@ sources:
   url: https://weathernews.jp/ski/area/chubu/ranking.html
 - label: Madarao Mountain Resort Access
   url: https://www.madarao.jp/ski/access
+- label: Madarao Mountain Resort Course Video 2024
+  url: https://www.youtube.com/watch?v=6h1wSC_fbRA
+  note: 影片說明欄提供パラダイス、チャンピオン、白樺、ジャイアント、カービング、トラバース、オーシャンビュー、クリスタル、ワールドカップ、アドベンチャーアイル、パウダーライン、スカイラブ等雪道章節時間軸。
 ---
 斑尾高原位於長野縣飯山市與新潟縣妙高市縣境附近，它以粉雪、tree run 與多樣化雪道聞名，適合安排飯山站進出的住宿型行程。

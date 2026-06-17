@@ -119,6 +119,8 @@ courses:
       averageSlope: "7deg"
     - name: "当間第5ゲレンデ迂回コース"
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1675s
     - name: "長峰第1ゲレンデ"
       difficulty: mixed
       length: "600m"
@@ -145,10 +147,15 @@ courses:
       averageSlope: "11deg"
     - name: "当間第4ゲレンデ迂回コース"
       difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1165s
       length: "760m"
       averageSlope: "11deg"
     - name: "当間第5ゲレンデ"
       difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=816s
+        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1867s
       length: "600m"
       averageSlope: "12deg"
     - name: "大別当ゲレンデ迂回コース"
@@ -157,12 +164,19 @@ courses:
       difficulty: intermediate
     - name: "パノラマ第3ゲレンデ"
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=2165s
       length: "1,000m"
       averageSlope: "15deg"
     - name: "パノラマ第3ゲレンデ尾根コース"
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=616s
+        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=2008s
     - name: "当間第4ゲレンデメインコース"
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=914s
       length: "2,000m"
       averageSlope: "12deg"
     - name: "大沢ジャイアントコース"
@@ -175,10 +189,14 @@ courses:
       averageSlope: "16deg"
     - name: "パノラマ第2ゲレンデ"
       difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=428s
       length: "1,000m"
       averageSlope: "12deg"
     - name: "当間第4ゲレンデ中コース"
       difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1450s
       length: "980m"
       averageSlope: "12deg"
     - name: "大別当チャンピオンコース"
@@ -225,5 +243,8 @@ sources:
   url: https://jkokusai.co.jp/ski/gelande/
 - label: Joetsu Kokusai Ski Resort Ticket
   url: https://jkokusai.co.jp/ski/lift/hayawariticket/
+- label: Joetsu Kokusai Course Video
+  url: https://www.youtube.com/watch?v=HcL98r4G-_8
+  note: 影片說明欄提供パノラマ第2、パノラマ第3、当間第4、当間第5 等雪道章節時間軸；美奈、長峰、林間等章節因現有資料拆分名稱不同未硬對應。
 ---
 上越國際是南魚沼的大型雪場，官方票價頁列出 2025/12/13-2026/4/5 營業與夜滑期間。

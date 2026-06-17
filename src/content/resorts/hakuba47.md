@@ -127,18 +127,27 @@ courses:
     length: 2500m
     maxSlope: 28°
     averageSlope: 22°
+    videoLinks:
+      - https://www.youtube.com/watch?v=f9N5IUrL000&t=1158s
+      - https://www.youtube.com/watch?v=f9N5IUrL000&t=1313s
+      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=713s
     note: Hakuba47 代表性中級路線，朝白馬村方向下滑，清晨壓雪狀態適合 carving。
   - name: Route 2
     difficulty: advanced
     length: 1620m
     maxSlope: 30°
     averageSlope: 18°
+    videoLinks:
+      - https://www.youtube.com/watch?v=f9N5IUrL000&t=738s
+      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=419s
     note: 上級路線，坡度與長度平衡，官方建議給較有經驗的滑雪者；官方資料並列出全長 1620m、最大坡度 30°、平均坡度 18°。
   - name: Route 3
     difficulty: expert
     length: 800m
     maxSlope: 32°
     averageSlope: 20°
+    videoLinks:
+      - https://www.youtube.com/watch?v=f9N5IUrL000&t=879s
     note: 位於 Gondola 山頂站附近，最大斜度 32°，以天然饅頭與高難度地形為特色。
   - name: Route 4 / 47PARKS
     difficulty: intermediate
@@ -151,24 +160,35 @@ courses:
     length: 800m
     maxSlope: 14°
     averageSlope: 12°
+    videoLinks:
+      - https://www.youtube.com/watch?v=f9N5IUrL000&t=835s
+      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=622s
     note: 中腹初級路線，距離較短，靠近 Gondola 山頂站與休息設施。
   - name: Route 6
     difficulty: beginner
     length: 850m
     maxSlope: 14°
     averageSlope: 10°
+    videoLinks:
+      - https://www.youtube.com/watch?v=f9N5IUrL000&t=1271s
     note: 與 Route 5 並行的中腹初級路線，緩斜比例較高，也可作為前往 Line C 的銜接。
   - name: Route 7
     difficulty: beginner
     length: 3600m
     maxSlope: 12°
     averageSlope: 7°
+    videoLinks:
+      - https://www.youtube.com/watch?v=f9N5IUrL000&t=426s
     note: 連接 Gondola 山頂站與 base area 的長距離緩坡，適合兒童與初級者，但部分區段較窄。
   - name: Route 8
     difficulty: beginner
     length: 2800m
     maxSlope: 12°
     averageSlope: 10°
+    videoLinks:
+      - https://www.youtube.com/watch?v=f9N5IUrL000&t=137s
+      - https://www.youtube.com/watch?v=f9N5IUrL000&t=250s
+      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=217s
     note: 連接五龍 Telecabin 山頂與 Hakuba47 Line E 的緩坡路線，下部有較窄較陡的區段。
 lifts:
   total: 5
@@ -223,5 +243,11 @@ sources:
   url: https://www.hakubaescal.com/winter/tickets/lift/
 - label: Hakuba47 Ski Area Basic Info
   url: https://www.hakuba47.co.jp/winter/area/info/
+- label: Hakuba47 Course Video
+  url: https://www.youtube.com/watch?v=f9N5IUrL000
+  note: 影片說明欄提供 Route 1、Route 2、Route 3、Route 5、Route 6、Route 7、Route 8 章節時間軸。
+- label: Hakuba Goryu and Hakuba47 Course Video 2024
+  url: https://www.youtube.com/watch?v=EuUdXoyB2mo
+  note: 影片說明欄提供 Hakuba47 Route 1、Route 2、Route 5、Route 8，以及白馬五龍部分雪道章節時間軸。
 ---
 Hakuba47 Winter Sports Park 與 Able Hakuba Goryu 相連，是白馬南側適合 park、tree riding、長距離初級連絡路與中級 carving 的雪場。Route 1 是代表性中級下滑路線，Route 4 集中 47PARKS，Route 7、8 則提供較長的初級緩坡；想串滑五龍時，需確認 Line E 與五龍側連絡狀態。

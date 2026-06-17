@@ -100,42 +100,64 @@ courses:
   details:
     - name: "妙高ロングラン"
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=193s
+        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1983s
       length: "2,300m"
       averageSlope: "8deg"
     - name: "タテガミ"
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=2084s
       length: "500m"
       averageSlope: "12deg"
     - name: "六本木ロード"
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=450s
       length: "1,100m"
       averageSlope: "7deg"
     - name: "ヴィレッジロード"
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=568s
       length: "2,100m"
       averageSlope: "5deg"
     - name: "ポニー"
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=758s
+        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=2227s
       length: "400m"
       averageSlope: "4deg"
     - name: "ビーフリー"
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=927s
       length: "1,300m"
       averageSlope: "18deg"
     - name: "アンコール"
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1083s
       length: "1,400m"
       averageSlope: "15deg"
     - name: "ベアバレー"
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1879s
       length: "1,100m"
       averageSlope: "13deg"
     - name: "ウマノセ"
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=2118s
       length: "1,460m"
       averageSlope: "12deg"
     - name: "サンライズ"
       difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1775s
       length: "880m"
       averageSlope: "12deg"
     - name: "ハッピープレイス"
@@ -160,6 +182,8 @@ courses:
       averageSlope: "23deg"
     - name: "エキサイター"
       difficulty: advanced
+      videoLinks:
+        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1334s
       length: "1,310m"
       averageSlope: "21deg"
     - name: "マムシガエシ"
@@ -212,5 +236,8 @@ sources:
   note: 官方網站部分內容需以瀏覽器載入，初版僅存官方入口。
 - label: Arai Mountain Resort Weathernews
   url: https://weathernews.jp/ski/spot/35494/
+- label: LOTTE ARAI RESORT Course Video
+  url: https://www.youtube.com/watch?v=HiKfJdpvWHI
+  note: 影片說明欄提供妙高ロングラン、六本木ロード、ヴィレッジロード、ポニー、ビーフリー、アンコール、エキサイター、サンライズ等雪道章節時間軸。
 ---
 樂天新井位於新潟縣妙高市兩善寺，是妙高高原區域北側的大型度假村型雪場。初版先收錄官方入口與公開資料整理的基本資料，詳細雪道、交通與票券規則仍需後續以官方頁面補強。

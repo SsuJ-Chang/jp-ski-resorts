@@ -85,6 +85,8 @@ courses:
     difficulty: beginner
     length: 4,000m
     note: 林間長距離路線，官方說明適合初級到進階者，可享受蜿蜒道路。
+    videoLinks:
+      - https://www.youtube.com/watch?v=KQCss9sO5U0&t=495s
   - name: Higashitateyama - Ichinose Family Connection Course
     difficulty: beginner
     length: 500m
@@ -131,5 +133,8 @@ sources:
   url: https://shigakogen-ski.or.jp/winter/ticket/
 - label: Shiga Kogen Access
   url: https://shigakogen-ski.or.jp/access/
+- label: Shiga Kogen Central Area Part 2 Course Video
+  url: https://www.youtube.com/watch?v=KQCss9sO5U0
+  note: 影片說明欄以區域章節提供東館山滑行時間軸；此處依 Top to Bottom 路線脈絡對應至 Forest Course。
 ---
 志賀高原東館山以奧運路線與長距離 Forest Course 為特色，能串接一之瀨與寺小屋，是中央區域移動與長距離滑行的重要節點。

@@ -112,6 +112,8 @@ courses:
     maxSlope: 15°
     averageSlope: 8°
     note: 官方列為初級路線；官方資料並列出全長 740m、最大坡度 15°、平均坡度 8°。
+    videoLinks:
+      - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=246s
   - name: 連絡コース / Connection Course
     difficulty: beginner
     length: 1,250m
@@ -125,6 +127,7 @@ courses:
     averageSlope: 11°
     videoLinks:
       - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1609s
+      - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=484s
     note: 官方列為初級路線；官方資料並列出全長 1,400m、最大坡度 17°、平均坡度 11°。
   - name: くるみヶ丘ゲレンデ / Kurumigaoka Slope
     difficulty: beginner
@@ -191,6 +194,7 @@ courses:
     averageSlope: 14°
     videoLinks:
       - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=777s
+      - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=437s
     note: 官方列為中級連絡路線；官方資料並列出全長 450m、最大坡度 18°、平均坡度 14°。
   - name: 杉ノ原ゾーン / Suginohara Zone
     difficulty: intermediate
@@ -266,5 +270,8 @@ sources:
 - label: Real Japan Nature YouTube Course Video
   url: https://www.youtube.com/watch?v=KB5dscP0Pw4
   note: 影片章節提供杉之原部分雪道秒數，已對應至 courses.details[].videoLinks。
+- label: Myoko Suginohara Long Trail Course Video
+  url: https://www.youtube.com/watch?v=4kOOeVcoBqA
+  note: 影片說明欄提供しゃくなげ、杉ノ原連絡、白樺等雪道章節時間軸。
 ---
 杉之原位於新潟縣妙高市杉野澤，是妙高高原一帶具代表性的長距離滑行雪場。官方列出的 16 條雪道涵蓋初級緩坡、中級巡航與上級急斜面，可作為妙高高原多日行程中的其中一站。

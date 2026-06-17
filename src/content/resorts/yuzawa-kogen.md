@@ -104,12 +104,16 @@ courses:
       maxSlope: 9°
       averageSlope: 7°
       note: 可一邊眺望湯澤群山一邊滑行的初級路線，官方標示適合初學者與家庭使用。
+      videoLinks:
+        - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=167s
     - name: 波斯菊雪道 / コスモスコース
       difficulty: beginner
       length: 500m
       maxSlope: 10°
       averageSlope: 7°
       note: 從高原 Express Lift 上站往右進入的緩斜面，適合放鬆滑行。
+      videoLinks:
+        - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=401s
     - name: 鈴蘭雪道 / スズランコース
       difficulty: beginner
       length: 500m
@@ -134,6 +138,8 @@ courses:
       maxSlope: 27°
       averageSlope: 20°
       note: 高原區的主要寬幅雪道，下部設有非壓雪區，官方標示可享受深雪。
+      videoLinks:
+        - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=101s
     - name: 藍罌粟雪道 / 青いケシコース
       difficulty: advanced
       length: 550m
@@ -146,6 +152,8 @@ courses:
       maxSlope: 20°
       averageSlope: 12°
       note: 從山頂高原區滑往布場區的下山路線，上部為狹窄蜿蜒路段，官方建議中級以上滑行者注意使用。
+      videoLinks:
+        - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=479s
 access:
   fromTokyo:
   - label: 東京出發
@@ -175,5 +183,8 @@ sources:
   url: https://www.yuzawakogen.com/winter/gelaende/
 - label: Yuzawa Kogen Ski Resort Ticket
   url: https://www.yuzawakogen.com/winter/tickets/
+- label: Yuzawa Kogen Course Video
+  url: https://www.youtube.com/watch?v=uiSqhmdWXl4
+  note: 影片說明欄提供キスゲ、パノラマ、コスモス、コマクサ等雪道章節時間軸。
 ---
 湯澤高原位於越後湯澤站附近，可搭乘 ropeway 前往高原區域，適合將雪上活動、景觀與溫泉街行程結合。

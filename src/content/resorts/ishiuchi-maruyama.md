@@ -127,6 +127,7 @@ courses:
       averageSlope: 14°
       videoLinks:
         - "https://www.youtube.com/watch?v=bd5A7FB11qg&t=490s"
+        - https://www.youtube.com/watch?v=vxT0r069KSE&t=1527s
     - name: 3 パラダイスコース
       difficulty: beginner
       length: 830m
@@ -134,6 +135,7 @@ courses:
       averageSlope: 9°
       videoLinks:
         - "https://www.youtube.com/watch?v=bd5A7FB11qg&t=1326s"
+        - https://www.youtube.com/watch?v=G7k1G9Njxcg&t=94s
     - name: 6 北丸山ファミリーゲレンデ
       difficulty: beginner
       length: 350m
@@ -155,6 +157,7 @@ courses:
       averageSlope: 12°
       videoLinks:
         - "https://www.youtube.com/watch?v=bd5A7FB11qg&t=408s"
+        - https://www.youtube.com/watch?v=G7k1G9Njxcg&t=245s
     - name: 21 中央斜滑降コース
       difficulty: beginner
       length: 200m
@@ -344,5 +347,11 @@ sources:
 - label: Real Japan Nature YouTube Course Video
   url: https://www.youtube.com/watch?v=bd5A7FB11qg
   note: 影片說明欄提供石打丸山各雪道章節秒數，已對應至 courses.details[].videoLinks。
+- label: Ishiuchi Maruyama GALA Connection Course Video
+  url: https://www.youtube.com/watch?v=vxT0r069KSE
+  note: 影片說明欄末段提供石打丸山メルヘンコース章節時間軸。
+- label: Ishiuchi Maruyama Night Course Video
+  url: https://www.youtube.com/watch?v=G7k1G9Njxcg
+  note: 影片說明欄提供パラダイスコース、サンライズライン夜滑章節時間軸。
 ---
 石打丸山位於南魚沼市石打，雪場規模大，適合想從湯澤周邊安排較完整滑行日的旅客。
