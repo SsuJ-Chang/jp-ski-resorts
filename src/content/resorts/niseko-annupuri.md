@@ -211,4 +211,5 @@ sources:
 - label: Niseko United Access
   url: https://www.niseko.ne.jp/en/niseko-access/
 ---
-二世谷 Annupuri 是 Niseko United 西側區域，坡面配置相對清楚，從 Family、Junior 等初級線到 Fukayuki Rinkan、Challenge 等高難度路線都有。若想從較安定的西側坡面開始適應二世谷雪況，Annupuri 是常見的起點。
+
+二世谷 Annupuri位於北海道的二世谷雪區，雪質表現是核心吸引力，想感受日本雪國粉雪的人可以列入候選。放進二世谷雪場群時，行程會多一種坡面與景觀節奏；適合把運動量和放鬆感平衡在同一趟雪國旅程裡的人。

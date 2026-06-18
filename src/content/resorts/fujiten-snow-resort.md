@@ -124,4 +124,5 @@ sources:
   - label: "Weathernews ふじてんスノーリゾート"
     url: "https://weathernews.jp/ski/spot/34901/"
 ---
-Fujiten Snow Resort 位於山梨縣鳴澤村、富士山北麓一帶，是可從河口湖周邊銜接的富士山景觀雪場。
+
+Fujiten Snow Resort位於山梨縣，入夜後的燈光雪面很有氣氛，適合把練習和夜間滑行排在同一天。晴天遠景與山麓雪景會一起出現，滑行中能感受視野逐段展開；適合把基礎練習、雪地遊玩與休息時間安排得更從容。

@@ -135,4 +135,5 @@ sources:
     label: "Iizuna Resort Weathernews"
     url: "https://weathernews.jp/ski/spot/34824/"
 ---
-Iizuna Resort位在長野縣，雪場共有 7 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+Iizuna Resort位於長野縣，降雪後的雪面觸感是記憶點，滑行會比單純壓雪巡航更有層次。降雪後的雪面變化會讓每一趟滑行有不同表情；適合短天數旅程中，想把滑行時間拉長的人。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。

@@ -133,4 +133,5 @@ sources:
     label: "Aga Tourism Mikawa Onsen Ski Resort"
     url: "https://www.aga-info.jp/tourist-attractions/mikawa-onsen-ski-resort/"
 ---
-三川溫泉雪場位在阿賀町，靠近三川站與三川 IC，適合把下越地區滑雪與溫泉行程一起安排。
+
+三川溫泉位於新潟縣，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合想把滑雪後的泡湯、在地停留與雪國慢節奏放進同一天的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

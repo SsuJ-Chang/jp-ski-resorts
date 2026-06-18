@@ -132,4 +132,5 @@ sources:
     label: "Chateraise Ski Valley Nobeyama Weathernews"
     url: "https://weathernews.jp/ski/spot/34840/"
 ---
-Chateraise Ski Valley 野邊山位在長野縣，雪場共有 5 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+Chateraise Ski Valley 野邊山位於長野縣，夜滑讓白天之外多一層雪場表情，短天數旅程也能拉出不同節奏。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合親子同行或想用輕鬆節奏累積滑行經驗的人。

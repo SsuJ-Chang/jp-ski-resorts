@@ -116,4 +116,5 @@ sources:
 - label: Shiga Kogen Access
   url: https://shigakogen-ski.or.jp/access/
 ---
-志賀高原一之瀨 Diamond 位於一之瀨核心區旁，雪道短而單純，適合轉彎、slalom 與基礎動作練習。
+
+志賀高原一之瀨 Diamond位於長野縣的志賀高原，地方型氛圍讓滑行節奏更單純，適合慢慢熟悉雪面與山景。若安排志賀高原多日滑雪，可把它當成轉換節奏的一站；適合想用比較自由的節奏練習 carving、巡航或雪板控制的人。

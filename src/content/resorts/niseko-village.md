@@ -258,4 +258,5 @@ sources:
 - label: Niseko United Access
   url: https://www.niseko.ne.jp/en/niseko-access/
 ---
-二世谷 Village 夾在 Annupuri 與 Grand Hirafu 之間，坡面從飯店側初級緩坡一路延伸到較高難度的樹林與非壓雪路線。若住宿在 Niseko Village 一帶，可用它作為西側與中央區域的轉接點。
+
+二世谷 Village位於北海道的二世谷雪區，粉雪與非壓雪地形讓滑行更有探索感，適合想離開單調壓雪面的人。若安排二世谷多日滑雪，可把它當成轉換節奏的一站；適合不想每天移動太多，想用度假節奏滑雪的人。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。

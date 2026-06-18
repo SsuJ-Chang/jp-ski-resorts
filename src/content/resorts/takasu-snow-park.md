@@ -215,4 +215,5 @@ sources:
 - label: Takasu Snow Park Access
   url: https://www.takasu.gr.jp/access/
 ---
-高鷲 Snow Park 是 Takasu Mountains 的核心大型雪場之一，與 Dynaland 相鄰並可在山頂往來。它的重點是 4,000m 級長距離 course、寬廣緩坡、park、half pipe 與 tree run，從初學家庭到進階 snowboarder 都能安排路線。
+
+高鷲 Snow Park位於岐阜縣的高鷲 Mountains，適合喜歡長線巡航的人，主要滑行線可拉到約 4,900 公尺。若安排高鷲多日滑雪，可把它當成轉換節奏的一站；適合把基礎練習、雪地遊玩與休息時間安排得更從容。

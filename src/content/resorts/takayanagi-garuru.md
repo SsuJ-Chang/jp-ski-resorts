@@ -126,4 +126,5 @@ sources:
     label: "Takayanagi Garuru Ski Area Weathernews"
     url: "https://weathernews.jp/ski/spot/35483/"
 ---
-高柳 Garuru 是柏崎市高柳町的小型雪場，雪道單純，適合以親子、初學或短時間練習為主的行程。
+
+高柳 Garuru位於新潟縣，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合親子同行或想用輕鬆節奏累積滑行經驗的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

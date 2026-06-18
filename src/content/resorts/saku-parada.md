@@ -134,4 +134,5 @@ sources:
     label: "Saku Ski Garden Parada Weathernews"
     url: "https://weathernews.jp/ski/spot/34852/"
 ---
-佐久 Ski Garden Parada位在長野縣，雪場共有 7 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+佐久 Ski Garden Parada位於長野縣，白天與夜晚的雪面感不同，想延長滑行時間時會更有彈性。比起匆忙踩點，更適合用半天到一天熟悉雪面、坡感與山景；適合把下班後、午後或夜間練習納入安排的人。整體適合放慢節奏，從雪面觸感、山景與停留氛圍中感受差異。

@@ -130,4 +130,5 @@ sources:
     label: "New Greenpia Tsunan Weathernews"
     url: "https://weathernews.jp/ski/spot/35466/"
 ---
-New Greenpia 津南是住宿設施與雪場合一的度假型場域，適合把滑雪、住宿與館內活動安排在同一趟行程中。
+
+New Greenpia 津南位於新潟縣，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合想把滑雪後的泡湯、在地停留與雪國慢節奏放進同一天的人。

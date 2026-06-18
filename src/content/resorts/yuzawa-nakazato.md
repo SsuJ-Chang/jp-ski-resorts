@@ -181,4 +181,5 @@ sources:
 - label: Yuzawa Nakazato Snow Resort Ticket
   url: https://www.yuzawa-nakazato.com/winter/fee/
 ---
-湯澤中里 Snow Resort 位於越後中里站旁，交通直接，適合家庭與初次滑雪行程。
+
+湯澤中里位於新潟縣的湯澤雪國，適合把滑雪練習和家庭停留結合，旅程節奏比大型山岳雪場輕鬆。放進湯澤雪場群時，行程會多一種坡面與景觀節奏；適合想用一站建立日本滑雪印象，再慢慢往其他雪區延伸的人。整體適合放慢節奏，從雪面觸感、山景與停留氛圍中感受差異。

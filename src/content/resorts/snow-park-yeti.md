@@ -148,4 +148,5 @@ sources:
 - label: Weathernews 中部人氣排名
   url: https://weathernews.jp/ski/area/chubu/ranking.html
 ---
-Snow Park YETI 位於靜岡縣裾野市富士山二合目，它可由首都圈與靜岡搭巴士前往，並有夜滑時段，適合短天數雪上體驗。
+
+Snow Park YETI位於靜岡縣，夜滑讓白天之外多一層雪場表情，短天數旅程也能拉出不同節奏。晴天遠景與山麓雪景會一起出現，滑行中能感受視野逐段展開；適合親子同行或想用輕鬆節奏累積滑行經驗的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

@@ -133,4 +133,5 @@ sources:
   - label: Snow Wave Park Shiratori Kogen Ticket
     url: https://siratori-k.jp/swp/price
 ---
-Snow Wave Park 白鳥高原位在岐阜縣郡上市白鳥町石徹白一帶，公開資料標示 15 條 course 與 3 條 lift，中級比例較高。它有 snow park、kids park，也標示粉雪與非壓雪特色，適合已有基礎、想以中級巡航與地形變化為主的滑雪者與 snowboarder。
+
+Snow Wave Park 白鳥高原位於岐阜縣，粉雪與非壓雪地形讓滑行更有探索感，適合想離開單調壓雪面的人。降雪後的雪面變化會讓每一趟滑行有不同表情；適合同行者玩法不同時，依各自節奏安排滑行的人。也適合把雪地遊玩、練習與休息時間安排得更從容。

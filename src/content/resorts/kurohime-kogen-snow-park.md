@@ -123,4 +123,5 @@ sources:
     label: "Kurohime Kogen Snow Park Weathernews"
     url: "https://weathernews.jp/ski/spot/34866/"
 ---
-黑姬高原 Snow Park位在長野縣，雪場共有 13 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+黑姬高原 Snow Park位於長野縣，夜滑讓白天之外多一層雪場表情，短天數旅程也能拉出不同節奏。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合想用白天與夜晚兩種節奏感受雪場的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

@@ -161,4 +161,5 @@ sources:
 - label: Hirugano Kogen Access
   url: https://www.hiruganokogen.com/access/
 ---
-ひるがの高原是 Takasu Mountains 中最適合初學者與家庭的雪場，離ひるがの高原 Smart IC 近，坡面寬且相對單純。若同行者有小孩、第一次滑雪者，或只想做半天練習，它比高鷲 Snow Park 與 Dynaland 更好掌握。
+
+ひるがの高原位於岐阜縣的高鷲 Mountains，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。放進高鷲旅程時，能和周邊雪場形成不同節奏；適合第一次日本滑雪時，把代表性雪景與滑行體驗放在一起。

@@ -328,4 +328,5 @@ sources:
 - label: "Weathernews 北海道人氣排行"
   url: "https://weathernews.jp/ski/area/hokkaido/ranking.html"
 ---
-星野 Resorts Tomamu 在北海道人氣雪場清單列為第 4 名。共有 29 條雪道、6 座纜車。本頁為靜態資料整理，出發前請以官方公告與當日資訊為準。
+
+星野 Resorts Tomamu位於北海道，適合喜歡長線巡航的人，主要滑行線可拉到約 3,300 公尺。住宿、餐飲與滑行動線集中，停留感比單日滑雪更完整；適合想把住宿、餐飲與滑行整合成停留型旅程的人。也適合把雪地遊玩、練習與休息時間安排得更從容。

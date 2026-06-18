@@ -119,4 +119,5 @@ sources:
 - label: Shiga Kogen Access
   url: https://shigakogen-ski.or.jp/access/
 ---
-志賀高原 Giant 是中央區域較有挑戰性的斜面，主雪道坡度感強，也可透過 Nanamagari Course 避開困難段落並銜接其他區域。
+
+志賀高原 Giant位於長野縣的志賀高原，不是追求壯觀規模，而是用安定坡面累積滑行手感與雪國記憶。放進志賀高原雪場群時，行程會多一種坡面與景觀節奏；適合想放慢節奏，用一天熟悉雪面、坡感與地方氣氛的人。也適合把雪地遊玩、練習與休息時間安排得更從容。

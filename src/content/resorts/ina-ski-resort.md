@@ -134,4 +134,5 @@ sources:
     label: "Chuo Expressway Ina Ski Resort Weathernews"
     url: "https://weathernews.jp/ski/spot/34831/"
 ---
-中央道伊那 Ski Resort位在長野縣，雪場共有 2 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+中央道伊那 Ski Resort位於長野縣，白天與夜晚的雪面感不同，想延長滑行時間時會更有彈性。比起匆忙踩點，更適合用半天到一天熟悉雪面、坡感與山景；適合同行者程度不同時，用比較不緊繃的方式共享雪地時間。

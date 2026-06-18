@@ -128,4 +128,5 @@ sources:
     label: "Kyukamura Myoko RunRun Ski Area Weathernews"
     url: "https://weathernews.jp/ski/spot/35469/"
 ---
-休暇村妙高 RunRun 是休暇村妙高旁的小型滑雪場，坡面單純，適合住宿時搭配親子或初學練習。
+
+休暇村妙高 RunRun位於新潟縣的妙高高原，適合把滑雪練習和家庭停留結合，旅程節奏比大型山岳雪場輕鬆。放進妙高高原雪場群時，行程會多一種坡面與景觀節奏；適合同行者程度不同時，用比較不緊繃的方式共享雪地時間。

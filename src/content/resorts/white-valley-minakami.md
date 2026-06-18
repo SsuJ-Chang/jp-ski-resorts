@@ -181,4 +181,5 @@ sources:
   - label: White Valley Weathernews
     url: https://weathernews.jp/ski/spot/34226/
 ---
-White Valley 是水上站附近的小型粉雪與自然地形取向滑雪場。官方雪場頁列出 5 條雪道，並介紹 Premium Powder Day 活動，適合想把水上溫泉與谷川岳周邊行程一起安排的滑雪者。
+
+White Valley位於群馬縣的水上雪區，粉雪與非壓雪地形讓滑行更有探索感，適合想離開單調壓雪面的人。若安排水上多日滑雪，可把它當成轉換節奏的一站；適合把基礎練習、雪地遊玩與休息時間安排得更從容。也適合把雪地遊玩、練習與休息時間安排得更從容。

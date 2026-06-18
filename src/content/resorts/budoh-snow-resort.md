@@ -128,4 +128,5 @@ sources:
     label: "Budoh Snow Resort Weathernews"
     url: "https://weathernews.jp/ski/spot/35445/"
 ---
-Budoh Snow Resort 位在村上市蒲萄地區，中級雪道比例高，適合已有基礎、想在下越北部滑行的人。
+
+Budoh Snow Resort位於新潟縣，尺度不大，反而適合把轉彎、煞停與雪面感受拆成穩定練習。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合雙板與雪板同行，依各自節奏安排滑行重點。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

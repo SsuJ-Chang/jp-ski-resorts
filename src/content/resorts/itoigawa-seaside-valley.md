@@ -128,4 +128,5 @@ sources:
     label: "Itoigawa Seaside Valley Weathernews"
     url: "https://weathernews.jp/ski/spot/35429/"
 ---
-糸魚川 Seaside Valley 位在糸魚川市山區，可從北陸新幹線糸魚川站轉乘，適合北陸側行程延伸到雪場。
+
+糸魚川 Seaside Valley位於新潟縣，不是追求壯觀規模，而是用安定坡面累積滑行手感與雪國記憶。比起匆忙踩點，更適合用半天到一天熟悉雪面、坡感與山景；適合同行者玩法不同時，依各自節奏安排滑行的人。

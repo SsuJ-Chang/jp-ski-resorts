@@ -74,8 +74,8 @@ snowWeather:
   title: "月山雪況與纜車狀態"
   provider: "Mt.月山 Official"
   url: "https://mt-gassan.com/snow/"
-  snowDepth: "to be filled"
-  updatedAt: "to be filled"
+  snowDepth: "0 cm"
+  updatedAt: "2026/6/19 03:00:00"
   forecast: []
   note: "此區塊僅保留官方雪況與纜車狀態頁連結；實際積雪、天氣、纜車與開放區域請以出發當日官方公告為準。"
 location:
@@ -89,9 +89,13 @@ courses:
     - name: "沢コース / Valley Course"
       difficulty: "mixed"
       note: "沿月山自然地形通過的壓雪滑走線，官方描述為由壓雪車整理、雪面相對穩定，左右也有起伏地形可滑。"
+      videoLinks: 
+        - https://www.youtube.com/watch?v=Fe3b5T7EV30
     - name: "大斜面コース / Large Slope Course"
       difficulty: "advanced"
       note: "月山代表性的寬大斜面，可從纜車山頂步行約 15 分鐘前往上方，或橫移到大斜面中段；雪季推進後，中段至下部會逐漸轉為饅頭坡。難度為依官方地形描述整理，官方未列固定等級。"
+      videoLinks: 
+        - https://www.youtube.com/watch?v=Fe3b5T7EV30
 lifts:
   total: 2
 access:
@@ -133,4 +137,4 @@ sources:
     url: "https://www.openstreetmap.org/way/366322140"
 ---
 
-月山位於山形縣西川町志津姥沢，是以春季至初夏殘雪滑行聞名的雪場。2026 年官方雪季為 4 月 10 日至 6 月 14 日，主要滑走區域包含壓雪的沢コース與自然地形感強的大斜面コース；規劃行程時需特別確認當日天候、纜車、T-bar 與開放範圍。
+月山位於山形縣，最大記憶點是晚季殘雪與自然地形，能感受更粗獷的雪面變化。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合不只想滑雪，也想把身體放鬆與地方氛圍一起安排的人。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。

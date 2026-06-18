@@ -156,4 +156,5 @@ sources:
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
-八幡平 Resort Panorama 位於岩手縣八幡平市松尾寄木，東北人氣雪場清單列為第 7 名；共有 7 條雪道與 4 座纜車，雪板可全區滑行。
+
+八幡平 Resort Panorama位於岩手縣，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合親子同行或想用輕鬆節奏累積滑行經驗的人。

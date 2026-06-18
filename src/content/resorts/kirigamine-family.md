@@ -133,4 +133,5 @@ sources:
     label: "Kirigamine Family Gelande Weathernews"
     url: "https://weathernews.jp/ski/spot/34817/"
 ---
-霧ヶ峰 Family Gelande位在長野縣，雪場共有 3 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+霧ヶ峰 Family Gelande位於長野縣，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合親子同行或想用輕鬆節奏累積滑行經驗的人。也適合把雪地遊玩、練習與休息時間安排得更從容。

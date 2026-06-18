@@ -108,4 +108,5 @@ sources:
   - label: "Weathernews リンクステーションヒルズ雲谷(モヤヒルズ)"
     url: "https://weathernews.jp/ski/spot/33102/"
 ---
-Link Station Hills 雲谷（Moya Hills）位於青森市雲谷，離青森市區較近，適合安排成青森市住宿時的近郊滑雪選項。
+
+Link Station Hills 雲谷（Moya Hills）位於青森縣，夜滑讓白天之外多一層雪場表情，短天數旅程也能拉出不同節奏。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合想用白天與夜晚兩種節奏感受雪場的人。

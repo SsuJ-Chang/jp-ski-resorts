@@ -623,4 +623,5 @@ sources:
 - label: Weathernews Niseko Tokyu Grand Hirafu
   url: https://weathernews.jp/ski/spot/31605/
 ---
-二世谷聯合是北海道代表性的粉雪滑雪區，由 Annupuri、Niseko Village、Grand Hirafu 與 HANAZONO 四個區域組成。全山共通券可跨區使用，適合重視粉雪、夜滑、住宿選擇與國際化滑雪村氛圍的旅客；若需要單區雪道配置，可再搭配四個單區條目查看。
+
+二世谷聯合位於北海道羊蹄山周邊，魅力不是單一雪場，而是四個區域串成的粉雪世界。白天可在開闊斜面、樹林地形與度假村聚落間切換，夜晚仍有滑行、餐飲與住宿選擇；雪質、山景與國際度假氛圍都鮮明，適合把北海道粉雪當成旅程主軸的人。

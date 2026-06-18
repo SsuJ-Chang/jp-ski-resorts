@@ -212,4 +212,5 @@ sources:
 - label: Mt. Norikura Snow Resort Access
   url: https://www.brnorikura.jp/access/
 ---
-Mt.乘鞍 Snow Resort 位於長野縣松本市乘鞍高原，它以乘鞍岳山麓粉雪、乳白色溫泉與 18 歲以下纜車免費為特色。
+
+Mt.乘鞍 Snow Resort位於長野縣，亮點是從高處延伸到山麓的長距離滑行，最長線約 5,000 公尺。一路下滑時，開闊坡面、林間段落與山景會逐步轉換；適合不只想滑雪，也想把身體放鬆與地方氛圍一起安排的人。

@@ -130,4 +130,5 @@ sources:
     label: "Ninox Snow Park Weathernews"
     url: "https://weathernews.jp/ski/spot/35438/"
 ---
-Ninox Snow Park 位在新發田市，夜間營業日程較多，適合新潟市區或新發田周邊安排一日與夜滑行程。
+
+Ninox Snow Park位於新潟縣，入夜後的燈光雪面很有氣氛，適合把練習和夜間滑行排在同一天。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合把基礎練習、雪地遊玩與休息時間安排得更從容。也適合把雪地遊玩、練習與休息時間安排得更從容。

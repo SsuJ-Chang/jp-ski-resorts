@@ -317,4 +317,5 @@ sources:
   url: https://www.youtube.com/watch?v=flgiqIJr-fc
   note: 影片說明欄提供北區 Forest1、Friendly、Forest3、Devil3、Devil1、Excite1、Excite2 等雪道章節時間軸。
 ---
-Necoma Mountain 是由舊 Alts 磐梯與舊貓魔滑雪場以連結纜車整合而成的大型雪場，橫跨磐梯山南北兩側。南區有豬苗代湖景觀、夜滑與長距離路線，北區則以粉雪、樹林與春季營業聞名。
+
+Necoma Mountain位於福島縣的磐梯雪區，特色不只在巡航，也能把跳台、箱型道具或公園元素排進滑行節奏。若安排磐梯多日滑雪，可把它當成轉換節奏的一站；適合已經不滿足於單純巡航，想加入探索感的玩家。

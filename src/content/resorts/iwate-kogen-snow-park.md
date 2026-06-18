@@ -171,4 +171,5 @@ sources:
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
-岩手高原 Snow Park 位於岩手縣岩手郡雫石町長山字岩手山，東北人氣雪場清單列為第 11 名；共有 10 條雪道與 7 座纜車，雪板可全區滑行。
+
+岩手高原 Snow Park位於岩手縣，特色不只在巡航，也能把跳台、箱型道具或公園元素排進滑行節奏。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合想用比較自由的節奏練習 carving、巡航或雪板控制的人。

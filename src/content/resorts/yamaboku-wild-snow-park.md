@@ -134,4 +134,5 @@ sources:
     label: "YAMABOKU Wild Snow Park Weathernews"
     url: "https://weathernews.jp/ski/spot/34885/"
 ---
-YAMABOKU Wild Snow Park位在長野縣，雪場共有 18 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+YAMABOKU Wild Snow Park位於長野縣，雪質表現是核心吸引力，想感受日本雪國粉雪的人可以列入候選。降雪後的雪面變化會讓每一趟滑行有不同表情；適合同行者玩法不同時，依各自節奏安排滑行的人。也適合把雪地遊玩、練習與休息時間安排得更從容。

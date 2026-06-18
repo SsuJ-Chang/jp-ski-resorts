@@ -134,4 +134,5 @@ sources:
     label: "Heavens Sonohara Snow World Weathernews"
     url: "https://weathernews.jp/ski/spot/34856/"
 ---
-Heavens Sonohara Snow World位在長野縣，雪場共有 5 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+Heavens Sonohara Snow World位於長野縣，重點不在刺激挑戰，而是讓同行者用舒服節奏熟悉雪地活動。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合把基礎練習、雪地遊玩與休息時間安排得更從容。

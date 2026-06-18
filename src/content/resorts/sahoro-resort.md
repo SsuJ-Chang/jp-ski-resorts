@@ -142,4 +142,5 @@ sources:
 - label: "Weathernews 北海道人氣排行"
   url: "https://weathernews.jp/ski/area/hokkaido/ranking.html"
 ---
-Sahoro Resort 在北海道人氣雪場清單列為第 9 名。共有 21 條雪道、8 座纜車。本頁為靜態資料整理，出發前請以官方公告與當日資訊為準。
+
+Sahoro Resort位於北海道，粉雪是主要魅力，適合把雪質、速度感與雪國氛圍放在同一段旅程。住宿、餐飲與滑行動線集中，停留感比單日滑雪更完整；適合想把住宿、餐飲與滑行整合成停留型旅程的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

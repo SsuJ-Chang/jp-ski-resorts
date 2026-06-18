@@ -312,4 +312,5 @@ sources:
   url: https://www.youtube.com/watch?v=EuUdXoyB2mo
   note: 影片說明欄提供白馬五龍 Technical、Grand Prix、Champion Dynamic、Toomi，以及 Hakuba47 部分雪道章節時間軸。
 ---
-白馬五龍位於長野縣白馬村，與白馬 47 相鄰。
+
+白馬五龍位於長野縣的白馬山麓，適合喜歡長線巡航的人，主要滑行線可拉到約 3,600 公尺。若安排白馬多日滑雪，可把它當成轉換節奏的一站；適合不想每天移動太多，想用度假節奏滑雪的人。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。

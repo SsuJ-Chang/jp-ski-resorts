@@ -250,4 +250,5 @@ sources:
   url: https://www.youtube.com/watch?v=EuUdXoyB2mo
   note: 影片說明欄提供 Hakuba47 Route 1、Route 2、Route 5、Route 8，以及白馬五龍部分雪道章節時間軸。
 ---
-Hakuba47 Winter Sports Park 與 Able Hakuba Goryu 相連，是白馬南側適合 park、tree riding、長距離初級連絡路與中級 carving 的雪場。Route 1 是代表性中級下滑路線，Route 4 集中 47PARKS，Route 7、8 則提供較長的初級緩坡；想串滑五龍時，需確認 Line E 與五龍側連絡狀態。
+
+Hakuba 47位於長野縣的白馬山麓，最大亮點是日本長距離滑行感，最長線可達約 13,570 公尺。一路下滑時，開闊坡面、林間段落與山景會逐步轉換；適合已經不滿足於單純巡航，想加入探索感的玩家。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。

@@ -134,4 +134,5 @@ sources:
     label: "Kurumayama Kogen SKYPARK Ski Area Weathernews"
     url: "https://weathernews.jp/ski/spot/34812/"
 ---
-車山高原 SKYPARK位在長野縣，雪場共有 7 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+車山高原 SKYPARK位於長野縣，位處高海拔雪域，適合把滑行、眺望與雪國空氣一起感受。比起匆忙踩點，更適合用半天到一天熟悉雪面、坡感與山景；適合同行者程度不同時，用比較不緊繃的方式共享雪地時間。整體適合放慢節奏，從雪面觸感、山景與停留氛圍中感受差異。

@@ -311,4 +311,5 @@ sources:
 - label: Echigo Yuzawa Tourism Iwappara Ski Resort
   url: https://www.e-yuzawa.gr.jp/sys/ski_p/iwappara_ski_resort/
 ---
-岩原位於越後湯澤附近，是湯澤一帶常見的初學與家庭取向雪場。
+
+岩原位於新潟縣的湯澤雪國，白天與夜晚的雪面感不同，想延長滑行時間時會更有彈性。放進湯澤雪場群時，行程會多一種坡面與景觀節奏；適合想用一站建立日本滑雪印象，再慢慢往其他雪區延伸的人。整體適合放慢節奏，從雪面觸感、山景與停留氛圍中感受差異。

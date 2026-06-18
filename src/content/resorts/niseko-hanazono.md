@@ -206,4 +206,5 @@ sources:
 - label: Niseko United Access
   url: https://www.niseko.ne.jp/en/niseko-access/
 ---
-二世谷 HANAZONO 是 Niseko United 東側區域，和 Grand Hirafu 相連，雪道包含長距離巡航、地形公園、樹林與粉雪路線。若住宿或行程重心在 Hirafu，也很適合把 HANAZONO 排成同一天滑行。
+
+二世谷 HANAZONO位於北海道的二世谷雪區，特色不只在巡航，也能把跳台、箱型道具或公園元素排進滑行節奏。若安排二世谷多日滑雪，可把它當成轉換節奏的一站；適合已經不滿足於單純巡航，想加入探索感的玩家。

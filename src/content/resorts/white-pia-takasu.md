@@ -166,4 +166,5 @@ sources:
 - label: White Pia Takasu Access
   url: https://whitepia.jp/access/
 ---
-White Pia たかす是 Takasu Mountains 裡偏地形與展望特色的雪場，官方說明 course layout 呈熊手狀，從初級緩坡到 mogul、freestyle park 與高難度分岐都有。它也和鷲ヶ岳形成「ワシトピア」動線，適合安排同區滑行。
+
+White Pia たかす位於岐阜縣的高鷲 Mountains，重點不在刺激挑戰，而是讓同行者用舒服節奏熟悉雪地活動。若安排高鷲多日滑雪，可把它當成轉換節奏的一站；適合把基礎練習、雪地遊玩與休息時間安排得更從容。

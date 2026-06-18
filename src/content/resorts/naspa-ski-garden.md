@@ -172,4 +172,5 @@ sources:
 - label: NASPA Ski Garden Ticket
   url: https://www.naspa.co.jp/ski/price/
 ---
-NASPA滑雪公園鄰近 NASPA New Otani，偏向住宿、家庭與初學者友善的雪場。
+
+NASPA滑雪公園位於新潟縣的湯澤雪國，重點不在刺激挑戰，而是讓同行者用舒服節奏熟悉雪地活動。若安排湯澤多日滑雪，可把它當成轉換節奏的一站；對第一次規劃日本雪場的人來說，能兼顧辨識度與安全感。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。

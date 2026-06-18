@@ -239,4 +239,5 @@ sources:
   url: https://www.youtube.com/watch?v=FQUsZ2ABDtU
   note: 影片說明欄提供 The Rock、Main Street、The View、Alpen、Forest、Free Ride、Fall Line 等雪道章節時間軸。
 ---
-Grandeco 位於福島縣北鹽原村裏磐梯一帶，海拔較高，雪季時間通常較長。官方雪道以山頂景觀巡航、粉雪與 freeride 取向路線，加上飯店連接動線構成。
+
+Grandeco位於福島縣的磐梯雪區，粉雪與樹林地形是主要記憶點，降雪後能感受更立體的雪面變化。放進磐梯旅程時，能和周邊雪場形成不同節奏；適合喜歡粉雪、林間變化與自然地形的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

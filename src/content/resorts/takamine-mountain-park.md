@@ -128,4 +128,5 @@ sources:
     label: "Takamine Mountain Park Weathernews"
     url: "https://weathernews.jp/ski/spot/34853/"
 ---
-高峰 Mountain Park位在長野縣，雪場共有 6 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+高峰 Mountain Park位於長野縣，高處視野與冷冽雪感是主要魅力，晴天時山稜線特別有存在感。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合想用比較自由的節奏練習 carving、巡航或雪板控制的人。

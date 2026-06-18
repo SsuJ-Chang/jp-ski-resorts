@@ -151,4 +151,5 @@ sources:
   - label: "Weathernews 東北のスキー場人気ランキング"
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
-宮城藏王 Eboshi Resort 位於宮城縣刈田郡藏王町遠刈田溫泉，東北人氣雪場清單列為第 12 名；共有 9 條雪道與 6 座纜車，雪板可全區滑行。
+
+宮城藏王 Eboshi Resort位於宮城縣，適合喜歡長線巡航的人，主要滑行線可拉到約 4,300 公尺。比起匆忙踩點，更適合用半天到一天熟悉雪面、坡感與山景；適合同行者玩法不同時，依各自節奏安排滑行的人。

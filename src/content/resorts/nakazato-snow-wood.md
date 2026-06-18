@@ -129,4 +129,5 @@ sources:
 - label: Nakazato Snow Wood Ski Resort Official Website
   url: https://www.nakazato-snowwood.com/
 ---
-中里Snow Wood 是湯澤中里周邊的小型雪場，適合雪上體驗與短時間滑行。
+
+中里Snow Wood位於新潟縣的湯澤雪國，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。放進湯澤旅程時，能和周邊雪場形成不同節奏；適合第一次日本滑雪時，把代表性雪景與滑行體驗放在一起。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

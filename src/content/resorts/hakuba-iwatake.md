@@ -220,4 +220,5 @@ sources:
 - label: Hakuba Iwatake Mountain Resort Access
   url: https://iwatake-mountain-resort.com/access
 ---
-白馬岩岳是白馬村中較重視山頂景觀與觀光設施的雪場，山頂 HAKUBA MOUNTAIN HARBOR 周邊可看北阿爾卑斯全景。滑雪地形分成 Mountain Side 與 Village Side，從初級緩斜面、自然地形到 Sunny Valley、White Ribbon 等中上級路線都有；適合想把滑雪、山頂景觀、咖啡與白馬村內移動安排在同一天的人。
+
+白馬岩岳位於長野縣的白馬山麓，適合喜歡長線巡航的人，主要滑行線可拉到約 3,300 公尺。若安排白馬多日滑雪，可把它當成轉換節奏的一站；適合已經不滿足於單純巡航，想加入探索感的玩家。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。

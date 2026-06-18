@@ -137,4 +137,5 @@ sources:
 - label: "Weathernews 北海道人氣排行"
   url: "https://weathernews.jp/ski/area/hokkaido/ranking.html"
 ---
-Karurusu 溫泉 Sanlaiva 在北海道人氣雪場清單列為第 13 名。共有 5 條雪道、2 座纜車。本頁為靜態資料整理，出發前請以官方公告與當日資訊為準。
+
+Karurusu 溫泉 Sanlaiva位於北海道，降雪後的雪面觸感是記憶點，滑行會比單純壓雪巡航更有層次。降雪後的雪面變化會讓每一趟滑行有不同表情；適合不只想滑雪，也想把身體放鬆與地方氛圍一起安排的人。

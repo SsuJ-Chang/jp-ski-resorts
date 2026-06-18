@@ -133,4 +133,5 @@ sources:
     label: "Chateraise Ski Valley Koumi Weathernews"
     url: "https://weathernews.jp/ski/spot/34849/"
 ---
-Chateraise Ski Valley 小海位在長野縣，雪場共有 7 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+Chateraise Ski Valley 小海位於長野縣，滑後泡湯是重要魅力，雪場體驗可以自然接到放鬆的溫泉節奏。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合想把滑雪後的泡湯、在地停留與雪國慢節奏放進同一天的人。

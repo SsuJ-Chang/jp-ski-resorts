@@ -134,4 +134,5 @@ sources:
     label: "Asahi Prime Ski Area Weathernews"
     url: "https://weathernews.jp/ski/spot/34890/"
 ---
-Asahi Prime位在長野縣，雪場共有 2 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+Asahi Prime位於長野縣，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合親子同行或想用輕鬆節奏累積滑行經驗的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

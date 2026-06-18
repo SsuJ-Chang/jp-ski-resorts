@@ -261,4 +261,5 @@ sources:
 - label: Niseko United Access
   url: https://www.niseko.ne.jp/en/niseko-access/
 ---
-二世谷 Grand Hirafu 是 Niseko United 最核心的住宿與滑行區域之一，雪道、纜車、夜滑與餐飲住宿選擇都集中。想第一次安排二世谷行程時，Hirafu 通常是最容易理解與最方便銜接其他區域的據點。
+
+二世谷 Grand Hirafu位於北海道的二世谷雪區，粉雪與樹林地形是主要記憶點，降雪後能感受更立體的雪面變化。放進二世谷旅程時，能和周邊雪場形成不同節奏；適合第一次日本滑雪時，把代表性雪景與滑行體驗放在一起。

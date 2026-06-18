@@ -131,4 +131,5 @@ sources:
     label: "Muica Snow Resort Weathernews"
     url: "https://weathernews.jp/ski/spot/35447/"
 ---
-Muica Snow Resort 位在南魚沼市，從六日町站轉乘接駁即可到達，雪道規模與難度分布都適合安排半天到一天滑行。
+
+Muica Snow Resort位於新潟縣，適合把滑雪練習和家庭停留結合，旅程節奏比大型山岳雪場輕鬆。比起匆忙踩點，更適合用半天到一天熟悉雪面、坡感與山景；適合同行者程度不同時，用比較不緊繃的方式共享雪地時間。

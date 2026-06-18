@@ -242,4 +242,5 @@ sources:
 - label: Dynaland Access
   url: https://www.dynaland.co.jp/access/
 ---
-Dynaland 是 Takasu Mountains 的夜滑與長時間營業核心，與高鷲 Snow Park 相鄰。早朝營業、夜滑、park、tree run 與多條長距離 course 讓它很適合排成一整天滑行，也能與高鷲 Snow Park 串成大範圍行程。
+
+Dynaland位於岐阜縣的高鷲 Mountains，適合喜歡長線巡航的人，主要滑行線可拉到約 3,200 公尺。放進高鷲旅程時，能和周邊雪場形成不同節奏；適合親子同行或想用輕鬆節奏累積滑行經驗的人。也適合把雪地遊玩、練習與休息時間安排得更從容。

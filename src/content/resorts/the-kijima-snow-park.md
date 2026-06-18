@@ -109,4 +109,5 @@ sources:
     label: "The Kijima Snow Park Weathernews"
     url: "https://weathernews.jp/ski/spot/44805/"
 ---
-The Kijima Snow Park位在長野縣，雪場共有 5 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+The Kijima Snow Park位於長野縣，不是追求壯觀規模，而是用安定坡面累積滑行手感與雪國記憶。比起匆忙踩點，更適合用半天到一天熟悉雪面、坡感與山景；適合想放慢節奏，用一天熟悉雪面、坡感與地方氣氛的人。

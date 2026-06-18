@@ -124,4 +124,5 @@ sources:
     label: "Shinshu Matsumoto Nomugitoge Ski Area Weathernews"
     url: "https://weathernews.jp/ski/spot/34830/"
 ---
-信州松本野麥峠位在長野縣，雪場共有 12 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+信州松本野麥峠位於長野縣，高處視野與冷冽雪感是主要魅力，晴天時山稜線特別有存在感。降雪後的雪面變化會讓每一趟滑行有不同表情；適合想用比較自由的節奏練習 carving、巡航或雪板控制的人。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。

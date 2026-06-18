@@ -130,4 +130,5 @@ sources:
     label: "Shirakaba Resort Ikenotaira Snow Park Weathernews"
     url: "https://weathernews.jp/ski/spot/34878/"
 ---
-白樺 Resort 池之平 Snow Park位在長野縣，雪場共有 3 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+白樺 Resort 池之平 Snow Park位於長野縣，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合親子同行或想用輕鬆節奏累積滑行經驗的人。

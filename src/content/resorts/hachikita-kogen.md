@@ -223,4 +223,5 @@ sources:
   - label: Hachikita Weathernews
     url: https://weathernews.jp/ski/spot/36301/
 ---
-HACHI 北高原位在兵庫縣香美町鉢伏山北側，與 HACHI 高原共用 HACHI・HACHI 北纜車券。雪場特色是山頂 Sky Road 長滑、北壁與 Alpen 等高難度路線、Nature Zone 自然地形，以及山麓初學者與親子設施。
+
+HACHI 北高原位於兵庫縣的鉢伏山周邊，樹冰與夜間燈景是鮮明記憶點，滑行之外也能把東北冬季景觀收進旅程。白天看山岳雪景，夜間看燈光下的冰雪輪廓，記憶點很明確；適合喜歡粉雪、林間變化與自然地形的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

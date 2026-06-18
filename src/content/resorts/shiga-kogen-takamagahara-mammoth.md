@@ -116,4 +116,5 @@ sources:
 - label: Shiga Kogen Access
   url: https://shigakogen-ski.or.jp/access/
 ---
-志賀高原高天原 Mammoth 是中央區域核心節點，路線可接往東館山、Tanne no Mori Okojo 與西館山，適合做區域移動與中央區域巡航。
+
+志賀高原高天原 Mammoth位於長野縣的志賀高原，地方型氛圍讓滑行節奏更單純，適合慢慢熟悉雪面與山景。若安排志賀高原多日滑雪，可把它當成轉換節奏的一站；適合不只追求打卡，而是想記住山景層次與停留氛圍的人。

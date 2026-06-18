@@ -402,4 +402,5 @@ sources:
   url: https://www.youtube.com/watch?v=PS5A2fQd8b4
   note: 影片說明欄提供 Yamabiko D、Yamabiko E、Kokenashi A、Uenotaira、Paradise、Rinkan 等雪道章節時間軸。
 ---
-野澤溫泉位於長野縣北部，是結合大型雪場與溫泉村住宿文化的日本代表性滑雪地。雪場從山頂 Yamabiko、上之平與 Paradise 一路延伸到日影、長坂、柄澤等山麓區域，適合想把滑雪、溫泉街與住宿行程安排在同一個村內的旅客。
+
+野澤溫泉位於長野縣的溫泉村，魅力是山上長距離滑行與山下湯街生活感並存。從山頂到山麓的滑行尺度可拉得很長，滑後再走進外湯、街巷與在地餐飲；村落本身也有濃厚雪國氣氛，適合想把粉雪、溫泉文化與傳統聚落一次體驗的人。

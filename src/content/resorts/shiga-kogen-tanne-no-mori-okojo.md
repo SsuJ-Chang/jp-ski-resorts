@@ -112,4 +112,5 @@ sources:
 - label: Shiga Kogen Access
   url: https://shigakogen-ski.or.jp/access/
 ---
-志賀高原 Tanne no Mori Okojo 是中央區域的緩坡樹林雪場，路線短但氣氛特殊，適合初學者、家庭與想在樹林間慢慢滑的人。
+
+志賀高原 Tanne no Mori Okojo位於長野縣的志賀高原，重點不在刺激挑戰，而是讓同行者用舒服節奏熟悉雪地活動。若安排志賀高原多日滑雪，可把它當成轉換節奏的一站；適合把基礎練習、雪地遊玩與休息時間安排得更從容。

@@ -133,4 +133,5 @@ sources:
     label: "Cupid Valley Weathernews"
     url: "https://weathernews.jp/ski/spot/35456/"
 ---
-Cupid Valley 位在上越市安塚區，雪道數與交通接駁都適合安排一日型滑雪行程。
+
+Cupid Valley位於新潟縣，夜滑讓白天之外多一層雪場表情，短天數旅程也能拉出不同節奏。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合親子同行或想用輕鬆節奏累積滑行經驗的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

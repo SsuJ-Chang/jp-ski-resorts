@@ -143,4 +143,5 @@ sources:
   - label: Winghills Shirotori Resort Lift Ticket
     url: https://winghills.net/snow/lift/
 ---
-Winghills 白鳥 Resort 位在岐阜縣郡上市白鳥町石徹白一帶，公開資料標示 11 條 course 與 4 條 lift，難度比例從初級到上級分布較平均。雪場旁有天然溫泉設施，若安排滑雪加泡湯行程，出發前仍建議確認冬季道路、營業時間與票券公告。
+
+Winghills 白鳥 Resort位於岐阜縣，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合親子同行或想用輕鬆節奏累積滑行經驗的人。

@@ -134,4 +134,5 @@ sources:
     label: "Shirakabako Royal Hill Weathernews"
     url: "https://weathernews.jp/ski/spot/34833/"
 ---
-白樺湖 Royal Hill位在長野縣，雪場共有 7 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
+
+白樺湖 Royal Hill位於長野縣，入夜後的燈光雪面很有氣氛，適合把練習和夜間滑行排在同一天。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合短天數旅程中，想把滑行時間拉長的人。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。
