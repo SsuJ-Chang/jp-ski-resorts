@@ -4,6 +4,8 @@
 
 # Japan Ski Resort Guide
 
+![日本滑雪場指南預覽圖](public/images/og-image.png)
+
 After falling in love with skiing, I decided to go skiing in Japan at least once every year. But every time I planned a trip, researching was a hassle: I kept jumping back and forth between the same websites and ended up making piles of notes.
 
 After doing this for years, I figured I might as well build a website myself. It is something I can use, share with others, and hopefully help everyone who loves skiing.
