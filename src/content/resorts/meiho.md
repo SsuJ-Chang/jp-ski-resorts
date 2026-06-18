@@ -59,37 +59,9 @@ snowWeather:
   title: めいほう雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35206/
-  snowDepth: 200 cm
+  snowDepth: 0 cm
   updatedAt: 2026/4/30 09:00:00
-  forecast:
-    - date: 12/27(週日)
-      weather: 晴
-      low: "-5°C"
-      high: "4°C"
-    - date: 12/28(週一)
-      weather: 雪
-      low: "-8°C"
-      high: "0°C"
-    - date: 12/29(週二)
-      weather: 雪
-      low: "-9°C"
-      high: "-2°C"
-    - date: 12/30(週三)
-      weather: 晴
-      low: "-5°C"
-      high: "0°C"
-    - date: 12/31(週四)
-      weather: 晴
-      low: "-3°C"
-      high: "3°C"
-    - date: 1/1(週五)
-      weather: 晴
-      low: "-4°C"
-      high: "1°C"
-    - date: 1/2(週六)
-      weather: 晴
-      low: "8°C"
-      high: "3°C"
+  forecast: []
   note: 靜態展示用雪況資料，出發前請以官方與天氣頁面最新公告為準。
 location:
   latitude: 35.941931

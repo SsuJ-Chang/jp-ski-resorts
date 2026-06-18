@@ -74,7 +74,7 @@ snowWeather:
   title: "月山雪況與纜車狀態"
   provider: "Mt.月山 Official"
   url: "https://mt-gassan.com/snow/"
-  snowDepth: "0 cm"
+  snowDepth: 0 cm
   updatedAt: "2026/6/19 03:00:00"
   forecast: []
   note: "此區塊僅保留官方雪況與纜車狀態頁連結；實際積雪、天氣、纜車與開放區域請以出發當日官方公告為準。"

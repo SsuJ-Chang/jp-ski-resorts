@@ -29,6 +29,25 @@ const hasExternalContent =
   (resort.data.externalContent?.blogs?.length ?? 0) > 0 ||
   (resort.data.externalContent?.vlogs?.length ?? 0) > 0
 
+const isDisplayableSnowDepth = (value?: string) => {
+  const normalizedValue = value?.trim()
+
+  if (!normalizedValue) {
+    return false
+  }
+
+  return (
+    !['-', 'N/A', 'n/a', '未提供', '待補', '待確認', 'to be filled'].includes(normalizedValue) &&
+    !/^0\s*(cm|公分)?$/i.test(normalizedValue)
+  )
+}
+
+const snowWeather = resort.data.snowWeather
+const snowWeatherForecast = snowWeather?.forecast ?? []
+const hasSnowDepth = isDisplayableSnowDepth(snowWeather?.snowDepth)
+const hasWeatherForecast = snowWeatherForecast.length > 0
+const shouldShowSnowWeather = Boolean(snowWeather && (hasSnowDepth || hasWeatherForecast))
+
 const courseDifficultyRatios = [
   {
     key: 'beginner',
@@ -472,38 +491,40 @@ const resortStructuredData = [
         )
       }
 
-      <section class="info-panel detail-panel detail-panel--wide snow-weather-panel">
-        <h2>雪況天氣</h2>
-        {
-          resort.data.snowWeather ? (
+      {
+        snowWeather && shouldShowSnowWeather && (
+          <section class="info-panel detail-panel detail-panel--wide snow-weather-panel">
+            <h2>雪況天氣</h2>
             <>
-              <div class="weather-summary">
-                <div>
-                  <span>積雪量</span>
-                  <strong>{resort.data.snowWeather.snowDepth ?? '未提供'}</strong>
+              {hasSnowDepth && (
+                <div class="weather-summary">
+                  <div>
+                    <span>積雪量</span>
+                    <strong>{snowWeather.snowDepth}</strong>
+                  </div>
                 </div>
-              </div>
-              {resort.data.snowWeather.forecast && resort.data.snowWeather.forecast.length > 0 && (
+              )}
+              {hasWeatherForecast && (
                 <div class="weather-table-wrap" aria-label={`${resort.data.name.zhTw} 一週天氣`}>
                   <table class="weather-table">
                     <tbody>
                       <tr>
-                        {resort.data.snowWeather.forecast.map((day) => (
+                        {snowWeatherForecast.map((day) => (
                           <th scope="col">{day.date}</th>
                         ))}
                       </tr>
                       <tr>
-                        {resort.data.snowWeather.forecast.map((day) => (
+                        {snowWeatherForecast.map((day) => (
                           <td>{day.weather}</td>
                         ))}
                       </tr>
                       <tr>
-                        {resort.data.snowWeather.forecast.map((day) => (
+                        {snowWeatherForecast.map((day) => (
                           <td>{day.high}</td>
                         ))}
                       </tr>
                       <tr>
-                        {resort.data.snowWeather.forecast.map((day) => (
+                        {snowWeatherForecast.map((day) => (
                           <td>{day.low}</td>
                         ))}
                       </tr>
@@ -511,21 +532,19 @@ const resortStructuredData = [
                   </table>
                 </div>
               )}
-              {resort.data.snowWeather.updatedAt && (
-                <p class="weather-updated">更新時間：{resort.data.snowWeather.updatedAt}</p>
+              {snowWeather.updatedAt && (
+                <p class="weather-updated">更新時間：{snowWeather.updatedAt}</p>
               )}
               <p class="resource-provider">
                 資料來源：
-                <a href={resort.data.snowWeather.url} target="_blank" rel="noreferrer">
-                  {resort.data.snowWeather.provider ?? resort.data.snowWeather.title}
+                <a href={snowWeather.url} target="_blank" rel="noreferrer">
+                  {snowWeather.provider ?? snowWeather.title}
                 </a>
               </p>
             </>
-          ) : (
-            <p class="panel-note">這座雪場尚未提供雪況天氣資料；出發前請以官方公告或可信的天氣資訊為準。</p>
-          )
-        }
-      </section>
+          </section>
+        )
+      }
 
       {
         hasExternalContent && (

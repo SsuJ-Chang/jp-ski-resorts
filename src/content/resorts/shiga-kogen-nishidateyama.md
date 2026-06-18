@@ -41,37 +41,9 @@ snowWeather:
   title: 志賀高原西館山雪況天氣
   provider: Official
   url: https://www.shigakogen.gr.jp/english/lift_information/
-  snowDepth: 200 cm
+  snowDepth: 0 cm
   updatedAt: 2026/4/30 09:00:00
-  forecast:
-    - date: 12/27(六)
-      weather: 雪
-      low: "-5°C"
-      high: "4°C"
-    - date: 12/28(週日)
-      weather: 大雪
-      low: "-8°C"
-      high: "0°C"
-    - date: 12/29(一)
-      weather: 大雪
-      low: "-9°C"
-      high: "-2°C"
-    - date: 12/30(二)
-      weather: 陰
-      low: "-5°C"
-      high: "0°C"
-    - date: 12/31(三)
-      weather: 雪
-      low: "-3°C"
-      high: "3°C"
-    - date: 1/1(四)
-      weather: 晴
-      low: "-4°C"
-      high: "1°C"
-    - date: 1/2(五)
-      weather: 雨
-      low: "8°C"
-      high: "3°C"
+  forecast: []
   note: 官方即時狀態頁提供各區天氣、積雪、纜車與雪道開放狀態；此資料不作為即時同步。
 location:
   latitude: 36.7248
