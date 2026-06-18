@@ -74,7 +74,17 @@ const socialImageAlt = '日本滑雪場指南'
   </head>
   <body class={bodyClass}>
     <header class="site-header">
-      <a class="site-header__brand" href={withBasePath('/')}>日本滑雪場指南</a>
+      <a class="site-header__brand" href={withBasePath('/')}>
+        <img
+          class="site-header__brand-icon"
+          src={withBasePath('/favicon-32x32.png')}
+          alt=""
+          width="32"
+          height="32"
+          aria-hidden="true"
+        />
+        <span>日本滑雪場指南</span>
+      </a>
       <div class="site-header__actions">
         <nav class="site-header__nav" aria-label="Primary navigation">
           <a href={withBasePath('/')}>首頁</a>

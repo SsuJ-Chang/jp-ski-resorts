@@ -52,8 +52,19 @@ a:visited {
 }
 
 .site-header__brand {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  min-width: 0;
   font-weight: 900;
   text-decoration: none;
+}
+
+.site-header__brand-icon {
+  width: 28px;
+  height: 28px;
+  flex: 0 0 auto;
+  border-radius: 8px;
 }
 
 .site-header__nav {
