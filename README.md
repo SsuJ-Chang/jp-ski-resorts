@@ -1,89 +1,69 @@
-# JP Ski Resorts
+<p align="right">
+  <strong>繁體中文</strong> | <a href="./README.en.md">English</a>
+</p>
 
-Static-first Traditional Chinese guide and database for Japanese ski resorts.
+# 日本滑雪場指南
 
-This project helps Taiwanese skiers discover Japanese ski resorts by region, access style, resort traits, and official information links. The first version is designed to be hosted for free on GitHub Pages.
+![日本滑雪場指南預覽圖](public/images/og-image.png)
 
-## Project Scope
+自從愛上滑雪後，下定決心每年都要至少到日本滑一趟，但每次安排旅程找資料都很煩惱，常常重複的網站一直來回跳，做了一大堆筆記。
+就這樣好多年覺得乾脆自己做一個網站，除了自己也用得到也能分享出去，希望能幫助到每個愛滑雪的人！
+日本滑雪場指南是一個日本滑雪場資料庫。主要以繁體中文整理日本各地滑雪場、雪場區域、縣別特色、雪道資訊與官方資料入口。
 
-This site should behave like:
+## 🏂 可以怎麼用
 
-- A Japanese ski resort database
-- A ski travel planning guide
-- An official information link hub
-- A region, tag, and access-based discovery tool
+- 想找下一趟滑雪旅行的候選雪場。
+- 想比較同一區域有哪些雪場可以安排在同一趟。
+- 想快速看雪場特色、適合族群、雪道感覺與官方資訊。
+- 想用縣別、地區、標籤或關鍵字縮小範圍。
+- 想找雪道影片，先看看實際滑起來的感覺。
 
-This site should not behave like:
+## 🗺️ 頁面內容
 
-- A real-time snow condition service
-- A lift operation tracker
-- A weather service
-- A booking platform
-- A social platform or user review site
-- A backend application
+| 頁面 | 內容 |
+| --- | --- |
+| 首頁 | 以日本滑雪地區為入口，提供列表與地圖式瀏覽，快速認識各地雪場分布。 |
+| 滑雪場列表 | 集中列出已整理的雪場，可用關鍵字、縣別與標籤篩選。 |
+| 滑雪場詳細頁 | 整理雪場特色、基本資訊、營業時段、票券、交通方式、雪道概況與其他參考內容。 |
+| 雪道資訊頁 | 依難度整理雪道，包含長度、坡度、備註與可參考的實滑影片。 |
+| 地區頁 | 依北海道、東北、關東甲信越等大地區整理雪場，適合先抓旅行方向。 |
+| 縣別總覽 | 依都道府縣建立入口，快速找到每個縣收錄的雪場。 |
+| 縣別頁 | 補充各縣滑雪特色與同縣雪場清單，適合做區域比較。 |
+| 雪場區域總覽 | 整理像湯澤、白馬、妙高這類滑雪旅行常用區域。 |
+| 雪場區域頁 | 說明區域特色、交通樞紐感、周邊雪場關係與代表雪場。 |
 
-## MVP Direction
+## ✨ 主要功能
 
-The MVP focuses on:
+- 關鍵字搜尋：用中文、英文或雪場名稱片段快速找資料。
+- 篩選工具：依縣別與標籤縮小清單，適合從需求反推雪場。
+- 地區瀏覽：從日本大區域切入，先看哪一帶比較符合行程。
+- 縣別瀏覽：以都道府縣整理雪場與滑雪特色。
+- 雪場區域瀏覽：用實際排行程時常用的滑雪區域來比較。
+- 雪道影片整理：把可對應雪道的影片放在雪道資料裡，方便先看路線感。
 
-- Static resort data
-- Region-based discovery
-- Official information links
-- Structured access summaries
-- Trail map and PDF links to official sources
-- Resort detail pages
-- Simple, maintainable UI
-- GitHub Pages deployment
+## ❄️ 關於雪況與天氣
 
-The MVP avoids:
+目前網站先以穩定的雪場資料、區域介紹與雪道整理為主。等到未來雪季開始後，會再把雪況與天氣資訊加入，讓出發前的確認更方便。
 
-- Backend servers
-- Databases
-- Authentication
-- Paid cloud services
-- Runtime API dependencies
-- Scrapers
-- Real-time snow, lift, ticket, or transit sync
-- Embedded map services
-- Redistributed official trail map files
+## 📚 資料來源
 
-## Documentation
+本專案以官方與公開資料為主要參考來源，並整理成適合台灣滑雪者閱讀的版本。
 
-- [PROJECT.md](PROJECT.md)
-- [ROADMAP.md](ROADMAP.md)
-- [DATA_SCHEMA.md](DATA_SCHEMA.md)
-- [CONTENT_GUIDE.md](CONTENT_GUIDE.md)
-- [AGENTS.md](AGENTS.md)
-- [.ai/PROJECT_RULES.md](.ai/PROJECT_RULES.md)
-- [.ai/WORKFLOW.md](.ai/WORKFLOW.md)
+- [日本觀光局 Travel Japan](https://www.japan.travel/tw/)
+- [Weathernews Ski & Snow](https://weathernews.jp/s/ski/)
+- 各滑雪場官方網站、官方雪道圖、票價頁、營業資訊頁與交通資訊頁。
+- 公開的滑雪影片與旅遊文章，作為雪道感、區域特色與行程安排的輔助參考。
 
-## Local Development
+## 🙌 特別感謝
 
-```bash
-npm install
-npm run dev
-```
+- [大林滑雪男子](https://www.youtube.com/@drlinsnow)
+- [娜塔蝦的滑雪食旅手記](https://natasha-traveler.tw/)
+- [Real Japan Nature](https://www.youtube.com/@realjapannature)
 
-Useful scripts:
+## 🔒 專案所有權與授權
 
-- `npm run dev`: start the local Astro dev server.
-- `npm run build`: run `astro check` and build the static site.
-- `npm run preview`: preview the production build locally.
+本專案不採用 MIT 或其他開源授權。
 
-## Analytics
+本專案公開於 GitHub，僅供作品展示與參考。未經作者明確授權，不得複製、修改、散布、再授權、商業使用，或將本專案內容宣稱為自己的作品。
 
-Production builds load Google Analytics 4 for pageview analytics.
-
-Set `PUBLIC_GA_MEASUREMENT_ID` only when replacing the GA4 stream.
-
-## Deployment
-
-The site is configured for GitHub Pages at:
-
-```txt
-https://jp-resorts.rj-tw.com/
-```
-
-The GitHub Actions workflow in `.github/workflows/deploy.yml` builds and deploys the site when changes are pushed to `main`.
-
-The custom domain is stored in `public/CNAME` so GitHub Pages keeps the domain after each deployment.
+詳細條款請見 [LICENSE](LICENSE)。
