@@ -118,6 +118,8 @@ courses:
   - name: フレンドリーゲレンデ / Friendly
     difficulty: beginner
     note: 官方說明為適合第一次滑雪的寬廣緩坡，可用初學者限定纜車券搭乘。
+    videoLinks:
+      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=154s
   - name: ピーク４ / Peak4
     difficulty: beginner
     note: 官方說明路線寬且坡度較緩，可用大彎滑行。
@@ -147,18 +149,28 @@ courses:
   - name: デビル1 / Devil1
     difficulty: intermediate
     note: 官方說明為寬廣舒適的中斜面，春季早朝營業時也有良好雪面。
+    videoLinks:
+      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=613s
   - name: デビル3 / Devil3
     difficulty: intermediate
     note: 官方說明為常設公園路線，公園外也有地形變化。
+    videoLinks:
+      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=437s
   - name: フォレスト1 / Forest1
     difficulty: intermediate
     note: 官方說明為前往 Deep 區域的路線，中段有中斜面，其餘較平緩。
+    videoLinks:
+      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=73s
   - name: フォレスト3 / Forest3
     difficulty: intermediate
     note: 官方說明為森林中的澤地形路線，起點短中斜面後較容易滑行。
+    videoLinks:
+      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=254s
   - name: エキサイト2 / Excite2
     difficulty: intermediate
     note: 官方說明起點稍陡，通過後接續中斜面，原則預定為壓雪雪道。
+    videoLinks:
+      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=939s
   - name: ディープ2 / Deep2
     difficulty: intermediate
     note: 官方說明為沿尾根滑行、斜面變化明顯的路線，起點較陡需注意。
@@ -212,6 +224,8 @@ courses:
   - name: エキサイト1 / Excite1
     difficulty: advanced
     note: 官方說明為一枚急斜面，通稱貓魔バーン，壓雪與粉雪時都有速度感。
+    videoLinks:
+      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=766s
   - name: ディープ1 / Deep1
     difficulty: advanced
     note: 官方說明為容易蓄積粉雪的路線，旺季會視積雪預報暫停纜車、蓄雪後再開放。
@@ -299,5 +313,8 @@ sources:
 - label: NEKOMA Mountain South Area Course Video 2024
   url: https://www.youtube.com/watch?v=d5Uc9bj0M94
   note: 影片說明欄提供南區 Zunai、White Valley、Panorama Line、Peak、Frozen、Black Valley 等雪道章節時間軸。
+- label: NEKOMA Mountain North Area Course Video 2024
+  url: https://www.youtube.com/watch?v=flgiqIJr-fc
+  note: 影片說明欄提供北區 Forest1、Friendly、Forest3、Devil3、Devil1、Excite1、Excite2 等雪道章節時間軸。
 ---
 Necoma Mountain 是由舊 Alts 磐梯與舊貓魔滑雪場以連結纜車整合而成的大型雪場，橫跨磐梯山南北兩側。南區有豬苗代湖景觀、夜滑與長距離路線，北區則以粉雪、樹林與春季營業聞名。

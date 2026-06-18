@@ -90,26 +90,38 @@ courses:
   details:
   - name: Forest Course
     difficulty: beginner
+    videoLinks:
+      - https://www.youtube.com/watch?v=BPh3Q7uPx5g&t=1354s
     length: 1,500m
     note: 官方雪道資料列為初級路線，全長 1,500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.1 Beginner Course
     difficulty: beginner
+    videoLinks:
+      - https://www.youtube.com/watch?v=BPh3Q7uPx5g&t=1261s
     length: 800m
     note: 官方雪道資料列為初級路線，全長 800m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.4 Beginner Course
     difficulty: beginner
+    videoLinks:
+      - https://www.youtube.com/watch?v=BPh3Q7uPx5g&t=81s
     length: 400m
     note: 官方雪道資料列為初級路線，全長 400m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.2 Expert Course
     difficulty: advanced
+    videoLinks:
+      - https://www.youtube.com/watch?v=BPh3Q7uPx5g&t=1160s
     length: 700m
     note: 官方雪道資料列為上級路線，全長 700m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.3 Expert Course
     difficulty: advanced
+    videoLinks:
+      - https://www.youtube.com/watch?v=BPh3Q7uPx5g&t=1088s
     length: 600m
     note: 官方雪道資料列為上級路線，全長 600m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.6 Expert Course
     difficulty: advanced
+    videoLinks:
+      - https://www.youtube.com/watch?v=BPh3Q7uPx5g&t=598s
     length: 700m
     note: 官方雪道資料列為上級路線，全長 700m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: Downhill Course - High Line
@@ -150,5 +162,8 @@ sources:
   url: https://okushigakogenresort.com/
 - label: Shiga Kogen Access
   url: https://shigakogen-ski.or.jp/access/
+- label: Okushiga Kogen Course Video 2022
+  url: https://www.youtube.com/watch?v=BPh3Q7uPx5g
+  note: 影片說明欄提供第 4、第 6、第 3、第 2、第 1 與林間雪道章節時間軸。
 ---
 奧志賀高原在志賀高原東北端，位置較深，常被安排成與燒額山一起滑的區域。官方雪道分類以初級線與進階線為主，行程規劃時要留意回程纜車與巴士時間。

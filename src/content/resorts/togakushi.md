@@ -103,7 +103,161 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
-  summary: "共 19 條雪道、7 座纜車，初級 30%、中級 40%、高級 30%。"
+  courseInfoPage: "https://www.togakusi.com/ski/course/"
+  summary: "共 19 條雪道、7 座纜車，初級 30%、中級 40%、高級 30%。另有岩戶等用途限定區域，實際開放以現場公告為準。"
+  details:
+  - name: "お仙水コース / Osensui Course"
+    difficulty: beginner
+    length: "1,500m"
+    maxSlope: "17度"
+    averageSlope: "9度"
+    note: "初級標示的 1,500m 雪道，坡度以最大 17 度、平均 9 度為基準。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=rQ_Ajmh0Fic&t=267s
+      - https://www.youtube.com/watch?v=S_CBn7epJGk&t=356s
+      - https://www.youtube.com/watch?v=S_CBn7epJGk&t=700s
+  - name: "ドリームコース / Dream Course"
+    difficulty: beginner
+    length: "900m"
+    maxSlope: "15度"
+    averageSlope: "10度"
+    note: "初級標示的 900m 雪道，坡度以最大 15 度、平均 10 度為基準。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=rQ_Ajmh0Fic&t=450s
+      - https://www.youtube.com/watch?v=S_CBn7epJGk&t=92s
+      - https://www.youtube.com/watch?v=S_CBn7epJGk&t=841s
+  - name: "とがっきーC / Togakki C"
+    difficulty: beginner
+    length: "800m"
+    maxSlope: "8度"
+    averageSlope: "6度"
+    note: "初心者標示的 800m 雪道，坡度以最大 8 度、平均 6 度為基準。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=rQ_Ajmh0Fic&t=1022s
+      - https://www.youtube.com/watch?v=S_CBn7epJGk&t=913s
+  - name: "林間コース"
+    difficulty: beginner
+    length: "800m"
+    maxSlope: "10度"
+    averageSlope: "8度"
+    note: "初級標示的 800m 林間雪道，坡度以最大 10 度、平均 8 度為基準。"
+  - name: "メノウコース / Menou Course"
+    difficulty: intermediate
+    length: "1,500m"
+    maxSlope: "18度"
+    averageSlope: "10度"
+    note: "中級標示的 1,500m 雪道，坡度以最大 18 度、平均 10 度為基準。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=rQ_Ajmh0Fic&t=110s
+      - https://www.youtube.com/watch?v=S_CBn7epJGk&t=577s
+  - name: "しゃくなげコース / Shakunage Course"
+    difficulty: intermediate
+    length: "700m"
+    maxSlope: "26度"
+    averageSlope: "19度"
+    note: "中級標示的 700m 雪道，坡度以最大 26 度、平均 19 度為基準。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=rQ_Ajmh0Fic&t=520s
+  - name: "とがっきーA / Togakki A"
+    difficulty: intermediate
+    length: "1,500m"
+    maxSlope: "26度"
+    averageSlope: "15度"
+    note: "中級標示的 1,500m 雪道，坡度以最大 26 度、平均 15 度為基準。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=rQ_Ajmh0Fic&t=688s
+  - name: "とがっきーB / Togakki B"
+    difficulty: intermediate
+    length: "950m"
+    maxSlope: "28度"
+    averageSlope: "15度"
+    note: "中級標示的 950m 雪道，坡度以最大 28 度、平均 15 度為基準。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=rQ_Ajmh0Fic&t=891s
+  - name: "高妻コース / Takatuma Course"
+    difficulty: intermediate
+    length: "600m"
+    maxSlope: "27度"
+    averageSlope: "18度"
+    note: "中級標示的 600m 雪道，坡度以最大 27 度、平均 18 度為基準。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=S_CBn7epJGk&t=1013s
+  - name: "しらかばコース / White Line"
+    difficulty: intermediate
+    length: "900m"
+    maxSlope: "26度"
+    averageSlope: "17度"
+    note: "中級標示的 900m 雪道，坡度以最大 26 度、平均 17 度為基準。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=rQ_Ajmh0Fic&t=1320s
+      - https://www.youtube.com/watch?v=S_CBn7epJGk&t=1126s
+  - name: "パノラマコース"
+    difficulty: intermediate
+    length: "340m"
+    maxSlope: "18度"
+    averageSlope: "15度"
+    note: "中級標示的 340m 雪道，坡度以最大 18 度、平均 15 度為基準。"
+  - name: "スイートコース"
+    difficulty: intermediate
+    length: "1,500m"
+    maxSlope: "10度"
+    averageSlope: "5度"
+    note: "中級標示的 1,500m 雪道，坡度以最大 10 度、平均 5 度為基準。"
+  - name: "アドベンチャーコース / Adventure Course"
+    difficulty: advanced
+    length: "650m"
+    maxSlope: "24度"
+    averageSlope: "22度"
+    note: "上級標示的 650m 雪道，坡度以最大 24 度、平均 22 度為基準。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=S_CBn7epJGk&t=1249s
+  - name: "チャレンジコース"
+    difficulty: advanced
+    length: "400m"
+    maxSlope: "26度"
+    averageSlope: "22度"
+    note: "上級標示的 400m 雪道，坡度以最大 26 度、平均 22 度為基準。"
+  - name: "チャンピオンコース"
+    difficulty: advanced
+    length: "400m"
+    maxSlope: "31度"
+    averageSlope: "28度"
+    note: "上級標示的 400m 雪道，坡度以最大 31 度、平均 28 度為基準。"
+  - name: "シルバーコース / Silver Course"
+    difficulty: advanced
+    length: "600m"
+    maxSlope: "28度"
+    averageSlope: "26度"
+    note: "上級標示的 600m 雪道，坡度以最大 28 度、平均 26 度為基準。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=rQ_Ajmh0Fic&t=1524s
+      - https://www.youtube.com/watch?v=S_CBn7epJGk&t=1463s
+  - name: "パラダイスコース"
+    difficulty: advanced
+    length: "900m"
+    maxSlope: "22度"
+    averageSlope: "20度"
+    note: "上級標示的 900m 雪道，坡度以最大 22 度、平均 20 度為基準。"
+  - name: "フレッシュコース"
+    difficulty: advanced
+    length: "1,100m"
+    maxSlope: "29度"
+    averageSlope: "23度"
+    note: "上級標示的 1,100m 雪道，坡度以最大 29 度、平均 23 度為基準。"
+  - name: "グランドコース"
+    difficulty: advanced
+    length: "950m"
+    maxSlope: "28度"
+    averageSlope: "25度"
+    note: "上級標示的 950m 雪道，坡度以最大 28 度、平均 25 度為基準。"
+  - name: "岩戸コース（ポール専用） / Iwato Course"
+    difficulty: mixed
+    length: "800m"
+    maxSlope: "26度"
+    averageSlope: "18度"
+    note: "官方營運資訊中列為 pole 專用區域；與一般 19 條雪道分開看待，開放與使用條件需以現場公告為準。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=rQ_Ajmh0Fic&t=1110s
 lifts:
   total: 7
 access:
@@ -132,5 +286,16 @@ sources:
   -
     label: "Togakushi Ski Area Weathernews"
     url: "https://weathernews.jp/ski/spot/34806/"
+  -
+    label: "Togakushi Ski Area Course Guide"
+    url: "https://www.togakusi.com/ski/course/"
+  -
+    label: "Togakushi Course Video 2025"
+    url: "https://www.youtube.com/watch?v=rQ_Ajmh0Fic"
+    note: "?????????????????????????????????????????????????????"
+  -
+    label: "Togakushi Course Video 2024"
+    url: "https://www.youtube.com/watch?v=S_CBn7epJGk"
+    note: "?????????????????????????C??????????????????????????????"
 ---
 戶隱位在長野縣，雪場共有 19 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。

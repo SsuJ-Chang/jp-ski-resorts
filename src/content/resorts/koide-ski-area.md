@@ -99,10 +99,40 @@ elevation:
   bottom: 130
 courses:
   total: 6
-  summary: "共 6 條雪道、3 座纜車，初級 40%、中級 40%、高級 20%。"
+  summary: "共 6 個滑行區域，初級 40%、中級 40%、高級 20%。其中センター前広場偏向雪上遊樂與入門練習，其餘雪道可依程度逐步銜接。"
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20
+  courseInfoPage: "https://www.sp-koide.org/ski"
+  details:
+  - name: "センター前広場 / Center Front Plaza"
+    difficulty: beginner
+    note: "滑雪中心前方的入門與雪上遊樂空間，官方說明以超初心者與親子雪橇、雪圈活動為主。"
+  - name: "たぬきコース / Tanuki Course"
+    difficulty: beginner
+    note: "初級至中級取向雪道，可從第 1 pair lift 上方往中心前廣場方向滑回。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=ZiuJj1oysNI&t=297s
+  - name: "りすさんコース / Squirrel Course"
+    difficulty: beginner
+    note: "初級至中級取向雪道，從第 2 pair lift 山頂往右側滑行。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=ZiuJj1oysNI&t=155s
+  - name: "きつねコース / Fox Course"
+    difficulty: intermediate
+    note: "中級取向雪道，從第 2 pair lift 山頂往左側滑行。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=ZiuJj1oysNI&t=370s
+  - name: "のうさぎコース / Rabbit Course"
+    difficulty: intermediate
+    note: "中級至上級取向雪道，從第 3 pair lift 山頂可往りすさんコース方向銜接。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=ZiuJj1oysNI&t=36s
+  - name: "かもしかコース / Antelope Course"
+    difficulty: advanced
+    note: "上級取向雪道，從第 3 pair lift 山頂往左側滑行。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=ZiuJj1oysNI&t=225s
 lifts:
   total: 3
 access:
@@ -131,5 +161,12 @@ sources:
   -
     label: "Koide Ski Area Weathernews"
     url: "https://weathernews.jp/ski/spot/35417/"
+  -
+    label: "Koide Ski Area Course Guide"
+    url: "https://www.sp-koide.org/ski"
+  -
+    label: "Koide Ski Area Course Video 2025"
+    url: "https://www.youtube.com/watch?v=ZiuJj1oysNI"
+    note: "??????????????????????????????????????"
 ---
 小出是魚沼市區旁的在地型雪場，從車站步行即可到達，適合短時間練習或安排輕量滑雪行程。

@@ -94,6 +94,7 @@ courses:
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
       videoLinks:
         - https://www.youtube.com/watch?v=860eRhy28oA&t=1273s
+        - https://www.youtube.com/watch?v=kyDWzaVnbRc&t=921s
     - name: "上の台ゲレンデ（名稱待確認）"
       difficulty: beginner
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
@@ -113,17 +114,24 @@ courses:
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
       videoLinks:
         - https://www.youtube.com/watch?v=860eRhy28oA&t=1023s
+        - https://www.youtube.com/watch?v=kyDWzaVnbRc&t=721s
+        - https://www.youtube.com/watch?v=kyDWzaVnbRc&t=1035s
     - name: "樹氷原コース（名稱待確認）"
       difficulty: intermediate
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
       videoLinks:
         - https://www.youtube.com/watch?v=860eRhy28oA&t=923s
+        - https://www.youtube.com/watch?v=kyDWzaVnbRc&t=623s
     - name: "大森ゲレンデ（名稱待確認）"
       difficulty: advanced
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+      videoLinks:
+        - https://www.youtube.com/watch?v=kyDWzaVnbRc&t=1180s
     - name: "黒姫ゲレンデ（名稱待確認）"
       difficulty: advanced
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+      videoLinks:
+        - https://www.youtube.com/watch?v=kyDWzaVnbRc&t=1578s
     - name: "横倉の壁（名稱待確認）"
       difficulty: advanced
       note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
@@ -286,5 +294,8 @@ sources:
   - label: Zao Onsen Top to Bottom Course Video
     url: https://www.youtube.com/watch?v=860eRhy28oA
     note: 影片說明欄提供パラダイス、上の台、樹氷原、ユートピア、横倉等雪道章節時間軸。
+  - label: Zao Onsen All Slopes Part 2 Course Video
+    url: https://www.youtube.com/watch?v=kyDWzaVnbRc
+    note: 影片說明欄提供横倉、ユートピア、樹氷原、大森、黒姫等雪道章節時間軸。
 ---
 藏王溫泉位於山形縣山形市藏王溫泉，東北人氣雪場清單列為第 1 名；共有 26 條雪道與 32 座纜車，雪板可全區滑行。

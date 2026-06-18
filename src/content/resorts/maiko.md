@@ -126,6 +126,7 @@ courses:
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=879s
+        - https://www.youtube.com/watch?v=nC4945tXMBE&t=448s
       length: 760m
       maxSlope: 15°
       averageSlope: 10°
@@ -145,6 +146,7 @@ courses:
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=95s
+        - https://www.youtube.com/watch?v=nC4945tXMBE&t=273s
       length: 1,430m
       maxSlope: 9°
       averageSlope: 7°
@@ -152,6 +154,7 @@ courses:
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=983s
+        - https://www.youtube.com/watch?v=nC4945tXMBE&t=518s
       length: 480m
       maxSlope: 7°
       averageSlope: 6°
@@ -159,15 +162,19 @@ courses:
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=798s
+        - https://www.youtube.com/watch?v=nC4945tXMBE&t=296s
       length: 830m
       maxSlope: 8°
       averageSlope: 7°
     - name: M25 森のステージ
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=nC4945tXMBE&t=212s
     - name: M26 メロディーライン
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=939s
+        - https://www.youtube.com/watch?v=nC4945tXMBE&t=480s
     - name: N3 長峰ランランコース
       difficulty: beginner
       videoLinks:
@@ -207,6 +214,7 @@ courses:
       difficulty: intermediate
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=172s
+        - https://www.youtube.com/watch?v=nC4945tXMBE&t=605s
       length: 1,370m
       maxSlope: 29°
       averageSlope: 11°
@@ -214,6 +222,7 @@ courses:
       difficulty: intermediate
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=1173s
+        - https://www.youtube.com/watch?v=nC4945tXMBE&t=131s
       length: 500m
       maxSlope: 18°
       averageSlope: 14°
@@ -221,6 +230,7 @@ courses:
       difficulty: intermediate
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=597s
+        - https://www.youtube.com/watch?v=nC4945tXMBE&t=366s
       length: 180m
       maxSlope: 27°
       averageSlope: 22°
@@ -317,5 +327,8 @@ sources:
 - label: Maiko Okusoechi Nagamine Course Video 2026
   url: https://www.youtube.com/watch?v=rjL8o3aKQII
   note: 影片說明欄提供奧添地與長峰區域ランラン、ルンルン、スイスイ、グイグイ、グングン、サンサン、ラクラク、ゾクゾク、ギンギン、ガンガン、ビュンビュン、チョイチョイ等雪道章節時間軸。
+- label: Maiko Area Course Video 2023
+  url: https://www.youtube.com/watch?v=nC4945tXMBE
+  note: 影片說明欄提供舞子區域ブロンズ、森のステージ、バンビ、ロマンス、ゴールド、パラダイス、メロディーライン、ファミリー、ドルフィン等雪道章節時間軸。
 ---
 舞子 Snow Resort 由舞子、長峰、奧添地等區域構成，適合家庭、巡航與粉雪取向滑行。

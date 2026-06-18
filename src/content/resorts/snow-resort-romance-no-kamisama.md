@@ -103,7 +103,81 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 50
   advancedRatio: 10
-  summary: "共 10 條雪道、6 座纜車，初級 40%、中級 50%、高級 10%。"
+  courseInfoPage: "https://kijimadaira-ski.com/gelande/"
+  summary: "共 10 條主要雪道、6 座纜車，初級 40%、中級 50%、高級 10%。另有エーアイコース等 park / freerun 區域，實際開放以現場公告為準。"
+  details:
+  - name: "パーフェクトコース / Perfect Course"
+    difficulty: beginner
+    length: "750m"
+    maxSlope: "17度"
+    note: "初級與家庭取向雪道，坡度約 6-17 度；也常作為初學者課程使用。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=Fytf7-_Pepk&t=597s
+  - name: "ロマンスコース / Romance Course"
+    difficulty: beginner
+    length: "650m"
+    maxSlope: "13度"
+    note: "靠近滑雪中心、學校與餐飲設施，坡度約 6-13 度，適合作為入門練習雪道。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=Fytf7-_Pepk&t=151s
+  - name: "ファミリーコース / Family Course"
+    difficulty: beginner
+    length: "800m"
+    maxSlope: "12度"
+    note: "整體坡度較緩，坡度約 7-12 度；同區域也設有長距離雪橇路線。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=Fytf7-_Pepk&t=426s
+  - name: "パッションコース / Passion Course"
+    difficulty: intermediate
+    length: "1,200m"
+    maxSlope: "20度"
+    note: "利用天然地形與澤壁形成半管感路線，降雪時非壓雪區域較多。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=Fytf7-_Pepk&t=217s
+      - https://www.youtube.com/watch?v=Fytf7-_Pepk&t=790s
+  - name: "スカイコース / Sky Course"
+    difficulty: intermediate
+    length: "1,200m"
+    maxSlope: "20度"
+    note: "主要寬闊雪道之一，坡度約 8-20 度，官方強調最大幅可達 250m。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=Fytf7-_Pepk&t=335s
+  - name: "シルクコース / Silk Course"
+    difficulty: intermediate
+    length: "600m"
+    maxSlope: "30度"
+    note: "中高級取向的非壓雪雪道，坡度約 18-30 度，降雪後以柔軟粉雪感為特色。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=Fytf7-_Pepk&t=501s
+  - name: "アモーレコース / Amore Course"
+    difficulty: intermediate
+    length: "540m"
+    maxSlope: "26度"
+    note: "中級取向雪道，坡度約 8-26 度；官方說明包含 carving、自然地形與雪道邊非壓雪變化。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=Fytf7-_Pepk&t=78s
+  - name: "ヤマビココース / Yamabiko Course"
+    difficulty: intermediate
+    length: "600m"
+    maxSlope: "23度"
+    note: "初中級取向的林間雪道，坡度約 15-23 度，需從スカイコース步行移動進入。"
+  - name: "パイオニアコース / Pioneer Course"
+    difficulty: advanced
+    length: "870m"
+    maxSlope: "46度"
+    averageSlope: "35度"
+    note: "上級者取向的山頂急斜面，最大 46 度；屬需特別注意安全與開放條件的區域。"
+  - name: "ウッドランコース / Wood Run Course"
+    difficulty: advanced
+    length: "1,300m"
+    maxSlope: "46度"
+    averageSlope: "20度"
+    note: "上級者取向的山頂林間路線，最大 46 度；官方說明強調山頂景觀與 powder 變化。"
+  - name: "エーアイコース / AI Course"
+    difficulty: mixed
+    note: "Snow park / freerun 區域，設有 beginner、middle、expert 三條 line；項目內容會依積雪狀況調整。"
+    videoLinks:
+      - https://www.youtube.com/watch?v=Fytf7-_Pepk&t=699s
 lifts:
   total: 6
 access:
@@ -132,5 +206,15 @@ sources:
   -
     label: "Snow Resort Romance no Kamisama Weathernews"
     url: "https://weathernews.jp/ski/spot/34858/"
+  -
+    label: "Snow Resort Romance no Kamisama AI Course"
+    url: "https://kijimadaira-ski.com/ai-course/"
+  -
+    label: "Snow Resort Romance no Kamisama Course Guide"
+    url: "https://kijimadaira-ski.com/gelande/"
+  -
+    label: "Snow Resort Romance no Kamisama Course Video 2025"
+    url: "https://www.youtube.com/watch?v=Fytf7-_Pepk"
+    note: "????????????????????????????????????????????AI ?????????"
 ---
 Snow Resort Romance no Kamisama位在長野縣，雪場共有 10 條雪道，適合依交通方式與當日開放狀況安排一日滑雪或區域巡迴行程。
