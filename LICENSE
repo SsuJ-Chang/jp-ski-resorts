@@ -7,13 +7,21 @@ All rights reserved.
 
 本專案公開於 GitHub，僅供作品展示與參考。
 
+除 GitHub 平台為公開儲存庫瀏覽、展示與 fork 功能所必要之權利外，本專案不授予任何額外使用、複製、修改、散布、再授權或商業使用之權利。
+
 未經作者明確授權，不得複製、修改、散布、再授權、商業使用，或將本專案內容宣稱為自己的作品。
 
 上述限制適用於本專案中的程式碼、文字、資料整理、文件、設計、圖片素材、網站識別素材與其他專案檔案。
 
 第三方商標、官方網站內容、外部影片、外部文章、地圖、圖片與其他外部資料來源，其權利仍歸原權利人所有。本專案收錄或引用外部資訊，不代表取得該等第三方內容的所有權。
 
+本專案內容僅供一般資訊參考，不保證完整性、即時性或正確性。使用者應自行向官方來源確認最新資訊，作者不對因使用本專案內容所造成之任何損失或損害負責。
+
+除非作者事先同意，本專案目前不接受外部貢獻。任何未經請求提交的建議、issue、pull request 或其他內容，不代表作者有義務採用、回覆或授權使用。
+
 如需使用、引用、改作、散布、再授權或商業合作，請先取得作者明確書面授權。
+
+中英文版本如有歧異，應以中文版本為準。
 
 English License Terms
 
@@ -21,10 +29,18 @@ This project does not use the MIT License or any other open-source license.
 
 This project is publicly available on GitHub for portfolio display and reference only.
 
+Except for the rights necessary to view, display, and fork this public repository through GitHub's platform features, no additional rights are granted to use, copy, modify, distribute, sublicense, or commercially use this project.
+
 Without explicit permission from the author, you may not copy, modify, distribute, sublicense, commercially use, or claim this project or its content as your own work.
 
 These restrictions apply to the code, written content, curated data, documentation, design, image assets, brand assets, and all other project files in this repository.
 
 Third-party trademarks, official website content, external videos, external articles, maps, images, and other external source materials remain the property of their respective rights holders. Inclusion or reference of external information in this project does not transfer ownership of those third-party materials.
 
+The content in this project is provided for general informational purposes only. No warranty is made as to its completeness, timeliness, or accuracy. Users should verify the latest information with official sources. The author is not liable for any loss or damage arising from the use of this project.
+
+Unless separately agreed by the author in advance, this project does not currently accept external contributions. Any unsolicited suggestions, issues, pull requests, or other submissions do not create any obligation for the author to adopt, respond to, or grant permission to use them.
+
 If you want to use, quote, adapt, distribute, sublicense, or collaborate commercially with this project, you must obtain explicit written permission from the author first.
+
+If there is any inconsistency between the Chinese and English versions, the Chinese version shall prevail.
