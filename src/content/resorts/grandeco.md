@@ -87,6 +87,7 @@ courses:
     averageSlope: 10°
     note: 官方說明為初級路線，雪道沿線有白樺與林間景觀。
     videoLinks:
+      - https://www.youtube.com/watch?v=MHJDzZwTc74&t=363s
       - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=987s
       - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1241s
   - name: Hotel Road
@@ -102,6 +103,7 @@ courses:
     averageSlope: 8°
     note: 官方列為初級主線路線；官方資料並列出全長 1,800m、最大坡度 18°、平均坡度 8°。
     videoLinks:
+      - https://www.youtube.com/watch?v=MHJDzZwTc74&t=776s
       - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=366s
       - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=865s
       - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1081s
@@ -118,6 +120,7 @@ courses:
     averageSlope: 13°
     note: 官方說明此路線可從山頂長距離巡航，並可欣賞磐梯山與裏磐梯景觀。
     videoLinks:
+      - https://www.youtube.com/watch?v=MHJDzZwTc74&t=558s
       - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=692s
   - name: Alpen
     difficulty: intermediate
@@ -126,12 +129,15 @@ courses:
     averageSlope: 11°
     note: 官方列為中級路線；官方資料並列出全長 850m、最大坡度 26°、平均坡度 11°。
     videoLinks:
+      - https://www.youtube.com/watch?v=MHJDzZwTc74&t=344s
       - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=904s
   - name: Powder
     difficulty: intermediate
     length: 600m
     maxSlope: 19°
     averageSlope: 12°
+    videoLinks:
+      - https://www.youtube.com/watch?v=MHJDzZwTc74&t=173s
     note: 官方列為粉雪取向路線；官方資料並列出全長 600m、最大坡度 19°、平均坡度 12°。
   - name: Fall Line
     difficulty: intermediate
@@ -154,6 +160,7 @@ courses:
     averageSlope: 20°
     note: 官方列為上級路線；官方資料並列出全長 450m、最大坡度 30°、平均坡度 20°。
     videoLinks:
+      - https://www.youtube.com/watch?v=MHJDzZwTc74&t=438s
       - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=202s
   - name: Free Ride
     difficulty: advanced
@@ -210,6 +217,9 @@ sources:
 - label: Grandeco Course Video 2024
   url: https://www.youtube.com/watch?v=FQUsZ2ABDtU
   note: 影片說明欄提供 The Rock、Main Street、The View、Alpen、Forest、Free Ride、Fall Line 等雪道章節時間軸。
+- label: Grandeco Spring Course Video 2024
+  url: https://www.youtube.com/watch?v=MHJDzZwTc74
+  note: 影片說明欄提供 Powder、Alpen、Forest、The Rock、The View、Main Street 等雪道章節時間軸，已對應至 courses.details[].videoLinks；Snow Surf Park 與 Tree 章節未對應至現有官方雪道名稱。
 ---
 
 Grandeco位於福島縣的磐梯雪區，粉雪與樹林地形是主要記憶點，降雪後能感受更立體的雪面變化。放進磐梯旅程時，能和周邊雪場形成不同節奏；適合喜歡粉雪、林間變化與自然地形的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

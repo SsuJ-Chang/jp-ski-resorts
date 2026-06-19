@@ -95,6 +95,12 @@ terrainSummary:
   advanced: 上級比例約 10%，可依當日雪況選擇挑戰路線。
   snowboard: 官方資料標示全區可 snowboard，並有 park item。
   powder: 公開資料標示有粉雪與非壓雪特色，降雪後請依開放狀態滑行。
+externalContent:
+  blogs: []
+  vlogs:
+    - title: "【スキー場ガイド】スノーウェーブパーク白鳥高原　キッズから上級者まで楽しめます"
+      url: https://www.youtube.com/watch?v=V9GwnfvO5FY
+      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
 sources:
   - label: Weathernews Mino Ski Area
     url: https://weathernews.jp/ski/area/mino/

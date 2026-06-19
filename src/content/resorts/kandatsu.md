@@ -150,6 +150,8 @@ courses:
     length: 2,900m
     maxSlope: 25°
     averageSlope: 20°
+    videoLinks:
+      - https://www.youtube.com/watch?v=gkwnBPIptk4&t=28s
     note: 官方說明為沿尾根延伸的 2,900m 長距離路線，晴天景觀佳；前段較容易，越往下斜度越高，是上級者人氣難路線。
   - name: 12 オリオン
     difficulty: advanced
@@ -175,6 +177,8 @@ courses:
     length: 300m
     maxSlope: 38°
     averageSlope: 34°
+    videoLinks:
+      - https://www.youtube.com/watch?v=gkwnBPIptk4&t=426s
     note: 全長 300m 的非壓雪路線。官方說明會保留新雪，是粉雪取向路線。
   - name: 16 ツリーヘラクレス
     difficulty: advanced
@@ -219,6 +223,9 @@ sources:
 - label: Kandatsu Main Course Video
   url: https://www.youtube.com/watch?v=mA055HfYWJA
   note: 影片說明欄提供プロキオン、カストル、ポルックス、ペルセウス、アンドロメダ、ペガサス、ヘラクレス、スバル、ポラリス等雪道章節時間軸。
+- label: Kandatsu Weekend Limited Course Video 2023
+  url: https://www.youtube.com/watch?v=gkwnBPIptk4
+  note: 影片說明欄提供 Milky Way、Super Antares 等雪道章節時間軸，已對應至 courses.details[].videoLinks。
 terrainSummary:
   beginner: Procyon、Pollux、Vega、Polaris 等初級路線提供緩坡、寬幅與長距離練習。
   intermediate: Subaru、Pegasus、Sirius、Regulus、Castor 提供中級地形變化、夜滑與地形公園鄰近路線。

@@ -70,6 +70,57 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   summary: "共 9 條雪道、6 座纜車，初級 40%、中級 40%、高級 20%。"
+  details:
+    - name: 第1ゲレンデAコース / First Slope A Course
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=gFrm19TppAA&t=82s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: 第1ゲレンデBコース / First Slope B Course
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=gFrm19TppAA&t=168s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: 第4ゲレンデ / 4th Slope
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=gFrm19TppAA&t=375s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: ラビットコース / Rabbit Course
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=gFrm19TppAA&t=466s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: 第5ゲレンデ / 5th Slope
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=gFrm19TppAA&t=560s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: 第2ゲレンデ / 2nd Slope
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=gFrm19TppAA&t=621s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: 第3ゲレンデ / 3rd Slope
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=gFrm19TppAA&t=694s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: 連絡コース / Contact Course
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=gFrm19TppAA&t=774s
+      note: 影片章節提供此連絡路線時間軸；細部分級待官方雪道資料補齊。
+    - name: 第6ゲレンデ / 6th Slope
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=gFrm19TppAA&t=844s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: カモシカコース / Kamoshika Course
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=gFrm19TppAA&t=941s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
 lifts:
   total: 6
 access:
@@ -98,6 +149,10 @@ sources:
   -
     label: "Yunomaru Ski Area Weathernews"
     url: "https://weathernews.jp/ski/spot/34848/"
+  -
+    label: "Yunomaru Course Video 2025"
+    url: "https://www.youtube.com/watch?v=gFrm19TppAA"
+    note: "影片說明欄提供第1ゲレンデA/B、ラビット、カモシカ等雪道章節時間軸，已對應至 courses.details[].videoLinks。"
 ---
 
 湯之丸位於長野縣，高海拔帶來清爽雪質與開闊視野，山岳景觀會成為滑行之外的亮點。降雪後的雪面變化會讓每一趟滑行有不同表情；適合想把滑雪後的泡湯、在地停留與雪國慢節奏放進同一天的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

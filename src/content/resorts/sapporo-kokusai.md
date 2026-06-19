@@ -114,6 +114,12 @@ terrainSummary:
   advanced: "上級雪道佔 20%，進階路線請依當日雪況與官方管制判斷。"
   snowboard: "雪板可滑行。"
   powder: "北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。"
+externalContent:
+  blogs: []
+  vlogs:
+    - title: "【スキー場ガイド】札幌国際スキー場　初心者におススメ！　本州から行く価値は！？"
+      url: https://www.youtube.com/watch?v=9eQkoGnkZ6k
+      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
 sources:
 - label: "札幌国際スキー場 Official"
   url: "https://www.sapporo-kokusai.jp/"

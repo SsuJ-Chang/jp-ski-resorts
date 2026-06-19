@@ -156,7 +156,10 @@ terrainSummary:
   powder: 多條上級路線依官方說明為未壓雪，降雪後較有粉雪行程彈性，開放情況請以官方公告為準。
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+    - title: "【スキー場ガイド】赤倉観光リゾートスキー場 全面滑走可能になりました"
+      url: https://www.youtube.com/watch?v=_17etYo9GzA
+      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
 sources:
 - label: Akakura Kanko Resort Official Website
   url: https://akr-ski.com/

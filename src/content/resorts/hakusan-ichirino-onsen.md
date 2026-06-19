@@ -158,6 +158,12 @@ terrainSummary:
   intermediate: 中級者可利用箱型纜車與多條纜車動線延伸滑行範圍。
   advanced: 官方介紹包含進階者可使用的雪道，但詳細難度與開放狀態需看當日公告。
   snowboard: 官方允許雙板與雪板滑行，Fureai 緩坡區可練習雙板與雪板。
+externalContent:
+  blogs: []
+  vlogs:
+    - title: "【スキー場ガイド】一里野温泉スキー場　広大なゲレンデとラブゴンドラの内側"
+      url: https://www.youtube.com/watch?v=pritFOGaPOI
+      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
 sources:
 - label: SAM 白山一里野溫泉 Official
   url: https://www.sam-hakusan.com/white/ichirino/

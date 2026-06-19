@@ -66,6 +66,27 @@ courses:
   beginnerRatio: 25
   intermediateRatio: 50
   advancedRatio: 25
+  details:
+    - name: 右側コース（動画章節名）
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=FGcabXpp8lU&t=79s
+      note: 影片作者註明實際雪道沒有正式名稱；此名稱為影片章節便宜名，難度需以現場與官方資料確認。
+    - name: 左側コース（動画章節名）
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=FGcabXpp8lU&t=189s
+      note: 影片作者註明實際雪道沒有正式名稱；此名稱為影片章節便宜名，難度需以現場與官方資料確認。
+    - name: エキスパートコース（動画章節名）
+      difficulty: advanced
+      videoLinks:
+        - https://www.youtube.com/watch?v=FGcabXpp8lU&t=309s
+      note: 影片作者註明實際雪道沒有正式名稱；此名稱為影片章節便宜名，難度需以現場與官方資料確認。
+    - name: 中央コース（動画章節名）
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=FGcabXpp8lU&t=466s
+      note: 影片作者註明實際雪道沒有正式名稱；此名稱為影片章節便宜名，難度需以現場與官方資料確認。
 lifts:
   total: 1
 access:
@@ -94,6 +115,10 @@ sources:
   -
     label: "Yakushi Ski Area Weathernews"
     url: "https://weathernews.jp/ski/spot/35444/"
+  -
+    label: "Yakushi Course Video 2025"
+    url: "https://www.youtube.com/watch?v=FGcabXpp8lU"
+    note: "影片說明欄提供右側、左側、中央與 Expert 等章節時間軸；影片作者註明章節名稱為便宜命名。"
 ---
 
 藥師位於新潟縣，適合把滑雪練習和家庭停留結合，旅程節奏比大型山岳雪場輕鬆。比起匆忙踩點，更適合用半天到一天熟悉雪面、坡感與山景；適合同行者程度不同時，用比較不緊繃的方式共享雪地時間。整體適合放慢節奏，從雪面觸感、山景與停留氛圍中感受差異。

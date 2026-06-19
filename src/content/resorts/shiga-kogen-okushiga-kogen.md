@@ -69,12 +69,14 @@ courses:
   - name: No.1 Beginner Course
     difficulty: beginner
     videoLinks:
+      - https://www.youtube.com/watch?v=PqsP7jOrtYI&t=1071s
       - https://www.youtube.com/watch?v=BPh3Q7uPx5g&t=1261s
     length: 800m
     note: 官方雪道資料列為初級路線，全長 800m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.4 Beginner Course
     difficulty: beginner
     videoLinks:
+      - https://www.youtube.com/watch?v=PqsP7jOrtYI&t=44s
       - https://www.youtube.com/watch?v=BPh3Q7uPx5g&t=81s
     length: 400m
     note: 官方雪道資料列為初級路線，全長 400m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
@@ -87,12 +89,14 @@ courses:
   - name: No.3 Expert Course
     difficulty: advanced
     videoLinks:
+      - https://www.youtube.com/watch?v=PqsP7jOrtYI&t=921s
       - https://www.youtube.com/watch?v=BPh3Q7uPx5g&t=1088s
     length: 600m
     note: 官方雪道資料列為上級路線，全長 600m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: No.6 Expert Course
     difficulty: advanced
     videoLinks:
+      - https://www.youtube.com/watch?v=PqsP7jOrtYI&t=395s
       - https://www.youtube.com/watch?v=BPh3Q7uPx5g&t=598s
     length: 700m
     note: 官方雪道資料列為上級路線，全長 700m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
@@ -125,6 +129,12 @@ terrainSummary:
   intermediate: 官方即時狀態頁未把雪道標示為中級，主要以初級與進階線組成。
   advanced: 多條 Expert Course 與 Downhill 路線構成奧志賀高原的高難度主軸。
   powder: 位於志賀高原深處，適合追求高海拔雪況的行程安排。
+externalContent:
+  blogs: []
+  vlogs:
+    - title: "【スキー場ガイド】奥志賀高原スキー場　志賀高原でNo.１の積雪量"
+      url: https://www.youtube.com/watch?v=DSE1VZ1x9HY
+      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
 sources:
 - label: Shiga Kogen Real-Time Lift Status
   url: https://www.shigakogen.gr.jp/english/lift_information/
@@ -137,6 +147,9 @@ sources:
 - label: Okushiga Kogen Course Video 2022
   url: https://www.youtube.com/watch?v=BPh3Q7uPx5g
   note: 影片說明欄提供第 4、第 6、第 3、第 2、第 1 與林間雪道章節時間軸。
+- label: Okushiga Kogen Course Video 2026
+  url: https://www.youtube.com/watch?v=PqsP7jOrtYI
+  note: 影片說明欄提供第1、第3、第4、第6ゲレンデ等雪道章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 奧志賀高原位於長野縣的志賀高原，粉雪是主要魅力，適合把雪質、速度感與雪國氛圍放在同一段旅程。放進志賀高原旅程時，能和周邊雪場形成不同節奏；適合想感受日本地方雪場氛圍與雪國風景的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

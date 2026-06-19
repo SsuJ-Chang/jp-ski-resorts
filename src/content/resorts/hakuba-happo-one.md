@@ -96,6 +96,7 @@ courses:
     maxSlope: 20°
     averageSlope: 11°
     videoLinks:
+      - https://www.youtube.com/watch?v=IBrBQLonkXE&t=1348s
       - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=664s
     note: 位於 Gondola Adam 山麓側，屬初級到中級練習區域。
   - name: 咲花ゲレンデ
@@ -104,6 +105,8 @@ courses:
     maxSlope: 18°
     averageSlope: 10°
     videoLinks:
+      - https://www.youtube.com/watch?v=IBrBQLonkXE&t=305s
+      - https://www.youtube.com/watch?v=IBrBQLonkXE&t=576s
       - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=576s
       - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=1407s
     note: 寬廣緩斜面，適合初學者與家庭練習；可銜接黑菱林道形成較長初級路線。
@@ -183,6 +186,9 @@ sources:
 - label: Hakuba Happo-one Course Video
   url: https://www.youtube.com/watch?v=AvCYA9LCWC8
   note: 影片說明欄提供リーゼングラート、白樺、咲花等雪道章節時間軸。
+- label: Hakuba Happo-one Course Video 2023 Part 3
+  url: https://www.youtube.com/watch?v=IBrBQLonkXE
+  note: 影片說明欄提供咲花、白樺等雪道章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 白馬八方尾根位於北阿爾卑斯山麓，代表性在於高山尺度、長距離滑行感與壯闊山景。從上部開闊斜面到山麓區域，景觀、坡面與速度感會逐段轉換；晴天時山稜線存在感很強，雪場氣勢也很鮮明，適合想體驗白馬經典山岳滑行的人。

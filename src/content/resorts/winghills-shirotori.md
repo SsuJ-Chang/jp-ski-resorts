@@ -105,6 +105,12 @@ terrainSummary:
   advanced: 上級比例約 30%，有較陡坡面可供進階者使用。
   snowboard: 官方資料標示全區可 snowboard。
   powder: 公開資料未特別標示粉雪主打，請依當日雪況判斷。
+externalContent:
+  blogs: []
+  vlogs:
+    - title: "【スキー場ガイド】ウイングヒルズ白鳥リゾート　初級者でもロングラン"
+      url: https://www.youtube.com/watch?v=z8C5vry86IY
+      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
 sources:
   - label: Weathernews Mino Ski Area
     url: https://weathernews.jp/ski/area/mino/

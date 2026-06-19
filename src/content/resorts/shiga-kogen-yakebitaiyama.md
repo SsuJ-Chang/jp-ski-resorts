@@ -157,7 +157,10 @@ externalContent:
     - title: "志賀高原滑雪住宿︱ski in/out 志賀高原王子飯店 、東西南館詳細介紹"
       url: https://natasha-traveler.tw/shiga-kogen-prince-hotel-review/
       note: "娜塔蝦的滑雪食旅手記，2025-04-18"
-  vlogs: []
+  vlogs:
+    - title: "【スキー場ガイド】志賀高原　焼額山スキー場"
+      url: https://www.youtube.com/watch?v=yJLrwdUXD68
+      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
 sources:
 - label: Shiga Kogen Real-Time Lift Status
   url: https://www.shigakogen.gr.jp/english/lift_information/

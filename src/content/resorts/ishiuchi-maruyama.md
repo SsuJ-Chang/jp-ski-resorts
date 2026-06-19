@@ -300,9 +300,9 @@ externalContent:
       url: https://natasha-traveler.tw/ishiuchi-maruyama-ski-resort-guide/
       note: "娜塔蝦的滑雪食旅手記，2026-03-02"
   vlogs:
-  - title: 【4K SKI JAPOW】石打丸山スキー場｜2025 Season｜全コース紹介（Ishiuchi Maruyama Ski resort）-2025/1/14
-    url: https://www.youtube.com/watch?v=bd5A7FB11qg
-    note: 2025/1/14 拍攝，說明欄章節包含多條石打丸山雪道與 GALA 湯澤連接段。
+    - title: "【スキー場ガイド】石打丸山スキー場　ゲレンデの数がすごい　施設もすごくなった！"
+      url: https://www.youtube.com/watch?v=tLd37bYT0tE
+      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
 sources:
 - label: Ishiuchi Maruyama Ski Resort Official Website
   url: https://ishiuchi.or.jp/

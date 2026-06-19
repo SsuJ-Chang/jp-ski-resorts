@@ -59,6 +59,9 @@ courses:
     note: Yellow 區的初級滑行線，適合練習穩定速度控制。
   - name: ローズコース
     difficulty: intermediate
+    videoLinks:
+      - https://www.youtube.com/watch?v=a8r23aBz4ko&t=364s
+      - https://www.youtube.com/watch?v=a8r23aBz4ko&t=735s
     note: 中段巡航路線，可銜接山麓主要區域；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: バイオレットコース A
     difficulty: intermediate
@@ -68,6 +71,8 @@ courses:
     note: Violet 區路線之一，適合具備基礎轉彎能力者。
   - name: レッドコース
     difficulty: intermediate
+    videoLinks:
+      - https://www.youtube.com/watch?v=a8r23aBz4ko&t=963s
     note: 中級巡航路線，可作為山頂長距離下滑的一段。
   - name: ブルーコース
     difficulty: intermediate
@@ -82,6 +87,8 @@ courses:
     difficulty: advanced
     length: 755m
     maxSlope: 32°
+    videoLinks:
+      - https://www.youtube.com/watch?v=a8r23aBz4ko&t=1125s
     note: 官方介紹為最大坡度 32 度的非壓雪、粉雪取向路線。
   beginnerRatio: 40
   intermediateRatio: 50
@@ -98,6 +105,9 @@ sources:
   url: https://www.marunuma.jp/winter/status/
 - label: 丸沼高原スキー場 Weathernews
   url: https://weathernews.jp/ski/spot/34217/
+- label: Marunuma Kogen Course Video 2022
+  url: https://www.youtube.com/watch?v=a8r23aBz4ko
+  note: 影片說明欄提供 Rose、Red、Silver 等可明確比對雪道的章節時間軸，已對應至 courses.details[].videoLinks。
 contact:
   address:
     zhTw: 群馬縣利根郡片品村東小川4658-58

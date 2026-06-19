@@ -150,6 +150,12 @@ terrainSummary:
   intermediate: "中級雪道占 40%，適合已能穩定轉彎的滑雪者參考。"
   advanced: "上級雪道占 30%，進階路線請依當日雪況與官方管制判斷。"
   snowboard: "雪板可滑行。"
+externalContent:
+  blogs: []
+  vlogs:
+    - title: "【スキー場ガイド】スキージャム勝山　北陸のリゾート"
+      url: https://www.youtube.com/watch?v=mnuHy1HAL3o
+      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
 sources:
   - label: "JAM福井勝山マウンテンリゾート Official"
     url: "https://jamresort.jp/"

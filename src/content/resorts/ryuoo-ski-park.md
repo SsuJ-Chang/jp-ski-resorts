@@ -87,6 +87,12 @@ terrainSummary:
   intermediate: "中級雪道約 40%，適合穩定滑行與轉彎練習。"
   advanced: "高級雪道約 25%，可安排較有坡度與速度感的滑行。"
   snowboard: "全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。"
+externalContent:
+  blogs: []
+  vlogs:
+    - title: "竜王スキーパーク　ツリーランエリアついに開放！ 全エリア徹底解説！"
+      url: https://www.youtube.com/watch?v=6IYNdq0Hy14
+      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
 sources:
   -
     label: "Ryuoo Ski Park Official Website"

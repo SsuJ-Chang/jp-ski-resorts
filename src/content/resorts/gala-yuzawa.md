@@ -249,7 +249,10 @@ externalContent:
     - title: "GALA湯澤滑雪場2026攻略︱滑雪教練帶你玩~滑雪新手最愛，美食交通詳細介紹"
       url: https://natasha-traveler.tw/gala-ski-resort-review/
       note: "娜塔蝦的滑雪食旅手記，2025-12-29"
-  vlogs: []
+  vlogs:
+    - title: "【スキー場ガイド】GALA湯沢スキー場　楽しいコース盛りだくさん！"
+      url: https://www.youtube.com/watch?v=1kdWV97oaMw
+      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
 sources:
 - label: GALA Yuzawa Snow Resort Official Website
   url: https://gala.co.jp/winter/

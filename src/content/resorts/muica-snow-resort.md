@@ -67,6 +67,53 @@ courses:
   beginnerRatio: 35
   intermediateRatio: 40
   advancedRatio: 25
+  details:
+    - name: 5 スワローコース / Swallow Course
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=sR3aPaeWmHI&t=78s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: 4 ファルコンコース / Falcon Course
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=sR3aPaeWmHI&t=182s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: ハイクアップゾーン / Hike up Zone
+      difficulty: ungroomed
+      videoLinks:
+        - https://www.youtube.com/watch?v=sR3aPaeWmHI&t=258s
+      note: 影片章節標示為 hike up zone；屬非壓雪或管理條件較特殊的區域，實際使用需依雪場規則。
+    - name: 3 イーグルコース / Eagle Course
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=sR3aPaeWmHI&t=371s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: 6 ブルーバードコース / Blue Bird Course
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=sR3aPaeWmHI&t=558s
+        - https://www.youtube.com/watch?v=sR3aPaeWmHI&t=977s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: 7 シーガルコース / Seagull Course
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=sR3aPaeWmHI&t=622s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: 11 カナリアコース / Canary Course
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=sR3aPaeWmHI&t=686s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: 2 コンドルコース / Condor Course
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=sR3aPaeWmHI&t=867s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
+    - name: 9 ロビンコース / Robin Course
+      difficulty: mixed
+      videoLinks:
+        - https://www.youtube.com/watch?v=sR3aPaeWmHI&t=1019s
+      note: 影片章節提供此雪道時間軸；細部分級待官方雪道資料補齊。
 lifts:
   total: 4
 access:
@@ -95,6 +142,10 @@ sources:
   -
     label: "Muica Snow Resort Weathernews"
     url: "https://weathernews.jp/ski/spot/35447/"
+  -
+    label: "Muica Course Video 2026"
+    url: "https://www.youtube.com/watch?v=sR3aPaeWmHI"
+    note: "影片說明欄提供 Swallow、Falcon、Eagle、Blue Bird 等雪道章節時間軸，已對應至 courses.details[].videoLinks。"
 ---
 
 Muica Snow Resort位於新潟縣，適合把滑雪練習和家庭停留結合，旅程節奏比大型山岳雪場輕鬆。比起匆忙踩點，更適合用半天到一天熟悉雪面、坡感與山景；適合同行者程度不同時，用比較不緊繃的方式共享雪地時間。
