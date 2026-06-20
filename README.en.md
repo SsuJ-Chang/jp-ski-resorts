@@ -63,6 +63,7 @@ This project mainly refers to official and publicly available information, then 
 - [大林滑雪男子](https://www.youtube.com/@drlinsnow)
 - [娜塔蝦的滑雪食旅手記](https://natasha-traveler.tw/)
 - [Real Japan Nature](https://www.youtube.com/@realjapannature)
+- [旬旅 / Japan Season Travel](https://www.youtube.com/@syuntabi)
 
 ## 🔒 Ownership And License
 
