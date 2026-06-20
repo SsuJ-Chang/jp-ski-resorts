@@ -66,47 +66,98 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
+  courseInfoPage: "https://www.princehotels.co.jp/ski/hakkaisan/winter/coursemap/"
   details:
     -
-      name: "うさぎ平ゲレンデ / Usagidaira Slope"
+      name: "A1 輕鬆滑雪道 / 山頂ゲレンデ～ポプラ平ゲレンデ / Raku Raku Trail"
       difficulty: "beginner"
+      length: "5,280m"
+      maxSlope: "20°"
+      averageSlope: "12°"
+      note: "蛇行的緩斜面，經由うさぎ平後可從山頂一路滑到山麓，官方列為初級路線。"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=295s"
+        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=870s"
+    -
+      name: "B1 USAGI DAIRA滑雪道 / うさぎ平コース / Usagi-daira Trail"
+      difficulty: "beginner"
+      length: "697m"
+      maxSlope: "15°"
+      averageSlope: "8°"
+      note: "寬闊平緩的斜面持續展開，旁邊也有兒童練習區與雪盆路線。"
       videoLinks:
         - "https://www.youtube.com/watch?v=XfDN_hAannM&t=166s"
     -
-      name: "ポプラ平ゲレンデ / Poplar-daira Slope"
+      name: "A2 連結箱型纜車滑雪道 / ロープウェー連絡コース / Ropeway Connection Trail"
       difficulty: "beginner"
-      videoLinks:
-        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=295s"
+      length: "221m"
+      maxSlope: "9°"
+      averageSlope: "6°"
+      note: "從うさぎ平コース通往八海山ロープウェー的聯絡路線。"
     -
-      name: "山頂ゲレンデ / Summit Slope"
-      difficulty: "beginner"
-      videoLinks:
-        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=870s"
-    -
-      name: "林間コース / Rinkan Course"
-      difficulty: "beginner"
-      videoLinks:
-        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=870s"
-    -
-      name: "前倉コース / Maekura Course"
+      name: "A3 滑降滑雪道 / ダウンヒルコース / Downhill Trail"
       difficulty: "intermediate"
+      length: "1,193m"
+      maxSlope: "26°"
+      averageSlope: "17°"
+      note: "代表八海山特色的路線，中斜面與急斜面連續。"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=476s"
+    -
+      name: "C1 MAEKURA滑雪道 / 前倉コース / Maekura Trail"
+      difficulty: "intermediate"
+      length: "894m"
+      maxSlope: "29°"
+      averageSlope: "16°"
+      note: "全長 894m 的寬闊中斜面，官方說明列為適合中高級者訓練的路線。"
       videoLinks:
         - "https://www.youtube.com/watch?v=XfDN_hAannM&t=0s"
     -
-      name: "ダウンヒルコース / Downhill Course"
+      name: "A6 挑戰滑雪道 / チャレンジコース / Challenge Trail"
       difficulty: "intermediate"
+      length: "296m"
+      maxSlope: "26°"
+      averageSlope: "18°"
+      note: "略陡的碗狀斜面，並帶有饅頭坡地形。"
+    -
+      name: "A4 隔離A滑雪道 / セパレートAコース / Separate A Trail"
+      difficulty: "intermediate"
+      length: "360m"
+      maxSlope: "29°"
+      averageSlope: "25°"
+      note: "位於雪場中腹、八海山ロープウェー下方的路線。"
       videoLinks:
         - "https://www.youtube.com/watch?v=XfDN_hAannM&t=476s"
     -
-      name: "セパレートAコース / Separate A Course"
+      name: "A5 ONE滑雪道 / 尾根コース / One Trail"
       difficulty: "intermediate"
+      length: "349m"
+      maxSlope: "26°"
+      averageSlope: "19°"
+      note: "雪場下部的最後難關，容易形成饅頭坡。"
       videoLinks:
         - "https://www.youtube.com/watch?v=XfDN_hAannM&t=476s"
     -
-      name: "尾根コース / Ridge Course"
-      difficulty: "intermediate"
-      videoLinks:
-        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=476s"
+      name: "A7 隔離B滑雪道 / セパレートBコース / Separate B Trail"
+      difficulty: "advanced"
+      length: "374m"
+      maxSlope: "35°"
+      averageSlope: "24°"
+      note: "位於雪場中腹、八海山ロープウェー下方的上級路線。"
+    -
+      name: "D1 專業滑雪道 / エキスパートコース / Expert Trail"
+      difficulty: "advanced"
+      length: "917m"
+      maxSlope: "35°"
+      averageSlope: "22°"
+      note: "八海山最難的路線，屬於可滑饅頭坡與深雪的技術區域。"
+    -
+      name: "D2 冠軍滑雪道 / チャンピオンコース / Champion Trail"
+      difficulty: "advanced"
+      length: "347m"
+      maxSlope: "34°"
+      averageSlope: "26°"
+      note: "可俯瞰山麓的寬闊急斜面；依降雪狀況，可能以非壓雪狀態開放。"
 lifts:
   total: 4
 access:
@@ -134,12 +185,18 @@ sources:
     label: "Muikamachi Hakkaisan Official Website"
     url: "http://www.princehotels.co.jp/ski/hakkaisan/"
   -
+    label: "Muikamachi Hakkaisan Course Map"
+    url: "https://www.princehotels.co.jp/ski/hakkaisan/winter/coursemap/"
+  -
+    label: "Muikamachi Hakkaisan Official Traditional Chinese Page"
+    url: "https://www.princehotels.com/zh-tw/ski/hakkaisan/index.html"
+  -
     label: "Muikamachi Hakkaisan Weathernews"
     url: "https://weathernews.jp/ski/spot/35401/"
   -
     label: "Muikamachi Hakkaisan Course Video 2023"
     url: "https://www.youtube.com/watch?v=XfDN_hAannM"
-    note: "影片說明欄提供前倉、うさぎ平、ポプラ平、ダウンヒル、セパレートA、尾根、山頂ゲレンデ、林間等雪道章節時間軸，已對應至 courses.details[].videoLinks。"
+    note: "影片說明欄提供前倉、うさぎ平、ポプラ平、ダウンヒル、セパレートA、尾根、山頂ゲレンデ、林間等雪道章節時間軸；其中ポプラ平、山頂ゲレンデ、林間等章節已合併對應到 A1 輕鬆滑雪道。"
 ---
 
 六日町八海山位於新潟縣，降雪後的雪面觸感是記憶點，滑行會比單純壓雪巡航更有層次。降雪後的雪面變化會讓每一趟滑行有不同表情；適合想用比較自由的節奏練習 carving、巡航或雪板控制的人。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。
