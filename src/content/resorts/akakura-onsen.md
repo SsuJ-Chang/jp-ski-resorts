@@ -103,11 +103,13 @@ courses:
     difficulty: beginner
     videoLinks:
       - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=811s
+      - https://www.youtube.com/watch?v=tB28M_-Cx_U&t=102s
     note: 官方列為初級雪道；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 10 パノラマコース / Panorama Course
     difficulty: beginner
     videoLinks:
       - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=197s
+      - https://www.youtube.com/watch?v=tB28M_-Cx_U&t=1224s
     note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 13 ヨーデル林間コース / Yodel Forest Course
     difficulty: beginner
@@ -116,9 +118,12 @@ courses:
     difficulty: beginner
     videoLinks:
       - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=435s
+      - https://www.youtube.com/watch?v=tB28M_-Cx_U&t=845s
     note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 16 ユートピア B コース / Utopia B Course
     difficulty: beginner
+    videoLinks:
+      - https://www.youtube.com/watch?v=tB28M_-Cx_U&t=845s
     note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 17 ファミリーゲレンデ / Family Slope
     difficulty: beginner
@@ -179,6 +184,9 @@ sources:
 - label: Real Japan Nature YouTube Course Video
   url: https://www.youtube.com/watch?v=x2LkQtz_wQM
   note: 影片章節提供赤倉溫泉部分雪道秒數，已對應至 courses.details[].videoLinks。
+- label: Akakura Onsen Course Video 2023
+  url: https://www.youtube.com/watch?v=tB28M_-Cx_U
+  note: 影片說明欄提供中央、ユートピアA、ユートピアB、パノラマ等雪道章節時間軸；アルペン、関見、エレガント、カラマツ、ラビット、銀嶺等章節因現有資料未列同名雪道未硬對應。
 ---
 
 赤倉溫泉位於新潟縣的妙高高原，粉雪與非壓雪地形讓滑行更有探索感，適合想離開單調壓雪面的人。放進妙高高原旅程時，能和周邊雪場形成不同節奏；適合想把住宿、餐飲與滑行整合成停留型旅程的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。
