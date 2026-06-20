@@ -13,6 +13,7 @@ tags:
 - no_car_accessible
 - resort_village
 - snowboard_friendly
+- long_run
 links:
   official: https://www.hakubaescal.com/winter/
   trailMapPage: https://www.hakubaescal.com/winter/gelande/course/

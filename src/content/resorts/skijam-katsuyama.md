@@ -8,6 +8,7 @@ region: "hokuriku"
 prefecture: "福井縣"
 tags:
   - "large_ski_area"
+  - "long_run"
   - "resort_village"
   - "snowboard_friendly"
 homeRegionExample: true

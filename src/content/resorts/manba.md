@@ -10,6 +10,7 @@ tags:
 - night_skiing
 - snowboard_friendly
 - tree_run
+- long_run
 links:
   official: https://www.manba-ski.jp/
   trailMapPage: https://www.manba-ski.jp/gelande/

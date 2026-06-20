@@ -14,6 +14,7 @@ tags:
 - no_car_accessible
 - snowboard_friendly
 - large_ski_area
+- long_run
 - night_skiing
 - resort_village
 links:

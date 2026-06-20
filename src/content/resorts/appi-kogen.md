@@ -10,6 +10,7 @@ prefecture: "岩手縣"
 skiArea: "appi"
 tags:
   - "large_ski_area"
+  - "long_run"
   - "powder"
   - "resort_village"
   - "snowboard_friendly"

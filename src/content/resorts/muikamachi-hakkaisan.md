@@ -8,6 +8,7 @@ region: "kanto-koshinetsu"
 prefecture: "新潟縣"
 tags:
   - "large_ski_area"
+  - "long_run"
   - "powder"
   - "snowboard_friendly"
   - "no_car_accessible"

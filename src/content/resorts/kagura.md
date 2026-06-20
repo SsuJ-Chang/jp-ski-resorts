@@ -9,6 +9,7 @@ prefecture: 新潟縣
 skiArea: yuzawa
 tags:
 - large_ski_area
+- long_run
 - no_car_accessible
 - powder
 - snowboard_friendly

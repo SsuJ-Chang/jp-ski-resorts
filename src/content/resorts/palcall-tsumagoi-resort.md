@@ -10,6 +10,7 @@ tags:
 - beginner_friendly
 - family_friendly
 - large_ski_area
+- long_run
 - night_skiing
 - snowboard_friendly
 - resort_village

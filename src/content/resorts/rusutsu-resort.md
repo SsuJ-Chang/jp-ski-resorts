@@ -10,6 +10,7 @@ skiArea: "rusutsu"
 tags:
 - "powder"
 - "large_ski_area"
+- "long_run"
 - "night_skiing"
 - "snowboard_friendly"
 - "resort_village"

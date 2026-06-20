@@ -13,6 +13,7 @@ tags:
 - onsen
 - powder
 - snowboard_friendly
+- long_run
 links:
   official: https://www.932-onsen.com/winter/
   trailMapPage: https://www.932-onsen.com/winter/course/

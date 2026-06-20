@@ -11,6 +11,7 @@ tags:
 - beginner_friendly
 - family_friendly
 - snowboard_friendly
+- long_run
 links:
   official: https://shigakogen.co.jp/
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/

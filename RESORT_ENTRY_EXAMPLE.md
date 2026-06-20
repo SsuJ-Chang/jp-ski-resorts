@@ -19,6 +19,7 @@ tags:
   - family_friendly
   - good_for_first_japan_trip
   - large_ski_area
+  - long_run
   - night_skiing
   - no_car_accessible
   - onsen

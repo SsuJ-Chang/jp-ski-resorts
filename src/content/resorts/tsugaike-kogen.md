@@ -11,6 +11,7 @@ tags:
 - beginner_friendly
 - family_friendly
 - large_ski_area
+- long_run
 - no_car_accessible
 - powder
 - snowboard_friendly

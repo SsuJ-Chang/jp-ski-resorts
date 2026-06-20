@@ -105,6 +105,7 @@ beginner_friendly
 family_friendly
 good_for_first_japan_trip
 large_ski_area
+long_run
 night_skiing
 no_car_accessible
 onsen
@@ -113,6 +114,12 @@ resort_village
 snowboard_friendly
 tree_run
 ```
+
+`long_run` 使用規則：
+
+- 前台標籤顯示為「長雪道」。
+- 只用於官方或可信資料標示最長滑走距離達 `3,000m` 以上，或至少有一條可連續滑行的命名雪道 / route 達 `3,000m` 以上的滑雪場。
+- 只看「總滑走距離」不算，必須能對應到最長滑走距離或具體雪道長度。
 
 ## `visibility`
 

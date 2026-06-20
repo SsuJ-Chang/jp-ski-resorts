@@ -10,6 +10,7 @@ skiArea: shiga-kogen
 tags:
 - beginner_friendly
 - no_car_accessible
+- long_run
 links:
   official: https://shigakogen.co.jp/
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/

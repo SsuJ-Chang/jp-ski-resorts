@@ -12,6 +12,7 @@ tags:
 - onsen
 - powder
 - snowboard_friendly
+- long_run
 links:
   official: https://www.brnorikura.jp/
   weather: https://weathernews.jp/ski/spot/34807/

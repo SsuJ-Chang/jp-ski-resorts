@@ -10,6 +10,7 @@ tags:
   - "onsen"
   - "powder"
   - "snowboard_friendly"
+  - "long_run"
 visibility:
   status: "published"
   note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"

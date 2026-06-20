@@ -14,6 +14,7 @@ tags:
 - good_for_first_japan_trip
 - resort_village
 - large_ski_area
+- long_run
 - powder
 - snowboard_friendly
 homeRegionExample: true

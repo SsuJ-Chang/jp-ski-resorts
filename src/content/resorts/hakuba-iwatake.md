@@ -10,6 +10,7 @@ skiArea: hakuba
 tags:
 - powder
 - large_ski_area
+- long_run
 - snowboard_friendly
 - tree_run
 - family_friendly
