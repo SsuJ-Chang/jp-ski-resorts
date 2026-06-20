@@ -38,7 +38,7 @@ Japan Ski Resort Guide is a database of ski resorts in Japan. It mainly organize
 
 ## ✨ Features
 
-- Keyword search: Find resorts by Traditional Chinese, English, or partial resort names.
+- Keyword search: Find resorts by Traditional Chinese, English, Japanese, or partial resort names.
 - Filters: Narrow results by prefecture and tags.
 - Region browsing: Start from a broad Japan ski region before choosing a resort.
 - Prefecture browsing: Compare resorts and ski characteristics by prefecture.
