@@ -12,6 +12,8 @@ After doing this for years, I figured I might as well build a website myself. It
 
 Japan Ski Resort Guide is a database of ski resorts in Japan. It mainly organizes ski resorts across Japan, ski travel areas, prefecture highlights, course information, and official reference links in Traditional Chinese.
 
+⛷️ Website: https://jp-resorts.rj-tw.com/
+
 ## 🏂 How To Use It
 
 - Find candidate resorts for your next Japan ski trip.
