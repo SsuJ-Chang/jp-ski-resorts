@@ -1,0 +1,58 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { specialThanks } from '../data/specialThanks'
+
+const thanksStructuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: '特別感謝｜日本滑雪場指南',
+  description: '列出日本滑雪場指南整理資料時特別感謝的公開內容創作者與網站。',
+  inLanguage: 'zh-Hant-TW',
+}
+---
+
+<BaseLayout
+  title="特別感謝｜日本滑雪場指南"
+  description="列出日本滑雪場指南整理資料時特別感謝的公開內容創作者與網站。"
+  bodyClass="thanks-page"
+  canonicalPath="/thanks/"
+  structuredData={thanksStructuredData}
+  noindex
+>
+  <main class="site-shell thanks-shell">
+    <section class="thanks-hero" aria-labelledby="thanks-title">
+      <p class="eyebrow">Special thanks</p>
+      <h1 id="thanks-title" class="thanks-title">特別感謝</h1>
+      <p class="thanks-lead">
+        這個網站整理滑雪場資料時，也參考了許多公開影片、旅遊文章與滑雪經驗分享。
+        以下列出特別感謝的創作者與網站，作為資料脈絡與行程靈感的補充來源。
+      </p>
+    </section>
+
+    <section class="thanks-panel" aria-label="特別感謝名單">
+      <ol class="thanks-list">
+        {specialThanks.map((entry, index) => (
+          <li class="thanks-card" style={`--index: ${index}`}>
+            <div class="thanks-card__content">
+              <p class="thanks-card__kind">{entry.kind}</p>
+              <h2>{entry.name}</h2>
+              <p class="thanks-card__description">{entry.description}</p>
+            </div>
+            <a
+              class="thanks-card__link"
+              href={entry.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={`前往 ${entry.name}，新分頁開啟`}
+            >
+              <svg aria-hidden="true" viewBox="0 0 24 24">
+                <path d="M5 12h14" />
+                <path d="m13 6 6 6-6 6" />
+              </svg>
+            </a>
+          </li>
+        ))}
+      </ol>
+    </section>
+  </main>
+</BaseLayout>
