@@ -100,6 +100,7 @@ courses:
     maxSlope: 28°
     averageSlope: 22°
     videoLinks:
+      - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=452s
       - https://www.youtube.com/watch?v=f9N5IUrL000&t=1158s
       - https://www.youtube.com/watch?v=f9N5IUrL000&t=1313s
       - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=713s
@@ -126,6 +127,8 @@ courses:
     length: 600m
     maxSlope: 16°
     averageSlope: 14°
+    videoLinks:
+      - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=1223s
     note: 47PARKS 所在路線，park item 依當日維護與開放狀態調整。
   - name: Route 5
     difficulty: beginner
@@ -221,6 +224,9 @@ sources:
 - label: Hakuba Goryu and Hakuba47 Course Video 2024
   url: https://www.youtube.com/watch?v=EuUdXoyB2mo
   note: 影片說明欄提供 Hakuba47 Route 1、Route 2、Route 5、Route 8，以及白馬五龍部分雪道章節時間軸。
+- label: Hakuba Goryu and Hakuba47 Course Video 2022
+  url: https://www.youtube.com/watch?v=3e-zXtiQFwU
+  note: 影片說明欄提供 Hakuba47 Route 1 與 snow park 章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 Hakuba 47位於長野縣的白馬山麓，最大亮點是日本長距離滑行感，最長線可達約 13,570 公尺。一路下滑時，開闊坡面、林間段落與山景會逐步轉換；適合已經不滿足於單純巡航，想加入探索感的玩家。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。

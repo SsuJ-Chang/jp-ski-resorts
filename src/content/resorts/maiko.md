@@ -77,6 +77,7 @@ courses:
       videoLinks:
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=148s
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=1404s
+        - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=611s
       length: 1,000m
       maxSlope: 10°
       averageSlope: 6°
@@ -99,6 +100,7 @@ courses:
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=879s
         - https://www.youtube.com/watch?v=nC4945tXMBE&t=448s
+        - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=1539s
       length: 760m
       maxSlope: 15°
       averageSlope: 10°
@@ -106,6 +108,7 @@ courses:
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=696s
+        - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=1305s
       length: 930m
       maxSlope: 10°
       averageSlope: 8°
@@ -119,6 +122,7 @@ courses:
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=95s
         - https://www.youtube.com/watch?v=nC4945tXMBE&t=273s
+        - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=1207s
       length: 1,430m
       maxSlope: 9°
       averageSlope: 7°
@@ -151,6 +155,8 @@ courses:
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=1541s
+        - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=93s
+        - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=886s
       length: 5,000m
       maxSlope: 9°
       averageSlope: 6°
@@ -165,6 +171,7 @@ courses:
       difficulty: intermediate
       videoLinks:
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=396s
+        - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=611s
       length: 940m
       maxSlope: 23°
       averageSlope: 13°
@@ -172,6 +179,7 @@ courses:
       difficulty: intermediate
       videoLinks:
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=270s
+        - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=527s
       length: 500m
       maxSlope: 20°
       averageSlope: 10°
@@ -179,6 +187,7 @@ courses:
       difficulty: intermediate
       videoLinks:
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=747s
+        - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=886s
       length: 300m
       maxSlope: 13°
       averageSlope: 10°
@@ -203,6 +212,7 @@ courses:
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=597s
         - https://www.youtube.com/watch?v=nC4945tXMBE&t=366s
+        - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=1305s
       length: 180m
       maxSlope: 27°
       averageSlope: 22°
@@ -215,6 +225,7 @@ courses:
       difficulty: intermediate
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=1076s
+        - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=1614s
       length: 680m
       maxSlope: 18°
       averageSlope: 9°
@@ -229,6 +240,7 @@ courses:
       difficulty: intermediate
       videoLinks:
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=1262s
+        - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=93s
       length: 800m
       maxSlope: 17°
       averageSlope: 10°
@@ -302,6 +314,10 @@ sources:
 - label: Maiko Area Course Video 2023
   url: https://www.youtube.com/watch?v=nC4945tXMBE
   note: 影片說明欄提供舞子區域ブロンズ、森のステージ、バンビ、ロマンス、ゴールド、パラダイス、メロディーライン、ファミリー、ドルフィン等雪道章節時間軸。
+- label: Maiko Snow Resort Course Video 2023
+  url: https://www.youtube.com/watch?v=3PZG9TyIt2I
+  note: 影片說明欄提供長峰ランラン、ビュンビュン、スイスイ、奥添地ランラン、グイグイ、サンサン、バンビ、ゴールド、キンダー、パラダイス、リーゼン等雪道章節時間軸，已對應至 courses.details[].videoLinks。
+
 ---
 
 舞子位於新潟縣的湯澤雪國，亮點是從高處延伸到山麓的長距離滑行，最長線約 5,000 公尺。一路下滑時，開闊坡面、林間段落與山景會逐步轉換；適合第一次日本滑雪時，把代表性雪景與滑行體驗放在一起。滑行之外，也能把雪景、休息與地方氛圍一起留下來。

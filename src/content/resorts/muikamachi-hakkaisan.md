@@ -66,6 +66,47 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
+  details:
+    -
+      name: "うさぎ平ゲレンデ / Usagidaira Slope"
+      difficulty: "beginner"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=166s"
+    -
+      name: "ポプラ平ゲレンデ / Poplar-daira Slope"
+      difficulty: "beginner"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=295s"
+    -
+      name: "山頂ゲレンデ / Summit Slope"
+      difficulty: "beginner"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=870s"
+    -
+      name: "林間コース / Rinkan Course"
+      difficulty: "beginner"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=870s"
+    -
+      name: "前倉コース / Maekura Course"
+      difficulty: "intermediate"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=0s"
+    -
+      name: "ダウンヒルコース / Downhill Course"
+      difficulty: "intermediate"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=476s"
+    -
+      name: "セパレートAコース / Separate A Course"
+      difficulty: "intermediate"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=476s"
+    -
+      name: "尾根コース / Ridge Course"
+      difficulty: "intermediate"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=XfDN_hAannM&t=476s"
 lifts:
   total: 4
 access:
@@ -95,6 +136,10 @@ sources:
   -
     label: "Muikamachi Hakkaisan Weathernews"
     url: "https://weathernews.jp/ski/spot/35401/"
+  -
+    label: "Muikamachi Hakkaisan Course Video 2023"
+    url: "https://www.youtube.com/watch?v=XfDN_hAannM"
+    note: "影片說明欄提供前倉、うさぎ平、ポプラ平、ダウンヒル、セパレートA、尾根、山頂ゲレンデ、林間等雪道章節時間軸，已對應至 courses.details[].videoLinks。"
 ---
 
 六日町八海山位於新潟縣，降雪後的雪面觸感是記憶點，滑行會比單純壓雪巡航更有層次。降雪後的雪面變化會讓每一趟滑行有不同表情；適合想用比較自由的節奏練習 carving、巡航或雪板控制的人。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。

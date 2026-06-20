@@ -161,6 +161,12 @@ externalContent:
       url: https://natasha-traveler.tw/zao-01/
       note: "娜塔蝦的滑雪食旅手記，2015-09-17"
   vlogs:
+    - title: "日本最長的長跑🎿我在藏王溫泉滑雪場從山頂滑到了山腳！"
+      url: https://www.youtube.com/watch?v=VTw433ZFiBc
+      note: "旬旅 / Japan Season Travel https://www.youtube.com/@syuntabi/videos"
+    - title: "在陽光明媚的藏王遇到的那群雪怪好厲害😂"
+      url: https://www.youtube.com/watch?v=BjIwJEnLsWo
+      note: "旬旅 / Japan Season Travel https://www.youtube.com/@syuntabi/videos"
     - title: "☃️藏王樹冰區滑雪：與自然奇景共舞的獨特體驗"
       url: https://www.youtube.com/watch?v=9g9-IlCm3d4
       note: "大林滑雪男子"

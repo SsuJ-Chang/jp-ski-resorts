@@ -86,6 +86,8 @@ courses:
     note: 官方列為初級路線；官方資料並列出全長 740m、最大坡度 15°、平均坡度 8°。
     videoLinks:
       - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=246s
+      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=116s
+      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=880s
   - name: 連絡コース / Connection Course
     difficulty: beginner
     length: 1,250m
@@ -100,6 +102,7 @@ courses:
     videoLinks:
       - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1609s
       - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=484s
+      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=880s
     note: 官方列為初級路線；官方資料並列出全長 1,400m、最大坡度 17°、平均坡度 11°。
   - name: くるみヶ丘ゲレンデ / Kurumigaoka Slope
     difficulty: beginner
@@ -120,6 +123,7 @@ courses:
     averageSlope: 12°
     videoLinks:
       - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1368s
+      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=2312s
     note: 官方列為初級路線；官方資料並列出全長 450m、最大坡度 17°、平均坡度 12°。
   - name: 天狗おとし A / Tenguotoshi A
     difficulty: intermediate
@@ -135,6 +139,7 @@ courses:
     videoLinks:
       - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=893s
       - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=994s
+      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=1680s
     note: 官方列為中級雪道；官方資料並列出全長 1,450m、最大坡度 20°、平均坡度 13°。
   - name: ダウンヒル連絡コース / Downhill Connection Course
     difficulty: intermediate
@@ -150,6 +155,7 @@ courses:
     videoLinks:
       - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=334s
       - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=371s
+      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=116s
     note: 官方列為中級路線；官方資料並列出全長 1,250m、最大坡度 18°、平均坡度 10°。
   - name: ジャイアントコース / Giant Course
     difficulty: intermediate
@@ -158,6 +164,7 @@ courses:
     averageSlope: 14°
     videoLinks:
       - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1546s
+      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=2312s
     note: 官方列為中級路線；官方資料並列出全長 900m、最大坡度 18°、平均坡度 14°。
   - name: 杉ノ原連絡コース / Suginohara Connection Course
     difficulty: intermediate
@@ -167,6 +174,7 @@ courses:
     videoLinks:
       - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=777s
       - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=437s
+      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=880s
     note: 官方列為中級連絡路線；官方資料並列出全長 450m、最大坡度 18°、平均坡度 14°。
   - name: 杉ノ原ゾーン / Suginohara Zone
     difficulty: intermediate
@@ -245,6 +253,9 @@ sources:
 - label: Myoko Suginohara Long Trail Course Video
   url: https://www.youtube.com/watch?v=4kOOeVcoBqA
   note: 影片說明欄提供しゃくなげ、杉ノ原連絡、白樺等雪道章節時間軸。
+- label: Myoko Suginohara Course Video 2022
+  url: https://www.youtube.com/watch?v=MaRkdtTmq6o
+  note: 影片說明欄提供しゃくなげ、ダイナミック、杉ノ原連絡、白樺、パノラマ、ジャイアント、しなの木等雪道章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 杉之原位於雪國新潟南部的妙高山麓，最大亮點是日本最長級距的滑雪道之一，可從高處一路滑行約 8,500 公尺。漫長下滑中，杉林、開闊斜面與妙高山景逐段轉換，晴天甚至有機會遠望富士山；適合想把粉雪、自然景觀與日式雪場氛圍一次收進旅程的人。

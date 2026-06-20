@@ -63,6 +63,53 @@ courses:
   intermediateRatio: 21
   advancedRatio: 21
   summary: "共 14 條雪道、8 座纜車，初級 58%、中級 21%、高級 21%。"
+  details:
+    - name: "ファミリーコース / Family Course"
+      difficulty: "beginner"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=0s"
+        - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=1012s"
+    - name: "プリンスゲレンデ / Prince Slope"
+      difficulty: "beginner"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=0s"
+    - name: "トップクルーズ / Top Cruise"
+      difficulty: "beginner"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=608s"
+        - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=1012s"
+    - name: "フリーバレー / Free Valley"
+      difficulty: "beginner"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=608s"
+    - name: "くりの木コース / Kurinoki Course"
+      difficulty: "beginner"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=1012s"
+    - name: "スカイラインコース / Skyline Course"
+      difficulty: "intermediate"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=0s"
+    - name: "林間コース / Rinkan Course"
+      difficulty: "intermediate"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=0s"
+    - name: "パノラマコース / Panorama Course"
+      difficulty: "intermediate"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=247s"
+    - name: "パラレルコース / Parallel Course"
+      difficulty: "intermediate"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=400s"
+    - name: "スラロームバーン / Slalom Bahn"
+      difficulty: "advanced"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=608s"
+    - name: "アリエスカR・Lコース / Arieska R/L Course"
+      difficulty: "advanced"
+      videoLinks:
+        - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=858s"
 lifts:
   total: 8
 access:
@@ -103,6 +150,10 @@ sources:
   -
     label: "Karuizawa Prince Hotel Ski Resort Weathernews"
     url: "https://weathernews.jp/ski/spot/34813/"
+  -
+    label: "Karuizawa Prince Hotel Course Video 2023"
+    url: "https://www.youtube.com/watch?v=lo0WjW7zm5Y"
+    note: "影片說明欄提供スカイライン、ファミリー、林間、プリンスゲレンデ、パノラマ、パラレル、トップクルーズ、スラロームバーン、フリーバレー、アリエスカR・L、くりの木等雪道章節時間軸，已對應至 courses.details[].videoLinks。"
 ---
 
 輕井澤王子大飯店位於長野縣，重點不在刺激挑戰，而是讓同行者用舒服節奏熟悉雪地活動。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合把基礎練習、雪地遊玩與休息時間安排得更從容。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。

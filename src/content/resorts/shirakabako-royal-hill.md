@@ -70,6 +70,27 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   summary: "共 7 條雪道、3 座纜車，初級 40%、中級 40%、高級 20%。"
+  details:
+    - name: パノラマCコース / Panorama C Course
+      difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=1G9crb-7KlY&t=301s
+    - name: アルペンコース / Alpen Course
+      difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=1G9crb-7KlY&t=0s
+    - name: パノラマBコース / Panorama B Course
+      difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=1G9crb-7KlY&t=152s
+    - name: 雷鳥コース / Raicho Course
+      difficulty: intermediate
+      videoLinks:
+        - https://www.youtube.com/watch?v=1G9crb-7KlY&t=152s
+    - name: パノラマAコース / Panorama A Course
+      difficulty: advanced
+      videoLinks:
+        - https://www.youtube.com/watch?v=1G9crb-7KlY&t=390s
 lifts:
   total: 3
 access:
@@ -98,6 +119,10 @@ sources:
   -
     label: "Shirakabako Royal Hill Weathernews"
     url: "https://weathernews.jp/ski/spot/34833/"
+  -
+    label: "Shirakabako Royal Hill Course Video 2023"
+    url: "https://www.youtube.com/watch?v=1G9crb-7KlY"
+    note: "影片說明欄提供アルペン、パノラマB、雷鳥、パノラマC、パノラマA 等雪道章節時間軸，已對應至 courses.details[].videoLinks。"
 ---
 
 白樺湖 Royal Hill位於長野縣，入夜後的燈光雪面很有氣氛，適合把練習和夜間滑行排在同一天。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合短天數旅程中，想把滑行時間拉長的人。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。

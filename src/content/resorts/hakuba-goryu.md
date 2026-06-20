@@ -130,12 +130,16 @@ courses:
     length: 2,500m
     maxSlope: 28°
     averageSlope: 22°
+    videoLinks:
+      - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=452s
     note: Hakuba47 官方說明 R-1 早上壓雪狀態佳，兼具坡度、景觀與長度，適合中級以上滑行並建議早段時段使用。
   - name: R-4
     difficulty: intermediate
     length: 600m
     maxSlope: 16°
     averageSlope: 14°
+    videoLinks:
+      - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=1223s
     note: Hakuba47 官方說明 R-4 是 47PARKS 所在路線，含 half pipe、kicker、rail、box 與 berm 等 park item，配置會依維護與開放狀態調整。
   - name: アドベンチャーコース / Adventure Course
     difficulty: advanced
@@ -176,6 +180,7 @@ courses:
     averageSlope: 21°
     note: 五龍最大的一枚バーン。官方說明早上人少時大迴轉滑行感佳，雪道旁也有非壓雪區域，並提醒注意速度。
     videoLinks:
+      - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=0s
       - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1391s
   - name: テクニカルコース / Technical Course
     difficulty: mixed
@@ -208,6 +213,7 @@ courses:
     maxSlope: 18°
     averageSlope: 14°
     videoLinks:
+      - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=1340s
       - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=518s
       - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=1358s
       - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1798s
@@ -283,6 +289,9 @@ sources:
 - label: Hakuba Goryu and Hakuba47 Course Video 2024
   url: https://www.youtube.com/watch?v=EuUdXoyB2mo
   note: 影片說明欄提供白馬五龍 Technical、Grand Prix、Champion Dynamic、Toomi，以及 Hakuba47 部分雪道章節時間軸。
+- label: Hakuba Goryu and Hakuba47 Course Video 2022
+  url: https://www.youtube.com/watch?v=3e-zXtiQFwU
+  note: 影片說明欄提供白馬五龍 Grand Prix、Toomi，以及 Hakuba47 Route 1、snow park 章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 白馬五龍位於長野縣的白馬山麓，適合喜歡長線巡航的人，主要滑行線可拉到約 3,600 公尺。若安排白馬多日滑雪，可把它當成轉換節奏的一站；適合不想每天移動太多，想用度假節奏滑雪的人。停留時間可依練習、休息與雪景體驗彈性安排，不必把一天排得太緊。
