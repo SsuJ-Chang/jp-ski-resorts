@@ -114,6 +114,7 @@ courses:
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=775s
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=1561s
+        - https://www.youtube.com/watch?v=n9uTg14y_2A&t=586s
         - https://www.youtube.com/watch?v=U72zlDHe2F8&t=413s
         - https://www.youtube.com/watch?v=vxT0r069KSE&t=1081s
     - name: N1 スワン / Swan
@@ -123,6 +124,7 @@ courses:
       note: ブロードウェイ的迂迴路線；入口較窄但整體平緩，可從北區進出。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=1685s
+        - https://www.youtube.com/watch?v=n9uTg14y_2A&t=1557s
         - https://www.youtube.com/watch?v=U72zlDHe2F8&t=1003s
         - https://www.youtube.com/watch?v=vxT0r069KSE&t=331s
     - name: N7/N8 ローマンホリデー / Roman Holiday
@@ -140,6 +142,7 @@ courses:
       note: 中央區域主要雪道，寬度較寬、坡面變化少，偏初中級取向。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=667s
+        - https://www.youtube.com/watch?v=n9uTg14y_2A&t=56s
         - https://www.youtube.com/watch?v=U72zlDHe2F8&t=275s
         - https://www.youtube.com/watch?v=vxT0r069KSE&t=213s
     - name: N9 下山コース ファルコン / Falcon
@@ -165,6 +168,7 @@ courses:
       note: 整備過的 S 字高速雪面，可用於自由滑行與 carving。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=916s
+        - https://www.youtube.com/watch?v=n9uTg14y_2A&t=967s
         - https://www.youtube.com/watch?v=U72zlDHe2F8&t=710s
         - https://www.youtube.com/watch?v=vxT0r069KSE&t=1288s
     - name: C4 ジジ / Gigi
@@ -173,6 +177,7 @@ courses:
       maxSlope: 23°
       note: 單一寬面雪道，下段逐漸變寬，可滑順地做大迴轉。
       videoLinks:
+        - https://www.youtube.com/watch?v=n9uTg14y_2A&t=237s
         - https://www.youtube.com/watch?v=U72zlDHe2F8&t=137s
         - https://www.youtube.com/watch?v=vxT0r069KSE&t=970s
     - name: N2 ブロードウェイ / Broadway
@@ -182,6 +187,7 @@ courses:
       note: 整備後的單一寬面雪道，適合練習高速系轉彎；相較中央區較容易照自己的節奏滑行。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=63s
+        - https://www.youtube.com/watch?v=n9uTg14y_2A&t=1413s
         - https://www.youtube.com/watch?v=U72zlDHe2F8&t=923s
         - https://www.youtube.com/watch?v=vxT0r069KSE&t=804s
     - name: N3 スーパーブロードウェイ / Super Broadway
@@ -196,6 +202,7 @@ courses:
       note: 往雙人纜車 Chariot 右側為滑雪學校課程專用，左側為短雪道，適合基礎練習；往反方向可到下山コース起點。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=179s
+        - https://www.youtube.com/watch?v=n9uTg14y_2A&t=1801s
         - https://www.youtube.com/watch?v=U72zlDHe2F8&t=1163s
         - https://www.youtube.com/watch?v=vxT0r069KSE&t=902s
     - name: C5 グルノーブル / Grenoble
@@ -205,6 +212,7 @@ courses:
       note: 從 GALA 標高最高一帶開始的急斜面；春季容易形成 bumps，起點視野開闊。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=546s
+        - https://www.youtube.com/watch?v=n9uTg14y_2A&t=417s
         - https://www.youtube.com/watch?v=U72zlDHe2F8&t=37s
         - https://www.youtube.com/watch?v=vxT0r069KSE&t=95s
     - name: "S3 260万ダラー / $2,600,000"
@@ -214,6 +222,7 @@ courses:
       note: 非壓雪硬派雪道，降雪後可滑粉雪與自然 bumps，可能因積雪狀況關閉。
       videoLinks:
         - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=1002s
+        - https://www.youtube.com/watch?v=n9uTg14y_2A&t=1126s
     - name: S4/S5 ブロンコ / Bronco
       difficulty: advanced
       length: 700m
@@ -277,6 +286,9 @@ sources:
   url: https://weathernews.jp/ski/spot/35430/
 - label: GALA Yuzawa course video
   url: https://www.youtube.com/watch?v=IaD2DEbzV9o
+- label: GALA Yuzawa Route Guide Video 2024
+  url: https://www.youtube.com/watch?v=n9uTg14y_2A
+  note: 影片說明欄提供エンターテイメント、ジジ、グルノーブル、エーデルワイス、イライザ、260万ダラー、ブロードウェイ、スワン、ジョアンナ等雪道章節時間軸；ファルコン下山與連絡 ropeway 章節未對應。
 - label: GALA Yuzawa Course Video 2023
   url: https://www.youtube.com/watch?v=U72zlDHe2F8
   note: 影片說明欄提供グルノーブル、ジジ、エンターテインメント、エーデルワイス、イライザ、ブロードウェイ、スワン、ジョアンナ、下山コース等雪道章節時間軸，已對應至 courses.details[].videoLinks。

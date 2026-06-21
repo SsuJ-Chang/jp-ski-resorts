@@ -88,42 +88,60 @@ courses:
     maxSlope: 13.4°
     averageSlope: 8.45°
     note: 官方雪道資料列為初級路線，全長 821m、最大坡度 13.4°、平均坡度 8.45°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=697s
   - name: E1 第5ゲレンデ
     difficulty: beginner
     length: 676m
     maxSlope: 17.52°
     averageSlope: 12.33°
     note: 官方雪道資料列為初級路線，全長 676m、最大坡度 17.52°、平均坡度 12.33°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=322s
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=3649s
   - name: H1 第4ゲレンデ南側
     difficulty: beginner
     length: 337m
     maxSlope: 14.22°
     averageSlope: 9.34°
     note: 官方雪道資料列為初級路線，全長 337m、最大坡度 14.22°、平均坡度 9.34°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=224s
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=2768s
   - name: H2 第4ゲレンデ北側
     difficulty: beginner
     length: 329m
     maxSlope: 15.07°
     averageSlope: 11.12°
     note: 官方雪道資料列為初級路線，全長 329m、最大坡度 15.07°、平均坡度 11.12°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=115s
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=3057s
   - name: DG1 ドラゴンドラ連絡コース
     difficulty: beginner
     length: 1,078m
     maxSlope: 14.02°
     averageSlope: 8.51°
     note: 官方雪道資料列為初級路線，全長 1,078m、最大坡度 14.02°、平均坡度 8.51°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=2197s
   - name: G1 第2ゲレンデ
     difficulty: beginner
     length: 976m
     maxSlope: 16.51°
     averageSlope: 11.09°
     note: 官方雪道資料列為初級路線，全長 976m、最大坡度 16.51°、平均坡度 11.09°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=2057s
   - name: G2 火打ゲレンデ
     difficulty: beginner
     length: 845m
     maxSlope: 12.31°
     averageSlope: 5.17°
     note: 官方雪道資料列為初級路線，全長 845m、最大坡度 12.31°、平均坡度 5.17°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=1774s
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=2323s
   - name: L1 火打第1ロマンスリフトゲレンデ
     difficulty: beginner
     length: 394m
@@ -136,6 +154,8 @@ courses:
     maxSlope: 11.35°
     averageSlope: 11.03°
     note: 官方雪道資料列為初級路線，全長 438m、最大坡度 11.35°、平均坡度 11.03°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=983s
   - name: J2 筍平連絡コース
     difficulty: beginner
     length: 506m
@@ -148,18 +168,25 @@ courses:
     maxSlope: 21.02°
     averageSlope: 16.39°
     note: 官方雪道資料列為中級路線，全長 806m、最大坡度 21.02°、平均坡度 16.39°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=2436s
   - name: G3 第3ゲレンデ
     difficulty: intermediate
     length: 513m
     maxSlope: 21.3°
     averageSlope: 16.4°
     note: 官方雪道資料列為中級路線，全長 513m、最大坡度 21.3°、平均坡度 16.4°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=1899s
   - name: A1 大斜面～一般コース
     difficulty: intermediate
     length: 2,387m
     maxSlope: 27.08°
     averageSlope: 14.55°
     note: 官方雪道資料列為中級路線，全長 2,387m、最大坡度 27.08°、平均坡度 14.55°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=1135s
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=1545s
   - name: B1 わくわくコース
     difficulty: intermediate
     length: 1,300m
@@ -172,6 +199,8 @@ courses:
     maxSlope: 23.48°
     averageSlope: 14.24°
     note: 官方雪道資料列為中級路線，全長 945m、最大坡度 23.48°、平均坡度 14.24°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=1640s
   - name: K1 筍山スカイライン
     difficulty: intermediate
     length: 1,286m
@@ -202,12 +231,16 @@ courses:
     maxSlope: 32.16°
     averageSlope: 25.22°
     note: 官方註記為非壓雪、上級者路線，並提醒雪不足時需注意段差、裂縫、灌木與石頭等。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=2807s
   - name: B3 女子リーゼン
     difficulty: advanced
     length: 415m
     maxSlope: 30.01°
     averageSlope: 26°
     note: 官方註記為非壓雪、上級者路線；官方資料並列出全長 415m、最大坡度 30.01°、平均坡度 26°。
+    videoLinks:
+      - https://www.youtube.com/watch?v=9bL9EKCuLx0&t=2568s
   - name: B4 男子スラローム
     difficulty: advanced
     length: 206m
@@ -276,6 +309,9 @@ sources:
   url: https://weathernews.jp/ski/spot/35405/
 - label: Naeba Access
   url: https://www.princehotels.co.jp/ski/naeba/winter/access/
+- label: Naeba Route Guide Video 2025
+  url: https://www.youtube.com/watch?v=9bL9EKCuLx0
+  note: 影片說明欄提供第4ゲレンデ北側、第4ゲレンデ南側、第5ゲレンデ、第4高速リフト南側、筍平ゲレンデ、大斜面、チャレンジ、火打、第3、第2、ドラゴンドラ連絡、第8高速リフト北側、女子リーゼン、男子リーゼン等雪道章節時間軸；纜車、雪上公園與設施章節未對應。
 terrainSummary:
   beginner: 飯店前、火打與筍平區域有多條初級雪道，適合家庭與住宿型行程練習。
   intermediate: 大斜面、わくわく、筍山 Skyline 等中級路線提供較長滑行距離與不同區域串聯。

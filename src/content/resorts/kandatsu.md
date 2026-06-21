@@ -82,6 +82,10 @@ courses:
     averageSlope: 15°
     note: D 纜車山頂出發，官方說明是神立中積雪量最高的路線之一。
     videoLinks:
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=328s
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=741s
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=1103s
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=1565s
       - https://www.youtube.com/watch?v=mA055HfYWJA&t=342s
   - name: 2 プロキオン
     difficulty: beginner
@@ -89,8 +93,10 @@ courses:
     averageSlope: 12°
     note: 官方說明為初學者也安心的緩坡路線，可接往 Pollux 與 Castor；從上方 Andromeda 連續滑下時，初學者也可完成約 2,500m 長距離滑行。
     videoLinks:
-      - https://www.youtube.com/watch?v=pQzzj5_0L98&t=190s
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=741s
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=1307s
       - https://www.youtube.com/watch?v=mA055HfYWJA&t=36s
+      - https://www.youtube.com/watch?v=pQzzj5_0L98&t=190s
   - name: 3 ポルックス
     difficulty: beginner
     length: 1,100m
@@ -98,19 +104,22 @@ courses:
     averageSlope: 10°
     note: 神立主要雪道之一。官方說明全長 1,100m、平均寬度 50m，寬廣且長，初級到上級都可使用。
     videoLinks:
-      - https://www.youtube.com/watch?v=pQzzj5_0L98&t=258s
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=0s
       - https://www.youtube.com/watch?v=mA055HfYWJA&t=160s
+      - https://www.youtube.com/watch?v=pQzzj5_0L98&t=258s
   - name: 4 ベガ
     difficulty: beginner
     maxSlope: 10°
     averageSlope: 6°
     note: 官方說明此路線也用於初學者學校課程；往山麓右側是較寬的下山路線，途中有些微斜度。
     videoLinks:
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=1904s
       - https://www.youtube.com/watch?v=pQzzj5_0L98&t=375s
   - name: 5 ポラリス
     difficulty: beginner
     note: 官方說明為緩和且寬的路線，尚未習慣雪上運動的人也可安心使用。
     videoLinks:
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=1783s
       - https://www.youtube.com/watch?v=mA055HfYWJA&t=827s
   - name: 6 スバル
     difficulty: intermediate
@@ -126,17 +135,22 @@ courses:
     averageSlope: 16°
     note: 官方說明路線相對平緩，但從 C 纜車看得清楚，對中級者來說很有滑行感，同時也不能鬆懈。
     videoLinks:
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=1565s
       - https://www.youtube.com/watch?v=mA055HfYWJA&t=370s
   - name: 8 シリウス
     difficulty: intermediate
     maxSlope: 25°
     averageSlope: 16°
     note: 自然地形起伏保留的路線，官方說明最大 25°、平均 16°，是神立較隱密的雪道。
+    videoLinks:
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=328s
   - name: 9 レグルス
     difficulty: intermediate
     maxSlope: 25°
     averageSlope: 16°
     note: 官方說明雪道寬度足夠，一半常被整備為平坦斜面，可進行 carving 等訓練；另一半作為雪丘區使用。
+    videoLinks:
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=1307s
   - name: 10 カストル
     difficulty: intermediate
     length: 1,100m
@@ -144,6 +158,7 @@ courses:
     averageSlope: 8°
     note: 與 Pollux 相鄰的 1,100m 長距離路線。官方說明鄰近 B 纜車，也作為地形公園路線。
     videoLinks:
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=194s
       - https://www.youtube.com/watch?v=mA055HfYWJA&t=126s
   - name: 11 ミルキーウェイ
     difficulty: advanced
@@ -164,6 +179,7 @@ courses:
     averageSlope: 34°
     note: 曾舉辦雪丘賽事的雪丘斜面；官方說明新雪隔天也可享受粉雪。
     videoLinks:
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=1565s
       - https://www.youtube.com/watch?v=mA055HfYWJA&t=444s
   - name: 14 ペルセウス
     difficulty: advanced
@@ -171,6 +187,8 @@ courses:
     averageSlope: 17°
     note: 官方說明為中上級者人氣雪道，最大 28°、平均 17° 的適度斜度適合磨練技術。
     videoLinks:
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=328s
+      - https://www.youtube.com/watch?v=SR8KJFQl3Zw&t=1103s
       - https://www.youtube.com/watch?v=mA055HfYWJA&t=234s
   - name: 15 スーパーアンタレス
     difficulty: advanced
@@ -217,6 +235,9 @@ sources:
   url: https://weathernews.jp/ski/spot/35425/
 - label: Kandatsu Access
   url: https://www.kandatsu.com/access/
+- label: Kandatsu Route Guide Video 2024
+  url: https://www.youtube.com/watch?v=SR8KJFQl3Zw
+  note: 影片說明欄提供ポルックス、カストル、アンドロメダ、シリウス、ペルセウス、プロキオン、レグルス、ペガサス、ヘラクレス、ポラリス、ベガ等雪道章節時間軸；Mid Base、Ground Base 與纜車章節未對應。
 - label: Kandatsu Long Run Course Video
   url: https://www.youtube.com/watch?v=pQzzj5_0L98
   note: 影片說明欄提供スバル、プロキオン、ポルックス、ベガ等雪道章節時間軸。

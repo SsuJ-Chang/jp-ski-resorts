@@ -135,7 +135,10 @@ externalContent:
     - title: "Naspa新大谷飯店住宿心得︱ski in/out 旁邊是Naspa滑雪場，親子友善飯店，蟹腳&牛排豪華晚餐"
       url: https://natasha-traveler.tw/naspa-new-otani-hotel/
       note: "娜塔蝦的滑雪食旅手記，2025-05-13"
-  vlogs: []
+  vlogs:
+    - title: "【4K.ナスパスキー場】全部わかる‼︎ ホテルナスパニューオータニをフロアMAP付きでぐるっとご案内‼︎【客室レストラン|越後湯沢駅NASPA】NASPA New Otani Hotel Guide."
+      url: https://www.youtube.com/watch?v=S9dJA1r4J68
+      note: "MIRU tube JAPAN 【Route Guide】"
 sources:
 - label: NASPA Ski Garden Official Website
   url: https://www.naspa.co.jp/ski/

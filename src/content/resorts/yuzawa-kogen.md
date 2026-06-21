@@ -77,6 +77,7 @@ courses:
       averageSlope: 7°
       note: 可一邊眺望湯澤群山一邊滑行的初級路線，官方標示適合初學者與家庭使用。
       videoLinks:
+        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=280s
         - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=167s
     - name: 波斯菊雪道 / コスモスコース
       difficulty: beginner
@@ -85,6 +86,7 @@ courses:
       averageSlope: 7°
       note: 從高原 Express Lift 上站往右進入的緩斜面，適合放鬆滑行。
       videoLinks:
+        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=932s
         - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=401s
     - name: 鈴蘭雪道 / スズランコース
       difficulty: beginner
@@ -92,12 +94,16 @@ courses:
       maxSlope: 7°
       averageSlope: 7°
       note: 位於波斯菊雪道旁的平緩雪道，官方說明常作為雙板與雪板課程使用。
+      videoLinks:
+        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=1198s
     - name: 家庭雪道 / ファミリーコース
       difficulty: beginner
       length: 250m
       maxSlope: 8°
       averageSlope: 7°
       note: 布場區的家庭取向雪道，適合初學者與兒童練習。
+      videoLinks:
+        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=1831s
     - name: 入門雪道 / デビューコース
       difficulty: beginner
       length: 100m
@@ -111,6 +117,7 @@ courses:
       averageSlope: 20°
       note: 高原區的主要寬幅雪道，下部設有非壓雪區，官方標示可享受深雪。
       videoLinks:
+        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=803s
         - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=101s
     - name: 藍罌粟雪道 / 青いケシコース
       difficulty: advanced
@@ -118,6 +125,8 @@ courses:
       maxSlope: 28°
       averageSlope: 22°
       note: 從高原 Express Lift 上站進入、沿 Lift 旁滑下的陡斜面路線。
+      videoLinks:
+        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=666s
     - name: 駒草下山雪道 / コマクサ下山コース
       difficulty: advanced
       length: 2,000m
@@ -125,6 +134,7 @@ courses:
       averageSlope: 12°
       note: 從山頂高原區滑往布場區的下山路線，上部為狹窄蜿蜒路段，官方建議中級以上滑行者注意使用。
       videoLinks:
+        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=1334s
         - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=479s
 access:
   fromTokyo:
@@ -155,6 +165,9 @@ sources:
   url: https://www.yuzawakogen.com/winter/gelaende/
 - label: Yuzawa Kogen Ski Resort Ticket
   url: https://www.yuzawakogen.com/winter/tickets/
+- label: Yuzawa Kogen Route Guide Video 2024
+  url: https://www.youtube.com/watch?v=y3IIgAU46W8
+  note: 影片說明欄提供パノラマ、青いケシ、キスゲ、コスモス、スズラン、コマクサ下山、ファミリー等雪道章節時間軸；ropeway 與連絡交通章節未對應。
 - label: Yuzawa Kogen Course Video
   url: https://www.youtube.com/watch?v=uiSqhmdWXl4
   note: 影片說明欄提供キスゲ、パノラマ、コスモス、コマクサ等雪道章節時間軸。
