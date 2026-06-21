@@ -12,10 +12,19 @@ const cleanParams = (params: AnalyticsEventParams) =>
     Object.entries(params).filter(([, value]) => value !== undefined && value !== null && value !== ''),
   )
 
+const isDebugMode = () => {
+  const params = new URLSearchParams(window.location.search)
+
+  return params.get('ga_debug') === '1' || params.get('debug_mode') === 'true'
+}
+
 export const trackEvent = (eventName: string, params: AnalyticsEventParams = {}) => {
   if (typeof window === 'undefined' || typeof window.gtag !== 'function') return
 
-  window.gtag('event', eventName, cleanParams(params))
+  window.gtag('event', eventName, cleanParams({
+    ...params,
+    debug_mode: isDebugMode() ? true : undefined,
+  }))
 }
 
 export const getTextLengthBucket = (value: string) => {
