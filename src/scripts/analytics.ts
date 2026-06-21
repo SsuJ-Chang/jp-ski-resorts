@@ -21,10 +21,16 @@ const isDebugMode = () => {
 export const trackEvent = (eventName: string, params: AnalyticsEventParams = {}) => {
   if (typeof window === 'undefined' || typeof window.gtag !== 'function') return
 
-  window.gtag('event', eventName, cleanParams({
+  const eventParams = cleanParams({
     ...params,
     debug_mode: isDebugMode() ? true : undefined,
-  }))
+  })
+
+  if (isDebugMode()) {
+    console.debug('[analytics]', eventName, eventParams)
+  }
+
+  window.gtag('event', eventName, eventParams)
 }
 
 export const getTextLengthBucket = (value: string) => {

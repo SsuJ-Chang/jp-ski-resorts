@@ -1,6 +1,8 @@
 import { trackEvent } from './analytics'
 
 const pageContextElement = document.querySelector<HTMLElement>('[data-analytics-view]')
+const resourceClickTrackedAt = new WeakMap<HTMLAnchorElement, number>()
+const resourceClickDedupeMs = 750
 
 const getResortParams = (element?: HTMLElement | null) => ({
   resort_slug: element?.dataset.resortSlug ?? pageContextElement?.dataset.resortSlug,
@@ -60,12 +62,20 @@ const trackResortCardClick = (card: HTMLElement) => {
 }
 
 const trackResourceClick = (link: HTMLAnchorElement) => {
+  const now = Date.now()
+  const lastTrackedAt = resourceClickTrackedAt.get(link) ?? 0
+
+  if (now - lastTrackedAt < resourceClickDedupeMs) return
+
+  resourceClickTrackedAt.set(link, now)
+
   trackEvent('outbound_resource_click', {
     ...getResortParams(link),
     resource_type: link.dataset.analyticsResource,
     resource_label: getAnalyticsText(link.dataset.analyticsLabel ?? link.textContent),
     resource_note: getAnalyticsText(link.dataset.analyticsNote),
     link_domain: getLinkDomain(link.href),
+    transport_type: 'beacon',
   })
 }
 
@@ -78,6 +88,13 @@ const trackContentSelection = (element: HTMLElement) => {
 }
 
 trackPageViewContext()
+
+document.addEventListener('pointerdown', (event) => {
+  if (!(event.target instanceof Element)) return
+
+  const resourceLink = event.target.closest<HTMLAnchorElement>('a[data-analytics-resource]')
+  if (resourceLink) trackResourceClick(resourceLink)
+}, { capture: true })
 
 document.addEventListener('click', (event) => {
   if (!(event.target instanceof Element)) return
