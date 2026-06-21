@@ -76,6 +76,7 @@ courses:
     - name: O3 奥添地ランランコース
       difficulty: beginner
       videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=2035s
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=148s
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=1404s
         - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=611s
@@ -85,6 +86,7 @@ courses:
     - name: O5 ルンルンコース
       difficulty: beginner
       videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=1823s
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=236s
       length: 300m
       maxSlope: 12°
@@ -92,6 +94,7 @@ courses:
     - name: O7 ラクラクコース
       difficulty: beginner
       videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=3671s
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=815s
       length: 400m
       maxSlope: 9°
@@ -100,6 +103,7 @@ courses:
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=879s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=352s
         - https://www.youtube.com/watch?v=nC4945tXMBE&t=448s
         - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=1539s
       length: 760m
@@ -109,12 +113,17 @@ courses:
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=696s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=117s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=900s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=1164s
         - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=1305s
       length: 930m
       maxSlope: 10°
       averageSlope: 8°
     - name: M21 イージーコース
       difficulty: beginner
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=352s
       length: 300m
       maxSlope: 9°
       averageSlope: 7°
@@ -131,6 +140,7 @@ courses:
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=983s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=4473s
         - https://www.youtube.com/watch?v=nC4945tXMBE&t=518s
       length: 480m
       maxSlope: 7°
@@ -139,6 +149,7 @@ courses:
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=798s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=1164s
         - https://www.youtube.com/watch?v=nC4945tXMBE&t=296s
       length: 830m
       maxSlope: 8°
@@ -151,10 +162,14 @@ courses:
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=939s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=117s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=900s
         - https://www.youtube.com/watch?v=nC4945tXMBE&t=480s
     - name: N3 長峰ランランコース
       difficulty: beginner
       videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=1638s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=2556s
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=1541s
         - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=93s
         - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=886s
@@ -171,6 +186,7 @@ courses:
     - name: O4 グイグイコース
       difficulty: intermediate
       videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=2035s
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=396s
         - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=611s
       length: 940m
@@ -179,6 +195,7 @@ courses:
     - name: O6 スイスイコース
       difficulty: intermediate
       videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=1823s
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=270s
         - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=527s
       length: 500m
@@ -187,6 +204,7 @@ courses:
     - name: O8 サンサンコース
       difficulty: intermediate
       videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=3671s
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=747s
         - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=886s
       length: 300m
@@ -196,6 +214,7 @@ courses:
       difficulty: intermediate
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=172s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=627s
         - https://www.youtube.com/watch?v=nC4945tXMBE&t=605s
       length: 1,370m
       maxSlope: 29°
@@ -204,6 +223,8 @@ courses:
       difficulty: intermediate
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=1173s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=117s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=1164s
         - https://www.youtube.com/watch?v=nC4945tXMBE&t=131s
       length: 500m
       maxSlope: 18°
@@ -212,6 +233,7 @@ courses:
       difficulty: intermediate
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=597s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=900s
         - https://www.youtube.com/watch?v=nC4945tXMBE&t=366s
         - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=1305s
       length: 180m
@@ -226,6 +248,7 @@ courses:
       difficulty: intermediate
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=1076s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=484s
         - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=1614s
       length: 680m
       maxSlope: 18°
@@ -233,6 +256,7 @@ courses:
     - name: N9 ギンギンコース
       difficulty: intermediate
       videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=3903s
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=1003s
       length: 670m
       maxSlope: 22°
@@ -240,6 +264,7 @@ courses:
     - name: N11 ビュンビュンコース
       difficulty: intermediate
       videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=3903s
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=1262s
         - https://www.youtube.com/watch?v=3PZG9TyIt2I&t=93s
       length: 800m
@@ -248,6 +273,7 @@ courses:
     - name: O1 グングンコース
       difficulty: advanced
       videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=2284s
         - https://www.youtube.com/watch?v=rjL8o3aKQII&t=558s
       length: 820m
       maxSlope: 24°
@@ -263,6 +289,7 @@ courses:
       difficulty: advanced
       videoLinks:
         - https://www.youtube.com/watch?v=vGkPIXt9d9U&t=360s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=627s
       length: 170m
       maxSlope: 32°
       averageSlope: 30°
@@ -309,6 +336,9 @@ sources:
 - label: Maiko Area Course Video 2026
   url: https://www.youtube.com/watch?v=vGkPIXt9d9U
   note: 影片說明欄提供舞子區域バンビ、ドルフィン、チャンピオン、ゴールド、キンダー、ロマンス、パラダイス、メロディーライン、ファミリー、リーゼン、ブロンズ等雪道章節時間軸。
+- label: Maiko Snow Resort Route Guide Video 2026
+  url: https://www.youtube.com/watch?v=KewGVrs_lb4
+  note: 影片說明欄提供舞子、奧添地、長峰區域的 M15、M20、M26、M19、M21、M18、M14、M13、M16、M24、N3、O5、O6、O3、O4、O1、O8、O7、N9、N11、M23 等雪道章節時間軸；聯絡、纜車、中心設施等非雪道章節未對應。
 - label: Maiko Okusoechi Nagamine Course Video 2026
   url: https://www.youtube.com/watch?v=rjL8o3aKQII
   note: 影片說明欄提供奧添地與長峰區域ランラン、ルンルン、スイスイ、グイグイ、グングン、サンサン、ラクラク、ゾクゾク、ギンギン、ガンガン、ビュンビュン、チョイチョイ等雪道章節時間軸。
