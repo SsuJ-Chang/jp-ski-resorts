@@ -26,10 +26,6 @@ export const trackEvent = (eventName: string, params: AnalyticsEventParams = {})
     debug_mode: isDebugMode() ? true : undefined,
   })
 
-  if (isDebugMode()) {
-    console.debug('[analytics]', eventName, eventParams)
-  }
-
   window.gtag('event', eventName, eventParams)
 }
 
