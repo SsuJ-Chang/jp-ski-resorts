@@ -218,7 +218,13 @@ const resortStructuredData = [
   canonicalPath={resortCanonicalPath}
   structuredData={resortStructuredData}
 >
-  <main class="site-shell page-stack">
+  <main
+    class="site-shell page-stack"
+    data-analytics-view="resort"
+    data-resort-slug={resort.id}
+    data-resort-region={resort.data.region}
+    data-resort-prefecture={resort.data.prefecture}
+  >
     <a class="text-link" href={withBasePath('/resorts/')}>回滑雪場列表</a>
 
     <section class="detail-hero" aria-labelledby="page-title">
@@ -230,7 +236,13 @@ const resortStructuredData = [
           {resort.data.name.en && <span>{resort.data.name.en}</span>}
         </p>
         {skiArea && (
-          <a class="ski-area-pill-link" href={withBasePath(`/ski-areas/${skiArea.key}/`)}>
+          <a
+            class="ski-area-pill-link"
+            href={withBasePath(`/ski-areas/${skiArea.key}/`)}
+            data-analytics-select="ski_area"
+            data-select-id={skiArea.key}
+            data-source-area="resort_detail"
+          >
             雪場區域：{skiArea.name.zhTw}
           </a>
         )}
@@ -260,7 +272,13 @@ const resortStructuredData = [
                 <dd>
                   <span>{resort.data.contact.address.zhTw}</span>
                   <span>{resort.data.contact.address.ja}</span>
-                  <a href={resort.data.contact.address.googleMaps} target="_blank" rel="noreferrer">
+                  <a
+                    href={resort.data.contact.address.googleMaps}
+                    target="_blank"
+                    rel="noreferrer"
+                    data-analytics-resource="google_maps"
+                    data-analytics-label="Google Maps"
+                  >
                     Google Maps
                   </a>
                 </dd>
@@ -274,7 +292,13 @@ const resortStructuredData = [
               <div>
                 <dt>官方網站</dt>
                 <dd>
-                  <a href={resort.data.links.official} target="_blank" rel="noreferrer">
+                  <a
+                    href={resort.data.links.official}
+                    target="_blank"
+                    rel="noreferrer"
+                    data-analytics-resource="official_site"
+                    data-analytics-label={`${resort.data.name.zhTw}官方網站`}
+                  >
                     {resort.data.name.en ?? resort.data.name.zhTw}
                   </a>
                 </dd>
@@ -323,7 +347,13 @@ const resortStructuredData = [
             <div class="section-heading-row">
               <h2 id="access-heading">交通方式</h2>
               {resort.data.links.access && (
-                <a href={resort.data.links.access} target="_blank" rel="noreferrer">
+                <a
+                  href={resort.data.links.access}
+                  target="_blank"
+                  rel="noreferrer"
+                  data-analytics-resource="official_access"
+                  data-analytics-label="官方交通資訊"
+                >
                   官方交通資訊
                 </a>
               )}
@@ -377,7 +407,14 @@ const resortStructuredData = [
           <section class="info-panel detail-panel detail-panel--wide">
             <div class="section-heading-row">
               <h2>主要票種</h2>
-              <a href={resort.data.tickets.source} target="_blank" rel="noreferrer">
+              <a
+                href={resort.data.tickets.source}
+                target="_blank"
+                rel="noreferrer"
+                data-analytics-resource="ticket_price"
+                data-analytics-label="官方票價"
+                data-analytics-note={resort.data.tickets.note}
+              >
                 官方票價
               </a>
             </div>
@@ -404,7 +441,13 @@ const resortStructuredData = [
             <div class="section-heading-row">
               <h2>雪道與地形資訊</h2>
               {resort.data.courses?.courseInfoPage && (
-                <a href={resort.data.courses.courseInfoPage} target="_blank" rel="noreferrer">
+                <a
+                  href={resort.data.courses.courseInfoPage}
+                  target="_blank"
+                  rel="noreferrer"
+                  data-analytics-resource="official_courses"
+                  data-analytics-label="官方雪道資訊"
+                >
                   官方雪道資訊
                 </a>
               )}
@@ -469,7 +512,13 @@ const resortStructuredData = [
             )}
             {resort.data.courses?.courseInfoPage && (
               <div class="resource-section resource-detail-actions">
-                <a class="text-link resource-detail-link" href={withBasePath(`/resorts/${resort.id}/courses/`)}>
+                <a
+                  class="text-link resource-detail-link"
+                  href={withBasePath(`/resorts/${resort.id}/courses/`)}
+                  data-analytics-select="resort_courses"
+                  data-select-id={resort.id}
+                  data-source-area="resort_detail"
+                >
                   雪道詳細資訊
                 </a>
               </div>
@@ -480,7 +529,16 @@ const resortStructuredData = [
                   {resort.data.trailMaps.map((map) => (
                     <li>
                       <div>
-                        <a href={map.url} target="_blank" rel="noreferrer">{map.label}</a>
+                        <a
+                          href={map.url}
+                          target="_blank"
+                          rel="noreferrer"
+                          data-analytics-resource="trail_map"
+                          data-analytics-label={map.label}
+                          data-analytics-note={[map.sourceLabel, map.season].filter(Boolean).join(' / ')}
+                        >
+                          {map.label}
+                        </a>
                       </div>
                     </li>
                   ))}
@@ -537,7 +595,14 @@ const resortStructuredData = [
               )}
               <p class="resource-provider">
                 資料來源：
-                <a href={snowWeather.url} target="_blank" rel="noreferrer">
+                <a
+                  href={snowWeather.url}
+                  target="_blank"
+                  rel="noreferrer"
+                  data-analytics-resource="snow_weather"
+                  data-analytics-label={snowWeather.provider ?? snowWeather.title}
+                  data-analytics-note={snowWeather.note}
+                >
                   {snowWeather.provider ?? snowWeather.title}
                 </a>
               </p>
@@ -556,7 +621,16 @@ const resortStructuredData = [
                 <ul class="link-list">
                   {resort.data.externalContent.blogs.map((blog) => (
                     <li>
-                      <a href={blog.url} target="_blank" rel="noreferrer">{blog.title}</a>
+                      <a
+                        href={blog.url}
+                        target="_blank"
+                        rel="noreferrer"
+                        data-analytics-resource="blog"
+                        data-analytics-label={blog.title}
+                        data-analytics-note={blog.note}
+                      >
+                        {blog.title}
+                      </a>
                     </li>
                   ))}
                 </ul>
@@ -568,7 +642,16 @@ const resortStructuredData = [
                 <ul class="link-list">
                   {resort.data.externalContent.vlogs.map((vlog) => (
                     <li>
-                      <a href={vlog.url} target="_blank" rel="noreferrer">{vlog.title}</a>
+                      <a
+                        href={vlog.url}
+                        target="_blank"
+                        rel="noreferrer"
+                        data-analytics-resource="vlog"
+                        data-analytics-label={vlog.title}
+                        data-analytics-note={vlog.note}
+                      >
+                        {vlog.title}
+                      </a>
                     </li>
                   ))}
                 </ul>

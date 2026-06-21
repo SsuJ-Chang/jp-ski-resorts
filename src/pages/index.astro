@@ -114,6 +114,9 @@ const websiteStructuredData = {
               class={`region-strip region-strip--${region.tone}`}
               href={withBasePath(`/regions/${region.key}/`)}
               style={`--index: ${index}`}
+              data-analytics-select="region"
+              data-select-id={region.key}
+              data-source-area="home_region_list"
             >
               <span class="region-strip__name">{region.name.zhTw}</span>
               <small class="region-strip__meta">

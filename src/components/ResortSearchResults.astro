@@ -9,6 +9,7 @@ type Props = {
   regionNamesByKey?: Record<string, string>
   showRegionMeta?: boolean
   ariaLabel?: string
+  sourceArea?: string
 }
 
 const {
@@ -16,6 +17,7 @@ const {
   regionNamesByKey = {},
   showRegionMeta = true,
   ariaLabel = 'Resorts',
+  sourceArea = 'resort_listing',
 } = Astro.props
 ---
 
@@ -23,7 +25,7 @@ const {
   <span data-resort-result-count>{resorts.length} 座雪場</span>
 </div>
 
-<section class="resort-grid" aria-label={ariaLabel}>
+<section class="resort-grid" aria-label={ariaLabel} data-resort-results data-source-area={sourceArea}>
   {resorts.map((resort) => {
     const prefectureKey = getResortPrefectureKey(resort) ?? ''
     const regionName = regionNamesByKey[resort.data.region] ?? resort.data.region
@@ -42,6 +44,10 @@ const {
         href={withBasePath(`/resorts/${resort.id}/`)}
         data-resort-card
         data-search-text={searchableName}
+        data-resort-slug={resort.id}
+        data-resort-region={resort.data.region}
+        data-resort-prefecture={resort.data.prefecture}
+        data-source-area={sourceArea}
         data-prefecture-key={prefectureKey}
         data-tags={resort.data.tags.join(' ')}
       >

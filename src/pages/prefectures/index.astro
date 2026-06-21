@@ -46,7 +46,13 @@ const prefectureGroups = browseAreaKeys
           </div>
           <div class="prefecture-link-list">
             {group.prefectures.map((prefecture) => (
-              <a class="prefecture-link-card" href={withBasePath(`/prefectures/${prefecture.key}/`)}>
+              <a
+                class="prefecture-link-card"
+                href={withBasePath(`/prefectures/${prefecture.key}/`)}
+                data-analytics-select="prefecture"
+                data-select-id={prefecture.key}
+                data-source-area="prefecture_index"
+              >
                 <span>{prefecture.name.zhTw}</span>
                 <strong>{prefecture.count} 座</strong>
               </a>

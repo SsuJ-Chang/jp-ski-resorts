@@ -75,6 +75,9 @@ const viewBox = mode === 'region' && regionShape ? regionShape.viewBox : '0 0 80
           ]}
           href={withBasePath(`/regions/${item.key}/`)}
           aria-label={`${item.name.zhTw}，收錄 ${item.count} 座滑雪場`}
+          data-analytics-select="region"
+          data-select-id={item.key}
+          data-source-area="home_region_map"
         >
           <path d={mapRegionShapes[item.key].path} />
           <text x={mapRegionShapes[item.key].labelX} y={mapRegionShapes[item.key].labelY}>

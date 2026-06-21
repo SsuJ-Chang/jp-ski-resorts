@@ -1,3 +1,5 @@
+import { getTextLengthBucket, trackEvent } from './analytics'
+
 type ResortCard = HTMLElement & {
   dataset: DOMStringMap & {
     searchText?: string
@@ -36,13 +38,69 @@ const matchesSelectedPrefectures = (card: ResortCard, selectedPrefectures: strin
 const matchesSelectedTags = (card: ResortCard, selectedTags: string[]) =>
   selectedTags.length === 0 || selectedTags.every((tag) => getCardTags(card).includes(tag))
 
+const getZeroResultValue = (resultCount: number) => (resultCount === 0 ? 'true' : 'false')
+
+const trackResortSearch = (
+  query: string,
+  resultCount: number,
+  selectedPrefectures: string[],
+  selectedTags: string[],
+  sourceArea: string,
+) => {
+  if (!query.trim()) return
+
+  trackEvent('resort_search', {
+    result_count: resultCount,
+    zero_result: getZeroResultValue(resultCount),
+    query_length_bucket: getTextLengthBucket(query),
+    filter_prefecture_count: selectedPrefectures.length,
+    filter_tag_count: selectedTags.length,
+    source_area: sourceArea,
+  })
+}
+
+const trackAppliedFilters = (
+  resultCount: number,
+  selectedPrefectures: string[],
+  selectedTags: string[],
+  sourceArea: string,
+) => {
+  const selectedFilterCount = selectedPrefectures.length + selectedTags.length
+  if (selectedFilterCount === 0) return
+
+  const baseParams = {
+    result_count: resultCount,
+    zero_result: getZeroResultValue(resultCount),
+    selected_filter_count: selectedFilterCount,
+    source_area: sourceArea,
+  }
+
+  for (const prefecture of selectedPrefectures) {
+    trackEvent('filter_apply', {
+      ...baseParams,
+      filter_type: 'prefecture',
+      filter_value: prefecture,
+    })
+  }
+
+  for (const tag of selectedTags) {
+    trackEvent('filter_apply', {
+      ...baseParams,
+      filter_type: 'tag',
+      filter_value: tag,
+    })
+  }
+}
+
 const applyResortFilters = () => {
+  const resultsBlock = document.querySelector<HTMLElement>('[data-resort-results]')
   const resortCards = Array.from(document.querySelectorAll<ResortCard>('[data-resort-card]'))
   const countElement = document.querySelector<HTMLElement>('[data-resort-result-count]')
   const params = new URLSearchParams(window.location.search)
   const query = params.get('q') ?? ''
   const selectedPrefectures = params.getAll('prefecture').filter(Boolean)
   const selectedTags = params.getAll('tag').filter(Boolean)
+  const sourceArea = resultsBlock?.dataset.sourceArea ?? 'resort_listing'
 
   let visibleCount = 0
 
@@ -57,6 +115,9 @@ const applyResortFilters = () => {
   }
 
   if (countElement) countElement.textContent = `${visibleCount} 座雪場`
+
+  trackResortSearch(query, visibleCount, selectedPrefectures, selectedTags, sourceArea)
+  trackAppliedFilters(visibleCount, selectedPrefectures, selectedTags, sourceArea)
 }
 
 applyResortFilters()

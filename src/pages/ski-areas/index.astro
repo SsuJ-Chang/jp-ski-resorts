@@ -32,7 +32,13 @@ const areas = publishedSkiAreaKeys.map((key) => skiAreas[key])
 
     <section class="ski-area-grid" aria-label="雪場區域列表">
       {areas.map((area) => (
-        <a class="ski-area-card" href={withBasePath(`/ski-areas/${area.key}/`)}>
+        <a
+          class="ski-area-card"
+          href={withBasePath(`/ski-areas/${area.key}/`)}
+          data-analytics-select="ski_area"
+          data-select-id={area.key}
+          data-source-area="ski_area_index"
+        >
           <div>
             <p class="resort-card__meta">{area.prefecture} / {area.accessHub}</p>
             <h2>{area.name.zhTw}</h2>

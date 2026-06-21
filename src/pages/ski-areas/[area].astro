@@ -76,7 +76,15 @@ const areaTitle = `${area.name.zhTw}一帶雪場`
       </div>
       <div class="resort-grid">
         {orderedResorts.map((resort) => (
-          <a class="resort-card" href={withBasePath(`/resorts/${resort.id}/`)}>
+          <a
+            class="resort-card"
+            href={withBasePath(`/resorts/${resort.id}/`)}
+            data-resort-card
+            data-resort-slug={resort.id}
+            data-resort-region={resort.data.region}
+            data-resort-prefecture={resort.data.prefecture}
+            data-source-area="ski_area_detail"
+          >
             <div>
               <p class="resort-card__meta">{resort.data.prefecture}</p>
               <h2>{resort.data.name.zhTw}</h2>

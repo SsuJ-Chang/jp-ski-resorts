@@ -37,6 +37,10 @@ const regionNamesByKey = Object.fromEntries(
       basePath="/resorts/"
     />
 
-    <ResortSearchResults resorts={resorts} regionNamesByKey={regionNamesByKey} />
+    <ResortSearchResults
+      resorts={resorts}
+      regionNamesByKey={regionNamesByKey}
+      sourceArea="resort_index"
+    />
   </main>
 </BaseLayout>
