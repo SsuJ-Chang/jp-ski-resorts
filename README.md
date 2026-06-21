@@ -62,6 +62,7 @@
 - [Real Japan Nature](https://www.youtube.com/@realjapannature)
 - [旬旅 / Japan Season Travel](https://www.youtube.com/@syuntabi)
 - [大林滑雪男子](https://www.youtube.com/@drlinsnow)
+- [MIRU tube JAPAN 【Route Guide】](https://www.youtube.com/@MIRUtubeJAPAN-RouteGuide)
 - [豬圈圈樂活趣](https://psonfamily.com/)
 
 ## 🔒 專案所有權與授權

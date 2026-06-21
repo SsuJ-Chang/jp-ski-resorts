@@ -31,6 +31,12 @@ export const specialThanks: SpecialThanksEntry[] = [
     description: '提供滑雪經驗與雪場觀察，讓資料整理能更貼近台灣滑雪者的視角。',
   },
   {
+    name: 'MIRU tube JAPAN 【Route Guide】',
+    kind: 'YouTube',
+    url: 'https://www.youtube.com/@MIRUtubeJAPAN-RouteGuide',
+    description: '在日本東京與神奈川地區拍攝旅遊導覽影片，為安排東京旅遊時的實用參考。',
+  },
+  {
     name: '豬圈圈樂活趣',
     kind: '部落格',
     url: 'https://psonfamily.com/',
