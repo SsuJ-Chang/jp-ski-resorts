@@ -38,7 +38,7 @@ trailMaps:
     url: "https://www.moyahills.jp/_src/93046306/20231214130801-0001.jpg?v=1769512766246"
     sourceLabel: "Moya Hills Winter"
 tickets:
-  season: "基本料金（2025/1/25 更新）"
+  season: "基本料金"
   currency: "JPY"
   source: "https://www.city.aomori.aomori.jp/bunka_sports_kankou/kankou/1005230/1005263/1005264.html"
   note: "基本料金摘要。1 日為 7-9 小時範圍，半日為 3-5 小時範圍。"
