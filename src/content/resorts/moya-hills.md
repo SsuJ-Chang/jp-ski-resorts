@@ -13,7 +13,8 @@ visibility:
   status: "published"
   note: "青森縣雪場清單補新增的靜態初版；以官方網站與公開雪場資料整理。"
 links:
-  official: "http://www.moyahills.jp/"
+  official: "https://www.moyahills.jp/"
+  trailMapPage: "https://www.moyahills.jp/winter/winter.html"
   weather: "https://weathernews.jp/ski/spot/33102/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Moya%20Hills%20Aomori"
 contact:
@@ -29,6 +30,12 @@ season:
   nightSkiingHours: "16:30-21:00"
   note: "營業期間與時間為公開雪場資料；實際開放日、夜滑與營業範圍請以官方最新公告為準。"
   source: "https://weathernews.jp/ski/spot/33102/"
+trailMaps:
+  - label: "Moya Hills winter trail map"
+    language: "ja"
+    season: "winter"
+    url: "https://www.moyahills.jp/_src/93046306/20231214130801-0001.jpg?v=1769512766246"
+    sourceLabel: "Moya Hills Winter"
 snowWeather:
   title: "Moya Hills 雪況天氣"
   provider: "Weathernews"
@@ -42,17 +49,37 @@ location:
   longitude: 140.793881
 elevation:
   top: 520
-  bottom: 240
-  verticalDrop: 280
+  bottom: 200
+  verticalDrop: 320
 courses:
-  total: 5
-  beginnerRatio: 40
-  intermediateRatio: 30
-  advancedRatio: 30
-  courseInfoPage: "https://weathernews.jp/ski/spot/33102/"
-  summary: "Moya Hills 共有 5 條雪道與 6 座纜車，標高約 240-520m；初級 40%、中級 30%、進階 30%，雪板可全區滑行。"
-lifts:
   total: 6
+  beginnerRatio: 30
+  intermediateRatio: 40
+  advancedRatio: 30
+  courseInfoPage: "https://www.moyahills.jp/winter/winter.html"
+  summary: "Moya Hills 共有 6 條雪道，最大滑走距離 1,800m、全場最大斜度約 31°；初級 30%、中級 40%、進階 30%，並設有夜滑區域。"
+  details:
+    - name: カランツゲレンデ
+      difficulty: beginner
+      note: 位於山麓的初學者緩坡，作為家庭雪道使用，旁邊也設有雪橇區；官方說明也建議初學者 snowboard 先在這裡練習。
+    - name: コスモスゲレンデ
+      difficulty: beginner
+      note: 可由コスモスクワッドリフト進入，官方說明為緩和坡度展開的初級到中級取向雪道，並標示有夜滑營業。
+    - name: トンケイコース
+      difficulty: intermediate
+      length: 1,800m
+      note: 從山頂往西側迂迴的 1.8km 長距離路線；路寬較窄，難度屬初級到中級取向。
+    - name: ワラビゲレンデ
+      difficulty: intermediate
+      note: 可由コスモスクワッドリフト與オダマキリフト進入，山頂附近坡度稍陡，中段以下轉為緩坡；官方標示為中級到上級取向，並有夜滑營業。
+    - name: オダマキゲレンデ
+      difficulty: intermediate
+      note: 寬度較大的中級到上級取向雪道，官方說明也會用於 slalom 大會與各種檢定。
+    - name: カタクリゲレンデ
+      difficulty: advanced
+      note: 位於雪場東側的非壓雪上級雪道，可從山頂滑下急斜面；官方雪道圖也將其標示為上級路線。
+lifts:
+  total: 4
 access:
   fromTokyo:
     - label: "東京出發經青森"
@@ -67,16 +94,25 @@ access:
     snowTireRequired: true
     note: "自駕從青森中央 IC 約 8km、約 30 分。停車場約 800 台，平日與假日免費；冬季需準備雪胎或雪鏈。"
 terrainSummary:
-  beginner: "初級比例約 40%，適合青森市近郊的練習與短時間滑行。"
-  intermediate: "中級比例約 30%，可在市區近郊雪場中增加路線變化。"
-  advanced: "進階比例約 30%，小型雪場仍有一定進階比例。"
-  snowboard: "雪板可全區滑行，並設有夜滑時段。"
+  beginner: "山麓的カランツ與コスモス一帶以緩坡為主，適合初學者、家庭與短時間練習。"
+  intermediate: "トンケイ、ワラビ與オダマキ提供較長滑行、較窄路幅與中段坡度變化，是雪場主要中級區。"
+  advanced: "カタクリ為東側非壓雪上級雪道，ワラビ與オダマキ上部也有較進階的坡面變化。"
+  snowboard: "snowboard 可滑行，官方資料也將カランツ列為初學者 snowboard 練習區之一。"
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+    - title: "青森市街地すぐ近くなのに新雪穴場！？◆リンクステーション ヒルズ雲谷（モヤヒルズ）【 Slope Report at Hills MOYA】"
+      url: https://www.youtube.com/watch?v=H6Sl2F1jT2k
+      note: "えすぺゆき【生息条件は冠雪山】令和のゲレンデ"
 sources:
   - label: "Moya Hills Official Website"
-    url: "http://www.moyahills.jp/"
+    url: "https://www.moyahills.jp/"
+  - label: "Moya Hills Winter Course Data"
+    url: "https://www.moyahills.jp/winter/winter.html"
+    note: "官方冬季頁面提供 6 條雪道名稱、雪道圖、最大滑走距離、各雪道特色與 4 座纜車資料。"
+  - label: "SnowJapan Link Station Hills Moya"
+    url: "https://www.snowjapan.com/japan-ski-resorts/aomori/aomori/moya-hills"
+    note: "提供標高、最長滑走距離、最大斜度、難度比例與纜車類型等彙整資料。"
   - label: "Weathernews リンクステーションヒルズ雲谷(モヤヒルズ)"
     url: "https://weathernews.jp/ski/spot/33102/"
 ---
