@@ -1308,7 +1308,7 @@ h1 {
   text-underline-offset: 4px;
 }
 
-.official-link-list {
+.fact-list .official-link-list {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
