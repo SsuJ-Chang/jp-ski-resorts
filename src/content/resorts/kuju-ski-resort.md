@@ -118,7 +118,10 @@ terrainSummary:
   snowboard: 雪板可全區滑行，實際仍需遵守官方現場規則。
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs: 
+    - title: "くじゅう森林公園スキー場【九州編】デブがレンタルだけでスキー・スノーボードできるか試してみた！"
+      url: https://www.youtube.com/watch?v=EAPWkALeKH0
+      note: "えすぺゆき【生息条件は冠雪山】令和のゲレンデ"
 sources:
 - label: Kuju Forest Park Snow Resort Official Website
   url: https://www.kujyuski.co.jp/
