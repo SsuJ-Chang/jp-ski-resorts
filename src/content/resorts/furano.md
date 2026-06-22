@@ -21,6 +21,8 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://www.princehotels.co.jp/ski/furano/winter/"
+  facebook: "https://www.facebook.com/furanoskiarea/"
+  instagram: "https://www.instagram.com/furanoski_official"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Furano%20Ski%20Resort"
   weather: "https://weathernews.jp/ski/spot/31602/"
   ticket: "https://weathernews.jp/ski/spot/31602/"

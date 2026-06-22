@@ -13,6 +13,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.dogoyamakogen.com/"
+  facebook: "http://www.facebook.com/100632525822643"
   trailMapPage: "https://www.dogoyamakogen.com/"
   weather: "https://weathernews.jp/ski/spot/36701/"
   googleMaps: "https://maps.google.co.jp/maps?q=35.056415,133.203524"

@@ -18,6 +18,7 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "http://www.ski.npo-emsc.net/"
+  facebook: "https://www.facebook.com/%E6%9E%9D%E5%B9%B8%E7%94%BA%E4%B8%89%E7%AC%A0%E5%B1%B1%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4-377940465704309/"
   instagram: "https://instagram.com/emsc___esashi_mikasayama_sc"
   weather: "https://weathernews.jp/ski/spot/31102/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=44.933559,142.565009"

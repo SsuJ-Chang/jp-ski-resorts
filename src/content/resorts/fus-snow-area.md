@@ -18,6 +18,7 @@ visibility:
 links:
   official: "https://www.fujino-yagai-sports.jp/"
   instagram: "https://www.instagram.com/fus_sapporo/"
+  xTwitter: "https://twitter.com/FusSapporo"
   weather: "https://weathernews.jp/ski/spot/31412/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=42.954177,141.279438"
   access: "https://www.fujino-yagai-sports.jp/"

@@ -14,6 +14,7 @@ tags:
 - resort_village
 links:
   official: https://edelsnow.com/
+  facebook: "https://www.facebook.com/edelsnowjp/"
   instagram: "https://www.instagram.com/edelweiss_ski/"
   trailMapPage: https://edelsnow.com/information/coursemap.php
   weather: https://weathernews.jp/ski/spot/34105/

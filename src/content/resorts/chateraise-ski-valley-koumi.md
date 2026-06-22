@@ -12,7 +12,9 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://koumi.chateraiseski.jp/"
+  facebook: "https://www.facebook.com/%E5%B0%8F%E6%B5%B7%E3%83%AA%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%90%E3%83%AC%E3%83%BC-109878523849771/"
   instagram: "https://www.instagram.com/chateraiseskivalleykoumi/"
+  xTwitter: "https://twitter.com/reex_ski"
   weather: "https://weathernews.jp/ski/spot/34849/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Chateraise%20Ski%20Valley%20Koumi"
   access: "https://koumi.chateraiseski.jp/"

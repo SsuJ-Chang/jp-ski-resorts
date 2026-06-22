@@ -17,6 +17,7 @@ tags:
 - tree_run
 links:
   official: https://fujiwaraski.com/
+  facebook: "https://www.facebook.com/fujiwaraskipark"
   instagram: "https://www.instagram.com/sunbird_fujiwaraski/"
   xTwitter: "https://twitter.com/fujiwaraski"
   trailMapPage: https://fujiwaraski.com/cource/

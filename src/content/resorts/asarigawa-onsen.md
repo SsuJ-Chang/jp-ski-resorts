@@ -17,6 +17,8 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://asari-ski.com/"
+  facebook: "https://www.facebook.com/asari.ski.official/"
+  instagram: "https://www.instagram.com/sasson_asari_official/"
   weather: "https://weathernews.jp/ski/spot/31502/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=43.143609,141.036773"
   access: "https://asari-ski.com/"

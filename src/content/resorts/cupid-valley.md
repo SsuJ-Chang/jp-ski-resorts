@@ -15,6 +15,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.yukidaruma-kogen.com"
+  facebook: "https://www.facebook.com/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%94%E3%83%83%E3%83%88%E3%83%90%E3%83%AC%E3%82%A4-255584614476574/"
   instagram: "https://www.instagram.com/cupidvalley/"
   weather: "https://weathernews.jp/ski/spot/35456/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Cupid%20Valley"

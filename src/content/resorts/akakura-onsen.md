@@ -17,6 +17,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://akakura-ski.com/
+  facebook: "https://www.facebook.com/kumadooooo"
   instagram: "https://www.instagram.com/akakuraonsenskiarea"
   trailMapPage: https://akakura-ski.com/
   ticket: https://akakura-ski.com/

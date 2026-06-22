@@ -15,6 +15,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.asahikawasantapresentpark.com/
+  facebook: "https://www.facebook.com/%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF-113399528717696/"
   xTwitter: "https://x.com/asahikawa_santa"
   trailMapPage: https://www.asahikawasantapresentpark.com/cont1/main.html
   weather: https://weathernews.jp/ski/spot/31204/

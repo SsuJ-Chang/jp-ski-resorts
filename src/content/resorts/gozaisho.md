@@ -11,6 +11,9 @@ tags:
   - "no_car_accessible"
 links:
   official: "https://www.gozaisho.co.jp/"
+  facebook: "https://www.facebook.com/gozaisho"
+  instagram: "https://www.instagram.com/gozaisho_ropeway/"
+  xTwitter: "https://x.com/gozaishoropeway"
   weather: "https://weathernews.jp/ski/spot/35301/"
   ticket: "https://weathernews.jp/ski/spot/35301/"
   access: "https://weathernews.jp/ski/spot/35301/"

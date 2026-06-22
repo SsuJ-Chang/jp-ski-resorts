@@ -15,6 +15,7 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://shorefield.jp/fv-snowpark/"
+  instagram: "https://www.instagram.com/fvsnowpark/"
   weather: "https://weathernews.jp/ski/spot/31417/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=42.990401,141.549772"
   access: "https://shorefield.jp/fv-snowpark/"

@@ -16,6 +16,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://akr-ski.com/
+  facebook: "https://www.facebook.com/akakan.ski/"
+  instagram: "https://www.instagram.com/akakurakanko_ski_sky/"
   trailMapPage: https://akr-ski.com/slope/
   ticket: https://akr-ski.com/slope/
   access: https://akr-ski.com/access/

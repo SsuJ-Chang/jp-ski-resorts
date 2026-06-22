@@ -17,6 +17,9 @@ visibility:
   note: "秋田縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "http://www.aniski.jp"
+  facebook: "https://www.facebook.com/aniski.jp"
+  instagram: "https://www.instagram.com/moriyosizan/"
+  xTwitter: "https://twitter.com/aniski001"
   weather: "https://weathernews.jp/ski/spot/33208/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=39.955297,140.491334"
   access: "http://www.aniski.jp"

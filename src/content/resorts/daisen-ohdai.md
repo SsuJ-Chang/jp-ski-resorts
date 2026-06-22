@@ -18,6 +18,7 @@ visibility:
   note: "秋田縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://ohdai.omagari-sc.com/"
+  facebook: "https://www.facebook.com/ohdai.ski.resort"
   weather: "https://weathernews.jp/ski/spot/33217/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=39.519386,140.655197"
   access: "https://ohdai.omagari-sc.com/"

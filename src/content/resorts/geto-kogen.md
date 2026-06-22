@@ -17,6 +17,7 @@ visibility:
   note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "https://www.getokogen.com/winter/"
+  facebook: "https://www.facebook.com/geto8/"
   instagram: "https://www.instagram.com/getokogen/"
   xTwitter: "https://twitter.com/getokogen"
   weather: "https://weathernews.jp/ski/spot/33315/"
