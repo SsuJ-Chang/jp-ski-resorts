@@ -17,6 +17,7 @@ visibility:
   note: "宮城縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://zao-7kashuku.jp/ski/"
+  instagram: "https://www.instagram.com/7kashuku.ski"
   weather: "https://weathernews.jp/ski/spot/33412/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=37.999126,140.366313"
   access: "https://zao-7kashuku.jp/ski/"

@@ -16,6 +16,9 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.town.minamifurano.hokkaido.jp/"
+  facebook: "https://www.facebook.com/town.minamifurano/"
+  instagram: "https://www.instagram.com/minamifurano_town/"
+  xTwitter: "https://x.com/Minami_Furano"
   weather: "https://weathernews.jp/ski/spot/31511/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=43.160063,142.558386"
   access: "https://www.town.minamifurano.hokkaido.jp/"

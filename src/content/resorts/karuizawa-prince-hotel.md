@@ -14,6 +14,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.princehotels.co.jp/ski/karuizawa/winter/"
+  facebook: "https://www.facebook.com/Karuizawaprincehotelsuki/"
   weather: "https://weathernews.jp/ski/spot/34813/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Karuizawa%20Prince%20Hotel%20Ski%20Resort"
   access: "https://www.princehotels.co.jp/ski/karuizawa/winter/"

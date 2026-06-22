@@ -12,6 +12,7 @@ tags:
 - snowboard_friendly
 links:
   official: http://www.makinokougen.co.jp/
+  instagram: "https://www.instagram.com/makinokougen_official/"
   trailMapPage: http://www.makinokougen.co.jp/
   weather: https://weathernews.jp/ski/spot/36009/
   googleMaps: https://maps.google.co.jp/maps?q=35.496364,136.033641

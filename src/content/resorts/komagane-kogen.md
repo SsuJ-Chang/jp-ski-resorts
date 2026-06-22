@@ -14,6 +14,7 @@ tags:
 links:
   official: "https://komaganeski.com/"
   facebook: "https://www.facebook.com/ komaganeski"
+  instagram: "https://www.instagram.com/komaganeski/"
   xTwitter: "https://twitter.com/KOMAGANE_SKI"
   weather: "https://weathernews.jp/ski/spot/34902/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Komagane%20Kogen%20Ski%20Area"

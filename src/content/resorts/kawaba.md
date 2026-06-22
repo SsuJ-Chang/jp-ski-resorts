@@ -13,6 +13,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.kawaba.co.jp/
+  facebook: "https://www.facebook.com/kawabaski/"
   instagram: "https://www.instagram.com/kawabaresort/"
   xTwitter: "https://twitter.com/kawabaski"
   trailMapPage: https://www.kawaba.co.jp/gelande/course/

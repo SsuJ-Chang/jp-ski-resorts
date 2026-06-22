@@ -16,7 +16,9 @@ tags:
   - snowboard_friendly
 links:
   official: https://hodaigi.jp/
+  facebook: "https://www.facebook.com/houdaigiskiarea"
   instagram: "https://www.instagram.com/hodaigi.ski"
+  xTwitter: "https://twitter.com/houdaigiskiarea"
   trailMapPage: https://hodaigi.jp/gelande-guide/
   ticket: https://hodaigi.jp/lift-price/
   access: https://hodaigi.jp/access/

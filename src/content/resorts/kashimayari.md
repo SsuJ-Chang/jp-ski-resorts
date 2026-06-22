@@ -16,6 +16,7 @@ tags:
 links:
   official: https://www.kashimayari.net/snow/
   facebook: "https://www.facebook.com/kashimayariSV/"
+  instagram: "https://www.instagram.com/kashimayari_park/"
   xTwitter: "https://x.com/kashimayariSV"
   trailMapPage: https://www.kashimayari.net/snow/fields/
   ticket: https://www.kashimayari.net/snow/ticket/

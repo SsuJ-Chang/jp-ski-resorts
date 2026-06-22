@@ -14,6 +14,7 @@ tags:
 links:
   official: "http://kurohime-kogen.co.jp/"
   facebook: "https://www.facebook.com/kurohime.kogen/"
+  instagram: "https://www.instagram.com/kurohime_kogen_snowpark/"
   xTwitter: "https://x.com/kurohime_kogen"
   weather: "https://weathernews.jp/ski/spot/34866/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Kurohime%20Kogen%20Snow%20Park"

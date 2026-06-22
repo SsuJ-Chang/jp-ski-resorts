@@ -13,6 +13,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.town.aga.niigata.jp/kanko_rekishi/mikawa_onsenski/index.html"
+  facebook: "https://www.facebook.com/profile.php?id=100042666105579"
   weather: "https://weathernews.jp/ski/spot/35450/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Mikawa%20Onsen%20Ski%20Area"
   access: "https://www.aga-info.jp/tourist-attractions/mikawa-onsen-ski-resort/"
