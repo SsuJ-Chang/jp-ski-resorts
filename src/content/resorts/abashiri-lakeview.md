@@ -14,10 +14,11 @@ visibility:
   status: "published"
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
-  official: "http://www.city.abashiri.hokkaido.jp/"
+  official: "https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html"
   weather: "https://weathernews.jp/ski/spot/31708/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=43.988242,144.223838"
-  access: "http://www.city.abashiri.hokkaido.jp/"
+  access: "https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html"
+  ticket: "https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html"
 contact:
   address:
     zhTw: "日本北海道網走市字呼人28-3"
@@ -29,7 +30,38 @@ season:
   operatingPeriod: "2026/01/16-2026/03/13"
   hours: "平日：10:00〜21:00 / 假日：9:00〜21:00(週六)/9:00〜17:00(週日) / 夜滑：17:00〜21:00"
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
-  source: "https://weathernews.jp/ski/spot/31708/"
+  source: "https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html"
+tickets:
+  season: "2025-2026"
+  currency: "JPY"
+  source: "https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html"
+  note: "小人為國中生以下。網走市、斜里町、清里町、小清水町與大空町的小中學生週六免費；65 歲以上網走市民購買季票可享 10% 折扣。"
+  plans:
+    - name: "1 回券"
+      audience: "成人 / 小人"
+      price: "成人 ¥210、小人 ¥130"
+    - name: "回數券（11 枚）"
+      audience: "成人 / 小人"
+      price: "成人 ¥2,100、小人 ¥1,360"
+    - name: "2 小時券"
+      audience: "成人 / 小人"
+      price: "成人 ¥1,200、小人 ¥700"
+    - name: "4 小時券"
+      audience: "成人 / 小人"
+      price: "成人 ¥1,700、小人 ¥900"
+    - name: "1 日券"
+      audience: "成人 / 小人"
+      price: "成人 ¥2,940、小人 ¥1,680"
+    - name: "季票"
+      audience: "成人 / 小人"
+      price: "成人 ¥21,800、小人 ¥13,100"
+    - name: "親子套票 4 小時券"
+      audience: "親子"
+      price: "¥2,200"
+    - name: "週三限定 Special 2 小時券"
+      audience: "成人 / 小人"
+      price: "¥600"
+      note: "販售至 16:00。"
 snowWeather:
   title: "網走 Lake View 積雪與天氣"
   provider: "Weathernews"
@@ -46,12 +78,31 @@ elevation:
   bottom: 25
   verticalDrop: 180
 courses:
-  total: 7
+  total: 6
   beginnerRatio: 60
   intermediateRatio: 20
   advancedRatio: 20
-  courseInfoPage: "https://weathernews.jp/ski/spot/31708/"
-  summary: "網走 Lake View共有 7 條雪道，難度比例約初級 60%、中級 20%、進階 20%，適合依雪況與同行者程度安排滑行路線。"
+  courseInfoPage: "https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html"
+  summary: "網走 Lake View 官方雪道指南列出第 1 至第 6 雪道，從寬緩練習坡、林間中斜面到含急斜面變化的路線都有；第 6 雪道無纜車，偏向兒童練習與雪橇遊玩。"
+  details:
+    - name: "第1コース"
+      difficulty: beginner
+      note: "寬廣且坡度平緩，適合初級者練習；可從第 2、第 3 雪道經連絡路進入。"
+    - name: "第5コース"
+      difficulty: beginner
+      note: "坡面一路較平緩，是初學者取向的林間雪道，也是全場距離較長的路線。"
+    - name: "第6コース"
+      difficulty: beginner
+      note: "夏季為花園會場的緩斜面，沒有纜車；適合小朋友滑雪練習與雪橇遊玩。"
+    - name: "第3コース"
+      difficulty: intermediate
+      note: "林間中斜面雪道，中段附近會與第 2 雪道合流。"
+    - name: "第4コース"
+      difficulty: intermediate
+      note: "從第 5 雪道延伸、穿過林間的路線。"
+    - name: "第2コース"
+      difficulty: advanced
+      note: "下纜車後會接續緩斜面、急斜面與中斜面，坡面變化較多；滑行時可眺望鄂霍次克周邊景色。"
 lifts:
   total: 1
 access:
@@ -75,9 +126,10 @@ externalContent:
   vlogs: []
 sources:
   - label: "Abashiri Lake View Ski Area Official Website"
-    url: "http://www.city.abashiri.hokkaido.jp/"
+    url: "https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html"
+    note: "提供 2026 年更新的營業時間、票價、停車場、雪道指南與纜車資訊。"
   - label: "Weathernews 網走レークビュースキー場"
     url: "https://weathernews.jp/ski/spot/31708/"
 ---
 
-網走 Lake View位於北海道，夜滑讓白天之外多一層雪場表情，短天數旅程也能拉出不同節奏。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合想把滑雪後的泡湯、在地停留與雪國慢節奏放進同一天的人。
+網走 Lake View 位於北海道網走市呼人，1 座雙人纜車串起 6 條雪道。這裡能從寬緩練習坡一路滑到林間中斜面與變化坡，搭配夜滑與山頂視野，適合想在小型雪場細練轉彎節奏的人。

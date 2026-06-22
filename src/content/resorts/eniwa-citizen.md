@@ -16,6 +16,7 @@ links:
   weather: "https://weathernews.jp/ski/spot/31621/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=42.846418,141.489341"
   access: "https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/hokenhukushibu/kenkosportska/supotsu/2/7966.html"
+  ticket: "https://www.city.eniwa.hokkaido.jp/material/files/group/29/R07ryokin.pdf"
 contact:
   address:
     zhTw: "日本北海道惠庭市盤尻330-2"
@@ -25,9 +26,44 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/下旬-2026/03/上旬"
-  hours: "平日：9:00〜17:00 / 假日：9:00〜17:00 / 夜滑：17:00〜20:00"
-  note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
-  source: "https://weathernews.jp/ski/spot/31621/"
+  hours: "9:00-17:00"
+  nightSkiingHours: "17:00-20:00"
+  note: "夜滑為開設日至 1/31 每日、2 月週末與國定假日，3 月不開設；營業與夜滑會依天候與雪道狀況調整。"
+  source: "https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/hokenhukushibu/kenkosportska/supotsu/2/7966.html"
+tickets:
+  season: "2025-2026"
+  currency: "JPY"
+  source: "https://www.city.eniwa.hokkaido.jp/material/files/group/29/R07ryokin.pdf"
+  note: "成人為國中生以上，兒童為小學生以下，未就學兒免費。回數券為 11 次份，高齡票為 65 歲以上、3 小時以內。"
+  plans:
+    - name: "1 回券"
+      audience: "成人 / 兒童"
+      price: "成人 ¥150、兒童 ¥120"
+    - name: "回數券（11 次份）"
+      audience: "成人 / 兒童"
+      price: "成人 ¥1,500、兒童 ¥1,200"
+    - name: "1 日券"
+      audience: "成人 / 兒童"
+      price: "成人 ¥2,300、兒童 ¥1,700"
+    - name: "4 小時券"
+      audience: "成人 / 兒童"
+      price: "成人 ¥1,800、兒童 ¥1,400"
+    - name: "夜滑券"
+      audience: "成人 / 兒童"
+      price: "成人 ¥500、兒童 ¥500"
+    - name: "高齡票"
+      audience: "65 歲以上"
+      price: "¥1,000"
+      note: "3 小時以內。"
+    - name: "親子雙人票"
+      audience: "成人 1 人 + 兒童 1 人"
+      price: "¥2,500"
+    - name: "親子三人票"
+      audience: "成人 1 人 + 兒童 2 人"
+      price: "¥3,000"
+    - name: "季票"
+      audience: "成人 / 兒童"
+      price: "成人 ¥17,500、兒童 ¥12,500"
 snowWeather:
   title: "惠庭市民 積雪與天氣"
   provider: "Weathernews"
@@ -44,23 +80,44 @@ elevation:
   bottom: 110
   verticalDrop: 60
 courses:
-  beginnerRatio: 0
-  intermediateRatio: 0
+  total: 2
+  beginnerRatio: 70
+  intermediateRatio: 30
   advancedRatio: 0
-  courseInfoPage: "https://weathernews.jp/ski/spot/31621/"
-  summary: "惠庭市民共有 數條 條雪道，難度比例約初級 0%、中級 0%、進階 0%，適合依雪況與同行者程度安排滑行路線。"
+  courseInfoPage: "https://snoway.jp/gelande/10202/"
+  summary: "惠庭市民是 1 座纜車、2 條雪道的小型市民雪場，初級約 70%、中級約 30%，全場平均斜度約 13 度、最大斜度約 20 度；適合短時間練習、夜滑與親子雪地活動。"
+  details:
+    - name: "初級者向けコース"
+      difficulty: beginner
+      note: "由山頂往下看位在纜車一側的初級取向雪道，整體坡面較緩，適合作為練習轉彎、煞車與暖身的路線。"
+    - name: "中級者向けコース"
+      difficulty: intermediate
+      maxSlope: "20度"
+      note: "由山頂往下看位在纜車另一側的中級取向雪道，短而單純，但比初級路線更有斜度變化；全場最大斜度約 20 度。"
+lifts:
+  total: 1
 terrainSummary:
-  beginner: "初級比例約 0%，可作為暖身、親子同行或初訪時的主要安排。"
-  intermediate: "中級比例約 0%，適合已能穩定轉彎的滑雪者串接主要雪道。"
-  advanced: "進階比例約 0%，建議視當日積雪與壓雪狀況選擇。"
+  beginner: "初級約 70%，以緩坡練習與親子同行為主。"
+  intermediate: "中級約 30%，主要是纜車另一側較有斜度變化的短雪道。"
+  advanced: "無明確進階雪道資料，進階滑行以當日雪面變化與夜滑節奏為主。"
 externalContent:
   blogs: []
   vlogs: []
 sources:
   - label: "Eniwa Citizen Ski Area Official Website"
     url: "https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/hokenhukushibu/kenkosportska/supotsu/2/7966.html"
+    note: "提供 2025-2026 開設期間、營業時間、夜滑日程、聯絡方式與料金 PDF。"
+  - label: "Eniwa Citizen Ski Area Lift Ticket Fees"
+    url: "https://www.city.eniwa.hokkaido.jp/material/files/group/29/R07ryokin.pdf"
+    note: "令和 7 年度料金表提供 1 回券、回数券、1 日券、4 小時券、夜滑券、親子票與季票價格。"
+  - label: "Snoway 恵庭市民スキー場"
+    url: "https://snoway.jp/gelande/10202/"
+    note: "提供總雪道數、最大斜度與纜車數等彙整資料。"
+  - label: "SURF&SNOW 恵庭市民スキー場"
+    url: "https://surfsnow.jp/guide/htm/r0661s.htm"
+    note: "提供初中級取向、平均斜度、難度比例與 2025/26 營業資訊。"
   - label: "Weathernews 恵庭市民スキー場"
     url: "https://weathernews.jp/ski/spot/31621/"
 ---
 
-惠庭市民位於北海道，白天與夜晚的雪面感不同，想延長滑行時間時會更有彈性。比起匆忙踩點，更適合用半天到一天熟悉雪面、坡感與山景；適合把下班後、午後或夜間練習納入安排的人。整體適合放慢節奏，從雪面觸感、山景與停留氛圍中感受差異。
+惠庭市民位於北海道惠庭市盤尻，是 1 座纜車、2 條短雪道的小型市民雪場。坡面以初中級為主，白天練習與夜滑都容易安排，適合想用短時間熟悉轉彎、煞車與雪面節奏的人。

@@ -9,7 +9,6 @@ prefecture: "福島縣"
 tags:
   - "beginner_friendly"
   - "family_friendly"
-  - "night_skiing"
   - "no_car_accessible"
   - "onsen"
   - "snowboard_friendly"
@@ -56,8 +55,39 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20
-  courseInfoPage: "https://weathernews.jp/ski/spot/33607/"
-  summary: "安達太良高原共有 5 條雪道，難度比例約初級 40%、中級 40%、進階 20%，適合依雪況與同行者程度安排滑行路線。"
+  courseInfoPage: "https://www.adatara-resort.com/ski/gelande.html"
+  summary: "安達太良高原共有 5 條主要雪道，從緩斜面的ペガサス、寬闊好滑的ジェミニ，到比賽使用的アンドロメダ、緩急變化明顯的ベガ，以及上部有 bumps 的アルタイル都有。"
+  details:
+    - name: "E ペガサス"
+      difficulty: beginner
+      length: "450m"
+      maxSlope: "18度"
+      averageSlope: "13度"
+      note: "初級者容易滑行的緩斜面，官方定位為適合課程練習的路線。"
+    - name: "D ジェミニ"
+      difficulty: intermediate
+      length: "800m"
+      maxSlope: "20度"
+      averageSlope: "15度"
+      note: "坡面寬廣、滑起來順暢，是人氣較高的路線。"
+    - name: "A アンドロメダ"
+      difficulty: intermediate
+      length: "700m"
+      maxSlope: "23度"
+      averageSlope: "14度"
+      note: "滑雪競技大會會使用的主雪道。"
+    - name: "B ベガ"
+      difficulty: advanced
+      length: "700m"
+      maxSlope: "28度"
+      averageSlope: "20度"
+      note: "有緩急切換的上級路線，需要能穩定處理坡度變化。"
+    - name: "C アルタイル"
+      difficulty: mixed
+      length: "600m"
+      maxSlope: "28度"
+      averageSlope: "18度"
+      note: "上部為 bumps 區，下部則接續較緩的林間路線，官方標示為初級到上級。"
 lifts:
   total: 3
 access:
@@ -89,8 +119,12 @@ externalContent:
 sources:
   - label: "Adatara Kogen Ski Area Official Website"
     url: "http://www.adatara-resort.com/"
+    note: "提供 2025-2026 營業期間、營業時間與纜車運行概要。"
+  - label: "Adatara Kogen Ski Area Gelande"
+    url: "https://www.adatara-resort.com/ski/gelande.html"
+    note: "提供各雪道名稱、難度、長度、最大斜度、平均斜度與路線說明。"
   - label: "Weathernews あだたら高原スキー場"
     url: "https://weathernews.jp/ski/spot/33607/"
 ---
 
-安達太良高原位於福島縣，白天與夜晚的雪面感不同，想延長滑行時間時會更有彈性。比起匆忙踩點，更適合用半天到一天熟悉雪面、坡感與山景；適合同行者程度不同時，用比較不緊繃的方式共享雪地時間。整體適合放慢節奏，從雪面觸感、山景與停留氛圍中感受差異。
+安達太良高原位於福島縣安達太良山中腹，5 條雪道涵蓋緩斜面、寬闊中級坡、比賽用主雪道與上部 bumps 區。路線長度不算誇張，但坡度變化清楚，適合想在同一座小型山岳雪場練不同節奏的人。
