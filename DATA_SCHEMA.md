@@ -10,7 +10,7 @@
 - YAML frontmatter 之外的 Markdown body 會作為雪場概要內容使用。
 - 找不到資料時，不要硬補；可以先填 `待補`、`待確認`，或省略 optional 欄位。
 - 即時資訊不要當成永久事實保存，例如今日雪況、即時纜車狀態、即時天氣。
-- `sources` 目前為必填，至少要放一筆官方網站來源。
+- `sources` 目前為必填，至少要放一筆官方來源；可為官方網站或官方社群頁面。
 
 ## 頂層欄位
 
@@ -151,7 +151,11 @@ tree_run
 
 | 欄位 | 必填 | 型別 | 說明 |
 |---|---:|---|---|
-| `official` | 是 | URL | 官方網站。 |
+| `official` | 否 | URL | 官方網站；不可放 Facebook、Instagram、Threads、X（Twitter）等官方社群。 |
+| `facebook` | 否 | URL | 官方 Facebook 頁面。 |
+| `instagram` | 否 | URL | 官方 Instagram 頁面。 |
+| `threads` | 否 | URL | 官方 Threads 頁面。 |
+| `xTwitter` | 否 | URL | 官方 X（Twitter）頁面，可使用 `x.com` 或 `twitter.com`。 |
 | `googleMaps` | 否 | URL | Google Maps 連結。 |
 | `trailMapPage` | 否 | URL | 官方雪場圖頁面。 |
 | `trailMapPdf` | 否 | URL | 官方雪場圖 PDF。 |
@@ -160,6 +164,8 @@ tree_run
 | `liftStatus` | 否 | URL | 纜車運行狀態頁。 |
 | `ticket` | 否 | URL | 票價頁。 |
 | `access` | 否 | URL | 交通資訊頁。 |
+
+官方網站與官方社群要嚴格分開。若官方入口是上述社群，請放到對應社群欄位；若是其他非上述社群的官方入口，才放回 `official`。
 
 ## `contact`
 

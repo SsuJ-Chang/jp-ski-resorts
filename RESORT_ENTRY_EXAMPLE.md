@@ -33,6 +33,10 @@ visibility:
 homeRegionExample: true
 links:
   official: https://example.com/
+  facebook: https://www.facebook.com/example-snow-resort
+  instagram: https://www.instagram.com/example-snow-resort/
+  threads: https://www.threads.net/@example-snow-resort
+  xTwitter: https://x.com/example_snow
   googleMaps: https://www.google.com/maps/search/?api=1&query=Example%20Snow%20Resort
   trailMapPage: https://example.com/trail-map/
   trailMapPdf: https://example.com/trail-map-2025-2026.pdf

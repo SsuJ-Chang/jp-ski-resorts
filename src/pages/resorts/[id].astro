@@ -29,6 +29,61 @@ const hasExternalContent =
   (resort.data.externalContent?.blogs?.length ?? 0) > 0 ||
   (resort.data.externalContent?.vlogs?.length ?? 0) > 0
 
+type OfficialLinkIcon = 'website' | 'facebook' | 'instagram' | 'threads' | 'xTwitter'
+
+type OfficialLinkItem = {
+  key: string
+  label: string
+  url?: string
+  analyticsResource: string
+  icon: OfficialLinkIcon
+}
+
+type DisplayOfficialLinkItem = OfficialLinkItem & {
+  url: string
+}
+
+const officialLinks = ([
+  {
+    key: 'official',
+    label: '官方網站',
+    url: resort.data.links.official,
+    analyticsResource: 'official_site',
+    icon: 'website',
+  },
+  {
+    key: 'facebook',
+    label: '官方 Facebook 頁面',
+    url: resort.data.links.facebook,
+    analyticsResource: 'official_facebook',
+    icon: 'facebook',
+  },
+  {
+    key: 'instagram',
+    label: '官方 Instagram 頁面',
+    url: resort.data.links.instagram,
+    analyticsResource: 'official_instagram',
+    icon: 'instagram',
+  },
+  {
+    key: 'threads',
+    label: '官方 Threads 頁面',
+    url: resort.data.links.threads,
+    analyticsResource: 'official_threads',
+    icon: 'threads',
+  },
+  {
+    key: 'xTwitter',
+    label: '官方 X（Twitter）頁面',
+    url: resort.data.links.xTwitter,
+    analyticsResource: 'official_x_twitter',
+    icon: 'xTwitter',
+  },
+] satisfies OfficialLinkItem[]).filter((item): item is DisplayOfficialLinkItem => Boolean(item.url))
+
+const officialLinkUrls = officialLinks.map((link) => link.url)
+const hasBasicInfo = Boolean(resort.data.contact || officialLinks.length > 0)
+
 const isDisplayableSnowDepth = (value?: string) => {
   const normalizedValue = value?.trim()
 
@@ -142,7 +197,7 @@ const resortStructuredData = [
       resort.data.name.en,
     ].filter(Boolean),
     url: resortUrl,
-    sameAs: resort.data.links.official,
+    sameAs: officialLinkUrls.length > 0 ? officialLinkUrls : undefined,
     description: resortDescription,
     telephone: resort.data.contact?.phone,
     address: resort.data.contact && {
@@ -263,46 +318,89 @@ const resortStructuredData = [
       </article>
 
       {
-        resort.data.contact && (
+        hasBasicInfo && (
           <section class="info-panel detail-panel">
             <h2>基本資訊</h2>
             <dl class="fact-list">
-              <div>
-                <dt>地址</dt>
-                <dd>
-                  <span>{resort.data.contact.address.zhTw}</span>
-                  <span>{resort.data.contact.address.ja}</span>
-                  <a
-                    href={resort.data.contact.address.googleMaps}
-                    target="_blank"
-                    rel="noreferrer"
-                    data-analytics-resource="google_maps"
-                    data-analytics-label="Google Maps"
-                  >
-                    Google Maps
-                  </a>
-                </dd>
-              </div>
-              {resort.data.contact.phone && (
+              {resort.data.contact && (
+                <div>
+                  <dt>地址</dt>
+                  <dd>
+                    <span>{resort.data.contact.address.zhTw}</span>
+                    <span>{resort.data.contact.address.ja}</span>
+                    <a
+                      href={resort.data.contact.address.googleMaps}
+                      target="_blank"
+                      rel="noreferrer"
+                      data-analytics-resource="google_maps"
+                      data-analytics-label="Google Maps"
+                    >
+                      Google Maps
+                    </a>
+                  </dd>
+                </div>
+              )}
+              {resort.data.contact?.phone && (
                 <div>
                   <dt>電話</dt>
                   <dd>{resort.data.contact.phone}</dd>
                 </div>
               )}
-              <div>
-                <dt>官方網站</dt>
-                <dd>
-                  <a
-                    href={resort.data.links.official}
-                    target="_blank"
-                    rel="noreferrer"
-                    data-analytics-resource="official_site"
-                    data-analytics-label={`${resort.data.name.zhTw}官方網站`}
-                  >
-                    {resort.data.name.en ?? resort.data.name.zhTw}
-                  </a>
-                </dd>
-              </div>
+              {officialLinks.length > 0 && (
+                <div>
+                  <dt>官方連結</dt>
+                  <dd>
+                    <div class="official-link-list" aria-label={`${resort.data.name.zhTw}官方連結`}>
+                      {officialLinks.map((link) => (
+                        <a
+                          class="official-link"
+                          href={link.url}
+                          target="_blank"
+                          rel="noreferrer"
+                          aria-label={`開啟${resort.data.name.zhTw}${link.label}`}
+                          data-analytics-resource={link.analyticsResource}
+                          data-analytics-label={`${resort.data.name.zhTw}${link.label}`}
+                        >
+                          <svg class="official-link__icon" viewBox="0 0 24 24" aria-hidden="true">
+                            {link.icon === 'website' && (
+                              <>
+                                <circle cx="12" cy="12" r="9" />
+                                <path d="M3 12h18" />
+                                <path d="M12 3c2.4 2.5 3.6 5.5 3.6 9s-1.2 6.5-3.6 9c-2.4-2.5-3.6-5.5-3.6-9S9.6 5.5 12 3Z" />
+                              </>
+                            )}
+                            {link.icon === 'facebook' && (
+                              <path
+                                data-filled="true"
+                                d="M13.8 21v-7h2.5l.5-3.4h-3V8.5c0-.9.5-1.4 1.5-1.4h1.6V4.1c-.8-.1-1.7-.1-2.5-.1-2.7 0-4.5 1.6-4.5 4.3v2.3H7.5V14h2.4v7h3.9Z"
+                              />
+                            )}
+                            {link.icon === 'instagram' && (
+                              <>
+                                <rect x="5" y="5" width="14" height="14" rx="4" />
+                                <circle cx="12" cy="12" r="3.2" />
+                                <path d="M16.6 7.4h.01" />
+                              </>
+                            )}
+                            {link.icon === 'threads' && (
+                              <>
+                                <path d="M17 10.2c-.4-2.6-2.2-4.1-4.9-4.1-3.1 0-5.1 2.3-5.1 5.9s2 5.9 5.2 5.9c2.7 0 4.5-1.4 4.5-3.5s-1.6-3.3-4.4-3.3h-1.1" />
+                                <path d="M12 14.6c.5.5 1.2.8 2 .8 2.1 0 3.6-1.4 3.6-3.5 0-3.4-2.2-5.6-5.6-5.6" />
+                              </>
+                            )}
+                            {link.icon === 'xTwitter' && (
+                              <path
+                                data-filled="true"
+                                d="M4.4 4h4.2l3.7 5.1L16.8 4h2.8l-6 6.9 6.2 9.1h-4.2l-4.1-5.8L6.5 20H3.7l6.4-7.4L4.4 4Zm3.1 1.7 8.9 12.6h1.2L8.7 5.7H7.5Z"
+                              />
+                            )}
+                          </svg>
+                        </a>
+                      ))}
+                    </div>
+                  </dd>
+                </div>
+              )}
             </dl>
           </section>
         )

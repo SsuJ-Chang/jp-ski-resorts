@@ -16,7 +16,7 @@ visibility:
   status: "published"
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
-  official: "https://twitter.com/wassamu_ski"
+  xTwitter: "https://twitter.com/wassamu_ski"
   weather: "https://weathernews.jp/ski/spot/31223/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=44.034530,142.413609"
   access: "https://twitter.com/wassamu_ski"
@@ -83,7 +83,7 @@ externalContent:
   blogs: []
   vlogs: []
 sources:
-  - label: "Wassamu Higashiyama Ski Area Official Website"
+  - label: "Wassamu Higashiyama Ski Area Official X (Twitter) Page"
     url: "https://twitter.com/wassamu_ski"
   - label: "Weathernews 和寒東山スキー場"
     url: "https://weathernews.jp/ski/spot/31223/"

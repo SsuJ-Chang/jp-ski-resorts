@@ -16,7 +16,7 @@ visibility:
   status: "published"
   note: "山形縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
-  official: "https://www.facebook.com/taranokidai/"
+  facebook: "https://www.facebook.com/taranokidai/"
   weather: "https://weathernews.jp/ski/spot/33516/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=38.652479,139.912937"
   access: "https://www.facebook.com/taranokidai/"
@@ -76,7 +76,7 @@ externalContent:
   blogs: []
   vlogs: []
 sources:
-  - label: "Kushibiki Taranokidai Ski Area Official Website"
+  - label: "Kushibiki Taranokidai Ski Area Official Facebook Page"
     url: "https://www.facebook.com/taranokidai/"
   - label: "Weathernews 櫛引たらのきだい"
     url: "https://weathernews.jp/ski/spot/33516/"

@@ -11,8 +11,38 @@ const sourceSchema = z.object({
   note: z.string().optional(),
 })
 
+const getUrlHostname = (value: string) => {
+  try {
+    return new URL(value).hostname.toLowerCase().replace(/^www\./, '')
+  } catch {
+    return ''
+  }
+}
+
+const matchesHostname = (value: string, domains: string[]) => {
+  const hostname = getUrlHostname(value)
+
+  return domains.some((domain) => hostname === domain || hostname.endsWith(`.${domain}`))
+}
+
+const socialLinkDomains = ['facebook.com', 'fb.com', 'instagram.com', 'threads.net', 'x.com', 'twitter.com']
+
+const socialUrlSchema = (domains: string[], label: string) =>
+  z.url().refine((value) => matchesHostname(value, domains), {
+    message: `${label} link must use an official ${label} domain.`,
+  })
+
 const linkSchema = z.object({
-  official: z.url(),
+  official: z
+    .url()
+    .refine((value) => !matchesHostname(value, socialLinkDomains), {
+      message: 'Official website must not use a social media domain.',
+    })
+    .optional(),
+  facebook: socialUrlSchema(['facebook.com', 'fb.com'], 'Facebook').optional(),
+  instagram: socialUrlSchema(['instagram.com'], 'Instagram').optional(),
+  threads: socialUrlSchema(['threads.net'], 'Threads').optional(),
+  xTwitter: socialUrlSchema(['x.com', 'twitter.com'], 'X/Twitter').optional(),
   googleMaps: z.url().optional(),
   trailMapPage: z.url().optional(),
   trailMapPdf: z.url().optional(),
