@@ -14,6 +14,7 @@ visibility:
   note: "岩手縣雪場清單補新增的靜態初版；以官方網站與公開雪場資料整理。"
 links:
   official: "http://www.city.hanamaki.iwate.jp/ski/"
+  facebook: "https://www.facebook.com/NamarionsenSki/"
   weather: "https://weathernews.jp/ski/spot/33306/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Hanamaki%20Namari%20Onsen%20Ski%20Area"
 contact:

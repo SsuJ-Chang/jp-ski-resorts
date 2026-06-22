@@ -16,6 +16,8 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "http://akan-ski.com"
+  instagram: "https://www.instagram.com/akan_ski_utara"
+  xTwitter: "https://x.com/Akan_Ski_Utara"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Akan%20Lakeside%20National%20Ski%20Area"
   weather: "https://weathernews.jp/ski/spot/31901/"
   ticket: "https://weathernews.jp/ski/spot/31901/"

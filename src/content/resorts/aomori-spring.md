@@ -15,6 +15,9 @@ visibility:
   note: "青森縣雪場清單補新增的靜態初版；以官方網站與公開雪場資料整理。"
 links:
   official: "https://aomorispringski.com"
+  facebook: "https://www.facebook.com/aomorispringski/"
+  instagram: "https://www.instagram.com/aomorispring/"
+  xTwitter: "https://twitter.com/aomorispring"
   weather: "https://weathernews.jp/ski/spot/33103/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Aomori%20Spring%20Ski%20Resort"
 contact:

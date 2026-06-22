@@ -16,6 +16,9 @@ tags:
 - resort_village
 links:
   official: https://www.oze-iwakura.co.jp/ski/
+  facebook: "http://www.facebook.com/ozeiwakura"
+  instagram: "https://www.instagram.com/ozeiwakura_skiresort/"
+  xTwitter: "http://www.twitter.com/ozeiwakura_2011"
   trailMapPage: https://www.oze-iwakura.co.jp/ski/slopeguide/index.html
   weather: https://weathernews.jp/ski/spot/34207/
   googleMaps: https://maps.google.co.jp/maps?q=36.815088,139.220384

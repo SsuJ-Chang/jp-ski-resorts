@@ -13,6 +13,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.rokkosan.com/ski/
+  instagram: "https://www.instagram.com/rokkosan_snow_park/"
+  xTwitter: "https://x.com/rokkosan_snow_"
   trailMapPage: https://www.rokkosan.com/ski/beginner/ski/
   weather: https://weathernews.jp/ski/spot/36306/
   googleMaps: https://maps.google.co.jp/maps?q=34.767987,135.242606

@@ -19,6 +19,9 @@ tags:
 homeRegionExample: true
 links:
   official: https://www.dynaland.co.jp/
+  facebook: "https://www.facebook.com/dynaland/"
+  instagram: "https://www.instagram.com/dynaland01/"
+  xTwitter: "https://twitter.com/dynaland"
   trailMapPage: https://www.dynaland.co.jp/gelande/
   ticket: https://www.takasumountains.com/lift/
   access: https://www.dynaland.co.jp/access/

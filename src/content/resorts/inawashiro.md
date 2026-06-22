@@ -17,6 +17,9 @@ tags:
 homeRegionExample: true
 links:
   official: https://www.inawashiro-ski.com/
+  facebook: "https://www.facebook.com/snowparadise.iNAWASHiRO"
+  instagram: "https://www.instagram.com/inawashiro_ski/"
+  xTwitter: "https://twitter.com/inawashiro_ski"
   trailMapPage: https://www.inawashiro-ski.com/gelande/
   ticket: https://www.inawashiro-ski.com/lift/
   access: https://www.inawashiro-ski.com/access/

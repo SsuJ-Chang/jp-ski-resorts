@@ -13,6 +13,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://okukan.com/
+  facebook: "https://www.facebook.com/okukannabe"
+  instagram: "https://www.instagram.com/okukannabe/"
   trailMapPage: https://okukan.com/gelande/
   weather: https://weathernews.jp/ski/spot/36302/
   googleMaps: https://maps.google.co.jp/maps?q=35.504559,134.652386

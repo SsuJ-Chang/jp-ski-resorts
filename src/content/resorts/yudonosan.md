@@ -15,6 +15,7 @@ visibility:
   note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "https://yudonosan.com/"
+  instagram: "https://www.instagram.com/yudonosan/"
   weather: "https://weathernews.jp/ski/spot/33505/"
   access: "https://yudonosan.com/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Yudonosan%20Ski%20Resort"

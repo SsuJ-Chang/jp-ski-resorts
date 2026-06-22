@@ -16,6 +16,9 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://sanlaiva.com/"
+  facebook: "https://www.facebook.com/KarurusuSANLAIVA/"
+  instagram: "https://www.instagram.com/sanlaiva/"
+  xTwitter: "https://twitter.com/SANLAIVA_K"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Karurusu%20Onsen%20Sanlaiva%20Ski%20Area"
   weather: "https://weathernews.jp/ski/spot/32103/"
   ticket: "https://weathernews.jp/ski/spot/32103/"

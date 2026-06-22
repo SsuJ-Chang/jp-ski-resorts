@@ -14,6 +14,8 @@ visibility:
   note: "富山縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。"
 links:
   official: "https://www.tateyama36.co.jp/"
+  facebook: "https://www.facebook.com/tateyama36/"
+  instagram: "https://www.instagram.com/tateyama_36/"
   weather: "https://weathernews.jp/ski/spot/35505/"
   ticket: "https://www.tateyama36.co.jp/price/"
   access: "https://www.tateyama36.co.jp/access/"

@@ -11,6 +11,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://misaka.kamuisp.com/"
+  instagram: "https://www.instagram.com/kamuimisaka_official/"
   weather: "https://weathernews.jp/ski/spot/34904/"
   ticket: "https://weathernews.jp/ski/spot/34904/"
   access: "https://weathernews.jp/ski/spot/34904/"

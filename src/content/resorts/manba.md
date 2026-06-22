@@ -13,6 +13,9 @@ tags:
 - long_run
 links:
   official: https://www.manba-ski.jp/
+  facebook: "https://www.facebook.com/manba.ski/"
+  instagram: "https://www.instagram.com/manbaski/"
+  xTwitter: "https://x.com/manbaskijou"
   trailMapPage: https://www.manba-ski.jp/gelande/
   weather: https://weathernews.jp/ski/spot/36308/
   googleMaps: https://maps.google.co.jp/maps?q=35.494258,134.663670

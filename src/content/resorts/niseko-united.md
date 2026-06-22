@@ -22,6 +22,8 @@ tags:
 - onsen
 links:
   official: https://www.niseko.ne.jp/en/
+  facebook: "https://www.facebook.com/NisekoUnited/"
+  instagram: "https://www.instagram.com/nisekounited/"
   trailMapPage: https://www.niseko.ne.jp/en/map/
   trailMapPdf: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
   ticket: https://www.niseko.ne.jp/en/lift/

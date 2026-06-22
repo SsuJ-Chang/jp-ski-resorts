@@ -17,6 +17,8 @@ visibility:
   note: "山形縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://akakura-spa-ski.com/"
+  facebook: "https://www.facebook.com/akakuraski/"
+  instagram: "https://www.instagram.com/akakuraspa_ski_resort/"
   weather: "https://weathernews.jp/ski/spot/33512/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=38.705483,140.544368"
   access: "https://akakura-spa-ski.com/"

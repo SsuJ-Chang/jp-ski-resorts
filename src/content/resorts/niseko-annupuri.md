@@ -16,6 +16,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://annupuri.info/winter/
+  facebook: "https://www.facebook.com/nisekoannupuriskiarea/"
+  instagram: "https://www.instagram.com/nisekoannupuriskiarea/"
   trailMapPage: https://www.niseko.ne.jp/en/map/annupuri/
   trailMapPdf: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
   ticket: https://www.niseko.ne.jp/en/lift/

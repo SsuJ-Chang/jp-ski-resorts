@@ -17,6 +17,9 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "http://www.kiroro.co.jp/"
+  facebook: "https://www.facebook.com/kirororesort/"
+  instagram: "https://www.instagram.com/kirororesort/"
+  xTwitter: "https://twitter.com/KIRORO_RESORT"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Kiroro%20Snow%20World"
   weather: "https://weathernews.jp/ski/spot/31609/"
   ticket: "https://weathernews.jp/ski/spot/31609/"

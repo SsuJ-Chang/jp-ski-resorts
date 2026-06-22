@@ -11,6 +11,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.biwako-valley.com/winter/
+  instagram: "https://www.instagram.com/biwakovalley_biwakoterrace/"
+  xTwitter: "https://x.com/biwako801"
   trailMapPage: https://www.biwako-valley.com/winter/
   weather: https://weathernews.jp/ski/spot/36001/
   googleMaps: https://maps.google.co.jp/maps?q=35.203059,135.907574

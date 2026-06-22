@@ -13,6 +13,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://www.yamaboku.co.jp/"
+  facebook: "https://www.facebook.com/Yamaboku/"
+  instagram: "https://www.instagram.com/yamaboku_official_/"
   weather: "https://weathernews.jp/ski/spot/34885/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=YAMABOKU%20Wild%20Snow%20Park"
   access: "http://www.yamaboku.co.jp/"

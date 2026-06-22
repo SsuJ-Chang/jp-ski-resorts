@@ -12,6 +12,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://miaski-resort.com/"
+  facebook: "https://www.facebook.com/kaidakogenmia"
+  instagram: "https://www.instagram.com/shinshukaidakogenmia/"
   weather: "https://weathernews.jp/ski/spot/34854/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Shinshu%20Kaida%20Kogen%20MIA%20Ski%20Area"
   access: "https://miaski-resort.com/"

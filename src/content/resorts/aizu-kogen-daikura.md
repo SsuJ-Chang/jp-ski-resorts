@@ -17,6 +17,8 @@ visibility:
   note: "福島縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "http://daikura.net/"
+  facebook: "https://www.facebook.com/aizudaikura"
+  instagram: "https://www.instagram.com/daikura_ski/"
   weather: "https://weathernews.jp/ski/spot/33615/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=37.181393,139.637209"
   access: "http://daikura.net/"

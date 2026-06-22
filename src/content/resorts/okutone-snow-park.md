@@ -13,6 +13,7 @@ tags:
 - tree_run
 links:
   official: https://okutone.jp/
+  facebook: "https://www.facebook.com/okutone.snowpark"
   trailMapPage: https://okutone.jp/gelande/
   weather: https://weathernews.jp/ski/spot/34225/
   googleMaps: https://maps.google.co.jp/maps?q=36.803306,139.006577

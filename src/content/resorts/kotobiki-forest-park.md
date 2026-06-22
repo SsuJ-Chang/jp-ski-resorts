@@ -13,6 +13,9 @@ tags:
 - tree_run
 links:
   official: https://ski.kotobiki.co.jp/
+  facebook: "https://www.facebook.com/kotobikiski/"
+  instagram: "https://www.instagram.com/kotobikikotoru/"
+  xTwitter: "https://x.com/kotobikikotoru"
   trailMapPage: https://ski.kotobiki.co.jp/course-gerende/
   weather: https://weathernews.jp/ski/spot/36804/
   googleMaps: https://maps.google.co.jp/maps?q=35.0549,132.7698

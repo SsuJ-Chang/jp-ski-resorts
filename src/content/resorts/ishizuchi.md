@@ -9,6 +9,7 @@ region: kansai-chugoku
 prefecture: 愛媛縣
 links:
   official: https://www.ishizuchi.com/ski/
+  instagram: "https://www.instagram.com/ishizuchiropeway/"
   weather: https://weathernews.jp/ski/spot/37301/
   access: https://www.ishizuchi.com/ski/access
   googleMaps: https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E9%8E%9A%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4

@@ -18,6 +18,9 @@ tags:
 homeRegionExample: true
 links:
   official: https://www.nekoma.co.jp/
+  facebook: "https://www.facebook.com/nekoma.mountain/"
+  instagram: "https://www.instagram.com/nekoma.mountain/"
+  xTwitter: "https://twitter.com/nekoma_mountain"
   trailMapPage: https://www.nekoma.co.jp/liftguide/
   ticket: https://www.nekoma.co.jp/price/
   access: https://www.nekoma.co.jp/access/

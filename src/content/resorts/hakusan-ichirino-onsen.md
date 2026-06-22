@@ -20,6 +20,8 @@ visibility:
   note: 石川縣白山市雪場，未歸入現有 skiArea enum。
 links:
   official: https://www.sam-hakusan.com/white/ichirino/
+  facebook: "https://www.facebook.com/ichirino.hakusan"
+  instagram: "https://www.instagram.com/samhakusan/"
   trailMapPage: https://www.sam-hakusan.com/white/ichirino/course/
   ticket: https://www.sam-hakusan.com/white/ichirino/lift/
   access: https://www.sam-hakusan.com/white/ichirino/access/

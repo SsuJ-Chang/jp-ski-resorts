@@ -13,6 +13,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://www.yunomaru.co.jp"
+  facebook: "https://www.facebook.com/yunomaruski/"
+  xTwitter: "https://twitter.com/info_yunomaru"
   weather: "https://weathernews.jp/ski/spot/34848/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Yunomaru%20Ski%20Area"
   access: "http://www.yunomaru.co.jp"

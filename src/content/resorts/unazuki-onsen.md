@@ -16,6 +16,8 @@ visibility:
   note: "富山縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。"
 links:
   official: "https://www.unazuki-snowpark.com/"
+  facebook: "https://www.facebook.com/unazukisnowpark/"
+  instagram: "https://www.instagram.com/unazukiskischool/"
   weather: "https://weathernews.jp/ski/spot/35511/"
   ticket: "https://www.unazuki-snowpark.com/price/"
   access: "https://www.unazuki-snowpark.com/access/"

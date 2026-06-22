@@ -16,6 +16,7 @@ visibility:
   note: 石川縣小松市雪場，未歸入現有 skiArea enum。
 links:
   official: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/
+  facebook: "https://www.facebook.com/okuradake/"
   trailMapPage: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/guide/
   ticket: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/price/
   access: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/access/

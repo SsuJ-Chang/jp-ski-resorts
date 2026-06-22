@@ -13,6 +13,9 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://asahivalley.jp/"
+  facebook: "https://www.facebook.com/asahivalleyresort"
+  instagram: "https://www.instagram.com/asahivalley/"
+  xTwitter: "https://twitter.com/asahivalley"
   weather: "https://weathernews.jp/ski/spot/34890/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Asahi%20Prime%20Ski%20Area"
   access: "https://asahivalley.jp/"

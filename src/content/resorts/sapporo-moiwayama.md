@@ -17,6 +17,9 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://sapporo-moiwa.jp/"
+  facebook: "https://www.facebook.com/SAPPOROMOIWAYAMASKIRESORT/"
+  instagram: "https://www.instagram.com/sapporo_moiwayama_skiarea/"
+  xTwitter: "https://x.com/SapporoMoiwaSki"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Sapporo%20Moiwayama%20Ski%20Area"
   weather: "https://weathernews.jp/ski/spot/31406/"
   ticket: "https://weathernews.jp/ski/spot/31406/"

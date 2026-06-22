@@ -13,6 +13,8 @@ tags:
   - "onsen"
 links:
   official: "https://www.katashinakogen.co.jp/"
+  facebook: "https://www.facebook.com/katashinakogen"
+  instagram: "https://www.instagram.com/katashinakogen/"
   trailMapPage: "https://katashinakogen.co.jp/winter/"
   ticket: "https://katashinakogen.co.jp/payment-lift-ticket/"
   access: "https://katashinakogen.co.jp/green/access-way/"

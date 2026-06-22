@@ -16,6 +16,10 @@ tags:
 - onsen
 links:
   official: https://gala.co.jp/winter/
+  facebook: "https://www.facebook.com/galayuzawa/"
+  instagram: "https://www.instagram.com/galayuzawa_official/"
+  threads: "https://www.threads.net/@galayuzawa_official"
+  xTwitter: "https://twitter.com/GALA_yuzawa"
   trailMapPage: https://gala.co.jp/winter/gelande/
   trailMapPdf: https://gala.co.jp/winter/cmsw/wp-content/uploads/2025/11/3a2fd628ce100e195c916f805d12f38d.pdf
   snowReport: https://gala.co.jp/winter/gelande/

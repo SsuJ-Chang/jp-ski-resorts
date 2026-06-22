@@ -8,6 +8,8 @@ region: kansai-chugoku
 prefecture: 愛媛縣
 links:
   official: https://sol-fa.com/
+  facebook: "https://www.facebook.com/solfa.odamiyama"
+  instagram: "https://www.instagram.com/solfa.oda/"
   weather: https://weathernews.jp/ski/spot/37304/
   access: https://sol-fa.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9-1/
   googleMaps: https://www.google.com/maps/search/?api=1&query=SOL-FA%E3%82%AA%E3%83%80%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%B2%E3%83%AC%E3%83%B3%E3%83%87

@@ -15,6 +15,9 @@ tags:
 - long_run
 links:
   official: https://www.brnorikura.jp/
+  facebook: "https://www.facebook.com/mt.norikura/"
+  instagram: "https://www.instagram.com/mt.norikura_snow_resort/"
+  xTwitter: "https://twitter.com/Mt_Norikura"
   weather: https://weathernews.jp/ski/spot/34807/
   access: https://www.brnorikura.jp/access/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Mt.%20Norikura%20Snow%20Resort

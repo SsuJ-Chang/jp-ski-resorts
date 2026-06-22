@@ -19,6 +19,9 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://niseko-moiwa.jp/ja/"
+  facebook: "https://www.facebook.com/NisekoMoiwaSkiResort"
+  instagram: "https://www.instagram.com/niseko_moiwa_official/"
+  xTwitter: "https://x.com/NisekoMoiwaSki1"
   weather: "https://weathernews.jp/ski/spot/31611/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=42.848305,140.630306"
   access: "https://niseko-moiwa.jp/ja/"

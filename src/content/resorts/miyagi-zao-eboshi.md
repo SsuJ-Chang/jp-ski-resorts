@@ -15,6 +15,7 @@ visibility:
   note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "http://www.eboshi.co.jp/"
+  instagram: "https://www.instagram.com/eboshiresort/"
   weather: "https://weathernews.jp/ski/spot/33404/"
   access: "https://eboshi.co.jp/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Miyagi%20Zao%20Eboshi%20Resort"

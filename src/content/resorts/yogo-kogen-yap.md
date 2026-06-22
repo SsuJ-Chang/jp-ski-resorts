@@ -13,6 +13,8 @@ tags:
 - resort_village
 links:
   official: http://yogo45.co.jp/
+  facebook: "https://www.facebook.com/余呉高原リゾートyap-400631880707171/"
+  instagram: "https://www.instagram.com/yogokohgenresort_yap/"
   trailMapPage: http://yogo45.co.jp/gelande-map/
   weather: https://weathernews.jp/ski/spot/36002/
   googleMaps: https://maps.google.co.jp/maps?q=35.698266,136.158049

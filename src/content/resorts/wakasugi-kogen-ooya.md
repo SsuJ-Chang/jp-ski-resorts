@@ -14,6 +14,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://ooyaski.com/ski/
+  facebook: "https://www.facebook.com/ooya.ski/"
+  xTwitter: "https://x.com/ooyaski"
   trailMapPage: https://ooyaski.com/ski/courses/
   weather: https://weathernews.jp/ski/spot/36325/
   googleMaps: https://maps.google.co.jp/maps?q=35.283203,134.587666

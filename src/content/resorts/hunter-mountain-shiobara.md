@@ -13,6 +13,8 @@ tags:
 - resort_village
 links:
   official: https://www.hunter.co.jp/winter/
+  facebook: "https://www.facebook.com/hunter.co.jp/"
+  instagram: "https://www.instagram.com/hunter_mountain_jpn/"
   trailMapPage: https://www.hunter.co.jp/winter/course/
   weather: https://weathernews.jp/ski/spot/34101/
   googleMaps: https://maps.google.co.jp/maps?q=36.938074,139.753566

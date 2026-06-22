@@ -14,6 +14,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.ojiro.or.jp/
+  instagram: "https://www.instagram.com/ojiroski/"
+  xTwitter: "https://twitter.com/ojiroski"
   trailMapPage: https://www.ojiro.or.jp/gelande/
   weather: https://weathernews.jp/ski/spot/36321/
   googleMaps: https://maps.google.co.jp/maps?q=35.463907,134.516021

@@ -13,6 +13,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://hiraya-kougen.com/"
+  instagram: "https://www.instagram.com/hiraya_resort/"
+  xTwitter: "https://twitter.com/HirayaSki"
   weather: "https://weathernews.jp/ski/spot/44807/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Hiraya%20Kogen%20Ski%20Area"
   access: "https://hiraya-kougen.com/"

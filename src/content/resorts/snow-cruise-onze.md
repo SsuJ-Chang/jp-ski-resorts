@@ -18,6 +18,9 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://onze.jp/"
+  facebook: "https://www.facebook.com/Snow-cruise-onze-441302129352126/"
+  instagram: "https://www.instagram.com/snowcruiseonze/"
+  xTwitter: "https://twitter.com/snowcruiseonze"
   weather: "https://weathernews.jp/ski/spot/31616/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=43.146043,141.132387"
   access: "https://onze.jp/"

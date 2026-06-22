@@ -14,6 +14,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.kannabe.co.jp/
+  instagram: "https://www.instagram.com/upkannabe/"
+  xTwitter: "https://twitter.com/upkannabe"
   trailMapPage: https://www.kannabe.co.jp/gelande
   weather: https://weathernews.jp/ski/spot/36303/
   googleMaps: https://maps.google.co.jp/maps?q=35.500841,134.678250

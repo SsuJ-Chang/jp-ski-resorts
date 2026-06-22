@@ -14,6 +14,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://www.tainai.info/"
+  instagram: "https://www.instagram.com/michinoeki_tainai/"
   weather: "https://weathernews.jp/ski/spot/35481/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Tainai%20Ski%20Area"
   access: "http://www.tainai.info/"

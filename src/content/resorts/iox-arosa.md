@@ -14,6 +14,8 @@ visibility:
   note: "富山縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。"
 links:
   official: "https://www.iox-arosa.jp/"
+  instagram: "https://www.instagram.com/ioxarosaofficial/"
+  xTwitter: "https://twitter.com/iox_arosa"
   weather: "https://weathernews.jp/ski/spot/35510/"
   ticket: "https://weathernews.jp/ski/spot/35510/"
   access: "https://iox-arosa.jp/access"

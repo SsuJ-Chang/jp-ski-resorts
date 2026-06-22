@@ -17,6 +17,7 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.fujino-yagai-sports.jp/"
+  instagram: "https://www.instagram.com/fus_sapporo/"
   weather: "https://weathernews.jp/ski/spot/31412/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=42.954177,141.279438"
   access: "https://www.fujino-yagai-sports.jp/"

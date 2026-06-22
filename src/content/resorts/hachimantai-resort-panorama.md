@@ -15,6 +15,8 @@ visibility:
   note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "http://www.hachimantai.co.jp/"
+  instagram: "https://www.instagram.com/hachimantai_resort/"
+  xTwitter: "https://x.com/hachiresort"
   weather: "https://weathernews.jp/ski/spot/33311/"
   access: "https://www.hachimantai.co.jp/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Hachimantai%20Resort%20Panorama%20Ski%20Area"

@@ -17,6 +17,9 @@ tags:
   - snowboard_friendly
 links:
   official: https://www.minakami-ski.jp/
+  facebook: "https://www.facebook.com/minakamikogen200/"
+  instagram: "https://www.instagram.com/minakamikogenresort200/"
+  xTwitter: "https://twitter.com/minakami200l"
   trailMapPage: https://www.minakami-ski.jp/gerande/
   ticket: https://www.minakami-ski.jp/price/
   access: https://www.minakami-ski.jp/access/

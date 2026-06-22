@@ -16,6 +16,9 @@ tags:
 homeRegionExample: true
 links:
   official: https://www.happo-one.jp/
+  facebook: "https://www.facebook.com/hakuba.happo/"
+  instagram: "https://www.instagram.com/hakubahappoone/"
+  xTwitter: "https://twitter.com/hakuba_happo"
   trailMapPage: https://www.happo-one.jp/gelande/
   ticket: https://www.happo-one.jp/ticket/
   access: https://www.happo-one.jp/access/

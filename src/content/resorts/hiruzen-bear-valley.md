@@ -12,6 +12,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://bear-ski.amebaownd.com/
+  instagram: "https://www.instagram.com/hiruzen.bearpark/"
+  xTwitter: "https://twitter.com/Bear_ski"
   trailMapPage: https://bear-ski.amebaownd.com/
   weather: https://weathernews.jp/ski/spot/36607/
   googleMaps: https://maps.google.co.jp/maps?q=35.261237,133.596342

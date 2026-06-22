@@ -14,6 +14,7 @@ visibility:
   note: "青森縣雪場清單補新增的靜態初版；以官方網站與公開雪場資料整理。"
 links:
   official: "http://www.shichinohe-kankou.jp/kazoku/ski"
+  facebook: "https://www.facebook.com/tabinokura.shichinohe/"
   weather: "https://weathernews.jp/ski/spot/33109/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Shichinohe%20Municipal%20Ski%20Area"
 contact:

@@ -15,6 +15,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.park-resort.com/ski/
+  instagram: "https://www.instagram.com/yuzawapark_ski/"
   trailMapPage: https://www.park-resort.com/ski/gelande/
   ticket: https://www.park-resort.com/ski/price/
   access: https://www.park-resort.com/ski/access/

@@ -11,6 +11,8 @@ tags:
 - family_friendly
 links:
   official: http://www.chausuyama.jp/exercise/2014022119103644.html
+  facebook: "https://www.facebook.com/chausuyama.jp/"
+  xTwitter: "https://x.com/chausu_kogen"
   access: https://www.chausuyama.jp/access/
   weather: https://weathernews.jp/ski/spot/35101/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Chausuyama%20Kogen%20Ski%20Resort

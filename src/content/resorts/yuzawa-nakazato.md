@@ -15,6 +15,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.yuzawa-nakazato.com/winter/
+  facebook: "https://www.facebook.com/yuzawanakazato"
+  xTwitter: "https://twitter.com/yuzawa_nakazato"
   trailMapPage: https://www.yuzawa-nakazato.com/winter/course/
   ticket: https://www.yuzawa-nakazato.com/winter/fee/
   access: https://www.yuzawa-nakazato.com/winter/access/

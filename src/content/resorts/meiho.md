@@ -14,6 +14,9 @@ tags:
   - snowboard_friendly
 links:
   official: https://www.meihoski.co.jp/winter/
+  facebook: "https://www.facebook.com/meihoresort/"
+  instagram: "https://www.instagram.com/meihoresort/"
+  xTwitter: "https://twitter.com/meihoresort"
   googleMaps: https://www.google.com/maps/search/?api=1&query=35.941931%2C137.042838
   trailMapPage: https://www.meihoski.co.jp/gelande/
   weather: https://weathernews.jp/ski/spot/35206/

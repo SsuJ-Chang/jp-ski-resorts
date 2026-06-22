@@ -16,6 +16,8 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://iwanairesort.com"
+  facebook: "https://www.facebook.com/iwanairesort/"
+  instagram: "https://www.instagram.com/iwanairesort/"
   weather: "https://weathernews.jp/ski/spot/31614/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=42.947870,140.512191"
   access: "https://iwanairesort.com"

@@ -17,6 +17,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.princehotels.co.jp/ski/naeba/winter/
+  facebook: "https://www.facebook.com/SnowNaeba"
+  instagram: "https://www.instagram.com/naebaski_official/"
+  xTwitter: "https://twitter.com/Naebanow"
   trailMapPage: https://www.princehotels.co.jp/ski/naeba/winter/coursemap/
   ticket: https://www.princehotels.co.jp/ski/naeba/winter/lift/
   access: https://www.princehotels.co.jp/ski/naeba/winter/access/

@@ -18,6 +18,9 @@ tags:
 - tree_run
 links:
   official: https://www.tsugaike.gr.jp/snow
+  facebook: "https://www.facebook.com/tsugaikeresort"
+  instagram: "https://www.instagram.com/tsugaike_kogen/"
+  xTwitter: "https://x.com/gogotsugaike"
   trailMapPage: https://www.tsugaike.gr.jp/snow/gelande
   ticket: https://www.tsugaike.gr.jp/snow/price
   googleMaps: https://www.google.com/maps/search/?api=1&query=Tsugaike%20Mountain%20Resort

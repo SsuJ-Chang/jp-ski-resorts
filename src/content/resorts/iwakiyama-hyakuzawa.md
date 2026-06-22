@@ -15,6 +15,7 @@ visibility:
   note: "青森縣雪場清單補新增的靜態初版；以官方網站與公開雪場資料整理。"
 links:
   official: "https://www.hyakuzawa-ski.com/"
+  instagram: "https://www.instagram.com/hyakuzawa.snowboardschool/"
   weather: "https://weathernews.jp/ski/spot/33104/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Iwakiyama%20Hyakuzawa%20Ski%20Resort"
 contact:

@@ -11,6 +11,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.mizuhohighland.com/
+  facebook: "https://www.facebook.com/highland.mizuho/"
+  instagram: "https://instagram.com/mizuho_highland/"
+  xTwitter: "https://twitter.com/mizuhohighland/"
   trailMapPage: https://www.mizuhohighland.com/course/
   weather: https://weathernews.jp/ski/spot/36801/
   googleMaps: https://maps.google.co.jp/maps?q=34.815403,132.400701

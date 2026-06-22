@@ -13,6 +13,9 @@ tags:
   - snowboard_friendly
 links:
   official: https://winghills.net/snow/
+  facebook: "https://www.facebook.com/winghills"
+  instagram: "https://www.instagram.com/winghills1350"
+  xTwitter: "https://twitter.com/winghills1350"
   googleMaps: https://www.google.com/maps/search/?api=1&query=35.966090%2C136.802492
   trailMapPage: https://winghills.net/snow/coursemap/
   weather: https://weathernews.jp/ski/spot/35212/

@@ -16,6 +16,9 @@ tags:
 - tree_run
 links:
   official: https://resort.en-hotel.com/grandeco/snow/ja/
+  facebook: "https://www.facebook.com/En-Resort-Grandeco-125932050405440"
+  instagram: "https://www.instagram.com/en_resort_grandeco_official/"
+  xTwitter: "https://x.com/grandeco"
   trailMapPage: https://resort.en-hotel.com/grandeco/snow/ja/
   ticket: https://resort.en-hotel.com/grandeco/snow/ja/
   access: https://resort.en-hotel.com/grandeco/snow/ja/

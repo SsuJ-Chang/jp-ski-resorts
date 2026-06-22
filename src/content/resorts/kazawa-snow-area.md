@@ -12,6 +12,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://www.kazawa.com/snow/"
+  facebook: "https://www.facebook.com/kazawasnow"
+  instagram: "https://www.instagram.com/kazawasnowarea.kazawagreenarea/"
   trailMapPage: "http://www.kazawa.com/snow/eigyou.html"
   ticket: "http://www.kazawa.com/13922619850915"
   access: "http://www.kazawa.com/snow/access.html"

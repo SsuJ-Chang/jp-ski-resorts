@@ -14,6 +14,7 @@ tags:
 - no_car_accessible
 links:
   official: https://www.hiruganokogen.com/
+  instagram: "https://www.instagram.com/hiruganokogen/"
   trailMapPage: https://www.hiruganokogen.com/about/
   ticket: https://www.takasumountains.com/lift/
   access: https://www.hiruganokogen.com/access/

@@ -15,6 +15,8 @@ tags:
 - onsen
 links:
   official: https://ski.washigatake.jp/
+  instagram: "https://www.instagram.com/washigatake5105/"
+  xTwitter: "https://twitter.com/washigatake"
   trailMapPage: https://ski.washigatake.jp/gelande/
   ticket: https://www.takasumountains.com/lift/
   access: https://ski.washigatake.jp/access/

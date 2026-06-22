@@ -14,6 +14,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.komaruyama.jp"
+  facebook: "https://www.facebook.com/komaruyama2001/"
+  xTwitter: "https://twitter.com/komaruyama2001"
   weather: "https://weathernews.jp/ski/spot/34861/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Komaruyama%20Ski%20Area"
   access: "https://www.komaruyama.jp"

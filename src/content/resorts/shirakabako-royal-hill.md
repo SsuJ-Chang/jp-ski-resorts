@@ -12,6 +12,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.royalhill.co.jp"
+  facebook: "https://www.facebook.com/shirakabako.royalhill"
+  instagram: "https://www.instagram.com/shirakabakoroyalhill"
   weather: "https://weathernews.jp/ski/spot/34833/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Shirakabako%20Royal%20Hill"
   access: "https://www.royalhill.co.jp"

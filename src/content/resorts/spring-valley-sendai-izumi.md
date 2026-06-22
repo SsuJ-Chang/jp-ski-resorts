@@ -17,6 +17,9 @@ visibility:
   note: "宮城縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.springvalley.co.jp/"
+  facebook: "https://www.facebook.com/springvalley.sendaiizumi/"
+  instagram: "https://www.instagram.com/springvalley_sendai_izumi/"
+  xTwitter: "https://twitter.com/springvalley022"
   weather: "https://weathernews.jp/ski/spot/33410/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=38.418528,140.722868"
   access: "https://www.springvalley.co.jp/"

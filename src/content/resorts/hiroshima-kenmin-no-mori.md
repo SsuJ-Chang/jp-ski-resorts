@@ -11,6 +11,7 @@ tags:
 - tree_run
 links:
   official: https://hiroshima-kenmori.com/
+  facebook: "https://www.facebook.com/kenminnomori"
   trailMapPage: https://hiroshima-kenmori.com/
   weather: https://weathernews.jp/ski/spot/36713/
   googleMaps: https://maps.google.co.jp/maps?q=35.0662,133.0747

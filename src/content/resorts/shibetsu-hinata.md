@@ -16,6 +16,7 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.city.shibetsu.lg.jp/soshikikarasagasu/gasshukunosato_supotsusuishinka/shiminsupotsukakari/1351.html"
+  xTwitter: "https://twitter.com/hinata_ski"
   weather: "https://weathernews.jp/ski/spot/31212/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=44.265675,142.343516"
   access: "https://www.city.shibetsu.lg.jp/soshikikarasagasu/gasshukunosato_supotsusuishinka/shiminsupotsukakari/1351.html"

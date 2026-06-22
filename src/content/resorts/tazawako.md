@@ -19,6 +19,9 @@ visibility:
   note: "秋田縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.tazawako-ski.com"
+  facebook: "https://www.facebook.com/tazawakoskischool/"
+  instagram: "https://www.instagram.com/akita_tazawako_snow_resort"
+  xTwitter: "https://twitter.com/tazawakoski"
   weather: "https://weathernews.jp/ski/spot/33204/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=39.762534,140.770960"
   access: "https://www.tazawako-ski.com"

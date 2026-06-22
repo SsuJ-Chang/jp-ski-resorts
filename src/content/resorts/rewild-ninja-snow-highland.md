@@ -12,6 +12,9 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://rewild-ninja-snow-highland.com/"
+  facebook: "https://www.facebook.com/ninja.snow.highland"
+  instagram: "https://www.instagram.com/rewild_ninja_snow_highland/"
+  xTwitter: "https://twitter.com/NinjaSnowLand"
   weather: "https://weathernews.jp/ski/spot/34838/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=REWILD%20NINJA%20SNOW%20HIGHLAND"
   access: "https://rewild-ninja-snow-highland.com/"

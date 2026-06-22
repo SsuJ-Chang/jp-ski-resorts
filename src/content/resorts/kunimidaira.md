@@ -13,6 +13,9 @@ visibility:
   note: "岩手縣雪場清單補新增的靜態初版；以官方網站與公開雪場資料整理。"
 links:
   official: "https://kunimidaira.com/"
+  facebook: "https://www.facebook.com/kunimidaira"
+  instagram: "https://www.instagram.com/kunimidaira/"
+  xTwitter: "https://x.com/kunimidaira"
   weather: "https://weathernews.jp/ski/spot/33314/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Kunimidaira%20Ski%20Area"
 contact:

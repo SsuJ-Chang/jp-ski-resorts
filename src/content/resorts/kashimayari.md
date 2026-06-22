@@ -15,6 +15,8 @@ tags:
 - family_friendly
 links:
   official: https://www.kashimayari.net/snow/
+  facebook: "https://www.facebook.com/kashimayariSV/"
+  xTwitter: "https://x.com/kashimayariSV"
   trailMapPage: https://www.kashimayari.net/snow/fields/
   ticket: https://www.kashimayari.net/snow/ticket/
   access: https://www.kashimayari.net/snow/access/

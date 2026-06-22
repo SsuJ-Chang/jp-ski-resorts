@@ -12,6 +12,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://ooyaski.com/bantoku/
+  facebook: "https://www.facebook.com/bansyu.tokura/"
   trailMapPage: https://ooyaski.com/bantoku/
   weather: https://weathernews.jp/ski/spot/36311/
   googleMaps: https://maps.google.co.jp/maps?q=35.289305,134.542689

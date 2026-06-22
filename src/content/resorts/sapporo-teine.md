@@ -18,6 +18,9 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://sapporo-teine.com/snow/"
+  facebook: "https://www.facebook.com/sapporo.teine/"
+  instagram: "https://www.instagram.com/sapporoteine_ski/"
+  xTwitter: "https://twitter.com/teine1024"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Sapporo%20Teine"
   weather: "https://weathernews.jp/ski/spot/31401/"
   ticket: "https://weathernews.jp/ski/spot/31401/"

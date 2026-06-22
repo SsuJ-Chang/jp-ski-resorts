@@ -17,6 +17,9 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.canmore-ski.jp"
+  facebook: "https://www.facebook.com/canmoreskivillage/"
+  instagram: "https://www.instagram.com/canmore_ski/"
+  xTwitter: "https://x.com/canmoreski"
   weather: "https://weathernews.jp/ski/spot/31206/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=43.730081,142.538437"
   access: "https://www.canmore-ski.jp"

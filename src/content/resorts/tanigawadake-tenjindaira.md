@@ -15,6 +15,7 @@ tags:
   - tree_run
 links:
   official: https://tanigawadake-joch.com/mt-t/
+  instagram: "https://www.instagram.com/mt.t_by_hoshinoresorts"
   trailMapPage: https://tanigawadake-joch.com/mt-t/
   ticket: https://tanigawadake-joch.com/mt-t/
   access: https://tanigawadake-joch.com/mt-t/

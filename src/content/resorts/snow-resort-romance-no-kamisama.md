@@ -12,6 +12,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://kijimadaira-ski.com"
+  instagram: "https://www.instagram.com/snowresort_romance/"
+  xTwitter: "https://twitter.com/romance_ski"
   weather: "https://weathernews.jp/ski/spot/34858/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Snow%20Resort%20Romance%20no%20Kamisama"
   access: "https://kijimadaira-ski.com"

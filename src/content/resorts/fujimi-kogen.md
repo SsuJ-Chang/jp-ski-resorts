@@ -13,6 +13,7 @@ tags:
   - "no_car_accessible"
 links:
   official: "http://fujimikogen-resort.jp/"
+  facebook: "http://www.facebook.com/fujimikogen"
   weather: "https://weathernews.jp/ski/spot/34834/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Fujimi%20Kogen%20Ski%20Area"
   access: "http://fujimikogen-resort.jp/"

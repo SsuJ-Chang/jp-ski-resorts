@@ -17,6 +17,7 @@ visibility:
   status: published
 links:
   official: https://www.kujyuski.co.jp/
+  instagram: "https://www.instagram.com/kuju_ski"
   access: https://www.kujyuski.co.jp/facility/access
   weather: https://weathernews.jp/ski/spot/38301/
   googleMaps: https://www.google.com/maps/search/?api=1&query=%E3%81%8F%E3%81%98%E3%82%85%E3%81%86%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4

@@ -12,6 +12,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://kutsuki-snowpark.com/
+  facebook: "https://www.facebook.com/kutsukisnowpark/"
+  instagram: "https://www.instagram.com/kutsuki_snowpark/"
+  xTwitter: "https://twitter.com/kutsukisnowpark"
   trailMapPage: https://kutsuki-snowpark.com/
   weather: https://weathernews.jp/ski/spot/36010/
   googleMaps: https://maps.google.co.jp/maps?q=35.329574,135.940197

@@ -14,6 +14,7 @@ visibility:
   note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "http://www.nposki.com"
+  instagram: "https://www.instagram.com/shiroishi_ski_park/"
   weather: "https://weathernews.jp/ski/spot/33411/"
   access: "https://www.nposki.com/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Miyagi%20Zao%20Shiroishi%20Ski%20Resort"

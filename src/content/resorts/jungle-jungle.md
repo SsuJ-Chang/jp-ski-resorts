@@ -18,6 +18,8 @@ visibility:
   note: "山形縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "http://jxj.co.jp"
+  facebook: "https://www.facebook.com/jangle.jungle"
+  instagram: "https://www.instagram.com/janglejungle5555"
   weather: "https://weathernews.jp/ski/spot/33514/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=38.439399,140.538728"
   access: "http://jxj.co.jp"

@@ -14,6 +14,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.yeti-resort.com/
+  instagram: "https://www.instagram.com/yeti_snowresort/"
   access: https://www.yeti-resort.com/access/
   weather: https://weathernews.jp/ski/spot/35003/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Snow%20Park%20Yeti

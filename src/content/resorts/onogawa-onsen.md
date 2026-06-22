@@ -17,6 +17,7 @@ visibility:
   note: "山形縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://npo-onogawa.org"
+  facebook: "https://www.facebook.com/onogawaski"
   weather: "https://weathernews.jp/ski/spot/33517/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=37.877801,140.058025"
   access: "https://npo-onogawa.org"

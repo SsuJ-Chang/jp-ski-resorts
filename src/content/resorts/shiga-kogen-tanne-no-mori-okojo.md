@@ -13,6 +13,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://shigakogen.co.jp/
+  facebook: "https://www.facebook.com/ShigaKogen.Ski"
+  instagram: "https://www.instagram.com/ShigaCentral/"
+  xTwitter: "https://x.com/ShigaCentral"
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/

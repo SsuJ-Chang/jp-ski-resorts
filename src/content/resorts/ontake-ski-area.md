@@ -13,6 +13,9 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://ontakeskijo.com/"
+  facebook: "https://facebook.com/ontakeskijo/"
+  instagram: "https://www.instagram.com/ontakeskijo/"
+  xTwitter: "https://twitter.com/ontakeskijo/"
   weather: "https://weathernews.jp/ski/spot/34814/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Ontake%20Ski%20Area"
   access: "https://ontakeskijo.com/"

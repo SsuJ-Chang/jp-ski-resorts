@@ -16,6 +16,8 @@ tags:
 - long_run
 links:
   official: https://www.hakubaescal.com/winter/
+  facebook: "https://www.facebook.com/hakubagoryuofficial/"
+  instagram: "https://www.instagram.com/hakubagoryuofficial/"
   trailMapPage: https://www.hakubaescal.com/winter/gelande/course/
   trailMapPdf: https://www.hakubaescal.com/winter/common/pdf/gelande/gelandemap2025.pdf
   ticket: https://www.hakubaescal.com/winter/tickets/lift/

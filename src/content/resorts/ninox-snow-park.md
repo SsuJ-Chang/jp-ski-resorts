@@ -14,6 +14,9 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.ninox.co.jp"
+  facebook: "https://www.facebook.com/ninoxsnow/"
+  instagram: "https://www.instagram.com/ninoxsnow/"
+  xTwitter: "https://twitter.com/NINOXSNOW"
   weather: "https://weathernews.jp/ski/spot/35438/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Ninox%20Snow%20Park"
   access: "https://www.ninox.co.jp"

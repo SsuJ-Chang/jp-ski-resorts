@@ -13,6 +13,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://winter.kurumayama-skypark.com/"
+  facebook: "https://www.facebook.com/Kurumayama1925/"
+  instagram: "https://www.instagram.com/kurumayama_skypark/"
   weather: "https://weathernews.jp/ski/spot/34812/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Kurumayama%20Kogen%20SKYPARK%20Ski%20Area"
   access: "https://winter.kurumayama-skypark.com/"

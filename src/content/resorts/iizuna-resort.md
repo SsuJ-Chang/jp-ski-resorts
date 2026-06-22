@@ -13,6 +13,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://iizunaresort.com"
+  facebook: "https://www.facebook.com/iizunamountainpark/"
   weather: "https://weathernews.jp/ski/spot/34824/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Iizuna%20Resort"
   access: "http://iizunaresort.com"

@@ -12,6 +12,7 @@ tags:
 - no_car_accessible
 links:
   official: http://okutadami.co.jp/ski/
+  instagram: "https://www.instagram.com/okutadami_shipski/"
   weather: https://weathernews.jp/ski/spot/35431/
   access: http://www.okutadami.co.jp/ski/access3.html
   googleMaps: https://www.google.com/maps/search/?api=1&query=Okutadami%20Maruyama%20Ski%20Resort

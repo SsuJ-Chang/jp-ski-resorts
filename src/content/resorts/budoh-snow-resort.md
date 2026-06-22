@@ -11,6 +11,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://snow.budoh-resorts.jp/"
+  instagram: "https://www.instagram.com/budoh_snow_resorts/"
+  xTwitter: "https://x.com/budoh_resorts/"
   weather: "https://weathernews.jp/ski/spot/35445/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Budoh%20Snow%20Resort"
   access: "https://snow.budoh-resorts.jp/"

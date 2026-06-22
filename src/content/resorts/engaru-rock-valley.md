@@ -16,6 +16,7 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "http://engaru-mori-no-okhotsk.jp/skiing/"
+  facebook: "https://www.facebook.com/engaru.rockvalley/"
   weather: "https://weathernews.jp/ski/spot/31710/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=44.021127,143.495865"
   access: "http://engaru-mori-no-okhotsk.jp/skiing/"

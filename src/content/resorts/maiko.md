@@ -19,6 +19,9 @@ tags:
 - powder
 links:
   official: https://www.maiko-resort.com/winter/
+  facebook: "https://www.facebook.com/maikosnowresort/"
+  instagram: "https://www.instagram.com/maikosnowresort/"
+  xTwitter: "https://twitter.com/maiko_snow"
   trailMapPage: https://www.maiko-resort.com/winter/gelande.html
   ticket: https://www.maiko-resort.com/winter/price/
   access: https://www.maiko-resort.com/winter/access/

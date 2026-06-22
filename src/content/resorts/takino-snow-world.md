@@ -15,6 +15,9 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.takinopark.com/"
+  facebook: "https://www.facebook.com/takinopark/"
+  instagram: "https://www.instagram.com/takino.park/"
+  xTwitter: "https://x.com/takino_official"
   weather: "https://weathernews.jp/ski/spot/31619/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=42.916898,141.388721"
   access: "https://www.takinopark.com/"

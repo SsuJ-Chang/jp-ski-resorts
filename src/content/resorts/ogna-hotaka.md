@@ -12,6 +12,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://k-hotaka.jp/ogna/
+  facebook: "https://www.facebook.com/ognahotaka"
+  instagram: "https://www.instagram.com/ognahotaka/"
+  xTwitter: "https://x.com/ognahotaka"
   trailMapPage: https://k-hotaka.jp/ogna/slope-guide/
   weather: https://weathernews.jp/ski/spot/34215/
   googleMaps: https://maps.google.co.jp/maps?q=36.780851,139.167726

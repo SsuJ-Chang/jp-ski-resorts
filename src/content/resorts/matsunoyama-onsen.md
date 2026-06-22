@@ -13,6 +13,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://www.matsunoyama-ski.com/"
+  xTwitter: "https://x.com/matsunoyamaski"
   weather: "https://weathernews.jp/ski/spot/35422/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Matsunoyama%20Onsen%20Ski%20Area"
   access: "http://www.matsunoyama-ski.com/"

@@ -11,6 +11,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://yachiho-kogen.com/ski/"
+  instagram: "https://www.instagram.com/yachiho_ski/"
+  xTwitter: "https://twitter.com/yachiho_ski"
   weather: "https://weathernews.jp/ski/spot/34843/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Yachiho%20Kogen%20Ski%20Area"
   access: "https://yachiho-kogen.com/ski/"

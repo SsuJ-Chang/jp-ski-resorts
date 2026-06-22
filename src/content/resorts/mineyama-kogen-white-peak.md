@@ -14,6 +14,9 @@ tags:
 - resort_village
 links:
   official: https://mineyama-kogen-resort.com/
+  facebook: "https://www.facebook.com/mineyama.kogen.resort/"
+  instagram: "https://www.instagram.com/mineyama_kogen_resort/"
+  xTwitter: "https://twitter.com/mineyama_resort"
   trailMapPage: https://mineyama-kogen-resort.com/course/
   weather: https://weathernews.jp/ski/spot/36313/
   googleMaps: https://maps.google.co.jp/maps?q=35.132117,134.666647

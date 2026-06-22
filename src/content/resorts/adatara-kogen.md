@@ -18,6 +18,9 @@ visibility:
   note: "福島縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "http://www.adatara-resort.com/"
+  facebook: "https://www.facebook.com/adatarakougen/"
+  instagram: "https://www.instagram.com/adatara_resort/"
+  xTwitter: "https://x.com/adatara_resort"
   weather: "https://weathernews.jp/ski/spot/33607/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=37.622995,140.324423"
   access: "http://www.adatara-resort.com/"

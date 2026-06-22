@@ -18,6 +18,7 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.ishikari-heigen-ski.net/liftticket"
+  instagram: "https://www.instagram.com/ishikariheigen.cc/"
   weather: "https://weathernews.jp/ski/spot/31414/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=43.260911,141.507228"
   access: "https://www.ishikari-heigen-ski.net/liftticket"

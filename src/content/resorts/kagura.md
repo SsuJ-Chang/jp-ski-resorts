@@ -16,6 +16,8 @@ tags:
 - tree_run
 links:
   official: https://www.princehotels.co.jp/ski/kagura/winter/
+  instagram: "https://www.instagram.com/kagura__gram/"
+  xTwitter: "https://twitter.com/kaguraski9221"
   trailMapPage: https://www.princehotels.co.jp/ski/kagura/winter/coursemap/
   ticket: https://www.princehotels.co.jp/ski/kagura/winter/lift/
   access: https://www.princehotels.co.jp/ski/kagura/winter/access/

@@ -17,6 +17,9 @@ tags:
 - tree_run
 links:
   official: https://alpenblick-resort.com/ski
+  facebook: "https://www.facebook.com/ikenotaira.info"
+  instagram: "https://www.instagram.com/alpenblick.resort/"
+  xTwitter: "https://x.com/ikenotairainfo"
   trailMapPage: https://alpenblick-resort.com/ski
   ticket: https://alpenblick-resort.com/ski
   access: https://alpenblick-resort.com/access

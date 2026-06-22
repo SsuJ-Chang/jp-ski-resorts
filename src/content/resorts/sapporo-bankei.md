@@ -15,6 +15,8 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://www.bankei.co.jp/winter/ski/"
+  instagram: "https://www.instagram.com/sapporo_bankei_skiarea/"
+  xTwitter: "https://twitter.com/sapporo_bankei"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Sapporo%20Bankei%20Ski%20Area"
   weather: "https://weathernews.jp/ski/spot/31405/"
   ticket: "https://weathernews.jp/ski/spot/31405/"

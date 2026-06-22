@@ -11,6 +11,9 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://www.asama2000.com"
+  facebook: "https://www.facebook.com/takamiemountainresort/"
+  instagram: "https://www.instagram.com/takamine_mountainresort/"
+  xTwitter: "https://twitter.com/takamine_MR"
   weather: "https://weathernews.jp/ski/spot/34853/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Takamine%20Mountain%20Park"
   access: "http://www.asama2000.com"

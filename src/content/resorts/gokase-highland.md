@@ -16,6 +16,7 @@ visibility:
   status: published
 links:
   official: https://www.gokase.co.jp/ski/
+  instagram: "https://www.instagram.com/gokase_highland_ski_resort/"
   access: https://www.gokase.co.jp/wp/wp-content/themes/biz-vektor/pdf/shuttle_bus_timetable.pdf
   weather: https://weathernews.jp/ski/spot/38602/
   googleMaps: https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E3%83%B6%E7%80%AC%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4

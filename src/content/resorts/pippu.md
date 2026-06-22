@@ -16,6 +16,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.town.pippu.hokkaido.jp/ski/top.html
+  facebook: "https://www.facebook.com/pippuski"
+  xTwitter: "https://twitter.com/pippuski"
   trailMapPage: https://www.town.pippu.hokkaido.jp/ski/course.html
   ticket: https://www.town.pippu.hokkaido.jp/ski/lift.html
   access: https://www.town.pippu.hokkaido.jp/ski/access.html

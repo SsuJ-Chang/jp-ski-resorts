@@ -15,6 +15,7 @@ tags:
 homeRegionExample: true
 links:
   official: https://www.daisen-resort.jp/
+  instagram: "https://www.instagram.com/daisen_resort/"
   trailMapPage: https://www.daisen-resort.jp/4/13.html
   ticket: https://www.daisen-resort.jp/6/
   access: https://www.daisen-resort.jp/10/

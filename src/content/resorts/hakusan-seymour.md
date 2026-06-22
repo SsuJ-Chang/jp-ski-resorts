@@ -14,6 +14,8 @@ visibility:
   note: 石川縣白山市雪場，未歸入現有 skiArea enum。
 links:
   official: https://www.sam-hakusan.com/white/seymour/
+  facebook: "https://www.facebook.com/seymour.hakusan"
+  instagram: "https://www.instagram.com/samhakusan/"
   trailMapPage: https://www.sam-hakusan.com/white/seymour/course/
   ticket: https://www.sam-hakusan.com/white/seymour/lift/
   access: https://www.sam-hakusan.com/white/seymour/access/

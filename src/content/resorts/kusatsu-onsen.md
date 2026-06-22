@@ -16,6 +16,8 @@ tags:
 - long_run
 links:
   official: https://www.932-onsen.com/winter/
+  facebook: "https://www.facebook.com/onsen932/"
+  instagram: "https://www.instagram.com/932onsen/"
   trailMapPage: https://www.932-onsen.com/winter/course/
   weather: https://weathernews.jp/ski/spot/34206/
   googleMaps: https://maps.google.co.jp/maps?q=36.629013,138.586008

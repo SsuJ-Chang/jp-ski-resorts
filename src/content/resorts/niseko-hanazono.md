@@ -17,6 +17,8 @@ tags:
 - tree_run
 links:
   official: https://hanazononiseko.com/en/winter
+  facebook: "https://www.facebook.com/Hanazononiseko"
+  instagram: "https://www.instagram.com/hanazononiseko/"
   trailMapPage: https://www.niseko.ne.jp/en/map/hanazono/
   trailMapPdf: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
   ticket: https://www.niseko.ne.jp/en/lift/

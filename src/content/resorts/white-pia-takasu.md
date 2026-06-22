@@ -15,6 +15,9 @@ tags:
 - onsen
 links:
   official: https://whitepia.jp/
+  facebook: "https://www.facebook.com/whitepia/"
+  instagram: "https://www.instagram.com/whitepiatakasu/"
+  xTwitter: "https://twitter.com/whitepia_takasu"
   trailMapPage: https://whitepia.jp/gerende/
   ticket: https://www.takasumountains.com/lift/
   access: https://whitepia.jp/access/

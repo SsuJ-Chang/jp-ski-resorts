@@ -13,6 +13,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://jiigatake.com/
+  instagram: "https://www.instagram.com/jigatake_snow_resort/"
   trailMapPage: https://jiigatake.com/slope/
   ticket: https://jiigatake.com/price/
   access: https://jiigatake.com/access/

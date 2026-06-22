@@ -13,6 +13,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.chikusakogen.com/
+  facebook: "https://www.facebook.com/chikusakogen/"
+  instagram: "https://www.instagram.com/chiguminn.chikusakogen/"
+  xTwitter: "https://twitter.com/ChikusakogenNls"
   trailMapPage: https://www.chikusakogen.com/gelande/
   weather: https://weathernews.jp/ski/spot/36304/
   googleMaps: https://maps.google.co.jp/maps?q=35.220969,134.389448

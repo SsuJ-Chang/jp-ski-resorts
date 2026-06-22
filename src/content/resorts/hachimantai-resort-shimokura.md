@@ -13,6 +13,8 @@ visibility:
   note: "岩手縣雪場清單補新增的靜態初版；以官方網站與公開雪場資料整理。"
 links:
   official: "http://www.hachimantai.co.jp/"
+  instagram: "https://www.instagram.com/hachimantai_resort/"
+  xTwitter: "https://x.com/hachiresort"
   weather: "https://weathernews.jp/ski/spot/33316/"
   access: "https://www.hachimantai.co.jp/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Hachimantai%20Resort%20Shimokura%20Ski%20Area"

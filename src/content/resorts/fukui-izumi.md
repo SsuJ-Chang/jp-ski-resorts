@@ -13,6 +13,9 @@ visibility:
   note: "福井縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。"
 links:
   official: "https://fukuiizumi.com/"
+  facebook: "https://www.facebook.com/fukuiizumi001"
+  instagram: "https://www.instagram.com/fukuiizumiski/"
+  xTwitter: "https://twitter.com/fukuiizumi"
   weather: "https://weathernews.jp/ski/spot/35706/"
   ticket: "https://fukuiizumi.com/ryoukin/"
   access: "https://fukuiizumi.com/access/"

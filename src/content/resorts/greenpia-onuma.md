@@ -17,6 +17,8 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "http://www.gp-onuma.com"
+  instagram: "https://www.instagram.com/greenpiaonuma/"
+  xTwitter: "https://twitter.com/greenpiaonuma"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Greenpia%20Onuma%20Ski%20Resort"
   weather: "https://weathernews.jp/ski/spot/31613/"
   ticket: "https://weathernews.jp/ski/spot/31613/"

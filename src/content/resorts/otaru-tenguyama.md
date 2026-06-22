@@ -15,6 +15,9 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://tenguyama.ckk.chuo-bus.co.jp/"
+  facebook: "https://www.facebook.com/tenguyamaropeway/"
+  instagram: "https://www.instagram.com/otaru_tenguyama.resort/"
+  xTwitter: "https://x.com/otarutenguyama"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Otaru%20Tenguyama%20Ski%20Resort"
   weather: "https://weathernews.jp/ski/spot/31503/"
   ticket: "https://weathernews.jp/ski/spot/31503/"

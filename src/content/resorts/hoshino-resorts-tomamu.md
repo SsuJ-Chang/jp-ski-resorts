@@ -18,6 +18,9 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "http://www.snowtomamu.jp"
+  facebook: "https://www.facebook.com/tomamu.hokkaido"
+  instagram: "https://www.instagram.com/hoshinoresorts.tomamu/"
+  xTwitter: "https://twitter.com/snowtomamu"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Hoshino%20Resorts%20TOMAMU%20Ski%20Area"
   weather: "https://weathernews.jp/ski/spot/31201/"
   ticket: "https://weathernews.jp/ski/spot/31201/"

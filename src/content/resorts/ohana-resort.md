@@ -13,6 +13,7 @@ tags:
 - resort_village
 links:
   official: https://ohana-shiga.com/
+  instagram: "https://www.instagram.com/ohana_resort_shiga/"
   trailMapPage: https://ohana-shiga.com/
   weather: https://weathernews.jp/ski/spot/36006/
   googleMaps: https://maps.google.co.jp/maps?q=35.535787,136.092625

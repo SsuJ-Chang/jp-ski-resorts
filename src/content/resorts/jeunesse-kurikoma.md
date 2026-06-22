@@ -18,6 +18,9 @@ visibility:
   note: "秋田縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.jeunesse-ski.com"
+  instagram: "https://www.instagram.com/ak_resort_jeunesse/"
+  threads: "https://www.threads.net/@ak_resort_jeunesse"
+  xTwitter: "https://x.com/jeunesse_resort"
   weather: "https://weathernews.jp/ski/spot/33209/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=39.159365,140.726281"
   access: "https://www.jeunesse-ski.com"

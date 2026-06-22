@@ -14,6 +14,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://www.inaski.com/"
+  facebook: "https://www.facebook.com/inaresort/"
+  instagram: "https://www.instagram.com/inaskiresort_official/"
   weather: "https://weathernews.jp/ski/spot/34831/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Chuo%20Expressway%20Ina%20Ski%20Resort"
   access: "http://www.inaski.com/"

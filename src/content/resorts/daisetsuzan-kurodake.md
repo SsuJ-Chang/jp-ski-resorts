@@ -16,6 +16,9 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://www.rinyu.co.jp/kurodake/"
+  facebook: "https://www.facebook.com/KURODAKEROPEWAY/"
+  instagram: "https://www.instagram.com/kurodakeropeway/"
+  xTwitter: "https://twitter.com/rinyu_kurodake"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Daisetsuzan%20Kurodake%20Ski%20Resort"
   weather: "https://weathernews.jp/ski/spot/31215/"
   ticket: "https://weathernews.jp/ski/spot/31215/"

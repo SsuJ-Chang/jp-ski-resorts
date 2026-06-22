@@ -17,6 +17,8 @@ visibility:
   note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "https://www.getokogen.com/winter/"
+  instagram: "https://www.instagram.com/getokogen/"
+  xTwitter: "https://twitter.com/getokogen"
   weather: "https://weathernews.jp/ski/spot/33315/"
   access: "https://www.getokogen.com/winter/05access/index.html"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Geto%20Kogen%20Ski%20Resort"

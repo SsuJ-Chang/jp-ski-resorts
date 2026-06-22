@@ -10,6 +10,8 @@ tags:
   - "no_car_accessible"
 links:
   official: "http://www.kisofukushima-ski.com/"
+  facebook: "https://www.facebook.com/kisofukushimaski/"
+  instagram: "https://www.instagram.com/kisofukushimaskijo/"
   weather: "https://weathernews.jp/ski/spot/34815/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Kiso%20Fukushima%20Ski%20Area"
   access: "http://www.kisofukushima-ski.com/"

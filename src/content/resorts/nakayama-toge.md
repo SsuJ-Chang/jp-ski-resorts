@@ -14,6 +14,7 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://nakayama-ski.com/"
+  facebook: "https://www.facebook.com/NakayamatougeSnow/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Nakayama%20Pass%20Ski%20Area"
   weather: "https://weathernews.jp/ski/spot/31606/"
   ticket: "https://weathernews.jp/ski/spot/31606/"

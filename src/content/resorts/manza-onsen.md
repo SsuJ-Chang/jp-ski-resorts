@@ -16,6 +16,8 @@ tags:
 - tree_run
 links:
   official: https://www.princehotels.co.jp/ski/manza/winter/
+  instagram: "https://www.instagram.com/manza_s_official/"
+  xTwitter: "https://twitter.com/manzaspa_snow"
   trailMapPage: https://www.princehotels.co.jp/ski/manza/winter/coursemap/
   weather: https://weathernews.jp/ski/spot/34203/
   googleMaps: https://maps.google.co.jp/maps?q=36.635703,138.506178

@@ -16,6 +16,7 @@ visibility:
   note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "http://www.hakkoda-ropeway.jp"
+  instagram: "https://www.instagram.com/hakkoda_ropeway_official"
   weather: "https://weathernews.jp/ski/spot/33105/"
   access: "https://hakkoda-ropeway.jp/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Hakkoda%20Ropeway%20Ski"

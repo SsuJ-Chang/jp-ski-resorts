@@ -15,6 +15,9 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://www.sapporo-kokusai.jp/"
+  facebook: "https://www.facebook.com/sapporoKOKUSAI/"
+  instagram: "https://www.instagram.com/sapporo_kokusai/"
+  xTwitter: "https://twitter.com/sapporo_KOKUSAI"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Sapporo%20Kokusai%20Ski%20Resort"
   weather: "https://weathernews.jp/ski/spot/31403/"
   ticket: "https://weathernews.jp/ski/spot/31403/"

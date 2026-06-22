@@ -12,6 +12,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.yabuhara-kogen.jp"
+  instagram: "https://www.instagram.com/yabuharakogen/"
+  xTwitter: "https://x.com/yabuharakogen/"
   weather: "https://weathernews.jp/ski/spot/34845/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Yabuhara%20Kogen%20Ski%20Area"
   access: "https://www.yabuhara-kogen.jp"

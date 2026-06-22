@@ -16,6 +16,9 @@ tags:
 - tree_run
 links:
   official: https://www.madarao.jp/ski
+  facebook: "https://www.facebook.com/madaraoski"
+  instagram: "https://www.instagram.com/madarao.ski/"
+  xTwitter: "https://twitter.com/the_madarao"
   weather: https://weathernews.jp/ski/spot/34805/
   access: https://www.madarao.jp/ski/access
   googleMaps: https://www.google.com/maps/search/?api=1&query=Madarao%20Mountain%20Resort

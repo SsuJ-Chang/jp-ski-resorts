@@ -12,6 +12,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://www.hirayunomori.com/"
+  instagram: "https://www.instagram.com/hirayu_ski.and.camp/"
   weather: "https://weathernews.jp/ski/spot/35214/"
   ticket: "https://weathernews.jp/ski/spot/35214/"
   access: "https://weathernews.jp/ski/spot/35214/"

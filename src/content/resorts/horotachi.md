@@ -17,6 +17,10 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.horotachi-horokanai.com/"
+  facebook: "https://www.facebook.com/horotachiyarube/"
+  instagram: "https://www.instagram.com/horotachiski_yarubehorokanai/"
+  threads: "https://www.threads.net/@horotachiski_yarubehorokanai"
+  xTwitter: "https://x.com/HorotachiYarube"
   weather: "https://weathernews.jp/ski/spot/31302/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=44.014866,142.135921"
   access: "https://www.horotachi-horokanai.com/"

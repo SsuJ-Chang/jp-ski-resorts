@@ -13,6 +13,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.ozetokura.co.jp/
+  facebook: "https://www.facebook.com/snowparkOzeTokura/"
+  instagram: "https://www.instagram.com/ozetokura/"
   trailMapPage: https://www.ozetokura.co.jp/pages/cource
   weather: https://weathernews.jp/ski/spot/34208/
   googleMaps: https://maps.google.co.jp/maps?q=36.851100,139.238800

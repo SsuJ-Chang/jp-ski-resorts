@@ -15,6 +15,8 @@ visibility:
   note: "福井縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。"
 links:
   official: "https://www.kuzuryu-skiland.com/"
+  facebook: "https://www.facebook.com/kuzuryusk"
+  instagram: "https://www.instagram.com/kuzuryu_ski/"
   weather: "https://weathernews.jp/ski/spot/35703/"
   ticket: "https://kuzuryu-skiland.com/price/"
   access: "https://kuzuryu-skiland.com/access/"

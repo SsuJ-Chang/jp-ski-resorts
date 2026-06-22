@@ -12,6 +12,9 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.saku-parada.jp/ski/"
+  facebook: "https://www.facebook.com/sakuparada/"
+  instagram: "https://www.instagram.com/sakuparada/"
+  xTwitter: "https://twitter.com/39parada"
   weather: "https://weathernews.jp/ski/spot/34852/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Saku%20Ski%20Garden%20Parada"
   access: "https://www.saku-parada.jp/ski/"

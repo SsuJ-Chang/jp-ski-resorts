@@ -16,6 +16,9 @@ tags:
 - night_skiing
 links:
   official: https://iwa-ppara.com/
+  facebook: "https://www.facebook.com/iwappara/"
+  instagram: "https://www.instagram.com/iwappara_ig/"
+  xTwitter: "https://twitter.com/iwappara"
   trailMapPage: https://iwa-ppara.com/gelande/
   ticket: https://iwa-ppara.com/price/
   access: https://iwa-ppara.com/access/

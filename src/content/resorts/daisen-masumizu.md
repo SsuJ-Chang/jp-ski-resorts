@@ -12,6 +12,7 @@ tags:
 - night_skiing
 links:
   official: https://www.masumizu.net/
+  instagram: "https://www.instagram.com/masumizutenkuu/"
   trailMapPage: https://www.masumizu.net/ski.html
   weather: https://weathernews.jp/ski/spot/36907/
   googleMaps: https://maps.google.co.jp/maps?q=35.3654,133.5172

@@ -14,6 +14,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://www.muikamachi.com/ski/"
+  facebook: "https://www.facebook.com/muicasnowresort/"
   weather: "https://weathernews.jp/ski/spot/35447/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Muica%20Snow%20Resort"
   access: "http://www.muikamachi.com/ski/"

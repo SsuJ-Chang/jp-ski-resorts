@@ -15,6 +15,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://togari.jp
+  facebook: "https://www.facebook.com/togarionsen.snowresort"
+  instagram: "https://www.instagram.com/togarionsen.snow/"
+  xTwitter: "https://x.com/togari_jp_"
   weather: https://weathernews.jp/ski/spot/34832/
   access: https://togari.jp/winter/access/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Togari%20Onsen%20Ski%20Resort

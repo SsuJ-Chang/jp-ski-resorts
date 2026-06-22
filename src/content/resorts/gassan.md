@@ -14,6 +14,8 @@ visibility:
   note: "官方資料顯示位於山形縣西川町；初版先收錄營業、票券與雪道概要，雪道影片待補。"
 links:
   official: "https://mt-gassan.com/snow/"
+  facebook: "https://www.facebook.com/mountgassan/"
+  instagram: "https://www.instagram.com/mount_gassan/"
   trailMapPage: "https://mt-gassan.com/snow/guide/"
   weather: "https://mt-gassan.com/snow/"
   snowReport: "https://mt-gassan.com/snow/"

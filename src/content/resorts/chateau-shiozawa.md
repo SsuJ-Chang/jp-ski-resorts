@@ -13,6 +13,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.chateau-shiozawa.jp/"
+  facebook: "https://www.facebook.com/shiozawa.ski/"
+  instagram: "https://www.instagram.com/chateau.shiozawa/"
   weather: "https://weathernews.jp/ski/spot/35461/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Chateau%20Shiozawa%20Ski%20Area"
   access: "https://www.chateau-shiozawa.jp/"

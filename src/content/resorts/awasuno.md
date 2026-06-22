@@ -15,6 +15,7 @@ visibility:
   note: "富山縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。"
 links:
   official: "https://www.awasuno.com/"
+  instagram: "https://www.instagram.com/awasunomiretto/"
   weather: "https://weathernews.jp/ski/spot/35509/"
   ticket: "https://awasuno.com/winter/lift"
   access: "https://www.awasuno.com/access/"

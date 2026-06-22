@@ -16,6 +16,8 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.akanroyalvalley.jp/"
+  facebook: "https://www.facebook.com/akanroyalvalley"
+  instagram: "https://www.instagram.com/akanroyalvalley/"
   weather: "https://weathernews.jp/ski/spot/31902/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=43.105590,144.133653"
   access: "https://www.akanroyalvalley.jp/"

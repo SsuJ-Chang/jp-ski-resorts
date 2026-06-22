@@ -11,6 +11,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://seasidevalley.com/"
+  facebook: "https://www.facebook.com/seasidevalley/"
+  instagram: "https://www.instagram.com/seasidevalley_itoigawa/"
   weather: "https://weathernews.jp/ski/spot/35429/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Itoigawa%20Seaside%20Valley"
   access: "https://seasidevalley.com/"

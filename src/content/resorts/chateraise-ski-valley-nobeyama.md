@@ -14,6 +14,9 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://nobeyama.chateraiseski.jp"
+  facebook: "https://www.facebook.com/chateraiseski"
+  instagram: "https://www.instagram.com/chateraiseski_n/"
+  xTwitter: "https://twitter.com/chateraiseski"
   weather: "https://weathernews.jp/ski/spot/34840/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Chateraise%20Ski%20Valley%20Nobeyama"
   access: "https://nobeyama.chateraiseski.jp"

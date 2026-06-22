@@ -13,6 +13,9 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.fujiten.net/"
+  facebook: "https://ja-jp.facebook.com/fujiten"
+  instagram: "https://www.instagram.com/fujitenresort/"
+  xTwitter: "https://twitter.com/fujiten_now"
   weather: "https://weathernews.jp/ski/spot/34901/"
   ticket: "https://weathernews.jp/ski/spot/34901/"
   access: "https://weathernews.jp/ski/spot/34901/"

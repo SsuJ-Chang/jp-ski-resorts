@@ -14,6 +14,7 @@ tags:
 links:
   weather: https://weathernews.jp/ski/spot/34804/
   official: https://yokoteyama2307.com/
+  instagram: "https://www.instagram.com/yokoteyama2307/"
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/

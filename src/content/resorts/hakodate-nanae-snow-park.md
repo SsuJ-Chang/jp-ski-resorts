@@ -18,6 +18,8 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "http://www.hakodate-nanae.jp"
+  facebook: "https://www.facebook.com/hakodate.nanae.snowpark"
+  instagram: "https://www.instagram.com/hakodatenanae"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Hakodate%20Nanae%20Snow%20Park"
   weather: "https://weathernews.jp/ski/spot/32301/"
   ticket: "https://weathernews.jp/ski/spot/32301/"

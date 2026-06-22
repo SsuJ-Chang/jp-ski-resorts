@@ -16,6 +16,9 @@ tags:
 - resort_village
 links:
   official: https://tsumagoiskiresort.life/
+  facebook: "https://www.facebook.com/palcall.tsumagoi/"
+  instagram: "https://www.instagram.com/palcall/"
+  xTwitter: "https://twitter.com/PalcallTsumagoi/"
   trailMapPage: https://tsumagoiskiresort.life/course-guide/
   weather: https://weathernews.jp/ski/spot/34213/
   googleMaps: https://maps.google.co.jp/maps?q=36.556053,138.464077

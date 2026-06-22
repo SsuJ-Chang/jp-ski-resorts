@@ -13,6 +13,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://yakushi-ski.com/"
+  instagram: "https://www.instagram.com/yakushi.ski_school"
   weather: "https://weathernews.jp/ski/spot/35444/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Yakushi%20Ski%20Area"
   access: "https://yakushi-ski.com/"

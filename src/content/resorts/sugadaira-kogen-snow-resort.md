@@ -15,6 +15,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://sugadaira-snowresort.com/
+  facebook: "https://www.facebook.com/sugadairasnowresort/"
+  instagram: "https://www.instagram.com/sugadaira_snowresort/"
+  xTwitter: "https://x.com/sugadaira_snow"
   weather: https://weathernews.jp/ski/spot/34816/
   trailMapPage: https://yukiyama-app-dl.s3-ap-northeast-1.amazonaws.com/webmap/index.html?id=204
   trailMapPdf: https://sugadaira-snowresort.com/wp2/wp-content/uploads/2025/10/sugadaira_map.pdf

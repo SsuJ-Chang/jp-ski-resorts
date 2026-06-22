@@ -16,6 +16,8 @@ tags:
 - onsen
 links:
   official: https://www.yuzawakogen.com/winter/
+  instagram: "https://www.instagram.com/yuzawakogen/"
+  xTwitter: "https://twitter.com/yuzawakogen"
   trailMapPage: https://www.yuzawakogen.com/winter/gelaende/
   ticket: https://www.yuzawakogen.com/winter/tickets/
   access: https://www.yuzawakogen.com/access/

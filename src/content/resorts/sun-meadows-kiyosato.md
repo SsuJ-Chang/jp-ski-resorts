@@ -12,6 +12,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://www.sunmeadows.co.jp/"
+  instagram: "https://www.instagram.com/sunmeadows3302/"
+  xTwitter: "https://twitter.com/sunmeadows"
   weather: "https://weathernews.jp/ski/spot/34903/"
   ticket: "https://weathernews.jp/ski/spot/34903/"
   access: "https://weathernews.jp/ski/spot/34903/"

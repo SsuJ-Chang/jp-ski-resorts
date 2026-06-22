@@ -16,6 +16,8 @@ visibility:
   note: 石川縣金澤市雪場，未歸入現有 skiArea enum。
 links:
   official: https://www.kanazawa-sports.jp/use/search/546
+  facebook: "https://ja-jp.facebook.com/kanazawasportsnet/"
+  xTwitter: "https://x.com/kanazawa_sports/"
   trailMapPage: https://www.kanazawa-sports.jp/use/search/546
   ticket: https://www.kanazawa-sports.jp/use/search/546
   access: https://www.kanazawa-sports.jp/use/search/546

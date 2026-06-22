@@ -11,6 +11,9 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.blanche-ski.com/"
+  facebook: "https://www.facebook.com/blanchetakayama"
+  instagram: "https://www.instagram.com/blanche_takayama/"
+  xTwitter: "https://x.com/blanche_ski"
   weather: "https://weathernews.jp/ski/spot/34844/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Blanche%20Takayama%20Ski%20Resort"
   access: "https://www.blanche-ski.com/"

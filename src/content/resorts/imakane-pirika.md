@@ -17,6 +17,8 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://kurplazapirika.net"
+  facebook: "https://www.facebook.com/kurplazapirika.net/"
+  xTwitter: "https://twitter.com/kurplaza_pirika"
   weather: "https://weathernews.jp/ski/spot/32402/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=42.464814,140.203654"
   access: "https://kurplazapirika.net"

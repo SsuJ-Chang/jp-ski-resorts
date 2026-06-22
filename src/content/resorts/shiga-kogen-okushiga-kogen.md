@@ -14,6 +14,9 @@ tags:
 - no_car_accessible
 links:
   official: https://okushigakogenresort.com/
+  facebook: "https://www.facebook.com/okushiga.kogen/"
+  instagram: "https://www.instagram.com/okushigakogen_resort/"
+  xTwitter: "https://x.com/okushigakogen/"
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/

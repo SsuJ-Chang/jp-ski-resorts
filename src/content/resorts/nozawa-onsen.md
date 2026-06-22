@@ -20,6 +20,8 @@ tags:
 homeRegionExample: true
 links:
   official: https://en.nozawaski.com/
+  facebook: "https://www.facebook.com/nozawaonsen.snowresort/"
+  instagram: "https://www.instagram.com/nozawaski/"
   trailMapPage: https://en.nozawaski.com/the-mountain/moutain-info/slopes-lifts/
   trailMapPdf: https://en.nozawaski.com/pdf/gelandemap2025-26_en.pdf
   ticket: https://en.nozawaski.com/the-mountain/lift-ticket/ticket-prices/

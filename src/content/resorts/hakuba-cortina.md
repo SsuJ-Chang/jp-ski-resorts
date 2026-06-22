@@ -16,6 +16,8 @@ tags:
 - tree_run
 links:
   official: https://www.hgp.co.jp/cortina/ski/
+  facebook: "https://www.facebook.com/hakubacortina/"
+  instagram: "https://www.instagram.com/hakubacortina/"
   trailMapPage: https://www.hgp.co.jp/cortina/ski/gelande/
   ticket: https://www.hgp.co.jp/cortina/ski/charge/
   access: https://www.hgp.co.jp/cortina/ski/access/

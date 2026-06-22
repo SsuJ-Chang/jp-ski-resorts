@@ -15,6 +15,8 @@ visibility:
   note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "http://www.iwatekogen.jp/"
+  facebook: "https://www.facebook.com/iwatekogen"
+  instagram: "https://www.instagram.com/iwatekogen"
   weather: "https://weathernews.jp/ski/spot/33309/"
   access: "https://iwatekogen.jp/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Iwate%20Kogen%20Snow%20Park"

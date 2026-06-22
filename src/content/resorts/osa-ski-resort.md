@@ -14,6 +14,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://osaski.co.jp/
+  xTwitter: "https://twitter.com/osaski"
   trailMapPage: https://osaski.co.jp/course/
   weather: https://weathernews.jp/ski/spot/36703/
   googleMaps: https://maps.google.co.jp/maps?q=34.746603,132.221011

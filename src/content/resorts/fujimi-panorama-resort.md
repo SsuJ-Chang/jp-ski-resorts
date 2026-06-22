@@ -13,6 +13,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.fujimipanorama.com
+  facebook: "https://www.facebook.com/fujimipanorama/"
+  instagram: "https://www.instagram.com/fujimipanorama/"
   weather: https://weathernews.jp/ski/spot/34836/
   access: https://www.fujimipanorama.com/snow/access/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Fujimi%20Panorama%20Resort

@@ -13,6 +13,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://charmant-hiuchi.jp/"
+  facebook: "https://www.facebook.com/charmant.hiuchi/"
+  instagram: "https://www.instagram.com/insidercharmant/"
   weather: "https://weathernews.jp/ski/spot/35486/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Charmant%20Hiuchi"
   access: "https://charmant-hiuchi.jp/"

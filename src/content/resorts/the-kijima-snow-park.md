@@ -8,6 +8,7 @@ region: "kanto-koshinetsu"
 prefecture: "長野縣"
 links:
   official: "https://iiyama-makinoiri.snowpark.jp/snow/"
+  instagram: "https://www.instagram.com/kijima_snowpark/"
   weather: "https://weathernews.jp/ski/spot/44805/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=The%20Kijima%20Snow%20Park"
   access: "https://iiyama-makinoiri.snowpark.jp/snow/"

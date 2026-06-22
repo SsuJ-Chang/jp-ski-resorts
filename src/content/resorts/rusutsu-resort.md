@@ -20,6 +20,9 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://rusutsu.com/rusutsu-in-winter/"
+  facebook: "https://www.facebook.com/RusutsuResort"
+  instagram: "https://www.instagram.com/rusutsuresort_official/"
+  xTwitter: "https://twitter.com/rusutsuitter"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Rusutsu%20Resort"
   weather: "https://weathernews.jp/ski/spot/31601/"
   ticket: "https://weathernews.jp/ski/spot/31601/"

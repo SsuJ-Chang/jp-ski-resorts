@@ -17,6 +17,8 @@ visibility:
   note: "福島縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.numajiri-ski.jp"
+  instagram: "https://www.instagram.com/sns.numajiri/"
+  xTwitter: "https://twitter.com/numajiri_office"
   weather: "https://weathernews.jp/ski/spot/33617/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=37.622985,140.227363"
   access: "https://www.numajiri-ski.jp"

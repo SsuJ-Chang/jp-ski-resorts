@@ -11,6 +11,8 @@ tags:
 - snowboard_friendly
 links:
   official: http://osorakan.co.jp/winter/
+  instagram: "https://www.instagram.com/osorakan/"
+  xTwitter: "https://twitter.com/osorakan"
   trailMapPage: http://osorakan.co.jp/winter/
   weather: https://weathernews.jp/ski/spot/36706/
   googleMaps: https://maps.google.co.jp/maps?q=34.595712,132.146401

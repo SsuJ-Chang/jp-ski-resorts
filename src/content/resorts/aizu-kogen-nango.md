@@ -15,6 +15,9 @@ visibility:
   note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "http://www.nango-ski.com"
+  facebook: "https://www.facebook.com/nango.ski/"
+  instagram: "https://www.instagram.com/nango_ski/"
+  xTwitter: "https://twitter.com/nango_ski"
   weather: "https://weathernews.jp/ski/spot/33618/"
   access: "https://www.nango-ski.com/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Aizu%20Kogen%20Nango%20Ski%20Resort"

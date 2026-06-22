@@ -14,6 +14,8 @@ tags:
 - resort_village
 links:
   official: https://yawata191.com/
+  facebook: "https://www.facebook.com/%E3%82%84%E3%82%8F%E3%81%9F%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89191%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88-282797738522958/"
+  instagram: "https://www.instagram.com/yawa.ta191resort/"
   trailMapPage: https://yawata191.com/course1/
   weather: https://weathernews.jp/ski/spot/36712/
   googleMaps: https://maps.google.co.jp/maps?q=34.694485,132.159281

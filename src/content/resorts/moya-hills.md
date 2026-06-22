@@ -14,6 +14,8 @@ visibility:
   note: "青森縣雪場清單補新增的靜態初版；以官方網站與公開雪場資料整理。"
 links:
   official: "https://www.moyahills.jp/"
+  facebook: "https://www.facebook.com/moyahills"
+  instagram: "https://www.instagram.com/moyahills_hillsclub/"
   trailMapPage: "https://www.moyahills.jp/winter/winter.html"
   ticket: "https://www.moyahills.jp/winter/lift.html"
   weather: "https://weathernews.jp/ski/spot/33102/"

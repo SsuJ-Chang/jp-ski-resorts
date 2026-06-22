@@ -18,6 +18,8 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://yubari-resort.co.jp/"
+  facebook: "https://www.facebook.com/mountracey.skiresort"
+  instagram: "https://www.instagram.com/mt.racey_ski/"
   weather: "https://weathernews.jp/ski/spot/31608/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=43.050830,141.969730"
   access: "https://yubari-resort.co.jp/"

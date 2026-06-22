@@ -15,6 +15,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://sanosaka.jp/
+  facebook: "https://www.facebook.com/wrhsanosaka/"
+  instagram: "https://www.instagram.com/wrh_sanosaka/"
+  xTwitter: "https://x.com/wrh_sanosaka"
   trailMapPage: https://sanosaka.jp/course/
   ticket: https://sanosaka.jp/lift/
   googleMaps: https://www.google.com/maps/search/?api=1&query=White%20Resort%20Hakuba%20Sanosaka

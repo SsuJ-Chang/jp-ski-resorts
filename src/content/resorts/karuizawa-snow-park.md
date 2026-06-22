@@ -12,6 +12,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://karuizawa.holidayinnresorts.com/ski/
+  instagram: "https://www.instagram.com/anaholidayinnresortkaruizawa/"
+  xTwitter: "https://x.com/HIR_karuizawa"
   trailMapPage: https://karuizawa.holidayinnresorts.com/ski/
   weather: https://weathernews.jp/ski/spot/34220/
   googleMaps: https://maps.google.co.jp/maps?q=36.423094,138.626796

@@ -17,6 +17,8 @@ tags:
 - tree_run
 links:
   official: https://fujiwaraski.com/
+  instagram: "https://www.instagram.com/sunbird_fujiwaraski/"
+  xTwitter: "https://twitter.com/fujiwaraski"
   trailMapPage: https://fujiwaraski.com/cource/
   weather: https://weathernews.jp/ski/spot/34227/
   googleMaps: https://maps.google.co.jp/maps?q=36.850800,139.066700

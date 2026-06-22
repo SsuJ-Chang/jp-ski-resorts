@@ -13,6 +13,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.shirakabaresort.jp/snowpark/"
+  facebook: "https://www.facebook.com/ikenotaira.familyland/"
   weather: "https://weathernews.jp/ski/spot/34878/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Shirakaba%20Resort%20Ikenotaira%20Snow%20Park"
   access: "https://www.shirakabaresort.jp/snowpark/"

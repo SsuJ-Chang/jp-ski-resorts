@@ -17,6 +17,7 @@ visibility:
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.kamoidake.co.jp/"
+  instagram: "https://www.instagram.com/kamoidake_ski_resort/"
   weather: "https://weathernews.jp/ski/spot/31505/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=43.520622,142.018892"
   access: "https://www.kamoidake.co.jp/"

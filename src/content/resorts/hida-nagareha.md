@@ -14,6 +14,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://hida-nagareha.com/"
+  instagram: "https://www.instagram.com/nagareha_newflow/"
+  xTwitter: "https://x.com/nagarehaski"
   weather: "https://weathernews.jp/ski/spot/35201/"
   ticket: "https://weathernews.jp/ski/spot/35201/"
   access: "https://weathernews.jp/ski/spot/35201/"

@@ -19,6 +19,9 @@ tags:
 - tree_run
 links:
   official: https://ishiuchi.or.jp/
+  facebook: "https://www.facebook.com/ishiuchimaruyama/"
+  instagram: "https://www.instagram.com/ishiuchimaruyama/"
+  xTwitter: "https://x.com/ishiuchi_IM"
   trailMapPage: https://ishiuchi.or.jp/winter/ski/lift-course/
   ticket: https://ishiuchi.or.jp/price/
   access: https://ishiuchi.or.jp/en/access/

@@ -12,6 +12,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.hakodateyama.com/winter/
+  facebook: "https://www.facebook.com/hakodateyama.hakochan/"
+  instagram: "https://www.instagram.com/hakodateyama1962/"
   trailMapPage: https://www.hakodateyama.com/winter/about/
   weather: https://weathernews.jp/ski/spot/36007/
   googleMaps: https://maps.google.co.jp/maps?q=35.427849,135.995963

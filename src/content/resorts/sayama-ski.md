@@ -11,6 +11,8 @@ tags:
 - night_skiing
 links:
   official: https://sayamaski.jp/
+  instagram: "https://www.instagram.com/sayamaski_official/"
+  xTwitter: "https://x.com/Sayama_ski"
   trailMapPage: https://sayamaski.jp/slope.html
   weather: https://weathernews.jp/ski/spot/34303/
   googleMaps: https://maps.google.co.jp/maps?q=35.768357,139.418660

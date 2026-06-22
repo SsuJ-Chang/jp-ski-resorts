@@ -16,6 +16,9 @@ tags:
 - onsen
 links:
   official: https://www.naspa.co.jp/ski/
+  facebook: "https://www.facebook.com/ski.garden/"
+  instagram: "https://www.instagram.com/naspa_ski_official/"
+  xTwitter: "https://twitter.com/naspanewotani"
   trailMapPage: https://www.naspa.co.jp/ski/gelande/
   ticket: https://www.naspa.co.jp/ski/price/
   access: https://www.naspa.co.jp/ski/access/
