@@ -13,6 +13,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://hakkai36.com"
+  facebook: "https://www.facebook.com/hakkai36"
   weather: "https://weathernews.jp/ski/spot/35492/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Hakkaisanroku%20Ski%20Area"
   access: "https://hakkai36.com"

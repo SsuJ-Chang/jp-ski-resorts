@@ -17,6 +17,7 @@ visibility:
 links:
   official: "https://r.goope.jp/alpas/"
   facebook: "https://www.facebook.com/alpas.hanawaski"
+  instagram: "https://www.instagram.com/alpas.kazuno/"
   weather: "https://weathernews.jp/ski/spot/33201/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=40.188041,140.822675"
   access: "https://r.goope.jp/alpas/"

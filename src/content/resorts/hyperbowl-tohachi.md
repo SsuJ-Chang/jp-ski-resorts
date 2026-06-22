@@ -16,6 +16,7 @@ visibility:
   note: "兵庫縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "https://www.tohachi.jp"
+  facebook: "https://www.facebook.com/profile.php?id=100063880740210"
   instagram: "https://www.instagram.com/tohachi_kerorosu/"
   weather: "https://weathernews.jp/ski/spot/36307/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=35.386003,134.566542"

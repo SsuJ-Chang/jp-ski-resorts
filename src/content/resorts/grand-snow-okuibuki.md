@@ -16,6 +16,7 @@ links:
   official: https://www.okuibuki.co.jp/
   facebook: "https://www.facebook.com/okuibuki/"
   instagram: "https://www.instagram.com/gransnow_okuibuki/"
+  xTwitter: "https://x.com/OKUandIBU"
   trailMapPage: https://www.okuibuki.co.jp/gelande/course/
   weather: https://weathernews.jp/ski/spot/36004/
   googleMaps: https://maps.google.co.jp/maps?q=35.521948,136.385884

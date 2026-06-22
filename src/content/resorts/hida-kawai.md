@@ -12,6 +12,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.hidakawai.com/"
+  facebook: "https://www.facebook.com/profile.php?id=100066809890424"
   instagram: "https://www.instagram.com/hidakawaiskiground/"
   weather: "https://weathernews.jp/ski/spot/35239/"
   ticket: "https://weathernews.jp/ski/spot/35239/"

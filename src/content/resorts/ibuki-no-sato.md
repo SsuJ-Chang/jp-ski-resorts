@@ -13,6 +13,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.ibukinosato.co.jp/"
+  facebook: "https://www.facebook.com/ibukinosatosnowpark"
   instagram: "https://www.instagram.com/ibukinosato/"
   xTwitter: "https://x.com/ibuki_ski_area"
   trailMapPage: "https://www.ibukinosato.co.jp/"

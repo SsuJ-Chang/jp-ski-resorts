@@ -15,6 +15,8 @@ tags:
 - family_friendly
 links:
   official: https://www.hakunori.com/
+  facebook: "https://www.facebook.com/hakunoriski"
+  instagram: "https://www.instagram.com/hakunori_official/"
   trailMapPage: https://www.hakunori.com/gelande/
   ticket: https://www.hakunori.com/ticket/
   access: https://www.hakunori.com/access/

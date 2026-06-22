@@ -12,6 +12,8 @@ tags:
 links:
   official: https://hiroshima-kenmori.com/
   facebook: "https://www.facebook.com/kenminnomori"
+  instagram: "https://www.instagram.com/hiba__stagram/"
+  xTwitter: "https://twitter.com/kenmori_agri"
   trailMapPage: https://hiroshima-kenmori.com/
   weather: https://weathernews.jp/ski/spot/36713/
   googleMaps: https://maps.google.co.jp/maps?q=35.0662,133.0747

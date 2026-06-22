@@ -12,6 +12,8 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://hounoki-daira.com/"
+  facebook: "https://facebook.com/hoonoki.ski.ikou/"
+  instagram: "https://www.instagram.com/hounok.d/"
   weather: "https://weathernews.jp/ski/spot/35207/"
   ticket: "https://weathernews.jp/ski/spot/35207/"
   access: "https://weathernews.jp/ski/spot/35207/"

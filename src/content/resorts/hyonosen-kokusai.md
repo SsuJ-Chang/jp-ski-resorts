@@ -12,6 +12,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.hyounosen.jp/
+  facebook: "https://www.facebook.com/hyounosen/"
   instagram: "https://www.instagram.com/hyounosen.kokusai/"
   xTwitter: "https://twitter.com/kokusai_ski"
   trailMapPage: https://www.hyounosen.jp/gelande/

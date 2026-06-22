@@ -12,6 +12,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "https://www.hidatakayama.or.jp/spot/detail_1193.html"
+  facebook: "https://www.facebook.com/takayamakankou/"
   xTwitter: "https://twitter.com/hidatakayama1"
   weather: "https://weathernews.jp/ski/spot/35216/"
   ticket: "https://weathernews.jp/ski/spot/35216/"

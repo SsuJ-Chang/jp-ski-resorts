@@ -15,6 +15,7 @@ tags:
 - tree_run
 links:
   official: https://www.hakuba47.co.jp/winter/en/
+  facebook: "https://www.facebook.com/HKB47official"
   instagram: "https://www.instagram.com/hakuba47wintersportspark/"
   xTwitter: "https://twitter.com/Hakuba_47"
   trailMapPage: https://www.hakuba47.co.jp/winter/en/mountain/mountain_info/

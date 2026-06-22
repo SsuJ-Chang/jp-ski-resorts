@@ -17,6 +17,7 @@ tags:
 - tree_run
 links:
   official: https://www.kamui-skilinks.com/
+  facebook: "https://www.facebook.com/kamuiskilinks.1984/"
   trailMapPage: https://www.kamui-skilinks.com/today/#coursemap
   trailMapPdf: https://www.kamui-skilinks.com/pdf_data/coursemap2024.pdf
   ticket: https://www.kamui-skilinks.com/guide/
