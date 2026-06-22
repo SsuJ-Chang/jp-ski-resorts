@@ -14,7 +14,9 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://x-jam.jp/"
+  facebook: "https://www.facebook.com/xjamzo/"
   instagram: "https://www.instagram.com/xjam_takaifuji/"
+  xTwitter: "https://x.com/JamzoX"
   weather: "https://weathernews.jp/ski/spot/34862/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=X-JAM%20Takaifuji"
   access: "http://x-jam.jp/"

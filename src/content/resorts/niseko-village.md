@@ -16,6 +16,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.niseko-village.com/en/white/
+  facebook: "https://www.facebook.com/nisekovillage/"
+  instagram: "https://www.instagram.com/nisekovillage/"
   trailMapPage: https://www.niseko.ne.jp/en/map/village/
   trailMapPdf: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
   ticket: https://www.niseko.ne.jp/en/lift/

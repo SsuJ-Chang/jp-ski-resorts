@@ -12,6 +12,9 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://gakutoresort.jp"
+  facebook: "https://www.facebook.com/nomugitougeski"
+  instagram: "https://www.instagram.com/nomugi.ski/"
+  xTwitter: "https://twitter.com/nomugitougeski"
   weather: "https://weathernews.jp/ski/spot/34830/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Shinshu%20Matsumoto%20Nomugitoge%20Ski%20Area"
   access: "http://gakutoresort.jp"

@@ -15,6 +15,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.princehotels.co.jp/ski/myoko/winter/
+  facebook: "https://www.facebook.com/suginohara.fans/"
   instagram: "https://www.instagram.com/suginohara_official/"
   trailMapPage: https://www.princehotels.co.jp/ski/myoko/winter/coursemap/
   ticket: https://www.princehotels.co.jp/ski/myoko/winter/lift/

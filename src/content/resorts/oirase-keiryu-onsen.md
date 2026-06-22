@@ -16,6 +16,9 @@ visibility:
   note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "http://www.oirase.or.jp/ski/ski.htm"
+  facebook: "https://www.facebook.com/SkiAssocicationOfTowada/"
+  instagram: "https://www.instagram.com/yakeyamatimes/"
+  xTwitter: "https://twitter.com/yakeyama64"
   weather: "https://weathernews.jp/ski/spot/33110/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Oirase%20Keiryu%20Onsen%20Ski%20Resort"
 contact:

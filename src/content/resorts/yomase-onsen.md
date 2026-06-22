@@ -14,6 +14,7 @@ tags:
 links:
   official: "http://x-jam.jp"
   instagram: "https://www.instagram.com/yomaseonsen_ski/"
+  xTwitter: "https://x.com/MtKOSHA"
   weather: "https://weathernews.jp/ski/spot/34842/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Yomase%20Onsen%20Ski%20Area"
   access: "http://x-jam.jp"

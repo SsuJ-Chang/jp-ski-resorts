@@ -18,6 +18,7 @@ visibility:
   note: "秋田縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "http://www.theboon.net/opas/"
+  facebook: "https://www.facebook.com/taiheizanopas"
   weather: "https://weathernews.jp/ski/spot/33210/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=39.7854,140.2199"
   access: "http://www.theboon.net/opas/"

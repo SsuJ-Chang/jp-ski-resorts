@@ -15,6 +15,7 @@ links:
   official: "https://new-greenpia.com"
   facebook: "https://www.facebook.com/newgreenpiatunan/"
   instagram: "https://www.instagram.com/ngptsunan_official/"
+  xTwitter: "https://x.com/greenpiatsunan"
   weather: "https://weathernews.jp/ski/spot/35466/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=New%20Greenpia%20Tsunan"
   access: "https://new-greenpia.com"

@@ -14,6 +14,7 @@ links:
   official: https://siratori-k.jp/swp/
   facebook: "https://www.facebook.com/shiratorikogen.ski/"
   instagram: "https://www.instagram.com/shiratorikogenswp/"
+  xTwitter: "https://x.com/shiratorikogen"
   googleMaps: https://www.google.com/maps/search/?api=1&query=35.957200%2C136.805143
   trailMapPage: https://siratori-k.jp/swp/gelande
   weather: https://weathernews.jp/ski/spot/35221/

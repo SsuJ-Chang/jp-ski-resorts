@@ -15,6 +15,9 @@ tags:
   - snowboard_friendly
 links:
   official: https://www.norn.co.jp/winter/
+  facebook: "https://www.facebook.com/nornminakami/"
+  instagram: "https://www.instagram.com/nornsnow/"
+  xTwitter: "https://twitter.com/nornsnow"
   trailMapPage: https://www.norn.co.jp/winter/gerande/
   ticket: https://www.norn.co.jp/winter/lift/
   access: https://www.norn.co.jp/winter/access/

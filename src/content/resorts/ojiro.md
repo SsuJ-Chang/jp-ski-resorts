@@ -14,6 +14,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.ojiro.or.jp/
+  facebook: "https://www.facebook.com/ojiroski/"
   instagram: "https://www.instagram.com/ojiroski/"
   xTwitter: "https://twitter.com/ojiroski"
   trailMapPage: https://www.ojiro.or.jp/gelande/

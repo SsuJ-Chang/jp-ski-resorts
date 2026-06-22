@@ -13,6 +13,7 @@ tags:
   - "snowboard_friendly"
 links:
   official: "http://www.ryuoo.com/snow/"
+  facebook: "https://www.facebook.com/soraterrace.ryuooski"
   instagram: "https://www.instagram.com/soraterrace_ryuooski/"
   xTwitter: "https://twitter.com/ryuooski"
   weather: "https://weathernews.jp/ski/spot/34860/"

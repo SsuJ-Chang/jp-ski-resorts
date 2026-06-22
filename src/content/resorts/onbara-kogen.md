@@ -12,6 +12,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.ombara-kogen.com/ski/
+  instagram: "https://www.instagram.com/ombara.ski/"
   xTwitter: "https://twitter.com/ombarakogen/"
   trailMapPage: https://www.ombara-kogen.com/ski/gelande/
   weather: https://weathernews.jp/ski/spot/36602/

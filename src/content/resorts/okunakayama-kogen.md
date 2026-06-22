@@ -18,6 +18,7 @@ links:
   official: "https://www.okunakayamakogen.jp/"
   facebook: "https://www.facebook.com/OkunakayamakogenResort/"
   instagram: "https://www.instagram.com/okunakayama_kogen/"
+  xTwitter: "https://twitter.com/Okunaka_Kirara"
   weather: "https://weathernews.jp/ski/spot/33317/"
   access: "https://www.okunakayamakogen.jp/access"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Okunakayama%20Kogen%20Ski%20Resort"

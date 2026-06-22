@@ -15,6 +15,8 @@ tags:
 links:
   weather: https://weathernews.jp/ski/spot/34803/
   official: https://www.princehotels.co.jp/ski/shiga/winter/
+  facebook: "https://www.facebook.com/yakebitaiyama/"
+  instagram: "https://www.instagram.com/yakebiski_official/"
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/

@@ -16,6 +16,7 @@ visibility:
   note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
 links:
   official: "https://ichida54.wixsite.com/nukabiraskijyo"
+  facebook: "https://www.facebook.com/nukaskiski/"
   instagram: "https://www.instagram.com/nukabira_ski/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Nukabira%20Gensenkyo%20Ski%20Area"
   weather: "https://weathernews.jp/ski/spot/32002/"

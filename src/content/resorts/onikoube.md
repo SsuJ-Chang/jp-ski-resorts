@@ -16,6 +16,7 @@ visibility:
   note: "宮城縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "http://www.onikoube.com"
+  facebook: "https://www.facebook.com/onikoubeski/"
   instagram: "https://www.instagram.com/onikoube_ski_resort/"
   xTwitter: "https://x.com/onikoube"
   weather: "https://weathernews.jp/ski/spot/33401/"

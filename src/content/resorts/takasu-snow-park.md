@@ -18,7 +18,9 @@ tags:
 homeRegionExample: true
 links:
   official: https://www.takasu.gr.jp/
+  facebook: "https://www.facebook.com/takasusnowpark/"
   instagram: "https://www.instagram.com/takasu_snowpark/"
+  xTwitter: "https://x.com/takasu_snowpark"
   trailMapPage: https://www.takasu.gr.jp/gelande/
   ticket: https://www.takasumountains.com/lift/
   access: https://www.takasu.gr.jp/access/

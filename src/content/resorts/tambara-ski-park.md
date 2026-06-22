@@ -17,6 +17,7 @@ links:
   official: https://www.tambara.co.jp/winter/
   facebook: "https://www.facebook.com/tambaraskipark/"
   instagram: "https://www.instagram.com/tambaratokyuresort/"
+  xTwitter: "https://x.com/tambaraskipark"
   trailMapPage: https://www.tambara.co.jp/winter/course/
   weather: https://weathernews.jp/ski/spot/34209/
   googleMaps: https://maps.google.co.jp/maps?q=36.778553,139.072718

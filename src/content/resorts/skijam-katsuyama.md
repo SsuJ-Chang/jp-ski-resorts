@@ -17,6 +17,8 @@ visibility:
   note: "福井縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。"
 links:
   official: "https://jamresort.jp/"
+  facebook: "https://www.facebook.com/jamresort.official"
+  instagram: "https://www.instagram.com/jamresort_official"
   weather: "https://weathernews.jp/ski/spot/35707/"
   ticket: "https://weathernews.jp/ski/spot/35707/"
   access: "https://jamresort.jp/access/"

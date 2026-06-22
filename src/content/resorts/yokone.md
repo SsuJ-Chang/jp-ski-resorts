@@ -16,6 +16,7 @@ visibility:
   note: "山形縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
   official: "http://www.siroimori.co.jp/yokone-ski/index.html"
+  facebook: "https://www.facebook.com/profile.php?id=100057396431729"
   weather: "https://weathernews.jp/ski/spot/33532/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=38.071059,139.730572"
   access: "http://www.siroimori.co.jp/yokone-ski/index.html"

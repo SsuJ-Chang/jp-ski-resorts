@@ -15,6 +15,7 @@ visibility:
   note: "福井縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。"
 links:
   official: "http://www.ski.ikeda-kibou.com/"
+  facebook: "https://www.facebook.com/profile.php?id=100063709206747"
   weather: "https://weathernews.jp/ski/spot/35710/"
   ticket: "http://www.ski.ikeda-kibou.com/file/parelift_R7.pdf"
   access: "http://www.ski.ikeda-kibou.com/#access"

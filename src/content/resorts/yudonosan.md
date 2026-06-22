@@ -16,6 +16,7 @@ visibility:
 links:
   official: "https://yudonosan.com/"
   instagram: "https://www.instagram.com/yudonosan/"
+  xTwitter: "https://x.com/Yudono_Skiarea"
   weather: "https://weathernews.jp/ski/spot/33505/"
   access: "https://yudonosan.com/access/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Yudonosan%20Ski%20Resort"
