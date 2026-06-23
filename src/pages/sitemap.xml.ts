@@ -1,11 +1,11 @@
 import type { APIRoute } from 'astro'
-import { getCollection } from 'astro:content'
 import { execFileSync } from 'node:child_process'
 import { statSync } from 'node:fs'
 import { regions } from '../data/regions'
 import { publishedSkiAreaKeys } from '../data/skiAreas'
 import { getPrefectureStats } from '../utils/resortBrowse'
-import { filterPublishedResorts, type ResortEntry } from '../utils/resorts'
+import { type ResortEntry } from '../utils/resorts'
+import { getPublishedResorts } from '../utils/resortCatalog'
 
 type SitemapEntry = {
   path: string
@@ -92,7 +92,7 @@ const getLatestDate = (dates: Date[], fallback: Date) => {
 
 export const GET: APIRoute = async ({ site }) => {
   const siteUrl = site ?? new URL('https://jp-resorts.rj-tw.com')
-  const resorts = filterPublishedResorts(await getCollection('resorts'))
+  const resorts = await getPublishedResorts()
   const prefectureStats = getPrefectureStats(resorts)
   const buildLastmod = new Date()
   const committedLastmodByPath = getCommittedLastmodByPath()

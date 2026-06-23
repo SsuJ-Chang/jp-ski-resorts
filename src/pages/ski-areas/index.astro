@@ -1,11 +1,10 @@
 ---
-import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import { publishedSkiAreaKeys, skiAreas } from '../../data/skiAreas'
-import { filterPublishedResorts } from '../../utils/resorts'
+import { getPublishedResorts } from '../../utils/resortCatalog'
 import { withBasePath } from '../../utils/paths'
 
-const resorts = filterPublishedResorts(await getCollection('resorts'))
+const resorts = await getPublishedResorts()
 const resortCountByArea = new Map<string, number>()
 
 for (const resort of resorts) {

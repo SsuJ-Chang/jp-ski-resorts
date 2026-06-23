@@ -1,5 +1,4 @@
 ---
-import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import JapanRegionMap from '../../components/JapanRegionMap.astro'
 import ListingFilterNav from '../../components/ListingFilterNav.astro'
@@ -7,7 +6,7 @@ import ResortSearchResults from '../../components/ResortSearchResults.astro'
 import { regions } from '../../data/regions'
 import { getPrefectureStats, getTagStats } from '../../utils/resortBrowse'
 import { sortResortsForListing } from '../../utils/resortOrdering'
-import { filterPublishedResorts } from '../../utils/resorts'
+import { getPublishedResorts } from '../../utils/resortCatalog'
 
 export function getStaticPaths() {
   return regions.map((region) => ({
@@ -17,7 +16,7 @@ export function getStaticPaths() {
 }
 
 const { region } = Astro.props
-const publishedResorts = filterPublishedResorts(await getCollection('resorts'))
+const publishedResorts = await getPublishedResorts()
 const resorts = sortResortsForListing(
   publishedResorts.filter((resort) => resort.data.region === region.key),
 )

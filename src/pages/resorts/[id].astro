@@ -1,14 +1,14 @@
 ---
-import { getCollection, render } from 'astro:content'
+import { render } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import { regions } from '../../data/regions'
 import { publishedSkiAreaKeys, skiAreas } from '../../data/skiAreas'
 import { tagLabels } from '../../data/tags'
-import { filterPublishedResorts } from '../../utils/resorts'
+import { getPublishedResorts } from '../../utils/resortCatalog'
 import { withBasePath } from '../../utils/paths'
 
 export async function getStaticPaths() {
-  const resorts = filterPublishedResorts(await getCollection('resorts'))
+  const resorts = await getPublishedResorts()
 
   return resorts.map((resort) => ({
     params: { id: resort.id },

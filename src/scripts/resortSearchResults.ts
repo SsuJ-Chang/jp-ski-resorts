@@ -18,25 +18,42 @@ const splitSearchTokens = (value: string) =>
 const tokenMatchesQuery = (textToken: string, queryToken: string) =>
   textToken.includes(queryToken) || textToken.startsWith(queryToken)
 
-const matchesSearchQuery = (text: string, query: string) => {
-  const queryTokens = splitSearchTokens(query)
+const searchTokensCache = new WeakMap<ResortCard, string[]>()
+const tagSetCache = new WeakMap<ResortCard, Set<string>>()
+
+const getSearchTokens = (card: ResortCard) => {
+  const cachedTokens = searchTokensCache.get(card)
+  if (cachedTokens) return cachedTokens
+
+  const tokens = splitSearchTokens(card.dataset.searchText ?? '')
+  searchTokensCache.set(card, tokens)
+  return tokens
+}
+
+const matchesSearchQuery = (card: ResortCard, queryTokens: string[]) => {
   if (queryTokens.length === 0) return true
 
-  const textTokens = splitSearchTokens(text)
+  const textTokens = getSearchTokens(card)
   // Match inside a normalized token only; do not assemble letters across unrelated tokens.
   return queryTokens.every((queryToken) =>
     textTokens.some((textToken) => tokenMatchesQuery(textToken, queryToken)),
   )
 }
 
-const getCardTags = (card: ResortCard) =>
-  (card.dataset.tags ?? '').split(' ').filter(Boolean)
+const getCardTags = (card: ResortCard) => {
+  const cachedTags = tagSetCache.get(card)
+  if (cachedTags) return cachedTags
+
+  const tags = new Set((card.dataset.tags ?? '').split(' ').filter(Boolean))
+  tagSetCache.set(card, tags)
+  return tags
+}
 
 const matchesSelectedPrefectures = (card: ResortCard, selectedPrefectures: string[]) =>
   selectedPrefectures.length === 0 || selectedPrefectures.includes(card.dataset.prefectureKey ?? '')
 
 const matchesSelectedTags = (card: ResortCard, selectedTags: string[]) =>
-  selectedTags.length === 0 || selectedTags.every((tag) => getCardTags(card).includes(tag))
+  selectedTags.length === 0 || selectedTags.every((tag) => getCardTags(card).has(tag))
 
 const getZeroResultValue = (resultCount: number) => (resultCount === 0 ? 'true' : 'false')
 
@@ -98,6 +115,7 @@ const applyResortFilters = () => {
   const countElement = document.querySelector<HTMLElement>('[data-resort-result-count]')
   const params = new URLSearchParams(window.location.search)
   const query = params.get('q') ?? ''
+  const queryTokens = splitSearchTokens(query)
   const selectedPrefectures = params.getAll('prefecture').filter(Boolean)
   const selectedTags = params.getAll('tag').filter(Boolean)
   const sourceArea = resultsBlock?.dataset.sourceArea ?? 'resort_listing'
@@ -106,7 +124,7 @@ const applyResortFilters = () => {
 
   for (const card of resortCards) {
     const isVisible =
-      matchesSearchQuery(card.dataset.searchText ?? '', query) &&
+      matchesSearchQuery(card, queryTokens) &&
       matchesSelectedPrefectures(card, selectedPrefectures) &&
       matchesSelectedTags(card, selectedTags)
 

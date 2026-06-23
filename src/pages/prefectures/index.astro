@@ -1,12 +1,11 @@
 ---
-import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import { browseAreaKeys, browseAreaLabels } from '../../data/prefectures'
 import { getPrefectureStats } from '../../utils/resortBrowse'
-import { filterPublishedResorts } from '../../utils/resorts'
+import { getPublishedResorts } from '../../utils/resortCatalog'
 import { withBasePath } from '../../utils/paths'
 
-const resorts = filterPublishedResorts(await getCollection('resorts'))
+const resorts = await getPublishedResorts()
 const prefectureStats = getPrefectureStats(resorts)
 const prefectureGroups = browseAreaKeys
   .map((browseArea) => {

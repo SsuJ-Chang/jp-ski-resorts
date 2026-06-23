@@ -1,14 +1,13 @@
 ---
-import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import ListingFilterNav from '../../components/ListingFilterNav.astro'
 import ResortSearchResults from '../../components/ResortSearchResults.astro'
 import { regions } from '../../data/regions'
 import { getPrefectureStats, getTagStats } from '../../utils/resortBrowse'
 import { sortResortsForListing } from '../../utils/resortOrdering'
-import { filterPublishedResorts } from '../../utils/resorts'
+import { getPublishedResorts } from '../../utils/resortCatalog'
 
-const resorts = sortResortsForListing(filterPublishedResorts(await getCollection('resorts')))
+const resorts = sortResortsForListing(await getPublishedResorts())
 const prefectureStats = getPrefectureStats(resorts)
 const tagStats = getTagStats(resorts)
 

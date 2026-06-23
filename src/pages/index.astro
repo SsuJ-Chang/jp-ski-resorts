@@ -1,10 +1,9 @@
 ---
-import { getCollection } from 'astro:content'
 import BaseLayout from '../layouts/BaseLayout.astro'
 import JapanRegionMap from '../components/JapanRegionMap.astro'
 import { regions } from '../data/regions'
 import { publishedSkiAreaKeys, skiAreas } from '../data/skiAreas'
-import { filterPublishedResorts } from '../utils/resorts'
+import { getPublishedResorts } from '../utils/resortCatalog'
 import { withBasePath } from '../utils/paths'
 
 const toneByRegion = {
@@ -17,7 +16,7 @@ const toneByRegion = {
   kyushu: 'south',
 } as const
 
-const resorts = filterPublishedResorts(await getCollection('resorts'))
+const resorts = await getPublishedResorts()
 const resortCount = resorts.length
 const regionExampleLimit = 2
 const regionExampleCollator = new Intl.Collator('zh-Hant-TW')
