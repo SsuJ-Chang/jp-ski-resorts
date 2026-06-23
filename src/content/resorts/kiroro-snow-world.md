@@ -168,4 +168,4 @@ sources:
   url: "https://weathernews.jp/ski/area/hokkaido/ranking.html"
 ---
 
-Kiroro Snow World位於北海道，粉雪是主要魅力，適合把雪質、速度感與雪國氛圍放在同一段旅程。住宿、餐飲與滑行動線集中，停留感比單日滑雪更完整；適合想把住宿、餐飲與滑行整合成停留型旅程的人。也適合把雪地遊玩、練習與休息時間安排得更從容。
+Kiroro Snow World 是北海道的大型雪場，共有 23 條雪道，搭配 9 座纜車。雪道如 Family Course、Center Link，初級、中級與上級路線都有配置，標籤偏向夜滑、雙板與單板。

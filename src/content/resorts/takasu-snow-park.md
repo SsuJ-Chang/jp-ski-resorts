@@ -192,4 +192,4 @@ sources:
   url: https://www.takasu.gr.jp/access/
 ---
 
-高鷲 Snow Park位於岐阜縣的高鷲 Mountains，適合喜歡長線巡航的人，主要滑行線可拉到約 4,900 公尺。若安排高鷲多日滑雪，可把它當成轉換節奏的一站；適合把基礎練習、雪地遊玩與休息時間安排得更從容。
+高鷲 Snow Park位於岐阜縣，以13 條雪道形成中型雪場規模，搭配 4 座纜車。主要路線有 バンブーコース / Bamboo Course、ビギナーズコース / Beginners Course、ダイヤモンドコース / Diamond Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

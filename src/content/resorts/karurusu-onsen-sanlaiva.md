@@ -113,4 +113,4 @@ sources:
   url: "https://weathernews.jp/ski/area/hokkaido/ranking.html"
 ---
 
-Karurusu 溫泉 Sanlaiva位於北海道，降雪後的雪面觸感是記憶點，滑行會比單純壓雪巡航更有層次。降雪後的雪面變化會讓每一趟滑行有不同表情；適合不只想滑雪，也想把身體放鬆與地方氛圍一起安排的人。
+Karurusu 溫泉 Sanlaiva位於北海道，以7 條雪道構成中小型雪場，搭配 2 座纜車。初級、中級與上級路線都有配置，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、雙板與單板。

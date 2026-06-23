@@ -219,4 +219,4 @@ sources:
   url: https://www.dynaland.co.jp/access/
 ---
 
-Dynaland位於岐阜縣的高鷲 Mountains，適合喜歡長線巡航的人，主要滑行線可拉到約 3,200 公尺。放進高鷲旅程時，能和周邊雪場形成不同節奏；適合親子同行或想用輕鬆節奏累積滑行經驗的人。也適合把雪地遊玩、練習與休息時間安排得更從容。
+Dynaland位於岐阜縣，以18 條雪道形成中型雪場規模，搭配 5 座纜車。主要路線有 パラダイスAコース / Paradise A Course、乙女コース / Otome Course、神中Aコース / Kamichu A Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

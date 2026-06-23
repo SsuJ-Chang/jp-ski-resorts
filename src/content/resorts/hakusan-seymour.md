@@ -149,4 +149,4 @@ sources:
   url: https://weathernews.jp/ski/spot/35601/
 ---
 
-白山千丈溫泉 Seymour位於石川縣，地方型氛圍讓滑行節奏更單純，適合慢慢熟悉雪面與山景。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合想用比較自由的節奏練習 carving、巡航或雪板控制的人。
+白山千丈溫泉 Seymour 是石川縣的中小型雪場，共有 9 條雪道，搭配 4 座纜車。雪道如 Menuet Course、Concerto Course，初級、中級與上級路線都有配置，標籤偏向雙板與單板。

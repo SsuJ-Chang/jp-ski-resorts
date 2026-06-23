@@ -149,4 +149,4 @@ sources:
     note: "影片說明欄提供 Swallow、Falcon、Eagle、Blue Bird 等雪道章節時間軸，已對應至 courses.details[].videoLinks。"
 ---
 
-Muica Snow Resort位於新潟縣，適合把滑雪練習和家庭停留結合，旅程節奏比大型山岳雪場輕鬆。比起匆忙踩點，更適合用半天到一天熟悉雪面、坡感與山景；適合同行者程度不同時，用比較不緊繃的方式共享雪地時間。
+Muica Snow Resort是新潟縣的中型雪場，整理為12 條雪道，搭配 4 座纜車。雪道如 5 スワローコース / Swallow Course、4 ファルコンコース / Falcon Course、ハイクアップゾーン / Hike up Zone，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

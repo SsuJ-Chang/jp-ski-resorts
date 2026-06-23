@@ -131,4 +131,4 @@ sources:
     url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
-八幡平 Resort Panorama位於岩手縣，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合親子同行或想用輕鬆節奏累積滑行經驗的人。
+八幡平 Resort Panorama是岩手縣的中小型雪場，整理為7 條雪道，搭配 4 座纜車。雪道如 Family Course / ファミリーコース、Conide A Course / コニーデAコース、Conide B Course / コニーデBコース，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

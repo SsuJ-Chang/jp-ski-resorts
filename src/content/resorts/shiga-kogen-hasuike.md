@@ -96,4 +96,4 @@ sources:
   url: https://shigakogen-ski.or.jp/access/
 ---
 
-志賀高原蓮池位於長野縣的志賀高原，尺度不大，反而適合把轉彎、煞停與雪面感受拆成穩定練習。放進志賀高原旅程時，能和周邊雪場形成不同節奏；適合想感受日本地方雪場氛圍與雪國風景的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。
+志賀高原蓮池在長野縣提供3 條雪道，搭配 1 座纜車。路線包含 Hasuike B Course、Hasuike A Course、Hasuike Junior Course，整體以初級與中級路線為主；標籤上偏向初學者練習。

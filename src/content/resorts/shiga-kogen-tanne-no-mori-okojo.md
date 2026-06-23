@@ -88,4 +88,4 @@ sources:
   url: https://shigakogen-ski.or.jp/access/
 ---
 
-志賀高原 Tanne no Mori Okojo位於長野縣的志賀高原，重點不在刺激挑戰，而是讓同行者用舒服節奏熟悉雪地活動。若安排志賀高原多日滑雪，可把它當成轉換節奏的一站；適合把基礎練習、雪地遊玩與休息時間安排得更從容。
+志賀高原 Tanne no Mori Okojo位於長野縣，是小型練習雪場，共有1 條雪道，搭配 1 座纜車。代表路線包含 Tanne no Mori Okojo Gelende，單一路線配置，重點在簡單滑行與基本練習；標籤上偏向初學者練習、親子同行。

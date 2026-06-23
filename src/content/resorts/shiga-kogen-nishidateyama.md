@@ -113,4 +113,4 @@ sources:
   url: https://shigakogen-ski.or.jp/access/
 ---
 
-志賀高原西館山位於長野縣的志賀高原，尺度不大，反而適合把轉彎、煞停與雪面感受拆成穩定練習。放進志賀高原旅程時，能和周邊雪場形成不同節奏；適合雙板與雪板同行，依各自節奏安排滑行重點。滑行之外，也能把雪景、休息與地方氛圍一起留下來。
+志賀高原西館山是長野縣的中小型雪場，整理為7 條雪道，搭配 3 座纜車。雪道如 Nishitateyama Beginner Course（Upper section）、Nishitateyama Beginner Course（Lower section）、Nishitateyama Gelende，以初級與中級路線為主；標籤上偏向初學者練習、雙板與單板。

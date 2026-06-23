@@ -225,4 +225,4 @@ sources:
   note: 影片說明欄提供 Powder、Alpen、Forest、The Rock、The View、Main Street 等雪道章節時間軸，已對應至 courses.details[].videoLinks；Snow Surf Park 與 Tree 章節未對應至現有官方雪道名稱。
 ---
 
-Grandeco位於福島縣的磐梯雪區，粉雪與樹林地形是主要記憶點，降雪後能感受更立體的雪面變化。放進磐梯旅程時，能和周邊雪場形成不同節奏；適合喜歡粉雪、林間變化與自然地形的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。
+Grandeco是福島縣的中型雪場，整理為11 條雪道，搭配 5 座纜車。雪道如 Forest、Hotel Road、Main Street，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
