@@ -8,6 +8,19 @@ type ResortCard = HTMLElement & {
   }
 }
 
+type ResortSearchEntry = {
+  card: ResortCard
+  searchTokens: string[]
+  prefectureKey: string
+  tags: Set<string>
+}
+
+type ResortSearchIndex = {
+  entries: ResortSearchEntry[]
+  tokenToCardIndexes: Map<string, number[]>
+  allCardIndexes: number[]
+}
+
 const splitSearchTokens = (value: string) =>
   value
     .normalize('NFKC')
@@ -18,42 +31,84 @@ const splitSearchTokens = (value: string) =>
 const tokenMatchesQuery = (textToken: string, queryToken: string) =>
   textToken.includes(queryToken) || textToken.startsWith(queryToken)
 
-const searchTokensCache = new WeakMap<ResortCard, string[]>()
-const tagSetCache = new WeakMap<ResortCard, Set<string>>()
+const buildResortSearchIndex = (cards: ResortCard[]): ResortSearchIndex => {
+  const entries = cards.map((card) => ({
+    card,
+    searchTokens: splitSearchTokens(card.dataset.searchText ?? ''),
+    prefectureKey: card.dataset.prefectureKey ?? '',
+    tags: new Set((card.dataset.tags ?? '').split(' ').filter(Boolean)),
+  }))
 
-const getSearchTokens = (card: ResortCard) => {
-  const cachedTokens = searchTokensCache.get(card)
-  if (cachedTokens) return cachedTokens
+  const tokenToCardIndexes = new Map<string, number[]>()
 
-  const tokens = splitSearchTokens(card.dataset.searchText ?? '')
-  searchTokensCache.set(card, tokens)
-  return tokens
+  entries.forEach((entry, cardIndex) => {
+    for (const token of entry.searchTokens) {
+      const cardIndexes = tokenToCardIndexes.get(token)
+      if (cardIndexes) {
+        cardIndexes.push(cardIndex)
+        continue
+      }
+
+      tokenToCardIndexes.set(token, [cardIndex])
+    }
+  })
+
+  return {
+    entries,
+    tokenToCardIndexes,
+    allCardIndexes: entries.map((_, cardIndex) => cardIndex),
+  }
 }
 
-const matchesSearchQuery = (card: ResortCard, queryTokens: string[]) => {
-  if (queryTokens.length === 0) return true
+const queryTokenMatchesCache = new Map<string, number[]>()
 
-  const textTokens = getSearchTokens(card)
-  // Match inside a normalized token only; do not assemble letters across unrelated tokens.
-  return queryTokens.every((queryToken) =>
-    textTokens.some((textToken) => tokenMatchesQuery(textToken, queryToken)),
-  )
+const getCardIndexesForQueryToken = (queryToken: string, searchIndex: ResortSearchIndex) => {
+  const cachedCardIndexes = queryTokenMatchesCache.get(queryToken)
+  if (cachedCardIndexes) return cachedCardIndexes
+
+  const matchedCardIndexes = new Set<number>()
+
+  for (const [textToken, cardIndexes] of searchIndex.tokenToCardIndexes) {
+    if (!tokenMatchesQuery(textToken, queryToken)) continue
+
+    for (const cardIndex of cardIndexes) {
+      matchedCardIndexes.add(cardIndex)
+    }
+  }
+
+  const cardIndexes = [...matchedCardIndexes]
+  queryTokenMatchesCache.set(queryToken, cardIndexes)
+  return cardIndexes
 }
 
-const getCardTags = (card: ResortCard) => {
-  const cachedTags = tagSetCache.get(card)
-  if (cachedTags) return cachedTags
+const getMatchingCardIndexes = (queryTokens: string[], searchIndex: ResortSearchIndex) => {
+  if (queryTokens.length === 0) return searchIndex.allCardIndexes
 
-  const tags = new Set((card.dataset.tags ?? '').split(' ').filter(Boolean))
-  tagSetCache.set(card, tags)
-  return tags
+  const matchingLists = queryTokens
+    .map((queryToken) => getCardIndexesForQueryToken(queryToken, searchIndex))
+    .sort((a, b) => a.length - b.length)
+
+  if (matchingLists.length === 0 || matchingLists[0].length === 0) return []
+
+  let matchingIndexes = new Set(matchingLists[0])
+
+  for (const cardIndexes of matchingLists.slice(1)) {
+    const cardIndexSet = new Set(cardIndexes)
+    matchingIndexes = new Set(
+      [...matchingIndexes].filter((cardIndex) => cardIndexSet.has(cardIndex)),
+    )
+
+    if (matchingIndexes.size === 0) return []
+  }
+
+  return [...matchingIndexes]
 }
 
-const matchesSelectedPrefectures = (card: ResortCard, selectedPrefectures: string[]) =>
-  selectedPrefectures.length === 0 || selectedPrefectures.includes(card.dataset.prefectureKey ?? '')
+const matchesSelectedPrefectures = (entry: ResortSearchEntry, selectedPrefectures: string[]) =>
+  selectedPrefectures.length === 0 || selectedPrefectures.includes(entry.prefectureKey)
 
-const matchesSelectedTags = (card: ResortCard, selectedTags: string[]) =>
-  selectedTags.length === 0 || selectedTags.every((tag) => getCardTags(card).has(tag))
+const matchesSelectedTags = (entry: ResortSearchEntry, selectedTags: string[]) =>
+  selectedTags.length === 0 || selectedTags.every((tag) => entry.tags.has(tag))
 
 const getZeroResultValue = (resultCount: number) => (resultCount === 0 ? 'true' : 'false')
 
@@ -110,8 +165,10 @@ const trackAppliedFilters = (
 }
 
 const applyResortFilters = () => {
+  const startedAt = performance.now()
   const resultsBlock = document.querySelector<HTMLElement>('[data-resort-results]')
   const resortCards = Array.from(document.querySelectorAll<ResortCard>('[data-resort-card]'))
+  const searchIndex = buildResortSearchIndex(resortCards)
   const countElement = document.querySelector<HTMLElement>('[data-resort-result-count]')
   const params = new URLSearchParams(window.location.search)
   const query = params.get('q') ?? ''
@@ -119,20 +176,25 @@ const applyResortFilters = () => {
   const selectedPrefectures = params.getAll('prefecture').filter(Boolean)
   const selectedTags = params.getAll('tag').filter(Boolean)
   const sourceArea = resultsBlock?.dataset.sourceArea ?? 'resort_listing'
+  const matchingCardIndexes = new Set(getMatchingCardIndexes(queryTokens, searchIndex))
 
   let visibleCount = 0
 
-  for (const card of resortCards) {
+  for (const [cardIndex, entry] of searchIndex.entries.entries()) {
     const isVisible =
-      matchesSearchQuery(card, queryTokens) &&
-      matchesSelectedPrefectures(card, selectedPrefectures) &&
-      matchesSelectedTags(card, selectedTags)
+      matchingCardIndexes.has(cardIndex) &&
+      matchesSelectedPrefectures(entry, selectedPrefectures) &&
+      matchesSelectedTags(entry, selectedTags)
 
-    card.hidden = !isVisible
+    entry.card.hidden = !isVisible
     if (isVisible) visibleCount += 1
   }
 
   if (countElement) countElement.textContent = `${visibleCount} 座雪場`
+
+  const elapsedMs = Math.max(0, Math.round(performance.now() - startedAt))
+  const queryLabel = query.trim() ? `［${query.trim()}］` : '［全部］'
+  console.log(`搜尋${queryLabel}，花費時間：${elapsedMs}ms，命中 ${visibleCount} 筆`)
 
   trackResortSearch(query, visibleCount, selectedPrefectures, selectedTags, sourceArea)
   trackAppliedFilters(visibleCount, selectedPrefectures, selectedTags, sourceArea)
