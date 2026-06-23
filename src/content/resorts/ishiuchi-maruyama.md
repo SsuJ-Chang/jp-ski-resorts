@@ -46,7 +46,7 @@ trailMaps:
 - label: 石打丸山雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://ishiuchi.or.jp/en/winter/ski/lift-course/
+  url: https://ishiuchi.or.jp/winter/wp/wp-content/uploads/2025/12/25-26_ysl%EF%BC%86ishiuchi_%E3%83%9E%E3%83%83%E3%83%97.pdf
   sourceLabel: Ishiuchi Maruyama Ski Resort
 tickets:
   season: 2025-2026
@@ -303,6 +303,12 @@ externalContent:
       url: https://natasha-traveler.tw/ishiuchi-maruyama-ski-resort-guide/
       note: "娜塔蝦的滑雪食旅手記，2026-03-02"
   vlogs:
+    - title: "2526雪季 -越後湯澤 | 石打丸山滑雪遊記 | 下"
+      url: https://www.youtube.com/watch?v=iZ2ZVMYSBoQ
+      note: "GT練雪日記"
+    - title: "2526雪季 -越後湯澤 | 石打丸山滑雪遊記"
+      url: https://www.youtube.com/watch?v=4xPfR5DgBoA
+      note: "GT練雪日記"
     - title: "【スキー場ガイド】石打丸山スキー場　ゲレンデの数がすごい　施設もすごくなった！"
       url: https://www.youtube.com/watch?v=tLd37bYT0tE
       note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
