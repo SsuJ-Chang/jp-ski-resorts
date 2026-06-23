@@ -118,5 +118,14 @@ const socialImageAlt = '日本滑雪場指南'
     <script>
       import '../scripts/pageAnalytics.ts'
     </script>
+    <script is:inline define:vars={{ swUrl: withBasePath('/sw.js') }}>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register(swUrl).catch(() => {
+            // Service worker is a progressive enhancement; ignore registration failures.
+          })
+        })
+      }
+    </script>
   </body>
 </html>
