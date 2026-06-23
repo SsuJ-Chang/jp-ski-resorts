@@ -121,6 +121,7 @@ const socialImageAlt = '日本滑雪場指南'
     <script is:inline define:vars={{ swUrl: withBasePath('/sw.js') }}>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
+          // 這段只是把 service worker 掛上去，真正的快取邏輯都在 `sw.js`。
           navigator.serviceWorker.register(swUrl).catch(() => {
             // Service worker is a progressive enhancement; ignore registration failures.
           })

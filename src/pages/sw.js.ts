@@ -5,6 +5,7 @@ const escapeJsString = (value: string) =>
 
 export const GET: APIRoute = async () => {
   const timestamp = new Date().toISOString().replace(/[-:]/g, '').replace(/\.\d{3}Z$/, 'Z')
+  // 每次重新 build 都換一個版本號，讓舊的瀏覽器快取能被辨識並清掉。
   const cacheVersion = `v${timestamp}`
   const basePath = import.meta.env.BASE_URL.endsWith('/')
     ? import.meta.env.BASE_URL.slice(0, -1)
@@ -56,6 +57,7 @@ const isAssetRequest = (request) => {
 const cacheResponse = async (cacheName, request, response) => {
   if (!response || !response.ok) return response
 
+  // 把成功回應放進瀏覽器的 Cache Storage，下一次同 URL 先不用再抓網路。
   const cache = await caches.open(cacheName)
   await cache.put(request, response.clone())
   return response
@@ -70,10 +72,12 @@ const networkFirst = async (cacheName, request) => {
   const cache = await caches.open(cacheName)
 
   try {
+    // 頁面類資源先問網路，拿到新內容就順手覆蓋快取。
     const response = await fetchAndCache(cacheName, request)
     if (response) return response
   } catch {}
 
+  // 網路掛掉時，退回上一版已存好的頁面。
   const cached = await cache.match(request)
   if (cached) return cached
 
@@ -85,11 +89,13 @@ const cacheFirst = async (cacheName, request) => {
   const cached = await cache.match(request)
   if (cached) return cached
 
+  // 靜態檔案先用快取，沒有才去抓。
   return fetchAndCache(cacheName, request)
 }
 
 self.addEventListener('install', (event) => {
   event.waitUntil((async () => {
+    // 先把首頁與主要入口頁塞進 shell cache，讓第一次進站後的常用頁面比較快開。
     const cache = await caches.open(SHELL_CACHE)
     await cache.addAll(SHELL_URLS)
     self.skipWaiting()
@@ -98,6 +104,7 @@ self.addEventListener('install', (event) => {
 
 self.addEventListener('activate', (event) => {
   event.waitUntil((async () => {
+    // 只留目前版本需要的 cache，避免瀏覽器越存越多舊資料。
     const expectedCaches = new Set([SHELL_CACHE, NAVIGATION_CACHE, ASSET_CACHE])
     const cacheNames = await caches.keys()
 

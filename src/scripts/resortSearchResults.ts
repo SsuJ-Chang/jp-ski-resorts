@@ -22,6 +22,8 @@ type ResortSearchIndex = {
 }
 
 const splitSearchTokens = (value: string) =>
+  // 先把全形半形、大小寫、標點空白都整理掉，再切成可比對的小單位。
+  // 這樣使用者輸入 `HA`、`ha`、`ｈａ`，結果都會落到同一組 token。
   value
     .normalize('NFKC')
     .toLocaleLowerCase()
@@ -29,9 +31,13 @@ const splitSearchTokens = (value: string) =>
     .filter(Boolean)
 
 const tokenMatchesQuery = (textToken: string, queryToken: string) =>
+  // 這裡不是只做「完全相等」比對，而是允許包含/前綴命中。
+  // 所以搜尋 `ha` 可以找到 `hakuba`、`hakka` 這種完整字串裡含有該片段的結果。
   textToken.includes(queryToken) || textToken.startsWith(queryToken)
 
 const buildResortSearchIndex = (cards: ResortCard[]): ResortSearchIndex => {
+  // 先把每張卡片的可搜尋文字拆成 token，並反向建立 token -> 卡片索引的表。
+  // 之後每次輸入變更，就不用再把所有卡片全文掃一遍。
   const entries = cards.map((card) => ({
     card,
     searchTokens: splitSearchTokens(card.dataset.searchText ?? ''),
@@ -63,6 +69,7 @@ const buildResortSearchIndex = (cards: ResortCard[]): ResortSearchIndex => {
 const queryTokenMatchesCache = new Map<string, number[]>()
 
 const getCardIndexesForQueryToken = (queryToken: string, searchIndex: ResortSearchIndex) => {
+  // 同一個 query token 如果重複出現，直接重用上次算過的結果。
   const cachedCardIndexes = queryTokenMatchesCache.get(queryToken)
   if (cachedCardIndexes) return cachedCardIndexes
 
@@ -84,6 +91,8 @@ const getCardIndexesForQueryToken = (queryToken: string, searchIndex: ResortSear
 const getMatchingCardIndexes = (queryTokens: string[], searchIndex: ResortSearchIndex) => {
   if (queryTokens.length === 0) return searchIndex.allCardIndexes
 
+  // 使用者輸入多個字時，代表每個 token 都要命中，才算符合搜尋。
+  // 例如 `hakuba east` 會要求同時符合 `hakuba` 與 `east`。
   const matchingLists = queryTokens
     .map((queryToken) => getCardIndexesForQueryToken(queryToken, searchIndex))
     .sort((a, b) => a.length - b.length)
@@ -165,6 +174,8 @@ const trackAppliedFilters = (
 }
 
 const applyResortFilters = () => {
+  // 這個函式只做一件事：把目前 URL 上的搜尋條件套到卡片顯示狀態。
+  // 頁面一載入就執行一次，所以分享連結時會直接還原成對應結果。
   const startedAt = performance.now()
   const resultsBlock = document.querySelector<HTMLElement>('[data-resort-results]')
   const resortCards = Array.from(document.querySelectorAll<ResortCard>('[data-resort-card]'))
