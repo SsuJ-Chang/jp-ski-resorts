@@ -50,6 +50,19 @@ courses:
   advancedRatio: 10
   courseInfoPage: "https://weathernews.jp/ski/spot/31507/"
   summary: "北海道 Greenland White Park共有 4 條雪道，難度比例約初級 70%、中級 20%、進階 10%，適合依雪況與同行者程度安排滑行路線。"
+  details:
+    - name: "初級路線 1"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "初級路線 2"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "初級路線 3"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
 lifts:
   total: 2
 access:

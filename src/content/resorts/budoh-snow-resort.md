@@ -62,10 +62,24 @@ elevation:
   bottom: 150
 courses:
   total: 4
+  courseInfoPage: "https://snow.budoh-resorts.jp/"
   summary: "共 4 條雪道、2 座纜車，初級 10%、中級 70%、高級 20%。"
   beginnerRatio: 10
   intermediateRatio: 70
   advancedRatio: 20
+  details:
+    - name: "中級路線 1"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 2"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 3"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "上級路線"
+      difficulty: advanced
+      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
 lifts:
   total: 2
 access:

@@ -48,11 +48,19 @@ elevation:
   verticalDrop: 200
 courses:
   total: 2
-  beginnerRatio: 15
-  intermediateRatio: 35
+  beginnerRatio: 50
+  intermediateRatio: 50
   advancedRatio: 0
-  courseInfoPage: "https://weathernews.jp/ski/spot/33513/"
-  summary: "Asahi 自然觀 Snow Park共有 2 條雪道，難度比例約初級 15%、中級 35%、進階 0%，適合依雪況與同行者程度安排滑行路線。"
+  courseInfoPage: "https://www.shizenkan.jp/winter-slope/"
+  summary: "Asahi自然観スノーパーク由ユーユーゲレンデ與ファンタジーゲレンデ兩個坡面組成；ユーユー偏初級與家庭取向，ファンタジー則為中上級者取向，最大斜度約 22 度。"
+  details:
+    - name: "ユーユーゲレンデ"
+      difficulty: beginner
+      note: "緩斜面坡面，靠近停車場、滑雪學校與纜車乘場，旁邊有しらくら広場可玩雪。"
+    - name: "ファンタジーゲレンデ"
+      difficulty: intermediate
+      maxSlope: "22度"
+      note: "中上級者取向坡面，可利用ファンタジーペアリフト前往中腹，坡面變化比ユーユーゲレンデ更多。"
 lifts:
   total: 2
 access:
@@ -61,11 +69,10 @@ access:
     snowTireRequired: true
     note: "自駕參考：自駕：山形自動車道 寒河江IC (40分)。停車場：500台 / 平日 免費 / 假日 免費。冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
-  beginner: "初級比例約 15%，可作為暖身、親子同行或初訪時的主要安排。"
-  intermediate: "中級比例約 35%，適合已能穩定轉彎的滑雪者串接主要雪道。"
-  advanced: "進階比例約 0%，建議視當日積雪與壓雪狀況選擇。"
-  snowboard: "全面可；單板實際可滑區域仍以現場開放為準。"
-  powder: "○；粉雪與非壓雪區域會受天候與管理狀態影響。"
+  beginner: "ユーユーゲレンデ為緩斜面，適合初學者與家庭滑行。"
+  intermediate: "ファンタジーゲレンデ為中上級取向，可練習較有變化的坡面。"
+  advanced: "官方介紹未列獨立上級雪道；最大斜度約 22 度。"
+  snowboard: "雪板可滑；天然雪 100% 的坡面依當日狀況變化。"
 externalContent:
   blogs: []
   vlogs: []
@@ -74,6 +81,10 @@ sources:
     url: "http://www.shizenkan.jp/winter/"
   - label: "Weathernews Asahi自然観スノーパーク"
     url: "https://weathernews.jp/ski/spot/33513/"
+  - label: "Asahi自然観 Snow Park Slope Guide"
+    url: "https://www.shizenkan.jp/winter-slope/"
+    note: "提供坡面名稱、坡面定位、最大斜度、標高與纜車數資訊。"
+
 ---
 
-Asahi 自然觀 Snow Park位於山形縣，特色不只在巡航，也能把跳台、箱型道具或公園元素排進滑行節奏。降雪後的雪面變化會讓每一趟滑行有不同表情；適合不只想滑雪，也想把身體放鬆與地方氛圍一起安排的人。
+Asahi自然観スノーパーク位於山形縣朝日町，由ユーユー與ファンタジー兩個坡面組成。前者偏初級與家庭取向，後者坡面變化較多，最大斜度約 22 度，適合小規模練習行程。

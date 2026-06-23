@@ -59,7 +59,24 @@ location:
   longitude: 138.396414
 courses:
   total: 5
+  courseInfoPage: "https://iiyama-makinoiri.snowpark.jp/snow/"
   summary: "共 5 條雪道，詳細難度比例需以官方公告與現地資訊為準。"
+  details:
+    - name: "雪道 1"
+      difficulty: mixed
+      note: "目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "雪道 2"
+      difficulty: mixed
+      note: "目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "雪道 3"
+      difficulty: mixed
+      note: "目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "雪道 4"
+      difficulty: mixed
+      note: "目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "雪道 5"
+      difficulty: mixed
+      note: "目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。"
 lifts:
   total: 4
 access:

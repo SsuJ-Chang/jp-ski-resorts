@@ -53,6 +53,25 @@ courses:
   advancedRatio: 30
   courseInfoPage: "https://weathernews.jp/ski/spot/33316/"
   summary: "八幡平 Resort 下倉共有 6 條雪道與 3 座纜車，標高約 580-1,130m；初級 20%、中級 50%、進階 30%，雪板可全區滑行。"
+  details:
+    - name: "初級路線"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 1"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 2"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 3"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "上級路線 1"
+      difficulty: advanced
+      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "上級路線 2"
+      difficulty: advanced
+      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
 lifts:
   total: 3
 access:

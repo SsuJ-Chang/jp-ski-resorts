@@ -70,6 +70,31 @@ courses:
   advancedRatio: 15
   courseInfoPage: "https://weathernews.jp/ski/spot/34903/"
   summary: "清里高原一帶的雪場，共有 8 條雪道，初級與中級比例高，山頂標高約 1,900m。"
+  details:
+    - name: "初級路線 1"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "初級路線 2"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "初級路線 3"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 1"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 2"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 3"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 4"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "上級路線"
+      difficulty: advanced
+      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
 lifts:
   total: 3
 access:

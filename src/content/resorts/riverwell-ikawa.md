@@ -59,6 +59,10 @@ courses:
   advancedRatio: 0
   courseInfoPage: "https://weathernews.jp/ski/spot/35001/"
   summary: "靜岡市營的小型雪場，雪道為平均斜度約 8 度的初級坡面。"
+  details:
+    - name: "初級路線"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
 lifts:
   total: 1
 access:

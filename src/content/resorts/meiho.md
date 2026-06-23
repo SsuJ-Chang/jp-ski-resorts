@@ -78,7 +78,48 @@ courses:
   beginnerRatio: 45
   intermediateRatio: 40
   advancedRatio: 15
+  courseInfoPage: "https://www.meihoski.co.jp/winter/"
   summary: 公開資料標示 13 條 course，海拔約 900m 到 1,600m，初級 45%、中級 40%、上級 15%。雪場有 kids park、snow park，並標示全區可 snowboard。
+  details:
+    - name: "初級路線 1"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "初級路線 2"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "初級路線 3"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "初級路線 4"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "初級路線 5"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "初級路線 6"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 1"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 2"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 3"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 4"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線 5"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "上級路線 1"
+      difficulty: advanced
+      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "上級路線 2"
+      difficulty: advanced
+      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
 lifts:
   total: 5
 access:

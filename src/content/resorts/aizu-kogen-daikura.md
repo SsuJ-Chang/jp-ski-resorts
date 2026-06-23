@@ -16,12 +16,12 @@ visibility:
   status: "published"
   note: "福島縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
-  official: "http://daikura.net/"
+  official: "https://daikura.net/"
   facebook: "https://www.facebook.com/aizudaikura"
   instagram: "https://www.instagram.com/daikura_ski/"
   weather: "https://weathernews.jp/ski/spot/33615/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=37.181393,139.637209"
-  access: "http://daikura.net/"
+  access: "https://daikura.net/"
 contact:
   address:
     zhTw: "日本福島縣南會津郡田島町大字針生字昼滝山857-150"
@@ -54,10 +54,83 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
-  courseInfoPage: "https://weathernews.jp/ski/spot/33615/"
-  summary: "會津高原 Daikura共有 12 條雪道，難度比例約初級 30%、中級 40%、進階 30%，適合依雪況與同行者程度安排滑行路線。"
+  courseInfoPage: "https://daikura.net/skislope/"
+  summary: "會津高原 Daikura 共有 12 條雪道，從 800m 初學者路線、白樺與春木沢系列中級坡，到最大斜度 38 度的台鞍ゲレンデ都有；高低差與坡度變化明確，適合依能力分區練習。"
+  details:
+    - name: "初心者コース"
+      difficulty: beginner
+      length: "800m"
+      maxSlope: "12度"
+      averageSlope: "12度"
+      note: "初級路線，高低差 80m，坡度數值單純，適合作為全場入門練習線。"
+    - name: "白樺アウトコース"
+      difficulty: beginner
+      length: "1,500m"
+      maxSlope: "15度"
+      averageSlope: "9度"
+      note: "初級路線，滑走距離 1,500m、高低差 130m，可作為較長距離的初級練習。"
+    - name: "白樺インコース"
+      difficulty: mixed
+      length: "1,200m"
+      maxSlope: "20度"
+      averageSlope: "9度"
+      note: "初級到中級路線，滑走距離 1,200m、高低差 130m。"
+    - name: "中央ゲレンデ"
+      difficulty: intermediate
+      length: "600m"
+      maxSlope: "23度"
+      averageSlope: "11度"
+      note: "中級路線，滑走距離 600m、高低差 80m，是中央區域的短中級坡。"
+    - name: "駒止ゲレンデ"
+      difficulty: intermediate
+      length: "1,000m"
+      maxSlope: "28度"
+      averageSlope: "13度"
+      note: "中級路線，滑走距離 1,000m、高低差 200m，坡度變化比中央區更明顯。"
+    - name: "春木沢インコース"
+      difficulty: intermediate
+      length: "1,200m"
+      maxSlope: "28度"
+      averageSlope: "12度"
+      note: "中級路線，滑走距離 1,200m、高低差 220m。"
+    - name: "春木沢アウトコース"
+      difficulty: intermediate
+      length: "1,300m"
+      maxSlope: "25度"
+      averageSlope: "12度"
+      note: "中級路線，滑走距離 1,300m、高低差 250m，是春木沢側較長的一條。"
+    - name: "駒止尾根コース"
+      difficulty: intermediate
+      length: "1,200m"
+      maxSlope: "20度"
+      averageSlope: "7度"
+      note: "中級路線，滑走距離 1,200m、高低差 140m，平均斜度相對平緩。"
+    - name: "台鞍ゲレンデ"
+      difficulty: advanced
+      length: "600m"
+      maxSlope: "38度"
+      averageSlope: "35度"
+      note: "上級路線，最大斜度 38 度、平均斜度 35 度，是全場坡度數值最高的路線。"
+    - name: "シャドーコース"
+      difficulty: advanced
+      length: "270m"
+      maxSlope: "24度"
+      averageSlope: "24度"
+      note: "上級路線，滑走距離 270m、高低差 120m。"
+    - name: "スイングコース"
+      difficulty: advanced
+      length: "250m"
+      maxSlope: "28度"
+      averageSlope: "20度"
+      note: "上級路線，滑走距離 250m、高低差 80m。"
+    - name: "シャイングコース"
+      difficulty: advanced
+      length: "260m"
+      maxSlope: "30度"
+      averageSlope: "22度"
+      note: "上級路線，滑走距離 260m、高低差 100m。"
 lifts:
-  total: 5
+  total: 6
 access:
   fromTokyo:
     - label: "大眾交通工具（主要車站銜接）"
@@ -79,9 +152,13 @@ externalContent:
   vlogs: []
 sources:
   - label: "Aizu Kogen Daikura Ski Area Official Website"
-    url: "http://daikura.net/"
+    url: "https://daikura.net/"
+    note: "提供雪場基本資訊、營業與交通相關資訊。"
+  - label: "Aizu Kogen Daikura Ski Area Slope Guide"
+    url: "https://daikura.net/skislope/"
+    note: "提供雪道名稱、長度、坡度、高低差、難度與纜車資訊。"
   - label: "Weathernews 会津高原だいくらスキー場"
     url: "https://weathernews.jp/ski/spot/33615/"
 ---
 
-會津高原 Daikura位於福島縣，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合想把滑雪後的泡湯、在地停留與雪國慢節奏放進同一天的人。
+會津高原 Daikura 位於福島縣南會津，12 條雪道從初級練習坡到最大 38 度的上級坡都有。白樺、春木沢與駒止區域各有不同長度與坡度變化，適合以一天時間分區練習。

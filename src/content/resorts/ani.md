@@ -55,8 +55,39 @@ courses:
   beginnerRatio: 60
   intermediateRatio: 40
   advancedRatio: 0
-  courseInfoPage: "https://weathernews.jp/ski/spot/33208/"
-  summary: "阿仁共有 5 條雪道，難度比例約初級 60%、中級 40%、進階 0%，適合依雪況與同行者程度安排滑行路線。"
+  courseInfoPage: "https://www.aniski.jp/slope"
+  summary: "阿仁以ゴンドラ山頂起點的長距離林間路線為主，包含パラダイスコース、らくらくコース與サンシャインコース等初級線，以及ユートピアコース、チャレンジコース等中級變化；最長滑走可達 3,500m。"
+  details:
+    - name: "らくらくコース"
+      difficulty: beginner
+      length: "1,500m"
+      maxSlope: "20度"
+      averageSlope: "11度"
+      note: "從第 3 lift 上方往下滑的林間路線，坡度較緩，作為連接初級練習很方便。"
+    - name: "サンシャインコース"
+      difficulty: beginner
+      length: "600m"
+      maxSlope: "15度"
+      averageSlope: "7度"
+      note: "從ゴンドラ山頂站左手側滑下的初級林間路線。"
+    - name: "パラダイスコース"
+      difficulty: beginner
+      length: "3,500m"
+      maxSlope: "18度"
+      averageSlope: "9度"
+      note: "從山頂連續滑到山麓的主線，滑走距離長，可用來體驗完整高低差。"
+    - name: "ユートピアコース"
+      difficulty: intermediate
+      length: "400m"
+      maxSlope: "25度"
+      averageSlope: "11度"
+      note: "ゴンドラ山頂下方的短中級路線，連接らくらくコース與山頂區。"
+    - name: "チャレンジコース"
+      difficulty: intermediate
+      length: "700m"
+      maxSlope: "28度"
+      averageSlope: "13度"
+      note: "第 3 lift 旁的中級路線，坡度變化比初級林間線更明顯。"
 lifts:
   total: 3
 access:
@@ -77,10 +108,10 @@ access:
     snowTireRequired: true
     note: "自駕參考：自駕：仙台宮城ICより東北道(270.2km)のち十和田湖ICより一般道(77km) (320分)；自駕：川口JCTより東北道(602.6km)のち十和田湖ICより一般道(77km) (569分)。停車場：400台 / 平日 免費 / 假日 免費。冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
-  beginner: "初級比例約 60%，可作為暖身、親子同行或初訪時的主要安排。"
-  intermediate: "中級比例約 40%，適合已能穩定轉彎的滑雪者串接主要雪道。"
-  advanced: "進階比例約 0%，建議視當日積雪與壓雪狀況選擇。"
-  snowboard: "全面可；單板實際可滑區域仍以現場開放為準。"
+  beginner: "初級路線比例高，パラダイスコース與サンシャインコース可從山頂一路銜接到山麓。"
+  intermediate: "ユートピアコース與チャレンジコース提供較明顯坡度變化。"
+  advanced: "目前整理的官方雪道資料未列上級路線。"
+  snowboard: "雪板可滑；山頂長距離林間線適合留意速度控制與接續動線。"
 externalContent:
   blogs:
     - title: "秋田阿仁滑雪場全攻略｜賞樹冰、衝鬆雪，和秋田犬一起玩耍！"
@@ -98,6 +129,10 @@ sources:
     url: "http://www.aniski.jp"
   - label: "Weathernews 阿仁"
     url: "https://weathernews.jp/ski/spot/33208/"
+  - label: "Ani Ski Area Slope Guide"
+    url: "https://www.aniski.jp/slope"
+    note: "提供雪道名稱、難度、長度、坡度與高低差資訊。"
+
 ---
 
-阿仁位於秋田縣，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合親子同行或想用輕鬆節奏累積滑行經驗的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。
+阿仁位於秋田縣北秋田市，以ゴンドラ串接山頂與山麓，初級者也能利用長距離林間路線體驗山頂滑行。整體雪道數不多，但パラダイスコース最長 3,500m，適合想慢慢練習轉彎與速度控制的人。

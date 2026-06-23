@@ -50,12 +50,64 @@ elevation:
   bottom: 140
   verticalDrop: 520
 courses:
-  total: 9
-  beginnerRatio: 30
-  intermediateRatio: 40
-  advancedRatio: 30
-  courseInfoPage: "https://weathernews.jp/ski/spot/31502/"
-  summary: "朝里川溫泉共有 9 條雪道，難度比例約初級 30%、中級 40%、進階 30%，適合依雪況與同行者程度安排滑行路線。"
+  total: 10
+  beginnerRatio: 20
+  intermediateRatio: 30
+  advancedRatio: 50
+  courseInfoPage: "https://asari-ski.com/"
+  summary: "朝里川温泉的官方坡面介紹列出初級 2、中級 3、上級 5 個滑行區段，包含 Green C、Purple、Yellow、Red A、Red B、Orange、Tree Run Zone 等不同坡度與長度的路線。"
+  details:
+    - name: "パープルコース"
+      difficulty: beginner
+      length: "900m"
+      maxSlope: "18度"
+      averageSlope: "8度"
+      note: "初級路線，距離 900m，平均斜度較緩。"
+    - name: "グリーンCコース"
+      difficulty: beginner
+      length: "2,700m"
+      maxSlope: "24度"
+      averageSlope: "14度"
+      note: "初級長距離路線，距離 2,700m，坡度數值比一般緩斜面更有變化。"
+    - name: "イエローコース"
+      difficulty: intermediate
+      length: "1,200m"
+      maxSlope: "22度"
+      averageSlope: "14度"
+      note: "中級路線，距離 1,200m。"
+    - name: "グリーンBコース"
+      difficulty: intermediate
+      length: "1,100m"
+      maxSlope: "25度"
+      averageSlope: "13度"
+      note: "中級路線，最大斜度 25 度。"
+    - name: "レッドAコース"
+      difficulty: intermediate
+      length: "700m"
+      maxSlope: "25度"
+      averageSlope: "13度"
+      note: "中級路線，距離 700m。"
+    - name: "グリーンAコース"
+      difficulty: advanced
+      length: "1,000m"
+      maxSlope: "36度"
+      averageSlope: "15度"
+      note: "上級路線，最大斜度 36 度，是坡度數值較高的滑行線。"
+    - name: "ブルーコース"
+      difficulty: advanced
+      length: "1,200m"
+      maxSlope: "32度"
+      averageSlope: "18度"
+      note: "上級路線，平均斜度約 18 度。"
+    - name: "レッドBコース"
+      difficulty: advanced
+      note: "上級路線，官方坡面介紹列於上級者向け區域。"
+    - name: "オレンジコース"
+      difficulty: advanced
+      note: "上級路線，官方坡面介紹列於上級者向け區域。"
+    - name: "ツリーランゾーン"
+      difficulty: ungroomed
+      note: "官方列於上級者向け區域，屬於樹林滑行區域，需依現場開放狀況使用。"
 lifts:
   total: 5
 access:
@@ -76,10 +128,10 @@ access:
     snowTireRequired: true
     note: "自駕參考：自駕：朝里ICから一般道(3km) (5分)。停車場：800台 / 平日 免費 / 假日 免費。冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
-  beginner: "初級比例約 30%，可作為暖身、親子同行或初訪時的主要安排。"
-  intermediate: "中級比例約 40%，適合已能穩定轉彎的滑雪者串接主要雪道。"
-  advanced: "進階比例約 30%，建議視當日積雪與壓雪狀況選擇。"
-  snowboard: "全面可；單板實際可滑區域仍以現場開放為準。"
+  beginner: "初級線包含 Purple 與 Green C，其中 Green C 距離較長。"
+  intermediate: "Yellow、Green B、Red A 提供中級者練習坡度與距離變化。"
+  advanced: "Green A、Blue、Red B、Orange 與 Tree Run Zone 組成上級區域。"
+  snowboard: "雪板可滑；Tree Run Zone 需依現場開放狀況使用。"
 externalContent:
   blogs: []
   vlogs: []
@@ -90,4 +142,4 @@ sources:
     url: "https://weathernews.jp/ski/spot/31502/"
 ---
 
-朝里川溫泉位於北海道，夜滑讓白天之外多一層雪場表情，短天數旅程也能拉出不同節奏。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合想把滑雪後的泡湯、在地停留與雪國慢節奏放進同一天的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。
+朝里川温泉位於北海道小樽市，雪道從長距離初級線到最大斜度 36 度的上級線都有。中級線集中在 Yellow、Green B、Red A，上級區另有 Tree Run Zone，適合想在小樽近郊練習不同坡度的人。

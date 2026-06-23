@@ -64,8 +64,13 @@ elevation:
   bottom: 800
 courses:
   total: 1
+  courseInfoPage: "https://www.qkamura.or.jp/myoukou/"
   summary: "共 1 條雪道、1 座纜車，初級 100%。"
   beginnerRatio: 100
+  details:
+    - name: "初級路線"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
 lifts:
   total: 1
 access:

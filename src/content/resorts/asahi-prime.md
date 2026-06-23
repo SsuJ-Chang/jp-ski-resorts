@@ -70,9 +70,19 @@ elevation:
 courses:
   total: 2
   beginnerRatio: 50
-  intermediateRatio: 35
-  advancedRatio: 15
-  summary: "共 2 條雪道、2 座纜車，初級 50%、中級 35%、高級 15%。"
+  intermediateRatio: 50
+  advancedRatio: 0
+  courseInfoPage: "https://asahivalley.jp/"
+  summary: "あさひプライム由 2 個坡面構成：ファミリーゲレンデ為平均斜度約 7 度的寬緩坡，スペシャルゲレンデ則約 13 度，定位為練習小回轉與 SAJ 2 級目標者使用。"
+  details:
+    - name: "ファミリーゲレンデ"
+      difficulty: beginner
+      averageSlope: "7度"
+      note: "寬度較大的緩斜面，坡度柔和，適合初學者與家庭練習。"
+    - name: "スペシャルゲレンデ"
+      difficulty: intermediate
+      averageSlope: "13度"
+      note: "比ファミリーゲレンデ更有坡度，定位為小回轉練習與 SAJ 2 級目標者使用。"
 lifts:
   total: 2
 access:
@@ -90,10 +100,10 @@ access:
     snowTireRequired: true
     note: "自駕可參考官方路線：中央道長野線塩尻北・塩尻ICから (30分)；冬季需準備雪胎或防滑鏈。停車資訊：280台、平日  免費、假日  免費。"
 terrainSummary:
-  beginner: "初級雪道約 50%，可安排暖身、基礎練習或親子滑行。"
-  intermediate: "中級雪道約 35%，適合穩定滑行與轉彎練習。"
-  advanced: "高級雪道約 15%，可安排較有坡度與速度感的滑行。"
-  snowboard: "全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。"
+  beginner: "ファミリーゲレンデ平均斜度約 7 度，作為主要初級練習坡。"
+  intermediate: "スペシャルゲレンデ平均斜度約 13 度，可練習較明確的轉彎節奏。"
+  advanced: "官方坡面介紹未列獨立上級雪道。"
+  snowboard: "雪板可滑；實際可滑區域仍以現場開放為準。"
 sources:
   -
     label: "Asahi Prime Ski Area Official Website"
@@ -103,4 +113,4 @@ sources:
     url: "https://weathernews.jp/ski/spot/34890/"
 ---
 
-Asahi Prime位於長野縣，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合親子同行或想用輕鬆節奏累積滑行經驗的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。
+あさひプライム位於長野縣，以兩個坡面構成小型練習雪場。ファミリーゲレンデ寬緩，適合基礎練習；スペシャルゲレンデ坡度較明顯，能練習小回轉與更穩定的轉彎控制。

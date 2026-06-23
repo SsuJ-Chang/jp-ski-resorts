@@ -18,6 +18,7 @@ links:
   official: "https://www.akanroyalvalley.jp/"
   facebook: "https://www.facebook.com/akanroyalvalley"
   instagram: "https://www.instagram.com/akanroyalvalley/"
+  trailMapPage: "https://www.akanroyalvalley.jp/%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3"
   weather: "https://weathernews.jp/ski/spot/31902/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=43.105590,144.133653"
   access: "https://www.akanroyalvalley.jp/"
@@ -51,10 +52,19 @@ elevation:
 courses:
   total: 2
   beginnerRatio: 50
-  intermediateRatio: 50
-  advancedRatio: 0
-  courseInfoPage: "https://weathernews.jp/ski/spot/31902/"
-  summary: "阿寒 Royal Valley共有 2 條雪道，難度比例約初級 50%、中級 50%、進階 0%，適合依雪況與同行者程度安排滑行路線。"
+  intermediateRatio: 0
+  advancedRatio: 50
+  courseInfoPage: "https://www.akanroyalvalley.jp/%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3"
+  summary: "阿寒 Royal Valley 以 1 座纜車串接 2 條路線，初級・中級者コース寬度較大、最長滑走約 700m；另一條上級者コース為不整地，最大斜度約 30 度，旁邊另有免費そりエリア。"
+  details:
+    - name: "初級・中級者コース"
+      difficulty: mixed
+      length: "700m"
+      note: "寬度較大的初級到中級者取向路線，可從山頂滑到山麓；初次練習者也可從中腹往山麓滑行。"
+    - name: "上級者コース"
+      difficulty: advanced
+      maxSlope: "30度"
+      note: "不整地的上級者路線；全場最大斜度約 30 度。"
 lifts:
   total: 1
 access:
@@ -69,9 +79,9 @@ access:
     snowTireRequired: true
     note: "停車場：50台 / 平日 免費 / 假日 免費。冬季山路需準備雪胎或雪鏈。"
 terrainSummary:
-  beginner: "初級比例約 50%，可作為暖身、親子同行或初訪時的主要安排。"
-  intermediate: "中級比例約 50%，適合已能穩定轉彎的滑雪者串接主要雪道。"
-  advanced: "進階比例約 0%，建議視當日積雪與壓雪狀況選擇。"
+  beginner: "初級・中級者コース寬度較大，可從山頂或中腹往山麓滑行。"
+  intermediate: "同一條初級・中級者コース也適合已能穩定轉彎者練習長一點的滑行節奏。"
+  advanced: "上級者コース為不整地，最大斜度約 30 度。"
   snowboard: "全面可；單板實際可滑區域仍以現場開放為準。"
 externalContent:
   blogs: []
@@ -79,8 +89,12 @@ externalContent:
 sources:
   - label: "Akan Royal Valley Ski Area Official Website"
     url: "https://www.akanroyalvalley.jp/"
+    note: "提供雪場與設施基本資訊。"
+  - label: "Akan Royal Valley Snow Activity"
+    url: "https://www.akanroyalvalley.jp/%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3"
+    note: "提供雪道類型、最長滑走距離、最大斜度、標高差與そりエリア資訊。"
   - label: "Weathernews 阿寒ロイヤルバレイスキー場"
     url: "https://weathernews.jp/ski/spot/31902/"
 ---
 
-阿寒 Royal Valley位於北海道，滑行之外還能安排泡湯，讓一天節奏從雪面延伸到放鬆停留。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合不只想滑雪，也想把身體放鬆與地方氛圍一起安排的人。
+阿寒 Royal Valley 位於北海道釧路市阿寒町，1 座纜車連結寬闊的初中級路線與不整地上級路線。最長滑走約 700m、最大斜度約 30 度，規模小但坡面分明，適合短時間練習與親子雪地活動。

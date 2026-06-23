@@ -67,9 +67,17 @@ elevation:
   bottom: 317
 courses:
   total: 2
+  courseInfoPage: "https://www.ninox.co.jp"
   summary: "共 2 條雪道、2 座纜車，初級 65%、中級 35%。"
   beginnerRatio: 65
   intermediateRatio: 35
+  details:
+    - name: "初級路線"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
 lifts:
   total: 2
 access:

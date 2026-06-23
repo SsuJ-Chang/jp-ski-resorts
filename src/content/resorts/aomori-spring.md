@@ -48,12 +48,73 @@ elevation:
   bottom: 396
   verticalDrop: 525
 courses:
-  total: 22
-  beginnerRatio: 55
-  intermediateRatio: 35
-  advancedRatio: 10
-  courseInfoPage: "https://weathernews.jp/ski/spot/33103/"
-  summary: "青森 Spring 共有 22 條雪道與 5 座纜車，標高約 396-921m；初級 55%、中級 35%、進階 10%，雪板可全區滑行。"
+  total: 15
+  beginnerRatio: 53
+  intermediateRatio: 27
+  advancedRatio: 20
+  courseInfoPage: "https://aomorispringski.com/ko/ski"
+  summary: "青森 Spring 的官方雪道表列出初級到上級共 15 個滑行區段，初級路線集中在山麓與銜接線，中級路線包含 Aspen、Paradise、Wave Connector，上級路線則以 Twister、Diamond、Corkscrew 為主。"
+  details:
+    - name: "Panorama Course"
+      difficulty: beginner
+      length: "600m"
+      note: "初級路線，位於山麓側，適合作為暖身與基礎轉彎練習。"
+    - name: "Main Line, Skyline"
+      difficulty: beginner
+      length: "2,980m"
+      note: "初級長距離線，連接較高處與山麓區域。"
+    - name: "Sunshine Course"
+      difficulty: beginner
+      length: "2,000m"
+      note: "初級路線，距離較長，適合穩定練習節奏。"
+    - name: "Family Course"
+      difficulty: beginner
+      length: "1,000m"
+      note: "初級路線，名稱與定位偏家庭、練習取向。"
+    - name: "Link Course"
+      difficulty: beginner
+      length: "340m"
+      note: "短距離初級連絡線。"
+    - name: "Slender Course"
+      difficulty: beginner
+      length: "2,000m"
+      note: "初級路線，距離較長，可用來銜接山區滑行。"
+    - name: "Twister Connector (Family Connector)"
+      difficulty: beginner
+      length: "400m"
+      note: "初級連絡線，銜接 Twister 與 Family 周邊區域。"
+    - name: "Family Connector"
+      difficulty: beginner
+      length: "1,220m"
+      note: "初級連絡線，提供 Family 周邊的移動動線。"
+    - name: "Aspen Course"
+      difficulty: intermediate
+      length: "1,320m"
+      note: "中級路線，距離超過 1,000m，適合已能穩定轉彎者練習。"
+    - name: "Aspen Connector"
+      difficulty: intermediate
+      length: "480m"
+      note: "中級連絡線，銜接 Aspen 周邊路線。"
+    - name: "Paradise Course"
+      difficulty: intermediate
+      length: "1,000m"
+      note: "中級路線，距離 1,000m。"
+    - name: "Wave Connector"
+      difficulty: intermediate
+      length: "2,100m"
+      note: "中級連絡線，距離較長，適合串接山區動線。"
+    - name: "Twister Course"
+      difficulty: advanced
+      length: "1,100m"
+      note: "上級路線，距離 1,100m。"
+    - name: "Diamond Course"
+      difficulty: advanced
+      length: "3,400m"
+      note: "上級長距離路線，距離 3,400m，是官方表列最長的上級線。"
+    - name: "Corkscrew Course"
+      difficulty: advanced
+      length: "200m"
+      note: "短距離上級路線。"
 lifts:
   total: 5
 access:
@@ -70,10 +131,10 @@ access:
     snowTireRequired: true
     note: "自駕可由東北自動車道大鰐弘前 IC 轉一般道路約 37km 前往。停車場約 2,000 台，平日與假日免費；冬季需準備雪胎或雪鏈。"
 terrainSummary:
-  beginner: "初級比例約 55%，在青森縣內屬於路線選擇較多的初級友善雪場。"
-  intermediate: "中級比例約 35%，適合安排多條雪道巡航。"
-  advanced: "進階比例約 10%，進階路線比例不高，可作為整體滑行中的變化。"
-  snowboard: "雪板可全區滑行。"
+  beginner: "初級路線數量多，包含山麓練習線與多條長距離連絡線。"
+  intermediate: "中級線以 Aspen、Paradise 與 Wave Connector 為主，可串接山區路線。"
+  advanced: "Twister、Diamond、Corkscrew 提供上級滑行選項，其中 Diamond 距離最長。"
+  snowboard: "雪板可滑；長距離路線多，建議先確認連絡線動線。"
 externalContent:
   blogs: []
   vlogs: []
@@ -82,6 +143,10 @@ sources:
     url: "https://aomorispringski.com"
   - label: "Weathernews 青森スプリング・スキーリゾート"
     url: "https://weathernews.jp/ski/spot/33103/"
+  - label: "Aomori Spring Ski Trails"
+    url: "https://aomorispringski.com/ko/ski"
+    note: "提供雪道名稱、難度與長度資訊。"
+
 ---
 
-青森 Spring位於青森縣，不是追求壯觀規模，而是用安定坡面累積滑行手感與雪國記憶。比起匆忙踩點，更適合用半天到一天熟悉雪面、坡感與山景；適合同行者玩法不同時，依各自節奏安排滑行的人。整體適合放慢節奏，從雪面觸感、山景與停留氛圍中感受差異。
+青森 Spring 位於青森縣鯵ヶ沢町，雪道由山麓初級練習線、長距離連絡線與上級滑行線組成。初級路線選擇多，Diamond 等上級線則提供更長距離的挑戰，適合想在同一雪場逐步升級的人。

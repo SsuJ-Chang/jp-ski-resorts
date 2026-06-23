@@ -73,7 +73,15 @@ courses:
   beginnerRatio: 60
   intermediateRatio: 20
   advancedRatio: 20
+  courseInfoPage: "http://fujimikogen-resort.jp/"
   summary: "共 2 條雪道、4 座纜車，初級 60%、中級 20%、高級 20%。"
+  details:
+    - name: "初級路線"
+      difficulty: beginner
+      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "中級路線"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
 lifts:
   total: 4
 access:

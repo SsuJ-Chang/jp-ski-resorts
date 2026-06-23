@@ -45,7 +45,12 @@ elevation:
   verticalDrop: 5
 courses:
   total: 1
+  courseInfoPage: "https://www.hkcenter.co.jp/"
   summary: "Hiruzen★雪橇★Paradise!! 公開資料列為 1 個雪上遊樂區，無纜車資料，性質偏親子雪橇與雪地遊玩，不是一般滑走型雪場。"
+  details:
+    - name: "雪道"
+      difficulty: mixed
+      note: "目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。"
 lifts:
   total: 0
 access:

@@ -49,6 +49,13 @@ courses:
   advancedRatio: 40
   courseInfoPage: "https://weathernews.jp/ski/spot/33303/"
   summary: "八幡平市田山共有 2 條雪道與 2 座纜車，標高約 315-585m；初級 20%、中級 40%、進階 40%，雪板可全區滑行。"
+  details:
+    - name: "中級路線"
+      difficulty: intermediate
+      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+    - name: "上級路線"
+      difficulty: advanced
+      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
 lifts:
   total: 2
 access:

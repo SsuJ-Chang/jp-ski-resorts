@@ -15,6 +15,7 @@ visibility:
   note: "岩手縣雪場清單補新增的靜態初版；以官方網站與公開雪場資料整理。"
 links:
   official: "https://tono-sks.com/akabane-snowpark/"
+  ticket: "https://tono-sks.com/akabane-snowpark/"
   weather: "https://weathernews.jp/ski/spot/33323/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=Akabane%20Ski%20Area%20Tono"
 contact:
@@ -30,6 +31,26 @@ season:
   nightSkiingHours: "17:00-20:45（平日）"
   note: "營業期間與時間為公開雪場資料；夜滑與營業日可能依積雪狀況調整，請以官方最新公告為準。"
   source: "https://weathernews.jp/ski/spot/33323/"
+tickets:
+  season: "2025-2026"
+  currency: "JPY"
+  source: "https://tono-sks.com/akabane-snowpark/"
+  note: "未就學兒可免費使用纜車。"
+  plans:
+    - name: "1 回券"
+      price: "¥60"
+    - name: "12 回券"
+      price: "¥600"
+    - name: "午前券"
+      price: "¥800"
+    - name: "午後券"
+      price: "¥800"
+    - name: "1 日券"
+      price: "¥1,400"
+    - name: "ナイター券"
+      price: "¥1,000"
+    - name: "シーズン券"
+      price: "¥10,500"
 snowWeather:
   title: "赤羽根雪況天氣"
   provider: "Weathernews"
@@ -47,22 +68,33 @@ elevation:
   verticalDrop: 115
 courses:
   total: 3
-  beginnerRatio: 70
-  intermediateRatio: 30
-  advancedRatio: 0
-  courseInfoPage: "https://weathernews.jp/ski/spot/33323/"
-  summary: "赤羽根共有 3 條雪道與 2 座纜車，標高約 535-650m；初級 70%、中級 30%，雪板可全區滑行。"
+  beginnerRatio: 34
+  intermediateRatio: 33
+  advancedRatio: 33
+  courseInfoPage: "https://tonojikan.jp/tourism/akabane-snowpark/"
+  summary: "赤羽根是 3 條路線的小型雪場，包含初中級取向的銀河スロープ、穿過林間的カモシカコース，以及最大斜度 30 度的カベコース；旁邊另有ちびっこ広場可玩雪橇。"
+  details:
+    - name: "銀河スロープ"
+      difficulty: beginner
+      note: "主要開闊坡面，定位為初級到中級者取向的練習路線。"
+    - name: "カモシカコース"
+      difficulty: intermediate
+      note: "穿過林間的路線，滑行感與開闊坡面不同。"
+    - name: "カベコース"
+      difficulty: advanced
+      maxSlope: "30度"
+      note: "上級者取向路線，最大斜度約 30 度。"
 lifts:
-  total: 2
+  total: 3
 access:
   car:
     recommended: true
     snowTireRequired: true
     note: "自駕可從遠野市區經國道 340 號約 30 分，或由新仙人峠道路遠野住田 IC 往住田方向、赤羽根峠入口後約 5 分。停車場約 150 台，平日與假日免費；冬季需準備雪胎或雪鏈。"
 terrainSummary:
-  beginner: "初級比例約 70%，是岩手縣內偏初級練習取向的小型雪場。"
-  intermediate: "中級比例約 30%，可在短距離雪場中增加坡度變化。"
-  advanced: "公開資料未列進階雪道比例。"
+  beginner: "銀河スロープ偏初級到中級者取向，適合作為主要練習坡面。"
+  intermediate: "カモシカコース穿過林間，能在小型雪場中增加路線變化。"
+  advanced: "カベコース為上級者取向路線，最大斜度約 30 度。"
   snowboard: "雪板可全區滑行，並有平日夜滑時段。"
 externalContent:
   blogs: []
@@ -70,8 +102,12 @@ externalContent:
 sources:
   - label: "Akabane Snow Park Official Website"
     url: "https://tono-sks.com/akabane-snowpark/"
+    note: "提供營業時間、ゲレンデ、纜車、票價、租借與交通資訊。"
+  - label: "Tono Tourism Akabane Snow Park"
+    url: "https://tonojikan.jp/tourism/akabane-snowpark/"
+    note: "提供銀河スロープ、カモシカコース、カベコース與最大斜度資訊。"
   - label: "Weathernews 赤羽根スキー場"
     url: "https://weathernews.jp/ski/spot/33323/"
 ---
 
-赤羽根位於岩手縣，夜滑讓白天之外多一層雪場表情，短天數旅程也能拉出不同節奏。節奏不必排得太滿，反而能慢慢感受雪面、空氣與山景變化；適合想用白天與夜晚兩種節奏感受雪場的人。滑行之外，也能把雪景、休息與地方氛圍一起留下來。
+赤羽根位於岩手縣遠野市，是 3 條路線的小型雪場。銀河スロープ偏初中級練習，カモシカコース帶有林間變化，カベコース則提供最大 30 度的短坡挑戰；平日夜滑讓練習時間更彈性。

@@ -60,6 +60,10 @@ courses:
   total: 1
   courseInfoPage: "https://azou-forest-park.com/facility#leisure"
   summary: "安藏公園是鳥取市河內的地方型小型雪場，公開資料列為 1 條雪道與 2 條纜車，營業日多受積雪與週末假日條件影響。"
+  details:
+    - name: "雪道"
+      difficulty: mixed
+      note: "目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。"
 lifts:
   total: 2
 access:
