@@ -13,10 +13,10 @@ const { resortsUrl } = Astro.props
       name="q"
       type="search"
       autocomplete="off"
-      placeholder="??皛?游?蝔?
-      aria-label="??皛?游?蝔?
+      placeholder="搜尋滑雪場名稱"
+      aria-label="搜尋滑雪場名稱"
     />
-    <button class="site-search__submit" type="submit" aria-label="????">
+    <button class="site-search__submit" type="submit" aria-label="送出搜尋">
       <svg viewBox="0 0 24 24" aria-hidden="true">
         <path d="M5 12h12m-5-5 5 5-5 5" />
       </svg>
@@ -25,7 +25,7 @@ const { resortsUrl } = Astro.props
   <button
     class="site-search__toggle"
     type="button"
-    aria-label="????"
+    aria-label="開啟搜尋"
     aria-expanded="false"
     aria-controls="site-search-input"
   >
@@ -47,7 +47,7 @@ const { resortsUrl } = Astro.props
       toggle?.addEventListener('click', () => {
         const isOpen = form.classList.toggle('site-search--open')
         toggle.setAttribute('aria-expanded', String(isOpen))
-        toggle.setAttribute('aria-label', isOpen ? '?嗅???' : '????')
+        toggle.setAttribute('aria-label', isOpen ? '收起搜尋' : '開啟搜尋')
 
         if (isOpen) {
           input?.focus()
