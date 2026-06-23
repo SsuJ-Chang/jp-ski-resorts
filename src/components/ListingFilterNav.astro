@@ -34,8 +34,8 @@ const allHref = withBasePath(normalizedBasePath)
 const filterMenus: FilterMenu[] = [
   {
     key: 'prefecture',
-    allLabel: '全部縣別',
-    title: '選擇縣別',
+    allLabel: '?券蝮?',
+    title: '?豢?蝮?',
     options: prefectureStats.map((prefecture) => ({
       value: prefecture.key,
       label: prefecture.name.zhTw,
@@ -44,8 +44,8 @@ const filterMenus: FilterMenu[] = [
   },
   {
     key: 'tag',
-    allLabel: '全部標籤',
-    title: '選擇標籤',
+    allLabel: '?券璅惜',
+    title: '?豢?璅惜',
     options: tagStats.map((tag) => ({
       value: tag.key,
       label: tag.label,
@@ -58,7 +58,7 @@ const showToolbar = filterMenus.length > 0 || showIndexLink
 ---
 
 {showToolbar && (
-  <section class="listing-toolbar" aria-label="列表篩選" data-listing-filter data-filter-base-path={allHref}>
+  <section class="listing-toolbar" aria-label="?”蝭拚" data-listing-filter data-filter-base-path={allHref}>
     {filterMenus.map((menu) => (
       <details class="filter-menu" data-filter-menu data-filter-param={menu.key}>
         <summary class="filter-menu__button">
@@ -95,18 +95,27 @@ const showToolbar = filterMenus.length > 0 || showIndexLink
 
           <div class="filter-menu__footer">
             <button type="button" class="button-link" data-filter-clear data-filter-param={menu.key}>
-              清除
+              皜
             </button>
-            <button type="submit" class="button-primary">套用</button>
+            <button type="submit" class="button-primary">憟</button>
           </div>
         </form>
       </details>
     ))}
 
-    {showIndexLink && <a class="listing-toolbar__link" href={withBasePath('/prefectures/')}>縣別索引</a>}
+    {showIndexLink && <a class="listing-toolbar__link" href={withBasePath('/prefectures/')}>蝮?蝝Ｗ?</a>}
   </section>
 )}
 
 <script>
-  import '../scripts/listingFilterNav.ts'
+  const initListingFilterNav = async () => {
+    const { default: initializeListingFilterNav } = await import('../scripts/listingFilterNav.ts')
+    initializeListingFilterNav()
+  }
+
+  if (document.readyState === 'complete') {
+    initListingFilterNav()
+  } else {
+    window.addEventListener('load', initListingFilterNav, { once: true })
+  }
 </script>

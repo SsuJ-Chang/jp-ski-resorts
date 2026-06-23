@@ -5,17 +5,31 @@ const gaMeasurementId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID || 'G-6GXP0Y6TP
 {
   import.meta.env.PROD && gaMeasurementId && (
     <>
-      <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${gaMeasurementId}`}></script>
       <script is:inline define:vars={{ gaMeasurementId }}>
-        window.dataLayer = window.dataLayer || [];
-        window.gtag = function gtag() {
-          window.dataLayer.push(arguments);
-        };
-        const gaDebugParams = new URLSearchParams(window.location.search);
-        const gaDebugMode = gaDebugParams.get('ga_debug') === '1' || gaDebugParams.get('debug_mode') === 'true';
+        const startGoogleAnalytics = () => {
+          // GA 不是首屏必需，所以等頁面載完再載入，減少初始網路與 JS 壓力。
+          const script = document.createElement('script')
+          script.async = true
+          script.src = `https://www.googletagmanager.com/gtag/js?id=${gaMeasurementId}`
+          document.head.appendChild(script)
 
-        window.gtag('js', new Date());
-        window.gtag('config', gaMeasurementId, gaDebugMode ? { debug_mode: true } : {});
+          window.dataLayer = window.dataLayer || []
+          window.gtag = function gtag() {
+            window.dataLayer.push(arguments)
+          }
+          const gaDebugParams = new URLSearchParams(window.location.search)
+          const gaDebugMode =
+            gaDebugParams.get('ga_debug') === '1' || gaDebugParams.get('debug_mode') === 'true'
+
+          window.gtag('js', new Date())
+          window.gtag('config', gaMeasurementId, gaDebugMode ? { debug_mode: true } : {})
+        }
+
+        if (document.readyState === 'complete') {
+          startGoogleAnalytics()
+        } else {
+          window.addEventListener('load', startGoogleAnalytics, { once: true })
+        }
       </script>
     </>
   )

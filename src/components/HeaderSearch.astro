@@ -13,10 +13,10 @@ const { resortsUrl } = Astro.props
       name="q"
       type="search"
       autocomplete="off"
-      placeholder="搜尋滑雪場名稱"
-      aria-label="搜尋滑雪場名稱"
+      placeholder="??皛?游?蝔?
+      aria-label="??皛?游?蝔?
     />
-    <button class="site-search__submit" type="submit" aria-label="開始搜尋">
+    <button class="site-search__submit" type="submit" aria-label="????">
       <svg viewBox="0 0 24 24" aria-hidden="true">
         <path d="M5 12h12m-5-5 5 5-5 5" />
       </svg>
@@ -25,7 +25,7 @@ const { resortsUrl } = Astro.props
   <button
     class="site-search__toggle"
     type="button"
-    aria-label="開啟搜尋"
+    aria-label="????"
     aria-expanded="false"
     aria-controls="site-search-input"
   >
@@ -37,39 +37,47 @@ const { resortsUrl } = Astro.props
 </form>
 
 <script>
-  for (const searchForm of document.querySelectorAll('[data-site-search]')) {
-    const form = searchForm as HTMLFormElement
-    const input = form.querySelector('input[type="search"]') as HTMLInputElement | null
-    const toggle = form.querySelector('.site-search__toggle') as HTMLButtonElement | null
-    const resortsUrl = form.dataset.resortsUrl ?? '/resorts/'
+  const initHeaderSearch = () => {
+    for (const searchForm of document.querySelectorAll('[data-site-search]')) {
+      const form = searchForm as HTMLFormElement
+      const input = form.querySelector('input[type="search"]') as HTMLInputElement | null
+      const toggle = form.querySelector('.site-search__toggle') as HTMLButtonElement | null
+      const resortsUrl = form.dataset.resortsUrl ?? '/resorts/'
 
-    toggle?.addEventListener('click', () => {
-      const isOpen = form.classList.toggle('site-search--open')
-      toggle.setAttribute('aria-expanded', String(isOpen))
-      toggle.setAttribute('aria-label', isOpen ? '收合搜尋' : '開啟搜尋')
+      toggle?.addEventListener('click', () => {
+        const isOpen = form.classList.toggle('site-search--open')
+        toggle.setAttribute('aria-expanded', String(isOpen))
+        toggle.setAttribute('aria-label', isOpen ? '?嗅???' : '????')
 
-      if (isOpen) {
-        input?.focus()
-        return
-      }
+        if (isOpen) {
+          input?.focus()
+          return
+        }
 
-      if (input) input.value = ''
-    })
+        if (input) input.value = ''
+      })
 
-    input?.addEventListener('keydown', (event) => {
-      if (event.key !== 'Enter') return
+      input?.addEventListener('keydown', (event) => {
+        if (event.key !== 'Enter') return
 
-      event.preventDefault()
-      form.requestSubmit()
-    })
+        event.preventDefault()
+        form.requestSubmit()
+      })
 
-    form.addEventListener('submit', (event) => {
-      event.preventDefault()
+      form.addEventListener('submit', (event) => {
+        event.preventDefault()
 
-      const query = input?.value.trim() ?? ''
-      if (input) input.value = ''
+        const query = input?.value.trim() ?? ''
+        if (input) input.value = ''
 
-      window.location.assign(query ? `${resortsUrl}?q=${encodeURIComponent(query)}` : resortsUrl)
-    })
+        window.location.assign(query ? `${resortsUrl}?q=${encodeURIComponent(query)}` : resortsUrl)
+      })
+    }
+  }
+
+  if (document.readyState === 'complete') {
+    initHeaderSearch()
+  } else {
+    window.addEventListener('load', initHeaderSearch, { once: true })
   }
 </script>

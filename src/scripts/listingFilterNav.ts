@@ -157,6 +157,10 @@ const initListingFilter = (block: HTMLElement) => {
   })
 }
 
-for (const block of document.querySelectorAll<HTMLElement>('[data-listing-filter]')) {
-  initListingFilter(block)
+const initializeListingFilterNav = () => {
+  for (const block of document.querySelectorAll<HTMLElement>('[data-listing-filter]')) {
+    initListingFilter(block)
+  }
 }
+
+export default initializeListingFilterNav

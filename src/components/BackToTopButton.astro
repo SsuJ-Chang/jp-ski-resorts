@@ -2,17 +2,18 @@
   class="back-to-top-button"
   type="button"
   data-back-to-top
-  aria-label="回到頁面頂端"
+  aria-label="???垢"
   aria-hidden="true"
   tabindex="-1"
 >
-  ↑
-</button>
+  ??</button>
 
 <script>
-  const backToTopButton = document.querySelector<HTMLButtonElement>('[data-back-to-top]')
+  const initBackToTopButton = () => {
+    const backToTopButton = document.querySelector<HTMLButtonElement>('[data-back-to-top]')
 
-  if (backToTopButton) {
+    if (!backToTopButton) return
+
     const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)')
     let isTicking = false
 
@@ -51,5 +52,11 @@
     window.addEventListener('scroll', requestUpdate, { passive: true })
     window.addEventListener('resize', requestUpdate)
     updateButtonState()
+  }
+
+  if (document.readyState === 'complete') {
+    initBackToTopButton()
+  } else {
+    window.addEventListener('load', initBackToTopButton, { once: true })
   }
 </script>
