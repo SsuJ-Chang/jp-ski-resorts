@@ -112,6 +112,9 @@ externalContent:
     - title: "探秘旭川便宜小雪場 Canmore Ski Village（キャンモアスキービレッジ）with 教練帶我飛"
       url: https://www.youtube.com/watch?v=8jPJySbYFNs
       note: "大林滑雪男子"
+    - title: "「日本自駕滑雪Vlog」 ~旭川機場周邊迷你雪場Canmore&富良野超熱門居酒屋Robeta"
+      url: https://www.youtube.com/watch?v=Ufp6jeaEZfE
+      note: "艾維斯52赫茲"
 sources:
   - label: "Canmore Ski Village Official Website"
     url: "https://www.canmore-ski.jp"

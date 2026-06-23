@@ -106,6 +106,12 @@ sources:
     url: "http://jxj.co.jp"
   - label: "Weathernews 黒伏高原スノーパーク　ジャングル・ジャングル"
     url: "https://weathernews.jp/ski/spot/33514/"
+externalContent:
+  blogs: []
+  vlogs:
+    - title: "日本自駕滑雪Vlog~意外發現的好雪場，黑伏高原滑雪場"
+      url: https://www.youtube.com/watch?v=6LmA6Peja8s
+      note: "艾維斯52赫茲"
 ---
 
 黑伏高原 Snow Park Jungle Jungle位於山形縣，以5 條雪道構成小型雪場，搭配 3 座纜車。初級、中級與上級路線都有配置，描述聚焦在雪道規模與難度結構；標籤上偏向親子同行、夜滑。

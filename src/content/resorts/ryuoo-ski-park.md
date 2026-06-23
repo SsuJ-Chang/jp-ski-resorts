@@ -155,6 +155,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
+    - title: "日本自駕滑雪Vlog3~竜王滑雪場北志賀粉雪天堂，開箱T Hotel 超狂ski in&out 房內露天風呂"
+      url: https://www.youtube.com/watch?v=vYoFK98FAHI
+      note: "艾維斯52赫茲"
     - title: "竜王スキーパーク　ツリーランエリアついに開放！ 全エリア徹底解説！"
       url: https://www.youtube.com/watch?v=6IYNdq0Hy14
       note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"

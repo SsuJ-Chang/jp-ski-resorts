@@ -99,7 +99,10 @@ terrainSummary:
   snowboard: "全面可 / コース外の滑走禁止；單板實際可滑區域仍以現場開放為準。"
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+    - title: "日本自駕滑雪Vlog 4~ 擁有巨大樹冰群+粉雪的滑雪場～Liza World ,日本公路道之驛有多好買？"
+      url: https://www.youtube.com/watch?v=du11n7dYD_0
+      note: "艾維斯52赫茲"
 sources:
   - label: "Zao Liza World Official Website"
     url: "http://www.zaoliza.co.jp/wntr/"

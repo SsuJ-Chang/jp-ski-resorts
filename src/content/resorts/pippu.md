@@ -174,6 +174,9 @@ externalContent:
     - title: "🏂 Toe Side 總是卡住、轉不順？學會這招「麥可·傑克森（Michael Jackson）頂胯法」讓滑行瞬間變流暢！🏔️ Snowboarding in PIPPU 比布滑雪 EP01"
       url: https://www.youtube.com/watch?v=9Fsv4M0jQRQ
       note: "大林滑雪男子"
+    - title: "日本自駕滑雪Vlog ~北海道旭川周邊小雪場，比布滑雪場體驗"
+      url: https://www.youtube.com/watch?v=gS-q9_kizhw
+      note: "艾維斯52赫茲"
 sources:
 - label: Pippu Ski Resort Official Website
   url: https://www.town.pippu.hokkaido.jp/ski/top.html
