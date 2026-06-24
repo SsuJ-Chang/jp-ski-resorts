@@ -575,7 +575,7 @@ h1 {
 
 .thanks-hero {
   max-width: 780px;
-  padding: clamp(28px, 5vw, 56px) 0 8px;
+  padding: 8px 0 0;
 }
 
 .thanks-title {
@@ -593,7 +593,7 @@ h1 {
 
 .privacy-hero {
   max-width: 800px;
-  padding: clamp(28px, 5vw, 56px) 0 8px;
+  padding: 8px 0 0;
 }
 
 .privacy-hero p:not(.eyebrow) {
