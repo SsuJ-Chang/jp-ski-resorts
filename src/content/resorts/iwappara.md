@@ -108,6 +108,7 @@ courses:
       note: 寬達 200m 的平緩主坡，整備重點是寬、平、好滑；可接續ビギナーコース與フロントコース，形成超過 1,000m 的連續滑行。
       videoLinks:
         - https://www.youtube.com/watch?v=-dYOYpQU_6Y&t=628s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=72s
     - name: 2 グランドバーン
       difficulty: beginner
       length: 650m
@@ -116,6 +117,7 @@ courses:
       note: 中腹入口附近的平緩雪道，坡面起伏少；夜滑時可看到山下街燈與高速道路燈光。
       videoLinks:
         - https://www.youtube.com/watch?v=-dYOYpQU_6Y&t=646s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=1752s
     - name: 3 ワイドバーン
       difficulty: beginner
       length: 1,200m
@@ -124,6 +126,8 @@ courses:
       note: 岩原最平緩、最寬廣的雪道之一，最小斜度約 6°，整備方向偏向讓初學者穩定練習。
       videoLinks:
         - https://www.youtube.com/watch?v=-dYOYpQU_6Y&t=278s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=229s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=1319s
     - name: 4 スマイルコース
       difficulty: beginner
       length: 800m
@@ -132,9 +136,13 @@ courses:
       note: 障礙物少、視野開闊的緩坡，屬於稍有自信的初級者也能練習的柔和整雪路線。
       videoLinks:
         - https://www.youtube.com/watch?v=-dYOYpQU_6Y&t=310s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=1319s
     - name: 8 ビギナーコース
       difficulty: beginner
       length: 150m
+      videoLinks:
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=417s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=1422s
       maxSlope: 18°
       averageSlope: 12°
       note: 寬廣緩坡，可與山頂起點的 16、20、3、8、10 串接，形成約 4,000m 的初級者連續滑行路線。
@@ -146,6 +154,7 @@ courses:
       note: 從カフェ・スノーマンズ旁出發，前段較平緩，後段會與フロントコース、レーサーズコース合流，需注意交會人流。
       videoLinks:
         - https://www.youtube.com/watch?v=-dYOYpQU_6Y&t=385s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=1422s
     - name: 16 クルーズコース
       difficulty: beginner
       length: 1,600m
@@ -155,6 +164,8 @@ courses:
       videoLinks:
         - https://www.youtube.com/watch?v=-dYOYpQU_6Y&t=95s
         - https://www.youtube.com/watch?v=-dYOYpQU_6Y&t=444s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=966s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=1490s
     - name: 18 ロマンスコース
       difficulty: beginner
       length: 650m
@@ -164,6 +175,8 @@ courses:
     - name: 19 ファインスノーバーン
       difficulty: beginner
       length: 650m
+      videoLinks:
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=1206s
       maxSlope: 18°
       averageSlope: 13°
       note: 東向坡面，視野寬且起伏柔和，整備偏柔軟，定位為讓初級者也能主動享受雪質的雪道。
@@ -175,9 +188,12 @@ courses:
       note: 以大型拱形動線連接奥添地與主雪場，坡度很緩，常作為銜接ワイドバーン前的放鬆滑行。
       videoLinks:
         - https://www.youtube.com/watch?v=-dYOYpQU_6Y&t=227s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=1206s
     - name: 5 ウエストコース
       difficulty: intermediate
       length: 650m
+      videoLinks:
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=1752s
       maxSlope: 23°
       averageSlope: 14°
       note: 位於雪場西側，坡面平順且寬，屬於中級者練習轉彎與速度控制的中斜面，也可欣賞夕照景色。
@@ -190,6 +206,8 @@ courses:
     - name: 7 パノラマコース
       difficulty: intermediate
       length: 220m
+      videoLinks:
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=546s
       maxSlope: 18°
       averageSlope: 12°
       note: 起滑段較平緩，能俯瞰度假公寓群；後段與フロントコース合流，坡度變化時要留意速度。
@@ -202,9 +220,14 @@ courses:
       videoLinks:
         - https://www.youtube.com/watch?v=-dYOYpQU_6Y&t=409s
         - https://www.youtube.com/watch?v=-dYOYpQU_6Y&t=721s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=417s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=546s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=1422s
     - name: 13 スカイコース
       difficulty: intermediate
       length: 1,400m
+      videoLinks:
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=703s
       maxSlope: 25°
       averageSlope: 18°
       note: 從山頂繞行、視野開闊的中級路線，可看到飯士山與魚沼平野方向景色。
@@ -236,6 +259,8 @@ courses:
       note: 起點寬度窄，整雪狀態下仍需要精準技術；新雪累積時可變成深粉雪路線。
       videoLinks:
         - https://www.youtube.com/watch?v=-dYOYpQU_6Y&t=528s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=1490s
+        - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=1610s
     - name: 17 ナチュラルコース
       difficulty: intermediate
       length: 650m
@@ -286,5 +311,4 @@ sources:
 - label: Echigo Yuzawa Tourism Iwappara Ski Resort
   url: https://www.e-yuzawa.gr.jp/sys/ski_p/iwappara_ski_resort/
 ---
-
 岩原位在新潟縣，滑行區由20 條雪道，搭配 9 座纜車構成。1 メインバーン、2 グランドバーン、3 ワイドバーン 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
