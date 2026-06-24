@@ -1,3 +1,34 @@
+import type { RegionKey } from './regions'
+
+export type SkiAreaExternalContentLink = {
+  title: string
+  url: string
+  note?: string
+}
+
+export type SkiAreaExternalContent = {
+  blogs?: readonly SkiAreaExternalContentLink[]
+  vlogs?: readonly SkiAreaExternalContentLink[]
+}
+
+type SkiAreaDefinition = {
+  key: string
+  type: 'cluster' | 'destination'
+  name: {
+    zhTw: string
+    ja: string
+    en: string
+  }
+  region: RegionKey
+  prefecture: string
+  baseTown?: string
+  accessHub?: string
+  summary: string
+  traits: readonly string[]
+  featuredResorts: readonly string[]
+  externalContent?: SkiAreaExternalContent
+}
+
 export const skiAreas = {
   yuzawa: {
     key: 'yuzawa',
@@ -255,7 +286,7 @@ export const skiAreas = {
       'white-valley-minakami',
     ],
   },
-} as const
+} as const satisfies Record<string, SkiAreaDefinition>
 
 export const skiAreaKeys = [
   'niseko',
@@ -277,7 +308,7 @@ export const skiAreaKeys = [
 
 export type SkiAreaKey = (typeof skiAreaKeys)[number]
 
-export type SkiArea = (typeof skiAreas)[SkiAreaKey]
+export type SkiArea = SkiAreaDefinition
 
 export const publishedSkiAreaKeys = [
   'yuzawa',

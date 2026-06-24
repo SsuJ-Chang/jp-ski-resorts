@@ -37,6 +37,7 @@
 | `lifts` | 否 | object | 纜車數量。現階段畫面尚未顯示。 |
 | `access` | 否 | object | 從主要城市或機場前往的交通摘要。 |
 | `terrainSummary` | 否 | object | 不同程度與滑行需求的地形摘要。 |
+| `editorial` | 否 | object | 站長補充的編輯註記，例如 RJ 感想。 |
 | `externalContent` | 否 | object | 外部遊記與影片連結。 |
 | `sources` | 是 | array | 資料來源。 |
 
@@ -357,6 +358,18 @@ mixed
 | `advanced` | 否 | string | 進階者適合度。 |
 | `snowboard` | 否 | string | 單板適合度。 |
 | `powder` | 否 | string | 粉雪適合度。 |
+
+## `editorial`
+
+| 欄位 | 必填 | 型別 | 說明 |
+|---|---:|---|---|
+| `rjOpinion` | 否 | string | 顯示在雪場頁「概要」卡片正文下方的 RJ 個人感想。 |
+
+建議寫法：
+
+- 使用 1-3 句的第一人稱或整理後觀察都可以，但要保持簡潔。
+- 內容偏向個人滑行感受、適合族群或補充提醒，不要重複官方基本資料。
+- 這個欄位不顯示標題，前端會用接近 Markdown `>` 的引用樣式呈現。
 
 ## `externalContent`
 

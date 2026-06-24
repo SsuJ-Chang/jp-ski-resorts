@@ -218,6 +218,8 @@ terrainSummary:
   advanced: 進階者可挑戰陡坡、非壓雪區與高海拔路線。
   snowboard: 單板玩家可利用寬雪道、地形變化與公園區。
   powder: 降雪後部分區域有粉雪與非壓雪體驗。
+editorial:
+  rjOpinion: 如果是第一次安排這個雪場，我會把它當成行程中的重點站，原因是雪道辨識清楚、滑行節奏好抓，也比較容易和周邊行程一起安排。
 externalContent:
   blogs:
     - title: 範例滑雪場遊記：交通、住宿與雪道心得

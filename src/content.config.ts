@@ -121,6 +121,15 @@ const accessRouteSchema = z.object({
     .optional(),
 })
 
+const editorialSchema = z.object({
+  rjOpinion: z.string().optional(),
+})
+
+const externalContentSchema = z.object({
+  blogs: z.array(namedLinkSchema).optional(),
+  vlogs: z.array(namedLinkSchema).optional(),
+})
+
 const resorts = defineCollection({
   loader: glob({ base: './src/content/resorts', pattern: '**/*.{md,mdx}' }),
   schema: z.object({
@@ -239,12 +248,8 @@ const resorts = defineCollection({
         powder: z.string().optional(),
       })
       .optional(),
-    externalContent: z
-      .object({
-        blogs: z.array(namedLinkSchema).optional(),
-        vlogs: z.array(namedLinkSchema).optional(),
-      })
-      .optional(),
+    editorial: editorialSchema.optional(),
+    externalContent: externalContentSchema.optional(),
     sources: z.array(sourceSchema).min(1),
   }),
 })

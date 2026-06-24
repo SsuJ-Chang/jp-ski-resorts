@@ -28,6 +28,7 @@ const skiArea =
 const hasExternalContent =
   (resort.data.externalContent?.blogs?.length ?? 0) > 0 ||
   (resort.data.externalContent?.vlogs?.length ?? 0) > 0
+const hasRjOpinion = Boolean(resort.data.editorial?.rjOpinion?.trim())
 
 type OfficialLinkIcon = 'website' | 'facebook' | 'instagram' | 'threads' | 'xTwitter'
 
@@ -315,6 +316,11 @@ const resortStructuredData = [
         <div class="content-body">
           <Content />
         </div>
+        {hasRjOpinion && (
+          <blockquote class="rj-opinion">
+            <p>{resort.data.editorial?.rjOpinion}</p>
+          </blockquote>
+        )}
       </article>
 
       {

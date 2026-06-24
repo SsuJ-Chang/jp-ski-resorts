@@ -1400,6 +1400,18 @@ h1 {
   margin: 0;
 }
 
+.rj-opinion {
+  margin: 18px 0 0;
+  padding: 0 0 0 16px;
+  border-left: 3px solid rgba(29, 93, 100, 0.28);
+  color: #425552;
+}
+
+.rj-opinion p {
+  margin: 0;
+  line-height: 1.75;
+}
+
 .link-list {
   display: grid;
   gap: 10px;
