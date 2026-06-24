@@ -76,120 +76,120 @@ courses:
     - name: "プラチナベル"
       difficulty: beginner
       length: "650m"
-      averageSlope: "4deg"
+      averageSlope: "4°"
     - name: "シルバーベル"
       difficulty: beginner
       length: "3,300m"
-      averageSlope: "4deg"
+      averageSlope: "4°"
     - name: "クネクネフォレスト"
       difficulty: beginner
       length: "1,400m"
-      averageSlope: "8deg"
+      averageSlope: "8°"
     - name: "ビギナースチョイス"
       difficulty: beginner
       length: "900m"
-      averageSlope: "5deg"
+      averageSlope: "5°"
     - name: "ロードトゥゴンドラ"
       difficulty: beginner
       length: "520m"
-      averageSlope: "8deg"
+      averageSlope: "8°"
     - name: "サンシャイン"
       difficulty: beginner
       length: "1,600m"
-      averageSlope: "13deg"
+      averageSlope: "13°"
     - name: "ハローニポ"
       difficulty: beginner
       length: "710m"
-      averageSlope: "7deg"
+      averageSlope: "7°"
     - name: "森の迷路"
       difficulty: beginner
       length: "250m"
-      averageSlope: "4deg"
+      averageSlope: "4°"
     - name: "ホタルストリート"
       difficulty: beginner
       length: "250m"
-      averageSlope: "7deg"
+      averageSlope: "7°"
     - name: "フェアリーウッズ"
       difficulty: beginner
       length: "710m"
-      averageSlope: "9deg"
+      averageSlope: "9°"
     - name: "パインロード"
       difficulty: beginner
       length: "220m"
-      averageSlope: "6deg"
+      averageSlope: "6°"
     - name: "ドラゴンリッジ"
       difficulty: intermediate
       length: "840m"
-      averageSlope: "20deg"
+      averageSlope: "20°"
     - name: "ショートストーリー"
       difficulty: intermediate
       length: "150m"
-      averageSlope: "15deg"
+      averageSlope: "15°"
     - name: "シルキーウェイ"
       difficulty: intermediate
       length: "510m"
-      averageSlope: "15deg"
+      averageSlope: "15°"
     - name: "パノラマリッジ"
       difficulty: intermediate
       length: "790m"
-      averageSlope: "10deg"
+      averageSlope: "10°"
     - name: "アスペンバーン"
       difficulty: intermediate
       length: "370m"
-      averageSlope: "15deg"
+      averageSlope: "15°"
     - name: "ナスターコース"
       difficulty: intermediate
       length: "850m"
-      averageSlope: "12deg"
+      averageSlope: "12°"
     - name: "エキシビジョン"
       difficulty: intermediate
       length: "1,500m"
-      averageSlope: "18deg"
+      averageSlope: "18°"
     - name: "ハイウェイコースター"
       difficulty: intermediate
       length: "1,450m"
-      averageSlope: "18deg"
+      averageSlope: "18°"
     - name: "ジェミニ"
       difficulty: intermediate
       length: "540m"
-      averageSlope: "15deg"
+      averageSlope: "15°"
     - name: "ヴィーナス"
       difficulty: intermediate
       length: "540m"
-      averageSlope: "15deg"
+      averageSlope: "15°"
     - name: "ムーンシャイン"
       difficulty: intermediate
       length: "130m"
-      averageSlope: "18deg"
+      averageSlope: "18°"
     - name: "ナチュラルテレイン"
       difficulty: intermediate
       length: "480m"
-      averageSlope: "15deg"
+      averageSlope: "15°"
     - name: "バードウォッチャー（アカゲラの森）"
       difficulty: intermediate
       length: "160m"
-      averageSlope: "12deg"
+      averageSlope: "12°"
     - name: "グローリー"
       difficulty: advanced
       length: "520m"
-      averageSlope: "20deg"
+      averageSlope: "20°"
     - name: "ノーグラビティ"
       difficulty: advanced
       length: "770m"
-      maxSlope: "35deg"
-      averageSlope: "26deg"
+      maxSlope: "35°"
+      averageSlope: "26°"
     - name: "ノーススター"
       difficulty: advanced
       length: "500m"
-      averageSlope: "22deg"
+      averageSlope: "22°"
     - name: "グランプリZ"
       difficulty: advanced
       length: "450m"
-      averageSlope: "21deg"
+      averageSlope: "21°"
     - name: "フリーウェイ"
       difficulty: advanced
       length: "400m"
-      averageSlope: "16deg"
+      averageSlope: "16°"
 lifts:
   total: 6
 access:

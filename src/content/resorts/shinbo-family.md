@@ -59,8 +59,8 @@ courses:
   details:
     - name: "新保ファミリーゲレンデ"
       difficulty: beginner
-      maxSlope: "20deg"
-      averageSlope: "8deg"
+      maxSlope: "20°"
+      averageSlope: "8°"
       note: "平均斜度約 8 度的緩斜面，適合初學者與兒童練習。"
 lifts:
   total: 1

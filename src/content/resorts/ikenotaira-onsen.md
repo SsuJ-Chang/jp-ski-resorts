@@ -91,16 +91,16 @@ courses:
   - name: やまばと林間コース / Yamabato Forest Course
     difficulty: beginner
     length: 1,300m
-    averageSlope: 16deg
-    maxSlope: 20deg
+    averageSlope: 16°
+    maxSlope: 20°
     note: 官方列為初級林間雪道；官方資料列出全長 1,300m、平均 16 度、最大 20 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=345s
   - name: カラマツコース / Karamatsu Course
     difficulty: beginner
     length: 900m
-    averageSlope: 19deg
-    maxSlope: 21deg
+    averageSlope: 19°
+    maxSlope: 21°
     note: 官方列為初級路線；官方資料列出全長 900m、平均 19 度、最大 21 度。影片章節中前後各出現一次。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=953s
@@ -108,108 +108,108 @@ courses:
   - name: ワイドロングランコース / Wide Long Run Course
     difficulty: beginner
     length: 1,100m
-    averageSlope: 18deg
-    maxSlope: 20deg
+    averageSlope: 18°
+    maxSlope: 20°
     note: 官方列為初級路線；官方資料列出全長 1,100m、平均 18 度、最大 20 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=1745s
   - name: カヤバコース / Kayaba Course
     difficulty: intermediate
     length: 900m
-    averageSlope: 18deg
-    maxSlope: 20deg
+    averageSlope: 18°
+    maxSlope: 20°
     note: 官方列為中級路線，並標示為閉鎖中；官方資料列出全長 900m、平均 18 度、最大 20 度。
   - name: レイクビューコース / Lake View Course
     difficulty: intermediate
     length: 900m
-    averageSlope: 20deg
-    maxSlope: 24deg
+    averageSlope: 20°
+    maxSlope: 24°
     note: 官方列為中級路線；官方資料列出全長 900m、平均 20 度、最大 24 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=1621s
   - name: やまばとコース / Yamabato Course
     difficulty: intermediate
     length: 500m
-    averageSlope: 20deg
-    maxSlope: 23deg
+    averageSlope: 20°
+    maxSlope: 23°
     note: 官方列為中級路線；官方資料列出全長 500m、平均 20 度、最大 23 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=232s
   - name: クワッドコース / Quad Course
     difficulty: intermediate
     length: 1,420m
-    averageSlope: 23deg
-    maxSlope: 26deg
+    averageSlope: 23°
+    maxSlope: 26°
     note: 官方列為中級路線；官方資料列出全長 1,420m、平均 23 度、最大 26 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=197s
   - name: 頂（イタダキ） / Itadaki Course
     difficulty: advanced
     length: 200m
-    averageSlope: 24deg
-    maxSlope: 27deg
+    averageSlope: 24°
+    maxSlope: 27°
     note: 官方列為上級路線；官方資料列出全長 200m、平均 24 度、最大 27 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=125s
   - name: ヤッホーコース / Yahho Course
     difficulty: intermediate
     length: 1,200m
-    averageSlope: 20deg
-    maxSlope: 25deg
+    averageSlope: 20°
+    maxSlope: 25°
     note: 官方列為中級路線；官方資料列出全長 1,200m、平均 20 度、最大 25 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=439s
   - name: クワッドツリーランコース / Quad Tree Run Course
     difficulty: intermediate
     length: 300m
-    averageSlope: 22deg
-    maxSlope: 24deg
+    averageSlope: 22°
+    maxSlope: 24°
     note: 官方列為中級樹林滑行路線；官方資料列出全長 300m、平均 22 度、最大 24 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=1501s
   - name: ガッシュタイナーコース / Gasteiner Course
     difficulty: intermediate
     length: 1,800m
-    averageSlope: 20deg
-    maxSlope: 26deg
+    averageSlope: 20°
+    maxSlope: 26°
     note: 官方列為中級路線；官方資料列出全長 1,800m、平均 20 度、最大 26 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=713s
   - name: サイドツリーコース / Side Tree Course
     difficulty: intermediate
     length: 250m
-    averageSlope: 23deg
-    maxSlope: 27deg
+    averageSlope: 23°
+    maxSlope: 27°
     note: 官方列為中級樹林滑行路線；官方資料列出全長 250m、平均 23 度、最大 27 度。
   - name: アルペンダイナミック / Alpine Dynamic Course
     difficulty: advanced
     length: 250m
-    averageSlope: 25deg
-    maxSlope: 29deg
+    averageSlope: 25°
+    maxSlope: 29°
     note: 官方列為上級路線；官方資料列出全長 250m、平均 25 度、最大 29 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=597s
   - name: ハッピーゲレンデ / Happy Slope
     difficulty: beginner
     length: 1,400m
-    averageSlope: 8deg
-    maxSlope: 21deg
+    averageSlope: 8°
+    maxSlope: 21°
     note: 官方列為初級雪道；官方資料列出全長 1,400m、平均 8 度、最大 21 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=878s
   - name: ドリームコース / Dream Course
     difficulty: beginner
     length: 1,100m
-    averageSlope: 7deg
-    maxSlope: 11deg
+    averageSlope: 7°
+    maxSlope: 11°
     note: 官方列為初級路線；官方資料列出全長 1,100m、平均 7 度、最大 11 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=622s
   - name: カナメゲレンデ / Kaname Slope
     difficulty: advanced
     length: 470m
-    averageSlope: 23deg
-    maxSlope: 26deg
+    averageSlope: 23°
+    maxSlope: 26°
     note: 官方列為上級雪道；官方資料列出全長 470m、平均 23 度、最大 26 度。
     videoLinks:
       - https://www.youtube.com/watch?v=KEAamblTuXo&t=1333s

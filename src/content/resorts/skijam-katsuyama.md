@@ -63,69 +63,69 @@ courses:
     - name: "林道コース"
       difficulty: beginner
       length: "3,000m"
-      averageSlope: "4deg"
+      averageSlope: "4°"
     - name: "ドリーミーコース"
       difficulty: beginner
       length: "430m"
-      averageSlope: "4deg"
+      averageSlope: "4°"
     - name: "バラエティコース"
       difficulty: mixed
       length: "1,670m"
-      averageSlope: "12deg"
+      averageSlope: "12°"
     - name: "ファンタジーAコース"
       difficulty: mixed
       length: "1,620m"
-      averageSlope: "11deg"
+      averageSlope: "11°"
     - name: "ファンタジーBコース"
       difficulty: mixed
       length: "1,330m"
-      averageSlope: "11deg"
+      averageSlope: "11°"
     - name: "ストリームBコース"
       difficulty: mixed
       length: "600m"
-      averageSlope: "11deg"
+      averageSlope: "11°"
     - name: "ファンタジーアクセスコース"
       difficulty: mixed
       length: "830m"
-      averageSlope: "7deg"
+      averageSlope: "7°"
     - name: "イリュージョンAコース"
       difficulty: intermediate
       length: "1,230m"
-      averageSlope: "15deg"
+      averageSlope: "15°"
     - name: "ストリームAコース"
       difficulty: intermediate
       length: "1,170m"
-      averageSlope: "14deg"
+      averageSlope: "14°"
     - name: "ストリームCコース"
       difficulty: intermediate
       length: "680m"
-      averageSlope: "13deg"
+      averageSlope: "13°"
     - name: "イリュージョンBコース"
       difficulty: mixed
       length: "750m"
-      maxSlope: "30deg"
-      averageSlope: "19deg"
+      maxSlope: "30°"
+      averageSlope: "19°"
     - name: "エクストリームコース"
       difficulty: advanced
       length: "380m"
-      maxSlope: "37deg"
-      averageSlope: "20deg"
+      maxSlope: "37°"
+      averageSlope: "20°"
     - name: "ツリーランコースA"
       difficulty: advanced
       length: "620m"
-      averageSlope: "15deg"
+      averageSlope: "15°"
     - name: "ツリーランコースB"
       difficulty: advanced
       length: "830m"
-      averageSlope: "18deg"
+      averageSlope: "18°"
     - name: "ツリーランコースC"
       difficulty: advanced
       length: "300m"
-      averageSlope: "11deg"
+      averageSlope: "11°"
     - name: "ツリーランD"
       difficulty: advanced
       length: "400m"
-      averageSlope: "16deg"
+      averageSlope: "16°"
 lifts:
   total: 8
 access:

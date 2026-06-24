@@ -81,20 +81,20 @@ courses:
     - name: "リーゼンファミリー林間コース"
       difficulty: beginner
       length: "1,000m"
-      averageSlope: "8deg"
+      averageSlope: "8°"
     - name: "ホテル前ゲレンデ"
       difficulty: beginner
       length: "120m"
       videoLinks:
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=2994s
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=3176s
-      averageSlope: "14deg"
+      averageSlope: "14°"
     - name: "ファミリー林間コース"
       difficulty: beginner
       length: "6,000m"
       videoLinks:
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=561s
-      averageSlope: "7deg"
+      averageSlope: "7°"
     - name: "当間第5ゲレンデ迂回コース"
       difficulty: beginner
       videoLinks:
@@ -104,40 +104,40 @@ courses:
       length: "600m"
       videoLinks:
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=125s
-      averageSlope: "10deg"
+      averageSlope: "10°"
     - name: "長峰第2ゲレンデ"
       difficulty: mixed
       length: "600m"
       videoLinks:
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=125s
-      averageSlope: "12deg"
+      averageSlope: "12°"
     - name: "長峰第3ゲレンデ"
       difficulty: mixed
       length: "600m"
       videoLinks:
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=125s
-      averageSlope: "15deg"
+      averageSlope: "15°"
     - name: "パノラマ第1ゲレンデ"
       difficulty: mixed
       length: "600m"
       videoLinks:
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1052s
-      averageSlope: "7deg"
+      averageSlope: "7°"
     - name: "当間第1ゲレンデ"
       difficulty: mixed
       length: "1,000m"
-      averageSlope: "10deg"
+      averageSlope: "10°"
     - name: "当間第2ゲレンデ"
       difficulty: mixed
       length: "1,000m"
-      averageSlope: "11deg"
+      averageSlope: "11°"
     - name: "当間第4ゲレンデ迂回コース"
       difficulty: mixed
       videoLinks:
         - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1165s
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=2338s
       length: "760m"
-      averageSlope: "11deg"
+      averageSlope: "11°"
     - name: "当間第5ゲレンデ"
       difficulty: mixed
       videoLinks:
@@ -145,7 +145,7 @@ courses:
         - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1867s
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1993s
       length: "600m"
-      averageSlope: "12deg"
+      averageSlope: "12°"
     - name: "大別当ゲレンデ迂回コース"
       difficulty: intermediate
     - name: "美奈第2ゲレンデ"
@@ -158,7 +158,7 @@ courses:
         - https://www.youtube.com/watch?v=HcL98r4G-_8&t=2165s
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1663s
       length: "1,000m"
-      averageSlope: "15deg"
+      averageSlope: "15°"
     - name: "パノラマ第3ゲレンデ尾根コース"
       difficulty: intermediate
       videoLinks:
@@ -171,36 +171,36 @@ courses:
         - https://www.youtube.com/watch?v=HcL98r4G-_8&t=914s
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=2108s
       length: "2,000m"
-      averageSlope: "12deg"
+      averageSlope: "12°"
     - name: "大沢ジャイアントコース"
       difficulty: mixed
       length: "1,200m"
-      averageSlope: "15deg"
+      averageSlope: "15°"
     - name: "美奈第1ゲレンデ"
       difficulty: mixed
       length: "1,000m"
       videoLinks:
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=388s
-      averageSlope: "16deg"
+      averageSlope: "16°"
     - name: "パノラマ第2ゲレンデ"
       difficulty: mixed
       videoLinks:
         - https://www.youtube.com/watch?v=HcL98r4G-_8&t=428s
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1265s
       length: "1,000m"
-      averageSlope: "12deg"
+      averageSlope: "12°"
     - name: "当間第4ゲレンデ中コース"
       difficulty: mixed
       videoLinks:
         - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1450s
         - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=2108s
       length: "980m"
-      averageSlope: "12deg"
+      averageSlope: "12°"
     - name: "大別当チャンピオンコース"
       difficulty: advanced
       length: "700m"
-      maxSlope: "38deg"
-      averageSlope: "20deg"
+      maxSlope: "38°"
+      averageSlope: "20°"
 access:
   fromTokyo:
   - label: 東京出發

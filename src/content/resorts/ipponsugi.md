@@ -71,7 +71,7 @@ courses:
     - name: "一本杉ゲレンデ"
       difficulty: beginner
       length: "60m"
-      maxSlope: "12deg"
+      maxSlope: "12°"
       note: "緩斜面中心的小型練習坡，適合初次滑行與雪上遊戲。"
 access:
   fromTokyo:

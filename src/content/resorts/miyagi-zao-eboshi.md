@@ -80,7 +80,7 @@ courses:
     - name: "チャレンジコース"
       difficulty: advanced
       length: "700m"
-      maxSlope: "35deg"
+      maxSlope: "35°"
     - name: "ネイチャーパーク"
       difficulty: ungroomed
       length: "650m"

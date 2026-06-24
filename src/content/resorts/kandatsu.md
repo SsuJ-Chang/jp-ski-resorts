@@ -223,7 +223,10 @@ externalContent:
     - title: "越後湯澤「神立高原滑雪場」車站免費接駁、女生纜車票優惠、夜滑直到凌晨!"
       url: https://natasha-traveler.tw/kandatsu-snow-resort/
       note: "娜塔蝦的滑雪食旅手記，2025-03-23"
-  vlogs: []
+  vlogs:
+    - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
+      url: https://www.youtube.com/watch?v=ft3WpoC95rU
+      note: "MIRU tube JAPAN 【Route Guide】"
 sources:
 - label: Kandatsu Official Website
   url: https://www.kandatsu.com/

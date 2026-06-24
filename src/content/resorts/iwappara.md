@@ -296,7 +296,10 @@ externalContent:
     - title: "岩原滑雪場攻略2026，雪道平緩、滑雪新手練功首選！岩原滑雪場特色、交通、票價、美食介紹"
       url: https://natasha-traveler.tw/iwappara-ski/
       note: "娜塔蝦的滑雪食旅手記，2025-12-20"
-  vlogs: []
+  vlogs:
+    - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
+      url: https://www.youtube.com/watch?v=ft3WpoC95rU
+      note: "MIRU tube JAPAN 【Route Guide】"
 sources:
 - label: Iwappara Ski Resort Official Website
   url: https://iwa-ppara.com/

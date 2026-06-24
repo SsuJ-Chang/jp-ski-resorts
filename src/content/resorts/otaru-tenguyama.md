@@ -73,28 +73,28 @@ courses:
     - name: "A ファミリーコース"
       difficulty: beginner
       length: "400m"
-      maxSlope: "16deg"
-      averageSlope: "11deg"
+      maxSlope: "16°"
+      averageSlope: "11°"
     - name: "B ロングラインコース"
       difficulty: intermediate
       length: "1,247m"
-      maxSlope: "23deg"
-      averageSlope: "13deg"
+      maxSlope: "23°"
+      averageSlope: "13°"
     - name: "C バンビコース"
       difficulty: intermediate
       length: "270m"
-      maxSlope: "22deg"
-      averageSlope: "19deg"
+      maxSlope: "22°"
+      averageSlope: "19°"
     - name: "D 旧コース"
       difficulty: advanced
       length: "947m"
-      maxSlope: "38deg"
-      averageSlope: "17deg"
+      maxSlope: "38°"
+      averageSlope: "17°"
     - name: "E 新コース"
       difficulty: advanced
       length: "963m"
-      maxSlope: "40deg"
-      averageSlope: "19deg"
+      maxSlope: "40°"
+      averageSlope: "19°"
 lifts:
   total: 1
 access:

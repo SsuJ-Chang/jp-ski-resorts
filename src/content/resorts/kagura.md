@@ -352,7 +352,10 @@ externalContent:
     - title: "日本苗場滑雪記行：Dragondola龍纜車、神樂滑雪場與和田小屋的咖哩飯"
       url: https://natasha-traveler.tw/dragondola/
       note: "娜塔蝦的滑雪食旅手記，2015-09-13"
-  vlogs: []
+  vlogs:
+    - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
+      url: https://www.youtube.com/watch?v=ft3WpoC95rU
+      note: "MIRU tube JAPAN 【Route Guide】"
 sources:
 - label: Kagura Official Website
   url: https://www.princehotels.co.jp/ski/kagura/winter/

@@ -79,7 +79,7 @@ courses:
     - name: "スマイルコース"
       difficulty: beginner
       length: "1,010m"
-      averageSlope: "9deg"
+      averageSlope: "9°"
     - name: "キャノピーコース"
       difficulty: beginner
       length: "750m"
@@ -92,7 +92,7 @@ courses:
     - name: "フォレストコース"
       difficulty: beginner
       length: "300m"
-      averageSlope: "9deg"
+      averageSlope: "9°"
     - name: "第6ゲレンデ"
       difficulty: beginner
     - name: "第6イベントコース"
@@ -118,13 +118,13 @@ courses:
     - name: "FWT ZONE"
       difficulty: advanced
       length: "1,170m"
-      maxSlope: "32deg"
-      averageSlope: "25deg"
+      maxSlope: "32°"
+      averageSlope: "25°"
     - name: "エクストリームコース"
       difficulty: advanced
       length: "200m"
-      maxSlope: "31deg"
-      averageSlope: "24deg"
+      maxSlope: "31°"
+      averageSlope: "24°"
 access:
   fromTokyo:
   - label: 東京出發

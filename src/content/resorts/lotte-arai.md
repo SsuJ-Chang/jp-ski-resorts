@@ -78,28 +78,28 @@ courses:
         - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=193s
         - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1983s
       length: "2,300m"
-      averageSlope: "8deg"
+      averageSlope: "8°"
     - name: "タテガミ"
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=7p0ar07fyPc&t=3969s
         - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=2084s
       length: "500m"
-      averageSlope: "12deg"
+      averageSlope: "12°"
     - name: "六本木ロード"
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2928s
         - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=450s
       length: "1,100m"
-      averageSlope: "7deg"
+      averageSlope: "7°"
     - name: "ヴィレッジロード"
       difficulty: beginner
       videoLinks:
         - https://www.youtube.com/watch?v=7p0ar07fyPc&t=434s
         - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=568s
       length: "2,100m"
-      averageSlope: "5deg"
+      averageSlope: "5°"
     - name: "ポニー"
       difficulty: beginner
       videoLinks:
@@ -108,7 +108,7 @@ courses:
         - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=758s
         - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=2227s
       length: "400m"
-      averageSlope: "4deg"
+      averageSlope: "4°"
     - name: "ビーフリー"
       difficulty: intermediate
       videoLinks:
@@ -116,7 +116,7 @@ courses:
         - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1138s
         - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=927s
       length: "1,300m"
-      averageSlope: "18deg"
+      averageSlope: "18°"
     - name: "アンコール"
       difficulty: intermediate
       videoLinks:
@@ -124,7 +124,7 @@ courses:
         - https://www.youtube.com/watch?v=7p0ar07fyPc&t=849s
         - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1083s
       length: "1,400m"
-      averageSlope: "15deg"
+      averageSlope: "15°"
     - name: "ベアバレー"
       difficulty: intermediate
       videoLinks:
@@ -132,7 +132,7 @@ courses:
         - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2283s
         - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1879s
       length: "1,100m"
-      averageSlope: "13deg"
+      averageSlope: "13°"
     - name: "ウマノセ"
       difficulty: intermediate
       videoLinks:
@@ -140,13 +140,13 @@ courses:
         - https://www.youtube.com/watch?v=7p0ar07fyPc&t=4013s
         - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=2118s
       length: "1,460m"
-      averageSlope: "12deg"
+      averageSlope: "12°"
     - name: "サンライズ"
       difficulty: intermediate
       videoLinks:
         - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1775s
       length: "880m"
-      averageSlope: "12deg"
+      averageSlope: "12°"
     - name: "ハッピープレイス"
       difficulty: intermediate
     - name: "ベンザク"
@@ -184,23 +184,23 @@ courses:
       videoLinks:
         - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1550s
       length: "1,360m"
-      averageSlope: "23deg"
+      averageSlope: "23°"
     - name: "エキサイター"
       difficulty: advanced
       videoLinks:
         - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1334s
       length: "1,310m"
-      averageSlope: "21deg"
+      averageSlope: "21°"
     - name: "マムシガエシ"
       difficulty: advanced
       videoLinks:
         - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2739s
       length: "720m"
-      averageSlope: "28deg"
+      averageSlope: "28°"
     - name: "ディスカバリー"
       difficulty: advanced
       length: "650m"
-      averageSlope: "22deg"
+      averageSlope: "22°"
     - name: "オオソト"
       difficulty: ungroomed
 lifts:
