@@ -28,7 +28,7 @@ const {
 } = Astro.props
 const currentYear = new Date().getFullYear()
 const resortListPath = withBasePath('/resorts/')
-const authorHomeUrl = 'https://rj-tw.com/'
+const contactPath = withBasePath('/contact/')
 const siteUrl = Astro.site ?? new URL('https://jp-resorts.rj-tw.com')
 const canonicalUrl = new URL(canonicalPath ?? Astro.url.pathname, siteUrl).toString()
 const siteName = '日本滑雪場指南'
@@ -106,12 +106,10 @@ const socialImageAlt = '日本滑雪場指南'
           <span class="site-footer__divider" aria-hidden="true">・</span>
           <a
             class="site-footer__contact"
-            href={authorHomeUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="前往 RJ 個人首頁聯絡作者，新分頁開啟"
+            href={contactPath}
+            aria-label="前往聯絡作者頁面"
           >
-            聯絡作者 <span class="site-footer__contact-url">rj-tw.com</span>
+            聯絡作者
           </a>
         </p>
       </div>

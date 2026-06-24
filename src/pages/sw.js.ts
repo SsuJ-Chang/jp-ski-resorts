@@ -17,6 +17,7 @@ export const GET: APIRoute = async () => {
     '/resorts/',
     '/prefectures/',
     '/ski-areas/',
+    '/contact/',
     '/privacy/',
     '/thanks/',
     '/robots.txt',
