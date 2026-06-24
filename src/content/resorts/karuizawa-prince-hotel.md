@@ -70,23 +70,32 @@ courses:
       videoLinks:
         - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=0s"
         - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=1012s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=475s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=525s"
     - name: "プリンスゲレンデ / Prince Slope"
       difficulty: "beginner"
       videoLinks:
         - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=0s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=185s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=475s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=603s"
     - name: "トップクルーズ / Top Cruise"
       difficulty: "beginner"
       videoLinks:
         - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=608s"
         - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=1012s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=475s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=650s"
     - name: "フリーバレー / Free Valley"
       difficulty: "beginner"
       videoLinks:
         - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=608s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=1686s"
     - name: "くりの木コース / Kurinoki Course"
       difficulty: "beginner"
       videoLinks:
         - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=1012s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=313s"
     - name: "スカイラインコース / Skyline Course"
       difficulty: "intermediate"
       videoLinks:
@@ -99,18 +108,23 @@ courses:
       difficulty: "intermediate"
       videoLinks:
         - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=247s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=935s"
     - name: "パラレルコース / Parallel Course"
       difficulty: "intermediate"
       videoLinks:
         - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=400s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=1127s"
     - name: "スラロームバーン / Slalom Bahn"
       difficulty: "advanced"
       videoLinks:
         - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=608s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=1640s"
     - name: "アリエスカR・Lコース / Arieska R/L Course"
       difficulty: "advanced"
       videoLinks:
         - "https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=858s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=1496s"
+        - "https://www.youtube.com/watch?v=HETq7UoqHNg&t=1578s"
 lifts:
   total: 8
 access:
@@ -155,6 +169,9 @@ sources:
     label: "Karuizawa Prince Hotel Course Video 2023"
     url: "https://www.youtube.com/watch?v=lo0WjW7zm5Y"
     note: "影片說明欄提供スカイライン、ファミリー、林間、プリンスゲレンデ、パノラマ、パラレル、トップクルーズ、スラロームバーン、フリーバレー、アリエスカR・L、くりの木等雪道章節時間軸，已對應至 courses.details[].videoLinks。"
+  -
+    label: "Karuizawa Prince Hotel Course Video 2024"
+    url: "https://www.youtube.com/watch?v=HETq7UoqHNg"
 ---
 
 長野縣的輕井澤王子大飯店共有14 條雪道，搭配 8 座纜車，包含 ファミリーコース / Family Course、プリンスゲレンデ / Prince Slope、トップクルーズ / Top Cruise 等路線。初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
