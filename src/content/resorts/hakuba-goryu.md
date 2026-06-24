@@ -14,6 +14,8 @@ tags:
 - resort_village
 - snowboard_friendly
 - long_run
+editorial:
+  rjOpinion: 作者 RJ 目前為止最熟的雪場，那肯定是新手友善的！而且能夜滑超棒！ESCAL PLAZA 還有很棒的湯可泡。這裡最大缺點就是雪季人超多以及每年都漲價的雪票...QQ。
 links:
   official: https://www.hakubaescal.com/winter/
   facebook: "https://www.facebook.com/hakubagoryuofficial/"
@@ -268,6 +270,10 @@ access:
     recommended: true
     snowTireRequired: true
     note: "東京方向約 4 小時，可由長野自動車道安曇野 IC 或上信越自動車道長野 IC 方向進入。11 月底至 3 月底官方要求雪胎，停車場禁止夜間停車與車宿。"
+lodgingRecommendations:
+  - title: Pals Inn Raicho パルズイン雷鳥
+    url: https://maps.app.goo.gl/ZdPPZGzfVyyugo957
+    note: 作者 RJ 激推！老闆人超好，價格非常實惠，而且離白馬五龍很近，步行約 15 分鐘，但重點是這裡直接是免費接駁車 G2 的其中一站。務必一定要訂早餐，老闆和老闆娘超用心，每天都是不一樣自己做的早餐，非常好吃。另外這裡還有自己當湯屋，每天滑完雪肯定是要泡湯的吧！
 externalContent:
   blogs:
     - title: "白馬五龍滑雪場2026攻略，滑雪中心與雪道詳細介紹、裝備租借Step on不加價、美食與住宿推薦"

@@ -1412,6 +1412,10 @@ h1 {
   line-height: 1.75;
 }
 
+.rj-opinion--compact {
+  margin-top: 8px;
+}
+
 .link-list {
   display: grid;
   gap: 10px;
@@ -1420,11 +1424,20 @@ h1 {
   list-style: none;
 }
 
+.link-list__item {
+  display: grid;
+  gap: 0;
+}
+
 .link-list a {
   color: #1d5d64;
   font-weight: 800;
   text-decoration-color: rgba(29, 93, 100, 0.28);
   text-underline-offset: 4px;
+}
+
+.link-list--with-notes {
+  gap: 16px;
 }
 
 .fact-list {

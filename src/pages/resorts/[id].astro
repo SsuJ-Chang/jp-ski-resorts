@@ -25,6 +25,7 @@ const skiArea = resort.data.skiArea ? publishedSkiAreas.get(resort.data.skiArea)
 const hasExternalContent =
   (resort.data.externalContent?.blogs?.length ?? 0) > 0 ||
   (resort.data.externalContent?.vlogs?.length ?? 0) > 0
+const hasLodgingRecommendations = (resort.data.lodgingRecommendations?.length ?? 0) > 0
 const hasRjOpinion = Boolean(resort.data.editorial?.rjOpinion?.trim())
 
 type OfficialLinkIcon = 'website' | 'facebook' | 'instagram' | 'threads' | 'xTwitter'
@@ -711,6 +712,35 @@ const resortStructuredData = [
                 </a>
               </p>
             </>
+          </section>
+        )
+      }
+
+      {
+        hasLodgingRecommendations && (
+          <section class="info-panel detail-panel detail-panel--wide external-content-panel">
+            <h2>住宿推薦</h2>
+            <ul class="link-list link-list--with-notes">
+              {resort.data.lodgingRecommendations?.map((lodging) => (
+                <li class="link-list__item">
+                  <a
+                    href={lodging.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    data-analytics-resource="lodging_recommendation"
+                    data-analytics-label={lodging.title}
+                    data-analytics-note={lodging.note}
+                  >
+                    {lodging.title}
+                  </a>
+                  {lodging.note && (
+                    <blockquote class="rj-opinion rj-opinion--compact">
+                      <p>{lodging.note}</p>
+                    </blockquote>
+                  )}
+                </li>
+              ))}
+            </ul>
           </section>
         )
       }

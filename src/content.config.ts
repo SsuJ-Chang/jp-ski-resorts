@@ -125,6 +125,8 @@ const editorialSchema = z.object({
   rjOpinion: z.string().optional(),
 })
 
+const lodgingRecommendationSchema = namedLinkSchema
+
 const externalContentSchema = z.object({
   blogs: z.array(namedLinkSchema).optional(),
   vlogs: z.array(namedLinkSchema).optional(),
@@ -253,6 +255,7 @@ const resorts = defineCollection({
       })
       .optional(),
     editorial: editorialSchema.optional(),
+    lodgingRecommendations: z.array(lodgingRecommendationSchema).optional(),
     externalContent: externalContentSchema.optional(),
     sources: z.array(sourceSchema).min(1),
   }),

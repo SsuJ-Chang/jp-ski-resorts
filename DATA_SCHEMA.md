@@ -38,6 +38,7 @@
 | `access` | 否 | object | 從主要城市或機場前往的交通摘要。 |
 | `terrainSummary` | 否 | object | 不同程度與滑行需求的地形摘要。 |
 | `editorial` | 否 | object | 站長補充的編輯註記，例如 RJ 感想。 |
+| `lodgingRecommendations` | 否 | array | 住宿推薦連結，可附上個人心得備註。 |
 | `externalContent` | 否 | object | 外部遊記與影片連結。 |
 | `sources` | 是 | array | 資料來源。 |
 
@@ -370,6 +371,19 @@ mixed
 - 使用 1-3 句的第一人稱或整理後觀察都可以，但要保持簡潔。
 - 內容偏向個人滑行感受、適合族群或補充提醒，不要重複官方基本資料。
 - 這個欄位不顯示標題，前端會用接近 Markdown `>` 的引用樣式呈現。
+
+## `lodgingRecommendations`
+
+| 欄位 | 必填 | 類型 | 說明 |
+|---|---:|---|---|
+| `title` | 是 | string | 顯示名稱。 |
+| `url` | 是 | URL | 住宿網址，若有 Google Maps 連結也可直接填。 |
+| `note` | 否 | string | 個人心得或補充，頁面會用類似 RJ 感想的引用樣式顯示。 |
+
+使用建議：
+- 只放你真的想推薦的住宿，不要把一般飯店搜尋結果整批塞進來。
+- `note` 可以寫你自己的觀察，例如「走到纜車 5 分鐘」「房間舊但早餐不錯」這種實際感受。
+- 沒資料就整個欄位省略，前端不會顯示該區塊。
 
 ## `externalContent`
 

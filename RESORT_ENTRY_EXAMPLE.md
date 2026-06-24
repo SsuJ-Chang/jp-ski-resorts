@@ -220,6 +220,10 @@ terrainSummary:
   powder: 降雪後部分區域有粉雪與非壓雪體驗。
 editorial:
   rjOpinion: 如果是第一次安排這個雪場，我會把它當成行程中的重點站，原因是雪道辨識清楚、滑行節奏好抓，也比較容易和周邊行程一起安排。
+lodgingRecommendations:
+  - title: 範例住宿：Example Lodge
+    url: https://www.google.com/maps/place/Example+Lodge
+    note: 可寫你自己的住宿心得，頁面會用類似引用的方式顯示。
 externalContent:
   blogs:
     - title: 範例滑雪場遊記：交通、住宿與雪道心得
