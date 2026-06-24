@@ -225,7 +225,7 @@ externalContent:
       note: "娜塔蝦的滑雪食旅手記，2025-03-23"
   vlogs:
     - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
-      url: https://www.youtube.com/watch?v=ft3WpoC95rU
+      url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
       note: "MIRU tube JAPAN 【Route Guide】"
 sources:
 - label: Kandatsu Official Website

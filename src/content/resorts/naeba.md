@@ -296,7 +296,7 @@ externalContent:
       note: "娜塔蝦的滑雪食旅手記，2015-09-13" 
   vlogs:
     - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
-      url: https://www.youtube.com/watch?v=ft3WpoC95rU
+      url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=475s
       note: "MIRU tube JAPAN 【Route Guide】"
     - title: "🏂 搭龍纜前必知！苗場到神樂的這個陷阱會毀掉你的滑雪行程🏔️ Snowboarding in NAEBA EP02 苗場滑雪場"
       url: https://www.youtube.com/watch?v=ez13R50G-eo
