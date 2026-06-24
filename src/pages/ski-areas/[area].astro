@@ -1,17 +1,18 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import SkiAreaPositionMap from '../../components/SkiAreaPositionMap.astro'
-import { publishedSkiAreaKeys, skiAreas } from '../../data/skiAreas'
-import type { SkiArea } from '../../data/skiAreas'
 import { tagLabels } from '../../data/tags'
 import { sortResortsForListing } from '../../utils/resortOrdering'
 import { getPublishedResorts } from '../../utils/resortCatalog'
 import { withBasePath } from '../../utils/paths'
+import { getPublishedSkiAreas, type SkiArea } from '../../utils/skiAreas'
 
-export function getStaticPaths() {
-  return publishedSkiAreaKeys.map((key) => ({
-    params: { area: key },
-    props: { area: skiAreas[key] },
+export async function getStaticPaths() {
+  const areas = await getPublishedSkiAreas()
+
+  return areas.map((area) => ({
+    params: { area: area.key },
+    props: { area },
   }))
 }
 
@@ -21,7 +22,7 @@ const resorts = sortResortsForListing(
   publishedResorts.filter((resort) => resort.data.skiArea === area.key),
 )
 const resortById = new Map(resorts.map((resort) => [resort.id, resort]))
-const featuredResortIds = area.featuredResorts as readonly string[]
+const featuredResortIds = area.featuredResorts
 const featuredResorts = area.featuredResorts
   .map((id) => resortById.get(id))
   .filter((resort): resort is (typeof resorts)[number] => Boolean(resort))
@@ -30,11 +31,19 @@ const orderedResorts = [...featuredResorts, ...otherResorts]
 
 const areaTitle = `${area.name.zhTw}雪場列表`
 const hasExternalContent =
-  (area.externalContent?.blogs?.length ?? 0) > 0 || (area.externalContent?.vlogs?.length ?? 0) > 0
+  (area.externalContent?.blogs?.length ?? 0) > 0 ||
+  (area.externalContent?.vlogs?.length ?? 0) > 0 ||
+  (area.externalContent?.websites?.length ?? 0) > 0
 ---
 
 <BaseLayout title={`${area.name.zhTw}｜日本滑雪場指南`} description={area.summary}>
-  <main class="site-shell page-stack">
+  <main
+    class="site-shell page-stack"
+    data-analytics-view="ski_area"
+    data-ski-area-key={area.key}
+    data-ski-area-region={area.region}
+    data-ski-area-prefecture={area.prefecture}
+  >
     <a class="text-link" href={withBasePath('/ski-areas/')}>返回雪場區域</a>
 
     <section class="ski-area-hero" aria-labelledby="page-title">
@@ -102,6 +111,27 @@ const hasExternalContent =
     {hasExternalContent && (
       <section class="info-panel detail-panel detail-panel--wide external-content-panel">
         <h2>外部參考</h2>
+        {area.externalContent?.websites && area.externalContent.websites.length > 0 && (
+          <>
+            <h3 class="subsection-title">參考網站</h3>
+            <ul class="link-list">
+              {area.externalContent.websites.map((website) => (
+                <li>
+                  <a
+                    href={website.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    data-analytics-resource="reference_site"
+                    data-analytics-label={website.title}
+                    data-analytics-note={website.note}
+                  >
+                    {website.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </>
+        )}
         {area.externalContent?.blogs && area.externalContent.blogs.length > 0 && (
           <>
             <h3 class="subsection-title">部落格</h3>

@@ -2,10 +2,11 @@ import type { APIRoute } from 'astro'
 import { execFileSync } from 'node:child_process'
 import { statSync } from 'node:fs'
 import { regions } from '../data/regions'
-import { publishedSkiAreaKeys } from '../data/skiAreas'
+import { publishedSkiAreaKeys, type PublishedSkiAreaKey } from '../data/skiAreaKeys'
 import { getPrefectureStats } from '../utils/resortBrowse'
 import { type ResortEntry } from '../utils/resorts'
 import { getPublishedResorts } from '../utils/resortCatalog'
+import { getPublishedSkiAreaEntries } from '../utils/skiAreas'
 
 type SitemapEntry = {
   path: string
@@ -27,22 +28,23 @@ const toUrl = (path: string, site: URL) => new URL(path, site).toString()
 const toSitemapLastmod = (date: Date) => date.toISOString().replace(/\.\d{3}Z$/, 'Z')
 
 const resortContentRoot = 'src/content/resorts/'
+const skiAreaContentRoot = 'src/content/ski-areas/'
 const gitCommitLinePrefix = 'commit:'
 
-const normalizeResortContentPath = (filePath: string) => {
+const normalizeContentPath = (filePath: string, contentRoot: string) => {
   const normalizedPath = filePath.replaceAll('\\', '/')
-  const rootIndex = normalizedPath.indexOf(resortContentRoot)
+  const rootIndex = normalizedPath.indexOf(contentRoot)
 
   return rootIndex === -1 ? normalizedPath : normalizedPath.slice(rootIndex)
 }
 
-const getCommittedLastmodByPath = () => {
+const getCommittedLastmodByPath = (contentRoot: string) => {
   const lastmodByPath = new Map<string, Date>()
 
   try {
     const output = execFileSync(
       'git',
-      ['log', `--format=${gitCommitLinePrefix}%cI`, '--name-only', '--', resortContentRoot],
+      ['log', `--format=${gitCommitLinePrefix}%cI`, '--name-only', '--', contentRoot],
       { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] },
     )
     let commitDate: Date | undefined
@@ -58,10 +60,10 @@ const getCommittedLastmodByPath = () => {
         continue
       }
 
-      const contentPath = normalizeResortContentPath(line)
+      const contentPath = normalizeContentPath(line, contentRoot)
       if (
         commitDate &&
-        contentPath.startsWith(resortContentRoot) &&
+        contentPath.startsWith(contentRoot) &&
         !lastmodByPath.has(contentPath)
       ) {
         lastmodByPath.set(contentPath, commitDate)
@@ -93,22 +95,45 @@ const getLatestDate = (dates: Date[], fallback: Date) => {
 export const GET: APIRoute = async ({ site }) => {
   const siteUrl = site ?? new URL('https://jp-resorts.rj-tw.com')
   const resorts = await getPublishedResorts()
+  const skiAreas = await getPublishedSkiAreaEntries()
   const prefectureStats = getPrefectureStats(resorts)
   const buildLastmod = new Date()
-  const committedLastmodByPath = getCommittedLastmodByPath()
+  const committedResortLastmodByPath = getCommittedLastmodByPath(resortContentRoot)
+  const committedSkiAreaLastmodByPath = getCommittedLastmodByPath(skiAreaContentRoot)
   const resortLastmodById = new Map(
     resorts.map((resort) => {
-      const contentPath = resort.filePath ? normalizeResortContentPath(resort.filePath) : ''
+      const contentPath = resort.filePath
+        ? normalizeContentPath(resort.filePath, resortContentRoot)
+        : ''
       const lastmod =
-        committedLastmodByPath.get(contentPath) ?? getFileModifiedAt(resort.filePath) ?? buildLastmod
+        committedResortLastmodByPath.get(contentPath) ??
+        getFileModifiedAt(resort.filePath) ??
+        buildLastmod
 
       return [resort.id, lastmod] as const
     }),
   )
-  const siteLastmod = getLatestDate([...resortLastmodById.values()], buildLastmod)
+  const skiAreaLastmodByKey = new Map(
+    skiAreas.map((skiArea) => {
+      const contentPath = skiArea.filePath
+        ? normalizeContentPath(skiArea.filePath, skiAreaContentRoot)
+        : ''
+      const lastmod =
+        committedSkiAreaLastmodByPath.get(contentPath) ??
+        getFileModifiedAt(skiArea.filePath) ??
+        buildLastmod
+
+      return [skiArea.id, lastmod] as const
+    }),
+  )
+  const siteLastmod = getLatestDate(
+    [...resortLastmodById.values(), ...skiAreaLastmodByKey.values()],
+    buildLastmod,
+  )
   const getResortLastmod = (resort: ResortEntry) => resortLastmodById.get(resort.id) ?? siteLastmod
   const getLatestResortLastmod = (matchingResorts: ResortEntry[]) =>
     getLatestDate(matchingResorts.map(getResortLastmod), siteLastmod)
+  const getSkiAreaLastmod = (key: PublishedSkiAreaKey) => skiAreaLastmodByKey.get(key) ?? siteLastmod
 
   const staticEntries: SitemapEntry[] = [
     { path: '/', lastmod: siteLastmod, priority: '1.0', changefreq: 'weekly' },
@@ -129,7 +154,13 @@ export const GET: APIRoute = async ({ site }) => {
 
   const skiAreaEntries: SitemapEntry[] = publishedSkiAreaKeys.map((key) => ({
     path: `/ski-areas/${key}/`,
-    lastmod: getLatestResortLastmod(resorts.filter((resort) => resort.data.skiArea === key)),
+    lastmod: getLatestDate(
+      [
+        getLatestResortLastmod(resorts.filter((resort) => resort.data.skiArea === key)),
+        getSkiAreaLastmod(key),
+      ],
+      siteLastmod,
+    ),
     priority: '0.8',
     changefreq: 'monthly',
   }))

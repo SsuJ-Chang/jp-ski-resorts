@@ -10,6 +10,13 @@ const getResortParams = (element?: HTMLElement | null) => ({
   resort_prefecture: element?.dataset.resortPrefecture ?? pageContextElement?.dataset.resortPrefecture,
 })
 
+const getSkiAreaParams = (element?: HTMLElement | null) => ({
+  ski_area_key: element?.dataset.skiAreaKey ?? pageContextElement?.dataset.skiAreaKey,
+  ski_area_region: element?.dataset.skiAreaRegion ?? pageContextElement?.dataset.skiAreaRegion,
+  ski_area_prefecture:
+    element?.dataset.skiAreaPrefecture ?? pageContextElement?.dataset.skiAreaPrefecture,
+})
+
 const getNumberDataset = (element: HTMLElement | null, key: string) => {
   const value = element?.dataset[key]
   if (!value) return undefined
@@ -38,16 +45,25 @@ const trackPageViewContext = () => {
   const analyticsView = pageContextElement.dataset.analyticsView
 
   if (analyticsView === 'resort') {
-    trackEvent('view_resort', getResortParams(pageContextElement))
+    trackEvent('view_resort', {
+      ...getResortParams(pageContextElement),
+      ...getSkiAreaParams(pageContextElement),
+    })
     return
   }
 
   if (analyticsView === 'resort_courses') {
     trackEvent('view_resort_courses', {
       ...getResortParams(pageContextElement),
+      ...getSkiAreaParams(pageContextElement),
       course_count: getNumberDataset(pageContextElement, 'courseCount'),
       course_group_count: getNumberDataset(pageContextElement, 'courseGroupCount'),
     })
+    return
+  }
+
+  if (analyticsView === 'ski_area') {
+    trackEvent('view_ski_area', getSkiAreaParams(pageContextElement))
   }
 }
 
@@ -56,6 +72,7 @@ const trackResortCardClick = (card: HTMLElement) => {
 
   trackEvent('resort_card_click', {
     ...getResortParams(card),
+    ...getSkiAreaParams(card),
     item_id: resortSlug,
     source_area: card.dataset.sourceArea ?? pageContextElement?.dataset.analyticsView,
   })
@@ -71,6 +88,7 @@ const trackResourceClick = (link: HTMLAnchorElement) => {
 
   trackEvent('outbound_resource_click', {
     ...getResortParams(link),
+    ...getSkiAreaParams(link),
     resource_type: link.dataset.analyticsResource,
     resource_label: getAnalyticsText(link.dataset.analyticsLabel ?? link.textContent),
     resource_note: getAnalyticsText(link.dataset.analyticsNote),
@@ -81,6 +99,8 @@ const trackResourceClick = (link: HTMLAnchorElement) => {
 
 const trackContentSelection = (element: HTMLElement) => {
   trackEvent('select_content', {
+    ...getResortParams(element),
+    ...getSkiAreaParams(element),
     content_type: element.dataset.analyticsSelect,
     item_id: element.dataset.selectId,
     source_area: element.dataset.sourceArea ?? pageContextElement?.dataset.analyticsView,

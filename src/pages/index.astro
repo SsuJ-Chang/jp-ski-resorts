@@ -2,9 +2,9 @@
 import BaseLayout from '../layouts/BaseLayout.astro'
 import JapanRegionMap from '../components/JapanRegionMap.astro'
 import { regions } from '../data/regions'
-import { publishedSkiAreaKeys, skiAreas } from '../data/skiAreas'
 import { getPublishedResorts } from '../utils/resortCatalog'
 import { withBasePath } from '../utils/paths'
+import { getPublishedSkiAreas } from '../utils/skiAreas'
 
 const toneByRegion = {
   hokkaido: 'powder',
@@ -17,6 +17,7 @@ const toneByRegion = {
 } as const
 
 const resorts = await getPublishedResorts()
+const skiAreas = await getPublishedSkiAreas()
 const resortCount = resorts.length
 const regionExampleLimit = 2
 const regionExampleCollator = new Intl.Collator('zh-Hant-TW')
@@ -24,8 +25,7 @@ type Resort = (typeof resorts)[number]
 
 const featuredResortOrder = new Map<string, number>()
 
-publishedSkiAreaKeys.forEach((areaKey, areaIndex) => {
-  const area = skiAreas[areaKey]
+skiAreas.forEach((area, areaIndex) => {
   area.featuredResorts.forEach((resortId, resortIndex) => {
     featuredResortOrder.set(resortId, areaIndex * 100 + resortIndex)
   })

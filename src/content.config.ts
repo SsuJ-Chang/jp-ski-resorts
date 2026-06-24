@@ -2,7 +2,7 @@ import { defineCollection } from 'astro:content'
 import { glob } from 'astro/loaders'
 import { z } from 'astro/zod'
 import { regionKeys } from './data/regions'
-import { skiAreaKeys } from './data/skiAreas'
+import { skiAreaKeys } from './data/skiAreaKeys'
 import { resortTags } from './data/tags'
 
 const sourceSchema = z.object({
@@ -130,6 +130,10 @@ const externalContentSchema = z.object({
   vlogs: z.array(namedLinkSchema).optional(),
 })
 
+const skiAreaExternalContentSchema = externalContentSchema.extend({
+  websites: z.array(namedLinkSchema).optional(),
+})
+
 const resorts = defineCollection({
   loader: glob({ base: './src/content/resorts', pattern: '**/*.{md,mdx}' }),
   schema: z.object({
@@ -254,4 +258,24 @@ const resorts = defineCollection({
   }),
 })
 
-export const collections = { resorts }
+const skiAreas = defineCollection({
+  loader: glob({ base: './src/content/ski-areas', pattern: '**/*.{md,mdx}' }),
+  schema: z.object({
+    type: z.enum(['cluster', 'destination']),
+    name: z.object({
+      zhTw: z.string(),
+      ja: z.string(),
+      en: z.string(),
+    }),
+    region: z.enum(regionKeys),
+    prefecture: z.string(),
+    baseTown: z.string().optional(),
+    accessHub: z.string().optional(),
+    summary: z.string(),
+    traits: z.array(z.string()).default([]),
+    featuredResorts: z.array(z.string()).default([]),
+    externalContent: skiAreaExternalContentSchema.optional(),
+  }),
+})
+
+export const collections = { resorts, skiAreas }

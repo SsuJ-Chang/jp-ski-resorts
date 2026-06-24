@@ -2,10 +2,10 @@
 import { render } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import { regions } from '../../data/regions'
-import { publishedSkiAreaKeys, skiAreas } from '../../data/skiAreas'
 import { tagLabels } from '../../data/tags'
 import { getPublishedResorts } from '../../utils/resortCatalog'
 import { withBasePath } from '../../utils/paths'
+import { getPublishedSkiAreaMap } from '../../utils/skiAreas'
 
 export async function getStaticPaths() {
   const resorts = await getPublishedResorts()
@@ -19,11 +19,8 @@ export async function getStaticPaths() {
 const { resort } = Astro.props
 const { Content } = await render(resort)
 const region = regions.find((item) => item.key === resort.data.region)
-const publishedSkiAreaSet = new Set<string>(publishedSkiAreaKeys)
-const skiArea =
-  resort.data.skiArea && publishedSkiAreaSet.has(resort.data.skiArea)
-    ? skiAreas[resort.data.skiArea]
-    : undefined
+const publishedSkiAreas = await getPublishedSkiAreaMap()
+const skiArea = resort.data.skiArea ? publishedSkiAreas.get(resort.data.skiArea) : undefined
 
 const hasExternalContent =
   (resort.data.externalContent?.blogs?.length ?? 0) > 0 ||
@@ -280,6 +277,9 @@ const resortStructuredData = [
     data-resort-slug={resort.id}
     data-resort-region={resort.data.region}
     data-resort-prefecture={resort.data.prefecture}
+    data-ski-area-key={skiArea?.key}
+    data-ski-area-region={skiArea?.region}
+    data-ski-area-prefecture={skiArea?.prefecture}
   >
     <a class="text-link" href={withBasePath('/resorts/')}>回滑雪場列表</a>
 
