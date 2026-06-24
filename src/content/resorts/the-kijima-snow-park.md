@@ -58,6 +58,9 @@ location:
   latitude: 36.818033
   longitude: 138.396414
 courses:
+  beginnerRatio: 40
+  intermediateRatio: 20
+  advancedRatio: 40
   total: 5
   courseInfoPage: "https://iiyama-makinoiri.snowpark.jp/snow/"
   summary: "共 5 條雪道，詳細難度比例需以官方公告與現地資訊為準。"

@@ -68,6 +68,9 @@ mapDisplay:
     x: 55
     "y": 43
 courses:
+  beginnerRatio: 33
+  intermediateRatio: 50
+  advancedRatio: 17
   total: 12
   courseInfoPage: https://www.kashimayari.net/snow/fields/
   summary: 鹿島槍位於白馬 Valley 南側的大町區域，近年以 family park 與雪上活動設施為特色。
