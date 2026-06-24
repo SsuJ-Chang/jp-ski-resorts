@@ -1,0 +1,99 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+
+const privacyStructuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: '隱私權政策｜日本滑雪場指南',
+  description: '說明日本滑雪場指南如何處理網站分析、Cookie 與第三方服務。',
+  inLanguage: 'zh-Hant-TW',
+}
+---
+
+<BaseLayout
+  title="隱私權政策｜日本滑雪場指南"
+  description="說明日本滑雪場指南如何處理網站分析、Cookie 與第三方服務。"
+  bodyClass="privacy-page"
+  canonicalPath="/privacy/"
+  structuredData={privacyStructuredData}
+>
+  <main class="site-shell page-stack privacy-shell">
+    <section class="page-heading privacy-hero" aria-labelledby="privacy-title">
+      <p class="eyebrow">Privacy policy</p>
+      <h1 id="privacy-title">隱私權政策</h1>
+      <p>
+        這份政策說明你在使用「日本滑雪場指南」時，我們如何處理網站分析、Cookie 與第三方服務。
+        目前本站不會直接蒐集你的姓名、電話、帳號或密碼，但會透過分析工具記錄部分使用行為，用來改善內容與導覽。
+      </p>
+      <p class="privacy-updated">最後更新：2026-06-25</p>
+    </section>
+
+    <section class="privacy-summary info-panel" aria-labelledby="privacy-summary-title">
+      <h2 id="privacy-summary-title">先看重點</h2>
+      <ul class="privacy-list">
+        <li>本站不提供會員註冊，也不要求你輸入帳號。</li>
+        <li>本站不會主動蒐集姓名、電話、地址或其他聯絡資料。</li>
+        <li>本站會使用 Google Analytics 4 觀察頁面瀏覽、點擊與使用情況。</li>
+        <li>未來若導入 Google AdSense，廣告系統可能使用 Cookie 或類似技術。</li>
+        <li>你仍可透過瀏覽器設定管理 Cookie。</li>
+      </ul>
+    </section>
+
+    <section class="privacy-grid" aria-label="隱私權政策內容">
+      <article class="info-panel privacy-card">
+        <h2>1. 我們蒐集哪些資料</h2>
+        <p>
+          當你瀏覽本站時，我們可能透過 Google Analytics 4 蒐集頁面瀏覽紀錄、點擊事件、瀏覽器與裝置資訊、
+          IP 位址、參考來源、停留時間與 Cookie 相關識別資訊。這些資料主要用於統計與分析，不是用來辨識你本人。
+        </p>
+      </article>
+
+      <article class="info-panel privacy-card">
+        <h2>2. 我們怎麼使用這些資料</h2>
+        <p>
+          我們會用這些資料了解哪些雪場頁面最常被查看、搜尋功能是否好用、外部連結是否有被點擊，
+          以及使用者比較常透過縣別、地區或關鍵字找內容，進而改善網站結構與內容排序。
+        </p>
+      </article>
+
+      <article class="info-panel privacy-card">
+        <h2>3. 第三方服務</h2>
+        <p>
+          本站目前使用 Google Analytics 4 進行流量分析。未來若加入 Google AdSense，廣告顯示與優化也可能涉及 Google
+          的 Cookie 或類似技術。此外，本站內容會連到官方網站、部落格、影片平台與地圖服務，這些第三方網站各自有自己的隱私權政策。
+        </p>
+      </article>
+
+      <article class="info-panel privacy-card">
+        <h2>4. Cookie 與裝置資訊</h2>
+        <p>
+          Google Analytics 與廣告服務可能使用 Cookie 或其他儲存技術，協助分析網站使用情況與顯示廣告。
+          你可以透過瀏覽器設定刪除、封鎖或限制 Cookie；若你使用的是 Google 廣告相關服務，也可以到 Google 的廣告設定調整偏好。
+        </p>
+      </article>
+
+      <article class="info-panel privacy-card">
+        <h2>5. 資料保存與安全</h2>
+        <p>
+          我們會在合理範圍內使用這些資料來維護與改善網站，並避免不必要的保存。
+          我們會盡力保護資料安全，但網路傳輸與第三方服務仍可能存在無法完全避免的風險。
+        </p>
+      </article>
+
+      <article class="info-panel privacy-card">
+        <h2>6. 聯絡方式</h2>
+        <p>
+          如果你對這份隱私權政策、網站分析或資料使用方式有疑問，可以透過 footer 的「聯絡作者」前往站長首頁。
+          若你希望站內再提供更直接的聯絡方式，之後也可以另外加上聯絡頁。
+        </p>
+      </article>
+    </section>
+
+    <section class="info-panel privacy-note" aria-labelledby="privacy-note-title">
+      <h2 id="privacy-note-title">政策更新</h2>
+      <p>
+        我們可能會因為網站功能、分析工具或法規需求而更新這份政策。若內容有修改，會以最新版本為準。
+      </p>
+    </section>
+  </main>
+</BaseLayout>

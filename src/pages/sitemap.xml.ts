@@ -115,6 +115,7 @@ export const GET: APIRoute = async ({ site }) => {
     { path: '/resorts/', lastmod: siteLastmod, priority: '0.9', changefreq: 'weekly' },
     { path: '/ski-areas/', lastmod: siteLastmod, priority: '0.8', changefreq: 'monthly' },
     { path: '/prefectures/', lastmod: siteLastmod, priority: '0.8', changefreq: 'monthly' },
+    { path: '/privacy/', lastmod: siteLastmod, priority: '0.3', changefreq: 'yearly' },
   ]
 
   const regionEntries: SitemapEntry[] = regions.map((region) => ({
