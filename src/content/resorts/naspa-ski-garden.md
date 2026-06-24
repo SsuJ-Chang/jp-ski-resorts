@@ -69,6 +69,9 @@ mapDisplay:
     x: 47
     "y": 54
 courses:
+  beginnerRatio: 37
+  intermediateRatio: 38
+  advancedRatio: 25
   total: 8
   courseInfoPage: "https://www.naspa.co.jp/ski/course/"
   summary: NASPA滑雪公園鄰近 NASPA New Otani，偏向住宿、家庭與初學者友善的雪場。

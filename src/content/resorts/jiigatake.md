@@ -70,6 +70,9 @@ mapDisplay:
     x: 55
     "y": 43
 courses:
+  beginnerRatio: 100
+  intermediateRatio: 0
+  advancedRatio: 0
   courseInfoPage: https://jiigatake.com/slope/
   summary: 爺岳是白馬 Valley 南端的家庭與初學者取向雪場，官網主打 debut slope。
   details:

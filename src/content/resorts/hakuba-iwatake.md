@@ -87,6 +87,9 @@ elevation:
   bottom: 750
   verticalDrop: 539
 courses:
+  beginnerRatio: 40
+  intermediateRatio: 20
+  advancedRatio: 40
   total: 8
   courseInfoPage: https://iwatake-mountain-resort.com/winter/course_lift
   summary: 白馬岩岳官方 course/lift 頁列出 Mountain Side 與 Village Side 主要 8 條滑行雪道，另有 3,000m cross-country course；最長滑走距離為 Sunny Valley 的 3,300m。

@@ -56,6 +56,9 @@ location:
   latitude: 36.671
   longitude: 138.533
 courses:
+  beginnerRatio: 40
+  intermediateRatio: 40
+  advancedRatio: 20
   total: 10
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 熊之湯位於志賀高原南東側，官方列出 10 條雪道，初級、中級與進階線都有。

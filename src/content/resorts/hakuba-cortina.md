@@ -1,5 +1,4 @@
 ---
-
 id: hakuba-cortina
 name:
   zhTw: 白馬Cortina
@@ -68,6 +67,9 @@ mapDisplay:
     x: 55
     "y": 43
 courses:
+  beginnerRatio: 50
+  intermediateRatio: 33
+  advancedRatio: 17
   courseInfoPage: "https://www.hgp.co.jp/cortina/ski/gelande/"
   summary: 白馬Cortina 與白馬乘鞍溫泉採共通 lift ticket，是白馬北部粉雪與住宿型行程代表雪場。
   details:

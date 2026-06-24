@@ -60,6 +60,9 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
+  beginnerRatio: 33
+  intermediateRatio: 33
+  advancedRatio: 34
   total: 3
   courseInfoPage: https://www.city.nanao.lg.jp/syougai/shisetsu/korosa.html
   summary: 七尾 Korosa 是七尾市的家庭型滑雪場，官方說明有初級、中級、進階雪道，另設雪盆區與全長 102m 的滑雪手扶梯。

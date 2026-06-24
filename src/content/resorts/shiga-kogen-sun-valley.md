@@ -57,6 +57,9 @@ location:
   latitude: 36.714
   longitude: 138.4897
 courses:
+  beginnerRatio: 33
+  intermediateRatio: 33
+  advancedRatio: 34
   total: 3
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: Sun Valley 位於志賀高原入口側，有進階不整地、中級主雪道與連接丸池的初級雪道。

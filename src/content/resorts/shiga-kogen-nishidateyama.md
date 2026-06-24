@@ -52,6 +52,9 @@ location:
   latitude: 36.7248
   longitude: 138.51
 courses:
+  beginnerRatio: 43
+  intermediateRatio: 57
+  advancedRatio: 0
   total: 7
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 西館山包含奧運 World Cup Course 與多條林間初中級路線，可從山頂眺望北阿爾卑斯。

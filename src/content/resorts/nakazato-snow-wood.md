@@ -65,6 +65,9 @@ mapDisplay:
     x: 47
     "y": 54
 courses:
+  beginnerRatio: 50
+  intermediateRatio: 50
+  advancedRatio: 0
   courseInfoPage: https://www.nakazato-snowwood.com/
   summary: 中里Snow Wood 是湯澤中里周邊的小型雪場，適合雪上體驗與短時間滑行。
   details:

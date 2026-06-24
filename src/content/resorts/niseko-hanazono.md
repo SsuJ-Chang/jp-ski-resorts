@@ -79,6 +79,9 @@ location:
   latitude: 42.8892
   longitude: 140.7202
 courses:
+  beginnerRatio: 33
+  intermediateRatio: 50
+  advancedRatio: 17
   total: 12
   courseInfoPage: https://www.niseko.ne.jp/en/map/hanazono/
   summary: HANAZONO 位於 Niseko United 東側，官方列出 12 條主要雪道，包含 Silver Dream 長距離線、Hanazono Park 與多條中高難度連絡、非壓雪或樹林路線。

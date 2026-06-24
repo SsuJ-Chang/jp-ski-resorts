@@ -37,6 +37,9 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
+  beginnerRatio: 100
+  intermediateRatio: 0
+  advancedRatio: 0
   total: 1
   courseInfoPage: https://sayamaski.jp/slope.html
   summary: 共 1 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。

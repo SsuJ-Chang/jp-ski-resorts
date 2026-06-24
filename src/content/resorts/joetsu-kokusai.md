@@ -75,6 +75,9 @@ mapDisplay:
     x: 47
     "y": 54
 courses:
+  beginnerRatio: 40
+  intermediateRatio: 50
+  advancedRatio: 10
   courseInfoPage: https://jkokusai.co.jp/ski/gelande/
   summary: 上越國際是南魚沼的大型雪場，官方票價頁列出 2025/12/13-2026/4/5 營業與夜滑期間。
   details:

@@ -54,6 +54,9 @@ location:
   latitude: 36.7162
   longitude: 138.493
 courses:
+  beginnerRatio: 25
+  intermediateRatio: 50
+  advancedRatio: 25
   total: 4
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 丸池包含中央區域難度較高的 A Course，也有適合初學者的 C Course 與雪遊區。

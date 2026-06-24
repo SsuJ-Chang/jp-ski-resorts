@@ -52,6 +52,9 @@ location:
   latitude: 36.736
   longitude: 138.523
 courses:
+  beginnerRatio: 25
+  intermediateRatio: 75
+  advancedRatio: 0
   total: 4
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 寺小屋位於高海拔 2,100m 級區域，官方描述雪質佳，也可連接東館山 Forest Course。

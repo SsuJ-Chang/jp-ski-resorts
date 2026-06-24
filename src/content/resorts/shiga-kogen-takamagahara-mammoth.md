@@ -52,6 +52,9 @@ location:
   latitude: 36.733
   longitude: 138.515
 courses:
+  beginnerRatio: 50
+  intermediateRatio: 50
+  advancedRatio: 0
   total: 2
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 高天原 Mammoth 位於中央區域核心，可連接東館山、Tanne no Mori Okojo 與西館山。

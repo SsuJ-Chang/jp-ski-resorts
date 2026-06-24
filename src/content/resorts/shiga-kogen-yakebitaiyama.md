@@ -59,6 +59,9 @@ location:
   latitude: 36.7542
   longitude: 138.5253
 courses:
+  beginnerRatio: 46
+  intermediateRatio: 31
+  advancedRatio: 23
   total: 13
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 燒額山是志賀高原東側的大型區域，官方列出 13 條雪道，從飯店前初級雪道到奧運雪道與中段進階線都有。

@@ -81,6 +81,9 @@ location:
   latitude: 36.66451
   longitude: 137.82522
 courses:
+  beginnerRatio: 50
+  intermediateRatio: 25
+  advancedRatio: 25
   courseInfoPage: https://www.hakubaescal.com/winter/gelande/course/
   summary: 白馬五龍與 Hakuba47 共通雪道區域共有 24 條雪道，從山麓初級緩坡、夜滑區，到高海拔展望路線、非壓雪與上級路線都有。
   details:

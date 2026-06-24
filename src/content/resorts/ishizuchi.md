@@ -22,6 +22,9 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
+  beginnerRatio: 100
+  intermediateRatio: 0
+  advancedRatio: 0
   total: 3
   courseInfoPage: "https://www.ishizuchi.com/ski/course"
   details:

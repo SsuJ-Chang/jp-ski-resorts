@@ -67,6 +67,9 @@ mapDisplay:
     x: 47
     "y": 54
 courses:
+  beginnerRatio: 50
+  intermediateRatio: 50
+  advancedRatio: 0
   total: 11
   courseInfoPage: "https://www.park-resort.com/ski/course/"
   summary: 湯澤公園是鄰近住宿設施的湯澤雪場，適合家庭與住宿型滑雪行程。

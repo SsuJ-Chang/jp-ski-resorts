@@ -50,6 +50,9 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
+  beginnerRatio: 50
+  intermediateRatio: 25
+  advancedRatio: 25
   total: 4
   courseInfoPage: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/guide/
   summary: 大倉岳高原是小松市的家庭型雪場，官方列出 Wedeln、日本海、Family 與兒童雪坡等區域，並有夜滑營業日。

@@ -54,6 +54,9 @@ location:
   latitude: 36.738
   longitude: 138.519
 courses:
+  beginnerRatio: 72
+  intermediateRatio: 14
+  advancedRatio: 14
   total: 7
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 一之瀨 Family 有寬廣主斜面、長距離初級林間路線與中央區域連絡路，是志賀高原住宿與練習常用區域。

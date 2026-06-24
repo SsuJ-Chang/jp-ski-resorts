@@ -55,6 +55,9 @@ location:
   latitude: 36.672
   longitude: 138.55
 courses:
+  beginnerRatio: 67
+  intermediateRatio: 33
+  advancedRatio: 0
   total: 3
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 澀峠官方列出 3 條雪道，以兩條初級線與一條中級線組成，位置接近橫手山。

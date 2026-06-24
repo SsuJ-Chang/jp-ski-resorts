@@ -84,6 +84,9 @@ location:
   latitude: 38.527775
   longitude: 140.008082
 courses:
+  beginnerRatio: 0
+  intermediateRatio: 0
+  advancedRatio: 100
   total: 2
   courseInfoPage: "https://mt-gassan.com/snow/guide/"
   summary: "月山以春季至初夏的殘雪滑行為特色，官方主要介紹沢コース與大斜面コース兩個滑走區域；地形、雪面與 T-bar 營運會受天候與季節推移影響。"

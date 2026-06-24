@@ -72,6 +72,9 @@ mapDisplay:
     x: 47
     "y": 54
 courses:
+  beginnerRatio: 48
+  intermediateRatio: 37
+  advancedRatio: 15
   total: 27
   courseInfoPage: https://www.maiko-resort.com/winter/gelande.html
   summary: 舞子 Snow Resort 由舞子、長峰、奧添地等區域構成，適合家庭、巡航與粉雪取向滑行。

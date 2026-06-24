@@ -51,6 +51,9 @@ location:
   latitude: 36.724
   longitude: 138.5035
 courses:
+  beginnerRatio: 0
+  intermediateRatio: 100
+  advancedRatio: 0
   total: 1
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 發哺ブナ平以寬廣緩斜面為特色，是中央區域較寬的初級練習斜面之一。

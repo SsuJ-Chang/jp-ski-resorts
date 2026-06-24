@@ -51,6 +51,9 @@ location:
   latitude: 36.7195
   longitude: 138.499
 courses:
+  beginnerRatio: 33
+  intermediateRatio: 33
+  advancedRatio: 34
   total: 3
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: Giant 是中央區域具代表性的進階斜面，也有避開主斜面的初級連絡路。

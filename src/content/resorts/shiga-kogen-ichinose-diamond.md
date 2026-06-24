@@ -52,6 +52,9 @@ location:
   latitude: 36.739
   longitude: 138.522
 courses:
+  beginnerRatio: 0
+  intermediateRatio: 100
+  advancedRatio: 0
   total: 2
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 一之瀨 Diamond 是一之瀨旁的練習區，Diamond Gelende 與 Rabbit Course 適合 slalom 與基礎訓練。

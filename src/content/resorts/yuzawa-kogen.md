@@ -69,6 +69,9 @@ mapDisplay:
     x: 46
     "y": 54
 courses:
+  beginnerRatio: 62
+  intermediateRatio: 13
+  advancedRatio: 25
   total: 8
   courseInfoPage: https://www.yuzawakogen.com/winter/gelaende/
   summary: 湯澤高原以 ropeway 上山的高原景觀與越後湯澤溫泉街近距離交通為特色，適合滑雪與觀光同時安排。

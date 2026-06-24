@@ -91,6 +91,9 @@ mapDisplay:
     x: 48
     "y": 55
 courses:
+  beginnerRatio: 45
+  intermediateRatio: 45
+  advancedRatio: 10
   total: 27
   courseInfoPage: https://ishiuchi.or.jp/winter/ski/lift-course/
   summary: 石打丸山是湯澤、南魚沼一帶的大型雪場，2025-2026 官方資訊列出 27 條雪道、夜滑、snow park、tree run 與非壓雪區域，也可透過湯澤 Snow Link 與 GALA 湯澤、湯澤高原串聯。

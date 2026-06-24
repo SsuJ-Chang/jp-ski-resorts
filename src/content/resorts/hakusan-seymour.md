@@ -67,6 +67,9 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時狀態與最新雪況資訊為準。
 courses:
+  beginnerRatio: 22
+  intermediateRatio: 33
+  advancedRatio: 45
   total: 9
   courseInfoPage: https://www.sam-hakusan.com/white/seymour/course/
   summary: 官方介紹白山 Seymour 具有多樣斜面與白山冬季景觀，2025-2026 官方雪道圖列出 A-I 共 9 條主要雪道，並設有 4 條主要纜車動線。詳細雪道開放狀態請以官方即時資訊為準。

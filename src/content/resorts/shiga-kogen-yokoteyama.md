@@ -57,6 +57,9 @@ location:
   latitude: 36.675
   longitude: 138.542
 courses:
+  beginnerRatio: 15
+  intermediateRatio: 8
+  advancedRatio: 77
   total: 13
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 橫手山官方列出 13 條雪道，初級與中級線較少，進階線比例高。

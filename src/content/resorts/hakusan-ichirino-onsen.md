@@ -76,6 +76,9 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時狀態與最新雪況資訊為準。
 courses:
+  beginnerRatio: 33
+  intermediateRatio: 42
+  advancedRatio: 25
   total: 13
   courseInfoPage: https://www.sam-hakusan.com/white/ichirino/course/
   summary: 官方介紹白山一里野溫泉為石川縣內最大級雪場，2025-2026 官方雪道圖以 A-L 標示主要雪道與區域，其中 D 分為 D1 未壓雪與 D2 壓雪區，包含初級、中級、進階者可使用的多樣雪道，並設有兒童雪上遊樂區與夜滑時段。

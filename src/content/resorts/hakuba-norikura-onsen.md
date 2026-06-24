@@ -67,6 +67,9 @@ mapDisplay:
     x: 55
     "y": 43
 courses:
+  beginnerRatio: 33
+  intermediateRatio: 17
+  advancedRatio: 50
   total: 14
   courseInfoPage: https://www.hakunori.com/guide/?id=data
   summary: 白馬乘鞍溫泉與白馬Cortina 相鄰，2025-2026 採兩雪場共通 lift ticket。

@@ -53,6 +53,9 @@ location:
   latitude: 36.728
   longitude: 138.516
 courses:
+  beginnerRatio: 50
+  intermediateRatio: 50
+  advancedRatio: 0
   total: 5
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 東館山有奧運路線與長距離 Forest Course，並可連接一之瀨 Family 與寺小屋。

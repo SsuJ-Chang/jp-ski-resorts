@@ -70,6 +70,9 @@ mapDisplay:
     x: 47
     "y": 55
 courses:
+  beginnerRatio: 50
+  intermediateRatio: 19
+  advancedRatio: 31
   courseInfoPage: https://www.yuzawa-nakazato.com/winter/course/
   summary: 湯澤中里鄰近越後中里站，官方票價頁標示 2025/12/20-2026/3/29 營業，適合家庭、初學與搭火車前往。
   details:

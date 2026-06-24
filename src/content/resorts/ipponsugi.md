@@ -65,6 +65,9 @@ mapDisplay:
     x: 47
     "y": 54
 courses:
+  beginnerRatio: 100
+  intermediateRatio: 0
+  advancedRatio: 0
   courseInfoPage: https://www.ipponsugi.net/
   summary: 一本杉是越後湯澤站附近的小型雪場，適合雪上遊戲、初學與短時間體驗。
   details:

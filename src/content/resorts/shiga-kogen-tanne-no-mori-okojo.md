@@ -53,6 +53,9 @@ location:
   latitude: 36.731
   longitude: 138.516
 courses:
+  beginnerRatio: 100
+  intermediateRatio: 0
+  advancedRatio: 0
   total: 1
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: Tanne no Mori Okojo 是樹林間緩斜面，官方描述初學者也能感受類似 tree run 的氛圍。

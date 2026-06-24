@@ -71,6 +71,9 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
+  beginnerRatio: 50
+  intermediateRatio: 25
+  advancedRatio: 25
   total: 4
   courseInfoPage: https://www.kanazawa-sports.jp/use/search/546
   summary: 金澤市營醫王山位於金澤市郊，官方列出 Family、林道、Dynamic 與 Challenge 等雪道；但 2025-2026 官方公告部分中進階雪道因受災與設備因素暫停開放。

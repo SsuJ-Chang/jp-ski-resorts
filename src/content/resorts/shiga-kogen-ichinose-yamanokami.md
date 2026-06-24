@@ -52,6 +52,9 @@ location:
   latitude: 36.745
   longitude: 138.527
 courses:
+  beginnerRatio: 50
+  intermediateRatio: 50
+  advancedRatio: 0
   total: 2
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 一之瀨山之神主要是連接一之瀨、Diamond 與燒額山方向的移動雪道。

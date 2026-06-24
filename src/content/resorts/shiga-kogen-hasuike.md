@@ -52,6 +52,9 @@ location:
   latitude: 36.7185
   longitude: 138.4925
 courses:
+  beginnerRatio: 33
+  intermediateRatio: 67
+  advancedRatio: 0
   total: 3
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 蓮池以短距離初中級雪道為主，並可連接 Giant 區域。

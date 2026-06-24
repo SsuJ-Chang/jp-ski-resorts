@@ -59,6 +59,9 @@ location:
   latitude: 36.778
   longitude: 138.523
 courses:
+  beginnerRatio: 33
+  intermediateRatio: 0
+  advancedRatio: 67
   total: 9
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
   summary: 奧志賀高原位於志賀高原最內側，官方列出 3 條初級線、3 條專家線與 Downhill 系列路線。
