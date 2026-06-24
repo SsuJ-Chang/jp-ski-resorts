@@ -115,6 +115,7 @@ export const GET: APIRoute = async ({ site }) => {
     { path: '/resorts/', lastmod: siteLastmod, priority: '0.9', changefreq: 'weekly' },
     { path: '/ski-areas/', lastmod: siteLastmod, priority: '0.8', changefreq: 'monthly' },
     { path: '/prefectures/', lastmod: siteLastmod, priority: '0.8', changefreq: 'monthly' },
+    { path: '/about/', lastmod: siteLastmod, priority: '0.4', changefreq: 'yearly' },
     { path: '/contact/', lastmod: siteLastmod, priority: '0.3', changefreq: 'yearly' },
     { path: '/privacy/', lastmod: siteLastmod, priority: '0.3', changefreq: 'yearly' },
   ]

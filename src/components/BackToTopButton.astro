@@ -2,11 +2,15 @@
   class="back-to-top-button"
   type="button"
   data-back-to-top
-  aria-label="回到頁面頂端"
+  aria-label="回到頁面頂部"
   aria-hidden="true"
   tabindex="-1"
+  hidden
 >
-  ↑↑
+  <svg viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M12 19V5" />
+    <path d="m6 11 6-6 6 6" />
+  </svg>
 </button>
 
 <script>
@@ -31,6 +35,7 @@
       const shouldShow = shouldShowButton()
 
       backToTopButton.classList.toggle('back-to-top-button--visible', shouldShow)
+      backToTopButton.hidden = !shouldShow
       backToTopButton.setAttribute('aria-hidden', String(!shouldShow))
       backToTopButton.tabIndex = shouldShow ? 0 : -1
       isTicking = false

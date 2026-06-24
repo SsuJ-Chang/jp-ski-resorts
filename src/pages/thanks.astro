@@ -6,14 +6,14 @@ const thanksStructuredData = {
   '@context': 'https://schema.org',
   '@type': 'WebPage',
   name: '特別感謝｜日本滑雪場指南',
-  description: '列出日本滑雪場指南整理資料時特別感謝的公開內容創作者與網站。',
+  description: '整理協助日本滑雪場指南內容建立與公開參考來源的特別感謝名單。',
   inLanguage: 'zh-Hant-TW',
 }
 ---
 
 <BaseLayout
   title="特別感謝｜日本滑雪場指南"
-  description="列出日本滑雪場指南整理資料時特別感謝的公開內容創作者與網站。"
+  description="整理協助日本滑雪場指南內容建立與公開參考來源的特別感謝名單。"
   bodyClass="thanks-page"
   canonicalPath="/thanks/"
   structuredData={thanksStructuredData}
@@ -24,26 +24,27 @@ const thanksStructuredData = {
       <p class="eyebrow">Special thanks</p>
       <h1 id="thanks-title" class="thanks-title">特別感謝</h1>
       <p class="thanks-lead">
-        這個網站整理滑雪場資料時，也參考了許多公開影片、旅遊文章與滑雪經驗分享。
-        以下列出特別感謝的創作者與網站，作為資料脈絡與行程靈感的補充來源。
+        這些網站、創作者與公開整理內容，對本站建立雪場資料、補強外部參考與交叉確認資訊很有幫助。這裡把實際提供參考價值的來源集中列出，方便使用者也能直接延伸閱讀。
       </p>
     </section>
 
-    <section class="thanks-panel" aria-label="特別感謝名單">
-      <ol class="thanks-list">
+    <section class="footer-page-section" aria-label="特別感謝名單">
+      <ol class="footer-page-list">
         {specialThanks.map((entry, index) => (
-          <li class="thanks-card" style={`--index: ${index}`}>
-            <div class="thanks-card__content">
-              <p class="thanks-card__kind">{entry.kind}</p>
-              <h2>{entry.name}</h2>
-              <p class="thanks-card__description">{entry.description}</p>
+          <li class="footer-page-card footer-page-card--with-link" style={`--index: ${index}`}>
+            <div class="footer-page-card__meta">
+              <p class="footer-page-card__eyebrow">{entry.kind}</p>
+            </div>
+            <div class="footer-page-card__content">
+              <h2 class="footer-page-card__title">{entry.name}</h2>
+              <p class="footer-page-card__description">{entry.description}</p>
             </div>
             <a
-              class="thanks-card__link"
+              class="footer-page-card__link"
               href={entry.url}
               target="_blank"
               rel="noopener noreferrer"
-              aria-label={`前往 ${entry.name}，新分頁開啟`}
+              aria-label={`前往 ${entry.name}，於新分頁開啟`}
             >
               <svg aria-hidden="true" viewBox="0 0 24 24">
                 <path d="M5 12h14" />

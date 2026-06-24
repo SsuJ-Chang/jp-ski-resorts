@@ -29,6 +29,7 @@ const {
 const currentYear = new Date().getFullYear()
 const resortListPath = withBasePath('/resorts/')
 const contactPath = withBasePath('/contact/')
+const aboutPath = withBasePath('/about/')
 const siteUrl = Astro.site ?? new URL('https://jp-resorts.rj-tw.com')
 const canonicalUrl = new URL(canonicalPath ?? Astro.url.pathname, siteUrl).toString()
 const siteName = '日本滑雪場指南'
@@ -103,6 +104,8 @@ const socialImageAlt = '日本滑雪場指南'
           <a class="site-footer__link" href={withBasePath('/privacy/')}>隱私權政策</a>
           <span class="site-footer__divider" aria-hidden="true">・</span>
           <a class="site-footer__link" href={withBasePath('/thanks/')}>特別感謝</a>
+          <span class="site-footer__divider" aria-hidden="true">・</span>
+          <a class="site-footer__link" href={aboutPath}>關於本站</a>
           <span class="site-footer__divider" aria-hidden="true">・</span>
           <a
             class="site-footer__contact"

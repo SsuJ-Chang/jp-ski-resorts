@@ -1,18 +1,72 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro'
+import { withBasePath } from '../utils/paths'
+
+const privacyCards = [
+  {
+    eyebrow: '資料範圍',
+    title: '本站不直接收集姓名、電話或帳號',
+    description:
+      '目前網站沒有會員系統、留言功能或表單資料庫，也不會要求你提供姓名、電話、帳號或身分證資料。',
+  },
+  {
+    eyebrow: '分析用途',
+    title: '使用 Google Analytics 4 觀察流量',
+    description:
+      '本站使用 GA4 了解搜尋是否被使用、哪些雪場頁面較常被瀏覽，以及使用者是否會透過縣別或區域繼續探索。',
+  },
+  {
+    eyebrow: '分析用途',
+    title: '事件資料用來優化站內內容',
+    description:
+      '像外部連結點擊、雪道資訊查看與頁面瀏覽等事件，主要用來判斷哪些內容真的有被使用，而不是辨識特定個人。',
+  },
+  {
+    eyebrow: 'Cookie',
+    title: '分析工具可能使用 Cookie 或類似技術',
+    description:
+      '這些技術主要用於辨識瀏覽器、統計互動行為與提升報表可讀性，不會讓站長直接看到你的真實身分。',
+  },
+  {
+    eyebrow: '第三方服務',
+    title: '目前以 Google Analytics 4 為主',
+    description:
+      '本站目前重點是流量與使用行為分析。若未來加入其他第三方服務，例如廣告或更多分析工具，會在本頁更新說明。',
+  },
+  {
+    eyebrow: '自行管理',
+    title: '你可以封鎖或刪除 Cookie',
+    description:
+      '如果你不希望被記錄分析資料，可以在瀏覽器中封鎖、清除 Cookie，或使用瀏覽器的隱私模式與追蹤防護設定。這和你平常清掉登入狀態或限制網站追蹤是同樣概念。',
+  },
+  {
+    eyebrow: '政策更新',
+    title: '若網站功能調整，政策會一起更新',
+    description:
+      '如果本站未來新增廣告、表單、更多分析事件或其他第三方工具，這份政策會同步更新。最後更新日期：2026-06-25。',
+  },
+  {
+    eyebrow: '聯絡方式',
+    title: '對政策內容有疑問時',
+    description: '如果你對本站如何使用分析資料、事件追蹤範圍或政策文字有疑問，可以前往',
+    href: withBasePath('/contact/'),
+    linkText: '聯絡作者',
+    descriptionSuffix: '頁提出。',
+  },
+]
 
 const privacyStructuredData = {
   '@context': 'https://schema.org',
   '@type': 'WebPage',
   name: '隱私權政策｜日本滑雪場指南',
-  description: '說明日本滑雪場指南如何處理網站分析、Cookie 與第三方服務。',
+  description: '說明日本滑雪場指南目前使用的分析工具、Cookie 與網站不直接收集的個人資料範圍。',
   inLanguage: 'zh-Hant-TW',
 }
 ---
 
 <BaseLayout
   title="隱私權政策｜日本滑雪場指南"
-  description="說明日本滑雪場指南如何處理網站分析、Cookie 與第三方服務。"
+  description="說明日本滑雪場指南目前使用的分析工具、Cookie 與網站不直接收集的個人資料範圍。"
   bodyClass="privacy-page"
   canonicalPath="/privacy/"
   structuredData={privacyStructuredData}
@@ -22,78 +76,32 @@ const privacyStructuredData = {
       <p class="eyebrow">Privacy policy</p>
       <h1 id="privacy-title">隱私權政策</h1>
       <p>
-        這份政策說明你在使用「日本滑雪場指南」時，我們如何處理網站分析、Cookie 與第三方服務。
-        目前本站不會直接蒐集你的姓名、電話、帳號或密碼，但會透過分析工具記錄部分使用行為，用來改善內容與導覽。
+        本頁說明日本滑雪場指南目前如何使用分析工具、Cookie 與匿名化流量資料。重點是讓你知道哪些互動可能被統計、這些資料會被拿來做什麼，以及你可以如何自行管理。
       </p>
-      <p class="privacy-updated">最後更新：2026-06-25</p>
     </section>
 
-    <section class="privacy-summary info-panel" aria-labelledby="privacy-summary-title">
-      <h2 id="privacy-summary-title">重點摘要</h2>
-      <ul class="privacy-list">
-        <li>本站不提供會員註冊，也不要求你輸入帳號。</li>
-        <li>本站不會主動蒐集姓名、電話、地址或其他聯絡資料。</li>
-        <li>本站會使用 Google Analytics 4 觀察頁面瀏覽、點擊與使用情況。</li>
-        <li>未來若導入 Google AdSense，廣告系統可能使用 Cookie 或類似技術。</li>
-        <li>你仍可透過瀏覽器設定管理 Cookie。</li>
-      </ul>
-    </section>
-
-    <section class="privacy-grid" aria-label="隱私權政策內容">
-      <article class="info-panel privacy-card">
-        <h2>1. 我們蒐集哪些資料</h2>
-        <p>
-          當你瀏覽本站時，我們可能透過 Google Analytics 4 蒐集頁面瀏覽紀錄、點擊事件、瀏覽器與裝置資訊、
-          IP 位址、參考來源、停留時間與 Cookie 相關識別資訊。這些資料主要用於統計與分析，不是用來辨識你本人。
-        </p>
-      </article>
-
-      <article class="info-panel privacy-card">
-        <h2>2. 我們怎麼使用這些資料</h2>
-        <p>
-          我們會用這些資料了解哪些雪場頁面最常被查看、搜尋功能是否好用、外部連結是否有被點擊，
-          以及使用者比較常透過縣別、地區或關鍵字找內容，進而改善網站結構與內容排序。
-        </p>
-      </article>
-
-      <article class="info-panel privacy-card">
-        <h2>3. 第三方服務</h2>
-        <p>
-          本站目前使用 Google Analytics 4 進行流量分析。未來若加入 Google AdSense，廣告顯示與優化也可能涉及 Google
-          的 Cookie 或類似技術。此外，本站內容會連到官方網站、部落格、影片平台與地圖服務，這些第三方網站各自有自己的隱私權政策。
-        </p>
-      </article>
-
-      <article class="info-panel privacy-card">
-        <h2>4. Cookie 與裝置資訊</h2>
-        <p>
-          Google Analytics 與廣告服務可能使用 Cookie 或其他儲存技術，協助分析網站使用情況與顯示廣告。
-          你可以透過瀏覽器設定刪除、封鎖或限制 Cookie；若你使用的是 Google 廣告相關服務，也可以到 Google 的廣告設定調整偏好。
-        </p>
-      </article>
-
-      <article class="info-panel privacy-card">
-        <h2>5. 資料保存與安全</h2>
-        <p>
-          我們會在合理範圍內使用這些資料來維護與改善網站，並避免不必要的保存。
-          我們會盡力保護資料安全，但網路傳輸與第三方服務仍可能存在無法完全避免的風險。
-        </p>
-      </article>
-
-      <article class="info-panel privacy-card">
-        <h2>6. 聯絡方式</h2>
-        <p>
-          如果你對這份隱私權政策、網站分析或資料使用方式有疑問，可以透過站內的「聯絡作者」頁面與我聯繫。
-          聯絡過程中你主動提供的內容，僅會用於回覆與處理對應問題。
-        </p>
-      </article>
-    </section>
-
-    <section class="info-panel privacy-note" aria-labelledby="privacy-note-title">
-      <h2 id="privacy-note-title">政策更新</h2>
-      <p>
-        我們可能會因為網站功能、分析工具或法規需求而更新這份政策。若內容有修改，會以最新版本為準。
-      </p>
+    <section class="footer-page-section" aria-label="隱私權政策內容">
+      <ol class="footer-page-list">
+        {privacyCards.map((card, index) => (
+          <li class="footer-page-card" style={`--index: ${index}`}>
+            <div class="footer-page-card__meta">
+              <p class="footer-page-card__eyebrow">{card.eyebrow}</p>
+            </div>
+            <div class="footer-page-card__content">
+              <h2 class="footer-page-card__title">{card.title}</h2>
+              <p class="footer-page-card__description">
+                {card.description}
+                {card.href && card.linkText && (
+                  <>
+                    <a class="text-link" href={card.href}> {card.linkText} </a>
+                    {card.descriptionSuffix}
+                  </>
+                )}
+              </p>
+            </div>
+          </li>
+        ))}
+      </ol>
     </section>
   </main>
 </BaseLayout>
