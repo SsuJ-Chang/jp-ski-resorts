@@ -166,6 +166,12 @@ externalContent:
     - title: "【スキー場ガイド】志賀高原　焼額山スキー場"
       url: https://www.youtube.com/watch?v=yJLrwdUXD68
       note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
+    - title: "【日本自由行】EP5 燒額山滑雪場❄️ 奧志賀滑雪場！女子大迴轉⛄雪道、山景全紀錄！❄️奧志賀出發一路滑到一之瀨⛄"
+      url: "https://www.youtube.com/watch?v=CxQ3Eciv_-k"
+      note: "和Ivy去旅行"
+    - title: "【日本自由行】EP4 奧志賀滑雪場❄️燒額山滑雪場！超好玩樹林道⛄雪道、山景全紀錄！❄️一之瀨出發一路滑到奧志賀⛄"
+      url: "https://www.youtube.com/watch?v=QFbnFpx0FO0"
+      note: "和Ivy去旅行"
 sources:
 - label: Shiga Kogen Real-Time Lift Status
   url: https://www.shigakogen.gr.jp/english/lift_information/

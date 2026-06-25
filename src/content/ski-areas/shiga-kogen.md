@@ -33,4 +33,9 @@ featuredResorts:
   - "shiga-kogen-kumanoyu"
   - "shiga-kogen-yokoteyama"
   - "shiga-kogen-shibutoge"
+externalContent:
+  vlogs:
+    - title: "【日本自由行】EP1 志賀高原滑雪場❄️日本最大滑雪場 開箱⛄羽田機場直達！價格、雪道、山景全紀錄！交通攻略！Jam Jam Express！"
+      url: "https://www.youtube.com/watch?v=SmQRrHix2QE"
+      note: "和Ivy去旅行"
 ---

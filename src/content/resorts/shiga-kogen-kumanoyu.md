@@ -123,6 +123,11 @@ terrainSummary:
   intermediate: No.3 與 No.4 系列提供中級練習與銜接。
   advanced: No.2 A、No.2 B 是熊之湯主要進階雪道。
   powder: 南東側高海拔區域，雪況安排仍需以官方當日公告為準。
+externalContent:
+  vlogs:
+    - title: "【日本自由行】EP2 熊之湯滑雪場❄️志賀高原最長距離！熊之湯滑到橫手山⛄一之瀨到熊之湯！雪道、山景全紀錄！交通攻略！長電巴士！"
+      url: "https://www.youtube.com/watch?v=cac22zGaG9c"
+      note: "和Ivy去旅行"
 sources:
 - label: Shiga Kogen Real-Time Lift Status
   url: https://www.shigakogen.gr.jp/english/lift_information/

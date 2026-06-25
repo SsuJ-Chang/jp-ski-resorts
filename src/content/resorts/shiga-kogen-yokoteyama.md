@@ -141,7 +141,13 @@ externalContent:
     - title: "横手山．渋峠滑雪場，樹冰、鬆雪、雲海、美食一次滿足︱志賀高原Day3"
       url: https://natasha-traveler.tw/yokoteyama-ski/
       note: "娜塔蝦的滑雪食旅手記，2020-03-12"
-  vlogs: []
+  vlogs:
+    - title: "【日本自由行】EP3 橫手山滑雪場❄️日本最高滑雪場！涉峠滑雪場⛄雪道、山景全紀錄！交通攻略！長電巴士！志賀高原黃金連線❄️志賀高原站滑回一之瀨⛄一之瀨 燒肉店"
+      url: "https://www.youtube.com/watch?v=RmK6qKwdEPs"
+      note: "和Ivy去旅行"
+    - title: "【日本自由行】EP2 熊之湯滑雪場❄️志賀高原最長距離！熊之湯滑到橫手山⛄一之瀨到熊之湯！雪道、山景全紀錄！交通攻略！長電巴士！"
+      url: "https://www.youtube.com/watch?v=cac22zGaG9c"
+      note: "和Ivy去旅行"
 sources:
 - label: Shiga Kogen Real-Time Lift Status
   url: https://www.shigakogen.gr.jp/english/lift_information/
