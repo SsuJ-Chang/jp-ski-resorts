@@ -93,74 +93,74 @@ courses:
     - name: すいすいファミリーコース
       difficulty: beginner
       length: 800m
-      maxSlope: 16度
-      averageSlope: 6度
+      maxSlope: 16°
+      averageSlope: 6°
       note: 官方表列為初級雪道，長度 800m、平均坡度 6 度。
     - name: ダンダン畑コース
       difficulty: beginner
       length: 700m
-      maxSlope: 13度
-      averageSlope: 8度
+      maxSlope: 13°
+      averageSlope: 8°
       note: 官方表列為初級雪道，長度 700m、最大坡度 13 度。
     - name: かもしかコース
       difficulty: beginner
       length: 400m
-      maxSlope: 13度
-      averageSlope: 7度
+      maxSlope: 13°
+      averageSlope: 7°
       note: 官方表列為初級雪道，平均坡度 7 度。
     - name: おっきりこみコース
       difficulty: beginner
       length: 850m
-      maxSlope: 15度
-      averageSlope: 7度
+      maxSlope: 15°
+      averageSlope: 7°
       note: 官方表列為初級雪道，長度 850m。
     - name: グランドコンコース
       difficulty: intermediate
       length: 500m
-      maxSlope: 17度
-      averageSlope: 7度
+      maxSlope: 17°
+      averageSlope: 7°
       note: 官方表列為中級雪道，位在飯店前主要雪面。
     - name: のんびりカタツムリコース
       difficulty: intermediate
       length: 800m
-      maxSlope: 13度
-      averageSlope: 6度
+      maxSlope: 13°
+      averageSlope: 6°
       note: 官方表列為中級雪道，長度 800m、平均坡度 6 度。
     - name: トップオブみなかみコース
       difficulty: intermediate
       length: 980m
-      maxSlope: 17度
-      averageSlope: 8度
+      maxSlope: 17°
+      averageSlope: 8°
       note: 官方表列為中級雪道，從雪場上部展開，長度 980m。
     - name: まさかりコース
       difficulty: intermediate
       length: 700m
-      maxSlope: 23度
-      averageSlope: 8度
+      maxSlope: 23°
+      averageSlope: 8°
       note: 官方表列為中級雪道，最大坡度 23 度。
     - name: モンキーダンスコース
       difficulty: intermediate
       length: 300m
-      maxSlope: 22度
-      averageSlope: 13度
+      maxSlope: 22°
+      averageSlope: 13°
       note: 官方表列為中級雪道，長度 300m、最大坡度 22 度。
     - name: ももんがコース
       difficulty: advanced
       length: 650m
-      maxSlope: 23度
-      averageSlope: 14度
+      maxSlope: 23°
+      averageSlope: 14°
       note: 官方表列為上級雪道，平均坡度 14 度。
     - name: 熊ぼっこすコース
       difficulty: advanced
       length: 300m
-      maxSlope: 34度
-      averageSlope: 22度
+      maxSlope: 34°
+      averageSlope: 22°
       note: 官方表列為上級雪道，最大坡度 34 度。
     - name: 熊つっとすコース
       difficulty: advanced
       length: 500m
-      maxSlope: 30度
-      averageSlope: 22度
+      maxSlope: 30°
+      averageSlope: 22°
       note: 官方表列為上級雪道，最大坡度 30 度、平均坡度 22 度。
 lifts:
   total: 4
