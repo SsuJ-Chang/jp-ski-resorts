@@ -37,6 +37,12 @@ export const specialThanks: SpecialThanksEntry[] = [
     description: '在日本東京與神奈川地區拍攝旅遊導覽影片，為安排東京旅遊時的實用參考。',
   },
   {
+    name: '和Ivy去旅行',
+    kind: 'YouTube',
+    url: 'https://www.youtube.com/@ivyli7196',
+    description: '記錄其旅遊故事，分享自由行交通與經典攻略，作為滑雪行程的參考。',
+  },
+  {
     name: '豬圈圈樂活趣',
     kind: '部落格',
     url: 'https://psonfamily.com/',
