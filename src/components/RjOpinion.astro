@@ -1,0 +1,61 @@
+---
+type Props = {
+  text: string
+  compact?: boolean
+  label?: string
+  ariaLabel?: string
+}
+
+const {
+  text,
+  compact = false,
+  label = '作者 RJ 表示',
+  ariaLabel = '作者個人感想',
+} = Astro.props
+---
+
+<blockquote class:list={['rj-opinion', { 'rj-opinion--compact': compact }]}>
+  <div class="rj-opinion__meta" aria-label={ariaLabel}>
+    <span class="rj-opinion__badge">{label}</span>
+  </div>
+  <p>{text}</p>
+</blockquote>
+
+<style>
+  .rj-opinion {
+    margin: 18px 0 0;
+    padding: 0 0 0 16px;
+    border-left: 3px solid rgba(29, 93, 100, 0.28);
+    color: #425552;
+  }
+
+  .rj-opinion__meta {
+    display: inline-flex;
+    align-items: center;
+    margin: 0 0 6px;
+  }
+
+  .rj-opinion__badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 0;
+    height: 18px;
+    padding: 0 8px;
+    border-radius: 999px;
+    background: rgba(29, 93, 100, 0.08);
+    color: rgba(29, 93, 100, 0.78);
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+
+  .rj-opinion p {
+    margin: 0;
+    line-height: 1.75;
+  }
+
+  .rj-opinion--compact {
+    margin-top: 8px;
+  }
+</style>

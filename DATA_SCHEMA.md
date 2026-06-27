@@ -37,7 +37,7 @@
 | `lifts` | 否 | object | 纜車數量。現階段畫面尚未顯示。 |
 | `access` | 否 | object | 從主要城市或機場前往的交通摘要。 |
 | `terrainSummary` | 否 | object | 不同程度與滑行需求的地形摘要。 |
-| `editorial` | 否 | object | 站長補充的編輯註記，例如 RJ 感想。 |
+| `rjOpinion` | 否 | string | 顯示在雪場頁「概要」卡片正文下方的 RJ 個人感想。 |
 | `lodgingRecommendations` | 否 | array | 住宿推薦連結，可附上個人心得備註。 |
 | `externalContent` | 否 | object | 外部遊記與影片連結。 |
 | `sources` | 是 | array | 資料來源。 |
@@ -360,11 +360,7 @@ mixed
 | `snowboard` | 否 | string | 單板適合度。 |
 | `powder` | 否 | string | 粉雪適合度。 |
 
-## `editorial`
-
-| 欄位 | 必填 | 型別 | 說明 |
-|---|---:|---|---|
-| `rjOpinion` | 否 | string | 顯示在雪場頁「概要」卡片正文下方的 RJ 個人感想。 |
+## `rjOpinion`
 
 建議寫法：
 
@@ -378,11 +374,11 @@ mixed
 |---|---:|---|---|
 | `title` | 是 | string | 顯示名稱。 |
 | `url` | 是 | URL | 住宿網址，若有 Google Maps 連結也可直接填。 |
-| `note` | 否 | string | 個人心得或補充，頁面會用類似 RJ 感想的引用樣式顯示。 |
+| `rjOpinion` | 否 | string | RJ 個人的住宿心得或補充，頁面會用類似引用的樣式顯示。 |
 
 使用建議：
 - 只放你真的想推薦的住宿，不要把一般飯店搜尋結果整批塞進來。
-- `note` 可以寫你自己的觀察，例如「走到纜車 5 分鐘」「房間舊但早餐不錯」這種實際感受。
+- `rjOpinion` 可以寫你自己的觀察，例如「走到纜車 5 分鐘」「房間舊但早餐不錯」這種實際感受。
 - 沒資料就整個欄位省略，前端不會顯示該區塊。
 
 ## `externalContent`

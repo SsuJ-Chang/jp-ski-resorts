@@ -121,11 +121,9 @@ const accessRouteSchema = z.object({
     .optional(),
 })
 
-const editorialSchema = z.object({
+const lodgingRecommendationSchema = namedLinkSchema.omit({ note: true }).extend({
   rjOpinion: z.string().optional(),
 })
-
-const lodgingRecommendationSchema = namedLinkSchema
 
 const externalContentSchema = z.object({
   blogs: z.array(namedLinkSchema).optional(),
@@ -254,7 +252,7 @@ const resorts = defineCollection({
         powder: z.string().optional(),
       })
       .optional(),
-    editorial: editorialSchema.optional(),
+    rjOpinion: z.string().optional(),
     lodgingRecommendations: z.array(lodgingRecommendationSchema).optional(),
     externalContent: externalContentSchema.optional(),
     sources: z.array(sourceSchema).min(1),

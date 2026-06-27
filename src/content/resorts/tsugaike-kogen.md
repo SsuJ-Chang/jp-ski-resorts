@@ -16,8 +16,7 @@ tags:
 - powder
 - snowboard_friendly
 - tree_run
-editorial:
-  rjOpinion: 大推！作者 RJ 第一次到日本滑雪的雪場，體驗非常好，最下面的「鐘の鳴る丘ゲレンデ」實在是太新手友善了，又寬又緩。最大的缺點就是地點位在白馬 Valley 比較遠的地方，因為從八方車站或是從白馬五龍 ESCAL PLAZA 轉車都要搭比較久。有自駕或者住這附近會比較便利。
+rjOpinion: 大推！第一次到日本滑雪的雪場，體驗非常好，最下面的「鐘の鳴る丘ゲレンデ」實在是太新手友善了，又寬又緩。最大的缺點就是地點位在白馬 Valley 比較遠的地方，因為從八方車站或是從白馬五龍 ESCAL PLAZA 轉車都要搭比較久。有自駕或者住這附近會比較便利。
 links:
   official: https://www.tsugaike.gr.jp/snow
   facebook: "https://www.facebook.com/tsugaikeresort"

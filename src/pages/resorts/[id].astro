@@ -1,6 +1,7 @@
 ---
 import { render } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
+import RjOpinion from '../../components/RjOpinion.astro'
 import { regions } from '../../data/regions'
 import { tagLabels } from '../../data/tags'
 import { getPublishedResorts } from '../../utils/resortCatalog'
@@ -26,7 +27,7 @@ const hasExternalContent =
   (resort.data.externalContent?.blogs?.length ?? 0) > 0 ||
   (resort.data.externalContent?.vlogs?.length ?? 0) > 0
 const hasLodgingRecommendations = (resort.data.lodgingRecommendations?.length ?? 0) > 0
-const hasRjOpinion = Boolean(resort.data.editorial?.rjOpinion?.trim())
+const hasRjOpinion = Boolean(resort.data.rjOpinion?.trim())
 
 type OfficialLinkIcon = 'website' | 'facebook' | 'instagram' | 'threads' | 'xTwitter'
 
@@ -317,11 +318,7 @@ const resortStructuredData = [
         <div class="content-body">
           <Content />
         </div>
-        {hasRjOpinion && (
-          <blockquote class="rj-opinion">
-            <p>{resort.data.editorial?.rjOpinion}</p>
-          </blockquote>
-        )}
+        {hasRjOpinion && <RjOpinion text={resort.data.rjOpinion!} />}
       </article>
 
       {
@@ -729,15 +726,11 @@ const resortStructuredData = [
                     rel="noreferrer"
                     data-analytics-resource="lodging_recommendation"
                     data-analytics-label={lodging.title}
-                    data-analytics-note={lodging.note}
+                    data-analytics-note={lodging.rjOpinion}
                   >
                     {lodging.title}
                   </a>
-                  {lodging.note && (
-                    <blockquote class="rj-opinion rj-opinion--compact">
-                      <p>{lodging.note}</p>
-                    </blockquote>
-                  )}
+                  {lodging.rjOpinion && <RjOpinion text={lodging.rjOpinion} compact />}
                 </li>
               ))}
             </ul>
