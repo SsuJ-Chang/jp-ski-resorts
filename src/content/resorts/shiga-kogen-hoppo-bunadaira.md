@@ -11,9 +11,9 @@ tags:
 - beginner_friendly
 links:
   official: https://shigakogen.co.jp/
-  facebook: "https://www.facebook.com/ShigaKogen.Ski"
-  instagram: "https://www.instagram.com/ShigaCentral/"
-  xTwitter: "https://x.com/ShigaCentral"
+  facebook: https://www.facebook.com/ShigaKogen.Ski
+  instagram: https://www.instagram.com/ShigaCentral/
+  xTwitter: https://x.com/ShigaCentral
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
@@ -37,8 +37,11 @@ tickets:
   source: https://shigakogen-ski.or.jp/winter/ticket/
   plans:
   - name: 全山 1 日券
-    audience: 成人、中高生、長者、兒童
-    price: 成人 ¥8,000、中高生 ¥6,200、長者 ¥6,400、兒童 ¥3,600
+    priceLines:
+    - 成人 ¥8,000
+    - 中高生 ¥6,200
+    - 長者 ¥6,400
+    - 兒童 ¥3,600
 snowWeather:
   title: 志賀高原發哺ブナ平雪況天氣
   provider: Official
@@ -63,22 +66,22 @@ courses:
     length: 1,500m
     note: 上部寬且平緩，是中央區域初級雪道中較寬的斜面之一。
     videoLinks:
-      - https://www.youtube.com/watch?v=KQCss9sO5U0&t=765s
+    - https://www.youtube.com/watch?v=KQCss9sO5U0&t=765s
 lifts:
   total: 1
 access:
   fromTokyo:
-    - label: "東京出發經長野"
-      steps:
-        - "從東京搭北陸新幹線到長野站。"
-        - "從長野站東口搭直達巴士前往志賀高原，於發哺溫泉、Giant 或中央區域可銜接站點下車。"
-      estimatedTime: "長野後約 1.5-2 小時"
-      difficulty: "medium"
-      note: "發哺ブナ平位於中央區域銜接動線上，巴士下車後仍可能需要步行或利用雪場內纜車、滑行動線移動。"
+  - label: 東京出發經長野
+    steps:
+    - 從東京搭北陸新幹線到長野站。
+    - 從長野站東口搭直達巴士前往志賀高原，於發哺溫泉、Giant 或中央區域可銜接站點下車。
+    estimatedTime: 長野後約 1.5-2 小時
+    difficulty: medium
+    note: 發哺ブナ平位於中央區域銜接動線上，巴士下車後仍可能需要步行或利用雪場內纜車、滑行動線移動。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。此區常利用 Giant 停車場約 350 台，冬季需準備雪胎或雪鏈。"
+    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。此區常利用 Giant 停車場約 350 台，冬季需準備雪胎或雪鏈。
 terrainSummary:
   beginner: 官方描述為寬廣緩斜面，適合初級者長距離練習。
   intermediate: 雖官方等級列為中級，實際特色偏寬緩。

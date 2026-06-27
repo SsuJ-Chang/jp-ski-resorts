@@ -19,9 +19,9 @@ tags:
 rjOpinion: 大推！第一次到日本滑雪的雪場，體驗非常好，最下面的「鐘の鳴る丘ゲレンデ」實在是太新手友善了，又寬又緩。最大的缺點就是地點位在白馬 Valley 比較遠的地方，因為從八方車站或是從白馬五龍 ESCAL PLAZA 轉車都要搭比較久。有自駕或者住這附近會比較便利。
 links:
   official: https://www.tsugaike.gr.jp/snow
-  facebook: "https://www.facebook.com/tsugaikeresort"
-  instagram: "https://www.instagram.com/tsugaike_kogen/"
-  xTwitter: "https://x.com/gogotsugaike"
+  facebook: https://www.facebook.com/tsugaikeresort
+  instagram: https://www.instagram.com/tsugaike_kogen/
+  xTwitter: https://x.com/gogotsugaike
   trailMapPage: https://www.tsugaike.gr.jp/snow/gelande
   ticket: https://www.tsugaike.gr.jp/snow/price
   googleMaps: https://www.google.com/maps/search/?api=1&query=Tsugaike%20Mountain%20Resort
@@ -29,7 +29,7 @@ links:
 contact:
   address:
     zhTw: 長野縣北安曇郡小谷村千國乙
-    ja: "〒399-9422 長野県北安曇郡小谷村大字千国乙"
+    ja: 〒399-9422 長野県北安曇郡小谷村大字千国乙
     googleMaps: https://www.google.com/maps/search/?api=1&query=Tsugaike%20Mountain%20Resort
   phone: 050-1809-2606
 season:
@@ -50,17 +50,24 @@ tickets:
   source: https://www.tsugaike.gr.jp/snow/price
   plans:
   - name: 1 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥8,200、兒童 ¥4,900、長者 ¥6,700
+    priceLines:
+    - 成人 ¥8,200
+    - 兒童 ¥4,900
+    - 長者 ¥6,700
   - name: 上午券
-    audience: 成人、兒童、長者
-    price: 成人 ¥6,500、兒童 ¥4,200、長者 ¥5,000
+    priceLines:
+    - 成人 ¥6,500
+    - 兒童 ¥4,200
+    - 長者 ¥5,000
   - name: 2 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥14,600、兒童 ¥9,000、長者 ¥11,500
+    priceLines:
+    - 成人 ¥14,600
+    - 兒童 ¥9,000
+    - 長者 ¥11,500
   - name: 區域限定初學者券
-    audience: 成人、兒童
-    price: 成人 ¥4,900、兒童 ¥3,400
+    priceLines:
+    - 成人 ¥4,900
+    - 兒童 ¥3,400
 snowWeather:
   title: 栂池高原雪況天氣
   provider: Weathernews
@@ -108,7 +115,7 @@ courses:
     maxSlope: 23°
     averageSlope: 14°
     videoLinks:
-      - https://www.youtube.com/watch?v=BvHin_2Mcog&t=1662s
+    - https://www.youtube.com/watch?v=BvHin_2Mcog&t=1662s
     note: 栂池最上部雪道。官方說明此處具備標高 1,700m 才有的優質天然雪、原生林包圍的山岳氛圍與展望，5 月上旬前也會設置 TG PARKS。
   - name: 白樺ゲレンデ / Shirakaba Slope
     difficulty: intermediate
@@ -144,41 +151,41 @@ lifts:
   total: 16
 access:
   fromTokyo:
-    - label: "東京出發經長野"
-      steps:
-        - "從東京搭北陸新幹線到長野站。"
-        - "從長野站東口搭長野－白馬線特急巴士，於栂池高原下車。"
-      estimatedTime: "長野後約 1.5-2 小時"
-      difficulty: "medium"
-      note: "長野－白馬線會依季節與班次調整停靠站，滑雪季建議先確認當季時刻表與回程末班車。"
+  - label: 東京出發經長野
+    steps:
+    - 從東京搭北陸新幹線到長野站。
+    - 從長野站東口搭長野－白馬線特急巴士，於栂池高原下車。
+    estimatedTime: 長野後約 1.5-2 小時
+    difficulty: medium
+    note: 長野－白馬線會依季節與班次調整停靠站，滑雪季建議先確認當季時刻表與回程末班車。
   car:
     recommended: false
     snowTireRequired: true
-    note: "自駕可由長野 IC、安曇野 IC 或糸魚川 IC 轉一般道路前往；栂池高原周邊有多處停車場，部分停車場、特定日或預約車位可能收費。白馬山區冬季需準備雪胎或雪鏈。"
+    note: 自駕可由長野 IC、安曇野 IC 或糸魚川 IC 轉一般道路前往；栂池高原周邊有多處停車場，部分停車場、特定日或預約車位可能收費。白馬山區冬季需準備雪胎或雪鏈。
 externalContent:
   blogs:
-    - title: "白馬滑雪︱栂池高原滑雪場住宿推薦2026，地點超好的6間栂池飯店&背包客住宿"
-      url: https://natasha-traveler.tw/tsugaike-ski-resort-hotel-guidw/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "栂池高原滑雪場美食餐廳6選，晚餐好選擇，燒肉、定食、牛排飯都美味"
-      url: https://natasha-traveler.tw/tsugaike-restaurant/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "栂池高原滑雪場住宿︱栂池太陽廣場飯店，近纜車站、溫泉大浴場 (Hotel Sun Plaza Tsugaike)"
-      url: https://natasha-traveler.tw/sunplaza-tsugaike-hotel/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "白馬栂池高原滑雪場攻略－日本最容易搭訕成功的雪場、適合新手練功"
-      url: https://natasha-traveler.tw/tsugaike-ski/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: 白馬滑雪︱栂池高原滑雪場住宿推薦2026，地點超好的6間栂池飯店&背包客住宿
+    url: https://natasha-traveler.tw/tsugaike-ski-resort-hotel-guidw/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 栂池高原滑雪場美食餐廳6選，晚餐好選擇，燒肉、定食、牛排飯都美味
+    url: https://natasha-traveler.tw/tsugaike-restaurant/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 栂池高原滑雪場住宿︱栂池太陽廣場飯店，近纜車站、溫泉大浴場 (Hotel Sun Plaza Tsugaike)
+    url: https://natasha-traveler.tw/sunplaza-tsugaike-hotel/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 白馬栂池高原滑雪場攻略－日本最容易搭訕成功的雪場、適合新手練功
+    url: https://natasha-traveler.tw/tsugaike-ski/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs:
-    - title: "【2025日本白馬🇯🇵】EP4 栂池高原滑雪場🗻自學滑雪全紀錄｜新手卡粉雪大崩潰｜意外自由潛水教練出現一起滑雪🏂｜許願大成功粉雪滑雪🎄"
-      url: https://www.youtube.com/watch?v=IfPEhAxRxbE
-      note: "和Ivy去旅行"
-    - title: "【2025日本白馬🇯🇵】EP1 栂池高原滑雪場🗻（下集）｜自學滑雪全紀錄｜鐘鳴之丘初學者天堂｜林間道🎄｜Snow board 單板滑雪🏂｜機場租車自駕🚗"
-      url: https://www.youtube.com/watch?v=zkkJam1ybok
-      note: "和Ivy去旅行"
-    - title: "【2025日本白馬🇯🇵】EP1 栂池高原滑雪場🗻（上集）｜Hotel Sunplaza Tsugaike｜自學滑雪全紀錄｜Nagano大採購｜機場租車自駕🚌"
-      url: https://www.youtube.com/watch?v=IJT-BvG2lsk
-      note: "和Ivy去旅行"
+  - title: 【2025日本白馬🇯🇵】EP4 栂池高原滑雪場🗻自學滑雪全紀錄｜新手卡粉雪大崩潰｜意外自由潛水教練出現一起滑雪🏂｜許願大成功粉雪滑雪🎄
+    url: https://www.youtube.com/watch?v=IfPEhAxRxbE
+    note: 和Ivy去旅行
+  - title: 【2025日本白馬🇯🇵】EP1 栂池高原滑雪場🗻（下集）｜自學滑雪全紀錄｜鐘鳴之丘初學者天堂｜林間道🎄｜Snow board 單板滑雪🏂｜機場租車自駕🚗
+    url: https://www.youtube.com/watch?v=zkkJam1ybok
+    note: 和Ivy去旅行
+  - title: 【2025日本白馬🇯🇵】EP1 栂池高原滑雪場🗻（上集）｜Hotel Sunplaza Tsugaike｜自學滑雪全紀錄｜Nagano大採購｜機場租車自駕🚌
+    url: https://www.youtube.com/watch?v=IJT-BvG2lsk
+    note: 和Ivy去旅行
 sources:
 - label: Tsugaike Mountain Resort Official Website
   url: https://www.tsugaike.gr.jp/snow

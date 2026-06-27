@@ -14,7 +14,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.yeti-resort.com/
-  instagram: "https://www.instagram.com/yeti_snowresort/"
+  instagram: https://www.instagram.com/yeti_snowresort/
   access: https://www.yeti-resort.com/access/
   weather: https://weathernews.jp/ski/spot/35003/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Snow%20Park%20Yeti
@@ -38,17 +38,25 @@ tickets:
   note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、營業時段與直行巴士資訊請以官方為準。
   plans:
   - name: 週末及國定假日 1 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥5,300、兒童 ¥4,300、長者 ¥4,300
+    priceLines:
+    - 成人 ¥5,300
+    - 兒童 ¥4,300
+    - 長者 ¥4,300
   - name: 平日 1 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥4,300、兒童 ¥3,300、長者 ¥3,300
+    priceLines:
+    - 成人 ¥4,300
+    - 兒童 ¥3,300
+    - 長者 ¥3,300
   - name: 夜滑券（月-四）
-    audience: 成人、兒童、長者
-    price: 成人 ¥2,900、兒童 ¥2,400、長者 ¥2,400
+    priceLines:
+    - 成人 ¥2,900
+    - 兒童 ¥2,400
+    - 長者 ¥2,400
   - name: 夜滑券（五-日與假日）
-    audience: 成人、兒童、長者
-    price: 成人 ¥3,200、兒童 ¥2,700、長者 ¥2,700
+    priceLines:
+    - 成人 ¥3,200
+    - 兒童 ¥2,700
+    - 長者 ¥2,700
 snowWeather:
   title: Snow Park YETI 雪況天氣
   provider: Weathernews
@@ -58,7 +66,7 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 35.300050
+  latitude: 35.30005
   longitude: 138.768422
 elevation:
   top: 1450
@@ -91,13 +99,13 @@ lifts:
   total: 3
 access:
   fromTokyo:
-    - label: 東京出發直行巴士
-      steps:
-        - 從新宿、上野、町田等官方列出的發車點搭乘預約制直行巴士。
-        - 直達 Snow Park YETI，或改由 JR 御殿場、三島、裾野等車站轉路線巴士。
-      estimatedTime: 約 2-3 小時
-      difficulty: easy
-      note: 直行巴士與路線巴士皆為季節性班次，發車地、開始日與預約狀態需以官方頁面為準。
+  - label: 東京出發直行巴士
+    steps:
+    - 從新宿、上野、町田等官方列出的發車點搭乘預約制直行巴士。
+    - 直達 Snow Park YETI，或改由 JR 御殿場、三島、裾野等車站轉路線巴士。
+    estimatedTime: 約 2-3 小時
+    difficulty: easy
+    note: 直行巴士與路線巴士皆為季節性班次，發車地、開始日與預約狀態需以官方頁面為準。
   car:
     recommended: true
     snowTireRequired: true

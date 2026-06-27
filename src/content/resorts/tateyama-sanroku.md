@@ -1,142 +1,142 @@
 ---
-
-id: "tateyama-sanroku"
+id: tateyama-sanroku
 name:
-  zhTw: "立山山麓"
-  ja: "立山山麓スキー場"
-  en: "Tateyama Sanroku Ski Resort"
-region: "hokuriku"
-prefecture: "富山縣"
+  zhTw: 立山山麓
+  ja: 立山山麓スキー場
+  en: Tateyama Sanroku Ski Resort
+region: hokuriku
+prefecture: 富山縣
 tags:
-  - "snowboard_friendly"
+- snowboard_friendly
 visibility:
-  status: "published"
-  note: "富山縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。"
+  status: published
+  note: 富山縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。
 links:
-  official: "https://www.tateyama36.co.jp/"
-  facebook: "https://www.facebook.com/tateyama36/"
-  instagram: "https://www.instagram.com/tateyama_36/"
-  weather: "https://weathernews.jp/ski/spot/35505/"
-  ticket: "https://www.tateyama36.co.jp/price/"
-  access: "https://www.tateyama36.co.jp/access/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=Tateyama%20Sanroku%20Ski%20Resort"
+  official: https://www.tateyama36.co.jp/
+  facebook: https://www.facebook.com/tateyama36/
+  instagram: https://www.instagram.com/tateyama_36/
+  weather: https://weathernews.jp/ski/spot/35505/
+  ticket: https://www.tateyama36.co.jp/price/
+  access: https://www.tateyama36.co.jp/access/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=Tateyama%20Sanroku%20Ski%20Resort
 contact:
   address:
-    zhTw: "日本富山縣富山市本宮"
-    ja: "富山県富山市本宮"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=Tateyama%20Sanroku%20Ski%20Resort"
-  phone: "076-482-1311"
+    zhTw: 日本富山縣富山市本宮
+    ja: 富山県富山市本宮
+    googleMaps: https://www.google.com/maps/search/?api=1&query=Tateyama%20Sanroku%20Ski%20Resort
+  phone: 076-482-1311
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025-2026 雪季：12/13-3/15"
-  hours: "8:00-16:00"
-  note: "營業期間、營業時間與票價為 2025-2026 雪季公開資料，仍請以官方最新公告為準。"
-  source: "https://weathernews.jp/ski/spot/35505/"
+  label: 2025-2026
+  operatingPeriod: 2025-2026 雪季：12/13-3/15
+  hours: 8:00-16:00
+  note: 營業期間、營業時間與票價為 2025-2026 雪季公開資料，仍請以官方最新公告為準。
+  source: https://weathernews.jp/ski/spot/35505/
 tickets:
-  season: "2025-2026"
-  currency: "JPY"
-  source: "https://weathernews.jp/ski/spot/35505/"
-  note: "主要票種摘要取自公開雪場資料；實際販售條件、優惠與停車費請以官方公告為準。"
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/35505/
+  note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠與停車費請以官方公告為準。
   plans:
-    - name: "1 日券"
-      audience: "成人、小學生"
-      price: "成人 ¥4,800、小學生 ¥3,000"
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,800
+    - 小學生 ¥3,000
 snowWeather:
-  title: "立山山麓雪況天氣"
-  provider: "Weathernews"
-  url: "https://weathernews.jp/ski/spot/35505/"
+  title: 立山山麓雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/35505/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
   total: 9
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
-  courseInfoPage: "https://www.tateyama36.co.jp/course/"
-  summary: "立山山麓共有 7 條雪道，最大斜度 32°，初級 30%、中級 40%、上級 30%。最低斜度約 10°，實際開放狀況請以官方公告為準。"
+  courseInfoPage: https://www.tateyama36.co.jp/course/
+  summary: 立山山麓共有 7 條雪道，最大斜度 32°，初級 30%、中級 40%、上級 30%。最低斜度約 10°，實際開放狀況請以官方公告為準。
   details:
-    - name: "パノラマコース"
-      difficulty: "mixed"
-      length: "2,000m"
-      maxSlope: "25°"
-      averageSlope: "20°"
-    - name: "パラダイスゲレンデ上部"
-      difficulty: "mixed"
-      length: "500m"
-      maxSlope: "32°"
-      averageSlope: "16°"
-    - name: "パラダイスゲレンデ下部"
-      difficulty: "intermediate"
-      length: "800m"
-      maxSlope: "27°"
-      averageSlope: "16°"
-    - name: "ユートピアゲレンデ"
-      difficulty: "beginner"
-      length: "900m"
-      maxSlope: "15°"
-      averageSlope: "10°"
-    - name: "ジャイアントコース"
-      difficulty: "advanced"
-      length: "1,000m"
-      maxSlope: "32°"
-      averageSlope: "20°"
-    - name: "エキスパートコース"
-      difficulty: "advanced"
-      length: "1,300m"
-      maxSlope: "32°"
-      averageSlope: "20°"
-    - name: "ロマンスコース"
-      difficulty: "intermediate"
-      length: "1,400m"
-      maxSlope: "25°"
-      averageSlope: "15°"
-    - name: "チャレンジコース"
-      difficulty: "mixed"
-      length: "1,500m"
-      maxSlope: "32°"
-      averageSlope: "15°"
-    - name: "ファミリーゲレンデ"
-      difficulty: "beginner"
-      length: "500m"
-      maxSlope: "15°"
-      averageSlope: "10°"
+  - name: パノラマコース
+    difficulty: mixed
+    length: 2,000m
+    maxSlope: 25°
+    averageSlope: 20°
+  - name: パラダイスゲレンデ上部
+    difficulty: mixed
+    length: 500m
+    maxSlope: 32°
+    averageSlope: 16°
+  - name: パラダイスゲレンデ下部
+    difficulty: intermediate
+    length: 800m
+    maxSlope: 27°
+    averageSlope: 16°
+  - name: ユートピアゲレンデ
+    difficulty: beginner
+    length: 900m
+    maxSlope: 15°
+    averageSlope: 10°
+  - name: ジャイアントコース
+    difficulty: advanced
+    length: 1,000m
+    maxSlope: 32°
+    averageSlope: 20°
+  - name: エキスパートコース
+    difficulty: advanced
+    length: 1,300m
+    maxSlope: 32°
+    averageSlope: 20°
+  - name: ロマンスコース
+    difficulty: intermediate
+    length: 1,400m
+    maxSlope: 25°
+    averageSlope: 15°
+  - name: チャレンジコース
+    difficulty: mixed
+    length: 1,500m
+    maxSlope: 32°
+    averageSlope: 15°
+  - name: ファミリーゲレンデ
+    difficulty: beginner
+    length: 500m
+    maxSlope: 15°
+    averageSlope: 10°
 lifts:
   total: 4
 access:
   fromTokyo:
-    - label: "東京出發經富山・立山"
-      steps:
-        - "從東京搭北陸新幹線到富山站。"
-        - "轉乘富山地方鐵道立山線到立山站。"
-        - "從立山站前搭往らいちょうバレー、粟巣野、極楽坂方向的雪場周邊巴士。"
-      difficulty: "medium"
-      note: "立山站前的雪場周邊巴士有日文與英文時刻表；實際運行日與停靠雪區需以當季公告為準。"
+  - label: 東京出發經富山・立山
+    steps:
+    - 從東京搭北陸新幹線到富山站。
+    - 轉乘富山地方鐵道立山線到立山站。
+    - 從立山站前搭往らいちょうバレー、粟巣野、極楽坂方向的雪場周邊巴士。
+    difficulty: medium
+    note: 立山站前的雪場周邊巴士有日文與英文時刻表；實際運行日與停靠雪區需以當季公告為準。
   fromAirport:
-    - label: "富山機場出發"
-      steps:
-        - "從富山機場搭巴士到 JR 富山站。"
-        - "轉乘富山地方鐵道立山線到立山站，再轉雪場周邊巴士前往各雪區。"
-      estimatedTime: "約 90 分"
-      difficulty: "medium"
-      note: "富山站與立山站的轉乘時間會影響總車程，建議先查好鐵道與雪場周邊巴士時刻。"
+  - label: 富山機場出發
+    steps:
+    - 從富山機場搭巴士到 JR 富山站。
+    - 轉乘富山地方鐵道立山線到立山站，再轉雪場周邊巴士前往各雪區。
+    estimatedTime: 約 90 分
+    difficulty: medium
+    note: 富山站與立山站的轉乘時間會影響總車程，建議先查好鐵道與雪場周邊巴士時刻。
   car:
     recommended: true
     snowTireRequired: true
-    note: "可由北陸自動車道立山 IC 下交流道，經縣道立山公園線前往，約 19km、35 分鐘；各雪區周邊設有免費停車場。"
+    note: 可由北陸自動車道立山 IC 下交流道，經縣道立山公園線前往，約 19km、35 分鐘；各雪區周邊設有免費停車場。
 terrainSummary:
-  beginner: "初級雪道占 30%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
-  intermediate: "中級雪道占 40%，適合已能穩定轉彎的滑雪者參考。"
-  advanced: "上級雪道占 30%，進階路線請依當日雪況與官方管制判斷。"
-  snowboard: "雪板可滑行。"
+  beginner: 初級雪道占 30%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。
+  intermediate: 中級雪道占 40%，適合已能穩定轉彎的滑雪者參考。
+  advanced: 上級雪道占 30%，進階路線請依當日雪況與官方管制判斷。
+  snowboard: 雪板可滑行。
 sources:
-  - label: "立山山麓スキー場 Official"
-    url: "https://www.tateyama36.co.jp/"
-  - label: "立山山麓スキー場 Access"
-    url: "https://www.tateyama36.co.jp/access/"
-  - label: "Weathernews 立山山麓スキー場"
-    url: "https://weathernews.jp/ski/spot/35505/"
+- label: 立山山麓スキー場 Official
+  url: https://www.tateyama36.co.jp/
+- label: 立山山麓スキー場 Access
+  url: https://www.tateyama36.co.jp/access/
+- label: Weathernews 立山山麓スキー場
+  url: https://weathernews.jp/ski/spot/35505/
 ---
 
 富山縣的立山山麓共有9 條雪道，搭配 4 座纜車，包含 パノラマコース、パラダイスゲレンデ上部、パラダイスゲレンデ下部 等路線。初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

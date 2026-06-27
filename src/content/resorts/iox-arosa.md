@@ -1,121 +1,122 @@
 ---
-id: "iox-arosa"
+id: iox-arosa
 name:
-  zhTw: "IOX-AROSA"
-  ja: "IOX-AROSA"
-  en: "IOX-AROSA"
-region: "hokuriku"
-prefecture: "富山縣"
+  zhTw: IOX-AROSA
+  ja: IOX-AROSA
+  en: IOX-AROSA
+region: hokuriku
+prefecture: 富山縣
 tags:
-  - "night_skiing"
-  - "snowboard_friendly"
+- night_skiing
+- snowboard_friendly
 visibility:
-  status: "published"
-  note: "富山縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。"
+  status: published
+  note: 富山縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。
 links:
-  official: "https://www.iox-arosa.jp/"
-  instagram: "https://www.instagram.com/ioxarosaofficial/"
-  xTwitter: "https://twitter.com/iox_arosa"
-  weather: "https://weathernews.jp/ski/spot/35510/"
-  ticket: "https://weathernews.jp/ski/spot/35510/"
-  access: "https://iox-arosa.jp/access"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=IOX%20AROSA%20Ski%20Resort"
+  official: https://www.iox-arosa.jp/
+  instagram: https://www.instagram.com/ioxarosaofficial/
+  xTwitter: https://twitter.com/iox_arosa
+  weather: https://weathernews.jp/ski/spot/35510/
+  ticket: https://weathernews.jp/ski/spot/35510/
+  access: https://iox-arosa.jp/access
+  googleMaps: https://www.google.com/maps/search/?api=1&query=IOX%20AROSA%20Ski%20Resort
 contact:
   address:
-    zhTw: "日本富山縣南砺市才川七字ススケ原 115"
-    ja: "富山県南砺市才川七字ススケ原115"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=IOX%20AROSA%20Ski%20Resort"
-  phone: "0763-55-1326"
+    zhTw: 日本富山縣南砺市才川七字ススケ原 115
+    ja: 富山県南砺市才川七字ススケ原115
+    googleMaps: https://www.google.com/maps/search/?api=1&query=IOX%20AROSA%20Ski%20Resort
+  phone: 0763-55-1326
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025-2026 雪季：12/19-3/8"
-  hours: "8:00-16:30；週六 8:00-21:00"
-  note: "營業期間、營業時間與票價為 2025-2026 雪季公開資料，仍請以官方最新公告為準。"
-  source: "https://weathernews.jp/ski/spot/35510/"
-  nightSkiingHours: "週六 16:30-21:00"
+  label: 2025-2026
+  operatingPeriod: 2025-2026 雪季：12/19-3/8
+  hours: 8:00-16:30；週六 8:00-21:00
+  note: 營業期間、營業時間與票價為 2025-2026 雪季公開資料，仍請以官方最新公告為準。
+  source: https://weathernews.jp/ski/spot/35510/
+  nightSkiingHours: 週六 16:30-21:00
 tickets:
-  season: "2025-2026"
-  currency: "JPY"
-  source: "https://weathernews.jp/ski/spot/35510/"
-  note: "主要票種摘要取自公開雪場資料；實際販售條件、優惠與停車費請以官方公告為準。"
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/35510/
+  note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠與停車費請以官方公告為準。
   plans:
-    - name: "1 日券"
-      audience: "成人、小學生"
-      price: "成人 ¥5,000、小學生 ¥3,000"
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥5,000
+    - 小學生 ¥3,000
 snowWeather:
-  title: "IOX-AROSA雪況天氣"
-  provider: "Weathernews"
-  url: "https://weathernews.jp/ski/spot/35510/"
+  title: IOX-AROSA雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/35510/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
   total: 7
   beginnerRatio: 30
   intermediateRatio: 60
   advancedRatio: 10
-  courseInfoPage: "https://iox-arosa.jp/map"
-  summary: "IOX-AROSA 共有 7 條雪道，最大斜度 35°，初級 30%、中級 60%、上級 10%。最低斜度約 7°，實際開放狀況請以官方公告為準。"
+  courseInfoPage: https://iox-arosa.jp/map
+  summary: IOX-AROSA 共有 7 條雪道，最大斜度 35°，初級 30%、中級 60%、上級 10%。最低斜度約 7°，實際開放狀況請以官方公告為準。
   details:
-    - name: "山麓初級バーン（名稱待確認）"
-      difficulty: beginner
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "ゴンドラ連絡コース（名稱待確認）"
-      difficulty: beginner
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "メインバーン（名稱待確認）"
-      difficulty: intermediate
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "上部中級コース（名稱待確認）"
-      difficulty: intermediate
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "夜滑ゲレンデ（名稱待確認）"
-      difficulty: intermediate
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "スノーパーク（名稱待確認）"
-      difficulty: intermediate
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "上級斜面（名稱待確認）"
-      difficulty: advanced
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+  - name: 山麓初級バーン（名稱待確認）
+    difficulty: beginner
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: ゴンドラ連絡コース（名稱待確認）
+    difficulty: beginner
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: メインバーン（名稱待確認）
+    difficulty: intermediate
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: 上部中級コース（名稱待確認）
+    difficulty: intermediate
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: 夜滑ゲレンデ（名稱待確認）
+    difficulty: intermediate
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: スノーパーク（名稱待確認）
+    difficulty: intermediate
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: 上級斜面（名稱待確認）
+    difficulty: advanced
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
 lifts:
   total: 5
 access:
   fromOsaka:
-    - label: 大阪出發鐵路轉計程車
-      steps:
-        - 從大阪站搭特急 Thunderbird 到金澤站。
-        - 轉乘北陸新幹線至新高岡站，再轉 JR 城端線到福光站。
-        - 從福光站搭計程車前往 IOX-AROSA。
-      estimatedTime: 約 4 小時
-      difficulty: hard
-      note: 官方路線以福光站轉計程車銜接；實際時間會受列車轉乘與叫車狀況影響。
+  - label: 大阪出發鐵路轉計程車
+    steps:
+    - 從大阪站搭特急 Thunderbird 到金澤站。
+    - 轉乘北陸新幹線至新高岡站，再轉 JR 城端線到福光站。
+    - 從福光站搭計程車前往 IOX-AROSA。
+    estimatedTime: 約 4 小時
+    difficulty: hard
+    note: 官方路線以福光站轉計程車銜接；實際時間會受列車轉乘與叫車狀況影響。
   fromNagoya:
-    - label: 名古屋出發鐵路轉計程車
-      steps:
-        - 從名古屋站搭特急 Shirasagi 到金澤站。
-        - 轉乘北陸新幹線至新高岡站，再轉 JR 城端線到福光站。
-        - 從福光站搭計程車前往 IOX-AROSA。
-      estimatedTime: 約 4 小時 15 分
-      difficulty: hard
-      note: 官方路線以福光站轉計程車銜接；實際時間會受列車轉乘與叫車狀況影響。
+  - label: 名古屋出發鐵路轉計程車
+    steps:
+    - 從名古屋站搭特急 Shirasagi 到金澤站。
+    - 轉乘北陸新幹線至新高岡站，再轉 JR 城端線到福光站。
+    - 從福光站搭計程車前往 IOX-AROSA。
+    estimatedTime: 約 4 小時 15 分
+    difficulty: hard
+    note: 官方路線以福光站轉計程車銜接；實際時間會受列車轉乘與叫車狀況影響。
   car:
     recommended: true
     snowTireRequired: true
-    note: "可由東海北陸自動車道福光 IC，經國道 304 號前往，約 10km、15 分鐘。"
+    note: 可由東海北陸自動車道福光 IC，經國道 304 號前往，約 10km、15 分鐘。
 terrainSummary:
-  beginner: "初級雪道占 30%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。"
-  intermediate: "中級雪道占 60%，適合已能穩定轉彎的滑雪者參考。"
-  advanced: "上級雪道占 10%，進階路線請依當日雪況與官方管制判斷。"
-  snowboard: "雪板可滑行。"
+  beginner: 初級雪道占 30%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。
+  intermediate: 中級雪道占 60%，適合已能穩定轉彎的滑雪者參考。
+  advanced: 上級雪道占 10%，進階路線請依當日雪況與官方管制判斷。
+  snowboard: 雪板可滑行。
 sources:
-  - label: "IOX-AROSA Official"
-    url: "https://www.iox-arosa.jp/"
-  - label: "IOX-AROSA Access"
-    url: "https://www.iox-arosa.jp/access"
-  - label: "Weathernews IOX-AROSA"
-    url: "https://weathernews.jp/ski/spot/35510/"
+- label: IOX-AROSA Official
+  url: https://www.iox-arosa.jp/
+- label: IOX-AROSA Access
+  url: https://www.iox-arosa.jp/access
+- label: Weathernews IOX-AROSA
+  url: https://weathernews.jp/ski/spot/35510/
 ---
 
 IOX-AROSA位於富山縣，共有7 條雪道、5 座纜車，主體是可反覆換線的中型滑行配置。主雪道之間的難度與坡向差異夠明顯，安排一天行程時不容易太單調。如果你想在雪道數、節奏變化與實際可滑效率之間取平衡，這類配置會很實用。

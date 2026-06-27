@@ -16,8 +16,8 @@ visibility:
   note: 石川縣金澤市雪場，未歸入現有 skiArea enum。
 links:
   official: https://www.kanazawa-sports.jp/use/search/546
-  facebook: "https://ja-jp.facebook.com/kanazawasportsnet/"
-  xTwitter: "https://x.com/kanazawa_sports/"
+  facebook: https://ja-jp.facebook.com/kanazawasportsnet/
+  xTwitter: https://x.com/kanazawa_sports/
   trailMapPage: https://www.kanazawa-sports.jp/use/search/546
   ticket: https://www.kanazawa-sports.jp/use/search/546
   access: https://www.kanazawa-sports.jp/use/search/546
@@ -48,19 +48,24 @@ tickets:
   note: 官方設施頁列出的主要纜車券；營業年度如有調整請以官方公告為準。
   plans:
   - name: 1 日券
-    price: ¥1,570
+    priceLines:
+    - ¥1,570
     note: 當日營業開始至營業結束有效。
   - name: 上午券
-    price: ¥830
+    priceLines:
+    - ¥830
     note: 營業開始至 13:00。
   - name: 下午券
-    price: ¥830
+    priceLines:
+    - ¥830
     note: 12:00 至營業結束。
   - name: 回數券 11 回
-    price: ¥1,000
+    priceLines:
+    - ¥1,000
     note: 購買雪季中有效。
   - name: 1 回券
-    price: ¥100
+    priceLines:
+    - ¥100
     note: 購買雪季中有效。
 snowWeather:
   title: 金澤市營醫王山雪況天氣
@@ -104,13 +109,13 @@ lifts:
   total: 2
 access:
   fromTokyo:
-    - label: 東京出發經金澤
-      steps:
-        - 從東京搭北陸新幹線到金澤站。
-        - 從金澤站東口 8 號乘車處搭北鐵巴士 13 醫王山線，於「医王山スキー場前」下車。
-        - 下車後步行約 1 分鐘抵達雪場。
-      difficulty: medium
-      note: 金澤站後車程約 55 分鐘；此巴士資訊標示為週末運行，冬季班次需行前確認。
+  - label: 東京出發經金澤
+    steps:
+    - 從東京搭北陸新幹線到金澤站。
+    - 從金澤站東口 8 號乘車處搭北鐵巴士 13 醫王山線，於「医王山スキー場前」下車。
+    - 下車後步行約 1 分鐘抵達雪場。
+    difficulty: medium
+    note: 金澤站後車程約 55 分鐘；此巴士資訊標示為週末運行，冬季班次需行前確認。
   car:
     recommended: false
     snowTireRequired: true

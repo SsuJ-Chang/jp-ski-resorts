@@ -76,17 +76,21 @@ tickets:
   note: 主要票種摘要；完整票價、線上優惠與 IC 卡規則請以官方頁面為準。
   plans:
     - name: 1 日券
-      audience: 大人 / 兒童 / 敬老
-      price: 大人 ¥7,000；兒童 ¥4,000；敬老 ¥6,000
-      note: 日間營業時間可使用。
-    - name: 半日券
-      audience: 大人 / 兒童
-      price: 大人 ¥5,000；兒童 ¥3,000
-      note: 上午或下午時段。
+      priceLines:
+        - 成人：¥7,000
+        - 兒童：¥4,000
+        - 敬老：¥6,000
+      note: 平日 / 假日價格不同時，可再拆成多行。
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥3,000
+      note: 從首次過閘起算。
     - name: 夜滑券
-      audience: 大人 / 兒童
-      price: 大人 ¥3,000；兒童 ¥2,000
-      note: 夜滑營業日限定。
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,000
+      note: 17:00 ~ 夜滑結束。
 snowWeather:
   title: 範例滑雪場雪況天氣
   provider: Weathernews

@@ -45,8 +45,8 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童
-    price: 待依 2025-2026 官網票價頁補齊
+    priceLines:
+    - 待依 2025-2026 官網票價頁補齊
 snowWeather:
   title: 一本杉雪況天氣
   provider: Official / Weathernews
@@ -63,7 +63,7 @@ mapDisplay:
   labelPriority: 3
   approximatePosition:
     x: 47
-    "y": 54
+    y: 54
 courses:
   beginnerRatio: 100
   intermediateRatio: 0
@@ -71,11 +71,11 @@ courses:
   courseInfoPage: https://www.ipponsugi.net/
   summary: 一本杉是越後湯澤站附近的小型雪場，適合雪上遊戲、初學與短時間體驗。
   details:
-    - name: "一本杉ゲレンデ"
-      difficulty: beginner
-      length: "60m"
-      maxSlope: "12°"
-      note: "緩斜面中心的小型練習坡，適合初次滑行與雪上遊戲。"
+  - name: 一本杉ゲレンデ
+    difficulty: beginner
+    length: 60m
+    maxSlope: 12°
+    note: 緩斜面中心的小型練習坡，適合初次滑行與雪上遊戲。
 access:
   fromTokyo:
   - label: 東京出發

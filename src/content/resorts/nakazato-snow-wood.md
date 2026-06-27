@@ -45,8 +45,8 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童
-    price: 待依 2025-2026 官網票價頁補齊
+    priceLines:
+    - 待依 2025-2026 官網票價頁補齊
 snowWeather:
   title: 中里Snow Wood雪況天氣
   provider: Official / Weathernews
@@ -63,7 +63,7 @@ mapDisplay:
   labelPriority: 3
   approximatePosition:
     x: 47
-    "y": 54
+    y: 54
 courses:
   beginnerRatio: 50
   intermediateRatio: 50
@@ -71,12 +71,12 @@ courses:
   courseInfoPage: https://www.nakazato-snowwood.com/
   summary: 中里Snow Wood 是湯澤中里周邊的小型雪場，適合雪上體驗與短時間滑行。
   details:
-    - name: "Snow Wood 緩斜面（名稱待確認）"
-      difficulty: beginner
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "Snow Wood 中級斜面（名稱待確認）"
-      difficulty: intermediate
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+  - name: Snow Wood 緩斜面（名稱待確認）
+    difficulty: beginner
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: Snow Wood 中級斜面（名稱待確認）
+    difficulty: intermediate
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
 access:
   fromTokyo:
   - label: 東京出發

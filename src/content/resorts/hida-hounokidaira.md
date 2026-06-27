@@ -1,61 +1,69 @@
 ---
-id: "hida-hounokidaira"
+id: hida-hounokidaira
 name:
-  zhTw: "飛驒 Hounokidaira"
-  ja: "飛騨ほおのき平"
-  en: "Hida Hounokidaira"
-region: "chubu"
-prefecture: "岐阜縣"
+  zhTw: 飛驒 Hounokidaira
+  ja: 飛騨ほおのき平
+  en: Hida Hounokidaira
+region: chubu
+prefecture: 岐阜縣
 tags:
-  - "large_ski_area"
-  - "no_car_accessible"
-  - "snowboard_friendly"
+- large_ski_area
+- no_car_accessible
+- snowboard_friendly
 links:
-  official: "http://hounoki-daira.com/"
-  facebook: "https://facebook.com/hoonoki.ski.ikou/"
-  instagram: "https://www.instagram.com/hounok.d/"
-  weather: "https://weathernews.jp/ski/spot/35207/"
-  ticket: "https://weathernews.jp/ski/spot/35207/"
-  access: "https://weathernews.jp/ski/spot/35207/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=36.175817,137.490978"
+  official: http://hounoki-daira.com/
+  facebook: https://facebook.com/hoonoki.ski.ikou/
+  instagram: https://www.instagram.com/hounok.d/
+  weather: https://weathernews.jp/ski/spot/35207/
+  ticket: https://weathernews.jp/ski/spot/35207/
+  access: https://weathernews.jp/ski/spot/35207/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=36.175817,137.490978
 contact:
   address:
-    zhTw: "日本岐阜縣高山市丹生川町久手 447"
-    ja: "〒506-2252 岐阜県高山市丹生川町久手447"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=36.175817,137.490978"
-  phone: "0577-79-2244"
+    zhTw: 日本岐阜縣高山市丹生川町久手 447
+    ja: 〒506-2252 岐阜県高山市丹生川町久手447
+    googleMaps: https://www.google.com/maps/search/?api=1&query=36.175817,137.490978
+  phone: 0577-79-2244
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/13-2026/3/22"
-  hours: "平日 8:30-16:30；假日 8:00-16:30"
-  note: "營業期間與時間可能依積雪、天候與纜車運行狀況調整。"
-  source: "https://weathernews.jp/ski/spot/35207/"
+  label: 2025-2026
+  operatingPeriod: 2025/12/13-2026/3/22
+  hours: 平日 8:30-16:30；假日 8:00-16:30
+  note: 營業期間與時間可能依積雪、天候與纜車運行狀況調整。
+  source: https://weathernews.jp/ski/spot/35207/
 tickets:
-  season: "2025-2026"
-  currency: "JPY"
-  source: "https://weathernews.jp/ski/spot/35207/"
-  note: "主要票種摘要；特定日與完整規則請以官方公告為準。"
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/35207/
+  note: 主要票種摘要；特定日與完整規則請以官方公告為準。
   plans:
-    - name: "平日 1 日券"
-      audience: "成人、兒童、銀髮族"
-      price: "成人 ¥3,700、兒童 ¥2,500、銀髮族 ¥3,000"
-    - name: "特定日 1 日券"
-      audience: "成人、兒童、銀髮族"
-      price: "成人 ¥4,900、兒童 ¥3,000、銀髮族 ¥4,100"
-    - name: "特定日上午券"
-      audience: "成人、兒童、銀髮族"
-      price: "成人 ¥4,300、兒童 ¥2,500、銀髮族 ¥3,600"
-    - name: "特定日下午券"
-      audience: "成人、兒童、銀髮族"
-      price: "成人 ¥4,300、兒童 ¥2,500、銀髮族 ¥3,600"
+  - name: 平日 1 日券
+    priceLines:
+    - 成人 ¥3,700
+    - 兒童 ¥2,500
+    - 銀髮族 ¥3,000
+  - name: 特定日 1 日券
+    priceLines:
+    - 成人 ¥4,900
+    - 兒童 ¥3,000
+    - 銀髮族 ¥4,100
+  - name: 特定日上午券
+    priceLines:
+    - 成人 ¥4,300
+    - 兒童 ¥2,500
+    - 銀髮族 ¥3,600
+  - name: 特定日下午券
+    priceLines:
+    - 成人 ¥4,300
+    - 兒童 ¥2,500
+    - 銀髮族 ¥3,600
 snowWeather:
-  title: "飛驒 Hounokidaira雪況天氣"
-  provider: "Weathernews"
-  url: "https://weathernews.jp/ski/spot/35207/"
+  title: 飛驒 Hounokidaira雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/35207/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
-  note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
+  note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
   latitude: 36.175817
   longitude: 137.490978
@@ -68,85 +76,85 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 35
   advancedRatio: 35
-  courseInfoPage: "https://weathernews.jp/ski/spot/35207/"
-  summary: "飛驒高山周邊規模較大的雪場之一，共有 17 條雪道，初中高級比例分布較平均。"
+  courseInfoPage: https://weathernews.jp/ski/spot/35207/
+  summary: 飛驒高山周邊規模較大的雪場之一，共有 17 條雪道，初中高級比例分布較平均。
   details:
-    - name: "初級路線 1"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "初級路線 2"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "初級路線 3"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "初級路線 4"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "初級路線 5"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 1"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 2"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 3"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 4"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 5"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 6"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "上級路線 1"
-      difficulty: advanced
-      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "上級路線 2"
-      difficulty: advanced
-      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "上級路線 3"
-      difficulty: advanced
-      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "上級路線 4"
-      difficulty: advanced
-      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "上級路線 5"
-      difficulty: advanced
-      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "上級路線 6"
-      difficulty: advanced
-      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+  - name: 初級路線 1
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 初級路線 2
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 初級路線 3
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 初級路線 4
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 初級路線 5
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 1
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 2
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 3
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 4
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 5
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 6
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 上級路線 1
+    difficulty: advanced
+    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 上級路線 2
+    difficulty: advanced
+    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 上級路線 3
+    difficulty: advanced
+    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 上級路線 4
+    difficulty: advanced
+    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 上級路線 5
+    difficulty: advanced
+    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 上級路線 6
+    difficulty: advanced
+    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:
   total: 4
 access:
   fromNagoya:
-    - label: "高山站轉濃飛巴士"
-      steps:
-        - "從名古屋方向搭 JR 高山本線到高山站。"
-        - "從高山站搭濃飛巴士前往雪場周邊。"
-      estimatedTime: "約 40 分鐘"
-      difficulty: "medium"
-      note: "時間為高山站到雪場周邊的巴士段；冬季班次需事先確認。"
+  - label: 高山站轉濃飛巴士
+    steps:
+    - 從名古屋方向搭 JR 高山本線到高山站。
+    - 從高山站搭濃飛巴士前往雪場周邊。
+    estimatedTime: 約 40 分鐘
+    difficulty: medium
+    note: 時間為高山站到雪場周邊的巴士段；冬季班次需事先確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從東海北陸道高山西 IC 經一般道路前往；停車場約 1,500 台，平日與假日免費。"
+    note: 從東海北陸道高山西 IC 經一般道路前往；停車場約 1,500 台，平日與假日免費。
 terrainSummary:
-  beginner: "初級雪道約 30%，仍有基礎練習空間。"
-  intermediate: "中級雪道約 35%，適合銜接不同坡面。"
-  advanced: "高級雪道約 35%，進階比例較高。"
-  snowboard: "雪板可全區滑行。"
+  beginner: 初級雪道約 30%，仍有基礎練習空間。
+  intermediate: 中級雪道約 35%，適合銜接不同坡面。
+  advanced: 高級雪道約 35%，進階比例較高。
+  snowboard: 雪板可全區滑行。
 sources:
-  - label: "Hida Hounokidaira Official"
-    url: "http://hounoki-daira.com/"
-  - label: "Weathernews 飛騨ほおのき平"
-    url: "https://weathernews.jp/ski/spot/35207/"
+- label: Hida Hounokidaira Official
+  url: http://hounoki-daira.com/
+- label: Weathernews 飛騨ほおのき平
+  url: https://weathernews.jp/ski/spot/35207/
 ---
 
 飛驒 Hounokidaira位於岐阜縣，以17 條雪道構成中型雪場，搭配 4 座纜車。初級、中級與上級路線都有配置，描述聚焦在雪道規模與難度結構；標籤上偏向雙板與單板。

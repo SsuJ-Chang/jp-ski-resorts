@@ -11,8 +11,8 @@ tags:
 - snowboard_friendly
 links:
   official: http://osorakan.co.jp/winter/
-  instagram: "https://www.instagram.com/osorakan/"
-  xTwitter: "https://twitter.com/osorakan"
+  instagram: https://www.instagram.com/osorakan/
+  xTwitter: https://twitter.com/osorakan
   trailMapPage: http://osorakan.co.jp/winter/
   weather: https://weathernews.jp/ski/spot/36706/
   googleMaps: https://maps.google.co.jp/maps?q=34.595712,132.146401
@@ -83,7 +83,7 @@ contact:
     zhTw: 廣島縣山縣郡安芸太田町大字横川740-1
     ja: 〒731-3801 広島県山県郡安芸太田町大字横川740-1
     googleMaps: https://maps.google.co.jp/maps?q=34.595712,132.146401
-  phone: "08262-8-7007"
+  phone: 08262-8-7007
 tickets:
   season: 2025-2026
   currency: JPY
@@ -91,17 +91,23 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 平日9時間券
-    price: 成人 ¥5,400 兒童 ¥2,000 樂齡 ¥4,400
+    priceLines:
+    - 成人 ¥5,400 兒童 ¥2,000 樂齡 ¥4,400
   - name: 平日5時間券
-    price: 成人 ¥4,800 兒童 ¥1,500 樂齡 ¥3,800
-  - name: 1回券
-    price: 成人 ¥500
-  - name: 2日券
-    price: 成人 ¥9,900
+    priceLines:
+    - 成人 ¥4,800 兒童 ¥1,500 樂齡 ¥3,800
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥500
+  - name: 2 日券
+    priceLines:
+    - 成人 ¥9,900
   - name: 假日9時間券
-    price: 成人 ¥5,900 兒童 ¥2,000 樂齡 ¥4,900
+    priceLines:
+    - 成人 ¥5,900 兒童 ¥2,000 樂齡 ¥4,900
   - name: 假日5時間券
-    price: 成人 ¥5,300 兒童 ¥1,500 樂齡 ¥4,300
+    priceLines:
+    - 成人 ¥5,300 兒童 ¥1,500 樂齡 ¥4,300
 elevation:
   top: 1346
   bottom: 845

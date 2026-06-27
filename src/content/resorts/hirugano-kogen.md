@@ -14,9 +14,9 @@ tags:
 - no_car_accessible
 links:
   official: https://www.hiruganokogen.com/
-  facebook: "https://www.facebook.com/Hiruganokogen/"
-  instagram: "https://www.instagram.com/hiruganokogen/"
-  xTwitter: "https://x.com/hiruganokougen"
+  facebook: https://www.facebook.com/Hiruganokogen/
+  instagram: https://www.instagram.com/hiruganokogen/
+  xTwitter: https://x.com/hiruganokougen
   trailMapPage: https://www.hiruganokogen.com/about/
   ticket: https://www.takasumountains.com/lift/
   access: https://www.hiruganokogen.com/access/
@@ -47,8 +47,11 @@ tickets:
   note: TAKASU MOUNTAINS 6 雪場共通券摘要；平日停車與單獨券細節請以官方頁面為準。
   plans:
   - name: 6 雪場共通 1 日券
-    audience: 成人、兒童、長者、中高生
-    price: 成人 ¥6,500、兒童 ¥3,800、長者 ¥5,500、中高生 ¥4,500
+    priceLines:
+    - 成人 ¥6,500
+    - 兒童 ¥3,800
+    - 長者 ¥5,500
+    - 中高生 ¥4,500
 snowWeather:
   title: ひるがの高原雪況天氣
   provider: Weathernews
@@ -110,13 +113,13 @@ lifts:
   total: 3
 access:
   fromNagoya:
-    - label: 名古屋出發高速巴士
-      steps:
-        - 從名古屋搭岐阜巴士高速巴士「名古屋郡上ひるがの線」。
-        - 於「ひるがの高原スキー場直通便」站下車即可抵達雪場。
-      estimatedTime: 約 2 小時 29 分
-      difficulty: easy
-      note: 若改搭到「高速ひるがの高原」站，需再轉乘 Takasu Snow Shuttle Bus；接駁班次與營運期間需行前確認。
+  - label: 名古屋出發高速巴士
+    steps:
+    - 從名古屋搭岐阜巴士高速巴士「名古屋郡上ひるがの線」。
+    - 於「ひるがの高原スキー場直通便」站下車即可抵達雪場。
+    estimatedTime: 約 2 小時 29 分
+    difficulty: easy
+    note: 若改搭到「高速ひるがの高原」站，需再轉乘 Takasu Snow Shuttle Bus；接駁班次與營運期間需行前確認。
   car:
     recommended: true
     snowTireRequired: true

@@ -13,8 +13,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.fujimipanorama.com
-  facebook: "https://www.facebook.com/fujimipanorama/"
-  instagram: "https://www.instagram.com/fujimipanorama/"
+  facebook: https://www.facebook.com/fujimipanorama/
+  instagram: https://www.instagram.com/fujimipanorama/
   weather: https://weathernews.jp/ski/spot/34836/
   access: https://www.fujimipanorama.com/snow/access/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Fujimi%20Panorama%20Resort
@@ -37,14 +37,20 @@ tickets:
   note: 主要票種依 2025-2026 公開雪場資料整理；未就學兒童、開幕期間優惠與完整票價請以官方為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥6,000、兒童 ¥2,000、長者 ¥5,700
+    priceLines:
+    - 成人 ¥6,000
+    - 兒童 ¥2,000
+    - 長者 ¥5,700
   - name: 上午券或下午券
-    audience: 成人、兒童、長者
-    price: 成人 ¥5,300、兒童 ¥1,500、長者 ¥5,100
+    priceLines:
+    - 成人 ¥5,300
+    - 兒童 ¥1,500
+    - 長者 ¥5,100
   - name: 箱型纜車 1 回券
-    audience: 成人、兒童、長者
-    price: 成人 ¥2,300、兒童 ¥1,100、長者 ¥2,300
+    priceLines:
+    - 成人 ¥2,300
+    - 兒童 ¥1,100
+    - 長者 ¥2,300
 snowWeather:
   title: 富士見 Panorama Resort 雪況天氣
   provider: Weathernews
@@ -99,17 +105,17 @@ lifts:
   total: 6
 access:
   fromTokyo:
-    - label: "東京出發經富士見"
-      steps:
-        - "從新宿或東京方向搭 JR 中央本線到富士見站。"
-        - "從富士見站搭冬季免費接駁巴士，或改搭計程車前往雪場。"
-      estimatedTime: "站後約 10 分"
-      difficulty: "easy"
-      note: "免費接駁巴士在冬季營業期間運行，班次有限且免預約；若班次不合適可改搭計程車。"
+  - label: 東京出發經富士見
+    steps:
+    - 從新宿或東京方向搭 JR 中央本線到富士見站。
+    - 從富士見站搭冬季免費接駁巴士，或改搭計程車前往雪場。
+    estimatedTime: 站後約 10 分
+    difficulty: easy
+    note: 免費接駁巴士在冬季營業期間運行，班次有限且免預約；若班次不合適可改搭計程車。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從中央自動車道諏訪南 IC 下交流道後約 7 分；八王子方向約 90 分、小牧方向約 150 分。停車場約 1,300 台，平假日免費。"
+    note: 從中央自動車道諏訪南 IC 下交流道後約 7 分；八王子方向約 90 分、小牧方向約 150 分。停車場約 1,300 台，平假日免費。
 terrainSummary:
   beginner: 初級約 30%，有 family slope 與兒童雪上設施。
   intermediate: 中級約 40%，可搭配箱型纜車路線安排較長滑行。

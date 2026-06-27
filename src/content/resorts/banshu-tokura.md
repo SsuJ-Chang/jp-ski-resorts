@@ -12,7 +12,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://ooyaski.com/bantoku/
-  facebook: "https://www.facebook.com/bansyu.tokura/"
+  facebook: https://www.facebook.com/bansyu.tokura/
   trailMapPage: https://ooyaski.com/bantoku/
   weather: https://weathernews.jp/ski/spot/36311/
   googleMaps: https://maps.google.co.jp/maps?q=35.289305,134.542689
@@ -71,7 +71,7 @@ contact:
     zhTw: 兵庫縣宍粟市波賀町戸倉207
     ja: 〒671-4201 兵庫県宍粟市波賀町戸倉207
     googleMaps: https://maps.google.co.jp/maps?q=35.289305,134.542689
-  phone: "0790-73-0324"
+  phone: 0790-73-0324
 tickets:
   season: 2025-2026
   currency: JPY
@@ -79,15 +79,20 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券(週末及國定假日)
-    price: 成人 ¥4,000 兒童 ¥500 樂齡 ¥3,500
-  - name: 午後券
-    price: 成人 ¥3,000 兒童 ¥500 樂齡 ¥3,000
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥500 樂齡 ¥3,500
+  - name: 下午券
+    priceLines:
+    - 成人 ¥3,000 兒童 ¥500 樂齡 ¥3,000
   - name: 学割
-    price: 成人 ¥2,000
+    priceLines:
+    - 成人 ¥2,000
   - name: キッズパーク
-    price: 成人 ¥500 兒童 ¥500 樂齡 ¥500
-  - name: 午前券
-    price: 成人 ¥3,000 兒童 ¥500 樂齡 ¥3,000
+    priceLines:
+    - 成人 ¥500 兒童 ¥500 樂齡 ¥500
+  - name: 上午券
+    priceLines:
+    - 成人 ¥3,000 兒童 ¥500 樂齡 ¥3,000
 elevation:
   top: 950
   bottom: 650

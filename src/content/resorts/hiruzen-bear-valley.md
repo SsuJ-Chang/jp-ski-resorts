@@ -12,8 +12,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://bear-ski.amebaownd.com/
-  instagram: "https://www.instagram.com/hiruzen.bearpark/"
-  xTwitter: "https://twitter.com/Bear_ski"
+  instagram: https://www.instagram.com/hiruzen.bearpark/
+  xTwitter: https://twitter.com/Bear_ski
   trailMapPage: https://bear-ski.amebaownd.com/
   weather: https://weathernews.jp/ski/spot/36607/
   googleMaps: https://maps.google.co.jp/maps?q=35.261237,133.596342
@@ -72,25 +72,31 @@ contact:
     zhTw: 岡山縣真庭市蒜山本茅部644-105
     ja: 〒717-0611 岡山県真庭市蒜山本茅部644-105
     googleMaps: https://maps.google.co.jp/maps?q=35.261237,133.596342
-  phone: "0867-66-5333"
+  phone: 0867-66-5333
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36607/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥4,500 兒童 ¥3,500 樂齡 ¥4,000
-  - name: 11回数券(11回)
-    price: 成人 ¥4,000 兒童 ¥4,000
-  - name: シーズン券
-    price: 成人 ¥30,000 兒童 ¥20,000
-  - name: 午前券
-    price: 成人 ¥3,500 兒童 ¥2,500
-  - name: 午後券
-    price: 成人 ¥3,500 兒童 ¥2,500
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,500 兒童 ¥3,500 樂齡 ¥4,000
+  - name: 11回數券(11回)
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥4,000
+  - name: 季票
+    priceLines:
+    - 成人 ¥30,000 兒童 ¥20,000
+  - name: 上午券
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥2,500
+  - name: 下午券
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥2,500
   - name: 夜滑券
-    price: 成人 ¥3,000 兒童 ¥3,000
+    priceLines:
+    - 成人 ¥3,000 兒童 ¥3,000
 elevation:
   top: 727
   bottom: 591

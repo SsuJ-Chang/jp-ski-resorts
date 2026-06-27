@@ -15,8 +15,8 @@ tags:
 - family_friendly
 links:
   official: https://www.hakunori.com/
-  facebook: "https://www.facebook.com/hakunoriski"
-  instagram: "https://www.instagram.com/hakunori_official/"
+  facebook: https://www.facebook.com/hakunoriski
+  instagram: https://www.instagram.com/hakunori_official/
   trailMapPage: https://www.hakunori.com/gelande/
   ticket: https://www.hakunori.com/ticket/
   access: https://www.hakunori.com/access/
@@ -47,8 +47,8 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童
-    price: 待依 2025-2026 官網票價頁補齊
+    priceLines:
+    - 待依 2025-2026 官網票價頁補齊
 snowWeather:
   title: 白馬乘鞍溫泉雪況天氣
   provider: Weathernews
@@ -65,7 +65,7 @@ mapDisplay:
   labelPriority: 3
   approximatePosition:
     x: 55
-    "y": 43
+    y: 43
 courses:
   beginnerRatio: 33
   intermediateRatio: 17
@@ -74,84 +74,84 @@ courses:
   courseInfoPage: https://www.hakunori.com/guide/?id=data
   summary: 白馬乘鞍溫泉與白馬Cortina 相鄰，2025-2026 採兩雪場共通 lift ticket。
   details:
-    - name: はくのりファミリーコース
-      difficulty: beginner
-      length: 750m
-      maxSlope: 10°
-      averageSlope: 5°
-      videoLinks:
-        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=904s
-    - name: 若栗林間コース
-      difficulty: beginner
-      length: 800m
-      maxSlope: 10°
-      averageSlope: 8°
-      videoLinks:
-        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=1193s
-    - name: 里見若栗アクセスライン
-      difficulty: intermediate
-      videoLinks:
-        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=1296s
-    - name: スネークコース
-      difficulty: advanced
-      length: 700m
-      maxSlope: 30°
-      averageSlope: 25°
-    - name: エキスパートコース
-      difficulty: advanced
-      length: 700m
-      maxSlope: 35°
-      averageSlope: 25°
-    - name: スカイビューゲレンデ
-      difficulty: advanced
-      length: 500m
-      maxSlope: 38°
-      averageSlope: 25°
-    - name: カモシカコース
-      difficulty: mixed
-      length: 1,200m
-      maxSlope: 25°
-      averageSlope: 20°
-      videoLinks:
-        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=627s
-    - name: ハイウェイコース
-      difficulty: mixed
-      length: 800m
-      maxSlope: 28°
-      averageSlope: 25°
-      videoLinks:
-        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=384s
-        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=1038s
-    - name: 若栗中央ゲレンデ
-      difficulty: mixed
-      length: 700m
-      maxSlope: 18°
-      averageSlope: 15°
-      videoLinks:
-        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=73s
-    - name: ラビットコース
-      difficulty: mixed
-      length: 1,150m
-      maxSlope: 30°
-      averageSlope: 18°
-      videoLinks:
-        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=215s
-    - name: 里見中央ゲレンデ
-      difficulty: mixed
-      length: 600m
-      maxSlope: 15°
-      averageSlope: 11°
-      videoLinks:
-        - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=1458s
-    - name: 里見尾根コース
-      difficulty: mixed
-      length: 800m
-      maxSlope: 23°
-      averageSlope: 18°
-    - name: クロスコース
-      difficulty: mixed
-    - name: モーグルコース
-      difficulty: mixed
+  - name: はくのりファミリーコース
+    difficulty: beginner
+    length: 750m
+    maxSlope: 10°
+    averageSlope: 5°
+    videoLinks:
+    - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=904s
+  - name: 若栗林間コース
+    difficulty: beginner
+    length: 800m
+    maxSlope: 10°
+    averageSlope: 8°
+    videoLinks:
+    - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=1193s
+  - name: 里見若栗アクセスライン
+    difficulty: intermediate
+    videoLinks:
+    - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=1296s
+  - name: スネークコース
+    difficulty: advanced
+    length: 700m
+    maxSlope: 30°
+    averageSlope: 25°
+  - name: エキスパートコース
+    difficulty: advanced
+    length: 700m
+    maxSlope: 35°
+    averageSlope: 25°
+  - name: スカイビューゲレンデ
+    difficulty: advanced
+    length: 500m
+    maxSlope: 38°
+    averageSlope: 25°
+  - name: カモシカコース
+    difficulty: mixed
+    length: 1,200m
+    maxSlope: 25°
+    averageSlope: 20°
+    videoLinks:
+    - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=627s
+  - name: ハイウェイコース
+    difficulty: mixed
+    length: 800m
+    maxSlope: 28°
+    averageSlope: 25°
+    videoLinks:
+    - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=384s
+    - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=1038s
+  - name: 若栗中央ゲレンデ
+    difficulty: mixed
+    length: 700m
+    maxSlope: 18°
+    averageSlope: 15°
+    videoLinks:
+    - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=73s
+  - name: ラビットコース
+    difficulty: mixed
+    length: 1,150m
+    maxSlope: 30°
+    averageSlope: 18°
+    videoLinks:
+    - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=215s
+  - name: 里見中央ゲレンデ
+    difficulty: mixed
+    length: 600m
+    maxSlope: 15°
+    averageSlope: 11°
+    videoLinks:
+    - https://www.youtube.com/watch?v=Gx5MMhOO6oU&t=1458s
+  - name: 里見尾根コース
+    difficulty: mixed
+    length: 800m
+    maxSlope: 23°
+    averageSlope: 18°
+  - name: クロスコース
+    difficulty: mixed
+  - name: モーグルコース
+    difficulty: mixed
 access:
   fromTokyo:
   - label: 東京出發
@@ -175,9 +175,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-    - title: "【2025日本白馬🇯🇵】EP5 白馬乘鞍溫泉滑雪場 🗻｜自學ski 直上紅道❄️｜CP值最高雪場飯店｜Hakuba Alps Hotel ⛷️｜"
-      url: https://www.youtube.com/watch?v=TGFH2JcOSNc
-      note: "和Ivy去旅行"
+  - title: 【2025日本白馬🇯🇵】EP5 白馬乘鞍溫泉滑雪場 🗻｜自學ski 直上紅道❄️｜CP值最高雪場飯店｜Hakuba Alps Hotel ⛷️｜
+    url: https://www.youtube.com/watch?v=TGFH2JcOSNc
+    note: 和Ivy去旅行
 sources:
 - label: Hakuba Norikura Onsen Snow Resort Official Website
   url: https://www.hakunori.com/

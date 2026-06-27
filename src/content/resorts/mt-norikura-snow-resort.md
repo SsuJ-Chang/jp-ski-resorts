@@ -15,9 +15,9 @@ tags:
 - long_run
 links:
   official: https://www.brnorikura.jp/
-  facebook: "https://www.facebook.com/mt.norikura/"
-  instagram: "https://www.instagram.com/mt.norikura_snow_resort/"
-  xTwitter: "https://twitter.com/Mt_Norikura"
+  facebook: https://www.facebook.com/mt.norikura/
+  instagram: https://www.instagram.com/mt.norikura_snow_resort/
+  xTwitter: https://twitter.com/Mt_Norikura
   weather: https://weathernews.jp/ski/spot/34807/
   access: https://www.brnorikura.jp/access/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Mt.%20Norikura%20Snow%20Resort
@@ -40,16 +40,19 @@ tickets:
   note: 主要票種依 2025-2026 公開雪場資料整理；18 歲以下免費與長野縣民割 PLUS 條件請以官方為準。
   plans:
   - name: 1 日券 S/A
-    audience: 成人、長者
-    price: 成人 ¥5,500、長者 ¥5,500
+    priceLines:
+    - 成人 ¥5,500
+    - 長者 ¥5,500
     note: 18 歲以下依 資料註記免費。
   - name: 4 小時券 S2/A
-    audience: 成人、長者
-    price: 成人 ¥4,500、長者 ¥4,500
+    priceLines:
+    - 成人 ¥4,500
+    - 長者 ¥4,500
     note: 公開資料列有一般與長野縣民割 PLUS 票種。
   - name: 1 日券 B
-    audience: 成人、長者
-    price: 成人 ¥4,500、長者 ¥3,500
+    priceLines:
+    - 成人 ¥4,500
+    - 長者 ¥3,500
 snowWeather:
   title: Mt.乘鞍 Snow Resort 雪況天氣
   provider: Weathernews
@@ -161,18 +164,18 @@ lifts:
   total: 8
 access:
   fromTokyo:
-    - label: "東京出發經松本、新島々"
-      steps:
-        - "從東京或新宿方向搭 JR 到松本站。"
-        - "從松本站轉乘松本電鐵上高地線到新島々站。"
-        - "從新島々站轉乘路線巴士前往乘鞍高原、雪場方向。"
-      estimatedTime: "新島々後約 60 分"
-      difficulty: "medium"
-      note: "松本站到新島々站約 30 分；冬季另有免費接駁資訊，需依當季公告確認停靠點與班次。"
+  - label: 東京出發經松本、新島々
+    steps:
+    - 從東京或新宿方向搭 JR 到松本站。
+    - 從松本站轉乘松本電鐵上高地線到新島々站。
+    - 從新島々站轉乘路線巴士前往乘鞍高原、雪場方向。
+    estimatedTime: 新島々後約 60 分
+    difficulty: medium
+    note: 松本站到新島々站約 30 分；冬季另有免費接駁資訊，需依當季公告確認停靠點與班次。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從長野自動車道松本 IC 約 60 分；從中部縱貫道高山 IC 約 80 分。停車場約 1,000 台，平假日免費；冬季山路需準備雪胎或雪鏈。"
+    note: 從長野自動車道松本 IC 約 60 分；從中部縱貫道高山 IC 約 80 分。停車場約 1,000 台，平假日免費；冬季山路需準備雪胎或雪鏈。
 terrainSummary:
   beginner: 有夢の平 Course、Kids Park 等設施，可搭配親子或練習行程。
   intermediate: 可用巡航路線安排中級滑行，但實際開放需看官方公告。

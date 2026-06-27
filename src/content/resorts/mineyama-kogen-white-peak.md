@@ -14,17 +14,16 @@ tags:
 - resort_village
 links:
   official: https://mineyama-kogen-resort.com/
-  facebook: "https://www.facebook.com/mineyama.kogen.resort/"
-  instagram: "https://www.instagram.com/mineyama_kogen_resort/"
-  xTwitter: "https://twitter.com/mineyama_resort"
+  facebook: https://www.facebook.com/mineyama.kogen.resort/
+  instagram: https://www.instagram.com/mineyama_kogen_resort/
+  xTwitter: https://twitter.com/mineyama_resort
   trailMapPage: https://mineyama-kogen-resort.com/course/
   weather: https://weathernews.jp/ski/spot/36313/
   googleMaps: https://maps.google.co.jp/maps?q=35.132117,134.666647
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/27-2026/03/15
-  hours: 平日：週一至週四 8:30〜17:00、週五 8:30〜21:00。假日：週六 8:00〜21:00、週日 8:00〜18:00。當日營業資訊請以官方網站公告為準。
-    夜滑：17:00〜21:00
+  hours: 平日：週一至週四 8:30〜17:00、週五 8:30〜21:00。假日：週六 8:00〜21:00、週日 8:00〜18:00。當日營業資訊請以官方網站公告為準。 夜滑：17:00〜21:00
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36313/
 trailMaps:
@@ -77,7 +76,7 @@ contact:
     zhTw: 兵庫縣神崎郡神河町上小田881-146
     ja: 〒679-3125 兵庫県神崎郡神河町上小田881-146
     googleMaps: https://maps.google.co.jp/maps?q=35.132117,134.666647
-  phone: "0790-34-1900"
+  phone: 0790-34-1900
 tickets:
   season: 2025-2026
   currency: JPY
@@ -85,17 +84,23 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券(週六、週日、國定假日)
-    price: 成人 ¥4,800 兒童 ¥3,300 樂齡 ¥3,300
+    priceLines:
+    - 成人 ¥4,800 兒童 ¥3,300 樂齡 ¥3,300
   - name: 1日券(平日)
-    price: 成人 ¥3,600 兒童 ¥2,600 樂齡 ¥2,600
+    priceLines:
+    - 成人 ¥3,600 兒童 ¥2,600 樂齡 ¥2,600
   - name: 6時間券(週六、週日、國定假日)
-    price: 成人 ¥3,900 兒童 ¥2,900 樂齡 ¥2,900
+    priceLines:
+    - 成人 ¥3,900 兒童 ¥2,900 樂齡 ¥2,900
   - name: 6時間券(平日)
-    price: 成人 ¥3,200 兒童 ¥2,200 樂齡 ¥2,200
+    priceLines:
+    - 成人 ¥3,200 兒童 ¥2,200 樂齡 ¥2,200
   - name: 夜滑 4 小時券（週六、週日、國定假日，15:00 起販售）
-    price: 成人 ¥2,800 兒童 ¥2,300 樂齡 ¥2,300
+    priceLines:
+    - 成人 ¥2,800 兒童 ¥2,300 樂齡 ¥2,300
   - name: 夜滑 4 小時券（平日，15:00 起販售）
-    price: 成人 ¥2,100 兒童 ¥1,500 樂齡 ¥1,500
+    priceLines:
+    - 成人 ¥2,100 兒童 ¥1,500 樂齡 ¥1,500
 elevation:
   top: 1070
   bottom: 930

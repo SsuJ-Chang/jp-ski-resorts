@@ -1854,14 +1854,15 @@ h1 {
   background: rgba(245, 247, 244, 0.75);
 }
 
-.ticket-card p,
 .ticket-card h3,
-.ticket-card strong,
+.ticket-card ul,
+.ticket-card li,
 .ticket-card small {
   margin: 0;
 }
 
-.ticket-card p,
+.ticket-card ul,
+.ticket-card li,
 .ticket-card small {
   color: #526660;
   line-height: 1.5;
@@ -1871,7 +1872,13 @@ h1 {
   font-size: 1.05rem;
 }
 
-.ticket-card strong {
+.ticket-card__prices {
+  display: grid;
+  gap: 6px;
+  padding-left: 1.1rem;
+}
+
+.ticket-card__prices li {
   color: #17211f;
   line-height: 1.55;
   overflow-wrap: anywhere;

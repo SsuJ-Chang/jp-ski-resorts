@@ -7,14 +7,14 @@ name:
 region: chubu
 prefecture: 岐阜縣
 tags:
-  - family_friendly
-  - powder
-  - snowboard_friendly
+- family_friendly
+- powder
+- snowboard_friendly
 links:
   official: https://siratori-k.jp/swp/
-  facebook: "https://www.facebook.com/shiratorikogen.ski/"
-  instagram: "https://www.instagram.com/shiratorikogenswp/"
-  xTwitter: "https://x.com/shiratorikogen"
+  facebook: https://www.facebook.com/shiratorikogen.ski/
+  instagram: https://www.instagram.com/shiratorikogenswp/
+  xTwitter: https://x.com/shiratorikogen
   googleMaps: https://www.google.com/maps/search/?api=1&query=35.957200%2C136.805143
   trailMapPage: https://siratori-k.jp/swp/gelande
   weather: https://weathernews.jp/ski/spot/35221/
@@ -33,29 +33,33 @@ season:
   note: 營業日期與時間可能依積雪與天候調整，出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/35221/
 trailMaps:
-  - label: Snow Wave Park 白鳥高原雪場圖
-    language: Japanese
-    season: 2025-2026
-    url: https://siratori-k.jp/swp/gelande
-    sourceLabel: Snow Wave Park Shiratori Kogen Official
+- label: Snow Wave Park 白鳥高原雪場圖
+  language: Japanese
+  season: 2025-2026
+  url: https://siratori-k.jp/swp/gelande
+  sourceLabel: Snow Wave Park Shiratori Kogen Official
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://siratori-k.jp/swp/price
   note: 主要票種摘要，實際販售日、特定日設定與其他加購票券請以官方售票資訊為準。
   plans:
-    - name: 平日 1 日券
-      audience: 大人／兒童／年長者
-      price: 大人 ¥3,500、兒童 ¥1,500、年長者 ¥3,300
-    - name: 特定日 1 日券
-      audience: 大人／兒童／年長者
-      price: 大人 ¥4,900、兒童 ¥1,500、年長者 ¥3,300
-    - name: 下午券
-      audience: 大人
-      price: 大人 ¥3,500
-    - name: 中高生券
-      audience: 國高中生
-      price: ¥3,300
+  - name: 平日 1 日券
+    priceLines:
+    - 大人 ¥3,500
+    - 兒童 ¥1,500
+    - 年長者 ¥3,300
+  - name: 特定日 1 日券
+    priceLines:
+    - 大人 ¥4,900
+    - 兒童 ¥1,500
+    - 年長者 ¥3,300
+  - name: 下午券
+    priceLines:
+    - 大人 ¥3,500
+  - name: 中高生券
+    priceLines:
+    - 國高中生：¥3,300
 snowWeather:
   title: Snow Wave Park 白鳥高原雪況天氣
   provider: Weathernews
@@ -76,65 +80,65 @@ courses:
   beginnerRatio: 20
   intermediateRatio: 70
   advancedRatio: 10
-  courseInfoPage: "https://siratori-k.jp/swp/"
+  courseInfoPage: https://siratori-k.jp/swp/
   summary: 公開資料標示 15 條 course，海拔約 1,000m 到 1,276m，中級比例約 70%。雪場有 snow park、kids park，並標示全區可 snowboard。
   details:
-    - name: "初級路線 1"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "初級路線 2"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "初級路線 3"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 1"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 2"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 3"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 4"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 5"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 6"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 7"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 8"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 9"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 10"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 11"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "上級路線"
-      difficulty: advanced
-      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+  - name: 初級路線 1
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 初級路線 2
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 初級路線 3
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 1
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 2
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 3
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 4
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 5
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 6
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 7
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 8
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 9
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 10
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 11
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 上級路線
+    difficulty: advanced
+    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:
   total: 3
 access:
   fromNagoya:
-    - label: 名古屋方向：鐵道轉計程車
-      steps:
-        - 搭乘鐵道至長良川鐵道 美濃白鳥站
-        - 由美濃白鳥站轉計程車前往雪場
-      estimatedTime: 車站後約 25 分
-      difficulty: medium
-      note: 冬季交通與計程車安排請行前確認。
+  - label: 名古屋方向：鐵道轉計程車
+    steps:
+    - 搭乘鐵道至長良川鐵道 美濃白鳥站
+    - 由美濃白鳥站轉計程車前往雪場
+    estimatedTime: 車站後約 25 分
+    difficulty: medium
+    note: 冬季交通與計程車安排請行前確認。
   car:
     recommended: true
     snowTireRequired: true
@@ -148,18 +152,18 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-    - title: "【スキー場ガイド】スノーウェーブパーク白鳥高原　キッズから上級者まで楽しめます"
-      url: https://www.youtube.com/watch?v=V9GwnfvO5FY
-      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
+  - title: 【スキー場ガイド】スノーウェーブパーク白鳥高原　キッズから上級者まで楽しめます
+    url: https://www.youtube.com/watch?v=V9GwnfvO5FY
+    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
 sources:
-  - label: Weathernews Mino Ski Area
-    url: https://weathernews.jp/ski/area/mino/
-  - label: Weathernews Snow Wave Park Shiratori Kogen
-    url: https://weathernews.jp/ski/spot/35221/
-  - label: Snow Wave Park Shiratori Kogen Official
-    url: https://siratori-k.jp/swp/
-  - label: Snow Wave Park Shiratori Kogen Ticket
-    url: https://siratori-k.jp/swp/price
+- label: Weathernews Mino Ski Area
+  url: https://weathernews.jp/ski/area/mino/
+- label: Weathernews Snow Wave Park Shiratori Kogen
+  url: https://weathernews.jp/ski/spot/35221/
+- label: Snow Wave Park Shiratori Kogen Official
+  url: https://siratori-k.jp/swp/
+- label: Snow Wave Park Shiratori Kogen Ticket
+  url: https://siratori-k.jp/swp/price
 ---
 
 Snow Wave Park 白鳥高原位於岐阜縣，共有15 條雪道、3 座纜車，重點不只在壓雪主線，還包含自然地形與雪況變化。上部與邊側路線通常比山麓更有地形起伏，滑感會隨雪況明顯改變。如果你想把巡航之外的粉雪感、林間感或地形閱讀排進一天，這類配置會更有內容。

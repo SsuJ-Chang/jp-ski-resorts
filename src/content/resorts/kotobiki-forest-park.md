@@ -13,9 +13,9 @@ tags:
 - tree_run
 links:
   official: https://ski.kotobiki.co.jp/
-  facebook: "https://www.facebook.com/kotobikiski/"
-  instagram: "https://www.instagram.com/kotobikikotoru/"
-  xTwitter: "https://x.com/kotobikikotoru"
+  facebook: https://www.facebook.com/kotobikiski/
+  instagram: https://www.instagram.com/kotobikikotoru/
+  xTwitter: https://x.com/kotobikikotoru
   trailMapPage: https://ski.kotobiki.co.jp/course-gerende/
   weather: https://weathernews.jp/ski/spot/36804/
   googleMaps: https://maps.google.co.jp/maps?q=35.0549,132.7698
@@ -87,25 +87,31 @@ contact:
     zhTw: 島根縣飯石郡飯南町佐見1151
     ja: 〒690-3204 島根県飯石郡飯南町佐見1151
     googleMaps: https://maps.google.co.jp/maps?q=35.0549,132.7698
-  phone: "0854-72-1021"
+  phone: 0854-72-1021
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36804/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥4,500 兒童 ¥3,000 樂齡 ¥4,000
-  - name: 4時間券
-    price: 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,500
-  - name: 1回券
-    price: 成人 ¥400 兒童 ¥400 樂齡 ¥400
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,500 兒童 ¥3,000 樂齡 ¥4,000
+  - name: 4 小時券
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,500
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥400 兒童 ¥400 樂齡 ¥400
   - name: 1日券平日
-    price: 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,500
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,500
   - name: 4時間券平日
-    price: 成人 ¥3,600 兒童 ¥2,100 樂齡 ¥3,100
-  - name: 10時間券
-    price: 成人 ¥9,500 兒童 ¥6,000 樂齡 ¥8,000
+    priceLines:
+    - 成人 ¥3,600 兒童 ¥2,100 樂齡 ¥3,100
+  - name: 10 小時券
+    priceLines:
+    - 成人 ¥9,500 兒童 ¥6,000 樂齡 ¥8,000
 elevation:
   top: 720
   bottom: 540
@@ -119,8 +125,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：芸備線三次駅下車でタクシー（バスあり） (40分) 車 ：中国自動車道 三次ICより国道54号松江方面へ (40分) 車 ：山陰自動車道吉田掛合ICより広島方面へR54で約20km (20分)
-      500台 平日 免費 假日 免費
+    note: 交通資訊摘要：芸備線三次駅下車でタクシー（バスあり） (40分) 車 ：中国自動車道 三次ICより国道54号松江方面へ (40分) 車 ：山陰自動車道吉田掛合ICより広島方面へR54で約20km (20分) 500台 平日 免費 假日 免費
 ---
 
 琴引 Forest Park位於島根縣，共有7 條雪道、3 座纜車，重點不只在壓雪主線，還包含自然地形與雪況變化。チェリーコース、パインコース能看出它從主雪道到邊側段落都有不同滑感。如果你想把巡航之外的粉雪感、林間感或地形閱讀排進一天，這類配置會更有內容。

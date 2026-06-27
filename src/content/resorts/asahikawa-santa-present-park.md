@@ -15,8 +15,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.asahikawasantapresentpark.com/
-  facebook: "https://www.facebook.com/%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF-113399528717696/"
-  xTwitter: "https://x.com/asahikawa_santa"
+  facebook: https://www.facebook.com/%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF-113399528717696/
+  xTwitter: https://x.com/asahikawa_santa
   trailMapPage: https://www.asahikawasantapresentpark.com/cont1/main.html
   weather: https://weathernews.jp/ski/spot/31204/
   snowReport: https://weathernews.jp/ski/spot/31204/
@@ -27,14 +27,14 @@ links:
 contact:
   address:
     zhTw: 北海道旭川市神居町富岡 555 番地之 2
-    ja: "〒070-8025 北海道旭川市神居町富岡555番地の2"
+    ja: 〒070-8025 北海道旭川市神居町富岡555番地の2
     googleMaps: https://www.google.com/maps/search/?api=1&query=Asahikawa%20Santa%20Present%20Park
   phone: 0166-63-3232
 season:
   label: 2025-2026
-  operatingPeriod: "2025/12/19-2026/3/29（3/23-3/29 為延長營業）"
-  hours: "通常 9:00-21:00；3/23-3/29 延長營業 9:00-16:00"
-  nightSkiingHours: "16:00-21:00（通常營業期間）"
+  operatingPeriod: 2025/12/19-2026/3/29（3/23-3/29 為延長營業）
+  hours: 通常 9:00-21:00；3/23-3/29 延長營業 9:00-16:00
+  nightSkiingHours: 16:00-21:00（通常營業期間）
   note: 目前官方公開資訊為 2025-2026 雪季；該雪季已結束，下一季營業期間與票價公布後需再更新。營業日、纜車與開放雪道會受積雪、天候與安全管制影響。
   source: https://www.asahikawasantapresentpark.com/cont1/main.html
 trailMaps:
@@ -50,25 +50,30 @@ tickets:
   note: 2025-2026 票價含稅；大人為國中生以上，兒童為小學生以下，65 歲以上出示證明可適用兒童票價。購買後不可退票或更換票種。
   plans:
   - name: 日中券
-    audience: 大人、兒童
-    price: 大人 ¥4,200、兒童 ¥3,300
+    priceLines:
+    - 大人 ¥4,200
+    - 兒童 ¥3,300
     note: 營業開始至 16:00 可使用。
   - name: 5 小時券
-    audience: 大人、兒童
-    price: 大人 ¥3,600、兒童 ¥3,000
+    priceLines:
+    - 大人 ¥3,600
+    - 兒童 ¥3,000
   - name: 2 小時券
-    audience: 大人、兒童
-    price: 大人 ¥3,000、兒童 ¥2,500
+    priceLines:
+    - 大人 ¥3,000
+    - 兒童 ¥2,500
   - name: 12 回券
-    audience: 大人、兒童
-    price: 大人 ¥3,700、兒童 ¥3,000
+    priceLines:
+    - 大人 ¥3,700
+    - 兒童 ¥3,000
   - name: 夜滑券
-    audience: 大人、兒童
-    price: 大人 ¥1,800、兒童 ¥1,100
+    priceLines:
+    - 大人 ¥1,800
+    - 兒童 ¥1,100
     note: 16:00 起至營業結束可使用。
   - name: Snow Escalator 專用券
-    audience: 大人、兒童
-    price: ¥1,500
+    priceLines:
+    - 大人、兒童：¥1,500
     note: 10:00-15:00 可不限次數使用；一般纜車券不可使用 Snow Escalator。
 snowWeather:
   title: 旭川聖誕禮物公園雪況天氣

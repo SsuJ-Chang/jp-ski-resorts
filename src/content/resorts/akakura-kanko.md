@@ -16,8 +16,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://akr-ski.com/
-  facebook: "https://www.facebook.com/akakan.ski/"
-  instagram: "https://www.instagram.com/akakurakanko_ski_sky/"
+  facebook: https://www.facebook.com/akakan.ski/
+  instagram: https://www.instagram.com/akakurakanko_ski_sky/
   trailMapPage: https://akr-ski.com/slope/
   ticket: https://akr-ski.com/slope/
   access: https://akr-ski.com/access/
@@ -48,17 +48,24 @@ tickets:
   note: 主要票種依官方 2025-2026 票價表整理；早鳥、線上購票與期間限定票價請以官方頁面為準。
   plans:
   - name: 4 小時券
-    audience: 成人、長者、國中生、兒童、身心障礙者
-    price: 成人 ¥5,400、長者與國中生 ¥4,500、兒童與身心障礙者 ¥3,800
+    priceLines:
+    - 成人 ¥5,400
+    - 長者與國中生 ¥4,500
+    - 兒童與身心障礙者 ¥3,800
   - name: 赤倉觀光 1 日券
-    audience: 成人、長者、國中生、兒童、身心障礙者
-    price: 成人 ¥7,000、長者與國中生 ¥6,000、兒童與身心障礙者 ¥5,200
+    priceLines:
+    - 成人 ¥7,000
+    - 長者與國中生 ¥6,000
+    - 兒童與身心障礙者 ¥5,200
   - name: 赤倉觀光 2 日券
-    audience: 成人、長者、國中生、兒童、身心障礙者
-    price: 成人 ¥12,300、長者與國中生 ¥9,900、兒童與身心障礙者 ¥8,700
+    priceLines:
+    - 成人 ¥12,300
+    - 長者與國中生 ¥9,900
+    - 兒童與身心障礙者 ¥8,700
   - name: 赤倉全山共通 1 日券
-    audience: 成人、國中生、長者、兒童
-    price: 成人與國中生 ¥8,500、長者與兒童 ¥6,800
+    priceLines:
+    - 成人與國中生 ¥8,500
+    - 長者與兒童 ¥6,800
 snowWeather:
   title: 赤倉觀光雪況天氣
   provider: Weathernews
@@ -87,35 +94,35 @@ courses:
     length: 700m
     maxSlope: 10°
     videoLinks:
-      - https://www.youtube.com/watch?v=FbHgahuNBoc&t=367s
+    - https://www.youtube.com/watch?v=FbHgahuNBoc&t=367s
     note: 官方說明此路線位於赤倉觀光 Hotel 前方，坡度平緩，可通往 Champion A Course 與女子國體路線。
   - name: 女子国体コース / Women's National Sports Festival Course
     difficulty: intermediate
     length: 1,900m
     maxSlope: 20°
     videoLinks:
-      - https://www.youtube.com/watch?v=lCY_86gTt9A&t=60s
+    - https://www.youtube.com/watch?v=lCY_86gTt9A&t=60s
     note: 官方說明此路線寬廣，適合大迴轉滑行，並可眺望妙高高原。
   - name: Champion A コース / Champion A Course
     difficulty: intermediate
     length: 1,200m
     maxSlope: 22°
     videoLinks:
-      - https://www.youtube.com/watch?v=lCY_86gTt9A&t=374s
+    - https://www.youtube.com/watch?v=lCY_86gTt9A&t=374s
     note: 官方說明這條路線有起伏變化，是赤倉觀光自豪的下山路線。
   - name: ホテルメインスロープ / Hotel Main Slope
     difficulty: intermediate
     length: 1,000m
     maxSlope: 18°
     videoLinks:
-      - https://www.youtube.com/watch?v=FbHgahuNBoc&t=300s
+    - https://www.youtube.com/watch?v=FbHgahuNBoc&t=300s
     note: 官方說明雪場主要斜面寬廣且平坦，可從 Hotel No.3 Quad Lift 山頂連續滑下 2,300m。
   - name: チャンピオン B コース / Champion B Course
     difficulty: advanced
     length: 800m
     maxSlope: 32°
     videoLinks:
-      - https://www.youtube.com/watch?v=lCY_86gTt9A&t=1184s
+    - https://www.youtube.com/watch?v=lCY_86gTt9A&t=1184s
     note: 官方說明此路線為未壓雪，有雪丘與可享受粉雪的地形，請留意下方與中央為中級者路線。
   - name: チャンピオンビフカテッドコース / Champion Bifurcated Course
     difficulty: advanced
@@ -159,9 +166,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-    - title: "【スキー場ガイド】赤倉観光リゾートスキー場 全面滑走可能になりました"
-      url: https://www.youtube.com/watch?v=_17etYo9GzA
-      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
+  - title: 【スキー場ガイド】赤倉観光リゾートスキー場 全面滑走可能になりました
+    url: https://www.youtube.com/watch?v=_17etYo9GzA
+    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
 sources:
 - label: Akakura Kanko Resort Official Website
   url: https://akr-ski.com/

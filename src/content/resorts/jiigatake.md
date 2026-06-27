@@ -13,7 +13,7 @@ tags:
 - snowboard_friendly
 links:
   official: https://jiigatake.com/
-  instagram: "https://www.instagram.com/jigatake_snow_resort/"
+  instagram: https://www.instagram.com/jigatake_snow_resort/
   trailMapPage: https://jiigatake.com/slope/
   ticket: https://jiigatake.com/price/
   access: https://jiigatake.com/access/
@@ -44,14 +44,20 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童、學生與熟齡
-    price: 成人 ¥5,400、兒童 ¥3,200、學生與熟齡 ¥4,400
+    priceLines:
+    - 成人 ¥5,400
+    - 兒童 ¥3,200
+    - 學生與熟齡 ¥4,400
   - name: 平日 1 日券
-    audience: 成人、兒童、學生與熟齡
-    price: 成人 ¥4,900、兒童 ¥2,900、學生與熟齡 ¥3,900
+    priceLines:
+    - 成人 ¥4,900
+    - 兒童 ¥2,900
+    - 學生與熟齡 ¥3,900
   - name: 半日券
-    audience: 成人、兒童、學生與熟齡
-    price: 成人 ¥3,900、兒童 ¥2,500、學生與熟齡 ¥3,200
+    priceLines:
+    - 成人 ¥3,900
+    - 兒童 ¥2,500
+    - 學生與熟齡 ¥3,200
 snowWeather:
   title: 爺岳雪況天氣
   provider: Weathernews
@@ -68,7 +74,7 @@ mapDisplay:
   labelPriority: 3
   approximatePosition:
     x: 55
-    "y": 43
+    y: 43
 courses:
   beginnerRatio: 100
   intermediateRatio: 0
@@ -76,22 +82,22 @@ courses:
   courseInfoPage: https://jiigatake.com/slope/
   summary: 爺岳是白馬 Valley 南端的家庭與初學者取向雪場，官網主打 debut slope。
   details:
-    - name: "エコーゲレンデ"
-      difficulty: beginner
-      videoLinks:
-        - https://www.youtube.com/watch?v=Y52z_hxbCHI&t=196s
-        - https://www.youtube.com/watch?v=Y52z_hxbCHI&t=298s
-    - name: "かもしかコース"
-      difficulty: mixed
-      length: "1,500m"
-      videoLinks:
-        - https://www.youtube.com/watch?v=Y52z_hxbCHI&t=87s
-    - name: "林間コース"
-      difficulty: mixed
-    - name: "雷鳥コース"
-      difficulty: mixed
-    - name: "ラビットコース"
-      difficulty: mixed
+  - name: エコーゲレンデ
+    difficulty: beginner
+    videoLinks:
+    - https://www.youtube.com/watch?v=Y52z_hxbCHI&t=196s
+    - https://www.youtube.com/watch?v=Y52z_hxbCHI&t=298s
+  - name: かもしかコース
+    difficulty: mixed
+    length: 1,500m
+    videoLinks:
+    - https://www.youtube.com/watch?v=Y52z_hxbCHI&t=87s
+  - name: 林間コース
+    difficulty: mixed
+  - name: 雷鳥コース
+    difficulty: mixed
+  - name: ラビットコース
+    difficulty: mixed
 access:
   fromTokyo:
   - label: 東京出發
@@ -114,9 +120,9 @@ terrainSummary:
   snowboard: 雙板與雪板使用規則請以官方公告為準。
 externalContent:
   blogs:
-    - title: "白馬爺岳滑雪場攻略，推薦滑雪新手練功、鄰近溫泉鄉，雪地摩托車穿梭樹林超刺激"
-      url: https://natasha-traveler.tw/hakuba-jiigatake-ski/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: 白馬爺岳滑雪場攻略，推薦滑雪新手練功、鄰近溫泉鄉，雪地摩托車穿梭樹林超刺激
+    url: https://natasha-traveler.tw/hakuba-jiigatake-ski/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs: []
 sources:
 - label: Jiigatake Snow Resort Official Website

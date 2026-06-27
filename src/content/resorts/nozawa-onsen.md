@@ -20,8 +20,8 @@ tags:
 homeRegionExample: true
 links:
   official: https://en.nozawaski.com/
-  facebook: "https://www.facebook.com/nozawaonsen.snowresort/"
-  instagram: "https://www.instagram.com/nozawaski/"
+  facebook: https://www.facebook.com/nozawaonsen.snowresort/
+  instagram: https://www.instagram.com/nozawaski/
   trailMapPage: https://en.nozawaski.com/the-mountain/moutain-info/slopes-lifts/
   trailMapPdf: https://en.nozawaski.com/pdf/gelandemap2025-26_en.pdf
   ticket: https://en.nozawaski.com/the-mountain/lift-ticket/ticket-prices/
@@ -35,7 +35,7 @@ contact:
     zhTw: 長野縣下高井郡野澤溫泉村大字豐鄉 7653
     ja: 〒389-2502 長野県下高井郡野沢温泉村大字豊郷7653
     googleMaps: https://www.google.com/maps/search/?api=1&query=Nozawa%20Onsen%20Snow%20Resort
-  phone: '0269-85-3166'
+  phone: 0269-85-3166
 season:
   label: 2025-2026
   operatingPeriod: 2025/11/29-2026/5/6
@@ -56,28 +56,38 @@ tickets:
   note: 主要票種依 2025-2026 Winter Fares 整理。標示星號的票種包含 gondola 與 lift，但不含夜滑。
   plans:
   - name: 1 日券
-    audience: 成人、兒童、熟齡
-    price: 成人 ¥7,500、兒童 ¥4,500、熟齡 ¥6,000
+    priceLines:
+    - 成人 ¥7,500
+    - 兒童 ¥4,500
+    - 熟齡 ¥6,000
     note: 僅限購買當日使用；兒童為國中以下，熟齡為 60 歲以上且購買時需出示證件。
   - name: 2 日券
-    audience: 成人、兒童、熟齡
-    price: 成人 ¥13,900、兒童 ¥8,300、熟齡 ¥11,100
+    priceLines:
+    - 成人 ¥13,900
+    - 兒童 ¥8,300
+    - 熟齡 ¥11,100
     note: 自購買日起連續 2 日有效；不連續使用請依住宿端規則確認。
   - name: 3 日券
-    audience: 成人、兒童、熟齡
-    price: 成人 ¥20,300、兒童 ¥12,100、熟齡 ¥16,200
+    priceLines:
+    - 成人 ¥20,300
+    - 兒童 ¥12,100
+    - 熟齡 ¥16,200
     note: 自購買日起連續 3 日有效。
   - name: 4 小時券
-    audience: 成人、兒童、熟齡
-    price: 成人 ¥6,400、兒童 ¥3,800、熟齡 ¥5,100
+    priceLines:
+    - 成人 ¥6,400
+    - 兒童 ¥3,800
+    - 熟齡 ¥5,100
     note: 通過第一個 gate 後開始計時，僅限購買當日白天營業時間使用。
   - name: 夜滑券
-    audience: 成人、兒童
-    price: 成人 ¥2,700、兒童 ¥1,600
+    priceLines:
+    - 成人 ¥2,700
+    - 兒童 ¥1,600
     note: 購買當日 17:00-20:00 有效。
   - name: 觀光 gondola 來回券
-    audience: 成人、兒童
-    price: 成人 ¥3,500、兒童 ¥2,500
+    priceLines:
+    - 成人 ¥3,500
+    - 兒童 ¥2,500
     note: 僅供未攜帶雙板或雪板裝備的觀光乘客搭乘來回。
 snowWeather:
   title: 野澤溫泉雪況天氣
@@ -117,7 +127,7 @@ courses:
     length: 2,000m
     note: 官方家庭雪道頁說明，上之平與 Paradise 一帶坡面寬且平緩，山上氣溫較低、雪質良好，適合剛開始練習的滑雪者。
     videoLinks:
-      - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=217s
+    - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=217s
   - name: 9 UENOTAIRA-FAMILY
     difficulty: beginner
     note: 接續在上之平下方的寬敞雪道。整體視野豁然開朗，充滿度假村的悠閒氛圍，稍微增加了一點點坡度，非常適合進階初學者練習控速。
@@ -127,13 +137,13 @@ courses:
     length: 1,200m
     note: 穿梭在野澤著名的國立公園山毛櫸與白橡木林間。整條雪道充滿大自然的靜謐感，是一條兼具森林浴與漫滑樂趣的浪漫初級長道。
     videoLinks:
-      - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=422s
+    - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=422s
   - name: 21 RINKAN
-    difficulty: beginner 
+    difficulty: beginner
     length: 5,000m
     note: 總長達 5 公里、圍繞著整座山頭盤旋而下的蜿蜒綠道。雖然寬度很窄且有許多髮夾彎，但對於體力不足、無法滑黑道的初學者來說，是唯一能從山頂一路滑回日影基地的安全下山通道。
     videoLinks:
-      - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=525s
+    - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=525s
   - name: 29 HIKAGE-A
     difficulty: beginner
     note: 緊鄰全新長坂箱型纜車總站前的大斜坡。交通極度便利，是下午雪場關門前，所有人從山頂滑下山腳時必定交匯的熱鬧核心區。
@@ -146,15 +156,15 @@ courses:
     difficulty: beginner
     note: 從日影區橫跨到長坂區的長距離初級道。雪道兩側被寬廣的森林包圍，遠離主要幹道的喧囂，整體滑行步調非常舒服、放鬆。
     videoLinks:
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=863s
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1791s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=863s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1791s
     length: 700m
   - name: 35 KARASAWA
     difficulty: beginner
     note: 一條極具技術挑戰性的高級賽道。雪道前半段視野開闊，後半段則突然轉入急轉彎與地形變化的狹窄陡坡，需要高超的控速技巧。
     videoLinks:
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=445s
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1317s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=445s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1317s
     length: 300m
   - name: 38 NAGASAKA-LINK
     difficulty: beginner
@@ -168,8 +178,8 @@ courses:
     difficulty: beginner
     note: 橫穿整個長坂核心滑行區的橫向平地通道，用來調節並引導滑雪客流向雪場東西兩側不同的纜車搭乘點。
     videoLinks:
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=814s
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1756s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=814s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1756s
     length: 650m
   - name: 41 KARASAWA-LINK
     difficulty: beginner
@@ -179,7 +189,7 @@ courses:
     difficulty: beginner
     note: 野澤溫泉最溫馨的浪漫綠道。傍晚雪場廣播響起時，它能引導全山的滑雪客，穿過樹林與雪橋，直接一路滑到溫泉街的核心旅館與外湯大眾溫泉門口，完美結束一整天的滑雪行程。
     videoLinks:
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=685s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=685s
     length: 500m
   - name: 1 YAMABIKO-A
     difficulty: intermediate
@@ -198,22 +208,22 @@ courses:
     note: 位於山彥區中段的長距離雪道。因樹影交錯，即使在大晴天也能維持極佳的乾粉雪質，滑行感非常流暢。
     length: 1,250m
     videoLinks:
-      - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=72s
+    - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=72s
   - name: 5 YAMABIKO-E
     difficulty: intermediate
     note: 山彥區最右側的邊界路線。這裡是前往全山著名的「樹林滑雪開放區」的主要切入口，充滿野雪探險的風格。
     videoLinks:
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=74s
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=921s
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1443s
-      - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=100s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=74s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=921s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1443s
+    - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=100s
     length: 1,000m
   - name: 6 KOKENASHI-A
     difficulty: intermediate
     note: 圍繞在海拔 1,650 公尺毛無山碑附近的小型過渡綠道。主要用來連接各個山頂纜車站，坡度極緩，純粹以賞景為主。
     length: 200m
     videoLinks:
-      - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=196s
+    - https://www.youtube.com/watch?v=PS5A2fQd8b4&t=196s
   - name: 16 CHALLENGE
     difficulty: intermediate
     note: 野澤出了名的魔王級黑道之一。前半段是宽闊的大斜坡，後半段則是未整雪區，大雪後是高手瘋搶的齊腰深雪，無雪時則是滿滿的天然饅頭牆。
@@ -234,9 +244,9 @@ courses:
     difficulty: intermediate
     note: 延續競技場雪道後半段的過渡路線。坡度逐漸收斂轉為中級紅道，並與其他山腳主幹線匯合。
     videoLinks:
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=167s
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1002s
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1514s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=167s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1002s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1514s
     length: 3,500m
   - name: 30 HIKAGE-B
     difficulty: intermediate
@@ -250,13 +260,13 @@ courses:
     difficulty: intermediate
     note: 曾作為全日本國民體育大會國體滑雪迴轉賽事專用的標準賽道。雪質硬、坡度陡且均勻，適合追求速度與純粹重力加速度的高級滑雪客。
     videoLinks:
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=359s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=359s
     length: 950m
   - name: 43 TANUKI
     difficulty: intermediate
     note: 在日影主要大本營旁劃分出的獨立、封閉式安全教學區。禁止一般高速滑雪客進入，確保完全零基礎的新手在教練指導下擁有最安全的練習空間。
     videoLinks:
-      - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1217s
+    - https://www.youtube.com/watch?v=ZGXV1RLRfDE&t=1217s
     length: 900m
   - name: 11 YUNOMINE
     difficulty: advanced
@@ -345,28 +355,28 @@ terrainSummary:
   powder: 官方雪場圖標示非壓雪區、Yamabiko 自己責任區與 backcountry gate，需依官方邊界與 gate 規則行動。
 externalContent:
   blogs:
-    - title: "野澤溫泉滑雪場住宿︱河一屋旅館，享受露天溫泉與美味鄉土料理【跟著Double Black Crew去滑雪~1】"
-      url: https://natasha-traveler.tw/nozawa-onsen-kawaichiya-ryokan/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "野澤溫泉滑雪場攻略，特色雪道、打卡景點、滑雪課程、必吃美食【跟著Double Black Crew去滑雪~2】"
-      url: https://natasha-traveler.tw/nozawa-ski/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "野澤溫泉滑雪場ski菜鳥練功心得、古樸溫泉街超好逛【跟著DOUBLE BLACK CREW去滑雪~3】"
-      url: https://natasha-traveler.tw/double-black-crew/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: 野澤溫泉滑雪場住宿︱河一屋旅館，享受露天溫泉與美味鄉土料理【跟著Double Black Crew去滑雪~1】
+    url: https://natasha-traveler.tw/nozawa-onsen-kawaichiya-ryokan/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 野澤溫泉滑雪場攻略，特色雪道、打卡景點、滑雪課程、必吃美食【跟著Double Black Crew去滑雪~2】
+    url: https://natasha-traveler.tw/nozawa-ski/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 野澤溫泉滑雪場ski菜鳥練功心得、古樸溫泉街超好逛【跟著DOUBLE BLACK CREW去滑雪~3】
+    url: https://natasha-traveler.tw/double-black-crew/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs:
-    - title: "【日本東京🇯🇵】EP4 野澤溫泉滑雪場🗻｜歷史380年旅店常盤屋 Tokiwaya🏯｜道地日式創意料理🍣｜自學單板全紀錄⛷｜輕鬆學會S TRUN🏂｜光明皇后千人風呂♨️｜機場直達野沢巴士🚌"
-      url: "https://www.youtube.com/watch?v=S9eJjItkVuY"
-      note: "和Ivy去旅行"
-    - title: "【日本東京🇯🇵】EP3 野澤溫泉滑雪場❄️｜雪地滑板車｜日本最長雪道｜自學單板全紀錄｜A5和牛壽喜燒 x 和牛亭｜歷史百年野澤溫泉村100周年♨️｜Action4📸"
-      url: "https://www.youtube.com/watch?v=t1q1u1gjQVY"
-      note: "和Ivy去旅行"
-    - title: "【日本東京🇯🇵】EP2 野澤溫泉滑雪場❄️｜毛無山頂 1650M｜Skyline天際線美景雪道｜自學單板全紀錄｜歷史百年溫泉村100周年♨️｜冬奧滑雪場｜靜泉莊 Seisenso｜Action4📸"
-      url: "https://www.youtube.com/watch?v=J-bouEcdhJM"
-      note: "和Ivy去旅行"
-    - title: "【日本東京🇯🇵】EP1 野澤溫泉滑雪場❄️｜機場直達野沢巴士｜日本最長雪道｜自學單板全紀錄｜歷史百年溫泉村｜冬奧滑雪場｜靜泉莊 Seisenso｜Action4📸"
-      url: "https://www.youtube.com/watch?v=sEKq2lknoGQ"
-      note: "和Ivy去旅行"
+  - title: 【日本東京🇯🇵】EP4 野澤溫泉滑雪場🗻｜歷史380年旅店常盤屋 Tokiwaya🏯｜道地日式創意料理🍣｜自學單板全紀錄⛷｜輕鬆學會S TRUN🏂｜光明皇后千人風呂♨️｜機場直達野沢巴士🚌
+    url: https://www.youtube.com/watch?v=S9eJjItkVuY
+    note: 和Ivy去旅行
+  - title: 【日本東京🇯🇵】EP3 野澤溫泉滑雪場❄️｜雪地滑板車｜日本最長雪道｜自學單板全紀錄｜A5和牛壽喜燒 x 和牛亭｜歷史百年野澤溫泉村100周年♨️｜Action4📸
+    url: https://www.youtube.com/watch?v=t1q1u1gjQVY
+    note: 和Ivy去旅行
+  - title: 【日本東京🇯🇵】EP2 野澤溫泉滑雪場❄️｜毛無山頂 1650M｜Skyline天際線美景雪道｜自學單板全紀錄｜歷史百年溫泉村100周年♨️｜冬奧滑雪場｜靜泉莊 Seisenso｜Action4📸
+    url: https://www.youtube.com/watch?v=J-bouEcdhJM
+    note: 和Ivy去旅行
+  - title: 【日本東京🇯🇵】EP1 野澤溫泉滑雪場❄️｜機場直達野沢巴士｜日本最長雪道｜自學單板全紀錄｜歷史百年溫泉村｜冬奧滑雪場｜靜泉莊 Seisenso｜Action4📸
+    url: https://www.youtube.com/watch?v=sEKq2lknoGQ
+    note: 和Ivy去旅行
 sources:
 - label: Nozawa Onsen Official Website
   url: https://en.nozawaski.com/

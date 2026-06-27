@@ -36,16 +36,22 @@ tickets:
   note: 以下為公開資料頁面保留的歷史票價參考，已標示待確認；正式票價請以 Minowa 官方當季公告為準。
   plans:
   - name: 1 日券（待確認）
-    audience: 成人、長者、兒童
-    price: 成人 ¥5,000、長者 ¥4,500、兒童 ¥3,300
+    priceLines:
+    - 成人 ¥5,000
+    - 長者 ¥4,500
+    - 兒童 ¥3,300
     note: 公開資料歷史資訊，需以當季官方票價確認
   - name: 4 小時券（待確認）
-    audience: 成人、長者、兒童
-    price: 成人 ¥4,500、長者 ¥4,000、兒童 ¥2,800
+    priceLines:
+    - 成人 ¥4,500
+    - 長者 ¥4,000
+    - 兒童 ¥2,800
     note: 公開資料歷史資訊，需以當季官方票價確認
   - name: 夜滑券（待確認）
-    audience: 成人、長者、兒童
-    price: 成人 ¥2,500、長者 ¥2,500、兒童 ¥1,700
+    priceLines:
+    - 成人 ¥2,500
+    - 長者 ¥2,500
+    - 兒童 ¥1,700
     note: 公開資料歷史資訊，需以當季官方票價確認
 snowWeather:
   title: Minowa雪況天氣
@@ -70,39 +76,39 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/33604/
   summary: Minowa 位於磐梯山與吾妻山系之間，公開資料既有資料列出 11 條雪道、山頂標高約 1,500m；詳細官方雪道名稱、票價與當季營業資訊待人工補齊。
   details:
-    - name: "初級コースA（名稱待確認）"
-      difficulty: beginner
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "初級コースB（名稱待確認）"
-      difficulty: beginner
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "初級連絡コース（名稱待確認）"
-      difficulty: beginner
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "中級コースA（名稱待確認）"
-      difficulty: intermediate
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "中級コースB（名稱待確認）"
-      difficulty: intermediate
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "中級コースC（名稱待確認）"
-      difficulty: intermediate
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "中級コースD（名稱待確認）"
-      difficulty: intermediate
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "中級連絡コース（名稱待確認）"
-      difficulty: intermediate
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "上級コースA（名稱待確認）"
-      difficulty: advanced
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "上級コースB（名稱待確認）"
-      difficulty: advanced
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
-    - name: "非圧雪コース（名稱待確認）"
-      difficulty: ungroomed
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+  - name: 初級コースA（名稱待確認）
+    difficulty: beginner
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: 初級コースB（名稱待確認）
+    difficulty: beginner
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: 初級連絡コース（名稱待確認）
+    difficulty: beginner
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: 中級コースA（名稱待確認）
+    difficulty: intermediate
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: 中級コースB（名稱待確認）
+    difficulty: intermediate
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: 中級コースC（名稱待確認）
+    difficulty: intermediate
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: 中級コースD（名稱待確認）
+    difficulty: intermediate
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: 中級連絡コース（名稱待確認）
+    difficulty: intermediate
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: 上級コースA（名稱待確認）
+    difficulty: advanced
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: 上級コースB（名稱待確認）
+    difficulty: advanced
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+  - name: 非圧雪コース（名稱待確認）
+    difficulty: ungroomed
+    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
 lifts:
   total: 3
 access:

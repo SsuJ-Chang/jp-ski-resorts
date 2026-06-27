@@ -14,7 +14,7 @@ tags:
 links:
   weather: https://weathernews.jp/ski/spot/34804/
   official: https://yokoteyama2307.com/
-  instagram: "https://www.instagram.com/yokoteyama2307/"
+  instagram: https://www.instagram.com/yokoteyama2307/
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
@@ -40,11 +40,17 @@ tickets:
   note: 志賀高原全山共通主要票種摘要；完整天數券、餐券套票、線上票與兒童規則請以官方頁面為準。
   plans:
   - name: 全山 1 日券
-    audience: 成人、中高生、長者、兒童
-    price: 成人 ¥8,000、中高生 ¥6,200、長者 ¥6,400、兒童 ¥3,600
+    priceLines:
+    - 成人 ¥8,000
+    - 中高生 ¥6,200
+    - 長者 ¥6,400
+    - 兒童 ¥3,600
   - name: 餐券付全山 1 日券
-    audience: 成人、中高生、長者、兒童
-    price: 成人 ¥8,700、中高生 ¥6,900、長者 ¥7,100、兒童 ¥4,300
+    priceLines:
+    - 成人 ¥8,700
+    - 中高生 ¥6,900
+    - 長者 ¥7,100
+    - 兒童 ¥4,300
 snowWeather:
   title: 橫手山雪況天氣
   provider: Weathernews
@@ -120,17 +126,17 @@ lifts:
   total: 12
 access:
   fromTokyo:
-    - label: "東京出發經長野"
-      steps:
-        - "從東京搭北陸新幹線到長野站。"
-        - "從長野站轉乘志賀高原方向巴士，前往橫手山、澀峠周邊站點。"
-      estimatedTime: "長野後約 1.5-2 小時"
-      difficulty: "medium"
-      note: "也可利用湯田中站至橫手山、澀峠的預約制免費接駁；高海拔區域天候變化快，需先確認巴士、接駁與纜車營運。"
+  - label: 東京出發經長野
+    steps:
+    - 從東京搭北陸新幹線到長野站。
+    - 從長野站轉乘志賀高原方向巴士，前往橫手山、澀峠周邊站點。
+    estimatedTime: 長野後約 1.5-2 小時
+    difficulty: medium
+    note: 也可利用湯田中站至橫手山、澀峠的預約制免費接駁；高海拔區域天候變化快，需先確認巴士、接駁與纜車營運。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從信州中野 IC 經志賀中野有料道路與國道 292 號進入志賀高原，再依指標前往橫手山。冬季需準備雪胎或雪鏈；草津萬座路線為夏季路線。"
+    note: 從信州中野 IC 經志賀中野有料道路與國道 292 號進入志賀高原，再依指標前往橫手山。冬季需準備雪胎或雪鏈；草津萬座路線為夏季路線。
 terrainSummary:
   beginner: 初級線集中在 No.2 Beginners 與 Ocean Course。
   intermediate: No.1 Gelende 是官方標示的中級雪道。
@@ -138,16 +144,16 @@ terrainSummary:
   powder: 高海拔與風雪條件變化明顯，實際開放要看官方即時狀態。
 externalContent:
   blogs:
-    - title: "横手山．渋峠滑雪場，樹冰、鬆雪、雲海、美食一次滿足︱志賀高原Day3"
-      url: https://natasha-traveler.tw/yokoteyama-ski/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: 横手山．渋峠滑雪場，樹冰、鬆雪、雲海、美食一次滿足︱志賀高原Day3
+    url: https://natasha-traveler.tw/yokoteyama-ski/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs:
-    - title: "【日本自由行】EP3 橫手山滑雪場❄️日本最高滑雪場！涉峠滑雪場⛄雪道、山景全紀錄！交通攻略！長電巴士！志賀高原黃金連線❄️志賀高原站滑回一之瀨⛄一之瀨 燒肉店"
-      url: "https://www.youtube.com/watch?v=RmK6qKwdEPs"
-      note: "和Ivy去旅行"
-    - title: "【日本自由行】EP2 熊之湯滑雪場❄️志賀高原最長距離！熊之湯滑到橫手山⛄一之瀨到熊之湯！雪道、山景全紀錄！交通攻略！長電巴士！"
-      url: "https://www.youtube.com/watch?v=cac22zGaG9c"
-      note: "和Ivy去旅行"
+  - title: 【日本自由行】EP3 橫手山滑雪場❄️日本最高滑雪場！涉峠滑雪場⛄雪道、山景全紀錄！交通攻略！長電巴士！志賀高原黃金連線❄️志賀高原站滑回一之瀨⛄一之瀨 燒肉店
+    url: https://www.youtube.com/watch?v=RmK6qKwdEPs
+    note: 和Ivy去旅行
+  - title: 【日本自由行】EP2 熊之湯滑雪場❄️志賀高原最長距離！熊之湯滑到橫手山⛄一之瀨到熊之湯！雪道、山景全紀錄！交通攻略！長電巴士！
+    url: https://www.youtube.com/watch?v=cac22zGaG9c
+    note: 和Ivy去旅行
 sources:
 - label: Shiga Kogen Real-Time Lift Status
   url: https://www.shigakogen.gr.jp/english/lift_information/

@@ -15,8 +15,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.yuzawa-nakazato.com/winter/
-  facebook: "https://www.facebook.com/yuzawanakazato"
-  xTwitter: "https://twitter.com/yuzawa_nakazato"
+  facebook: https://www.facebook.com/yuzawanakazato
+  xTwitter: https://twitter.com/yuzawa_nakazato
   trailMapPage: https://www.yuzawa-nakazato.com/winter/course/
   ticket: https://www.yuzawa-nakazato.com/winter/fee/
   access: https://www.yuzawa-nakazato.com/winter/access/
@@ -25,7 +25,7 @@ links:
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町土樽 5044-1
-    ja: "〒949-6103 新潟県南魚沼郡湯沢町土樽5044-1"
+    ja: 〒949-6103 新潟県南魚沼郡湯沢町土樽5044-1
     googleMaps: https://www.google.com/maps/search/?api=1&query=Yuzawa%20Nakazato%20Snow%20Resort
   phone: 025-787-3301
 season:
@@ -47,11 +47,15 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、中高生、小學生
-    price: 成人 ¥6,400、中高生 ¥5,200、小學生 ¥3,200
+    priceLines:
+    - 成人 ¥6,400
+    - 中高生 ¥5,200
+    - 小學生 ¥3,200
   - name: 5 小時券
-    audience: 成人、中高生、小學生
-    price: 成人 ¥5,200、中高生 ¥4,200、小學生 ¥2,500
+    priceLines:
+    - 成人 ¥5,200
+    - 中高生 ¥4,200
+    - 小學生 ¥2,500
 snowWeather:
   title: 湯澤中里雪況天氣
   provider: Official / Weathernews
@@ -68,7 +72,7 @@ mapDisplay:
   labelPriority: 2
   approximatePosition:
     x: 47
-    "y": 55
+    y: 55
 courses:
   beginnerRatio: 50
   intermediateRatio: 19
@@ -76,58 +80,58 @@ courses:
   courseInfoPage: https://www.yuzawa-nakazato.com/winter/course/
   summary: 湯澤中里鄰近越後中里站，官方票價頁標示 2025/12/20-2026/3/29 營業，適合家庭、初學與搭火車前往。
   details:
-    - name: "ジョイフルコース"
-      difficulty: beginner
-      length: "1,500m"
-    - name: "スマイルコース"
-      difficulty: beginner
-      length: "1,010m"
-      averageSlope: "9°"
-    - name: "キャノピーコース"
-      difficulty: beginner
-      length: "750m"
-    - name: "ファミリーコース"
-      difficulty: beginner
-      length: "650m"
-    - name: "エンゼルゲレンデ"
-      difficulty: beginner
-      length: "150m"
-    - name: "フォレストコース"
-      difficulty: beginner
-      length: "300m"
-      averageSlope: "9°"
-    - name: "第6ゲレンデ"
-      difficulty: beginner
-    - name: "第6イベントコース"
-      difficulty: beginner
-    - name: "パノラマコース"
-      difficulty: intermediate
-      length: "500m"
-    - name: "パラレルコース"
-      difficulty: intermediate
-      length: "650m"
-    - name: "スカイラインコース"
-      difficulty: intermediate
-      length: "200m"
-    - name: "ジャイアントコース"
-      difficulty: advanced
-      length: "580m"
-    - name: "トレーニングバーン"
-      difficulty: advanced
-      length: "300m"
-    - name: "ダイナミックコース"
-      difficulty: advanced
-      length: "600m"
-    - name: "FWT ZONE"
-      difficulty: advanced
-      length: "1,170m"
-      maxSlope: "32°"
-      averageSlope: "25°"
-    - name: "エクストリームコース"
-      difficulty: advanced
-      length: "200m"
-      maxSlope: "31°"
-      averageSlope: "24°"
+  - name: ジョイフルコース
+    difficulty: beginner
+    length: 1,500m
+  - name: スマイルコース
+    difficulty: beginner
+    length: 1,010m
+    averageSlope: 9°
+  - name: キャノピーコース
+    difficulty: beginner
+    length: 750m
+  - name: ファミリーコース
+    difficulty: beginner
+    length: 650m
+  - name: エンゼルゲレンデ
+    difficulty: beginner
+    length: 150m
+  - name: フォレストコース
+    difficulty: beginner
+    length: 300m
+    averageSlope: 9°
+  - name: 第6ゲレンデ
+    difficulty: beginner
+  - name: 第6イベントコース
+    difficulty: beginner
+  - name: パノラマコース
+    difficulty: intermediate
+    length: 500m
+  - name: パラレルコース
+    difficulty: intermediate
+    length: 650m
+  - name: スカイラインコース
+    difficulty: intermediate
+    length: 200m
+  - name: ジャイアントコース
+    difficulty: advanced
+    length: 580m
+  - name: トレーニングバーン
+    difficulty: advanced
+    length: 300m
+  - name: ダイナミックコース
+    difficulty: advanced
+    length: 600m
+  - name: FWT ZONE
+    difficulty: advanced
+    length: 1,170m
+    maxSlope: 32°
+    averageSlope: 25°
+  - name: エクストリームコース
+    difficulty: advanced
+    length: 200m
+    maxSlope: 31°
+    averageSlope: 24°
 access:
   fromTokyo:
   - label: 東京出發

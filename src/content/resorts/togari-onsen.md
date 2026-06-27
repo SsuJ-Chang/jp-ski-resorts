@@ -15,9 +15,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://togari.jp
-  facebook: "https://www.facebook.com/togarionsen.snowresort"
-  instagram: "https://www.instagram.com/togarionsen.snow/"
-  xTwitter: "https://x.com/togari_jp_"
+  facebook: https://www.facebook.com/togarionsen.snowresort
+  instagram: https://www.instagram.com/togarionsen.snow/
+  xTwitter: https://x.com/togari_jp_
   weather: https://weathernews.jp/ski/spot/34832/
   access: https://togari.jp/winter/access/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Togari%20Onsen%20Ski%20Resort
@@ -41,18 +41,26 @@ tickets:
   note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、夜滑與活動票種請以官方為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥5,500、兒童 ¥3,500、長者 ¥5,000
+    priceLines:
+    - 成人 ¥5,500
+    - 兒童 ¥3,500
+    - 長者 ¥5,000
   - name: 2 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥9,500、兒童 ¥5,500、長者 ¥9,000
+    priceLines:
+    - 成人 ¥9,500
+    - 兒童 ¥5,500
+    - 長者 ¥9,000
   - name: 上午券
-    audience: 成人、兒童、長者
-    price: 成人 ¥4,500、兒童 ¥3,000、長者 ¥4,000
+    priceLines:
+    - 成人 ¥4,500
+    - 兒童 ¥3,000
+    - 長者 ¥4,000
     note: 8:30-13:00。
   - name: 下午券
-    audience: 成人、兒童、長者
-    price: 成人 ¥4,500、兒童 ¥3,000、長者 ¥4,000
+    priceLines:
+    - 成人 ¥4,500
+    - 兒童 ¥3,000
+    - 長者 ¥4,000
     note: 12:30-17:00。
 snowWeather:
   title: 戶狩溫泉雪況天氣
@@ -157,17 +165,17 @@ lifts:
   total: 4
 access:
   fromTokyo:
-    - label: "東京出發經飯山"
-      steps:
-        - "從東京搭北陸新幹線到飯山站。"
-        - "從飯山站搭直結接駁巴士或計程車前往戶狩溫泉。"
-      estimatedTime: "飯山後約 20 分"
-      difficulty: "easy"
-      note: "滑雪季有飯山站與雪場之間的接駁巴士，也可從戶狩野澤溫泉站搭計程車約 5 分；班次、費用與停靠點需先確認。"
+  - label: 東京出發經飯山
+    steps:
+    - 從東京搭北陸新幹線到飯山站。
+    - 從飯山站搭直結接駁巴士或計程車前往戶狩溫泉。
+    estimatedTime: 飯山後約 20 分
+    difficulty: easy
+    note: 滑雪季有飯山站與雪場之間的接駁巴士，也可從戶狩野澤溫泉站搭計程車約 5 分；班次、費用與停靠點需先確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從上信越自動車道豐田飯山 IC 約 25 分。普通車停車免費，巴士車輛另收費；停車場不建議車宿，冬季需準備雪胎或雪鏈。"
+    note: 從上信越自動車道豐田飯山 IC 約 25 分。普通車停車免費，巴士車輛另收費；停車場不建議車宿，冬季需準備雪胎或雪鏈。
 terrainSummary:
   beginner: 初級約 40%，可從山麓與主要區域安排練習。
   intermediate: 中級約 40%，適合有基礎後銜接不同區域。

@@ -16,9 +16,9 @@ tags:
 - resort_village
 links:
   official: https://tsumagoiskiresort.life/
-  facebook: "https://www.facebook.com/palcall.tsumagoi/"
-  instagram: "https://www.instagram.com/palcall/"
-  xTwitter: "https://twitter.com/PalcallTsumagoi/"
+  facebook: https://www.facebook.com/palcall.tsumagoi/
+  instagram: https://www.instagram.com/palcall/
+  xTwitter: https://twitter.com/PalcallTsumagoi/
   trailMapPage: https://tsumagoiskiresort.life/course-guide/
   weather: https://weathernews.jp/ski/spot/34213/
   googleMaps: https://maps.google.co.jp/maps?q=36.556053,138.464077
@@ -80,7 +80,7 @@ contact:
     zhTw: 群馬縣吾妻郡嬬恋村干俣バラギ高原
     ja: 〒377-1611 群馬県吾妻郡嬬恋村干俣バラギ高原
     googleMaps: https://maps.google.co.jp/maps?q=36.556053,138.464077
-  phone: "0279-96-1177"
+  phone: 0279-96-1177
 tickets:
   season: 2025-2026
   currency: JPY
@@ -88,13 +88,17 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券（全日）
-    price: 成人 ¥6,500 兒童 ¥3,000
+    priceLines:
+    - 成人 ¥6,500 兒童 ¥3,000
   - name: ゴンドラ１回券（片道）
-    price: 成人 ¥2,000 兒童 ¥1,000
+    priceLines:
+    - 成人 ¥2,000 兒童 ¥1,000
   - name: リフト回券（片道）
-    price: 成人 ¥800 兒童 ¥800
+    priceLines:
+    - 成人 ¥800 兒童 ¥800
   - name: 初滑り情報 12月14日〜12月20日は、開放シーズン価格 ¥4,000！
-    price: 請見官方公告
+    priceLines:
+    - 請見官方公告
 elevation:
   top: 2100
   bottom: 1430
@@ -108,8 +112,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：吾妻線万座・鹿沢口駅下車タクシー (20分) 電車 ：長野新幹線 軽井沢駅 シャトルバス(宿泊者限定) (60分) 車 ：小牧IC→上田菅平IC経由 (100分) 車 ：練馬IC→碓氷軽井沢IC経由
-      (70分) 3000台 平日 免費 假日 免費
+    note: 交通資訊摘要：吾妻線万座・鹿沢口駅下車タクシー (20分) 電車 ：長野新幹線 軽井沢駅 シャトルバス(宿泊者限定) (60分) 車 ：小牧IC→上田菅平IC経由 (100分) 車 ：練馬IC→碓氷軽井沢IC経由 (70分) 3000台 平日 免費 假日 免費
 ---
 
 群馬縣的Palcall 嬬戀 Resort共有 22 條雪道，搭配 5 座纜車，包含 山頂ロングランルート、B-6 バラギエリアコース 等路線；雪道配置偏初級，練習門檻較低，標籤偏向初學者練習、親子同行。

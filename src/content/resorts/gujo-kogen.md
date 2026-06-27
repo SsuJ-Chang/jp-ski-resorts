@@ -44,8 +44,11 @@ tickets:
   note: TAKASU MOUNTAINS 6 雪場共通券可在郡上高原使用，但官方說明郡上高原不販售共通券；完整單獨券請以飯店現地公告為準。
   plans:
   - name: 6 雪場共通 1 日券
-    audience: 成人、兒童、長者、中高生
-    price: 成人 ¥6,500、兒童 ¥3,800、長者 ¥5,500、中高生 ¥4,500
+    priceLines:
+    - 成人 ¥6,500
+    - 兒童 ¥3,800
+    - 長者 ¥5,500
+    - 中高生 ¥4,500
 snowWeather:
   title: 郡上高原雪況天氣
   provider: Weathernews
@@ -79,13 +82,13 @@ lifts:
   total: 2
 access:
   fromNagoya:
-    - label: 名古屋出發高速巴士與接駁
-      steps:
-        - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
-        - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE，於郡上ヴァカンス村ホテル相關站點下車。
-      estimatedTime: 約 3 小時以上
-      difficulty: hard
-      note: 郡上ヴァカンス村ホテル停靠班次較少，部分班次需由住宿設施預約；行前務必確認接駁營運日、上下車站與回程班次。
+  - label: 名古屋出發高速巴士與接駁
+    steps:
+    - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
+    - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE，於郡上ヴァカンス村ホテル相關站點下車。
+    estimatedTime: 約 3 小時以上
+    difficulty: hard
+    note: 郡上ヴァカンス村ホテル停靠班次較少，部分班次需由住宿設施預約；行前務必確認接駁營運日、上下車站與回程班次。
   car:
     recommended: true
     snowTireRequired: true

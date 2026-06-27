@@ -16,9 +16,9 @@ tags:
 - resort_village
 links:
   official: https://www.oze-iwakura.co.jp/ski/
-  facebook: "http://www.facebook.com/ozeiwakura"
-  instagram: "https://www.instagram.com/ozeiwakura_skiresort/"
-  xTwitter: "http://www.twitter.com/ozeiwakura_2011"
+  facebook: http://www.facebook.com/ozeiwakura
+  instagram: https://www.instagram.com/ozeiwakura_skiresort/
+  xTwitter: http://www.twitter.com/ozeiwakura_2011
   trailMapPage: https://www.oze-iwakura.co.jp/ski/slopeguide/index.html
   weather: https://weathernews.jp/ski/spot/34207/
   googleMaps: https://maps.google.co.jp/maps?q=36.815088,139.220384
@@ -176,25 +176,31 @@ contact:
     zhTw: 群馬縣利根郡片品村大字土出2609
     ja: 〒378-0412 群馬県利根郡片品村大字土出2609
     googleMaps: https://maps.google.co.jp/maps?q=36.815088,139.220384
-  phone: "0278-58-7777"
+  phone: 0278-58-7777
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34207/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥6,500 兒童 ¥4,500 樂齡 ¥6,000
-  - name: 1回券
-    price: 成人 ¥700 兒童 ¥500
-  - name: 5時間券
-    price: 成人 ¥5,800 兒童 ¥3,800 樂齡 ¥5,300
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥6,500 兒童 ¥4,500 樂齡 ¥6,000
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥700 兒童 ¥500
+  - name: 5 小時券
+    priceLines:
+    - 成人 ¥5,800 兒童 ¥3,800 樂齡 ¥5,300
   - name: 夜滑券
-    price: 成人 ¥2,500 兒童 ¥1,600 樂齡 ¥2,300
-  - name: 20時間券
-    price: 成人 ¥21,000 兒童 ¥13,000 樂齡 ¥19,000
+    priceLines:
+    - 成人 ¥2,500 兒童 ¥1,600 樂齡 ¥2,300
+  - name: 20 小時券
+    priceLines:
+    - 成人 ¥21,000 兒童 ¥13,000 樂齡 ¥19,000
   - name: ※
-    price: 國高中生のリフト券あり
+    priceLines:
+    - 國高中生のリフト券あり
 elevation:
   top: 1703
   bottom: 1006
@@ -208,14 +214,13 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：JR上越線沼田駅→路線バス (50分) 電車 ：上越新幹線上毛高原駅→路線バス (70分) 車 ：前橋IC→沼田IC経由 (70分) 車 ：練馬IC→沼田IC経由 (140分) 飛行機：羽田空港
-      (180分) 2200台 平日 免費 假日 1000円（乗用車1台に4名以上乗車の場合は免費）3/16以降は全日免費
+    note: 交通資訊摘要：JR上越線沼田駅→路線バス (50分) 電車 ：上越新幹線上毛高原駅→路線バス (70分) 車 ：前橋IC→沼田IC経由 (70分) 車 ：練馬IC→沼田IC経由 (140分) 飛行機：羽田空港 (180分) 2200台 平日 免費 假日 1000円（乗用車1台に4名以上乗車の場合は免費）3/16以降は全日免費
 externalContent:
   blogs: []
   vlogs:
-    - title: "日本關東最大滑雪場～尾瀨岩鞍滑雪場第五年回訪，春節雙滑雪團"
-      url: https://www.youtube.com/watch?v=zZq4RrZOa5A
-      note: "艾維斯52赫茲"
+  - title: 日本關東最大滑雪場～尾瀨岩鞍滑雪場第五年回訪，春節雙滑雪團
+    url: https://www.youtube.com/watch?v=zZq4RrZOa5A
+    note: 艾維斯52赫茲
 ---
 
 群馬縣的White World 尾瀨岩鞍共有 18 條雪道，搭配 11 座纜車，包含 ファミリーコース、ロマンスコース 等路線；初級、中級與上級路線都有配置，標籤偏向親子同行、夜滑。

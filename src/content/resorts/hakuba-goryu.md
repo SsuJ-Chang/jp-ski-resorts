@@ -17,8 +17,8 @@ tags:
 rjOpinion: 目前為止最熟的雪場，那肯定是新手友善的！而且能夜滑超棒！ESCAL PLAZA 還有很棒的湯可泡。這裡最大缺點就是雪季人超多以及每年都漲價的雪票...QQ。
 links:
   official: https://www.hakubaescal.com/winter/
-  facebook: "https://www.facebook.com/hakubagoryuofficial/"
-  instagram: "https://www.instagram.com/hakubagoryuofficial/"
+  facebook: https://www.facebook.com/hakubagoryuofficial/
+  instagram: https://www.instagram.com/hakubagoryuofficial/
   trailMapPage: https://www.hakubaescal.com/winter/gelande/course/
   trailMapPdf: https://www.hakubaescal.com/winter/common/pdf/gelande/gelandemap2025.pdf
   ticket: https://www.hakubaescal.com/winter/tickets/lift/
@@ -27,7 +27,7 @@ links:
 contact:
   address:
     zhTw: 日本長野縣北安曇郡白馬村神城 22184-10 Escal Plaza
-    ja: "〒399-9211 長野県北安曇郡白馬村神城22184-10 エスカルプラザ"
+    ja: 〒399-9211 長野県北安曇郡白馬村神城22184-10 エスカルプラザ
     googleMaps: https://www.google.com/maps/search/?api=1&query=Able%20Hakuba%20Goryu%20Escal%20Plaza
   phone: 0261-75-2101
 season:
@@ -55,20 +55,28 @@ tickets:
   note: 現場 Ticket Center 主要票種摘要，價格含 IC 卡押金；完整規則與線上票價以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、長者、青年、兒童
-    price: 成人 ¥9,500、長者 ¥9,000、青年 ¥6,500、兒童 ¥4,500
+    priceLines:
+    - 成人 ¥9,500
+    - 長者 ¥9,000
+    - 青年 ¥6,500
+    - 兒童 ¥4,500
     note: 當日 17:00 前有效
   - name: 2 日券
-    audience: 成人、長者、青年、兒童
-    price: 成人 ¥17,500、長者 ¥16,500、青年 ¥11,500、兒童 ¥8,000
+    priceLines:
+    - 成人 ¥17,500
+    - 長者 ¥16,500
+    - 青年 ¥11,500
+    - 兒童 ¥8,000
     note: 雪季內任選 2 日有效
   - name: 半日券
-    audience: 成人、兒童
-    price: 成人 ¥8,000、兒童 ¥3,900
+    priceLines:
+    - 成人 ¥8,000
+    - 兒童 ¥3,900
     note: 開始營業至 13:00，或 12:00 至結束營業
   - name: 夜滑券
-    audience: 成人、兒童
-    price: 成人 ¥6,500、兒童 ¥3,000
+    priceLines:
+    - 成人 ¥6,500
+    - 兒童 ¥3,000
     note: Toomi Slope 與 Iimori Slope，18:00-21:30
 snowWeather:
   title: 白馬五龍雪況天氣
@@ -130,7 +138,7 @@ courses:
     maxSlope: 13°
     averageSlope: 11°
     videoLinks:
-      - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=435s
+    - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=435s
     note: 林間雪道特有的坡度較緩，但官方提醒雪道寬度較窄，且與壓雪面交界處需注意其他滑行者與雪面高低差。
   - name: R-1
     difficulty: intermediate
@@ -138,7 +146,7 @@ courses:
     maxSlope: 28°
     averageSlope: 22°
     videoLinks:
-      - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=452s
+    - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=452s
     note: Hakuba47 官方說明 R-1 早上壓雪狀態佳，兼具坡度、景觀與長度，適合中級以上滑行並建議早段時段使用。
   - name: R-4
     difficulty: intermediate
@@ -146,7 +154,7 @@ courses:
     maxSlope: 16°
     averageSlope: 14°
     videoLinks:
-      - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=1223s
+    - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=1223s
     note: Hakuba47 官方說明 R-4 是 47PARKS 所在路線，含 half pipe、kicker、rail、box 與 berm 等 park item，配置會依維護與開放狀態調整。
   - name: アドベンチャーコース / Adventure Course
     difficulty: advanced
@@ -154,7 +162,7 @@ courses:
     maxSlope: 28°
     averageSlope: 19°
     videoLinks:
-      - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=837s
+    - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=837s
     note: 官方雪道資料列為上級路線，全長 700m、最大坡度 28°、平均坡度 19°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
   - name: R-2
     difficulty: advanced
@@ -187,8 +195,8 @@ courses:
     averageSlope: 21°
     note: 五龍最大的一枚バーン。官方說明早上人少時大迴轉滑行感佳，雪道旁也有非壓雪區域，並提醒注意速度。
     videoLinks:
-      - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=0s
-      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1391s
+    - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=0s
+    - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1391s
   - name: テクニカルコース / Technical Course
     difficulty: mixed
     length: 300m
@@ -196,14 +204,14 @@ courses:
     averageSlope: 24°
     note: 全面未壓雪路線，官方說明降雪後的新雪是主要目標。
     videoLinks:
-      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1213s
+    - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1213s
   - name: スーパーコース / Super Course
     difficulty: mixed
     length: 450m
     maxSlope: 20°
     averageSlope: 16°
     videoLinks:
-      - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=702s
+    - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=702s
     note: 從箱型纜車 Telecabin 阿爾卑斯平站通往 Grand Prix 的連絡型雪道。官方說明有兩條路線，上方較平，下方較陡，與 Grand Prix 合流時需減速或暫停。
   - name: チャンピオンダイナミックコース / Champion Dynamic Course
     difficulty: mixed
@@ -211,8 +219,8 @@ courses:
     maxSlope: 23°
     averageSlope: 21°
     videoLinks:
-      - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=360s
-      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1552s
+    - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=360s
+    - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1552s
     note: 官方說明為相當陡的斜面，雪道寬度會逐漸變窄，需要確實控制速度；初學者建議搭乘箱型纜車下山。
   - name: とおみゲレンデ / Toomi Slope
     difficulty: mixed
@@ -220,10 +228,10 @@ courses:
     maxSlope: 18°
     averageSlope: 14°
     videoLinks:
-      - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=1340s
-      - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=518s
-      - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=1358s
-      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1798s
+    - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=1340s
+    - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=518s
+    - https://www.youtube.com/watch?v=cBoeR4oKjUE&t=1358s
+    - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=1798s
     note: 壓雪整備完善的緩斜面，官方說明上中下段坡度不同，可依技術選擇纜車與斜度；也是夜滑與 sunrise 營業區域。
   - name: パウダースノーコース / Powder Snow Course
     difficulty: mixed
@@ -258,33 +266,33 @@ courses:
   total: 24
 access:
   fromTokyo:
-    - label: "東京出發經長野或白馬"
-      steps:
-        - "從東京搭北陸新幹線到長野站，轉乘路線巴士前往白馬五龍。"
-        - "也可從新宿搭特急 Azusa 到白馬站，再銜接接駁巴士或計程車。"
-      estimatedTime: "長野後約 1 小時"
-      difficulty: "medium"
-      note: "神城站與飯森站到各自雪場入口約 5 分車程；冬季另有雪場免費接駁與 Hakuba Valley 接駁，班次與期間需先確認。"
+  - label: 東京出發經長野或白馬
+    steps:
+    - 從東京搭北陸新幹線到長野站，轉乘路線巴士前往白馬五龍。
+    - 也可從新宿搭特急 Azusa 到白馬站，再銜接接駁巴士或計程車。
+    estimatedTime: 長野後約 1 小時
+    difficulty: medium
+    note: 神城站與飯森站到各自雪場入口約 5 分車程；冬季另有雪場免費接駁與 Hakuba Valley 接駁，班次與期間需先確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: "東京方向約 4 小時，可由長野自動車道安曇野 IC 或上信越自動車道長野 IC 方向進入。11 月底至 3 月底官方要求雪胎，停車場禁止夜間停車與車宿。"
+    note: 東京方向約 4 小時，可由長野自動車道安曇野 IC 或上信越自動車道長野 IC 方向進入。11 月底至 3 月底官方要求雪胎，停車場禁止夜間停車與車宿。
 lodgingRecommendations:
-  - title: Pals Inn Raicho パルズイン雷鳥
-    url: https://maps.app.goo.gl/ZdPPZGzfVyyugo957
-    rjOpinion: 激推！老闆人超好，價格非常實惠，而且離白馬五龍很近，步行約 15 分鐘，但重點是這裡直接是免費接駁車 G2 的其中一站。務必一定要訂早餐，老闆和老闆娘超用心，每天都是不一樣自己做的早餐，非常好吃。另外這裡還有自己當湯屋，每天滑完雪肯定是要泡湯的吧！
+- title: Pals Inn Raicho パルズイン雷鳥
+  url: https://maps.app.goo.gl/ZdPPZGzfVyyugo957
+  rjOpinion: 激推！老闆人超好，價格非常實惠，而且離白馬五龍很近，步行約 15 分鐘，但重點是這裡直接是免費接駁車 G2 的其中一站。務必一定要訂早餐，老闆和老闆娘超用心，每天都是不一樣自己做的早餐，非常好吃。另外這裡還有自己當湯屋，每天滑完雪肯定是要泡湯的吧！
 externalContent:
   blogs:
-    - title: "白馬五龍滑雪場2026攻略，滑雪中心與雪道詳細介紹、裝備租借Step on不加價、美食與住宿推薦"
-      url: https://natasha-traveler.tw/goryu/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "白馬五龍滑雪場住宿︱亞貝斯特白馬度假村飯店，雪場步行3分鐘，有溫泉和停車場"
-      url: https://natasha-traveler.tw/hotelabest-hakuba/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: 白馬五龍滑雪場2026攻略，滑雪中心與雪道詳細介紹、裝備租借Step on不加價、美食與住宿推薦
+    url: https://natasha-traveler.tw/goryu/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 白馬五龍滑雪場住宿︱亞貝斯特白馬度假村飯店，雪場步行3分鐘，有溫泉和停車場
+    url: https://natasha-traveler.tw/hotelabest-hakuba/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs:
-    - title: "【2025日本白馬🇯🇵】EP2 白馬五龍&47滑雪場🗻｜白馬阿爾卑斯酒店🏨｜租雪具1000日幣🏂｜自學滑雪全紀錄❄️｜成吉思汗烤羊肉🐑｜單日來回兩個雪場｜日本雪場開箱｜🚌"
-      url: https://www.youtube.com/watch?v=TgPjyzJeDnE
-      note: "和Ivy去旅行"
+  - title: 【2025日本白馬🇯🇵】EP2 白馬五龍&47滑雪場🗻｜白馬阿爾卑斯酒店🏨｜租雪具1000日幣🏂｜自學滑雪全紀錄❄️｜成吉思汗烤羊肉🐑｜單日來回兩個雪場｜日本雪場開箱｜🚌
+    url: https://www.youtube.com/watch?v=TgPjyzJeDnE
+    note: 和Ivy去旅行
 sources:
 - label: Hakuba Goryu Official Website
   url: https://www.hakubaescal.com/winter/

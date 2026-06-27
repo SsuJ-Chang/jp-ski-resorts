@@ -15,8 +15,8 @@ tags:
 - tree_run
 links:
   official: https://www.hgp.co.jp/cortina/ski/
-  facebook: "https://www.facebook.com/hakubacortina/"
-  instagram: "https://www.instagram.com/hakubacortina/"
+  facebook: https://www.facebook.com/hakubacortina/
+  instagram: https://www.instagram.com/hakubacortina/
   trailMapPage: https://www.hgp.co.jp/cortina/ski/gelande/
   ticket: https://www.hgp.co.jp/cortina/ski/charge/
   access: https://www.hgp.co.jp/cortina/ski/access/
@@ -25,7 +25,7 @@ links:
 contact:
   address:
     zhTw: 長野縣北安曇郡小谷村千國乙 12860-1
-    ja: "〒399-9422 長野県北安曇郡小谷村千国乙12860-1"
+    ja: 〒399-9422 長野県北安曇郡小谷村千国乙12860-1
     googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Cortina%20Snow%20Resort
   phone: 0261-82-2236
 season:
@@ -47,8 +47,8 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童
-    price: 待依 2025-2026 官網票價頁補齊
+    priceLines:
+    - 待依 2025-2026 官網票價頁補齊
 snowWeather:
   title: 白馬Cortina雪況天氣
   provider: Weathernews
@@ -65,51 +65,51 @@ mapDisplay:
   labelPriority: 3
   approximatePosition:
     x: 55
-    "y": 43
+    y: 43
 courses:
   beginnerRatio: 50
   intermediateRatio: 33
   advancedRatio: 17
-  courseInfoPage: "https://www.hgp.co.jp/cortina/ski/gelande/"
+  courseInfoPage: https://www.hgp.co.jp/cortina/ski/gelande/
   summary: 白馬Cortina 與白馬乘鞍溫泉採共通 lift ticket，是白馬北部粉雪與住宿型行程代表雪場。
   details:
-    - name: "池の田ゲレンデ"
-      difficulty: "beginner"
-      length: "1,125m"
-      averageSlope: "10°"
-      videoLinks:
-        - https://www.youtube.com/watch?v=e72np4-Qpz4&t=1156s
-    - name: "わらび平ゲレンデ"
-      difficulty: "beginner"
-      length: "830m"
-      averageSlope: "14°"
-    - name: "稗田山林間コース"
-      difficulty: "beginner"
-      length: "2,025m"
-      averageSlope: "7°"
-      videoLinks:
-        - https://www.youtube.com/watch?v=e72np4-Qpz4&t=237s
-        - https://www.youtube.com/watch?v=e72np4-Qpz4&t=548s
-    - name: "板平コース"
-      difficulty: "intermediate"
-      length: "600m"
-      averageSlope: "26°"
-      videoLinks:
-        - https://www.youtube.com/watch?v=e72np4-Qpz4&t=1038s
-    - name: "ラビットコース"
-      difficulty: "intermediate"
-      length: "800m"
-      averageSlope: "14°"
-      videoLinks:
-        - https://www.youtube.com/watch?v=e72np4-Qpz4&t=1348s
-    - name: "稗田山コース2"
-      difficulty: "advanced"
-      length: "625m"
-      averageSlope: "36°"
-    - name: "ジャイアントコース"
-      difficulty: "expert"
-      length: "500m"
-      averageSlope: "30°"
+  - name: 池の田ゲレンデ
+    difficulty: beginner
+    length: 1,125m
+    averageSlope: 10°
+    videoLinks:
+    - https://www.youtube.com/watch?v=e72np4-Qpz4&t=1156s
+  - name: わらび平ゲレンデ
+    difficulty: beginner
+    length: 830m
+    averageSlope: 14°
+  - name: 稗田山林間コース
+    difficulty: beginner
+    length: 2,025m
+    averageSlope: 7°
+    videoLinks:
+    - https://www.youtube.com/watch?v=e72np4-Qpz4&t=237s
+    - https://www.youtube.com/watch?v=e72np4-Qpz4&t=548s
+  - name: 板平コース
+    difficulty: intermediate
+    length: 600m
+    averageSlope: 26°
+    videoLinks:
+    - https://www.youtube.com/watch?v=e72np4-Qpz4&t=1038s
+  - name: ラビットコース
+    difficulty: intermediate
+    length: 800m
+    averageSlope: 14°
+    videoLinks:
+    - https://www.youtube.com/watch?v=e72np4-Qpz4&t=1348s
+  - name: 稗田山コース2
+    difficulty: advanced
+    length: 625m
+    averageSlope: 36°
+  - name: ジャイアントコース
+    difficulty: expert
+    length: 500m
+    averageSlope: 30°
 access:
   fromTokyo:
   - label: 東京出發
@@ -133,12 +133,12 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-    - title: "【2025日本白馬🇯🇵】EP6 白馬Cortina 滑雪場🗻 (下集)｜Hotel Green Plaza Hakuba ｜白馬コルチナスキー場 ｜自學滑雪"
-      url: https://www.youtube.com/watch?v=Cr8Qq6AKCXc
-      note: "和Ivy去旅行"
-    - title: "【2025日本白馬🇯🇵】EP6 白馬Cortina 滑雪場🗻 (上集)｜Hotel Green Plaza Hakuba ｜白馬コルチナスキー場 ｜自學滑雪"
-      url: https://www.youtube.com/watch?v=70LF6aTsEEI
-      note: "和Ivy去旅行"
+  - title: 【2025日本白馬🇯🇵】EP6 白馬Cortina 滑雪場🗻 (下集)｜Hotel Green Plaza Hakuba ｜白馬コルチナスキー場 ｜自學滑雪
+    url: https://www.youtube.com/watch?v=Cr8Qq6AKCXc
+    note: 和Ivy去旅行
+  - title: 【2025日本白馬🇯🇵】EP6 白馬Cortina 滑雪場🗻 (上集)｜Hotel Green Plaza Hakuba ｜白馬コルチナスキー場 ｜自學滑雪
+    url: https://www.youtube.com/watch?v=70LF6aTsEEI
+    note: 和Ivy去旅行
 sources:
 - label: Hakuba Cortina Snow Resort Official Website
   url: https://www.hgp.co.jp/cortina/ski/

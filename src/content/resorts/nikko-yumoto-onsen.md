@@ -70,25 +70,31 @@ contact:
     zhTw: 栃木縣日光市湯元温泉
     ja: 〒321-1662 栃木県日光市湯元温泉
     googleMaps: https://maps.google.co.jp/maps?q=36.803592,139.419437
-  phone: "0288-62-2532"
+  phone: 0288-62-2532
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34102/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥4,000 兒童 ¥2,900
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥2,900
   - name: 半日券(8:00〜13:00)
-    price: 成人 ¥3,200 兒童 ¥2,300
+    priceLines:
+    - 成人 ¥3,200 兒童 ¥2,300
   - name: 午後券(12:00〜終了時間)
-    price: 成人 ¥3,200 兒童 ¥2,300
-  - name: 2日券
-    price: 成人 ¥6,200 兒童 ¥4,500
-  - name: 1回券
-    price: 成人 ¥400 兒童 ¥400
-  - name: 4回券
-    price: 成人 ¥1,500 兒童 ¥1,500
+    priceLines:
+    - 成人 ¥3,200 兒童 ¥2,300
+  - name: 2 日券
+    priceLines:
+    - 成人 ¥6,200 兒童 ¥4,500
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥400 兒童 ¥400
+  - name: 4 回券
+    priceLines:
+    - 成人 ¥1,500 兒童 ¥1,500
 elevation:
   top: 1800
   bottom: 1500

@@ -38,11 +38,17 @@ tickets:
   note: 志賀高原全山共通主要票種摘要；完整天數券、餐券套票、線上票與兒童規則請以官方頁面為準。
   plans:
   - name: 全山 1 日券
-    audience: 成人、中高生、長者、兒童
-    price: 成人 ¥8,000、中高生 ¥6,200、長者 ¥6,400、兒童 ¥3,600
+    priceLines:
+    - 成人 ¥8,000
+    - 中高生 ¥6,200
+    - 長者 ¥6,400
+    - 兒童 ¥3,600
   - name: 餐券付全山 1 日券
-    audience: 成人、中高生、長者、兒童
-    price: 成人 ¥8,700、中高生 ¥6,900、長者 ¥7,100、兒童 ¥4,300
+    priceLines:
+    - 成人 ¥8,700
+    - 中高生 ¥6,900
+    - 長者 ¥7,100
+    - 兒童 ¥4,300
 snowWeather:
   title: 澀峠雪況天氣
   provider: Weathernews
@@ -78,17 +84,17 @@ lifts:
   total: 1
 access:
   fromTokyo:
-    - label: "東京出發經長野"
-      steps:
-        - "從東京搭北陸新幹線到長野站。"
-        - "從長野站轉乘志賀高原方向巴士，前往橫手山、澀峠周邊站點。"
-      estimatedTime: "長野後約 1.5-2 小時"
-      difficulty: "medium"
-      note: "也可利用湯田中站至橫手山、澀峠的預約制免費接駁；此區海拔高且位置深，需先確認巴士、接駁與纜車營運。"
+  - label: 東京出發經長野
+    steps:
+    - 從東京搭北陸新幹線到長野站。
+    - 從長野站轉乘志賀高原方向巴士，前往橫手山、澀峠周邊站點。
+    estimatedTime: 長野後約 1.5-2 小時
+    difficulty: medium
+    note: 也可利用湯田中站至橫手山、澀峠的預約制免費接駁；此區海拔高且位置深，需先確認巴士、接駁與纜車營運。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從信州中野 IC 經志賀中野有料道路與國道 292 號進入志賀高原，再依指標往橫手山、澀峠。冬季路況嚴格，需準備雪胎或雪鏈；草津萬座路線為夏季路線。"
+    note: 從信州中野 IC 經志賀中野有料道路與國道 292 號進入志賀高原，再依指標往橫手山、澀峠。冬季路況嚴格，需準備雪胎或雪鏈；草津萬座路線為夏季路線。
 terrainSummary:
   beginner: Waver 與 Simple Course 是主要初級動線。
   intermediate: Gemse Course 是官方標示的中級雪道。
@@ -96,13 +102,13 @@ terrainSummary:
   powder: 位在高海拔峠區，雪況與天候變化要以當日公告為準。
 externalContent:
   blogs:
-    - title: "横手山．渋峠滑雪場，樹冰、鬆雪、雲海、美食一次滿足︱志賀高原Day3"
-      url: https://natasha-traveler.tw/yokoteyama-ski/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: 横手山．渋峠滑雪場，樹冰、鬆雪、雲海、美食一次滿足︱志賀高原Day3
+    url: https://natasha-traveler.tw/yokoteyama-ski/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs:
-    - title: "【日本自由行】EP3 橫手山滑雪場❄️日本最高滑雪場！涉峠滑雪場⛄雪道、山景全紀錄！交通攻略！長電巴士！志賀高原黃金連線❄️志賀高原站滑回一之瀨⛄一之瀨 燒肉店"
-      url: "https://www.youtube.com/watch?v=RmK6qKwdEPs"
-      note: "和Ivy去旅行"
+  - title: 【日本自由行】EP3 橫手山滑雪場❄️日本最高滑雪場！涉峠滑雪場⛄雪道、山景全紀錄！交通攻略！長電巴士！志賀高原黃金連線❄️志賀高原站滑回一之瀨⛄一之瀨 燒肉店
+    url: https://www.youtube.com/watch?v=RmK6qKwdEPs
+    note: 和Ivy去旅行
 sources:
 - label: Shiga Kogen Real-Time Lift Status
   url: https://www.shigakogen.gr.jp/english/lift_information/

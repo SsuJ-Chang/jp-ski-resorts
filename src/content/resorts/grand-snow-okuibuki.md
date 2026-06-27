@@ -14,9 +14,9 @@ tags:
 - resort_village
 links:
   official: https://www.okuibuki.co.jp/
-  facebook: "https://www.facebook.com/okuibuki/"
-  instagram: "https://www.instagram.com/gransnow_okuibuki/"
-  xTwitter: "https://x.com/OKUandIBU"
+  facebook: https://www.facebook.com/okuibuki/
+  instagram: https://www.instagram.com/gransnow_okuibuki/
+  xTwitter: https://x.com/OKUandIBU
   trailMapPage: https://www.okuibuki.co.jp/gelande/course/
   weather: https://weathernews.jp/ski/spot/36004/
   googleMaps: https://maps.google.co.jp/maps?q=35.521948,136.385884
@@ -104,25 +104,31 @@ contact:
     zhTw: 滋賀縣米原市甲津原奥伊吹
     ja: 〒521-0301 滋賀県米原市甲津原奥伊吹
     googleMaps: https://maps.google.co.jp/maps?q=35.521948,136.385884
-  phone: "0749-55-0123"
+  phone: 0749-55-0123
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36004/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥4,000〜¥7,000 兒童 ¥3,000〜¥3,500 樂齡 ¥3,500〜¥4,000
-  - name: 回数券（10回）
-    price: 成人 ¥4,500 兒童 ¥4,500 樂齡 ¥4,500
-  - name: シーズン券
-    price: 成人 42000〜円 兒童 ¥20,000 樂齡 40000〜円
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,000〜¥7,000 兒童 ¥3,000〜¥3,500 樂齡 ¥3,500〜¥4,000
+  - name: 回數券（10回）
+    priceLines:
+    - 成人 ¥4,500 兒童 ¥4,500 樂齡 ¥4,500
+  - name: 季票
+    priceLines:
+    - 成人 42000〜円 兒童 ¥20,000 樂齡 40000〜円
   - name: 1・2月券
-    price: 成人 ¥52,000
-  - name: 1回券
-    price: 成人 ¥450 兒童 ¥450 樂齡 ¥450
+    priceLines:
+    - 成人 ¥52,000
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥450 兒童 ¥450 樂齡 ¥450
   - name: 午後券(11:30〜)
-    price: 成人 3000〜円 兒童 2000〜円 樂齡 2500〜円
+    priceLines:
+    - 成人 3000〜円 兒童 2000〜円 樂齡 2500〜円
 elevation:
   top: 1250
   bottom: 700
@@ -136,9 +142,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：JR米原、近江長岡から「新幹線+バス」でスキー場直行のシャトルバスツアー！！【予約】TEL0749-63-8103 (55分) 電車 ：JR新大阪・京都・名古屋から「リフト券付き」スキー場直行のスキーバスツアー！！【予約】TEL06-6377-3100
-      (180分) 車 ：名古屋（一宮IC）→名神関ヶ原IC→一般道 (30分) 車 ：大阪（吹田IC）→名神道→北陸道米原IC→一般道 (30分) 飛行機：関西空港→特急はるか→新大阪→直行バスor米原駅からスキー場直行 (160分)
-      2700台 平日 1000円 假日 1000円
+    note: 交通資訊摘要：JR米原、近江長岡から「新幹線+バス」でスキー場直行のシャトルバスツアー！！【予約】TEL0749-63-8103 (55分) 電車 ：JR新大阪・京都・名古屋から「リフト券付き」スキー場直行のスキーバスツアー！！【予約】TEL06-6377-3100 (180分) 車 ：名古屋（一宮IC）→名神関ヶ原IC→一般道 (30分) 車 ：大阪（吹田IC）→名神道→北陸道米原IC→一般道 (30分) 飛行機：関西空港→特急はるか→新大阪→直行バスor米原駅からスキー場直行 (160分) 2700台 平日 1000円 假日 1000円
 ---
 
 Grand Snow 奧伊吹位於滋賀縣，是中型雪場，共有14 條雪道，搭配 9 座纜車。代表路線包含 ビギナーゲレンデ、ファミリーゲレンデ、バラエティーコース，初級、中級與上級路線都有配置；標籤上偏向親子同行、雙板與單板。

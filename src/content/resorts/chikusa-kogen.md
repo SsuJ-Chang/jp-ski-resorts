@@ -13,9 +13,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.chikusakogen.com/
-  facebook: "https://www.facebook.com/chikusakogen/"
-  instagram: "https://www.instagram.com/chiguminn.chikusakogen/"
-  xTwitter: "https://twitter.com/ChikusakogenNls"
+  facebook: https://www.facebook.com/chikusakogen/
+  instagram: https://www.instagram.com/chiguminn.chikusakogen/
+  xTwitter: https://twitter.com/ChikusakogenNls
   trailMapPage: https://www.chikusakogen.com/gelande/
   weather: https://weathernews.jp/ski/spot/36304/
   googleMaps: https://maps.google.co.jp/maps?q=35.220969,134.389448
@@ -85,25 +85,31 @@ contact:
     zhTw: 兵庫縣宍粟市千種町西河内1047-218
     ja: 〒671-3233 兵庫県宍粟市千種町西河内1047-218
     googleMaps: https://maps.google.co.jp/maps?q=35.220969,134.389448
-  phone: "0790-76-3555"
+  phone: 0790-76-3555
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36304/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥4,500 兒童 ¥3,500 樂齡 ¥4,000
-  - name: 6時間券
-    price: 成人 ¥4,000 兒童 ¥3,000 樂齡 ¥3,500
-  - name: 4時間券
-    price: 成人 ¥3,500 兒童 ¥2,500 樂齡 ¥3,000
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,500 兒童 ¥3,500 樂齡 ¥4,000
+  - name: 6 小時券
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥3,000 樂齡 ¥3,500
+  - name: 4 小時券
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥2,500 樂齡 ¥3,000
   - name: 夜滑券
-    price: 成人 ¥3,500 兒童 ¥3,000 樂齡 ¥3,300
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥3,000 樂齡 ¥3,300
   - name: 1日券＋夜滑
-    price: 成人 ¥7,000 兒童 ¥6,000 樂齡 ¥6,500
+    priceLines:
+    - 成人 ¥7,000 兒童 ¥6,000 樂齡 ¥6,500
   - name: 午後夜滑
-    price: 成人 ¥6,000 兒童 ¥5,000 樂齡 ¥5,500
+    priceLines:
+    - 成人 ¥6,000 兒童 ¥5,000 樂齡 ¥5,500
 elevation:
   top: 1125
   bottom: 900

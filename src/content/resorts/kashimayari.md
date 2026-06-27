@@ -15,9 +15,9 @@ tags:
 - family_friendly
 links:
   official: https://www.kashimayari.net/snow/
-  facebook: "https://www.facebook.com/kashimayariSV/"
-  instagram: "https://www.instagram.com/kashimayari_park/"
-  xTwitter: "https://x.com/kashimayariSV"
+  facebook: https://www.facebook.com/kashimayariSV/
+  instagram: https://www.instagram.com/kashimayari_park/
+  xTwitter: https://x.com/kashimayariSV
   trailMapPage: https://www.kashimayari.net/snow/fields/
   ticket: https://www.kashimayari.net/snow/ticket/
   access: https://www.kashimayari.net/snow/access/
@@ -26,7 +26,7 @@ links:
 contact:
   address:
     zhTw: 長野縣大町市平 20490-4
-    ja: "〒398-0001 長野県大町市平20490-4"
+    ja: 〒398-0001 長野県大町市平20490-4
     googleMaps: https://www.google.com/maps/search/?api=1&query=Kashimayari%20Snow%20Resort
   phone: 0261-23-1231
 season:
@@ -48,8 +48,8 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童
-    price: 待依 2025-2026 官網票價頁補齊
+    priceLines:
+    - 待依 2025-2026 官網票價頁補齊
 snowWeather:
   title: 鹿島槍雪況天氣
   provider: Weathernews
@@ -66,7 +66,7 @@ mapDisplay:
   labelPriority: 3
   approximatePosition:
     x: 55
-    "y": 43
+    y: 43
 courses:
   beginnerRatio: 33
   intermediateRatio: 50
@@ -75,81 +75,81 @@ courses:
   courseInfoPage: https://www.kashimayari.net/snow/fields/
   summary: 鹿島槍位於白馬 Valley 南側的大町區域，近年以 family park 與雪上活動設施為特色。
   details:
-    - name: 1A コース1：遠見グランドビューA
-      difficulty: mixed
-      length: 1,100m
-      maxSlope: 28°
-      averageSlope: 16°
-      videoLinks:
-        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=757s
-    - name: 1B・1C コース1：遠見グランドビューB・C
-      difficulty: mixed
-      length: 1,100m
-      maxSlope: 28°
-      averageSlope: 16°
-      videoLinks:
-        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=874s
-        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=1024s
-    - name: 2 コース2：黒沢ゲレンデ
-      difficulty: mixed
-      length: 400m
-      maxSlope: 17°
-      averageSlope: 14°
-      videoLinks:
-        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=160s
-    - name: 3 鹿島槍林道コース
-      difficulty: mixed
-      length: 2,500m
-      maxSlope: 17°
-      averageSlope: 11°
-      videoLinks:
-        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=572s
-    - name: 5A コース5-A
-      difficulty: mixed
-      length: 950m
-      maxSlope: 28°
-      averageSlope: 19°
-    - name: 5B コース5-B
-      difficulty: mixed
-      length: 940m
-      maxSlope: 35°
-      averageSlope: 21°
-    - name: 5C コース5-C
-      difficulty: mixed
-      length: 450m
-      maxSlope: 38°
-      averageSlope: 23°
-    - name: 6 一本ブナダウンヒルコース
-      difficulty: mixed
-      length: 2,000m
-      maxSlope: 26°
-      averageSlope: 15°
-      videoLinks:
-        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=220s
-    - name: 7 コース7：丸山ゲレンデ
-      difficulty: mixed
-      length: 400m
-      maxSlope: 15°
-      averageSlope: 13°
-    - name: 9 丸山バイパス A
-      difficulty: mixed
-      length: 300m
-      maxSlope: 25°
-      averageSlope: 15°
-      videoLinks:
-        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=1129s
-    - name: 11 中綱スーパー林道コース
-      difficulty: mixed
-      length: 3,000m
-      maxSlope: 8°
-      averageSlope: 6°
-      videoLinks:
-        - https://www.youtube.com/watch?v=pykcVTbi5_I&t=1156s
-    - name: 1C・9・11 ロングダウンヒルコース・4100
-      difficulty: mixed
-      length: 4,100m
-      maxSlope: 28°
-      averageSlope: 14°
+  - name: 1A コース1：遠見グランドビューA
+    difficulty: mixed
+    length: 1,100m
+    maxSlope: 28°
+    averageSlope: 16°
+    videoLinks:
+    - https://www.youtube.com/watch?v=pykcVTbi5_I&t=757s
+  - name: 1B・1C コース1：遠見グランドビューB・C
+    difficulty: mixed
+    length: 1,100m
+    maxSlope: 28°
+    averageSlope: 16°
+    videoLinks:
+    - https://www.youtube.com/watch?v=pykcVTbi5_I&t=874s
+    - https://www.youtube.com/watch?v=pykcVTbi5_I&t=1024s
+  - name: 2 コース2：黒沢ゲレンデ
+    difficulty: mixed
+    length: 400m
+    maxSlope: 17°
+    averageSlope: 14°
+    videoLinks:
+    - https://www.youtube.com/watch?v=pykcVTbi5_I&t=160s
+  - name: 3 鹿島槍林道コース
+    difficulty: mixed
+    length: 2,500m
+    maxSlope: 17°
+    averageSlope: 11°
+    videoLinks:
+    - https://www.youtube.com/watch?v=pykcVTbi5_I&t=572s
+  - name: 5A コース5-A
+    difficulty: mixed
+    length: 950m
+    maxSlope: 28°
+    averageSlope: 19°
+  - name: 5B コース5-B
+    difficulty: mixed
+    length: 940m
+    maxSlope: 35°
+    averageSlope: 21°
+  - name: 5C コース5-C
+    difficulty: mixed
+    length: 450m
+    maxSlope: 38°
+    averageSlope: 23°
+  - name: 6 一本ブナダウンヒルコース
+    difficulty: mixed
+    length: 2,000m
+    maxSlope: 26°
+    averageSlope: 15°
+    videoLinks:
+    - https://www.youtube.com/watch?v=pykcVTbi5_I&t=220s
+  - name: 7 コース7：丸山ゲレンデ
+    difficulty: mixed
+    length: 400m
+    maxSlope: 15°
+    averageSlope: 13°
+  - name: 9 丸山バイパス A
+    difficulty: mixed
+    length: 300m
+    maxSlope: 25°
+    averageSlope: 15°
+    videoLinks:
+    - https://www.youtube.com/watch?v=pykcVTbi5_I&t=1129s
+  - name: 11 中綱スーパー林道コース
+    difficulty: mixed
+    length: 3,000m
+    maxSlope: 8°
+    averageSlope: 6°
+    videoLinks:
+    - https://www.youtube.com/watch?v=pykcVTbi5_I&t=1156s
+  - name: 1C・9・11 ロングダウンヒルコース・4100
+    difficulty: mixed
+    length: 4,100m
+    maxSlope: 28°
+    averageSlope: 14°
 access:
   fromTokyo:
   - label: 東京出發

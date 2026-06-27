@@ -15,8 +15,8 @@ tags:
 - onsen
 links:
   official: https://ski.washigatake.jp/
-  instagram: "https://www.instagram.com/washigatake5105/"
-  xTwitter: "https://twitter.com/washigatake"
+  instagram: https://www.instagram.com/washigatake5105/
+  xTwitter: https://twitter.com/washigatake
   trailMapPage: https://ski.washigatake.jp/gelande/
   ticket: https://www.takasumountains.com/lift/
   access: https://ski.washigatake.jp/access/
@@ -48,8 +48,11 @@ tickets:
   note: TAKASU MOUNTAINS 6 雪場共通券摘要；全山共通券不含鷲ヶ岳夜滑。
   plans:
   - name: 6 雪場共通 1 日券
-    audience: 成人、兒童、長者、中高生
-    price: 成人 ¥6,500、兒童 ¥3,800、長者 ¥5,500、中高生 ¥4,500
+    priceLines:
+    - 成人 ¥6,500
+    - 兒童 ¥3,800
+    - 長者 ¥5,500
+    - 中高生 ¥4,500
 snowWeather:
   title: 鷲ヶ岳雪況天氣
   provider: Weathernews
@@ -59,7 +62,7 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時雪況為準。
 location:
-  latitude: 35.920
+  latitude: 35.92
   longitude: 136.872
 elevation:
   verticalDrop: 410
@@ -153,13 +156,13 @@ lifts:
   total: 4
 access:
   fromNagoya:
-    - label: 名古屋出發高速巴士與接駁
-      steps:
-        - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
-        - 轉乘 Takasu Snow Shuttle Bus 鷲ヶ岳 LINE 前往鷲ヶ岳。
-      estimatedTime: 約 2.5-3 小時
-      difficulty: medium
-      note: 也可利用名古屋出發的預約制 tour bus；免費接駁有季節與班次限制，需確認上下車站與回程班次。
+  - label: 名古屋出發高速巴士與接駁
+    steps:
+    - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
+    - 轉乘 Takasu Snow Shuttle Bus 鷲ヶ岳 LINE 前往鷲ヶ岳。
+    estimatedTime: 約 2.5-3 小時
+    difficulty: medium
+    note: 也可利用名古屋出發的預約制 tour bus；免費接駁有季節與班次限制，需確認上下車站與回程班次。
   car:
     recommended: true
     snowTireRequired: true

@@ -521,12 +521,16 @@ const resortStructuredData = [
                 官方票價
               </a>
             </div>
+            {resort.data.tickets.note && <p class="panel-note">{resort.data.tickets.note}</p>}
             <div class="ticket-grid">
               {resort.data.tickets.plans.map((plan) => (
                 <article class="ticket-card">
-                  <p>{plan.audience}</p>
                   <h3>{plan.name}</h3>
-                  <strong>{plan.price}</strong>
+                  <ul class="ticket-card__prices">
+                    {plan.priceLines.map((priceLine) => (
+                      <li>{priceLine}</li>
+                    ))}
+                  </ul>
                   {plan.note && <small>{plan.note}</small>}
                 </article>
               ))}

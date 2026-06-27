@@ -12,14 +12,14 @@ tags:
 - snowboard_friendly
 links:
   official: http://www.makinokougen.co.jp/
-  instagram: "https://www.instagram.com/makinokougen_official/"
+  instagram: https://www.instagram.com/makinokougen_official/
   trailMapPage: http://www.makinokougen.co.jp/
   weather: https://weathernews.jp/ski/spot/36009/
   googleMaps: https://maps.google.co.jp/maps?q=35.496364,136.033641
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/28-2026/02/28
-  hours: "平日：8:00〜17:00 / 假日：8:00〜17:00"
+  hours: 平日：8:00〜17:00 / 假日：8:00〜17:00
   note: 2025-2026 營業期間摘要；冬期通常每週三公休。實際開放日、營業時間與公休日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36009/
 trailMaps:
@@ -59,7 +59,7 @@ contact:
     zhTw: 滋賀縣高島市マキノ町牧野931
     ja: 〒520-1836 滋賀県高島市マキノ町牧野931
     googleMaps: https://maps.google.co.jp/maps?q=35.496364,136.033641
-  phone: "0740-27-0936"
+  phone: 0740-27-0936
 tickets:
   season: 2025-2026
   currency: JPY
@@ -67,11 +67,14 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: サンキッド（動く歩道） 料金1回
-    price: 成人 ¥150 兒童 ¥150
+    priceLines:
+    - 成人 ¥150 兒童 ¥150
   - name: サンキッド（動く歩道） 料金1日
-    price: 成人 ¥1,000 兒童 ¥1,000
+    priceLines:
+    - 成人 ¥1,000 兒童 ¥1,000
   - name: サンキッド（動く歩道） 料金12回
-    price: 成人 ¥1,500 兒童 ¥1,500
+    priceLines:
+    - 成人 ¥1,500 兒童 ¥1,500
 elevation:
   top: 350
   bottom: 150

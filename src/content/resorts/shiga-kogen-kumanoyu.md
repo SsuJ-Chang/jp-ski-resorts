@@ -39,11 +39,17 @@ tickets:
   note: 志賀高原全山共通主要票種摘要；完整天數券、餐券套票、線上票與兒童規則請以官方頁面為準。
   plans:
   - name: 全山 1 日券
-    audience: 成人、中高生、長者、兒童
-    price: 成人 ¥8,000、中高生 ¥6,200、長者 ¥6,400、兒童 ¥3,600
+    priceLines:
+    - 成人 ¥8,000
+    - 中高生 ¥6,200
+    - 長者 ¥6,400
+    - 兒童 ¥3,600
   - name: 餐券付全山 1 日券
-    audience: 成人、中高生、長者、兒童
-    price: 成人 ¥8,700、中高生 ¥6,900、長者 ¥7,100、兒童 ¥4,300
+    priceLines:
+    - 成人 ¥8,700
+    - 中高生 ¥6,900
+    - 長者 ¥7,100
+    - 兒童 ¥4,300
 snowWeather:
   title: 熊之湯雪況天氣
   provider: Official
@@ -107,17 +113,17 @@ lifts:
   total: 5
 access:
   fromTokyo:
-    - label: "東京出發經長野"
-      steps:
-        - "從東京搭北陸新幹線到長野站。"
-        - "從長野站東口搭直達巴士前往志賀高原，於熊之湯或ほたる温泉周邊站點下車。"
-      estimatedTime: "長野後約 1.5-2 小時"
-      difficulty: "medium"
-      note: "熊之湯位於志賀高原往橫手山、澀峠方向，車程通常比入口區更長；冬季班次、末班車與回程需先確認。"
+  - label: 東京出發經長野
+    steps:
+    - 從東京搭北陸新幹線到長野站。
+    - 從長野站東口搭直達巴士前往志賀高原，於熊之湯或ほたる温泉周邊站點下車。
+    estimatedTime: 長野後約 1.5-2 小時
+    difficulty: medium
+    note: 熊之湯位於志賀高原往橫手山、澀峠方向，車程通常比入口區更長；冬季班次、末班車與回程需先確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。熊之湯與ほたる温泉共用周邊停車場約 400 台，冬季需準備雪胎或雪鏈。"
+    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。熊之湯與ほたる温泉共用周邊停車場約 400 台，冬季需準備雪胎或雪鏈。
 terrainSummary:
   beginner: 初級線與迂迴線可支撐較保守的滑行安排。
   intermediate: No.3 與 No.4 系列提供中級練習與銜接。
@@ -125,9 +131,9 @@ terrainSummary:
   powder: 南東側高海拔區域，雪況安排仍需以官方當日公告為準。
 externalContent:
   vlogs:
-    - title: "【日本自由行】EP2 熊之湯滑雪場❄️志賀高原最長距離！熊之湯滑到橫手山⛄一之瀨到熊之湯！雪道、山景全紀錄！交通攻略！長電巴士！"
-      url: "https://www.youtube.com/watch?v=cac22zGaG9c"
-      note: "和Ivy去旅行"
+  - title: 【日本自由行】EP2 熊之湯滑雪場❄️志賀高原最長距離！熊之湯滑到橫手山⛄一之瀨到熊之湯！雪道、山景全紀錄！交通攻略！長電巴士！
+    url: https://www.youtube.com/watch?v=cac22zGaG9c
+    note: 和Ivy去旅行
 sources:
 - label: Shiga Kogen Real-Time Lift Status
   url: https://www.shigakogen.gr.jp/english/lift_information/

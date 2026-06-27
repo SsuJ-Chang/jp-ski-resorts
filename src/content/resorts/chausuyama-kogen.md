@@ -11,8 +11,8 @@ tags:
 - family_friendly
 links:
   official: http://www.chausuyama.jp/exercise/2014022119103644.html
-  facebook: "https://www.facebook.com/chausuyama.jp/"
-  xTwitter: "https://x.com/chausu_kogen"
+  facebook: https://www.facebook.com/chausuyama.jp/
+  xTwitter: https://x.com/chausu_kogen
   access: https://www.chausuyama.jp/access/
   weather: https://weathernews.jp/ski/spot/35101/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Chausuyama%20Kogen%20Ski%20Resort
@@ -35,14 +35,17 @@ tickets:
   note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、折扣日與 belt conveyor 券請以官方為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童
-    price: 成人 ¥3,000、兒童 ¥2,500
+    priceLines:
+    - 成人 ¥3,000
+    - 兒童 ¥2,500
   - name: 4 小時券
-    audience: 成人、兒童
-    price: 成人 ¥2,000、兒童 ¥2,000
+    priceLines:
+    - 成人 ¥2,000
+    - 兒童 ¥2,000
   - name: 平日 1 日券
-    audience: 成人、兒童
-    price: 成人 ¥2,500、兒童 ¥1,000
+    priceLines:
+    - 成人 ¥2,500
+    - 兒童 ¥1,000
     note: 資料列為平日票種。
 snowWeather:
   title: 茶臼山高原雪況天氣
@@ -95,13 +98,13 @@ lifts:
   total: 2
 access:
   fromNagoya:
-    - label: 名古屋出發自駕
-      steps:
-        - 從名古屋 IC 方向接猿投 Green Road，轉國道 153、國道 257。
-        - 進入茶臼山高原道路（縣道 507）後，前往茶臼山高原停車場。
-      estimatedTime: 約 2 小時
-      difficulty: hard
-      note: 目前公開資料以自駕動線為主；冬季山區道路需確認積雪、結冰與防滑裝備。
+  - label: 名古屋出發自駕
+    steps:
+    - 從名古屋 IC 方向接猿投 Green Road，轉國道 153、國道 257。
+    - 進入茶臼山高原道路（縣道 507）後，前往茶臼山高原停車場。
+    estimatedTime: 約 2 小時
+    difficulty: hard
+    note: 目前公開資料以自駕動線為主；冬季山區道路需確認積雪、結冰與防滑裝備。
   car:
     recommended: true
     snowTireRequired: true

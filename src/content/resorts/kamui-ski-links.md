@@ -17,7 +17,7 @@ tags:
 - tree_run
 links:
   official: https://www.kamui-skilinks.com/
-  facebook: "https://www.facebook.com/kamuiskilinks.1984/"
+  facebook: https://www.facebook.com/kamuiskilinks.1984/
   trailMapPage: https://www.kamui-skilinks.com/today/#coursemap
   trailMapPdf: https://www.kamui-skilinks.com/pdf_data/coursemap2024.pdf
   ticket: https://www.kamui-skilinks.com/guide/
@@ -27,7 +27,7 @@ links:
 contact:
   address:
     zhTw: 北海道旭川市神居町西丘 112
-    ja: "〒074-1181 北海道旭川市神居町西丘112"
+    ja: 〒074-1181 北海道旭川市神居町西丘112
     googleMaps: https://www.google.com/maps/search/?api=1&query=Kamui%20Ski%20Links
   phone: 0166-72-2311
 season:
@@ -49,19 +49,27 @@ tickets:
   note: 官方票價頁說明自動 IC gate 另收 IC 卡押金 500 日圓，退卡時退還、價格皆含稅。
   plans:
   - name: 1 日券
-    audience: 成人、長者、小學生
-    price: 成人 ¥5,300、長者 ¥4,500、小學生 ¥1,800
+    priceLines:
+    - 成人 ¥5,300
+    - 長者 ¥4,500
+    - 小學生 ¥1,800
   - name: 4 小時券
-    audience: 成人、長者、小學生
-    price: 成人 ¥4,600、長者 ¥4,100、小學生 ¥1,600
+    priceLines:
+    - 成人 ¥4,600
+    - 長者 ¥4,100
+    - 小學生 ¥1,600
     note: 自首次通過 gate 起連續 4 小時可用。
   - name: 回數券 12 點
-    audience: 成人、長者、小學生
-    price: 成人 ¥4,300、長者 ¥3,800、小學生 ¥1,400
+    priceLines:
+    - 成人 ¥4,300
+    - 長者 ¥3,800
+    - 小學生 ¥1,400
     note: 搭乘 箱型纜車 單次使用 3 點。
   - name: 20 小時券
-    audience: 成人、長者、小學生
-    price: 成人 ¥20,000、長者 ¥18,000、小學生 ¥7,200
+    priceLines:
+    - 成人 ¥20,000
+    - 長者 ¥18,000
+    - 小學生 ¥7,200
     note: 雪季內以 1 小時為單位使用，不能多人分用。
 snowWeather:
   title: 神居雪況天氣
@@ -263,54 +271,54 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-    - title: "KC 困惑多年的滑雪難題終於茅塞頓開｜Kamui Snowboarding"
-      url: https://www.youtube.com/watch?v=YfDdnCCY618
-      note: "大林滑雪男子"
-    - title: "🏂 樹林深雪陷阱：掉進雪洞該如何自救？🏔️ Snowboarding in KAMUI EP06"
-      url: https://www.youtube.com/watch?v=9DklDLj-4kI
-      note: "大林滑雪男子"
-    - title: "🏂神居滑雪 VLOG：Willie 教練的一拳教學法！🏔️ Snowboarding in KAMUI EP05"
-      url: https://www.youtube.com/watch?v=YJqxAG1rIkw
-      note: "大林滑雪男子"
-    - title: "🏂為什麼滑雪高手都要「上下分離」？Willie 教練教你如何在神居滑出激進線條🏔️ Snowboarding in KAMUI EP04"
-      url: https://www.youtube.com/watch?v=VJUC9pc4SRY
-      note: "大林滑雪男子"
-    - title: "🏂「轉彎要耐心等待」？破解換刃卡關的關鍵：給板子空間去咬雪！🏔️ Snowboarding in Asahikawa EP03"
-      url: https://www.youtube.com/watch?v=mbAaTbFQfRQ
-      note: "大林滑雪男子"
-    - title: "滑雪新手必看｜日本旭川教練親身指導"
-      url: https://www.youtube.com/watch?v=IgdO75z4ZnQ
-      note: "大林滑雪男子"
-    - title: "🎯 搓雪小迴旋：轉彎控制的第一堂課🏂Snowboarding with CJ EP09 in Kamui神居滑雪場"
-      url: https://www.youtube.com/watch?v=MFLjZ0LqmYw
-      note: "大林滑雪男子"
-    - title: "利用傾身克服蛇彎！🏂Snowboarding with CJ EP08 in Kamui神居滑雪場"
-      url: https://www.youtube.com/watch?v=YiLlHNgC-G4
-      note: "大林滑雪男子"
-    - title: "失去傾倒的勇氣！🏂Snowboarding with CJ EP07 in Kamui神居滑雪場"
-      url: https://www.youtube.com/watch?v=9ZvhQnXQitc
-      note: "大林滑雪男子"
-    - title: "挑戰 Pencil Line：雕刻一條銳利的軌跡！🏂Snowboarding with CJ EP06 in Kamui神居滑雪場"
-      url: https://www.youtube.com/watch?v=Z2GO63g4bto
-      note: "大林滑雪男子"
-    - title: "Carving結合到一般滑行裡 🏂Snowboarding with CJ EP05 in Kamui神居滑雪場"
-      url: https://www.youtube.com/watch?v=XLfZm69uUL4
-      note: "大林滑雪男子"
-    - title: "10分鐘學會企鵝走路☃️🏂Snowboarding with CJ EP04 in Kamui神居滑雪場"
-      url: https://www.youtube.com/watch?v=H3u5o6eDsos
-      note: "大林滑雪男子"
-    - title: "Carving 的極限在倒與不倒之間☃️🏂Snowboarding with CJ EP03 in Kamui神居滑雪場"
-      url: https://www.youtube.com/watch?v=SS5MpdQ6XUY
-      note: "大林滑雪男子"
-    - title: "兩招擺脫單腳滑雪困境☃️🏂Snowboarding with CJ EP02 in Kamui神居滑雪場"
-      url: https://www.youtube.com/watch?v=UA8CsUSSVtU
-      note: "大林滑雪男子"
-    - title: "Carving 101 with CJ 從零開始學刻滑 EP01 in Kamui神居滑雪場"
-      url: https://www.youtube.com/watch?v=E5wTHBRIgoM
-      note: "大林滑雪男子"
-    - title: "北海道雪山受困全紀錄- 神居滑雪場受困 Kamui snowboarding"
-      url: https://www.youtube.com/watch?v=1FsV-Tefrsg
-      note: "大林滑雪男子"
+  - title: KC 困惑多年的滑雪難題終於茅塞頓開｜Kamui Snowboarding
+    url: https://www.youtube.com/watch?v=YfDdnCCY618
+    note: 大林滑雪男子
+  - title: 🏂 樹林深雪陷阱：掉進雪洞該如何自救？🏔️ Snowboarding in KAMUI EP06
+    url: https://www.youtube.com/watch?v=9DklDLj-4kI
+    note: 大林滑雪男子
+  - title: 🏂神居滑雪 VLOG：Willie 教練的一拳教學法！🏔️ Snowboarding in KAMUI EP05
+    url: https://www.youtube.com/watch?v=YJqxAG1rIkw
+    note: 大林滑雪男子
+  - title: 🏂為什麼滑雪高手都要「上下分離」？Willie 教練教你如何在神居滑出激進線條🏔️ Snowboarding in KAMUI EP04
+    url: https://www.youtube.com/watch?v=VJUC9pc4SRY
+    note: 大林滑雪男子
+  - title: 🏂「轉彎要耐心等待」？破解換刃卡關的關鍵：給板子空間去咬雪！🏔️ Snowboarding in Asahikawa EP03
+    url: https://www.youtube.com/watch?v=mbAaTbFQfRQ
+    note: 大林滑雪男子
+  - title: 滑雪新手必看｜日本旭川教練親身指導
+    url: https://www.youtube.com/watch?v=IgdO75z4ZnQ
+    note: 大林滑雪男子
+  - title: 🎯 搓雪小迴旋：轉彎控制的第一堂課🏂Snowboarding with CJ EP09 in Kamui神居滑雪場
+    url: https://www.youtube.com/watch?v=MFLjZ0LqmYw
+    note: 大林滑雪男子
+  - title: 利用傾身克服蛇彎！🏂Snowboarding with CJ EP08 in Kamui神居滑雪場
+    url: https://www.youtube.com/watch?v=YiLlHNgC-G4
+    note: 大林滑雪男子
+  - title: 失去傾倒的勇氣！🏂Snowboarding with CJ EP07 in Kamui神居滑雪場
+    url: https://www.youtube.com/watch?v=9ZvhQnXQitc
+    note: 大林滑雪男子
+  - title: 挑戰 Pencil Line：雕刻一條銳利的軌跡！🏂Snowboarding with CJ EP06 in Kamui神居滑雪場
+    url: https://www.youtube.com/watch?v=Z2GO63g4bto
+    note: 大林滑雪男子
+  - title: Carving結合到一般滑行裡 🏂Snowboarding with CJ EP05 in Kamui神居滑雪場
+    url: https://www.youtube.com/watch?v=XLfZm69uUL4
+    note: 大林滑雪男子
+  - title: 10分鐘學會企鵝走路☃️🏂Snowboarding with CJ EP04 in Kamui神居滑雪場
+    url: https://www.youtube.com/watch?v=H3u5o6eDsos
+    note: 大林滑雪男子
+  - title: Carving 的極限在倒與不倒之間☃️🏂Snowboarding with CJ EP03 in Kamui神居滑雪場
+    url: https://www.youtube.com/watch?v=SS5MpdQ6XUY
+    note: 大林滑雪男子
+  - title: 兩招擺脫單腳滑雪困境☃️🏂Snowboarding with CJ EP02 in Kamui神居滑雪場
+    url: https://www.youtube.com/watch?v=UA8CsUSSVtU
+    note: 大林滑雪男子
+  - title: Carving 101 with CJ 從零開始學刻滑 EP01 in Kamui神居滑雪場
+    url: https://www.youtube.com/watch?v=E5wTHBRIgoM
+    note: 大林滑雪男子
+  - title: 北海道雪山受困全紀錄- 神居滑雪場受困 Kamui snowboarding
+    url: https://www.youtube.com/watch?v=1FsV-Tefrsg
+    note: 大林滑雪男子
 sources:
 - label: Kamui Ski Links Official Website
   url: https://www.kamui-skilinks.com/

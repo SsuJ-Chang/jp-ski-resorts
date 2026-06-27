@@ -11,8 +11,8 @@ tags:
 - night_skiing
 links:
   official: https://sayamaski.jp/
-  instagram: "https://www.instagram.com/sayamaski_official/"
-  xTwitter: "https://x.com/Sayama_ski"
+  instagram: https://www.instagram.com/sayamaski_official/
+  xTwitter: https://x.com/Sayama_ski
   trailMapPage: https://sayamaski.jp/slope.html
   weather: https://weathernews.jp/ski/spot/34303/
   googleMaps: https://maps.google.co.jp/maps?q=35.768357,139.418660
@@ -62,7 +62,7 @@ contact:
     zhTw: 埼玉縣所沢市上山口2167
     ja: 〒359-1153 埼玉県所沢市上山口2167
     googleMaps: https://maps.google.co.jp/maps?q=35.768357,139.418660
-  phone: "04-2922-1384"
+  phone: 04-2922-1384
 tickets:
   season: 2025-2026
   currency: JPY
@@ -70,15 +70,20 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: ワンデーチケット
-    price: 成人 ¥4,000 兒童 ¥1,000
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥1,000
   - name: アフタヌーンチケット
-    price: 成人 ¥3,000
+    priceLines:
+    - 成人 ¥3,000
   - name: 夜滑チケット
-    price: 成人 ¥2,500 兒童 ¥1,000
+    priceLines:
+    - 成人 ¥2,500 兒童 ¥1,000
   - name: 入場チケット(0〜2歳止免費)
-    price: 成人 ¥1,200 兒童 ¥1,000
+    priceLines:
+    - 成人 ¥1,200 兒童 ¥1,000
   - name: シーズンパス(0〜2歳止免費)
-    price: 成人 ¥68,000 12月27日(週六)〜１月４日(週日)および１月、２月の土、週日、國定假日は特定日料金となります。料金の確認は狭山スキー場のHPでご確認ください。
+    priceLines:
+    - 成人 ¥68,000 12月27日(週六)〜１月４日(週日)および１月、２月の土、週日、國定假日は特定日料金となります。料金の確認は狭山スキー場のHPでご確認ください。
 location:
   latitude: 35.768357
   longitude: 139.41866
@@ -86,8 +91,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：狭山線 西武球場前駅下車 摩湖線 多摩湖駅乗り換え 山口線（レオライナー）「西武球場前」駅下車 車 ：関越自動車道所沢ICより30分 圏央道入間ICより20分 中央自動車道国立府中ICより60分
-      当施設の専用駐車場はございません。台
+    note: 交通資訊摘要：狭山線 西武球場前駅下車 摩湖線 多摩湖駅乗り換え 山口線（レオライナー）「西武球場前」駅下車 車 ：関越自動車道所沢ICより30分 圏央道入間ICより20分 中央自動車道国立府中ICより60分 当施設の専用駐車場はございません。台
 ---
 
 狹山位在埼玉縣，滑行區由1 條雪道構成。屋內人工雪ゲレンデ 等路線能看出坡面配置，單一路線配置，重點在簡單滑行與基本練習；標籤上偏向初學者練習、夜滑。

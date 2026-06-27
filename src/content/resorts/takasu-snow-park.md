@@ -18,9 +18,9 @@ tags:
 homeRegionExample: true
 links:
   official: https://www.takasu.gr.jp/
-  facebook: "https://www.facebook.com/takasusnowpark/"
-  instagram: "https://www.instagram.com/takasu_snowpark/"
-  xTwitter: "https://x.com/takasu_snowpark"
+  facebook: https://www.facebook.com/takasusnowpark/
+  instagram: https://www.instagram.com/takasu_snowpark/
+  xTwitter: https://x.com/takasu_snowpark
   trailMapPage: https://www.takasu.gr.jp/gelande/
   ticket: https://www.takasumountains.com/lift/
   access: https://www.takasu.gr.jp/access/
@@ -52,15 +52,24 @@ tickets:
   note: TAKASU MOUNTAINS 6 雪場共通券摘要；全山共通券不含 Dynaland 與鷲ヶ岳夜滑，IC 卡押金另計 ¥500。
   plans:
   - name: 6 雪場共通 1 日券
-    audience: 成人、兒童、長者、中高生
-    price: 成人 ¥6,500、兒童 ¥3,800、長者 ¥5,500、中高生 ¥4,500
+    priceLines:
+    - 成人 ¥6,500
+    - 兒童 ¥3,800
+    - 長者 ¥5,500
+    - 中高生 ¥4,500
     note: 通過 gate 當日有效。
   - name: 6 雪場共通 2 日券
-    audience: 成人、兒童、長者、中高生
-    price: 成人 ¥11,800、兒童 ¥6,900、長者 ¥10,500、中高生 ¥8,500
+    priceLines:
+    - 成人 ¥11,800
+    - 兒童 ¥6,900
+    - 長者 ¥10,500
+    - 中高生 ¥8,500
   - name: 6 雪場共通 3 日券
-    audience: 成人、兒童、長者、中高生
-    price: 成人 ¥17,100、兒童 ¥10,000、長者 ¥15,500、中高生 ¥12,800
+    priceLines:
+    - 成人 ¥17,100
+    - 兒童 ¥10,000
+    - 長者 ¥15,500
+    - 中高生 ¥12,800
 snowWeather:
   title: 高鷲 Snow Park 雪況天氣
   provider: Weathernews
@@ -164,13 +173,13 @@ lifts:
   total: 4
 access:
   fromNagoya:
-    - label: 名古屋出發高速巴士與接駁
-      steps:
-        - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
-        - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE 前往高鷲 Snow Park。
-      estimatedTime: 約 2.5-3 小時
-      difficulty: medium
-      note: 也可利用名古屋直行日歸 tour bus；免費接駁有季節與班次限制，回程需確認上行線巴士站。
+  - label: 名古屋出發高速巴士與接駁
+    steps:
+    - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
+    - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE 前往高鷲 Snow Park。
+    estimatedTime: 約 2.5-3 小時
+    difficulty: medium
+    note: 也可利用名古屋直行日歸 tour bus；免費接駁有季節與班次限制，回程需確認上行線巴士站。
   car:
     recommended: true
     snowTireRequired: true
@@ -183,9 +192,9 @@ terrainSummary:
   powder: 官方設有 tree run area，但 course 外禁止滑行，需依官方開放狀態進入。
 externalContent:
   vlogs:
-    - title: "【日本中部】EP3名古屋自由行｜滑雪價格｜租裝備價格｜西日本最大雪場🗻｜高鷲滑雪場⛷｜Dynaland Snow Park❄️｜自學單板🏂｜ホテルヴィラモンサン飯店｜Action3📸｜"
-      url: "https://www.youtube.com/watch?v=v3e3Bgtegqc"
-      note: "和Ivy去旅行"
+  - title: 【日本中部】EP3名古屋自由行｜滑雪價格｜租裝備價格｜西日本最大雪場🗻｜高鷲滑雪場⛷｜Dynaland Snow Park❄️｜自學單板🏂｜ホテルヴィラモンサン飯店｜Action3📸｜
+    url: https://www.youtube.com/watch?v=v3e3Bgtegqc
+    note: 和Ivy去旅行
 sources:
 - label: Takasu Snow Park Course Introduction
   url: https://www.takasu.gr.jp/gelande/

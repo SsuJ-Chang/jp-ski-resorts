@@ -13,9 +13,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.kawaba.co.jp/
-  facebook: "https://www.facebook.com/kawabaski/"
-  instagram: "https://www.instagram.com/kawabaresort/"
-  xTwitter: "https://twitter.com/kawabaski"
+  facebook: https://www.facebook.com/kawabaski/
+  instagram: https://www.instagram.com/kawabaresort/
+  xTwitter: https://twitter.com/kawabaski
   trailMapPage: https://www.kawaba.co.jp/gelande/course/
   weather: https://weathernews.jp/ski/spot/34201/
   googleMaps: https://maps.google.co.jp/maps?q=36.769198,139.108123
@@ -109,7 +109,7 @@ contact:
     zhTw: 群馬縣利根郡川場村川場高原
     ja: 〒378-0101 群馬県利根郡川場村川場高原
     googleMaps: https://maps.google.co.jp/maps?q=36.769198,139.108123
-  phone: "0278-52-3346"
+  phone: 0278-52-3346
 tickets:
   season: 2025-2026
   currency: JPY
@@ -117,17 +117,23 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券(平日)
-    price: 成人 ¥6,500 兒童 ¥4,900 樂齡 ¥6,000
+    priceLines:
+    - 成人 ¥6,500 兒童 ¥4,900 樂齡 ¥6,000
   - name: 1日券(週末及國定假日)
-    price: 成人 ¥6,800 兒童 ¥5,100 樂齡 ¥6,200
+    priceLines:
+    - 成人 ¥6,800 兒童 ¥5,100 樂齡 ¥6,200
   - name: 1日券(特定日)※対象日:1/10、1/11、1/31、2/7、2/14、2/21、2/22、2/28、3/7、3/14
-    price: 成人 ¥7,300 兒童 ¥5,700 樂齡 ¥6,800
-  - name: 5時間券
-    price: 成人 ¥6,300 兒童 ¥4,500 樂齡 ¥5,600
-  - name: 10時間券
-    price: 成人 ¥12,400 兒童 ¥8,600 樂齡 ¥10,800
-  - name: 20時間券
-    price: 成人 ¥24,400 兒童 ¥17,000 樂齡 ¥21,400
+    priceLines:
+    - 成人 ¥7,300 兒童 ¥5,700 樂齡 ¥6,800
+  - name: 5 小時券
+    priceLines:
+    - 成人 ¥6,300 兒童 ¥4,500 樂齡 ¥5,600
+  - name: 10 小時券
+    priceLines:
+    - 成人 ¥12,400 兒童 ¥8,600 樂齡 ¥10,800
+  - name: 20 小時券
+    priceLines:
+    - 成人 ¥24,400 兒童 ¥17,000 樂齡 ¥21,400
 elevation:
   top: 1870
   bottom: 1230
@@ -141,8 +147,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：上越線沼田駅からタクシー 電車 ：上越新幹線上毛高原駅から送迎バス(要予約)または、タクシー 車 ：前橋IC→沼田IC経由 (50分) 車 ：練馬IC→沼田IC経由 (150分) 1800台
-      平日 免費 假日 立体駐車場に駐車の場合、1500円/1台
+    note: 交通資訊摘要：上越線沼田駅からタクシー 電車 ：上越新幹線上毛高原駅から送迎バス(要予約)または、タクシー 車 ：前橋IC→沼田IC経由 (50分) 車 ：練馬IC→沼田IC経由 (150分) 1800台 平日 免費 假日 立体駐車場に駐車の場合、1500円/1台
 ---
 
 群馬縣的川場共有11 條雪道，搭配 5 座纜車，包含 ファーストステップゲレンデ、桜川コース、クリスタルコース 等路線。初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。

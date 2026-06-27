@@ -13,8 +13,8 @@ tags:
 - tree_run
 links:
   official: https://okutone.jp/
-  facebook: "https://www.facebook.com/okutone.snowpark"
-  instagram: "https://www.instagram.com/okutone.snowpark/"
+  facebook: https://www.facebook.com/okutone.snowpark
+  instagram: https://www.instagram.com/okutone.snowpark/
   trailMapPage: https://okutone.jp/gelande/
   weather: https://weathernews.jp/ski/spot/34225/
   googleMaps: https://maps.google.co.jp/maps?q=36.803306,139.006577
@@ -119,25 +119,31 @@ contact:
     zhTw: 群馬縣利根郡みなかみ町向山39
     ja: 〒379-1724 群馬県利根郡みなかみ町向山39
     googleMaps: https://maps.google.co.jp/maps?q=36.803306,139.006577
-  phone: "0278-72-8101"
+  phone: 0278-72-8101
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34225/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥6,500 兒童 0円 樂齡 ¥5,200
-  - name: 5時間券
-    price: 成人 ¥6,000 兒童 0円 樂齡 ¥4,800
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥6,500 兒童 0円 樂齡 ¥5,200
+  - name: 5 小時券
+    priceLines:
+    - 成人 ¥6,000 兒童 0円 樂齡 ¥4,800
   - name: 1DAY PASSPORT
-    price: 成人 ¥8,000 兒童 0円 樂齡 ¥6,400
+    priceLines:
+    - 成人 ¥8,000 兒童 0円 樂齡 ¥6,400
   - name: 夜滑券
-    price: 成人 ¥3,500 兒童 0円 樂齡 ¥3,500
-  - name: 1回券
-    price: 成人 ¥800 兒童 0円 樂齡 ¥800
+    priceLines:
+    - 成人 ¥3,500 兒童 0円 樂齡 ¥3,500
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥800 兒童 0円 樂齡 ¥800
   - name: 全日シーズン券
-    price: 成人 ¥70,000 樂齡 ¥60,000
+    priceLines:
+    - 成人 ¥70,000 樂齡 ¥60,000
 elevation:
   top: 1180
   bottom: 680
@@ -151,8 +157,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：上越線水上駅より免費シャトルバスで (10分) 電車 ：上越新幹線上毛高原駅よりバスで (40分) 車 ：関越自動車道水上ICよりR291を10km (15分) 飛行機：羽田空港 (170分)
-      600台 平日 免費 假日 免費
+    note: 交通資訊摘要：上越線水上駅より免費シャトルバスで (10分) 電車 ：上越新幹線上毛高原駅よりバスで (40分) 車 ：関越自動車道水上ICよりR291を10km (15分) 飛行機：羽田空港 (170分) 600台 平日 免費 假日 免費
 ---
 
 奧利根 Snow Park在群馬縣提供9 條雪道，搭配 7 座纜車。路線包含 万治平ゲレンデ、向山ゲレンデ、かもしかコース，整體初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。

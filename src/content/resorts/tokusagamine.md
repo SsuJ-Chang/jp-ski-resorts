@@ -75,23 +75,28 @@ contact:
     zhTw: 山口縣山口市阿東町嘉年下１１５０５−１
     ja: 〒759-1602 山口県山口市阿東町嘉年下１１５０５−１
     googleMaps: https://maps.google.co.jp/maps?q=34.452054,131.695918
-  phone: "083-958-0547"
+  phone: 083-958-0547
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/38103/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥4,100 兒童 ¥3,050 樂齡 ¥3,050
-  - name: 11回券
-    price: 成人 ¥2,600
-  - name: 午前券
-    price: 成人 ¥2,600 兒童 ¥2,100 樂齡 ¥2,100
-  - name: 午後券
-    price: 成人 ¥3,200 兒童 ¥2,600 樂齡 ¥2,600
-  - name: 1回券
-    price: 成人 ¥300 兒童 ¥300 樂齡 ¥300
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,100 兒童 ¥3,050 樂齡 ¥3,050
+  - name: 11 回券
+    priceLines:
+    - 成人 ¥2,600
+  - name: 上午券
+    priceLines:
+    - 成人 ¥2,600 兒童 ¥2,100 樂齡 ¥2,100
+  - name: 下午券
+    priceLines:
+    - 成人 ¥3,200 兒童 ¥2,600 樂齡 ¥2,600
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥300 兒童 ¥300 樂齡 ¥300
 elevation:
   top: 850
   bottom: 600

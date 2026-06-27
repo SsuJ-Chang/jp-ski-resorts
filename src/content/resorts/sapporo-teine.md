@@ -1,66 +1,71 @@
 ---
-
-id: "sapporo-teine"
+id: sapporo-teine
 name:
-  zhTw: "札幌手稻"
-  ja: "サッポロテイネ"
-  en: "Sapporo Teine"
-region: "hokkaido"
-prefecture: "北海道"
+  zhTw: 札幌手稻
+  ja: サッポロテイネ
+  en: Sapporo Teine
+region: hokkaido
+prefecture: 北海道
 tags:
-- "powder"
-- "large_ski_area"
-- "long_run"
-- "night_skiing"
-- "snowboard_friendly"
+- powder
+- large_ski_area
+- long_run
+- night_skiing
+- snowboard_friendly
 visibility:
-  status: "published"
-  note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
+  status: published
+  note: 北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。
 links:
-  official: "https://sapporo-teine.com/snow/"
-  facebook: "https://www.facebook.com/sapporo.teine/"
-  instagram: "https://www.instagram.com/sapporoteine_ski/"
-  xTwitter: "https://twitter.com/teine1024"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=Sapporo%20Teine"
-  weather: "https://weathernews.jp/ski/spot/31401/"
-  ticket: "https://weathernews.jp/ski/spot/31401/"
-  access: "https://weathernews.jp/ski/spot/31401/"
+  official: https://sapporo-teine.com/snow/
+  facebook: https://www.facebook.com/sapporo.teine/
+  instagram: https://www.instagram.com/sapporoteine_ski/
+  xTwitter: https://twitter.com/teine1024
+  googleMaps: https://www.google.com/maps/search/?api=1&query=Sapporo%20Teine
+  weather: https://weathernews.jp/ski/spot/31401/
+  ticket: https://weathernews.jp/ski/spot/31401/
+  access: https://weathernews.jp/ski/spot/31401/
 contact:
   address:
-    zhTw: "日本北海道札幌市手稲区手稲本町593番地3"
-    ja: "〒006-0029 北海道札幌市手稲区手稲本町593番地3"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=Sapporo%20Teine"
-  phone: "011-682-6000"
+    zhTw: 日本北海道札幌市手稲区手稲本町593番地3
+    ja: 〒006-0029 北海道札幌市手稲区手稲本町593番地3
+    googleMaps: https://www.google.com/maps/search/?api=1&query=Sapporo%20Teine
+  phone: 011-682-6000
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/11/22-2026/5/6"
-  hours: "平日：9:00〜16:00 假日：9:00〜16:00 夜滑：16:00〜20:00(11/30〜3/29、12/31は18:00止)"
-  note: "營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。"
-  source: "https://weathernews.jp/ski/spot/31401/"
-  nightSkiingHours: "16:00〜20:00(11/30〜3/29、12/31は18:00止)"
+  label: 2025-2026
+  operatingPeriod: 2025/11/22-2026/5/6
+  hours: 平日：9:00〜16:00 假日：9:00〜16:00 夜滑：16:00〜20:00(11/30〜3/29、12/31は18:00止)
+  note: 營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。
+  source: https://weathernews.jp/ski/spot/31401/
+  nightSkiingHours: 16:00〜20:00(11/30〜3/29、12/31は18:00止)
 tickets:
-  season: "2025-2026"
-  currency: "JPY"
-  source: "https://weathernews.jp/ski/spot/31401/"
-  note: "主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。"
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/31401/
+  note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: "1 日券"
-    audience: "成人、兒童、長者"
-    price: "成人 ¥8,400、兒童 ¥5,200、長者 ¥7,100"
-  - name: "5 小時券"
-    audience: "成人、兒童、長者"
-    price: "成人 ¥6,200、兒童 ¥3,900、長者 ¥5,300"
-  - name: "25 小時券"
-    audience: "成人、兒童、長者"
-    price: "成人 ¥27,000、兒童 ¥17,000、長者 ¥235,000"
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥8,400
+    - 兒童 ¥5,200
+    - 長者 ¥7,100
+  - name: 5 小時券
+    priceLines:
+    - 成人 ¥6,200
+    - 兒童 ¥3,900
+    - 長者 ¥5,300
+  - name: 25 小時券
+    priceLines:
+    - 成人 ¥27,000
+    - 兒童 ¥17,000
+    - 長者 ¥235,000
 snowWeather:
-  title: "札幌手稻雪況天氣"
-  provider: "Weathernews"
-  url: "https://weathernews.jp/ski/spot/31401/"
+  title: 札幌手稻雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/31401/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 elevation:
   top: 1023
   bottom: 340
@@ -70,110 +75,110 @@ courses:
   beginnerRatio: 35
   intermediateRatio: 40
   advancedRatio: 35
-  courseInfoPage: "https://sapporo-teine.com/snow/course"
-  summary: "札幌手稻在北海道人氣雪場清單列為第 8 名。共有 15 條雪道、10 座纜車，難度比例為初級 35%、中級 40%、上級 35%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  courseInfoPage: https://sapporo-teine.com/snow/course
+  summary: 札幌手稻在北海道人氣雪場清單列為第 8 名。共有 15 條雪道、10 座纜車，難度比例為初級 35%、中級 40%、上級 35%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
   details:
-    - name: "HZ-1 シティビュークルーズ"
-      difficulty: "intermediate"
-      length: "1,200m"
-      maxSlope: "21°"
-      averageSlope: "13°"
-    - name: "HZ-2 シティビューパノラマ"
-      difficulty: "intermediate"
-      length: "1,200m"
-      maxSlope: "30°"
-      averageSlope: "13°"
-    - name: "HZ-3 女子大回転"
-      difficulty: "advanced"
-      length: "2,000m"
-      maxSlope: "34°"
-      averageSlope: "16°"
-    - name: "HZ-4 北かべ"
-      difficulty: "expert"
-      length: "1,500m"
-      maxSlope: "36°"
-      averageSlope: "20°"
-    - name: "HZ-5 ナチュラル"
-      difficulty: "beginner"
-      length: "4,000m"
-      maxSlope: "12°"
-      averageSlope: "8°"
-    - name: "HZ-6 男女回転"
-      difficulty: "advanced"
-      length: "700m"
-      maxSlope: "34°"
-      averageSlope: "21°"
-    - name: "HZ-7 パラダイス"
-      difficulty: "beginner"
-      length: "600m"
-      maxSlope: "24°"
-      averageSlope: "12°"
-    - name: "OZ-1 レインボー"
-      difficulty: "beginner"
-      length: "1,700m"
-      maxSlope: "11°"
-      averageSlope: "5°"
-    - name: "OZ-2 白樺サンシャイン"
-      difficulty: "beginner"
-      length: "520m"
-      maxSlope: "20°"
-      averageSlope: "13°"
-    - name: "OZ-3 白樺サントラップ"
-      difficulty: "beginner"
-      length: "520m"
-      maxSlope: "21°"
-      averageSlope: "13°"
-    - name: "OZ-4 白樺サンライズ"
-      difficulty: "intermediate"
-      length: "300m"
-      maxSlope: "20°"
-      averageSlope: "14°"
-    - name: "OZ-5 白樺サンダンス"
-      difficulty: "beginner"
-      length: "350m"
-      maxSlope: "15°"
-      averageSlope: "9°"
-    - name: "OZ-6 聖火台オーシャンダイブ"
-      difficulty: "advanced"
-      length: "520m"
-      maxSlope: "38°"
-      averageSlope: "20°"
-    - name: "OZ-7 聖火台オーシャンクルーズ"
-      difficulty: "intermediate"
-      length: "520m"
-      maxSlope: "23°"
-      averageSlope: "20°"
-    - name: "OZ-8 聖火台オーシャンストリーム"
-      difficulty: "beginner"
-      length: "800m"
-      maxSlope: "15°"
-      averageSlope: "9°"
+  - name: HZ-1 シティビュークルーズ
+    difficulty: intermediate
+    length: 1,200m
+    maxSlope: 21°
+    averageSlope: 13°
+  - name: HZ-2 シティビューパノラマ
+    difficulty: intermediate
+    length: 1,200m
+    maxSlope: 30°
+    averageSlope: 13°
+  - name: HZ-3 女子大回転
+    difficulty: advanced
+    length: 2,000m
+    maxSlope: 34°
+    averageSlope: 16°
+  - name: HZ-4 北かべ
+    difficulty: expert
+    length: 1,500m
+    maxSlope: 36°
+    averageSlope: 20°
+  - name: HZ-5 ナチュラル
+    difficulty: beginner
+    length: 4,000m
+    maxSlope: 12°
+    averageSlope: 8°
+  - name: HZ-6 男女回転
+    difficulty: advanced
+    length: 700m
+    maxSlope: 34°
+    averageSlope: 21°
+  - name: HZ-7 パラダイス
+    difficulty: beginner
+    length: 600m
+    maxSlope: 24°
+    averageSlope: 12°
+  - name: OZ-1 レインボー
+    difficulty: beginner
+    length: 1,700m
+    maxSlope: 11°
+    averageSlope: 5°
+  - name: OZ-2 白樺サンシャイン
+    difficulty: beginner
+    length: 520m
+    maxSlope: 20°
+    averageSlope: 13°
+  - name: OZ-3 白樺サントラップ
+    difficulty: beginner
+    length: 520m
+    maxSlope: 21°
+    averageSlope: 13°
+  - name: OZ-4 白樺サンライズ
+    difficulty: intermediate
+    length: 300m
+    maxSlope: 20°
+    averageSlope: 14°
+  - name: OZ-5 白樺サンダンス
+    difficulty: beginner
+    length: 350m
+    maxSlope: 15°
+    averageSlope: 9°
+  - name: OZ-6 聖火台オーシャンダイブ
+    difficulty: advanced
+    length: 520m
+    maxSlope: 38°
+    averageSlope: 20°
+  - name: OZ-7 聖火台オーシャンクルーズ
+    difficulty: intermediate
+    length: 520m
+    maxSlope: 23°
+    averageSlope: 20°
+  - name: OZ-8 聖火台オーシャンストリーム
+    difficulty: beginner
+    length: 800m
+    maxSlope: 15°
+    averageSlope: 9°
 lifts:
   total: 10
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "交通資訊摘要：電車：JR札幌駅由最寄りのJR手稲駅止約速11分 JR手稲由巴士または計程車 (20分) 自駕：札幌北IC由札樽道(9.9km)手稲ICその後一般道路(5km) (10分) 機場：新千歳空港由一般道路(9km)千歳IC(52.8km)由道央道→札樽道手稲ICその後一般道路(5km) (60分)"
+    note: 交通資訊摘要：電車：JR札幌駅由最寄りのJR手稲駅止約速11分 JR手稲由巴士または計程車 (20分) 自駕：札幌北IC由札樽道(9.9km)手稲ICその後一般道路(5km) (10分) 機場：新千歳空港由一般道路(9km)千歳IC(52.8km)由道央道→札樽道手稲ICその後一般道路(5km) (60分)
 terrainSummary:
-  beginner: "初級雪道佔 35%，可作為安排練習與暖身的參考。"
-  intermediate: "中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。"
-  advanced: "上級雪道佔 35%，進階路線請依當日雪況與官方管制判斷。"
-  snowboard: "雪板可滑行。"
-  powder: "北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。"
+  beginner: 初級雪道佔 35%，可作為安排練習與暖身的參考。
+  intermediate: 中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。
+  advanced: 上級雪道佔 35%，進階路線請依當日雪況與官方管制判斷。
+  snowboard: 雪板可滑行。
+  powder: 北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。
 externalContent:
   blogs:
-    - title: "札幌手稻滑雪場2026攻略：交通方式、巴士/纜車票與滑雪課程費用、美食介紹"
-      url: https://natasha-traveler.tw/sapporo-teine-ski-resort-review/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: 札幌手稻滑雪場2026攻略：交通方式、巴士/纜車票與滑雪課程費用、美食介紹
+    url: https://natasha-traveler.tw/sapporo-teine-ski-resort-review/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs: []
 sources:
-- label: "サッポロテイネ Official"
-  url: "https://sapporo-teine.com/snow/"
-- label: "Weathernews サッポロテイネ"
-  url: "https://weathernews.jp/ski/spot/31401/"
-- label: "Weathernews 北海道人氣排行"
-  url: "https://weathernews.jp/ski/area/hokkaido/ranking.html"
+- label: サッポロテイネ Official
+  url: https://sapporo-teine.com/snow/
+- label: Weathernews サッポロテイネ
+  url: https://weathernews.jp/ski/spot/31401/
+- label: Weathernews 北海道人氣排行
+  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 札幌手稻是北海道的中型雪場，整理為15 條雪道，搭配 10 座纜車。雪道如 HZ-1 シティビュークルーズ、HZ-2 シティビューパノラマ、HZ-3 女子大回転，初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。

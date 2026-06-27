@@ -8,10 +8,10 @@ region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 tags:
-  - powder
-  - family_friendly
-  - large_ski_area
-  - no_car_accessible
+- powder
+- family_friendly
+- large_ski_area
+- no_car_accessible
 links:
   official: https://okushigakogenresort.com/winter/
   facebook: https://www.facebook.com/okushiga.kogen/
@@ -31,33 +31,33 @@ season:
   note: 積雪量、天候與營運安排可能調整，請以官方公告為準。
   source: https://okushigakogenresort.com/winter/ski/
 trailMaps:
-  - label: 奧志賀高原雪場圖
-    language: Japanese
-    season: 2025-2026
-    url: https://okushigakogenresort.com/assets/document/okushiga_map_comp.pdf
-    sourceLabel: Okushiga Kogen Resort
+- label: 奧志賀高原雪場圖
+  language: Japanese
+  season: 2025-2026
+  url: https://okushigakogenresort.com/assets/document/okushiga_map_comp.pdf
+  sourceLabel: Okushiga Kogen Resort
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://okushigakogenresort.com/winter/ski/
   note: 奧志賀高原區域限定主要票種摘要；另有早朝券、單次券與 gondola 票，完整規則請以官方頁面為準。
   plans:
-    - name: 初滑、春季 1 日券
-      audience: 成人、中高生、長者、兒童
-      price: 成人 ￥6,000、中高生 ￥5,100、長者 ￥5,500、兒童 ￥3,000
-      note: 適用 2025/12/13-12/19、2026/4/1-5/3。
-    - name: 初滑、春季 4 小時券
-      audience: 成人、中高生、長者、兒童
-      price: 成人 ￥5,200、中高生 ￥4,500、長者 ￥4,800、兒童 ￥2,600
-      note: 適用 2025/12/13-12/19、2026/4/1-5/3。
-    - name: トップシーズン 1 日券
-      audience: 成人、中高生、長者、兒童
-      price: 成人 ￥6,700、中高生 ￥5,400、長者 ￥5,800、兒童 ￥3,300
-      note: 適用 2025/12/20-2026/3/31。
-    - name: トップシーズン 4 小時券
-      audience: 成人、中高生、長者、兒童
-      price: 成人 ￥5,800、中高生 ￥4,700、長者 ￥5,000、兒童 ￥2,900
-      note: 適用 2025/12/20-2026/3/31。
+  - name: 初滑、春季 1 日券
+    priceLines:
+    - 成人 ￥6,000、中高生 ￥5,100、長者 ￥5,500、兒童 ￥3,000
+    note: 適用 2025/12/13-12/19、2026/4/1-5/3。
+  - name: 初滑、春季 4 小時券
+    priceLines:
+    - 成人 ￥5,200、中高生 ￥4,500、長者 ￥4,800、兒童 ￥2,600
+    note: 適用 2025/12/13-12/19、2026/4/1-5/3。
+  - name: トップシーズン 1 日券
+    priceLines:
+    - 成人 ￥6,700、中高生 ￥5,400、長者 ￥5,800、兒童 ￥3,300
+    note: 適用 2025/12/20-2026/3/31。
+  - name: トップシーズン 4 小時券
+    priceLines:
+    - 成人 ￥5,800、中高生 ￥4,700、長者 ￥5,000、兒童 ￥2,900
+    note: 適用 2025/12/20-2026/3/31。
 snowWeather:
   title: 奧志賀高原雪況天氣
   provider: Official
@@ -77,71 +77,71 @@ courses:
   courseInfoPage: https://okushigakogenresort.com/winter/ski/
   summary: 官方目前列出 9 條主要雪道，從入口初級線、林間巡航線到代表性的 Downhill 長雪道與未壓雪急斜面都有。
   details:
-    - name: 第1雪道 / 第1ゲレンデ
-      difficulty: beginner
-      length: 900m
-      averageSlope: 6°
-      maxSlope: 8°
-      note: 奧志賀高原入口的初級線，適合初學者與兒童暖身。
-    - name: 林間雪道 / 林間コース
-      difficulty: intermediate
-      length: 1,200m
-      averageSlope: 10°
-      maxSlope: 17°
-      note: 穿過林間的中段巡航線，視野與滑行節奏都很舒服。
-    - name: 第3雪道 / 第3ゲレンデ
-      difficulty: intermediate
-      length: 600m
-      averageSlope: 13°
-      maxSlope: 16°
-      note: 官方列為初中級雪道，適合區內銜接與反覆練習。
-    - name: 第4雪道 / 第4ゲレンデ
-      difficulty: intermediate
-      length: 400m
-      averageSlope: 12°
-      maxSlope: 16°
-      note: 可從燒額山山頂接入，適合把兩區滑行動線串起來。
-    - name: 第6雪道 / 第6ゲレンデ
-      difficulty: intermediate
-      length: 700m
-      averageSlope: 8°
-      maxSlope: 9°
-      note: 連接熊落雪道與燒額山的連絡線；官方另註明本區 park 與第 6 纜車不營運。
-    - name: Hillside 雪道 / ヒルサイドコース
-      difficulty: intermediate
-      length: 820m
-      averageSlope: 10°
-      maxSlope: 17°
-      note: 從 Downhill 雪道分出的迂迴線，適合用比較順的節奏滑回下段。
-    - name: Downhill 雪道 / ダウンヒルコース
-      difficulty: advanced
-      length: 2,200m
-      averageSlope: 19°
-      maxSlope: 28°
-      note: 奧志賀高原最有代表性的長雪道，滑行距離與速度感都很完整。
-    - name: 專家雪道 / エキスパートコース
-      difficulty: expert
-      length: 630m
-      averageSlope: 23°
-      maxSlope: 30°
-      note: 一面急斜坡設定，適合已能穩定控速的中上級滑手。
-    - name: 熊落雪道 / 熊落としコース
-      difficulty: expert
-      length: 400m
-      averageSlope: 20°
-      maxSlope: 30°
-      note: 官方標示為未壓雪的上級雪道，是奧志賀高原最具挑戰感的招牌坡面之一。
+  - name: 第1雪道 / 第1ゲレンデ
+    difficulty: beginner
+    length: 900m
+    averageSlope: 6°
+    maxSlope: 8°
+    note: 奧志賀高原入口的初級線，適合初學者與兒童暖身。
+  - name: 林間雪道 / 林間コース
+    difficulty: intermediate
+    length: 1,200m
+    averageSlope: 10°
+    maxSlope: 17°
+    note: 穿過林間的中段巡航線，視野與滑行節奏都很舒服。
+  - name: 第3雪道 / 第3ゲレンデ
+    difficulty: intermediate
+    length: 600m
+    averageSlope: 13°
+    maxSlope: 16°
+    note: 官方列為初中級雪道，適合區內銜接與反覆練習。
+  - name: 第4雪道 / 第4ゲレンデ
+    difficulty: intermediate
+    length: 400m
+    averageSlope: 12°
+    maxSlope: 16°
+    note: 可從燒額山山頂接入，適合把兩區滑行動線串起來。
+  - name: 第6雪道 / 第6ゲレンデ
+    difficulty: intermediate
+    length: 700m
+    averageSlope: 8°
+    maxSlope: 9°
+    note: 連接熊落雪道與燒額山的連絡線；官方另註明本區 park 與第 6 纜車不營運。
+  - name: Hillside 雪道 / ヒルサイドコース
+    difficulty: intermediate
+    length: 820m
+    averageSlope: 10°
+    maxSlope: 17°
+    note: 從 Downhill 雪道分出的迂迴線，適合用比較順的節奏滑回下段。
+  - name: Downhill 雪道 / ダウンヒルコース
+    difficulty: advanced
+    length: 2,200m
+    averageSlope: 19°
+    maxSlope: 28°
+    note: 奧志賀高原最有代表性的長雪道，滑行距離與速度感都很完整。
+  - name: 專家雪道 / エキスパートコース
+    difficulty: expert
+    length: 630m
+    averageSlope: 23°
+    maxSlope: 30°
+    note: 一面急斜坡設定，適合已能穩定控速的中上級滑手。
+  - name: 熊落雪道 / 熊落としコース
+    difficulty: expert
+    length: 400m
+    averageSlope: 20°
+    maxSlope: 30°
+    note: 官方標示為未壓雪的上級雪道，是奧志賀高原最具挑戰感的招牌坡面之一。
 lifts:
   total: 6
 access:
   fromTokyo:
-    - label: 東京出發經長野
-      steps:
-        - 從東京搭北陸新幹線到長野站。
-        - 從長野站東口搭往奧志賀高原方向的直達巴士，於奧志賀高原周邊站點下車。
-      estimatedTime: 長野後約 1.5-2 小時
-      difficulty: medium
-      note: 奧志賀高原位於志賀高原東北端，回程巴士與跨區纜車時間要特別確認。
+  - label: 東京出發經長野
+    steps:
+    - 從東京搭北陸新幹線到長野站。
+    - 從長野站東口搭往奧志賀高原方向的直達巴士，於奧志賀高原周邊站點下車。
+    estimatedTime: 長野後約 1.5-2 小時
+    difficulty: medium
+    note: 奧志賀高原位於志賀高原東北端，回程巴士與跨區纜車時間要特別確認。
   car:
     recommended: true
     snowTireRequired: true
@@ -154,24 +154,24 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-    - title: 【スキー場ガイド】奥志賀高原スキー場　志賀高原でNo.１の積雪量
-      url: https://www.youtube.com/watch?v=DSE1VZ1x9HY
-      note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
-    - title: 【日本自由行】EP5 燒額山滑雪場❄️ 奧志賀滑雪場！女子大迴轉⛄雪道、山景全紀錄！❄️奧志賀出發一路滑到一之瀨⛄
-      url: https://www.youtube.com/watch?v=CxQ3Eciv_-k
-      note: 和Ivy去旅行
-    - title: 【日本自由行】EP4 奧志賀滑雪場❄️燒額山滑雪場！超好玩樹林道⛄雪道、山景全紀錄！❄️一之瀨出發一路滑到奧志賀⛄
-      url: https://www.youtube.com/watch?v=QFbnFpx0FO0
-      note: 和Ivy去旅行
+  - title: 【スキー場ガイド】奥志賀高原スキー場　志賀高原でNo.１の積雪量
+    url: https://www.youtube.com/watch?v=DSE1VZ1x9HY
+    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
+  - title: 【日本自由行】EP5 燒額山滑雪場❄️ 奧志賀滑雪場！女子大迴轉⛄雪道、山景全紀錄！❄️奧志賀出發一路滑到一之瀨⛄
+    url: https://www.youtube.com/watch?v=CxQ3Eciv_-k
+    note: 和Ivy去旅行
+  - title: 【日本自由行】EP4 奧志賀滑雪場❄️燒額山滑雪場！超好玩樹林道⛄雪道、山景全紀錄！❄️一之瀨出發一路滑到奧志賀⛄
+    url: https://www.youtube.com/watch?v=QFbnFpx0FO0
+    note: 和Ivy去旅行
 sources:
-  - label: Okushiga Kogen Ski Info
-    url: https://okushigakogenresort.com/winter/ski/
-  - label: Okushiga Kogen Trail Map PDF
-    url: https://okushigakogenresort.com/assets/document/okushiga_map_comp.pdf
-  - label: Shiga Kogen Real-Time Lift Status
-    url: https://www.shigakogen.gr.jp/english/lift_information/
-  - label: Shiga Kogen Access
-    url: https://shigakogen-ski.or.jp/access/
+- label: Okushiga Kogen Ski Info
+  url: https://okushigakogenresort.com/winter/ski/
+- label: Okushiga Kogen Trail Map PDF
+  url: https://okushigakogenresort.com/assets/document/okushiga_map_comp.pdf
+- label: Shiga Kogen Real-Time Lift Status
+  url: https://www.shigakogen.gr.jp/english/lift_information/
+- label: Shiga Kogen Access
+  url: https://shigakogen-ski.or.jp/access/
 ---
 
 奧志賀高原位於志賀高原最深處，2025-2026 官方頁面列出 9 條主要雪道與 6 座纜車。和志賀高原中央區那些以大量初中級道取勝的區域相比，這裡更像是把長距離巡航、林間滑行與上級急斜面集中在同一區。

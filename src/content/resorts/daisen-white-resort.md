@@ -15,7 +15,7 @@ tags:
 homeRegionExample: true
 links:
   official: https://www.daisen-resort.jp/
-  instagram: "https://www.instagram.com/daisen_resort/"
+  instagram: https://www.instagram.com/daisen_resort/
   trailMapPage: https://www.daisen-resort.jp/4/13.html
   ticket: https://www.daisen-resort.jp/6/
   access: https://www.daisen-resort.jp/10/
@@ -24,7 +24,7 @@ links:
 contact:
   address:
     zhTw: 鳥取縣西伯郡大山町大山 96
-    ja: "〒689-3318 鳥取県西伯郡大山町大山96"
+    ja: 〒689-3318 鳥取県西伯郡大山町大山96
     googleMaps: https://www.google.com/maps/search/?api=1&query=Daisen%20White%20Resort
   phone: 0859-52-2315
 season:
@@ -46,21 +46,25 @@ tickets:
   note: 主要票種依官方與公開資料整理；IC key card 與各種優惠、期間限定票請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童
-    price: 成人 ¥5,800、兒童 ¥4,000
+    priceLines:
+    - 成人 ¥5,800
+    - 兒童 ¥4,000
   - name: 平日 1 日券
-    audience: 成人、兒童
-    price: 成人 ¥5,200、兒童 ¥4,000
+    priceLines:
+    - 成人 ¥5,200
+    - 兒童 ¥4,000
     note: 資料列為成人平日 1 日券；兒童票價依一般 1 日券整理
   - name: 2 日券
-    audience: 成人、兒童
-    price: 成人 ¥10,000、兒童 ¥7,400
+    priceLines:
+    - 成人 ¥10,000
+    - 兒童 ¥7,400
   - name: 1 day 5 小時券
-    audience: 成人、兒童
-    price: 成人 ¥4,800、兒童 ¥3,000
+    priceLines:
+    - 成人 ¥4,800
+    - 兒童 ¥3,000
   - name: 親子券
-    audience: 成人、兒童
-    price: ¥8,500
+    priceLines:
+    - 成人、兒童：¥8,500
     note: 官方列為親子票，詳細組合條件請以官方票價頁為準。
 snowWeather:
   title: 大山白色度假村雪況天氣

@@ -12,9 +12,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.hyounosen.jp/
-  facebook: "https://www.facebook.com/hyounosen/"
-  instagram: "https://www.instagram.com/hyounosen.kokusai/"
-  xTwitter: "https://twitter.com/kokusai_ski"
+  facebook: https://www.facebook.com/hyounosen/
+  instagram: https://www.instagram.com/hyounosen.kokusai/
+  xTwitter: https://twitter.com/kokusai_ski
   trailMapPage: https://www.hyounosen.jp/gelande/
   weather: https://weathernews.jp/ski/spot/36909/
   googleMaps: https://maps.google.co.jp/maps?q=35.369900,134.539197
@@ -84,7 +84,7 @@ contact:
     zhTw: 兵庫縣養父市奈良尾509
     ja: 〒667-1125 兵庫県養父市奈良尾509
     googleMaps: https://maps.google.co.jp/maps?q=35.369900,134.539197
-  phone: "079-667-7219"
+  phone: 079-667-7219
 tickets:
   season: 2025-2026
   currency: JPY
@@ -92,17 +92,23 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券（平日）
-    price: 成人 ¥4,000 兒童 ¥2,200 樂齡 ¥3,400
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥2,200 樂齡 ¥3,400
   - name: 1日券（週末及國定假日）A
-    price: 成人 ¥4,800 兒童 ¥2,500 樂齡 ¥4,200
+    priceLines:
+    - 成人 ¥4,800 兒童 ¥2,500 樂齡 ¥4,200
   - name: 1日券（週末及國定假日）B
-    price: 成人 ¥5,300 兒童 ¥3,000 樂齡 ¥4,700
+    priceLines:
+    - 成人 ¥5,300 兒童 ¥3,000 樂齡 ¥4,700
   - name: 午後券（平日）
-    price: 成人 ¥3,000
+    priceLines:
+    - 成人 ¥3,000
   - name: 午後券（週末及國定假日）A
-    price: 成人 ¥3,800
+    priceLines:
+    - 成人 ¥3,800
   - name: 午後券（週末及國定假日）B
-    price: 成人 ¥4,300 成人＝中学生以上 兒童＝小学生 樂齡＝55歳以上(身分証明書必要) ※未就学児は免費（週末及國定假日）A・・・12月、1月、3月の週末及國定假日、12/29〜1/3に利用可 ※1/11(週日)除外（週末及國定假日）B・・・1/11(週日)、2月の週末及國定假日に利用可各種割引券の併用はできません。
+    priceLines:
+    - 成人 ¥4,300 成人＝中学生以上 兒童＝小学生 樂齡＝55歳以上(身分証明書必要) ※未就学児は免費（週末及國定假日）A・・・12月、1月、3月の週末及國定假日、12/29〜1/3に利用可 ※1/11(週日)除外（週末及國定假日）B・・・1/11(週日)、2月の週末及國定假日に利用可各種割引券の併用はできません。
 elevation:
   top: 1050
   bottom: 600
@@ -116,8 +122,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：山陰本線JR八鹿駅から全但バスで (50分) 車 ：中国吹田IC→北近畿豊岡自動車道八鹿氷ノ山IC→一般道 (130分) 車 ：岡山IC→北近畿豊岡自動車道八鹿氷ノ山IC→一般道 (140分)
-      450台 平日 500円 假日 1500円
+    note: 交通資訊摘要：山陰本線JR八鹿駅から全但バスで (50分) 車 ：中国吹田IC→北近畿豊岡自動車道八鹿氷ノ山IC→一般道 (130分) 車 ：岡山IC→北近畿豊岡自動車道八鹿氷ノ山IC→一般道 (140分) 450台 平日 500円 假日 1500円
 ---
 
 冰之山國際是兵庫縣的中小型雪場，整理為7 條雪道，搭配 4 座纜車。雪道如 ファミリーゲレンデ、ビギナーゲレンデ、パノラマコース，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

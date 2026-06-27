@@ -16,9 +16,9 @@ tags:
 - long_run
 links:
   official: https://www.932-onsen.com/winter/
-  facebook: "https://www.facebook.com/onsen932/"
-  instagram: "https://www.instagram.com/932onsen/"
-  xTwitter: "https://twitter.com/snowspa932"
+  facebook: https://www.facebook.com/onsen932/
+  instagram: https://www.instagram.com/932onsen/
+  xTwitter: https://twitter.com/snowspa932
   trailMapPage: https://www.932-onsen.com/winter/course/
   weather: https://weathernews.jp/ski/spot/34206/
   googleMaps: https://maps.google.co.jp/maps?q=36.629013,138.586008
@@ -111,12 +111,12 @@ terrainSummary:
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 externalContent:
   blogs:
-    - title: "【草津溫泉住宿】草津Now Resort Hotel：滑雪、溫泉、螃蟹吃到飽"
-      url: https://natasha-traveler.tw/now-resort-hote/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "【日本滑雪．群馬】草津國際滑雪場，8公里粉雪滑道享受滑行快感!"
-      url: https://natasha-traveler.tw/kusatsu-kokusai-ski/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: 【草津溫泉住宿】草津Now Resort Hotel：滑雪、溫泉、螃蟹吃到飽
+    url: https://natasha-traveler.tw/now-resort-hote/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 【日本滑雪．群馬】草津國際滑雪場，8公里粉雪滑道享受滑行快感!
+    url: https://natasha-traveler.tw/kusatsu-kokusai-ski/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs: []
 sources:
 - label: Kusatsu Onsen Ski Resort Official
@@ -130,7 +130,7 @@ contact:
     zhTw: 群馬縣吾妻郡草津町字白根国有林158林班
     ja: 〒377-1711 群馬県吾妻郡草津町字白根国有林158林班
     googleMaps: https://maps.google.co.jp/maps?q=36.629013,138.586008
-  phone: "0279-88-8111"
+  phone: 0279-88-8111
 tickets:
   season: 2025-2026
   currency: JPY
@@ -138,17 +138,23 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券（運転開始〜17:00）
-    price: 成人 ¥6,000 兒童 ¥2,000 樂齡 ¥5,200
+    priceLines:
+    - 成人 ¥6,000 兒童 ¥2,000 樂齡 ¥5,200
   - name: 2日券（運転開始〜翌日17:00）
-    price: 成人 ¥11,200 兒童 ¥4,000 樂齡 ¥9,700
+    priceLines:
+    - 成人 ¥11,200 兒童 ¥4,000 樂齡 ¥9,700
   - name: 時間券（4時間）
-    price: 成人 ¥5,300 兒童 ¥2,000 樂齡 ¥4,700
+    priceLines:
+    - 成人 ¥5,300 兒童 ¥2,000 樂齡 ¥4,700
   - name: 夜滑券（17:00〜21:00）
-    price: 成人 ¥2,000 兒童 ¥1,000 樂齡 ¥2,000
-  - name: 回数券（1回券）
-    price: 成人 ¥600 兒童 ¥600 樂齡 ¥600
+    priceLines:
+    - 成人 ¥2,000 兒童 ¥1,000 樂齡 ¥2,000
+  - name: 回數券（1回券）
+    priceLines:
+    - 成人 ¥600 兒童 ¥600 樂齡 ¥600
   - name: 初滑り情報 スキー場OPEN日にリフト券ご購入のお客様へ、オリジナルステッカー＆次回使用可能なリフト1日50％OFF券をペアでプレゼント！
-    price: 請見官方公告
+    priceLines:
+    - 請見官方公告
 elevation:
   top: 1600
   bottom: 1245
@@ -162,8 +168,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：吾妻線長野原草津口駅 (25分) 車 ：練馬IC→関越道(103km)渋川伊香保IC→一般道(60km) (171分) 車 ：練馬IC→上信越道(130km)碓井軽井沢IC→一般道(55km)
-      (189分) 1260台 平日 免費 假日 12/27-1/4限定普通車1台1000円 天狗山第四駐車場 年末年始・週末及國定假日 1,000円
+    note: 交通資訊摘要：吾妻線長野原草津口駅 (25分) 車 ：練馬IC→関越道(103km)渋川伊香保IC→一般道(60km) (171分) 車 ：練馬IC→上信越道(130km)碓井軽井沢IC→一般道(55km) (189分) 1260台 平日 免費 假日 12/27-1/4限定普通車1台1000円 天狗山第四駐車場 年末年始・週末及國定假日 1,000円
 ---
 
 草津溫泉位於群馬縣，是中小型雪場，共有9 條雪道，搭配 6 座纜車。代表路線包含 しゃくなげコース、R292 コース、ファミリーゲレンデ，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

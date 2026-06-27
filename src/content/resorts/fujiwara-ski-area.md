@@ -17,17 +17,16 @@ tags:
 - tree_run
 links:
   official: https://fujiwaraski.com/
-  facebook: "https://www.facebook.com/fujiwaraskipark"
-  instagram: "https://www.instagram.com/sunbird_fujiwaraski/"
-  xTwitter: "https://twitter.com/fujiwaraski"
+  facebook: https://www.facebook.com/fujiwaraskipark
+  instagram: https://www.instagram.com/sunbird_fujiwaraski/
+  xTwitter: https://twitter.com/fujiwaraski
   trailMapPage: https://fujiwaraski.com/cource/
   weather: https://weathernews.jp/ski/spot/34227/
   googleMaps: https://maps.google.co.jp/maps?q=36.850800,139.066700
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/03/30
-  hours: ：9時〜16時半止 パイプ × ペットの同伴 × 近場の温泉 奥利根温泉ホテルサンバード ゲレンデ直結 大浴場や11種類から選べる雪見の貸切露天風呂を利用できます。※有料 住所 〒379-1721 群馬県利根郡みなかみ町藤原4957-1
-    地図を見る お問い合わせ TEL：0278-75-2321 ホームページ 營業期間 2025年12月20日 ~ 2026年03月30日 營業時間 平日：8:30〜16:45 假日：8:30〜16:45 夜滑：無
+  hours: ：9時〜16時半止 パイプ × ペットの同伴 × 近場の温泉 奥利根温泉ホテルサンバード ゲレンデ直結 大浴場や11種類から選べる雪見の貸切露天風呂を利用できます。※有料 住所 〒379-1721 群馬県利根郡みなかみ町藤原4957-1 地図を見る お問い合わせ TEL：0278-75-2321 ホームページ 營業期間 2025年12月20日 ~ 2026年03月30日 營業時間 平日：8:30〜16:45 假日：8:30〜16:45 夜滑：無
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34227/
 trailMaps:
@@ -122,23 +121,28 @@ contact:
     zhTw: 群馬縣利根郡みなかみ町藤原4957-1
     ja: 〒379-1721 群馬県利根郡みなかみ町藤原4957-1
     googleMaps: https://maps.google.co.jp/maps?q=36.850800,139.066700
-  phone: "0278-75-2321"
+  phone: 0278-75-2321
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34227/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,800
-  - name: 午後券
-    price: 成人 ¥3,000 兒童 ¥2,000 樂齡 ¥3,000
-  - name: 午前券
-    price: 成人 ¥3,000 兒童 ¥2,000 樂齡 ¥3,000
-  - name: 11回券
-    price: 成人 ¥3,200 兒童 ¥3,200 樂齡 ¥3,200
-  - name: シーズン券
-    price: 成人 ¥20,000 兒童 ¥14,000 樂齡 ¥20,000
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,800
+  - name: 下午券
+    priceLines:
+    - 成人 ¥3,000 兒童 ¥2,000 樂齡 ¥3,000
+  - name: 上午券
+    priceLines:
+    - 成人 ¥3,000 兒童 ¥2,000 樂齡 ¥3,000
+  - name: 11 回券
+    priceLines:
+    - 成人 ¥3,200 兒童 ¥3,200 樂齡 ¥3,200
+  - name: 季票
+    priceLines:
+    - 成人 ¥20,000 兒童 ¥14,000 樂齡 ¥20,000
 elevation:
   top: 1000
   bottom: 850

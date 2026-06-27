@@ -17,8 +17,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://akakura-ski.com/
-  facebook: "https://www.facebook.com/kumadooooo"
-  instagram: "https://www.instagram.com/akakuraonsenskiarea"
+  facebook: https://www.facebook.com/kumadooooo
+  instagram: https://www.instagram.com/akakuraonsenskiarea
   trailMapPage: https://akakura-ski.com/
   ticket: https://akakura-ski.com/
   access: https://akakura-ski.com/
@@ -49,17 +49,25 @@ tickets:
   note: 主要票種依官方 2025-2026 票價表整理；學齡前兒童免費，票價與販售條件請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、長者、國中生、小學生以下
-    price: 成人 ¥7,000、長者與國中生 ¥5,600、小學生以下 ¥2,500
+    priceLines:
+    - 成人 ¥7,000
+    - 長者與國中生 ¥5,600
+    - 小學生以下 ¥2,500
   - name: 5 小時券
-    audience: 成人、長者、國中生、小學生以下
-    price: 成人 ¥6,500、長者與國中生 ¥5,200、小學生以下 ¥1,500
+    priceLines:
+    - 成人 ¥6,500
+    - 長者與國中生 ¥5,200
+    - 小學生以下 ¥1,500
   - name: 夜滑券
-    audience: 成人、長者、國中生、小學生以下
-    price: 成人 ¥3,500、長者與國中生 ¥3,500、小學生以下 ¥1,100
+    priceLines:
+    - 成人 ¥3,500
+    - 長者與國中生 ¥3,500
+    - 小學生以下 ¥1,100
   - name: 1 日 passport
-    audience: 成人、長者、國中生、小學生以下
-    price: 成人 ¥8,500、長者與國中生 ¥6,800、小學生以下 ¥2,500
+    priceLines:
+    - 成人 ¥8,500
+    - 長者與國中生 ¥6,800
+    - 小學生以下 ¥2,500
     note: 官方列為包含夜滑的 1 日票種
 snowWeather:
   title: 赤倉溫泉雪況天氣
@@ -87,7 +95,7 @@ courses:
   - name: 2 銀嶺第3コース / Ginrei No.3 Course
     difficulty: beginner
     videoLinks:
-      - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=338s
+    - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=338s
     note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 3 銀嶺第2コース / Ginrei No.2 Course
     difficulty: beginner
@@ -104,14 +112,14 @@ courses:
   - name: 9 中央ゲレンデ / Central Slope
     difficulty: beginner
     videoLinks:
-      - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=811s
-      - https://www.youtube.com/watch?v=tB28M_-Cx_U&t=102s
+    - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=811s
+    - https://www.youtube.com/watch?v=tB28M_-Cx_U&t=102s
     note: 官方列為初級雪道；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 10 パノラマコース / Panorama Course
     difficulty: beginner
     videoLinks:
-      - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=197s
-      - https://www.youtube.com/watch?v=tB28M_-Cx_U&t=1224s
+    - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=197s
+    - https://www.youtube.com/watch?v=tB28M_-Cx_U&t=1224s
     note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 13 ヨーデル林間コース / Yodel Forest Course
     difficulty: beginner
@@ -119,13 +127,13 @@ courses:
   - name: 15 ユートピア A コース / Utopia A Course
     difficulty: beginner
     videoLinks:
-      - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=435s
-      - https://www.youtube.com/watch?v=tB28M_-Cx_U&t=845s
+    - https://www.youtube.com/watch?v=x2LkQtz_wQM&t=435s
+    - https://www.youtube.com/watch?v=tB28M_-Cx_U&t=845s
     note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 16 ユートピア B コース / Utopia B Course
     difficulty: beginner
     videoLinks:
-      - https://www.youtube.com/watch?v=tB28M_-Cx_U&t=845s
+    - https://www.youtube.com/watch?v=tB28M_-Cx_U&t=845s
     note: 官方列為初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: 17 ファミリーゲレンデ / Family Slope
     difficulty: beginner
@@ -174,9 +182,9 @@ terrainSummary:
   powder: 高海拔與非壓雪相關區域在新雪後較有粉雪行程彈性，開放情況請以官方公告為準。
 externalContent:
   blogs:
-    - title: "妙高高原滑雪住宿｜Akakura Yours Inn，免費接送服務的優質民宿"
-      url: https://natasha-traveler.tw/akakura-hotel/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: 妙高高原滑雪住宿｜Akakura Yours Inn，免費接送服務的優質民宿
+    url: https://natasha-traveler.tw/akakura-hotel/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs: []
 sources:
 - label: Akakura Onsen Official Website

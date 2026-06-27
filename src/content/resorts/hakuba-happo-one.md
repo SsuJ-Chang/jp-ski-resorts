@@ -16,9 +16,9 @@ tags:
 homeRegionExample: true
 links:
   official: https://www.happo-one.jp/
-  facebook: "https://www.facebook.com/hakuba.happo/"
-  instagram: "https://www.instagram.com/hakubahappoone/"
-  xTwitter: "https://twitter.com/hakuba_happo"
+  facebook: https://www.facebook.com/hakuba.happo/
+  instagram: https://www.instagram.com/hakubahappoone/
+  xTwitter: https://twitter.com/hakuba_happo
   trailMapPage: https://www.happo-one.jp/gelande/
   ticket: https://www.happo-one.jp/ticket/
   access: https://www.happo-one.jp/access/
@@ -51,14 +51,19 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 高峰期 1 日券
-    audience: 成人、兒童、熟齡
-    price: 成人 ¥8,700、兒童 ¥4,350、熟齡 ¥8,400
+    priceLines:
+    - 成人 ¥8,700
+    - 兒童 ¥4,350
+    - 熟齡 ¥8,400
   - name: 高峰期 2 日券
-    audience: 成人、兒童、熟齡
-    price: 成人 ¥17,400、兒童 ¥8,700、熟齡 ¥16,800
+    priceLines:
+    - 成人 ¥17,400
+    - 兒童 ¥8,700
+    - 熟齡 ¥16,800
   - name: 上午 / 下午券
-    audience: 成人、兒童
-    price: 成人 ¥7,200、兒童 ¥3,600
+    priceLines:
+    - 成人 ¥7,200
+    - 兒童 ¥3,600
 snowWeather:
   title: 白馬八方尾根雪況天氣
   provider: Weathernews
@@ -75,7 +80,7 @@ mapDisplay:
   labelPriority: 3
   approximatePosition:
     x: 55
-    "y": 43
+    y: 43
 elevation:
   top: 1831
   bottom: 760
@@ -100,8 +105,8 @@ courses:
     maxSlope: 20°
     averageSlope: 11°
     videoLinks:
-      - https://www.youtube.com/watch?v=IBrBQLonkXE&t=1348s
-      - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=664s
+    - https://www.youtube.com/watch?v=IBrBQLonkXE&t=1348s
+    - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=664s
     note: 位於 Gondola Adam 山麓側，屬初級到中級練習區域。
   - name: 咲花ゲレンデ
     difficulty: beginner
@@ -109,10 +114,10 @@ courses:
     maxSlope: 18°
     averageSlope: 10°
     videoLinks:
-      - https://www.youtube.com/watch?v=IBrBQLonkXE&t=305s
-      - https://www.youtube.com/watch?v=IBrBQLonkXE&t=576s
-      - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=576s
-      - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=1407s
+    - https://www.youtube.com/watch?v=IBrBQLonkXE&t=305s
+    - https://www.youtube.com/watch?v=IBrBQLonkXE&t=576s
+    - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=576s
+    - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=1407s
     note: 寬廣緩斜面，適合初學者與家庭練習；可銜接黑菱林道形成較長初級路線。
   - name: 兎平ゲレンデ
     difficulty: advanced
@@ -131,8 +136,8 @@ courses:
     maxSlope: 30°
     averageSlope: 13°
     videoLinks:
-      - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=55s
-      - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=770s
+    - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=55s
+    - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=770s
     note: 位於 1,830m 級最上部，可眺望白馬三山與五龍岳；降雪後有粉雪條件，但也接近登山與 backcountry 出入口，需遵守官方安全規則。
 lifts:
   total: 21
@@ -174,9 +179,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-    - title: "【2025日本白馬🇯🇵】EP7 白馬八方滑雪場 🗻自學滑雪全紀錄｜Hotel Green Plaza Hakuba｜🏂｜🎄"
-      url: https://www.youtube.com/watch?v=_wUcfsdwzdg
-      note: "和Ivy去旅行"
+  - title: 【2025日本白馬🇯🇵】EP7 白馬八方滑雪場 🗻自學滑雪全紀錄｜Hotel Green Plaza Hakuba｜🏂｜🎄
+    url: https://www.youtube.com/watch?v=_wUcfsdwzdg
+    note: 和Ivy去旅行
 sources:
 - label: Hakuba Happo-one Snow Resort Official Website
   url: https://www.happo-one.jp/

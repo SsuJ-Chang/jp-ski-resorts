@@ -12,8 +12,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://karuizawa.holidayinnresorts.com/ski/
-  instagram: "https://www.instagram.com/anaholidayinnresortkaruizawa/"
-  xTwitter: "https://x.com/HIR_karuizawa"
+  instagram: https://www.instagram.com/anaholidayinnresortkaruizawa/
+  xTwitter: https://x.com/HIR_karuizawa
   trailMapPage: https://karuizawa.holidayinnresorts.com/ski/
   weather: https://weathernews.jp/ski/spot/34220/
   googleMaps: https://maps.google.co.jp/maps?q=36.423094,138.626796
@@ -69,7 +69,7 @@ contact:
     zhTw: 群馬縣吾妻郡長野原町大字北軽井沢2032-16
     ja: 〒377-1412 群馬県吾妻郡長野原町大字北軽井沢2032-16
     googleMaps: https://maps.google.co.jp/maps?q=36.423094,138.626796
-  phone: "0279-84-1227"
+  phone: 0279-84-1227
 tickets:
   season: 2025-2026
   currency: JPY
@@ -77,17 +77,23 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 平日リフト1日券
-    price: 成人 ¥4,000 兒童 ¥3,000 樂齡 ¥3,000
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥3,000 樂齡 ¥3,000
   - name: 週末及國定假日リフト1日券
-    price: 成人 ¥5,000 兒童 ¥4,000 樂齡 ¥4,000
+    priceLines:
+    - 成人 ¥5,000 兒童 ¥4,000 樂齡 ¥4,000
   - name: 特定日リフト1日券
-    price: 成人 ¥6,000 兒童 ¥5,000 樂齡 ¥5,000
+    priceLines:
+    - 成人 ¥6,000 兒童 ¥5,000 樂齡 ¥5,000
   - name: 平日リフト4時間券
-    price: 成人 ¥3,500 兒童 ¥2,600 樂齡 ¥2,600
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥2,600 樂齡 ¥2,600
   - name: 週末及國定假日リフト4時間券
-    price: 成人 ¥4,500 兒童 ¥3,600 樂齡 ¥3,600
+    priceLines:
+    - 成人 ¥4,500 兒童 ¥3,600 樂齡 ¥3,600
   - name: 特定日リフト4時間券
-    price: 成人 ¥5,500 兒童 ¥4,600 樂齡 ¥4,600
+    priceLines:
+    - 成人 ¥5,500 兒童 ¥4,600 樂齡 ¥4,600
 elevation:
   top: 1400
   bottom: 1270
@@ -101,8 +107,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：JR北陸新幹線軽井沢駅下車、免費シャトルバス(要予約) 0279-84-1441 前日17:00止 (40分) 車 ：上信越自動車道碓氷軽井沢IC→18号、146号経由 (45分) 400台
-      平日 免費 假日 免費
+    note: 交通資訊摘要：JR北陸新幹線軽井沢駅下車、免費シャトルバス(要予約) 0279-84-1441 前日17:00止 (40分) 車 ：上信越自動車道碓氷軽井沢IC→18号、146号経由 (45分) 400台 平日 免費 假日 免費
 ---
 
 輕井澤 Snow Park位在群馬縣，滑行區由6 條雪道，搭配 3 座纜車構成。初級緩坡區、中級巡航區、上級急斜面區 等路線能看出坡面配置，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

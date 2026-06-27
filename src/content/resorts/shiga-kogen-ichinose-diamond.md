@@ -12,9 +12,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://shigakogen.co.jp/
-  facebook: "https://www.facebook.com/ShigaKogen.Ski"
-  instagram: "https://www.instagram.com/ShigaCentral/"
-  xTwitter: "https://x.com/ShigaCentral"
+  facebook: https://www.facebook.com/ShigaKogen.Ski
+  instagram: https://www.instagram.com/ShigaCentral/
+  xTwitter: https://x.com/ShigaCentral
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
@@ -38,8 +38,11 @@ tickets:
   source: https://shigakogen-ski.or.jp/winter/ticket/
   plans:
   - name: 全山 1 日券
-    audience: 成人、中高生、長者、兒童
-    price: 成人 ¥8,000、中高生 ¥6,200、長者 ¥6,400、兒童 ¥3,600
+    priceLines:
+    - 成人 ¥8,000
+    - 中高生 ¥6,200
+    - 長者 ¥6,400
+    - 兒童 ¥3,600
 snowWeather:
   title: 志賀高原一之瀨 Diamond 雪況天氣
   provider: Official
@@ -71,17 +74,17 @@ lifts:
   total: 2
 access:
   fromTokyo:
-    - label: "東京出發經長野"
-      steps:
-        - "從東京搭北陸新幹線到長野站。"
-        - "從長野站東口搭直達巴士前往志賀高原，於一之瀨周邊站點下車。"
-      estimatedTime: "長野後約 1.5-2 小時"
-      difficulty: "medium"
-      note: "一之瀨周邊有多個雪場與住宿點，需依住宿位置、目的雪場與當季巴士時刻選擇下車站。"
+  - label: 東京出發經長野
+    steps:
+    - 從東京搭北陸新幹線到長野站。
+    - 從長野站東口搭直達巴士前往志賀高原，於一之瀨周邊站點下車。
+    estimatedTime: 長野後約 1.5-2 小時
+    difficulty: medium
+    note: 一之瀨周邊有多個雪場與住宿點，需依住宿位置、目的雪場與當季巴士時刻選擇下車站。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。一之瀨區域停車合計約 1,300 台，部分為住宿者專用。"
+    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。一之瀨區域停車合計約 1,300 台，部分為住宿者專用。
 terrainSummary:
   beginner: Rabbit Course 坡度較平緩，可作為練習用。
   intermediate: Diamond Gelende 適合 slalom 與轉彎訓練。

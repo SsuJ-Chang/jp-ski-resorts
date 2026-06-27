@@ -16,9 +16,9 @@ tags:
 - onsen
 links:
   official: https://www.naspa.co.jp/ski/
-  facebook: "https://www.facebook.com/ski.garden/"
-  instagram: "https://www.instagram.com/naspa_ski_official/"
-  xTwitter: "https://twitter.com/naspanewotani"
+  facebook: https://www.facebook.com/ski.garden/
+  instagram: https://www.instagram.com/naspa_ski_official/
+  xTwitter: https://twitter.com/naspanewotani
   trailMapPage: https://www.naspa.co.jp/ski/gelande/
   ticket: https://www.naspa.co.jp/ski/price/
   access: https://www.naspa.co.jp/ski/access/
@@ -27,7 +27,7 @@ links:
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町湯澤 2117-9
-    ja: "〒949-6101 新潟県南魚沼郡湯沢町湯沢2117-9"
+    ja: 〒949-6101 新潟県南魚沼郡湯沢町湯沢2117-9
     googleMaps: https://www.google.com/maps/search/?api=1&query=NASPA%20Ski%20Garden
   phone: 025-780-6888
 season:
@@ -49,8 +49,8 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童
-    price: 待依 2025-2026 官網票價頁補齊
+    priceLines:
+    - 待依 2025-2026 官網票價頁補齊
 snowWeather:
   title: NASPA滑雪公園雪況天氣
   provider: Official / Weathernews
@@ -67,55 +67,55 @@ mapDisplay:
   labelPriority: 3
   approximatePosition:
     x: 47
-    "y": 54
+    y: 54
 courses:
   beginnerRatio: 37
   intermediateRatio: 38
   advancedRatio: 25
   total: 8
-  courseInfoPage: "https://www.naspa.co.jp/ski/course/"
+  courseInfoPage: https://www.naspa.co.jp/ski/course/
   summary: NASPA滑雪公園鄰近 NASPA New Otani，偏向住宿、家庭與初學者友善的雪場。
   details:
-    - name: "Aコース"
-      difficulty: "intermediate"
-      length: "340m"
-      maxSlope: "25°"
-      averageSlope: "13°"
-    - name: "Bコース"
-      difficulty: "beginner"
-      length: "400m"
-      maxSlope: "18°"
-      averageSlope: "10°"
-    - name: "Cコース"
-      difficulty: "advanced"
-      length: "480m"
-      maxSlope: "30°"
-      averageSlope: "21°"
-    - name: "Dコース"
-      difficulty: "advanced"
-      length: "750m"
-      maxSlope: "38°"
-      averageSlope: "16°"
-    - name: "Eコース"
-      difficulty: "intermediate"
-      length: "800m"
-      maxSlope: "30°"
-      averageSlope: "15°"
-    - name: "Fコース"
-      difficulty: "beginner"
-      length: "600m"
-      maxSlope: "12°"
-      averageSlope: "7°"
-    - name: "Gコース"
-      difficulty: "intermediate"
-      length: "580m"
-      maxSlope: "27°"
-      averageSlope: "14°"
-    - name: "Hコース"
-      difficulty: "beginner"
-      length: "1,600m"
-      maxSlope: "20°"
-      averageSlope: "9°"
+  - name: Aコース
+    difficulty: intermediate
+    length: 340m
+    maxSlope: 25°
+    averageSlope: 13°
+  - name: Bコース
+    difficulty: beginner
+    length: 400m
+    maxSlope: 18°
+    averageSlope: 10°
+  - name: Cコース
+    difficulty: advanced
+    length: 480m
+    maxSlope: 30°
+    averageSlope: 21°
+  - name: Dコース
+    difficulty: advanced
+    length: 750m
+    maxSlope: 38°
+    averageSlope: 16°
+  - name: Eコース
+    difficulty: intermediate
+    length: 800m
+    maxSlope: 30°
+    averageSlope: 15°
+  - name: Fコース
+    difficulty: beginner
+    length: 600m
+    maxSlope: 12°
+    averageSlope: 7°
+  - name: Gコース
+    difficulty: intermediate
+    length: 580m
+    maxSlope: 27°
+    averageSlope: 14°
+  - name: Hコース
+    difficulty: beginner
+    length: 1,600m
+    maxSlope: 20°
+    averageSlope: 9°
 access:
   fromTokyo:
   - label: 東京出發
@@ -138,16 +138,16 @@ terrainSummary:
   snowboard: 雙板與雪板使用規則請以官方公告為準。
 externalContent:
   blogs:
-    - title: "Naspa新大谷飯店住宿心得︱ski in/out 旁邊是Naspa滑雪場，親子友善飯店，蟹腳&牛排豪華晚餐"
-      url: https://natasha-traveler.tw/naspa-new-otani-hotel/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: Naspa新大谷飯店住宿心得︱ski in/out 旁邊是Naspa滑雪場，親子友善飯店，蟹腳&牛排豪華晚餐
+    url: https://natasha-traveler.tw/naspa-new-otani-hotel/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs:
-    - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
-      url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
-      note: "MIRU tube JAPAN 【Route Guide】"
-    - title: "【4K.ナスパスキー場】全部わかる‼︎ ホテルナスパニューオータニをフロアMAP付きでぐるっとご案内‼︎【客室レストラン|越後湯沢駅NASPA】NASPA New Otani Hotel Guide."
-      url: https://www.youtube.com/watch?v=S9dJA1r4J68
-      note: "MIRU tube JAPAN 【Route Guide】"
+  - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
+    url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
+    note: MIRU tube JAPAN 【Route Guide】
+  - title: 【4K.ナスパスキー場】全部わかる‼︎ ホテルナスパニューオータニをフロアMAP付きでぐるっとご案内‼︎【客室レストラン|越後湯沢駅NASPA】NASPA New Otani Hotel Guide.
+    url: https://www.youtube.com/watch?v=S9dJA1r4J68
+    note: MIRU tube JAPAN 【Route Guide】
 sources:
 - label: NASPA Ski Garden Official Website
   url: https://www.naspa.co.jp/ski/

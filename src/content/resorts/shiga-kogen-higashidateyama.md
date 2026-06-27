@@ -13,9 +13,9 @@ tags:
 - long_run
 links:
   official: https://shigakogen.co.jp/
-  facebook: "https://www.facebook.com/ShigaKogen.Ski"
-  instagram: "https://www.instagram.com/ShigaCentral/"
-  xTwitter: "https://x.com/ShigaCentral"
+  facebook: https://www.facebook.com/ShigaKogen.Ski
+  instagram: https://www.instagram.com/ShigaCentral/
+  xTwitter: https://x.com/ShigaCentral
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
@@ -39,8 +39,11 @@ tickets:
   source: https://shigakogen-ski.or.jp/winter/ticket/
   plans:
   - name: 全山 1 日券
-    audience: 成人、中高生、長者、兒童
-    price: 成人 ¥8,000、中高生 ¥6,200、長者 ¥6,400、兒童 ¥3,600
+    priceLines:
+    - 成人 ¥8,000
+    - 中高生 ¥6,200
+    - 長者 ¥6,400
+    - 兒童 ¥3,600
 snowWeather:
   title: 志賀高原東館山雪況天氣
   provider: Official
@@ -65,7 +68,7 @@ courses:
     length: 4,000m
     note: 林間長距離路線，官方說明適合初級到進階者，可享受蜿蜒道路。
     videoLinks:
-      - https://www.youtube.com/watch?v=KQCss9sO5U0&t=495s
+    - https://www.youtube.com/watch?v=KQCss9sO5U0&t=495s
   - name: Higashitateyama - Ichinose Family Connection Course
     difficulty: beginner
     length: 500m
@@ -90,17 +93,17 @@ lifts:
   total: 1
 access:
   fromTokyo:
-    - label: "東京出發經長野"
-      steps:
-        - "從東京搭北陸新幹線到長野站。"
-        - "從長野站東口搭直達巴士前往志賀高原，於發哺溫泉、東館山或中央區域可銜接站點下車。"
-      estimatedTime: "長野後約 1.5-2 小時"
-      difficulty: "medium"
-      note: "東館山與一之瀨、寺小屋之間可透過雪場內動線銜接，但公共交通下車點與纜車營運需以當日資訊為準。"
+  - label: 東京出發經長野
+    steps:
+    - 從東京搭北陸新幹線到長野站。
+    - 從長野站東口搭直達巴士前往志賀高原，於發哺溫泉、東館山或中央區域可銜接站點下車。
+    estimatedTime: 長野後約 1.5-2 小時
+    difficulty: medium
+    note: 東館山與一之瀨、寺小屋之間可透過雪場內動線銜接，但公共交通下車點與纜車營運需以當日資訊為準。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。東館山 Gondola 停車場約 40 台，空間較少，冬季需準備雪胎或雪鏈。"
+    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。東館山 Gondola 停車場約 40 台，空間較少，冬季需準備雪胎或雪鏈。
 terrainSummary:
   beginner: Forest Course 長達 4,000m，是中央區域重要長距離初級路線。
   intermediate: Olympic Course 上中下段是主要中級路線。

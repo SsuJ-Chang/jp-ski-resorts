@@ -13,16 +13,15 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.rokkosan.com/ski/
-  instagram: "https://www.instagram.com/rokkosan_snow_park/"
-  xTwitter: "https://x.com/rokkosan_snow_"
+  instagram: https://www.instagram.com/rokkosan_snow_park/
+  xTwitter: https://x.com/rokkosan_snow_
   trailMapPage: https://www.rokkosan.com/ski/beginner/ski/
   weather: https://weathernews.jp/ski/spot/36306/
   googleMaps: https://maps.google.co.jp/maps?q=34.767987,135.242606
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/06-2026/03/08
-  hours: は朝9時から夕方5時止です。 パイプ × ペットの同伴 × 近場の温泉 有馬温泉 名実ともに日本を代表する名泉の一つであり、秀吉が愛したことでも有名です。 住所 〒657-0101 兵庫県神戸市灘区六甲山町北六甲4512-98
-    地図を見る お問い合わせ TEL：078-891-0366 ホームページ 營業期間 2025年12月06日 ~ 2026年03月08日 營業時間 平日：9:00〜17:00 假日：9:00〜20:00（週六・週日・國定假日および12/25〜1/7は假日扱い。12/6、12/31、1/1は9:00~17:00營業。）
+  hours: は朝9時から夕方5時止です。 パイプ × ペットの同伴 × 近場の温泉 有馬温泉 名実ともに日本を代表する名泉の一つであり、秀吉が愛したことでも有名です。 住所 〒657-0101 兵庫県神戸市灘区六甲山町北六甲4512-98 地図を見る お問い合わせ TEL：078-891-0366 ホームページ 營業期間 2025年12月06日 ~ 2026年03月08日 營業時間 平日：9:00〜17:00 假日：9:00〜20:00（週六・週日・國定假日および12/25〜1/7は假日扱い。12/6、12/31、1/1は9:00~17:00營業。）
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36306/
 trailMaps:
@@ -72,7 +71,7 @@ contact:
     zhTw: 兵庫縣神戸市灘区六甲山町北六甲4512-98
     ja: 〒657-0101 兵庫県神戸市灘区六甲山町北六甲4512-98
     googleMaps: https://maps.google.co.jp/maps?q=34.767987,135.242606
-  phone: "078-891-0366"
+  phone: 078-891-0366
 tickets:
   season: 2025-2026
   currency: JPY
@@ -80,15 +79,20 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 平日1日券
-    price: 成人 ¥1,600 兒童 ¥1,600
+    priceLines:
+    - 成人 ¥1,600 兒童 ¥1,600
   - name: 1回券(平日・週末及國定假日・年末年始)
-    price: 成人 ¥250 兒童 ¥250
+    priceLines:
+    - 成人 ¥250 兒童 ¥250
   - name: 假日1日券(週末及國定假日・年末年始)
-    price: 成人 ¥3,300 兒童 ¥3,300
+    priceLines:
+    - 成人 ¥3,300 兒童 ¥3,300
   - name: 假日3時間券(週末及國定假日・年末年始)
-    price: 成人 ¥2,800 兒童 ¥2,800
-  - name: 假日回数券(12回、週末及國定假日・年末年始)
-    price: 成人 ¥2,500 兒童 ¥2,500
+    priceLines:
+    - 成人 ¥2,800 兒童 ¥2,800
+  - name: 假日回數券(12回、週末及國定假日・年末年始)
+    priceLines:
+    - 成人 ¥2,500 兒童 ¥2,500
 elevation:
   top: 855
   bottom: 813
@@ -100,8 +104,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：阪神御影駅、JR六甲道駅、阪急六甲駅からバス、六甲ケーブル経由 (60分) 車 ：阪神高速3号神戸線魚崎ICより 表六甲ドライブウェイ経由 (40分) 700台 平日 1500円 假日
-      1500円
+    note: 交通資訊摘要：阪神御影駅、JR六甲道駅、阪急六甲駅からバス、六甲ケーブル経由 (60分) 車 ：阪神高速3号神戸線魚崎ICより 表六甲ドライブウェイ経由 (40分) 700台 平日 1500円 假日 1500円
 ---
 
 六甲山 Snow Park位在兵庫縣，滑行區由3 條雪道構成。第1ゲレンデ、第2ゲレンデ、スノーランド 等路線能看出坡面配置，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

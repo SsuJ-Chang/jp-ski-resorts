@@ -16,9 +16,9 @@ tags:
 - onsen
 links:
   official: https://www.yuzawakogen.com/winter/
-  facebook: "https://www.facebook.com/yuzawakogen"
-  instagram: "https://www.instagram.com/yuzawakogen/"
-  xTwitter: "https://twitter.com/yuzawakogen"
+  facebook: https://www.facebook.com/yuzawakogen
+  instagram: https://www.instagram.com/yuzawakogen/
+  xTwitter: https://twitter.com/yuzawakogen
   trailMapPage: https://www.yuzawakogen.com/winter/gelaende/
   ticket: https://www.yuzawakogen.com/winter/tickets/
   access: https://www.yuzawakogen.com/access/
@@ -27,7 +27,7 @@ links:
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町湯澤 490
-    ja: "〒949-6101 新潟県南魚沼郡湯沢町湯沢490"
+    ja: 〒949-6101 新潟県南魚沼郡湯沢町湯沢490
     googleMaps: https://www.google.com/maps/search/?api=1&query=Yuzawa%20Kogen%20Ski%20Resort
   phone: 025-784-3326
 season:
@@ -49,8 +49,8 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童
-    price: 待依 2025-2026 官網票價頁補齊
+    priceLines:
+    - 待依 2025-2026 官網票價頁補齊
 snowWeather:
   title: 湯澤高原雪況天氣
   provider: Official / Weathernews
@@ -67,7 +67,7 @@ mapDisplay:
   labelPriority: 2
   approximatePosition:
     x: 46
-    "y": 54
+    y: 54
 courses:
   beginnerRatio: 62
   intermediateRatio: 13
@@ -76,72 +76,72 @@ courses:
   courseInfoPage: https://www.yuzawakogen.com/winter/gelaende/
   summary: 湯澤高原以 ropeway 上山的高原景觀與越後湯澤溫泉街近距離交通為特色，適合滑雪與觀光同時安排。
   details:
-    - name: 全景雪道 / パノラマコース
-      difficulty: beginner
-      length: 2,200m
-      maxSlope: 9°
-      averageSlope: 7°
-      note: 可一邊眺望湯澤群山一邊滑行的初級路線，官方標示適合初學者與家庭使用。
-      videoLinks:
-        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=280s
-        - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=167s
-    - name: 波斯菊雪道 / コスモスコース
-      difficulty: beginner
-      length: 500m
-      maxSlope: 10°
-      averageSlope: 7°
-      note: 從高原 Express Lift 上站往右進入的緩斜面，適合放鬆滑行。
-      videoLinks:
-        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=932s
-        - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=401s
-    - name: 鈴蘭雪道 / スズランコース
-      difficulty: beginner
-      length: 500m
-      maxSlope: 7°
-      averageSlope: 7°
-      note: 位於波斯菊雪道旁的平緩雪道，官方說明常作為雙板與雪板課程使用。
-      videoLinks:
-        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=1198s
-    - name: 家庭雪道 / ファミリーコース
-      difficulty: beginner
-      length: 250m
-      maxSlope: 8°
-      averageSlope: 7°
-      note: 布場區的家庭取向雪道，適合初學者與兒童練習。
-      videoLinks:
-        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=1831s
-    - name: 入門雪道 / デビューコース
-      difficulty: beginner
-      length: 100m
-      maxSlope: 12°
-      averageSlope: 12°
-      note: 布場區下方的初次練習用雪道，官方說明不用搭纜車也能從斜面回到纜車站。
-    - name: 萱草雪道 / キスゲコース
-      difficulty: intermediate
-      length: 700m
-      maxSlope: 27°
-      averageSlope: 20°
-      note: 高原區的主要寬幅雪道，下部設有非壓雪區，官方標示可享受深雪。
-      videoLinks:
-        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=803s
-        - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=101s
-    - name: 藍罌粟雪道 / 青いケシコース
-      difficulty: advanced
-      length: 550m
-      maxSlope: 28°
-      averageSlope: 22°
-      note: 從高原 Express Lift 上站進入、沿 Lift 旁滑下的陡斜面路線。
-      videoLinks:
-        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=666s
-    - name: 駒草下山雪道 / コマクサ下山コース
-      difficulty: advanced
-      length: 2,000m
-      maxSlope: 20°
-      averageSlope: 12°
-      note: 從山頂高原區滑往布場區的下山路線，上部為狹窄蜿蜒路段，官方建議中級以上滑行者注意使用。
-      videoLinks:
-        - https://www.youtube.com/watch?v=y3IIgAU46W8&t=1334s
-        - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=479s
+  - name: 全景雪道 / パノラマコース
+    difficulty: beginner
+    length: 2,200m
+    maxSlope: 9°
+    averageSlope: 7°
+    note: 可一邊眺望湯澤群山一邊滑行的初級路線，官方標示適合初學者與家庭使用。
+    videoLinks:
+    - https://www.youtube.com/watch?v=y3IIgAU46W8&t=280s
+    - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=167s
+  - name: 波斯菊雪道 / コスモスコース
+    difficulty: beginner
+    length: 500m
+    maxSlope: 10°
+    averageSlope: 7°
+    note: 從高原 Express Lift 上站往右進入的緩斜面，適合放鬆滑行。
+    videoLinks:
+    - https://www.youtube.com/watch?v=y3IIgAU46W8&t=932s
+    - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=401s
+  - name: 鈴蘭雪道 / スズランコース
+    difficulty: beginner
+    length: 500m
+    maxSlope: 7°
+    averageSlope: 7°
+    note: 位於波斯菊雪道旁的平緩雪道，官方說明常作為雙板與雪板課程使用。
+    videoLinks:
+    - https://www.youtube.com/watch?v=y3IIgAU46W8&t=1198s
+  - name: 家庭雪道 / ファミリーコース
+    difficulty: beginner
+    length: 250m
+    maxSlope: 8°
+    averageSlope: 7°
+    note: 布場區的家庭取向雪道，適合初學者與兒童練習。
+    videoLinks:
+    - https://www.youtube.com/watch?v=y3IIgAU46W8&t=1831s
+  - name: 入門雪道 / デビューコース
+    difficulty: beginner
+    length: 100m
+    maxSlope: 12°
+    averageSlope: 12°
+    note: 布場區下方的初次練習用雪道，官方說明不用搭纜車也能從斜面回到纜車站。
+  - name: 萱草雪道 / キスゲコース
+    difficulty: intermediate
+    length: 700m
+    maxSlope: 27°
+    averageSlope: 20°
+    note: 高原區的主要寬幅雪道，下部設有非壓雪區，官方標示可享受深雪。
+    videoLinks:
+    - https://www.youtube.com/watch?v=y3IIgAU46W8&t=803s
+    - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=101s
+  - name: 藍罌粟雪道 / 青いケシコース
+    difficulty: advanced
+    length: 550m
+    maxSlope: 28°
+    averageSlope: 22°
+    note: 從高原 Express Lift 上站進入、沿 Lift 旁滑下的陡斜面路線。
+    videoLinks:
+    - https://www.youtube.com/watch?v=y3IIgAU46W8&t=666s
+  - name: 駒草下山雪道 / コマクサ下山コース
+    difficulty: advanced
+    length: 2,000m
+    maxSlope: 20°
+    averageSlope: 12°
+    note: 從山頂高原區滑往布場區的下山路線，上部為狹窄蜿蜒路段，官方建議中級以上滑行者注意使用。
+    videoLinks:
+    - https://www.youtube.com/watch?v=y3IIgAU46W8&t=1334s
+    - https://www.youtube.com/watch?v=uiSqhmdWXl4&t=479s
 access:
   fromTokyo:
   - label: 東京出發
@@ -164,9 +164,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-    - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
-      url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
-      note: "MIRU tube JAPAN 【Route Guide】"
+  - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
+    url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
+    note: MIRU tube JAPAN 【Route Guide】
 sources:
 - label: Yuzawa Kogen Ski Resort Official Website
   url: https://www.yuzawakogen.com/winter/

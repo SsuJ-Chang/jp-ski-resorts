@@ -18,9 +18,9 @@ tags:
 homeRegionExample: true
 links:
   official: https://www.nekoma.co.jp/
-  facebook: "https://www.facebook.com/nekoma.mountain/"
-  instagram: "https://www.instagram.com/nekoma.mountain/"
-  xTwitter: "https://twitter.com/nekoma_mountain"
+  facebook: https://www.facebook.com/nekoma.mountain/
+  instagram: https://www.instagram.com/nekoma.mountain/
+  xTwitter: https://twitter.com/nekoma_mountain
   trailMapPage: https://www.nekoma.co.jp/liftguide/
   ticket: https://www.nekoma.co.jp/price/
   access: https://www.nekoma.co.jp/access/
@@ -29,7 +29,7 @@ links:
 contact:
   address:
     zhTw: 福島縣耶麻郡磐梯町大字更科字清水平 6838-68
-    ja: "〒969-3302 福島県耶麻郡磐梯町大字更科字清水平6838-68"
+    ja: 〒969-3302 福島県耶麻郡磐梯町大字更科字清水平6838-68
     googleMaps: https://www.google.com/maps/search/?api=1&query=Hoshino%20Resorts%20NEKOMA%20Mountain
   phone: 0242-74-5000
 season:
@@ -52,20 +52,20 @@ tickets:
   note: 窗口票種摘要；除儲值購買外另收 IC 卡保證金 ¥500，退卡時返還。完整規則與 WEB 票價請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、長者、國中生、高中生、小學生、學齡前兒童
-    price: 成人 ¥6,300、長者 ¥5,800、國高中生 ¥4,500、小學生 ¥3,000、學齡前兒童免費
+    priceLines:
+    - 成人 ¥6,300、長者 ¥5,800、國高中生 ¥4,500、小學生 ¥3,000、學齡前兒童免費
     note: 日間營業有效，不含 first ride 與夜滑
   - name: 下午券
-    audience: 成人、長者、國中生、高中生、小學生、學齡前兒童
-    price: 成人 ¥5,800、長者 ¥5,300、國高中生 ¥4,000、小學生 ¥2,500、學齡前兒童免費
+    priceLines:
+    - 成人 ¥5,800、長者 ¥5,300、國高中生 ¥4,000、小學生 ¥2,500、學齡前兒童免費
     note: 11:00-14:30，有效時段不含夜滑
   - name: 初學者限定 1 日券
-    audience: 成人、小學生、學齡前兒童
-    price: 成人 ¥2,500、小學生 ¥1,500、學齡前兒童免費
+    priceLines:
+    - 成人 ¥2,500、小學生 ¥1,500、學齡前兒童免費
     note: 僅可搭乘南區 First Chair 與北區 Friendly Cat Express
   - name: 夜滑券
-    audience: 全年齡
-    price: 一律 ¥2,500、學齡前兒童免費
+    priceLines:
+    - 一律 ¥2,500、學齡前兒童免費
     note: 16:30-20:00，夜滑營業日限定，對象纜車為南區 Alts Express
 snowWeather:
   title: Necoma Mountain雪況天氣
@@ -94,58 +94,58 @@ courses:
     difficulty: beginner
     note: 官方說明為適合第一次滑雪的寬廣緩坡，可用初學者限定纜車券搭乘。
     videoLinks:
-      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=154s
+    - https://www.youtube.com/watch?v=flgiqIJr-fc&t=154s
   - name: ピーク４ / Peak4
     difficulty: beginner
     note: 官方說明路線寬且坡度較緩，可用大彎滑行。
     videoLinks:
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1007s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1007s
   - name: ズナイ２ / Zunai2
     difficulty: beginner
     note: 官方說明為抵達雪場後最先看見的雪道，適合初級者練習。
     videoLinks:
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=367s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=367s
   - name: パノラマライン / Panorama Line
     difficulty: beginner
     note: 官方說明沿山間景色巡航的長距離路線。
     videoLinks:
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=707s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=707s
   - name: ホワイトバレー３ / White Valley3
     difficulty: beginner
     note: 官方說明為通往南區深處的初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
     videoLinks:
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=140s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=140s
   - name: ブラックバレー３ / Black Valley3
     difficulty: beginner
     note: 官方說明是橫越急斜面的尾根路線，初級者可通過，但深入後會接近急斜面。
     videoLinks:
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1786s
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1960s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1786s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1960s
   - name: デビル1 / Devil1
     difficulty: intermediate
     note: 官方說明為寬廣舒適的中斜面，春季早朝營業時也有良好雪面。
     videoLinks:
-      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=613s
+    - https://www.youtube.com/watch?v=flgiqIJr-fc&t=613s
   - name: デビル3 / Devil3
     difficulty: intermediate
     note: 官方說明為常設公園路線，公園外也有地形變化。
     videoLinks:
-      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=437s
+    - https://www.youtube.com/watch?v=flgiqIJr-fc&t=437s
   - name: フォレスト1 / Forest1
     difficulty: intermediate
     note: 官方說明為前往 Deep 區域的路線，中段有中斜面，其餘較平緩。
     videoLinks:
-      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=73s
+    - https://www.youtube.com/watch?v=flgiqIJr-fc&t=73s
   - name: フォレスト3 / Forest3
     difficulty: intermediate
     note: 官方說明為森林中的澤地形路線，起點短中斜面後較容易滑行。
     videoLinks:
-      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=254s
+    - https://www.youtube.com/watch?v=flgiqIJr-fc&t=254s
   - name: エキサイト2 / Excite2
     difficulty: intermediate
     note: 官方說明起點稍陡，通過後接續中斜面，原則預定為壓雪雪道。
     videoLinks:
-      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=939s
+    - https://www.youtube.com/watch?v=flgiqIJr-fc&t=939s
   - name: ディープ2 / Deep2
     difficulty: intermediate
     note: 官方說明為沿尾根滑行、斜面變化明顯的路線，起點較陡需注意。
@@ -153,7 +153,7 @@ courses:
     difficulty: intermediate
     note: 官方說明為從山頂沿尾根下降、寬度稍窄的路線，需注意與前方滑行者的間距。
     videoLinks:
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1695s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1695s
   - name: ピーク２ / Peak2
     difficulty: intermediate
     note: 官方說明為景觀佳且有粉雪的隱藏路線，需要從 Frozen1 步行約 5 分鐘抵達。
@@ -161,24 +161,24 @@ courses:
     difficulty: intermediate
     note: 官方說明為前往 Peak3 的連絡路線。
     videoLinks:
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1581s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1581s
   - name: フローズン2 / Frozen2
     difficulty: intermediate
     note: 官方說明無積雪時原則壓雪，有積雪時可享受粉雪，是可長距離巡航的路線。
     videoLinks:
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1355s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1355s
   - name: フローズン３ / Frozen3
     difficulty: intermediate
     note: 官方說明可穿越霧冰景觀，後段坡度較高，有中急斜面滑行感。
     videoLinks:
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1139s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1139s
   - name: ズナイ１ / Zunai1
     difficulty: intermediate
     length: 2,000m
     note: 官方說明為約 2km 長距離路線，也是夜滑舉辦路線。
     videoLinks:
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=77s
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=284s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=77s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=284s
   - name: ダット上部 / Datto Upper
     difficulty: intermediate
     note: 官方說明為地形遊玩型的 Flowing Park。
@@ -189,7 +189,7 @@ courses:
     difficulty: intermediate
     note: 官方說明為中級斜面，適合想做 carving 轉彎的滑行者。
     videoLinks:
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=571s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=571s
   - name: デビル2 / Devil2
     difficulty: advanced
     note: 官方說明為通往公園的急斜面，粉雪日可配合公園開放進入。
@@ -200,7 +200,7 @@ courses:
     difficulty: advanced
     note: 官方說明為一枚急斜面，通稱貓魔バーン，壓雪與粉雪時都有速度感。
     videoLinks:
-      - https://www.youtube.com/watch?v=flgiqIJr-fc&t=766s
+    - https://www.youtube.com/watch?v=flgiqIJr-fc&t=766s
   - name: ディープ1 / Deep1
     difficulty: advanced
     note: 官方說明為容易蓄積粉雪的路線，旺季會視積雪預報暫停纜車、蓄雪後再開放。
@@ -223,12 +223,12 @@ courses:
     difficulty: advanced
     note: 官方說明為南區急斜四兄弟之一，另有初級者用迂迴路。
     videoLinks:
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1834s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1834s
   - name: ブラックバレー４ / Black Valley4
     difficulty: advanced
     note: 官方說明為南區急斜四兄弟之一，也稱 Alts Bahn，是寬廣平坦的急斜面。
     videoLinks:
-      - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1978s
+    - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1978s
   - name: ブラックバレー５ / Black Valley5
     difficulty: expert
     note: 官方說明以象徵性岩石為特色，常時未壓雪，是接近崖面的急斜路線。
@@ -258,21 +258,21 @@ terrainSummary:
   powder: 北區 Deep 與南區 Frozen、Peak、Black Valley 周邊有粉雪、樹林與未壓雪取向路線，開放規則請以官方公告為準。
 externalContent:
   blogs:
-    - title: "星野磐梯山溫泉飯店，體驗「お洒落」時髦的大人感，豐盛早晚餐大滿足！"
-      url: https://natasha-traveler.tw/hoshino-bandaisan/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "ALTS磐梯滑雪場，鬆雪、跳台、Snowcat Tour隨你玩"
-      url: https://natasha-traveler.tw/alts-ski/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "日本滑雪｜東北ALTS磐梯滑雪場、交通、住宿總整理"
-      url: https://natasha-traveler.tw/japan-alts-ski-resort/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "日本東北-星野ALTS磐梯滑雪場，Free Mountain Tour免費跟著教練逛山去"
-      url: https://natasha-traveler.tw/alts-ski-free-mountain-tour/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "滑雪交通｜前往星野磐梯山温泉飯店和ALTS磐梯滑雪場(2017.11更新)"
-      url: https://natasha-traveler.tw/bandaisan-bus/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: 星野磐梯山溫泉飯店，體驗「お洒落」時髦的大人感，豐盛早晚餐大滿足！
+    url: https://natasha-traveler.tw/hoshino-bandaisan/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: ALTS磐梯滑雪場，鬆雪、跳台、Snowcat Tour隨你玩
+    url: https://natasha-traveler.tw/alts-ski/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 日本滑雪｜東北ALTS磐梯滑雪場、交通、住宿總整理
+    url: https://natasha-traveler.tw/japan-alts-ski-resort/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 日本東北-星野ALTS磐梯滑雪場，Free Mountain Tour免費跟著教練逛山去
+    url: https://natasha-traveler.tw/alts-ski-free-mountain-tour/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 滑雪交通｜前往星野磐梯山温泉飯店和ALTS磐梯滑雪場(2017.11更新)
+    url: https://natasha-traveler.tw/bandaisan-bus/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs: []
 sources:
 - label: NEKOMA Mountain Official Website

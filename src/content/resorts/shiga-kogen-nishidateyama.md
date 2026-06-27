@@ -12,9 +12,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://shigakogen.co.jp/
-  facebook: "https://www.facebook.com/ShigaKogen.Ski"
-  instagram: "https://www.instagram.com/ShigaCentral/"
-  xTwitter: "https://x.com/ShigaCentral"
+  facebook: https://www.facebook.com/ShigaKogen.Ski
+  instagram: https://www.instagram.com/ShigaCentral/
+  xTwitter: https://x.com/ShigaCentral
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
@@ -38,8 +38,11 @@ tickets:
   source: https://shigakogen-ski.or.jp/winter/ticket/
   plans:
   - name: 全山 1 日券
-    audience: 成人、中高生、長者、兒童
-    price: 成人 ¥8,000、中高生 ¥6,200、長者 ¥6,400、兒童 ¥3,600
+    priceLines:
+    - 成人 ¥8,000
+    - 中高生 ¥6,200
+    - 長者 ¥6,400
+    - 兒童 ¥3,600
 snowWeather:
   title: 志賀高原西館山雪況天氣
   provider: Official
@@ -91,17 +94,17 @@ lifts:
   total: 3
 access:
   fromTokyo:
-    - label: "東京出發經長野"
-      steps:
-        - "從東京搭北陸新幹線到長野站。"
-        - "從長野站東口搭直達巴士前往志賀高原，於 Giant、發哺溫泉或中央區域可銜接站點下車。"
-      estimatedTime: "長野後約 1.5-2 小時"
-      difficulty: "medium"
-      note: "西館山可與 Giant、發哺ブナ平等中央區域動線銜接，公共交通最後一段需配合下車站與纜車營運。"
+  - label: 東京出發經長野
+    steps:
+    - 從東京搭北陸新幹線到長野站。
+    - 從長野站東口搭直達巴士前往志賀高原，於 Giant、發哺溫泉或中央區域可銜接站點下車。
+    estimatedTime: 長野後約 1.5-2 小時
+    difficulty: medium
+    note: 西館山可與 Giant、發哺ブナ平等中央區域動線銜接，公共交通最後一段需配合下車站與纜車營運。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。此區常利用 Giant 停車場約 350 台，冬季需準備雪胎或雪鏈。"
+    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。此區常利用 Giant 停車場約 350 台，冬季需準備雪胎或雪鏈。
 terrainSummary:
   beginner: Beginner Course 上下段和 Gelende 提供林間初級路線。
   intermediate: World Cup Course 與 Intermediate Course 是主要中級路線。

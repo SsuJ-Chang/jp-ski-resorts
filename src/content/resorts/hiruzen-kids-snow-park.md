@@ -58,7 +58,7 @@ contact:
     zhTw: 岡山縣真庭市蒜山上福田1205-281
     ja: 〒717-0602 岡山県真庭市蒜山上福田1205-281
     googleMaps: https://maps.google.co.jp/maps?q=35.294759,133.630111
-  phone: "0867-66-2501"
+  phone: 0867-66-2501
 tickets:
   season: 2025-2026
   currency: JPY
@@ -66,7 +66,8 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券（有料エリア入場券）
-    price: 訪客 成人 ¥800 兒童 ¥800 樂齡 ¥800
+    priceLines:
+    - 訪客 成人 ¥800 兒童 ¥800 樂齡 ¥800
 location:
   latitude: 35.294759
   longitude: 133.630111

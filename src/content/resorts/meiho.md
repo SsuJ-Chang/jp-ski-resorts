@@ -7,16 +7,16 @@ name:
 region: chubu
 prefecture: 岐阜縣
 tags:
-  - beginner_friendly
-  - family_friendly
-  - large_ski_area
-  - powder
-  - snowboard_friendly
+- beginner_friendly
+- family_friendly
+- large_ski_area
+- powder
+- snowboard_friendly
 links:
   official: https://www.meihoski.co.jp/winter/
-  facebook: "https://www.facebook.com/meihoresort/"
-  instagram: "https://www.instagram.com/meihoresort/"
-  xTwitter: "https://twitter.com/meihoresort"
+  facebook: https://www.facebook.com/meihoresort/
+  instagram: https://www.instagram.com/meihoresort/
+  xTwitter: https://twitter.com/meihoresort
   googleMaps: https://www.google.com/maps/search/?api=1&query=35.941931%2C137.042838
   trailMapPage: https://www.meihoski.co.jp/gelande/
   weather: https://weathernews.jp/ski/spot/35206/
@@ -35,29 +35,37 @@ season:
   note: 營業日期與時間可能依積雪與天候調整，出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/35206/
 trailMaps:
-  - label: めいほう雪場圖
-    language: Japanese
-    season: 2025-2026
-    url: https://www.meihoski.co.jp/gelande/
-    sourceLabel: Meiho Ski Resort Official
+- label: めいほう雪場圖
+  language: Japanese
+  season: 2025-2026
+  url: https://www.meihoski.co.jp/gelande/
+  sourceLabel: Meiho Ski Resort Official
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.meihoski.co.jp/price/
   note: 主要票種摘要，實際販售日、特定日設定與附加票券請以官方售票資訊為準。
   plans:
-    - name: 平日 1 日券
-      audience: 大人／兒童／年長者
-      price: 大人 ¥5,300、兒童 ¥2,500、年長者 ¥4,800
-    - name: 特定日 1 日券
-      audience: 大人／兒童／年長者
-      price: 大人 ¥6,000、兒童 ¥2,500、年長者 ¥5,500
-    - name: 平日下午券
-      audience: 大人／兒童／年長者
-      price: 大人 ¥4,300、兒童 ¥2,500、年長者 ¥4,300
-    - name: 特定日下午券
-      audience: 大人／兒童／年長者
-      price: 大人 ¥5,000、兒童 ¥2,500、年長者 ¥5,000
+  - name: 平日 1 日券
+    priceLines:
+    - 大人 ¥5,300
+    - 兒童 ¥2,500
+    - 年長者 ¥4,800
+  - name: 特定日 1 日券
+    priceLines:
+    - 大人 ¥6,000
+    - 兒童 ¥2,500
+    - 年長者 ¥5,500
+  - name: 平日下午券
+    priceLines:
+    - 大人 ¥4,300
+    - 兒童 ¥2,500
+    - 年長者 ¥4,300
+  - name: 特定日下午券
+    priceLines:
+    - 大人 ¥5,000
+    - 兒童 ¥2,500
+    - 年長者 ¥5,000
 snowWeather:
   title: めいほう雪況天氣
   provider: Weathernews
@@ -78,67 +86,67 @@ courses:
   beginnerRatio: 45
   intermediateRatio: 40
   advancedRatio: 15
-  courseInfoPage: "https://www.meihoski.co.jp/winter/"
+  courseInfoPage: https://www.meihoski.co.jp/winter/
   summary: 公開資料標示 13 條 course，海拔約 900m 到 1,600m，初級 45%、中級 40%、上級 15%。雪場有 kids park、snow park，並標示全區可 snowboard。
   details:
-    - name: "初級路線 1"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "初級路線 2"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "初級路線 3"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "初級路線 4"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "初級路線 5"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "初級路線 6"
-      difficulty: beginner
-      note: "目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 1"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 2"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 3"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 4"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "中級路線 5"
-      difficulty: intermediate
-      note: "目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "上級路線 1"
-      difficulty: advanced
-      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "上級路線 2"
-      difficulty: advanced
-      note: "目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。"
+  - name: 初級路線 1
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 初級路線 2
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 初級路線 3
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 初級路線 4
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 初級路線 5
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 初級路線 6
+    difficulty: beginner
+    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 1
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 2
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 3
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 4
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 中級路線 5
+    difficulty: intermediate
+    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 上級路線 1
+    difficulty: advanced
+    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+  - name: 上級路線 2
+    difficulty: advanced
+    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:
   total: 5
 access:
   fromNagoya:
-    - label: 名古屋方向：鐵道轉計程車
-      steps:
-        - 搭乘鐵道至長良川鐵道 郡上八幡站
-        - 由郡上八幡站轉計程車或當地交通前往雪場
-      estimatedTime: 車站後約 40 分
-      difficulty: medium
-      note: 冬季交通與接駁安排請行前確認。
+  - label: 名古屋方向：鐵道轉計程車
+    steps:
+    - 搭乘鐵道至長良川鐵道 郡上八幡站
+    - 由郡上八幡站轉計程車或當地交通前往雪場
+    estimatedTime: 車站後約 40 分
+    difficulty: medium
+    note: 冬季交通與接駁安排請行前確認。
   fromAirport:
-    - label: 中部國際機場方向
-      steps:
-        - 由中部國際機場往郡上八幡方向移動
-        - 抵達郡上市後轉乘當地交通前往雪場
-      estimatedTime: 約 150 分
-      difficulty: hard
-      note: 交通時間為公開資料摘要，實際時間會受轉乘與道路狀況影響。
+  - label: 中部國際機場方向
+    steps:
+    - 由中部國際機場往郡上八幡方向移動
+    - 抵達郡上市後轉乘當地交通前往雪場
+    estimatedTime: 約 150 分
+    difficulty: hard
+    note: 交通時間為公開資料摘要，實際時間會受轉乘與道路狀況影響。
   car:
     recommended: true
     snowTireRequired: true
@@ -150,14 +158,14 @@ terrainSummary:
   snowboard: 官方資料標示全區可 snowboard，並設有 snow park。
   powder: 高難度區域有非壓雪與粉雪特色，需依當日開放狀態滑行。
 sources:
-  - label: Weathernews Mino Ski Area
-    url: https://weathernews.jp/ski/area/mino/
-  - label: Weathernews Meiho Ski Resort
-    url: https://weathernews.jp/ski/spot/35206/
-  - label: Meiho Ski Resort Official
-    url: https://www.meihoski.co.jp/winter/
-  - label: Meiho Ski Resort Ticket
-    url: https://www.meihoski.co.jp/price/
+- label: Weathernews Mino Ski Area
+  url: https://weathernews.jp/ski/area/mino/
+- label: Weathernews Meiho Ski Resort
+  url: https://weathernews.jp/ski/spot/35206/
+- label: Meiho Ski Resort Official
+  url: https://www.meihoski.co.jp/winter/
+- label: Meiho Ski Resort Ticket
+  url: https://www.meihoski.co.jp/price/
 ---
 
 めいほう是岐阜縣的中型雪場，整理為13 條雪道，搭配 5 座纜車。初級、中級與上級路線都有配置，介紹保留在可確認的雪道數與難度比例；標籤上偏向初學者練習、親子同行。

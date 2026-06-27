@@ -20,8 +20,8 @@ visibility:
   note: 石川縣白山市雪場，未歸入現有 skiArea enum。
 links:
   official: https://www.sam-hakusan.com/white/ichirino/
-  facebook: "https://www.facebook.com/ichirino.hakusan"
-  instagram: "https://www.instagram.com/samhakusan/"
+  facebook: https://www.facebook.com/ichirino.hakusan
+  instagram: https://www.instagram.com/samhakusan/
   trailMapPage: https://www.sam-hakusan.com/white/ichirino/course/
   ticket: https://www.sam-hakusan.com/white/ichirino/lift/
   access: https://www.sam-hakusan.com/white/ichirino/access/
@@ -53,19 +53,24 @@ tickets:
   note: 2025-2026 主要票種摘要；2026-2027 雪季請以官方更新為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥5,000、兒童 ¥4,000、長者 ¥4,500
+    priceLines:
+    - 成人 ¥5,000
+    - 兒童 ¥4,000
+    - 長者 ¥4,500
     note: 兒童為 4 歲以上至小學生，長者為 60 歲以上。
   - name: 半日券
-    audience: 成人、兒童
-    price: 成人 ¥4,000、兒童 ¥3,300
+    priceLines:
+    - 成人 ¥4,000
+    - 兒童 ¥3,300
     note: 營業開始至 13:00，或 12:00 至日間營業結束；不含夜滑時段。
   - name: 夜滑券
-    audience: 成人、兒童
-    price: 成人 ¥3,000、兒童 ¥2,500
+    priceLines:
+    - 成人 ¥3,000
+    - 兒童 ¥2,500
     note: 夜滑營業日限定。
   - name: 1 回券
-    price: ¥450
+    priceLines:
+    - ¥450
     note: 搭乘箱型纜車需 2 張 1 回券或回數券 2 格。
 snowWeather:
   title: 白山一里野溫泉雪況天氣
@@ -140,20 +145,20 @@ lifts:
   total: 6
 access:
   fromAirport:
-    - label: 小松機場・小松站接駁
-      steps:
-        - 從小松機場或小松站搭乘預約制 White Ring Bus 前往一里野溫泉。
-        - 抵達一里野溫泉後步行前往白山一里野溫泉雪場。
-      estimatedTime: 約 1-1.5 小時
-      difficulty: medium
-      note: 接駁車需於 5 日前預約，2025 年 12 月至 2026 年 3 月雪場營業期間運行，2026/1/1-1/3 停駛；若無預約可能不運行。
+  - label: 小松機場・小松站接駁
+    steps:
+    - 從小松機場或小松站搭乘預約制 White Ring Bus 前往一里野溫泉。
+    - 抵達一里野溫泉後步行前往白山一里野溫泉雪場。
+    estimatedTime: 約 1-1.5 小時
+    difficulty: medium
+    note: 接駁車需於 5 日前預約，2025 年 12 月至 2026 年 3 月雪場營業期間運行，2026/1/1-1/3 停駛；若無預約可能不運行。
   fromTokyo:
-    - label: 東京出發經金澤
-      steps:
-        - 從東京搭北陸新幹線到金澤站。
-        - 轉乘金澤站往一里野的預約制日歸滑雪 tour 或北陸鐵道當季滑雪巴士。
-      difficulty: medium
-      note: 金澤出發的日歸 tour 最少 2 人成行，需於 3 個營業日前預約；巴士運行日與時刻需以當季公告為準。
+  - label: 東京出發經金澤
+    steps:
+    - 從東京搭北陸新幹線到金澤站。
+    - 轉乘金澤站往一里野的預約制日歸滑雪 tour 或北陸鐵道當季滑雪巴士。
+    difficulty: medium
+    note: 金澤出發的日歸 tour 最少 2 人成行，需於 3 個營業日前預約；巴士運行日與時刻需以當季公告為準。
   car:
     recommended: true
     snowTireRequired: true
@@ -166,9 +171,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-    - title: "【スキー場ガイド】一里野温泉スキー場　広大なゲレンデとラブゴンドラの内側"
-      url: https://www.youtube.com/watch?v=pritFOGaPOI
-      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
+  - title: 【スキー場ガイド】一里野温泉スキー場　広大なゲレンデとラブゴンドラの内側
+    url: https://www.youtube.com/watch?v=pritFOGaPOI
+    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
 sources:
 - label: SAM 白山一里野溫泉 Official
   url: https://www.sam-hakusan.com/white/ichirino/

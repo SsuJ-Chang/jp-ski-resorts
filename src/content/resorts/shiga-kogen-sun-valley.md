@@ -12,9 +12,9 @@ tags:
 - no_car_accessible
 links:
   official: https://shigakogen.co.jp/
-  facebook: "https://www.facebook.com/ShigaKogen.Ski"
-  instagram: "https://www.instagram.com/ShigaCentral/"
-  xTwitter: "https://x.com/ShigaCentral"
+  facebook: https://www.facebook.com/ShigaKogen.Ski
+  instagram: https://www.instagram.com/ShigaCentral/
+  xTwitter: https://x.com/ShigaCentral
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
@@ -40,11 +40,17 @@ tickets:
   note: 志賀高原全山共通主要票種摘要；完整天數券、餐券套票、線上票與兒童規則請以官方頁面為準。
   plans:
   - name: 全山 1 日券
-    audience: 成人、中高生、長者、兒童
-    price: 成人 ¥8,000、中高生 ¥6,200、長者 ¥6,400、兒童 ¥3,600
+    priceLines:
+    - 成人 ¥8,000
+    - 中高生 ¥6,200
+    - 長者 ¥6,400
+    - 兒童 ¥3,600
   - name: 餐券付全山 1 日券
-    audience: 成人、中高生、長者、兒童
-    price: 成人 ¥8,700、中高生 ¥6,900、長者 ¥7,100、兒童 ¥4,300
+    priceLines:
+    - 成人 ¥8,700
+    - 中高生 ¥6,900
+    - 長者 ¥7,100
+    - 兒童 ¥4,300
 snowWeather:
   title: 志賀高原 Sun Valley 雪況天氣
   provider: Official
@@ -80,17 +86,17 @@ lifts:
   total: 1
 access:
   fromTokyo:
-    - label: "東京出發經長野"
-      steps:
-        - "從東京搭北陸新幹線到長野站。"
-        - "從長野站東口搭直達巴士前往志賀高原，於 Sun Valley 或山之站周邊站點下車。"
-      estimatedTime: "長野後約 1.5-2 小時"
-      difficulty: "medium"
-      note: "Sun Valley 位於志賀高原入口側，實際下車站與步行距離會依住宿、停車場與當季巴士時刻不同。"
+  - label: 東京出發經長野
+    steps:
+    - 從東京搭北陸新幹線到長野站。
+    - 從長野站東口搭直達巴士前往志賀高原，於 Sun Valley 或山之站周邊站點下車。
+    estimatedTime: 長野後約 1.5-2 小時
+    difficulty: medium
+    note: Sun Valley 位於志賀高原入口側，實際下車站與步行距離會依住宿、停車場與當季巴士時刻不同。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。Sun Valley 停車場約 400 台，冬季需準備雪胎或雪鏈。"
+    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。Sun Valley 停車場約 400 台，冬季需準備雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道短而直接，可銜接丸池區域。
   intermediate: 主雪道提供入口側的中級滑行與景觀。

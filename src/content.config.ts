@@ -69,8 +69,7 @@ const trailMapSchema = z.object({
 
 const ticketPlanSchema = z.object({
   name: z.string(),
-  audience: z.string().optional(),
-  price: z.string(),
+  priceLines: z.array(z.string()).min(1),
   note: z.string().optional(),
 })
 

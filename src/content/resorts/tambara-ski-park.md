@@ -15,18 +15,16 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.tambara.co.jp/winter/
-  facebook: "https://www.facebook.com/tambaraskipark/"
-  instagram: "https://www.instagram.com/tambaratokyuresort/"
-  xTwitter: "https://x.com/tambaraskipark"
+  facebook: https://www.facebook.com/tambaraskipark/
+  instagram: https://www.instagram.com/tambaratokyuresort/
+  xTwitter: https://x.com/tambaraskipark
   trailMapPage: https://www.tambara.co.jp/winter/course/
   weather: https://weathernews.jp/ski/spot/34209/
   googleMaps: https://maps.google.co.jp/maps?q=36.778553,139.072718
 season:
   label: 2025-2026
   operatingPeriod: 2025/11/22-2026/05/06
-  hours: ：9:00〜16:00入場券1日：1800円(3歳以上有料)遊具：そり、スノーストライダー、チュービング 春スキー ○ 詳細 --> 4/6〜5/6止春スキー料金大人5000円、シニア4800円、小学生3400円、キッズ2500円
-    パイプ × ペットの同伴 × 近場の温泉 日帰り温泉 望郷の湯 車で35分〜40分 2時間700円からとリーズナブルです。 住所 〒378-0071 群馬県沼田市玉原高原 地図を見る お問い合わせ TEL：0278-23-9311 ホームページ
-    營業期間 2025年11月22日 ~ 2026年05月06日 營業時間 平日：8:30〜16:00 假日：8:00〜16:00 夜滑：無
+  hours: ：9:00〜16:00入場券1日：1800円(3歳以上有料)遊具：そり、スノーストライダー、チュービング 春スキー ○ 詳細 --> 4/6〜5/6止春スキー料金大人5000円、シニア4800円、小学生3400円、キッズ2500円 パイプ × ペットの同伴 × 近場の温泉 日帰り温泉 望郷の湯 車で35分〜40分 2時間700円からとリーズナブルです。 住所 〒378-0071 群馬県沼田市玉原高原 地図を見る お問い合わせ TEL：0278-23-9311 ホームページ 營業期間 2025年11月22日 ~ 2026年05月06日 營業時間 平日：8:30〜16:00 假日：8:00〜16:00 夜滑：無
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34209/
 trailMaps:
@@ -117,23 +115,31 @@ contact:
     zhTw: 群馬縣沼田市玉原高原
     ja: 〒378-0071 群馬県沼田市玉原高原
     googleMaps: https://maps.google.co.jp/maps?q=36.778553,139.072718
-  phone: "0278-23-9311"
+  phone: 0278-23-9311
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34209/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥5,200〜¥6,500 兒童 ¥3,700〜¥4,000 樂齡 ¥5,000〜¥6,200
-  - name: 1回券
-    price: 成人 ¥1,000
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥5,200〜¥6,500 兒童 ¥3,700〜¥4,000 樂齡 ¥5,000〜¥6,200
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥1,000
   - name: キッズ1日券（4歳以上の未就学）
-    price: 兒童 ¥2,700
+    priceLines:
+    - 兒童 ¥2,700
   - name: 第1リフト専用1日券
-    price: 成人 ¥4,400 兒童 ¥3,100 樂齡 ¥4,400
+    priceLines:
+    - 成人 ¥4,400 兒童 ¥3,100 樂齡 ¥4,400
   - name: 初滑り情報 11/29〜12/12止初滑り料金
-    price: 成人¥5,000、樂齡¥4,800、小学生¥3,400、キッズ¥2,500
+    priceLines:
+    - 成人¥5,000
+    - 樂齡¥4,800
+    - 小学生¥3,400
+    - キッズ¥2,500
 elevation:
   top: 1550
   bottom: 1250
@@ -147,8 +153,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：上越新幹線上毛高原駅下車、タクシー (50分) 電車 ：JR上越線沼田駅下車、免費送迎バス【要予約】 (60分) 車 ：前橋IC→沼田IC→たんばらスキーパーク (50分) 車 ：練馬IC→沼田IC→たんばらスキーパーク
-      (120分) 2000台 平日 免費 假日 1000円
+    note: 交通資訊摘要：上越新幹線上毛高原駅下車、タクシー (50分) 電車 ：JR上越線沼田駅下車、免費送迎バス【要予約】 (60分) 車 ：前橋IC→沼田IC→たんばらスキーパーク (50分) 車 ：練馬IC→沼田IC→たんばらスキーパーク (120分) 2000台 平日 免費 假日 1000円
 ---
 
 玉原 Ski Park位於群馬縣，以8 條雪道形成中小型雪場規模，搭配 6 座纜車。主要路線有 G ファミリーコース、H マルチユースコース、E ウッディコース，初級、中級與上級路線都有配置；標籤上偏向親子同行、夜滑。

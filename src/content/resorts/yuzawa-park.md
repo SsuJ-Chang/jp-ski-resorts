@@ -15,8 +15,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.park-resort.com/ski/
-  facebook: "https://www.facebook.com/yuzawaparkresort.ski/"
-  instagram: "https://www.instagram.com/yuzawapark_ski/"
+  facebook: https://www.facebook.com/yuzawaparkresort.ski/
+  instagram: https://www.instagram.com/yuzawapark_ski/
   trailMapPage: https://www.park-resort.com/ski/gelande/
   ticket: https://www.park-resort.com/ski/price/
   access: https://www.park-resort.com/ski/access/
@@ -25,7 +25,7 @@ links:
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町土樽 1613
-    ja: "〒949-6103 新潟県南魚沼郡湯沢町土樽1613"
+    ja: 〒949-6103 新潟県南魚沼郡湯沢町土樽1613
     googleMaps: https://www.google.com/maps/search/?api=1&query=Yuzawa%20Park%20Ski%20Resort
   phone: 025-787-4111
 season:
@@ -47,8 +47,8 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童
-    price: 待依 2025-2026 官網票價頁補齊
+    priceLines:
+    - 待依 2025-2026 官網票價頁補齊
 snowWeather:
   title: 湯澤公園雪況天氣
   provider: Official / Weathernews
@@ -65,49 +65,49 @@ mapDisplay:
   labelPriority: 3
   approximatePosition:
     x: 47
-    "y": 54
+    y: 54
 courses:
   beginnerRatio: 50
   intermediateRatio: 50
   advancedRatio: 0
   total: 11
-  courseInfoPage: "https://www.park-resort.com/ski/course/"
+  courseInfoPage: https://www.park-resort.com/ski/course/
   summary: 湯澤公園是鄰近住宿設施的湯澤雪場，適合家庭與住宿型滑雪行程。
   details:
-    - name: "銀河コース"
-      difficulty: "beginner"
-      maxSlope: "13°"
-      averageSlope: "7°"
-    - name: "第7初心者コース"
-      difficulty: "beginner"
-    - name: "ファミリーコース"
-      difficulty: "beginner"
-      averageSlope: "10°"
-    - name: "スカイラインコース"
-      difficulty: "beginner"
-    - name: "スカイバレーコース"
-      difficulty: "mixed"
-      maxSlope: "31°"
-      averageSlope: "21°"
-    - name: "ムーンライトコース"
-      difficulty: "intermediate"
-    - name: "パノラマコース"
-      difficulty: "intermediate"
-      length: "550m"
-      maxSlope: "27°"
-      averageSlope: "12°"
-    - name: "ポール専用コース"
-      difficulty: "intermediate"
-    - name: "ダイナミックコース"
-      difficulty: "mixed"
-      maxSlope: "28°"
-      averageSlope: "16°"
-    - name: "ヨーデルコース"
-      difficulty: "mixed"
-    - name: "チャレンジコース"
-      difficulty: "intermediate"
-      maxSlope: "31°"
-      averageSlope: "17°"
+  - name: 銀河コース
+    difficulty: beginner
+    maxSlope: 13°
+    averageSlope: 7°
+  - name: 第7初心者コース
+    difficulty: beginner
+  - name: ファミリーコース
+    difficulty: beginner
+    averageSlope: 10°
+  - name: スカイラインコース
+    difficulty: beginner
+  - name: スカイバレーコース
+    difficulty: mixed
+    maxSlope: 31°
+    averageSlope: 21°
+  - name: ムーンライトコース
+    difficulty: intermediate
+  - name: パノラマコース
+    difficulty: intermediate
+    length: 550m
+    maxSlope: 27°
+    averageSlope: 12°
+  - name: ポール専用コース
+    difficulty: intermediate
+  - name: ダイナミックコース
+    difficulty: mixed
+    maxSlope: 28°
+    averageSlope: 16°
+  - name: ヨーデルコース
+    difficulty: mixed
+  - name: チャレンジコース
+    difficulty: intermediate
+    maxSlope: 31°
+    averageSlope: 17°
 access:
   fromTokyo:
   - label: 東京出發
@@ -131,9 +131,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-    - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
-      url: https://www.youtube.com/watch?v=ft3WpoC95rU
-      note: "MIRU tube JAPAN 【Route Guide】"
+  - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
+    url: https://www.youtube.com/watch?v=ft3WpoC95rU
+    note: MIRU tube JAPAN 【Route Guide】
 sources:
 - label: Yuzawa Park Ski Resort Official Website
   url: https://www.park-resort.com/ski/

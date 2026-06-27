@@ -16,8 +16,8 @@ visibility:
   status: published
 links:
   official: https://www.gokase.co.jp/ski/
-  facebook: "https://www.facebook.com/gokase.ski"
-  instagram: "https://www.instagram.com/gokase_highland_ski_resort/"
+  facebook: https://www.facebook.com/gokase.ski
+  instagram: https://www.instagram.com/gokase_highland_ski_resort/
   access: https://www.gokase.co.jp/wp/wp-content/themes/biz-vektor/pdf/shuttle_bus_timetable.pdf
   weather: https://weathernews.jp/ski/spot/38602/
   googleMaps: https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E3%83%B6%E7%80%AC%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4
@@ -40,17 +40,24 @@ tickets:
   note: 初版先依公開資料整理主要票種；完整票價、租借與優惠規則請以官方當季公告為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥5,000、兒童 ¥3,500、長者 ¥3,500
+    priceLines:
+    - 成人 ¥5,000
+    - 兒童 ¥3,500
+    - 長者 ¥3,500
   - name: 2 日券
-    audience: 成人、兒童
-    price: 成人 ¥8,000、兒童 ¥5,000
+    priceLines:
+    - 成人 ¥8,000
+    - 兒童 ¥5,000
   - name: 上午券
-    audience: 成人、兒童、長者
-    price: 成人 ¥4,000、兒童 ¥3,000、長者 ¥3,000
+    priceLines:
+    - 成人 ¥4,000
+    - 兒童 ¥3,000
+    - 長者 ¥3,000
   - name: 下午券
-    audience: 成人、兒童、長者
-    price: 成人 ¥4,000、兒童 ¥3,000、長者 ¥3,000
+    priceLines:
+    - 成人 ¥4,000
+    - 兒童 ¥3,000
+    - 長者 ¥3,000
 snowWeather:
   title: 五瀨高原雪況天氣
   provider: Weathernews

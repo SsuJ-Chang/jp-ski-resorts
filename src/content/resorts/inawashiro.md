@@ -17,9 +17,9 @@ tags:
 homeRegionExample: true
 links:
   official: https://www.inawashiro-ski.com/
-  facebook: "https://www.facebook.com/snowparadise.iNAWASHiRO"
-  instagram: "https://www.instagram.com/inawashiro_ski/"
-  xTwitter: "https://twitter.com/inawashiro_ski"
+  facebook: https://www.facebook.com/snowparadise.iNAWASHiRO
+  instagram: https://www.instagram.com/inawashiro_ski/
+  xTwitter: https://twitter.com/inawashiro_ski
   trailMapPage: https://www.inawashiro-ski.com/gelande/
   ticket: https://www.inawashiro-ski.com/lift/
   access: https://www.inawashiro-ski.com/access/
@@ -28,7 +28,7 @@ links:
 contact:
   address:
     zhTw: 福島縣耶麻郡豬苗代町葉山 7105
-    ja: "〒969-3102 福島県耶麻郡猪苗代町葉山7105"
+    ja: 〒969-3102 福島県耶麻郡猪苗代町葉山7105
     googleMaps: https://www.google.com/maps/search/?api=1&query=Inawashiro%20Ski%20Resort
   phone: 0242-62-5100
 season:
@@ -51,20 +51,24 @@ tickets:
   note: 主要訪客票種摘要；官方也提供 Inawashiro Ski Club 會員價格，完整規則與期間限定票請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、小學生
-    price: 成人 ¥6,600、小學生 ¥3,200
+    priceLines:
+    - 成人 ¥6,600
+    - 小學生 ¥3,200
     note: 訪客窗口票價
   - name: 4 小時券
-    audience: 成人、小學生
-    price: 成人 ¥5,600、小學生 ¥2,700
+    priceLines:
+    - 成人 ¥5,600
+    - 小學生 ¥2,700
     note: 訪客窗口票價
   - name: 夜滑券
-    audience: 成人、小學生
-    price: 成人 ¥7,200、小學生 ¥3,600
+    priceLines:
+    - 成人 ¥7,200
+    - 小學生 ¥3,600
     note: 訪客窗口票價，夜滑營業日限定
   - name: 一日券 + 夜滑券
-    audience: 成人、小學生
-    price: 成人 ¥10,200、小學生 ¥5,000
+    priceLines:
+    - 成人 ¥10,200
+    - 小學生 ¥5,000
     note: 訪客窗口票價
 snowWeather:
   title: 豬苗代雪況天氣

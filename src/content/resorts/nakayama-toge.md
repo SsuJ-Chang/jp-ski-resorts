@@ -1,59 +1,65 @@
 ---
-id: "nakayama-toge"
+id: nakayama-toge
 name:
-  zhTw: "中山峠"
-  ja: "中山峠スキー場"
-  en: "Nakayama Pass Ski Area"
-region: "hokkaido"
-prefecture: "北海道"
+  zhTw: 中山峠
+  ja: 中山峠スキー場
+  en: Nakayama Pass Ski Area
+region: hokkaido
+prefecture: 北海道
 tags:
-- "powder"
-- "snowboard_friendly"
+- powder
+- snowboard_friendly
 visibility:
-  status: "published"
-  note: "北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。"
+  status: published
+  note: 北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。
 links:
-  official: "https://nakayama-ski.com/"
-  facebook: "https://www.facebook.com/NakayamatougeSnow/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=Nakayama%20Pass%20Ski%20Area"
-  weather: "https://weathernews.jp/ski/spot/31606/"
-  ticket: "https://weathernews.jp/ski/spot/31606/"
-  access: "https://weathernews.jp/ski/spot/31606/"
+  official: https://nakayama-ski.com/
+  facebook: https://www.facebook.com/NakayamatougeSnow/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=Nakayama%20Pass%20Ski%20Area
+  weather: https://weathernews.jp/ski/spot/31606/
+  ticket: https://weathernews.jp/ski/spot/31606/
+  access: https://weathernews.jp/ski/spot/31606/
 contact:
   address:
-    zhTw: "日本北海道虻田郡喜茂別町字川上345"
-    ja: "〒044-0223 北海道虻田郡喜茂別町字川上345"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=Nakayama%20Pass%20Ski%20Area"
-  phone: "0136-33-3373"
+    zhTw: 日本北海道虻田郡喜茂別町字川上345
+    ja: 〒044-0223 北海道虻田郡喜茂別町字川上345
+    googleMaps: https://www.google.com/maps/search/?api=1&query=Nakayama%20Pass%20Ski%20Area
+  phone: 0136-33-3373
 season:
-  label: "2025-2026"
-  operatingPeriod: "2026/4/1-2026/5/6"
-  hours: "平日：9:00〜16:00 假日：9:00〜16:00 夜滑：無"
-  note: "營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。"
-  source: "https://weathernews.jp/ski/spot/31606/"
+  label: 2025-2026
+  operatingPeriod: 2026/4/1-2026/5/6
+  hours: 平日：9:00〜16:00 假日：9:00〜16:00 夜滑：無
+  note: 營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。
+  source: https://weathernews.jp/ski/spot/31606/
 tickets:
-  season: "2025-2026"
-  currency: "JPY"
-  source: "https://weathernews.jp/ski/spot/31606/"
-  note: "主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。"
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/31606/
+  note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: "1 日券"
-    audience: "成人、兒童、長者"
-    price: "成人 ¥5,000、兒童 ¥4,400、長者 ¥4,400"
-  - name: "4 小時券"
-    audience: "成人、兒童、長者"
-    price: "成人 ¥4,200、兒童 ¥3,700、長者 ¥3,700"
-  - name: "11 回券"
-    audience: "成人、兒童、長者"
-    price: "成人 ¥4,700、兒童 ¥4,200、長者 ¥4,200"
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥5,000
+    - 兒童 ¥4,400
+    - 長者 ¥4,400
+  - name: 4 小時券
+    priceLines:
+    - 成人 ¥4,200
+    - 兒童 ¥3,700
+    - 長者 ¥3,700
+  - name: 11 回券
+    priceLines:
+    - 成人 ¥4,700
+    - 兒童 ¥4,200
+    - 長者 ¥4,200
 snowWeather:
-  title: "中山峠雪況天氣"
-  provider: "Weathernews"
-  url: "https://weathernews.jp/ski/spot/31606/"
+  title: 中山峠雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/31606/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 elevation:
   top: 980
   bottom: 800
@@ -64,36 +70,36 @@ courses:
   intermediateRatio: 100
   advancedRatio: 0
   courseInfoPage: https://nakayama-ski.com/gerende
-  summary: "中山峠在北海道人氣雪場清單列為第 10 名。共有 3 條雪道、1 座纜車，難度比例為初級 0%、中級 100%、上級 0%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。"
+  summary: 中山峠在北海道人氣雪場清單列為第 10 名。共有 3 條雪道、1 座纜車，難度比例為初級 0%、中級 100%、上級 0%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
   details:
-    - name: シルバーコース
-      difficulty: intermediate
-      length: 700m
-      maxSlope: 24°
-    - name: ダウンヒルコース
-      difficulty: mixed
-      length: 850m
-      maxSlope: 22°
+  - name: シルバーコース
+    difficulty: intermediate
+    length: 700m
+    maxSlope: 24°
+  - name: ダウンヒルコース
+    difficulty: mixed
+    length: 850m
+    maxSlope: 22°
 lifts:
   total: 1
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "交通資訊摘要：自駕：札幌駅由 (70分) 機場：千歳空港由 (90分)"
+    note: 交通資訊摘要：自駕：札幌駅由 (70分) 機場：千歳空港由 (90分)
 terrainSummary:
-  beginner: "初級雪道佔 0%，可作為安排練習與暖身的參考。"
-  intermediate: "中級雪道佔 100%，適合已能穩定轉彎的滑雪者參考。"
-  advanced: "上級雪道佔 0%，進階路線請依當日雪況與官方管制判斷。"
-  snowboard: "雪板可滑行。"
-  powder: "北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。"
+  beginner: 初級雪道佔 0%，可作為安排練習與暖身的參考。
+  intermediate: 中級雪道佔 100%，適合已能穩定轉彎的滑雪者參考。
+  advanced: 上級雪道佔 0%，進階路線請依當日雪況與官方管制判斷。
+  snowboard: 雪板可滑行。
+  powder: 北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。
 sources:
-- label: "中山峠スキー場 Official"
-  url: "https://nakayama-ski.com/"
-- label: "Weathernews 中山峠スキー場"
-  url: "https://weathernews.jp/ski/spot/31606/"
-- label: "Weathernews 北海道人氣排行"
-  url: "https://weathernews.jp/ski/area/hokkaido/ranking.html"
+- label: 中山峠スキー場 Official
+  url: https://nakayama-ski.com/
+- label: Weathernews 中山峠スキー場
+  url: https://weathernews.jp/ski/spot/31606/
+- label: Weathernews 北海道人氣排行
+  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 中山峠位於北海道，共有2 條雪道、1 座纜車，重點不只在壓雪主線，還包含自然地形與雪況變化。シルバーコース、ダウンヒルコース能看出它從主雪道到邊側段落都有不同滑感。如果你想把巡航之外的粉雪感、林間感或地形閱讀排進一天，這類配置會更有內容。

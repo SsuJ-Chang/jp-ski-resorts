@@ -16,8 +16,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://annupuri.info/winter/
-  facebook: "https://www.facebook.com/nisekoannupuriskiarea/"
-  instagram: "https://www.instagram.com/nisekoannupuriskiarea/"
+  facebook: https://www.facebook.com/nisekoannupuriskiarea/
+  instagram: https://www.instagram.com/nisekoannupuriskiarea/
   trailMapPage: https://www.niseko.ne.jp/en/map/annupuri/
   trailMapPdf: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
   ticket: https://www.niseko.ne.jp/en/lift/
@@ -51,20 +51,32 @@ tickets:
   note: Niseko United All Mountain Pass 主要 1 日券摘要；多日券、點數券、線上限定 50 小時券與夜滑有效規則請以官方頁面為準。
   plans:
   - name: Peak Season 全山 1 日券
-    audience: 成人、4-12 歲、13-15 歲、65 歲以上
-    price: 成人 ¥13,500、4-12 歲 ¥8,100、13-15 歲 ¥11,500、65 歲以上 ¥11,500
+    priceLines:
+    - 成人 ¥13,500
+    - 4-12 歲 ¥8,100
+    - 13-15 歲 ¥11,500
+    - 65 歲以上 ¥11,500
     note: 2026/12/24-2027/2/28
   - name: Regular Season 全山 1 日券
-    audience: 成人、4-12 歲、13-15 歲、65 歲以上
-    price: 成人 ¥12,600、4-12 歲 ¥7,600、13-15 歲 ¥10,700、65 歲以上 ¥10,700
+    priceLines:
+    - 成人 ¥12,600
+    - 4-12 歲 ¥7,600
+    - 13-15 歲 ¥10,700
+    - 65 歲以上 ¥10,700
     note: 2026/12/12-12/23、2027/3/1-3/22
   - name: Early / Spring Season 全山 1 日券
-    audience: 成人、4-12 歲、13-15 歲、65 歲以上
-    price: 成人 ¥8,800、4-12 歲 ¥5,300、13-15 歲 ¥7,500、65 歲以上 ¥7,500
+    priceLines:
+    - 成人 ¥8,800
+    - 4-12 歲 ¥5,300
+    - 13-15 歲 ¥7,500
+    - 65 歲以上 ¥7,500
     note: 2026/11/28-12/11、2027/3/23-4/4
   - name: Final Season 全山 1 日券
-    audience: 成人、4-12 歲、13-15 歲、65 歲以上
-    price: 成人 ¥6,300、4-12 歲 ¥3,800、13-15 歲 ¥5,400、65 歲以上 ¥5,400
+    priceLines:
+    - 成人 ¥6,300
+    - 4-12 歲 ¥3,800
+    - 13-15 歲 ¥5,400
+    - 65 歲以上 ¥5,400
     note: 2027/4/5-5/5
 snowWeather:
   title: 二世谷 Annupuri 雪況天氣
@@ -121,7 +133,7 @@ courses:
     maxSlope: 22°
     averageSlope: 20°
     note: 官方雪道資料列為中級路線，全長 150m、最大坡度 22°、平均坡度 20°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: "“S” Ji"
+  - name: “S” Ji
     difficulty: intermediate
     length: 700m
     maxSlope: 20°

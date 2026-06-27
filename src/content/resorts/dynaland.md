@@ -19,9 +19,9 @@ tags:
 homeRegionExample: true
 links:
   official: https://www.dynaland.co.jp/
-  facebook: "https://www.facebook.com/dynaland/"
-  instagram: "https://www.instagram.com/dynaland01/"
-  xTwitter: "https://twitter.com/dynaland"
+  facebook: https://www.facebook.com/dynaland/
+  instagram: https://www.instagram.com/dynaland01/
+  xTwitter: https://twitter.com/dynaland
   trailMapPage: https://www.dynaland.co.jp/gelande/
   ticket: https://www.takasumountains.com/lift/
   access: https://www.dynaland.co.jp/access/
@@ -53,11 +53,17 @@ tickets:
   note: TAKASU MOUNTAINS 6 雪場共通券摘要；全山共通券不含 Dynaland 夜滑，夜滑需另購夜滑券。
   plans:
   - name: 6 雪場共通 1 日券
-    audience: 成人、兒童、長者、中高生
-    price: 成人 ¥6,500、兒童 ¥3,800、長者 ¥5,500、中高生 ¥4,500
+    priceLines:
+    - 成人 ¥6,500
+    - 兒童 ¥3,800
+    - 長者 ¥5,500
+    - 中高生 ¥4,500
   - name: 6 雪場共通 2 日券
-    audience: 成人、兒童、長者、中高生
-    price: 成人 ¥11,800、兒童 ¥6,900、長者 ¥10,500、中高生 ¥8,500
+    priceLines:
+    - 成人 ¥11,800
+    - 兒童 ¥6,900
+    - 長者 ¥10,500
+    - 中高生 ¥8,500
 snowWeather:
   title: Dynaland 雪況天氣
   provider: Weathernews
@@ -191,13 +197,13 @@ lifts:
   total: 5
 access:
   fromNagoya:
-    - label: 名古屋出發高速巴士與接駁
-      steps:
-        - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
-        - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE 前往 Dynaland。
-      estimatedTime: 約 2.5-3.5 小時
-      difficulty: medium
-      note: 也可利用名古屋直行日歸 tour bus；免費接駁有季節與班次限制，回程需確認上行線巴士站。
+  - label: 名古屋出發高速巴士與接駁
+    steps:
+    - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
+    - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE 前往 Dynaland。
+    estimatedTime: 約 2.5-3.5 小時
+    difficulty: medium
+    note: 也可利用名古屋直行日歸 tour bus；免費接駁有季節與班次限制，回程需確認上行線巴士站。
   car:
     recommended: true
     snowTireRequired: true
@@ -210,9 +216,9 @@ terrainSummary:
   powder: 官方有多處 tree run area，需依積雪與開放狀態進入。
 externalContent:
   vlogs:
-    - title: "【日本中部】EP3名古屋自由行｜滑雪價格｜租裝備價格｜西日本最大雪場🗻｜高鷲滑雪場⛷｜Dynaland Snow Park❄️｜自學單板🏂｜ホテルヴィラモンサン飯店｜Action3📸｜"
-      url: "https://www.youtube.com/watch?v=v3e3Bgtegqc"
-      note: "和Ivy去旅行"
+  - title: 【日本中部】EP3名古屋自由行｜滑雪價格｜租裝備價格｜西日本最大雪場🗻｜高鷲滑雪場⛷｜Dynaland Snow Park❄️｜自學單板🏂｜ホテルヴィラモンサン飯店｜Action3📸｜
+    url: https://www.youtube.com/watch?v=v3e3Bgtegqc
+    note: 和Ivy去旅行
 sources:
 - label: Dynaland Course Introduction
   url: https://www.dynaland.co.jp/gelande/

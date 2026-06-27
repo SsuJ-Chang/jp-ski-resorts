@@ -16,9 +16,9 @@ tags:
 - tree_run
 links:
   official: https://www.madarao.jp/ski
-  facebook: "https://www.facebook.com/madaraoski"
-  instagram: "https://www.instagram.com/madarao.ski/"
-  xTwitter: "https://twitter.com/the_madarao"
+  facebook: https://www.facebook.com/madaraoski
+  instagram: https://www.instagram.com/madarao.ski/
+  xTwitter: https://twitter.com/the_madarao
   weather: https://weathernews.jp/ski/spot/34805/
   access: https://www.madarao.jp/ski/access
   googleMaps: https://www.google.com/maps/search/?api=1&query=Madarao%20Mountain%20Resort
@@ -42,17 +42,25 @@ tickets:
   note: 主要票種依 2025-2026 公開雪場資料整理；Mountain Pass 與 Area Pass 的可用範圍請以官方為準。
   plans:
   - name: Mountain Pass 1 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥8,500、兒童 ¥5,500、長者 ¥8,000
+    priceLines:
+    - 成人 ¥8,500
+    - 兒童 ¥5,500
+    - 長者 ¥8,000
   - name: Mountain Pass 2 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥16,000、兒童 ¥10,000、長者 ¥15,000
+    priceLines:
+    - 成人 ¥16,000
+    - 兒童 ¥10,000
+    - 長者 ¥15,000
   - name: Area Pass 5 小時券
-    audience: 成人、兒童、長者
-    price: 成人 ¥6,900、兒童 ¥4,200、長者 ¥6,300
+    priceLines:
+    - 成人 ¥6,900
+    - 兒童 ¥4,200
+    - 長者 ¥6,300
   - name: Area Pass 7 小時券
-    audience: 成人、兒童、長者
-    price: 成人 ¥8,100、兒童 ¥5,200、長者 ¥7,400
+    priceLines:
+    - 成人 ¥8,100
+    - 兒童 ¥5,200
+    - 長者 ¥7,400
 snowWeather:
   title: 斑尾高原雪況天氣
   provider: Weathernews
@@ -97,8 +105,8 @@ courses:
     maxSlope: 19°
     note: 由チャンピオン下部連接第7日歸停車場。
     videoLinks:
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=324s
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1453s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=324s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1453s
   - name: ポールバーンA
     difficulty: beginner
     length: 700m
@@ -110,7 +118,7 @@ courses:
     maxSlope: 10°
     note: 由スーパークワッド或第3リフト中間站通往クリスタル方面，晴天可望日本海。
     videoLinks:
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=593s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=593s
   - name: スカイビュー
     difficulty: beginner
     length: 1,400m
@@ -137,35 +145,35 @@ courses:
     maxSlope: 20°
     note: 斑尾高原ホテル側主雪道，從 main gate 進場後首先滑下的壓雪坡。
     videoLinks:
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=104s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=104s
   - name: カービング
     difficulty: intermediate
     length: 800m
     maxSlope: 25°
     note: 第2クワッドリフト可到達的中級壓雪路線，適合轉彎練習與課程。
     videoLinks:
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=500s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=500s
   - name: オーシャンビュー
     difficulty: intermediate
     length: 800m
     maxSlope: 25°
     note: 由第3リフト山頂通往クリスタル方面的九十九折壓雪路線，上部可望日本海。
     videoLinks:
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=765s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=765s
   - name: ワールドカップ
     difficulty: advanced
     length: 500m
     maxSlope: 35°
     note: 曾舉辦 mogul World Cup，現為非壓雪粉雪路線。
     videoLinks:
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1328s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1328s
   - name: パウダーライン
     difficulty: advanced
     length: 360m
     maxSlope: 35°
     note: アドベンチャーアイル後方的非壓雪路線，可接往第13リフト或 NINJA。
     videoLinks:
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1762s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1762s
   - name: ラビットコース -Family Adventure-
     difficulty: advanced
     length: 270m
@@ -202,7 +210,7 @@ courses:
     maxSlope: 17°
     note: 通往 powder area 的 tree run 連絡路，可望野尻湖、黒姫山與妙高山。
     videoLinks:
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1592s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1592s
   - name: クリスタルボウル
     difficulty: advanced
     length: 550m
@@ -234,30 +242,30 @@ courses:
     maxSlope: 30°
     note: 上部為斑尾最陡壓雪坡之一，下部為較緩斜面，官方標示初級與中級。
     videoLinks:
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=212s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=212s
   - name: ジャイアント
     difficulty: mixed
     length: 1,200m
     maxSlope: 31°
     note: 主雪道，上部非壓雪上級、中段非壓雪中級、下部壓雪中級。
     videoLinks:
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=387s
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1082s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=387s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1082s
   - name: クリスタル
     difficulty: mixed
     length: 2,100m
     maxSlope: 36°
     note: 斑尾最長路線，上部非壓雪上級、中段壓雪中斜面、下部初級緩斜面。
     videoLinks:
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=890s
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1944s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=890s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1944s
   - name: スカイラブ
     difficulty: mixed
     length: 1,300m
     maxSlope: 30°
     note: 尾根沿い上部為非壓雪，下方為中級者向壓雪林間路線。
     videoLinks:
-      - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=2110s
+    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=2110s
   - name: FreeRidePark Madarao
     difficulty: mixed
     length: 280m
@@ -267,17 +275,17 @@ lifts:
   total: 10
 access:
   fromTokyo:
-    - label: "東京出發經飯山"
-      steps:
-        - "從東京搭北陸新幹線到飯山站。"
-        - "從飯山站轉乘往斑尾高原的巴士，或改搭計程車前往雪場。"
-      estimatedTime: "飯山後約 30 分"
-      difficulty: "medium"
-      note: "冬季有飯山站與斑尾高原之間的巴士，另有周邊度假區接駁；行前需確認當季時刻與乘車位置。"
+  - label: 東京出發經飯山
+    steps:
+    - 從東京搭北陸新幹線到飯山站。
+    - 從飯山站轉乘往斑尾高原的巴士，或改搭計程車前往雪場。
+    estimatedTime: 飯山後約 30 分
+    difficulty: medium
+    note: 冬季有飯山站與斑尾高原之間的巴士，另有周邊度假區接駁；行前需確認當季時刻與乘車位置。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從上信越自動車道豐田飯山 IC 約 17 分。日歸 P7、P8 停車場為主要免費選項，P1、P2 與大型車 P3 冬季收費；冬季山路需準備雪胎或雪鏈。"
+    note: 從上信越自動車道豐田飯山 IC 約 17 分。日歸 P7、P8 停車場為主要免費選項，P1、P2 與大型車 P3 冬季收費；冬季山路需準備雪胎或雪鏈。
 terrainSummary:
   beginner: 初級約 30%，可與飯山站接駁安排住宿型滑雪行程。
   intermediate: 中級約 35%，適合在主雪道巡航與移動。

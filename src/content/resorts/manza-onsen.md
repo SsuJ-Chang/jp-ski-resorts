@@ -16,9 +16,9 @@ tags:
 - tree_run
 links:
   official: https://www.princehotels.co.jp/ski/manza/winter/
-  facebook: "https://www.facebook.com/manzaonsenskiarea/"
-  instagram: "https://www.instagram.com/manza_s_official/"
-  xTwitter: "https://twitter.com/manzaspa_snow"
+  facebook: https://www.facebook.com/manzaonsenskiarea/
+  instagram: https://www.instagram.com/manza_s_official/
+  xTwitter: https://twitter.com/manzaspa_snow
   trailMapPage: https://www.princehotels.co.jp/ski/manza/winter/coursemap/
   weather: https://weathernews.jp/ski/spot/34203/
   googleMaps: https://maps.google.co.jp/maps?q=36.635703,138.506178
@@ -152,7 +152,7 @@ contact:
     zhTw: 群馬縣吾妻郡嬬恋村万座温泉
     ja: 〒377-1528 群馬県吾妻郡嬬恋村万座温泉
     googleMaps: https://maps.google.co.jp/maps?q=36.635703,138.506178
-  phone: "0279-97-3117"
+  phone: 0279-97-3117
 tickets:
   season: 2025-2026
   currency: JPY
@@ -160,9 +160,11 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券（12/30〜1/3は¥200追加）
-    price: 成人 ¥5,700 兒童 0円
+    priceLines:
+    - 成人 ¥5,700 兒童 0円
   - name: 4時間券（12/30〜1/3は¥200追加）
-    price: 成人 ¥5,200 兒童 0円
+    priceLines:
+    - 成人 ¥5,200 兒童 0円
 elevation:
   top: 1990
   bottom: 1654
@@ -176,8 +178,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：吾妻線万座・鹿沢口駅、タクシー (30分) 電車 ：吾妻線万座・鹿沢口駅、西武高原バス (50分) 車 ：関越自動車道 渋川伊香保IC→万座温泉 (100分) 車 ：上信越自動車道 碓氷軽井沢IC→万座温泉
-      (90分) 400台 平日 免費 假日 免費
+    note: 交通資訊摘要：吾妻線万座・鹿沢口駅、タクシー (30分) 電車 ：吾妻線万座・鹿沢口駅、西武高原バス (50分) 車 ：関越自動車道 渋川伊香保IC→万座温泉 (100分) 車 ：上信越自動車道 碓氷軽井沢IC→万座温泉 (90分) 400台 平日 免費 假日 免費
 ---
 
 萬座溫泉位於群馬縣，是中型雪場，共有14 條雪道，搭配 4 座纜車。代表路線包含 B1 どうぶつの森コース、B6 ハイクアップ A、C1 パノラマゲレンデ R，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

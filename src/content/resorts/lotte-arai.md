@@ -39,14 +39,20 @@ tickets:
   note: 初版依公開資料整理主要票種；官方頁面若更新，請優先以 LOTTE ARAI RESORT 官方資訊為準。
   plans:
   - name: 1 日券
-    audience: 成人、長者、兒童
-    price: 成人 ¥7,500、長者 ¥7,000、兒童 ¥5,000
+    priceLines:
+    - 成人 ¥7,500
+    - 長者 ¥7,000
+    - 兒童 ¥5,000
   - name: 下午券
-    audience: 成人、長者、兒童
-    price: 成人 ¥6,300、長者 ¥5,800、兒童 ¥4,500
+    priceLines:
+    - 成人 ¥6,300
+    - 長者 ¥5,800
+    - 兒童 ¥4,500
   - name: First Class 1 日券
-    audience: 成人、長者、兒童
-    price: 成人 ¥12,500、長者 ¥12,000、兒童 ¥8,000
+    priceLines:
+    - 成人 ¥12,500
+    - 長者 ¥12,000
+    - 兒童 ¥8,000
 snowWeather:
   title: 樂天新井雪況天氣
   provider: Weathernews
@@ -70,139 +76,139 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/35494/
   summary: 樂天新井一帶的滑雪區域依公開資料共有 14 條雪道，並以大型度假村、長雪季與粉雪取向行程聞名；詳細官方雪道資料待補。
   details:
-    - name: "妙高ロングラン"
-      difficulty: beginner
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2703s
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=3811s
-        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=193s
-        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1983s
-      length: "2,300m"
-      averageSlope: "8°"
-    - name: "タテガミ"
-      difficulty: beginner
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=3969s
-        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=2084s
-      length: "500m"
-      averageSlope: "12°"
-    - name: "六本木ロード"
-      difficulty: beginner
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2928s
-        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=450s
-      length: "1,100m"
-      averageSlope: "7°"
-    - name: "ヴィレッジロード"
-      difficulty: beginner
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=434s
-        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=568s
-      length: "2,100m"
-      averageSlope: "5°"
-    - name: "ポニー"
-      difficulty: beginner
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=523s
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=4139s
-        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=758s
-        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=2227s
-      length: "400m"
-      averageSlope: "4°"
-    - name: "ビーフリー"
-      difficulty: intermediate
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=944s
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1138s
-        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=927s
-      length: "1,300m"
-      averageSlope: "18°"
-    - name: "アンコール"
-      difficulty: intermediate
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=635s
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=849s
-        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1083s
-      length: "1,400m"
-      averageSlope: "15°"
-    - name: "ベアバレー"
-      difficulty: intermediate
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1410s
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2283s
-        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1879s
-      length: "1,100m"
-      averageSlope: "13°"
-    - name: "ウマノセ"
-      difficulty: intermediate
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=98s
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=4013s
-        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=2118s
-      length: "1,460m"
-      averageSlope: "12°"
-    - name: "サンライズ"
-      difficulty: intermediate
-      videoLinks:
-        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1775s
-      length: "880m"
-      averageSlope: "12°"
-    - name: "ハッピープレイス"
-      difficulty: intermediate
-    - name: "ベンザク"
-      difficulty: ungroomed
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=713s
-    - name: "船石"
-      difficulty: ungroomed
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=983s
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1985s
-    - name: "膳棚ボウル"
-      difficulty: ungroomed
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1194s
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1431s
-    - name: "大斜面"
-      difficulty: ungroomed
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2388s
-    - name: "東斜面"
-      difficulty: ungroomed
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2482s
-    - name: "マムシ"
-      difficulty: ungroomed
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=3448s
-    - name: "KG"
-      difficulty: ungroomed
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=169s
-    - name: "レジェンダリー"
-      difficulty: advanced
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1550s
-      length: "1,360m"
-      averageSlope: "23°"
-    - name: "エキサイター"
-      difficulty: advanced
-      videoLinks:
-        - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1334s
-      length: "1,310m"
-      averageSlope: "21°"
-    - name: "マムシガエシ"
-      difficulty: advanced
-      videoLinks:
-        - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2739s
-      length: "720m"
-      averageSlope: "28°"
-    - name: "ディスカバリー"
-      difficulty: advanced
-      length: "650m"
-      averageSlope: "22°"
-    - name: "オオソト"
-      difficulty: ungroomed
+  - name: 妙高ロングラン
+    difficulty: beginner
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2703s
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=3811s
+    - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=193s
+    - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1983s
+    length: 2,300m
+    averageSlope: 8°
+  - name: タテガミ
+    difficulty: beginner
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=3969s
+    - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=2084s
+    length: 500m
+    averageSlope: 12°
+  - name: 六本木ロード
+    difficulty: beginner
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2928s
+    - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=450s
+    length: 1,100m
+    averageSlope: 7°
+  - name: ヴィレッジロード
+    difficulty: beginner
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=434s
+    - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=568s
+    length: 2,100m
+    averageSlope: 5°
+  - name: ポニー
+    difficulty: beginner
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=523s
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=4139s
+    - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=758s
+    - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=2227s
+    length: 400m
+    averageSlope: 4°
+  - name: ビーフリー
+    difficulty: intermediate
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=944s
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1138s
+    - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=927s
+    length: 1,300m
+    averageSlope: 18°
+  - name: アンコール
+    difficulty: intermediate
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=635s
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=849s
+    - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1083s
+    length: 1,400m
+    averageSlope: 15°
+  - name: ベアバレー
+    difficulty: intermediate
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1410s
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2283s
+    - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1879s
+    length: 1,100m
+    averageSlope: 13°
+  - name: ウマノセ
+    difficulty: intermediate
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=98s
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=4013s
+    - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=2118s
+    length: 1,460m
+    averageSlope: 12°
+  - name: サンライズ
+    difficulty: intermediate
+    videoLinks:
+    - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1775s
+    length: 880m
+    averageSlope: 12°
+  - name: ハッピープレイス
+    difficulty: intermediate
+  - name: ベンザク
+    difficulty: ungroomed
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=713s
+  - name: 船石
+    difficulty: ungroomed
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=983s
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1985s
+  - name: 膳棚ボウル
+    difficulty: ungroomed
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1194s
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1431s
+  - name: 大斜面
+    difficulty: ungroomed
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2388s
+  - name: 東斜面
+    difficulty: ungroomed
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2482s
+  - name: マムシ
+    difficulty: ungroomed
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=3448s
+  - name: KG
+    difficulty: ungroomed
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=169s
+  - name: レジェンダリー
+    difficulty: advanced
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=1550s
+    length: 1,360m
+    averageSlope: 23°
+  - name: エキサイター
+    difficulty: advanced
+    videoLinks:
+    - https://www.youtube.com/watch?v=HiKfJdpvWHI&t=1334s
+    length: 1,310m
+    averageSlope: 21°
+  - name: マムシガエシ
+    difficulty: advanced
+    videoLinks:
+    - https://www.youtube.com/watch?v=7p0ar07fyPc&t=2739s
+    length: 720m
+    averageSlope: 28°
+  - name: ディスカバリー
+    difficulty: advanced
+    length: 650m
+    averageSlope: 22°
+  - name: オオソト
+    difficulty: ungroomed
 lifts:
   total: 8
 access:

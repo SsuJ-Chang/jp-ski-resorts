@@ -16,8 +16,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.town.pippu.hokkaido.jp/ski/top.html
-  facebook: "https://www.facebook.com/pippuski"
-  xTwitter: "https://twitter.com/pippuski"
+  facebook: https://www.facebook.com/pippuski
+  xTwitter: https://twitter.com/pippuski
   trailMapPage: https://www.town.pippu.hokkaido.jp/ski/course.html
   ticket: https://www.town.pippu.hokkaido.jp/ski/lift.html
   access: https://www.town.pippu.hokkaido.jp/ski/access.html
@@ -25,7 +25,7 @@ links:
 contact:
   address:
     zhTw: 北海道上川郡比布町北 7 線 17 號
-    ja: "〒078-0327 北海道上川郡比布町北7線17号"
+    ja: 〒078-0327 北海道上川郡比布町北7線17号
     googleMaps: https://www.google.com/maps/search/?api=1&query=Pippu%20Ski%20Resort
   phone: 0166-85-3056
 season:
@@ -43,18 +43,23 @@ tickets:
   note: 主要票種摘要，完整規則請以官方頁面為準。
   plans:
   - name: 1 日券（附入浴券）
-    audience: 成人、兒童、長者
-    price: 成人 ¥3,800、兒童 ¥2,800、長者 ¥2,800
+    priceLines:
+    - 成人 ¥3,800
+    - 兒童 ¥2,800
+    - 長者 ¥2,800
     note: 9:00-16:00。
   - name: 4 小時券
-    audience: 成人、兒童
-    price: 成人 ¥3,000、兒童 ¥2,300
+    priceLines:
+    - 成人 ¥3,000
+    - 兒童 ¥2,300
   - name: 4 小時券（附餐券）
-    audience: 成人、兒童
-    price: 成人 ¥3,600、兒童 ¥2,900
+    priceLines:
+    - 成人 ¥3,600
+    - 兒童 ¥2,900
   - name: 夜滑券（附入浴券）
-    audience: 成人、兒童
-    price: 成人 ¥1,200、兒童 ¥1,000
+    priceLines:
+    - 成人 ¥1,200
+    - 兒童 ¥1,000
     note: 16:00-20:30。
 snowWeather:
   title: 比布雪況天氣
@@ -136,47 +141,47 @@ lifts:
   total: 3
 access:
   fromSapporo:
-  - label: "札幌出發經旭川"
+  - label: 札幌出發經旭川
     steps:
-    - "從札幌站搭特急列車到旭川站。"
-    - "從旭川站可轉乘 JR 到比布站，再搭雪季免費接駁巴士前往雪場。"
-    - "也可從旭川站前搭乘道北巴士直達雪場。"
-    estimatedTime: "約 2.5-3 小時"
-    difficulty: "medium"
-    note: "免費接駁巴士在雪場營業期間每日運行，旭川站前的道北巴士為付費路線；班次可能調整，出發前需確認時刻表。"
+    - 從札幌站搭特急列車到旭川站。
+    - 從旭川站可轉乘 JR 到比布站，再搭雪季免費接駁巴士前往雪場。
+    - 也可從旭川站前搭乘道北巴士直達雪場。
+    estimatedTime: 約 2.5-3 小時
+    difficulty: medium
+    note: 免費接駁巴士在雪場營業期間每日運行，旭川站前的道北巴士為付費路線；班次可能調整，出發前需確認時刻表。
   fromAirport:
-  - label: "旭川機場出發"
+  - label: 旭川機場出發
     steps:
-    - "從旭川機場租車、計程車或包車，經道道 37 號與國道 40 號方向前往比布。"
-    - "依當日道路與積雪狀況前往 Pippu。"
-    estimatedTime: "約 50-60 分"
-    difficulty: "hard"
-    note: "機場後公開資料以車行時間為主；若不自駕，可先移動到旭川站，再轉乘道北巴士或經比布站接駁。"
+    - 從旭川機場租車、計程車或包車，經道道 37 號與國道 40 號方向前往比布。
+    - 依當日道路與積雪狀況前往 Pippu。
+    estimatedTime: 約 50-60 分
+    difficulty: hard
+    note: 機場後公開資料以車行時間為主；若不自駕，可先移動到旭川站，再轉乘道北巴士或經比布站接駁。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從旭川紋別自動車道比布北 IC 下交流道後約 3 分；旭川市區出發約 35 分，札幌市區經道央道約 2 小時。冬季需準備雪胎或防滑裝備。"
+    note: 從旭川紋別自動車道比布北 IC 下交流道後約 3 分；旭川市區出發約 35 分，札幌市區經道央道約 2 小時。冬季需準備雪胎或防滑裝備。
 externalContent:
   blogs: []
   vlogs:
-    - title: "🏂【單板滑雪進階】為什麼你滑不流暢？Willie 老司機揭秘提升「滑行效率」與兩種核心換刃技巧！🏔️ Snowboarding in PIPPU 比布滑雪 EP05"
-      url: https://www.youtube.com/watch?v=TWUY4p3OEMM
-      note: "大林滑雪男子"
-    - title: "🏂 從開放站姿到道外亂雪：地形減壓換刃 🏔️ Snowboarding in PIPPU 比布滑雪 EP04"
-      url: https://www.youtube.com/watch?v=vt0wtmrzKF4
-      note: "大林滑雪男子"
-    - title: "🏂【滑雪技術】開站姿 (Open Stance) 怎麼滑？Willie 教官拆解：為什麼前腳會變輕？🏔️ Snowboarding in PIPPU 比布滑雪 EP03"
-      url: https://www.youtube.com/watch?v=FEvR768yDUo
-      note: "大林滑雪男子"
-    - title: "🏂 【滑雪教學】日本八字刻滑vs紐西蘭流派？專家 Willie 揭秘如何真正「站在板子上」！🏔️ Snowboarding in PIPPU 比布滑雪 EP02"
-      url: https://www.youtube.com/watch?v=n7lGF-7sYEA
-      note: "大林滑雪男子"
-    - title: "🏂 Toe Side 總是卡住、轉不順？學會這招「麥可·傑克森（Michael Jackson）頂胯法」讓滑行瞬間變流暢！🏔️ Snowboarding in PIPPU 比布滑雪 EP01"
-      url: https://www.youtube.com/watch?v=9Fsv4M0jQRQ
-      note: "大林滑雪男子"
-    - title: "日本自駕滑雪Vlog ~北海道旭川周邊小雪場，比布滑雪場體驗"
-      url: https://www.youtube.com/watch?v=gS-q9_kizhw
-      note: "艾維斯52赫茲"
+  - title: 🏂【單板滑雪進階】為什麼你滑不流暢？Willie 老司機揭秘提升「滑行效率」與兩種核心換刃技巧！🏔️ Snowboarding in PIPPU 比布滑雪 EP05
+    url: https://www.youtube.com/watch?v=TWUY4p3OEMM
+    note: 大林滑雪男子
+  - title: 🏂 從開放站姿到道外亂雪：地形減壓換刃 🏔️ Snowboarding in PIPPU 比布滑雪 EP04
+    url: https://www.youtube.com/watch?v=vt0wtmrzKF4
+    note: 大林滑雪男子
+  - title: 🏂【滑雪技術】開站姿 (Open Stance) 怎麼滑？Willie 教官拆解：為什麼前腳會變輕？🏔️ Snowboarding in PIPPU 比布滑雪 EP03
+    url: https://www.youtube.com/watch?v=FEvR768yDUo
+    note: 大林滑雪男子
+  - title: 🏂 【滑雪教學】日本八字刻滑vs紐西蘭流派？專家 Willie 揭秘如何真正「站在板子上」！🏔️ Snowboarding in PIPPU 比布滑雪 EP02
+    url: https://www.youtube.com/watch?v=n7lGF-7sYEA
+    note: 大林滑雪男子
+  - title: 🏂 Toe Side 總是卡住、轉不順？學會這招「麥可·傑克森（Michael Jackson）頂胯法」讓滑行瞬間變流暢！🏔️ Snowboarding in PIPPU 比布滑雪 EP01
+    url: https://www.youtube.com/watch?v=9Fsv4M0jQRQ
+    note: 大林滑雪男子
+  - title: 日本自駕滑雪Vlog ~北海道旭川周邊小雪場，比布滑雪場體驗
+    url: https://www.youtube.com/watch?v=gS-q9_kizhw
+    note: 艾維斯52赫茲
 sources:
 - label: Pippu Ski Resort Official Website
   url: https://www.town.pippu.hokkaido.jp/ski/top.html

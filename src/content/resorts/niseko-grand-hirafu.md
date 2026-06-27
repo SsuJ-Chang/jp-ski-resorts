@@ -51,20 +51,32 @@ tickets:
   note: Niseko United All Mountain Pass 主要 1 日券摘要；多日券、點數券、線上限定 50 小時券與夜滑有效規則請以官方頁面為準。
   plans:
   - name: Peak Season 全山 1 日券
-    audience: 成人、4-12 歲、13-15 歲、65 歲以上
-    price: 成人 ¥13,500、4-12 歲 ¥8,100、13-15 歲 ¥11,500、65 歲以上 ¥11,500
+    priceLines:
+    - 成人 ¥13,500
+    - 4-12 歲 ¥8,100
+    - 13-15 歲 ¥11,500
+    - 65 歲以上 ¥11,500
     note: 2026/12/24-2027/2/28
   - name: Regular Season 全山 1 日券
-    audience: 成人、4-12 歲、13-15 歲、65 歲以上
-    price: 成人 ¥12,600、4-12 歲 ¥7,600、13-15 歲 ¥10,700、65 歲以上 ¥10,700
+    priceLines:
+    - 成人 ¥12,600
+    - 4-12 歲 ¥7,600
+    - 13-15 歲 ¥10,700
+    - 65 歲以上 ¥10,700
     note: 2026/12/12-12/23、2027/3/1-3/22
   - name: Early / Spring Season 全山 1 日券
-    audience: 成人、4-12 歲、13-15 歲、65 歲以上
-    price: 成人 ¥8,800、4-12 歲 ¥5,300、13-15 歲 ¥7,500、65 歲以上 ¥7,500
+    priceLines:
+    - 成人 ¥8,800
+    - 4-12 歲 ¥5,300
+    - 13-15 歲 ¥7,500
+    - 65 歲以上 ¥7,500
     note: 2026/11/28-12/11、2027/3/23-4/4
   - name: Final Season 全山 1 日券
-    audience: 成人、4-12 歲、13-15 歲、65 歲以上
-    price: 成人 ¥6,300、4-12 歲 ¥3,800、13-15 歲 ¥5,400、65 歲以上 ¥5,400
+    priceLines:
+    - 成人 ¥6,300
+    - 4-12 歲 ¥3,800
+    - 13-15 歲 ¥5,400
+    - 65 歲以上 ¥5,400
     note: 2027/4/5-5/5
 snowWeather:
   title: 二世谷 Grand Hirafu 雪況天氣
@@ -226,12 +238,12 @@ terrainSummary:
   powder: 高處黑線與 gate 外地形需遵守 Niseko Rules，並以官方開放狀態為準。
 externalContent:
   vlogs:
-    - title: "【日本北海道🇯🇵】EP4 新雪谷格蘭比羅夫滑雪場❄️｜商圈街道找燒肉🐧｜登山軒大胃王平價拉麵🍜｜二世古 NISEKO GRAND HIRAFU⛰️｜能見度差下雨起霧天☃️｜比羅夫滑雪 自由行 🗻"
-      url: https://www.youtube.com/watch?v=iEMbhcBWR0w
-      note: "和Ivy去旅行"
-    - title: "【日本北海道🇯🇵】EP2 新雪谷格蘭比羅夫滑雪場🗻｜看羊蹄山逛山雪道攻略⛰️｜Step on｜ 二世古 NISEKO GRAND HIRAFU ❄️｜帝王蟹火鍋🦀️｜北海道 滑雪 自由行⛩️"
-      url: https://www.youtube.com/watch?v=f9y-yngyp6M
-      note: "和Ivy去旅行"
+  - title: 【日本北海道🇯🇵】EP4 新雪谷格蘭比羅夫滑雪場❄️｜商圈街道找燒肉🐧｜登山軒大胃王平價拉麵🍜｜二世古 NISEKO GRAND HIRAFU⛰️｜能見度差下雨起霧天☃️｜比羅夫滑雪 自由行 🗻
+    url: https://www.youtube.com/watch?v=iEMbhcBWR0w
+    note: 和Ivy去旅行
+  - title: 【日本北海道🇯🇵】EP2 新雪谷格蘭比羅夫滑雪場🗻｜看羊蹄山逛山雪道攻略⛰️｜Step on｜ 二世古 NISEKO GRAND HIRAFU ❄️｜帝王蟹火鍋🦀️｜北海道 滑雪 自由行⛩️
+    url: https://www.youtube.com/watch?v=f9y-yngyp6M
+    note: 和Ivy去旅行
 sources:
 - label: Weathernews ニセコ東急 グラン・ヒラフ
   url: https://weathernews.jp/ski/spot/31605/

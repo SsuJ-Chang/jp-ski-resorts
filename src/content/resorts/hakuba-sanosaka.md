@@ -15,9 +15,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://sanosaka.jp/
-  facebook: "https://www.facebook.com/wrhsanosaka/"
-  instagram: "https://www.instagram.com/wrh_sanosaka/"
-  xTwitter: "https://x.com/wrh_sanosaka"
+  facebook: https://www.facebook.com/wrhsanosaka/
+  instagram: https://www.instagram.com/wrh_sanosaka/
+  xTwitter: https://x.com/wrh_sanosaka
   trailMapPage: https://sanosaka.jp/course/
   ticket: https://sanosaka.jp/lift/
   googleMaps: https://www.google.com/maps/search/?api=1&query=White%20Resort%20Hakuba%20Sanosaka
@@ -26,7 +26,7 @@ links:
 contact:
   address:
     zhTw: 長野縣北安曇郡白馬村神城 458
-    ja: "〒399-9211 長野県北安曇郡白馬村大字神城458"
+    ja: 〒399-9211 長野県北安曇郡白馬村大字神城458
     googleMaps: https://www.google.com/maps/search/?api=1&query=White%20Resort%20Hakuba%20Sanosaka
   phone: 0261-75-2452
 season:
@@ -48,14 +48,15 @@ tickets:
   source: https://sanosaka.jp/lift/
   plans:
   - name: 1 日券
-    audience: 成人、小學生
-    price: 成人 ¥5,400、小學生 ¥1,000
+    priceLines:
+    - 成人 ¥5,400
+    - 小學生 ¥1,000
   - name: 5 小時券
-    audience: 成人
-    price: "¥4,900"
+    priceLines:
+    - 成人：¥4,900
   - name: 3 小時券
-    audience: 成人
-    price: "¥4,200"
+    priceLines:
+    - 成人：¥4,200
   note: 成人為國中生以上；學齡前兒童免費，但仍需纜車券。小學生 1 日券有 A/B 兩種，B 含 Snow Friends Park 入場。
 snowWeather:
   title: 白馬佐野坂雪況天氣
@@ -84,22 +85,22 @@ courses:
     length: 1,500m
     maxSlope: 28°
     videoLinks:
-      - https://www.youtube.com/watch?v=z0gx096qXa0&t=250s
+    - https://www.youtube.com/watch?v=z0gx096qXa0&t=250s
     note: 森林包圍並可眺望湖景的路線，官方說明是能優雅滑行、適合留下照片的位置。
   - name: パラダイス・パラダイスダウンヒル / Paradise & Paradise Downhill
     difficulty: mixed
     length: 2,100m
     maxSlope: 18°
     videoLinks:
-      - https://www.youtube.com/watch?v=z0gx096qXa0&t=454s
-      - https://www.youtube.com/watch?v=z0gx096qXa0&t=534s
+    - https://www.youtube.com/watch?v=z0gx096qXa0&t=454s
+    - https://www.youtube.com/watch?v=z0gx096qXa0&t=534s
     note: 中級者與初學者可一起滑行的路線，也常作為 step up 練習與檢定バーン。後段 Paradise Downhill 為連續緩斜面，初學者可較穩定練習。
   - name: カービングゲレンデ / Carving Slope
     difficulty: mixed
     length: 700m
     maxSlope: 23°
     videoLinks:
-      - https://www.youtube.com/watch?v=z0gx096qXa0&t=759s
+    - https://www.youtube.com/watch?v=z0gx096qXa0&t=759s
     note: 官方說明此路線有適度寬度與坡度，聚集喜歡 carving 的滑行者，也以技術型雪板聖地聞名。
   - name: ニューパラダイス / New Paradise
     difficulty: advanced
@@ -109,22 +110,22 @@ courses:
   - name: 貸切トレーニングゲレンデ / Reserved Training Slope
     difficulty: advanced
     videoLinks:
-      - https://www.youtube.com/watch?v=z0gx096qXa0&t=676s
+    - https://www.youtube.com/watch?v=z0gx096qXa0&t=676s
     note: 位於 Carving Slope 旁的包場專用雪道，官方說明斜度更高，可集中練習 pole 與 carving，也曾用於品牌拍攝。
 lifts:
   total: 4
 access:
   fromTokyo:
-    - label: "東京出發經長野與白馬"
-      steps:
-        - "從東京搭北陸新幹線到長野站。"
-        - "從長野站轉乘白馬方向巴士，抵達白馬村內後銜接雪場接駁、Hakuba Valley 接駁或計程車。"
-      difficulty: "hard"
-      note: "公共交通最後一段需配合白馬村內住宿區接駁、Hakuba Valley 白馬至大町間接駁或計程車，建議先確認當季時刻與回程。"
+  - label: 東京出發經長野與白馬
+    steps:
+    - 從東京搭北陸新幹線到長野站。
+    - 從長野站轉乘白馬方向巴士，抵達白馬村內後銜接雪場接駁、Hakuba Valley 接駁或計程車。
+    difficulty: hard
+    note: 公共交通最後一段需配合白馬村內住宿區接駁、Hakuba Valley 白馬至大町間接駁或計程車，建議先確認當季時刻與回程。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從長野自動車道安曇野 IC 約 60 分、上信越自動車道長野 IC 約 60 分、北陸自動車道糸魚川 IC 約 70 分。降雪或路面結冰時必須使用雪胎，2WD 車輛需準備雪鏈。"
+    note: 從長野自動車道安曇野 IC 約 60 分、上信越自動車道長野 IC 約 60 分、北陸自動車道糸魚川 IC 約 70 分。降雪或路面結冰時必須使用雪胎，2WD 車輛需準備雪鏈。
 externalContent:
   blogs: []
   vlogs: []

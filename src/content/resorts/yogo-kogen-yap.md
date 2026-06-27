@@ -13,8 +13,8 @@ tags:
 - resort_village
 links:
   official: http://yogo45.co.jp/
-  facebook: "https://www.facebook.com/余呉高原リゾートyap-400631880707171/"
-  instagram: "https://www.instagram.com/yogokohgenresort_yap/"
+  facebook: https://www.facebook.com/余呉高原リゾートyap-400631880707171/
+  instagram: https://www.instagram.com/yogokohgenresort_yap/
   trailMapPage: http://yogo45.co.jp/gelande-map/
   weather: https://weathernews.jp/ski/spot/36002/
   googleMaps: https://maps.google.co.jp/maps?q=35.698266,136.158049
@@ -99,7 +99,7 @@ contact:
     zhTw: 滋賀縣長浜市余呉町中河内373
     ja: 〒529-0531 滋賀県長浜市余呉町中河内373
     googleMaps: https://maps.google.co.jp/maps?q=35.698266,136.158049
-  phone: "0749-86-3001"
+  phone: 0749-86-3001
 tickets:
   season: 2025-2026
   currency: JPY
@@ -107,17 +107,23 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券（平日）
-    price: 成人 ¥4,500 兒童 ¥2,500 樂齡 ¥4,000
+    priceLines:
+    - 成人 ¥4,500 兒童 ¥2,500 樂齡 ¥4,000
   - name: 1日券（週末及國定假日）
-    price: 成人 ¥5,200 兒童 ¥3,500 樂齡 ¥4,200
+    priceLines:
+    - 成人 ¥5,200 兒童 ¥3,500 樂齡 ¥4,200
   - name: 午後券（平日）
-    price: 成人 ¥3,500 兒童 ¥1,500 樂齡 ¥3,000
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥1,500 樂齡 ¥3,000
   - name: 午後券（週末及國定假日）
-    price: 成人 ¥4,200 兒童 ¥2,500 樂齡 ¥3,200
+    priceLines:
+    - 成人 ¥4,200 兒童 ¥2,500 樂齡 ¥3,200
   - name: 親子券(
-    price: 成人1日券＋兒童1日券）週末及國定假日 成人 ¥7,500
+    priceLines:
+    - 成人1日券＋兒童1日券）週末及國定假日 成人 ¥7,500
   - name: 夜滑券（17:30〜22:50）
-    price: 成人 ¥3,800 兒童 ¥2,600 樂齡 ¥3,300
+    priceLines:
+    - 成人 ¥3,800 兒童 ¥2,600 樂齡 ¥3,300
 elevation:
   top: 740
   bottom: 540
@@ -131,8 +137,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：北陸本線木之本駅下車 タクシー (30分) 車 ：小牧IC→名神道→北陸道木之本IC→R365で23km北上 (80分) 車 ：京都東IC→名神道→北陸道木之本IC→R365で23km北上
-      (90分) 1200台 平日 0円 假日 1000円
+    note: 交通資訊摘要：北陸本線木之本駅下車 タクシー (30分) 車 ：小牧IC→名神道→北陸道木之本IC→R365で23km北上 (80分) 車 ：京都東IC→名神道→北陸道木之本IC→R365で23km北上 (90分) 1200台 平日 0円 假日 1000円
 ---
 
 Yogo Kogen Resort YAP 位於滋賀縣，是中小型雪場，共有 6 條雪道，搭配 3 座纜車。代表路線包含 モンブラン、バレ・ブランシュ，初級、中級與上級路線都有配置，標籤偏向親子同行、夜滑。

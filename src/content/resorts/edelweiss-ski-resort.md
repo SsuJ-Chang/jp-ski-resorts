@@ -14,8 +14,8 @@ tags:
 - resort_village
 links:
   official: https://edelsnow.com/
-  facebook: "https://www.facebook.com/edelsnowjp/"
-  instagram: "https://www.instagram.com/edelweiss_ski/"
+  facebook: https://www.facebook.com/edelsnowjp/
+  instagram: https://www.instagram.com/edelweiss_ski/
   trailMapPage: https://edelsnow.com/information/coursemap.php
   weather: https://weathernews.jp/ski/spot/34105/
   googleMaps: https://maps.google.co.jp/maps?q=36.925096,139.748985
@@ -114,7 +114,7 @@ contact:
     zhTw: 栃木縣日光市川治温泉高原鶏頂山
     ja: 〒321-2612 栃木県日光市川治温泉高原鶏頂山
     googleMaps: https://maps.google.co.jp/maps?q=36.925096,139.748985
-  phone: "0288-78-0786"
+  phone: 0288-78-0786
 tickets:
   season: 2025-2026
   currency: JPY
@@ -122,15 +122,20 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 假日1日券
-    price: 成人 ¥6,000 兒童 ¥4,300 樂齡 ¥5,300
+    priceLines:
+    - 成人 ¥6,000 兒童 ¥4,300 樂齡 ¥5,300
   - name: 平日1日券
-    price: 成人 ¥3,500 兒童 ¥3,000 樂齡 ¥3,000
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥3,000 樂齡 ¥3,000
   - name: 假日半日券
-    price: 成人 ¥5,000 兒童 ¥3,400 樂齡 ¥4,600
+    priceLines:
+    - 成人 ¥5,000 兒童 ¥3,400 樂齡 ¥4,600
   - name: 平日半日券
-    price: 成人 ¥2,700 兒童 ¥2,700 樂齡 ¥2,700
-  - name: 2回券
-    price: 成人 ¥1,800 兒童 ¥1,800 樂齡 ¥1,800
+    priceLines:
+    - 成人 ¥2,700 兒童 ¥2,700 樂齡 ¥2,700
+  - name: 2 回券
+    priceLines:
+    - 成人 ¥1,800 兒童 ¥1,800 樂齡 ¥1,800
 elevation:
   top: 1480
   bottom: 1200
@@ -144,8 +149,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：東武鉄道鬼怒川線鬼怒川温泉駅、免費シャトルバス運行（週六、週日、國定假日） (40分) 車 ：浦和→今市IC→エーデルワイススキーリゾート (60分) 車 ：水戸市→西那須野塩原IC入口→エーデルワイススキーリゾート
-      (60分) 1500台 平日 免費 假日 免費
+    note: 交通資訊摘要：東武鉄道鬼怒川線鬼怒川温泉駅、免費シャトルバス運行（週六、週日、國定假日） (40分) 車 ：浦和→今市IC→エーデルワイススキーリゾート (60分) 車 ：水戸市→西那須野塩原IC入口→エーデルワイススキーリゾート (60分) 1500台 平日 免費 假日 免費
 ---
 
 Edelweiss Ski Resort位於栃木縣，重點不在刺激挑戰，而是讓同行者用舒服節奏熟悉雪地活動。住宿、餐飲與滑行動線集中，停留感比單日滑雪更完整；適合不想每天移動太多，想用度假節奏滑雪的人。也適合把雪地遊玩、練習與休息時間安排得更從容。

@@ -12,9 +12,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://k-hotaka.jp/ogna/
-  facebook: "https://www.facebook.com/ognahotaka"
-  instagram: "https://www.instagram.com/ognahotaka/"
-  xTwitter: "https://x.com/ognahotaka"
+  facebook: https://www.facebook.com/ognahotaka
+  instagram: https://www.instagram.com/ognahotaka/
+  xTwitter: https://x.com/ognahotaka
   trailMapPage: https://k-hotaka.jp/ogna/slope-guide/
   weather: https://weathernews.jp/ski/spot/34215/
   googleMaps: https://maps.google.co.jp/maps?q=36.780851,139.167726
@@ -142,25 +142,31 @@ contact:
     zhTw: 群馬縣利根郡片品村大字花咲字武尊山
     ja: 〒378-0408 群馬県利根郡片品村大字花咲字武尊山
     googleMaps: https://maps.google.co.jp/maps?q=36.780851,139.167726
-  phone: "0278-58-2133"
+  phone: 0278-58-2133
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34215/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥5,600 兒童 ¥4,400 樂齡 ¥5,000
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥5,600 兒童 ¥4,400 樂齡 ¥5,000
   - name: 5時間
-    price: 成人 ¥5,100 兒童 ¥3,900 樂齡 ¥4,600
-  - name: 4回券
-    price: 成人 ¥2,500 兒童 ¥2,000 樂齡 ¥2,500
-  - name: シーズン券
-    price: 成人 ¥54,000 兒童 ¥34,000 樂齡 ¥44,000
+    priceLines:
+    - 成人 ¥5,100 兒童 ¥3,900 樂齡 ¥4,600
+  - name: 4 回券
+    priceLines:
+    - 成人 ¥2,500 兒童 ¥2,000 樂齡 ¥2,500
+  - name: 季票
+    priceLines:
+    - 成人 ¥54,000 兒童 ¥34,000 樂齡 ¥44,000
   - name: 1日券平日
-    price: 成人 ¥5,300 兒童 ¥4,100 樂齡 ¥4,700
+    priceLines:
+    - 成人 ¥5,300 兒童 ¥4,100 樂齡 ¥4,700
   - name: 初滑り情報 開放日限定で、1日券が特別価格にて販売いたします。特別価格：¥3,500
-    price: 請見官方公告
+    priceLines:
+    - 請見官方公告
 elevation:
   top: 1828
   bottom: 1200
@@ -174,8 +180,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：上越線沼田駅下車、タクシー (60分) 電車 ：上越新幹線上毛高原駅下車、タクシー (60分) 車 ：沼田IC (45分) 車 ：練馬IC→沼田IC経由 (120分) 800台 平日 免費
-      假日 免費
+    note: 交通資訊摘要：上越線沼田駅下車、タクシー (60分) 電車 ：上越新幹線上毛高原駅下車、タクシー (60分) 車 ：沼田IC (45分) 車 ：練馬IC→沼田IC経由 (120分) 800台 平日 免費 假日 免費
 ---
 
 Ogna 武尊是群馬縣的中型雪場，整理為13 條雪道，搭配 6 座纜車。雪道如 第1ゲレンデ、ロマンス連絡コース、ロマンスコース，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

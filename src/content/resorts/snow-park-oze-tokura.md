@@ -13,8 +13,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.ozetokura.co.jp/
-  facebook: "https://www.facebook.com/snowparkOzeTokura/"
-  instagram: "https://www.instagram.com/ozetokura/"
+  facebook: https://www.facebook.com/snowparkOzeTokura/
+  instagram: https://www.instagram.com/ozetokura/
   trailMapPage: https://www.ozetokura.co.jp/pages/cource
   weather: https://weathernews.jp/ski/spot/34208/
   googleMaps: https://maps.google.co.jp/maps?q=36.851100,139.238800
@@ -99,7 +99,7 @@ contact:
     zhTw: 群馬縣利根郡片品村戸倉329
     ja: 〒378-0411 群馬県利根郡片品村戸倉329
     googleMaps: https://maps.google.co.jp/maps?q=36.851100,139.238800
-  phone: "0278-58-7511"
+  phone: 0278-58-7511
 tickets:
   season: 2025-2026
   currency: JPY
@@ -107,17 +107,23 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券(週六、週日、國定假日)
-    price: 成人 ¥4,900 兒童 ¥3,500 樂齡 ¥4,300
+    priceLines:
+    - 成人 ¥4,900 兒童 ¥3,500 樂齡 ¥4,300
   - name: 1日券(平日)
-    price: 成人 ¥4,300 兒童 ¥3,500 樂齡 ¥3,800
+    priceLines:
+    - 成人 ¥4,300 兒童 ¥3,500 樂齡 ¥3,800
   - name: 午前券(週六、週日、國定假日)
-    price: 成人 ¥4,200 兒童 ¥2,800
+    priceLines:
+    - 成人 ¥4,200 兒童 ¥2,800
   - name: 午後券(週六、週日、國定假日)
-    price: 成人 ¥4,200 兒童 ¥2,800
+    priceLines:
+    - 成人 ¥4,200 兒童 ¥2,800
   - name: 2日券(週六、週日、國定假日)
-    price: 成人 ¥8,800
-  - name: 1回券
-    price: 成人 ¥700 兒童 ¥500
+    priceLines:
+    - 成人 ¥8,800
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥700 兒童 ¥500
 elevation:
   top: 1420
   bottom: 1080

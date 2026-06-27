@@ -22,7 +22,7 @@ links:
 contact:
   address:
     zhTw: 鳥取縣日野郡江府町御机 709-1 休暇村奧大山
-    ja: "〒689-4424 鳥取県日野郡江府町御机709-1 休暇村奥大山"
+    ja: 〒689-4424 鳥取県日野郡江府町御机709-1 休暇村奥大山
     googleMaps: https://www.google.com/maps/search/?api=1&query=Kagamiganaru%20Ski%20Area
   phone: 0859-75-2300
 season:
@@ -44,21 +44,24 @@ tickets:
   note: 官方 2025-2026 主要票種摘要；學齡前兒童免費，租借與住宿者票價請以官方頁面為準。
   plans:
   - name: 1 日券（週末假日）
-    audience: 成人、兒童
-    price: 成人 ¥4,000、兒童 ¥3,000
+    priceLines:
+    - 成人 ¥4,000
+    - 兒童 ¥3,000
   - name: 平日 free 票
-    audience: 成人、兒童
-    price: 成人 ¥3,000、兒童 ¥2,500
+    priceLines:
+    - 成人 ¥3,000
+    - 兒童 ¥2,500
   - name: AM / PM 券
-    audience: 成人、兒童
-    price: 成人 ¥2,500、兒童 ¥2,000
+    priceLines:
+    - 成人 ¥2,500
+    - 兒童 ¥2,000
     note: AM 9:00-13:00，PM 12:00-16:30
   - name: 12 回券
-    audience: 全年齡
-    price: ¥4,000
+    priceLines:
+    - 全年齡：¥4,000
   - name: 1 回券
-    audience: 全年齡
-    price: ¥400
+    priceLines:
+    - 全年齡：¥400
 snowWeather:
   title: 鏡ヶ成雪況天氣
   provider: Weathernews

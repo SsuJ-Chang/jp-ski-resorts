@@ -1,90 +1,112 @@
 ---
-id: "moya-hills"
+id: moya-hills
 name:
-  zhTw: "Link Station Hills 雲谷（Moya Hills）"
-  ja: "リンクステーションヒルズ雲谷(モヤヒルズ)"
-  en: "Link Station Hills Moya (Moya Hills)"
-region: "tohoku"
-prefecture: "青森縣"
+  zhTw: Link Station Hills 雲谷（Moya Hills）
+  ja: リンクステーションヒルズ雲谷(モヤヒルズ)
+  en: Link Station Hills Moya (Moya Hills)
+region: tohoku
+prefecture: 青森縣
 tags:
-  - "night_skiing"
-  - "snowboard_friendly"
+- night_skiing
+- snowboard_friendly
 visibility:
-  status: "published"
-  note: "青森縣雪場清單補新增的靜態初版；以官方網站與公開雪場資料整理。"
+  status: published
+  note: 青森縣雪場清單補新增的靜態初版；以官方網站與公開雪場資料整理。
 links:
-  official: "https://www.moyahills.jp/"
-  facebook: "https://www.facebook.com/moyahills"
-  instagram: "https://www.instagram.com/moyahills_hillsclub/"
-  trailMapPage: "https://www.moyahills.jp/winter/winter.html"
-  ticket: "https://www.moyahills.jp/winter/lift.html"
-  weather: "https://weathernews.jp/ski/spot/33102/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=Moya%20Hills%20Aomori"
+  official: https://www.moyahills.jp/
+  facebook: https://www.facebook.com/moyahills
+  instagram: https://www.instagram.com/moyahills_hillsclub/
+  trailMapPage: https://www.moyahills.jp/winter/winter.html
+  ticket: https://www.moyahills.jp/winter/lift.html
+  weather: https://weathernews.jp/ski/spot/33102/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=Moya%20Hills%20Aomori
 contact:
   address:
-    zhTw: "日本青森縣青森市雲谷字梨野木 63"
-    ja: "〒030-0133 青森県青森市雲谷字梨野木63"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=Moya%20Hills%20Aomori"
-  phone: "017-764-1110"
+    zhTw: 日本青森縣青森市雲谷字梨野木 63
+    ja: 〒030-0133 青森県青森市雲谷字梨野木63
+    googleMaps: https://www.google.com/maps/search/?api=1&query=Moya%20Hills%20Aomori
+  phone: 017-764-1110
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/30-2026/03/31"
-  hours: "9:00-21:00"
-  nightSkiingHours: "16:30-21:00"
-  note: "營業期間與時間為公開雪場資料；實際開放日、夜滑與營業範圍請以官方最新公告為準。"
-  source: "https://weathernews.jp/ski/spot/33102/"
+  label: 2025-2026
+  operatingPeriod: 2025/12/30-2026/03/31
+  hours: 9:00-21:00
+  nightSkiingHours: 16:30-21:00
+  note: 營業期間與時間為公開雪場資料；實際開放日、夜滑與營業範圍請以官方最新公告為準。
+  source: https://weathernews.jp/ski/spot/33102/
 trailMaps:
-  - label: "Moya Hills winter trail map"
-    language: "ja"
-    season: "winter"
-    url: "https://www.moyahills.jp/_src/93046306/20231214130801-0001.jpg?v=1769512766246"
-    sourceLabel: "Moya Hills Winter"
+- label: Moya Hills winter trail map
+  language: ja
+  season: winter
+  url: https://www.moyahills.jp/_src/93046306/20231214130801-0001.jpg?v=1769512766246
+  sourceLabel: Moya Hills Winter
 tickets:
-  season: "2025-2026"
-  currency: "JPY"
-  source: "https://www.moyahills.jp/winter/lift.html"
-  note: "成人為國中生以上，兒童為小學生以下，高齡為滿 60 歲以上，身障為持有身障手冊者。通常料金適用週末、國定假日與 12/22-1/5，春滑割引為 3/2 起至雪季結束。"
+  season: 2025-2026
+  currency: JPY
+  source: https://www.moyahills.jp/winter/lift.html
+  note: 成人為國中生以上，兒童為小學生以下，高齡為 60 歲以上，身障為持有身障手冊者。通常價適用週末、國定假日與 12/22 - 1/5，春滑價適用 3/2 起。
   plans:
-    - name: "1 日券"
-      audience: "成人 / 兒童・高齡・身障"
-      price: "平日：成人 ¥2,550、兒童・高齡・身障 ¥2,040｜通常：成人 ¥3,060、兒童・高齡・身障 ¥2,550｜春滑：成人 ¥2,040、兒童・高齡・身障 ¥1,530"
-    - name: "上午券"
-      audience: "成人 / 兒童・高齡・身障"
-      price: "平日：成人 ¥1,840、兒童・高齡・身障 ¥1,330｜通常：成人 ¥2,040、兒童・高齡・身障 ¥1,530｜春滑：成人 ¥1,530、兒童・高齡・身障 ¥1,020"
-    - name: "下午券"
-      audience: "成人 / 兒童・高齡・身障"
-      price: "平日：成人 ¥1,840、兒童・高齡・身障 ¥1,330｜通常：成人 ¥2,040、兒童・高齡・身障 ¥1,530｜春滑：成人 ¥1,530、兒童・高齡・身障 ¥1,020"
-    - name: "夜滑券"
-      audience: "成人 / 兒童・高齡・身障"
-      price: "平日：成人 ¥1,840、兒童・高齡・身障 ¥1,330｜通常：成人 ¥2,040、兒童・高齡・身障 ¥1,530｜春滑：成人 ¥1,530、兒童・高齡・身障 ¥1,020"
-    - name: "回數券（一般纜車，ロープトウ可用）"
-      audience: "成人 / 兒童・高齡・身障"
-      price: "1 回券：成人 ¥260、兒童・高齡・身障 ¥210｜7 枚券：成人 ¥1,670、兒童・高齡・身障 ¥1,260"
-      note: "回數券僅當季有效，不可跨季使用或退費。"
-    - name: "回數券（ロープトウ 專用）"
-      audience: "成人 / 兒童・高齡・身障"
-      price: "1 回券：成人 ¥110、兒童・高齡・身障 ¥110｜7 枚券：成人 ¥660、兒童・高齡・身障 ¥550"
-      note: "1 日券與半日券也可使用ロープトウ。"
-    - name: "季票（成人記名）"
-      audience: "成人"
-      price: "10 月 ¥28,520｜11 月 ¥29,540｜12 月 ¥30,560｜1 月以後 ¥35,650"
-    - name: "季票（無記名，含法人）"
-      audience: "共通"
-      price: "10 月 ¥35,650｜11 月 ¥35,650｜12 月 ¥35,650｜1 月以後 ¥40,750"
-    - name: "季票（Junior 記名）"
-      audience: "小學生以下"
-      price: "10 月 ¥21,390｜11 月 ¥22,410｜12 月 ¥23,430｜1 月以後 ¥28,520"
-    - name: "季票（身障・Silver 記名）"
-      audience: "身障 / 60 歲以上"
-      price: "10 月 ¥23,430｜11 月 ¥24,450｜12 月 ¥25,470｜1 月以後 ¥30,560"
+  - name: 1 日券
+    priceLines:
+    - 平日：成人 ¥2,550、兒童・高齡・身障 ¥2,040
+    - 通常：成人 ¥3,060、兒童・高齡・身障 ¥2,550
+    - 春滑：成人 ¥2,040、兒童・高齡・身障 ¥1,530
+  - name: 上午券
+    priceLines:
+    - 平日：成人 ¥1,840、兒童・高齡・身障 ¥1,330
+    - 通常：成人 ¥2,040、兒童・高齡・身障 ¥1,530
+    - 春滑：成人 ¥1,530、兒童・高齡・身障 ¥1,020
+  - name: 下午券
+    priceLines:
+    - 平日：成人 ¥1,840、兒童・高齡・身障 ¥1,330
+    - 通常：成人 ¥2,040、兒童・高齡・身障 ¥1,530
+    - 春滑：成人 ¥1,530、兒童・高齡・身障 ¥1,020
+  - name: 夜滑券
+    priceLines:
+    - 平日：成人 ¥1,840、兒童・高齡・身障 ¥1,330
+    - 通常：成人 ¥2,040、兒童・高齡・身障 ¥1,530
+    - 春滑：成人 ¥1,530、兒童・高齡・身障 ¥1,020
+  - name: 回數券（一般纜車 / ロープトウ可用）
+    priceLines:
+    - 1 回券：成人 ¥260、兒童・高齡・身障 ¥210
+    - 7 枚券：成人 ¥1,670、兒童・高齡・身障 ¥1,260
+    note: 回數券僅當季有效，不可跨季使用或退費。
+  - name: 回數券（ロープトウ專用）
+    priceLines:
+    - 1 回券：成人 ¥110、兒童・高齡・身障 ¥110
+    - 7 枚券：成人 ¥660、兒童・高齡・身障 ¥550
+    note: 1 日券與半日券也可使用ロープトウ。
+  - name: 季票（成人記名）
+    priceLines:
+    - 10 月：¥28,520
+    - 11 月：¥29,540
+    - 12 月：¥30,560
+    - 1 月以後：¥35,650
+  - name: 季票（無記名 / 法人）
+    priceLines:
+    - 10 月：¥35,650
+    - 11 月：¥35,650
+    - 12 月：¥35,650
+    - 1 月以後：¥40,750
+  - name: 季票（Junior 記名）
+    priceLines:
+    - 10 月：¥21,390
+    - 11 月：¥22,410
+    - 12 月：¥23,430
+    - 1 月以後：¥28,520
+  - name: 季票（身障 / Silver 記名）
+    priceLines:
+    - 10 月：¥23,430
+    - 11 月：¥24,450
+    - 12 月：¥25,470
+    - 1 月以後：¥30,560
 snowWeather:
-  title: "Moya Hills 雪況天氣"
-  provider: "Weathernews"
-  url: "https://weathernews.jp/ski/spot/33102/"
+  title: Moya Hills 雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/33102/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
-  note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
+  note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
   latitude: 40.737004
   longitude: 140.793881
@@ -97,68 +119,68 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
-  courseInfoPage: "https://www.moyahills.jp/winter/winter.html"
-  summary: "Moya Hills 共有 6 條雪道，最大滑走距離 1,800m、全場最大斜度約 31°；初級 30%、中級 40%、進階 30%，並設有夜滑區域。"
+  courseInfoPage: https://www.moyahills.jp/winter/winter.html
+  summary: Moya Hills 共有 6 條雪道，最大滑走距離 1,800m、全場最大斜度約 31°；初級 30%、中級 40%、進階 30%，並設有夜滑區域。
   details:
-    - name: カランツゲレンデ
-      difficulty: beginner
-      note: 位於山麓的初學者緩坡，作為家庭雪道使用，旁邊也設有雪橇區；官方說明也建議初學者 snowboard 先在這裡練習。
-    - name: コスモスゲレンデ
-      difficulty: beginner
-      note: 可由コスモスクワッドリフト進入，官方說明為緩和坡度展開的初級到中級取向雪道，並標示有夜滑營業。
-    - name: トンケイコース
-      difficulty: intermediate
-      length: 1,800m
-      note: 從山頂往西側迂迴的 1.8km 長距離路線；路寬較窄，難度屬初級到中級取向。
-    - name: ワラビゲレンデ
-      difficulty: intermediate
-      note: 可由コスモスクワッドリフト與オダマキリフト進入，山頂附近坡度稍陡，中段以下轉為緩坡；官方標示為中級到上級取向，並有夜滑營業。
-    - name: オダマキゲレンデ
-      difficulty: intermediate
-      note: 寬度較大的中級到上級取向雪道，官方說明也會用於 slalom 大會與各種檢定。
-    - name: カタクリゲレンデ
-      difficulty: advanced
-      note: 位於雪場東側的非壓雪上級雪道，可從山頂滑下急斜面；官方雪道圖也將其標示為上級路線。
+  - name: カランツゲレンデ
+    difficulty: beginner
+    note: 位於山麓的初學者緩坡，作為家庭雪道使用，旁邊也設有雪橇區；官方說明也建議初學者 snowboard 先在這裡練習。
+  - name: コスモスゲレンデ
+    difficulty: beginner
+    note: 可由コスモスクワッドリフト進入，官方說明為緩和坡度展開的初級到中級取向雪道，並標示有夜滑營業。
+  - name: トンケイコース
+    difficulty: intermediate
+    length: 1,800m
+    note: 從山頂往西側迂迴的 1.8km 長距離路線；路寬較窄，難度屬初級到中級取向。
+  - name: ワラビゲレンデ
+    difficulty: intermediate
+    note: 可由コスモスクワッドリフト與オダマキリフト進入，山頂附近坡度稍陡，中段以下轉為緩坡；官方標示為中級到上級取向，並有夜滑營業。
+  - name: オダマキゲレンデ
+    difficulty: intermediate
+    note: 寬度較大的中級到上級取向雪道，官方說明也會用於 slalom 大會與各種檢定。
+  - name: カタクリゲレンデ
+    difficulty: advanced
+    note: 位於雪場東側的非壓雪上級雪道，可從山頂滑下急斜面；官方雪道圖也將其標示為上級路線。
 lifts:
   total: 4
 access:
   fromTokyo:
-    - label: "東京出發經青森"
-      steps:
-        - "從東京搭東北、北海道新幹線到新青森站，轉往青森站。"
-        - "從青森站搭巴士前往 Moya Hills。"
-      estimatedTime: "青森站後約 40 分"
-      difficulty: "medium"
-      note: "青森站出發的巴士班次需以當季時刻為準；夜滑回程需特別確認末班車或改用計程車。"
+  - label: 東京出發經青森
+    steps:
+    - 從東京搭東北、北海道新幹線到新青森站，轉往青森站。
+    - 從青森站搭巴士前往 Moya Hills。
+    estimatedTime: 青森站後約 40 分
+    difficulty: medium
+    note: 青森站出發的巴士班次需以當季時刻為準；夜滑回程需特別確認末班車或改用計程車。
   car:
     recommended: true
     snowTireRequired: true
-    note: "自駕從青森中央 IC 約 8km、約 30 分。停車場約 800 台，平日與假日免費；冬季需準備雪胎或雪鏈。"
+    note: 自駕從青森中央 IC 約 8km、約 30 分。停車場約 800 台，平日與假日免費；冬季需準備雪胎或雪鏈。
 terrainSummary:
-  beginner: "山麓的カランツ與コスモス一帶以緩坡為主，適合初學者、家庭與短時間練習。"
-  intermediate: "トンケイ、ワラビ與オダマキ提供較長滑行、較窄路幅與中段坡度變化，是雪場主要中級區。"
-  advanced: "カタクリ為東側非壓雪上級雪道，ワラビ與オダマキ上部也有較進階的坡面變化。"
-  snowboard: "snowboard 可滑行，官方資料也將カランツ列為初學者 snowboard 練習區之一。"
+  beginner: 山麓的カランツ與コスモス一帶以緩坡為主，適合初學者、家庭與短時間練習。
+  intermediate: トンケイ、ワラビ與オダマキ提供較長滑行、較窄路幅與中段坡度變化，是雪場主要中級區。
+  advanced: カタクリ為東側非壓雪上級雪道，ワラビ與オダマキ上部也有較進階的坡面變化。
+  snowboard: snowboard 可滑行，官方資料也將カランツ列為初學者 snowboard 練習區之一。
 externalContent:
   blogs: []
   vlogs:
-    - title: "青森市街地すぐ近くなのに新雪穴場！？◆リンクステーション ヒルズ雲谷（モヤヒルズ）【 Slope Report at Hills MOYA】"
-      url: https://www.youtube.com/watch?v=H6Sl2F1jT2k
-      note: "えすぺゆき【生息条件は冠雪山】令和のゲレンデ"
+  - title: 青森市街地すぐ近くなのに新雪穴場！？◆リンクステーション ヒルズ雲谷（モヤヒルズ）【 Slope Report at Hills MOYA】
+    url: https://www.youtube.com/watch?v=H6Sl2F1jT2k
+    note: えすぺゆき【生息条件は冠雪山】令和のゲレンデ
 sources:
-  - label: "Moya Hills Official Website"
-    url: "https://www.moyahills.jp/"
-  - label: "Moya Hills Winter Course Data"
-    url: "https://www.moyahills.jp/winter/winter.html"
-    note: "官方冬季頁面提供 6 條雪道名稱、雪道圖、最大滑走距離、各雪道特色與 4 座纜車資料。"
-  - label: "SnowJapan Link Station Hills Moya"
-    url: "https://www.snowjapan.com/japan-ski-resorts/aomori/aomori/moya-hills"
-    note: "提供標高、最長滑走距離、最大斜度、難度比例與纜車類型等彙整資料。"
-  - label: "Moya Hills Lift Fees"
-    url: "https://www.moyahills.jp/winter/lift.html"
-    note: "官方リフト料金頁提供 2025 シーズン日券、上午券、下午券、夜滑券、回數券、季票與適用客群說明。"
-  - label: "Weathernews リンクステーションヒルズ雲谷(モヤヒルズ)"
-    url: "https://weathernews.jp/ski/spot/33102/"
+- label: Moya Hills Official Website
+  url: https://www.moyahills.jp/
+- label: Moya Hills Winter Course Data
+  url: https://www.moyahills.jp/winter/winter.html
+  note: 官方冬季頁面提供 6 條雪道名稱、雪道圖、最大滑走距離、各雪道特色與 4 座纜車資料。
+- label: SnowJapan Link Station Hills Moya
+  url: https://www.snowjapan.com/japan-ski-resorts/aomori/aomori/moya-hills
+  note: 提供標高、最長滑走距離、最大斜度、難度比例與纜車類型等彙整資料。
+- label: Moya Hills Lift Fees
+  url: https://www.moyahills.jp/winter/lift.html
+  note: 官方リフト料金頁提供 2025 シーズン日券、上午券、下午券、夜滑券、回數券、季票與適用客群說明。
+- label: Weathernews リンクステーションヒルズ雲谷(モヤヒルズ)
+  url: https://weathernews.jp/ski/spot/33102/
 ---
 
 Link Station Hills 雲谷（Moya Hills）在青森縣提供6 條雪道，搭配 4 座纜車。路線包含 カランツゲレンデ、コスモスゲレンデ、トンケイコース，整體初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。

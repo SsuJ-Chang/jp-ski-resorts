@@ -12,8 +12,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.ombara-kogen.com/ski/
-  instagram: "https://www.instagram.com/ombara.ski/"
-  xTwitter: "https://twitter.com/ombarakogen/"
+  instagram: https://www.instagram.com/ombara.ski/
+  xTwitter: https://twitter.com/ombarakogen/
   trailMapPage: https://www.ombara-kogen.com/ski/gelande/
   weather: https://weathernews.jp/ski/spot/36602/
   googleMaps: https://maps.google.co.jp/maps?q=35.312700,133.980931
@@ -102,25 +102,31 @@ contact:
     zhTw: 岡山縣苫田郡鏡野町上齋原2037
     ja: 〒708-0601 岡山県苫田郡鏡野町上齋原2037
     googleMaps: https://maps.google.co.jp/maps?q=35.312700,133.980931
-  phone: "0868-44-2808"
+  phone: 0868-44-2808
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36602/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥4,500 兒童 ¥3,000
-  - name: 午前券
-    price: 成人 ¥3,000
-  - name: 午後券
-    price: 成人 ¥3,000 兒童 ¥2,000
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,500 兒童 ¥3,000
+  - name: 上午券
+    priceLines:
+    - 成人 ¥3,000
+  - name: 下午券
+    priceLines:
+    - 成人 ¥3,000 兒童 ¥2,000
   - name: 票券
-    price: 樂齡1日券（週日國定假日除外） 樂齡 ¥3,500
-  - name: 回数券（11回）
-    price: 成人 ¥3,000
-  - name: 1回券
-    price: 成人 ¥300
+    priceLines:
+    - 樂齡1日券（週日國定假日除外） 樂齡 ¥3,500
+  - name: 回數券（11回）
+    priceLines:
+    - 成人 ¥3,000
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥300
 elevation:
   top: 900
   bottom: 700

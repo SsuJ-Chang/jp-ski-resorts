@@ -11,8 +11,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.biwako-valley.com/winter/
-  instagram: "https://www.instagram.com/biwakovalley_biwakoterrace/"
-  xTwitter: "https://x.com/biwako801"
+  instagram: https://www.instagram.com/biwakovalley_biwakoterrace/
+  xTwitter: https://x.com/biwako801
   trailMapPage: https://www.biwako-valley.com/winter/
   weather: https://weathernews.jp/ski/spot/36001/
   googleMaps: https://maps.google.co.jp/maps?q=35.203059,135.907574
@@ -86,17 +86,19 @@ contact:
     zhTw: 滋賀縣大津市木戸1547-1
     ja: 〒520-0514 滋賀県大津市木戸1547-1
     googleMaps: https://maps.google.co.jp/maps?q=35.203059,135.907574
-  phone: "077-592-1155"
+  phone: 077-592-1155
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36001/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1回券
-    price: 請見官方公告
+  - name: 1 回券
+    priceLines:
+    - 請見官方公告
   - name: 初滑り情報 詳しくは公式ウェブサイトを確認ください
-    price: 請見官方公告
+    priceLines:
+    - 請見官方公告
 elevation:
   top: 1174
   bottom: 950

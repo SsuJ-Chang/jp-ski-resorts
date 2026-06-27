@@ -15,8 +15,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.princehotels.co.jp/ski/myoko/winter/
-  facebook: "https://www.facebook.com/suginohara.fans/"
-  instagram: "https://www.instagram.com/suginohara_official/"
+  facebook: https://www.facebook.com/suginohara.fans/
+  instagram: https://www.instagram.com/suginohara_official/
   trailMapPage: https://www.princehotels.co.jp/ski/myoko/winter/coursemap/
   ticket: https://www.princehotels.co.jp/ski/myoko/winter/lift/
   access: https://www.princehotels.co.jp/ski/myoko/winter/access/
@@ -47,16 +47,19 @@ tickets:
   note: 主要一般票種摘要；小學生以下免費、長者為 55 歲以上，會員與早鳥等優惠請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、長者、國中生、高中生
-    price: 成人 ¥8,000、長者與國高中生 ¥7,400
+    priceLines:
+    - 成人 ¥8,000
+    - 長者與國高中生 ¥7,400
     note: 8:30-16:00
   - name: 4 小時券
-    audience: 成人、長者、國中生、高中生
-    price: 成人 ¥7,200、長者與國高中生 ¥6,700
+    priceLines:
+    - 成人 ¥7,200
+    - 長者與國高中生 ¥6,700
     note: 自購票起連續 4 小時有效
   - name: 2 日券
-    audience: 成人、長者、國中生、高中生
-    price: 成人 ¥15,000、長者與國高中生 ¥13,800
+    priceLines:
+    - 成人 ¥15,000
+    - 長者與國高中生 ¥13,800
 snowWeather:
   title: 杉之原雪況天氣
   provider: Weathernews
@@ -87,9 +90,9 @@ courses:
     averageSlope: 8°
     note: 官方列為初級路線；官方資料並列出全長 740m、最大坡度 15°、平均坡度 8°。
     videoLinks:
-      - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=246s
-      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=116s
-      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=880s
+    - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=246s
+    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=116s
+    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=880s
   - name: 連絡コース / Connection Course
     difficulty: beginner
     length: 1,250m
@@ -102,9 +105,9 @@ courses:
     maxSlope: 17°
     averageSlope: 11°
     videoLinks:
-      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1609s
-      - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=484s
-      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=880s
+    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1609s
+    - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=484s
+    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=880s
     note: 官方列為初級路線；官方資料並列出全長 1,400m、最大坡度 17°、平均坡度 11°。
   - name: くるみヶ丘ゲレンデ / Kurumigaoka Slope
     difficulty: beginner
@@ -124,8 +127,8 @@ courses:
     maxSlope: 17°
     averageSlope: 12°
     videoLinks:
-      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1368s
-      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=2312s
+    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1368s
+    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=2312s
     note: 官方列為初級路線；官方資料並列出全長 450m、最大坡度 17°、平均坡度 12°。
   - name: 天狗おとし A / Tenguotoshi A
     difficulty: intermediate
@@ -139,9 +142,9 @@ courses:
     maxSlope: 20°
     averageSlope: 13°
     videoLinks:
-      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=893s
-      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=994s
-      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=1680s
+    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=893s
+    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=994s
+    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=1680s
     note: 官方列為中級雪道；官方資料並列出全長 1,450m、最大坡度 20°、平均坡度 13°。
   - name: ダウンヒル連絡コース / Downhill Connection Course
     difficulty: intermediate
@@ -155,9 +158,9 @@ courses:
     maxSlope: 18°
     averageSlope: 10°
     videoLinks:
-      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=334s
-      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=371s
-      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=116s
+    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=334s
+    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=371s
+    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=116s
     note: 官方列為中級路線；官方資料並列出全長 1,250m、最大坡度 18°、平均坡度 10°。
   - name: ジャイアントコース / Giant Course
     difficulty: intermediate
@@ -165,8 +168,8 @@ courses:
     maxSlope: 18°
     averageSlope: 14°
     videoLinks:
-      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1546s
-      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=2312s
+    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1546s
+    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=2312s
     note: 官方列為中級路線；官方資料並列出全長 900m、最大坡度 18°、平均坡度 14°。
   - name: 杉ノ原連絡コース / Suginohara Connection Course
     difficulty: intermediate
@@ -174,9 +177,9 @@ courses:
     maxSlope: 18°
     averageSlope: 14°
     videoLinks:
-      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=777s
-      - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=437s
-      - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=880s
+    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=777s
+    - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=437s
+    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=880s
     note: 官方列為中級連絡路線；官方資料並列出全長 450m、最大坡度 18°、平均坡度 14°。
   - name: 杉ノ原ゾーン / Suginohara Zone
     difficulty: intermediate
@@ -190,7 +193,7 @@ courses:
     maxSlope: 38°
     averageSlope: 16°
     videoLinks:
-      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=31s
+    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=31s
     note: 官方列為上級路線；官方資料並列出全長 1,000m、最大坡度 38°、平均坡度 16°。
   - name: ダウンヒルコース / Downhill Course
     difficulty: advanced
@@ -198,7 +201,7 @@ courses:
     maxSlope: 23°
     averageSlope: 14°
     videoLinks:
-      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1247s
+    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1247s
     note: 官方列為上級路線；官方資料並列出全長 1,100m、最大坡度 23°、平均坡度 14°。
   - name: スーパーモーグルコース / Super Mogul Course
     difficulty: advanced
@@ -206,7 +209,7 @@ courses:
     maxSlope: 32°
     averageSlope: 25°
     videoLinks:
-      - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=521s
+    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=521s
     note: 官方列為上級路線；官方資料並列出全長 500m、最大坡度 32°、平均坡度 25°。
 lifts:
   total: 4
@@ -234,9 +237,9 @@ terrainSummary:
   powder: 高海拔與上級路線在新雪後較有粉雪行程彈性，開放情況請以官方雪況為準。
 externalContent:
   blogs:
-    - title: "妙高衫之原滑雪場｜居酒屋民宿-富士美莊住宿心得"
-      url: https://natasha-traveler.tw/myoko-fujimiso/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: 妙高衫之原滑雪場｜居酒屋民宿-富士美莊住宿心得
+    url: https://natasha-traveler.tw/myoko-fujimiso/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs: []
 sources:
 - label: Myoko Suginohara Official Website

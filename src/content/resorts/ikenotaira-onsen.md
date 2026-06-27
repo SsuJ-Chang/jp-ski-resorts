@@ -17,9 +17,9 @@ tags:
 - tree_run
 links:
   official: https://alpenblick-resort.com/ski
-  facebook: "https://www.facebook.com/ikenotaira.info"
-  instagram: "https://www.instagram.com/alpenblick.resort/"
-  xTwitter: "https://x.com/ikenotairainfo"
+  facebook: https://www.facebook.com/ikenotaira.info
+  instagram: https://www.instagram.com/alpenblick.resort/
+  xTwitter: https://x.com/ikenotairainfo
   trailMapPage: https://alpenblick-resort.com/ski
   ticket: https://alpenblick-resort.com/ski
   access: https://alpenblick-resort.com/access
@@ -49,21 +49,30 @@ tickets:
   note: 主要票種依官方 2025-2026 票價整理；線上購票、組合票與詳細條件請以官方頁面為準。
   plans:
   - name: 1 日券
-    audience: 成人、長者、國中生、小學生
-    price: 成人 ¥6,900、長者 ¥5,900、國中生 ¥5,900、小學生 ¥4,300
+    priceLines:
+    - 成人 ¥6,900
+    - 長者 ¥5,900
+    - 國中生 ¥5,900
+    - 小學生 ¥4,300
   - name: 4 小時券
-    audience: 成人、長者、國中生、小學生
-    price: 成人 ¥5,600、長者 ¥4,800、國中生 ¥4,800、小學生 ¥3,500
+    priceLines:
+    - 成人 ¥5,600
+    - 長者 ¥4,800
+    - 國中生 ¥4,800
+    - 小學生 ¥3,500
   - name: 2 日券
-    audience: 成人、長者、國中生、小學生
-    price: 成人 ¥11,800、長者 ¥10,400、國中生 ¥10,400、小學生 ¥7,800
+    priceLines:
+    - 成人 ¥11,800
+    - 長者 ¥10,400
+    - 國中生 ¥10,400
+    - 小學生 ¥7,800
   - name: 親子票 A
-    audience: 成人、小學生
-    price: 成人 1 名與小學生 1 名 ¥10,000
+    priceLines:
+    - 成人 1 名與小學生 1 名 ¥10,000
     note: 官方 family A 票種
   - name: 親子票 B
-    audience: 成人、小學生
-    price: 成人 2 名與小學生 1 名 ¥16,700
+    priceLines:
+    - 成人 2 名與小學生 1 名 ¥16,700
     note: 官方 family B 票種
 snowWeather:
   title: 池之平雪況天氣
@@ -95,7 +104,7 @@ courses:
     maxSlope: 20°
     note: 官方列為初級林間雪道；官方資料列出全長 1,300m、平均 16 度、最大 20 度。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=345s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=345s
   - name: カラマツコース / Karamatsu Course
     difficulty: beginner
     length: 900m
@@ -103,8 +112,8 @@ courses:
     maxSlope: 21°
     note: 官方列為初級路線；官方資料列出全長 900m、平均 19 度、最大 21 度。影片章節中前後各出現一次。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=953s
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=1804s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=953s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=1804s
   - name: ワイドロングランコース / Wide Long Run Course
     difficulty: beginner
     length: 1,100m
@@ -112,7 +121,7 @@ courses:
     maxSlope: 20°
     note: 官方列為初級路線；官方資料列出全長 1,100m、平均 18 度、最大 20 度。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=1745s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=1745s
   - name: カヤバコース / Kayaba Course
     difficulty: intermediate
     length: 900m
@@ -126,7 +135,7 @@ courses:
     maxSlope: 24°
     note: 官方列為中級路線；官方資料列出全長 900m、平均 20 度、最大 24 度。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=1621s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=1621s
   - name: やまばとコース / Yamabato Course
     difficulty: intermediate
     length: 500m
@@ -134,7 +143,7 @@ courses:
     maxSlope: 23°
     note: 官方列為中級路線；官方資料列出全長 500m、平均 20 度、最大 23 度。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=232s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=232s
   - name: クワッドコース / Quad Course
     difficulty: intermediate
     length: 1,420m
@@ -142,7 +151,7 @@ courses:
     maxSlope: 26°
     note: 官方列為中級路線；官方資料列出全長 1,420m、平均 23 度、最大 26 度。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=197s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=197s
   - name: 頂（イタダキ） / Itadaki Course
     difficulty: advanced
     length: 200m
@@ -150,7 +159,7 @@ courses:
     maxSlope: 27°
     note: 官方列為上級路線；官方資料列出全長 200m、平均 24 度、最大 27 度。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=125s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=125s
   - name: ヤッホーコース / Yahho Course
     difficulty: intermediate
     length: 1,200m
@@ -158,7 +167,7 @@ courses:
     maxSlope: 25°
     note: 官方列為中級路線；官方資料列出全長 1,200m、平均 20 度、最大 25 度。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=439s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=439s
   - name: クワッドツリーランコース / Quad Tree Run Course
     difficulty: intermediate
     length: 300m
@@ -166,7 +175,7 @@ courses:
     maxSlope: 24°
     note: 官方列為中級樹林滑行路線；官方資料列出全長 300m、平均 22 度、最大 24 度。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=1501s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=1501s
   - name: ガッシュタイナーコース / Gasteiner Course
     difficulty: intermediate
     length: 1,800m
@@ -174,7 +183,7 @@ courses:
     maxSlope: 26°
     note: 官方列為中級路線；官方資料列出全長 1,800m、平均 20 度、最大 26 度。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=713s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=713s
   - name: サイドツリーコース / Side Tree Course
     difficulty: intermediate
     length: 250m
@@ -188,7 +197,7 @@ courses:
     maxSlope: 29°
     note: 官方列為上級路線；官方資料列出全長 250m、平均 25 度、最大 29 度。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=597s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=597s
   - name: ハッピーゲレンデ / Happy Slope
     difficulty: beginner
     length: 1,400m
@@ -196,7 +205,7 @@ courses:
     maxSlope: 21°
     note: 官方列為初級雪道；官方資料列出全長 1,400m、平均 8 度、最大 21 度。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=878s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=878s
   - name: ドリームコース / Dream Course
     difficulty: beginner
     length: 1,100m
@@ -204,7 +213,7 @@ courses:
     maxSlope: 11°
     note: 官方列為初級路線；官方資料列出全長 1,100m、平均 7 度、最大 11 度。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=622s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=622s
   - name: カナメゲレンデ / Kaname Slope
     difficulty: advanced
     length: 470m
@@ -212,7 +221,7 @@ courses:
     maxSlope: 26°
     note: 官方列為上級雪道；官方資料列出全長 470m、平均 23 度、最大 26 度。
     videoLinks:
-      - https://www.youtube.com/watch?v=KEAamblTuXo&t=1333s
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=1333s
 lifts:
   total: 6
 access:
@@ -239,13 +248,13 @@ terrainSummary:
   powder: 樹林滑行路線與高海拔區域在新雪後較有粉雪行程彈性，實際開放請以官方公告為準。
 externalContent:
   blogs:
-    - title: "妙高高原滑雪住宿推薦｜Hotel Alpen Blick心得，池之平滑雪場Ski in /out"
-      url: https://natasha-traveler.tw/hotel-alpen-blick/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: 妙高高原滑雪住宿推薦｜Hotel Alpen Blick心得，池之平滑雪場Ski in /out
+    url: https://natasha-traveler.tw/hotel-alpen-blick/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs:
-    - title: "【スキー場ガイド】池の平温泉アルペンブリックスキー場　ツリーランデビューならここ"
-      url: https://www.youtube.com/watch?v=-hz9RxpliyQ
-      note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"
+  - title: 【スキー場ガイド】池の平温泉アルペンブリックスキー場　ツリーランデビューならここ
+    url: https://www.youtube.com/watch?v=-hz9RxpliyQ
+    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
 sources:
 - label: Alpenblick Resort Ski Official
   url: https://alpenblick-resort.com/ski

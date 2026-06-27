@@ -15,9 +15,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://sugadaira-snowresort.com/
-  facebook: "https://www.facebook.com/sugadairasnowresort/"
-  instagram: "https://www.instagram.com/sugadaira_snowresort/"
-  xTwitter: "https://x.com/sugadaira_snow"
+  facebook: https://www.facebook.com/sugadairasnowresort/
+  instagram: https://www.instagram.com/sugadaira_snowresort/
+  xTwitter: https://x.com/sugadaira_snow
   weather: https://weathernews.jp/ski/spot/34816/
   trailMapPage: https://yukiyama-app-dl.s3-ap-northeast-1.amazonaws.com/webmap/index.html?id=204
   trailMapPdf: https://sugadaira-snowresort.com/wp2/wp-content/uploads/2025/10/sugadaira_map.pdf
@@ -43,12 +43,16 @@ tickets:
   note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、販售條件與 IC 卡規則請以官方為準。
   plans:
   - name: All Area 1 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥6,400、兒童 ¥3,800、長者 ¥5,800
+    priceLines:
+    - 成人 ¥6,400
+    - 兒童 ¥3,800
+    - 長者 ¥5,800
     note: IC 卡保證金另計 ¥500，退還纜車券時退回。
   - name: All Area 2 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥12,000、兒童 ¥7,000、長者 ¥11,000
+    priceLines:
+    - 成人 ¥12,000
+    - 兒童 ¥7,000
+    - 長者 ¥11,000
     note: IC 卡保證金另計 ¥500，退還纜車券時退回。
 snowWeather:
   title: 菅平高原 Snow Resort 雪況天氣
@@ -60,7 +64,7 @@ snowWeather:
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
   latitude: 36.536631
-  longitude: 138.345950
+  longitude: 138.34595
 elevation:
   top: 1650
   bottom: 1250
@@ -77,7 +81,7 @@ courses:
     difficulty: advanced
     note: 官方雪道資料列為上級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=77s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=77s
   - name: 奥ダボスゲレンデ　中級
     difficulty: intermediate
     note: 官方雪道資料列為中級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
@@ -85,7 +89,7 @@ courses:
     difficulty: beginner
     note: 官方雪道資料列為初級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=201s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=201s
   - name: 奥ダボスゲレンデ　初級②
     difficulty: beginner
     note: 官方雪道資料列為初級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
@@ -93,7 +97,7 @@ courses:
     difficulty: beginner
     note: 官方雪道資料列為初級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1897s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1897s
   - name: ダボスイースト
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
@@ -101,14 +105,14 @@ courses:
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1827s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1827s
   - name: 表ダボスパノラマ
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=315s
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1640s
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1752s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=315s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1640s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1752s
   - name: シュナイダー・ウェーブ連絡路
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
@@ -116,7 +120,7 @@ courses:
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1697s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1697s
   - name: シュナイダーパノラマ初級
     difficulty: beginner
     note: 官方雪道資料列為初級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
@@ -133,7 +137,7 @@ courses:
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=395s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=395s
   - name: 裏ダボスハートの森
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
@@ -147,7 +151,7 @@ courses:
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=628s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=628s
   - name: 裏太郎かもしか
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
@@ -155,7 +159,7 @@ courses:
     difficulty: beginner
     note: 官方雪道資料列為初級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=515s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=515s
   - name: 裏太郎ファミリーイースト
     difficulty: beginner
     note: 官方雪道資料列為初級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
@@ -163,27 +167,27 @@ courses:
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1533s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1533s
   - name: 裏太郎チャレンジ
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1411s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1411s
   - name: 天狗林間
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1381s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1381s
   - name: 天狗A
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1078s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1078s
   - name: 日の出
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1226s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=1226s
   - name: 日の出林間
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
@@ -194,7 +198,7 @@ courses:
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=995s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=995s
   - name: 太郎ロング
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
@@ -202,17 +206,17 @@ courses:
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=934s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=934s
   - name: シュワルツコース
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=845s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=845s
   - name: 白金初級
     difficulty: beginner
     note: 官方雪道資料列為初級路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
     videoLinks:
-      - https://www.youtube.com/watch?v=oohc6Nzxub8&t=732s
+    - https://www.youtube.com/watch?v=oohc6Nzxub8&t=732s
   - name: 大松山SAJ公認チャンピオン
     difficulty: mixed
     note: 官方雪道資料列為綜合難度路線；目前官方來源未公開全長、坡度或更細的雪面特色描述，保留為官方難度摘要。
@@ -295,17 +299,17 @@ lifts:
   total: 18
 access:
   fromTokyo:
-    - label: "東京出發經上田"
-      steps:
-        - "從東京搭北陸新幹線到上田站。"
-        - "從上田站轉乘菅平方向巴士、週末假日直達巴士或計程車前往菅平高原。"
-      estimatedTime: "上田後約 50 分"
-      difficulty: "medium"
-      note: "直達巴士主要在 2026/1/4-3/29 的週六、週日與國定假日運行；場內跨區可利用路線巴士或雪場接駁，時刻需先確認。"
+  - label: 東京出發經上田
+    steps:
+    - 從東京搭北陸新幹線到上田站。
+    - 從上田站轉乘菅平方向巴士、週末假日直達巴士或計程車前往菅平高原。
+    estimatedTime: 上田後約 50 分
+    difficulty: medium
+    note: 直達巴士主要在 2026/1/4-3/29 的週六、週日與國定假日運行；場內跨區可利用路線巴士或雪場接駁，時刻需先確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: "東京方向自駕約 2 小時 30 分，也可由上田菅平 IC 接一般道路前往。全區停車約 3,000 台且全日免費；道路雖有除雪，仍需使用冬胎，須坂側部分路段較陡。"
+    note: 東京方向自駕約 2 小時 30 分，也可由上田菅平 IC 接一般道路前往。全區停車約 3,000 台且全日免費；道路雖有除雪，仍需使用冬胎，須坂側部分路段較陡。
 terrainSummary:
   beginner: 初級雪道約 20%，可作為練習坡與暖身路線規劃參考。
   intermediate: 中級雪道比例最高，適合想在大範圍高原雪道巡航的滑雪者。

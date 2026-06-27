@@ -26,7 +26,7 @@ links:
 contact:
   address:
     zhTw: 長野縣北安曇郡白馬村北城 12056
-    ja: "〒399-9301 長野県北安曇郡白馬村北城12056"
+    ja: 〒399-9301 長野県北安曇郡白馬村北城12056
     googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Iwatake%20Snow%20Field
   phone: 0261-72-2474
 season:
@@ -48,22 +48,35 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 岩岳 1 日券
-    audience: 成人、兒童、熟齡、身心障礙
-    price: 成人 ¥7,000、兒童 ¥4,300、熟齡 ¥6,600、身心障礙成人 ¥4,900、身心障礙兒童 ¥2,800
+    priceLines:
+    - 成人 ¥7,000
+    - 兒童 ¥4,300
+    - 熟齡 ¥6,600
+    - 身心障礙成人 ¥4,900
+    - 身心障礙兒童 ¥2,800
   - name: 岩岳 1 日券（線上事前購入 / 加值）
-    audience: 成人、兒童
-    price: 成人 ¥6,300、兒童 ¥3,900
+    priceLines:
+    - 成人 ¥6,300
+    - 兒童 ¥3,900
   - name: 岩岳半日券
-    audience: 成人、兒童、熟齡、身心障礙
-    price: 成人 ¥6,500、兒童 ¥3,700、熟齡 ¥6,000、身心障礙 ¥4,200
+    priceLines:
+    - 成人 ¥6,500
+    - 兒童 ¥3,700
+    - 熟齡 ¥6,000
+    - 身心障礙 ¥4,200
     note: AM 券為營業開始至 13:00；PM 券為 12:00 至營業結束。
   - name: 岩岳 2 日券
-    audience: 成人、兒童、熟齡、身心障礙
-    price: 成人 ¥12,200、兒童 ¥7,300、熟齡 ¥11,100、身心障礙成人 ¥8,200、身心障礙兒童 ¥5,000
+    priceLines:
+    - 成人 ¥12,200
+    - 兒童 ¥7,300
+    - 熟齡 ¥11,100
+    - 身心障礙成人 ¥8,200
+    - 身心障礙兒童 ¥5,000
     note: 需連續 2 日使用。
   - name: 季初 / 春滑 1 日券
-    audience: 成人、兒童、熟齡
-    price: 成人 / 熟齡 ¥5,300、兒童 ¥2,700
+    priceLines:
+    - 成人 / 熟齡 ¥5,300
+    - 兒童 ¥2,700
     note: 季初期間 2025/12/19-12/26；春滑期間 2026/3/16-3/29。
 snowWeather:
   title: 白馬岩岳雪況天氣
@@ -81,7 +94,7 @@ mapDisplay:
   labelPriority: 3
   approximatePosition:
     x: 55
-    "y": 43
+    y: 43
 elevation:
   top: 1289
   bottom: 750
@@ -180,13 +193,13 @@ terrainSummary:
   powder: Iwatake Back Bowl 與 Mountain Side 降雪後較有粉雪與自然地形感，但開放與安全管制需以官方狀態頁為準。
 externalContent:
   blogs:
-    - title: "白馬岩岳滑雪場︱觀景平台賞美景、雪場美食推薦、挑戰巨大盪鞦韆【有影片】"
-      url: https://natasha-traveler.tw/iwatake-ski/
-      note: "娜塔蝦的滑雪食旅手記"
-  vlogs: 
-    - title: "【2025日本白馬🇯🇵】EP3 白馬岩岳滑雪場🗻｜自學滑雪全紀錄❄️｜連續滑雪第三天🏂｜日本雪場開箱🎄｜自駕去滑雪｜HAKUBA IWATAKE⛷️"
-      url: https://www.youtube.com/watch?v=acJZsaLUmEM
-      note: "和Ivy去旅行"
+  - title: 白馬岩岳滑雪場︱觀景平台賞美景、雪場美食推薦、挑戰巨大盪鞦韆【有影片】
+    url: https://natasha-traveler.tw/iwatake-ski/
+    note: 娜塔蝦的滑雪食旅手記
+  vlogs:
+  - title: 【2025日本白馬🇯🇵】EP3 白馬岩岳滑雪場🗻｜自學滑雪全紀錄❄️｜連續滑雪第三天🏂｜日本雪場開箱🎄｜自駕去滑雪｜HAKUBA IWATAKE⛷️
+    url: https://www.youtube.com/watch?v=acJZsaLUmEM
+    note: 和Ivy去旅行
 sources:
 - label: Hakuba Iwatake Snow Field Official Website
   url: https://iwatake-mountain-resort.com/winter

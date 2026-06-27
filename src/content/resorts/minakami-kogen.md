@@ -8,18 +8,18 @@ region: kanto-koshinetsu
 prefecture: 群馬縣
 skiArea: minakami
 tags:
-  - beginner_friendly
-  - family_friendly
-  - no_car_accessible
-  - onsen
-  - powder
-  - resort_village
-  - snowboard_friendly
+- beginner_friendly
+- family_friendly
+- no_car_accessible
+- onsen
+- powder
+- resort_village
+- snowboard_friendly
 links:
   official: https://www.minakami-ski.jp/
-  facebook: "https://www.facebook.com/minakamikogen200/"
-  instagram: "https://www.instagram.com/minakamikogenresort200/"
-  xTwitter: "https://twitter.com/minakami200l"
+  facebook: https://www.facebook.com/minakamikogen200/
+  instagram: https://www.instagram.com/minakamikogenresort200/
+  xTwitter: https://twitter.com/minakami200l
   trailMapPage: https://www.minakami-ski.jp/gerande/
   ticket: https://www.minakami-ski.jp/price/
   access: https://www.minakami-ski.jp/access/
@@ -30,7 +30,7 @@ contact:
     zhTw: 群馬縣利根郡みなかみ町藤原 6152-1
     ja: 〒379-1721 群馬県利根郡みなかみ町藤原6152-1
     googleMaps: https://www.google.com/maps/search/?api=1&query=Minakami%20Kogen%20Ski%20Resort
-  phone: "0278-75-2222"
+  phone: 0278-75-2222
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/19-2026/4/5
@@ -38,29 +38,31 @@ season:
   note: 官方票價頁列 2025/12/19-2026/4/5 預定營業，一般 1 日券期間為 2025/12/27-2026/3/29，開場與 final week 有不同票價。
   source: https://www.minakami-ski.jp/price/
 trailMaps:
-  - label: 水上高原官方雪場・雪道頁
-    language: 日本語
-    season: 2025-2026
-    url: https://www.minakami-ski.jp/gerande/
-    sourceLabel: Minakami Kogen Official
+- label: 水上高原官方雪場・雪道頁
+  language: 日本語
+  season: 2025-2026
+  url: https://www.minakami-ski.jp/gerande/
+  sourceLabel: Minakami Kogen Official
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.minakami-ski.jp/price/
   note: 依官方 2025-2026 票價頁整理，未列於主要票種的住宿者優惠、套票與活動票請以官方為準。
   plans:
-    - name: 1 日券
-      audience: 成人、小學生、學齡前兒童
-      price: 成人 ¥5,500、小學生 ¥3,600、學齡前兒童免費
-      note: 一般營業期間的主要纜車券。
-    - name: 半日券
-      audience: 成人、小學生
-      price: 成人 ¥4,500、小學生 ¥3,100
-      note: 上午或下午時段票種，實際可用時間請以官方售票資訊為準。
-    - name: 1 回券
-      audience: 成人、小學生
-      price: 成人 ¥700、小學生 ¥700
-      note: 單次搭乘票。
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥5,500、小學生 ¥3,600、學齡前兒童免費
+    note: 一般營業期間的主要纜車券。
+  - name: 半日券
+    priceLines:
+    - 成人 ¥4,500
+    - 小學生 ¥3,100
+    note: 上午或下午時段票種，實際可用時間請以官方售票資訊為準。
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥700
+    - 小學生 ¥700
+    note: 單次搭乘票。
 snowWeather:
   title: 水上高原雪況天氣
   provider: Weathernews
@@ -90,100 +92,100 @@ courses:
   courseInfoPage: https://www.minakami-ski.jp/gerande/
   summary: 水上高原官方雪場頁列出 12 條雪道，並以親子雪上樂園、初級緩坡、中級巡航與上級自然地形雪道組合成飯店型滑雪場。
   details:
-    - name: すいすいファミリーコース
-      difficulty: beginner
-      length: 800m
-      maxSlope: 16°
-      averageSlope: 6°
-      note: 官方表列為初級雪道，長度 800m、平均坡度 6 度。
-    - name: ダンダン畑コース
-      difficulty: beginner
-      length: 700m
-      maxSlope: 13°
-      averageSlope: 8°
-      note: 官方表列為初級雪道，長度 700m、最大坡度 13 度。
-    - name: かもしかコース
-      difficulty: beginner
-      length: 400m
-      maxSlope: 13°
-      averageSlope: 7°
-      note: 官方表列為初級雪道，平均坡度 7 度。
-    - name: おっきりこみコース
-      difficulty: beginner
-      length: 850m
-      maxSlope: 15°
-      averageSlope: 7°
-      note: 官方表列為初級雪道，長度 850m。
-    - name: グランドコンコース
-      difficulty: intermediate
-      length: 500m
-      maxSlope: 17°
-      averageSlope: 7°
-      note: 官方表列為中級雪道，位在飯店前主要雪面。
-    - name: のんびりカタツムリコース
-      difficulty: intermediate
-      length: 800m
-      maxSlope: 13°
-      averageSlope: 6°
-      note: 官方表列為中級雪道，長度 800m、平均坡度 6 度。
-    - name: トップオブみなかみコース
-      difficulty: intermediate
-      length: 980m
-      maxSlope: 17°
-      averageSlope: 8°
-      note: 官方表列為中級雪道，從雪場上部展開，長度 980m。
-    - name: まさかりコース
-      difficulty: intermediate
-      length: 700m
-      maxSlope: 23°
-      averageSlope: 8°
-      note: 官方表列為中級雪道，最大坡度 23 度。
-    - name: モンキーダンスコース
-      difficulty: intermediate
-      length: 300m
-      maxSlope: 22°
-      averageSlope: 13°
-      note: 官方表列為中級雪道，長度 300m、最大坡度 22 度。
-    - name: ももんがコース
-      difficulty: advanced
-      length: 650m
-      maxSlope: 23°
-      averageSlope: 14°
-      note: 官方表列為上級雪道，平均坡度 14 度。
-    - name: 熊ぼっこすコース
-      difficulty: advanced
-      length: 300m
-      maxSlope: 34°
-      averageSlope: 22°
-      note: 官方表列為上級雪道，最大坡度 34 度。
-    - name: 熊つっとすコース
-      difficulty: advanced
-      length: 500m
-      maxSlope: 30°
-      averageSlope: 22°
-      note: 官方表列為上級雪道，最大坡度 30 度、平均坡度 22 度。
+  - name: すいすいファミリーコース
+    difficulty: beginner
+    length: 800m
+    maxSlope: 16°
+    averageSlope: 6°
+    note: 官方表列為初級雪道，長度 800m、平均坡度 6 度。
+  - name: ダンダン畑コース
+    difficulty: beginner
+    length: 700m
+    maxSlope: 13°
+    averageSlope: 8°
+    note: 官方表列為初級雪道，長度 700m、最大坡度 13 度。
+  - name: かもしかコース
+    difficulty: beginner
+    length: 400m
+    maxSlope: 13°
+    averageSlope: 7°
+    note: 官方表列為初級雪道，平均坡度 7 度。
+  - name: おっきりこみコース
+    difficulty: beginner
+    length: 850m
+    maxSlope: 15°
+    averageSlope: 7°
+    note: 官方表列為初級雪道，長度 850m。
+  - name: グランドコンコース
+    difficulty: intermediate
+    length: 500m
+    maxSlope: 17°
+    averageSlope: 7°
+    note: 官方表列為中級雪道，位在飯店前主要雪面。
+  - name: のんびりカタツムリコース
+    difficulty: intermediate
+    length: 800m
+    maxSlope: 13°
+    averageSlope: 6°
+    note: 官方表列為中級雪道，長度 800m、平均坡度 6 度。
+  - name: トップオブみなかみコース
+    difficulty: intermediate
+    length: 980m
+    maxSlope: 17°
+    averageSlope: 8°
+    note: 官方表列為中級雪道，從雪場上部展開，長度 980m。
+  - name: まさかりコース
+    difficulty: intermediate
+    length: 700m
+    maxSlope: 23°
+    averageSlope: 8°
+    note: 官方表列為中級雪道，最大坡度 23 度。
+  - name: モンキーダンスコース
+    difficulty: intermediate
+    length: 300m
+    maxSlope: 22°
+    averageSlope: 13°
+    note: 官方表列為中級雪道，長度 300m、最大坡度 22 度。
+  - name: ももんがコース
+    difficulty: advanced
+    length: 650m
+    maxSlope: 23°
+    averageSlope: 14°
+    note: 官方表列為上級雪道，平均坡度 14 度。
+  - name: 熊ぼっこすコース
+    difficulty: advanced
+    length: 300m
+    maxSlope: 34°
+    averageSlope: 22°
+    note: 官方表列為上級雪道，最大坡度 34 度。
+  - name: 熊つっとすコース
+    difficulty: advanced
+    length: 500m
+    maxSlope: 30°
+    averageSlope: 22°
+    note: 官方表列為上級雪道，最大坡度 30 度、平均坡度 22 度。
 lifts:
   total: 4
 access:
   fromTokyo:
-    - label: 東京出發電車與接駁
-      steps:
-        - 搭乘上越新幹線至上毛高原站，或搭乘 JR 上越線至水上站。
-        - 依官方交通頁轉乘預約制接駁、路線巴士或計程車前往水上高原。
-      estimatedTime: 站後約 50-70 分鐘
-      difficulty: medium
-      note: 需使用有料預約制接駁巴士，接駁方式與班次會依住宿、日期與雪季調整，請依官方交通頁預約與確認。上毛高原站後約 70 分鐘，水上站後約 50 分鐘。
-      links:
-        - label: Minakami Kogen Access
-          url: https://www.minakami-ski.jp/access/
+  - label: 東京出發電車與接駁
+    steps:
+    - 搭乘上越新幹線至上毛高原站，或搭乘 JR 上越線至水上站。
+    - 依官方交通頁轉乘預約制接駁、路線巴士或計程車前往水上高原。
+    estimatedTime: 站後約 50-70 分鐘
+    difficulty: medium
+    note: 需使用有料預約制接駁巴士，接駁方式與班次會依住宿、日期與雪季調整，請依官方交通頁預約與確認。上毛高原站後約 70 分鐘，水上站後約 50 分鐘。
+    links:
+    - label: Minakami Kogen Access
+      url: https://www.minakami-ski.jp/access/
   fromOsaka:
-    - label: 大阪出發
-      steps:
-        - 搭乘東海道新幹線至東京，再轉上越新幹線至上毛高原站。
-        - 從上毛高原站轉乘接駁、巴士或計程車前往雪場。
-      estimatedTime: 約 6 小時
-      difficulty: hard
-      note: 轉乘距離較長，較適合搭配飯店住宿與水上溫泉行程。
+  - label: 大阪出發
+    steps:
+    - 搭乘東海道新幹線至東京，再轉上越新幹線至上毛高原站。
+    - 從上毛高原站轉乘接駁、巴士或計程車前往雪場。
+    estimatedTime: 約 6 小時
+    difficulty: hard
+    note: 轉乘距離較長，較適合搭配飯店住宿與水上溫泉行程。
   car:
     recommended: true
     snowTireRequired: true
@@ -198,16 +200,16 @@ externalContent:
   blogs: []
   vlogs: []
 sources:
-  - label: Minakami Kogen Official Website
-    url: https://www.minakami-ski.jp/
-  - label: Minakami Kogen Gelande
-    url: https://www.minakami-ski.jp/gerande/
-  - label: Minakami Kogen Price
-    url: https://www.minakami-ski.jp/price/
-  - label: Minakami Kogen Access
-    url: https://www.minakami-ski.jp/access/
-  - label: Minakami Kogen Weathernews
-    url: https://weathernews.jp/ski/spot/34205/
+- label: Minakami Kogen Official Website
+  url: https://www.minakami-ski.jp/
+- label: Minakami Kogen Gelande
+  url: https://www.minakami-ski.jp/gerande/
+- label: Minakami Kogen Price
+  url: https://www.minakami-ski.jp/price/
+- label: Minakami Kogen Access
+  url: https://www.minakami-ski.jp/access/
+- label: Minakami Kogen Weathernews
+  url: https://weathernews.jp/ski/spot/34205/
 ---
 
 水上高原位於群馬縣水上雪區，滑行節奏可以在家庭取向的主雪道與積雪後較有變化的區域之間切換。若同行者需求不同，這裡比純進階雪場更容易把練習、玩雪與正式滑行排在同一天。

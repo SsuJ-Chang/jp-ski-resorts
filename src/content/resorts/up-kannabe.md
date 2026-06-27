@@ -14,8 +14,8 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.kannabe.co.jp/
-  instagram: "https://www.instagram.com/upkannabe/"
-  xTwitter: "https://twitter.com/upkannabe"
+  instagram: https://www.instagram.com/upkannabe/
+  xTwitter: https://twitter.com/upkannabe
   trailMapPage: https://www.kannabe.co.jp/gelande
   weather: https://weathernews.jp/ski/spot/36303/
   googleMaps: https://maps.google.co.jp/maps?q=35.500841,134.678250
@@ -81,7 +81,7 @@ contact:
     zhTw: 兵庫縣豐岡市日高町神鍋高原59-78
     ja: 〒669-5372 兵庫県豐岡市日高町神鍋高原59-78
     googleMaps: https://maps.google.co.jp/maps?q=35.500841,134.678250
-  phone: "0796-45-1545"
+  phone: 0796-45-1545
 tickets:
   season: 2025-2026
   currency: JPY
@@ -89,17 +89,23 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券（中学3年生止
-    price: 兒童料金OK!!） 成人 ¥5,800 兒童 ¥3,500
+    priceLines:
+    - 兒童料金OK!!） 成人 ¥5,800 兒童 ¥3,500
   - name: 半日券（8:30〜13:00、12:00〜16:40）
-    price: 成人 ¥5,100 兒童 ¥3,100
+    priceLines:
+    - 成人 ¥5,100 兒童 ¥3,100
   - name: １日通し券（日中+夜滑）
-    price: 成人 ¥8,300 兒童 ¥5,800
-  - name: 回数券
-    price: 成人 ¥600 兒童 ¥600
+    priceLines:
+    - 成人 ¥8,300 兒童 ¥5,800
+  - name: 回數券
+    priceLines:
+    - 成人 ¥600 兒童 ¥600
   - name: 夜滑券
-    price: 成人 ¥3,500 兒童 ¥3,000
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥3,000
   - name: 2日券（夜滑券別）（連続する2日間）
-    price: 成人 ¥9,000
+    priceLines:
+    - 成人 ¥9,000
 elevation:
   top: 470
   bottom: 280
@@ -113,8 +119,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：山陰本線江原駅下車 バスで (20分) 車 ：中国道：池田IC〜吉川JC〜舞鶴道：春日IC：北近畿豊岡道〜日高神鍋高原IC下車：香美・村岡方面：R482 (120分) 車 ：岡山IC〜山陽姫路東IC〜播但連絡道和田山IC：北近畿豊岡道〜日高神鍋高原IC下車：香美・村岡方面：R482
-      (130分) 飛行機：但馬空港〜日高町：R482〜アップかんなべ 1000台 平日 免費 假日 1500円〜
+    note: 交通資訊摘要：山陰本線江原駅下車 バスで (20分) 車 ：中国道：池田IC〜吉川JC〜舞鶴道：春日IC：北近畿豊岡道〜日高神鍋高原IC下車：香美・村岡方面：R482 (120分) 車 ：岡山IC〜山陽姫路東IC〜播但連絡道和田山IC：北近畿豊岡道〜日高神鍋高原IC下車：香美・村岡方面：R482 (130分) 飛行機：但馬空港〜日高町：R482〜アップかんなべ 1000台 平日 免費 假日 1500円〜
 ---
 
 Up Kannabe在兵庫縣提供5 條雪道，搭配 5 座纜車。路線包含 うえ野平ゲレンデ、中央ゲレンデ、みやの森ゲレンデ，整體初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

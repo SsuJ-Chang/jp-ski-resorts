@@ -15,9 +15,9 @@ tags:
 - tree_run
 links:
   official: https://www.hakuba47.co.jp/winter/en/
-  facebook: "https://www.facebook.com/HKB47official"
-  instagram: "https://www.instagram.com/hakuba47wintersportspark/"
-  xTwitter: "https://twitter.com/Hakuba_47"
+  facebook: https://www.facebook.com/HKB47official
+  instagram: https://www.instagram.com/hakuba47wintersportspark/
+  xTwitter: https://twitter.com/Hakuba_47
   trailMapPage: https://www.hakuba47.co.jp/winter/en/mountain/mountain_info/
   ticket: https://www.hakuba47.co.jp/winter/en/tickets/lift_tickets_info/1000/
   access: https://www.hakuba47.co.jp/winter/en/access/
@@ -28,7 +28,7 @@ links:
 contact:
   address:
     zhTw: 長野縣北安曇郡白馬村神城 24196-47
-    ja: "〒399-9211 長野県北安曇郡白馬村神城24196-47"
+    ja: 〒399-9211 長野県北安曇郡白馬村神城24196-47
     googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%2047%20Winter%20Sports%20Park
   phone: 0261-75-3533
 season:
@@ -50,24 +50,37 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: Hakuba47 / Goryu 共通 1 日券（窗口）
-    audience: 成人、兒童、青年、熟齡
-    price: 成人 ¥9,500、兒童 ¥4,500、青年 ¥6,500、熟齡 ¥9,000
+    priceLines:
+    - 成人 ¥9,500
+    - 兒童 ¥4,500
+    - 青年 ¥6,500
+    - 熟齡 ¥9,000
     note: 5 歲以下與 80 歲以上免費；價格含 ¥500 IC 卡押金，退卡可返還。
   - name: Hakuba47 / Goryu 共通 2 日券（窗口）
-    audience: 成人、兒童、青年、熟齡
-    price: 成人 ¥17,500、兒童 ¥8,000、青年 ¥11,500、熟齡 ¥16,500
+    priceLines:
+    - 成人 ¥17,500
+    - 兒童 ¥8,000
+    - 青年 ¥11,500
+    - 熟齡 ¥16,500
     note: 可於當季內非連續 2 日使用。
   - name: Hakuba47 / Goryu 共通 3 日券（窗口）
-    audience: 成人、兒童、青年、熟齡
-    price: 成人 ¥25,000、兒童 ¥11,500、青年 ¥16,500、熟齡 ¥24,000
+    priceLines:
+    - 成人 ¥25,000
+    - 兒童 ¥11,500
+    - 青年 ¥16,500
+    - 熟齡 ¥24,000
     note: 可於當季內非連續 3 日使用。
   - name: 線上加值 1 日券
-    audience: 成人、兒童、熟齡
-    price: 成人 ¥7,700、兒童 ¥3,600、熟齡 ¥7,200
+    priceLines:
+    - 成人 ¥7,700
+    - 兒童 ¥3,600
+    - 熟齡 ¥7,200
     note: 已持有可加值 IC 卡者適用；青年票需窗口購買並確認身分證件。
   - name: 初滑 / 春滑 1 日券（窗口）
-    audience: 成人、兒童、青年
-    price: 成人 ¥8,500、兒童 ¥4,000、青年 ¥6,500
+    priceLines:
+    - 成人 ¥8,500
+    - 兒童 ¥4,000
+    - 青年 ¥6,500
     note: 初滑為季初至 2025/12/15；春滑為 2026/3/9 至雪季結束。
 snowWeather:
   title: Hakuba 47雪況天氣
@@ -85,7 +98,7 @@ mapDisplay:
   labelPriority: 3
   approximatePosition:
     x: 55
-    "y": 43
+    y: 43
 elevation:
   top: 1614
   bottom: 820
@@ -104,10 +117,10 @@ courses:
     maxSlope: 28°
     averageSlope: 22°
     videoLinks:
-      - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=452s
-      - https://www.youtube.com/watch?v=f9N5IUrL000&t=1158s
-      - https://www.youtube.com/watch?v=f9N5IUrL000&t=1313s
-      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=713s
+    - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=452s
+    - https://www.youtube.com/watch?v=f9N5IUrL000&t=1158s
+    - https://www.youtube.com/watch?v=f9N5IUrL000&t=1313s
+    - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=713s
     note: Hakuba47 代表性中級路線，朝白馬村方向下滑，清晨壓雪狀態適合 carving。
   - name: Route 2
     difficulty: advanced
@@ -115,8 +128,8 @@ courses:
     maxSlope: 30°
     averageSlope: 18°
     videoLinks:
-      - https://www.youtube.com/watch?v=f9N5IUrL000&t=738s
-      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=419s
+    - https://www.youtube.com/watch?v=f9N5IUrL000&t=738s
+    - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=419s
     note: 上級路線，坡度與長度平衡，官方建議給較有經驗的滑雪者；官方資料並列出全長 1620m、最大坡度 30°、平均坡度 18°。
   - name: Route 3
     difficulty: expert
@@ -124,7 +137,7 @@ courses:
     maxSlope: 32°
     averageSlope: 20°
     videoLinks:
-      - https://www.youtube.com/watch?v=f9N5IUrL000&t=879s
+    - https://www.youtube.com/watch?v=f9N5IUrL000&t=879s
     note: 位於 Gondola 山頂站附近，最大斜度 32°，以天然饅頭與高難度地形為特色。
   - name: Route 4 / 47PARKS
     difficulty: intermediate
@@ -132,7 +145,7 @@ courses:
     maxSlope: 16°
     averageSlope: 14°
     videoLinks:
-      - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=1223s
+    - https://www.youtube.com/watch?v=3e-zXtiQFwU&t=1223s
     note: 47PARKS 所在路線，park item 依當日維護與開放狀態調整。
   - name: Route 5
     difficulty: beginner
@@ -140,8 +153,8 @@ courses:
     maxSlope: 14°
     averageSlope: 12°
     videoLinks:
-      - https://www.youtube.com/watch?v=f9N5IUrL000&t=835s
-      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=622s
+    - https://www.youtube.com/watch?v=f9N5IUrL000&t=835s
+    - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=622s
     note: 中腹初級路線，距離較短，靠近 Gondola 山頂站與休息設施。
   - name: Route 6
     difficulty: beginner
@@ -149,7 +162,7 @@ courses:
     maxSlope: 14°
     averageSlope: 10°
     videoLinks:
-      - https://www.youtube.com/watch?v=f9N5IUrL000&t=1271s
+    - https://www.youtube.com/watch?v=f9N5IUrL000&t=1271s
     note: 與 Route 5 並行的中腹初級路線，緩斜比例較高，也可作為前往 Line C 的銜接。
   - name: Route 7
     difficulty: beginner
@@ -157,7 +170,7 @@ courses:
     maxSlope: 12°
     averageSlope: 7°
     videoLinks:
-      - https://www.youtube.com/watch?v=f9N5IUrL000&t=426s
+    - https://www.youtube.com/watch?v=f9N5IUrL000&t=426s
     note: 連接 Gondola 山頂站與 base area 的長距離緩坡，適合兒童與初級者，但部分區段較窄。
   - name: Route 8
     difficulty: beginner
@@ -165,9 +178,9 @@ courses:
     maxSlope: 12°
     averageSlope: 10°
     videoLinks:
-      - https://www.youtube.com/watch?v=f9N5IUrL000&t=137s
-      - https://www.youtube.com/watch?v=f9N5IUrL000&t=250s
-      - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=217s
+    - https://www.youtube.com/watch?v=f9N5IUrL000&t=137s
+    - https://www.youtube.com/watch?v=f9N5IUrL000&t=250s
+    - https://www.youtube.com/watch?v=EuUdXoyB2mo&t=217s
     note: 連接五龍 Telecabin 山頂與 Hakuba47 Line E 的緩坡路線，下部有較窄較陡的區段。
 lifts:
   total: 5
@@ -209,9 +222,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-    - title: "【2025日本白馬🇯🇵】EP2 白馬五龍&47滑雪場🗻｜白馬阿爾卑斯酒店🏨｜租雪具1000日幣🏂｜自學滑雪全紀錄❄️｜成吉思汗烤羊肉🐑｜單日來回兩個雪場｜日本雪場開箱｜🚌"
-      url: https://www.youtube.com/watch?v=TgPjyzJeDnE
-      note: "和Ivy去旅行"
+  - title: 【2025日本白馬🇯🇵】EP2 白馬五龍&47滑雪場🗻｜白馬阿爾卑斯酒店🏨｜租雪具1000日幣🏂｜自學滑雪全紀錄❄️｜成吉思汗烤羊肉🐑｜單日來回兩個雪場｜日本雪場開箱｜🚌
+    url: https://www.youtube.com/watch?v=TgPjyzJeDnE
+    note: 和Ivy去旅行
 sources:
 - label: Hakuba 47 Winter Sports Park Official Website
   url: https://www.hakuba47.co.jp/winter/en/

@@ -60,8 +60,8 @@ courses:
   - name: ローズコース
     difficulty: intermediate
     videoLinks:
-      - https://www.youtube.com/watch?v=a8r23aBz4ko&t=364s
-      - https://www.youtube.com/watch?v=a8r23aBz4ko&t=735s
+    - https://www.youtube.com/watch?v=a8r23aBz4ko&t=364s
+    - https://www.youtube.com/watch?v=a8r23aBz4ko&t=735s
     note: 中段巡航路線，可銜接山麓主要區域；目前官方來源未公開更細的全長、坡度或雪面特色描述。
   - name: バイオレットコース A
     difficulty: intermediate
@@ -72,7 +72,7 @@ courses:
   - name: レッドコース
     difficulty: intermediate
     videoLinks:
-      - https://www.youtube.com/watch?v=a8r23aBz4ko&t=963s
+    - https://www.youtube.com/watch?v=a8r23aBz4ko&t=963s
     note: 中級巡航路線，可作為山頂長距離下滑的一段。
   - name: ブルーコース
     difficulty: intermediate
@@ -88,7 +88,7 @@ courses:
     length: 755m
     maxSlope: 32°
     videoLinks:
-      - https://www.youtube.com/watch?v=a8r23aBz4ko&t=1125s
+    - https://www.youtube.com/watch?v=a8r23aBz4ko&t=1125s
     note: 官方介紹為最大坡度 32 度的非壓雪、粉雪取向路線。
   beginnerRatio: 40
   intermediateRatio: 50
@@ -113,25 +113,31 @@ contact:
     zhTw: 群馬縣利根郡片品村東小川4658-58
     ja: 〒378-0414 群馬県利根郡片品村東小川4658-58
     googleMaps: https://maps.google.co.jp/maps?q=36.815057,139.330277
-  phone: "0278-58-2211"
+  phone: 0278-58-2211
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34217/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥6,300 兒童 ¥3,000 樂齡 ¥5,900
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥6,300 兒童 ¥3,000 樂齡 ¥5,900
   - name: フレンドリーパス
-    price: 成人 ¥3,300 兒童 ¥2,000 樂齡 ¥3,300
+    priceLines:
+    - 成人 ¥3,300 兒童 ¥2,000 樂齡 ¥3,300
   - name: グレードアップ料金
-    price: 成人 ¥3,100 兒童 ¥1,000 樂齡 ¥3,100
-  - name: 10時間券
-    price: 成人 ¥10,500 兒童 ¥10,500 樂齡 ¥10,500
-  - name: 20時間券
-    price: 成人 ¥19,000 兒童 ¥19,000 樂齡 ¥19,000
+    priceLines:
+    - 成人 ¥3,100 兒童 ¥1,000 樂齡 ¥3,100
+  - name: 10 小時券
+    priceLines:
+    - 成人 ¥10,500 兒童 ¥10,500 樂齡 ¥10,500
+  - name: 20 小時券
+    priceLines:
+    - 成人 ¥19,000 兒童 ¥19,000 樂齡 ¥19,000
   - name: フルシーズン券
-    price: 成人 ¥80,000 兒童 ¥33,000 樂齡 ¥80,000
+    priceLines:
+    - 成人 ¥80,000 兒童 ¥33,000 樂齡 ¥80,000
 elevation:
   top: 2000
   bottom: 1400

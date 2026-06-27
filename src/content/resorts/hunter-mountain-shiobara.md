@@ -13,9 +13,9 @@ tags:
 - resort_village
 links:
   official: https://www.hunter.co.jp/winter/
-  facebook: "https://www.facebook.com/hunter.co.jp/"
-  instagram: "https://www.instagram.com/hunter_mountain_jpn/"
-  xTwitter: "https://twitter.com/huntama"
+  facebook: https://www.facebook.com/hunter.co.jp/
+  instagram: https://www.instagram.com/hunter_mountain_jpn/
+  xTwitter: https://twitter.com/huntama
   trailMapPage: https://www.hunter.co.jp/winter/course/
   weather: https://weathernews.jp/ski/spot/34101/
   googleMaps: https://maps.google.co.jp/maps?q=36.938074,139.753566
@@ -136,7 +136,7 @@ contact:
     zhTw: 栃木縣那須塩原市湯本塩原字前黒
     ja: 〒329-2922 栃木県那須塩原市湯本塩原字前黒
     googleMaps: https://maps.google.co.jp/maps?q=36.938074,139.753566
-  phone: "0287-32-4580"
+  phone: 0287-32-4580
 tickets:
   season: 2025-2026
   currency: JPY
@@ -144,17 +144,23 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 1日券(特定日)
-    price: 成人 ¥6,800 兒童 ¥5,800 樂齡 ¥6,300
+    priceLines:
+    - 成人 ¥6,800 兒童 ¥5,800 樂齡 ¥6,300
   - name: 1日券(假日)
-    price: 成人 ¥6,500 兒童 ¥5,500 樂齡 ¥6,000
+    priceLines:
+    - 成人 ¥6,500 兒童 ¥5,500 樂齡 ¥6,000
   - name: 1日券(平日)
-    price: 成人 ¥5,800 兒童 ¥4,800 樂齡 ¥5,300
-  - name: 4時間券
-    price: 成人 ¥6,500 兒童 ¥5,500 樂齡 ¥6,000
-  - name: 回数券(10ポイント）
-    price: 成人 ¥5,500 兒童 ¥5,500 樂齡 ¥5,500
+    priceLines:
+    - 成人 ¥5,800 兒童 ¥4,800 樂齡 ¥5,300
+  - name: 4 小時券
+    priceLines:
+    - 成人 ¥6,500 兒童 ¥5,500 樂齡 ¥6,000
+  - name: 回數券(10ポイント）
+    priceLines:
+    - 成人 ¥5,500 兒童 ¥5,500 樂齡 ¥5,500
   - name: 1ポイント券
-    price: 成人 ¥600 兒童 ¥600 樂齡 ¥600
+    priceLines:
+    - 成人 ¥600 兒童 ¥600 樂齡 ¥600
 elevation:
   top: 1638
   bottom: 1138
@@ -168,9 +174,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：東北新幹線那須塩原駅から免費シャトルバス(要予約)､またはタクシー (75分) 電車 ：宇都宮駅から免費シャトルバス 車 ：＜東北自動車道＞川口JCT→西那須野塩原IC→R400号→塩原町→日塩もみじライン
-      (140分) 車 ：＜日光宇都宮道路＞宇都宮JCT→今市IC→R121号→鬼怒川温泉→日塩もみじライン (140分) 飛行機：福島空港→須賀川JCT→西那須野塩原IC→R400号→塩原町→日塩もみじライン (120分) 2000台
-      平日 免費 假日 1000円
+    note: 交通資訊摘要：東北新幹線那須塩原駅から免費シャトルバス(要予約)､またはタクシー (75分) 電車 ：宇都宮駅から免費シャトルバス 車 ：＜東北自動車道＞川口JCT→西那須野塩原IC→R400号→塩原町→日塩もみじライン (140分) 車 ：＜日光宇都宮道路＞宇都宮JCT→今市IC→R121号→鬼怒川温泉→日塩もみじライン (140分) 飛行機：福島空港→須賀川JCT→西那須野塩原IC→R400号→塩原町→日塩もみじライン (120分) 2000台 平日 免費 假日 1000円
 ---
 
 Hunter Mountain 鹽原位於栃木縣，雪道數多、寬度夠，還能把 park 與夜滑一起排進一天行程。從基礎練習到中級主線切換都很直接，對週末一日滑或想兼顧單板節奏的人都很實用。

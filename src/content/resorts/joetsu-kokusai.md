@@ -27,7 +27,7 @@ links:
 contact:
   address:
     zhTw: 新潟縣南魚沼市樺野澤 112-1
-    ja: "〒949-6431 新潟県南魚沼市樺野沢112-1"
+    ja: 〒949-6431 新潟県南魚沼市樺野沢112-1
     googleMaps: https://www.google.com/maps/search/?api=1&query=Joetsu%20Kokusai%20Ski%20Resort
   phone: 025-782-1028
 season:
@@ -49,14 +49,20 @@ tickets:
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
   - name: 1 日入場券
-    audience: 成人、兒童、熟齡
-    price: 成人 ¥5,500、兒童 ¥3,500、熟齡 ¥4,300
+    priceLines:
+    - 成人 ¥5,500
+    - 兒童 ¥3,500
+    - 熟齡 ¥4,300
   - name: 1 日入場券+
-    audience: 成人、兒童、熟齡
-    price: 成人 ¥5,800、兒童 ¥3,800、熟齡 ¥4,600
+    priceLines:
+    - 成人 ¥5,800
+    - 兒童 ¥3,800
+    - 熟齡 ¥4,600
   - name: 夜滑入場券
-    audience: 成人、兒童、熟齡
-    price: 成人 ¥1,500、兒童 ¥1,000、熟齡 ¥1,000
+    priceLines:
+    - 成人 ¥1,500
+    - 兒童 ¥1,000
+    - 熟齡 ¥1,000
 snowWeather:
   title: 上越國際雪況天氣
   provider: Official / Weathernews
@@ -73,7 +79,7 @@ mapDisplay:
   labelPriority: 3
   approximatePosition:
     x: 47
-    "y": 54
+    y: 54
 courses:
   beginnerRatio: 40
   intermediateRatio: 50
@@ -81,129 +87,129 @@ courses:
   courseInfoPage: https://jkokusai.co.jp/ski/gelande/
   summary: 上越國際是南魚沼的大型雪場，官方票價頁列出 2025/12/13-2026/4/5 營業與夜滑期間。
   details:
-    - name: "リーゼンファミリー林間コース"
-      difficulty: beginner
-      length: "1,000m"
-      averageSlope: "8°"
-    - name: "ホテル前ゲレンデ"
-      difficulty: beginner
-      length: "120m"
-      videoLinks:
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=2994s
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=3176s
-      averageSlope: "14°"
-    - name: "ファミリー林間コース"
-      difficulty: beginner
-      length: "6,000m"
-      videoLinks:
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=561s
-      averageSlope: "7°"
-    - name: "当間第5ゲレンデ迂回コース"
-      difficulty: beginner
-      videoLinks:
-        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1675s
-    - name: "長峰第1ゲレンデ"
-      difficulty: mixed
-      length: "600m"
-      videoLinks:
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=125s
-      averageSlope: "10°"
-    - name: "長峰第2ゲレンデ"
-      difficulty: mixed
-      length: "600m"
-      videoLinks:
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=125s
-      averageSlope: "12°"
-    - name: "長峰第3ゲレンデ"
-      difficulty: mixed
-      length: "600m"
-      videoLinks:
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=125s
-      averageSlope: "15°"
-    - name: "パノラマ第1ゲレンデ"
-      difficulty: mixed
-      length: "600m"
-      videoLinks:
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1052s
-      averageSlope: "7°"
-    - name: "当間第1ゲレンデ"
-      difficulty: mixed
-      length: "1,000m"
-      averageSlope: "10°"
-    - name: "当間第2ゲレンデ"
-      difficulty: mixed
-      length: "1,000m"
-      averageSlope: "11°"
-    - name: "当間第4ゲレンデ迂回コース"
-      difficulty: mixed
-      videoLinks:
-        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1165s
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=2338s
-      length: "760m"
-      averageSlope: "11°"
-    - name: "当間第5ゲレンデ"
-      difficulty: mixed
-      videoLinks:
-        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=816s
-        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1867s
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1993s
-      length: "600m"
-      averageSlope: "12°"
-    - name: "大別当ゲレンデ迂回コース"
-      difficulty: intermediate
-    - name: "美奈第2ゲレンデ"
-      difficulty: intermediate
-      videoLinks:
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=255s
-    - name: "パノラマ第3ゲレンデ"
-      difficulty: intermediate
-      videoLinks:
-        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=2165s
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1663s
-      length: "1,000m"
-      averageSlope: "15°"
-    - name: "パノラマ第3ゲレンデ尾根コース"
-      difficulty: intermediate
-      videoLinks:
-        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=616s
-        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=2008s
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1490s
-    - name: "当間第4ゲレンデメインコース"
-      difficulty: intermediate
-      videoLinks:
-        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=914s
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=2108s
-      length: "2,000m"
-      averageSlope: "12°"
-    - name: "大沢ジャイアントコース"
-      difficulty: mixed
-      length: "1,200m"
-      averageSlope: "15°"
-    - name: "美奈第1ゲレンデ"
-      difficulty: mixed
-      length: "1,000m"
-      videoLinks:
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=388s
-      averageSlope: "16°"
-    - name: "パノラマ第2ゲレンデ"
-      difficulty: mixed
-      videoLinks:
-        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=428s
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1265s
-      length: "1,000m"
-      averageSlope: "12°"
-    - name: "当間第4ゲレンデ中コース"
-      difficulty: mixed
-      videoLinks:
-        - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1450s
-        - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=2108s
-      length: "980m"
-      averageSlope: "12°"
-    - name: "大別当チャンピオンコース"
-      difficulty: advanced
-      length: "700m"
-      maxSlope: "38°"
-      averageSlope: "20°"
+  - name: リーゼンファミリー林間コース
+    difficulty: beginner
+    length: 1,000m
+    averageSlope: 8°
+  - name: ホテル前ゲレンデ
+    difficulty: beginner
+    length: 120m
+    videoLinks:
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=2994s
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=3176s
+    averageSlope: 14°
+  - name: ファミリー林間コース
+    difficulty: beginner
+    length: 6,000m
+    videoLinks:
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=561s
+    averageSlope: 7°
+  - name: 当間第5ゲレンデ迂回コース
+    difficulty: beginner
+    videoLinks:
+    - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1675s
+  - name: 長峰第1ゲレンデ
+    difficulty: mixed
+    length: 600m
+    videoLinks:
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=125s
+    averageSlope: 10°
+  - name: 長峰第2ゲレンデ
+    difficulty: mixed
+    length: 600m
+    videoLinks:
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=125s
+    averageSlope: 12°
+  - name: 長峰第3ゲレンデ
+    difficulty: mixed
+    length: 600m
+    videoLinks:
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=125s
+    averageSlope: 15°
+  - name: パノラマ第1ゲレンデ
+    difficulty: mixed
+    length: 600m
+    videoLinks:
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1052s
+    averageSlope: 7°
+  - name: 当間第1ゲレンデ
+    difficulty: mixed
+    length: 1,000m
+    averageSlope: 10°
+  - name: 当間第2ゲレンデ
+    difficulty: mixed
+    length: 1,000m
+    averageSlope: 11°
+  - name: 当間第4ゲレンデ迂回コース
+    difficulty: mixed
+    videoLinks:
+    - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1165s
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=2338s
+    length: 760m
+    averageSlope: 11°
+  - name: 当間第5ゲレンデ
+    difficulty: mixed
+    videoLinks:
+    - https://www.youtube.com/watch?v=HcL98r4G-_8&t=816s
+    - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1867s
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1993s
+    length: 600m
+    averageSlope: 12°
+  - name: 大別当ゲレンデ迂回コース
+    difficulty: intermediate
+  - name: 美奈第2ゲレンデ
+    difficulty: intermediate
+    videoLinks:
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=255s
+  - name: パノラマ第3ゲレンデ
+    difficulty: intermediate
+    videoLinks:
+    - https://www.youtube.com/watch?v=HcL98r4G-_8&t=2165s
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1663s
+    length: 1,000m
+    averageSlope: 15°
+  - name: パノラマ第3ゲレンデ尾根コース
+    difficulty: intermediate
+    videoLinks:
+    - https://www.youtube.com/watch?v=HcL98r4G-_8&t=616s
+    - https://www.youtube.com/watch?v=HcL98r4G-_8&t=2008s
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1490s
+  - name: 当間第4ゲレンデメインコース
+    difficulty: intermediate
+    videoLinks:
+    - https://www.youtube.com/watch?v=HcL98r4G-_8&t=914s
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=2108s
+    length: 2,000m
+    averageSlope: 12°
+  - name: 大沢ジャイアントコース
+    difficulty: mixed
+    length: 1,200m
+    averageSlope: 15°
+  - name: 美奈第1ゲレンデ
+    difficulty: mixed
+    length: 1,000m
+    videoLinks:
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=388s
+    averageSlope: 16°
+  - name: パノラマ第2ゲレンデ
+    difficulty: mixed
+    videoLinks:
+    - https://www.youtube.com/watch?v=HcL98r4G-_8&t=428s
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=1265s
+    length: 1,000m
+    averageSlope: 12°
+  - name: 当間第4ゲレンデ中コース
+    difficulty: mixed
+    videoLinks:
+    - https://www.youtube.com/watch?v=HcL98r4G-_8&t=1450s
+    - https://www.youtube.com/watch?v=Q3o8kUN9i_c&t=2108s
+    length: 980m
+    averageSlope: 12°
+  - name: 大別当チャンピオンコース
+    difficulty: advanced
+    length: 700m
+    maxSlope: 38°
+    averageSlope: 20°
 access:
   fromTokyo:
   - label: 東京出發
@@ -226,19 +232,19 @@ terrainSummary:
   snowboard: 雙板與雪板使用規則請以官方公告為準。
 externalContent:
   blogs:
-    - title: "新潟上越國際滑雪場，214個東京巨蛋面積的超大型滑雪場"
-      url: https://natasha-traveler.tw/jkokusai-ski/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "上越國際滑雪場住宿︱歐式風情無限的Hotel Green Plaza Joetsu"
-      url: https://natasha-traveler.tw/hotel-green-plaza-joetsu/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "日本滑雪自由行｜如何從越後湯澤車站到上越國際滑雪場?"
-      url: https://natasha-traveler.tw/jkokusai-bus/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: 新潟上越國際滑雪場，214個東京巨蛋面積的超大型滑雪場
+    url: https://natasha-traveler.tw/jkokusai-ski/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 上越國際滑雪場住宿︱歐式風情無限的Hotel Green Plaza Joetsu
+    url: https://natasha-traveler.tw/hotel-green-plaza-joetsu/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 日本滑雪自由行｜如何從越後湯澤車站到上越國際滑雪場?
+    url: https://natasha-traveler.tw/jkokusai-bus/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs:
-    - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
-      url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=344s
-      note: "MIRU tube JAPAN 【Route Guide】"
+  - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
+    url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=344s
+    note: MIRU tube JAPAN 【Route Guide】
 sources:
 - label: Joetsu Kokusai Ski Resort Official Website
   url: https://jkokusai.co.jp/ski/

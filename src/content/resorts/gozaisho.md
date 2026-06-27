@@ -1,95 +1,98 @@
 ---
-id: "gozaisho"
+id: gozaisho
 name:
-  zhTw: "御在所"
-  ja: "御在所スキー場"
-  en: "Gozaisho Ski Area"
-region: "chubu"
-prefecture: "三重縣"
+  zhTw: 御在所
+  ja: 御在所スキー場
+  en: Gozaisho Ski Area
+region: chubu
+prefecture: 三重縣
 tags:
-  - "family_friendly"
-  - "no_car_accessible"
+- family_friendly
+- no_car_accessible
 links:
-  official: "https://www.gozaisho.co.jp/"
-  facebook: "https://www.facebook.com/gozaisho"
-  instagram: "https://www.instagram.com/gozaisho_ropeway/"
-  xTwitter: "https://x.com/gozaishoropeway"
-  weather: "https://weathernews.jp/ski/spot/35301/"
-  ticket: "https://weathernews.jp/ski/spot/35301/"
-  access: "https://weathernews.jp/ski/spot/35301/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=35.020483,136.422461"
+  official: https://www.gozaisho.co.jp/
+  facebook: https://www.facebook.com/gozaisho
+  instagram: https://www.instagram.com/gozaisho_ropeway/
+  xTwitter: https://x.com/gozaishoropeway
+  weather: https://weathernews.jp/ski/spot/35301/
+  ticket: https://weathernews.jp/ski/spot/35301/
+  access: https://weathernews.jp/ski/spot/35301/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=35.020483,136.422461
 contact:
   address:
-    zhTw: "日本三重縣三重郡菰野町湯之山溫泉"
-    ja: "〒510-1233 三重県三重郡菰野町湯の山温泉"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=35.020483,136.422461"
-  phone: "059-392-2261"
+    zhTw: 日本三重縣三重郡菰野町湯之山溫泉
+    ja: 〒510-1233 三重県三重郡菰野町湯の山温泉
+    googleMaps: https://www.google.com/maps/search/?api=1&query=35.020483,136.422461
+  phone: 059-392-2261
 season:
-  label: "2025-2026"
-  operatingPeriod: "2026/1/10-2026/3/15"
-  hours: "纜車 9:00-16:00；滑雪纜車 9:30-15:30"
-  note: "無夜滑；雪場位於御在所岳山上，需另行搭乘纜車上山，營業時間可能依天候調整。"
-  source: "https://weathernews.jp/ski/spot/35301/"
+  label: 2025-2026
+  operatingPeriod: 2026/1/10-2026/3/15
+  hours: 纜車 9:00-16:00；滑雪纜車 9:30-15:30
+  note: 無夜滑；雪場位於御在所岳山上，需另行搭乘纜車上山，營業時間可能依天候調整。
+  source: https://weathernews.jp/ski/spot/35301/
 tickets:
-  season: "2025-2026"
-  currency: "JPY"
-  source: "https://weathernews.jp/ski/spot/35301/"
-  note: "主要票種摘要；纜車上山費用另計，完整規則請以官方公告為準。"
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/35301/
+  note: 主要票種摘要；纜車上山費用另計，完整規則請以官方公告為準。
   plans:
-    - name: "1 回券"
-      audience: "成人、兒童"
-      price: "成人 ¥300、兒童 ¥300"
-    - name: "6 回券"
-      audience: "成人、兒童"
-      price: "成人 ¥1,000、兒童 ¥1,000"
-    - name: "週末假日 1 日券"
-      audience: "成人、兒童"
-      price: "成人 ¥2,000、兒童 ¥2,000"
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥300
+    - 兒童 ¥300
+  - name: 6 回券
+    priceLines:
+    - 成人 ¥1,000
+    - 兒童 ¥1,000
+  - name: 週末假日 1 日券
+    priceLines:
+    - 成人 ¥2,000
+    - 兒童 ¥2,000
 snowWeather:
-  title: "御在所雪況天氣"
-  provider: "Weathernews"
-  url: "https://weathernews.jp/ski/spot/35301/"
+  title: 御在所雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/35301/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
-  note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
+  note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
   latitude: 35.020483
   longitude: 136.422461
 courses:
   total: 2
-  courseInfoPage: "https://weathernews.jp/ski/spot/35301/"
-  summary: "三重縣唯一的山上型小型雪場，共有 2 條滑雪路線，雪板不可滑行，並設有雪橇專用區。"
+  courseInfoPage: https://weathernews.jp/ski/spot/35301/
+  summary: 三重縣唯一的山上型小型雪場，共有 2 條滑雪路線，雪板不可滑行，並設有雪橇專用區。
   details:
-    - name: "雪道 1"
-      difficulty: mixed
-      note: "目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。"
-    - name: "雪道 2"
-      difficulty: mixed
-      note: "目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。"
+  - name: 雪道 1
+    difficulty: mixed
+    note: 目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。
+  - name: 雪道 2
+    difficulty: mixed
+    note: 目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。
 lifts:
   total: 2
 access:
   fromNagoya:
-    - label: "湯之山溫泉站與御在所纜車"
-      steps:
-        - "從名古屋方向搭近鐵到湯之山溫泉站。"
-        - "從湯之山溫泉站銜接巴士或計程車至御在所纜車山麓站。"
-        - "搭御在所纜車上山後前往雪場。"
-      difficulty: "medium"
-      note: "雪場位於山上，滑雪費用之外需另行安排纜車票與下山時間。"
+  - label: 湯之山溫泉站與御在所纜車
+    steps:
+    - 從名古屋方向搭近鐵到湯之山溫泉站。
+    - 從湯之山溫泉站銜接巴士或計程車至御在所纜車山麓站。
+    - 搭御在所纜車上山後前往雪場。
+    difficulty: medium
+    note: 雪場位於山上，滑雪費用之外需另行安排纜車票與下山時間。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從新名神菰野 IC 約 10 分鐘，或從東名阪四日市 IC 約 20 分鐘至纜車山麓側停車場；停車場約 300 台，平日與假日收費。"
+    note: 從新名神菰野 IC 約 10 分鐘，或從東名阪四日市 IC 約 20 分鐘至纜車山麓側停車場；停車場約 300 台，平日與假日收費。
 terrainSummary:
-  beginner: "以小型坡面與雪橇區為主，較偏親子雪上活動。"
-  snowboard: "雪板不可滑行。"
+  beginner: 以小型坡面與雪橇區為主，較偏親子雪上活動。
+  snowboard: 雪板不可滑行。
 sources:
-  - label: "Gozaisho Ropeway Official"
-    url: "https://www.gozaisho.co.jp/"
-  - label: "Weathernews 御在所スキー場"
-    url: "https://weathernews.jp/ski/spot/35301/"
+- label: Gozaisho Ropeway Official
+  url: https://www.gozaisho.co.jp/
+- label: Weathernews 御在所スキー場
+  url: https://weathernews.jp/ski/spot/35301/
 ---
 
 御在所在三重縣提供 2 條雪道，搭配 2 座纜車。僅保留已確認的規模與路線配置，頁面資訊以基本規格與路線配置為主；標籤上偏向親子同行。

@@ -16,9 +16,9 @@ tags:
 - tree_run
 links:
   official: https://resort.en-hotel.com/grandeco/snow/ja/
-  facebook: "https://www.facebook.com/En-Resort-Grandeco-125932050405440"
-  instagram: "https://www.instagram.com/en_resort_grandeco_official/"
-  xTwitter: "https://x.com/grandeco"
+  facebook: https://www.facebook.com/En-Resort-Grandeco-125932050405440
+  instagram: https://www.instagram.com/en_resort_grandeco_official/
+  xTwitter: https://x.com/grandeco
   trailMapPage: https://resort.en-hotel.com/grandeco/snow/ja/
   ticket: https://resort.en-hotel.com/grandeco/snow/ja/
   access: https://resort.en-hotel.com/grandeco/snow/ja/
@@ -27,7 +27,7 @@ links:
 contact:
   address:
     zhTw: 福島縣耶麻郡北鹽原村檜原荒砂澤山 1082-93
-    ja: "〒969-2701 福島県耶麻郡北塩原村檜原荒砂沢山1082-93"
+    ja: 〒969-2701 福島県耶麻郡北塩原村檜原荒砂沢山1082-93
     googleMaps: https://www.google.com/maps/search/?api=1&query=Grandeco%20Snow%20Resort
   phone: 0241-32-2530
 season:
@@ -49,16 +49,22 @@ tickets:
   note: 主要日間票摘要；官方票價分為 pre-season、regular season 與 spring season，並依年齡與平假日區分。完整線上價格與票種請以官方頁面為準。
   plans:
   - name: Regular season 1 日券（平日）
-    audience: 成人、長者、青少年、兒童
-    price: 成人 ¥5,900、長者 ¥5,500、青少年 ¥4,900、兒童 ¥4,100
+    priceLines:
+    - 成人 ¥5,900
+    - 長者 ¥5,500
+    - 青少年 ¥4,900
+    - 兒童 ¥4,100
     note: Regular season 平日票價摘要
   - name: Regular season 1 日券（週末假日）
-    audience: 成人、長者、青少年、兒童
-    price: 成人 ¥6,500、長者 ¥6,100、青少年 ¥5,500、兒童 ¥4,500
+    priceLines:
+    - 成人 ¥6,500
+    - 長者 ¥6,100
+    - 青少年 ¥5,500
+    - 兒童 ¥4,500
     note: Regular season 週末與假日票價摘要
   - name: Pre-season / Spring 1 日券
-    audience: 成人、長者、青少年、兒童
-    price: 一律 ¥4,300
+    priceLines:
+    - 一律 ¥4,300
     note: Pre-season 與 Spring season 的一般 1 日券摘要
 snowWeather:
   title: Grandeco雪況天氣
@@ -90,9 +96,9 @@ courses:
     averageSlope: 10°
     note: 官方說明為初級路線，雪道沿線有白樺與林間景觀。
     videoLinks:
-      - https://www.youtube.com/watch?v=MHJDzZwTc74&t=363s
-      - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=987s
-      - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1241s
+    - https://www.youtube.com/watch?v=MHJDzZwTc74&t=363s
+    - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=987s
+    - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1241s
   - name: Hotel Road
     difficulty: beginner
     length: 1,000m
@@ -106,10 +112,10 @@ courses:
     averageSlope: 8°
     note: 官方列為初級主線路線；官方資料並列出全長 1,800m、最大坡度 18°、平均坡度 8°。
     videoLinks:
-      - https://www.youtube.com/watch?v=MHJDzZwTc74&t=776s
-      - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=366s
-      - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=865s
-      - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1081s
+    - https://www.youtube.com/watch?v=MHJDzZwTc74&t=776s
+    - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=366s
+    - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=865s
+    - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1081s
   - name: Road to Powder
     difficulty: intermediate
     length: 1,000m
@@ -123,8 +129,8 @@ courses:
     averageSlope: 13°
     note: 官方說明此路線可從山頂長距離巡航，並可欣賞磐梯山與裏磐梯景觀。
     videoLinks:
-      - https://www.youtube.com/watch?v=MHJDzZwTc74&t=558s
-      - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=692s
+    - https://www.youtube.com/watch?v=MHJDzZwTc74&t=558s
+    - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=692s
   - name: Alpen
     difficulty: intermediate
     length: 850m
@@ -132,15 +138,15 @@ courses:
     averageSlope: 11°
     note: 官方列為中級路線；官方資料並列出全長 850m、最大坡度 26°、平均坡度 11°。
     videoLinks:
-      - https://www.youtube.com/watch?v=MHJDzZwTc74&t=344s
-      - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=904s
+    - https://www.youtube.com/watch?v=MHJDzZwTc74&t=344s
+    - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=904s
   - name: Powder
     difficulty: intermediate
     length: 600m
     maxSlope: 19°
     averageSlope: 12°
     videoLinks:
-      - https://www.youtube.com/watch?v=MHJDzZwTc74&t=173s
+    - https://www.youtube.com/watch?v=MHJDzZwTc74&t=173s
     note: 官方列為粉雪取向路線；官方資料並列出全長 600m、最大坡度 19°、平均坡度 12°。
   - name: Fall Line
     difficulty: intermediate
@@ -149,7 +155,7 @@ courses:
     averageSlope: 12°
     note: 官方列為沿最大傾斜方向滑行的路線；官方資料並列出全長 450m、最大坡度 21°、平均坡度 12°。
     videoLinks:
-      - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1555s
+    - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1555s
   - name: Center 33
     difficulty: advanced
     length: 450m
@@ -163,8 +169,8 @@ courses:
     averageSlope: 20°
     note: 官方列為上級路線；官方資料並列出全長 450m、最大坡度 30°、平均坡度 20°。
     videoLinks:
-      - https://www.youtube.com/watch?v=MHJDzZwTc74&t=438s
-      - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=202s
+    - https://www.youtube.com/watch?v=MHJDzZwTc74&t=438s
+    - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=202s
   - name: Free Ride
     difficulty: advanced
     length: 650m
@@ -172,7 +178,7 @@ courses:
     averageSlope: 15°
     note: 官方列為 freeride 取向路線，實際開放與規則請依官方公告；官方資料並列出全長 650m、最大坡度 30°、平均坡度 15°。
     videoLinks:
-      - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1453s
+    - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1453s
 lifts:
   total: 5
 access:
@@ -200,15 +206,15 @@ terrainSummary:
   powder: Powder、Road to Powder、Free Ride 與高海拔區域在新雪後較有粉雪行程彈性。
 externalContent:
   blogs:
-    - title: "EN Resort Grandeco飯店住宿心得︱ski in/out 滑雪進出，車站免費接送，精緻度假飯店"
-      url: https://natasha-traveler.tw/en-resort-grandeco/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "日本東北︱Grandeco滑雪場，雪季長、雪質好，ski in/out滑雪進出"
-      url: https://natasha-traveler.tw/grandeco-ski/
-      note: "娜塔蝦的滑雪食旅手記"
-    - title: "日本滑雪｜裏磐梯Grandeco滑雪場｜東北評鑑第一的滑雪場"
-      url: https://natasha-traveler.tw/grandeco-ski-resort/
-      note: "娜塔蝦的滑雪食旅手記"
+  - title: EN Resort Grandeco飯店住宿心得︱ski in/out 滑雪進出，車站免費接送，精緻度假飯店
+    url: https://natasha-traveler.tw/en-resort-grandeco/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 日本東北︱Grandeco滑雪場，雪季長、雪質好，ski in/out滑雪進出
+    url: https://natasha-traveler.tw/grandeco-ski/
+    note: 娜塔蝦的滑雪食旅手記
+  - title: 日本滑雪｜裏磐梯Grandeco滑雪場｜東北評鑑第一的滑雪場
+    url: https://natasha-traveler.tw/grandeco-ski-resort/
+    note: 娜塔蝦的滑雪食旅手記
   vlogs: []
 sources:
 - label: Grandeco Snow Resort Official Website

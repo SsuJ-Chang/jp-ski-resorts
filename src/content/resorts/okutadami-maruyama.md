@@ -12,8 +12,8 @@ tags:
 - no_car_accessible
 links:
   official: http://okutadami.co.jp/ski/
-  instagram: "https://www.instagram.com/okutadami_shipski/"
-  xTwitter: "https://x.com/OkutaShipski"
+  instagram: https://www.instagram.com/okutadami_shipski/
+  xTwitter: https://x.com/OkutaShipski
   weather: https://weathernews.jp/ski/spot/35431/
   access: http://www.okutadami.co.jp/ski/access3.html
   googleMaps: https://www.google.com/maps/search/?api=1&query=Okutadami%20Maruyama%20Ski%20Resort
@@ -36,17 +36,19 @@ tickets:
   note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、套票與長者證明規則請以官方為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥5,000、兒童 ¥1,800、長者 ¥4,300
+    priceLines:
+    - 成人 ¥5,000
+    - 兒童 ¥1,800
+    - 長者 ¥4,300
   - name: 上午券
-    audience: 成人
-    price: 成人 ¥3,800
+    priceLines:
+    - 成人 ¥3,800
   - name: 下午券
-    audience: 成人
-    price: 成人 ¥3,800
+    priceLines:
+    - 成人 ¥3,800
   - name: 2 日券
-    audience: 成人
-    price: 成人 ¥8,500
+    priceLines:
+    - 成人 ¥8,500
 snowWeather:
   title: 奧只見丸山雪況天氣
   provider: Weathernews
@@ -74,17 +76,17 @@ courses:
     difficulty: beginner
     note: ブナ原生林中的林間路線，官方建議可供初級者練習，也適合中上級者休息滑。
     videoLinks:
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=361s
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=416s
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=782s
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=848s
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1504s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=361s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=416s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=782s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=848s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1504s
   - name: カモシカゲレンデ B・Cコース
     difficulty: intermediate
     note: カモシカ主雪場中變化較多的中級練習路線。
     videoLinks:
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=230s
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=920s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=230s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=920s
   - name: 八崎ゲレンデ
     difficulty: intermediate
     averageSlope: 15°
@@ -93,40 +95,40 @@ courses:
     difficulty: expert
     note: 官方標示為エキスパート向け的下部路線。
     videoLinks:
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=145s
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=574s
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1303s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=145s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=574s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1303s
   - name: カモシカゲレンデ Eコース
     difficulty: ungroomed
     note: 春季限定開放的非壓雪路線，可享受粉雪與春季雪包。
     videoLinks:
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1117s
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1370s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1117s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1370s
   - name: 丸山ゲレンデ
     difficulty: mixed
     note: 山頂景觀開闊，官方介紹良質雪況受初中級者歡迎，春季可搭配 snow park。
     videoLinks:
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=537s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=537s
   - name: カモシカゲレンデ Dコース
     difficulty: mixed
     note: 春季限定開放，官方介紹為可享受ブナ林景觀的林間路線。
     videoLinks:
-      - https://www.youtube.com/watch?v=OkFyM-vlew0&t=623s
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=623s
 lifts:
   total: 5
 access:
   fromTokyo:
-    - label: "東京出發經浦佐"
-      steps:
-        - "從東京搭上越新幹線到浦佐站。"
-        - "從浦佐站東口搭完全預約制免費接駁巴士前往奧只見丸山。"
-      estimatedTime: "浦佐後約 80 分"
-      difficulty: "hard"
-      note: "免費接駁巴士需於使用日前一天 15:00 前電話預約；沒有預約的日子不運行，且可能受天候與道路狀況延遲。"
+  - label: 東京出發經浦佐
+    steps:
+    - 從東京搭上越新幹線到浦佐站。
+    - 從浦佐站東口搭完全預約制免費接駁巴士前往奧只見丸山。
+    estimatedTime: 浦佐後約 80 分
+    difficulty: hard
+    note: 免費接駁巴士需於使用日前一天 15:00 前電話預約；沒有預約的日子不運行，且可能受天候與道路狀況延遲。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從魚沼 IC（舊小出 IC）往奧只見方向約 35km，需行經奧只見 Silver Line 隧道路段；途中沒有加油站，建議在魚沼 IC 周邊先補給。停車場約 700 台，平日免費，週末、國定假日與特定日第 1、第 2 停車場收費。"
+    note: 從魚沼 IC（舊小出 IC）往奧只見方向約 35km，需行經奧只見 Silver Line 隧道路段；途中沒有加油站，建議在魚沼 IC 周邊先補給。停車場約 700 台，平日免費，週末、國定假日與特定日第 1、第 2 停車場收費。
 terrainSummary:
   beginner: 初級比例約 40%，可作為春季練習與暖身路線參考。
   intermediate: 中級與上級比例接近，適合有基礎後再安排行程。

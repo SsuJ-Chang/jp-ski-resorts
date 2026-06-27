@@ -37,20 +37,25 @@ tickets:
   note: 官方設施頁列出的主要纜車與滑雪手扶梯使用費；營業年度如有調整請以官方公告為準。
   plans:
   - name: 纜車 1 日券
-    audience: 成人、國中生以下
-    price: 成人 ¥2,000、國中生以下 ¥1,000
+    priceLines:
+    - 成人 ¥2,000
+    - 國中生以下 ¥1,000
   - name: 纜車半日券
-    audience: 成人、國中生以下
-    price: 成人 ¥1,500、國中生以下 ¥750
+    priceLines:
+    - 成人 ¥1,500
+    - 國中生以下 ¥750
   - name: 纜車夜滑券
-    audience: 成人、國中生以下
-    price: 成人 ¥1,500、國中生以下 ¥750
+    priceLines:
+    - 成人 ¥1,500
+    - 國中生以下 ¥750
   - name: 纜車回數券 6 回
-    audience: 成人、國中生以下
-    price: 成人 ¥800、國中生以下 ¥400
+    priceLines:
+    - 成人 ¥800
+    - 國中生以下 ¥400
   - name: 滑雪手扶梯 1 日券
-    audience: 成人、國中生以下
-    price: 成人 ¥1,000、國中生以下 ¥500
+    priceLines:
+    - 成人 ¥1,000
+    - 國中生以下 ¥500
 snowWeather:
   title: 七尾 Korosa 雪況天氣
   provider: Weathernews
@@ -82,20 +87,20 @@ lifts:
   total: 1
 access:
   fromAirport:
-    - label: 能登機場出發
-      steps:
-        - 從能登機場租車、包車或搭計程車往七尾市多根町方向。
-        - 依當日道路狀況前往七尾 Korosa 停車場。
-      estimatedTime: 約 100 分
-      difficulty: hard
-      note: 公開資料未列出可直達雪場的大眾運輸；冬季能登半島道路與營業狀況需出發前確認。
+  - label: 能登機場出發
+    steps:
+    - 從能登機場租車、包車或搭計程車往七尾市多根町方向。
+    - 依當日道路狀況前往七尾 Korosa 停車場。
+    estimatedTime: 約 100 分
+    difficulty: hard
+    note: 公開資料未列出可直達雪場的大眾運輸；冬季能登半島道路與營業狀況需出發前確認。
   fromTokyo:
-    - label: 東京出發經七尾
-      steps:
-        - 從東京搭北陸新幹線到金澤，轉乘 JR 或 IR 相關路線前往七尾站。
-        - 從七尾站轉租車或計程車前往雪場。
-      difficulty: hard
-      note: 七尾站後約 35 分鐘；大眾運輸無直達雪場班次，建議先確認叫車與回程安排。
+  - label: 東京出發經七尾
+    steps:
+    - 從東京搭北陸新幹線到金澤，轉乘 JR 或 IR 相關路線前往七尾站。
+    - 從七尾站轉租車或計程車前往雪場。
+    difficulty: hard
+    note: 七尾站後約 35 分鐘；大眾運輸無直達雪場班次，建議先確認叫車與回程安排。
   car:
     recommended: true
     snowTireRequired: true

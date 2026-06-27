@@ -14,8 +14,8 @@ visibility:
   note: 石川縣白山市雪場，未歸入現有 skiArea enum。
 links:
   official: https://www.sam-hakusan.com/white/seymour/
-  facebook: "https://www.facebook.com/seymour.hakusan"
-  instagram: "https://www.instagram.com/samhakusan/"
+  facebook: https://www.facebook.com/seymour.hakusan
+  instagram: https://www.instagram.com/samhakusan/
   trailMapPage: https://www.sam-hakusan.com/white/seymour/course/
   ticket: https://www.sam-hakusan.com/white/seymour/lift/
   access: https://www.sam-hakusan.com/white/seymour/access/
@@ -46,18 +46,23 @@ tickets:
   note: 2025-2026 主要票種摘要；2026-2027 雪季請以官方更新為準。
   plans:
   - name: 1 日券
-    audience: 成人、兒童、長者
-    price: 成人 ¥4,500、兒童 ¥3,500、長者 ¥4,000
+    priceLines:
+    - 成人 ¥4,500
+    - 兒童 ¥3,500
+    - 長者 ¥4,000
     note: 兒童為 4 歲以上至小學生，長者為 60 歲以上。
   - name: 2 日券
-    audience: 成人、兒童
-    price: 成人 ¥8,500、兒童 ¥6,500
+    priceLines:
+    - 成人 ¥8,500
+    - 兒童 ¥6,500
   - name: 半日券
-    audience: 成人、兒童
-    price: 成人 ¥4,000、兒童 ¥3,300
+    priceLines:
+    - 成人 ¥4,000
+    - 兒童 ¥3,300
     note: 營業開始至 13:00，或 12:00 至營業結束。
   - name: 1 回券
-    price: ¥450
+    priceLines:
+    - ¥450
 snowWeather:
   title: 白山千丈溫泉 Seymour 雪況天氣
   provider: Weathernews
@@ -123,12 +128,12 @@ lifts:
   total: 4
 access:
   fromTokyo:
-    - label: 東京出發經金澤
-      steps:
-        - 從東京搭北陸新幹線到金澤站。
-        - 轉乘北陸鐵道當季直行滑雪巴士前往白山 Seymour。
-      difficulty: medium
-      note: 直行滑雪巴士運行日、時刻與運價需以北陸鐵道當季資訊為準；積雪或天候不佳時可能停駛或調整。
+  - label: 東京出發經金澤
+    steps:
+    - 從東京搭北陸新幹線到金澤站。
+    - 轉乘北陸鐵道當季直行滑雪巴士前往白山 Seymour。
+    difficulty: medium
+    note: 直行滑雪巴士運行日、時刻與運價需以北陸鐵道當季資訊為準；積雪或天候不佳時可能停駛或調整。
   car:
     recommended: true
     snowTireRequired: true

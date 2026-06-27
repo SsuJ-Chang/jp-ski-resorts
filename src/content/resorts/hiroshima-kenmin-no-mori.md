@@ -11,9 +11,9 @@ tags:
 - tree_run
 links:
   official: https://hiroshima-kenmori.com/
-  facebook: "https://www.facebook.com/kenminnomori"
-  instagram: "https://www.instagram.com/hiba__stagram/"
-  xTwitter: "https://twitter.com/kenmori_agri"
+  facebook: https://www.facebook.com/kenminnomori
+  instagram: https://www.instagram.com/hiba__stagram/
+  xTwitter: https://twitter.com/kenmori_agri
   trailMapPage: https://hiroshima-kenmori.com/
   weather: https://weathernews.jp/ski/spot/36713/
   googleMaps: https://maps.google.co.jp/maps?q=35.0662,133.0747
@@ -72,25 +72,31 @@ contact:
     zhTw: 廣島縣庄原市西城町油木156-14
     ja: 〒729-5602 広島県庄原市西城町油木156-14
     googleMaps: https://maps.google.co.jp/maps?q=35.0662,133.0747
-  phone: "0824-84-2011"
+  phone: 0824-84-2011
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/36713/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券
-    price: 成人 ¥4,900 兒童 ¥2,800 樂齡 ¥2,800
-  - name: 2日券
-    price: 成人 ¥8,600
-  - name: 午前券
-    price: 成人 ¥3,500
-  - name: 午後券
-    price: 成人 ¥3,500
-  - name: 12回券
-    price: 成人 ¥4,200
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,900 兒童 ¥2,800 樂齡 ¥2,800
+  - name: 2 日券
+    priceLines:
+    - 成人 ¥8,600
+  - name: 上午券
+    priceLines:
+    - 成人 ¥3,500
+  - name: 下午券
+    priceLines:
+    - 成人 ¥3,500
+  - name: 12 回券
+    priceLines:
+    - 成人 ¥4,200
   - name: 初滑り情報 12月19日(週五）プレ開放。開放は翌日12月21日(週六)の予定です。積雪達しましたら滑れます。
-    price: 請見官方公告
+    priceLines:
+    - 請見官方公告
 elevation:
   top: 1080
   bottom: 930
@@ -104,8 +110,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：芸備線 JR備後落合駅よりタクシー (20分) 車 ：中国自動車道庄原ICよりR183〜R314経由 約40km (45分) 車 ：中国自動車道東城ICよりR314経由 約40km (45分)
-      500台 平日 免費 假日 免費
+    note: 交通資訊摘要：芸備線 JR備後落合駅よりタクシー (20分) 車 ：中国自動車道庄原ICよりR183〜R314経由 約40km (45分) 車 ：中国自動車道東城ICよりR314経由 約40km (45分) 500台 平日 免費 假日 免費
 ---
 
 廣島縣民之森是廣島縣的小型雪場，共有 4 條雪道，搭配 2 座纜車。雪道如 第1ゲレンデ、第2ゲレンデ，初級、中級與上級路線都有配置，標籤偏向雙板與單板。

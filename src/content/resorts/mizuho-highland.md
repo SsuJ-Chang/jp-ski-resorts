@@ -11,9 +11,9 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.mizuhohighland.com/
-  facebook: "https://www.facebook.com/highland.mizuho/"
-  instagram: "https://instagram.com/mizuho_highland/"
-  xTwitter: "https://twitter.com/mizuhohighland/"
+  facebook: https://www.facebook.com/highland.mizuho/
+  instagram: https://instagram.com/mizuho_highland/
+  xTwitter: https://twitter.com/mizuhohighland/
   trailMapPage: https://www.mizuhohighland.com/course/
   weather: https://weathernews.jp/ski/spot/36801/
   googleMaps: https://maps.google.co.jp/maps?q=34.815403,132.400701
@@ -87,7 +87,7 @@ contact:
     zhTw: 島根縣邑智郡邑南町市木6242-19
     ja: 〒697-0631 島根県邑智郡邑南町市木6242-19
     googleMaps: https://maps.google.co.jp/maps?q=34.815403,132.400701
-  phone: "0855-85-1111"
+  phone: 0855-85-1111
 tickets:
   season: 2025-2026
   currency: JPY
@@ -95,17 +95,23 @@ tickets:
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
   - name: 假日1日券（假日）
-    price: 成人 ¥6,500 兒童 ¥2,900
+    priceLines:
+    - 成人 ¥6,500 兒童 ¥2,900
   - name: 假日ランチパック券假日（ランチ券¥1,000分付一日券）
-    price: 成人 ¥7,800 兒童 ¥4,200
+    priceLines:
+    - 成人 ¥7,800 兒童 ¥4,200
   - name: 平日1日券（平日）
-    price: 成人 ¥5,400 兒童 ¥2,100
+    priceLines:
+    - 成人 ¥5,400 兒童 ¥2,100
   - name: 平日ランチパック平日（ランチ券¥1,000券付1日券）
-    price: 成人 ¥6,700 兒童 ¥3,400
+    priceLines:
+    - 成人 ¥6,700 兒童 ¥3,400
   - name: 假日3時間券（假日）
-    price: 成人 ¥4,300 兒童 ¥2,600
+    priceLines:
+    - 成人 ¥4,300 兒童 ¥2,600
   - name: 假日5時間券（假日）
-    price: 成人 ¥6,300
+    priceLines:
+    - 成人 ¥6,300
 elevation:
   top: 1212
   bottom: 491
@@ -119,8 +125,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：山陽本線広島駅からバスで (70分) 車 ：広島IC→瑞穂IC→一般道 (50分) 車 ：岡山IC→瑞穂IC→一般道 (161分) 飛行機：広島空港 (100分) 2000台 平日 普通車1000円大型車2000円
-      假日 普通車1000円大型車2000円
+    note: 交通資訊摘要：山陽本線広島駅からバスで (70分) 車 ：広島IC→瑞穂IC→一般道 (50分) 車 ：岡山IC→瑞穂IC→一般道 (161分) 飛行機：広島空港 (100分) 2000台 平日 普通車1000円大型車2000円 假日 普通車1000円大型車2000円
 ---
 
 瑞穗 Highland位於島根縣，共有5 條雪道、3 座纜車，規模雖然不大，但雪道集中，半天到一天就能把主要路線輪過一遍。ナスターコース、ビーチコース能看出這裡仍是地方型雪場常見的短中距離坡段。比起追求刷里程，這裡更適合把時間放在動作熟悉與同伴配速。

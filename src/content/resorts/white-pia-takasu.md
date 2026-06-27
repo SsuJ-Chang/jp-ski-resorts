@@ -15,9 +15,9 @@ tags:
 - onsen
 links:
   official: https://whitepia.jp/
-  facebook: "https://www.facebook.com/whitepia/"
-  instagram: "https://www.instagram.com/whitepiatakasu/"
-  xTwitter: "https://twitter.com/whitepia_takasu"
+  facebook: https://www.facebook.com/whitepia/
+  instagram: https://www.instagram.com/whitepiatakasu/
+  xTwitter: https://twitter.com/whitepia_takasu
   trailMapPage: https://whitepia.jp/gerende/
   ticket: https://www.takasumountains.com/lift/
   access: https://whitepia.jp/access/
@@ -48,8 +48,11 @@ tickets:
   note: TAKASU MOUNTAINS 6 雪場共通券摘要；單獨券與 Sunrise 營業請以官方頁面為準。
   plans:
   - name: 6 雪場共通 1 日券
-    audience: 成人、兒童、長者、中高生
-    price: 成人 ¥6,500、兒童 ¥3,800、長者 ¥5,500、中高生 ¥4,500
+    priceLines:
+    - 成人 ¥6,500
+    - 兒童 ¥3,800
+    - 長者 ¥5,500
+    - 中高生 ¥4,500
 snowWeather:
   title: White Pia たかす雪況天氣
   provider: Weathernews
@@ -114,13 +117,13 @@ lifts:
   total: 4
 access:
   fromNagoya:
-    - label: 名古屋出發高速巴士與接駁
-      steps:
-        - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
-        - 轉乘 Takasu Snow Shuttle Bus 鷲ヶ岳 LINE 前往 White Pia たかす。
-      estimatedTime: 約 2.5-3 小時
-      difficulty: medium
-      note: 免費接駁有季節與班次限制；部分時段只停靠特定方向，需行前確認上下車站與回程班次。
+  - label: 名古屋出發高速巴士與接駁
+    steps:
+    - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
+    - 轉乘 Takasu Snow Shuttle Bus 鷲ヶ岳 LINE 前往 White Pia たかす。
+    estimatedTime: 約 2.5-3 小時
+    difficulty: medium
+    note: 免費接駁有季節與班次限制；部分時段只停靠特定方向，需行前確認上下車站與回程班次。
   car:
     recommended: true
     snowTireRequired: true
