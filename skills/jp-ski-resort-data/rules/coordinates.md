@@ -1,3 +1,8 @@
+---
+name: resort-coordinate-rules
+description: Reference rules for resort coordinates, Google Maps links, area map nodes, and verification steps used by the jp-ski-resort-data skill.
+---
+
 # Resort Coordinate Rules
 
 ## Resort Content
