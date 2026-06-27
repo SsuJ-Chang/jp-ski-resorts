@@ -1,6 +1,7 @@
 ---
 import { render } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro'
+import CollapsibleLinkList from '../../components/CollapsibleLinkList.astro'
 import RjOpinion from '../../components/RjOpinion.astro'
 import { regions } from '../../data/regions'
 import { tagLabels } from '../../data/tags'
@@ -743,46 +744,18 @@ const resortStructuredData = [
           <section class="info-panel detail-panel detail-panel--wide external-content-panel">
             <h2>其他資訊</h2>
             {resort.data.externalContent?.blogs && resort.data.externalContent.blogs.length > 0 && (
-              <>
-                <h3 class="subsection-title">遊記</h3>
-                <ul class="link-list">
-                  {resort.data.externalContent.blogs.map((blog) => (
-                    <li>
-                      <a
-                        href={blog.url}
-                        target="_blank"
-                        rel="noreferrer"
-                        data-analytics-resource="blog"
-                        data-analytics-label={blog.title}
-                        data-analytics-note={blog.note}
-                      >
-                        {blog.title}
-                      </a>
-                    </li>
-                  ))}
-                </ul>
-              </>
+              <CollapsibleLinkList
+                title="遊記"
+                items={resort.data.externalContent.blogs}
+                analyticsResource="blog"
+              />
             )}
             {resort.data.externalContent?.vlogs && resort.data.externalContent.vlogs.length > 0 && (
-              <>
-                <h3 class="subsection-title">影片</h3>
-                <ul class="link-list">
-                  {resort.data.externalContent.vlogs.map((vlog) => (
-                    <li>
-                      <a
-                        href={vlog.url}
-                        target="_blank"
-                        rel="noreferrer"
-                        data-analytics-resource="vlog"
-                        data-analytics-label={vlog.title}
-                        data-analytics-note={vlog.note}
-                      >
-                        {vlog.title}
-                      </a>
-                    </li>
-                  ))}
-                </ul>
-              </>
+              <CollapsibleLinkList
+                title="影片"
+                items={resort.data.externalContent.vlogs}
+                analyticsResource="vlog"
+              />
             )}
           </section>
         )

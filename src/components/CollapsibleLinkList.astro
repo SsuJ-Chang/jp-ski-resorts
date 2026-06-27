@@ -1,0 +1,130 @@
+---
+type LinkItem = {
+  title: string
+  url: string
+  note?: string
+}
+
+type Props = {
+  title: string
+  items: LinkItem[]
+  analyticsResource: string
+  limit?: number
+}
+
+const { title, items, analyticsResource, limit = 5 } = Astro.props
+const visibleItems = items.slice(0, limit)
+const hiddenItems = items.slice(limit)
+const hasOverflow = hiddenItems.length > 0
+const hiddenCount = hiddenItems.length
+---
+
+<h3 class="subsection-title">{title}</h3>
+<div class="collapsible-link-list" data-collapsible-link-list>
+  <ul class="link-list">
+    {
+      visibleItems.map((item) => (
+        <li>
+          <a
+            href={item.url}
+            target="_blank"
+            rel="noreferrer"
+            data-analytics-resource={analyticsResource}
+            data-analytics-label={item.title}
+            data-analytics-note={item.note}
+          >
+            {item.title}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+  {
+    hasOverflow && (
+      <>
+        <div class="collapsible-link-list__overflow" data-collapsible-link-list-overflow hidden>
+          <ul class="link-list collapsible-link-list__list">
+            {
+              hiddenItems.map((item) => (
+                <li>
+                  <a
+                    href={item.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    data-analytics-resource={analyticsResource}
+                    data-analytics-label={item.title}
+                    data-analytics-note={item.note}
+                  >
+                    {item.title}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </div>
+        <button
+          type="button"
+          class="collapsible-link-list__toggle"
+          data-collapsible-link-list-button
+          aria-expanded="false"
+        >
+          還有 {hiddenCount} 筆
+        </button>
+      </>
+    )
+  }
+</div>
+
+{
+  hasOverflow && (
+    <script is:inline>
+      document.querySelectorAll('[data-collapsible-link-list-button]').forEach((button) => {
+        if (!(button instanceof HTMLButtonElement) || button.dataset.bound === 'true') return
+
+        button.dataset.bound = 'true'
+        button.addEventListener('click', () => {
+          const root = button.closest('[data-collapsible-link-list]')
+          const overflow = root?.querySelector('[data-collapsible-link-list-overflow]')
+
+          if (!(overflow instanceof HTMLElement)) return
+
+          overflow.hidden = false
+          button.remove()
+        })
+      })
+    </script>
+  )
+}
+
+<style>
+  .collapsible-link-list {
+    display: grid;
+    gap: 10px;
+  }
+
+  .collapsible-link-list__toggle {
+    justify-self: start;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: #66756f;
+    font-size: 0.84rem;
+    font-weight: 800;
+    text-align: left;
+    text-decoration: underline;
+    text-decoration-color: rgba(82, 102, 96, 0.28);
+    text-underline-offset: 4px;
+    cursor: pointer;
+  }
+
+  .collapsible-link-list__toggle:hover,
+  .collapsible-link-list__toggle:focus-visible {
+    color: #425552;
+    text-decoration-color: rgba(66, 85, 82, 0.38);
+    outline: none;
+  }
+
+  .collapsible-link-list__list {
+    margin-top: 0;
+  }
+</style>
