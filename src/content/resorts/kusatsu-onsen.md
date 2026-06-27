@@ -113,10 +113,10 @@ externalContent:
   blogs:
     - title: "【草津溫泉住宿】草津Now Resort Hotel：滑雪、溫泉、螃蟹吃到飽"
       url: https://natasha-traveler.tw/now-resort-hote/
-      note: "娜塔蝦的滑雪食旅手記，2016-01-26"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "【日本滑雪．群馬】草津國際滑雪場，8公里粉雪滑道享受滑行快感!"
       url: https://natasha-traveler.tw/kusatsu-kokusai-ski/
-      note: "娜塔蝦的滑雪食旅手記，2016-01-25"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
 sources:
 - label: Kusatsu Onsen Ski Resort Official

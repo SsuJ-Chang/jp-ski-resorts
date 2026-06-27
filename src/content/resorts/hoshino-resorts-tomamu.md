@@ -207,19 +207,19 @@ externalContent:
   blogs:
     - title: "Club Med Tomamu 全包式滑雪假期玩什麼？真的划算嗎？住宿、餐食、滑雪課程、活動全面剖析"
       url: https://natasha-traveler.tw/club-med-tomamu-holiday/
-      note: "娜塔蝦的滑雪食旅手記，2025-06-22"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "北海道滑雪交通｜滑雪巴士機場直達二世谷、留壽都、Tomamu、富良野、手稻等各大滑雪場【有影片】"
       url: https://natasha-traveler.tw/hokkaido-ski-bus-review/
-      note: "娜塔蝦的滑雪食旅手記，2025-06-06"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "星野Tomamu渡假村美食特搜(有影片)！13間餐廳、下午茶、酒吧總整理！"
       url: https://natasha-traveler.tw/tomamu-restaurent-guide/
-      note: "娜塔蝦的滑雪食旅手記，2025-06-03"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "星野Tomamu渡假村Risonare飯店、100平方公尺頂級套房奢華體驗【有影片】"
       url: https://natasha-traveler.tw/risonare-tomamu/
-      note: "娜塔蝦的滑雪食旅手記，2023-03-13"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "Club Med Tomamu滑雪學校上課體驗！兒童滑雪俱樂部是爸媽救星！"
       url: https://natasha-traveler.tw/club-med-tomamu-ski/
-      note: "娜塔蝦的滑雪食旅手記，2023-01-30"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs:
     - title: "🏂 TOMAMU秘密基地：滑雪吉光片羽 🏔️ Snowboarding in TOMAMU EP25 星野滑雪場"
       url: https://www.youtube.com/watch?v=83nfewECxvc

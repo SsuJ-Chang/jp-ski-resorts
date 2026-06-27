@@ -116,7 +116,7 @@ externalContent:
   blogs:
     - title: "白馬爺岳滑雪場攻略，推薦滑雪新手練功、鄰近溫泉鄉，雪地摩托車穿梭樹林超刺激"
       url: https://natasha-traveler.tw/hakuba-jiigatake-ski/
-      note: "娜塔蝦的滑雪食旅手記，2025-02-07"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
 sources:
 - label: Jiigatake Snow Resort Official Website

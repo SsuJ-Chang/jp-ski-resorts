@@ -348,10 +348,10 @@ externalContent:
   blogs:
     - title: "神樂滑雪場攻略2026-搭乘日本最長龍纜車、衝鬆雪、和田小屋美食推薦"
       url: https://natasha-traveler.tw/kagura-ski-resort-review/
-      note: "娜塔蝦的滑雪食旅手記，2025-11-20"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "日本苗場滑雪記行：Dragondola龍纜車、神樂滑雪場與和田小屋的咖哩飯"
       url: https://natasha-traveler.tw/dragondola/
-      note: "娜塔蝦的滑雪食旅手記，2015-09-13"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs:
     - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
       url: https://www.youtube.com/watch?v=ft3WpoC95rU

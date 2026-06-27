@@ -183,16 +183,16 @@ externalContent:
   blogs:
     - title: "雫石王子飯店住宿心得︱ski in out滑雪進出、自助餐美食吃到飽、露天溫泉賞雪景"
       url: https://natasha-traveler.tw/shizukuishi-princehote/
-      note: "娜塔蝦的滑雪食旅手記，2025-07-21"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "雫石滑雪場CAT TOUR｜搭乘壓雪車上山，挑戰未壓雪雪道、鬆雪秘境(有影片)"
       url: https://natasha-traveler.tw/cat-tour-powder/
-      note: "娜塔蝦的滑雪食旅手記，2023-11-18"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "日本東北雫石滑雪場，漫步在雲端的粉雪天堂，搭乘壓雪車滑野雪!"
       url: https://natasha-traveler.tw/shizukuishi-02/
-      note: "娜塔蝦的滑雪食旅手記，2023-03-10"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "[雫石交通]如何前往岩手縣的雫石王子飯店&雫石滑雪場?"
       url: https://natasha-traveler.tw/shizukuishi-01/
-      note: "娜塔蝦的滑雪食旅手記，2016-03-07"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
 sources:
   - label: "雫石スキー場 Official Website"

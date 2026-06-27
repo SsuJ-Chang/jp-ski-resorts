@@ -140,7 +140,7 @@ externalContent:
   blogs:
     - title: "Naspa新大谷飯店住宿心得︱ski in/out 旁邊是Naspa滑雪場，親子友善飯店，蟹腳&牛排豪華晚餐"
       url: https://natasha-traveler.tw/naspa-new-otani-hotel/
-      note: "娜塔蝦的滑雪食旅手記，2025-05-13"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs:
     - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
       url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s

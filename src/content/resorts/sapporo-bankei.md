@@ -120,7 +120,7 @@ externalContent:
   blogs:
     - title: "[北海道]札幌盤溪滑雪場，市區出發只要30分鐘，夜景超美!"
       url: https://natasha-traveler.tw/sapporo-bankei-ski/
-      note: "娜塔蝦的滑雪食旅手記，2017-09-03"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
 sources:
 - label: "さっぽろばんけいスキー場 Official"

@@ -158,10 +158,10 @@ externalContent:
   blogs:
     - title: "志賀高原滑雪攻略2026，日本最大滑雪區域，志賀高原交通住宿美食詳細介紹"
       url: https://natasha-traveler.tw/shiga-kogen-ski-resort-guide/
-      note: "娜塔蝦的滑雪食旅手記，2025-07-10"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "志賀高原滑雪住宿︱ski in/out 志賀高原王子飯店 、東西南館詳細介紹"
       url: https://natasha-traveler.tw/shiga-kogen-prince-hotel-review/
-      note: "娜塔蝦的滑雪食旅手記，2025-04-18"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs:
     - title: "【スキー場ガイド】志賀高原　焼額山スキー場"
       url: https://www.youtube.com/watch?v=yJLrwdUXD68

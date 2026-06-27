@@ -150,13 +150,13 @@ externalContent:
   blogs:
     - title: "輕井澤滑雪場超詳細攻略2026，初學者和親子滑雪最佳選擇！"
       url: https://natasha-traveler.tw/karuizawa-ski-resort/
-      note: "娜塔蝦的滑雪食旅手記，2026-01-04"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "輕井澤王子大飯店西館住宿心得，日本料理 からまつ的精緻日式早餐"
       url: https://natasha-traveler.tw/karuizawa-west/
-      note: "娜塔蝦的滑雪食旅手記，2023-07-07"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "日本滑雪．長野輕井澤王子滑雪場，初學者最佳選擇"
       url: https://natasha-traveler.tw/karuizawa-ski/
-      note: "娜塔蝦的滑雪食旅手記，2016-10-31"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
 sources:
   -

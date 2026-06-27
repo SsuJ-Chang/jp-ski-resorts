@@ -196,31 +196,31 @@ externalContent:
   blogs:
     - title: "安比高原滑雪場攻略2026，日本東北最大滑雪場，雪場、交通、住宿、美食詳細介紹"
       url: https://natasha-traveler.tw/appi-kogen-resort-review/
-      note: "娜塔蝦的滑雪食旅手記，2026-02-11"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "安比高原住宿推薦｜ANA皇冠假日度假飯店住宿心得2026，ski in/out，新房型&飯店設施&餐廳美食分享"
       url: https://natasha-traveler.tw/appi-kogen-hotel-review/
-      note: "娜塔蝦的滑雪食旅手記，2026-02-10"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "安比高原滑雪場住宿推薦︱ANA洲際酒店住宿心得─房間篇(ANA InterContinental )"
       url: https://natasha-traveler.tw/intercontinental-appi-kogen/
-      note: "娜塔蝦的滑雪食旅手記，2025-07-05"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "安比高原住宿心得｜安比白樺之森酒店Villa3(已更名為ANA假日度假飯店)"
       url: https://natasha-traveler.tw/appi-kogen-hotel/
-      note: "娜塔蝦的滑雪食旅手記，2021-12-21"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "安比高原滑雪學校上課囉！中文教學、雙板滑雪初體驗心得"
       url: https://natasha-traveler.tw/appi-ski-school/
-      note: "娜塔蝦的滑雪食旅手記，2019-02-05"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "台灣虎航直飛花卷機場心得｜免費接駁車到安比高原滑雪，省時又便利！"
       url: https://natasha-traveler.tw/tigerair-hanamaki/
-      note: "娜塔蝦的滑雪食旅手記，2018-12-23"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "日本滑雪自由行｜安比高原滑雪場交通詳解(2019.11更新)"
       url: https://natasha-traveler.tw/appi-traffic/
-      note: "娜塔蝦的滑雪食旅手記，2018-12-19"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "[安比高原滑雪]史上最詳細！安比格蘭飯店餐廳總整理(下)Lapind’or法式料理、蘭蘭中式料理"
       url: https://natasha-traveler.tw/appi-hotel-food/
-      note: "娜塔蝦的滑雪食旅手記，2016-10-02"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "[安比高原滑雪]史上最詳細！安比高原飯店餐廳總整理(上)李朝苑燒肉、ARLBERG自助餐、七時雨日本料理"
       url: https://natasha-traveler.tw/appi-hotel-restauran/
-      note: "娜塔蝦的滑雪食旅手記，2016-10-01"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
 sources:
   - label: "安比高原 Official Website"

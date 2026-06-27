@@ -270,7 +270,7 @@ externalContent:
   blogs:
     - title: "GALA湯澤滑雪場2026攻略︱滑雪教練帶你玩~滑雪新手最愛，美食交通詳細介紹"
       url: https://natasha-traveler.tw/gala-ski-resort-review/
-      note: "娜塔蝦的滑雪食旅手記，2025-12-29"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs:
     - title: "【スキー場ガイド】GALA湯沢スキー場　楽しいコース盛りだくさん！"
       url: https://www.youtube.com/watch?v=1kdWV97oaMw

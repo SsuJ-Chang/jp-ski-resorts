@@ -182,7 +182,7 @@ externalContent:
   blogs:
     - title: "白馬岩岳滑雪場︱觀景平台賞美景、雪場美食推薦、挑戰巨大盪鞦韆【有影片】"
       url: https://natasha-traveler.tw/iwatake-ski/
-      note: "娜塔蝦的滑雪食旅手記，2025-04-26"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
 sources:
 - label: Hakuba Iwatake Snow Field Official Website

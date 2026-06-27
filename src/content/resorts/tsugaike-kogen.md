@@ -160,17 +160,20 @@ externalContent:
   blogs:
     - title: "白馬滑雪︱栂池高原滑雪場住宿推薦2026，地點超好的6間栂池飯店&背包客住宿"
       url: https://natasha-traveler.tw/tsugaike-ski-resort-hotel-guidw/
-      note: "娜塔蝦的滑雪食旅手記，2026-01-01"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "栂池高原滑雪場美食餐廳6選，晚餐好選擇，燒肉、定食、牛排飯都美味"
       url: https://natasha-traveler.tw/tsugaike-restaurant/
-      note: "娜塔蝦的滑雪食旅手記，2025-05-23"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "栂池高原滑雪場住宿︱栂池太陽廣場飯店，近纜車站、溫泉大浴場 (Hotel Sun Plaza Tsugaike)"
       url: https://natasha-traveler.tw/sunplaza-tsugaike-hotel/
-      note: "娜塔蝦的滑雪食旅手記，2025-04-08"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "白馬栂池高原滑雪場攻略－日本最容易搭訕成功的雪場、適合新手練功"
       url: https://natasha-traveler.tw/tsugaike-ski/
-      note: "娜塔蝦的滑雪食旅手記，2025-02-16"
-  vlogs: []
+      note: "娜塔蝦的滑雪食旅手記"
+  vlogs:
+    - title: "【2025日本白馬🇯🇵】EP1 栂池高原滑雪場🗻（上集）｜Hotel Sunplaza Tsugaike｜自學滑雪全紀錄｜Nagano大採購｜機場租車自駕🚌"
+      url: https://www.youtube.com/watch?v=IJT-BvG2lsk
+      note: "和Ivy去旅行"
 sources:
 - label: Tsugaike Mountain Resort Official Website
   url: https://www.tsugaike.gr.jp/snow

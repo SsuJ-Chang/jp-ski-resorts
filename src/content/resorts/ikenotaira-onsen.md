@@ -241,7 +241,7 @@ externalContent:
   blogs:
     - title: "妙高高原滑雪住宿推薦｜Hotel Alpen Blick心得，池之平滑雪場Ski in /out"
       url: https://natasha-traveler.tw/hotel-alpen-blick/
-      note: "娜塔蝦的滑雪食旅手記，2025-01-20"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs:
     - title: "【スキー場ガイド】池の平温泉アルペンブリックスキー場　ツリーランデビューならここ"
       url: https://www.youtube.com/watch?v=-hz9RxpliyQ

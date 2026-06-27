@@ -284,16 +284,16 @@ externalContent:
       note: 豬圈圈樂活趣
     - title: "苗場王子飯店、苗場滑雪場2025美食攻略！從早吃到晚不停歇"
       url: https://natasha-traveler.tw/naeba-foodie/
-      note: "娜塔蝦的滑雪食旅手記，2024-02-28"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "苗場住宿｜苗場王子大飯店｜6號館主題房型開箱介紹"
       url: https://natasha-traveler.tw/naeba-prince-hotel/
-      note: "娜塔蝦的滑雪食旅手記，2024-02-21"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "日本苗場滑雪記行之1：苗場滑雪場介紹篇"
       url: https://natasha-traveler.tw/naeba-01/
-      note: "娜塔蝦的滑雪食旅手記，2020-08-11"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "日本苗場滑雪記行：Dragondola龍纜車、神樂滑雪場與和田小屋的咖哩飯"
       url: https://natasha-traveler.tw/dragondola/
-      note: "娜塔蝦的滑雪食旅手記，2015-09-13" 
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs:
     - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
       url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=475s

@@ -165,7 +165,7 @@ externalContent:
   blogs:
     - title: "札幌手稻滑雪場2026攻略：交通方式、巴士/纜車票與滑雪課程費用、美食介紹"
       url: https://natasha-traveler.tw/sapporo-teine-ski-resort-review/
-      note: "娜塔蝦的滑雪食旅手記，2025-12-30"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
 sources:
 - label: "サッポロテイネ Official"

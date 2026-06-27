@@ -200,25 +200,25 @@ externalContent:
   blogs:
     - title: "藏王滑雪場美食2026｜再訪三五郎小屋，巨無霸牛排、麵包濃湯超推薦"
       url: https://natasha-traveler.tw/zao-sangoro/
-      note: "娜塔蝦的滑雪食旅手記，2026-03-14"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "藏王滑雪場攻略2026｜藏王樹冰一生必看奇景，開放時間、適合初學者嗎?"
       url: https://natasha-traveler.tw/zao-ski/
-      note: "娜塔蝦的滑雪食旅手記，2026-03-13"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "藏王滑雪場&賞藏王樹冰住宿推薦2026，8間藏王溫泉滑雪場的飯店民宿推薦"
       url: https://natasha-traveler.tw/zao-ski-hotel-guide/
-      note: "娜塔蝦的滑雪食旅手記，2026-01-02"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "2026藏王樹冰夜間點燈日期、注意事項、心得分享，藏王滑雪必玩體驗"
       url: https://natasha-traveler.tw/zao-juhyo-night-crusing/
-      note: "娜塔蝦的滑雪食旅手記，2025-12-18"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "山形藏王滑雪住宿推薦︱高見屋Lucent飯店，靠近滑雪纜車站，體驗千年秘湯溫泉"
       url: https://natasha-traveler.tw/zao-lucen/
-      note: "娜塔蝦的滑雪食旅手記，2025-03-18"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "藏王滑雪場隱藏版美食 三五郎小屋的巨無霸牛排"
       url: https://natasha-traveler.tw/sangoro/
-      note: "娜塔蝦的滑雪食旅手記，2016-02-22"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "日本藏王滑雪：藏王溫泉住宿-樹林飯店「ホテル樹林」完整介紹"
       url: https://natasha-traveler.tw/zao-01/
-      note: "娜塔蝦的滑雪食旅手記，2015-09-17"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs:
     - title: "2526雪季 -藏王溫泉滑雪遊記"
       url: https://www.youtube.com/watch?v=ZHVCWLfRiG0

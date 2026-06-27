@@ -347,13 +347,13 @@ externalContent:
   blogs:
     - title: "野澤溫泉滑雪場住宿︱河一屋旅館，享受露天溫泉與美味鄉土料理【跟著Double Black Crew去滑雪~1】"
       url: https://natasha-traveler.tw/nozawa-onsen-kawaichiya-ryokan/
-      note: "娜塔蝦的滑雪食旅手記，2025-05-03"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "野澤溫泉滑雪場攻略，特色雪道、打卡景點、滑雪課程、必吃美食【跟著Double Black Crew去滑雪~2】"
       url: https://natasha-traveler.tw/nozawa-ski/
-      note: "娜塔蝦的滑雪食旅手記，2024-09-12"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "野澤溫泉滑雪場ski菜鳥練功心得、古樸溫泉街超好逛【跟著DOUBLE BLACK CREW去滑雪~3】"
       url: https://natasha-traveler.tw/double-black-crew/
-      note: "娜塔蝦的滑雪食旅手記，2023-05-31"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
 sources:
 - label: Nozawa Onsen Official Website

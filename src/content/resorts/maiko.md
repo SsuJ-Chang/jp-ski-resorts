@@ -330,7 +330,7 @@ externalContent:
   blogs:
     - title: "越後湯澤‧舞子高原滑雪場2026攻略，ski in/out、適合新手和親子滑雪"
       url: https://natasha-traveler.tw/maiko-resor/
-      note: "娜塔蝦的滑雪食旅手記，2025-07-08"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs:
     - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
       url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=344s

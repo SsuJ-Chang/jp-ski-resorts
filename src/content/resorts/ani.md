@@ -116,13 +116,13 @@ externalContent:
   blogs:
     - title: "秋田阿仁滑雪場全攻略｜賞樹冰、衝鬆雪，和秋田犬一起玩耍！"
       url: https://natasha-traveler.tw/ani-ski/
-      note: "娜塔蝦的滑雪食旅手記，2021-07-05"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "秋田︱森吉山阿仁滑雪場住宿推薦：Hotel Fusch 免費接送、餐點超好吃"
       url: https://natasha-traveler.tw/hotel-fusch/
-      note: "娜塔蝦的滑雪食旅手記，2020-06-29"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "滑雪補助來囉！日本秋田縣滑雪教室，送免費中文滑雪課程"
       url: https://natasha-traveler.tw/akita-aniski/
-      note: "娜塔蝦的滑雪食旅手記，2019-09-19"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
 sources:
   - label: "Ani Ski Area Official Website"

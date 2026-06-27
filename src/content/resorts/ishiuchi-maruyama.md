@@ -304,7 +304,7 @@ externalContent:
   blogs:
     - title: "石打丸山滑雪場攻略2026，雪道介紹，住宿、交通、美食、滑雪教練課推薦，ptt/dcard推薦"
       url: https://natasha-traveler.tw/ishiuchi-maruyama-ski-resort-guide/
-      note: "娜塔蝦的滑雪食旅手記，2026-03-02"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs:
     - title: "2526雪季 -越後湯澤 | 石打丸山滑雪遊記 | 下"
       url: https://www.youtube.com/watch?v=iZ2ZVMYSBoQ

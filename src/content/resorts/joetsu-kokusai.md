@@ -228,13 +228,13 @@ externalContent:
   blogs:
     - title: "新潟上越國際滑雪場，214個東京巨蛋面積的超大型滑雪場"
       url: https://natasha-traveler.tw/jkokusai-ski/
-      note: "娜塔蝦的滑雪食旅手記，2022-02-05"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "上越國際滑雪場住宿︱歐式風情無限的Hotel Green Plaza Joetsu"
       url: https://natasha-traveler.tw/hotel-green-plaza-joetsu/
-      note: "娜塔蝦的滑雪食旅手記，2021-01-24"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "日本滑雪自由行｜如何從越後湯澤車站到上越國際滑雪場?"
       url: https://natasha-traveler.tw/jkokusai-bus/
-      note: "娜塔蝦的滑雪食旅手記，2016-01-25"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs:
     - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
       url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=344s

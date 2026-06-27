@@ -236,7 +236,7 @@ externalContent:
   blogs:
     - title: "妙高衫之原滑雪場｜居酒屋民宿-富士美莊住宿心得"
       url: https://natasha-traveler.tw/myoko-fujimiso/
-      note: "娜塔蝦的滑雪食旅手記，2019-06-23"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
 sources:
 - label: Myoko Suginohara Official Website

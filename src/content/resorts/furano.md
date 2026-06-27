@@ -232,16 +232,16 @@ externalContent:
   blogs:
     - title: "北海道滑雪｜富良野滑雪場攻略2026，適合新手和親子，交通住宿景點總整理【有影片】"
       url: https://natasha-traveler.tw/furano-ski-resort-guide/
-      note: "娜塔蝦的滑雪食旅手記，2026-03-09"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "北海道滑雪交通｜滑雪巴士機場直達二世谷、留壽都、Tomamu、富良野、手稻等各大滑雪場【有影片】"
       url: https://natasha-traveler.tw/hokkaido-ski-bus-review/
-      note: "娜塔蝦的滑雪食旅手記，2025-06-06"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "北海道滑雪｜富良野滑雪場完整介紹，雪場美食、地形分析，盡情享受粉雪天堂"
       url: https://natasha-traveler.tw/furano-ski/
-      note: "娜塔蝦的滑雪食旅手記，2025-05-12"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "北海道︱新富良野王子飯店滑雪住宿心得．高樓層景觀客房．晚餐蟹腳吃到飽【有影片】"
       url: https://natasha-traveler.tw/shin-furano-prince-hotel-review/
-      note: "娜塔蝦的滑雪食旅手記，2025-05-07"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs:
     - title: "哭啊～好想滑雪 |北海道滑雪2020gopro max/富良野滑雪day 05 part 3"
       url: https://www.youtube.com/watch?v=bDkflp8ERAo

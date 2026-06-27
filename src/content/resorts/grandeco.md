@@ -202,13 +202,13 @@ externalContent:
   blogs:
     - title: "EN Resort Grandeco飯店住宿心得︱ski in/out 滑雪進出，車站免費接送，精緻度假飯店"
       url: https://natasha-traveler.tw/en-resort-grandeco/
-      note: "娜塔蝦的滑雪食旅手記，2025-06-10"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "日本東北︱Grandeco滑雪場，雪季長、雪質好，ski in/out滑雪進出"
       url: https://natasha-traveler.tw/grandeco-ski/
-      note: "娜塔蝦的滑雪食旅手記，2025-06-09"
+      note: "娜塔蝦的滑雪食旅手記"
     - title: "日本滑雪｜裏磐梯Grandeco滑雪場｜東北評鑑第一的滑雪場"
       url: https://natasha-traveler.tw/grandeco-ski-resort/
-      note: "娜塔蝦的滑雪食旅手記，2021-10-02"
+      note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
 sources:
 - label: Grandeco Snow Resort Official Website
