@@ -224,6 +224,9 @@ externalContent:
       url: https://natasha-traveler.tw/kandatsu-snow-resort/
       note: "娜塔蝦的滑雪食旅手記"
   vlogs:
+    - title: "【日本東京🇯🇵】EP6 神立高原滑雪場❄️｜越後中里 天使格蘭帝亞酒店｜Angel Grandia 雪票自動售票機｜Burton STEP ON 單板友善雪場｜自學單板全紀錄｜♨️焼肉 さかえや"
+      url: "https://www.youtube.com/watch?v=gIPtuBt09tI"
+      note: "和Ivy去旅行"
     - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
       url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
       note: "MIRU tube JAPAN 【Route Guide】"

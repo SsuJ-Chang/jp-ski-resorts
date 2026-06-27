@@ -19,4 +19,9 @@ featuredResorts:
   - "niseko-village"
   - "niseko-grand-hirafu"
   - "niseko-hanazono"
+externalContent:
+  vlogs:
+    - title: "【日本北海道🇯🇵】EP1 新雪谷格蘭比羅夫滑雪場🗻｜Sik In Ski Out飯店｜新千歲機場帝王蟹｜比羅夫超市｜機場直達比羅夫巴士🚌｜NISEKO GRAND HIRAFU"
+      url: https://www.youtube.com/watch?v=Z5sXCLMUBwM
+      note: "和Ivy去旅行"
 ---

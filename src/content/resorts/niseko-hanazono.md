@@ -171,6 +171,11 @@ terrainSummary:
   advanced: Youtei Sunset 與 Legend of Shinya 在官方地圖上屬高難度線。
   snowboard: 地形公園與長距離滑行線明確，適合和 Hirafu 一起安排。
   powder: 東側樹林與非壓雪路線需依官方開放與 Niseko Rules 滑行。
+externalContent:
+  vlogs:
+    - title: "【日本北海道🇯🇵】EP3 新雪谷花園滑雪場🗻｜Hanazono Niseko ❄️｜自學滑雪心得｜LV 夢幻蒙古包｜LV monogram 滑雪纜車｜羊蹄山美景展望🗻"
+      url: https://www.youtube.com/watch?v=hyxmkaXvTzg&t=1s
+      note: "和Ivy去旅行"
 sources:
 - label: Weathernews ニセコHANAZONOリゾート
   url: https://weathernews.jp/ski/spot/31618/

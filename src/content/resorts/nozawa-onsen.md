@@ -354,7 +354,19 @@ externalContent:
     - title: "野澤溫泉滑雪場ski菜鳥練功心得、古樸溫泉街超好逛【跟著DOUBLE BLACK CREW去滑雪~3】"
       url: https://natasha-traveler.tw/double-black-crew/
       note: "娜塔蝦的滑雪食旅手記"
-  vlogs: []
+  vlogs:
+    - title: "【日本東京🇯🇵】EP4 野澤溫泉滑雪場🗻｜歷史380年旅店常盤屋 Tokiwaya🏯｜道地日式創意料理🍣｜自學單板全紀錄⛷｜輕鬆學會S TRUN🏂｜光明皇后千人風呂♨️｜機場直達野沢巴士🚌"
+      url: "https://www.youtube.com/watch?v=S9eJjItkVuY"
+      note: "和Ivy去旅行"
+    - title: "【日本東京🇯🇵】EP3 野澤溫泉滑雪場❄️｜雪地滑板車｜日本最長雪道｜自學單板全紀錄｜A5和牛壽喜燒 x 和牛亭｜歷史百年野澤溫泉村100周年♨️｜Action4📸"
+      url: "https://www.youtube.com/watch?v=t1q1u1gjQVY"
+      note: "和Ivy去旅行"
+    - title: "【日本東京🇯🇵】EP2 野澤溫泉滑雪場❄️｜毛無山頂 1650M｜Skyline天際線美景雪道｜自學單板全紀錄｜歷史百年溫泉村100周年♨️｜冬奧滑雪場｜靜泉莊 Seisenso｜Action4📸"
+      url: "https://www.youtube.com/watch?v=J-bouEcdhJM"
+      note: "和Ivy去旅行"
+    - title: "【日本東京🇯🇵】EP1 野澤溫泉滑雪場❄️｜機場直達野沢巴士｜日本最長雪道｜自學單板全紀錄｜歷史百年溫泉村｜冬奧滑雪場｜靜泉莊 Seisenso｜Action4📸"
+      url: "https://www.youtube.com/watch?v=sEKq2lknoGQ"
+      note: "和Ivy去旅行"
 sources:
 - label: Nozawa Onsen Official Website
   url: https://en.nozawaski.com/

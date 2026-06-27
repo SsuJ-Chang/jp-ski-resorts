@@ -223,6 +223,9 @@ externalContent:
     - title: "2526雪季 -藏王溫泉滑雪遊記"
       url: https://www.youtube.com/watch?v=ZHVCWLfRiG0
       note: "GT練雪日記"
+    - title: "【日本東北🇯🇵】EP4 藏王完結篇❄️藏王樹冰！限定御守曝光！藏王地藏尊夫婦守⛩️滑雪也能變好運？⛄大家來許願吧！🎋2026想看開箱那個雪場？或者想去哪個雪場呢？歡迎留言❤️"
+      url: https://www.youtube.com/watch?v=ZZter960RZs
+      note: "和Ivy去旅行"
     - title: "【日本東北🇯🇵】EP3 (下集) 大晴天！藏王樹冰｜前往橫倉路線🚡｜攻略🌟藏王溫泉滑雪場⛰️｜自學滑雪全紀錄❄️｜Action5 Pro📸"
       url: https://www.youtube.com/watch?v=gmNqylCqzVo
       note: "和Ivy去旅行"

@@ -21,4 +21,9 @@ featuredResorts:
   - "white-pia-takasu"
   - "hirugano-kogen"
   - "gujo-kogen"
+externalContent:
+  vlogs:
+    - title: "【日本中部】EP3名古屋自由行｜滑雪價格｜租裝備價格｜西日本最大雪場🗻｜高鷲滑雪場⛷｜Dynaland Snow Park❄️｜自學單板🏂｜ホテルヴィラモンサン飯店｜Action3📸｜"
+      url: "https://www.youtube.com/watch?v=v3e3Bgtegqc"
+      note: "和Ivy去旅行"
 ---

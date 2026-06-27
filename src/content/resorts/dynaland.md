@@ -208,6 +208,11 @@ terrainSummary:
   advanced: Challenge B、Challenge C、Skyline A 與 Kamichu 系列是主要高難度坡面。
   snowboard: park、夜滑與 terrain 變化多，適合 snowboarder 安排全天到夜間行程。
   powder: 官方有多處 tree run area，需依積雪與開放狀態進入。
+externalContent:
+  vlogs:
+    - title: "【日本中部】EP3名古屋自由行｜滑雪價格｜租裝備價格｜西日本最大雪場🗻｜高鷲滑雪場⛷｜Dynaland Snow Park❄️｜自學單板🏂｜ホテルヴィラモンサン飯店｜Action3📸｜"
+      url: "https://www.youtube.com/watch?v=v3e3Bgtegqc"
+      note: "和Ivy去旅行"
 sources:
 - label: Dynaland Course Introduction
   url: https://www.dynaland.co.jp/gelande/

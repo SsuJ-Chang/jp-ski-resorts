@@ -353,6 +353,12 @@ externalContent:
       url: https://natasha-traveler.tw/dragondola/
       note: "娜塔蝦的滑雪食旅手記"
   vlogs:
+    - title: "【日本東京🇯🇵】EP8 神樂滑雪場❄️｜神樂田代入口｜自學單板全紀錄｜仙境田代湖｜越後湯沢最美滑雪場｜Action4📸"
+      url: "https://www.youtube.com/watch?v=G3Kk0qorJsA"
+      note: "和Ivy去旅行"
+    - title: "【日本東京🇯🇵】EP5 神樂滑雪場❄️｜日本最長纜車-龍纜車｜絕美雪景｜自學單板全紀錄｜苗場王子飯店♨️｜越後維新｜湯澤大採購｜Action4📸"
+      url: "https://www.youtube.com/watch?v=nZVrtTERx8I"
+      note: "和Ivy去旅行"
     - title: "【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan"
       url: https://www.youtube.com/watch?v=ft3WpoC95rU
       note: "MIRU tube JAPAN 【Route Guide】"

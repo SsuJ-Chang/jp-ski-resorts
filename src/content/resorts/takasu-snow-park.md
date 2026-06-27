@@ -181,6 +181,11 @@ terrainSummary:
   advanced: Champion、Technical、Exciting B 等高難度線坡度明確，粉雪日與未壓雪時難度更高。
   snowboard: park、half pipe、bank 與長距離寬坡對 snowboarder 友善。
   powder: 官方設有 tree run area，但 course 外禁止滑行，需依官方開放狀態進入。
+externalContent:
+  vlogs:
+    - title: "【日本中部】EP3名古屋自由行｜滑雪價格｜租裝備價格｜西日本最大雪場🗻｜高鷲滑雪場⛷｜Dynaland Snow Park❄️｜自學單板🏂｜ホテルヴィラモンサン飯店｜Action3📸｜"
+      url: "https://www.youtube.com/watch?v=v3e3Bgtegqc"
+      note: "和Ivy去旅行"
 sources:
 - label: Takasu Snow Park Course Introduction
   url: https://www.takasu.gr.jp/gelande/

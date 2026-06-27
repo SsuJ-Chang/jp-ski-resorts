@@ -224,6 +224,14 @@ terrainSummary:
   advanced: Super、Konayuki、Onsenzawa、Jumbo 等黑線坡度高，適合有經驗者。
   snowboard: Hirafu 聚落、夜滑與纜車密度高，是 snowboarder 常用的二世谷核心據點。
   powder: 高處黑線與 gate 外地形需遵守 Niseko Rules，並以官方開放狀態為準。
+externalContent:
+  vlogs:
+    - title: "【日本北海道🇯🇵】EP4 新雪谷格蘭比羅夫滑雪場❄️｜商圈街道找燒肉🐧｜登山軒大胃王平價拉麵🍜｜二世古 NISEKO GRAND HIRAFU⛰️｜能見度差下雨起霧天☃️｜比羅夫滑雪 自由行 🗻"
+      url: https://www.youtube.com/watch?v=iEMbhcBWR0w
+      note: "和Ivy去旅行"
+    - title: "【日本北海道🇯🇵】EP2 新雪谷格蘭比羅夫滑雪場🗻｜看羊蹄山逛山雪道攻略⛰️｜Step on｜ 二世古 NISEKO GRAND HIRAFU ❄️｜帝王蟹火鍋🦀️｜北海道 滑雪 自由行⛩️"
+      url: https://www.youtube.com/watch?v=f9y-yngyp6M
+      note: "和Ivy去旅行"
 sources:
 - label: Weathernews ニセコ東急 グラン・ヒラフ
   url: https://weathernews.jp/ski/spot/31605/

@@ -312,6 +312,9 @@ externalContent:
     - title: "2526雪季 -越後湯澤 | 石打丸山滑雪遊記"
       url: https://www.youtube.com/watch?v=4xPfR5DgBoA
       note: "GT練雪日記"
+    - title: "【日本東京🇯🇵】EP7 石打丸山滑雪場❄️｜自學單板全紀錄｜無敵雪景咖啡廳｜夢幻網美透明屋｜超酷魔毯纜車🚡｜一路綠道下山｜♨️日式燒肉 石どら"
+      url: "https://www.youtube.com/watch?v=hUDlbgW3zUg"
+      note: "和Ivy去旅行"
     - title: "【スキー場ガイド】石打丸山スキー場　ゲレンデの数がすごい　施設もすごくなった！"
       url: https://www.youtube.com/watch?v=tLd37bYT0tE
       note: "全国的スキー場ガイド https://www.youtube.com/@ski.snowboard"

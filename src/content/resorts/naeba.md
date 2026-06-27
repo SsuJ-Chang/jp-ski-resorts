@@ -304,6 +304,15 @@ externalContent:
     - title: "苗場沒有雪怎麼滑?  爛雪應對的兩種玩法 🏔️ Snowboarding in NAEBA EP01 苗場滑雪場"
       url: https://www.youtube.com/watch?v=Mz2i2GjpNwY
       note: "大林滑雪男子"
+    - title: "【日本東京🇯🇵】EP4 苗場滑雪場❄️｜暴風雪怎麼穿不會冷｜自學單板全紀錄｜苗場王子飯店商店♨️｜粉雪滑雪｜Action4📸"
+      url: "https://www.youtube.com/watch?v=UlUmvI8Njkk"
+      note: "和Ivy去旅行"
+    - title: "【日本東京🇯🇵】EP3 苗場王子飯店商店♨️｜湯澤最便宜雪票及雪具店｜新手自學單板滑雪全紀錄｜苗場滑雪場❄️｜粉雪滑雪｜Action4📸"
+      url: "https://www.youtube.com/watch?v=rk5bwFI-mnw&t=3110s"
+      note: "和Ivy去旅行"
+    - title: "【日本東京🇯🇵】EP2 苗場滑雪場❄️｜新手自學單板滑雪全紀錄｜新手教新手能學得會嗎?｜苗場王子飯店♨️｜開箱房間 4號館｜Action4📸"
+      url: "https://www.youtube.com/watch?v=hitoGk0kJl0"
+      note: "和Ivy去旅行"
 sources:
 - label: Naeba Official Website
   url: https://www.princehotels.co.jp/ski/naeba/winter/
