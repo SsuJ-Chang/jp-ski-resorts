@@ -223,20 +223,20 @@ externalContent:
     - title: "2526雪季 -藏王溫泉滑雪遊記"
       url: https://www.youtube.com/watch?v=ZHVCWLfRiG0
       note: "GT練雪日記"
-    - title: "【日本東北🇯🇵】EP1藏王樹冰｜攻略🌟藏王溫泉滑雪場⛰️｜過年滑雪花了多少錢｜超幸運！晴天的藏王樹冰⛩️｜藏王Ski In & Ski Out 飯店！♨️｜交通住宿全攻略🚌｜｜Action5 Pro📸"
-      url: https://www.youtube.com/watch?v=67nHAV3CPzE
-      note: "和Ivy去旅行"
-    - title: "【日本東北🇯🇵】EP2 (上集) 藏王樹冰🏂｜黑姬區域完整路線🚡｜攻略🌟藏王溫泉滑雪場⛰️｜自學滑雪全紀錄❄️⛷｜藏王Ski In & Ski Out 飯店♨️｜Action5 Pro📸"
-      url: https://www.youtube.com/watch?v=J_FCZcBJ5AQ
-      note: "和Ivy去旅行"
-    - title: "【日本東北🇯🇵】EP2 (下集) 藏王樹冰🏂｜黃金時刻✨夕陽場.最美時刻✨｜攻略🌟藏王溫泉滑雪場⛰️｜自學滑雪全紀錄❄️｜雪場旅館開箱🌃混浴溫泉介紹♨️｜Action5 Pro📸"
-      url: https://www.youtube.com/watch?v=KZ_3UFVRsvA
+    - title: "【日本東北🇯🇵】EP3 (下集) 大晴天！藏王樹冰｜前往橫倉路線🚡｜攻略🌟藏王溫泉滑雪場⛰️｜自學滑雪全紀錄❄️｜Action5 Pro📸"
+      url: https://www.youtube.com/watch?v=gmNqylCqzVo
       note: "和Ivy去旅行"
     - title: "【日本東北🇯🇵】EP3 (上集) 大晴天！藏王樹冰｜前往大森路線🚡｜攻略🌟藏王溫泉滑雪場⛰️自學滑雪全紀錄❄️｜Action5 Pro📸"
       url: https://www.youtube.com/watch?v=dhF-wQACUEM
       note: "和Ivy去旅行"
-    - title: "【日本東北🇯🇵】EP3 (下集) 大晴天！藏王樹冰｜前往橫倉路線🚡｜攻略🌟藏王溫泉滑雪場⛰️｜自學滑雪全紀錄❄️｜Action5 Pro📸"
-      url: https://www.youtube.com/watch?v=gmNqylCqzVo
+    - title: "【日本東北🇯🇵】EP2 (下集) 藏王樹冰🏂｜黃金時刻✨夕陽場.最美時刻✨｜攻略🌟藏王溫泉滑雪場⛰️｜自學滑雪全紀錄❄️｜雪場旅館開箱🌃混浴溫泉介紹♨️｜Action5 Pro📸"
+      url: https://www.youtube.com/watch?v=KZ_3UFVRsvA
+      note: "和Ivy去旅行"
+    - title: "【日本東北🇯🇵】EP2 (上集) 藏王樹冰🏂｜黑姬區域完整路線🚡｜攻略🌟藏王溫泉滑雪場⛰️｜自學滑雪全紀錄❄️⛷｜藏王Ski In & Ski Out 飯店♨️｜Action5 Pro📸"
+      url: https://www.youtube.com/watch?v=J_FCZcBJ5AQ
+      note: "和Ivy去旅行"
+    - title: "【日本東北🇯🇵】EP1藏王樹冰｜攻略🌟藏王溫泉滑雪場⛰️｜過年滑雪花了多少錢｜超幸運！晴天的藏王樹冰⛩️｜藏王Ski In & Ski Out 飯店！♨️｜交通住宿全攻略🚌｜｜Action5 Pro📸"
+      url: https://www.youtube.com/watch?v=67nHAV3CPzE
       note: "和Ivy去旅行"
     - title: "日本最長的長跑🎿我在藏王溫泉滑雪場從山頂滑到了山腳！"
       url: https://www.youtube.com/watch?v=VTw433ZFiBc
