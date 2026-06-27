@@ -14,6 +14,7 @@ tags:
 - snowboard_friendly
 - tree_run
 - family_friendly
+rjOpinion: 岩岳雖然很多人推，但我個人不算太喜歡，可能去的時機不好，人爆多，要去的建議要早點去排隊買（換）票。雪場景色還是很棒，幾條綠線都滿適合練功的，著名的鬆餅和網美餐廳還沒去過，其實人爆多據說就是有很多非滑雪的人來才被擠爆...。
 links:
   official: https://iwatake-mountain-resort.com/winter
   trailMapPage: https://iwatake-mountain-resort.com/winter/course_lift

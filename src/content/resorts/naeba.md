@@ -15,6 +15,7 @@ tags:
 - no_car_accessible
 - resort_village
 - snowboard_friendly
+rjOpinion: Ski-in Ski-out 是最重要的優點沒話說，湯澤離東京又近，其實滿推薦新手第一次來這裡的，簡單來說人來就好，對於家庭來說也的確很適合，飯店有提供顧小孩的服務（當然不是免費），真的超方便！比較可惜是景色比較差，還是要搭龍纜去神樂的田代才是又美雪又粉，所以來到苗場務必要搭龍纜，絕對也是賣點。但 2026 飯店本身並沒有提供方便住客去搭龍纜的方式，不會滑雪的只好走去了。
 links:
   official: https://www.princehotels.co.jp/ski/naeba/winter/
   facebook: https://www.facebook.com/SnowNaeba
@@ -279,6 +280,10 @@ access:
     recommended: true
     snowTireRequired: true
     note: 可由關越自動車道月夜野 IC 經國道 17 號約 33km、約 50 分，或由湯澤 IC 經國道 17 號約 21km、約 30 分。停車場約 3,800 台，平日與假日收費不同。
+lodgingRecommendations:
+- title: 苗場王子大飯店 苗場プリンスホテル
+  url: https://maps.app.goo.gl/SSa3gfVt1xRuMfaw7
+  rjOpinion: 雖然苗場王子大飯店還是會比民宿貴，但如果挑好日子還是會有不錯的價格的！另外強烈建議要加入西武王子飯店會員，直接去官網訂房也會有不錯的價格，而且住這裡的購買雪票便宜很多，住客還有免費的湯可泡！館內滿多餐廳可選擇，便宜到貴的都有，網路上很多介紹都可以看看自己決定，但要注意若為省錢要買裡面的便利商店要早點去，不然能選擇的東西很少。
 externalContent:
   blogs:
   - title: 日本苗場親子滑雪/新手看過來 !! | 初訪苗場Naeba滑雪場 & 新潟苗場王子飯店Naeba Prince Hotel開箱 by 豬圈圈樂活趣
