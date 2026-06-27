@@ -174,7 +174,10 @@ terrainSummary:
   snowboard: 雙板與雪板使用規則請以官方公告為準。
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+    - title: "【2025日本白馬🇯🇵】EP5 白馬乘鞍溫泉滑雪場 🗻｜自學ski 直上紅道❄️｜CP值最高雪場飯店｜Hakuba Alps Hotel ⛷️｜"
+      url: https://www.youtube.com/watch?v=TGFH2JcOSNc
+      note: "和Ivy去旅行"
 sources:
 - label: Hakuba Norikura Onsen Snow Resort Official Website
   url: https://www.hakunori.com/

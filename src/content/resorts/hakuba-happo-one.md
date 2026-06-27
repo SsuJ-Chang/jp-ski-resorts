@@ -173,7 +173,10 @@ terrainSummary:
   powder: 山頂與兎平、黑菱一帶降雪後有粉雪與不整地條件，但八方也有 backcountry 出入口，離開管理區需登山計畫與安全裝備。
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+    - title: "【2025日本白馬🇯🇵】EP7 白馬八方滑雪場 🗻自學滑雪全紀錄｜Hotel Green Plaza Hakuba｜🏂｜🎄"
+      url: https://www.youtube.com/watch?v=_wUcfsdwzdg
+      note: "和Ivy去旅行"
 sources:
 - label: Hakuba Happo-one Snow Resort Official Website
   url: https://www.happo-one.jp/

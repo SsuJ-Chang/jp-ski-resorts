@@ -171,6 +171,12 @@ externalContent:
       url: https://natasha-traveler.tw/tsugaike-ski/
       note: "娜塔蝦的滑雪食旅手記"
   vlogs:
+    - title: "【2025日本白馬🇯🇵】EP4 栂池高原滑雪場🗻自學滑雪全紀錄｜新手卡粉雪大崩潰｜意外自由潛水教練出現一起滑雪🏂｜許願大成功粉雪滑雪🎄"
+      url: https://www.youtube.com/watch?v=IfPEhAxRxbE
+      note: "和Ivy去旅行"
+    - title: "【2025日本白馬🇯🇵】EP1 栂池高原滑雪場🗻（下集）｜自學滑雪全紀錄｜鐘鳴之丘初學者天堂｜林間道🎄｜Snow board 單板滑雪🏂｜機場租車自駕🚗"
+      url: https://www.youtube.com/watch?v=zkkJam1ybok
+      note: "和Ivy去旅行"
     - title: "【2025日本白馬🇯🇵】EP1 栂池高原滑雪場🗻（上集）｜Hotel Sunplaza Tsugaike｜自學滑雪全紀錄｜Nagano大採購｜機場租車自駕🚌"
       url: https://www.youtube.com/watch?v=IJT-BvG2lsk
       note: "和Ivy去旅行"

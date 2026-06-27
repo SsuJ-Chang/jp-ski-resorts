@@ -132,7 +132,13 @@ terrainSummary:
   snowboard: 雙板與雪板使用規則請以官方公告為準。
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+    - title: "【2025日本白馬🇯🇵】EP6 白馬Cortina 滑雪場🗻 (下集)｜Hotel Green Plaza Hakuba ｜白馬コルチナスキー場 ｜自學滑雪"
+      url: https://www.youtube.com/watch?v=Cr8Qq6AKCXc
+      note: "和Ivy去旅行"
+    - title: "【2025日本白馬🇯🇵】EP6 白馬Cortina 滑雪場🗻 (上集)｜Hotel Green Plaza Hakuba ｜白馬コルチナスキー場 ｜自學滑雪"
+      url: https://www.youtube.com/watch?v=70LF6aTsEEI
+      note: "和Ivy去旅行"
 sources:
 - label: Hakuba Cortina Snow Resort Official Website
   url: https://www.hgp.co.jp/cortina/ski/

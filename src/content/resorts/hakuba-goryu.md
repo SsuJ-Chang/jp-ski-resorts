@@ -282,7 +282,10 @@ externalContent:
     - title: "白馬五龍滑雪場住宿︱亞貝斯特白馬度假村飯店，雪場步行3分鐘，有溫泉和停車場"
       url: https://natasha-traveler.tw/hotelabest-hakuba/
       note: "娜塔蝦的滑雪食旅手記"
-  vlogs: []
+  vlogs:
+    - title: "【2025日本白馬🇯🇵】EP2 白馬五龍&47滑雪場🗻｜白馬阿爾卑斯酒店🏨｜租雪具1000日幣🏂｜自學滑雪全紀錄❄️｜成吉思汗烤羊肉🐑｜單日來回兩個雪場｜日本雪場開箱｜🚌"
+      url: https://www.youtube.com/watch?v=TgPjyzJeDnE
+      note: "和Ivy去旅行"
 sources:
 - label: Hakuba Goryu Official Website
   url: https://www.hakubaescal.com/winter/

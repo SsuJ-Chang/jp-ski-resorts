@@ -208,7 +208,10 @@ terrainSummary:
   powder: 降雪後可關注 tree riding zone 與上部路線，但 tree riding zone 有開放與安全管制，必須以官方 operating status 為準。
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+    - title: "【2025日本白馬🇯🇵】EP2 白馬五龍&47滑雪場🗻｜白馬阿爾卑斯酒店🏨｜租雪具1000日幣🏂｜自學滑雪全紀錄❄️｜成吉思汗烤羊肉🐑｜單日來回兩個雪場｜日本雪場開箱｜🚌"
+      url: https://www.youtube.com/watch?v=TgPjyzJeDnE
+      note: "和Ivy去旅行"
 sources:
 - label: Hakuba 47 Winter Sports Park Official Website
   url: https://www.hakuba47.co.jp/winter/en/
