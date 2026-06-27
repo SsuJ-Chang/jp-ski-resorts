@@ -220,6 +220,9 @@ externalContent:
       url: https://natasha-traveler.tw/zao-01/
       note: "娜塔蝦的滑雪食旅手記"
   vlogs:
+    - title: "終於看到萬里無雲藏王樹冰！積雪三米雪怪搭配海景奇景現場曝光｜纜車排隊坑別再跳＋自由行交通住宿美食看本攻略一次弄懂"
+      url: https://www.youtube.com/watch?v=cycyfXm-pn4
+      note: "LeoTW沈浸滑雪"
     - title: "2526雪季 -藏王溫泉滑雪遊記"
       url: https://www.youtube.com/watch?v=ZHVCWLfRiG0
       note: "GT練雪日記"
