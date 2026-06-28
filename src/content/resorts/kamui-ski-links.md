@@ -271,6 +271,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
+  - title: 先C再S：把一個C turn練好再前進
+    url: https://www.youtube.com/watch?v=HJkIU80Inc0
+    note: 大林滑雪男子
   - title: KC 困惑多年的滑雪難題終於茅塞頓開｜Kamui Snowboarding
     url: https://www.youtube.com/watch?v=YfDdnCCY618
     note: 大林滑雪男子
