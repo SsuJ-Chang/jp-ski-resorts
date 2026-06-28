@@ -1,5 +1,4 @@
 ---
-type: "cluster"
 name:
   zhTw: "白馬"
   ja: "白馬"

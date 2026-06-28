@@ -1,5 +1,4 @@
 ---
-type: "cluster"
 name:
   zhTw: "二世谷"
   ja: "ニセコ"

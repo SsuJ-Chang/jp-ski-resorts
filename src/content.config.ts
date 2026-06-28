@@ -261,7 +261,6 @@ const resorts = defineCollection({
 const skiAreas = defineCollection({
   loader: glob({ base: './src/content/ski-areas', pattern: '**/*.{md,mdx}' }),
   schema: z.object({
-    type: z.enum(['cluster', 'destination']),
     name: z.object({
       zhTw: z.string(),
       ja: z.string(),

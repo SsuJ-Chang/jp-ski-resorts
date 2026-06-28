@@ -1,5 +1,4 @@
 ---
-type: "cluster"
 name:
   zhTw: "水上"
   ja: "みなかみ"

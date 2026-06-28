@@ -1,5 +1,4 @@
 ---
-type: "cluster"
 name:
   zhTw: "高鷲 Mountains"
   ja: "タカスマウンテンズ"

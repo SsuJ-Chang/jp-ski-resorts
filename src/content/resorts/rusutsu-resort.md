@@ -6,7 +6,6 @@ name:
   en: Rusutsu Resort
 region: hokkaido
 prefecture: 北海道
-skiArea: rusutsu
 tags:
 - powder
 - large_ski_area

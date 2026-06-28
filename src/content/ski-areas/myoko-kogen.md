@@ -1,5 +1,4 @@
 ---
-type: "cluster"
 name:
   zhTw: "妙高高原"
   ja: "妙高高原"

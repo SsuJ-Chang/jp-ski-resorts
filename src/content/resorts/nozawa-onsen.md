@@ -6,7 +6,6 @@ name:
   en: Nozawa Onsen Snow Resort
 region: kanto-koshinetsu
 prefecture: 長野縣
-skiArea: nozawa-onsen
 tags:
 - onsen
 - night_skiing

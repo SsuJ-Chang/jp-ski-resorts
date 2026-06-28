@@ -7,7 +7,6 @@ name:
   en: "Appi Kogen"
 region: "tohoku"
 prefecture: "岩手縣"
-skiArea: "appi"
 tags:
   - "large_ski_area"
   - "long_run"

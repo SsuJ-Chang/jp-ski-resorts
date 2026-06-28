@@ -6,7 +6,6 @@ name:
   en: Zao Onsen Ski Resort
 region: tohoku
 prefecture: 山形縣
-skiArea: zao
 tags:
 - large_ski_area
 - night_skiing

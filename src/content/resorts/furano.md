@@ -6,7 +6,6 @@ name:
   en: Furano Ski Resort
 region: hokkaido
 prefecture: 北海道
-skiArea: furano
 tags:
 - powder
 - beginner_friendly

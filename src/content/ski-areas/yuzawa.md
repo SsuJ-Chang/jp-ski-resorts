@@ -1,5 +1,4 @@
 ---
-type: "cluster"
 name:
   zhTw: "湯澤"
   ja: "湯沢"
