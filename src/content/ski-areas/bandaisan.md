@@ -22,4 +22,9 @@ featuredResorts:
   - "listel-ski-fantasia"
   - "numajiri"
   - "minowa"
+externalContent:
+  vlogs:
+    - title: "平日免費的雪場還有絕景？福島豬苗代、Grandeco、星野貓魔滑雪場｜TreknTrip"
+      url: "https://www.youtube.com/watch?v=ND2x0XmxxvE"
+      note: "TreknTrip 徒步旅行"
 ---
