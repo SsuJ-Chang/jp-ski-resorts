@@ -6,7 +6,7 @@ name:
   en: Inawashiro Ski Resort
 region: tohoku
 prefecture: 福島縣
-skiArea: bandai
+skiArea: bandaisan
 tags:
 - beginner_friendly
 - family_friendly

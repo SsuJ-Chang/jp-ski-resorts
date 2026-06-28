@@ -1,9 +1,9 @@
 import type { SkiAreaMapDefinition } from './types'
 
-export const bandaiMap = {
-  areaKey: 'bandai',
-  title: '磐梯山雪場區域圖',
-  note: '以磐梯山、裏磐梯與豬苗代周邊交通關係示意，非精準地理比例。',
+export const bandaisanMap = {
+  areaKey: 'bandaisan',
+  title: '磐梯山周邊雪場區域圖',
+  note: '以磐梯山、豬苗代與裏磐梯周邊交通關係示意，非精準地理比例。',
   layout: {
     collision: {
       minX: 18,
@@ -30,7 +30,7 @@ export const bandaiMap = {
     },
     {
       id: 'urabandai',
-      label: '裏磐梯',
+      label: '裏磐梯高原',
       kind: 'zone',
       location: { latitude: 37.662, longitude: 140.092 },
       nudge: { x: -4, y: -2 },
@@ -52,12 +52,36 @@ export const bandaiMap = {
       nudge: { x: 4, y: 2 },
     },
     {
+      id: 'listel-ski-fantasia',
+      label: 'Listel',
+      kind: 'resort',
+      resortId: 'listel-ski-fantasia',
+      location: { latitude: 37.543187, longitude: 140.149602 },
+      nudge: { x: 8, y: 6 },
+    },
+    {
       id: 'grandeco',
       label: 'Grandeco',
       kind: 'resort',
       resortId: 'grandeco',
       location: { latitude: 37.688, longitude: 140.085 },
       nudge: { x: 4, y: -3 },
+    },
+    {
+      id: 'urabandai-ski-area',
+      label: 'Urabandai',
+      kind: 'resort',
+      resortId: 'urabandai',
+      location: { latitude: 37.632043, longitude: 140.067616 },
+      nudge: { x: -9, y: 1 },
+    },
+    {
+      id: 'numajiri',
+      label: '沼尻',
+      kind: 'resort',
+      resortId: 'numajiri',
+      location: { latitude: 37.622985, longitude: 140.227363 },
+      nudge: { x: 8, y: -1 },
     },
     {
       id: 'minowa',

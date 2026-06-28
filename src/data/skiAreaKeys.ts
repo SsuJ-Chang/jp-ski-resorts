@@ -2,13 +2,13 @@ export const skiAreaKeys = [
   'yuzawa',
   'myoko-kogen',
   'hakuba',
-  'bandai',
+  'bandaisan',
   'niseko',
   'shiga-kogen',
   'takasu-mountains',
-  'tottori-daisen',
   'hachibuse-yama',
   'minakami',
+  'madarao',
 ] as const
 
 export type SkiAreaKey = (typeof skiAreaKeys)[number]

@@ -6,6 +6,7 @@ name:
   en: "Urabandai Ski Area"
 region: "tohoku"
 prefecture: "福島縣"
+skiArea: "bandaisan"
 tags:
   - "beginner_friendly"
   - "family_friendly"

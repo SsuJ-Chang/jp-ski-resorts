@@ -6,7 +6,7 @@ name:
   en: Hoshino Resorts NEKOMA Mountain
 region: tohoku
 prefecture: 福島縣
-skiArea: bandai
+skiArea: bandaisan
 tags:
 - family_friendly
 - large_ski_area

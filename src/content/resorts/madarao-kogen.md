@@ -6,6 +6,7 @@ name:
   en: Madarao Mountain Resort
 region: kanto-koshinetsu
 prefecture: 長野縣
+skiArea: madarao
 tags:
 - large_ski_area
 - night_skiing

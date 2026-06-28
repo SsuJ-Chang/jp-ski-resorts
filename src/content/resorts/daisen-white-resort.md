@@ -6,7 +6,6 @@ name:
   en: Daisen White Resort
 region: kansai-chugoku
 prefecture: 鳥取縣
-skiArea: tottori-daisen
 tags:
 - beginner_friendly
 - family_friendly

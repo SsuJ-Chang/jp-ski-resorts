@@ -66,7 +66,6 @@ sources:
   url: https://www.masumizu.net/ski.html
 - label: 大山ますみず高原スノーパーク Weathernews
   url: https://weathernews.jp/ski/spot/36907/
-skiArea: tottori-daisen
 contact:
   address:
     zhTw: 鳥取縣西伯郡伯耆町大内桝水高原1069-50

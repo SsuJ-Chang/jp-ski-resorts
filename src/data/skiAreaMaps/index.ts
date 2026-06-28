@@ -4,20 +4,20 @@ import { shigaKogenMap } from './shiga-kogen'
 import { nisekoMap } from './niseko'
 import { takasuMountainsMap } from './takasu-mountains'
 import { myokoKogenMap } from './myoko-kogen'
-import { bandaiMap } from './bandai'
-import { tottoriDaisenMap } from './tottori-daisen'
+import { bandaisanMap } from './bandaisan'
 import { hachibuseYamaMap } from './hachibuse-yama'
 import { minakamiMap } from './minakami'
+import { madaraoMap } from './madarao'
 
 export const skiAreaMaps = {
-  bandai: bandaiMap,
+  bandaisan: bandaisanMap,
   'hachibuse-yama': hachibuseYamaMap,
   hakuba: hakubaMap,
+  madarao: madaraoMap,
   minakami: minakamiMap,
   'myoko-kogen': myokoKogenMap,
   niseko: nisekoMap,
   'takasu-mountains': takasuMountainsMap,
-  'tottori-daisen': tottoriDaisenMap,
   yuzawa: yuzawaMap,
   'shiga-kogen': shigaKogenMap,
 } as const
