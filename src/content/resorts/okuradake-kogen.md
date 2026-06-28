@@ -57,15 +57,18 @@ courses:
   courseInfoPage: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/guide/
   summary: 大倉岳高原是小松市的家庭型雪場，官方列出 Wedeln、日本海、Family 與兒童雪坡等區域，並有夜滑營業日。
   details:
-  - name: ファミリーゲレンデ / Family Gelande
-    difficulty: beginner
-    note: 官方說明為寬敞緩坡，適合初學者練習與家庭滑行。
   - name: チビッコゲレンデ / Chibikko Gelande
     difficulty: beginner
     length: 80m
     maxSlope: 16°
     averageSlope: 12°
-    note: 官方說明為兒童與雪盆遊玩區域；官方資料並列出全長 80m、最大坡度 16°、平均坡度 12°。
+    note: 官方說明為兒童與雪盆遊玩區域。
+  - name: ファミリーゲレンデ / Family Gelande
+    difficulty: beginner
+    length: 350m
+    maxSlope: 16°
+    averageSlope: 12°
+    note: 官方說明為寬敞緩坡，適合初學者練習與家庭滑行。
   - name: 日本海コース / Nihonkai Course
     difficulty: intermediate
     length: 670m
