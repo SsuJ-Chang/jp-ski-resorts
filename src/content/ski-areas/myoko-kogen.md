@@ -19,4 +19,12 @@ featuredResorts:
   - "akakura-onsen"
   - "akakura-kanko"
   - "lotte-arai"
+externalContent:
+  websites:
+    - title: "妙高觀光官方入口"
+      url: "https://myokotourism.jp/"
+      note: "妙高觀光局整合雪場、住宿、溫泉與交通資訊。"
+    - title: "妙高雪場雪況資訊"
+      url: "https://snow.myokotourism.jp/"
+      note: "妙高地區各雪場的雪況與營運資訊。"
 ---

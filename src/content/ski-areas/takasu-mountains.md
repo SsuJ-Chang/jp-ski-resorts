@@ -21,6 +21,10 @@ featuredResorts:
   - "hirugano-kogen"
   - "gujo-kogen"
 externalContent:
+  websites:
+    - title: "Takasu Mountains 官方入口"
+      url: "https://www.takasumountains.com/"
+      note: "整合六座雪場、共通票券、地圖、接駁與住宿資訊。"
   vlogs:
     - title: "【日本中部】EP3名古屋自由行｜滑雪價格｜租裝備價格｜西日本最大雪場🗻｜高鷲滑雪場⛷｜Dynaland Snow Park❄️｜自學單板🏂｜ホテルヴィラモンサン飯店｜Action3📸｜"
       url: "https://www.youtube.com/watch?v=v3e3Bgtegqc"

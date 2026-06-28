@@ -16,4 +16,9 @@ traits:
 featuredResorts:
   - "hachi-kogen"
   - "hachikita-kogen"
+externalContent:
+  websites:
+    - title: "Hachi・Hachi Kita 共通官方入口"
+      url: "https://www.hachi-hachikita.co.jp/"
+      note: "整合 Hachi 高原、Hachi Kita 與共通資訊入口。"
 ---
