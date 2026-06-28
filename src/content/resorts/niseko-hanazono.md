@@ -185,6 +185,9 @@ terrainSummary:
   powder: 東側樹林與非壓雪路線需依官方開放與 Niseko Rules 滑行。
 externalContent:
   vlogs:
+  - title: "二世古四大雪場74條雪道全解析｜EP1 花園滑雪場篇｜教你在滑雪影片加入速度與軌跡的三種方法與實測｜綠線激推給零基礎新手｜不會看雪場地圖選這就對｜獨有奢華配套與豐富公園｜夜間也可跳｜最快換雪場路線"
+    url: https://www.youtube.com/watch?v=g4vJqEEbqBQ
+    note: LeoTW沈浸滑雪
   - title: 【日本北海道🇯🇵】EP3 新雪谷花園滑雪場🗻｜Hanazono Niseko ❄️｜自學滑雪心得｜LV 夢幻蒙古包｜LV monogram 滑雪纜車｜羊蹄山美景展望🗻
     url: https://www.youtube.com/watch?v=hyxmkaXvTzg&t=1s
     note: 和Ivy去旅行

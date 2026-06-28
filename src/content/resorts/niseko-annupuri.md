@@ -188,6 +188,12 @@ terrainSummary:
   advanced: Challenge、Fukayuki Rinkan 與 Championship 依官方地圖為高難度路線。
   snowboard: 地形寬度與坡度變化較溫和，適合與 Niseko Village 串成西側行程。
   powder: 高難度林間與深雪路線需遵守 Niseko Rules 與官方開放狀態。
+externalContent:
+  blogs: []
+  vlogs:
+  - title: "二世古Annupuri新手初訪絕不能錯過｜明確分區簡單理解Village二世古村｜6種單人滑雪拍攝方式超真實心得分享｜Niseko EP3"
+    url: https://www.youtube.com/watch?v=A539suY39dc
+    note: LeoTW沈浸滑雪
 sources:
 - label: Weathernews ニセコアンヌプリ国際スキー場
   url: https://weathernews.jp/ski/spot/31603/

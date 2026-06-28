@@ -92,6 +92,12 @@ terrainSummary:
   intermediate: 中級者可用 バラエティーコース、パラダイスコース、ダイナミックコース、アルペンコース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 チャンピオンコース、テクニカルコース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+externalContent:
+  blogs: []
+  vlogs:
+  - title: "全年150天可滑｜關西最熱門滑雪場奧伊吹超全攻略｜自駕滋賀滑雪一日遊｜也很適合親子同遊｜雪票租借美食看透透｜14條雪道｜日本友人聊滑雪"
+    url: https://www.youtube.com/watch?v=QB0FIiquvWg
+    note: LeoTW沈浸滑雪
 sources:
 - label: Grand Snow Okuibuki Official
   url: https://www.okuibuki.co.jp/

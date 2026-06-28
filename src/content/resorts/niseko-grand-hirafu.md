@@ -238,6 +238,9 @@ terrainSummary:
   powder: 高處黑線與 gate 外地形需遵守 Niseko Rules，並以官方開放狀態為準。
 externalContent:
   vlogs:
+  - title: "二世古超全攻略EP2｜比羅夫雪場獨創分區法｜簡化理解最大規模雪場｜4位中文教練實際體驗，學初學&道外&刻滑推薦？｜一生必來絕美打卡點攻略｜超複雜Hirafu全山跑不再迷路！"
+    url: https://www.youtube.com/watch?v=64tQyHxTzSs
+    note: LeoTW沈浸滑雪
   - title: 【日本北海道🇯🇵】EP4 新雪谷格蘭比羅夫滑雪場❄️｜商圈街道找燒肉🐧｜登山軒大胃王平價拉麵🍜｜二世古 NISEKO GRAND HIRAFU⛰️｜能見度差下雨起霧天☃️｜比羅夫滑雪 自由行 🗻
     url: https://www.youtube.com/watch?v=iEMbhcBWR0w
     note: 和Ivy去旅行

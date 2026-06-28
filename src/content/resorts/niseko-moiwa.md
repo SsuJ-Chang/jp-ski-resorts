@@ -6,7 +6,6 @@ name:
   en: "Niseko Moiwa Ski Resort"
 region: "hokkaido"
 prefecture: "北海道"
-skiArea: "niseko"
 tags:
   - "family_friendly"
   - "no_car_accessible"

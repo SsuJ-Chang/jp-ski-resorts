@@ -237,6 +237,12 @@ terrainSummary:
   advanced: Wonderland、Superstition、Misoshiru 與多條地圖黑線構成高難度與非壓雪特色。
   snowboard: 區域連接 Annupuri 與 Grand Hirafu，平緩連絡段需留意速度維持。
   powder: 多條官方未列完整坡度的路線在全山地圖上屬高難度，開放與雪況需看即時公告。
+externalContent:
+  blogs: []
+  vlogs:
+  - title: "二世古Annupuri新手初訪絕不能錯過｜明確分區簡單理解Village二世古村｜6種單人滑雪拍攝方式超真實心得分享｜Niseko EP3"
+    url: https://www.youtube.com/watch?v=A539suY39dc
+    note: LeoTW沈浸滑雪
 sources:
 - label: Niseko United Village Course Details
   url: https://www.niseko.ne.jp/en/map/village/

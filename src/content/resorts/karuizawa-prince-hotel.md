@@ -154,7 +154,10 @@ externalContent:
   - title: 日本滑雪．長野輕井澤王子滑雪場，初學者最佳選擇
     url: https://natasha-traveler.tw/karuizawa-ski/
     note: 娜塔蝦的滑雪食旅手記
-  vlogs: []
+  vlogs:
+  - title: "帶你玩轉輕井澤滑雪場：超詳細攻略！31度黑線雪道多可怕？哪些APP值得一試？雪質真的很硬嗎？"
+    url: https://www.youtube.com/watch?v=vMWhSBRttyg
+    note: LeoTW沈浸滑雪
 sources:
 - label: Karuizawa Prince Hotel Ski Resort Official Website
   url: https://www.princehotels.co.jp/ski/karuizawa/winter/

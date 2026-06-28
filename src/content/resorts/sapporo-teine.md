@@ -171,7 +171,13 @@ externalContent:
   - title: 札幌手稻滑雪場2026攻略：交通方式、巴士/纜車票與滑雪課程費用、美食介紹
     url: https://natasha-traveler.tw/sapporo-teine-ski-resort-review/
     note: 娜塔蝦的滑雪食旅手記
-  vlogs: []
+  vlogs:
+  - title: "日本新手友善雪道｜北海道手稻滑雪場下集 ｜市區交通40分輕鬆到達｜奧林匹亞區雪道+相關配套詳解"
+    url: https://www.youtube.com/watch?v=NiEuTY-MVzo
+    note: LeoTW沈浸滑雪
+  - title: "日本邊滑雪邊看海!?｜北海道手稻滑雪場上集 ｜札幌車站40分鐘輕鬆到達｜雪票+租借+高地區雪道詳解"
+    url: https://www.youtube.com/watch?v=pFw7nw1HGsA
+    note: LeoTW沈浸滑雪
 sources:
 - label: サッポロテイネ Official
   url: https://sapporo-teine.com/snow/

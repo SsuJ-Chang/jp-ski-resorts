@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro'
+import CollapsibleLinkList from '../../components/CollapsibleLinkList.astro'
 import SkiAreaPositionMap from '../../components/SkiAreaPositionMap.astro'
 import { tagLabels } from '../../data/tags'
 import { sortResortsForListing } from '../../utils/resortOrdering'
@@ -112,67 +113,25 @@ const hasExternalContent =
       <section class="info-panel detail-panel detail-panel--wide external-content-panel">
         <h2>外部參考</h2>
         {area.externalContent?.websites && area.externalContent.websites.length > 0 && (
-          <>
-            <h3 class="subsection-title">參考網站</h3>
-            <ul class="link-list">
-              {area.externalContent.websites.map((website) => (
-                <li>
-                  <a
-                    href={website.url}
-                    target="_blank"
-                    rel="noreferrer"
-                    data-analytics-resource="reference_site"
-                    data-analytics-label={website.title}
-                    data-analytics-note={website.note}
-                  >
-                    {website.title}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </>
+          <CollapsibleLinkList
+            title="參考網站"
+            items={area.externalContent.websites}
+            analyticsResource="reference_site"
+          />
         )}
         {area.externalContent?.blogs && area.externalContent.blogs.length > 0 && (
-          <>
-            <h3 class="subsection-title">部落格</h3>
-            <ul class="link-list">
-              {area.externalContent.blogs.map((blog) => (
-                <li>
-                  <a
-                    href={blog.url}
-                    target="_blank"
-                    rel="noreferrer"
-                    data-analytics-resource="blog"
-                    data-analytics-label={blog.title}
-                    data-analytics-note={blog.note}
-                  >
-                    {blog.title}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </>
+          <CollapsibleLinkList
+            title="部落格"
+            items={area.externalContent.blogs}
+            analyticsResource="blog"
+          />
         )}
         {area.externalContent?.vlogs && area.externalContent.vlogs.length > 0 && (
-          <>
-            <h3 class="subsection-title">影片</h3>
-            <ul class="link-list">
-              {area.externalContent.vlogs.map((vlog) => (
-                <li>
-                  <a
-                    href={vlog.url}
-                    target="_blank"
-                    rel="noreferrer"
-                    data-analytics-resource="vlog"
-                    data-analytics-label={vlog.title}
-                    data-analytics-note={vlog.note}
-                  >
-                    {vlog.title}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </>
+          <CollapsibleLinkList
+            title="影片"
+            items={area.externalContent.vlogs}
+            analyticsResource="vlog"
+          />
         )}
       </section>
     )}
