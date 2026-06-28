@@ -221,6 +221,12 @@ externalContent:
     url: https://natasha-traveler.tw/zao-01/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
+  - title: 【藏王保姆級乾貨】更快更省力的4條登頂路線+山頂大霧滑下山也不怕｜回程50條雪道全指引｜藏王滑雪自由行攻略(後篇)EP3｜跨區末班纜車+新手上課點+雪橇場+滑雪限定5大看樹冰點+兩家中文教練 清晰整理
+    url: https://www.youtube.com/watch?v=WLQBVOmiTQw
+    note: LeoTW沈浸滑雪
+  - title: 藏王真的是單板地獄？5條登頂路線避坑全指南｜雪具租借9間完整對比+滑雪票怎麼買最合適+親自滑過登頂路線手把手帶你看(前篇)｜藏王滑雪自由行攻略EP2｜買了滑雪票能不能搭觀光纜車？｜雪道平坡上坡在哪？
+    url: https://www.youtube.com/watch?v=VuCcFy9Sxbo
+    note: LeoTW沈浸滑雪
   - title: 終於看到萬里無雲藏王樹冰！積雪三米雪怪搭配海景奇景現場曝光｜纜車排隊坑別再跳＋自由行交通住宿美食看本攻略一次弄懂
     url: https://www.youtube.com/watch?v=cycyfXm-pn4
     note: LeoTW沈浸滑雪

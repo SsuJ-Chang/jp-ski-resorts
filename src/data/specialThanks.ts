@@ -13,6 +13,12 @@ export const specialThanks: SpecialThanksEntry[] = [
     description: '以滑雪旅行、住宿與日本旅遊筆記補足行程規劃時的實際感受。',
   },
   {
+    name: 'LeoTW沈浸滑雪',
+    kind: 'YouTube',
+    url: 'https://www.youtube.com/@leo.tw.onsnow/videos',
+    description: '透過自身經歷分享滑雪資訊，滿滿的細節與實用知識。',
+  },
+  {
     name: 'Real Japan Nature',
     kind: 'YouTube',
     url: 'https://www.youtube.com/@realjapannature',
