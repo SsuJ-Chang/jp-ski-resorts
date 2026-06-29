@@ -220,7 +220,14 @@ externalContent:
     - title: "[安比高原滑雪]史上最詳細！安比高原飯店餐廳總整理(上)李朝苑燒肉、ARLBERG自助餐、七時雨日本料理"
       url: https://natasha-traveler.tw/appi-hotel-restauran/
       note: "娜塔蝦的滑雪食旅手記"
-  vlogs: []
+  vlogs:
+    vlogs:
+    - title: "一日快閃東北! 噴 2 萬円💸也值得!安比雪場「最推薦雪道」是?完美雪場心得分享｜日本東北安比高原APPI滑雪場｜YK🏂VLOG"
+      url: "https://www.youtube.com/watch?v=84gKUdQpPc8"
+      note: "YK來了"
+    - title: "2026日本東北看雪貓?!什麼叫做阿司匹靈粉雪!超級多設施的渡假村雪場｜日本東北安比高原APPI滑雪場｜YK🏂VLOG"
+      url: "https://www.youtube.com/watch?v=xQ0m9t60HV0"
+      note: "YK來了"
 sources:
   - label: "安比高原 Official Website"
     url: "https://www.appi.co.jp/snow-mountain-resort/"
