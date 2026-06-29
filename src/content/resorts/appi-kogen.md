@@ -221,7 +221,6 @@ externalContent:
       url: https://natasha-traveler.tw/appi-hotel-restauran/
       note: "娜塔蝦的滑雪食旅手記"
   vlogs:
-    vlogs:
     - title: "一日快閃東北! 噴 2 萬円💸也值得!安比雪場「最推薦雪道」是?完美雪場心得分享｜日本東北安比高原APPI滑雪場｜YK🏂VLOG"
       url: "https://www.youtube.com/watch?v=84gKUdQpPc8"
       note: "YK來了"
