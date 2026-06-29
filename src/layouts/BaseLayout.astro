@@ -100,7 +100,8 @@ const socialImageAlt = '日本滑雪場指南'
       <div class="site-footer__inner">
         <p class="site-footer__copyright">
           © {currentYear} RJ. All rights reserved.
-          <span class="site-footer__divider" aria-hidden="true">・</span>
+        </p>
+        <nav class="site-footer__nav" aria-label="頁尾連結">
           <a class="site-footer__link" href={withBasePath('/privacy/')}>隱私權政策</a>
           <span class="site-footer__divider" aria-hidden="true">・</span>
           <a class="site-footer__link" href={withBasePath('/thanks/')}>特別感謝</a>
@@ -114,7 +115,7 @@ const socialImageAlt = '日本滑雪場指南'
           >
             聯絡作者
           </a>
-        </p>
+        </nav>
       </div>
     </footer>
     <BackToTopButton />

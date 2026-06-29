@@ -89,22 +89,61 @@ const websiteStructuredData = {
   showHeaderSearch
 >
   <main class="site-shell">
-    <section class="home-hero" aria-labelledby="page-title">
-      <div class="home-hero__copy">
-        <p class="eyebrow">Japan ski guide</p>
-        <h1 id="page-title" class="home-hero__title">日本滑雪場指南</h1>
-        <p class="home-hero__lead">
-          身為台灣滑雪愛好者，每次規劃滑雪行程要蒐集資料都很辛苦，所以此網站為整理日本各地滑雪場的官方資訊、交通位置與雪場特色。希望能協助每個愛滑雪的你能輕鬆取得滑雪場資訊並安排適合的旅程。
-        </p>
-        <p class="home-hero__stat">收錄 {resortCount} 座滑雪場</p>
+    <section class="home-map-navigation" aria-labelledby="page-title">
+      <div class="home-hero">
+        <div class="home-hero__copy">
+          <p class="eyebrow">Japan ski guide</p>
+          <h1 id="page-title" class="home-hero__title">日本滑雪場指南</h1>
+          <p class="home-hero__lead">
+            身為台灣滑雪愛好者，每次規劃滑雪行程要蒐集資料都很辛苦，所以此網站為整理日本各地滑雪場的官方資訊、交通位置與雪場特色。希望能協助每個愛滑雪的你能輕鬆取得滑雪場資訊並安排適合的旅程。
+          </p>
+          <form
+            class="home-hero-search"
+            action={withBasePath('/resorts/')}
+            method="get"
+            data-site-search
+            data-resorts-url={withBasePath('/resorts/')}
+            role="search"
+            aria-label="搜尋雪場"
+          >
+            <label class="sr-only" for="home-hero-search-input">搜尋雪場名稱或地區</label>
+            <input
+              id="home-hero-search-input"
+              name="q"
+              type="search"
+              autocomplete="off"
+              placeholder="輸入繁體中文、日文或英文搜尋滑雪場"
+            />
+            <button type="submit" aria-label="送出搜尋">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M5 12h12m-5-5 5 5-5 5" />
+              </svg>
+            </button>
+          </form>
+          <p class="home-hero__stat">收錄 {resortCount} 座滑雪場</p>
+        </div>
       </div>
-      <div class="home-region-guide" aria-label="Japan ski region guide">
-        <input class="region-view-toggle__input" id="region-view-list" type="radio" name="region-view" checked />
-        <input class="region-view-toggle__input" id="region-view-map" type="radio" name="region-view" />
 
-        <div class="region-view-toggle" aria-label="Region view mode">
-          <label for="region-view-list">列表</label>
-          <label for="region-view-map">地圖</label>
+      <div class="home-map-navigation__map" aria-label="日本滑雪分區地圖">
+        <JapanRegionMap mode="overview" regions={regionStats} labelledBy="home-map-title" />
+
+        <div class="home-map-hover-cards" aria-hidden="true">
+          {regionStats.map((region) => (
+            <div class={`home-map-hover-card home-map-hover-card--${region.key} region-strip--${region.tone}`}>
+              <span class="home-map-hover-card__name">{region.name.zhTw}</span>
+              <span class="home-map-hover-card__meta">
+                {region.count} 座
+                {region.examples.length > 0 && ` / ${region.examples.join('、')}`}
+              </span>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <div class="home-region-guide" aria-labelledby="home-map-heading">
+        <div class="home-region-guide__heading">
+          <p class="eyebrow">Region map</p>
+          <h2 id="home-map-heading">依區域找雪場</h2>
         </div>
 
         <div class="home-region-guide__list">
@@ -129,10 +168,6 @@ const websiteStructuredData = {
               </small>
             </a>
           ))}
-        </div>
-
-        <div class="home-region-guide__map" aria-label="日本滑雪分區地圖">
-          <JapanRegionMap mode="overview" regions={regionStats} labelledBy="home-map-title" />
         </div>
       </div>
     </section>
