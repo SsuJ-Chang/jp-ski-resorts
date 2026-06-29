@@ -18,6 +18,7 @@ visibility:
   note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
 links:
   official: "https://www.appi.co.jp/snow-mountain-resort/"
+  ticket: "https://www.appi.co.jp/snow-mountain-resort/offseason/ticket/"
   instagram: "https://www.instagram.com/appi_snow/"
   weather: "https://weathernews.jp/ski/spot/33301/"
   access: "https://www.appi.co.jp/snow-mountain-resort/access/"
@@ -33,6 +34,45 @@ season:
   operatingPeriod: "2025/12/05-2026/05/02"
   note: "營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
   source: "https://weathernews.jp/ski/spot/33301/"
+trailMaps:
+- label: 安比高原雪道圖
+  language: 日英文
+  season: 2025-2026
+  url: https://www.appi.co.jp/snow-mountain-resort/assets/pdf/skiablearea2024-25.pdf
+  sourceLabel: Hakuba Goryu Official
+tickets:
+  season: "2025-2026"
+  currency: "JPY"
+  source: "https://www.appi.co.jp/snow-mountain-resort/offseason/ticket/"
+  note: "主要票種摘要；頁面標示金額皆含 ¥500 IC 卡保証金，退卡可退回。兒童為 12 歲以下免費。"
+  plans:
+    - name: "Blue Pass 1 日券（一般旺季）"
+      priceLines:
+        - "成人：窗口 ¥9,500 / 線上 ¥9,000"
+        - "兒童：免費"
+      note: "適用 2025/12/20 ~ 2026/03/22，可搭乘一般纜車與 Gondola。"
+    - name: "Blue Pass 1 日券（雪季初期 / 春雪期）"
+      priceLines:
+        - "成人：窗口 ¥4,500 / 線上 ¥4,500"
+        - "兒童：免費"
+      note: "雪季初期 2025/12/06 ~ 12/19、春雪期 2026/03/23 ~ 05/06；線上預購價同為 ¥4,500。"
+    - name: "Blue Pass 夜滑券"
+      priceLines:
+        - "成人：¥4,000"
+        - "兒童：免費"
+      note: "16:00 ~ 20:00，限週六與假日前夕。"
+    - name: "Gold Pass 1 日券"
+      priceLines:
+        - "成人：窗口 ¥14,500 / 線上 ¥14,000"
+      note: "含 Blue Pass 1 日券與指定纜車快速通道；12 歲以下若需使用快速通道也需購買。"
+    - name: "Black Pass 1 日券"
+      priceLines:
+        - "成人：窗口 ¥33,500 / 線上 ¥33,000"
+      note: "每日限量 30 張，含快速通道、Black Pass Lounge、餐廳優先通道、西森山 Snow Cat 無限次與 Fast Track 優先入山。"
+    - name: "西森山 Snow Cat 單次"
+      priceLines:
+        - "成人：¥5,000"
+      note: "西森山區域需另購；Black Pass 可無限次搭乘。"
 snowWeather:
   title: "安比高原雪況天氣"
   provider: "Weathernews"
@@ -224,12 +264,17 @@ externalContent:
     - title: "一日快閃東北! 噴 2 萬円💸也值得!安比雪場「最推薦雪道」是?完美雪場心得分享｜日本東北安比高原APPI滑雪場｜YK🏂VLOG"
       url: "https://www.youtube.com/watch?v=84gKUdQpPc8"
       note: "YK來了"
+    - title: "超便宜早鳥套票何時買？新手友善魔法森林區開箱🌲帶香蕉滑雪🍌! ?解鎖阿司匹靈粉雪❄️！日本東北安比高原APPI滑雪場｜YK🏂VLOG"
+      url: "https://www.youtube.com/watch?v=wNGkcF3Dl-w"
+      note: "YK來了"
     - title: "2026日本東北看雪貓?!什麼叫做阿司匹靈粉雪!超級多設施的渡假村雪場｜日本東北安比高原APPI滑雪場｜YK🏂VLOG"
       url: "https://www.youtube.com/watch?v=xQ0m9t60HV0"
       note: "YK來了"
 sources:
   - label: "安比高原 Official Website"
     url: "https://www.appi.co.jp/snow-mountain-resort/"
+  - label: "安比高原 Lift Tickets"
+    url: "https://www.appi.co.jp/snow-mountain-resort/offseason/ticket/"
   - label: "安比高原 Access"
     url: "https://www.appi.co.jp/snow-mountain-resort/access/"
   - label: "Weathernews 安比高原"
