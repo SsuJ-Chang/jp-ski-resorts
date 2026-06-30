@@ -166,6 +166,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
+  - title: "2026最新！日本妙高赤倉滑雪場保姆級攻略!素材又忘了備份就誤刪🥲!第二次來日本滑雪跨年｜YK🏂VLOG"
+    url: "https://www.youtube.com/watch?v=LnicbnE1YDI"
+    note: "YK來了"
   - title: 【スキー場ガイド】赤倉観光リゾートスキー場 全面滑走可能になりました
     url: https://www.youtube.com/watch?v=_17etYo9GzA
     note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard

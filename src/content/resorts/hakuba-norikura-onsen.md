@@ -175,6 +175,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
+  - title: "屋頂雪崩大場面!超好玩又沒人類的白馬雪場❄️!？還有新手兒童超平緩專區！｜白馬雪場開箱2月篇🏂｜乗鞍Norikura!"
+    url: "https://www.youtube.com/watch?v=JW3vMr2A5Rc"
+    note: "YK來了"
   - title: 【2025日本白馬🇯🇵】EP5 白馬乘鞍溫泉滑雪場 🗻｜自學ski 直上紅道❄️｜CP值最高雪場飯店｜Hakuba Alps Hotel ⛷️｜
     url: https://www.youtube.com/watch?v=TGFH2JcOSNc
     note: 和Ivy去旅行

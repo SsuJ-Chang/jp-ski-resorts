@@ -128,7 +128,10 @@ access:
     note: 從長野自動車道安曇野 IC 約 60 分、上信越自動車道長野 IC 約 60 分、北陸自動車道糸魚川 IC 約 70 分。降雪或路面結冰時必須使用雪胎，2WD 車輛需準備雪鏈。
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+  - title: "白馬人才會來的秘境滑雪場❄️!適合新手嗎?唯一能看火車和又能看湖的雪場!默念口訣挑戰黑線蘑菇道｜白馬雪場開箱EP.4🏂｜"
+    url: "https://www.youtube.com/watch?v=aRGLOokZ6wQ"
+    note: "YK來了"
 sources:
 - label: Hakuba Sanosaka Official Website
   url: https://sanosaka.jp/

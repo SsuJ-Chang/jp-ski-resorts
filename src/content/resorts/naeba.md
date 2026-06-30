@@ -302,6 +302,9 @@ externalContent:
     url: https://natasha-traveler.tw/dragondola/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
+  - title: "苗場滑雪場一路滑到晚上!到底要不要買自己的雪鞋和雪板?第一次買裝備的心得分享！滑行能力大增??｜日本苗場滑雪場Naeba｜YK🏂VLOG"
+    url: "https://www.youtube.com/watch?v=2OSQQADrndo"
+    note: "YK來了"
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=475s
     note: MIRU tube JAPAN 【Route Guide】

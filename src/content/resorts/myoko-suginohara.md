@@ -240,7 +240,10 @@ externalContent:
   - title: 妙高衫之原滑雪場｜居酒屋民宿-富士美莊住宿心得
     url: https://natasha-traveler.tw/myoko-fujimiso/
     note: 娜塔蝦的滑雪食旅手記
-  vlogs: []
+  vlogs:
+  - title: "全日本最長的雪道!8.5km!怎麼摔都不會痛!不用去北海道了｜妙高雪場開箱 杉之原SUGINOHARA｜YK🏂VLOG"
+    url: "https://www.youtube.com/watch?v=scsRnyrkqIE"
+    note: "YK來了"
 sources:
 - label: Myoko Suginohara Official Website
   url: https://www.princehotels.co.jp/ski/myoko/winter/

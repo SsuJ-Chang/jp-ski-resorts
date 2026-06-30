@@ -15,8 +15,20 @@ export const specialThanks: SpecialThanksEntry[] = [
   {
     name: 'LeoTW沈浸滑雪',
     kind: 'YouTube',
-    url: 'https://www.youtube.com/@leo.tw.onsnow/videos',
+    url: 'https://www.youtube.com/@leo.tw.onsnow',
     description: '透過自身經歷分享滑雪資訊，滿滿的細節與實用知識。',
+  },
+  {
+    name: '大林滑雪男子',
+    kind: 'YouTube',
+    url: 'https://www.youtube.com/@drlinsnow',
+    description: '提供滑雪經驗與雪場觀察，讓資料整理能更貼近台灣滑雪者的視角。',
+  },
+  {
+    name: 'YK來了',
+    kind: 'YouTube',
+    url: 'https://www.youtube.com/@bangyk',
+    description: '以生活旅行 VLOG 記錄滑雪、運動與日常體驗，分享雪場實際滑行感受與行程資訊。',
   },
   {
     name: 'Real Japan Nature',
@@ -29,12 +41,6 @@ export const specialThanks: SpecialThanksEntry[] = [
     kind: 'YouTube',
     url: 'https://www.youtube.com/@syuntabi',
     description: '分享日本各地季節旅行內容，作為滑雪行程與區域特色的輔助參考。',
-  },
-  {
-    name: '大林滑雪男子',
-    kind: 'YouTube',
-    url: 'https://www.youtube.com/@drlinsnow',
-    description: '提供滑雪經驗與雪場觀察，讓資料整理能更貼近台灣滑雪者的視角。',
   },
   {
     name: 'MIRU tube JAPAN 【Route Guide】',

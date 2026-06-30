@@ -185,7 +185,10 @@ externalContent:
   - title: 妙高高原滑雪住宿｜Akakura Yours Inn，免費接送服務的優質民宿
     url: https://natasha-traveler.tw/akakura-hotel/
     note: 娜塔蝦的滑雪食旅手記
-  vlogs: []
+  vlogs:
+  - title: "2026最新！日本妙高赤倉滑雪場保姆級攻略!素材又忘了備份就誤刪🥲!第二次來日本滑雪跨年｜YK🏂VLOG"
+    url: "https://www.youtube.com/watch?v=LnicbnE1YDI"
+    note: "YK來了"
 sources:
 - label: Akakura Onsen Official Website
   url: https://akakura-ski.com/

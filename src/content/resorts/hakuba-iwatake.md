@@ -198,6 +198,9 @@ externalContent:
     url: https://natasha-traveler.tw/iwatake-ski/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
+  - title: "2025最美網紅打卡聖地❄️白馬岩岳滑雪場滑行體驗、接駁巴士🏂排隊拍照小攻略｜白馬雪場開箱Ep.2🏂｜VLOG☃️"
+    url: "https://www.youtube.com/watch?v=LFitKXQuCPo"
+    note: "YK來了"
   - title: 【2025日本白馬🇯🇵】EP3 白馬岩岳滑雪場🗻｜自學滑雪全紀錄❄️｜連續滑雪第三天🏂｜日本雪場開箱🎄｜自駕去滑雪｜HAKUBA IWATAKE⛷️
     url: https://www.youtube.com/watch?v=acJZsaLUmEM
     note: 和Ivy去旅行
