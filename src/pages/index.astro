@@ -5,6 +5,7 @@ import { regions } from '../data/regions'
 import { getPublishedResorts } from '../utils/resortCatalog'
 import { withBasePath } from '../utils/paths'
 import { getPublishedSkiAreas } from '../utils/skiAreas'
+import { tagLabels, type ResortTag } from '../data/tags'
 
 const toneByRegion = {
   hokkaido: 'powder',
@@ -19,6 +20,23 @@ const toneByRegion = {
 const resorts = await getPublishedResorts()
 const skiAreas = await getPublishedSkiAreas()
 const resortCount = resorts.length
+const homeQuickTags: Array<{
+  tag: ResortTag
+  tone: 'learn' | 'trip' | 'powder'
+}> = [
+  {
+    tag: 'beginner_friendly',
+    tone: 'learn',
+  },
+  {
+    tag: 'good_for_first_japan_trip',
+    tone: 'trip',
+  },
+  {
+    tag: 'powder',
+    tone: 'powder',
+  },
+]
 const regionExampleLimit = 2
 const regionExampleCollator = new Intl.Collator('zh-Hant-TW')
 type Resort = (typeof resorts)[number]
@@ -120,6 +138,22 @@ const websiteStructuredData = {
               </svg>
             </button>
           </form>
+          <div class="home-quick-tags" aria-label="依滑雪情境快速找雪場">
+            <div class="home-quick-tags__list">
+              {homeQuickTags.map((quickTag) => (
+                <a
+                  class={`home-quick-tag home-quick-tag--${quickTag.tone}`}
+                  href={`${withBasePath('/resorts/')}?tag=${quickTag.tag}`}
+                  aria-label={`查看${tagLabels[quickTag.tag]}滑雪場`}
+                  data-analytics-select="home_quick_tag"
+                  data-select-id={quickTag.tag}
+                  data-source-area="home_hero"
+                >
+                  {tagLabels[quickTag.tag]}
+                </a>
+              ))}
+            </div>
+          </div>
           <p class="home-hero__stat">收錄 {resortCount} 座滑雪場</p>
         </div>
       </div>
