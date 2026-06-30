@@ -1,8 +1,10 @@
 ---
 import type { ResortEntry } from '../utils/resorts'
 import { tagLabels } from '../data/tags'
+import { regions } from '../data/regions'
 import { withBasePath } from '../utils/paths'
-import { getResortPrefectureKey } from '../utils/resortBrowse'
+import { getResortPrefecture } from '../utils/resortBrowse'
+import { getPublishedSkiAreaMap } from '../utils/skiAreas'
 
 type Props = {
   resorts: ResortEntry[]
@@ -19,6 +21,12 @@ const {
   ariaLabel = 'Resorts',
   sourceArea = 'resort_listing',
 } = Astro.props
+
+const skiAreaMap = await getPublishedSkiAreaMap()
+const regionByKey = new Map(regions.map((region) => [region.key, region] as const))
+
+const toSearchText = (parts: Array<string | undefined>) =>
+  parts.filter(Boolean).join(' ')
 ---
 
 <div class="resort-list-summary" aria-live="polite">
@@ -27,21 +35,55 @@ const {
 
 <section class="resort-grid" aria-label={ariaLabel} data-resort-results data-source-area={sourceArea}>
   {resorts.map((resort) => {
-    const prefectureKey = getResortPrefectureKey(resort) ?? ''
+    const prefecture = getResortPrefecture(resort)
+    const prefectureKey = prefecture?.key ?? ''
+    const region = regionByKey.get(resort.data.region)
+    const skiArea = resort.data.skiArea ? skiAreaMap.get(resort.data.skiArea) : undefined
     const regionName = regionNamesByKey[resort.data.region] ?? resort.data.region
     const metaParts = showRegionMeta ? [regionName, resort.data.prefecture] : [resort.data.prefecture]
-    const searchableName = [
+
+    const searchableName = toSearchText([
       resort.data.name.zhTw,
       resort.data.name.ja,
       resort.data.name.en,
-    ].filter(Boolean).join(' ')
+    ])
+    const searchableSkiArea = toSearchText([
+      skiArea?.name.zhTw,
+      skiArea?.name.ja,
+      skiArea?.name.en,
+      skiArea?.key,
+    ])
+    const searchablePrefecture = toSearchText([
+      prefecture?.name.zhTw,
+      prefecture?.name.ja,
+      prefecture?.name.en,
+      prefecture?.key,
+      resort.data.prefecture,
+    ])
+    const searchableRegion = toSearchText([
+      region?.name.zhTw,
+      region?.name.en,
+      region?.key,
+      resort.data.region,
+      regionName,
+    ])
+    const searchableAll = toSearchText([
+      searchableName,
+      searchableSkiArea,
+      searchablePrefecture,
+      searchableRegion,
+    ])
 
     return (
       <a
         class="resort-card"
         href={withBasePath(`/resorts/${resort.id}/`)}
         data-resort-card
-        data-search-text={searchableName}
+        data-search-text={searchableAll}
+        data-search-name={searchableName}
+        data-search-ski-area={searchableSkiArea}
+        data-search-prefecture={searchablePrefecture}
+        data-search-region={searchableRegion}
         data-resort-slug={resort.id}
         data-resort-region={resort.data.region}
         data-resort-prefecture={resort.data.prefecture}
