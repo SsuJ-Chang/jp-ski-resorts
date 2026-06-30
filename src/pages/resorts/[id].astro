@@ -8,6 +8,7 @@ import { tagLabels } from '../../data/tags'
 import { getPublishedResorts } from '../../utils/resortCatalog'
 import { withBasePath } from '../../utils/paths'
 import { getPublishedSkiAreaMap } from '../../utils/skiAreas'
+import { getResortPrefecture } from '../../utils/resortBrowse'
 
 export async function getStaticPaths() {
   const resorts = await getPublishedResorts()
@@ -21,6 +22,7 @@ export async function getStaticPaths() {
 const { resort } = Astro.props
 const { Content } = await render(resort)
 const region = regions.find((item) => item.key === resort.data.region)
+const prefecture = getResortPrefecture(resort)
 const publishedSkiAreas = await getPublishedSkiAreaMap()
 const skiArea = resort.data.skiArea ? publishedSkiAreas.get(resort.data.skiArea) : undefined
 
@@ -288,7 +290,33 @@ const resortStructuredData = [
 
     <section class="detail-hero" aria-labelledby="page-title">
       <div>
-        <p class="eyebrow">{region?.name.zhTw ?? resort.data.region} / {resort.data.prefecture}</p>
+        <nav class="detail-breadcrumb eyebrow" aria-label="雪場導覽路徑">
+          {region ? (
+            <a
+              href={withBasePath(`/regions/${region.key}/`)}
+              data-analytics-select="region"
+              data-select-id={region.key}
+              data-source-area="resort_detail_breadcrumb"
+            >
+              {region.name.zhTw}
+            </a>
+          ) : (
+            <span>{resort.data.region}</span>
+          )}
+          <span aria-hidden="true">/</span>
+          {prefecture ? (
+            <a
+              href={withBasePath(`/prefectures/${prefecture.key}/`)}
+              data-analytics-select="prefecture"
+              data-select-id={prefecture.key}
+              data-source-area="resort_detail_breadcrumb"
+            >
+              {prefecture.name.zhTw}
+            </a>
+          ) : (
+            <span>{resort.data.prefecture}</span>
+          )}
+        </nav>
         <h1 id="page-title">{resort.data.name.zhTw}</h1>
         <p class="detail-hero__names">
           {resort.data.name.ja}
