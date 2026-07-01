@@ -41,7 +41,13 @@ externalContent:
       url: "https://www.hakubavalley.com/access/"
       note: "Hakuba Valley"
   vlogs:
-    - title: "2025 白馬 滑雪攻略 交通巴士介紹 CP值超高住宿 超便宜租雪具 一天1000日幣"
-      url: "https://www.youtube.com/watch?v=a9Jxx0hdZ2s"
-      note: "和Ivy去旅行"
+  - title: "【白馬滑雪】下・滑遍白馬村全雪場 山頂最美咖啡廳 冬奧黑線照樣下 在雪道掉東西怎麼辦！？｜日本滑雪 24-25雪季"
+    url: "https://www.youtube.com/watch?v=zWEE-WIlD84"
+    note: "Hey! fudeze 福蝶賊"
+  - title: "【白馬滑雪】上・東京自駕到白馬 開箱獨棟住宿／諏訪湖松本城 ／五龍夜滑 栂池鐘鳴之丘｜日本滑雪 24-25雪季"
+    url: "https://www.youtube.com/watch?v=-5mvnnkeyyg"
+    note: "Hey! fudeze 福蝶賊"
+  - title: "2025 白馬 滑雪攻略 交通巴士介紹 CP值超高住宿 超便宜租雪具 一天1000日幣"
+    url: "https://www.youtube.com/watch?v=a9Jxx0hdZ2s"
+    note: "和Ivy去旅行"
 ---

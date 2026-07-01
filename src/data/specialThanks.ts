@@ -25,6 +25,12 @@ export const specialThanks: SpecialThanksEntry[] = [
     description: '提供滑雪經驗與雪場觀察，讓資料整理能更貼近台灣滑雪者的視角。',
   },
   {
+    name: 'Hey! fudeze 福蝶賊',
+    kind: 'YouTube',
+    url: 'https://www.youtube.com/@fudeze',
+    description: '記錄日本滑雪旅行中的雪場體驗與沿途見聞，從白馬到北海道，都能看到很完整有趣的旅途過程。',
+  },
+  {
     name: 'YK來了',
     kind: 'YouTube',
     url: 'https://www.youtube.com/@bangyk',

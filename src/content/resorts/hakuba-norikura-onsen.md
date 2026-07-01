@@ -175,6 +175,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
+  - title: "【白馬滑雪】下・滑遍白馬村全雪場 山頂最美咖啡廳 冬奧黑線照樣下 在雪道掉東西怎麼辦！？｜日本滑雪 24-25雪季"
+    url: "https://www.youtube.com/watch?v=zWEE-WIlD84"
+    note: "Hey! fudeze 福蝶賊"
   - title: "屋頂雪崩大場面!超好玩又沒人類的白馬雪場❄️!？還有新手兒童超平緩專區！｜白馬雪場開箱2月篇🏂｜乗鞍Norikura!"
     url: "https://www.youtube.com/watch?v=JW3vMr2A5Rc"
     note: "YK來了"

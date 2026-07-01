@@ -179,6 +179,9 @@ externalContent:
     url: https://natasha-traveler.tw/tsugaike-ski/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
+  - title: "【白馬滑雪】上・東京自駕到白馬 開箱獨棟住宿／諏訪湖松本城 ／五龍夜滑 栂池鐘鳴之丘｜日本滑雪 24-25雪季"
+    url: "https://www.youtube.com/watch?v=-5mvnnkeyyg"
+    note: "Hey! fudeze 福蝶賊"
   - title: "1200公尺寬的雪道！號稱初學者的天堂!栂池Tsugaike滑雪場❄️整片都可以滑🏂｜白馬雪場開箱EP.3🏂｜VLOG☃️"
     url: "https://www.youtube.com/watch?v=dld4VRDQNw8"
     note: "YK來了"

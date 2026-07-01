@@ -198,6 +198,9 @@ externalContent:
     url: https://natasha-traveler.tw/iwatake-ski/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
+  - title: "【白馬滑雪】下・滑遍白馬村全雪場 山頂最美咖啡廳 冬奧黑線照樣下 在雪道掉東西怎麼辦！？｜日本滑雪 24-25雪季"
+    url: "https://www.youtube.com/watch?v=zWEE-WIlD84"
+    note: "Hey! fudeze 福蝶賊"
   - title: "2025最美網紅打卡聖地❄️白馬岩岳滑雪場滑行體驗、接駁巴士🏂排隊拍照小攻略｜白馬雪場開箱Ep.2🏂｜VLOG☃️"
     url: "https://www.youtube.com/watch?v=LFitKXQuCPo"
     note: "YK來了"

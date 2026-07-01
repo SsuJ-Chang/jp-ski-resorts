@@ -238,6 +238,12 @@ terrainSummary:
   powder: 高處黑線與 gate 外地形需遵守 Niseko Rules，並以官方開放狀態為準。
 externalContent:
   vlogs:
+  - title: "【北海道滑雪】中・重返二世谷｜Gentemstick Niseko 找下一張雪板｜雪場旁的獨棟住宿開箱｜一日逛山 Hirafu吃什麼逛什麼｜25-26雪季"
+    url: "https://www.youtube.com/watch?v=4NqVbgv0IQw"
+    note: "Hey! fudeze 福蝶賊"
+  - title: "【日本滑雪】粉雪天堂・北海道二世谷Niseko 四個雪場都要滑／住在Hirafu好便利／牛奶工房一次開箱／新千歲機場必吃 冠軍連霸牛奶冰淇淋｜THROWBACK系列 23-24雪季 #tbt"
+    url: "https://www.youtube.com/watch?v=FeIQtvTsp4o"
+    note: "Hey! fudeze 福蝶賊"
   - title: "二世古超全攻略EP2｜比羅夫雪場獨創分區法｜簡化理解最大規模雪場｜4位中文教練實際體驗，學初學&道外&刻滑推薦？｜一生必來絕美打卡點攻略｜超複雜Hirafu全山跑不再迷路！"
     url: https://www.youtube.com/watch?v=64tQyHxTzSs
     note: LeoTW沈浸滑雪

@@ -185,6 +185,12 @@ terrainSummary:
   powder: 東側樹林與非壓雪路線需依官方開放與 Niseko Rules 滑行。
 externalContent:
   vlogs:
+  - title: "【北海道滑雪】中・重返二世谷｜Gentemstick Niseko 找下一張雪板｜雪場旁的獨棟住宿開箱｜一日逛山 Hirafu吃什麼逛什麼｜25-26雪季"
+    url: "https://www.youtube.com/watch?v=4NqVbgv0IQw"
+    note: "Hey! fudeze 福蝶賊"
+  - title: "【日本滑雪】粉雪天堂・北海道二世谷Niseko 四個雪場都要滑／住在Hirafu好便利／牛奶工房一次開箱／新千歲機場必吃 冠軍連霸牛奶冰淇淋｜THROWBACK系列 23-24雪季 #tbt"
+    url: "https://www.youtube.com/watch?v=FeIQtvTsp4o"
+    note: "Hey! fudeze 福蝶賊"
   - title: "二世古四大雪場74條雪道全解析｜EP1 花園滑雪場篇｜教你在滑雪影片加入速度與軌跡的三種方法與實測｜綠線激推給零基礎新手｜不會看雪場地圖選這就對｜獨有奢華配套與豐富公園｜夜間也可跳｜最快換雪場路線"
     url: https://www.youtube.com/watch?v=g4vJqEEbqBQ
     note: LeoTW沈浸滑雪

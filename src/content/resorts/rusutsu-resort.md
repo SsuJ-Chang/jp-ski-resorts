@@ -308,6 +308,9 @@ externalContent:
     url: https://natasha-traveler.tw/rusutsu-restauran/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
+  - title: "【北海道滑雪】下・留壽都｜逛山路線公開 這條雪道太好刷｜從早滑到晚 一日8小時23趟是什麼體驗｜神秘漢堡 Rusutsu限定啤酒｜25-26雪季"
+    url: "https://www.youtube.com/watch?v=HLs0aIU4Zsk"
+    note: "Hey! fudeze 福蝶賊"
   - title: 留壽都西山全面滑走 | Vale Rusutsu 2024追雪 acepro | 留壽都滑雪day 02
     url: https://www.youtube.com/watch?v=FUrF-cMsaF8
     note: 大林滑雪男子

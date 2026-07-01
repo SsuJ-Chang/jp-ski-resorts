@@ -179,6 +179,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
+  - title: "【白馬滑雪】下・滑遍白馬村全雪場 山頂最美咖啡廳 冬奧黑線照樣下 在雪道掉東西怎麼辦！？｜日本滑雪 24-25雪季"
+    url: "https://www.youtube.com/watch?v=zWEE-WIlD84"
+    note: "Hey! fudeze 福蝶賊"
   - title: 【2025日本白馬🇯🇵】EP7 白馬八方滑雪場 🗻自學滑雪全紀錄｜Hotel Green Plaza Hakuba｜🏂｜🎄
     url: https://www.youtube.com/watch?v=_wUcfsdwzdg
     note: 和Ivy去旅行

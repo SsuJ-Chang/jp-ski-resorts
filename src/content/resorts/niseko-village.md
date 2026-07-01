@@ -240,6 +240,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
+  - title: "【日本滑雪】粉雪天堂・北海道二世谷Niseko 四個雪場都要滑／住在Hirafu好便利／牛奶工房一次開箱／新千歲機場必吃 冠軍連霸牛奶冰淇淋｜THROWBACK系列 23-24雪季 #tbt"
+    url: "https://www.youtube.com/watch?v=FeIQtvTsp4o"
+    note: "Hey! fudeze 福蝶賊"
   - title: "二世古Annupuri新手初訪絕不能錯過｜明確分區簡單理解Village二世古村｜6種單人滑雪拍攝方式超真實心得分享｜Niseko EP3"
     url: https://www.youtube.com/watch?v=A539suY39dc
     note: LeoTW沈浸滑雪

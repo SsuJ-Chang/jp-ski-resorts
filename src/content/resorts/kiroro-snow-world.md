@@ -164,7 +164,10 @@ externalContent:
   - title: '[北海道．Kiroro住宿]Kiroro Town吃喝玩樂一條街(Tribute Portfolio飯店)'
     url: https://natasha-traveler.tw/kiroro-town-tribute-portfolio/
     note: 娜塔蝦的滑雪食旅手記
-  vlogs: []
+  vlogs:
+  - title: "【北海道滑雪】上・Kiroro 札幌國際｜粉雪爆擊 陷入JAPOW出不來｜小樽海景第一排獨棟開箱｜手稻神社 滑雪御守｜25-26雪季"
+    url: "https://www.youtube.com/watch?v=o598DlcplMk"
+    note: "Hey! fudeze 福蝶賊"
 sources:
 - label: キロロスノーワールド Official
   url: http://www.kiroro.co.jp/

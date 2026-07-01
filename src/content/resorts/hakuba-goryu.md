@@ -300,6 +300,12 @@ externalContent:
     url: https://natasha-traveler.tw/hotelabest-hakuba/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
+  - title: "【白馬滑雪】下・滑遍白馬村全雪場 山頂最美咖啡廳 冬奧黑線照樣下 在雪道掉東西怎麼辦！？｜日本滑雪 24-25雪季"
+    url: "https://www.youtube.com/watch?v=zWEE-WIlD84"
+    note: "Hey! fudeze 福蝶賊"
+  - title: "【白馬滑雪】上・東京自駕到白馬 開箱獨棟住宿／諏訪湖松本城 ／五龍夜滑 栂池鐘鳴之丘｜日本滑雪 24-25雪季"
+    url: "https://www.youtube.com/watch?v=-5mvnnkeyyg"
+    note: "Hey! fudeze 福蝶賊"
   - title: 【2025日本白馬🇯🇵】EP2 白馬五龍&47滑雪場🗻｜白馬阿爾卑斯酒店🏨｜租雪具1000日幣🏂｜自學滑雪全紀錄❄️｜成吉思汗烤羊肉🐑｜單日來回兩個雪場｜日本雪場開箱｜🚌
     url: https://www.youtube.com/watch?v=TgPjyzJeDnE
     note: 和Ivy去旅行
