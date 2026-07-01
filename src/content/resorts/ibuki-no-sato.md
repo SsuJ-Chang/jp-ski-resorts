@@ -137,11 +137,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Ibuki no Sato Official
-  url: https://www.ibukinosato.co.jp/
-- label: いぶきの里スキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/36610/
 ---
 
 Ibuki no Sato位於岡山縣，重點不在刺激挑戰，而是讓同行者用舒服節奏熟悉雪地活動。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合不只想滑雪，也想把身體放鬆與地方氛圍一起安排的人。也適合把雪地遊玩、練習與休息時間安排得更從容。

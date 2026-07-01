@@ -111,11 +111,6 @@ terrainSummary:
   intermediate: 中級雪道約 40%，和初級比例接近。
   advanced: 高級雪道約 20%，提供較有坡度的滑行選擇。
   snowboard: 雪板可全區滑行。
-sources:
-- label: Hirayu Onsen Official
-  url: http://www.hirayunomori.com/
-- label: Weathernews 平湯温泉スキー場
-  url: https://weathernews.jp/ski/spot/35214/
 ---
 
 岐阜縣的平湯溫泉以3 條雪道，搭配 2 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向溫泉停留、雙板與單板。

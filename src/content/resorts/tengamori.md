@@ -82,11 +82,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Yokote Tengamori Ski Area Official Website"
-    url: "https://www.tengamori.com"
-  - label: "Weathernews 横手市天下森スキー場"
-    url: "https://weathernews.jp/ski/spot/33221/"
 ---
 
 橫手市天下森在秋田縣提供2 條雪道，搭配 1 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

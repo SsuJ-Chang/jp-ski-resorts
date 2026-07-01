@@ -104,11 +104,6 @@ externalContent:
   - title: "關西也有雪況好的滑雪場？手把手教你找到它｜不再跟觀光客擠｜大推2個判斷雪況的日本網站｜用巴士套票一天內征服兩個雪場要多少錢｜初中上級14條雪道"
     url: https://www.youtube.com/watch?v=35zwUIzDMY4
     note: LeoTW沈浸滑雪
-sources:
-  - label: "Hyper Bowl Tohachi Official Website"
-    url: "https://www.tohachi.jp"
-  - label: "Weathernews ハイパーボウル東鉢"
-    url: "https://weathernews.jp/ski/spot/36307/"
 ---
 
 兵庫縣的Hyper Bowl 東鉢以7 條雪道，搭配 4 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向親子同行、溫泉停留。

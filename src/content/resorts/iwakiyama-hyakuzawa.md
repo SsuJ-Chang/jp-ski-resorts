@@ -96,11 +96,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Iwakiyama Hyakuzawa Ski Resort Official Website"
-    url: "https://www.hyakuzawa-ski.com/"
-  - label: "Weathernews 岩木山百沢スキー場"
-    url: "https://weathernews.jp/ski/spot/33104/"
 ---
 
 岩木山百澤位於青森縣，共有4 條雪道、3 座纜車，滑行主軸是長距離下滑與區域串聯，最長線約 784m。高處到山麓之間有明顯分段，適合把暖身、主滑與收尾排成完整一趟。如果你偏好巡航效率和換線變化，而不是反覆刷同一面坡，這類配置會更有意思。

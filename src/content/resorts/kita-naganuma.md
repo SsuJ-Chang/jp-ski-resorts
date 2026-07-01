@@ -96,11 +96,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Kita Naganuma Ski Area Official Website"
-    url: "https://www.maoi-net.jp/kosodate_kyoiku/sports/sportsshisetsu/northski.html"
-  - label: "Weathernews 北長沼スキー場"
-    url: "https://weathernews.jp/ski/spot/31517/"
 ---
 
 北長沼是北海道的小型雪場，整理為4 條雪道，搭配 3 座纜車。雪道配置偏初級，練習門檻較低，介紹保留在可確認的雪道數與難度比例；標籤上偏向初學者練習、親子同行。

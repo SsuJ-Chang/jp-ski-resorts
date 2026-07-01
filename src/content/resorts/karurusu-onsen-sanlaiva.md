@@ -108,13 +108,6 @@ terrainSummary:
   advanced: 上級雪道佔 29%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
   powder: 北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。
-sources:
-- label: カルルス温泉サンライバスキー場 Official
-  url: https://sanlaiva.com/
-- label: Weathernews カルルス温泉サンライバスキー場
-  url: https://weathernews.jp/ski/spot/32103/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 Karurusu 溫泉 Sanlaiva位於北海道，以7 條雪道構成中小型雪場，搭配 2 座纜車。初級、中級與上級路線都有配置，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、雙板與單板。

@@ -99,9 +99,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Ipponsugi Ski Resort Official Website
-  url: https://www.ipponsugi.net/
 ---
 
 一本杉位於新潟縣，整體配置偏向入門到中緩坡，適合先把基本節奏穩下來。一本杉ゲレンデ可用來安排暖身與反覆練習。若同行者有新手、親子或第一次安排日本雪場的人，這種規模反而更容易掌握。

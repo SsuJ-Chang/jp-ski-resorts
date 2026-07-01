@@ -110,11 +110,6 @@ terrainSummary:
   intermediate: 中級雪道約 50%，是主要滑行比例。
   advanced: 高級雪道約 10%，進階比例較低。
   snowboard: 雪板除部分區域外可滑行。
-sources:
-- label: Kamui Misaka Official
-  url: http://misaka.kamuisp.com/
-- label: Weathernews カムイみさか
-  url: https://weathernews.jp/ski/spot/34904/
 ---
 
 Kamui Misaka位在山梨縣，雪道數為5 條，搭配 4 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、雙板與單板。

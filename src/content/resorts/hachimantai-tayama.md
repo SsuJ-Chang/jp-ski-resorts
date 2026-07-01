@@ -80,11 +80,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Hachimantai City Tayama Ski Area"
-    url: "https://www.city.hachimantai.lg.jp/soshiki/shisho-a/2021.html"
-  - label: "Weathernews 八幡平市田山スキー場"
-    url: "https://weathernews.jp/ski/spot/33303/"
 ---
 
 八幡平市田山位在岩手縣，雪道數為2 條，搭配 2 座纜車。上級路線比例明顯，坡面變化較多，這裡先呈現已整理的滑行配置；標籤上偏向雙板與單板。

@@ -177,17 +177,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Hachi Official Website
-  url: https://www.hachi-hachikita.co.jp/hachi/
-- label: Hachi Course and Slope
-  url: https://www.hachi-hachikita.co.jp/hachi/slope.html
-- label: Hachi Ticket
-  url: https://www.hachi-hachikita.co.jp/hachi/rate.html
-- label: Hachi Access
-  url: https://www.hachi-hachikita.co.jp/hachi/access.html
-- label: Hachi Weathernews
-  url: https://weathernews.jp/ski/spot/36310/
 ---
 
 HACHI 高原位於兵庫縣的鉢伏山周邊，雪質表現是核心吸引力，想感受日本雪國粉雪的人可以列入候選。放進鉢伏山雪場群時，行程會多一種坡面與景觀節奏；適合同行者程度不同時，用比較不緊繃的方式共享雪地時間。也適合把雪地遊玩、練習與休息時間安排得更從容。

@@ -72,13 +72,6 @@ terrainSummary:
   intermediate: 中級者可用 パノラマコース、ロマンス左コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 ロマンス右コース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Hyonosen Kokusai Ski Resort Official
-  url: https://www.hyounosen.jp/
-- label: Hyonosen Kokusai Ski Resort Course Info
-  url: https://www.hyounosen.jp/gelande/
-- label: 氷ノ山国際スキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/36909/
 contact:
   address:
     zhTw: 兵庫縣養父市奈良尾509

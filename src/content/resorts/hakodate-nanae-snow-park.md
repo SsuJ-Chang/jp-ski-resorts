@@ -124,13 +124,6 @@ terrainSummary:
   advanced: 上級雪道佔 20%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
   powder: 北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。
-sources:
-- label: 函館七飯スノーパーク Official
-  url: http://www.hakodate-nanae.jp
-- label: Weathernews 函館七飯スノーパーク
-  url: https://weathernews.jp/ski/spot/32301/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 函館七飯 Snow Park位於北海道，共有8 條雪道、3 座纜車，重點不只在壓雪主線，還包含自然地形與雪況變化。小沼コース、ファミリーコース能看出它從主雪道到邊側段落都有不同滑感。如果你想把巡航之外的粉雪感、林間感或地形閱讀排進一天，這類配置會更有內容。

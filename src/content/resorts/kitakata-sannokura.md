@@ -90,13 +90,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "喜多方市三ノ倉スキー場 Official Website"
-    url: "https://www.furusatosinkou.co.jp"
-  - label: "Weathernews 喜多方市三ノ倉スキー場"
-    url: "https://weathernews.jp/ski/spot/33629/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 喜多方市三之倉是福島縣的小型雪場，共有 3 條雪道，搭配 2 座纜車。中級路線占比較高，可先用規模與難度判斷行程需求，標籤偏向親子同行、雙板與單板。

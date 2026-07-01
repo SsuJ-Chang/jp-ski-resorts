@@ -73,13 +73,6 @@ terrainSummary:
   intermediate: 中級者可用 ダイナミックコース（第1リフト下部）、クィーンコース、クリスタルコース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 ダイナミックコース（上部）、パノラマコース（上部），請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Chikusa Kogen Ski Resort Official
-  url: https://www.chikusakogen.com/
-- label: Chikusa Kogen Ski Resort Course Info
-  url: https://www.chikusakogen.com/gelande/
-- label: ちくさ高原スキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/36304/
 contact:
   address:
     zhTw: 兵庫縣宍粟市千種町西河内1047-218

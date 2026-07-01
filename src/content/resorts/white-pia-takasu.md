@@ -134,15 +134,6 @@ terrainSummary:
   advanced: Diving、Dancing、Jumping 與 Black Bear 上部是主要上級線。
   snowboard: freestyle park、mogul 與多分岐地形讓 snowboarder 有不少玩法。
   powder: 官方重點較偏地形與展望，粉雪狀況需看當日公告。
-sources:
-- label: White Pia Gerende Information
-  url: https://whitepia.jp/gerende/
-- label: TAKASU MOUNTAINS Ski Area
-  url: https://www.takasumountains.com/ski/
-- label: TAKASU MOUNTAINS Lift Fee
-  url: https://www.takasumountains.com/lift/
-- label: White Pia Takasu Access
-  url: https://whitepia.jp/access/
 ---
 
 岐阜縣的White Pia たかす共有13 條雪道，搭配 4 座纜車，包含 ブラックベア / Black Bear、センターウェイ / Center Way、センターC / Center C 等路線。初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

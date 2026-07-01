@@ -109,11 +109,6 @@ terrainSummary:
   beginner: 初級雪道、雪盆區與滑雪手扶梯讓此雪場偏向親子與入門使用。
   intermediate: 官方列出位於谷間的中級雪道。
   advanced: 纜車線下方設有進階雪道，長度約 200m。
-sources:
-- label: 七尾市 七尾 Korosa Official
-  url: https://www.city.nanao.lg.jp/syougai/shisetsu/korosa.html
-- label: Weathernews 七尾 Korosa
-  url: https://weathernews.jp/ski/spot/35611/
 ---
 
 七尾 Korosa位在石川縣，滑行區由3 條雪道，搭配 1 座纜車構成。初級コース / Beginner Course、中級コース / Intermediate Course、上級コース / Advanced Course 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

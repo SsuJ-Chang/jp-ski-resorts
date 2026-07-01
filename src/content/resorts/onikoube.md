@@ -102,11 +102,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Onikoube Ski Resort Official Website"
-    url: "http://www.onikoube.com"
-  - label: "Weathernews オニコウベ"
-    url: "https://weathernews.jp/ski/spot/33401/"
 ---
 
 Onikoube位於宮城縣，共有8 條雪道、6 座纜車，整體配置偏向入門到中緩坡，適合先把基本節奏穩下來。主雪道多半以寬度與可控坡度取向為主，不必一開始就進到太緊繃的節奏。若同行者有新手、親子或第一次安排日本雪場的人，這種規模反而更容易掌握。

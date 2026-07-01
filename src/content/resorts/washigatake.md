@@ -173,15 +173,6 @@ terrainSummary:
   advanced: Paradise、North Barn、Parallel、Ridge 是主要高難度線。
   snowboard: park 與寬大坡面適合 snowboarder；夜滑需另看指定日與夜滑券。
   powder: 林間與天然雪 course 會受降雪與開放狀態影響。
-sources:
-- label: Washigatake Course Guide
-  url: https://ski.washigatake.jp/gelande/
-- label: TAKASU MOUNTAINS Ski Area
-  url: https://www.takasumountains.com/ski/
-- label: TAKASU MOUNTAINS Lift Fee
-  url: https://www.takasumountains.com/lift/
-- label: Washigatake Access
-  url: https://ski.washigatake.jp/access/
 ---
 
 岐阜縣的鷲ヶ岳共有 13 條雪道，搭配 4 座纜車，包含 ノースウェイコース、イーグルコース 等路線；初級、中級與上級路線都有配置，標籤偏向親子同行、夜滑。

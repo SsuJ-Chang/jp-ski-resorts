@@ -270,13 +270,6 @@ externalContent:
   - title: 雪之旅|北海道滑雪gopro/富良野滑雪day 01 | A7m3 16-35GM/gopro max |A journey to snow
     url: https://www.youtube.com/watch?v=_MZSqJ44eZ4
     note: 大林滑雪男子
-sources:
-- label: 富良野スキー場 Official
-  url: https://www.princehotels.co.jp/ski/furano/winter/
-- label: Weathernews 富良野スキー場
-  url: https://weathernews.jp/ski/spot/31602/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 富良野位於北海道，28 條雪道分布在富良野與北之峰兩大區塊，白天能排長距離巡航，晚上還能接續夜滑。它的吸引力不只在規模，而是把飯店區動線、山景視野與不同坡度整合在同一座雪場。

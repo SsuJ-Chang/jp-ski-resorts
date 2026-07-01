@@ -119,16 +119,6 @@ terrainSummary:
   beginner: 初級雪道約 40%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 40%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
-sources:
-- label: Koide Ski Area Official Website
-  url: http://www.sp-koide.org/
-- label: Koide Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/35417/
-- label: Koide Ski Area Course Guide
-  url: https://www.sp-koide.org/ski
-- label: Koide Ski Area Course Video 2025
-  url: https://www.youtube.com/watch?v=ZiuJj1oysNI
-  note: ??????????
 ---
 
 小出位於新潟縣，以6 條雪道形成中小型雪場規模，搭配 3 座纜車。主要路線有 センター前広場 / Center Front Plaza、たぬきコース / Tanuki Course、りすさんコース / Squirrel Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

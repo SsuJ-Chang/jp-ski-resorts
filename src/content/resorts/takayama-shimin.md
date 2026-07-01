@@ -106,11 +106,6 @@ terrainSummary:
   intermediate: 中級雪道約 50%，是主要滑行比例。
   advanced: 高級雪道約 10%，進階比例較低。
   snowboard: 雪板可全區滑行。
-sources:
-- label: Takayama City Official
-  url: https://www.city.takayama.lg.jp/shisetsu/1004139/1000043/1018844.html
-- label: Weathernews 高山市民スキー場
-  url: https://weathernews.jp/ski/spot/35217/
 ---
 
 高山市民在岐阜縣提供3 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

@@ -194,13 +194,6 @@ externalContent:
       url: https://natasha-traveler.tw/shizukuishi-01/
       note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
-sources:
-  - label: "雫石スキー場 Official Website"
-    url: "http://www.princehotels.co.jp/ski/shizukuishi/index.html"
-  - label: "Weathernews 雫石スキー場"
-    url: "https://weathernews.jp/ski/spot/33302/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 雫石在岩手縣提供20 條雪道，搭配 6 座纜車。路線包含 B1 ファミリーゲレンデ、B2 クリスタルコース、B3 EASY PARK，整體初級、中級與上級路線都有配置；標籤上偏向親子同行、雙板與單板。

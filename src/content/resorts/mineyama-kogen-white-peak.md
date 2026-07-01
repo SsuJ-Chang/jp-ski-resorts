@@ -64,13 +64,6 @@ terrainSummary:
   beginner: 初級雪道以 サウスコース 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 センターコース、ウエストコース 串接較長滑行或主坡巡航。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Mineyama Kogen Resort WHITE PEAK Official
-  url: https://mineyama-kogen-resort.com/
-- label: Mineyama Kogen Resort WHITE PEAK Course Info
-  url: https://mineyama-kogen-resort.com/course/
-- label: 峰山高原リゾート WHITE PEAK Weathernews
-  url: https://weathernews.jp/ski/spot/36313/
 contact:
   address:
     zhTw: 兵庫縣神崎郡神河町上小田881-146

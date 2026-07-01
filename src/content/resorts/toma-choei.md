@@ -86,9 +86,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Weathernews 当麻町営スキー場"
-    url: "https://weathernews.jp/ski/spot/31220/"
 ---
 
 當麻町營在北海道提供1 條雪道，搭配 1 座纜車。單一路線配置，重點在簡單滑行與基本練習，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

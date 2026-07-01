@@ -89,11 +89,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Soma Romantopia Ski Resort Official Website"
-    url: "https://www.hyakuzawa-ski.com/soma.html"
-  - label: "Weathernews そうまロマントピアスキー場"
-    url: "https://weathernews.jp/ski/spot/33113/"
 ---
 
 Soma Romantopia位在青森縣，雪道數為2 條，搭配 1 座纜車。以初級與中級路線為主，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、夜滑。

@@ -90,9 +90,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Weathernews 新得山スキー場"
-    url: "https://weathernews.jp/ski/spot/31216/"
 ---
 
 新得山在北海道提供3 條雪道，搭配 1 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向親子同行、溫泉停留。

@@ -51,14 +51,6 @@ access:
     recommended: true
     snowTireRequired: true
     note: "松山市區經伊予小松 IC 約 1 小時 30 分；高松市區經伊予西條 IC 約 2 小時；高知或德島市區約 2 小時 30 分。停車場位於石鎚 Ropeway 周邊，冬季需準備雪胎或防滑裝備。"
-sources:
-- label: Ishizuchi Ski Resort Official Website
-  url: https://www.ishizuchi.com/ski/
-- label: Ishizuchi Ski Resort Access
-  url: https://www.ishizuchi.com/ski/access
-- label: 石鎚 Weathernews
-  url: https://weathernews.jp/ski/spot/37301/
-  note: 使用者指定附上的雪場資料頁。
 ---
 
 石鎚位於愛媛縣，共有3 條雪道，規模雖然不大，但雪道集中，半天到一天就能把主要路線輪過一遍。ピクニック園地コース、成就Aコース能看出這裡仍是地方型雪場常見的短中距離坡段。比起追求刷里程，這裡更適合把時間放在動作熟悉與同伴配速。

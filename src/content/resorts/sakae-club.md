@@ -116,11 +116,6 @@ terrainSummary:
   intermediate: 中級雪道約 60%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Sakae Club Ski Area Official Website
-  url: https://sakaeclub.securesite.jp/
-- label: Sakae Club Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/34873/
 ---
 
 榮俱樂部位於長野縣，共有9 條雪道、3 座纜車，重點不只在壓雪主線，還包含自然地形與雪況變化。上部與邊側路線通常比山麓更有地形起伏，滑感會隨雪況明顯改變。如果你想把巡航之外的粉雪感、林間感或地形閱讀排進一天，這類配置會更有內容。

@@ -105,11 +105,6 @@ terrainSummary:
   intermediate: 中級雪道約 20%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 10%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Jibuzaka Kogen Ski Area Official Website
-  url: http://www.jibuzaka.co.jp
-- label: Jibuzaka Kogen Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/34829/
 ---
 
 治部坂高原是長野縣的小型雪場，整理為3 條雪道，搭配 3 座纜車。雪道配置偏初級，練習門檻較低，介紹保留在可確認的雪道數與難度比例；標籤上偏向初學者練習、親子同行。

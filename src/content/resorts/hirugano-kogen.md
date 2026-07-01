@@ -129,15 +129,6 @@ terrainSummary:
   intermediate: Queen 與 King Slope 提供較明確的轉彎練習與中級坡度。
   advanced: 官方 area summary 標示上級比例 0%。
   snowboard: 坡面寬且規模小，適合第一次日本滑雪或家庭 snowboarding。
-sources:
-- label: Hirugano Kogen Course Introduction
-  url: https://www.hiruganokogen.com/about/
-- label: TAKASU MOUNTAINS Ski Area
-  url: https://www.takasumountains.com/ski/
-- label: TAKASU MOUNTAINS Lift Fee
-  url: https://www.takasumountains.com/lift/
-- label: Hirugano Kogen Access
-  url: https://www.hiruganokogen.com/access/
 ---
 
 ひるがの高原位於岐阜縣的高鷲 Mountains，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。放進高鷲旅程時，能和周邊雪場形成不同節奏；適合第一次日本滑雪時，把代表性雪景與滑行體驗放在一起。

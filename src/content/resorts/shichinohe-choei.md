@@ -94,11 +94,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Shichinohe Tourism Ski Area"
-    url: "http://www.shichinohe-kankou.jp/kazoku/ski"
-  - label: "Weathernews 七戸町営スキー場"
-    url: "https://weathernews.jp/ski/spot/33109/"
 ---
 
 七戶町營位在青森縣，雪道數為6 條，搭配 1 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向夜滑、雙板與單板。

@@ -86,11 +86,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Onogawa Onsen Ski Area Official Website"
-    url: "https://npo-onogawa.org"
-  - label: "Weathernews 小野川温泉スキー場"
-    url: "https://weathernews.jp/ski/spot/33517/"
 ---
 
 山形縣的小野川溫泉以1 條雪道，搭配 1 座纜車組成滑行區。單一路線配置，重點在簡單滑行與基本練習，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。

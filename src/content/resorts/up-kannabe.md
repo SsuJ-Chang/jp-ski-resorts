@@ -69,13 +69,6 @@ terrainSummary:
   advanced: 進階路線包含 北壁コース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
   powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
-sources:
-- label: Up Kannabe Official
-  url: https://www.kannabe.co.jp/
-- label: Up Kannabe Course Info
-  url: https://www.kannabe.co.jp/gelande
-- label: アップかんなべ Weathernews
-  url: https://weathernews.jp/ski/spot/36303/
 contact:
   address:
     zhTw: 兵庫縣豐岡市日高町神鍋高原59-78

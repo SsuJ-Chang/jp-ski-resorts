@@ -90,13 +90,6 @@ terrainSummary:
   advanced: 進階路線包含 チャンピオンコース、ジャイアントコース、OFF PISTE，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
   powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
-sources:
-- label: Osa Ski Resort Official
-  url: https://osaski.co.jp/
-- label: Osa Ski Resort Course Info
-  url: https://osaski.co.jp/course/
-- label: 大佐 Weathernews
-  url: https://weathernews.jp/ski/spot/36703/
 contact:
   address:
     zhTw: 廣島縣山縣郡北広島町荒神原38-31

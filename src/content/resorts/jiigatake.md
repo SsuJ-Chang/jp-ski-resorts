@@ -124,16 +124,6 @@ externalContent:
     url: https://natasha-traveler.tw/hakuba-jiigatake-ski/
     note: 娜塔蝦的滑雪食旅手記
   vlogs: []
-sources:
-- label: Jiigatake Snow Resort Official Website
-  url: https://jiigatake.com/
-- label: Jiigatake Snow Resort Course / Trail Map
-  url: https://jiigatake.com/slope/
-- label: Jiigatake Snow Resort Ticket
-  url: https://jiigatake.com/price/
-- label: Jiigatake Course Video
-  url: https://www.youtube.com/watch?v=Y52z_hxbCHI
-  note: 影片說明欄提供かもしかコース、エコーゲレンデ與 snow park 章節時間軸。
 ---
 
 爺岳位於長野縣，頁面以已整理的雪場基本資料為主。若雪道細節來源不足，內文只保留可確認的資訊，不另外延伸形容。

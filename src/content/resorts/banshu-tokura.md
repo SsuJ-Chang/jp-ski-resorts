@@ -61,11 +61,6 @@ terrainSummary:
   intermediate: 中級者可用 みはらしペア沿いゲレンデ 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 高丸トリプル沿いゲレンデ，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Banshu Tokura Ski Area Official
-  url: https://ooyaski.com/bantoku/
-- label: ばんしゅう戸倉スキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/36311/
 contact:
   address:
     zhTw: 兵庫縣宍粟市波賀町戸倉207

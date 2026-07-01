@@ -76,11 +76,6 @@ terrainSummary:
   intermediate: 中級者可用 ジャイアントコース、アルペンコース、ホーライパノラマゲレンデ、ホーライ北ゲレンデ 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 チャンピオンコース、ダイナミックコース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Biwako Valley Official
-  url: https://www.biwako-valley.com/winter/
-- label: びわ湖バレイ Weathernews
-  url: https://weathernews.jp/ski/spot/36001/
 contact:
   address:
     zhTw: 滋賀縣大津市木戸1547-1

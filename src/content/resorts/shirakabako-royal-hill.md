@@ -117,14 +117,6 @@ terrainSummary:
   intermediate: 中級雪道約 40%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Shirakabako Royal Hill Official Website
-  url: https://www.royalhill.co.jp
-- label: Shirakabako Royal Hill Weathernews
-  url: https://weathernews.jp/ski/spot/34833/
-- label: Shirakabako Royal Hill Course Video 2023
-  url: https://www.youtube.com/watch?v=1G9crb-7KlY
-  note: 影片說明欄提供アルペン、パノラマB、雷鳥、パノラマC、パノラマA 等雪道章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 白樺湖 Royal Hill位於長野縣，共有7 條雪道、3 座纜車，主體是可反覆換線的中型滑行配置。パノラマCコース、アルペンコース能看出主雪道之間有明確分工。如果你想在雪道數、節奏變化與實際可滑效率之間取平衡，這類配置會很實用。

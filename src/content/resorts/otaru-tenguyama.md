@@ -114,13 +114,6 @@ terrainSummary:
   advanced: 上級雪道佔 50%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
   powder: 北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。
-sources:
-- label: 小樽天狗山スキー場 Official
-  url: https://tenguyama.ckk.chuo-bus.co.jp/
-- label: Weathernews 小樽天狗山スキー場
-  url: https://weathernews.jp/ski/spot/31503/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 小樽天狗山是北海道的小型雪場，整理為5 條雪道，搭配 1 座纜車。雪道如 A ファミリーコース、B ロングラインコース、C バンビコース，上級路線比例明顯，坡面變化較多；標籤上偏向夜滑、雙板與單板。

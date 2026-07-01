@@ -59,13 +59,6 @@ courses:
 terrainSummary:
   beginner: 初級雪道以 初心者練習ゲレンデ、スノープレイゾーン 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 メインゲレンデ 串接較長滑行或主坡巡航。
-sources:
-- label: Daisen Masumizu Kogen Snow Park Official
-  url: https://www.masumizu.net/
-- label: Daisen Masumizu Kogen Snow Park Course Info
-  url: https://www.masumizu.net/ski.html
-- label: 大山ますみず高原スノーパーク Weathernews
-  url: https://weathernews.jp/ski/spot/36907/
 contact:
   address:
     zhTw: 鳥取縣西伯郡伯耆町大内桝水高原1069-50

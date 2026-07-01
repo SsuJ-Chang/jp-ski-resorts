@@ -154,17 +154,6 @@ externalContent:
   - title: 【日本自由行】EP2 熊之湯滑雪場❄️志賀高原最長距離！熊之湯滑到橫手山⛄一之瀨到熊之湯！雪道、山景全紀錄！交通攻略！長電巴士！
     url: https://www.youtube.com/watch?v=cac22zGaG9c
     note: 和Ivy去旅行
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Yokoteyama Official
-  url: https://yokoteyama2307.com/
-- label: Weathernews 横手山・渋峠スキー場
-  url: https://weathernews.jp/ski/spot/34804/
-- label: Yokoteyama Access
-  url: https://yokoteyama2307.com/access/
 ---
 
 橫手山位在長野縣，滑行區由13 條雪道，搭配 12 座纜車構成。No.2 Beginners Course、Ocean Course、No.1 Gelende 等路線能看出坡面配置，初級、中級與上級路線都有配置。

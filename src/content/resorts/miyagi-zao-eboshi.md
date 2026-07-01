@@ -115,15 +115,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "みやぎ蔵王えぼしリゾート Official Website"
-    url: "http://www.eboshi.co.jp/"
-  - label: "みやぎ蔵王えぼしリゾート Access"
-    url: "https://eboshi.co.jp/access/"
-  - label: "Weathernews みやぎ蔵王えぼしリゾート"
-    url: "https://weathernews.jp/ski/spot/33404/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 宮城藏王 Eboshi Resort位在宮城縣，滑行區由9 條雪道，搭配 6 座纜車構成。ファミリーゲレンデ、ダイナミックコース、石子ゲレンデ 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向初學者練習、雙板與單板。

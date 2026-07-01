@@ -216,19 +216,6 @@ externalContent:
     url: https://natasha-traveler.tw/grandeco-ski-resort/
     note: 娜塔蝦的滑雪食旅手記
   vlogs: []
-sources:
-- label: Grandeco Snow Resort Official Website
-  url: https://resort.en-hotel.com/grandeco/snow/ja/
-- label: Grandeco Snow Resort Weathernews
-  url: https://weathernews.jp/ski/spot/33609/
-- label: Weathernews 東北のスキー場人気ランキング
-  url: https://weathernews.jp/ski/area/tohoku/ranking.html
-- label: Grandeco Course Video 2024
-  url: https://www.youtube.com/watch?v=FQUsZ2ABDtU
-  note: 影片說明欄提供 The Rock、Main Street、The View、Alpen、Forest、Free Ride、Fall Line 等雪道章節時間軸。
-- label: Grandeco Spring Course Video 2024
-  url: https://www.youtube.com/watch?v=MHJDzZwTc74
-  note: 影片說明欄提供 Powder、Alpen、Forest、The Rock、The View、Main Street 等雪道章節時間軸，已對應至 courses.details[].videoLinks；Snow Surf Park 與 Tree 章節未對應至現有官方雪道名稱。
 ---
 
 Grandeco是福島縣的中型雪場，整理為11 條雪道，搭配 5 座纜車。雪道如 Forest、Hotel Road、Main Street，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

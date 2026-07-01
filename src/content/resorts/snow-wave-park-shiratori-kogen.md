@@ -155,15 +155,6 @@ externalContent:
   - title: 【スキー場ガイド】スノーウェーブパーク白鳥高原　キッズから上級者まで楽しめます
     url: https://www.youtube.com/watch?v=V9GwnfvO5FY
     note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
-sources:
-- label: Weathernews Mino Ski Area
-  url: https://weathernews.jp/ski/area/mino/
-- label: Weathernews Snow Wave Park Shiratori Kogen
-  url: https://weathernews.jp/ski/spot/35221/
-- label: Snow Wave Park Shiratori Kogen Official
-  url: https://siratori-k.jp/swp/
-- label: Snow Wave Park Shiratori Kogen Ticket
-  url: https://siratori-k.jp/swp/price
 ---
 
 Snow Wave Park 白鳥高原位於岐阜縣，共有15 條雪道、3 座纜車，重點不只在壓雪主線，還包含自然地形與雪況變化。上部與邊側路線通常比山麓更有地形起伏，滑感會隨雪況明顯改變。如果你想把巡航之外的粉雪感、林間感或地形閱讀排進一天，這類配置會更有內容。

@@ -112,13 +112,6 @@ terrainSummary:
   advanced: 上級雪道佔 40%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
   powder: 北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。
-sources:
-- label: サホロリゾートスキー場 Official
-  url: https://sahoro.co.jp/
-- label: Weathernews サホロリゾートスキー場
-  url: https://weathernews.jp/ski/spot/31202/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 Sahoro Resort是北海道的大型雪場，整理為21 條雪道，搭配 8 座纜車。上級路線比例明顯，坡面變化較多，介紹保留在可確認的雪道數與難度比例；標籤上偏向夜滑、雙板與單板。

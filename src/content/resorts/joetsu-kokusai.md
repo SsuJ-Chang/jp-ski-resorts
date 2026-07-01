@@ -245,17 +245,6 @@ externalContent:
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=344s
     note: MIRU tube JAPAN 【Route Guide】
-sources:
-- label: Joetsu Kokusai Ski Resort Official Website
-  url: https://jkokusai.co.jp/ski/
-- label: Joetsu Kokusai Ski Resort Course / Trail Map
-  url: https://jkokusai.co.jp/ski/gelande/
-- label: Joetsu Kokusai Ski Resort Ticket
-  url: https://jkokusai.co.jp/ski/lift/hayawariticket/
-- label: Joetsu Kokusai Course Video
-  url: https://www.youtube.com/watch?v=HcL98r4G-_8
-- label: Joetsu Kokusai Course Video 2
-  url: https://www.youtube.com/watch?v=Q3o8kUN9i_c
 ---
 
 上越國際位於新潟縣，頁面以已整理的雪場基本資料為主。若雪道細節來源不足，內文只保留可確認的資訊，不另外延伸形容。

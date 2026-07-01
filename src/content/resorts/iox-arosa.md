@@ -110,13 +110,6 @@ terrainSummary:
   intermediate: 中級雪道占 60%，適合已能穩定轉彎的滑雪者參考。
   advanced: 上級雪道占 10%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
-sources:
-- label: IOX-AROSA Official
-  url: https://www.iox-arosa.jp/
-- label: IOX-AROSA Access
-  url: https://www.iox-arosa.jp/access
-- label: Weathernews IOX-AROSA
-  url: https://weathernews.jp/ski/spot/35510/
 ---
 
 IOX-AROSA位於富山縣，共有7 條雪道、5 座纜車，主體是可反覆換線的中型滑行配置。主雪道之間的難度與坡向差異夠明顯，安排一天行程時不容易太單調。如果你想在雪道數、節奏變化與實際可滑效率之間取平衡，這類配置會很實用。

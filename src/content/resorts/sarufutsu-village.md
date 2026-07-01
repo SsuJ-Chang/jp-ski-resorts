@@ -79,9 +79,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Weathernews 猿払村営スキー場"
-    url: "https://weathernews.jp/ski/spot/31104/"
 ---
 
 北海道的猿拂村營以1 條雪道，搭配 1 座纜車組成滑行區。單一路線配置，重點在簡單滑行與基本練習，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、夜滑。

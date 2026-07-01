@@ -136,13 +136,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Minowa Ski Resort Official Website
-  url: https://www.ski-minowa.jp/
-  note: 官方網站入口需後續人工確認可用狀態與當季資訊。
-- label: Minowa Ski Resort Weathernews
-  url: https://weathernews.jp/ski/spot/33604/
-  note: 目前初版主要引用此公開資料既有資料，部分票價與營業資訊需以官方當季公告更新。
 ---
 
 Minowa 位於福島縣，海拔與雪質條件讓它在磐梯周邊常被拿來安排穩定巡航的一天。主雪道節奏不會太碎，適合把暖身、中距離滑行與午後反覆練習接在一起。

@@ -49,11 +49,6 @@ courses:
 terrainSummary:
   beginner: 初級雪道以 ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Makino Kogen Family Ski Area Official
-  url: http://www.makinokougen.co.jp/
-- label: マキノ高原ファミリースキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/36009/
 contact:
   address:
     zhTw: 滋賀縣高島市マキノ町牧野931

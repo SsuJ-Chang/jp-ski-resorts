@@ -100,9 +100,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Nakazato Snow Wood Ski Resort Official Website
-  url: https://www.nakazato-snowwood.com/
 ---
 
 中里Snow Wood位於新潟縣，頁面以已整理的雪場基本資料為主。若雪道細節來源不足，內文只保留可確認的資訊，不另外延伸形容。

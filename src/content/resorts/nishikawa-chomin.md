@@ -85,11 +85,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Nishikawa Chomin Ski Area Official Website"
-    url: "https://nishikawa.gassankk.co.jp/"
-  - label: "Weathernews 西川町民スキー場"
-    url: "https://weathernews.jp/ski/spot/33521/"
 ---
 
 西川町民在山形縣提供3 條雪道，搭配 1 座纜車。上級路線比例明顯，坡面變化較多，頁面資訊以基本規格與路線配置為主；標籤上偏向夜滑、溫泉停留。

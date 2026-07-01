@@ -85,11 +85,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Uenono Ski Area Official Website"
-    url: "https://uenono.com/"
-  - label: "Weathernews 上野々"
-    url: "https://weathernews.jp/ski/spot/33406/"
 ---
 
 上野野位在宮城縣，雪道數為3 條，搭配 1 座纜車。雪道配置偏初級，練習門檻較低，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。

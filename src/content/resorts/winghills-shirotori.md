@@ -153,15 +153,6 @@ externalContent:
   - title: 【スキー場ガイド】ウイングヒルズ白鳥リゾート　初級者でもロングラン
     url: https://www.youtube.com/watch?v=z8C5vry86IY
     note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
-sources:
-- label: Weathernews Mino Ski Area
-  url: https://weathernews.jp/ski/area/mino/
-- label: Weathernews Winghills Shirotori Resort
-  url: https://weathernews.jp/ski/spot/35212/
-- label: Winghills Shirotori Resort Official
-  url: https://winghills.net/snow/
-- label: Winghills Shirotori Resort Lift Ticket
-  url: https://winghills.net/snow/lift/
 ---
 
 Winghills 白鳥 Resort在岐阜縣提供11 條雪道，搭配 4 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

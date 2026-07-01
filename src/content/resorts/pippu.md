@@ -182,17 +182,6 @@ externalContent:
   - title: 日本自駕滑雪Vlog ~北海道旭川周邊小雪場，比布滑雪場體驗
     url: https://www.youtube.com/watch?v=gS-q9_kizhw
     note: 艾維斯52赫茲
-sources:
-- label: Pippu Ski Resort Official Website
-  url: https://www.town.pippu.hokkaido.jp/ski/top.html
-- label: Pippu 纜車 Fee 2025-2026
-  url: https://www.town.pippu.hokkaido.jp/ski/lift.html
-- label: Pippu Course Guide
-  url: https://www.town.pippu.hokkaido.jp/ski/course.html
-- label: Pippu Access
-  url: https://www.town.pippu.hokkaido.jp/ski/access.html
-- label: Pippu Weathernews
-  url: https://weathernews.jp/ski/spot/31208/
 ---
 
 比布位於北海道，是中小型雪場，共有9 條雪道，搭配 3 座纜車。代表路線包含 草莓雪道 ストロベリーコース、家庭雪道 ファミリーコース、河童雪道 カッパコース，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

@@ -101,11 +101,6 @@ terrainSummary:
   intermediate: 中級雪道約 30%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Shirakaba Resort Ikenotaira Snow Park Official Website
-  url: https://www.shirakabaresort.jp/snowpark/
-- label: Shirakaba Resort Ikenotaira Snow Park Weathernews
-  url: https://weathernews.jp/ski/spot/34878/
 ---
 
 長野縣的白樺 Resort 池之平 Snow Park以3 條雪道，搭配 2 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。

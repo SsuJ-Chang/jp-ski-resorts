@@ -315,20 +315,6 @@ terrainSummary:
   intermediate: 中級雪道比例最高，適合想在大範圍高原雪道巡航的滑雪者。
   advanced: 上級雪道約 20%，可搭配不同區域安排進階滑行。
   snowboard: 雪板可全區滑行。
-sources:
-- label: Sugadaira Kogen Snow Resort Official Website
-  url: https://sugadaira-snowresort.com/
-- label: Yukiyama 菅平高原スノーリゾートデジタルマップ
-  url: https://yukiyama-app-dl.s3-ap-northeast-1.amazonaws.com/webmap/index.html?id=204
-- label: Weathernews 菅平高原スノーリゾート
-  url: https://weathernews.jp/ski/spot/34816/
-- label: Weathernews 中部人氣排名
-  url: https://weathernews.jp/ski/area/chubu/ranking.html
-- label: Sugadaira Kogen Snow Resort Access
-  url: https://sugadaira-snowresort.com/access/
-- label: Sugadaira Taro Davos Course Video
-  url: https://www.youtube.com/watch?v=oohc6Nzxub8
-  note: 影片說明欄提供太郎、ダボス區域多條雪道章節時間軸。
 ---
 
 菅平高原 Snow Resort 位於長野縣，區域分散但可滑內容很多，適合把不同山頭與難度帶分成整天慢慢跑。它不是一口氣看完的雪場，而是靠各區個性、競技取向坡面與反覆換線撐起完整度。

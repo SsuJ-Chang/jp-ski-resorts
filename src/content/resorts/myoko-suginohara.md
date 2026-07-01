@@ -244,26 +244,6 @@ externalContent:
   - title: "全日本最長的雪道!8.5km!怎麼摔都不會痛!不用去北海道了｜妙高雪場開箱 杉之原SUGINOHARA｜YK🏂VLOG"
     url: "https://www.youtube.com/watch?v=scsRnyrkqIE"
     note: "YK來了"
-sources:
-- label: Myoko Suginohara Official Website
-  url: https://www.princehotels.co.jp/ski/myoko/winter/
-- label: Myoko Suginohara Course Map
-  url: https://www.princehotels.co.jp/ski/myoko/winter/coursemap/
-- label: Myoko Suginohara Lift Tickets
-  url: https://www.princehotels.co.jp/ski/myoko/winter/lift/
-- label: Myoko Suginohara Access
-  url: https://www.princehotels.co.jp/ski/myoko/winter/access/
-- label: Myoko Suginohara Weathernews
-  url: https://weathernews.jp/ski/spot/35423/
-- label: Real Japan Nature YouTube Course Video
-  url: https://www.youtube.com/watch?v=KB5dscP0Pw4
-  note: 影片章節提供杉之原部分雪道秒數，已對應至 courses.details[].videoLinks。
-- label: Myoko Suginohara Long Trail Course Video
-  url: https://www.youtube.com/watch?v=4kOOeVcoBqA
-  note: 影片說明欄提供しゃくなげ、杉ノ原連絡、白樺等雪道章節時間軸。
-- label: Myoko Suginohara Course Video 2022
-  url: https://www.youtube.com/watch?v=MaRkdtTmq6o
-  note: 影片說明欄提供しゃくなげ、ダイナミック、杉ノ原連絡、白樺、パノラマ、ジャイアント、しなの木等雪道章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 杉之原位在新潟縣，整理為 16 條雪道，搭配 4 座纜車。しゃくなげコース、連絡コース 可作為代表路線，初級、中級與上級路線都有配置，標籤偏向初學者練習、親子同行。

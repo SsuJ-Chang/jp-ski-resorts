@@ -164,13 +164,6 @@ terrainSummary:
   advanced: 進階路線包含 国体女子（西山）、国体男子、エキスパート下、エキスパート上，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
   powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
-sources:
-- label: White World Oze Iwakura Official
-  url: https://www.oze-iwakura.co.jp/ski/
-- label: White World Oze Iwakura Course Info
-  url: https://www.oze-iwakura.co.jp/ski/slopeguide/index.html
-- label: ホワイトワールド尾瀬岩鞍 Weathernews
-  url: https://weathernews.jp/ski/spot/34207/
 contact:
   address:
     zhTw: 群馬縣利根郡片品村大字土出2609

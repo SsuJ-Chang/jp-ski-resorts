@@ -73,11 +73,6 @@ terrainSummary:
   intermediate: 中級者可用 ブナ坂第3ゲレンデ、立山第1ゲレンデ、立山第2ゲレンデ 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 立山第3ゲレンデ、かやばた A コース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Osorakan Snow Park Official
-  url: http://osorakan.co.jp/winter/
-- label: 恐羅漢スノーパーク Weathernews
-  url: https://weathernews.jp/ski/spot/36706/
 contact:
   address:
     zhTw: 廣島縣山縣郡安芸太田町大字横川740-1

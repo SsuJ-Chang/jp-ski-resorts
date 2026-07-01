@@ -107,11 +107,6 @@ terrainSummary:
   beginner: 初級雪道約 40%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 30%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 30%，可安排較有坡度與速度感的滑行。
-sources:
-- label: New Greenpia Tsunan Official Website
-  url: https://new-greenpia.com
-- label: New Greenpia Tsunan Weathernews
-  url: https://weathernews.jp/ski/spot/35466/
 ---
 
 New Greenpia 津南是新潟縣的小型雪場，整理為5 條雪道，搭配 3 座纜車。初級、中級與上級路線都有配置，介紹保留在可確認的雪道數與難度比例；標籤上偏向親子同行、溫泉停留。

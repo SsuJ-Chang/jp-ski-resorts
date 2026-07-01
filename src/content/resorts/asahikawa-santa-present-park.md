@@ -165,21 +165,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Asahikawa Santa Present Park Official Website
-  url: https://www.asahikawasantapresentpark.com/
-- label: Asahikawa Santa Present Park Mallows Slope
-  url: https://www.asahikawasantapresentpark.com/cont1/main.html
-- label: Asahikawa Santa Present Park Lift Ticket Prices
-  url: https://www.asahikawasantapresentpark.com/cont1/8.html
-- label: Asahikawa Santa Present Park Access
-  url: https://www.asahikawasantapresentpark.com/map.html
-- label: Asahikawa Santa Present Park Winter Bus Timetable
-  url: https://www.asahikawasantapresentpark.com/cont9/43.html
-- label: Weathernews Santa Present Park Mallows Slope
-  url: https://weathernews.jp/ski/spot/31204/
-- label: Hokkaido Love Asahikawa Santa Present Park
-  url: https://www.visit-hokkaido.jp/tw/spot/detail_13199.html
 ---
 
 旭川聖誕禮物公園是北海道的中小型雪場，整理為6 條雪道，搭配 4 座纜車。雪道如 センターコース、登山道コース、スパルタコース，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

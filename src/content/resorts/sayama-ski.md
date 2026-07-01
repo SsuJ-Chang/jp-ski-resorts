@@ -50,13 +50,6 @@ courses:
     note: 都會型屋內人工雪坡，官方以入門、練習與親子使用為主。
 terrainSummary:
   beginner: 初級雪道以 屋內人工雪ゲレンデ 為主，適合練習速度控制與穩定轉彎。
-sources:
-- label: Sayama Ski Area Official
-  url: https://sayamaski.jp/
-- label: Sayama Ski Area Course Info
-  url: https://sayamaski.jp/slope.html
-- label: 狭山スキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/34303/
 contact:
   address:
     zhTw: 埼玉縣所沢市上山口2167

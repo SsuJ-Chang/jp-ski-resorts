@@ -110,11 +110,6 @@ terrainSummary:
   intermediate: 中級雪道約 50%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Takamine Mountain Park Official Website
-  url: http://www.asama2000.com
-- label: Takamine Mountain Park Weathernews
-  url: https://weathernews.jp/ski/spot/34853/
 ---
 
 高峰 Mountain Park 位於長野縣，是中小型雪場，共有 6 條雪道，搭配 4 座纜車。初級、中級與上級路線都有配置，內文以雪道數與難度比例為主，標籤偏向雙板與單板。

@@ -82,11 +82,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Yakushiyama Ski Area Official Website"
-    url: "https://www.city.kitaakita.akita.jp/genre/kyouiku_bunka_sports/sports/sports_taiiku/p1370/yakushi"
-  - label: "Weathernews 薬師山スキー場"
-    url: "https://weathernews.jp/ski/spot/33225/"
 ---
 
 藥師山在秋田縣提供2 條雪道，搭配 2 座纜車。雪道配置偏初級，練習門檻較低，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

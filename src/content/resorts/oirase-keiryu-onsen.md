@@ -93,13 +93,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "奥入瀬渓流温泉スキー場 Official Website"
-    url: "http://www.oirase.or.jp/ski/ski.htm"
-  - label: "Weathernews 奥入瀬渓流温泉スキー場"
-    url: "https://weathernews.jp/ski/spot/33110/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 奧入瀨溪流溫泉位在青森縣，滑行區由2 條雪道，搭配 2 座纜車構成。ファミリーゲレンデ、湯の平コース 等路線能看出坡面配置，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

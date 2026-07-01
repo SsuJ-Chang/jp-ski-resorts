@@ -106,11 +106,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Kita Nikko Takahata Ski Area Official Website"
-    url: "https://www.takahata-ski.net/"
-  - label: "Weathernews 北日光・高畑スキー場"
-    url: "https://weathernews.jp/ski/spot/33616/"
 ---
 
 福島縣的北日光・高畑以10 條雪道，搭配 5 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向親子同行、溫泉停留。

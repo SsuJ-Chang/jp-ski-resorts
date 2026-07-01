@@ -91,11 +91,6 @@ access:
 terrainSummary:
   beginner: 小規模雪場，適合短時間練習與親子滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Kanayasan Ski Area Official Website
-  url: http://joetsukankonavi.jp/spot.php?id=23
-- label: Kanayasan Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/35427/
 ---
 
 金谷山在新潟縣提供3 條雪道，搭配 1 座纜車。僅保留已確認的規模與路線配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

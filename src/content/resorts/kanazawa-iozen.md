@@ -125,13 +125,6 @@ terrainSummary:
   intermediate: Dynamic 與林道等路線需注意官方暫停開放公告。
   advanced: Challenge 最大坡度 37°，但官方公告自令和 7 年度起暫停開放。
   snowboard: 官方設施頁標示 Family 雪坡可使用雪板，租借與可用區域請以現場公告為準。
-sources:
-- label: かなざわスポーツねっと 金澤市營醫王山 Official
-  url: https://www.kanazawa-sports.jp/use/search/546
-- label: 金澤旅物語 醫王山滑雪場
-  url: https://www.kanazawa-kankoukyoukai.or.jp/spot/detail_10007.html
-- label: Weathernews 金澤市營醫王山
-  url: https://weathernews.jp/ski/spot/35608/
 ---
 
 金澤市營醫王山位於石川縣，是小型雪場，共有4 條雪道，搭配 2 座纜車。代表路線包含 ファミリーゲレンデ / Family Gelande、林道コース / Rindo Course、ダイナミックコース / Dynamic Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

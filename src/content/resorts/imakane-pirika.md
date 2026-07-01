@@ -93,11 +93,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Imakane Pirika Ski Area Official Website"
-    url: "https://kurplazapirika.net"
-  - label: "Weathernews 今金町ピリカスキー場"
-    url: "https://weathernews.jp/ski/spot/32402/"
 ---
 
 北海道的今金町 Pirika以5 條雪道，搭配 1 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向親子同行、夜滑。

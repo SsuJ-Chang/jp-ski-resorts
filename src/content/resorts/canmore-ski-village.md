@@ -115,11 +115,6 @@ externalContent:
     - title: "「日本自駕滑雪Vlog」 ~旭川機場周邊迷你雪場Canmore&富良野超熱門居酒屋Robeta"
       url: https://www.youtube.com/watch?v=Ufp6jeaEZfE
       note: "艾維斯52赫茲"
-sources:
-  - label: "Canmore Ski Village Official Website"
-    url: "https://www.canmore-ski.jp"
-  - label: "Weathernews キャンモア・スキービレッジ"
-    url: "https://weathernews.jp/ski/spot/31206/"
 ---
 
 Canmore Ski Village位於北海道，入夜後的燈光雪面很有氣氛，適合把練習和夜間滑行排在同一天。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合不只想滑雪，也想把身體放鬆與地方氛圍一起安排的人。

@@ -92,11 +92,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Miyagi Zao Shichikashuku Ski Area Official Website"
-    url: "https://zao-7kashuku.jp/ski/"
-  - label: "Weathernews みやぎ蔵王七ヶ宿"
-    url: "https://weathernews.jp/ski/spot/33412/"
 ---
 
 宮城藏王七宿位於宮城縣，以5 條雪道構成小型雪場，搭配 3 座纜車。初級、中級與上級路線都有配置，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、親子同行。

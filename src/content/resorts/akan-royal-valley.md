@@ -86,15 +86,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Akan Royal Valley Ski Area Official Website"
-    url: "https://www.akanroyalvalley.jp/"
-    note: "提供雪場與設施基本資訊。"
-  - label: "Akan Royal Valley Snow Activity"
-    url: "https://www.akanroyalvalley.jp/%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3"
-    note: "提供雪道類型、最長滑走距離、最大斜度、標高差與そりエリア資訊。"
-  - label: "Weathernews 阿寒ロイヤルバレイスキー場"
-    url: "https://weathernews.jp/ski/spot/31902/"
 ---
 
 阿寒 Royal Valley 位於北海道釧路市阿寒町，1 座纜車連結寬闊的初中級路線與不整地上級路線。最長滑走約 700m、最大斜度約 30 度，規模小但坡面分明，適合短時間練習與親子雪地活動。

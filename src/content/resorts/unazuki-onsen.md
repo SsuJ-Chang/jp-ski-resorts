@@ -91,13 +91,6 @@ terrainSummary:
   intermediate: 中級雪道占 30%，適合已能穩定轉彎的滑雪者參考。
   advanced: 上級雪道占 20%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
-sources:
-- label: 宇奈月温泉スキー場 Official
-  url: https://www.unazuki-snowpark.com/
-- label: 宇奈月温泉スキー場 Access
-  url: https://www.unazuki-snowpark.com/access/
-- label: Weathernews 宇奈月温泉スキー場
-  url: https://weathernews.jp/ski/spot/35511/
 ---
 
 宇奈月溫泉位於富山縣，以1 條雪道形成小型練習雪場規模，搭配 3 座纜車。主要路線有 宇奈月温泉ゲレンデ，單一路線配置，重點在簡單滑行與基本練習；標籤上偏向初學者練習、親子同行。

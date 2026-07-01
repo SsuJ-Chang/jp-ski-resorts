@@ -125,13 +125,6 @@ terrainSummary:
   intermediate: 中級雪道占 30%，適合已能穩定轉彎的滑雪者參考。
   advanced: 上級雪道占 30%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
-sources:
-- label: 九頭竜スキー場 Official
-  url: https://www.kuzuryu-skiland.com/
-- label: 九頭竜スキー場 Access
-  url: https://kuzuryu-skiland.com/access/
-- label: Weathernews 九頭竜スキー場
-  url: https://weathernews.jp/ski/spot/35703/
 ---
 
 福井縣的九頭龍共有 8 條雪道，搭配 3 座纜車，包含 ファミリーゲレンデ、センターゲレンデ 等路線；初級、中級與上級路線都有配置，標籤偏向親子同行、雙板與單板。

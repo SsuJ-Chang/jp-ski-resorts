@@ -128,11 +128,6 @@ terrainSummary:
   beginner: 初級雪道約 35%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 40%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 25%，可安排較有坡度與速度感的滑行。
-sources:
-- label: Cupid Valley Official Website
-  url: https://www.yukidaruma-kogen.com
-- label: Cupid Valley Weathernews
-  url: https://weathernews.jp/ski/spot/35456/
 ---
 
 Cupid Valley位在新潟縣，雪道數為12 條，搭配 3 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。

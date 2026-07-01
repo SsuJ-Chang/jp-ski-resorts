@@ -167,18 +167,6 @@ terrainSummary:
   intermediate: 中級雪道約 40%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 30%，可安排較有坡度與速度感的滑行。
   powder: 降雪條件好時可期待鬆雪感，實際仍需以當日開放區域與安全管制為準。
-sources:
-- label: Muikamachi Hakkaisan Official Website
-  url: http://www.princehotels.co.jp/ski/hakkaisan/
-- label: Muikamachi Hakkaisan Course Map
-  url: https://www.princehotels.co.jp/ski/hakkaisan/winter/coursemap/
-- label: Muikamachi Hakkaisan Official Traditional Chinese Page
-  url: https://www.princehotels.com/zh-tw/ski/hakkaisan/index.html
-- label: Muikamachi Hakkaisan Weathernews
-  url: https://weathernews.jp/ski/spot/35401/
-- label: Muikamachi Hakkaisan Course Video 2023
-  url: https://www.youtube.com/watch?v=XfDN_hAannM
-  note: 影片說明欄提供前倉、うさぎ平、ポプラ平、ダウンヒル、セパレートA、尾根、山頂ゲレンデ、林間等雪道章節時間軸；其中ポプラ平、山頂ゲレンデ、林間等章節已合併對應到 A1 輕鬆滑雪道。
 ---
 
 六日町八海山位於新潟縣，是中型雪場，共有 11 條雪道，搭配 4 座纜車。代表路線包含 A1 輕鬆滑雪道、B1 USAGI DAIRA滑雪道，初級、中級與上級路線都有配置，標籤偏向雙板與單板。

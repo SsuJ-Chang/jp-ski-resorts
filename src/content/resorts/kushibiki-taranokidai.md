@@ -97,11 +97,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Kushibiki Taranokidai Ski Area Official Facebook Page"
-    url: "https://www.facebook.com/taranokidai/"
-  - label: "Weathernews 櫛引たらのきだい"
-    url: "https://weathernews.jp/ski/spot/33516/"
 ---
 
 櫛引 Taranokidai是山形縣的中小型雪場，整理為7 條雪道，搭配 1 座纜車。初級、中級與上級路線都有配置，介紹保留在可確認的雪道數與難度比例；標籤上偏向親子同行、夜滑。

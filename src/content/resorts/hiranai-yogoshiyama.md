@@ -84,11 +84,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Yogoshiyama Ski Area Official Website"
-    url: "https://start-yogoshiyama.purea-web.net/ski.html"
-  - label: "Weathernews 平内町夜越山スキー場"
-    url: "https://weathernews.jp/ski/spot/33115/"
 ---
 
 平內町夜越山位於青森縣，共有3 條雪道、1 座纜車，滑行主軸是長距離下滑與區域串聯，最長線約 185m。高處到山麓之間有明顯分段，適合把暖身、主滑與收尾排成完整一趟。如果你偏好巡航效率和換線變化，而不是反覆刷同一面坡，這類配置會更有意思。

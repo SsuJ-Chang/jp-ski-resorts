@@ -335,28 +335,6 @@ externalContent:
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=344s
     note: MIRU tube JAPAN 【Route Guide】
-sources:
-- label: Maiko Snow Resort Official Website
-  url: https://www.maiko-resort.com/winter/
-- label: Maiko Snow Resort Course / Trail Map
-  url: https://www.maiko-resort.com/winter/gelande/
-- label: Maiko Snow Resort Ticket
-  url: https://www.maiko-resort.com/winter/price/
-- label: Maiko Area Course Video 2026
-  url: https://www.youtube.com/watch?v=vGkPIXt9d9U
-  note: 影片說明欄提供舞子區域バンビ、ドルフィン、チャンピオン、ゴールド、キンダー、ロマンス、パラダイス、メロディーライン、ファミリー、リーゼン、ブロンズ等雪道章節時間軸。
-- label: Maiko Snow Resort Route Guide Video 2026
-  url: https://www.youtube.com/watch?v=KewGVrs_lb4
-  note: 影片說明欄提供舞子、奧添地、長峰區域的 M15、M20、M26、M19、M21、M18、M14、M13、M16、M24、N3、O5、O6、O3、O4、O1、O8、O7、N9、N11、M23 等雪道章節時間軸；聯絡、纜車、中心設施等非雪道章節未對應。
-- label: Maiko Okusoechi Nagamine Course Video 2026
-  url: https://www.youtube.com/watch?v=rjL8o3aKQII
-  note: 影片說明欄提供奧添地與長峰區域ランラン、ルンルン、スイスイ、グイグイ、グングン、サンサン、ラクラク、ゾクゾク、ギンギン、ガンガン、ビュンビュン、チョイチョイ等雪道章節時間軸。
-- label: Maiko Area Course Video 2023
-  url: https://www.youtube.com/watch?v=nC4945tXMBE
-  note: 影片說明欄提供舞子區域ブロンズ、森のステージ、バンビ、ロマンス、ゴールド、パラダイス、メロディーライン、ファミリー、ドルフィン等雪道章節時間軸。
-- label: Maiko Snow Resort Course Video 2023
-  url: https://www.youtube.com/watch?v=3PZG9TyIt2I
-  note: 影片說明欄提供長峰ランラン、ビュンビュン、スイスイ、奥添地ランラン、グイグイ、サンサン、バンビ、ゴールド、キンダー、パラダイス、リーゼン等雪道章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 舞子位在新潟縣，滑行區由27 條雪道構成。O3 奥添地ランランコース、O5 ルンルンコース、O7 ラクラクコース 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

@@ -108,16 +108,6 @@ terrainSummary:
   beginner: Forest Course 長達 4,000m，是中央區域重要長距離初級路線。
   intermediate: Olympic Course 上中下段是主要中級路線。
   snowboard: 長距離林道需注意速度維持與平緩區段。
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
-- label: Shiga Kogen Central Area Part 2 Course Video
-  url: https://www.youtube.com/watch?v=KQCss9sO5U0
-  note: 影片說明欄以區域章節提供東館山滑行時間軸；此處依 Top to Bottom 路線脈絡對應至 Forest Course。
 ---
 
 志賀高原東館山位於長野縣，是小型雪場，共有 5 條雪道，搭配 1 座纜車。代表路線包含 Higashitateyama Forest …，以初級與中級路線為主，標籤偏向初學者練習。

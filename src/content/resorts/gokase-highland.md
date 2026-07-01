@@ -115,16 +115,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Gokase Highland Ski Resort Official Website
-  url: https://www.gokase.co.jp/ski/
-- label: Gokase Highland Slope Info
-  url: https://www.gokase.co.jp/ski/slope/
-- label: Gokase Highland Shuttle Bus Timetable
-  url: https://www.gokase.co.jp/wp/wp-content/themes/biz-vektor/pdf/shuttle_bus_timetable.pdf
-- label: 五ヶ瀬ハイランドスキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/38602/
-  note: 使用者指定附上的雪場資料頁。
 ---
 
 五瀨高原位於宮崎縣，以2 條雪道形成小型練習雪場規模，搭配 3 座纜車。主要路線有 Beginner course、Paradise Course、Dynamic Course，以初級與中級路線為主；標籤上偏向初學者練習、親子同行。

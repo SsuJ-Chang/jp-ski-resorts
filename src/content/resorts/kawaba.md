@@ -97,13 +97,6 @@ terrainSummary:
   advanced: 進階路線包含 西峰ダウンヒル、白鳥ダウンヒル、高手ダウンヒル、無名峰ダウンヒル，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
   powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
-sources:
-- label: Kawaba Ski Resort Official
-  url: https://www.kawaba.co.jp/
-- label: Kawaba Ski Resort Course Info
-  url: https://www.kawaba.co.jp/gelande/course/
-- label: 川場スキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/34201/
 contact:
   address:
     zhTw: 群馬縣利根郡川場村川場高原

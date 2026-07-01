@@ -106,15 +106,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Akabane Snow Park Official Website
-  url: https://tono-sks.com/akabane-snowpark/
-  note: 提供營業時間、ゲレンデ、纜車、票價、租借與交通資訊。
-- label: Tono Tourism Akabane Snow Park
-  url: https://tonojikan.jp/tourism/akabane-snowpark/
-  note: 提供銀河スロープ、カモシカコース、カベコース與最大斜度資訊。
-- label: Weathernews 赤羽根スキー場
-  url: https://weathernews.jp/ski/spot/33323/
 ---
 
 赤羽根位於岩手縣遠野市，是 3 條路線的小型雪場。銀河スロープ偏初中級練習，カモシカコース帶有林間變化，カベコース則提供最大 30 度的短坡挑戰；平日夜滑讓練習時間更彈性。

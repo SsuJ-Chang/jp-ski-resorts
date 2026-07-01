@@ -131,11 +131,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Kyukamura Oku-Daisen Ski Official
-  url: https://www.qkamura.or.jp/daisen/ski/
-- label: Kagamiganaru Weathernews
-  url: https://weathernews.jp/ski/spot/36908/
 ---
 
 鏡ヶ成在鳥取縣提供3 條雪道，搭配 1 座纜車。路線包含 初心者ゲレンデ / Beginner Slope、初心者パーク / Beginner Park、中級者ゲレンデ / Intermediate Slope，整體雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

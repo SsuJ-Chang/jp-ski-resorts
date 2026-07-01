@@ -134,13 +134,6 @@ externalContent:
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU
     note: MIRU tube JAPAN 【Route Guide】
-sources:
-- label: Yuzawa Park Ski Resort Official Website
-  url: https://www.park-resort.com/ski/
-- label: Yuzawa Park Ski Resort Course / Trail Map
-  url: https://www.park-resort.com/ski/gelande/
-- label: Yuzawa Park Ski Resort Ticket
-  url: https://www.park-resort.com/ski/price/
 ---
 
 湯澤公園位於新潟縣湯澤雪國，住宿設施和雪道貼得很近，行程安排上比大型串聯雪場更簡單。對親子、初學者或想把重點放在穩定練習的人來說，這種直接進出雪道的配置反而更實際。

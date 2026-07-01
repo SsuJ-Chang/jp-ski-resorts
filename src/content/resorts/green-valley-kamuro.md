@@ -94,11 +94,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Green Valley Kamuro Ski Area Official Website"
-    url: "https://greenvalleykamuro.com/"
-  - label: "Weathernews グリーンバレー神室・神室スキー場"
-    url: "https://weathernews.jp/ski/spot/33518/"
 ---
 
 山形縣的Green Valley 神室以4 條雪道，搭配 1 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向夜滑、溫泉停留。

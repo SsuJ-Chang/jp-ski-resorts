@@ -91,9 +91,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Weathernews ASHIMOI KANKO 高穂スキー場"
-    url: "https://weathernews.jp/ski/spot/31301/"
 ---
 
 ASHIMOI KANKO 高穗位在北海道，雪道數為3 條，搭配 1 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。

@@ -113,11 +113,6 @@ externalContent:
   - title: "關西也有雪況好的滑雪場？手把手教你找到它｜不再跟觀光客擠｜大推2個判斷雪況的日本網站｜用巴士套票一天內征服兩個雪場要多少錢｜初中上級14條雪道"
     url: https://www.youtube.com/watch?v=35zwUIzDMY4
     note: LeoTW沈浸滑雪
-sources:
-  - label: "Sky Valley Official Website"
-    url: "https://www.skyvalley.jp"
-  - label: "Weathernews スカイバレイ"
-    url: "https://weathernews.jp/ski/spot/36309/"
 ---
 
 Sky Valley位於兵庫縣，共有8 條雪道、5 座纜車，整體配置偏向入門到中緩坡，適合先把基本節奏穩下來。主雪道多半以寬度與可控坡度取向為主，不必一開始就進到太緊繃的節奏。若同行者有新手、親子或第一次安排日本雪場的人，這種規模反而更容易掌握。

@@ -105,11 +105,6 @@ terrainSummary:
   intermediate: 中級雪道約 30%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 30%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Hijiri Kogen Ski Area Official Website
-  url: http://www.vill.omi.nagano.jp
-- label: Hijiri Kogen Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/34891/
 ---
 
 聖高原位在長野縣，雪道數為3 條，搭配 1 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。

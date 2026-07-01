@@ -347,28 +347,6 @@ externalContent:
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
     note: MIRU tube JAPAN 【Route Guide】
-sources:
-- label: Ishiuchi Maruyama Ski Resort Official Website
-  url: https://ishiuchi.or.jp/
-- label: Ishiuchi Maruyama Ski Resort Course / Trail Map
-  url: https://ishiuchi.or.jp/winter/ski/lift-course/
-- label: Ishiuchi Maruyama Ski Resort Ticket
-  url: https://ishiuchi.or.jp/price/
-- label: Ishiuchi Maruyama Ski Resort Access
-  url: https://ishiuchi.or.jp/en/access/
-- label: Ishiuchi Maruyama Ski Resort Snow Park
-  url: https://ishiuchi.or.jp/en/winter/ski/park/
-- label: Ishiuchi Maruyama Ski Resort Tree Run Course
-  url: https://ishiuchi.or.jp/en/winter/ski/treerun-course/
-- label: Real Japan Nature YouTube Course Video
-  url: https://www.youtube.com/watch?v=bd5A7FB11qg
-  note: 影片說明欄提供石打丸山各雪道章節秒數，已對應至 courses.details[].videoLinks。
-- label: Ishiuchi Maruyama GALA Connection Course Video
-  url: https://www.youtube.com/watch?v=vxT0r069KSE
-  note: 影片說明欄末段提供石打丸山メルヘンコース章節時間軸。
-- label: Ishiuchi Maruyama Night Course Video
-  url: https://www.youtube.com/watch?v=G7k1G9Njxcg
-  note: 影片說明欄提供パラダイスコース、サンライズライン夜滑章節時間軸。
 ---
 
 石打丸山位在新潟縣，滑行區由27 條雪道，搭配 14 座纜車構成。1 メルヘンコース、3 パラダイスコース、6 北丸山ファミリーゲレンデ 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

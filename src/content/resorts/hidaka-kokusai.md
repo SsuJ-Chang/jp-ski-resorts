@@ -112,11 +112,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Hidaka Kokusai Ski Area Official Website"
-    url: "https://www.town.hidaka.hokkaido.jp/site/ski/"
-  - label: "Weathernews 日高国際スキー場"
-    url: "https://weathernews.jp/ski/spot/32201/"
 ---
 
 北海道的日高國際以10 條雪道，搭配 4 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向親子同行、溫泉停留。

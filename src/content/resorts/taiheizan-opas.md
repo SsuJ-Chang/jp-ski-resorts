@@ -102,11 +102,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Taiheizan Ski Area Opas Official Website"
-    url: "http://www.theboon.net/opas/"
-  - label: "Weathernews 太平山スキー場オーパス"
-    url: "https://weathernews.jp/ski/spot/33210/"
 ---
 
 太平山 Opas位於秋田縣，以6 條雪道構成中小型雪場，搭配 3 座纜車。雪道配置偏初級，練習門檻較低，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、親子同行。

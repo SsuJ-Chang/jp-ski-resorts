@@ -92,13 +92,6 @@ terrainSummary:
   advanced: 上級雪道佔 40%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
   powder: 北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。
-sources:
-- label: 国設阿寒湖畔スキー場 Official
-  url: http://akan-ski.com
-- label: Weathernews 国設阿寒湖畔スキー場
-  url: https://weathernews.jp/ski/spot/31901/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 阿寒湖畔位於北海道，以2 條雪道形成小型練習雪場規模，搭配 1 座纜車。主要路線有 レフトウィング、ライトウィング，上級路線比例明顯，坡面變化較多；標籤上偏向雙板與單板、溫泉停留。

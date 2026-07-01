@@ -110,11 +110,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Wassamu Higashiyama Ski Area Official X (Twitter) Page"
-    url: "https://twitter.com/wassamu_ski"
-  - label: "Weathernews 和寒東山スキー場"
-    url: "https://weathernews.jp/ski/spot/31223/"
 ---
 
 和寒東山位於北海道，共有9 條雪道、2 座纜車，白天可先把主要雪道滑順，晚上再接燈光雪面延長時段。主雪道配置偏向好上手路線，夜滑時段則補足短天數行程的滑行量。若想把練習、夜滑和地方停留排在同一天，這種地方型雪場會比單純趕場更順。

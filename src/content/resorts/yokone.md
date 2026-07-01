@@ -79,11 +79,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Yokone Ski Area Official Website"
-    url: "http://www.siroimori.co.jp/yokone-ski/index.html"
-  - label: "Weathernews 横根スキー場"
-    url: "https://weathernews.jp/ski/spot/33532/"
 ---
 
 橫根位在山形縣，雪道數為1 條，搭配 1 座纜車。單一路線配置，重點在簡單滑行與基本練習，這裡先呈現已整理的滑行配置；標籤上偏向夜滑、溫泉停留。

@@ -229,15 +229,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Inawashiro Ski Resort Official Website
-  url: https://www.inawashiro-ski.com/
-- label: Inawashiro Ski Resort Course Map
-  url: https://www.inawashiro-ski.com/gelande/
-- label: Inawashiro Ski Resort Lift Tickets
-  url: https://www.inawashiro-ski.com/lift/
-- label: Inawashiro Ski Resort Weathernews
-  url: https://weathernews.jp/ski/spot/33602/
 ---
 
 豬苗代位於福島縣，以18 條雪道形成中型雪場規模，搭配 8 座纜車。主要路線有 ささ平コース / Sasadaira Course、葉山ゲレンデ / Hayama Slope、聖火リレーコース / Torch Relay Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

@@ -46,12 +46,6 @@ access:
     recommended: true
     snowTireRequired: true
     note: "從德島市區使用高速道路約 100 分、約 80km；從高松市區使用高速道路約 130 分、約 70km。冬季山區道路需準備雪胎或防滑裝備。"
-sources:
-- label: Ikawa Ski Resort Kainayama Official Website
-  url: https://www.ikawaski.jp/
-- label: 井川スキー場腕山 Weathernews
-  url: https://weathernews.jp/ski/spot/37103/
-  note: 使用者指定附上的雪場資料頁。
 ---
 
 井川腕山在德島縣提供5 條雪道。路線包含 ちびっこゲレンデ、ナデシココース、メインゲレンデ，整體初級、中級與上級路線都有配置。

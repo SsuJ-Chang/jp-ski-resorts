@@ -87,13 +87,6 @@ terrainSummary:
   intermediate: 中級者可用 バレ・ブランシュ、モンテローザ、ブライトホルン、ブレバン 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 マッターホルン，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Yogo Kogen Resort YAP Official
-  url: http://yogo45.co.jp/
-- label: Yogo Kogen Resort YAP Course Info
-  url: http://yogo45.co.jp/gelande-map/
-- label: ヨゴコーゲンリゾート☆ヤップ Weathernews
-  url: https://weathernews.jp/ski/spot/36002/
 contact:
   address:
     zhTw: 滋賀縣長浜市余呉町中河内373

@@ -188,17 +188,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Hachikita Official Website
-  url: https://www.hachi-hachikita.co.jp/hachikita/
-- label: Hachikita Course and Slope
-  url: https://www.hachi-hachikita.co.jp/hachikita/slope.html
-- label: Hachikita Ticket
-  url: https://www.hachi-hachikita.co.jp/hachikita/rate.html
-- label: Hachikita Access
-  url: https://www.hachi-hachikita.co.jp/hachikita/access.html
-- label: Hachikita Weathernews
-  url: https://weathernews.jp/ski/spot/36301/
 ---
 
 HACHI 北高原位於兵庫縣，是中型雪場，共有14 條雪道，搭配 10 座纜車。代表路線包含 パノラマゲレンデ、野間ゲレンデ、ファミリーゲレンデ，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

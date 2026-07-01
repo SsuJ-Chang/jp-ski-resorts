@@ -112,11 +112,6 @@ terrainSummary:
   intermediate: 中級雪道約 30%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 10%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Komaruyama Ski Area Official Website
-  url: https://www.komaruyama.jp
-- label: Komaruyama Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/34861/
 ---
 
 小丸山位於長野縣，是中小型雪場，共有6 條雪道，搭配 5 座纜車。雪道配置偏初級，練習門檻較低，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、親子同行。

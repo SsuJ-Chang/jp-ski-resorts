@@ -113,15 +113,6 @@ terrainSummary:
   beginner: 初級雪道約 30%，可搭配雪上遊樂區規劃親子或第一次滑雪。
   intermediate: 中級比例最高，適合已能控制速度的滑雪者短程練習。
   advanced: 上級比例較低，整體以親子與練習型雪場為主。
-sources:
-- label: Chausuyama Kogen Ski Resort Official Website
-  url: http://www.chausuyama.jp/exercise/2014022119103644.html
-- label: Chausuyama Kogen Access
-  url: https://www.chausuyama.jp/access/
-- label: Weathernews 茶臼山高原スキー場
-  url: https://weathernews.jp/ski/spot/35101/
-- label: Weathernews 中部人氣排名
-  url: https://weathernews.jp/ski/area/chubu/ranking.html
 ---
 
 茶臼山高原位於愛知縣，共有4 條雪道、2 座纜車，滑行主軸是長距離下滑與區域串聯，最長線約 60m。ファミリーゲレンデ、Aコース這類主線能把寬坡、連接段與視野一路串起來。如果你偏好巡航效率和換線變化，而不是反覆刷同一面坡，這類配置會更有意思。

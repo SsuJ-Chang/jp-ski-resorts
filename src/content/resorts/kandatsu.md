@@ -234,29 +234,6 @@ externalContent:
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
     note: MIRU tube JAPAN 【Route Guide】
-sources:
-- label: Kandatsu Official Website
-  url: https://www.kandatsu.com/
-- label: Kandatsu Course Guide
-  url: https://www.kandatsu.com/course-guide/
-- label: Kandatsu Price
-  url: https://www.kandatsu.com/price/
-- label: Kandatsu Weathernews
-  url: https://weathernews.jp/ski/spot/35425/
-- label: Kandatsu Access
-  url: https://www.kandatsu.com/access/
-- label: Kandatsu Route Guide Video 2024
-  url: https://www.youtube.com/watch?v=SR8KJFQl3Zw
-  note: 影片說明欄提供ポルックス、カストル、アンドロメダ、シリウス、ペルセウス、プロキオン、レグルス、ペガサス、ヘラクレス、ポラリス、ベガ等雪道章節時間軸；Mid Base、Ground Base 與纜車章節未對應。
-- label: Kandatsu Long Run Course Video
-  url: https://www.youtube.com/watch?v=pQzzj5_0L98
-  note: 影片說明欄提供スバル、プロキオン、ポルックス、ベガ等雪道章節時間軸。
-- label: Kandatsu Main Course Video
-  url: https://www.youtube.com/watch?v=mA055HfYWJA
-  note: 影片說明欄提供プロキオン、カストル、ポルックス、ペルセウス、アンドロメダ、ペガサス、ヘラクレス、スバル、ポラリス等雪道章節時間軸。
-- label: Kandatsu Weekend Limited Course Video 2023
-  url: https://www.youtube.com/watch?v=gkwnBPIptk4
-  note: 影片說明欄提供 Milky Way、Super Antares 等雪道章節時間軸，已對應至 courses.details[].videoLinks。
 terrainSummary:
   beginner: Procyon、Pollux、Vega、Polaris 等初級路線提供緩坡、寬幅與長距離練習。
   intermediate: Subaru、Pegasus、Sirius、Regulus、Castor 提供中級地形變化、夜滑與地形公園鄰近路線。

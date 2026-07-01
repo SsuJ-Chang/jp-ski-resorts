@@ -87,13 +87,6 @@ terrainSummary:
   intermediate: 中級者可用 ヤッホーゲレンデ 中級、スリーバレー 1 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 スリーバレー 2、スリーバレー 3，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Hakodateyama Ski Resort Official
-  url: https://www.hakodateyama.com/winter/
-- label: Hakodateyama Ski Resort Course Info
-  url: https://www.hakodateyama.com/winter/about/
-- label: 箱館山 Weathernews
-  url: https://weathernews.jp/ski/spot/36007/
 contact:
   address:
     zhTw: 滋賀縣高島市今津町日置前

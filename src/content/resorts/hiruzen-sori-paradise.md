@@ -80,11 +80,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Hiruzen Kogen Center Official"
-    url: "https://www.hkcenter.co.jp/"
-  - label: "ヒルゼン★そり★パラダイス!! Weathernews"
-    url: "https://weathernews.jp/ski/spot/36611/"
 ---
 
 Hiruzen★雪橇★Paradise!!是岡山縣的小型練習雪場，整理為1 條雪道。單一路線配置，重點在簡單滑行與基本練習，介紹保留在可確認的雪道數與難度比例；標籤上偏向初學者練習、親子同行。

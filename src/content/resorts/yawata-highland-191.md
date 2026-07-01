@@ -76,13 +76,6 @@ terrainSummary:
   intermediate: 中級者可用 C コース、D コース、E コース（一本松） 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 F コース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Yawata Highland 191 Resort Official
-  url: https://yawata191.com/
-- label: Yawata Highland 191 Resort Course Info
-  url: https://yawata191.com/course1/
-- label: やわたハイランド１９１リゾート Weathernews
-  url: https://weathernews.jp/ski/spot/36712/
 contact:
   address:
     zhTw: 廣島縣山縣郡北広島町西八幡原

@@ -108,11 +108,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Mountain Field Miyagi Zao Sumikawa Snow Park Official Website"
-    url: "http://www.zao-sumikawa.jp"
-  - label: "Weathernews マウンテンフィールド宮城蔵王すみかわスノーパーク"
-    url: "https://weathernews.jp/ski/spot/33405/"
 ---
 
 宮城藏王澄川 Snow Park位於宮城縣，是中小型雪場，共有9 條雪道，搭配 3 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、溫泉停留。

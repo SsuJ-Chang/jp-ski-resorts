@@ -124,15 +124,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "奥中山高原スキー場 Official Website"
-    url: "https://www.okunakayamakogen.jp/"
-  - label: "奥中山高原 Access"
-    url: "https://www.okunakayamakogen.jp/access"
-  - label: "Weathernews 奥中山高原スキー場"
-    url: "https://weathernews.jp/ski/spot/33317/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 岩手縣的奧中山高原共有11 條雪道，搭配 4 座纜車，包含 ぶなの木、はやぶさ、つばめ 等路線。初級、中級與上級路線都有配置；標籤上偏向親子同行、雙板與單板。

@@ -88,11 +88,6 @@ access:
 terrainSummary:
   beginner: 以小型坡面與雪橇區為主，較偏親子雪上活動。
   snowboard: 雪板不可滑行。
-sources:
-- label: Gozaisho Ropeway Official
-  url: https://www.gozaisho.co.jp/
-- label: Weathernews 御在所スキー場
-  url: https://weathernews.jp/ski/spot/35301/
 ---
 
 御在所在三重縣提供 2 條雪道，搭配 2 座纜車。僅保留已確認的規模與路線配置，頁面資訊以基本規格與路線配置為主；標籤上偏向親子同行。

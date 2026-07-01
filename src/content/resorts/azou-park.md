@@ -82,11 +82,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Azou Forest Park Official
-  url: https://azou-forest-park.com/facility#leisure
-- label: 安蔵公園スキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/36913/
 ---
 
 安藏公園在鳥取縣提供1 條雪道，搭配 2 座纜車。單一路線配置，重點在簡單滑行與基本練習，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

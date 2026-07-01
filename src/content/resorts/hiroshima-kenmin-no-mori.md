@@ -62,11 +62,6 @@ terrainSummary:
   intermediate: 中級者可用 第2ゲレンデ、林間コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 上級コース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Hiroshima Kenmin no Mori Ski Area Official
-  url: https://hiroshima-kenmori.com/
-- label: ひろしま県民の森スキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/36713/
 contact:
   address:
     zhTw: 廣島縣庄原市西城町油木156-14

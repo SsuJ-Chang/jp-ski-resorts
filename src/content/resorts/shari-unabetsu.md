@@ -88,11 +88,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Shari Unabetsu Ski Area Official Website"
-    url: "http://www.shiretoko.asia/index.html"
-  - label: "Weathernews 斜里町ウナベツスキー場"
-    url: "https://weathernews.jp/ski/spot/31701/"
 ---
 
 斜里町 Unabetsu在北海道提供3 條雪道，搭配 1 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向夜滑。

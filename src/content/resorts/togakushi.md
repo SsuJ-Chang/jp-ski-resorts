@@ -247,19 +247,6 @@ terrainSummary:
   intermediate: 中級雪道約 40%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 30%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Togakushi Ski Area Official Website
-  url: http://www.togakusi.com/ski
-- label: Togakushi Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/34806/
-- label: Togakushi Ski Area Course Guide
-  url: https://www.togakusi.com/ski/course/
-- label: Togakushi Course Video 2025
-  url: https://www.youtube.com/watch?v=rQ_Ajmh0Fic
-  note: ??????????
-- label: Togakushi Course Video 2024
-  url: https://www.youtube.com/watch?v=S_CBn7epJGk
-  note: ??????????
 ---
 
 長野縣的戶隱共有19 條雪道，搭配 7 座纜車，包含 お仙水コース / Osensui Course、ドリームコース / Dream Course、とがっきーC / Togakki C 等路線。初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

@@ -84,11 +84,6 @@ terrainSummary:
   intermediate: 中級雪道占 50%，適合已能穩定轉彎的滑雪者參考。
   advanced: 上級雪道占 10%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
-sources:
-- label: タカンボースキー場 Official
-  url: https://www.gokayama-kankou.com/
-- label: Weathernews タカンボースキー場
-  url: https://weathernews.jp/ski/spot/35516/
 ---
 
 Takanbo 是富山縣的小型雪場，共有 4 條雪道，搭配 4 座纜車。雪道如 初級コース、上級コース，初級、中級與上級路線都有配置，標籤偏向親子同行、雙板與單板。

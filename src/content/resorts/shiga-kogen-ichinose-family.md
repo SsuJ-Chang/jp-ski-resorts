@@ -112,13 +112,6 @@ terrainSummary:
   intermediate: Panorama Course 提供長距離中級林間滑行。
   advanced: Perfecter Course 是一之瀨區域的進階挑戰路線。
   snowboard: 寬斜面與長距離路線適合雪板練習，但需注意連絡路速度。
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
 ---
 
 志賀高原一之瀨 Family 位在長野縣，整理為 7 條雪道，搭配 4 座纜車。Ichinose Family Front G…、Tengu Course 可作為代表路線，初級、中級與上級路線都有配置，標籤偏向初學者練習、親子同行。

@@ -118,17 +118,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "八幡平リゾート・パノラマスキー場 Official Website"
-    url: "http://www.hachimantai.co.jp/"
-  - label: "八幡平リゾート Access"
-    url: "https://www.hachimantai.co.jp/access/"
-  - label: "SURF&SNOW 八幡平リゾート パノラマスキー場＆下倉スキー場 コース"
-    url: "https://surfsnow.jp/guide/htm/r0009gc1.htm"
-  - label: "Weathernews 八幡平リゾート・パノラマスキー場"
-    url: "https://weathernews.jp/ski/spot/33311/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 八幡平 Resort Panorama是岩手縣的中小型雪場，整理為7 條雪道，搭配 4 座纜車。雪道如 Family Course / ファミリーコース、Conide A Course / コニーデAコース、Conide B Course / コニーデBコース，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

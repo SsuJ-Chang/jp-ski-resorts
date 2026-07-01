@@ -98,13 +98,6 @@ externalContent:
   - title: "全年150天可滑｜關西最熱門滑雪場奧伊吹超全攻略｜自駕滋賀滑雪一日遊｜也很適合親子同遊｜雪票租借美食看透透｜14條雪道｜日本友人聊滑雪"
     url: https://www.youtube.com/watch?v=QB0FIiquvWg
     note: LeoTW沈浸滑雪
-sources:
-- label: Grand Snow Okuibuki Official
-  url: https://www.okuibuki.co.jp/
-- label: Grand Snow Okuibuki Course Info
-  url: https://www.okuibuki.co.jp/gelande/course/
-- label: グランスノー奥伊吹 Weathernews
-  url: https://weathernews.jp/ski/spot/36004/
 contact:
   address:
     zhTw: 滋賀縣米原市甲津原奥伊吹

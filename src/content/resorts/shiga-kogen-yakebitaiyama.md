@@ -178,20 +178,6 @@ externalContent:
   - title: 【日本自由行】EP4 奧志賀滑雪場❄️燒額山滑雪場！超好玩樹林道⛄雪道、山景全紀錄！❄️一之瀨出發一路滑到奧志賀⛄
     url: https://www.youtube.com/watch?v=QFbnFpx0FO0
     note: 和Ivy去旅行
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Prince Hotel Official
-  url: https://www.princehotels.co.jp/ski/shiga/winter/
-- label: Weathernews 志賀高原焼額山
-  url: https://weathernews.jp/ski/spot/34803/
-- label: Shiga Kogen Yakebitaiyama Access
-  url: https://www.princehotels.co.jp/ski/shiga/winter/access/
-- label: Real Japan Nature YouTube Course Video
-  url: https://www.youtube.com/watch?v=j3pg5rzX1hA
-  note: 影片章節提供志賀高原燒額山部分雪道秒數，已對應至 courses.details[].videoLinks。
 ---
 
 長野縣的志賀高原 燒額山共有13 條雪道，搭配 5 座纜車，包含 South Course、Shirakaba Course、Panorama IN Course 等路線。初級、中級與上級路線都有配置；標籤上偏向親子同行、雙板與單板。

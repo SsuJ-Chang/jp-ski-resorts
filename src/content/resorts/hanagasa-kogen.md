@@ -92,11 +92,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Hanagasa Kogen Ski Area Official Website"
-    url: "http://www.city.obanazawa.yamagata.jp/"
-  - label: "Weathernews 花笠高原スキー場"
-    url: "https://weathernews.jp/ski/spot/33509/"
 ---
 
 花笠高原位於山形縣，是小型雪場，共有3 條雪道，搭配 1 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、親子同行。

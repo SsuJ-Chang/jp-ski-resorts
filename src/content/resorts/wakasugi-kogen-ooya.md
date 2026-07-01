@@ -60,13 +60,6 @@ terrainSummary:
   beginner: 初級雪道以 ファミリーゲレンデ、キッズパーク・そりゲレンデ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 メインバーン 串接較長滑行或主坡巡航。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Wakasugi Kogen Ooya Ski Area Official
-  url: https://ooyaski.com/ski/
-- label: Wakasugi Kogen Ooya Ski Area Course Info
-  url: https://ooyaski.com/ski/courses/
-- label: 若杉高原おおやスキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/36325/
 contact:
   address:
     zhTw: 兵庫縣養父市大屋町若杉99-2

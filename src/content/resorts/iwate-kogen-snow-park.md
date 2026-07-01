@@ -135,15 +135,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "岩手高原スノーパーク Official Website"
-    url: "http://www.iwatekogen.jp/"
-  - label: "岩手高原スノーパーク Access"
-    url: "https://iwatekogen.jp/access/"
-  - label: "Weathernews 岩手高原スノーパーク"
-    url: "https://weathernews.jp/ski/spot/33309/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 岩手高原 Snow Park 位於岩手縣，是中小型雪場，共有 10 條雪道，搭配 7 座纜車。代表路線包含 E4ゲレンデ、W2ゲレンデ，初級、中級與上級路線都有配置，標籤偏向親子同行、雙板與單板。

@@ -99,11 +99,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Horotachi Ski Area Official Website"
-    url: "https://www.horotachi-horokanai.com/"
-  - label: "Weathernews ほろたちスキー場"
-    url: "https://weathernews.jp/ski/spot/31302/"
 ---
 
 Horotachi位於北海道，以4 條雪道構成小型雪場，搭配 1 座纜車。上級路線比例明顯，坡面變化較多，描述聚焦在雪道規模與難度結構；標籤上偏向親子同行、溫泉停留。

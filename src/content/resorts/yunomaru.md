@@ -147,14 +147,6 @@ terrainSummary:
   intermediate: 中級雪道約 40%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Yunomaru Ski Area Official Website
-  url: http://www.yunomaru.co.jp
-- label: Yunomaru Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/34848/
-- label: Yunomaru Course Video 2025
-  url: https://www.youtube.com/watch?v=gFrm19TppAA
-  note: 影片說明欄提供第1ゲレンデA/B、ラビット、カモシカ等雪道章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 湯之丸位在長野縣，滑行區由9 條雪道，搭配 6 座纜車構成。第1ゲレンデAコース / First Slope A Course、第1ゲレンデBコース / First Slope B Course、第4ゲレンデ / 4th Slope 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向溫泉停留、雙板與單板。

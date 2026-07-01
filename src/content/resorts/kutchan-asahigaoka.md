@@ -89,9 +89,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Weathernews 倶知安町旭ケ丘スキー場"
-    url: "https://weathernews.jp/ski/spot/32101/"
 ---
 
 北海道的俱知安町旭丘以2 條雪道，搭配 1 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。

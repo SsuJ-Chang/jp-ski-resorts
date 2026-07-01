@@ -376,27 +376,6 @@ externalContent:
   - title: 【日本東京🇯🇵】EP1 野澤溫泉滑雪場❄️｜機場直達野沢巴士｜日本最長雪道｜自學單板全紀錄｜歷史百年溫泉村｜冬奧滑雪場｜靜泉莊 Seisenso｜Action4📸
     url: https://www.youtube.com/watch?v=sEKq2lknoGQ
     note: 和Ivy去旅行
-sources:
-- label: Nozawa Onsen Official Website
-  url: https://en.nozawaski.com/
-- label: Nozawa Onsen Ski Resort Info
-  url: https://nozawaski.com/winter/general/
-- label: Nozawa Onsen Slopes and Lift Status
-  url: https://en.nozawaski.com/the-mountain/moutain-info/slopes-lifts/
-- label: Nozawa Onsen Trail Map 2025-2026
-  url: https://en.nozawaski.com/pdf/gelandemap2025-26_en.pdf
-- label: Nozawa Onsen Ticket Prices 2025-2026
-  url: https://en.nozawaski.com/the-mountain/lift-ticket/ticket-prices/
-- label: Nozawa Onsen Family Slopes
-  url: https://en.nozawaski.com/the-mountain/mountain-facilities/family-slopes/
-- label: Nozawa Onsen Weathernews
-  url: https://weathernews.jp/ski/spot/34801/
-- label: Nozawa Onsen Skyline Course Video
-  url: https://www.youtube.com/watch?v=ZGXV1RLRfDE
-  note: 影片說明欄提供やまびこ E、SKYLINE、KAMOSHIKA、KARASAWA、USAGI、KITSUNE、NAGASAKA、TANUKI 等雪道章節時間軸。
-- label: Nozawa Onsen Long Run Course Video
-  url: https://www.youtube.com/watch?v=PS5A2fQd8b4
-  note: 影片說明欄提供 Yamabiko D、Yamabiko E、Kokenashi A、Uenotaira、Paradise、Rinkan 等雪道章節時間軸。
 ---
 
 野澤溫泉是長野縣的大型雪場，共有 44 條雪道，搭配 15 座纜車。雪道如 7 KOKENASHI-B、8 UENOTAIRA，初級、中級與上級路線都有配置，標籤偏向溫泉停留、夜滑。

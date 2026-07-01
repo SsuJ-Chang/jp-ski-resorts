@@ -131,11 +131,6 @@ terrainSummary:
   advanced: 高級雪道約 20%，提供地形起伏與較有挑戰性的坡面。
   snowboard: 雪板可全區滑行。
   powder: 山頂區域主打天然雪與粉雪感受。
-sources:
-- label: Hida Nagareha Official
-  url: https://hida-nagareha.com/
-- label: Weathernews ひだ流葉
-  url: https://weathernews.jp/ski/spot/35201/
 ---
 
 飛驒流葉位於岐阜縣，是中小型雪場，共有7 條雪道，搭配 6 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向親子同行、溫泉停留。

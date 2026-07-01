@@ -87,13 +87,6 @@ terrainSummary:
   advanced: 進階路線包含 A コース、ダイナミックコース、荒山コース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
   powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
-sources:
-- label: Snow Park Oze Tokura Official
-  url: https://www.ozetokura.co.jp/
-- label: Snow Park Oze Tokura Course Info
-  url: https://www.ozetokura.co.jp/pages/cource
-- label: スノーパーク尾瀬戸倉 Weathernews
-  url: https://weathernews.jp/ski/spot/34208/
 contact:
   address:
     zhTw: 群馬縣利根郡片品村戸倉329

@@ -78,11 +78,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Snow Park Dorogawa Official Website"
-    url: "https://zaisanku.weebly.com/spd.html"
-  - label: "Weathernews スノーパーク洞川"
-    url: "https://weathernews.jp/ski/spot/36502/"
 ---
 
 Snow Park 洞川位於奈良縣，共有2 條雪道、2 座纜車，整體配置偏向入門到中緩坡，適合先把基本節奏穩下來。主雪道多半以寬度與可控坡度取向為主，不必一開始就進到太緊繃的節奏。若同行者有新手、親子或第一次安排日本雪場的人，這種規模反而更容易掌握。

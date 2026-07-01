@@ -140,11 +140,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Mount Racey Ski Resort Official Website"
-    url: "https://yubari-resort.co.jp/"
-  - label: "Weathernews マウントレースイスキーリゾート"
-    url: "https://weathernews.jp/ski/spot/31608/"
 ---
 
 Mount Racey位於北海道，以18 條雪道構成中型雪場，搭配 3 座纜車。上級路線比例明顯，坡面變化較多，描述聚焦在雪道規模與難度結構；標籤上偏向親子同行、溫泉停留。

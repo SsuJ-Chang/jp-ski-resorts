@@ -97,11 +97,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Zao Sarukura Ski Area Official Website"
-    url: "http://www.zao-sarukura.co.jp"
-  - label: "Weathernews 蔵王猿倉スキー場"
-    url: "https://weathernews.jp/ski/spot/33519/"
 ---
 
 藏王猿倉位在山形縣，雪道數為5 條，搭配 2 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向親子同行、溫泉停留。

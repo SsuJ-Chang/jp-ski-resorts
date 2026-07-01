@@ -195,15 +195,6 @@ externalContent:
   - title: 【日本中部】EP3名古屋自由行｜滑雪價格｜租裝備價格｜西日本最大雪場🗻｜高鷲滑雪場⛷｜Dynaland Snow Park❄️｜自學單板🏂｜ホテルヴィラモンサン飯店｜Action3📸｜
     url: https://www.youtube.com/watch?v=v3e3Bgtegqc
     note: 和Ivy去旅行
-sources:
-- label: Takasu Snow Park Course Introduction
-  url: https://www.takasu.gr.jp/gelande/
-- label: TAKASU MOUNTAINS Ski Area
-  url: https://www.takasumountains.com/ski/
-- label: TAKASU MOUNTAINS Lift Fee
-  url: https://www.takasumountains.com/lift/
-- label: Takasu Snow Park Access
-  url: https://www.takasu.gr.jp/access/
 ---
 
 高鷲 Snow Park位於岐阜縣，以13 條雪道形成中型雪場規模，搭配 4 座纜車。主要路線有 バンブーコース / Bamboo Course、ビギナーズコース / Beginners Course、ダイヤモンドコース / Diamond Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

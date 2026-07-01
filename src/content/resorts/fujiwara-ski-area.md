@@ -108,13 +108,6 @@ terrainSummary:
   advanced: 進階路線包含 チャレンジ林間、チャレンジ、觔斗雲，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
   powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
-sources:
-- label: Fujiwara Ski Area Official
-  url: https://fujiwaraski.com/
-- label: Fujiwara Ski Area Course Info
-  url: https://fujiwaraski.com/cource/
-- label: 水上高原・奥利根温泉 藤原スキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/34227/
 skiArea: minakami
 contact:
   address:

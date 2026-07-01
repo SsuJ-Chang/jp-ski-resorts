@@ -99,11 +99,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Dynasty Ski Resort Official Website"
-    url: "http://www.dynasty-resort.jp/"
-  - label: "Weathernews ダイナスティスキーリゾート"
-    url: "https://weathernews.jp/ski/spot/31416/"
 ---
 
 Dynasty Ski Resort在北海道提供5 條雪道，搭配 3 座纜車。以初級與中級路線為主，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

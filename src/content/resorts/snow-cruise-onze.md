@@ -111,11 +111,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Snow Cruise Onze Official Website"
-    url: "https://onze.jp/"
-  - label: "Weathernews スノークルーズオーンズ"
-    url: "https://weathernews.jp/ski/spot/31616/"
 ---
 
 北海道的Snow Cruise Onze以8 條雪道，搭配 2 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。

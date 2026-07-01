@@ -87,11 +87,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Obira Boyodai Ski Area Official Website"
-    url: "http://www.town.obira.hokkaido.jp/kanko/detail/00001389.html"
-  - label: "Weathernews 小平町望洋台スキー場"
-    url: "https://weathernews.jp/ski/spot/31309/"
 ---
 
 小平町望洋台位於北海道，共有4 條雪道、1 座纜車，白天可先把主要雪道滑順，晚上再接燈光雪面延長時段。主雪道配置偏向好上手路線，夜滑時段則補足短天數行程的滑行量。若想把練習、夜滑和地方停留排在同一天，這種地方型雪場會比單純趕場更順。

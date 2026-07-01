@@ -90,11 +90,6 @@ terrainSummary:
   intermediate: 中級雪道占 30%，適合已能穩定轉彎的滑雪者參考。
   advanced: 上級雪道占 50%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
-sources:
-- label: たいらスキー場 Official
-  url: https://www1.tst.ne.jp/
-- label: Weathernews たいらスキー場
-  url: https://weathernews.jp/ski/spot/35504/
 ---
 
 富山縣的Taira整理為 5 條雪道，搭配 4 座纜車。上級路線比例明顯，坡面變化較多，描述保持在已確認的滑行配置，標籤偏向雙板與單板。

@@ -250,15 +250,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "夏油高原スキー場 Official Website"
-    url: "https://www.getokogen.com/winter/"
-  - label: "夏油高原スキー場 Access"
-    url: "https://www.getokogen.com/winter/05access/index.html"
-  - label: "Weathernews 夏油高原スキー場"
-    url: "https://weathernews.jp/ski/spot/33315/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 夏油高原位於岩手縣內陸山區，以厚實積雪、長雪季與樹林地形聞名。滑行節奏不只在壓雪面，也能感受降雪後的立體雪面與自然地形變化；集中的基地動線讓一日滑行更俐落，適合喜歡粉雪、樹林滑行氣氛與深雪探索感的人。

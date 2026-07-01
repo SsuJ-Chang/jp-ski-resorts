@@ -86,11 +86,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Wakkanai Komadori Ski Area Official Website"
-    url: "http://w-shinko.co.jp/komadori-ski/"
-  - label: "Weathernews 稚内市こまどりスキー場"
-    url: "https://weathernews.jp/ski/spot/31106/"
 ---
 
 稚內市 Komadori在北海道提供3 條雪道，搭配 1 座纜車。雪道配置偏初級，練習門檻較低，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

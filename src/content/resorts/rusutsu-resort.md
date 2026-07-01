@@ -317,13 +317,6 @@ externalContent:
   - title: 2024滑雪還行嗎？ | 留壽都 Vale Rusutsu 2024 acepro | 留壽都滑雪day 01
     url: https://www.youtube.com/watch?v=ToRW8ZCl4h8
     note: 大林滑雪男子
-sources:
-- label: ルスツリゾート Official
-  url: https://rusutsu.com/rusutsu-in-winter/
-- label: Weathernews ルスツリゾート
-  url: https://weathernews.jp/ski/spot/31601/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 留壽都 Resort 位於北海道，東山、西山與 Isola 三區讓同一天能排出完全不同的滑行節奏。它的強項不只是雪道數多，而是長距離巡航、林間視野與住宿型動線可以自然接在一起。

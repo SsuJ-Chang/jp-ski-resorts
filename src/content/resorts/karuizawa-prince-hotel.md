@@ -158,16 +158,6 @@ externalContent:
   - title: "帶你玩轉輕井澤滑雪場：超詳細攻略！31度黑線雪道多可怕？哪些APP值得一試？雪質真的很硬嗎？"
     url: https://www.youtube.com/watch?v=vMWhSBRttyg
     note: LeoTW沈浸滑雪
-sources:
-- label: Karuizawa Prince Hotel Ski Resort Official Website
-  url: https://www.princehotels.co.jp/ski/karuizawa/winter/
-- label: Karuizawa Prince Hotel Ski Resort Weathernews
-  url: https://weathernews.jp/ski/spot/34813/
-- label: Karuizawa Prince Hotel Course Video 2023
-  url: https://www.youtube.com/watch?v=lo0WjW7zm5Y
-  note: 影片說明欄提供スカイライン、ファミリー、林間、プリンスゲレンデ、パノラマ、パラレル、トップクルーズ、スラロームバーン、フリーバレー、アリエスカR・L、くりの木等雪道章節時間軸，已對應至 courses.details[].videoLinks。
-- label: Karuizawa Prince Hotel Course Video 2024
-  url: https://www.youtube.com/watch?v=HETq7UoqHNg
 ---
 
 長野縣的輕井澤王子大飯店共有14 條雪道，搭配 8 座纜車，包含 ファミリーコース / Family Course、プリンスゲレンデ / Prince Slope、トップクルーズ / Top Cruise 等路線。初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

@@ -89,13 +89,6 @@ terrainSummary:
   beginner: 下段 500m 是中央區域核心的初級斜面。
   intermediate: 上段含未壓雪與饅頭地形，難度比下段高。
   snowboard: 可銜接多個中央區域雪場，適合移動型滑行。
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
 ---
 
 志賀高原高天原 Mammoth 位於長野縣，特色是寬面主雪道與區域中心位置，滑行安排很直覺。它適合放在志賀高原多日行程的中段，拿來做穩定巡航、重新調整節奏，或銜接周邊區域。

@@ -93,11 +93,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Memuro Ski Area Official Website"
-    url: "https://www.memuro.net/administration/soshiki/miryoku/shin-arashiyama/2025-1112-1623-114.html"
-  - label: "Weathernews メムロスキー場"
-    url: "https://weathernews.jp/ski/spot/32001/"
 ---
 
 北海道的Memuro以4 條雪道，搭配 3 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、雙板與單板。

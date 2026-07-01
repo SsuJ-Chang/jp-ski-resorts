@@ -103,11 +103,6 @@ externalContent:
     - title: "日本自駕滑雪Vlog 4~ 擁有巨大樹冰群+粉雪的滑雪場～Liza World ,日本公路道之驛有多好買？"
       url: https://www.youtube.com/watch?v=du11n7dYD_0
       note: "艾維斯52赫茲"
-sources:
-  - label: "Zao Liza World Official Website"
-    url: "http://www.zaoliza.co.jp/wntr/"
-  - label: "Weathernews 蔵王ライザワールド"
-    url: "https://weathernews.jp/ski/spot/33504/"
 ---
 
 藏王 Liza World位於山形縣，重點不在刺激挑戰，而是讓同行者用舒服節奏熟悉雪地活動。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合不只想滑雪，也想把身體放鬆與地方氛圍一起安排的人。也適合把雪地遊玩、練習與休息時間安排得更從容。

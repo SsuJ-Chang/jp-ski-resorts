@@ -133,11 +133,6 @@ terrainSummary:
   beginner: 初級雪道約 20%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 70%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 10%，可安排較有坡度與速度感的滑行。
-sources:
-- label: Tainai Ski Area Official Website
-  url: http://www.tainai.info/
-- label: Tainai Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/35481/
 ---
 
 胎內位於新潟縣，共有13 條雪道、7 座纜車，整體配置偏向入門到中緩坡，適合先把基本節奏穩下來。主雪道多半以寬度與可控坡度取向為主，不必一開始就進到太緊繃的節奏。若同行者有新手、親子或第一次安排日本雪場的人，這種規模反而更容易掌握。

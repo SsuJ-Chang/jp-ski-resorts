@@ -86,13 +86,6 @@ terrainSummary:
   intermediate: 中級雪道占 50%，適合已能穩定轉彎的滑雪者參考。
   advanced: 上級雪道占 25%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
-sources:
-- label: 牛岳温泉スキー場 Official
-  url: https://ushidake.com/
-- label: 牛岳温泉スキー場 Access
-  url: https://ushidake.com/ski/access/
-- label: Weathernews 牛岳温泉スキー場
-  url: https://weathernews.jp/ski/spot/35501/
 ---
 
 牛岳溫泉是富山縣的小型雪場，整理為3 條雪道，搭配 3 座纜車。雪道如 東コース、正面コース、西コース，初級、中級與上級路線都有配置；標籤上偏向夜滑、溫泉停留。

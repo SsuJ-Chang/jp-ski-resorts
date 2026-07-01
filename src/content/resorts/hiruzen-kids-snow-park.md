@@ -48,11 +48,6 @@ courses:
     note: 為兒童 Snow Park，主要供親子雪上遊樂與入門體驗。
 terrainSummary:
   beginner: 初級雪道以 有料エリア入場雪遊びゾーン 為主，適合練習速度控制與穩定轉彎。
-sources:
-- label: Hiruzen Kids Snow Park Official
-  url: https://www.qkamura.or.jp/hiruzen/
-- label: ひるぜんキッズスノーパーク Weathernews
-  url: https://weathernews.jp/ski/spot/36604/
 contact:
   address:
     zhTw: 岡山縣真庭市蒜山上福田1205-281

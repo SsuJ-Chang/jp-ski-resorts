@@ -292,18 +292,6 @@ terrainSummary:
   intermediate: 中級約 35%，適合在主雪道巡航與移動。
   advanced: 上級約 35%，公開資料強調粉雪與 tree run 是斑尾高原特色。
   powder: 斑尾高原有豐富積雪與 madapow 粉雪特色。
-sources:
-- label: Madarao Mountain Resort Official Website
-  url: https://www.madarao.jp/ski
-- label: Weathernews 斑尾高原スキー場
-  url: https://weathernews.jp/ski/spot/34805/
-- label: Weathernews 中部人氣排名
-  url: https://weathernews.jp/ski/area/chubu/ranking.html
-- label: Madarao Mountain Resort Access
-  url: https://www.madarao.jp/ski/access
-- label: Madarao Mountain Resort Course Video 2024
-  url: https://www.youtube.com/watch?v=6h1wSC_fbRA
-  note: 影片說明欄提供パラダイス、チャンピオン、白樺、ジャイアント、カービング、トラバース、オーシャンビュー、クリスタル、ワールドカップ、アドベンチャーアイル、パウダーライン、スカイラブ等雪道章節時間軸。
 ---
 
 長野縣的斑尾高原共有32 條雪道，搭配 10 座纜車，包含 初心者Aコース、初心者Bコース、ユートピア 等路線。初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。

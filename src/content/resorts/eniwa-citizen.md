@@ -109,21 +109,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Eniwa Citizen Ski Area Official Website
-  url: https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/hokenhukushibu/kenkosportska/supotsu/2/7966.html
-  note: 提供 2025-2026 開設期間、營業時間、夜滑日程、聯絡方式與料金 PDF。
-- label: Eniwa Citizen Ski Area Lift Ticket Fees
-  url: https://www.city.eniwa.hokkaido.jp/material/files/group/29/R07ryokin.pdf
-  note: 令和 7 年度料金表提供 1 回券、回数券、1 日券、4 小時券、夜滑券、親子票與季票價格。
-- label: Snoway 恵庭市民スキー場
-  url: https://snoway.jp/gelande/10202/
-  note: 提供總雪道數、最大斜度與纜車數等彙整資料。
-- label: SURF&SNOW 恵庭市民スキー場
-  url: https://surfsnow.jp/guide/htm/r0661s.htm
-  note: 提供初中級取向、平均斜度、難度比例與 2025/26 營業資訊。
-- label: Weathernews 恵庭市民スキー場
-  url: https://weathernews.jp/ski/spot/31621/
 ---
 
 北海道的惠庭市民共有 2 條雪道，搭配 1 座纜車，包含 初級者向けコース、中級者向けコース 等路線；雪道配置偏初級，練習門檻較低，標籤偏向夜滑。

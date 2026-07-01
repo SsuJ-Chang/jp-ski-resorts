@@ -309,27 +309,6 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP2 白馬五龍&47滑雪場🗻｜白馬阿爾卑斯酒店🏨｜租雪具1000日幣🏂｜自學滑雪全紀錄❄️｜成吉思汗烤羊肉🐑｜單日來回兩個雪場｜日本雪場開箱｜🚌
     url: https://www.youtube.com/watch?v=TgPjyzJeDnE
     note: 和Ivy去旅行
-sources:
-- label: Hakuba Goryu Official Website
-  url: https://www.hakubaescal.com/winter/
-- label: Hakuba Goryu Course Guide
-  url: https://www.hakubaescal.com/winter/gelande/course/
-- label: Hakuba47 Mountain Info
-  url: https://www.hakuba47.co.jp/winter/en/mountain/mountain_info/
-- label: Hakuba Goryu Lift Tickets 2025-26
-  url: https://www.hakubaescal.com/winter/tickets/lift/
-- label: Hakuba Goryu Access
-  url: https://www.hakubaescal.com/winter/access/
-- label: Hakuba Goryu Course Video
-  url: https://www.youtube.com/watch?v=cBoeR4oKjUE
-- label: Hakuba Goryu Weathernews
-  url: https://weathernews.jp/ski/spot/34811/
-- label: Hakuba Goryu and Hakuba47 Course Video 2024
-  url: https://www.youtube.com/watch?v=EuUdXoyB2mo
-  note: 影片說明欄提供白馬五龍 Technical、Grand Prix、Champion Dynamic、Toomi，以及 Hakuba47 部分雪道章節時間軸。
-- label: Hakuba Goryu and Hakuba47 Course Video 2022
-  url: https://www.youtube.com/watch?v=3e-zXtiQFwU
-  note: 影片說明欄提供白馬五龍 Grand Prix、Toomi，以及 Hakuba47 Route 1、snow park 章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 白馬五龍位於長野縣白馬山麓，Toomi、Alps 與 Iimori 三區分工明確，從入門緩坡到上部主線都很好安排。若你想把長距離巡航、基礎練習與和 47 的區域串聯放在同一天，它會是很有效率的一站。

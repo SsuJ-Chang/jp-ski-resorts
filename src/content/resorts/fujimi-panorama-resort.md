@@ -121,15 +121,6 @@ terrainSummary:
   intermediate: 中級約 40%，可搭配箱型纜車路線安排較長滑行。
   advanced: 上級約 30%，可在有限雪道數中安排進階練習。
   snowboard: 雪板可全區滑行。
-sources:
-- label: Fujimi Panorama Resort Official Website
-  url: https://www.fujimipanorama.com
-- label: Weathernews 富士見パノラマリゾート
-  url: https://weathernews.jp/ski/spot/34836/
-- label: Weathernews 中部人氣排名
-  url: https://weathernews.jp/ski/area/chubu/ranking.html
-- label: Fujimi Panorama Resort Access
-  url: https://www.fujimipanorama.com/snow/access/
 ---
 
 富士見 Panorama Resort是長野縣的中小型雪場，整理為7 條雪道，搭配 6 座纜車。雪道如 ファミリーゲレンデ、センターゲレンデ、コナシゲレンデ，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

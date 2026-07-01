@@ -102,13 +102,6 @@ terrainSummary:
   intermediate: 中級者可用 センターコース、スクランブル A、プロムナードコース、テクニカルコース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 ダイナミックコース、チャレンジコース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Edelweiss Ski Resort Official
-  url: https://edelsnow.com/
-- label: Edelweiss Ski Resort Course Info
-  url: https://edelsnow.com/information/coursemap.php
-- label: エーデルワイススキーリゾート Weathernews
-  url: https://weathernews.jp/ski/spot/34105/
 contact:
   address:
     zhTw: 栃木縣日光市川治温泉高原鶏頂山

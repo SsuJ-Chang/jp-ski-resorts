@@ -284,30 +284,6 @@ externalContent:
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
     note: MIRU tube JAPAN 【Route Guide】
-sources:
-- label: GALA Yuzawa Snow Resort Official Website
-  url: https://gala.co.jp/winter/
-- label: GALA Yuzawa Snow Resort Course Map / Specs
-  url: https://gala.co.jp/winter/gelande/
-- label: GALA Yuzawa Snow Resort Course Details
-  url: https://gala.co.jp/winter/course/
-- label: GALA Yuzawa Snow Resort Ticket / Hours
-  url: https://gala.co.jp/winter/charges/
-- label: GALA Yuzawa Snow Resort Access
-  url: https://gala.co.jp/winter/access/
-- label: Weathernews GALA Yuzawa
-  url: https://weathernews.jp/ski/spot/35430/
-- label: GALA Yuzawa course video
-  url: https://www.youtube.com/watch?v=IaD2DEbzV9o
-- label: GALA Yuzawa Route Guide Video 2024
-  url: https://www.youtube.com/watch?v=n9uTg14y_2A
-  note: 影片說明欄提供エンターテイメント、ジジ、グルノーブル、エーデルワイス、イライザ、260万ダラー、ブロードウェイ、スワン、ジョアンナ等雪道章節時間軸；ファルコン下山與連絡 ropeway 章節未對應。
-- label: GALA Yuzawa Course Video 2023
-  url: https://www.youtube.com/watch?v=U72zlDHe2F8
-  note: 影片說明欄提供グルノーブル、ジジ、エンターテインメント、エーデルワイス、イライザ、ブロードウェイ、スワン、ジョアンナ、下山コース等雪道章節時間軸，已對應至 courses.details[].videoLinks。
-- label: GALA Yuzawa 2022 Course Video
-  url: https://www.youtube.com/watch?v=vxT0r069KSE
-  note: 影片說明欄提供グルノーブル、エンターテイメント、スワン、ファルコン、ブロードウェイ、ジョアンナ、ジジ、エーデルワイス、イライザ、ローマンホリデー等雪道章節時間軸。
 ---
 
 GALA湯澤是新潟縣的中型雪場，整理為16 條雪道，搭配 11 座纜車。雪道如 C1 メロディ / Melody、C2 エーデルワイス / Edelweiss、N1 スワン / Swan，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

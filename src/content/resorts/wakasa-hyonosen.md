@@ -76,11 +76,6 @@ terrainSummary:
   intermediate: 中級者可用 アルパインコース、パノラマコース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 イヌワシコース、チャレンジコース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Wakasa Hyounosen Ski Area Official
-  url: http://www.hyounosen.or.jp/ski/index.html
-- label: わかさ氷ノ山スキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/36805/
 contact:
   address:
     zhTw: 鳥取縣八頭郡若桜町舂米

@@ -150,11 +150,6 @@ terrainSummary:
   intermediate: 中級雪道約 35%，適合銜接不同坡面。
   advanced: 高級雪道約 35%，進階比例較高。
   snowboard: 雪板可全區滑行。
-sources:
-- label: Hida Hounokidaira Official
-  url: http://hounoki-daira.com/
-- label: Weathernews 飛騨ほおのき平
-  url: https://weathernews.jp/ski/spot/35207/
 ---
 
 飛驒 Hounokidaira位於岐阜縣，以17 條雪道構成中型雪場，搭配 4 座纜車。初級、中級與上級路線都有配置，描述聚焦在雪道規模與難度結構；標籤上偏向雙板與單板。

@@ -168,13 +168,6 @@ externalContent:
   - title: "【北海道滑雪】上・Kiroro 札幌國際｜粉雪爆擊 陷入JAPOW出不來｜小樽海景第一排獨棟開箱｜手稻神社 滑雪御守｜25-26雪季"
     url: "https://www.youtube.com/watch?v=o598DlcplMk"
     note: "Hey! fudeze 福蝶賊"
-sources:
-- label: キロロスノーワールド Official
-  url: http://www.kiroro.co.jp/
-- label: Weathernews キロロスノーワールド
-  url: https://weathernews.jp/ski/spot/31609/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 Kiroro Snow World 是北海道的大型雪場，共有 23 條雪道，搭配 9 座纜車。雪道如 Family Course、Center Link，初級、中級與上級路線都有配置，標籤偏向夜滑、雙板與單板。

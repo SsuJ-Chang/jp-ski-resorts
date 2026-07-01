@@ -93,11 +93,6 @@ terrainSummary:
   beginner: 初級雪道約 50%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 30%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
-sources:
-- label: Tokamachi Matsudai Family Ski Area Official Website
-  url: https://ski.matsudai.jp/
-- label: Tokamachi Matsudai Family Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/35491/
 ---
 
 十日町市松代 Family位在新潟縣，雪道數為3 條，搭配 2 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。

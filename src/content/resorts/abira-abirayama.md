@@ -135,12 +135,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Abira Abirayama Ski Area Official Website
-  url: https://www.town.abira.lg.jp/midokoro/shisetsu/sport/149
-  note: 提供雪道名稱、營業時間、纜車票價、租借與交通資訊。
-- label: Weathernews 安平町安平山スキー場
-  url: https://weathernews.jp/ski/spot/31801/
 ---
 
 安平町安平山位於北海道安平町，1 座纜車連結初級、林間、中級與上級路線，旁邊也有雪橇區。整體規模不大，但難度層次完整，適合家庭同行時讓不同程度的人各自找到練習節奏。

@@ -147,13 +147,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Katashina Kogen Official
-  url: https://www.katashinakogen.co.jp/
-- label: Katashina Kogen Winter Info
-  url: https://katashinakogen.co.jp/winter/
-- label: かたしな高原 Weathernews
-  url: https://weathernews.jp/ski/spot/34229/
 ---
 
 片品高原位於群馬縣，是中型雪場，共有11 條雪道，搭配 6 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、親子同行。

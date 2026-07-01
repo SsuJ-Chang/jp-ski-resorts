@@ -118,11 +118,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Jeunesse Kurikoma Ski Area Official Website"
-    url: "https://www.jeunesse-ski.com"
-  - label: "Weathernews ジュネス栗駒"
-    url: "https://weathernews.jp/ski/spot/33209/"
 ---
 
 Jeunesse 栗駒位於秋田縣，是中型雪場，共有12 條雪道，搭配 3 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向親子同行、溫泉停留。

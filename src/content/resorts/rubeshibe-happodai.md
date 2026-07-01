@@ -92,9 +92,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Weathernews 留辺蘂町八方台スキー場"
-    url: "https://weathernews.jp/ski/spot/31705/"
 ---
 
 留邊蘂町八方台位於北海道，以3 條雪道構成小型雪場，搭配 1 座纜車。初級、中級與上級路線都有配置，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、親子同行。

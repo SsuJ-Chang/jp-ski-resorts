@@ -104,11 +104,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Hiraniwa Kogen Official Website"
-    url: "https://hiraniwa.com/"
-  - label: "Weathernews 平庭高原スキー場"
-    url: "https://weathernews.jp/ski/spot/33321/"
 ---
 
 平庭高原位於岩手縣，是中小型雪場，共有10 條雪道，搭配 3 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、雙板與單板。

@@ -89,11 +89,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Ishikari Heigen Ski Area Official Website"
-    url: "https://www.ishikari-heigen-ski.net/liftticket"
-  - label: "Weathernews 石狩平原スキー場"
-    url: "https://weathernews.jp/ski/spot/31414/"
 ---
 
 北海道的石狩平原以3 條雪道，搭配 2 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向親子同行、夜滑。

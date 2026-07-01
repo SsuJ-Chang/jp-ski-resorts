@@ -134,15 +134,6 @@ externalContent:
   - title: 【日本自由行】EP2 熊之湯滑雪場❄️志賀高原最長距離！熊之湯滑到橫手山⛄一之瀨到熊之湯！雪道、山景全紀錄！交通攻略！長電巴士！
     url: https://www.youtube.com/watch?v=cac22zGaG9c
     note: 和Ivy去旅行
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Kumanoyu Official
-  url: https://www.kumanoyu.co.jp/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
 ---
 
 熊之湯位於長野縣志賀高原，坡面密實、視野開闊，滑起來比一般入門雪場更有高山感。若你在志賀高原想安排一站偏技術練習、同時又保有冷雪手感的區域，熊之湯很有辨識度。

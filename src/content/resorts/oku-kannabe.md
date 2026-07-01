@@ -79,13 +79,6 @@ terrainSummary:
   advanced: 進階路線包含 栃の木コース、スーパーゲレンデ、オフピステエリア，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
   powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
-sources:
-- label: Oku Kannabe Ski Area Official
-  url: https://okukan.com/
-- label: Oku Kannabe Ski Area Course Info
-  url: https://okukan.com/gelande/
-- label: 奥神鍋 Weathernews
-  url: https://weathernews.jp/ski/spot/36302/
 contact:
   address:
     zhTw: 兵庫縣豐岡市日高町山田710

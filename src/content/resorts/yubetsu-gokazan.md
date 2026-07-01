@@ -94,11 +94,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Yubetsu Gokazan Ski Area Official Website"
-    url: "https://www.town.yubetsu.lg.jp/administration/culture/detail.html?content=271"
-  - label: "Weathernews 湧別町五鹿山スキー場"
-    url: "https://weathernews.jp/ski/spot/31712/"
 ---
 
 湧別町五鹿山位於北海道，是小型雪場，共有4 條雪道，搭配 1 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、夜滑。

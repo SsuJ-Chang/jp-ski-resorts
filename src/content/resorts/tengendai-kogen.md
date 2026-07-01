@@ -99,15 +99,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "天元台高原 Official Website"
-    url: "https://www.tengendai.jp"
-  - label: "天元台高原 Access"
-    url: "https://www.tengendai.jp/access"
-  - label: "Weathernews 天元台高原"
-    url: "https://weathernews.jp/ski/spot/33506/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 天元台高原位於山形縣，是中小型雪場，共有7 條雪道，搭配 3 座纜車。代表路線包含 しらかばゲレンデ、つがもりゲレンデ、しゃくなげゲレンデ，初級、中級與上級路線都有配置；標籤上偏向溫泉停留、雙板與單板。

@@ -112,11 +112,6 @@ terrainSummary:
   intermediate: 中級雪道約 40%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Pilatus Tateshina Snow Resort Official Website
-  url: https://www.pilatus.jp/
-- label: Pilatus Tateshina Snow Resort Weathernews
-  url: https://weathernews.jp/ski/spot/34835/
 ---
 
 Pilatus 蓼科 Snow Resort在長野縣提供7 條雪道，搭配 3 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向雙板與單板。

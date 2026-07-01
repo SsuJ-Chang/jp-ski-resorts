@@ -322,19 +322,6 @@ externalContent:
   - title: 北海道雪山受困全紀錄- 神居滑雪場受困 Kamui snowboarding
     url: https://www.youtube.com/watch?v=1FsV-Tefrsg
     note: 大林滑雪男子
-sources:
-- label: Kamui Ski Links Official Website
-  url: https://www.kamui-skilinks.com/
-- label: Kamui Ski Links 纜車 Ticket 2025-2026
-  url: https://www.kamui-skilinks.com/guide/
-- label: Kamui Ski Links Course Information
-  url: https://www.kamui-skilinks.com/today/#coursemap
-- label: Kamui Ski Links Access
-  url: https://www.kamui-skilinks.com/accsess/
-- label: Kamui Ski Links Course Map PDF
-  url: https://www.kamui-skilinks.com/pdf_data/coursemap2024.pdf
-- label: Kamui Ski Links Weathernews
-  url: https://weathernews.jp/ski/spot/31203/
 ---
 
 神居位於北海道，是大型雪場，共有 26 條雪道，搭配 6 座纜車。代表路線包含 ちびっこ、レッスン，初級、中級與上級路線都有配置，標籤偏向初學者練習、親子同行。

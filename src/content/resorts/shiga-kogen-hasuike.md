@@ -93,13 +93,6 @@ terrainSummary:
   beginner: B Course 與 Junior Course 可做短距離基本練習。
   intermediate: A Course 可銜接 Giant，適合開始區域移動的人。
   snowboard: 緩坡適合雪板初期練習，但需留意短距離銜接動線。
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
 ---
 
 志賀高原蓮池在長野縣提供3 條雪道，搭配 1 座纜車。路線包含 Hasuike B Course、Hasuike A Course、Hasuike Junior Course，整體以初級與中級路線為主；標籤上偏向初學者練習。

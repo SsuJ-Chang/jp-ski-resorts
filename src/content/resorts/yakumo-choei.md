@@ -81,11 +81,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Yakumo Municipal Ski Area Official Website"
-    url: "https://www.town.yakumo.lg.jp/soshiki/taiiku/yakumo-ski.html"
-  - label: "Weathernews 八雲町営スキー場"
-    url: "https://weathernews.jp/ski/spot/32304/"
 ---
 
 八雲町營位在北海道，雪道數為3 條，搭配 1 座纜車。僅保留已確認的規模與路線配置，這裡先呈現已整理的滑行配置；標籤上偏向雙板與單板。

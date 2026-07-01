@@ -160,13 +160,6 @@ externalContent:
   - title: 【スキー場ガイド】スキージャム勝山　北陸のリゾート
     url: https://www.youtube.com/watch?v=mnuHy1HAL3o
     note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
-sources:
-- label: JAM福井勝山マウンテンリゾート Official
-  url: https://jamresort.jp/
-- label: JAM福井勝山マウンテンリゾート Access
-  url: https://jamresort.jp/access/
-- label: Weathernews スキージャム勝山
-  url: https://weathernews.jp/ski/spot/35707/
 ---
 
 Ski Jam 勝山位於福井縣，是中型雪場，共有14 條雪道，搭配 8 座纜車。代表路線包含 林道コース、ドリーミーコース、バラエティコース，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

@@ -102,17 +102,6 @@ terrainSummary:
   intermediate: 中級雪道占 40%，適合已能穩定轉彎的滑雪者參考。
   advanced: 上級雪道占 30%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
-sources:
-- label: 福井和泉スキー場 Official
-  url: https://fukuiizumi.com/
-- label: 福井和泉スキー場 ゲレンデマップ
-  url: https://fukuiizumi.com/gerendemap/
-- label: 福井和泉スキー場 Access
-  url: https://fukuiizumi.com/access/
-- label: 福井和泉スキー場 Bus Tour
-  url: https://fukuiizumi.com/bustour/
-- label: Weathernews 福井和泉スキー場
-  url: https://weathernews.jp/ski/spot/35706/
 ---
 
 福井和泉位於福井縣，以6 條雪道形成中小型雪場規模，搭配 2 座纜車。主要路線有 Paradise C / パラダイスC、Paradise B / パラダイスB、Paradise A / パラダイスA，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

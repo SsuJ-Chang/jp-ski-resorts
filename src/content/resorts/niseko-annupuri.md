@@ -200,17 +200,6 @@ externalContent:
   - title: "二世古Annupuri新手初訪絕不能錯過｜明確分區簡單理解Village二世古村｜6種單人滑雪拍攝方式超真實心得分享｜Niseko EP3"
     url: https://www.youtube.com/watch?v=A539suY39dc
     note: LeoTW沈浸滑雪
-sources:
-- label: Weathernews ニセコアンヌプリ国際スキー場
-  url: https://weathernews.jp/ski/spot/31603/
-- label: Niseko United Annupuri Course Details
-  url: https://www.niseko.ne.jp/en/map/annupuri/
-- label: Niseko United Trail Map 2025-2026
-  url: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
-- label: Niseko United All Mountain Pass
-  url: https://www.niseko.ne.jp/en/lift/
-- label: Niseko United Access
-  url: https://www.niseko.ne.jp/en/niseko-access/
 ---
 
 二世谷 Annupuri在北海道提供13 條雪道，搭配 6 座纜車。路線包含 Paradise、Family、Junior，整體初級、中級與上級路線都有配置；標籤上偏向親子同行、夜滑。

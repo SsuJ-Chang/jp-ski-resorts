@@ -74,11 +74,6 @@ terrainSummary:
   intermediate: 中級者可用 乗鞍第2コース、大谷第2コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 大谷第1コース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Ohana Resort Official
-  url: https://ohana-shiga.com/
-- label: Ohana Resort (旧名称 国境高原スノーパーク) Weathernews
-  url: https://weathernews.jp/ski/spot/36006/
 contact:
   address:
     zhTw: 滋賀縣高島市マキノ町野口507

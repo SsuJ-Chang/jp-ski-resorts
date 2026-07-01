@@ -138,15 +138,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Aomori Spring Ski Resort Official Website"
-    url: "https://aomorispringski.com"
-  - label: "Weathernews 青森スプリング・スキーリゾート"
-    url: "https://weathernews.jp/ski/spot/33103/"
-  - label: "Aomori Spring Ski Trails"
-    url: "https://aomorispringski.com/ko/ski"
-    note: "提供雪道名稱、難度與長度資訊。"
-
 ---
 
 青森 Spring 位在青森縣，整理為 15 條雪道，搭配 5 座纜車。Panorama Course、Main Line, Skyline 可作為代表路線，初級、中級與上級路線都有配置，標籤偏向初學者練習、雙板與單板。

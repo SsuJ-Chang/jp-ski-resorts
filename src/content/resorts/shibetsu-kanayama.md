@@ -89,9 +89,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Weathernews 標津町営金山スキー場"
-    url: "https://weathernews.jp/ski/spot/32104/"
 ---
 
 北海道的標津町營金山以5 條雪道，搭配 2 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、溫泉停留。

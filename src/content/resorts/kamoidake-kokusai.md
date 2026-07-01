@@ -93,11 +93,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Kamoidake Kokusai Ski Area Official Website"
-    url: "https://www.kamoidake.co.jp/"
-  - label: "Weathernews かもい岳国際スキー場"
-    url: "https://weathernews.jp/ski/spot/31505/"
 ---
 
 北海道的Kamoidake 國際以3 條雪道，搭配 2 座纜車組成滑行區。上級路線比例明顯，坡面變化較多，適合拿來和同區雪場比較規模；標籤上偏向親子同行、溫泉停留。

@@ -163,15 +163,6 @@ externalContent:
   - title: 【日本自由行】EP4 奧志賀滑雪場❄️燒額山滑雪場！超好玩樹林道⛄雪道、山景全紀錄！❄️一之瀨出發一路滑到奧志賀⛄
     url: https://www.youtube.com/watch?v=QFbnFpx0FO0
     note: 和Ivy去旅行
-sources:
-- label: Okushiga Kogen Ski Info
-  url: https://okushigakogenresort.com/winter/ski/
-- label: Okushiga Kogen Trail Map PDF
-  url: https://okushigakogenresort.com/assets/document/okushiga_map_comp.pdf
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
 ---
 
 奧志賀高原位於志賀高原最深處，2025-2026 官方頁面列出 9 條主要雪道與 6 座纜車。和志賀高原中央區那些以大量初中級道取勝的區域相比，這裡更像是把長距離巡航、林間滑行與上級急斜面集中在同一區。

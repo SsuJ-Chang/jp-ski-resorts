@@ -234,17 +234,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Hodaigi Official Website
-  url: https://hodaigi.jp/
-- label: Hodaigi Gelande Guide
-  url: https://hodaigi.jp/gelande-guide/
-- label: Hodaigi Lift Price
-  url: https://hodaigi.jp/lift-price/
-- label: Hodaigi Access
-  url: https://hodaigi.jp/access/
-- label: Hodaigi Weathernews
-  url: https://weathernews.jp/ski/spot/34216/
 ---
 
 寶台樹位於群馬縣，以16 條雪道形成中型雪場規模，搭配 7 座纜車。主要路線有 第2連絡コース、第1連絡コース、第2西連絡コース，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

@@ -274,23 +274,6 @@ externalContent:
     url: https://natasha-traveler.tw/bandaisan-bus/
     note: 娜塔蝦的滑雪食旅手記
   vlogs: []
-sources:
-- label: NEKOMA Mountain Official Website
-  url: https://www.nekoma.co.jp/
-- label: NEKOMA Mountain Lift and Trail Guide
-  url: https://www.nekoma.co.jp/liftguide/
-- label: NEKOMA Mountain Lift Tickets
-  url: https://www.nekoma.co.jp/price/
-- label: NEKOMA Mountain Weathernews
-  url: https://weathernews.jp/ski/spot/33632/
-- label: Weathernews 東北のスキー場人気ランキング
-  url: https://weathernews.jp/ski/area/tohoku/ranking.html
-- label: NEKOMA Mountain South Area Course Video 2024
-  url: https://www.youtube.com/watch?v=d5Uc9bj0M94
-  note: 影片說明欄提供南區 Zunai、White Valley、Panorama Line、Peak、Frozen、Black Valley 等雪道章節時間軸。
-- label: NEKOMA Mountain North Area Course Video 2024
-  url: https://www.youtube.com/watch?v=flgiqIJr-fc
-  note: 影片說明欄提供北區 Forest1、Friendly、Forest3、Devil3、Devil1、Excite1、Excite2 等雪道章節時間軸。
 ---
 
 Necoma Mountain 位於福島縣磐梯雪區，南北面向帶來的雪況差異讓同一天行程能排出完全不同的滑感。你可以先在主雪道巡航，再把 park、林間感或積雪後的變化段落接進後半天。

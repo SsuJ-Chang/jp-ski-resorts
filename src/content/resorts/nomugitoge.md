@@ -126,11 +126,6 @@ terrainSummary:
   intermediate: 中級雪道約 40%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 30%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Shinshu Matsumoto Nomugitoge Ski Area Official Website
-  url: http://gakutoresort.jp
-- label: Shinshu Matsumoto Nomugitoge Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/34830/
 ---
 
 信州松本野麥峠位於長野縣，是中型雪場，共有12 條雪道，搭配 4 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向雙板與單板。

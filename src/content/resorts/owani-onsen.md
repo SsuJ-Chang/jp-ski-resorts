@@ -103,11 +103,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Owani Onsen Ski Resort Official Website"
-    url: "http://www.owani-ski.com/"
-  - label: "Weathernews 大鰐温泉スキー場"
-    url: "https://weathernews.jp/ski/spot/33101/"
 ---
 
 大鰐溫泉位在青森縣，雪道數為9 條，搭配 3 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、溫泉停留。

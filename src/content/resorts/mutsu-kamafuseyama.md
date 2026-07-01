@@ -85,13 +85,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Mutsu City Kamafuseyama Ski Resort Official Website"
-    url: "https://kamafuse-ski.mutsu-taikyo.jp/"
-  - label: "Mutsu City Kamafuseyama Ski Area"
-    url: "https://www.city.mutsu.lg.jp/bunka/sports/shisetsu/kamafuse/"
-  - label: "Weathernews むつ市釜臥山スキー場"
-    url: "https://weathernews.jp/ski/spot/33108/"
 ---
 
 陸奧市釜臥山位在青森縣，雪道數為3 條，搭配 2 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、夜滑。

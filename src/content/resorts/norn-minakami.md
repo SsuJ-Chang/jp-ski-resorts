@@ -171,17 +171,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Norn Minakami Official Website
-  url: https://www.norn.co.jp/winter/
-- label: Norn Minakami Gelande
-  url: https://www.norn.co.jp/winter/gerande/
-- label: Norn Minakami Lift Price
-  url: https://www.norn.co.jp/winter/lift/
-- label: Norn Minakami Access
-  url: https://www.norn.co.jp/winter/access/
-- label: Norn Minakami Weathernews
-  url: https://weathernews.jp/ski/spot/34211/
 ---
 
 Norn 水上是群馬縣的小型雪場，整理為5 條雪道，搭配 4 座纜車。雪道如 D コース、C コース、E コース，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

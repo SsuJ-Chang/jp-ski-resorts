@@ -239,15 +239,6 @@ externalContent:
     - title: 範例滑雪場 VLOG：一日滑行紀錄
       url: https://www.youtube.com/watch?v=example002
       note: 可放 YouTube 或其他影片平台連結。
-sources:
-  - label: Example Snow Resort Official Website
-    url: https://example.com/
-  - label: Example Snow Resort Ticket Page
-    url: https://example.com/tickets/
-  - label: Example Snow Resort Trail Map
-    url: https://example.com/trail-map-2025-2026.pdf
-  - label: Example Snow Resort Weathernews
-    url: https://weathernews.jp/ski/spot/00000/
 ---
 
 範例滑雪場位於日本中部山區，具有初學者友善的緩坡、中級者可巡航的長距離雪道，以及進階玩家可挑戰的非壓雪區。此段是 Markdown body，可作為雪場頁面的概要說明。

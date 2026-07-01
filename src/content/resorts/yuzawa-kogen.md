@@ -167,19 +167,6 @@ externalContent:
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
     note: MIRU tube JAPAN 【Route Guide】
-sources:
-- label: Yuzawa Kogen Ski Resort Official Website
-  url: https://www.yuzawakogen.com/winter/
-- label: Yuzawa Kogen Ski Resort Course / Trail Map
-  url: https://www.yuzawakogen.com/winter/gelaende/
-- label: Yuzawa Kogen Ski Resort Ticket
-  url: https://www.yuzawakogen.com/winter/tickets/
-- label: Yuzawa Kogen Route Guide Video 2024
-  url: https://www.youtube.com/watch?v=y3IIgAU46W8
-  note: 影片說明欄提供パノラマ、青いケシ、キスゲ、コスモス、スズラン、コマクサ下山、ファミリー等雪道章節時間軸；ropeway 與連絡交通章節未對應。
-- label: Yuzawa Kogen Course Video
-  url: https://www.youtube.com/watch?v=uiSqhmdWXl4
-  note: 影片說明欄提供キスゲ、パノラマ、コスモス、コマクサ等雪道章節時間軸。
 ---
 
 湯澤高原位於新潟縣湯澤雪國，ropeway 上山後的高原感和溫泉街近距離，是它和一般車開到山腳的雪場最不同的地方。若你想把滑雪、景色和初次到湯澤的辨識度放在同一天，這裡很好用。

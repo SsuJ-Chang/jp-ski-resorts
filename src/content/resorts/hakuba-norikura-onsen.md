@@ -184,16 +184,6 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP5 白馬乘鞍溫泉滑雪場 🗻｜自學ski 直上紅道❄️｜CP值最高雪場飯店｜Hakuba Alps Hotel ⛷️｜
     url: https://www.youtube.com/watch?v=TGFH2JcOSNc
     note: 和Ivy去旅行
-sources:
-- label: Hakuba Norikura Onsen Snow Resort Official Website
-  url: https://www.hakunori.com/
-- label: Hakuba Norikura Onsen Snow Resort Course / Trail Map
-  url: https://www.hakunori.com/gelande/
-- label: Hakuba Norikura Onsen Snow Resort Ticket
-  url: https://www.hakunori.com/ticket/
-- label: Hakuba Norikura Onsen Course Video
-  url: https://www.youtube.com/watch?v=Gx5MMhOO6oU
-  note: 影片說明欄提供若栗中央、ラビット、ハイウェイ、カモシカ、はくのりファミリー、若栗林間、里見若栗アクセスライン、里見中央等雪道章節時間軸。
 ---
 
 白馬乘鞍溫泉位於長野縣白馬山麓，山麓入門線和上部變化段落的落差很明顯，適合把暖身與主滑分開安排。若你喜歡比純初學雪場更有雪況層次，但又不想整天都處在高壓坡段，這裡很剛好。

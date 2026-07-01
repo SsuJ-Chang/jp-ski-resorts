@@ -99,11 +99,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Haguroyama Ski Area Official Website"
-    url: "http://www.qkamura.or.jp/haguro"
-  - label: "Weathernews 羽黒山スキー場"
-    url: "https://weathernews.jp/ski/spot/33507/"
 ---
 
 羽黑山位於山形縣，以6 條雪道構成中小型雪場，搭配 2 座纜車。上級路線比例明顯，坡面變化較多，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、親子同行。

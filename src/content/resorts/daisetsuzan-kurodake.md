@@ -95,13 +95,6 @@ externalContent:
   - title: 下半身失蹤的極致粉雪體驗！黑岳滑雪為什麼是北海道硬核聖地
     url: https://www.youtube.com/watch?v=ma5bGZLbNQQ
     note: 大林滑雪男子
-sources:
-- label: 大雪山黒岳スキー場 Official
-  url: https://www.rinyu.co.jp/kurodake/
-- label: Weathernews 大雪山黒岳スキー場
-  url: https://weathernews.jp/ski/spot/31215/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 北海道的大雪山黑岳共有1 條雪道，搭配 2 座纜車，包含 黒岳スキーコース 等路線。單一路線配置，重點在簡單滑行與基本練習；標籤上偏向初學者練習、雙板與單板。

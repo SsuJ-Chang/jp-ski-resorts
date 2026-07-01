@@ -59,13 +59,6 @@ courses:
 terrainSummary:
   beginner: 初級雪道以 第1ゲレンデ、第2ゲレンデ、スノーランド 為主，適合練習速度控制與穩定轉彎。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Rokkosan Snow Park Official
-  url: https://www.rokkosan.com/ski/
-- label: Rokkosan Snow Park Course Info
-  url: https://www.rokkosan.com/ski/beginner/ski/
-- label: 六甲山スノーパーク Weathernews
-  url: https://weathernews.jp/ski/spot/36306/
 contact:
   address:
     zhTw: 兵庫縣神戸市灘区六甲山町北六甲4512-98

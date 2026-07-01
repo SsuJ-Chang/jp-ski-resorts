@@ -121,11 +121,6 @@ terrainSummary:
   intermediate: 中級雪道約 45%，是主要滑行比例。
   advanced: 高級雪道約 15%，可作為進階練習。
   snowboard: 雪板可全區滑行。
-sources:
-- label: Sun Meadows Kiyosato Official
-  url: http://www.sunmeadows.co.jp/
-- label: Weathernews サンメドウズ清里 スキー場
-  url: https://weathernews.jp/ski/spot/34903/
 ---
 
 山梨縣的Sun Meadows 清里以8 條雪道，搭配 3 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。

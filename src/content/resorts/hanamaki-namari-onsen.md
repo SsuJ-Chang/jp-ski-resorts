@@ -97,11 +97,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Hanamaki City Namari Onsen Ski Area Official Website"
-    url: "http://www.city.hanamaki.iwate.jp/ski/"
-  - label: "Weathernews 花巻市鉛温泉スキー場"
-    url: "https://weathernews.jp/ski/spot/33306/"
 ---
 
 花卷市鉛溫泉位在岩手縣，以 5 條雪道構成小型雪場，搭配 2 座纜車。上級路線比例明顯，坡面變化較多，資訊重點放在基本規格，標籤偏向溫泉停留、雙板與單板。

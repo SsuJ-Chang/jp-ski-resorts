@@ -87,11 +87,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Okoppe Municipal Ski Area Official Website"
-    url: "http://www.town.okoppe.lg.jp/cms/section/education/shakai/nbm3tm0000001f0q.html"
-  - label: "Weathernews 興部町営スキー場"
-    url: "https://weathernews.jp/ski/spot/31711/"
 ---
 
 興部町營在北海道提供1 條雪道，搭配 1 座纜車。單一路線配置，重點在簡單滑行與基本練習，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

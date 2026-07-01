@@ -120,13 +120,6 @@ terrainSummary:
   beginner: 初級雪道約 30%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 40%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 30%，可安排較有坡度與速度感的滑行。
-sources:
-- label: Mikawa Onsen Ski Area Official Website
-  url: https://www.town.aga.niigata.jp/kanko_rekishi/mikawa_onsenski/index.html
-- label: Mikawa Onsen Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/35450/
-- label: Aga Tourism Mikawa Onsen Ski Resort
-  url: https://www.aga-info.jp/tourist-attractions/mikawa-onsen-ski-resort/
 ---
 
 三川溫泉位在新潟縣，雪道數為10 條，搭配 4 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向親子同行、溫泉停留。

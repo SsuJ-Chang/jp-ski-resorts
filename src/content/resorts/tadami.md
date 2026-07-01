@@ -78,11 +78,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Tadami Ski Area Official Website"
-    url: "https://tadamikousya.sakura.ne.jp/"
-  - label: "Weathernews 只見スキー場"
-    url: "https://weathernews.jp/ski/spot/33624/"
 ---
 
 只見位在福島縣，雪道數為1 條，搭配 1 座纜車。單一路線配置，重點在簡單滑行與基本練習，這裡先呈現已整理的滑行配置；標籤上偏向溫泉停留、雙板與單板。

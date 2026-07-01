@@ -150,15 +150,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Aizu Kogen Daikura Ski Area Official Website"
-    url: "https://daikura.net/"
-    note: "提供雪場基本資訊、營業與交通相關資訊。"
-  - label: "Aizu Kogen Daikura Ski Area Slope Guide"
-    url: "https://daikura.net/skislope/"
-    note: "提供雪道名稱、長度、坡度、高低差、難度與纜車資訊。"
-  - label: "Weathernews 会津高原だいくらスキー場"
-    url: "https://weathernews.jp/ski/spot/33615/"
 ---
 
 會津高原 Daikura 位於福島縣南會津，12 條雪道從初級練習坡到最大 38 度的上級坡都有。白樺、春木沢與駒止區域各有不同長度與坡度變化，適合以一天時間分區練習。

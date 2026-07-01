@@ -323,20 +323,6 @@ externalContent:
   - title: 【日本東京🇯🇵】EP2 苗場滑雪場❄️｜新手自學單板滑雪全紀錄｜新手教新手能學得會嗎?｜苗場王子飯店♨️｜開箱房間 4號館｜Action4📸
     url: https://www.youtube.com/watch?v=hitoGk0kJl0
     note: 和Ivy去旅行
-sources:
-- label: Naeba Official Website
-  url: https://www.princehotels.co.jp/ski/naeba/winter/
-- label: Naeba Course Map and Status
-  url: https://www.princehotels.co.jp/ski/naeba/winter/coursemap/
-- label: Naeba Lift Fee 2025-2026
-  url: https://www.princehotels.co.jp/ski/naeba/winter/lift/
-- label: Naeba Weathernews
-  url: https://weathernews.jp/ski/spot/35405/
-- label: Naeba Access
-  url: https://www.princehotels.co.jp/ski/naeba/winter/access/
-- label: Naeba Route Guide Video 2025
-  url: https://www.youtube.com/watch?v=9bL9EKCuLx0
-  note: 影片說明欄提供第4ゲレンデ北側、第4ゲレンデ南側、第5ゲレンデ、第4高速リフト南側、筍平ゲレンデ、大斜面、チャレンジ、火打、第3、第2、ドラゴンドラ連絡、第8高速リフト北側、女子リーゼン、男子リーゼン等雪道章節時間軸；纜車、雪上公園與設施章節未對應。
 terrainSummary:
   beginner: 飯店前、火打與筍平區域有多條初級雪道，適合家庭與住宿型行程練習。
   intermediate: 大斜面、わくわく、筍山 Skyline 等中級路線提供較長滑行距離與不同區域串聯。

@@ -89,11 +89,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Hanawa Ski Area Official Website"
-    url: "https://r.goope.jp/alpas/"
-  - label: "Weathernews 花輪"
-    url: "https://weathernews.jp/ski/spot/33201/"
 ---
 
 秋田縣的花輪以4 條雪道，搭配 3 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、溫泉停留。

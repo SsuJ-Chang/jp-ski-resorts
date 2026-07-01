@@ -154,13 +154,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Yuzawa Nakazato Snow Resort Official Website
-  url: https://www.yuzawa-nakazato.com/winter/
-- label: Yuzawa Nakazato Snow Resort Course / Trail Map
-  url: https://www.yuzawa-nakazato.com/winter/course/
-- label: Yuzawa Nakazato Snow Resort Ticket
-  url: https://www.yuzawa-nakazato.com/winter/fee/
 ---
 
 湯澤中里位於新潟縣，頁面以已整理的雪場基本資料為主。若雪道細節來源不足，內文只保留可確認的資訊，不另外延伸形容。

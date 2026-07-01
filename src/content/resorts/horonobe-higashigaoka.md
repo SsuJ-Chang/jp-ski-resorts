@@ -89,11 +89,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Horonobe Higashigaoka Ski Area Official Website"
-    url: "https://www.town.horonobe.lg.jp/www4/section/edu/le009f0000001go7.html"
-  - label: "Weathernews 幌延町東ヶ丘スキー場"
-    url: "https://weathernews.jp/ski/spot/31308/"
 ---
 
 幌延町東丘位於北海道，共有3 條雪道、1 座纜車，整體配置偏向入門到中緩坡，適合先把基本節奏穩下來。主雪道多半以寬度與可控坡度取向為主，不必一開始就進到太緊繃的節奏。若同行者有新手、親子或第一次安排日本雪場的人，這種規模反而更容易掌握。

@@ -140,13 +140,6 @@ terrainSummary:
   advanced: 上級雪道佔 20%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
   powder: 北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。
-sources:
-- label: 札幌藻岩山スキー場 Official
-  url: https://sapporo-moiwa.jp/
-- label: Weathernews 札幌藻岩山スキー場
-  url: https://weathernews.jp/ski/spot/31406/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 札幌藻岩山位於北海道，是中小型雪場，共有10 條雪道，搭配 5 座纜車。代表路線包含 うさぎ平コース、ダイナミックコース、クリスタルコース，初級、中級與上級路線都有配置；標籤上偏向初學者練習、夜滑。

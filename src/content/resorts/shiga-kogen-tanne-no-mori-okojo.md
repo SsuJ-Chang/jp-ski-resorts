@@ -85,13 +85,6 @@ access:
 terrainSummary:
   beginner: 緩斜面穿過樹林，對初學者和家庭較友善。
   snowboard: 樹林間緩坡適合雪板初學者練習轉彎與視線控制。
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
 ---
 
 志賀高原 Tanne no Mori Okojo位於長野縣，是小型練習雪場，共有1 條雪道，搭配 1 座纜車。代表路線包含 Tanne no Mori Okojo Gelende，單一路線配置，重點在簡單滑行與基本練習；標籤上偏向初學者練習、親子同行。

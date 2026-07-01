@@ -96,13 +96,6 @@ terrainSummary:
   intermediate: 中級雪道占 30%，適合已能穩定轉彎的滑雪者參考。
   advanced: 上級雪道占 0%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
-sources:
-- label: となみ夢の平スキー場 Official
-  url: https://ski.yumeno-taira.com/
-- label: となみ夢の平スキー場 Access
-  url: https://ski.yumeno-taira.com/access/
-- label: Weathernews となみ夢の平スキー場
-  url: https://weathernews.jp/ski/spot/35502/
 ---
 
 砺波夢之平位於富山縣，是小型雪場，共有3 條雪道，搭配 1 座纜車。代表路線包含 Aコース、Bコース、Cコース，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

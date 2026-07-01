@@ -156,11 +156,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Niseko Moiwa Ski Resort Official Website"
-    url: "https://niseko-moiwa.jp/ja/"
-  - label: "Weathernews ニセコモイワスキーリゾート"
-    url: "https://weathernews.jp/ski/spot/31611/"
 ---
 
 二世谷 Moiwa 位於北海道二世谷雪區，規模不算最大，但樹林感和雪面變化很集中，滑起來比地圖數字更有個性。它適合把一天重心放在雪況判斷與自然地形，而不是單純追求串區里程。

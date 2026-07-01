@@ -141,11 +141,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Mt.T Official Website
-  url: https://tanigawadake-joch.com/mt-t/
-- label: Mt.T Weathernews
-  url: https://weathernews.jp/ski/spot/34202/
 ---
 
 谷川岳天神平位於群馬縣，是中小型雪場，共有8 條雪道，搭配 4 座纜車。代表路線包含 天神平エリア、高倉山第一ペアリフトエリア、天神峠ペアリフト上級エリア，初級、中級與上級路線都有配置；標籤上偏向溫泉停留、雙板與單板。

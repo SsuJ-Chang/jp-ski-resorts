@@ -89,13 +89,6 @@ terrainSummary:
   beginner: Monkey Course 是初級連絡路，可從燒額山回到中央區域。
   intermediate: Kamoshika Course 連接一之瀨 Diamond 與燒額山。
   snowboard: 主要用途是區域移動，雪板需留意平緩連絡段速度。
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
 ---
 
 志賀高原一之瀨山之神位於長野縣，以2 條雪道形成小型練習雪場規模，搭配 1 座纜車。主要路線有 Monkey Course、Kamoshika Course，以初級與中級路線為主；標籤上偏向初學者練習、雙板與單板。

@@ -143,15 +143,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "会津高原たかつえスキー場 Official Website"
-    url: "http://www.takatsue.jp/"
-  - label: "Weathernews 会津高原たかつえスキー場"
-    url: "https://weathernews.jp/ski/spot/33601/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
-  - label: "SURF&SNOW 會津高原たかつえスキー場 コース"
-    url: "https://surfsnow.jp/guide/htm/r0759gc1.htm"
 ---
 
 會津高原高杖在福島縣提供14 條雪道，搭配 8 座纜車。路線包含 家庭雪道 / ファミリーコース、中央雪道 / セントラルコース、全景雪道 / パノラマコース，整體初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

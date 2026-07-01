@@ -132,14 +132,6 @@ externalContent:
   - title: くじゅう森林公園スキー場【九州編】デブがレンタルだけでスキー・スノーボードできるか試してみた！
     url: https://www.youtube.com/watch?v=EAPWkALeKH0
     note: えすぺゆき【生息条件は冠雪山】令和のゲレンデ
-sources:
-- label: Kuju Forest Park Snow Resort Official Website
-  url: https://www.kujyuski.co.jp/
-- label: Kuju Forest Park Snow Resort Access
-  url: https://www.kujyuski.co.jp/facility/access
-- label: くじゅうスキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/38301/
-  note: 使用者指定附上的雪場資料頁。
 ---
 
 大分縣的九重森林公園共有6 條雪道，搭配 3 座纜車，包含 ファミリーゲレンデ、レッスンゲレンデ、林間コース 等路線。初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

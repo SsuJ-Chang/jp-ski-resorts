@@ -185,25 +185,6 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP7 白馬八方滑雪場 🗻自學滑雪全紀錄｜Hotel Green Plaza Hakuba｜🏂｜🎄
     url: https://www.youtube.com/watch?v=_wUcfsdwzdg
     note: 和Ivy去旅行
-sources:
-- label: Hakuba Happo-one Snow Resort Official Website
-  url: https://www.happo-one.jp/
-- label: Hakuba Happo-one Snow Resort Course / Trail Map
-  url: https://www.happo-one.jp/gelande/
-- label: Hakuba Happo-one Snow Resort Ticket
-  url: https://www.happo-one.jp/ticket/
-- label: Hakuba Happo-one Snow Resort Trail Conditions
-  url: https://www.happo-one.jp/gelande/condition/
-- label: Hakuba Happo-one 2025-2026 Early Closure Notice
-  url: https://www.happo-one.jp/news/38164/
-- label: Hakuba Valley Ski Resort Info
-  url: https://www.hakubavalley.com/ski_resort_info/
-- label: Hakuba Happo-one Course Video
-  url: https://www.youtube.com/watch?v=AvCYA9LCWC8
-  note: 影片說明欄提供リーゼングラート、白樺、咲花等雪道章節時間軸。
-- label: Hakuba Happo-one Course Video 2023 Part 3
-  url: https://www.youtube.com/watch?v=IBrBQLonkXE
-  note: 影片說明欄提供咲花、白樺等雪道章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 白馬八方尾根位在長野縣，整理為 16 條雪道，搭配 21 座纜車。リーゼンスラロームコース、白樺ゲレンデ 可作為代表路線，初級、中級與上級路線都有配置，標籤偏向雙板與單板。

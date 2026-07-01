@@ -86,11 +86,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Churui Shiroganedai Ski Area Official Website"
-    url: "http://makubetsu-ski.com/category/news-hg/"
-  - label: "Weathernews 忠類白銀台スキー場"
-    url: "https://weathernews.jp/ski/spot/32003/"
 ---
 
 忠類白銀台位於北海道，共有3 條雪道、1 座纜車，白天可先把主要雪道滑順，晚上再接燈光雪面延長時段。主雪道配置偏向好上手路線，夜滑時段則補足短天數行程的滑行量。若想把練習、夜滑和地方停留排在同一天，這種地方型雪場會比單純趕場更順。

@@ -89,9 +89,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Weathernews 日の出スキー場"
-    url: "https://weathernews.jp/ski/spot/31509/"
 ---
 
 日之出位於北海道，以2 條雪道構成小型練習雪場，搭配 1 座纜車。雪道配置偏初級，練習門檻較低，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、夜滑。

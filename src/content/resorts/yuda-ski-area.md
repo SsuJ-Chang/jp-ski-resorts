@@ -78,11 +78,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Nishiwaga Town Yuda Ski Area"
-    url: "https://www.town.nishiwaga.lg.jp/soshikikarasagasu/kyoikuiinkai_shogaigakushuuka/1/3/4/1299.html"
-  - label: "Weathernews 町営湯田スキー場"
-    url: "https://weathernews.jp/ski/spot/33322/"
 ---
 
 町營湯田是岩手縣的小型練習雪場，整理為1 條雪道，搭配 1 座纜車。單一路線配置，重點在簡單滑行與基本練習，介紹保留在可確認的雪道數與難度比例；標籤上偏向初學者練習、雙板與單板。

@@ -93,9 +93,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Weathernews 紋別市営大山スキー場"
-    url: "https://weathernews.jp/ski/spot/31716/"
 ---
 
 紋別市營大山位在北海道，雪道數為4 條，搭配 2 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。

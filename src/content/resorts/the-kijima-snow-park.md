@@ -91,11 +91,6 @@ access:
     recommended: true
     snowTireRequired: true
     note: 自駕可參考官方路線：豊田飯山ICから約20分；冬季需準備雪胎或防滑鏈。
-sources:
-- label: The Kijima Snow Park Official Website
-  url: https://iiyama-makinoiri.snowpark.jp/snow/
-- label: The Kijima Snow Park Weathernews
-  url: https://weathernews.jp/ski/spot/44805/
 ---
 
 The Kijima Snow Park是長野縣的小型雪場，整理為5 條雪道，搭配 4 座纜車。僅保留已確認的規模與路線配置，介紹保留在可確認的雪道數與難度比例。

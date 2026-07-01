@@ -61,11 +61,6 @@ terrainSummary:
   beginner: 初級雪道以 ロマンスゲレンデ、キッズゲレンデ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 第2ゲレンデ、ダウンヒルコース 串接較長滑行或主坡巡航。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Kutsuki Snow Park Official
-  url: https://kutsuki-snowpark.com/
-- label: 朽木スキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/36010/
 contact:
   address:
     zhTw: 滋賀縣高島市朽木宮前坊180-1

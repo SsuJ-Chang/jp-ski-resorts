@@ -116,15 +116,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Adatara Kogen Ski Area Official Website"
-    url: "http://www.adatara-resort.com/"
-    note: "提供 2025-2026 營業期間、營業時間與纜車運行概要。"
-  - label: "Adatara Kogen Ski Area Gelande"
-    url: "https://www.adatara-resort.com/ski/gelande.html"
-    note: "提供各雪道名稱、難度、長度、最大斜度、平均斜度與路線說明。"
-  - label: "Weathernews あだたら高原スキー場"
-    url: "https://weathernews.jp/ski/spot/33607/"
 ---
 
 福島縣的安達太良高原共有 5 條雪道，搭配 3 座纜車，包含 E ペガサス、D ジェミニ 等路線；初級、中級與上級路線都有配置，標籤偏向初學者練習、親子同行。

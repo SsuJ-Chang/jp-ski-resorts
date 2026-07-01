@@ -302,13 +302,6 @@ externalContent:
   - title: 🎯讓你看看滑雪是甚麼 🏂Snowboarding in TOMAMU EP01 星野滑雪場
     url: https://www.youtube.com/watch?v=B608Ty6R-3c
     note: 大林滑雪男子
-sources:
-- label: 星野リゾート トマム スキー場 Official
-  url: http://www.snowtomamu.jp
-- label: Weathernews 星野リゾート トマム スキー場
-  url: https://weathernews.jp/ski/spot/31201/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 星野 Resorts Tomamu 是北海道的大型雪場，共有 29 條雪道，搭配 6 座纜車。雪道如 プラチナベル、シルバーベル，初級、中級與上級路線都有配置，標籤偏向夜滑、雙板與單板。

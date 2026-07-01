@@ -134,18 +134,6 @@ terrainSummary:
   intermediate: 中級與上級比例接近，適合有基礎後再安排行程。
   advanced: 初滑り季可期待粉雪，春季可滑饅頭與林間路線。
   powder: 天然雪 100% 與豐富積雪是 的主要特色。
-sources:
-- label: Okutadami Maruyama Ski Resort Official Website
-  url: http://okutadami.co.jp/ski/
-- label: Weathernews 奥只見丸山スキー場
-  url: https://weathernews.jp/ski/spot/35431/
-- label: Weathernews 中部人氣排名
-  url: https://weathernews.jp/ski/area/chubu/ranking.html
-- label: Okutadami Maruyama Access
-  url: http://www.okutadami.co.jp/ski/access3.html
-- label: Okutadami Maruyama Course Video
-  url: https://www.youtube.com/watch?v=OkFyM-vlew0
-  note: 影片說明欄提供カモシカ A-E、ブナ平 A-C、丸山ゲレンデ等雪道章節時間軸。
 ---
 
 奧只見丸山位於新潟縣，以10 條雪道形成中小型雪場規模，搭配 5 座纜車。主要路線有 ブナ平ゲレンデ、カモシカゲレンデ B・Cコース、八崎ゲレンデ，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

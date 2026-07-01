@@ -5,12 +5,6 @@ import { regionKeys } from './data/regions'
 import { skiAreaKeys } from './data/skiAreaKeys'
 import { resortTags } from './data/tags'
 
-const sourceSchema = z.object({
-  label: z.string(),
-  url: z.url(),
-  note: z.string().optional(),
-})
-
 const getUrlHostname = (value: string) => {
   try {
     return new URL(value).hostname.toLowerCase().replace(/^www\./, '')
@@ -255,7 +249,6 @@ const resorts = defineCollection({
     rjOpinion: z.string().optional(),
     lodgingRecommendations: z.array(lodgingRecommendationSchema).optional(),
     externalContent: externalContentSchema.optional(),
-    sources: z.array(sourceSchema).min(1),
   }),
 })
 

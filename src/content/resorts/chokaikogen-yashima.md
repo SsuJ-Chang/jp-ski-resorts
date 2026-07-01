@@ -94,11 +94,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Chokai Kogen Yashima Ski Area Official Website"
-    url: "https://ski.city.yurihonjo.lg.jp/"
-  - label: "Weathernews 鳥海高原矢島スキー場"
-    url: "https://weathernews.jp/ski/spot/33206/"
 ---
 
 鳥海高原矢島是秋田縣的中小型雪場，整理為6 條雪道，搭配 1 座纜車。初級、中級與上級路線都有配置，介紹保留在可確認的雪道數與難度比例；標籤上偏向親子同行、夜滑。

@@ -178,13 +178,6 @@ externalContent:
   - title: "日本邊滑雪邊看海!?｜北海道手稻滑雪場上集 ｜札幌車站40分鐘輕鬆到達｜雪票+租借+高地區雪道詳解"
     url: https://www.youtube.com/watch?v=pFw7nw1HGsA
     note: LeoTW沈浸滑雪
-sources:
-- label: サッポロテイネ Official
-  url: https://sapporo-teine.com/snow/
-- label: Weathernews サッポロテイネ
-  url: https://weathernews.jp/ski/spot/31401/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 札幌手稻是北海道的中型雪場，整理為15 條雪道，搭配 10 座纜車。雪道如 HZ-1 シティビュークルーズ、HZ-2 シティビューパノラマ、HZ-3 女子大回転，初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。

@@ -100,11 +100,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Tendo Kogen Ski Area Official Website"
-    url: "https://tendokogen.or.jp/"
-  - label: "Weathernews NPO天童高原スキー場"
-    url: "https://weathernews.jp/ski/spot/33508/"
 ---
 
 天童高原位於山形縣，以6 條雪道構成中小型雪場，搭配 2 座纜車。雪道配置偏初級，練習門檻較低，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、親子同行。

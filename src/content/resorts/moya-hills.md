@@ -167,20 +167,6 @@ externalContent:
   - title: 青森市街地すぐ近くなのに新雪穴場！？◆リンクステーション ヒルズ雲谷（モヤヒルズ）【 Slope Report at Hills MOYA】
     url: https://www.youtube.com/watch?v=H6Sl2F1jT2k
     note: えすぺゆき【生息条件は冠雪山】令和のゲレンデ
-sources:
-- label: Moya Hills Official Website
-  url: https://www.moyahills.jp/
-- label: Moya Hills Winter Course Data
-  url: https://www.moyahills.jp/winter/winter.html
-  note: 官方冬季頁面提供 6 條雪道名稱、雪道圖、最大滑走距離、各雪道特色與 4 座纜車資料。
-- label: SnowJapan Link Station Hills Moya
-  url: https://www.snowjapan.com/japan-ski-resorts/aomori/aomori/moya-hills
-  note: 提供標高、最長滑走距離、最大斜度、難度比例與纜車類型等彙整資料。
-- label: Moya Hills Lift Fees
-  url: https://www.moyahills.jp/winter/lift.html
-  note: 官方リフト料金頁提供 2025 シーズン日券、上午券、下午券、夜滑券、回數券、季票與適用客群說明。
-- label: Weathernews リンクステーションヒルズ雲谷(モヤヒルズ)
-  url: https://weathernews.jp/ski/spot/33102/
 ---
 
 Link Station Hills 雲谷（Moya Hills）在青森縣提供6 條雪道，搭配 4 座纜車。路線包含 カランツゲレンデ、コスモスゲレンデ、トンケイコース，整體初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。

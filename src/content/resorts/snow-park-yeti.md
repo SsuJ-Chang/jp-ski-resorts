@@ -115,19 +115,6 @@ terrainSummary:
   intermediate: 中級約 40%，可在小型雪場內練習連續轉彎。
   advanced: 上級約 10%，進階路線比例較低。
   snowboard: 雪板可全區滑行。
-sources:
-- label: FUJIYAMA SNOW RESORT YETI Official Website
-  url: https://www.yeti-resort.com/
-- label: FUJIYAMA SNOW RESORT YETI Access
-  url: https://www.yeti-resort.com/access/
-- label: FUJIYAMA SNOW RESORT YETI Liner Bus
-  url: https://www.yeti-resort.com/access/linerbus.html
-- label: FUJIYAMA SNOW RESORT YETI Route Bus
-  url: https://www.yeti-resort.com/access/bus.html
-- label: Weathernews スノーパーク イエティ
-  url: https://weathernews.jp/ski/spot/35003/
-- label: Weathernews 中部人氣排名
-  url: https://weathernews.jp/ski/area/chubu/ranking.html
 ---
 
 Snow Park YETI在靜岡縣提供4 條雪道，搭配 3 座纜車。路線包含 Aゲレンデ、Bゲレンデ、Cゲレンデ，整體初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

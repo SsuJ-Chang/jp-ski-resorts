@@ -100,11 +100,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Engaru Rock Valley Ski Area Official Website"
-    url: "http://engaru-mori-no-okhotsk.jp/skiing/"
-  - label: "Weathernews えんがるロックバレースキー場"
-    url: "https://weathernews.jp/ski/spot/31710/"
 ---
 
 Engaru Rock Valley是北海道的中小型雪場，整理為6 條雪道，搭配 1 座纜車。上級路線比例明顯，坡面變化較多，介紹保留在可確認的雪道數與難度比例；標籤上偏向夜滑、溫泉停留。

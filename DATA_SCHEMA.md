@@ -10,7 +10,6 @@
 - YAML frontmatter 之外的 Markdown body 會作為雪場概要內容使用。
 - 找不到資料時，不要硬補；可以先填 `待補`、`待確認`，或省略 optional 欄位。
 - 即時資訊不要當成永久事實保存，例如今日雪況、即時纜車狀態、即時天氣。
-- `sources` 目前為必填，至少要放一筆官方來源；可為官方網站或官方社群頁面。
 
 ## 頂層欄位
 
@@ -40,7 +39,6 @@
 | `rjOpinion` | 否 | string | 顯示在雪場頁「概要」卡片正文下方的 RJ 個人感想。 |
 | `lodgingRecommendations` | 否 | array | 住宿推薦連結，可附上個人心得備註。 |
 | `externalContent` | 否 | object | 外部遊記與影片連結。 |
-| `sources` | 是 | array | 資料來源。 |
 
 ## `name`
 
@@ -413,12 +411,3 @@ mixed
 | `url` | 是 | URL | 外部連結。 |
 | `note` | 否 | string | 備註，例如作者、頻道或用途。 |
 
-## `sources`
-
-| 欄位 | 必填 | 型別 | 說明 |
-|---|---:|---|---|
-| `label` | 是 | string | 來源名稱。 |
-| `url` | 是 | URL | 來源網址。 |
-| `note` | 否 | string | 來源備註。 |
-
-建議每個重要事實都能回到某個 `sources` 或欄位內的 `source` URL。

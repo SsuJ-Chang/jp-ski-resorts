@@ -86,11 +86,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Shirataka Municipal Ski Area Official Website"
-    url: "https://www.town.shirataka.lg.jp/1350.htm"
-  - label: "Weathernews 白鷹町営スキー場"
-    url: "https://weathernews.jp/ski/spot/33523/"
 ---
 
 白鷹町營位於山形縣，以3 條雪道構成小型雪場，搭配 1 座纜車。初級、中級與上級路線都有配置，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、親子同行。

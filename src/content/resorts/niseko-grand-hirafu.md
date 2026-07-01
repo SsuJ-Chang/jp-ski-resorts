@@ -253,17 +253,6 @@ externalContent:
   - title: 【日本北海道🇯🇵】EP2 新雪谷格蘭比羅夫滑雪場🗻｜看羊蹄山逛山雪道攻略⛰️｜Step on｜ 二世古 NISEKO GRAND HIRAFU ❄️｜帝王蟹火鍋🦀️｜北海道 滑雪 自由行⛩️
     url: https://www.youtube.com/watch?v=f9y-yngyp6M
     note: 和Ivy去旅行
-sources:
-- label: Weathernews ニセコ東急 グラン・ヒラフ
-  url: https://weathernews.jp/ski/spot/31605/
-- label: Niseko United Grand Hirafu Course Details
-  url: https://www.niseko.ne.jp/en/map/grand-hirafu/
-- label: Niseko United Trail Map 2025-2026
-  url: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
-- label: Niseko United All Mountain Pass
-  url: https://www.niseko.ne.jp/en/lift/
-- label: Niseko United Access
-  url: https://www.niseko.ne.jp/en/niseko-access/
 ---
 
 二世谷 Grand Hirafu位於北海道的二世谷雪區，粉雪與樹林地形是主要記憶點，降雪後能感受更立體的雪面變化。放進二世谷旅程時，能和周邊雪場形成不同節奏；適合第一次日本滑雪時，把代表性雪景與滑行體驗放在一起。

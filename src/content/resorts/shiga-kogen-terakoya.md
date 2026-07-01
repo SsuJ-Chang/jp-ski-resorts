@@ -98,13 +98,6 @@ terrainSummary:
   intermediate: Eternal、Philosophy、LIPS 三條中級路線集中在高海拔區。
   powder: LIPS Course 官方描述可享受天然粉雪，高海拔雪質是主要特色。
   snowboard: 高海拔中級路線適合雪板巡航，但需確認連絡路開放。
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
 ---
 
 志賀高原寺小屋是長野縣的小型雪場，整理為4 條雪道，搭配 2 座纜車。雪道如 Connection Course、Eternal Course、Philosophy Course，以初級與中級路線為主；標籤上偏向雙板與單板。

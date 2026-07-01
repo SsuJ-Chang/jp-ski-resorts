@@ -107,11 +107,6 @@ terrainSummary:
   intermediate: スペシャルゲレンデ平均斜度約 13 度，可練習較明確的轉彎節奏。
   advanced: 官方坡面介紹未列獨立上級雪道。
   snowboard: 雪板可滑；實際可滑區域仍以現場開放為準。
-sources:
-- label: Asahi Prime Ski Area Official Website
-  url: https://asahivalley.jp/
-- label: Asahi Prime Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/34890/
 ---
 
 あさひプライム位於長野縣，以兩個坡面構成小型練習雪場。ファミリーゲレンデ寬緩，適合基礎練習；スペシャルゲレンデ坡度較明顯，能練習小回轉與更穩定的轉彎控制。

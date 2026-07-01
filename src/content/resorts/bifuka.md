@@ -83,11 +83,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Bifuka Ski Area Official Website"
-    url: "http://www.town.bifuka.hokkaido.jp"
-  - label: "Weathernews 美深スキー場"
-    url: "https://weathernews.jp/ski/spot/31305/"
 ---
 
 北海道的美深以2 條雪道，搭配 1 座纜車組成滑行區。雪道配置偏初級，練習門檻較低，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。

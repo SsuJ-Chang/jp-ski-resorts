@@ -137,11 +137,6 @@ externalContent:
       url: https://natasha-traveler.tw/hotel-morinokaze-tazawako/
       note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
-sources:
-  - label: "Tazawako Ski Resort Official Website"
-    url: "https://www.tazawako-ski.com"
-  - label: "Weathernews たざわ湖"
-    url: "https://weathernews.jp/ski/spot/33204/"
 ---
 
 田澤湖位在秋田縣，雪道數為13 條，搭配 6 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向親子同行、溫泉停留。

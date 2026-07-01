@@ -120,11 +120,6 @@ terrainSummary:
   intermediate: 中級雪道約 50%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
   snowboard: 單板滑行限制：不可 スノーボードは滑走不可です。
-sources:
-- label: Kiso Fukushima Ski Area Official Website
-  url: http://www.kisofukushima-ski.com/
-- label: Kiso Fukushima Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/34815/
 ---
 
 木曾福島位於長野縣，共有8 條雪道、4 座纜車，主體是可反覆換線的中型滑行配置。主雪道之間的難度與坡向差異夠明顯，安排一天行程時不容易太單調。如果你想在雪道數、節奏變化與實際可滑效率之間取平衡，這類配置會很實用。

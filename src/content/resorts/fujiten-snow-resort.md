@@ -123,11 +123,6 @@ terrainSummary:
   intermediate: 中級雪道約 45%，是主要滑行比例。
   advanced: 高級雪道約 15%，提供進階滑行選擇。
   snowboard: 雪板可全區滑行。
-sources:
-- label: Fujiten Snow Resort Official
-  url: https://www.fujiten.net/
-- label: Weathernews ふじてんスノーリゾート
-  url: https://weathernews.jp/ski/spot/34901/
 ---
 
 山梨縣的Fujiten Snow Resort以7 條雪道，搭配 4 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。

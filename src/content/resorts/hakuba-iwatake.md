@@ -207,17 +207,6 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP3 白馬岩岳滑雪場🗻｜自學滑雪全紀錄❄️｜連續滑雪第三天🏂｜日本雪場開箱🎄｜自駕去滑雪｜HAKUBA IWATAKE⛷️
     url: https://www.youtube.com/watch?v=acJZsaLUmEM
     note: 和Ivy去旅行
-sources:
-- label: Hakuba Iwatake Snow Field Official Website
-  url: https://iwatake-mountain-resort.com/winter
-- label: Hakuba Iwatake Snow Field Course / Trail Map
-  url: https://iwatake-mountain-resort.com/winter/course_lift
-- label: Hakuba Iwatake Snow Field Ticket
-  url: https://iwatake-mountain-resort.com/winter/rates/
-- label: Hakuba Iwatake 2025-2026 Closure Notice
-  url: https://iwatake-mountain-resort.com/2026/03/29/2025-2026-%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B
-- label: Hakuba Iwatake Mountain Resort Access
-  url: https://iwatake-mountain-resort.com/access
 ---
 
 白馬岩岳位於長野縣白馬山麓，山頂視野、寬面主雪道與 side country 氣氛是它最有辨識度的地方。北側與山頂周邊路線讓一天行程不只剩下反覆巡航，也能穿插地形感與換線樂趣。

@@ -100,13 +100,6 @@ terrainSummary:
   intermediate: B Course 可作為短距離技術練習。
   advanced: A Course 是中央區域難度較高的短陡坡。
   snowboard: C Course 可供雪板初學者練習基本轉彎。
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
 ---
 
 志賀高原丸池位於長野縣，是小型雪場，共有4 條雪道，搭配 2 座纜車。代表路線包含 Maruike C Course、Maruike B Course、Maruike 2nd Gelende，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

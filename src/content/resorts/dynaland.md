@@ -219,15 +219,6 @@ externalContent:
   - title: 【日本中部】EP3名古屋自由行｜滑雪價格｜租裝備價格｜西日本最大雪場🗻｜高鷲滑雪場⛷｜Dynaland Snow Park❄️｜自學單板🏂｜ホテルヴィラモンサン飯店｜Action3📸｜
     url: https://www.youtube.com/watch?v=v3e3Bgtegqc
     note: 和Ivy去旅行
-sources:
-- label: Dynaland Course Introduction
-  url: https://www.dynaland.co.jp/gelande/
-- label: TAKASU MOUNTAINS Ski Area
-  url: https://www.takasumountains.com/ski/
-- label: TAKASU MOUNTAINS Lift Fee
-  url: https://www.takasumountains.com/lift/
-- label: Dynaland Access
-  url: https://www.dynaland.co.jp/access/
 ---
 
 Dynaland位於岐阜縣，以18 條雪道形成中型雪場規模，搭配 5 座纜車。主要路線有 パラダイスAコース / Paradise A Course、乙女コース / Otome Course、神中Aコース / Kamichu A Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

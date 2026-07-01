@@ -110,13 +110,6 @@ terrainSummary:
   intermediate: World Cup Course 與 Intermediate Course 是主要中級路線。
   advanced: 沒有官方列為 advanced 的 course，但 World Cup Course 仍需注意速度控制。
   snowboard: 林間轉彎與中級斜面適合雪板練習銜接。
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
 ---
 
 志賀高原西館山是長野縣的中小型雪場，整理為7 條雪道，搭配 3 座纜車。雪道如 Nishitateyama Beginner Course（Upper section）、Nishitateyama Beginner Course（Lower section）、Nishitateyama Gelende，以初級與中級路線為主；標籤上偏向初學者練習、雙板與單板。

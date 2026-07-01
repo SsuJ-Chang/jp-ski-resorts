@@ -90,11 +90,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Hokkaido Greenland White Park Official Website"
-    url: "http://www.h-greenland.com/"
-  - label: "Weathernews 北海道グリーンランドホワイトパーク"
-    url: "https://weathernews.jp/ski/spot/31507/"
 ---
 
 北海道 Greenland White Park位於北海道，入夜後的燈光雪面很有氣氛，適合把練習和夜間滑行排在同一天。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合不只想滑雪，也想把身體放鬆與地方氛圍一起安排的人。

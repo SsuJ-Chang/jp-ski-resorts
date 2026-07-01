@@ -157,15 +157,6 @@ terrainSummary:
   advanced: 上級比例約 15%，包含較陡與非壓雪特色路線。
   snowboard: 官方資料標示全區可 snowboard，並設有 snow park。
   powder: 高難度區域有非壓雪與粉雪特色，需依當日開放狀態滑行。
-sources:
-- label: Weathernews Mino Ski Area
-  url: https://weathernews.jp/ski/area/mino/
-- label: Weathernews Meiho Ski Resort
-  url: https://weathernews.jp/ski/spot/35206/
-- label: Meiho Ski Resort Official
-  url: https://www.meihoski.co.jp/winter/
-- label: Meiho Ski Resort Ticket
-  url: https://www.meihoski.co.jp/price/
 ---
 
 めいほう是岐阜縣的中型雪場，整理為13 條雪道，搭配 5 座纜車。初級、中級與上級路線都有配置，介紹保留在可確認的雪道數與難度比例；標籤上偏向初學者練習、親子同行。

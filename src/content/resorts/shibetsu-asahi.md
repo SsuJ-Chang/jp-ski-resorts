@@ -86,11 +86,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Asahi Ski Area Official Website"
-    url: "https://www.city.shibetsu.lg.jp/gyoseisaito/kosodate_bunka_supotsu/supotsu/2/1812.html"
-  - label: "Weathernews あさひスキー場"
-    url: "https://weathernews.jp/ski/spot/31218/"
 ---
 
 朝日位於北海道，共有2 條雪道、1 座纜車，規模雖然不大，但雪道集中，半天到一天就能把主要路線輪過一遍。主雪道多落在同一滑行區內，適合專心練習固定動作與反覆修正。比起追求刷里程，這裡更適合把時間放在動作熟悉與同伴配速。

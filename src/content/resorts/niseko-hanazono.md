@@ -197,17 +197,6 @@ externalContent:
   - title: 【日本北海道🇯🇵】EP3 新雪谷花園滑雪場🗻｜Hanazono Niseko ❄️｜自學滑雪心得｜LV 夢幻蒙古包｜LV monogram 滑雪纜車｜羊蹄山美景展望🗻
     url: https://www.youtube.com/watch?v=hyxmkaXvTzg&t=1s
     note: 和Ivy去旅行
-sources:
-- label: Weathernews ニセコHANAZONOリゾート
-  url: https://weathernews.jp/ski/spot/31618/
-- label: Niseko United Hanazono Course Details
-  url: https://www.niseko.ne.jp/en/map/hanazono/
-- label: Niseko United Trail Map 2025-2026
-  url: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
-- label: Niseko United All Mountain Pass
-  url: https://www.niseko.ne.jp/en/lift/
-- label: Niseko United Access
-  url: https://www.niseko.ne.jp/en/niseko-access/
 ---
 
 二世谷 HANAZONO 位於北海道二世谷雪區，纜車效率、park 配置與上部粉雪線是它和其他區域最不同的地方。若你不想整天只做長距離巡航，這裡很適合把跳台、公園與深雪段落混著排。

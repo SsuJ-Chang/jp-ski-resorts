@@ -270,17 +270,6 @@ externalContent:
     - title: "2026日本東北看雪貓?!什麼叫做阿司匹靈粉雪!超級多設施的渡假村雪場｜日本東北安比高原APPI滑雪場｜YK🏂VLOG"
       url: "https://www.youtube.com/watch?v=xQ0m9t60HV0"
       note: "YK來了"
-sources:
-  - label: "安比高原 Official Website"
-    url: "https://www.appi.co.jp/snow-mountain-resort/"
-  - label: "安比高原 Lift Tickets"
-    url: "https://www.appi.co.jp/snow-mountain-resort/offseason/ticket/"
-  - label: "安比高原 Access"
-    url: "https://www.appi.co.jp/snow-mountain-resort/access/"
-  - label: "Weathernews 安比高原"
-    url: "https://weathernews.jp/ski/spot/33301/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 安比高原位於岩手縣，以21 條雪道形成大型雪場規模，搭配 7 座纜車。主要路線有 セカンド第1、セカンド第2、セカンド第3，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

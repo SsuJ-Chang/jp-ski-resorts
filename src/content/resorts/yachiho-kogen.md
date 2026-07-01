@@ -118,11 +118,6 @@ terrainSummary:
   intermediate: 中級雪道約 40%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Yachiho Kogen Ski Area Official Website
-  url: https://yachiho-kogen.com/ski/
-- label: Yachiho Kogen Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/34843/
 ---
 
 長野縣的八千穗高原以8 條雪道，搭配 4 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向雙板與單板。

@@ -75,13 +75,6 @@ terrainSummary:
   intermediate: 中級者可用 スカイラインコース、チェスナットコース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 ラビットコース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Mizuho Highland Official
-  url: https://www.mizuhohighland.com/
-- label: Mizuho Highland Course Info
-  url: https://www.mizuhohighland.com/course/
-- label: 瑞穂ハイランド Weathernews
-  url: https://weathernews.jp/ski/spot/36801/
 contact:
   address:
     zhTw: 島根縣邑智郡邑南町市木6242-19

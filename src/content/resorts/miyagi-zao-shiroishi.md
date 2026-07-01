@@ -113,15 +113,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "みやぎ蔵王白石スキー場 Official Website"
-    url: "http://www.nposki.com"
-  - label: "みやぎ蔵王白石スキー場 Access"
-    url: "https://www.nposki.com/access/"
-  - label: "Weathernews みやぎ蔵王白石スキー場"
-    url: "https://weathernews.jp/ski/spot/33411/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 宮城藏王白石在宮城縣提供8 條雪道，搭配 4 座纜車。路線包含 エプロン、ファミリーコース、Aコース，整體初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

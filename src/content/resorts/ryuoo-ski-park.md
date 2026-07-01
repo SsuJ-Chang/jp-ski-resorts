@@ -160,11 +160,6 @@ externalContent:
   - title: 竜王スキーパーク　ツリーランエリアついに開放！ 全エリア徹底解説！
     url: https://www.youtube.com/watch?v=6IYNdq0Hy14
     note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
-sources:
-- label: Ryuoo Ski Park Official Website
-  url: http://www.ryuoo.com/snow/
-- label: Ryuoo Ski Park Weathernews
-  url: https://weathernews.jp/ski/spot/34860/
 ---
 
 龍王 Ski Park位於長野縣，是中型雪場，共有20 條雪道，搭配 9 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向夜滑、雙板與單板。

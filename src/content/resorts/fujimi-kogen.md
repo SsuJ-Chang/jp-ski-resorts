@@ -104,11 +104,6 @@ terrainSummary:
   intermediate: 中級雪道約 20%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
   snowboard: 單板滑行限制：を夜滑限定としている為スキーヤーに優しいゲレンデです。楽しく安全、交通の便も良いため、日帰りも楽々OKです。ぜひご利用下さい。詳しいお問い合わせは富士見高原スキー場TEL0266-66-2932止。 {{hitokoto}} 新型コロナウイルス感染予防対策 --> 標高 1400m 〜 1250m コース数 2 リフト数 4 ボード滑走 不可 夜滑營業限定可(1/10〜2/21止の每週週六)センターゲレンデ限定18：00〜20：30(最終リフト乗車20：20)。
-sources:
-- label: Fujimi Kogen Ski Area Official Website
-  url: http://fujimikogen-resort.jp/
-- label: Fujimi Kogen Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/34834/
 ---
 
 富士見高原位於長野縣，是小型練習雪場，共有2 條雪道，搭配 4 座纜車。雪道配置偏初級，練習門檻較低，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、親子同行。

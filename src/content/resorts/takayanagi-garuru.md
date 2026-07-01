@@ -84,11 +84,6 @@ access:
 terrainSummary:
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
   beginner: 初級雪道約 100%，可安排暖身、基礎練習或親子滑行。
-sources:
-- label: Takayanagi Garuru Ski Area Official Website
-  url: http://www.garuru-kururu.jp/
-- label: Takayanagi Garuru Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/35483/
 ---
 
 高柳 Garuru位於新潟縣，是小型練習雪場，共有1 條雪道，搭配 1 座纜車。單一路線配置，重點在簡單滑行與基本練習，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、親子同行。

@@ -102,13 +102,6 @@ terrainSummary:
   intermediate: 主雪道提供入口側的中級滑行與景觀。
   advanced: A + Polar Bear Course 為未壓雪饅頭斜面，難度較高。
   snowboard: 可作為志賀高原入口側的短距離練習區。
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
 ---
 
 志賀高原 Sun Valley 位於長野縣，是志賀高原裡很容易拿來當作起滑或收尾的一區。地形不複雜，但和鄰近區域的銜接方便，適合把暖身、調整節奏和區域串聯排在同一天。

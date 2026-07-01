@@ -109,17 +109,6 @@ externalContent:
   - title: 【日本自由行】EP3 橫手山滑雪場❄️日本最高滑雪場！涉峠滑雪場⛄雪道、山景全紀錄！交通攻略！長電巴士！志賀高原黃金連線❄️志賀高原站滑回一之瀨⛄一之瀨 燒肉店
     url: https://www.youtube.com/watch?v=RmK6qKwdEPs
     note: 和Ivy去旅行
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Yokoteyama Shibutoge Official
-  url: https://yokoteyama2307.com/
-- label: Weathernews 横手山・渋峠スキー場
-  url: https://weathernews.jp/ski/spot/34804/
-- label: Yokoteyama Shibutoge Access
-  url: https://yokoteyama2307.com/access/
 ---
 
 澀峠位在長野縣，滑行區由3 條雪道，搭配 1 座纜車構成。Waver Course、Simple Course、Gemse Course 等路線能看出坡面配置，以初級與中級路線為主。

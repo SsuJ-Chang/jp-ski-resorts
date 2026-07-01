@@ -122,11 +122,6 @@ terrainSummary:
   intermediate: 中級雪道約 50%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 30%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Blanche Takayama Ski Resort Official Website
-  url: https://www.blanche-ski.com/
-- label: Blanche Takayama Ski Resort Weathernews
-  url: https://weathernews.jp/ski/spot/34844/
 ---
 
 Blanche 高山位於長野縣，以9 條雪道構成中小型雪場，搭配 6 座纜車。初級、中級與上級路線都有配置，描述聚焦在雪道規模與難度結構；標籤上偏向雙板與單板。

@@ -59,11 +59,6 @@ terrainSummary:
   intermediate: 中級者可用 中級巡航區 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 上級急斜面區，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Karuizawa Snow Park Official
-  url: https://karuizawa.holidayinnresorts.com/ski/
-- label: 軽井沢スノーパーク Weathernews
-  url: https://weathernews.jp/ski/spot/34220/
 contact:
   address:
     zhTw: 群馬縣吾妻郡長野原町大字北軽井沢2032-16

@@ -97,11 +97,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Daisen City Ohdai Ski Area Official Website"
-    url: "https://ohdai.omagari-sc.com/"
-  - label: "Weathernews 大仙市大台"
-    url: "https://weathernews.jp/ski/spot/33217/"
 ---
 
 大仙市大台位於秋田縣，是中小型雪場，共有6 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、夜滑。

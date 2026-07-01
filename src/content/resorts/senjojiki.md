@@ -99,15 +99,6 @@ terrainSummary:
   intermediate: 中級比例約 50%，實際可滑範圍需視 Ropeway、天候與積雪狀況。
   advanced: 可體驗本格山岳滑雪與 backcountry 氛圍，需注意安全與開放條件。
   powder: 高海拔與積雪條件是主要特色，但即時雪況請以官方與當日資訊為準。
-sources:
-- label: Senjojiki Ski Area Official Website
-  url: https://www.chuo-alps.com/ski/
-- label: Weathernews 中央アルプス千畳敷スキー場
-  url: https://weathernews.jp/ski/spot/44806/
-- label: Weathernews 中部人氣排名
-  url: https://weathernews.jp/ski/area/chubu/ranking.html
-- label: Chuo Alps Komagatake Ropeway Access
-  url: https://www.chuo-alps.com/access/
 ---
 
 中央阿爾卑斯千疊敷位於長野縣，以4 條雪道形成小型雪場規模，搭配 1 座纜車。主要路線有 千畳敷カールゲレンデコース、駒ヶ岳〜黒川コース、伊那前岳架線沢コース，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

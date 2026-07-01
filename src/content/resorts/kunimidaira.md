@@ -101,11 +101,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Kunimidaira Ski Area Official Website"
-    url: "https://kunimidaira.com/"
-  - label: "Weathernews 国見平スキー場"
-    url: "https://weathernews.jp/ski/spot/33314/"
 ---
 
 國見平位在岩手縣，雪道數為11 條，搭配 2 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向雙板與單板。

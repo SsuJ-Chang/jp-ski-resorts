@@ -243,18 +243,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: LOTTE ARAI RESORT Official Website
-  url: https://www.lottehotel.com/arai-resort/ja.html
-  note: 官方網站部分內容需以瀏覽器載入，初版僅存官方入口。
-- label: Arai Mountain Resort Weathernews
-  url: https://weathernews.jp/ski/spot/35494/
-- label: LOTTE ARAI RESORT Course Video
-  url: https://www.youtube.com/watch?v=HiKfJdpvWHI
-  note: 影片說明欄提供妙高ロングラン、六本木ロード、ヴィレッジロード、ポニー、ビーフリー、アンコール、エキサイター、サンライズ等雪道章節時間軸。
-- label: LOTTE ARAI RESORT Freeride Course Video 2026
-  url: https://www.youtube.com/watch?v=7p0ar07fyPc
-  note: 影片說明欄提供ウマノセ、KG、ヴィレッジロード、ポニー、アンコール、ビーフリー、ベンザク、船石、膳棚ボウル、ベアバレー、大斜面、東斜面、妙高ロングラン等章節時間軸。
 ---
 
 樂天新井是新潟縣的中型雪場，共有 14 條雪道，搭配 8 座纜車。雪道如 妙高ロングラン、タテガミ，初級、中級與上級路線都有配置，標籤偏向親子同行、夜滑。

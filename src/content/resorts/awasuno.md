@@ -114,13 +114,6 @@ terrainSummary:
   intermediate: 中級雪道占 40%，適合已能穩定轉彎的滑雪者參考。
   advanced: 上級雪道占 25%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
-sources:
-- label: あわすのスキー場 Official
-  url: https://www.awasuno.com/
-- label: あわすのスキー場 Access
-  url: https://www.awasuno.com/access/
-- label: Weathernews あわすのスキー場
-  url: https://weathernews.jp/ski/spot/35509/
 ---
 
 Awasuno位於富山縣，以6 條雪道形成中小型雪場規模，搭配 3 座纜車。主要路線有 スノードルフィンコース、ダイナミックコース、レッスンバーン，初級、中級與上級路線都有配置；標籤上偏向親子同行、雙板與單板。

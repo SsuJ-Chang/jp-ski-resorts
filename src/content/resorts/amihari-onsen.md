@@ -102,17 +102,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "網張温泉 Official Website"
-    url: "http://www.qkamura.or.jp/ski/iwate"
-  - label: "Weathernews 網張温泉"
-    url: "https://weathernews.jp/ski/spot/33305/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
-  - label: "休暇村 網張温泉スキー場 Course Map PDF"
-    url: "https://qkamura.or.jp/cms/blog/05260003/20170916200919.pdf"
-  - label: "楽天トラベル 網張温泉スキー場 コース情報"
-    url: "https://travel.rakuten.co.jp/ski/49/course.html"
 ---
 
 網張溫泉是岩手縣的中小型雪場，整理為7 條雪道，搭配 4 座纜車。雪道如 雙子林間 Course / 双子林間コース、落葉松坡 / カラマツスロープ、水楢坡 / ミズナラスロープ，初級、中級與上級路線都有配置；標籤上偏向親子同行、溫泉停留。

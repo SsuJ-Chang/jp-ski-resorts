@@ -124,15 +124,6 @@ externalContent:
       url: https://natasha-traveler.tw/akita-aniski/
       note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
-sources:
-  - label: "Ani Ski Area Official Website"
-    url: "http://www.aniski.jp"
-  - label: "Weathernews 阿仁"
-    url: "https://weathernews.jp/ski/spot/33208/"
-  - label: "Ani Ski Area Slope Guide"
-    url: "https://www.aniski.jp/slope"
-    note: "提供雪道名稱、難度、長度、坡度與高低差資訊。"
-
 ---
 
 秋田縣的阿仁共有 5 條雪道，搭配 3 座纜車，包含 らくらくコース、サンシャインコース 等路線；雪道配置偏初級，練習門檻較低，標籤偏向初學者練習、親子同行。

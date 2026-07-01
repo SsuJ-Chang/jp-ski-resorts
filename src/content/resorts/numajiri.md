@@ -100,11 +100,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Numajiri Ski Area Official Website"
-    url: "https://www.numajiri-ski.jp"
-  - label: "Weathernews 沼尻スキー場"
-    url: "https://weathernews.jp/ski/spot/33617/"
 ---
 
 沼尻在福島縣提供7 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

@@ -173,16 +173,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Kashimayari Snow Resort Official Website
-  url: https://www.kashimayari.net/snow/
-- label: Kashimayari Snow Resort Course / Trail Map
-  url: https://www.kashimayari.net/snow/course/
-- label: Kashimayari Snow Resort Ticket
-  url: https://www.kashimayari.net/snow/ticket/
-- label: Kashimayari Course Video
-  url: https://www.youtube.com/watch?v=pykcVTbi5_I
-  note: 影片說明欄提供黒沢、一本ブナ、鹿島槍林道、遠見グランドビュー、丸山バイパス、中綱スーパー林道等雪道章節時間軸。
 ---
 
 鹿島槍在長野縣提供12 條雪道。路線包含 1A コース1：遠見グランドビューA、1B・1C コース1：遠見グランドビューB・C、2 コース2：黒沢ゲレンデ，整體僅保留已確認的規模與路線配置；標籤上偏向雙板與單板、親子同行。

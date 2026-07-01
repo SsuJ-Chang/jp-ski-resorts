@@ -67,14 +67,6 @@ access:
     recommended: true
     snowTireRequired: true
     note: "從松山 IC 約 80 分，從內子 IC 約 60 分；停車場約 700 台，冬季山區道路需準備雪胎或防滑裝備。"
-sources:
-- label: SOL-FA Official Website
-  url: https://sol-fa.com/
-- label: SOL-FA Access
-  url: https://sol-fa.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9-1/
-- label: SOL-FAオダスキーゲレンデ Weathernews
-  url: https://weathernews.jp/ski/spot/37304/
-  note: 使用者指定附上的雪場資料頁。
 ---
 
 SOL-FA Oda位於愛媛縣，共有5 條雪道，規模雖然不大，但雪道集中，半天到一天就能把主要路線輪過一遍。中級者ゲレンデ、スノーパーク能看出這裡仍是地方型雪場常見的短中距離坡段。比起追求刷里程，這裡更適合把時間放在動作熟悉與同伴配速。

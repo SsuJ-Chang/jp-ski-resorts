@@ -86,11 +86,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Tajima Farm Park Official Website"
-    url: "http://www.bokujyo.com/winter/"
-  - label: "Weathernews 但馬牧場公園"
-    url: "https://weathernews.jp/ski/spot/36319/"
 ---
 
 但馬牧場公園是兵庫縣的小型雪場，整理為4 條雪道，搭配 1 座纜車。初級、中級與上級路線都有配置，介紹保留在可確認的雪道數與難度比例；標籤上偏向溫泉停留、雙板與單板。

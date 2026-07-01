@@ -112,11 +112,6 @@ terrainSummary:
   advanced: 高級雪道約 20%，提供較有坡度的滑行選擇。
   snowboard: 雪板可全區滑行。
   powder: 雪場主打天然雪，但實際雪質仍依當日天候而定。
-sources:
-- label: Hida Kawai Official
-  url: https://www.hidakawai.com/
-- label: Weathernews 飛騨かわいスキー場
-  url: https://weathernews.jp/ski/spot/35239/
 ---
 
 飛驒河合在岐阜縣提供4 條雪道，搭配 3 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向親子同行、雙板與單板。

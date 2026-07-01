@@ -349,25 +349,6 @@ externalContent:
   - title: Ryan Knapton雪板比較好嗎？ | ZAO 2024追雪 acepro | 藏王滑雪day 02 part1
     url: https://www.youtube.com/watch?v=mvwF0qNgOS4
     note: 大林滑雪男子
-sources:
-- label: 蔵王温泉スキー場 Official Website
-  url: https://zaomountainresort.com/
-- label: 蔵王温泉 ゲレンデマップ
-  url: https://zaomountainresort.com/gerende/
-- label: 蔵王温泉 リフト券購入・料金
-  url: https://zaomountainresort.com/chrage/
-- label: 蔵王温泉 Access
-  url: https://zaomountainresort.com/access/
-- label: Weathernews 蔵王温泉スキー場
-  url: https://weathernews.jp/ski/spot/33501/
-- label: Weathernews 東北のスキー場人気ランキング
-  url: https://weathernews.jp/ski/area/tohoku/ranking.html
-- label: Zao Onsen Top to Bottom Course Video
-  url: https://www.youtube.com/watch?v=860eRhy28oA
-  note: 影片說明欄提供パラダイス、上の台、樹氷原、ユートピア、横倉等雪道章節時間軸。
-- label: Zao Onsen All Slopes Part 2 Course Video
-  url: https://www.youtube.com/watch?v=kyDWzaVnbRc
-  note: 影片說明欄提供横倉、ユートピア、樹氷原、大森、黒姫等雪道章節時間軸。
 ---
 
 藏王溫泉位於山形縣，官方標示有 14 個雪道區與 12 條主要課程路線，從樹冰高原到溫泉街之間可以排出很長的串連滑行。路線組成同時包含高鳥、大平這類長距離巡航線，以及ハーネンカム、黑姬、大森這些較有挑戰性的斜面，再加上上之台夜滑，整體節奏很完整。

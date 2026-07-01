@@ -181,15 +181,6 @@ terrainSummary:
   intermediate: 可用巡航路線安排中級滑行，但實際開放需看官方公告。
   advanced: 公開資料提到かもしかゲレンデ與 sidecountry 氛圍，進階玩家需留意開放狀態與安全規則。
   powder: 乘鞍岳山麓與粉雪是 的主要特色之一。
-sources:
-- label: Mt. Norikura Snow Resort Official Website
-  url: https://www.brnorikura.jp/
-- label: Weathernews Mt.乗鞍スノーリゾート
-  url: https://weathernews.jp/ski/spot/34807/
-- label: Weathernews 中部人氣排名
-  url: https://weathernews.jp/ski/area/chubu/ranking.html
-- label: Mt. Norikura Snow Resort Access
-  url: https://www.brnorikura.jp/access/
 ---
 
 Mt.乘鞍 Snow Resort位於長野縣，亮點是從高處延伸到山麓的長距離滑行，最長線約 5,000 公尺。一路下滑時，開闊坡面、林間段落與山景會逐步轉換；適合不只想滑雪，也想把身體放鬆與地方氛圍一起安排的人。

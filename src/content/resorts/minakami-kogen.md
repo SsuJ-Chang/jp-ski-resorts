@@ -199,17 +199,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Minakami Kogen Official Website
-  url: https://www.minakami-ski.jp/
-- label: Minakami Kogen Gelande
-  url: https://www.minakami-ski.jp/gerande/
-- label: Minakami Kogen Price
-  url: https://www.minakami-ski.jp/price/
-- label: Minakami Kogen Access
-  url: https://www.minakami-ski.jp/access/
-- label: Minakami Kogen Weathernews
-  url: https://weathernews.jp/ski/spot/34205/
 ---
 
 水上高原位於群馬縣水上雪區，滑行節奏可以在家庭取向的主雪道與積雪後較有變化的區域之間切換。若同行者需求不同，這裡比純進階雪場更容易把練習、玩雪與正式滑行排在同一天。

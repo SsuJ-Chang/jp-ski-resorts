@@ -99,11 +99,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Mogami Akakura Onsen Ski Area Official Website"
-    url: "https://akakura-spa-ski.com/"
-  - label: "Weathernews 山形県最上町　赤倉温泉スキー場"
-    url: "https://weathernews.jp/ski/spot/33512/"
 ---
 
 山形縣的最上赤倉溫泉以5 條雪道，搭配 3 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。

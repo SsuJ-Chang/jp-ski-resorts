@@ -130,17 +130,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Mt.月山 Official SNOW
-  url: https://mt-gassan.com/snow/
-- label: 月山スキー場 営業案内
-  url: https://mt-gassan.com/snow/info/
-- label: 月山スキー場 ゲレンデガイド
-  url: https://mt-gassan.com/snow/guide/
-- label: 月山スキー場 Access
-  url: https://mt-gassan.com/snow/access/
-- label: OpenStreetMap 月山ペアリフト
-  url: https://www.openstreetmap.org/way/366322140
 ---
 
 月山位於山形縣，特色不是一般冬季度假雪場的完整壓雪配置，而是春季到初夏仍可滑行的殘雪地形。澤コース與大斜面一帶更看重季節雪況、地形起伏與步調判斷，適合想體驗晚季滑雪的人。

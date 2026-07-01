@@ -104,11 +104,6 @@ terrainSummary:
   intermediate: 中級雪道約 20%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 10%，可安排較有坡度與速度感的滑行。
   snowboard: 單板滑行限制：一部を除いて可 ソリ遊び用ゲレンデは滑走不可。
-sources:
-- label: Kirigamine Family Gelande Official Website
-  url: https://www.city.suwa.lg.jp/site/enjoy/4445.html
-- label: Kirigamine Family Gelande Weathernews
-  url: https://weathernews.jp/ski/spot/34817/
 ---
 
 霧ヶ峰 Family Gelande位於長野縣，以3 條雪道構成小型雪場，搭配 1 座纜車。雪道配置偏初級，練習門檻較低，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、親子同行。

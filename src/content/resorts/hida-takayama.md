@@ -119,11 +119,6 @@ terrainSummary:
   intermediate: 中級雪道約 70%，是主要坡面比例。
   snowboard: 雪板可全區滑行。
   powder: 區域標榜乾爽粉雪，但實際雪況需看當日天候。
-sources:
-- label: Hida Takayama Tourism Official
-  url: https://www.hidatakayama.or.jp/spot/detail_1193.html
-- label: Weathernews 飛騨高山スキー場
-  url: https://weathernews.jp/ski/spot/35216/
 ---
 
 飛驒高山位於岐阜縣，共有4 條雪道、1 座纜車，重點不只在壓雪主線，還包含自然地形與雪況變化。上部與邊側路線通常比山麓更有地形起伏，滑感會隨雪況明顯改變。如果你想把巡航之外的粉雪感、林間感或地形閱讀排進一天，這類配置會更有內容。

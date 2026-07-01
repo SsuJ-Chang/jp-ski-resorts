@@ -133,15 +133,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "会津高原南郷スキー場 Official Website"
-    url: "http://www.nango-ski.com"
-  - label: "会津高原南郷スキー場 Access"
-    url: "https://www.nango-ski.com/access/"
-  - label: "Weathernews 会津高原南郷スキー場"
-    url: "https://weathernews.jp/ski/spot/33618/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 會津高原南鄉位於福島縣，以12 條雪道形成中型雪場規模，搭配 3 座纜車。主要路線有 横手コース、伝上コース、白樺コース，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

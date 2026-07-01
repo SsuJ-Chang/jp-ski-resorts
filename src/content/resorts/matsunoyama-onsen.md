@@ -108,11 +108,6 @@ terrainSummary:
   intermediate: 中級雪道約 40%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 40%，可安排較有坡度與速度感的滑行。
   powder: 降雪條件好時可期待鬆雪感，實際仍需以當日開放區域與安全管制為準。
-sources:
-- label: Matsunoyama Onsen Ski Area Official Website
-  url: http://www.matsunoyama-ski.com/
-- label: Matsunoyama Onsen Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/35422/
 ---
 
 松之山溫泉位於新潟縣，以5 條雪道構成小型雪場，搭配 2 座纜車。上級路線比例明顯，坡面變化較多，描述聚焦在雪道規模與難度結構；標籤上偏向溫泉停留、雙板與單板。

@@ -120,11 +120,6 @@ terrainSummary:
   beginner: 初級雪道約 30%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 40%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 30%，可安排較有坡度與速度感的滑行。
-sources:
-- label: Suhara Ski Area Official Website
-  url: http://www.suhara-ski.com/
-- label: Suhara Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/35457/
 ---
 
 須原位於新潟縣，是中小型雪場，共有 10 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，內文以雪道數與難度比例為主，標籤偏向雙板與單板。

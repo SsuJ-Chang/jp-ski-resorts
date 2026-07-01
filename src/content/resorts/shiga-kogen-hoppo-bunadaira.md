@@ -86,16 +86,6 @@ terrainSummary:
   beginner: 官方描述為寬廣緩斜面，適合初級者長距離練習。
   intermediate: 雖官方等級列為中級，實際特色偏寬緩。
   snowboard: 寬雪道對雪板練習連續轉彎較友善。
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
-- label: Shiga Kogen Central Area Part 2 Course Video
-  url: https://www.youtube.com/watch?v=KQCss9sO5U0
-  note: 影片說明欄以區域章節提供発哺ブナ平滑行時間軸；此處對應至現有 Bunadaira Gelende。
 ---
 
 志賀高原發哺ブナ平是長野縣的小型練習雪場，整理為1 條雪道，搭配 1 座纜車。雪道如 Bunadaira Gelende，單一路線配置，重點在簡單滑行與基本練習；標籤上偏向初學者練習。

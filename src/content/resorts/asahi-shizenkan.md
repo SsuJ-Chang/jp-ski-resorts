@@ -76,15 +76,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Asahi Shizenkan Snow Park Official Website"
-    url: "http://www.shizenkan.jp/winter/"
-  - label: "Weathernews Asahi自然観スノーパーク"
-    url: "https://weathernews.jp/ski/spot/33513/"
-  - label: "Asahi自然観 Snow Park Slope Guide"
-    url: "https://www.shizenkan.jp/winter-slope/"
-    note: "提供坡面名稱、坡面定位、最大斜度、標高與纜車數資訊。"
-
 ---
 
 Asahi自然観スノーパーク位於山形縣朝日町，由ユーユー與ファンタジー兩個坡面組成。前者偏初級與家庭取向，後者坡面變化較多，最大斜度約 22 度，適合小規模練習行程。

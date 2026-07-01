@@ -74,11 +74,6 @@ access:
 terrainSummary:
   beginner: 初級雪道比例 100%，適合緩坡練習與親子雪上活動。
   snowboard: 雪板可全區滑行。
-sources:
-- label: Shizuoka City Riverwell Ikawa Official
-  url: https://www.city.shizuoka.lg.jp/okushizuoka/spot/s000004.html
-- label: Weathernews 静岡市リバウェル井川スキー場
-  url: https://weathernews.jp/ski/spot/35001/
 ---
 
 靜岡縣的Riverwell 井川以1 條雪道，搭配 1 座纜車組成滑行區。單一路線配置，重點在簡單滑行與基本練習，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。

@@ -98,11 +98,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Shibetsu Hinata Ski Area Official Website"
-    url: "https://www.city.shibetsu.lg.jp/soshikikarasagasu/gasshukunosato_supotsusuishinka/shiminsupotsukakari/1351.html"
-  - label: "Weathernews 士別市日向スキー場"
-    url: "https://weathernews.jp/ski/spot/31212/"
 ---
 
 士別市日向是北海道的小型雪場，整理為5 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，介紹保留在可確認的雪道數與難度比例；標籤上偏向夜滑、溫泉停留。

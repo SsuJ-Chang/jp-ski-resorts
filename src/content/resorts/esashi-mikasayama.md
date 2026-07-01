@@ -97,11 +97,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Esashi Mikasayama Ski Area Official Website"
-    url: "http://www.ski.npo-emsc.net/"
-  - label: "Weathernews 枝幸町三笠山スキー場"
-    url: "https://weathernews.jp/ski/spot/31102/"
 ---
 
 枝幸町三笠山位在北海道，雪道數為4 條，搭配 1 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。

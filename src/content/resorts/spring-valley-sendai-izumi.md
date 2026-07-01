@@ -115,11 +115,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Spring Valley Sendai Izumi Ski Area Official Website"
-    url: "https://www.springvalley.co.jp/"
-  - label: "Weathernews スプリングバレー仙台泉スキー場"
-    url: "https://weathernews.jp/ski/spot/33410/"
 ---
 
 Spring Valley 仙台泉位於宮城縣，以12 條雪道構成中型雪場，搭配 4 座纜車。初級、中級與上級路線都有配置，描述聚焦在雪道規模與難度結構；標籤上偏向親子同行、夜滑。

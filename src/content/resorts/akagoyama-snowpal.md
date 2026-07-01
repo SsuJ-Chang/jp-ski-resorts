@@ -46,11 +46,6 @@ courses:
   intermediateRatio: 30
 terrainSummary:
   beginner: 初級雪道以 スノーパルゲレンデ 為主，適合練習速度控制與穩定轉彎。
-sources:
-- label: Akagoyama Snowpal Official
-  url: https://woodypal.jp/
-- label: 赤子山スキー場スノーパル Weathernews
-  url: https://weathernews.jp/ski/spot/36008/
 contact:
   address:
     zhTw: 滋賀縣長浜市余呉町中之郷260

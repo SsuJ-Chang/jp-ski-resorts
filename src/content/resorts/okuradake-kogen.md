@@ -108,17 +108,6 @@ terrainSummary:
   intermediate: 日本海 Course 提供中級下滑路線。
   advanced: Wedeln Course 最大坡度 30°，官方描述為刺激路線。
   snowboard: 官方說明可使用雙板與雪板滑行，但兒童雪坡有滑具限制。
-sources:
-- label: 大倉岳高原 Official
-  url: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/
-- label: 大倉岳高原 Guide
-  url: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/guide/
-- label: 大倉岳高原 Price
-  url: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/price/
-- label: 大倉岳高原 Access
-  url: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/access/
-- label: Weathernews 大倉岳高原
-  url: https://weathernews.jp/ski/spot/35605/
 ---
 
 大倉岳高原位在石川縣，滑行區由4 條雪道，搭配 3 座纜車構成。ファミリーゲレンデ / Family Gelande、チビッコゲレンデ / Chibikko Gelande、日本海コース / Nihonkai Course 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

@@ -225,28 +225,6 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP2 白馬五龍&47滑雪場🗻｜白馬阿爾卑斯酒店🏨｜租雪具1000日幣🏂｜自學滑雪全紀錄❄️｜成吉思汗烤羊肉🐑｜單日來回兩個雪場｜日本雪場開箱｜🚌
     url: https://www.youtube.com/watch?v=TgPjyzJeDnE
     note: 和Ivy去旅行
-sources:
-- label: Hakuba 47 Winter Sports Park Official Website
-  url: https://www.hakuba47.co.jp/winter/en/
-- label: Hakuba 47 Winter Sports Park Course / Trail Map
-  url: https://www.hakuba47.co.jp/winter/en/mountain/mountain_info/
-- label: Hakuba 47 Winter Sports Park Ticket
-  url: https://www.hakuba47.co.jp/winter/en/tickets/lift_tickets_info/1000/
-- label: Hakuba 47 Winter Sports Park Access
-  url: https://www.hakuba47.co.jp/winter/en/access/
-- label: Hakuba 47 / Able Hakuba Goryu Joint Lift Ticket
-  url: https://www.hakubaescal.com/winter/tickets/lift/
-- label: Hakuba47 Ski Area Basic Info
-  url: https://www.hakuba47.co.jp/winter/area/info/
-- label: Hakuba47 Course Video
-  url: https://www.youtube.com/watch?v=f9N5IUrL000
-  note: 影片說明欄提供 Route 1、Route 2、Route 3、Route 5、Route 6、Route 7、Route 8 章節時間軸。
-- label: Hakuba Goryu and Hakuba47 Course Video 2024
-  url: https://www.youtube.com/watch?v=EuUdXoyB2mo
-  note: 影片說明欄提供 Hakuba47 Route 1、Route 2、Route 5、Route 8，以及白馬五龍部分雪道章節時間軸。
-- label: Hakuba Goryu and Hakuba47 Course Video 2022
-  url: https://www.youtube.com/watch?v=3e-zXtiQFwU
-  note: 影片說明欄提供 Hakuba47 Route 1 與 snow park 章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 Hakuba 47 位於長野縣白馬山麓，強項是從上部一路往下拉的長距離滑行，以及和白馬五龍串接後的路線自由度。單日就能排出寬坡巡航、地形變化與不同難度切換，不會只剩單一節奏。

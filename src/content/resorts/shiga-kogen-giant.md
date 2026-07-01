@@ -92,13 +92,6 @@ terrainSummary:
   beginner: Nanamagari Course 提供避開主斜面的安全移動路線。
   intermediate: Connection Course 主要作為區域銜接。
   advanced: Giant Gelende 是中央區域代表性高難度斜面。
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
 ---
 
 長野縣的志賀高原 Giant共有 3 條雪道，搭配 2 座纜車，包含 Giant Nanamagari Course 等路線；初級、中級與上級路線都有配置。

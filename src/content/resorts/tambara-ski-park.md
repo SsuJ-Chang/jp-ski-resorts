@@ -103,13 +103,6 @@ terrainSummary:
   advanced: 進階路線包含 B トライアルコース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
   powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
-sources:
-- label: Tambara Ski Park Official
-  url: https://www.tambara.co.jp/winter/
-- label: Tambara Ski Park Course Info
-  url: https://www.tambara.co.jp/winter/course/
-- label: たんばらスキーパーク Weathernews
-  url: https://weathernews.jp/ski/spot/34209/
 contact:
   address:
     zhTw: 群馬縣沼田市玉原高原

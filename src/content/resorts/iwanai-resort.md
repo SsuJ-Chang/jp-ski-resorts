@@ -86,11 +86,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Iwanai Resort Official Website"
-    url: "https://iwanairesort.com"
-  - label: "Weathernews Iwanai Resort"
-    url: "https://weathernews.jp/ski/spot/31614/"
 ---
 
 北海道的Iwanai Resort以3 條雪道，搭配 1 座纜車組成滑行區。雪道配置偏初級，練習門檻較低，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、溫泉停留。

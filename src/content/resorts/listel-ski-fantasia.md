@@ -95,11 +95,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Listel Ski Fantasia Official Website"
-    url: "http://www.listel-inawashiro.jp/snow_season/"
-  - label: "Weathernews リステルスキーファンタジア"
-    url: "https://weathernews.jp/ski/spot/33606/"
 ---
 
 Listel Ski Fantasia位於福島縣，是中小型雪場，共有6 條雪道，搭配 3 座纜車。上級路線比例明顯，坡面變化較多，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、親子同行。

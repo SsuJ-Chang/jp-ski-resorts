@@ -130,12 +130,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Abashiri Lake View Ski Area Official Website
-  url: https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html
-  note: 提供 2026 年更新的營業時間、票價、停車場、雪道指南與纜車資訊。
-- label: Weathernews 網走レークビュースキー場
-  url: https://weathernews.jp/ski/spot/31708/
 ---
 
 網走 Lake View 位於北海道，是中小型雪場，共有 6 條雪道，搭配 1 座纜車。代表路線包含 第1コース、第5コース，雪道配置偏初級，練習門檻較低，標籤偏向初學者練習、夜滑。

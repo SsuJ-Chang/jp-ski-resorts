@@ -90,13 +90,6 @@ terrainSummary:
   intermediate: 中級者可用 林間 700 コース、林間 800 コース、林間 900 IN / OUT、林間 1000 コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 ダウンヒルコース、スカイコース、チャレンジコース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Megahira Onsen Ski Resort Official
-  url: https://www.megahira.co.jp/
-- label: Megahira Onsen Ski Resort Course Info
-  url: https://www.megahira.co.jp/ski/map/
-- label: 女鹿平温泉めがひら Weathernews
-  url: https://weathernews.jp/ski/spot/36720/
 contact:
   address:
     zhTw: 廣島縣廿日市市吉和4301

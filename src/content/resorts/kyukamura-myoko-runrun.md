@@ -88,11 +88,6 @@ access:
 terrainSummary:
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
   beginner: 初級雪道約 100%，可安排暖身、基礎練習或親子滑行。
-sources:
-- label: Kyukamura Myoko RunRun Ski Area Official Website
-  url: https://www.qkamura.or.jp/myoukou/
-- label: Kyukamura Myoko RunRun Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/35469/
 ---
 
 休暇村妙高 RunRun在新潟縣提供1 條雪道，搭配 1 座纜車。單一路線配置，重點在簡單滑行與基本練習，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

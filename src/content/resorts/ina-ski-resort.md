@@ -104,11 +104,6 @@ terrainSummary:
   beginner: 初級雪道約 70%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 30%，適合穩定滑行與轉彎練習。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Chuo Expressway Ina Ski Resort Official Website
-  url: http://www.inaski.com/
-- label: Chuo Expressway Ina Ski Resort Weathernews
-  url: https://weathernews.jp/ski/spot/34831/
 ---
 
 中央道伊那 Ski Resort位在長野縣，雪道數為2 條，搭配 2 座纜車。雪道配置偏初級，練習門檻較低，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。

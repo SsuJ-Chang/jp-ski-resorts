@@ -136,14 +136,6 @@ terrainSummary:
   beginner: 初級雪道約 35%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 40%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 25%，可安排較有坡度與速度感的滑行。
-sources:
-- label: Muica Snow Resort Official Website
-  url: http://www.muikamachi.com/ski/
-- label: Muica Snow Resort Weathernews
-  url: https://weathernews.jp/ski/spot/35447/
-- label: Muica Course Video 2026
-  url: https://www.youtube.com/watch?v=sR3aPaeWmHI
-  note: 影片說明欄提供 Swallow、Falcon、Eagle、Blue Bird 等雪道章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 Muica Snow Resort是新潟縣的中型雪場，整理為12 條雪道，搭配 4 座纜車。雪道如 5 スワローコース / Swallow Course、4 ファルコンコース / Falcon Course、ハイクアップゾーン / Hike up Zone，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

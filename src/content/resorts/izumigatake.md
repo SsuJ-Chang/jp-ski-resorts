@@ -94,11 +94,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Izumigatake Ski Area Official Website"
-    url: "http://www.izumigatake.info"
-  - label: "Weathernews 泉ヶ岳"
-    url: "https://weathernews.jp/ski/spot/33402/"
 ---
 
 泉岳在宮城縣提供4 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

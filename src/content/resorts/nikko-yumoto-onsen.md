@@ -58,13 +58,6 @@ courses:
 terrainSummary:
   beginner: 初級雪道以 A コース、B コース、C コース 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 D コース 串接較長滑行或主坡巡航。
-sources:
-- label: Nikko Yumoto Onsen Ski Area Official
-  url: https://nikkoyumoto-ski.com/
-- label: Nikko Yumoto Onsen Ski Area Course Info
-  url: https://nikkoyumoto-ski.com/guide.html#course
-- label: 日光湯元温泉 Weathernews
-  url: https://weathernews.jp/ski/spot/34102/
 contact:
   address:
     zhTw: 栃木縣日光市湯元温泉

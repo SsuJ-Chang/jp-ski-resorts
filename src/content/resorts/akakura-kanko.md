@@ -172,21 +172,6 @@ externalContent:
   - title: 【スキー場ガイド】赤倉観光リゾートスキー場 全面滑走可能になりました
     url: https://www.youtube.com/watch?v=_17etYo9GzA
     note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
-sources:
-- label: Akakura Kanko Resort Official Website
-  url: https://akr-ski.com/
-- label: Akakura Kanko Resort Slope and Price
-  url: https://akr-ski.com/slope/
-- label: Akakura Kanko Resort Access
-  url: https://akr-ski.com/access/
-- label: Akakura Kanko Resort Weathernews
-  url: https://weathernews.jp/ski/spot/35411/
-- label: Real Japan Nature YouTube Course Video 1
-  url: https://www.youtube.com/watch?v=FbHgahuNBoc
-  note: 影片章節提供赤倉觀光 Hotel 區部分雪道秒數，已對應至 courses.details[].videoLinks。
-- label: Real Japan Nature YouTube Course Video 2
-  url: https://www.youtube.com/watch?v=lCY_86gTt9A
-  note: 影片章節提供赤倉觀光 Champion 區與女子國體等部分雪道秒數，已對應至 courses.details[].videoLinks。
 ---
 
 赤倉觀光位於新潟縣，是中小型雪場，共有 8 條雪道，搭配 6 座纜車。代表路線包含 ホテルビギナーコース、女子国体コース，初級、中級與上級路線都有配置，標籤偏向初學者練習、親子同行。

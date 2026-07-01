@@ -194,22 +194,6 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP1 栂池高原滑雪場🗻（上集）｜Hotel Sunplaza Tsugaike｜自學滑雪全紀錄｜Nagano大採購｜機場租車自駕🚌
     url: https://www.youtube.com/watch?v=IJT-BvG2lsk
     note: 和Ivy去旅行
-sources:
-- label: Tsugaike Mountain Resort Official Website
-  url: https://www.tsugaike.gr.jp/snow
-- label: Tsugaike Mountain Resort Access
-  url: https://www.tsugaike.gr.jp/snow/access
-- label: Alpico Nagano-Hakuba Express Bus
-  url: https://www.alpico.co.jp/traffic/express/nagano_hakuba/
-- label: Tsugaike Gelande
-  url: https://www.tsugaike.gr.jp/snow/gelande
-- label: Tsugaike Lift Fee
-  url: https://www.tsugaike.gr.jp/snow/price
-- label: Tsugaike Weathernews
-  url: https://weathernews.jp/ski/spot/34808/
-- label: Hakuba Norikura Backcountry Course Video
-  url: https://www.youtube.com/watch?v=BvHin_2Mcog
-  note: 影片說明欄包含栂の森ゲレンデ章節時間軸，其餘 backcountry 章節未加入雪道連結。
 ---
 
 栂池高原位於長野縣白馬山麓，山麓超寬緩坡和上部 powder 區反差很大，從新手到進階都能各自找到重點。最長約 5,000 公尺的下滑距離，讓你可以把視野、節奏轉換與單趟完整感一次排進來。

@@ -89,11 +89,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Nihonmatsu Shiozawa Ski Area Official Website"
-    url: "http://www.tohoku-safaripark.co.jp/ski/"
-  - label: "Weathernews 二本松塩沢"
-    url: "https://weathernews.jp/ski/spot/33608/"
 ---
 
 福島縣的二本松鹽澤以4 條雪道，搭配 1 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。

@@ -89,17 +89,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "秋田八幡平 Official Website"
-    url: "https://www.akihachi.jp"
-  - label: "Weathernews 秋田八幡平"
-    url: "https://weathernews.jp/ski/spot/33211/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
-  - label: "秋田八幡平スキー場 Course Guide"
-    url: "https://www.akihachi.jp/"
-  - label: "秋田八幡平スキー場 Course Guide Image"
-    url: "https://www.akihachi.jp/img_01/main_02.png"
 ---
 
 秋田八幡平位於秋田縣，是小型練習雪場，共有2 條雪道，搭配 1 座纜車。代表路線包含 ぶな森雪道 / ぶな森ゲレンデ、トド松雪道 / トド松ゲレンデ，初級、中級與上級路線都有配置；標籤上偏向親子同行、溫泉停留。

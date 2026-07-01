@@ -142,16 +142,6 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP6 白馬Cortina 滑雪場🗻 (上集)｜Hotel Green Plaza Hakuba ｜白馬コルチナスキー場 ｜自學滑雪
     url: https://www.youtube.com/watch?v=70LF6aTsEEI
     note: 和Ivy去旅行
-sources:
-- label: Hakuba Cortina Snow Resort Official Website
-  url: https://www.hgp.co.jp/cortina/ski/
-- label: Hakuba Cortina Snow Resort Course / Trail Map
-  url: https://www.hgp.co.jp/cortina/ski/gelande/
-- label: Hakuba Cortina Snow Resort Ticket
-  url: https://www.hgp.co.jp/cortina/ski/charge/
-- label: Hakuba Cortina Course Video
-  url: https://www.youtube.com/watch?v=e72np4-Qpz4
-  note: 影片說明欄提供池の田、稗田山林間、板平、ラビット等雪道章節時間軸。
 ---
 
 白馬Cortina位於長野縣，頁面以已整理的雪場基本資料為主。若雪道細節來源不足，內文只保留可確認的資訊，不另外延伸形容。

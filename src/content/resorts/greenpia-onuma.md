@@ -118,13 +118,6 @@ terrainSummary:
   advanced: 上級雪道佔 20%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
   powder: 北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。
-sources:
-- label: グリーンピア大沼スキー場 Official
-  url: http://www.gp-onuma.com
-- label: Weathernews グリーンピア大沼スキー場
-  url: https://weathernews.jp/ski/spot/31613/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 Greenpia 大沼位在北海道，滑行區由7 條雪道，搭配 2 座纜車構成。ロマンスコース、コスミックコース、超上級者コース 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向初學者練習、夜滑。

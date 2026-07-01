@@ -112,11 +112,6 @@ terrainSummary:
   beginner: 初級雪道約 40%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 40%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
-sources:
-- label: Chateau Shiozawa Ski Area Official Website
-  url: https://www.chateau-shiozawa.jp/
-- label: Chateau Shiozawa Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/35461/
 ---
 
 新潟縣的Chateau 鹽澤以7 條雪道，搭配 4 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。

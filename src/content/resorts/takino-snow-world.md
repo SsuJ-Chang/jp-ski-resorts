@@ -79,11 +79,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Takino Snow World Official Website"
-    url: "https://www.takinopark.com/"
-  - label: "Weathernews 滝野スノーワールド"
-    url: "https://weathernews.jp/ski/spot/31619/"
 ---
 
 北海道的瀧野 Snow World以1 條雪道，搭配 1 座纜車組成滑行區。單一路線配置，重點在簡單滑行與基本練習，適合拿來和同區雪場比較規模；標籤上偏向親子同行、雙板與單板。

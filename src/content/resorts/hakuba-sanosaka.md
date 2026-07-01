@@ -132,20 +132,6 @@ externalContent:
   - title: "白馬人才會來的秘境滑雪場❄️!適合新手嗎?唯一能看火車和又能看湖的雪場!默念口訣挑戰黑線蘑菇道｜白馬雪場開箱EP.4🏂｜"
     url: "https://www.youtube.com/watch?v=aRGLOokZ6wQ"
     note: "YK來了"
-sources:
-- label: Hakuba Sanosaka Official Website
-  url: https://sanosaka.jp/
-- label: Hakuba Sanosaka Course Guide
-  url: https://sanosaka.jp/course/
-- label: Hakuba Sanosaka Lift Fee
-  url: https://sanosaka.jp/lift/
-- label: Hakuba Sanosaka Weathernews
-  url: https://weathernews.jp/ski/spot/34850/
-- label: Hakuba Sanosaka Access
-  url: https://sanosaka.jp/access/
-- label: Hakuba Sanosaka Course Video
-  url: https://www.youtube.com/watch?v=z0gx096qXa0
-  note: 影片說明欄提供 Lake Down、Paradise、Paradise Downhill、Training Slope、Carving Slope 的章節時間軸。
 terrainSummary:
   beginner: Paradise Downhill 等緩斜面適合初學者穩定練習，Shirayuki Daira 也有 Snow Friends Park。
   intermediate: Paradise、Lake Down、Lake View 與 Carving Slope 提供中級練習與青木湖景觀。

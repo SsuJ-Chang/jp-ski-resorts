@@ -124,13 +124,6 @@ externalContent:
     url: https://natasha-traveler.tw/sapporo-bankei-ski/
     note: 娜塔蝦的滑雪食旅手記
   vlogs: []
-sources:
-- label: さっぽろばんけいスキー場 Official
-  url: https://www.bankei.co.jp/winter/ski/
-- label: Weathernews さっぽろばんけいスキー場
-  url: https://weathernews.jp/ski/spot/31405/
-- label: Weathernews 北海道人氣排行
-  url: https://weathernews.jp/ski/area/hokkaido/ranking.html
 ---
 
 札幌盤溪位於北海道，以17 條雪道形成中型雪場規模，搭配 4 座纜車。主要路線有 センターAコース、センターBコース、センターCコース，初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。

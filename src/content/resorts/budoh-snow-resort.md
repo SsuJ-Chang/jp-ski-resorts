@@ -103,11 +103,6 @@ terrainSummary:
   beginner: 初級雪道約 10%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 70%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
-sources:
-- label: Budoh Snow Resort Official Website
-  url: https://snow.budoh-resorts.jp/
-- label: Budoh Snow Resort Weathernews
-  url: https://weathernews.jp/ski/spot/35445/
 ---
 
 Budoh Snow Resort位於新潟縣，共有4 條雪道、2 座纜車，規模雖然不大，但雪道集中，半天到一天就能把主要路線輪過一遍。主雪道多落在同一滑行區內，適合專心練習固定動作與反覆修正。比起追求刷里程，這裡更適合把時間放在動作熟悉與同伴配速。

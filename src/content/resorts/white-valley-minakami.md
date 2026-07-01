@@ -147,17 +147,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: White Valley Official Website
-  url: https://www.whitevalley.jp/
-- label: White Valley Course Map
-  url: https://www.whitevalley.jp/free/skislopemap
-- label: White Valley Price
-  url: https://www.whitevalley.jp/free/price
-- label: White Valley Business Hours
-  url: https://www.whitevalley.jp/free/time
-- label: White Valley Weathernews
-  url: https://weathernews.jp/ski/spot/34226/
 ---
 
 White Valley位在群馬縣，滑行區由5 條雪道，搭配 2 座纜車構成。ファンタジー、ホワイトヘブン、フォレスト 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

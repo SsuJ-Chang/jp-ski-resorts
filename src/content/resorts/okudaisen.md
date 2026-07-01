@@ -132,13 +132,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Kyukamura Oku-Daisen Ski Official
-  url: https://www.qkamura.or.jp/daisen/ski/
-- label: Kyukamura Oku-Daisen Access
-  url: https://www.qkamura.or.jp/daisen/access/
-- label: Kagamiganaru Weathernews
-  url: https://weathernews.jp/ski/spot/36908/
 ---
 
 奧大山是鳥取縣的小型雪場，整理為3 條雪道，搭配 1 座纜車。雪道如 初心者ゲレンデ / Beginner Slope、初心者パーク / Beginner Park、中級者ゲレンデ / Intermediate Slope，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

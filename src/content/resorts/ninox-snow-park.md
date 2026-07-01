@@ -100,11 +100,6 @@ terrainSummary:
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
   beginner: 初級雪道約 65%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 35%，是主要滑行與轉彎練習區段。
-sources:
-- label: Ninox Snow Park Official Website
-  url: https://www.ninox.co.jp
-- label: Ninox Snow Park Weathernews
-  url: https://weathernews.jp/ski/spot/35438/
 ---
 
 Ninox Snow Park位於新潟縣，以2 條雪道構成小型練習雪場，搭配 2 座纜車。雪道配置偏初級，練習門檻較低，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、親子同行。

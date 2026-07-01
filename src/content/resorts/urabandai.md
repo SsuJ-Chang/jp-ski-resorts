@@ -86,11 +86,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Urabandai Ski Area Official Website"
-    url: "https://www.urabandai-ski.jp/"
-  - label: "Weathernews 裏磐梯スキー場"
-    url: "https://weathernews.jp/ski/spot/33626/"
 ---
 
 裏磐梯位於福島縣，是小型雪場，共有3 條雪道，搭配 3 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、親子同行。

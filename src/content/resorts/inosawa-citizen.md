@@ -84,11 +84,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Inosawa Citizen Ski Area Official Website"
-    url: "http://www.asahikawa-dpc.co.jp/4ski/skiindex.html"
-  - label: "Weathernews 伊ノ沢市民スキー場"
-    url: "https://weathernews.jp/ski/spot/31210/"
 ---
 
 伊之澤市民在北海道提供1 條雪道，搭配 1 座纜車。單一路線配置，重點在簡單滑行與基本練習，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

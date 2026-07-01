@@ -107,13 +107,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: F VILLAGE Snow Park Official Website
-  url: https://shorefield.jp/fv-snowpark/
-  note: 提供 2025-2026 營業資訊、活動區介紹、套裝票價、租借與交通資訊。
-- label: Weathernews F VILLAGE Snow Park
-  url: https://weathernews.jp/ski/spot/31417/
-  note: 提供雪場天氣、營業期間、停車場、租借與基礎設施摘要。
 ---
 
 F VILLAGE Snow Park 位於北海道，是小型練習雪場，共有 1 條雪道，搭配 1 座纜車。代表路線包含 SKI SNOWBOARD PARK，單一路線配置，重點在基本練習，標籤偏向親子同行、溫泉停留。

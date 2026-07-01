@@ -98,15 +98,6 @@ terrainSummary:
   intermediate: 中級比例約 20%，主要仍是緩坡練習。
   advanced: 官方標示上級比例 0%。
   snowboard: 規模小、坡度溫和，適合練習但不適合追求多變地形。
-sources:
-- label: Gujyo Vacance Mura Hotel Official
-  url: https://www.gujyokogen-hotel.com/en/
-- label: TAKASU MOUNTAINS Ski Area
-  url: https://www.takasumountains.com/ski/
-- label: TAKASU MOUNTAINS Lift Fee
-  url: https://www.takasumountains.com/lift/
-- label: TAKASU MOUNTAINS Access
-  url: https://www.takasu.gr.jp/access/
 ---
 
 郡上高原位於岐阜縣，以3 條雪道形成小型雪場規模，搭配 2 座纜車。主要路線有 郡上高原メインゲレンデ（官方未公開逐條名稱），雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

@@ -255,16 +255,6 @@ externalContent:
   - title: 【スキー場ガイド】池の平温泉アルペンブリックスキー場　ツリーランデビューならここ
     url: https://www.youtube.com/watch?v=-hz9RxpliyQ
     note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
-sources:
-- label: Alpenblick Resort Ski Official
-  url: https://alpenblick-resort.com/ski
-- label: Alpenblick Resort Access
-  url: https://alpenblick-resort.com/access
-- label: Ikenotaira Onsen Weathernews
-  url: https://weathernews.jp/ski/spot/35413/
-- label: Real Japan Nature YouTube Course Video
-  url: https://www.youtube.com/watch?v=KEAamblTuXo
-  note: 影片說明欄提供池之平各雪道章節秒數，已對應至 courses.details[].videoLinks。
 ---
 
 池之平位於新潟縣，是中型雪場，共有16 條雪道，搭配 6 座纜車。代表路線包含 やまばと林間コース / Yamabato Forest Course、カラマツコース / Karamatsu Course、ワイドロングランコース / Wide Long Run Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

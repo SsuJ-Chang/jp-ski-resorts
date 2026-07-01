@@ -65,11 +65,6 @@ terrainSummary:
   intermediate: 中級者可用 初級・中級者コース、林間コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 中級・上級者コース、上級者コース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-sources:
-- label: Tokusagamine Ski Area Official
-  url: https://sites.google.com/view/tokusagaminesuki/%E7%A9%8D%E9%9B%AA%E6%83%85%E5%A0%B1
-- label: 十種ヶ峰スキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/38103/
 contact:
   address:
     zhTw: 山口縣山口市阿東町嘉年下１１５０５−１

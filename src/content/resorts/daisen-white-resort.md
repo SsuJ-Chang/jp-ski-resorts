@@ -177,15 +177,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-- label: Daisen White Resort Official Website
-  url: https://www.daisen-resort.jp/
-- label: Daisen White Resort Trail Map
-  url: https://www.daisen-resort.jp/4/13.html
-- label: Daisen White Resort Ticket
-  url: https://www.daisen-resort.jp/6/
-- label: Daisen White Resort Weathernews
-  url: https://weathernews.jp/ski/spot/36904/
 ---
 
 大山白色度假村是鳥取縣的中小型雪場，整理為9 條雪道，搭配 10 座纜車。雪道如 豪円山エリア / Goenzan Area、U1コース / U1 Course、テクニクダス / Technicdas，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

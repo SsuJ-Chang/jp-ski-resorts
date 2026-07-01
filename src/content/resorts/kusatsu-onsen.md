@@ -118,13 +118,6 @@ externalContent:
     url: https://natasha-traveler.tw/kusatsu-kokusai-ski/
     note: 娜塔蝦的滑雪食旅手記
   vlogs: []
-sources:
-- label: Kusatsu Onsen Ski Resort Official
-  url: https://www.932-onsen.com/winter/
-- label: Kusatsu Onsen Ski Resort Course Info
-  url: https://www.932-onsen.com/winter/course/
-- label: 草津温泉スキー場 Weathernews
-  url: https://weathernews.jp/ski/spot/34206/
 contact:
   address:
     zhTw: 群馬縣吾妻郡草津町字白根国有林158林班

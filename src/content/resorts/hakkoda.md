@@ -96,15 +96,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "八甲田 Official Website"
-    url: "http://www.hakkoda-ropeway.jp"
-  - label: "八甲田ロープウェー Access"
-    url: "https://hakkoda-ropeway.jp/access/"
-  - label: "Weathernews 八甲田"
-    url: "https://weathernews.jp/ski/spot/33105/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 八甲田位於青森縣，共有2 條雪道、3 座纜車，重點不只在壓雪主線，還包含自然地形與雪況變化。ダイレクトコース、フォレストコース能看出它從主雪道到邊側段落都有不同滑感。如果你想把巡航之外的粉雪感、林間感或地形閱讀排進一天，這類配置會更有內容。

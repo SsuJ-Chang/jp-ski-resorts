@@ -311,18 +311,5 @@ externalContent:
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=344s
     note: MIRU tube JAPAN 【Route Guide】
-sources:
-- label: Iwappara Ski Resort Official Website
-  url: https://iwa-ppara.com/
-- label: Iwappara Ski Resort Course / Trail Map
-  url: https://iwa-ppara.com/gelande/
-- label: Iwappara Ski Resort 2025-2026 Ticket / Season
-  url: https://iwa-ppara.com/price/
-- label: Iwappara Ski Resort Access
-  url: https://iwa-ppara.com/access/
-- label: SURF&SNOW Iwappara Ski Resort
-  url: https://surfsnow.jp/guide/htm/r0298s.htm
-- label: Echigo Yuzawa Tourism Iwappara Ski Resort
-  url: https://www.e-yuzawa.gr.jp/sys/ski_p/iwappara_ski_resort/
 ---
 岩原位在新潟縣，滑行區由20 條雪道，搭配 9 座纜車構成。1 メインバーン、2 グランドバーン、3 ワイドバーン 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

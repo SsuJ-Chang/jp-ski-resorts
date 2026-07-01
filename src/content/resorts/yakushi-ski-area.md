@@ -108,14 +108,6 @@ terrainSummary:
   beginner: 初級雪道約 25%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 50%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 25%，可安排較有坡度與速度感的滑行。
-sources:
-- label: Yakushi Ski Area Official Website
-  url: https://yakushi-ski.com/
-- label: Yakushi Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/35444/
-- label: Yakushi Course Video 2025
-  url: https://www.youtube.com/watch?v=FGcabXpp8lU
-  note: 影片說明欄提供右側、左側、中央與 Expert 等章節時間軸；影片作者註明章節名稱為便宜命名。
 ---
 
 藥師位於新潟縣，以3 條雪道形成小型雪場規模，搭配 1 座纜車。主要路線有 右側コース（動画章節名）、左側コース（動画章節名）、エキスパートコース（動画章節名），初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

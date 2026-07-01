@@ -142,19 +142,6 @@ terrainSummary:
   intermediate: 官方介紹 Seymour 有滑行感較強的多樣斜面，適合想從中級雪道往更有變化地形練習的滑雪者。
   advanced: 官方安全說明提醒滑雪場邊界外與未開發疏林帶存在雪崩與立木等風險，不應任意進入。
   snowboard: 官方說明可使用雪板，也可在遵守規則下使用部分新型雪上滑具。
-sources:
-- label: SAM 白山 Seymour Official
-  url: https://www.sam-hakusan.com/white/seymour/
-- label: SAM 白山 Seymour Course
-  url: https://www.sam-hakusan.com/white/seymour/course/
-- label: SAM 白山 Seymour Lift Ticket
-  url: https://www.sam-hakusan.com/white/seymour/lift/
-- label: SAM 白山 Seymour Access
-  url: https://www.sam-hakusan.com/white/seymour/access/
-- label: SAM 白山 Seymour Bus
-  url: https://www.sam-hakusan.com/white/seymour/bus/
-- label: Weathernews 白山千丈溫泉 Seymour
-  url: https://weathernews.jp/ski/spot/35601/
 ---
 
 白山千丈溫泉 Seymour 是石川縣的中小型雪場，共有 9 條雪道，搭配 4 座纜車。雪道如 Menuet Course、Concerto Course，初級、中級與上級路線都有配置，標籤偏向雙板與單板。

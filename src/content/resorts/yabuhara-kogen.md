@@ -136,11 +136,6 @@ terrainSummary:
   intermediate: 中級雪道約 50%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Yabuhara Kogen Ski Area Official Website
-  url: https://www.yabuhara-kogen.jp
-- label: Yabuhara Kogen Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/34845/
 ---
 
 藪原高原是長野縣的中型雪場，共有 13 條雪道，搭配 6 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷行程需求，標籤偏向雙板與單板。

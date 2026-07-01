@@ -189,17 +189,6 @@ externalContent:
   - title: "2026最新！日本妙高赤倉滑雪場保姆級攻略!素材又忘了備份就誤刪🥲!第二次來日本滑雪跨年｜YK🏂VLOG"
     url: "https://www.youtube.com/watch?v=LnicbnE1YDI"
     note: "YK來了"
-sources:
-- label: Akakura Onsen Official Website
-  url: https://akakura-ski.com/
-- label: Akakura Onsen Weathernews
-  url: https://weathernews.jp/ski/spot/35493/
-- label: Real Japan Nature YouTube Course Video
-  url: https://www.youtube.com/watch?v=x2LkQtz_wQM
-  note: 影片章節提供赤倉溫泉部分雪道秒數，已對應至 courses.details[].videoLinks。
-- label: Akakura Onsen Course Video 2023
-  url: https://www.youtube.com/watch?v=tB28M_-Cx_U
-  note: 影片說明欄提供中央、ユートピアA、ユートピアB、パノラマ等雪道章節時間軸；アルペン、関見、エレガント、カラマツ、ラビット、銀嶺等章節因現有資料未列同名雪道未硬對應。
 ---
 
 赤倉溫泉位在新潟縣，滑行區由17 條雪道，搭配 14 座纜車構成。2 銀嶺第3コース / Ginrei No.3 Course、3 銀嶺第2コース / Ginrei No.2 Course、5 くまどー第1コース / Kumado No.1 Course 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

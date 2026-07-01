@@ -89,13 +89,6 @@ terrainSummary:
   beginner: Rabbit Course 坡度較平緩，可作為練習用。
   intermediate: Diamond Gelende 適合 slalom 與轉彎訓練。
   snowboard: 平緩外側路線可用於雪板基本動作練習。
-sources:
-- label: Shiga Kogen Real-Time Lift Status
-  url: https://www.shigakogen.gr.jp/english/lift_information/
-- label: Shiga Kogen Lift Ticket
-  url: https://shigakogen-ski.or.jp/winter/ticket/
-- label: Shiga Kogen Access
-  url: https://shigakogen-ski.or.jp/access/
 ---
 
 長野縣的志賀高原一之瀨 Diamond共有 2 條雪道，搭配 2 座纜車，包含 Diamond Gelende、Rabbit Course 等路線；以中級滑行為主，標籤偏向初學者練習、雙板與單板。

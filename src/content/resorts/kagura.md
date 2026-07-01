@@ -365,26 +365,6 @@ externalContent:
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU
     note: MIRU tube JAPAN 【Route Guide】
-sources:
-- label: Kagura Official Website
-  url: https://www.princehotels.co.jp/ski/kagura/winter/
-- label: Kagura Course Map and Status
-  url: https://www.princehotels.co.jp/ski/kagura/winter/coursemap/
-- label: Kagura Lift Fee
-  url: https://www.princehotels.co.jp/ski/kagura/winter/lift/
-- label: Kagura Weathernews
-  url: https://weathernews.jp/ski/spot/35473/
-- label: Real Japan Nature YouTube Course Video
-  url: https://www.youtube.com/watch?v=dY4f3Il-7VE
-  note: 影片說明欄提供神樂各雪道章節秒數，已對應至 courses.details[].videoLinks。
-- label: Kagura Access
-  url: https://www.princehotels.co.jp/ski/kagura/winter/access/
-- label: Kagura Tashiro Area Course Video
-  url: https://www.youtube.com/watch?v=fHGeTO5y4Xw
-  note: 影片說明欄提供田代區域 X4、U2、U1、T3、T2、T1、V1、V2、X2、X1、Y1、Y3、Y2、Z1、H2 等雪道章節時間軸。
-- label: Kagura Course Video 2026
-  url: https://www.youtube.com/watch?v=_tNEKHC-jao
-  note: 影片說明欄提供かぐら、田代區域多條雪道章節時間軸，已對應至 courses.details[].videoLinks。
 ---
 
 神樂位於新潟縣，是大型雪場，共有30 條雪道，搭配 17 座纜車。代表路線包含 E1 ゴンドラコース、A1 ファミリーコース、E2 ゴンドララインコース，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

@@ -91,11 +91,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Mashike Shokanbetsudake Ski Area Official Website"
-    url: "https://www.town.mashike.hokkaido.jp/tourism/place/ski/index.html"
-  - label: "Weathernews 増毛町暑寒別岳"
-    url: "https://weathernews.jp/ski/spot/31303/"
 ---
 
 北海道的增毛町暑寒別岳以7 條雪道，搭配 2 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、夜滑。

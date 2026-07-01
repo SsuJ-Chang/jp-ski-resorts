@@ -107,11 +107,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "Daisen Municipal Kyowa Ski Area Official Website"
-    url: "http://kyowasnow.net/"
-  - label: "Weathernews 大仙市営協和スキー場"
-    url: "https://weathernews.jp/ski/spot/33203/"
 ---
 
 大仙市營協和位於秋田縣，是中小型雪場，共有 9 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，內文以雪道數與難度比例為主，標籤偏向溫泉停留、雙板與單板。

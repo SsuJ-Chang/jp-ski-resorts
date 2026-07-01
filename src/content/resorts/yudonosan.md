@@ -112,15 +112,6 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
-sources:
-  - label: "湯殿山スキー場 Official Website"
-    url: "https://yudonosan.com/"
-  - label: "湯殿山スキー場 Access"
-    url: "https://yudonosan.com/access/"
-  - label: "Weathernews 湯殿山スキー場"
-    url: "https://weathernews.jp/ski/spot/33505/"
-  - label: "Weathernews 東北のスキー場人気ランキング"
-    url: "https://weathernews.jp/ski/area/tohoku/ranking.html"
 ---
 
 山形縣的湯殿山共有7 條雪道，搭配 2 座纜車，包含 林間コース、初級コース、うさぎさんコース 等路線。初級、中級與上級路線都有配置；標籤上偏向親子同行、雙板與單板。

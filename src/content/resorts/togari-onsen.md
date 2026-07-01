@@ -181,15 +181,6 @@ terrainSummary:
   intermediate: 中級約 40%，適合有基礎後銜接不同區域。
   advanced: 上級約 20%，公開資料提到地形、park 與 mogul 等玩法。
   powder: 戶狩溫泉可期待粉雪與地形變化，實際仍需看當日開放。
-sources:
-- label: TOGARI SKI RESORT Official Website
-  url: https://togari.jp
-- label: Weathernews 戸狩温泉スキー場
-  url: https://weathernews.jp/ski/spot/34832/
-- label: Weathernews 中部人氣排名
-  url: https://weathernews.jp/ski/area/chubu/ranking.html
-- label: TOGARI SKI RESORT Access
-  url: https://togari.jp/winter/access/
 ---
 
 戶狩溫泉位在長野縣，滑行區由17 條雪道，搭配 4 座纜車構成。スパイクテール、テールライン、コンタクトラインB 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向親子同行、夜滑。

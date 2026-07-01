@@ -83,11 +83,6 @@ terrainSummary:
   intermediate: 中級雪道占 50%，適合已能穩定轉彎的滑雪者參考。
   advanced: 上級雪道占 0%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
-sources:
-- label: 新保ファミリースキー場 Official
-  url: http://www.ski.ikeda-kibou.com/
-- label: Weathernews 新保ファミリースキー場
-  url: https://weathernews.jp/ski/spot/35710/
 ---
 
 新保 Family位於福井縣，以1 條雪道形成小型練習雪場規模，搭配 1 座纜車。主要路線有 新保ファミリーゲレンデ，單一路線配置，重點在簡單滑行與基本練習；標籤上偏向初學者練習、親子同行。

@@ -110,11 +110,6 @@ terrainSummary:
   intermediate: 中級雪道約 30%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 30%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-sources:
-- label: Shinshu Kaida Kogen MIA Ski Area Official Website
-  url: https://miaski-resort.com/
-- label: Shinshu Kaida Kogen MIA Ski Area Weathernews
-  url: https://weathernews.jp/ski/spot/34854/
 ---
 
 信州開田高原 MIA是長野縣的中小型雪場，整理為6 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，介紹保留在可確認的雪道數與難度比例；標籤上偏向雙板與單板。
