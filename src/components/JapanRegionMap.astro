@@ -23,10 +23,9 @@ type Props = {
   mode?: 'overview' | 'region'
   regions?: MapRegion[]
   region?: RegionLike
-  labelledBy?: string
 }
 
-const { mode = 'overview', regions = [], region, labelledBy = 'map-title' } = Astro.props
+const { mode = 'overview', regions = [], region } = Astro.props
 
 const toneByRegion = {
   hokkaido: 'powder',
@@ -52,6 +51,7 @@ const overviewRegions = mode === 'overview' ? regions : []
 const regionShape = region ? mapRegionShapes[region.key] : null
 const regionTone = region ? toneByRegion[region.key] : null
 const viewBox = mode === 'region' && regionShape ? regionShape.viewBox : '0 0 800 720'
+const ariaLabel = mode === 'region' && region ? `${region.name.zhTw}分區地圖` : '日本滑雪分區地圖'
 ---
 
 <svg
@@ -61,9 +61,8 @@ const viewBox = mode === 'region' && regionShape ? regionShape.viewBox : '0 0 80
   ]}
   viewBox={viewBox}
   role="img"
-  aria-labelledby={labelledBy}
+  aria-label={ariaLabel}
 >
-  <title id={labelledBy}>日本滑雪分區地圖</title>
   {
     mode === 'overview' ? (
       <>

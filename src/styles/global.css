@@ -2905,8 +2905,8 @@ h1 {
   }
 
   .home-quick-tags__list {
-    display: grid;
-    grid-template-columns: 1fr;
+    display: flex;
+    flex-wrap: wrap;
   }
 
   .home-quick-tag {

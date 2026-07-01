@@ -40,7 +40,7 @@ const regionNamesByKey = Object.fromEntries(
         <p>{region.description}</p>
         <p class="count-line">收錄 {resorts.length} 座滑雪場</p>
       </div>
-      <JapanRegionMap mode="region" region={region} labelledBy={`${region.key}-map-title`} />
+      <JapanRegionMap mode="region" region={region} />
     </section>
 
     <ListingFilterNav
