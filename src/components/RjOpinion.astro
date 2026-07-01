@@ -1,4 +1,6 @@
 ---
+import { renderMarkdownFragment } from '../utils/markdown'
+
 type Props = {
   text: string
   compact?: boolean
@@ -12,14 +14,110 @@ const {
   label = '作者 RJ 表示',
   ariaLabel = '作者個人感想',
 } = Astro.props
+
+const html = await renderMarkdownFragment(text)
 ---
 
-<blockquote class:list={['rj-opinion', { 'rj-opinion--compact': compact }]}>
+<blockquote class:list={['rj-opinion', { 'rj-opinion--compact': compact }]} data-rj-opinion>
   <div class="rj-opinion__meta" aria-label={ariaLabel}>
     <span class="rj-opinion__badge">{label}</span>
   </div>
-  <p>{text}</p>
+  <div class="rj-opinion__content-wrap" data-rj-opinion-content-wrap>
+    <div class="rj-opinion__content" data-rj-opinion-content set:html={html} />
+  </div>
+  <button type="button" class="rj-opinion__toggle" data-rj-opinion-toggle hidden aria-expanded="false">
+    還有更多
+  </button>
 </blockquote>
+
+<script is:inline>
+  const measureCollapsedHeight = (content, maxLines) => {
+    const textNodes = []
+    const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, {
+      acceptNode(node) {
+        return node.textContent?.trim() ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT
+      },
+    })
+
+    while (walker.nextNode()) {
+      textNodes.push(walker.currentNode)
+    }
+
+    const lines = []
+
+    for (const node of textNodes) {
+      const range = document.createRange()
+      range.selectNodeContents(node)
+
+      for (const rect of range.getClientRects()) {
+        if (rect.height <= 0) continue
+
+        const existingLine = lines.find((line) => Math.abs(line.top - rect.top) < 1)
+        if (existingLine) {
+          existingLine.bottom = Math.max(existingLine.bottom, rect.bottom)
+        } else {
+          lines.push({ top: rect.top, bottom: rect.bottom })
+        }
+      }
+
+    }
+
+    if (lines.length === 0) {
+      const lineHeight = Number.parseFloat(window.getComputedStyle(content).lineHeight) || 28
+      return lineHeight * maxLines
+    }
+
+    lines.sort((a, b) => a.top - b.top)
+    const targetLine = lines[Math.min(maxLines, lines.length) - 1]
+    const contentTop = content.getBoundingClientRect().top
+    return Math.max(targetLine.bottom - contentTop, 0)
+  }
+
+  const setupRjOpinion = (root) => {
+    if (!(root instanceof HTMLElement) || root.dataset.bound === 'true') return
+
+    const contentWrap = root.querySelector('[data-rj-opinion-content-wrap]')
+    const content = root.querySelector('[data-rj-opinion-content]')
+    const toggle = root.querySelector('[data-rj-opinion-toggle]')
+
+    if (
+      !(contentWrap instanceof HTMLElement) ||
+      !(content instanceof HTMLElement) ||
+      !(toggle instanceof HTMLButtonElement)
+    ) {
+      return
+    }
+
+    const syncOverflow = () => {
+      if (root.dataset.expanded === 'true') return
+
+      const maxCollapsedHeight = measureCollapsedHeight(content, 4)
+      const hasOverflow = content.scrollHeight - maxCollapsedHeight > 2
+      root.dataset.collapsible = hasOverflow ? 'true' : 'false'
+      contentWrap.style.maxHeight = hasOverflow ? `${maxCollapsedHeight}px` : ''
+      toggle.hidden = !hasOverflow
+    }
+
+    root.dataset.bound = 'true'
+    syncOverflow()
+
+    if ('ResizeObserver' in window) {
+      const observer = new ResizeObserver(syncOverflow)
+      observer.observe(contentWrap)
+    } else {
+      window.addEventListener('resize', syncOverflow)
+    }
+
+    toggle.addEventListener('click', () => {
+      root.dataset.expanded = 'true'
+      root.dataset.collapsible = 'false'
+      toggle.setAttribute('aria-expanded', 'true')
+      toggle.remove()
+    })
+  }
+
+  document.querySelectorAll('[data-rj-opinion]').forEach(setupRjOpinion)
+</script>
 
 <style>
   .rj-opinion {
@@ -50,9 +148,72 @@ const {
     letter-spacing: 0.02em;
   }
 
-  .rj-opinion p {
+  .rj-opinion[data-collapsible='true'] .rj-opinion__content-wrap {
+    overflow: hidden;
+  }
+
+  .rj-opinion__content :global(p),
+  .rj-opinion__content :global(ul),
+  .rj-opinion__content :global(ol),
+  .rj-opinion__content :global(blockquote) {
     margin: 0;
     line-height: 1.75;
+  }
+
+  .rj-opinion__content :global(p + p),
+  .rj-opinion__content :global(p + ul),
+  .rj-opinion__content :global(p + ol),
+  .rj-opinion__content :global(ul + p),
+  .rj-opinion__content :global(ol + p),
+  .rj-opinion__content :global(ul + ul),
+  .rj-opinion__content :global(ol + ol),
+  .rj-opinion__content :global(ul + ol),
+  .rj-opinion__content :global(ol + ul) {
+    margin-top: 10px;
+  }
+
+  .rj-opinion__content :global(ul),
+  .rj-opinion__content :global(ol) {
+    padding-left: 1.2em;
+  }
+
+  .rj-opinion__content :global(li + li) {
+    margin-top: 4px;
+  }
+
+  .rj-opinion__content :global(a) {
+    color: inherit;
+    text-decoration-color: rgba(29, 93, 100, 0.45);
+    text-underline-offset: 0.18em;
+  }
+
+  .rj-opinion__content :global(code) {
+    padding: 0.08em 0.35em;
+    border-radius: 0.35em;
+    background: rgba(29, 93, 100, 0.08);
+    font-size: 0.92em;
+  }
+
+  .rj-opinion__toggle {
+    margin-top: 4px;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: #66756f;
+    font-size: 0.84rem;
+    font-weight: 800;
+    text-align: left;
+    text-decoration: underline;
+    text-decoration-color: rgba(82, 102, 96, 0.28);
+    text-underline-offset: 4px;
+    cursor: pointer;
+  }
+
+  .rj-opinion__toggle:hover,
+  .rj-opinion__toggle:focus-visible {
+    color: #425552;
+    text-decoration-color: rgba(66, 85, 82, 0.38);
+    outline: none;
   }
 
   .rj-opinion--compact {

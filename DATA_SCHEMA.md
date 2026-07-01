@@ -337,6 +337,7 @@ mixed
 | `fromSapporo` | 否 | array | 札幌出發交通。 |
 | `fromAirport` | 否 | array | 機場出發交通。 |
 | `car` | 否 | object | 自駕資訊。 |
+| `rjOpinion` | 否 | string | 顯示在交通方式區塊最下方的 RJ 個人心得。 |
 
 ### `access` 路線
 
@@ -368,6 +369,10 @@ mixed
 | `powder` | 否 | string | 粉雪適合度。 |
 
 ## `rjOpinion`
+補充：
+
+- 這個欄位現在支援基本 Markdown，包含段落、換行、`**粗體**`、`*斜體*`、`~~刪除線~~`、`` `行內程式碼` ``、`[連結](https://example.com)`、有序與無序清單。
+- 不建議在這個欄位使用標題、表格、圖片或原生 HTML。
 
 建議寫法：
 
@@ -376,6 +381,11 @@ mixed
 - 這個欄位不顯示標題，前端會用接近 Markdown `>` 的引用樣式呈現。
 
 ## `lodgingRecommendations`
+補充：
+
+- `access.rjOpinion` 也支援同一套基本 Markdown。
+- `lodgingRecommendations[].rjOpinion` 也支援同一套基本 Markdown。
+- 內容仍建議維持短評，不建議塞表格、圖片或原生 HTML。
 
 | 欄位 | 必填 | 類型 | 說明 |
 |---|---:|---|---|

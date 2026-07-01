@@ -240,6 +240,7 @@ const resorts = defineCollection({
             note: z.string().optional(),
           })
           .optional(),
+        rjOpinion: z.string().optional(),
       })
       .optional(),
     terrainSummary: z
@@ -271,6 +272,7 @@ const skiAreas = defineCollection({
     baseTown: z.string().optional(),
     accessHub: z.string().optional(),
     summary: z.string(),
+    rjOpinion: z.string().optional(),
     traits: z.array(z.string()).default([]),
     featuredResorts: z.array(z.string()).default([]),
     externalContent: skiAreaExternalContentSchema.optional(),

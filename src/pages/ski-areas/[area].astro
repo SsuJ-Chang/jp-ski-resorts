@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import CollapsibleLinkList from '../../components/CollapsibleLinkList.astro'
+import RjOpinion from '../../components/RjOpinion.astro'
 import SkiAreaPositionMap from '../../components/SkiAreaPositionMap.astro'
 import { tagLabels } from '../../data/tags'
 import { sortResortsForListing } from '../../utils/resortOrdering'
@@ -31,6 +32,7 @@ const otherResorts = resorts.filter((resort) => !featuredResortIds.includes(reso
 const orderedResorts = [...featuredResorts, ...otherResorts]
 
 const areaTitle = `${area.name.zhTw}雪場列表`
+const hasRjOpinion = Boolean(area.rjOpinion?.trim())
 const hasExternalContent =
   (area.externalContent?.blogs?.length ?? 0) > 0 ||
   (area.externalContent?.vlogs?.length ?? 0) > 0 ||
@@ -52,6 +54,7 @@ const hasExternalContent =
         <p class="eyebrow">{area.name.en} / {area.prefecture}</p>
         <h1 id="page-title">{area.name.zhTw}</h1>
         <p>{area.summary}</p>
+        {hasRjOpinion && <RjOpinion text={area.rjOpinion!} />}
       </div>
       <dl class="ski-area-facts" aria-label={`${area.name.zhTw}基本資訊`}>
         {area.accessHub && (

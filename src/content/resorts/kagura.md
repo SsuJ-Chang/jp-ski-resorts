@@ -14,6 +14,9 @@ tags:
 - powder
 - snowboard_friendly
 - tree_run
+rjOpinion: |-
+  春滑極佳選擇！神樂是湯澤開最晚的雪場，常常會到 5 月。
+  粉雪不在話下，田代區景色超棒，田代湖務必有機會一定要去！住苗場王子大飯店的搭龍纜過來直接就是田代區囉！
 links:
   official: https://www.princehotels.co.jp/ski/kagura/winter/
   facebook: https://www.facebook.com/snowkagura/

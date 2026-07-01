@@ -13,7 +13,7 @@ tags:
 - powder
 - resort_village
 - snowboard_friendly
-rjOpinion: 沒去過藏王溫泉的人，強烈建議看「其他資訊 > 影片」的「終於看到萬里無雲藏王樹冰！積雪三米雪怪搭配海景奇景現場曝光｜纜車排隊坑別再跳＋自由行交通住宿美食看本攻略一次弄懂」，寫得非常清楚！
+rjOpinion: 沒去過藏王溫泉的人，強烈建議看這部[**終於看到萬里無雲藏王樹冰！積雪三米雪怪搭配海景奇景現場曝光｜纜車排隊坑別再跳＋自由行交通住宿美食看本攻略一次弄懂**](https://www.youtube.com/watch?v=cycyfXm-pn4)，寫得非常清楚！
 visibility:
   status: published
   note: 東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。

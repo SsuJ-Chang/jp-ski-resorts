@@ -47,4 +47,7 @@ externalContent:
     - title: "【日本自由行】EP1 志賀高原滑雪場❄️日本最大滑雪場 開箱⛄羽田機場直達！價格、雪道、山景全紀錄！交通攻略！Jam Jam Express！"
       url: "https://www.youtube.com/watch?v=SmQRrHix2QE"
       note: "和Ivy去旅行"
+    - title: "【日本滑雪】緊急企劃・志賀高原｜搭新幹線去租車 自駕到志賀｜標高2307m 日本最大最高雪場｜雪道旁飄雪 露天溫泉住宿 ｜為明年一月北海道暖身｜25-26雪季"
+      url: "https://www.youtube.com/watch?v=XSE-LMEadJg"
+      note: "Hey! fudeze 福蝶賊"
 ---

@@ -171,7 +171,9 @@ const accessRoutes = accessRouteGroups.flatMap((group) =>
   })),
 )
 const carAccess = resort.data.access?.car
-const hasAccessInfo = accessRoutes.length > 0 || Boolean(carAccess)
+const accessRjOpinion = resort.data.access?.rjOpinion
+const hasAccessRjOpinion = Boolean(accessRjOpinion?.trim())
+const hasAccessInfo = accessRoutes.length > 0 || Boolean(carAccess) || hasAccessRjOpinion
 const getAccessTimeLabel = (estimatedTime?: string) => estimatedTime?.split(/[，,、]/)[0]?.trim() ?? ''
 
 const resortCanonicalPath = `/resorts/${resort.id}/`
@@ -529,6 +531,7 @@ const resortStructuredData = [
                 </article>
               )}
             </div>
+            {hasAccessRjOpinion && <RjOpinion text={accessRjOpinion!} />}
           </section>
         )
       }

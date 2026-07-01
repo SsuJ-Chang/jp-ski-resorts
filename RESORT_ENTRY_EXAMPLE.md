@@ -216,6 +216,9 @@ access:
     recommended: false
     snowTireRequired: true
     note: 冬季道路可能積雪或結冰，自駕需雪胎或雪鏈。
+  rjOpinion: |-
+    **如果是我自己排這段交通，會優先確認接駁車班次。**
+    從車站轉接雪場不算難，但遇到班次少的時段，整體節奏會差很多。
 terrainSummary:
   beginner: 初學者可使用山麓緩坡與長距離初級路線。
   intermediate: 中級者可利用主雪道練習速度控制與連續轉彎。
@@ -248,4 +251,30 @@ sources:
 ---
 
 範例滑雪場位於日本中部山區，具有初學者友善的緩坡、中級者可巡航的長距離雪道，以及進階玩家可挑戰的非壓雪區。此段是 Markdown body，可作為雪場頁面的概要說明。
+```
+## `rjOpinion` Markdown 範例
+
+可以直接寫成：
+
+```yaml
+rjOpinion: |-
+  **如果是第一次安排這個雪場，我會把它當成行程中的重點站。**
+
+  - 雪道辨識清楚，滑行節奏好抓
+  - 也比較容易和周邊行程一起安排
+
+  [交通補充](https://example.com/access)
+```
+
+住宿推薦內的 `rjOpinion` 也一樣：
+
+```yaml
+lodgingRecommendations:
+  - title: Example Lodge
+    url: https://www.google.com/maps/place/Example+Lodge
+    rjOpinion: |-
+      **可寫你自己的住宿心得。**
+
+      - 走到接駁站很近
+      - 早餐每天都會換菜色
 ```
