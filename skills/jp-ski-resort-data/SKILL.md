@@ -7,6 +7,12 @@ description: Project-local rules for creating, updating, and normalizing Japanes
 
 Use this project-local skill together with the global `jp-ski-resort-data` skill when editing resort content.
 
+Repo-specific override:
+
+- Resort entries no longer use a top-level `sources` field.
+- If the global skill mentions adding `sources`, ignore that part for this repository.
+- Keep provenance in schema-supported URL fields such as `season.source`, `tickets.source`, `snowWeather.url`, `courses.courseInfoPage`, and relevant `links.*` values.
+
 Primary references:
 
 - `DATA_SCHEMA.md`
