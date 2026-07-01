@@ -53,21 +53,21 @@ const hasExternalContent =
       <div>
         <p class="eyebrow">{area.name.en} / {area.prefecture}</p>
         <h1 id="page-title">{area.name.zhTw}</h1>
+        <p class="ski-area-meta" aria-label={`${area.name.zhTw}基本資訊`}>
+          <span class="ski-area-meta__item">
+            <span class="ski-area-meta__label">收錄雪場</span>
+            <span class="ski-area-meta__value">{resorts.length} 座</span>
+          </span>
+          {area.accessHub && (
+            <span class="ski-area-meta__item">
+              <span class="ski-area-meta__label">主要進出點</span>
+              <span class="ski-area-meta__value">{area.accessHub}</span>
+            </span>
+          )}
+        </p>
         <p>{area.summary}</p>
         {hasRjOpinion && <RjOpinion text={area.rjOpinion!} />}
       </div>
-      <dl class="ski-area-facts" aria-label={`${area.name.zhTw}基本資訊`}>
-        {area.accessHub && (
-          <div>
-            <dt>主要進出點</dt>
-            <dd>{area.accessHub}</dd>
-          </div>
-        )}
-        <div>
-          <dt>收錄雪場</dt>
-          <dd>{resorts.length} 座</dd>
-        </div>
-      </dl>
     </section>
 
     <section class="ski-area-traits" aria-label={`${area.name.zhTw}特色`}>

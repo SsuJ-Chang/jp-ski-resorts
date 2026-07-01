@@ -1477,51 +1477,43 @@ h1 {
 
 .ski-area-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
-  gap: 28px;
-  align-items: end;
+  gap: 12px;
 }
 
 .ski-area-hero h1 {
-  margin-bottom: 18px;
+  margin-bottom: 14px;
+}
+
+.ski-area-hero .ski-area-meta {
+  margin: 0 0 12px;
+  color: #526660;
+  font-size: 0.9rem;
+  font-weight: 800;
+  line-height: 1.55;
+}
+
+.ski-area-meta__item {
+  display: inline-block;
+  margin-right: 14px;
+  white-space: nowrap;
+}
+
+.ski-area-meta__label {
+  margin-right: 0.35em;
+  color: #6f827d;
+  font-weight: 700;
+}
+
+.ski-area-meta__value {
+  color: #21302e;
+  font-weight: 900;
 }
 
 .ski-area-hero p {
-  max-width: 760px;
   margin: 0;
   color: #334643;
   font-size: 1.06rem;
   line-height: 1.8;
-}
-
-.ski-area-facts {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 10px;
-  margin: 0;
-}
-
-.ski-area-facts div {
-  display: grid;
-  gap: 6px;
-  min-height: 82px;
-  padding: 14px;
-  border: 1px solid rgba(23, 33, 31, 0.12);
-  border-radius: 8px;
-  background: rgba(255, 255, 255, 0.72);
-}
-
-.ski-area-facts dt {
-  color: #526660;
-  font-size: 0.8rem;
-  font-weight: 800;
-}
-
-.ski-area-facts dd {
-  margin: 0;
-  color: #17211f;
-  font-weight: 900;
-  line-height: 1.35;
 }
 
 .ski-area-traits {
@@ -2738,15 +2730,6 @@ h1 {
   .resort-detail-layout,
   .detail-grid {
     grid-template-columns: 1fr;
-  }
-
-  .ski-area-hero,
-  .ski-area-facts {
-    grid-template-columns: 1fr;
-  }
-
-  .ski-area-facts {
-    max-width: 100%;
   }
 
   .detail-hero {
