@@ -15,7 +15,8 @@ tags:
 - no_car_accessible
 - resort_village
 - snowboard_friendly
-rjOpinion: Ski-in Ski-out 是最重要的優點沒話說，湯澤離東京又近，其實滿推薦新手第一次來這裡的，簡單來說人來就好，對於家庭來說也的確很適合，飯店有提供顧小孩的服務（當然不是免費），真的超方便！比較可惜是景色比較差，還是要搭龍纜去神樂的田代才是又美雪又粉，所以來到苗場務必要搭龍纜，絕對也是賣點。但 2026 飯店本身並沒有提供方便住客去搭龍纜的方式，不會滑雪的只好走去了。
+rjOpinion: |-
+  Ski-in Ski-out 是最重要的優點沒話說，湯澤離東京又近，其實滿推薦新手第一次來這裡的，簡單來說人來就好，對於家庭來說也的確很適合，飯店有提供顧小孩的服務（當然不是免費），真的超方便！比較可惜是景色比較差，還是要搭龍纜去神樂的田代才是又美雪又粉，所以來到苗場務必要搭龍纜，絕對也是賣點。但 2026 飯店本身並沒有提供方便住客去搭龍纜的方式，不會滑雪的只好走去了。
 links:
   official: https://www.princehotels.co.jp/ski/naeba/winter/
   facebook: https://www.facebook.com/SnowNaeba
