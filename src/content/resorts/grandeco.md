@@ -40,7 +40,7 @@ trailMaps:
 - label: Grandeco 雪道圖
   language: 日本語
   season: 2025-2026
-  url: https://resort.en-hotel.com/grandeco/snow/ja/
+  url: https://grandecoresort.co.jp/wp-content/themes/snow/assets/images/course/GRANDECO_map.pdf
   sourceLabel: Grandeco Snow Resort Official
 tickets:
   season: 2025-2026
