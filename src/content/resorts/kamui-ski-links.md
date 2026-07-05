@@ -271,6 +271,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
+  - title: 你的重心位置錯了嗎？滑雪平衡感完全攻略：摸"這個地方"
+    url: https://www.youtube.com/watch?v=jCX4Pn-QIUA
+    note: 大林滑雪男子
   - title: 先C再S：把一個C turn練好再前進
     url: https://www.youtube.com/watch?v=HJkIU80Inc0
     note: 大林滑雪男子
