@@ -148,195 +148,195 @@ courses:
   intermediateRatio: 35
   advancedRatio: 35
   courseInfoPage: https://www.madarao.jp/ski/course
-  summary: 官方列出斑尾高原單場 32 條雪道，包含 groomed、非壓雪、tree run、Family Adventure 與 FreeRidePark；若購買 Mountain Pass 另可連接タングラム側。
+  summary: 官方這頁列出斑尾高原 32 條雪道；與 Tangram 連通後，官方稱可形成 51 條雪道的大型雪場。路線類型包含壓雪、非壓雪、tree run、Family Adventure 與 FreeRidePark。
   details:
-  - name: 初心者Aコース
-    difficulty: beginner
-    length: 600m
-    maxSlope: 19°
-    note: 適合橫滑與木の葉落とし練習，官方建議第一次滑雪者先用初心者B。
-  - name: 初心者Bコース
-    difficulty: beginner
-    length: 1,000m
-    maxSlope: 15°
-    note: 通往中央餐廳ハイジ的緩斜面，適合練習轉彎與停止。
-  - name: ユートピア
-    difficulty: beginner
-    length: 700m
-    maxSlope: 10°
-    note: 第1リフト上方通往モンエール斑尾與第7日歸停車場方向的連絡路線。
-  - name: 白樺コース
-    difficulty: beginner
-    length: 600m
-    maxSlope: 19°
-    note: 由チャンピオン下部連接第7日歸停車場。
-    videoLinks:
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=324s
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1453s
-  - name: ポールバーンA
-    difficulty: beginner
-    length: 700m
-    maxSlope: 18°
-    note: 可預約使用的 pole course。
-  - name: トラバース（クリスタル連絡路）
-    difficulty: beginner
-    length: 600m
-    maxSlope: 10°
-    note: 由スーパークワッド或第3リフト中間站通往クリスタル方面，晴天可望日本海。
-    videoLinks:
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=593s
-  - name: スカイビュー
-    difficulty: beginner
-    length: 1,400m
-    maxSlope: 18°
-    note: 從タングラムスキーサーカス分岐回到斑尾高原的林間連絡路線。
-  - name: ボード初心者免費レッスン専用エリア
-    difficulty: beginner
-    length: 100m
-    maxSlope: 10°
-    note: 第1リフト降場旁的滑雪板初學者免費課程區域。
-  - name: キッズパーク
-    difficulty: beginner
-    length: 130m
-    maxSlope: 18°
-    note: 入口附近的兒童遊樂區，設有動く歩道。
-  - name: ハイジ方面連絡路
-    difficulty: beginner
-    length: 480m
-    maxSlope: 20°
-    note: 由クリスタル方面通往レストランハイジ的連絡路。
-  - name: パラダイス
-    difficulty: intermediate
-    length: 500m
-    maxSlope: 20°
-    note: 斑尾高原ホテル側主雪道，從 main gate 進場後首先滑下的壓雪坡。
-    videoLinks:
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=104s
-  - name: カービング
-    difficulty: intermediate
-    length: 800m
-    maxSlope: 25°
-    note: 第2クワッドリフト可到達的中級壓雪路線，適合轉彎練習與課程。
-    videoLinks:
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=500s
-  - name: オーシャンビュー
-    difficulty: intermediate
-    length: 800m
-    maxSlope: 25°
-    note: 由第3リフト山頂通往クリスタル方面的九十九折壓雪路線，上部可望日本海。
-    videoLinks:
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=765s
-  - name: ワールドカップ
-    difficulty: advanced
-    length: 500m
-    maxSlope: 35°
-    note: 曾舉辦 mogul World Cup，現為非壓雪粉雪路線。
-    videoLinks:
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1328s
-  - name: パウダーライン
-    difficulty: advanced
-    length: 360m
-    maxSlope: 35°
-    note: アドベンチャーアイル後方的非壓雪路線，可接往第13リフト或 NINJA。
-    videoLinks:
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1762s
-  - name: ラビットコース -Family Adventure-
-    difficulty: advanced
-    length: 270m
-    maxSlope: 32°
-    note: Family Adventure tree course，森林後段有 wave 與沢狀地形。
-  - name: パウダーシアター
-    difficulty: advanced
-    length: 270m
-    maxSlope: 36°
-    note: 位於パウダーライン與クリスタル之間的 tree run。
-  - name: カモシカコース -Family Adventure-
-    difficulty: advanced
-    length: 530m
-    maxSlope: 25°
-    note: 第2クワッドアクセス佳，坡度較緩，官方介紹適合 tree run 入門。
-  - name: パウダーウェーブ2
-    difficulty: advanced
-    length: 800m
-    maxSlope: 35°
-    note: 經第13リフト與アドベンチャーアイル進入的粉雪 tree run。
-  - name: リバーライン
-    difficulty: advanced
-    length: 580m
-    maxSlope: 37°
-    note: スーパークワッド旁 tree run，降雪後早晨適合搶 first track。
-  - name: ベアーコース -Family Adventure-
-    difficulty: advanced
-    length: 350m
-    maxSlope: 17°
-    note: 由クリスタル通往クリスタルボウル的 tree run，官方描述坡度較緩。
-  - name: アドベンチャーアイル
-    difficulty: advanced
-    length: 380m
-    maxSlope: 17°
-    note: 通往 powder area 的 tree run 連絡路，可望野尻湖、黒姫山與妙高山。
-    videoLinks:
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1592s
-  - name: クリスタルボウル
-    difficulty: advanced
-    length: 550m
-    maxSlope: 33°
-    note: 由トラバース通往クリスタル下部的 tree run。
-  - name: NINJA
-    difficulty: advanced
-    length: 330m
-    maxSlope: 31°
-    note: Tree run 中設有ラダージャンプ台的路線。
-  - name: SAWA -Natural Pipe-
-    difficulty: advanced
-    length: 700m
-    maxSlope: 28°
-    note: 沢地形 natural pipe，可利用壁、bank 與起伏 freeride。
-  - name: SAWA Ⅱ -Natural Pipe-
-    difficulty: advanced
-    length: 470m
-    maxSlope: 27°
-    note: SAWA 第二條 tree run，由 SAWA 入口往スカイラブ方向中途左側進入。
-  - name: SAWA Ⅲ -Natural Pipe-
-    difficulty: advanced
-    length: 470m
-    maxSlope: 30°
-    note: 2023-24 季登場的 SAWA 系 tree run，由スカイビュー方向中途右側進入。
-  - name: チャンピオン
-    difficulty: mixed
-    length: 1,000m
-    maxSlope: 30°
-    note: 上部為斑尾最陡壓雪坡之一，下部為較緩斜面，官方標示初級與中級。
-    videoLinks:
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=212s
-  - name: ジャイアント
-    difficulty: mixed
-    length: 1,200m
-    maxSlope: 31°
-    note: 主雪道，上部非壓雪上級、中段非壓雪中級、下部壓雪中級。
-    videoLinks:
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=387s
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1082s
-  - name: クリスタル
-    difficulty: mixed
-    length: 2,100m
-    maxSlope: 36°
-    note: 斑尾最長路線，上部非壓雪上級、中段壓雪中斜面、下部初級緩斜面。
-    videoLinks:
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=890s
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1944s
-  - name: スカイラブ
-    difficulty: mixed
-    length: 1,300m
-    maxSlope: 30°
-    note: 尾根沿い上部為非壓雪，下方為中級者向壓雪林間路線。
-    videoLinks:
-    - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=2110s
-  - name: FreeRidePark Madarao
-    difficulty: mixed
-    length: 280m
-    maxSlope: 30°
-    note: Snow Park、Terrain Park、Mogul course 的複合區，營業期間與 item 會隨雪況調整。
+    - name: パラダイス / 天堂
+      difficulty: intermediate
+      length: 500m
+      maxSlope: 20°
+      note: 斑尾高原ホテル側的主雪道；從 main gate 進場後，會先滑下這條雪道。
+      videoLinks:
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=104s
+    - name: 初心者Aコース
+      difficulty: beginner
+      length: 600m
+      maxSlope: 19°
+      note: 適合練習橫滑與落葉飄；比初心者Bコース稍陡，初學者可先從 B 開始。
+    - name: 初心者Bコース
+      difficulty: beginner
+      length: 1,000m
+      maxSlope: 15°
+      note: 適合練習轉彎與煞停；是一條通往雪場中央餐廳 Heidi 的緩坡。
+    - name: ユートピア
+      difficulty: beginner
+      length: 700m
+      maxSlope: 10°
+      note: 從第1纜車降場通往モンエール斑尾與第7日歸專用停車場方向的連絡道。
+    - name: 白樺コース
+      difficulty: beginner
+      length: 600m
+      maxSlope: 19°
+      note: 從チャンピオン下部連接到第7日歸停車場的雪道。
+      videoLinks:
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=324s
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1453s
+    - name: チャンピオン / 冠軍道
+      difficulty: mixed
+      length: 1,000m
+      maxSlope: 30°
+      note: 上部是斑尾高原最陡的壓雪坡之一；下部則是較緩的斜面。
+      videoLinks:
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=212s
+    - name: ワールドカップ / 世界盃
+      difficulty: advanced
+      length: 500m
+      maxSlope: 35°
+      note: 曾舉辦 mogul World Cup 的雪道，現在是非壓雪的粉雪道；適合早上搶 first track。
+      videoLinks:
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1328s
+    - name: カービング / carving
+      difficulty: intermediate
+      length: 800m
+      maxSlope: 25°
+      note: 第2雙人纜車可達的中級壓雪道，適合練習轉彎與上課。
+      videoLinks:
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=500s
+    - name: ジャイアント / 巨人道
+      difficulty: mixed
+      length: 1,200m
+      maxSlope: 31°
+      note: 上部是非壓雪上級、中段是非壓雪中級、下部是壓雪中級；可玩 powder、mogul 與 groomed。
+      videoLinks:
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=387s
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1082s
+    - name: ポールバーンA
+      difficulty: beginner
+      length: 700m
+      maxSlope: 18°
+      note: 配置有預約制 pole course。
+    - name: オーシャンビュー / 海洋景觀
+      difficulty: intermediate
+      length: 800m
+      maxSlope: 25°
+      note: 從第3纜車山頂往クリスタル方向延伸的九十九折壓雪道；上方可望見日本海。
+      videoLinks:
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=765s
+    - name: トラバース（クリスタル連絡路）
+      difficulty: beginner
+      length: 600m
+      maxSlope: 10°
+      note: 從 Super Quad 與第3纜車中間站往クリスタル方向的連絡道；晴天可望見日本海。
+      videoLinks:
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=593s
+    - name: クリスタル / 水晶道
+      difficulty: mixed
+      length: 2,100m
+      maxSlope: 36°
+      note: 斑尾高原最長路線；上部是非壓雪上級，中段是適合 carving 的中斜面壓雪，下部是初級緩坡，谷地北向斜面雪質佳。
+      videoLinks:
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=890s
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1944s
+    - name: パウダーライン / 粉雪線
+      difficulty: advanced
+      length: 360m
+      maxSlope: 35°
+      note: 通過アドベンチャーアイル後展開的非壓雪道；下方分岔往右可接第13纜車，往左可接 NINJA。
+      videoLinks:
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1762s
+    - name: スカイラブ / 天空滑道
+      difficulty: mixed
+      length: 1,300m
+      maxSlope: 30°
+      note: 靠近 Tangram 交界尾稜的上部是非壓雪，下方則是中級林間壓雪道。
+      videoLinks:
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=2110s
+    - name: スカイビュー / 天空景觀
+      difficulty: beginner
+      length: 1,400m
+      maxSlope: 18°
+      note: 從與 Tangram Ski Circus 的分岐點可回到斑尾高原的林間壓雪道。
+    - name: FreeRidePark
+      difficulty: mixed
+      length: 280m
+      maxSlope: 30°
+      note: 由 Snow Park、Terrain Park、Mogul course 三個區段構成；降雪狀況會影響器材設置與營運內容。
+    - name: ボード初心者無料レッスン専用エリア
+      difficulty: beginner
+      length: 100m
+      maxSlope: 10°
+      note: 第1纜車降場旁的單板初心者免費課程區；地形幾乎平坦，適合學裝備、停下來與滑行基本動作。
+    - name: キッズパーク / 兒童樂園
+      difficulty: beginner
+      length: 130m
+      maxSlope: 18°
+      note: 位在雪場入口附近，設有動力步道「Snow Escalator」，不用自己爬坡就能遊玩。
+    - name: ラビットコース -Family Adventure- / 兔子道
+      difficulty: advanced
+      length: 270m
+      maxSlope: 32°
+      note: Family Adventure 之一；穿過森林後會遇到很多波浪，底部像谷地，滑起來有雲霄飛車感。
+    - name: パウダーシアター / 粉雪劇場
+      difficulty: advanced
+      length: 270m
+      maxSlope: 36°
+      note: 位在パウダーライン與クリスタルコース之間的 tree run。
+    - name: カモシカコース -Family Adventure- / 鹿道
+      difficulty: advanced
+      length: 530m
+      maxSlope: 25°
+      note: Family Adventure 之一；從第2雙人纜車就能快速接入，坡度較和緩，適合 tree run 初體驗。
+    - name: パウダーウェーブ2 / 粉雪波浪2
+      difficulty: advanced
+      length: 800m
+      maxSlope: 35°
+      note: 適合粉雪 tree run；可從第13纜車一路經過アドベンチャーアイル進入。
+    - name: リバーライン / 河川線
+      difficulty: advanced
+      length: 580m
+      maxSlope: 37°
+      note: 位在 Super Quad 旁的 tree run；降雪後的早上最適合搶第一滑。
+    - name: ベアーコース -Family Adventure- / 熊道
+      difficulty: advanced
+      length: 350m
+      maxSlope: 17°
+      note: 從クリスタルコース通往クリスタルボウル的 tree run；坡度較緩，適合親子一起滑。
+    - name: アドベンチャーアイル / 冒險小徑
+      difficulty: advanced
+      length: 380m
+      maxSlope: 17°
+      note: 字面上就是前往 powder 天國的小徑；途中可眺望野尻湖、黑姬山與妙高山。
+      videoLinks:
+        - https://www.youtube.com/watch?v=6h1wSC_fbRA&t=1592s
+    - name: クリスタルボウル / 水晶碗
+      difficulty: advanced
+      length: 550m
+      maxSlope: 33°
+      note: 從トラバースコース連到クリスタル下部的 tree run。
+    - name: ハイジ方面連絡路 / 海蒂方向連絡路
+      difficulty: beginner
+      length: 480m
+      maxSlope: 20°
+      note: 從クリスタル方向往餐廳 Heidi 前進的連絡道。
+    - name: NINJA
+      difficulty: advanced
+      length: 330m
+      maxSlope: 31°
+      note: tree run 內設有高 7m、降雪時約 4 - 5m 的梯狀跳台。
+    - name: SAWA -Natural Pipe-
+      difficulty: advanced
+      length: 700m
+      maxSlope: 28°
+      note: 沢地形像 halfpipe，可用牆面跳躍、press，或利用起伏與 bank 玩 surf 風格滑行。
+    - name: SAWA Ⅱ -Natural Pipe-
+      difficulty: advanced
+      length: 470m
+      maxSlope: 27°
+      note: SAWA 的第二條沢地形路線；從 SAWA 入口往スカイラブ方向，中間點左側進入。
+    - name: SAWA Ⅲ -Natural Pipe-
+      difficulty: advanced
+      length: 470m
+      maxSlope: 30°
+      note: 2023-24 新登場的沢地形路線；在 SAWA 旁新增另一條路線，從スカイビュー中段偏下往右進入。
 lifts:
   total: 10
 access:
