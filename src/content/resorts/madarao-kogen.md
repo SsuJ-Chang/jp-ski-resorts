@@ -36,6 +36,12 @@ season:
   nightSkiingHours: 16:30-21:00（指定營業日）
   note: 夜滑營業日為 12/27-1/3、1/10、1/11、2/21、2/22；實際請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34805/
+trailMaps:
+- label: 斑尾高原雪道圖
+  language: 日本語
+  season: 2025-2026
+  url: https://www.madarao.jp/system/wp-content/uploads/2025/09/map2025_2026_sizeB4_20250909.pdf
+  sourceLabel: Madarao Official
 tickets:
   season: 2025-2026
   currency: JPY
@@ -291,7 +297,13 @@ terrainSummary:
   beginner: 初級約 30%，可與飯山站接駁安排住宿型滑雪行程。
   intermediate: 中級約 35%，適合在主雪道巡航與移動。
   advanced: 上級約 35%，公開資料強調粉雪與 tree run 是斑尾高原特色。
-  powder: 斑尾高原有豐富積雪與 madapow 粉雪特色。
+  powder: 斑尾高原有豐富積雪與 Madapow 粉雪特色。
+externalContent:
+  blogs: []
+  vlogs:
+    - title: 班尾高原滑雪場：日本第一滑雪YouTuber, 刻平流派創始人 IGchan @いぐっちゃん 滑遍日本後的最愛雪場！Ｉ 日本雪場介紹 Japan Resort Review Ｉ Madarao
+      url: https://www.youtube.com/watch?v=9oDbDE9dFGI
+      note: Uncle Perry - The Snow Sensei
 ---
 
 長野縣的斑尾高原共有32 條雪道，搭配 10 座纜車，包含 初心者Aコース、初心者Bコース、ユートピア 等路線。初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。
