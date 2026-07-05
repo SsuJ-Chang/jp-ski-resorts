@@ -45,29 +45,88 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/34805/
-  note: 主要票種依 2025-2026 公開雪場資料整理；Mountain Pass 與 Area Pass 的可用範圍請以官方為準。
+  source: https://www.madarao.jp/ski/price
+  note: IC 卡保證金 500 元另計。券售處在上部入口附近的白樺租借入口旁，以及底部區域的餐廳 Heidi 內。夜滑券在資訊中心販售。日歸停車場購買夜滑券時，第 1 纜車可免費搭乘 1 次。
   plans:
-  - name: Mountain Pass 1 日券
-    priceLines:
-    - 成人 ¥8,500
-    - 兒童 ¥5,500
-    - 長者 ¥8,000
-  - name: Mountain Pass 2 日券
-    priceLines:
-    - 成人 ¥16,000
-    - 兒童 ¥10,000
-    - 長者 ¥15,000
-  - name: Area Pass 5 小時券
-    priceLines:
-    - 成人 ¥6,900
-    - 兒童 ¥4,200
-    - 長者 ¥6,300
-  - name: Area Pass 7 小時券
-    priceLines:
-    - 成人 ¥8,100
-    - 兒童 ¥5,200
-    - 長者 ¥7,400
+    - name: Mountain Pass 1 日券
+      priceLines:
+        - 大人（中學生以上） 8,500 円
+        - 銀髮族（55 歳以上） 8,000 円
+        - 兒童（6 ~ 12 歳） 5,500 円
+        - 5 歳以下 1,000 円
+      note: 可使用斑尾高原滑雪場與 Tangram Ski Circus 的全數纜車；僅限日間 8:30 ~ 16:30 使用，不能夜滑。
+    - name: Mountain Pass 2 日券
+      priceLines:
+        - 大人（中學生以上） 16,000 円
+        - 銀髮族（55 歳以上） 15,000 円
+        - 兒童（6 ~ 12 歳） 10,000 円
+        - 5 歳以下 2,000 円
+      note: 可使用斑尾高原滑雪場與 Tangram Ski Circus 的全數纜車；僅限日間 8:30 ~ 16:30 使用，不能夜滑。
+    - name: Mountain Pass 3 日券
+      priceLines:
+        - 大人（中學生以上） 22,500 円
+        - 銀髮族（55 歳以上） 21,000 円
+        - 兒童（6 ~ 12 歳） 13,500 円
+        - 5 歳以下 3,000 円
+      note: 可使用斑尾高原滑雪場與 Tangram Ski Circus 的全數纜車；僅限日間 8:30 ~ 16:30 使用，不能夜滑。
+    - name: Area Pass 1 回券
+      priceLines:
+        - 大人（中學生以上） 700 円
+        - 銀髮族（55 歳以上） 700 円
+        - 兒童（6 ~ 12 歳） 700 円
+        - 5 歳以下 700 円
+      note: 僅限斑尾高原使用，不能在 Tangram Ski Circus 使用。
+    - name: Area Pass PM 限定 3 小時券
+      priceLines:
+        - 大人（中學生以上） 4,100 円
+        - 銀髮族（55 歳以上） 3,800 円
+        - 兒童（6 ~ 12 歳） 2,900 円
+      note: 僅限斑尾高原使用，不能在 Tangram Ski Circus 使用；以 1 小時為單位扣時，3 小時券於中午起售，可夜滑，且首次進閘時非持券者不可同行。
+    - name: Area Pass 5 小時券
+      priceLines:
+        - 大人（中學生以上） 6,900 円
+        - 銀髮族（55 歳以上） 6,300 円
+        - 兒童（6 ~ 12 歳） 4,200 円
+      note: 僅限斑尾高原使用，不能在 Tangram Ski Circus 使用；以 1 小時為單位扣時，季中可用，可夜滑，且首次進閘時非持券者不可同行。
+    - name: Area Pass 7 小時券
+      priceLines:
+        - 大人（中學生以上） 8,100 円
+        - 銀髮族（55 歳以上） 7,400 円
+        - 兒童（6 ~ 12 歳） 5,200 円
+      note: 僅限斑尾高原使用，不能在 Tangram Ski Circus 使用；以 1 小時為單位扣時，季中可用，可夜滑，且首次進閘時非持券者不可同行。
+    - name: Area Pass 14 小時券
+      priceLines:
+        - 大人（中學生以上） 14,700 円
+        - 銀髮族（55 歳以上） 14,000 円
+        - 兒童（6 ~ 12 歳） 9,600 円
+      note: 僅限斑尾高原使用，不能在 Tangram Ski Circus 使用；以 1 小時為單位扣時，季中可用，可夜滑，且首次進閘時非持券者不可同行。
+    - name: Area Pass 24 小時券
+      priceLines:
+        - 大人（中學生以上） 25,200 円
+        - 銀髮族（55 歳以上） 24,000 円
+        - 兒童（6 ~ 12 歳） 16,400 円
+      note: 僅限斑尾高原使用，不能在 Tangram Ski Circus 使用；以 1 小時為單位扣時，季中可用，可夜滑，且首次進閘時非持券者不可同行。
+    - name: Area Pass 夜滑券
+      priceLines:
+        - 大人（中學生以上） 3,200 円
+        - 銀髮族（55 歳以上） 2,700 円
+        - 兒童（6 ~ 12 歳） 2,100 円
+        - 5 歳以下 1,000 円
+      note: 當日限定，16:30 起使用，不能在 Tangram Ski Circus 使用。
+    - name: 斑尾全山季票
+      priceLines:
+        - 大人（中學生以上） 73,500 円
+        - 銀髮族（55 歳以上） 66,200 円
+        - 兒童（6 ~ 12 歳） 35,700 円
+        - 5 歳以下 8,700 円
+      note: 可使用斑尾高原滑雪場與 Tangram Ski Circus 的全數纜車；斑尾高原可夜滑、Tangram 不可夜滑，且不可改名。
+    - name: Mt.3 共通季票
+      priceLines:
+        - 大人 85,000 円
+        - 銀髮族（60 歳以上） 76,000 円
+        - 中高生 76,000 円
+        - 小學生 41,000 円
+      note: 可使用斑尾高原、Tangram Ski Circus、志賀高原燒額山與奧志賀高原的纜車；斑尾高原與燒額山可夜滑，春滑時段也可用，且不可改名。
 snowWeather:
   title: 斑尾高原雪況天氣
   provider: Weathernews
