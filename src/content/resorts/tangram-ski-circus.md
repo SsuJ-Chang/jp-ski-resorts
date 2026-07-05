@@ -13,7 +13,7 @@ tags:
 - no_car_accessible
 - snowboard_friendly
 links:
-  official: https://www.tangram.jp/
+  official: https://www.tangram.jp/ski/
   weather: https://weathernews.jp/ski/spot/35508/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Tangram%20Ski%20Circus
   access: https://www.tangram.jp/
@@ -30,32 +30,67 @@ season:
   nightSkiingHours: 16:30〜20:00
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
   source: https://weathernews.jp/ski/spot/35508/
+trailMaps:
+- label: Tangram 雪道圖
+  language: 日本語
+  season: 2025-2026
+  url: https://www.tangram.jp/ski/ski/images/map/map.jpg
+  sourceLabel: Tangram Official
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/35508/
-  note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
+  source: https://www.tangram.jp/ski/ticket/ticket.php
+  note: 另收 IC 卡押金 500 日圓，歸還時退還。原則上搭乘纜車需穿著滑雪板或單板；野尻湖露台觀光纜車除外。夜滑券僅限指定夜滑日使用。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,500
-    - 兒童 ¥4,200
-    - 樂齡 ¥6,000
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥5,500
-    - 兒童 ¥3,700
-    - 樂齡 ¥5,000
-  - name: 斑尾全山共通1日券
-    priceLines:
-    - 成人 ¥8,500
-    - 兒童 ¥5,500
-    - 樂齡 ¥8,000
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥3,000
-    - 樂齡 ¥3,000
+    - name: 1日券
+      priceLines:
+        - 成人：¥6,500
+        - 55歲以上：¥6,000
+        - 小學生：¥4,200
+      note: 不可夜滑。
+    - name: 4小時券
+      priceLines:
+        - 成人：¥5,500
+        - 55歲以上：¥5,000
+        - 小學生：¥3,700
+      note: 自閘門通過起連續 4 小時，可夜滑。
+    - name: 未就學兒童共通券
+      priceLines:
+        - 未就學兒童：¥1,000
+      note: 僅未就學兒童可用，不可夜滑。
+    - name: 回數券 1 回
+      priceLines:
+        - ¥700
+      note: 可夜滑。
+    - name: 回數券 11 回
+      priceLines:
+        - ¥7,000
+      note: 雪季內有效，可夜滑。
+    - name: 夜滑券
+      priceLines:
+        - 一律：¥3,000
+      note: 僅限指定夜滑日使用。
+    - name: 兒童夜滑券
+      priceLines:
+        - 一律：¥1,000
+      note: 僅限指定夜滑日使用。
+    - name: 季票（Tangram）
+      priceLines:
+        - 成人：¥60,000
+        - 55歲以上：¥50,000
+        - 小學生：¥30,000
+      note: 可夜滑。
+    - name: 斑尾高原共通1日券
+      priceLines:
+        - 成人：¥8,500
+        - 55歲以上：¥8,000
+        - 小學生：¥5,500
+      note: 販售期間為 12/20 ～ 3/22（預定），不可夜滑。
+    - name: 野尻湖露台觀光纜車（1往返）
+      priceLines:
+        - 成人・55歲以上：¥1,500
+        - 小學生以下：¥1,200
+      note: 可不穿雪具搭乘第 5 纜車。
 snowWeather:
   title: Tangram Ski Circus雪況預報
   provider: Weathernews
@@ -75,66 +110,54 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
-  courseInfoPage: https://www.tangram.jp/
-  summary: 共 19 條雪道、5 座纜車，初級 30%、中級 40%、高級 30%。
+  courseInfoPage: https://www.tangram.jp/ski/ski/map.php
+  summary: 官方地圖顯示雪道大多直接滑入ホテルタングラム；右側第6リフト（パンタンライン）可接到ペンションエリア，左側尾稜則可連到斑尾高原スキー場，另有キッズ・初心者練習エリア與パウダー・ツリーラン區域可利用，搭配斑尾全山共通券可擴大滑行範圍。
   details:
-  - name: 初級路線 1
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 2
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 3
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 4
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 5
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 6
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 1
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 2
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 3
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 4
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 5
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 6
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 7
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 1
-    difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 2
-    difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 3
-    difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 4
-    difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 5
-    difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 6
-    difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    - name: フラワーライン
+      difficulty: beginner
+      note: 官方地圖上可見的初級雪道，位在ホテルタングラム周邊的滑入動線上。
+    - name: ももダウンヒル
+      difficulty: beginner
+      note: 官方地圖上可見的初級雪道，屬於回到酒店一帶的滑入線。
+    - name: あんずダウンヒル
+      difficulty: beginner
+      note: 官方地圖上可見的初級雪道，接近酒店與第3クワッド周邊。
+    - name: カモシカダウンヒル
+      difficulty: intermediate
+      note: 官方地圖上可見的中級雪道，位在樹林區旁，適合連續滑行。
+    - name: ジャイアントダウンヒル
+      difficulty: advanced
+      note: 官方地圖上可見的上級雪道，位於中央到左側斜面。
+    - name: キングスストリーム
+      difficulty: advanced
+      note: 官方地圖上可見的上級雪道，為中央主線之一。
+    - name: マルチライン
+      difficulty: intermediate
+      note: 官方地圖上可見的中級雪道，連接第3クワッド附近區域。
+    - name: ファミリーライン
+      difficulty: beginner
+      note: 官方地圖上可見的初級雪道，屬於回酒店的順向路線。
+    - name: ハートライン
+      difficulty: beginner
+      note: 官方地圖上可見的初級雪道，靠近親子與初心者使用動線。
+    - name: ビレッジライン
+      difficulty: advanced
+      note: 官方地圖上可見的上級雪道，位在第6リフト一側的主線。
+    - name: パンタンライン
+      difficulty: beginner
+      note: 官方地圖與官網文字都明確標示的第6リフト連絡線，會接到ペンションエリア。
+    - name: りんごランド
+      difficulty: beginner
+      note: 親子與初心者向け的練習區域，位在酒店周邊。
+    - name: キッズパーク
+      difficulty: beginner
+      note: 兒童滑雪區，適合初學與親子活動。
+    - name: キッズ・初心者練習エリア
+      difficulty: beginner
+      note: 官方頁面標示的親子與初學者練習區域。
+    - name: パウダー・ツリーラン
+      difficulty: mixed
+      note: 官方另設的粉雪與樹林滑行區，依當日開放與安全管制而定。
 lifts:
   total: 5
 access:
