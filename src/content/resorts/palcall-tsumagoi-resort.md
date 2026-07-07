@@ -1,7 +1,7 @@
 ---
 id: palcall-tsumagoi-resort
 name:
-  zhTw: Palcall 嬬戀 Resort
+  zhTw: Palcall 嬬戀
   ja: パルコール嬬恋リゾート
   en: Palcall Tsumagoi Resort
 region: kanto-koshinetsu
@@ -15,7 +15,9 @@ tags:
 - snowboard_friendly
 - resort_village
 links:
-  official: https://tsumagoiskiresort.life/
+  official: https://tsumagoiskiresort.life/winter-season/
+  ticket: https://tsumagoiskiresort.life/lifttickets/
+  access: https://tsumagoiskiresort.life/access/
   facebook: https://www.facebook.com/palcall.tsumagoi/
   instagram: https://www.instagram.com/palcall/
   xTwitter: https://twitter.com/PalcallTsumagoi/
@@ -45,29 +47,29 @@ snowWeather:
 courses:
   total: 22
   courseInfoPage: https://tsumagoiskiresort.life/course-guide/
-  summary: 列為 22 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 官方把雪場分成嬬戀區與バラギ區，共 22 條雪道；嬬戀區以 3,193m 長纜車串起約 3.5km 的初級到中級連續滑行，バラギ區則以寬幅、坡度較緩的路線為主，整體很適合想滑長距離巡航、又重視景觀與練習感的玩家。
   details:
   - name: 山頂ロングランルート
     difficulty: beginner
     length: 3,500m
-    note: 官方介紹可串接約 3.5km 長距離滑行，除部分路線外多為初中級。
+    note: 官方說明嬬戀區可由山頂一路串接約 3.5km 的初級到中級滑行，除 D-1 外多數坡面都能連成長距離巡航。
   - name: B-6 バラギエリアコース
     difficulty: beginner
-    note: Baragi 區域路線，官方列於 course guide。
+    note: 巴ラギ區以寬幅緩坡見長，適合初心者、初級者與親子滑行。
   - name: メインゲレンデ中級ライン
     difficulty: intermediate
-    note: 主場區中級滑行線，適合銜接長距離巡航。
+    note: 官方整體介紹指出多數路線屬初級到中級，這條可視為銜接長距離巡航的中級滑行帶。
   - name: D-1 上級ライン
     difficulty: advanced
-    note: 官方說明多數坡面為初中級，D-1 為較需要注意的進階路線。
+    note: 官方明確把 D-1 列為較需要注意的進階路線；雪場主體仍以初級到中級路線為主。
   beginnerRatio: 62
   intermediateRatio: 33
   advancedRatio: 5
 terrainSummary:
-  beginner: 初級雪道以 山頂ロングランルート、B-6 バラギエリアコース 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 メインゲレンデ中級ライン 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 D-1 上級ライン，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+  beginner: 嬬戀區的長距離路線與巴ラギ區的寬幅緩坡，都很適合從轉彎、控速與穩定連續滑行開始練習。
+  intermediate: 官方主打的初級到中級連續滑行很強，能把多段坡面串成長距離巡航，是這座雪場最有特色的滑法之一。
+  advanced: D-1 是少數需要特別注意的進階路線；其餘主體仍以初級到中級為主。
+  snowboard: 雪板使用者可以把兩大區域都當成巡航雪場來滑，寬幅坡面與長距離串接感很友善。
 contact:
   address:
     zhTw: 群馬縣吾妻郡嬬恋村干俣バラギ高原
@@ -77,21 +79,14 @@ contact:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/34213/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  source: https://tsumagoiskiresort.life/lifttickets/
+  note: 只整理 1 日券分頁內容；其他票種未收錄。
   plans:
   - name: 1日券（全日）
     priceLines:
-    - 成人 ¥6,500 兒童 ¥3,000
-  - name: ゴンドラ１回券（片道）
-    priceLines:
-    - 成人 ¥2,000 兒童 ¥1,000
-  - name: リフト回券（片道）
-    priceLines:
-    - 成人 ¥800 兒童 ¥800
-  - name: 初滑り情報 12月14日〜12月20日は、開放シーズン価格 ¥4,000！
-    priceLines:
-    - 請見官方公告
+    - 成人 ¥6,500 / 兒童 ¥3,000
+    - 網路優惠：成人 ¥5,500 / 兒童 ¥2,500
+    note: 12/20(六) - 4/5(日) 8:00 - 16:00；IC 卡發行費已包含。若持有事前註冊的 IC 卡，通常價可再折 500 日圓。可使用全雪場的纜車與吊椅；未就學兒童在高校生以上監護人同行下最多 2 名免費，身心障礙手冊可享定價 5 折。各項折扣不可併用。
 elevation:
   top: 2100
   bottom: 1430
@@ -102,10 +97,21 @@ location:
 lifts:
   total: 5
 access:
+  fromTokyo:
+  - label: 東京出發
+    steps:
+    - 先搭新幹線到輕井澤站，再轉乘西武高原巴士往草津溫泉方向。
+    - 於萬座鹿澤口站下車後，再轉計程車前往雪場。
+    estimatedTime: 約 90 分
+    difficulty: medium
+    note: 官方頁面寫明沒有雪場接駁巴士；巴士約 70 分、再轉計程車約 20 分。若直接搭計程車前往，單台約 18,000 日圓。
+    links:
+    - label: 官方アクセス
+      url: https://tsumagoiskiresort.life/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：吾妻線万座・鹿沢口駅下車タクシー (20分) 電車 ：長野新幹線 軽井沢駅 シャトルバス(宿泊者限定) (60分) 車 ：小牧IC→上田菅平IC経由 (100分) 車 ：練馬IC→碓氷軽井沢IC経由 (70分) 3000台 平日 免費 假日 免費
+    note: 冬季的パノラマライン南、北路都會封閉，請從國道144號線西部小學方向前往バラギ高原；全日免費停車。
 externalContent:
   blogs: []
   vlogs:
@@ -114,4 +120,4 @@ externalContent:
     note: Uncle Perry - The Snow Sensei
 ---
 
-群馬縣的Palcall 嬬戀 Resort共有 22 條雪道，搭配 5 座纜車，包含 山頂ロングランルート、B-6 バラギエリアコース 等路線；雪道配置偏初級，練習門檻較低，標籤偏向初學者練習、親子同行。
+群馬縣的 Palcall 嬬戀以 3,193m 長纜車串起嬬戀區與バラギ區，22 條雪道多數是初級到中級的長距離滑行，從山頂 2,100m 一路滑下能感受高海拔與開闊景觀。巴ラギ區則以寬幅緩坡、親子與新手練習為主，也很適合想把巡航滑順感練好的玩家。
