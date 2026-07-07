@@ -106,6 +106,12 @@ access:
     recommended: true
     snowTireRequired: true
     note: 交通資訊摘要：吾妻線万座・鹿沢口駅下車タクシー (20分) 電車 ：長野新幹線 軽井沢駅 シャトルバス(宿泊者限定) (60分) 車 ：小牧IC→上田菅平IC経由 (100分) 車 ：練馬IC→碓氷軽井沢IC経由 (70分) 3000台 平日 免費 假日 免費
+externalContent:
+  blogs: []
+  vlogs:
+  - title: 日本300多個雪場，你為什麼還要人擠人?! ｜ 絕景秘境雪場 - 群馬嬬戀PalCall Tsumagoi Resort ｜ Resort Report ｜ 日本雪場介紹
+    url: https://www.youtube.com/watch?v=PmiJ-_eVMTg
+    note: Uncle Perry - The Snow Sensei
 ---
 
 群馬縣的Palcall 嬬戀 Resort共有 22 條雪道，搭配 5 座纜車，包含 山頂ロングランルート、B-6 バラギエリアコース 等路線；雪道配置偏初級，練習門檻較低，標籤偏向初學者練習、親子同行。
