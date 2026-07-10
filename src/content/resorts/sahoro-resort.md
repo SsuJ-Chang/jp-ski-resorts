@@ -112,6 +112,12 @@ terrainSummary:
   advanced: 上級雪道佔 40%，進階路線請依當日雪況與官方管制判斷。
   snowboard: 雪板可滑行。
   powder: 北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。
+externalContent:
+  blogs: []
+  vlogs:
+  - title: "隱藏寶藏滑雪場，享受真正的 Japow | Sahoro佐幌滑雪場・十勝北海道"
+    url: "https://www.youtube.com/watch?v=MbrzL1AxMRo"
+    note: "Todd's Japan Ski Trip"
 ---
 
 Sahoro Resort是北海道的大型雪場，整理為21 條雪道，搭配 8 座纜車。上級路線比例明顯，坡面變化較多，介紹保留在可確認的雪道數與難度比例；標籤上偏向夜滑、雙板與單板。

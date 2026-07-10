@@ -360,9 +360,12 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-    - title: 班尾高原滑雪場：日本第一滑雪YouTuber, 刻平流派創始人 IGchan @いぐっちゃん 滑遍日本後的最愛雪場！Ｉ 日本雪場介紹 Japan Resort Review Ｉ Madarao
-      url: https://www.youtube.com/watch?v=9oDbDE9dFGI
-      note: Uncle Perry - The Snow Sensei
+  - title: 班尾高原滑雪場：日本第一滑雪YouTuber, 刻平流派創始人 IGchan @いぐっちゃん 滑遍日本後的最愛雪場！Ｉ 日本雪場介紹 Japan Resort Review Ｉ Madarao
+    url: https://www.youtube.com/watch?v=9oDbDE9dFGI
+    note: Uncle Perry - The Snow Sensei
+  - title: "【上から下まで】斑尾高原スキー場を豪華ゲストと共に！ //Who's TV"
+    url: "https://www.youtube.com/watch?v=6vMAWJxnjwo"
+    note: "Who’s TV / by Fumika Hoshino"
 ---
 
 長野縣的斑尾高原共有32 條雪道，搭配 10 座纜車，包含 初心者Aコース、初心者Bコース、ユートピア 等路線。初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。

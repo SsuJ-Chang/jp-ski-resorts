@@ -273,7 +273,10 @@ externalContent:
   - title: 滑雪交通｜前往星野磐梯山温泉飯店和ALTS磐梯滑雪場(2017.11更新)
     url: https://natasha-traveler.tw/bandaisan-bus/
     note: 娜塔蝦的滑雪食旅手記
-  vlogs: []
+  vlogs:
+  - title: "【上から下まで】福島県 / 猫魔スキー場【TOP TO BOTTOM】 // Who's TV"
+    url: "https://www.youtube.com/watch?v=5nyQXed1EN4"
+    note: "Who’s TV / by Fumika Hoshino"
 ---
 
 Necoma Mountain 位於福島縣磐梯雪區，南北面向帶來的雪況差異讓同一天行程能排出完全不同的滑感。你可以先在主雪道巡航，再把 park、林間感或積雪後的變化段落接進後半天。

@@ -241,6 +241,9 @@ externalContent:
     url: https://natasha-traveler.tw/myoko-fujimiso/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
+  - title: "【爆雪】妙高杉ノ原スキー場上から下までヤバイ！！"
+    url: "https://www.youtube.com/watch?v=d-WWuwtwkgU"
+    note: "Who’s TV / by Fumika Hoshino"
   - title: "全日本最長的雪道!8.5km!怎麼摔都不會痛!不用去北海道了｜妙高雪場開箱 杉之原SUGINOHARA｜YK🏂VLOG"
     url: "https://www.youtube.com/watch?v=scsRnyrkqIE"
     note: "YK來了"

@@ -158,6 +158,9 @@ externalContent:
   - title: "帶你玩轉輕井澤滑雪場：超詳細攻略！31度黑線雪道多可怕？哪些APP值得一試？雪質真的很硬嗎？"
     url: https://www.youtube.com/watch?v=vMWhSBRttyg
     note: LeoTW沈浸滑雪
+  - title: "【オープン初日】軽井沢プリンスホテルスキー場 【上から下まで】// Who's TV"
+    url: "https://www.youtube.com/watch?v=kdQ8KMIk8zo"
+    note: "Who’s TV / by Fumika Hoshino"
 ---
 
 長野縣的輕井澤王子大飯店共有14 條雪道，搭配 8 座纜車，包含 ファミリーコース / Family Course、プリンスゲレンデ / Prince Slope、トップクルーズ / Top Cruise 等路線。初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

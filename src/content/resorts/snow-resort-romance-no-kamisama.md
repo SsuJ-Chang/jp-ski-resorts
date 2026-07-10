@@ -169,6 +169,12 @@ terrainSummary:
   intermediate: 中級雪道約 50%，適合穩定滑行與轉彎練習。
   advanced: 高級雪道約 10%，可安排較有坡度與速度感的滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
+externalContent:
+  blogs: []
+  vlogs:
+  - title: "美女と一緒にロマンスの神様スキー場上から下まで夢の1本！"
+    url: "https://www.youtube.com/watch?v=MkqOclTtNX4"
+    note: "Who’s TV / by Fumika Hoshino"
 ---
 
-Snow Resort Romance no Kamisama位於長野縣，是中小型雪場，共有10 條雪道，搭配 6 座纜車。代表路線包含 パーフェクトコース / Perfect Course、ロマンスコース / Romance Course、ファミリーコース / Family Course，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。
+Snow Resort Romance no Kamisama位於長野縣，是中小型雪場，共有 10 條雪道，搭配 6 座纜車。代表路線包含 パーフェクトコース / Perfect Course、ロマンスコース / Romance Course、ファミリーコース / Family Course，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

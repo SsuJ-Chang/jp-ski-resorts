@@ -214,6 +214,9 @@ externalContent:
   - title: 日本關東最大滑雪場～尾瀨岩鞍滑雪場第五年回訪，春節雙滑雪團
     url: https://www.youtube.com/watch?v=zZq4RrZOa5A
     note: 艾維斯52赫茲
+  - title: "【上から下まで】ホワイトワールド尾瀬岩鞍/平昌オリンピック選手広野あさみプロと滑るよ！【TOP TO BOTTOM】 //Who's TV"
+    url: "https://www.youtube.com/watch?v=1fsxp5H8OGk"
+    note: "Who’s TV / by Fumika Hoshino"
 ---
 
 群馬縣的White World 尾瀨岩鞍共有 18 條雪道，搭配 11 座纜車，包含 ファミリーコース、ロマンスコース 等路線；初級、中級與上級路線都有配置，標籤偏向親子同行、夜滑。

@@ -222,24 +222,30 @@ access:
     recommended: true
     snowTireRequired: true
     note: 從關越自動車道湯澤 IC 方向進入很近；練馬 IC 出發約 110 分、新潟西 IC 出發約 90 分。停車場約 2,000 台，平假日免費。
-externalContent:
-  blogs:
-  - title: 越後湯澤「神立高原滑雪場」車站免費接駁、女生纜車票優惠、夜滑直到凌晨!
-    url: https://natasha-traveler.tw/kandatsu-snow-resort/
-    note: 娜塔蝦的滑雪食旅手記
-  vlogs:
-  - title: 【日本東京🇯🇵】EP6 神立高原滑雪場❄️｜越後中里 天使格蘭帝亞酒店｜Angel Grandia 雪票自動售票機｜Burton STEP ON 單板友善雪場｜自學單板全紀錄｜♨️焼肉 さかえや
-    url: https://www.youtube.com/watch?v=gIPtuBt09tI
-    note: 和Ivy去旅行
-  - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
-    url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
-    note: MIRU tube JAPAN 【Route Guide】
 terrainSummary:
   beginner: Procyon、Pollux、Vega、Polaris 等初級路線提供緩坡、寬幅與長距離練習。
   intermediate: Subaru、Pegasus、Sirius、Regulus、Castor 提供中級地形變化、夜滑與地形公園鄰近路線。
   advanced: Milky Way、Orion、Hercules、Super Antares 與 Tree Hercules 提供長距離尾根、急斜面、雪丘、非壓雪與樹林滑行。
   snowboard: Regulus 可進行 carving 等訓練，Castor 鄰近地形公園區，適合想加入地形公園元素的滑行者。
   powder: Super Antares 為非壓雪路線，Hercules 與 Orion 周邊在新雪後也有粉雪特色。
+externalContent:
+  blogs:
+  - title: 越後湯澤「神立高原滑雪場」車站免費接駁、女生纜車票優惠、夜滑直到凌晨!
+    url: https://natasha-traveler.tw/kandatsu-snow-resort/
+    note: 娜塔蝦的滑雪食旅手記
+  vlogs:
+  - title: "大人気神立スノーリゾートの魅力とは？？"
+    url: "https://www.youtube.com/watch?v=YW7TskuZhgU"
+    note: "Who’s TV / by Fumika Hoshino"
+  - title: "冬が来たー！神立オープン日の1番リフトに並んでみた♡"
+    url: "https://www.youtube.com/watch?v=G8rqatcEl5I"
+    note: "Who’s TV / by Fumika Hoshino"
+  - title: 【日本東京🇯🇵】EP6 神立高原滑雪場❄️｜越後中里 天使格蘭帝亞酒店｜Angel Grandia 雪票自動售票機｜Burton STEP ON 單板友善雪場｜自學單板全紀錄｜♨️焼肉 さかえや
+    url: https://www.youtube.com/watch?v=gIPtuBt09tI
+    note: 和Ivy去旅行
+  - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
+    url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
+    note: MIRU tube JAPAN 【Route Guide】
 ---
 
 神立高原是新潟縣的中型雪場，整理為16 條雪道，搭配 6 座纜車。雪道如 1 アンドロメダ、2 プロキオン、3 ポルックス，初級、中級與上級路線都有配置；標籤上偏向初學者練習、夜滑。

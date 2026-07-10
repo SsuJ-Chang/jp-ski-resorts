@@ -142,6 +142,12 @@ access:
     recommended: true
     snowTireRequired: true
     note: 交通資訊摘要：上越線沼田駅よりタクシーで (70分) 車 ：関越自動車道 沼田ICより (50分) 1800台 平日 免費 假日 場内1000円
+externalContent:
+  blogs: []
+  vlogs:
+  - title: "【上から下まで】丸沼高原TOP TO BOTTOM 【スノーボード】// Who's TV"
+    url: "https://www.youtube.com/watch?v=M6yT0I6wvSU"
+    note: "Who’s TV / by Fumika Hoshino"
 ---
 
-丸沼高原是群馬縣的中型雪場，整理為13 條雪道，搭配 8 座纜車。雪道如 グリーンコース、グリーン連絡路、イエローコース A，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+丸沼高原是群馬縣的中型雪場，整理為 13 條雪道，搭配 8 座纜車。雪道如 グリーンコース、グリーン連絡路、イエローコース A，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

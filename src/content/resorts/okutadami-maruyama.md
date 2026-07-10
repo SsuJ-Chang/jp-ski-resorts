@@ -134,6 +134,15 @@ terrainSummary:
   intermediate: 中級與上級比例接近，適合有基礎後再安排行程。
   advanced: 初滑り季可期待粉雪，春季可滑饅頭與林間路線。
   powder: 天然雪 100% 與豐富積雪是 的主要特色。
+externalContent:
+  blogs: []
+  vlogs:
+  - title: "今日本で1番熱いスキー場【GWまで営業"
+    url: "https://www.youtube.com/watch?v=WTGGuJjZ7pM"
+    note: "Who’s TV / by Fumika Hoshino"
+  - title: "奥只見丸山秘境園ついに解禁！！"
+    url: "https://www.youtube.com/watch?v=D3VaNRZka38"
+    note: "Who’s TV / by Fumika Hoshino"
 ---
 
-奧只見丸山位於新潟縣，以10 條雪道形成中小型雪場規模，搭配 5 座纜車。主要路線有 ブナ平ゲレンデ、カモシカゲレンデ B・Cコース、八崎ゲレンデ，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。
+奧只見丸山位於新潟縣，以 10 條雪道形成中小型雪場規模，搭配 5 座纜車。主要路線有 ブナ平ゲレンデ、カモシカゲレンデ B・Cコース、八崎ゲレンデ，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

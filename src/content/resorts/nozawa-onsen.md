@@ -364,6 +364,9 @@ externalContent:
     url: https://natasha-traveler.tw/double-black-crew/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
+  - title: "【野沢温泉スキー場】今滑れる最長コースを上から下まで紹介！綺麗すぎ！"
+    url: "https://www.youtube.com/watch?v=t7LY111vERA"
+    note: "Who’s TV / by Fumika Hoshino"
   - title: 【日本東京🇯🇵】EP4 野澤溫泉滑雪場🗻｜歷史380年旅店常盤屋 Tokiwaya🏯｜道地日式創意料理🍣｜自學單板全紀錄⛷｜輕鬆學會S TRUN🏂｜光明皇后千人風呂♨️｜機場直達野沢巴士🚌
     url: https://www.youtube.com/watch?v=S9eJjItkVuY
     note: 和Ivy去旅行

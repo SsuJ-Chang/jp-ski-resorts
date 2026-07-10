@@ -141,6 +141,12 @@ access:
     recommended: true
     snowTireRequired: true
     note: 交通資訊摘要：上越線沼田駅からタクシー 電車 ：上越新幹線上毛高原駅から送迎バス(要予約)または、タクシー 車 ：前橋IC→沼田IC経由 (50分) 車 ：練馬IC→沼田IC経由 (150分) 1800台 平日 免費 假日 立体駐車場に駐車の場合、1500円/1台
+externalContent:
+  blogs: []
+  vlogs:
+  - title: "【上から下まで】TOP TO BOTTOM 【川場スキー場】// Who's TV"
+    url: "https://www.youtube.com/watch?v=b-Cniy7wDxM"
+    note: "Who’s TV / by Fumika Hoshino"
 ---
 
 群馬縣的川場共有11 條雪道，搭配 5 座纜車，包含 ファーストステップゲレンデ、桜川コース、クリスタルコース 等路線。初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。
