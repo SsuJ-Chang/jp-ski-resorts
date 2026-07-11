@@ -78,7 +78,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://www.kandatsu.com/course-guide/
-  summary: 神立高原官方列出 16 條雪道，總雪道面積 130ha，從初級長距離路線、夜滑對應雪道，到上級急斜面、非壓雪與樹林滑行路線都有。
+  summary: 神立高原官方列出 16 條雪道，從初級長距離路線、夜滑對應雪道，到上級急斜面、非壓雪與樹林滑行路線都有。
   details:
   - name: 1 アンドロメダ
     difficulty: beginner
@@ -247,5 +247,4 @@ externalContent:
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
     note: MIRU tube JAPAN 【Route Guide】
 ---
-
-神立高原是新潟縣的中型雪場，整理為16 條雪道，搭配 6 座纜車。雪道如 1 アンドロメダ、2 プロキオン、3 ポルックス，初級、中級與上級路線都有配置；標籤上偏向初學者練習、夜滑。
+神立高原滑雪場位於雪國越後湯澤，是距離首都圈最近的 100 % 天然雪雪場。雪道位於東北向斜面，雪質與積雪量都很有特色，並結合滑雪公園、戲雪樂園與貓跳路線，整體是一座適合各種程度玩家的一站式綜合型雪場。
