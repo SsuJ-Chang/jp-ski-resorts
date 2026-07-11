@@ -140,4 +140,4 @@ terrainSummary:
   powder: 官方特色說明白馬佐野坂為天然雪 100%，New Paradise 急斜面與粉雪相性佳。
 ---
 
-長野縣的白馬佐野坂共有10 條雪道，搭配 4 座纜車，包含 レイクダウン・レイクビュー / Lake Down & Lake View、パラダイス・パラダイスダウンヒル / Paradise & Paradise Downhill、カービングゲレンデ / Carving Slope 等路線。初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+長野縣的白馬佐野坂共有 10 條雪道，搭配 4 座纜車，包含 レイクダウン・レイクビュー / Lake Down & Lake View、パラダイス・パラダイスダウンヒル / Paradise & Paradise Downhill、カービングゲレンデ / Carving Slope 等路線。初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

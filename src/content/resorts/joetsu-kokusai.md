@@ -242,9 +242,12 @@ externalContent:
     url: https://natasha-traveler.tw/jkokusai-bus/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
+  - title: "広すぎて迷う！？初心者とファミリーに人気の巨大ゲレンデ｜上越国際スキー場【新潟　湯沢エリア】"
+    url: "https://www.youtube.com/watch?v=GF4AXUPHKUY"
+    note: "Todd's Japan Ski Trip"
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=344s
     note: MIRU tube JAPAN 【Route Guide】
 ---
 
-上越國際位於新潟縣，頁面以已整理的雪場基本資料為主。若雪道細節來源不足，內文只保留可確認的資訊，不另外延伸形容。
+從玩雪的小朋友到專業級遊客，不問水平如何都能玩的開心、玩的盡興。「Mother's zone」設有兒童樂園等雪上遊樂設施；「活力區」內挑戰 38 度陡坡；「觀景區」邊滑雪邊欣賞冬季美景；「林蔭區」雪質優良長距離滑道享受連續滑行。

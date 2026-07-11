@@ -218,4 +218,4 @@ externalContent:
   vlogs: []
 ---
 
-Grandeco是福島縣的中型雪場，整理為11 條雪道，搭配 5 座纜車。雪道如 Forest、Hotel Road、Main Street，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+Grandeco是福島縣的中型雪場，整理為 11 條雪道，搭配 5 座纜車。雪道如 Forest、Hotel Road、Main Street，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

@@ -271,6 +271,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
+  - title: Carving 必看！為什麼你的 Heelside 撐不住？Open Stance 與 Early Edge 的秘密
+    url: https://www.youtube.com/watch?v=5Nty6YvCtlM
+    note: 大林滑雪男子
   - title: 你的重心位置錯了嗎？滑雪平衡感完全攻略：摸"這個地方"
     url: https://www.youtube.com/watch?v=jCX4Pn-QIUA
     note: 大林滑雪男子
