@@ -121,4 +121,4 @@ terrainSummary:
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
 ---
 
-Chateraise Ski Valley 小海位在長野縣，雪道數為7 條，搭配 5 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向溫泉停留、雙板與單板。
+Chateraise Ski Valley 小海延續小海 REEX 的家庭度假雪場特色，場內有讓玩家感到爽快的約 2.5 km downhill 滑道。高原度假村、天然溫泉與 Chateraise 甜點元素結合，讓滑雪之外也有明確的休閒感，適合家庭與度假型旅人。

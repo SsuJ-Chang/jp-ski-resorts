@@ -221,4 +221,4 @@ externalContent:
     note: 和Ivy去旅行
 ---
 
-Dynaland位於岐阜縣，以18 條雪道形成中型雪場規模，搭配 5 座纜車。主要路線有 パラダイスAコース / Paradise A Course、乙女コース / Otome Course、神中Aコース / Kamichu A Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+Dynaland 是西日本規模很大的雪場之一，與鄰近高鷲 Snow Park 串連後山域更完整。場內約 20 條滑道涵蓋初級到進階玩家，充分利用地形變化，餐廳、租賃與課程等機能也齊全，是高鷲地區代表性的綜合型雪場。
