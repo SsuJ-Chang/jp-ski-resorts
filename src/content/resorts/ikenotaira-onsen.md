@@ -257,4 +257,4 @@ externalContent:
     note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
 ---
 
-池之平位於新潟縣，是中型雪場，共有16 條雪道，搭配 6 座纜車。代表路線包含 やまばと林間コース / Yamabato Forest Course、カラマツコース / Karamatsu Course、ワイドロングランコース / Wide Long Run Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+池之平以開闊坡面與自然景觀為特色，良好雪質讓滑行感受更輕快。雪場擁有寬廣滑坡與大型戲雪樂園，也結合妙高高原啤酒與黑褐色原湯溫泉等在地休閒元素，適合想把滑雪、玩雪與溫泉一起安排的旅人。

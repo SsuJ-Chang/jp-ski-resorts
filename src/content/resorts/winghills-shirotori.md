@@ -155,4 +155,4 @@ externalContent:
     note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
 ---
 
-Winghills 白鳥 Resort在岐阜縣提供11 條雪道，搭配 4 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。
+WingHills 白鳥 Resort 位於雪鄉，旺季能感受粉雪滑行。吊籃式纜車可一路連接山頂，從頂峰展開的滑道涵蓋初級到進階需求；專項區也有 U 型滑道、貓跳與 Street Style 等進階玩法，整體變化度很高。
