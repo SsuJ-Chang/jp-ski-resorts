@@ -131,6 +131,12 @@ access:
     recommended: true
     snowTireRequired: true
     note: 交通資訊摘要：北陸本線木之本駅下車 タクシー (30分) 車 ：小牧IC→名神道→北陸道木之本IC→R365で23km北上 (80分) 車 ：京都東IC→名神道→北陸道木之本IC→R365で23km北上 (90分) 1200台 平日 0円 假日 1000円
+externalContent:
+  blogs: []
+  vlogs:
+  - title: "【正直どう？】関西から日帰りできる穴場スキー場「余呉高原スキー場」を滑る【ヨゴコウゲンリゾート・ヤップ】"
+    url: "https://www.youtube.com/watch?v=yv9xrcVQZoY"
+    note: "Todd's Japan Ski Trip"
 ---
 
 Yogo Kogen Resort YAP 以粉雪與山頂景觀為特色，從山頂滑道能眺望敦賀灣。雪場的單板滑雪區設計能對應初級到進階玩家，滑道難度配置清楚，雪質也讓人有遠離關西都會圈的山區滑雪感。

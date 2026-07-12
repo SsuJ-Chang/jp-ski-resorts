@@ -298,6 +298,9 @@ externalContent:
   - title: 滑雪新手必看｜日本旭川教練親身指導
     url: https://www.youtube.com/watch?v=IgdO75z4ZnQ
     note: 大林滑雪男子
+  - title: "輕盈粉雪、人少、距旭川市約1小時 | Kamui Ski Links（滑雪場）"
+    url: "https://www.youtube.com/watch?v=AfwXiLa9DTQ"
+    note: "Todd's Japan Ski Trip"
   - title: 🎯 搓雪小迴旋：轉彎控制的第一堂課🏂Snowboarding with CJ EP09 in Kamui神居滑雪場
     url: https://www.youtube.com/watch?v=MFLjZ0LqmYw
     note: 大林滑雪男子

@@ -157,6 +157,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
+  - title: "【2025-2026】バートンのニューモデルでツリーランを滑ってみた！！テストライド in スキージャム勝山"
+    url: "https://www.youtube.com/watch?v=Gqtd_pfw72Y"
+    note: "Todd's Japan Ski Trip"
   - title: 【スキー場ガイド】スキージャム勝山　北陸のリゾート
     url: https://www.youtube.com/watch?v=mnuHy1HAL3o
     note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard

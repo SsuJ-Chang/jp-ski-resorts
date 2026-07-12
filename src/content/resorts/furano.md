@@ -270,6 +270,9 @@ externalContent:
   - title: 雪之旅|北海道滑雪gopro/富良野滑雪day 01 | A7m3 16-35GM/gopro max |A journey to snow
     url: https://www.youtube.com/watch?v=_MZSqJ44eZ4
     note: 大林滑雪男子
+  - title: "日本最著名的滑雪場完整指南 | 富良野滑雪場・北海道"
+    url: "https://www.youtube.com/watch?v=akcnuU07JSw"
+    note: "Todd's Japan Ski Trip"
 ---
 
 富良野位於北海道中央，能眺望十勝岳與大雪山連峰，並以內陸地區細緻雪質為特色。雪場規模大，最長滑行距離約 4,000 m，區內有 28 條各具特色的滑道，從初學者到進階玩家都能找到合適路線，滑雪之外也保有富良野度假地的遊憩感。

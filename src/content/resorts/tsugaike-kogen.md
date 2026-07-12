@@ -194,6 +194,9 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP1 栂池高原滑雪場🗻（上集）｜Hotel Sunplaza Tsugaike｜自學滑雪全紀錄｜Nagano大採購｜機場租車自駕🚌
     url: https://www.youtube.com/watch?v=IJT-BvG2lsk
     note: 和Ivy去旅行
+  - title: "白馬適合新手的雪道，高手也愛這裡 | 栂池高原滑雪場"
+    url: "https://www.youtube.com/watch?v=6mgaqW8hoQE"
+    note: "Todd's Japan Ski Trip"
 ---
 
 栂池高原以寬闊雪場與度假設施更新為特色，適合孩子與初學者安心玩雪。滑雪後可以在 Eve 纜車終點大廳周邊休息放鬆，場內也有敲鐘滑坡、動感走廊等親子設施，並擴大粉雪區，讓不同程度玩家都能找到玩法。

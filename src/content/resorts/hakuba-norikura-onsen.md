@@ -184,6 +184,9 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP5 白馬乘鞍溫泉滑雪場 🗻｜自學ski 直上紅道❄️｜CP值最高雪場飯店｜Hakuba Alps Hotel ⛷️｜
     url: https://www.youtube.com/watch?v=TGFH2JcOSNc
     note: 和Ivy去旅行
+  - title: "日本低調不擁擠的隱藏雪場 | 白馬乘鞍溫泉滑雪場"
+    url: "https://www.youtube.com/watch?v=KRmMLnkixy0"
+    note: "Todd's Japan Ski Trip"
 ---
 
 白馬乘鞍溫泉位於長野縣白馬山麓，山麓入門線和上部變化段落的落差很明顯，適合把暖身與主滑分開安排。若你喜歡比純初學雪場更有雪況層次，但又不想整天都處在高壓坡段，這裡很剛好。

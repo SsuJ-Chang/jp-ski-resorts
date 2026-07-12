@@ -137,7 +137,10 @@ terrainSummary:
   snowboard: "雪板可滑；長距離路線多，建議先確認連絡線動線。"
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+  - title: "人都去哪了？深粉雪與空蕩雪道 | 青森Spring Ski Resort（滑雪場）"
+    url: "https://www.youtube.com/watch?v=kz0mF7qPI7k"
+    note: "Todd's Japan Ski Trip"
 ---
 
 青森 Spring 位於能眺望津輕平野與日本海的自然環境中，冬季以滑雪度假村形式營運，雪場與飯店結合度高。這裡的滑道配置涵蓋初級到進階需求，搭配舒適的度假設施，適合想把滑雪與東北自然景色一起安排的旅人。

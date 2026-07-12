@@ -317,6 +317,9 @@ externalContent:
   - title: 2024滑雪還行嗎？ | 留壽都 Vale Rusutsu 2024 acepro | 留壽都滑雪day 01
     url: https://www.youtube.com/watch?v=ToRW8ZCl4h8
     note: 大林滑雪男子
+  - title: "3座山、37條雪道、42公里 | 留壽都滑雪度假村・北海道"
+    url: "https://www.youtube.com/watch?v=wIqiAYi-7sk"
+    note: "Todd's Japan Ski Trip"
 ---
 
 留壽都 Resort 位於北海道，東山、西山與 Isola 三區讓同一天能排出完全不同的滑行節奏。它的強項不只是雪道數多，而是長距離巡航、林間視野與住宿型動線可以自然接在一起。

@@ -274,6 +274,9 @@ externalContent:
     url: https://natasha-traveler.tw/bandaisan-bus/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
+  - title: "兩座滑雪區合併，日本北部隱藏雪場 | Nekoma Mountain滑雪場"
+    url: "https://www.youtube.com/watch?v=6AD9KUPvFUA"
+    note: "Todd's Japan Ski Trip"
   - title: "【上から下まで】福島県 / 猫魔スキー場【TOP TO BOTTOM】 // Who's TV"
     url: "https://www.youtube.com/watch?v=5nyQXed1EN4"
     note: "Who’s TV / by Fumika Hoshino"
