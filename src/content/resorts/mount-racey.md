@@ -139,7 +139,10 @@ terrainSummary:
   powder: "○ / カービングライン、最大43度の急斜面が未圧雪コースで、新雪が降ったら、最高のパウダーエリアになります。；粉雪與非壓雪區域會受天候與管理狀態影響。"
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+  - title: "【マウントレースイ】北海道の上質な雪と絶景が楽しめるリゾート - LOVE SKISKI"
+    url: "https://www.youtube.com/watch?v=_YY0lxH7PQ8"
+    note: "犬と暮らす旅人 / Love Nomad Life"
 ---
 
 Mount Racey位於北海道，以18 條雪道構成中型雪場，搭配 3 座纜車。上級路線比例明顯，坡面變化較多，描述聚焦在雪道規模與難度結構；標籤上偏向親子同行、溫泉停留。

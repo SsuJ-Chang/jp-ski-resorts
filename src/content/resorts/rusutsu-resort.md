@@ -320,6 +320,9 @@ externalContent:
   - title: "3座山、37條雪道、42公里 | 留壽都滑雪度假村・北海道"
     url: "https://www.youtube.com/watch?v=wIqiAYi-7sk"
     note: "Todd's Japan Ski Trip"
+  - title: "【ルスツリゾート】最強寒波の北海道で極上パウダースノーを満喫 - LOVE SKISKI"
+    url: "https://www.youtube.com/watch?v=XZhXnmqylVM"
+    note: "犬と暮らす旅人 / Love Nomad Life"
 ---
 
 留壽都 Resort 位於北海道，東山、西山與 Isola 三區讓同一天能排出完全不同的滑行節奏。它的強項不只是雪道數多，而是長距離巡航、林間視野與住宿型動線可以自然接在一起。

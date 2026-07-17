@@ -142,7 +142,10 @@ terrainSummary:
   snowboard: "雪板可全區滑行。"
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+  - title: "【たかつえスキー場】会津高原の人気スキー場で絶景クルージング - LOVE SKISKI"
+    url: "https://www.youtube.com/watch?v=UGkE6ww0xt0"
+    note: "犬と暮らす旅人 / Love Nomad Life"
 ---
 
 會津高原高杖的雪場配置狹長，縱深與海拔在東北地區都很有存在感。滑道設計變化豐富，能從山上一路感受高品質雪況與不同坡面節奏；山腳周邊結合度假村與住宿設施，整體是兼具滑行份量與停留感的高原型雪場。

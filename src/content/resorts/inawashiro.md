@@ -228,7 +228,10 @@ terrainSummary:
   powder: 高處與林間區在新雪後較有粉雪行程彈性，實際開放請以官方雪況為準。
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+  - title: "【猪苗代スキー場】福島でリフト券が平日無料の魅力と福島で雪花火 - LOVE SKISKI"
+    url: "https://www.youtube.com/watch?v=e058Kaj2SDg"
+    note: "犬と暮らす旅人 / Love Nomad Life"
 ---
 
 豬苗代位於磐梯山與豬苗代湖周邊的自然環境中，滑道設計多樣，能讓初學者到進階玩家都找到適合的路線。雪場整體以開闊景色與不同坡面變化為特色，滑行時能感受到湖景、山景與東北高原雪場的清爽氛圍。

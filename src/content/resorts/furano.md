@@ -273,6 +273,9 @@ externalContent:
   - title: "日本最著名的滑雪場完整指南 | 富良野滑雪場・北海道"
     url: "https://www.youtube.com/watch?v=akcnuU07JSw"
     note: "Todd's Japan Ski Trip"
+  - title: "【富良野スキー場】バックカントリー & 樹氷を満喫！冬の絶景とパウダースノー - LOVE SKISKI"
+    url: "https://www.youtube.com/watch?v=DlDRR_f1pTA"
+    note: "犬と暮らす旅人 / Love Nomad Life"
 ---
 
 富良野位於北海道中央，能眺望十勝岳與大雪山連峰，並以內陸地區細緻雪質為特色。雪場規模大，最長滑行距離約 4,000 m，區內有 28 條各具特色的滑道，從初學者到進階玩家都能找到合適路線，滑雪之外也保有富良野度假地的遊憩感。

@@ -172,7 +172,10 @@ terrainSummary:
   snowboard: 雙板與雪板使用規則請以官方公告為準。
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+  - title: "【鹿島槍スキー場】暖冬で大雨のゲレンデに挑戦して大怪我 - LOVE SKISKI"
+    url: "https://www.youtube.com/watch?v=_gAzJ_-ieqI"
+    note: "犬と暮らす旅人 / Love Nomad Life"
 ---
 
 鹿島槍在長野縣提供12 條雪道。路線包含 1A コース1：遠見グランドビューA、1B・1C コース1：遠見グランドビューB・C、2 コース2：黒沢ゲレンデ，整體僅保留已確認的規模與路線配置；標籤上偏向雙板與單板、親子同行。

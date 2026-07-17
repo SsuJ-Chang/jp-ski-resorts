@@ -249,7 +249,10 @@ terrainSummary:
   powder: "夏油高原積雪豐富、雪季長，有 14 條多變化雪道、集中的滑雪中心與 16 個 tree run area。粉雪與積雪狀況會隨天候變動，請以官方公告與當日資訊為準。"
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+  - title: "【夏油高原】岩手の豪雪地帯に降る極上のパウダー - LOVE SKISKI"
+    url: "https://www.youtube.com/watch?v=kW9bwL3PbKo"
+    note: "犬と暮らす旅人 / Love Nomad Life"
 ---
 
 夏油高原以豐富積雪量與較長雪季聞名，區內滑道設計各有變化，不容易感到單調。特別是未壓雪粉雪區很有吸引力，適合專程追求深雪感的雙板與單板玩家；雪場大廳也結合餐飲、商店與溫泉，整體停留機能完整。

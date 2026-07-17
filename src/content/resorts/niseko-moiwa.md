@@ -155,7 +155,10 @@ terrainSummary:
   powder: "○ / シラカバコースは起伏に富んだ地形と程よい感覚のツリーランが楽しめる。どこからエントリーするかは自分次第。自分のお気に入りのラインを見つけてください。；粉雪與非壓雪區域會受天候與管理狀態影響。"
 externalContent:
   blogs: []
-  vlogs: []
+  vlogs:
+  - title: "【ニセコ】北海道の極上パウダーをモイワスキーリゾートで満喫 - LOVE SKISKI"
+    url: "https://www.youtube.com/watch?v=eLQxUZuuEYU"
+    note: "犬と暮らす旅人 / Love Nomad Life"
 ---
 
 二世谷 Moiwa 位於北海道二世谷雪區，規模不算最大，但樹林感和雪面變化很集中，滑起來比地圖數字更有個性。它適合把一天重心放在雪況判斷與自然地形，而不是單純追求串區里程。

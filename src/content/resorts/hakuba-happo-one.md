@@ -185,6 +185,9 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP7 白馬八方滑雪場 🗻自學滑雪全紀錄｜Hotel Green Plaza Hakuba｜🏂｜🎄
     url: https://www.youtube.com/watch?v=_wUcfsdwzdg
     note: 和Ivy去旅行
+  - title: "【白馬八方尾根スキー場】山頂から見る絶景の北アルプスと長野オリンピック - LOVE SKISKI"
+    url: "https://www.youtube.com/watch?v=iATxoottKnM"
+    note: "犬と暮らす旅人 / Love Nomad Life"
 ---
 
 白馬八方尾根以壯闊山景與大落差滑行聞名，能在北阿爾卑斯景色中感受長距離下滑的開闊感。雪場保留山岳地形與白馬在地山村氛圍，滑道從寬闊巡航到較具挑戰性的坡面都有，是白馬代表性的山岳型雪場。
