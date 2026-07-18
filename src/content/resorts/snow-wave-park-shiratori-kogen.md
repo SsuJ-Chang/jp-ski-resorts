@@ -154,7 +154,7 @@ externalContent:
   vlogs:
   - title: 【スキー場ガイド】スノーウェーブパーク白鳥高原　キッズから上級者まで楽しめます
     url: https://www.youtube.com/watch?v=V9GwnfvO5FY
-    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
+    note: 全国的スキー場ガイド
 ---
 
 Snow Wave Park 白鳥高原位於岐阜縣，共有15 條雪道、3 座纜車，重點不只在壓雪主線，還包含自然地形與雪況變化。上部與邊側路線通常比山麓更有地形起伏，滑感會隨雪況明顯改變。如果你想把巡航之外的粉雪感、林間感或地形閱讀排進一天，這類配置會更有內容。

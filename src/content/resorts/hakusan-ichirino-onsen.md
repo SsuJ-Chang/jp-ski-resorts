@@ -173,7 +173,7 @@ externalContent:
   vlogs:
   - title: 【スキー場ガイド】一里野温泉スキー場　広大なゲレンデとラブゴンドラの内側
     url: https://www.youtube.com/watch?v=pritFOGaPOI
-    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
+    note: 全国的スキー場ガイド
 ---
 
 白山一里野溫泉位於石川縣，以13 條雪道形成中型雪場規模，搭配 6 座纜車。主要路線有 Fureai Gelande / ふれあいゲレンデ、Rakuraku Course Lower / らくらくコース下部、Rakuraku Course Uma-no-se / らくらくコース（馬の背コース），初級、中級與上級路線都有配置；標籤上偏向親子同行、夜滑。

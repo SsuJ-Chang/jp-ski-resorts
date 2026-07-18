@@ -156,7 +156,7 @@ externalContent:
     note: "Hey! fudeze 福蝶賊"
   - title: 【スキー場ガイド】札幌国際スキー場　初心者におススメ！　本州から行く価値は！？
     url: https://www.youtube.com/watch?v=9eQkoGnkZ6k
-    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
+    note: 全国的スキー場ガイド
   - title: "【札幌国際スキー場】極上パウダースノーと絶景を満喫！北海道の冬の魅力 - LOVE SKISKI"
     url: "https://www.youtube.com/watch?v=Z0EXg7kgOWc"
     note: "犬と暮らす旅人 / Love Nomad Life"

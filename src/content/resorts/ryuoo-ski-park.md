@@ -159,7 +159,7 @@ externalContent:
     note: 艾維斯52赫茲
   - title: 竜王スキーパーク　ツリーランエリアついに開放！ 全エリア徹底解説！
     url: https://www.youtube.com/watch?v=6IYNdq0Hy14
-    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
+    note: 全国的スキー場ガイド
 ---
 
 龍王 Ski Park 以大型觀景纜車、天空觀景台與北阿爾卑斯景色聞名，海拔約 850 m 到 1,930 m 之間展開寬闊雪場。標誌性的木落滑道坡度約 36 度、長約 1,400 m，是未壓雪天然雪路線，降雪後能感受深厚粉雪。

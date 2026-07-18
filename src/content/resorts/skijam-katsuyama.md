@@ -162,7 +162,7 @@ externalContent:
     note: "Todd's Japan Ski Trip"
   - title: 【スキー場ガイド】スキージャム勝山　北陸のリゾート
     url: https://www.youtube.com/watch?v=mnuHy1HAL3o
-    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
+    note: 全国的スキー場ガイド
 ---
 
 Ski Jam 勝山是西日本規模很大的滑雪勝地，最長滑道約 5,800 m，滑道分布在 3 個大山坡上，各區都有不同特色。從初級到進階玩家都能找到合適路線，場內也結合餐廳與溫泉設施，適合安排完整度假型滑雪行程。

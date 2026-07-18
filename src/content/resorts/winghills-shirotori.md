@@ -152,7 +152,7 @@ externalContent:
   vlogs:
   - title: 【スキー場ガイド】ウイングヒルズ白鳥リゾート　初級者でもロングラン
     url: https://www.youtube.com/watch?v=z8C5vry86IY
-    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
+    note: 全国的スキー場ガイド
 ---
 
 WingHills 白鳥 Resort 位於雪鄉，旺季能感受粉雪滑行。吊籃式纜車可一路連接山頂，從頂峰展開的滑道涵蓋初級到進階需求；專項區也有 U 型滑道、貓跳與 Street Style 等進階玩法，整體變化度很高。

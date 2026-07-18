@@ -156,7 +156,7 @@ externalContent:
   vlogs:
   - title: 【スキー場ガイド】奥志賀高原スキー場　志賀高原でNo.１の積雪量
     url: https://www.youtube.com/watch?v=DSE1VZ1x9HY
-    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
+    note: 全国的スキー場ガイド
   - title: 【日本自由行】EP5 燒額山滑雪場❄️ 奧志賀滑雪場！女子大迴轉⛄雪道、山景全紀錄！❄️奧志賀出發一路滑到一之瀨⛄
     url: https://www.youtube.com/watch?v=CxQ3Eciv_-k
     note: 和Ivy去旅行

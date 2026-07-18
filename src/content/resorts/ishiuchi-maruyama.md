@@ -343,7 +343,7 @@ externalContent:
     note: 和Ivy去旅行
   - title: 【スキー場ガイド】石打丸山スキー場　ゲレンデの数がすごい　施設もすごくなった！
     url: https://www.youtube.com/watch?v=tLd37bYT0tE
-    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
+    note: 全国的スキー場ガイド
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
     note: MIRU tube JAPAN 【Route Guide】

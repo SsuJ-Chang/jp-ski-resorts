@@ -171,7 +171,7 @@ externalContent:
     note: "YK來了"
   - title: 【スキー場ガイド】赤倉観光リゾートスキー場 全面滑走可能になりました
     url: https://www.youtube.com/watch?v=_17etYo9GzA
-    note: 全国的スキー場ガイド https://www.youtube.com/@ski.snowboard
+    note: 全国的スキー場ガイド
 ---
 
 赤倉觀光位於新潟縣，是中小型雪場，共有 8 條雪道，搭配 6 座纜車。代表路線包含 ホテルビギナーコース、女子国体コース，初級、中級與上級路線都有配置，標籤偏向初學者練習、親子同行。
