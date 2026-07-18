@@ -98,10 +98,32 @@ courses:
 lifts:
   total: 2
 access:
+  fromSapporo:
+    - label: JR 帶廣站轉乘
+      steps:
+        - 從札幌搭 JR 至帶廣站。
+        - 從帶廣站搭巴士或租車前往糠平源泉鄉，再轉往雪場。
+      estimatedTime: 帶廣站後約 1 小時 40 分
+      difficulty: medium
+      note: 帶廣站至糠平方向巴士班次有限，需先確認去回程銜接。
+      links:
+        - label: 糠平源泉鄉官方資訊
+          url: https://ichida54.wixsite.com/nukabiraskijyo
+  fromAirport:
+    - label: 帶廣機場出發
+      steps:
+        - 從帶廣機場搭巴士或計程車前往糠平源泉鄉。
+        - 抵達溫泉區後轉乘當地交通前往雪場。
+      estimatedTime: 約 1 小時 45 分
+      difficulty: medium
+      note: 機場至雪場約 83km，公開交通資料以車行與巴士銜接為主。
+      links:
+        - label: 糠平源泉鄉官方資訊
+          url: https://ichida54.wixsite.com/nukabiraskijyo
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：JR根室本線 帯広駅由60km(巴士) (100分) 自駕：道東道 音更帯広IC由約55km (60分) 機場：帯広空港由83km (105分)
+    note: 從道東道音更帶廣 IC 約 55km、約 60 分鐘；帶廣機場約 83km、約 105 分鐘。冬季山路需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 40%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 45%，適合已能穩定轉彎的滑雪者參考。

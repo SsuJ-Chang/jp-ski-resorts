@@ -108,10 +108,26 @@ courses:
 lifts:
   total: 2
 access:
+  fromSapporo:
+    - label: JR 大沼公園站轉乘
+      steps:
+        - 從札幌搭 JR 函館本線至大沼公園站。
+        - 從車站搭計程車前往 Greenpia 大沼。
+      estimatedTime: 車站後約 15 分
+      difficulty: medium
+      note: 大沼公園站後主要以計程車銜接，請先確認回程安排。
+  fromAirport:
+    - label: 函館機場出發
+      steps:
+        - 從函館機場搭計程車或租車前往大沼方向。
+        - 抵達 Greenpia 大沼後步行至雪場。
+      estimatedTime: 約 1 小時
+      difficulty: medium
+      note: 機場後段以車行為主，冬季道路需預留緩衝時間。
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：函館本線大沼公園駅下車、計程車 (15分) 自駕：大沼公園IC (2分)
+    note: 從道央道大沼公園 IC 約 2 分鐘；冬季自駕需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 50%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 30%，適合已能穩定轉彎的滑雪者參考。

@@ -102,10 +102,31 @@ courses:
 lifts:
   total: 8
 access:
+  fromSapporo:
+    - label: JR 新得站轉乘
+      steps:
+        - 從札幌搭 JR 石勝線至新得站。
+        - 從新得站搭計程車或預約接駁前往 Sahoro Resort。
+      estimatedTime: 新得站後約 15 分
+      difficulty: medium
+      note: Resort 位於新得町山區，車站後段以計程車或住宿接駁為主。
+      links:
+        - label: Sahoro 官方交通資訊
+          url: https://sahoro.co.jp/
+  fromAirport:
+    - label: 帶廣機場出發
+      steps:
+        - 從帶廣機場搭巴士或計程車前往 Sahoro Resort。
+      estimatedTime: 約 1.5 小時
+      difficulty: medium
+      note: 帶廣機場至雪場的接駁需依住宿與雪季交通方案確認。
+      links:
+        - label: Sahoro 官方交通資訊
+          url: https://sahoro.co.jp/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：石勝線新得駅由計程車 (15分) 自駕：道東道トマムIC (30分) 自駕：道東道十勝清水IC (25分) 機場：とかち帯広空港由巴士 (90分)
+    note: 從道東道 Tomamu IC 約 30 分鐘、十勝清水 IC 約 25 分鐘；帶廣機場約 90 分鐘。雪季山路需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 30%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 30%，適合已能穩定轉彎的滑雪者參考。

@@ -79,10 +79,32 @@ courses:
 lifts:
   total: 2
 access:
+  fromSapporo:
+    - label: JR 旭川站／上川站轉乘
+      steps:
+        - 從札幌搭 JR 至旭川站，再轉巴士前往層雲峽。
+        - 或搭 JR 石北本線至上川站，再轉巴士至層雲峽，步行或轉乘纜車。
+      estimatedTime: 上川站後約 30 分
+      difficulty: medium
+      note: 旭川站至層雲峽約 110 分鐘，上川站至層雲峽約 30 分鐘；巴士班次有限。
+      links:
+        - label: 黑岳官方交通資訊
+          url: https://www.rinyu.co.jp/kurodake/
+  fromAirport:
+    - label: 旭川機場出發
+      steps:
+        - 從旭川機場搭巴士或計程車前往層雲峽。
+        - 抵達層雲峽後步行至黑岳纜車站，再搭乘纜車與登山吊椅。
+      estimatedTime: 約 1.5 小時
+      difficulty: medium
+      note: 旭川機場至層雲峽的交通需依當季巴士與道路狀況安排。
+      links:
+        - label: 黑岳官方交通資訊
+          url: https://www.rinyu.co.jp/kurodake/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：JR函館本線旭川駅由巴士利用 (110分) 電車：JR石北本線上川駅由巴士利用 (30分) 自駕：札幌道札幌北IC由約200km (154分) 自駕：旭川紋別道上川層雲峡IC由約20km (30分) 機場：旭川空港由車で (90分)
+    note: 從旭川紋別道上川層雲峽 IC 約 20km、約 30 分鐘；札幌方向約 200km。抵達層雲峽後需再搭黑岳纜車，冬季自駕需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 50%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 30%，適合已能穩定轉彎的滑雪者參考。

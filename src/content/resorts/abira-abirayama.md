@@ -117,6 +117,9 @@ access:
     - 鐵路：石勝線追分駅下車、タクシー利用 (5分)
     estimatedTime: 約 5 分
     difficulty: medium
+    links:
+    - label: 安平町官方交通資訊
+      url: https://www.town.abira.lg.jp/midokoro/shisetsu/sport/149
   fromAirport:
   - label: 機場銜接
     steps:
@@ -126,7 +129,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 自駕參考：自駕：道東道追分町IC (6分)。停車場：300台 / 平日 免費 / 假日 免費。冬季山路需準備雪胎或雪鏈。
+    note: 從道東道追分町 IC 約 6 分鐘，停車場約 300 台；冬季自駕需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級比例約 40%，可作為暖身、親子同行或初訪時的主要安排。
   intermediate: 中級比例約 40%，適合已能穩定轉彎的滑雪者串接主要雪道。

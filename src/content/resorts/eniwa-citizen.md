@@ -102,6 +102,33 @@ courses:
     note: 由山頂往下看位在纜車另一側的中級取向雪道，短而單純，但比初級路線更有斜度變化；全場最大斜度約 20 度。
 lifts:
   total: 1
+access:
+  fromSapporo:
+    - label: 札幌／惠庭站轉乘
+      steps:
+        - 從札幌搭 JR 千歲線至惠庭站。
+        - 從惠庭站搭計程車或租車前往盤尻雪場。
+      estimatedTime: 車站後約 20 分
+      difficulty: medium
+      note: 官方資料以自駕與當地交通為主，市民雪場沒有固定的札幌直達巴士。
+      links:
+        - label: 惠庭市官方交通資訊
+          url: https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/hokenhukushibu/kenkosportska/supotsu/2/7966.html
+  fromAirport:
+    - label: 新千歲機場出發
+      steps:
+        - 從新千歲機場搭 JR 至惠庭站。
+        - 從惠庭站轉乘計程車或租車前往雪場。
+      estimatedTime: 約 30 分
+      difficulty: medium
+      note: 雪場位於惠庭市郊，機場後段需轉乘車輛。
+      links:
+        - label: 惠庭市官方交通資訊
+          url: https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/hokenhukushibu/kenkosportska/supotsu/2/7966.html
+  car:
+    recommended: true
+    snowTireRequired: true
+    note: 從新千歲機場或惠庭市區自駕前往盤尻方向；冬季道路需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級約 70%，以緩坡練習與親子同行為主。
   intermediate: 中級約 30%，主要是纜車另一側較有斜度變化的短雪道。

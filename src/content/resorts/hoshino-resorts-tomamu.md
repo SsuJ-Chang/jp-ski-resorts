@@ -199,10 +199,32 @@ courses:
 lifts:
   total: 6
 access:
+  fromSapporo:
+    - label: 札幌站／Tomamu 站轉乘
+      steps:
+        - 從札幌站搭 JR 石勝線至 Tomamu 站。
+        - 從 Tomamu 站搭乘星野 Resort 免費接駁巴士約 5 分鐘。
+      estimatedTime: 約 1 小時 45 分
+      difficulty: easy
+      note: Japan Ski Guide 列出的札幌站至 Tomamu 站約 1 小時 40 分，需再銜接接駁巴士。
+      links:
+        - label: Tomamu 官方交通資訊
+          url: https://www.snowtomamu.jp/winter/
+  fromAirport:
+    - label: 新千歲機場出發
+      steps:
+        - 從新千歲機場搭 JR 至 Tomamu 站。
+        - 從 Tomamu 站搭乘免費接駁巴士前往 Resort。
+      estimatedTime: 約 1 小時 35 分
+      difficulty: easy
+      note: Tomamu 官方提供機場與車站接駁資訊，班次需依住宿與當季公告確認。
+      links:
+        - label: Tomamu 官方交通資訊
+          url: https://www.snowtomamu.jp/winter/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：石勝線トマム駅由 免費接駁巴士 (5分) 自駕：音更帯広IC由道東自動車道利用、トマムICその後一般道路 (60分) 自駕：札幌南IC由道央道・道東道などトマムICその後一般道路 (120分) 機場：新千歳空港由一般道路千歳IC由道央道→道東道トマムICその後一般道路 (90分)
+    note: 從 Tomamu IC 下交流道後接一般道路前往 Resort；十勝清水／音更帶廣方向約 1 小時，札幌方向約 2 小時，新千歲機場自駕約 1.5 小時。雪季需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 30%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。

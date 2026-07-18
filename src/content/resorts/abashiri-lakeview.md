@@ -118,10 +118,14 @@ access:
     - 飛機：女満別空港からバスで (20分)
     estimatedTime: 約 20 分
     difficulty: medium
+    note: 女滿別機場至網走市區再轉乘巴士，班次依當季時刻表安排。
+    links:
+    - label: 網走市官方交通資訊
+      url: https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html
   car:
     recommended: true
     snowTireRequired: true
-    note: 自駕參考：自駕：網走市内からスキー場山麓ロッジ止 (15分)。停車場：553台 / 平日 免費 / 假日 免費。冬季山路需準備雪胎或雪鏈。
+    note: 從網走市區至雪場山麓約 15 分鐘，停車場約 553 台；冬季自駕需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級比例約 60%，可作為暖身、親子同行或初訪時的主要安排。
   intermediate: 中級比例約 20%，適合已能穩定轉彎的滑雪者串接主要雪道。

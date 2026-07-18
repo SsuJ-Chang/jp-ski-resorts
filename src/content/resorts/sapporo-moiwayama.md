@@ -130,10 +130,32 @@ courses:
 lifts:
   total: 5
 access:
+  fromSapporo:
+    - label: 真駒內站接駁
+      steps:
+        - 搭札幌市營地下鐵南北線至真駒內站。
+        - 轉乘雪場接駁巴士或計程車前往藻岩山。
+      estimatedTime: 約 15 分
+      difficulty: easy
+      note: 官方交通以真駒內站接駁巴士與計程車為主，班次依營業期間公告。
+      links:
+        - label: 藻岩山官方交通資訊
+          url: https://sapporo-moiwa.jp/
+  fromAirport:
+    - label: 新千歲機場出發
+      steps:
+        - 從新千歲機場搭 JR 或機場巴士至札幌市區。
+        - 再轉乘地下鐵至真駒內站，銜接接駁巴士或計程車。
+      estimatedTime: 約 1.5 小時
+      difficulty: medium
+      note: 機場至雪場沒有固定直達路線，需在札幌市區轉乘。
+      links:
+        - label: 藻岩山官方交通資訊
+          url: https://sapporo-moiwa.jp/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：市営地下鉄南北線真駒内駅由シャトル巴士・計程車で (15分) 自駕：札幌北IC由一般道路 (30分) 機場：新千歳空港 (70分)
+    note: 從札幌市區自駕約 30 分鐘，新千歲機場約 70 分鐘。雪季山路需使用雪胎或雪鏈，並留意市區道路壅塞。
 terrainSummary:
   beginner: 初級雪道佔 40%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。

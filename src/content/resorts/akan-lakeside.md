@@ -82,10 +82,26 @@ courses:
 lifts:
   total: 1
 access:
+  fromSapporo:
+    - label: JR 釧路站轉乘
+      steps:
+        - 從札幌搭 JR 前往釧路站。
+        - 從釧路站搭定期巴士前往阿寒湖畔。
+      estimatedTime: 約 2 小時
+      difficulty: medium
+      note: 釧路站至阿寒湖畔巴士約 2 小時，抵達後再前往雪場。
+  fromAirport:
+    - label: 釧路機場出發
+      steps:
+        - 從釧路機場搭定期巴士前往阿寒湖畔。
+        - 從阿寒湖畔轉乘計程車或當地交通前往雪場。
+      estimatedTime: 約 70 分
+      difficulty: medium
+      note: 機場巴士與最後一段接駁需依當季班次確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：根室本線釧路駅下車、定期巴士 (120分) 自駕：釧路駅 (90分) 自駕：阿寒 (50分) 機場：釧路空港→定期巴士 (70分)
+    note: 從釧路站自駕約 90 分鐘，阿寒湖溫泉約 50 分鐘；釧路機場約 70 分鐘。冬季山路需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 30%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 30%，適合已能穩定轉彎的滑雪者參考。

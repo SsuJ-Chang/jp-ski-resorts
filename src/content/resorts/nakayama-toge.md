@@ -83,10 +83,31 @@ courses:
 lifts:
   total: 1
 access:
+  fromSapporo:
+    - label: 札幌出發
+      steps:
+        - 從札幌沿國道 230 號經中山峠前往雪場。
+      estimatedTime: 約 70 分
+      difficulty: easy
+      note: 中山峠位於札幌與留壽都之間，主要以自駕或租車前往。
+      links:
+        - label: 中山峠官方交通資訊
+          url: https://nakayama-ski.com/
+  fromAirport:
+    - label: 新千歲機場出發
+      steps:
+        - 從新千歲機場租車或搭乘巴士前往札幌方向。
+        - 經國道 230 號前往中山峠。
+      estimatedTime: 約 1.5 小時
+      difficulty: medium
+      note: 機場至中山峠的交通以車行為主，冬季需預留道路緩衝時間。
+      links:
+        - label: 中山峠官方交通資訊
+          url: https://nakayama-ski.com/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：自駕：札幌駅由 (70分) 機場：千歳空港由 (90分)
+    note: 從札幌市區自駕約 70 分鐘，新千歲機場約 90 分鐘。中山峠冬季降雪與風勢較強，自駕需使用雪胎或雪鏈並留意道路公告。
 terrainSummary:
   beginner: 初級雪道佔 0%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 100%，適合已能穩定轉彎的滑雪者參考。

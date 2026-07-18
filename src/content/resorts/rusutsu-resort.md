@@ -268,10 +268,32 @@ courses:
 lifts:
   total: 18
 access:
+  fromSapporo:
+    - label: 札幌市區預約制接駁
+      steps:
+        - 從札幌站附近加森大樓搭乘免費「Rusutsu 号」接駁巴士。
+        - 抵達留壽都 Resort 後步行至雪場入口。
+      estimatedTime: 約 2 小時
+      difficulty: easy
+      note: 接駁巴士需依官方規定預約；也有札幌市區出發的付費滑雪巴士。
+      links:
+        - label: 留壽都官方交通資訊
+          url: https://rusutsu.com/rusutsu-in-winter/
+  fromAirport:
+    - label: 新千歲機場滑雪巴士
+      steps:
+        - 從新千歲機場搭乘前往留壽都的付費滑雪巴士。
+        - 抵達 Resort 巴士站後步行至雪場入口。
+      estimatedTime: 約 2 小時
+      difficulty: easy
+      note: 官方列有 Big Runs 等機場巴士方案，班次與預約期限依雪季公告。
+      links:
+        - label: 留壽都官方交通資訊
+          url: https://rusutsu.com/rusutsu-in-winter/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：JR札幌駅近くの加森ビル3由予約制の免費接駁巴士「ルスツ号」にて (120分) 自駕：札幌市街地由車で (90分) 自駕：新千歳空港由車で (90分) 機場：新千歳空港由予約制の有料巴士「ビッグランズ号」にて (120分)
+    note: 從札幌市區自駕約 90 分鐘，新千歲機場約 90 分鐘；冬季山路需使用雪胎或雪鏈。停車與入口位置請以留壽都官方公告為準。
 terrainSummary:
   beginner: 初級雪道佔 30%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。

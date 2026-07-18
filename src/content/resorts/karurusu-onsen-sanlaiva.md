@@ -98,10 +98,32 @@ courses:
 lifts:
   total: 2
 access:
+  fromSapporo:
+    - label: 札幌出發
+      steps:
+        - 從札幌搭 JR 或巴士前往登別方向。
+        - 從登別站或登別溫泉轉乘計程車前往雪場。
+      estimatedTime: 約 2 小時
+      difficulty: medium
+      note: 雪場位於登別溫泉山區，最後一段以計程車或租車較容易銜接。
+      links:
+        - label: Sanlaiva 官方交通資訊
+          url: https://sanlaiva.com/
+  fromAirport:
+    - label: 新千歲機場出發
+      steps:
+        - 從新千歲機場搭 JR 至登別站。
+        - 從登別站轉乘計程車前往雪場。
+      estimatedTime: 約 1.5 小時
+      difficulty: medium
+      note: 機場至登別站後仍需銜接山區交通。
+      links:
+        - label: Sanlaiva 官方交通資訊
+          url: https://sanlaiva.com/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：自駕：登別東IC由 (20分) 自駕：札幌駅由高速利用で (110分) 機場：新千歳空港由高速利用で (80分)
+    note: 從道央道登別東 IC 約 20 分鐘，札幌市區約 110 分鐘，新千歲機場約 80 分鐘。冬季山路需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 42%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 29%，適合已能穩定轉彎的滑雪者參考。

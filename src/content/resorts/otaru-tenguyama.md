@@ -104,10 +104,32 @@ courses:
 lifts:
   total: 1
 access:
+  fromSapporo:
+    - label: JR 小樽站轉乘
+      steps:
+        - 從札幌搭 JR 函館本線至小樽站。
+        - 從小樽站搭巴士或計程車前往天狗山。
+      estimatedTime: 約 18 分
+      difficulty: easy
+      note: 雪場位於小樽市區，最後一段可由小樽站搭巴士或計程車銜接。
+      links:
+        - label: 小樽天狗山官方交通資訊
+          url: https://tenguyama.ckk.chuo-bus.co.jp/
+  fromAirport:
+    - label: 新千歲機場出發
+      steps:
+        - 從新千歲機場搭 JR 至小樽站。
+        - 從小樽站轉乘巴士或計程車前往天狗山。
+      estimatedTime: 約 1.5 小時
+      difficulty: easy
+      note: 新千歲機場至小樽站後再轉乘市區交通，班次依當日運行安排。
+      links:
+        - label: 小樽天狗山官方交通資訊
+          url: https://tenguyama.ckk.chuo-bus.co.jp/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：函館本線小樽駅由巴士か計程車 (18分) 自駕：札幌南IC由札樽道(35.6km)小樽ICその後一般道路(4.9km） (40分) 機場：新千歳空港由道央道千歳IC由札樽道小樽ICその後一般道路 (85分)
+    note: 從小樽 IC 接一般道路約 4.9km、約 10 分鐘；札幌方向自駕約 40 分鐘，新千歲機場約 85 分鐘。雪季需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 10%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。

@@ -108,10 +108,32 @@ courses:
 lifts:
   total: 4
 access:
+  fromSapporo:
+    - label: 地下鐵圓山公園站轉乘
+      steps:
+        - 搭札幌市營地下鐵東西線至圓山公園站。
+        - 轉乘巴士或計程車前往盤溪滑雪場。
+      estimatedTime: 約 15 分
+      difficulty: easy
+      note: 盤溪位於札幌市區近郊，官方建議由圓山公園站轉乘。
+      links:
+        - label: 盤溪官方交通資訊
+          url: https://www.bankei.co.jp/winter/ski/
+  fromAirport:
+    - label: 新千歲機場出發
+      steps:
+        - 從新千歲機場搭 JR 或巴士前往札幌市區。
+        - 再轉乘地下鐵與巴士或計程車前往盤溪。
+      estimatedTime: 約 1.5 小時
+      difficulty: medium
+      note: 新千歲機場至札幌市區後仍需轉乘；總時間會受道路與候車影響。
+      links:
+        - label: 盤溪官方交通資訊
+          url: https://www.bankei.co.jp/winter/ski/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：札幌市営地下鉄東西線円山公園由、巴士か計程車 (15分) 自駕：札幌北IC由一般道路（16.5km） (20分) 機場：新千歳空港 (80分)
+    note: 從札幌北 IC 經一般道路約 16.5km、約 20 分鐘；新千歲機場自駕約 80 分鐘。雪季需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 30%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。

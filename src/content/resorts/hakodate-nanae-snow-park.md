@@ -114,10 +114,25 @@ courses:
 lifts:
   total: 3
 access:
+  fromSapporo:
+    - label: JR 大沼站／大沼公園站轉乘
+      steps:
+        - 從札幌搭 JR 函館本線至大沼站或大沼公園站。
+        - 轉乘巴士、免費接駁或計程車前往雪場。
+      estimatedTime: 車站後約 15 分
+      difficulty: medium
+      note: 接駁方式依營業期間與雪季公告調整，請確認回程班次。
+  fromAirport:
+    - label: 函館機場出發
+      steps:
+        - 從函館機場搭計程車或租車前往雪場。
+      estimatedTime: 約 1 小時
+      difficulty: medium
+      note: 官方與公開資料以車行方式為主，機場至雪場沒有固定大眾運輸直達線。
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：函館本線大沼駅由巴士または免費接駁巴士または計程車 (15分) 自駕：函館駅由R5号線(函館新道)経由で36km (50分) 自駕：札幌JCT由道央道大沼公園IC(271.9km)→一般道路 (290分) 機場：函館空港由計程車(約12000円) (60分)
+    note: 從函館市區經國道 5 號約 36km、約 50 分鐘；札幌方向約 290 分鐘，函館機場約 60 分鐘。冬季自駕需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 60%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 20%，適合已能穩定轉彎的滑雪者參考。

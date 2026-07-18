@@ -118,6 +118,15 @@ access:
       links:
         - label: 札幌國際官方交通資訊
           url: https://www.sapporo-kokusai.jp/access/
+    - label: 小樽／小樽築港／朝里川溫泉
+      steps:
+        - 從小樽市區、小樽築港站或朝里川溫泉搭乘「小樽 Liner」前往雪場。
+      estimatedTime: 約 40-60 分
+      difficulty: easy
+      note: 小樽 Liner 為季節性預約制巴士，往返申請期限依官方公告。
+      links:
+        - label: 札幌國際官方交通資訊
+          url: https://www.sapporo-kokusai.jp/access/
   fromAirport:
     - label: 新千歲機場出發
       steps:
@@ -126,16 +135,6 @@ access:
       estimatedTime: 約 2 小時
       difficulty: medium
       note: 官方主要介紹札幌市區與小樽方向的雪季巴士；機場出發需預留市區轉乘時間。
-      links:
-        - label: 札幌國際官方交通資訊
-          url: https://www.sapporo-kokusai.jp/access/
-  fromTokyo:
-    - label: 小樽／小樽築港／朝里川溫泉
-      steps:
-        - 從小樽市區、小樽築港站或朝里川溫泉搭乘「小樽 Liner」前往雪場。
-      estimatedTime: 約 40-60 分
-      difficulty: easy
-      note: 小樽 Liner 為季節性預約制巴士，往返申請期限依官方公告。
       links:
         - label: 札幌國際官方交通資訊
           url: https://www.sapporo-kokusai.jp/access/

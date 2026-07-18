@@ -218,10 +218,32 @@ courses:
 lifts:
   total: 9
 access:
+  fromSapporo:
+    - label: 札幌出發
+      steps:
+        - 從札幌搭 JR 或高速巴士前往富良野。
+        - 從富良野站搭計程車約 10 分鐘，或搭富良野巴士「薰衣草號」約 15 分鐘。
+      estimatedTime: 約 2-3 小時
+      difficulty: medium
+      note: Japan Ski Guide 列出札幌／新千歲機場與富良野站的轉乘方式，班次依季節調整。
+      links:
+        - label: 富良野官方交通資訊
+          url: https://www.princehotels.co.jp/ski/furano/winter/
+  fromAirport:
+    - label: 旭川機場出發
+      steps:
+        - 從旭川機場搭富良野巴士「薰衣草號」至富良野。
+        - 從富良野站轉計程車或巴士前往雪場。
+      estimatedTime: 約 1.5 小時
+      difficulty: easy
+      note: 旭川機場至富良野約 1 小時 30 分，抵達後再銜接雪場交通。
+      links:
+        - label: 富良野官方交通資訊
+          url: https://www.princehotels.co.jp/ski/furano/winter/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：根室本線富良野駅由、計程車 (10分) 電車：根室本線富良野駅由、路線巴士 (18分) 自駕：札幌IC由札幌道→道央道(88.3km)滝川ICその後一般道路(55km) (140分) 自駕：札幌IC由→三笠IC・道道美唄富良野線 (120分) 機場：旭川空港由 (65分)
+    note: 從富良野站搭計程車約 10 分鐘，或搭富良野巴士約 18 分鐘。札幌方向自駕約 2-2.5 小時；旭川機場約 1 小時 5 分鐘。雪季自駕需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 40%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。

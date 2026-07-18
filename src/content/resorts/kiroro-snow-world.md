@@ -125,10 +125,32 @@ courses:
 lifts:
   total: 9
 access:
+  fromSapporo:
+    - label: 札幌／小樽方向接駁
+      steps:
+        - 從札幌或小樽搭乘雪季滑雪巴士前往 Kiroro。
+        - 抵達 Kiroro Resort 後步行至雪場。
+      estimatedTime: 約 1.5-2 小時
+      difficulty: easy
+      note: Kiroro 的接駁方案與班次依雪季公告，部分住宿與滑雪巴士需預約。
+      links:
+        - label: Kiroro 官方交通資訊
+          url: https://www.kiroro.co.jp/en/access/
+  fromAirport:
+    - label: 新千歲機場出發
+      steps:
+        - 從新千歲機場搭乘前往 Kiroro 的預約制滑雪巴士。
+        - 抵達 Kiroro Resort 後步行至雪場。
+      estimatedTime: 約 2 小時
+      difficulty: easy
+      note: 也可先到小樽再銜接交通；機場直達班次依雪季運行。
+      links:
+        - label: Kiroro 官方交通資訊
+          url: https://www.kiroro.co.jp/en/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：小樽築港駅 (40分) 電車：小樽駅 (45分) 自駕：札樽自動車道朝里インター (30分) 自駕：小樽市内 (45分) 機場：新千歳空港 (90分)
+    note: 從札樽道朝里 IC 自駕約 30 分鐘，小樽市區約 45 分鐘，新千歲機場約 90 分鐘。雪季山路需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 37%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 37%，適合已能穩定轉彎的滑雪者參考。
