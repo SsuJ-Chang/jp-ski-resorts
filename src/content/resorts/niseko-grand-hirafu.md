@@ -226,10 +226,43 @@ courses:
 lifts:
   total: 10
 access:
+  fromSapporo:
+    - label: 札幌站／札幌市區直達巴士
+      steps:
+        - 札幌站北口或真駒內站搭乘前往二世谷的季節性直達巴士。
+        - 在 Hirafu 下車，步行或轉乘住宿接駁前往 Grand Hirafu。
+      estimatedTime: 約 3 小時
+      difficulty: medium
+      note: 直達巴士為季節性服務，需依營運公司規定預約；官方時刻表顯示抵達 Hirafu 約 3 小時。
+      links:
+        - label: Niseko United 官方交通資訊
+          url: https://www.niseko.ne.jp/en/niseko-access/
+  fromAirport:
+    - label: 新千歲機場直達巴士
+      steps:
+        - 新千歲機場搭乘前往二世谷的季節性直達巴士。
+        - 在 Hirafu 下車，步行或轉乘住宿接駁前往 Grand Hirafu。
+      estimatedTime: 約 3.5 小時
+      difficulty: medium
+      note: Niseko United 官方時刻表以 Hirafu 為下車點；班次與營運期間依雪季調整。
+      links:
+        - label: Niseko United 官方交通資訊
+          url: https://www.niseko.ne.jp/en/niseko-access/
+  fromTokyo:
+    - label: 新千歲機場／倶知安站轉乘
+      steps:
+        - 抵達新千歲機場後，搭乘機場巴士或電車前往倶知安站。
+        - 從倶知安站轉乘巴士前往 Grand Hirafu。
+      estimatedTime: 倶知安站後約 20 分
+      difficulty: medium
+      note: Japan Ski Guide 列出的新千歲機場至倶知安站約 2 小時 25 分，未包含候車時間。
+      links:
+        - label: Japan Ski Guide 交通資訊
+          url: https://japan-skiguide.com/guide/htm/r0148tws.htm
   car:
-    recommended: false
+    recommended: true
     snowTireRequired: true
-    note: 官方交通頁列出札幌出發經中山峠、喜茂別、倶知安方向，距離約 92km；冬季自駕需雪胎與雪道駕駛經驗。
+    note: 從札幌經國道 230 號、喜茂別町與國道 276／5 號前往，距離約 92km。雪季山路需使用雪胎或雪鏈。
 terrainSummary:
   beginner: Family、Holiday、Kogen 與 Hirafu 山麓一帶提供二世谷最主要的初級與夜滑動線之一。
   intermediate: Center、Furiko、Kokutai & Ni-Kabe、Alpen 支撐核心山腰滑行。

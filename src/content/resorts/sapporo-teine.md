@@ -156,10 +156,32 @@ courses:
 lifts:
   total: 10
 access:
+  fromSapporo:
+    - label: 札幌站／JR 手稻站轉乘
+      steps:
+        - 從札幌站搭 JR 函館本線至手稻站。
+        - 從手稻站搭乘 JR 北海道巴士前往雪場，車程約 16 分鐘。
+      estimatedTime: 約 40-60 分
+      difficulty: easy
+      note: 官方建議由札幌站經 JR 與 JR 北海道巴士銜接；也可由札幌站搭計程車約 45 分鐘。
+      links:
+        - label: 手稻官方交通資訊
+          url: https://sapporo-teine.com/snow/access/
+  fromAirport:
+    - label: 新千歲機場出發
+      steps:
+        - 從新千歲機場搭 JR 前往札幌／手稻方向，再轉乘 JR 北海道巴士。
+        - 或預約雪季巴士套票、計程車方案直達雪場。
+      estimatedTime: 約 1 小時
+      difficulty: medium
+      note: 官方自駕估計新千歲機場經高速公路約 60 分鐘；大眾運輸總時間會受轉乘影響。
+      links:
+        - label: 手稻官方交通資訊
+          url: https://sapporo-teine.com/snow/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：JR札幌駅由最寄りのJR手稲駅止約速11分 JR手稲由巴士または計程車 (20分) 自駕：札幌北IC由札樽道(9.9km)手稲ICその後一般道路(5km) (10分) 機場：新千歳空港由一般道路(9km)千歳IC(52.8km)由道央道→札樽道手稲ICその後一般道路(5km) (60分)
+    note: 從札樽道手稻 IC 下交流道後，沿手稻山麓通往雪場約 5km、約 10 分鐘；札幌市中心約 40 分，小樽市中心約 40 分。停車場免費，約 2,800 台。雪季山路需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 35%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。

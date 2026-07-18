@@ -178,10 +178,43 @@ courses:
 lifts:
   total: 6
 access:
+  fromSapporo:
+    - label: 札幌站／札幌市區直達巴士
+      steps:
+        - 札幌站北口或真駒內站搭乘前往二世谷的季節性直達巴士。
+        - 在 Niseko Annupuri Ski Resort 下車。
+      estimatedTime: 約 3.5 小時
+      difficulty: medium
+      note: 官方時刻表列有 Niseko Annupuri 的直達停靠點，需依營運公司規定預約。
+      links:
+        - label: Niseko United 官方交通資訊
+          url: https://www.niseko.ne.jp/en/niseko-access/
+  fromAirport:
+    - label: 新千歲機場直達巴士
+      steps:
+        - 新千歲機場搭乘前往二世谷的季節性直達巴士。
+        - 在 Niseko Annupuri Ski Resort 下車。
+      estimatedTime: 約 3 小時
+      difficulty: medium
+      note: Niseko United 官方時刻表列出 Annupuri 的直達停靠點；班次與營運期間依雪季調整。
+      links:
+        - label: Niseko United 官方交通資訊
+          url: https://www.niseko.ne.jp/en/niseko-access/
+  fromTokyo:
+    - label: 新千歲機場／倶知安站轉乘
+      steps:
+        - 抵達新千歲機場後，搭乘機場巴士或電車前往倶知安站。
+        - 從倶知安站轉乘巴士或計程車前往 Annupuri。
+      estimatedTime: 倶知安站後約 30 分
+      difficulty: medium
+      note: Annupuri 位於二世谷町，最後一段交通請依當季巴士與住宿接駁安排。
+      links:
+        - label: Niseko United 官方交通資訊
+          url: https://www.niseko.ne.jp/en/niseko-access/
   car:
-    recommended: false
+    recommended: true
     snowTireRequired: true
-    note: 官方交通頁列出札幌出發經國道 230 與中山峠，距離約 105km；冬季自駕需雪胎與雪道駕駛經驗。
+    note: 從札幌經國道 230 號、中山峠與喜茂別町前往 Annupuri，距離約 105km。雪季山路需使用雪胎或雪鏈。
 terrainSummary:
   beginner: Family、Junior 與 Paradise 提供 Annupuri 側主要緩坡與夜滑動線。
   intermediate: Panorama、Utopia、Shirakaba、Dynamic 等紅線支撐中級滑行。

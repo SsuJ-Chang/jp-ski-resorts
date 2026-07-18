@@ -107,10 +107,42 @@ courses:
 lifts:
   total: 4
 access:
+  fromSapporo:
+    - label: 札幌市區／札幌站直達巴士
+      steps:
+        - 從札幌站或札幌市區主要站點搭乘「國際滑雪場線」前往雪場。
+        - 也可搭乘北海道 Resort Liner 札幌國際線或札幌國際直達便。
+      estimatedTime: 約 80-90 分
+      difficulty: easy
+      note: 官方列出札幌都心、定山溪溫泉與主要飯店上車方案；部分班次採預約制，回程也建議一併預約。
+      links:
+        - label: 札幌國際官方交通資訊
+          url: https://www.sapporo-kokusai.jp/access/
+  fromAirport:
+    - label: 新千歲機場出發
+      steps:
+        - 從新千歲機場先前往札幌市區，再轉乘札幌國際線巴士。
+        - 或由新千歲機場租車，經札幌方向前往朝里 IC。
+      estimatedTime: 約 2 小時
+      difficulty: medium
+      note: 官方主要介紹札幌市區與小樽方向的雪季巴士；機場出發需預留市區轉乘時間。
+      links:
+        - label: 札幌國際官方交通資訊
+          url: https://www.sapporo-kokusai.jp/access/
+  fromTokyo:
+    - label: 小樽／小樽築港／朝里川溫泉
+      steps:
+        - 從小樽市區、小樽築港站或朝里川溫泉搭乘「小樽 Liner」前往雪場。
+      estimatedTime: 約 40-60 分
+      difficulty: easy
+      note: 小樽 Liner 為季節性預約制巴士，往返申請期限依官方公告。
+      links:
+        - label: 札幌國際官方交通資訊
+          url: https://www.sapporo-kokusai.jp/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：電車：函館本線札幌駅由、巴士か計程車または直行巴士 (90分) 電車：函館本線小樽駅由計程車 (40分) 自駕：小樽IC由一般道路(22.6km) (22分) 自駕：札幌北IC由札幌道(27.7km)朝里ICその後一般道路(17km) (41分)
+    note: 從小樽 IC 經一般道路約 22.6km、約 22 分；從札幌北 IC 經札樽道至朝里 IC，再接一般道路約 41 分。冬季山路需使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道佔 30%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 50%，適合已能穩定轉彎的滑雪者參考。

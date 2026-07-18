@@ -173,10 +173,43 @@ courses:
 lifts:
   total: 4
 access:
+  fromSapporo:
+    - label: 札幌站／札幌市區直達巴士
+      steps:
+        - 札幌站北口或真駒內站搭乘前往二世谷的季節性直達巴士。
+        - 在 Hirafu 下車後，轉乘 Niseko United Shuttle 或住宿接駁前往 Hanazono。
+      estimatedTime: 約 3.5 小時
+      difficulty: medium
+      note: Hanazono 通常需在 Hirafu 再轉乘；直達巴士與區域接駁皆依雪季時刻表運行。
+      links:
+        - label: Niseko United 官方交通資訊
+          url: https://www.niseko.ne.jp/en/niseko-access/
+  fromAirport:
+    - label: 新千歲機場直達巴士
+      steps:
+        - 新千歲機場搭乘前往二世谷的季節性直達巴士。
+        - 在 Hirafu 下車後，轉乘 Niseko United Shuttle 或住宿接駁前往 Hanazono。
+      estimatedTime: 約 4 小時
+      difficulty: medium
+      note: 官方直達巴士主要停靠 Annupuri、Niseko Village 與 Hirafu，前往 Hanazono 需再轉乘。
+      links:
+        - label: Niseko United 官方交通資訊
+          url: https://www.niseko.ne.jp/en/niseko-access/
+  fromTokyo:
+    - label: 新千歲機場／倶知安站轉乘
+      steps:
+        - 抵達新千歲機場後，搭乘機場巴士或電車前往倶知安站。
+        - 從倶知安站轉乘巴士或計程車前往 Hanazono。
+      estimatedTime: 倶知安站後約 15 分
+      difficulty: medium
+      note: Hanazono 位於倶知安町，最後一段接駁需依當季巴士與住宿接駁安排。
+      links:
+        - label: Niseko United 官方交通資訊
+          url: https://www.niseko.ne.jp/en/niseko-access/
   car:
-    recommended: false
+    recommended: true
     snowTireRequired: true
-    note: 官方交通頁列出札幌出發經中山峠、喜茂別、倶知安方向再往 HANAZONO，冬季自駕需雪胎與雪道駕駛經驗。
+    note: 從札幌經國道 230 號、喜茂別町、國道 276／5 號與國道 343 號前往 Hanazono，距離約 98km。雪季山路需使用雪胎或雪鏈。
 terrainSummary:
   beginner: Mango Salad、Juicy Fruit、Crystal Garden 與 Renraku 提供 HANAZONO 側主要緩坡。
   intermediate: Silver Dream 是長距離滑行主線，Parallel、Stairway to Heaven 與 Hanazono Park 補足中級變化。
