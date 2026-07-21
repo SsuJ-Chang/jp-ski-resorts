@@ -123,6 +123,11 @@ const externalContentSchema = z.object({
   vlogs: z.array(namedLinkSchema).optional(),
 })
 
+const externalGuideSchema = z.object({
+  title: z.string(),
+  url: z.url(),
+})
+
 const skiAreaExternalContentSchema = externalContentSchema.extend({
   websites: z.array(namedLinkSchema).optional(),
 })
@@ -249,6 +254,7 @@ const resorts = defineCollection({
     rjOpinion: z.string().optional(),
     lodgingRecommendations: z.array(lodgingRecommendationSchema).optional(),
     externalContent: externalContentSchema.optional(),
+    externalGuide: externalGuideSchema.optional(),
   }),
 })
 

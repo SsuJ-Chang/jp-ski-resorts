@@ -1610,6 +1610,80 @@ h1 {
   order: 11;
 }
 
+.external-guide-card {
+  position: fixed;
+  right: max(20px, calc(env(safe-area-inset-right) + 16px));
+  bottom: max(20px, calc(env(safe-area-inset-bottom) + 16px));
+  z-index: 29;
+  display: grid;
+  gap: 4px;
+  width: min(330px, calc(100vw - 112px));
+  padding: 14px 42px 14px 16px;
+  border: 1px solid rgba(29, 93, 100, 0.2);
+  border-radius: 14px;
+  background: rgba(247, 249, 244, 0.8);
+  box-shadow: 0 16px 36px rgba(23, 33, 31, 0.16);
+  backdrop-filter: none;
+  transition: opacity 160ms ease, transform 180ms ease;
+}
+
+.external-guide-card--with-back-to-top {
+  right: max(84px, calc(env(safe-area-inset-right) + 76px));
+}
+
+.external-guide-card[hidden] {
+  display: none;
+}
+
+.external-guide-card__content {
+  min-width: 0;
+}
+
+.external-guide-card h2 {
+  margin: 0;
+  color: #173f43;
+  font-size: 0.94rem;
+  line-height: 1.45;
+}
+
+.external-guide-card__link {
+  justify-self: end;
+  color: #1d5d64;
+  font-size: 0.82rem;
+  font-weight: 800;
+  text-align: right;
+  text-decoration-color: rgba(29, 93, 100, 0.32);
+  text-underline-offset: 3px;
+}
+
+.external-guide-card__link:hover {
+  color: #123f43;
+}
+
+.external-guide-card__close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  display: inline-grid;
+  place-items: center;
+  width: 26px;
+  height: 26px;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: #526660;
+  font-size: 1.2rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.external-guide-card__close:hover,
+.external-guide-card__close:focus-visible {
+  background: rgba(29, 93, 100, 0.1);
+  color: #173f43;
+}
+
 .content-body {
   color: #334643;
   line-height: 1.85;
@@ -2754,6 +2828,21 @@ h1 {
   .detail-hero {
     display: grid;
     gap: 20px;
+  }
+
+  .external-guide-card {
+    right: max(14px, calc(env(safe-area-inset-right) + 12px));
+    bottom: max(14px, calc(env(safe-area-inset-bottom) + 12px));
+    width: min(300px, calc(100vw - 88px));
+    padding: 12px 38px 12px 14px;
+  }
+
+  .external-guide-card--with-back-to-top {
+    right: max(68px, calc(env(safe-area-inset-right) + 64px));
+  }
+
+  .external-guide-card__link {
+    white-space: nowrap;
   }
 
   .region-heading--with-map {

@@ -2,6 +2,7 @@ import { trackEvent } from './analytics'
 
 const pageContextElement = document.querySelector<HTMLElement>('[data-analytics-view]')
 const resourceClickTrackedAt = new WeakMap<HTMLAnchorElement, number>()
+const deepGuideClickTrackedAt = new WeakMap<HTMLAnchorElement, number>()
 const resourceClickDedupeMs = 750
 
 const getResortParams = (element?: HTMLElement | null) => ({
@@ -97,6 +98,23 @@ const trackResourceClick = (link: HTMLAnchorElement) => {
   })
 }
 
+const trackDeepGuideClick = (link: HTMLAnchorElement) => {
+  const now = Date.now()
+  const lastTrackedAt = deepGuideClickTrackedAt.get(link) ?? 0
+
+  if (now - lastTrackedAt < resourceClickDedupeMs) return
+
+  deepGuideClickTrackedAt.set(link, now)
+
+  trackEvent('deep_guide_click', {
+    ...getResortParams(link),
+    ...getSkiAreaParams(link),
+    guide_title: getAnalyticsText(link.dataset.analyticsGuideTitle ?? link.textContent),
+    link_domain: getLinkDomain(link.href),
+    transport_type: 'beacon',
+  })
+}
+
 const trackContentSelection = (element: HTMLElement) => {
   trackEvent('select_content', {
     ...getResortParams(element),
@@ -114,6 +132,9 @@ document.addEventListener('pointerdown', (event) => {
 
   const resourceLink = event.target.closest<HTMLAnchorElement>('a[data-analytics-resource]')
   if (resourceLink) trackResourceClick(resourceLink)
+
+  const deepGuideLink = event.target.closest<HTMLAnchorElement>('a[data-analytics-deep-guide]')
+  if (deepGuideLink) trackDeepGuideClick(deepGuideLink)
 }, { capture: true })
 
 document.addEventListener('click', (event) => {
@@ -121,6 +142,9 @@ document.addEventListener('click', (event) => {
 
   const resourceLink = event.target.closest<HTMLAnchorElement>('a[data-analytics-resource]')
   if (resourceLink) trackResourceClick(resourceLink)
+
+  const deepGuideLink = event.target.closest<HTMLAnchorElement>('a[data-analytics-deep-guide]')
+  if (deepGuideLink) trackDeepGuideClick(deepGuideLink)
 
   const resortCard = event.target.closest<HTMLElement>('[data-resort-card]')
   if (resortCard) trackResortCardClick(resortCard)

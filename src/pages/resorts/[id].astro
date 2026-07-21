@@ -31,6 +31,7 @@ const hasExternalContent =
   (resort.data.externalContent?.vlogs?.length ?? 0) > 0
 const hasLodgingRecommendations = (resort.data.lodgingRecommendations?.length ?? 0) > 0
 const hasRjOpinion = Boolean(resort.data.rjOpinion?.trim())
+const externalGuide = resort.data.externalGuide
 
 type OfficialLinkIcon = 'website' | 'facebook' | 'instagram' | 'threads' | 'xTwitter'
 
@@ -343,6 +344,56 @@ const resortStructuredData = [
         ))}
       </div>
     </section>
+
+    {externalGuide && (
+      <aside class="external-guide-card" aria-labelledby="external-guide-title" data-external-guide>
+        <button class="external-guide-card__close" type="button" aria-label="關閉深度指南推薦" data-external-guide-close>
+          <span aria-hidden="true">×</span>
+        </button>
+        <div class="external-guide-card__content">
+          <h2 id="external-guide-title">{externalGuide.title}</h2>
+        </div>
+        <a
+          class="external-guide-card__link"
+          href={externalGuide.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          data-analytics-deep-guide
+          data-analytics-guide-title={externalGuide.title}
+        >
+          前往 JapowDB 查看深度指南 <span aria-hidden="true">↗</span>
+        </a>
+      </aside>
+    )}
+
+    {externalGuide && (
+      <script>
+        const initExternalGuide = () => {
+          const guide = document.querySelector<HTMLElement>('[data-external-guide]')
+          const closeButton = guide?.querySelector<HTMLButtonElement>('[data-external-guide-close]')
+          const backToTopButton = document.querySelector<HTMLButtonElement>('[data-back-to-top]')
+
+          if (!guide || !closeButton || !backToTopButton || guide.dataset.initialized === 'true') return
+
+          guide.dataset.initialized = 'true'
+          const syncBackToTopOffset = () => {
+            guide.classList.toggle('external-guide-card--with-back-to-top', !backToTopButton.hidden)
+          }
+
+          const observer = new MutationObserver(syncBackToTopOffset)
+          observer.observe(backToTopButton, { attributes: true, attributeFilter: ['class', 'hidden'] })
+          syncBackToTopOffset()
+
+          closeButton.addEventListener('click', () => {
+            guide.hidden = true
+            observer.disconnect()
+          })
+        }
+
+        document.addEventListener('astro:page-load', initExternalGuide)
+        initExternalGuide()
+      </script>
+    )}
 
     <section class="resort-detail-layout">
       <article class="info-panel detail-panel resort-summary">
