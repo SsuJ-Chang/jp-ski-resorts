@@ -327,6 +327,9 @@ externalContent:
   - title: "【星野リゾート トマム】北海道のスノーリゾートでスキーを満喫 - LOVE SKISKI"
     url: "https://www.youtube.com/watch?v=1IWDU498pXc"
     note: "犬と暮らす旅人 / Love Nomad Life"
+externalGuide:
+  title: 星野 Resorts Tomamu，把穩定乾粉雪滑成一場度假
+  url: https://www.japowdb.com/zh-tw/resorts/tomamu/
 ---
 
 星野 Resorts Tomamu 是北海道的大型雪場，共有 29 條雪道，搭配 6 座纜車。雪道如 プラチナベル、シルバーベル，初級、中級與上級路線都有配置，標籤偏向夜滑、雙板與單板。

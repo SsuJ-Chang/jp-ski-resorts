@@ -142,6 +142,9 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP6 白馬Cortina 滑雪場🗻 (上集)｜Hotel Green Plaza Hakuba ｜白馬コルチナスキー場 ｜自學滑雪
     url: https://www.youtube.com/watch?v=70LF6aTsEEI
     note: 和Ivy去旅行
+externalGuide:
+  title: 白馬Cortina，搭纜車直入日本海粉雪林
+  url: https://www.japowdb.com/zh-tw/resorts/hakuba-cortina/
 ---
 
 白馬Cortina 以豐富降雪與厚實粉雪聞名，幾乎能頻繁感受白馬地區的深雪魅力。雪場內有受進階玩家喜愛的林間與粉雪地形，山腳下也結合大型飯店、餐飲與溫泉，能把高強度滑行與度假停留安排在同一區域。

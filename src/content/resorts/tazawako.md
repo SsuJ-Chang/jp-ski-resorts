@@ -137,6 +137,9 @@ externalContent:
       url: https://natasha-traveler.tw/hotel-morinokaze-tazawako/
       note: "娜塔蝦的滑雪食旅手記"
   vlogs: []
+externalGuide:
+  title: 田澤湖，秋田深雪與湖畔山景的滑雪旅
+  url: https://www.japowdb.com/zh-tw/resorts/tazawako/
 ---
 
 田澤湖位在秋田縣，雪道數為13 條，搭配 6 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向親子同行、溫泉停留。

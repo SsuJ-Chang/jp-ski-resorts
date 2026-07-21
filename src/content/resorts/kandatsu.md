@@ -246,5 +246,8 @@ externalContent:
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
     note: MIRU tube JAPAN 【Route Guide】
+externalGuide:
+  title: 神立高原，從東京出發，滑到凌晨兩點
+  url: https://www.japowdb.com/zh-tw/resorts/kandatsu/
 ---
 神立高原滑雪場位於雪國越後湯澤，是距離首都圈最近的 100 % 天然雪雪場。雪道位於東北向斜面，雪質與積雪量都很有特色，並結合滑雪公園、戲雪樂園與貓跳路線，整體是一座適合各種程度玩家的一站式綜合型雪場。

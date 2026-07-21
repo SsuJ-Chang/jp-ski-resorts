@@ -230,6 +230,9 @@ externalContent:
   - title: 【日本北海道🇯🇵】EP3 新雪谷花園滑雪場🗻｜Hanazono Niseko ❄️｜自學滑雪心得｜LV 夢幻蒙古包｜LV monogram 滑雪纜車｜羊蹄山美景展望🗻
     url: https://www.youtube.com/watch?v=hyxmkaXvTzg&t=1s
     note: 和Ivy去旅行
+externalGuide:
+  title: 二世谷聯合：四座山，887 公頃，今天該去哪裡滑？
+  url: https://www.japowdb.com/zh-tw/resorts/niseko-united/
 ---
 
 二世谷 HANAZONO 位於北海道二世谷雪區，纜車效率、park 配置與上部粉雪線是它和其他區域最不同的地方。若你不想整天只做長距離巡航，這裡很適合把跳台、公園與深雪段落混著排。

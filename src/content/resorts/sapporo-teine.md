@@ -260,6 +260,9 @@ externalContent:
   - title: "日本邊滑雪邊看海!?｜北海道手稻滑雪場上集 ｜札幌車站40分鐘輕鬆到達｜雪票+租借+高地區雪道詳解"
     url: https://www.youtube.com/watch?v=pFw7nw1HGsA
     note: LeoTW沈浸滑雪
+externalGuide:
+  title: 札幌手稻，離市區不遠的 683 公尺粉雪高差
+  url: https://www.japowdb.com/zh-tw/resorts/sapporo-teine/
 ---
 
 札幌手稻能從山頂眺望札幌市區與石狩灣，並以粉雪與長距離初級路線為特色。高地區域保留冬奧高山滑雪路線與著名未壓雪陡坡，奧林匹亞區則有寬廣緩坡與兒童樂園，從初學者到進階玩家都能找到合適玩法。

@@ -187,6 +187,9 @@ externalContent:
   - title: "日本低調不擁擠的隱藏雪場 | 白馬乘鞍溫泉滑雪場"
     url: "https://www.youtube.com/watch?v=KRmMLnkixy0"
     note: "Todd's Japan Ski Trip"
+externalGuide:
+  title: 白馬乘鞍溫泉，白馬谷裡的粉雪、林間與溫泉
+  url: https://www.japowdb.com/zh-tw/resorts/hakuba-norikura/
 ---
 
 白馬乘鞍溫泉位於長野縣白馬山麓，山麓入門線和上部變化段落的落差很明顯，適合把暖身與主滑分開安排。若你喜歡比純初學雪場更有雪況層次，但又不想整天都處在高壓坡段，這裡很剛好。

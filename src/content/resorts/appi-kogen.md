@@ -276,6 +276,9 @@ externalContent:
     - title: "2026日本東北看雪貓?!什麼叫做阿司匹靈粉雪!超級多設施的渡假村雪場｜日本東北安比高原APPI滑雪場｜YK🏂VLOG"
       url: "https://www.youtube.com/watch?v=xQ0m9t60HV0"
       note: "YK來了"
+externalGuide:
+  title: 安比高原，把連續粉雪天數滑成一場長假
+  url: https://www.japowdb.com/zh-tw/resorts/appi-kogen/
 ---
 
 安比高原是大型綜合度假型雪場，區內有 21 條滑道與長距離動線，依托圓錐形山體展開，能感受到寬闊而有份量的滑行節奏。雪場重視整雪品質，並結合多樣娛樂與住宿設施，適合想長時間停留、反覆探索不同坡面的滑雪者。

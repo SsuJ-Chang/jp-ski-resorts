@@ -379,6 +379,9 @@ externalContent:
   - title: 【日本東京🇯🇵】EP1 野澤溫泉滑雪場❄️｜機場直達野沢巴士｜日本最長雪道｜自學單板全紀錄｜歷史百年溫泉村｜冬奧滑雪場｜靜泉莊 Seisenso｜Action4📸
     url: https://www.youtube.com/watch?v=sEKq2lknoGQ
     note: 和Ivy去旅行
+externalGuide:
+  title: 野澤溫泉，滑完 1,085 公尺，再去泡一座歷史名湯
+  url: https://www.japowdb.com/zh-tw/resorts/nozawa-onsen/
 ---
 
 野澤溫泉是日本代表性的超大型溫泉雪場，滑坡面積廣大，從毛無山山頂沿山脊向溫泉街展開，落差與規模都很有存在感。YAMABIKO 區以多條中級滑道、良好雪質與山毛櫸林景觀聞名，滑完後也能延續野澤的溫泉氛圍。

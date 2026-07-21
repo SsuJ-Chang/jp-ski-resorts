@@ -366,6 +366,9 @@ externalContent:
   - title: "【上から下まで】斑尾高原スキー場を豪華ゲストと共に！ //Who's TV"
     url: "https://www.youtube.com/watch?v=6vMAWJxnjwo"
     note: "Who’s TV / by Fumika Hoshino"
+externalGuide:
+  title: 斑尾高原，把粉雪日拆開來研究的雪場
+  url: https://www.japowdb.com/zh-tw/resorts/madarao/
 ---
 
 斑尾高原以豐富林間雪道聞名，區內有 31 條滑道與多種自然地形，適合喜歡探索 tree run 與粉雪感的玩家。雪場也設有自由滑行公園、兒童樂園與雪橇等家庭向設施，從親子玩雪到進階滑行都有對應空間。

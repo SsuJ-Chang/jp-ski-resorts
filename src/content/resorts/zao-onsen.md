@@ -349,6 +349,9 @@ externalContent:
   - title: Ryan Knapton雪板比較好嗎？ | ZAO 2024追雪 acepro | 藏王滑雪day 02 part1
     url: https://www.youtube.com/watch?v=mvwF0qNgOS4
     note: 大林滑雪男子
+externalGuide:
+  title: 藏王溫泉，為了樹冰而來，也該研究 881 公尺落差
+  url: https://www.japowdb.com/zh-tw/resorts/zao-onsen/
 ---
 
 藏王溫泉位於山形縣，官方標示有 14 個雪道區與 12 條主要課程路線，從樹冰高原到溫泉街之間可以排出很長的串連滑行。路線組成同時包含高鳥、大平這類長距離巡航線，以及ハーネンカム、黑姬、大森這些較有挑戰性的斜面，再加上上之台夜滑，整體節奏很完整。

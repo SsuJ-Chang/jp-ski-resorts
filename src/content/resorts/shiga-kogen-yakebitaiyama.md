@@ -178,6 +178,9 @@ externalContent:
   - title: 【日本自由行】EP4 奧志賀滑雪場❄️燒額山滑雪場！超好玩樹林道⛄雪道、山景全紀錄！❄️一之瀨出發一路滑到奧志賀⛄
     url: https://www.youtube.com/watch?v=QFbnFpx0FO0
     note: 和Ivy去旅行
+externalGuide:
+  title: 志賀高原 燒額山，從 1,550 公尺山腳滑向奧運級高地
+  url: https://www.japowdb.com/zh-tw/resorts/shiga-kogen-yakebitaiyama/
 ---
 
 志賀高原燒額山以山頂 360 度全景與保留自然地貌的針葉林景觀為特色，滑行時能感受到志賀高原開闊的山岳氛圍。雪場結合多條滑道與王子飯店度假機能，適合想在高原景色中享受滑雪與住宿的旅人。

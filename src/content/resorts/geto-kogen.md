@@ -253,6 +253,9 @@ externalContent:
   - title: "【夏油高原】岩手の豪雪地帯に降る極上のパウダー - LOVE SKISKI"
     url: "https://www.youtube.com/watch?v=kW9bwL3PbKo"
     note: "犬と暮らす旅人 / Love Nomad Life"
+externalGuide:
+  title: 夏油高原，20 公尺積雪打造的樹林滑雪場
+  url: https://www.japowdb.com/zh-tw/resorts/geto-kogen/
 ---
 
 夏油高原以豐富積雪量與較長雪季聞名，區內滑道設計各有變化，不容易感到單調。特別是未壓雪粉雪區很有吸引力，適合專程追求深雪感的雙板與單板玩家；雪場大廳也結合餐飲、商店與溫泉，整體停留機能完整。

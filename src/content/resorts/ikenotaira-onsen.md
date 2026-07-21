@@ -255,6 +255,9 @@ externalContent:
   - title: 【スキー場ガイド】池の平温泉アルペンブリックスキー場　ツリーランデビューならここ
     url: https://www.youtube.com/watch?v=-hz9RxpliyQ
     note: 全国的スキー場ガイド
+externalGuide:
+  title: 池之平，妙高山腳的親子粉雪假期
+  url: https://www.japowdb.com/zh-tw/resorts/ikenotaira-onsen/
 ---
 
 池之平以開闊坡面與自然景觀為特色，良好雪質讓滑行感受更輕快。雪場擁有寬廣滑坡與大型戲雪樂園，也結合妙高高原啤酒與黑褐色原湯溫泉等在地休閒元素，適合想把滑雪、玩雪與溫泉一起安排的旅人。

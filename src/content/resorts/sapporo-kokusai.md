@@ -160,6 +160,9 @@ externalContent:
   - title: "【札幌国際スキー場】極上パウダースノーと絶景を満喫！北海道の冬の魅力 - LOVE SKISKI"
     url: "https://www.youtube.com/watch?v=Z0EXg7kgOWc"
     note: "犬と暮らす旅人 / Love Nomad Life"
+externalGuide:
+  title: 札幌國際，從市區近郊滑到五月的長雪季
+  url: https://www.japowdb.com/zh-tw/resorts/sapporo-kokusai/
 ---
 
 札幌國際在北海道提供7 條雪道，搭配 4 座纜車。路線包含 林間コース、メルヘンコース、ウッディコース，整體初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

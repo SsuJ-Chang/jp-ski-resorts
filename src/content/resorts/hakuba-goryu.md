@@ -309,6 +309,9 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP2 白馬五龍&47滑雪場🗻｜白馬阿爾卑斯酒店🏨｜租雪具1000日幣🏂｜自學滑雪全紀錄❄️｜成吉思汗烤羊肉🐑｜單日來回兩個雪場｜日本雪場開箱｜🚌
     url: https://www.youtube.com/watch?v=TgPjyzJeDnE
     note: 和Ivy去旅行
+externalGuide:
+  title: 白馬五龍，一張票滑兩座山
+  url: https://www.japowdb.com/zh-tw/resorts/hakuba-goryu-47/
 ---
 
 白馬五龍由 ALPS、TOOMI、IIMORI 等區域組成，雪季長，滑道類型包含比賽路線、貓跳、snow park 與兒童滑道。雪場每天進行整雪維護，從初學者、親子到想挑戰不同地形的玩家，都能在同一座雪場裡找到合適區域。

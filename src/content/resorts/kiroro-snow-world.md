@@ -193,6 +193,9 @@ externalContent:
   - title: "【キロロ】北海道の極上パウダーが楽しめるスノーリゾート - LOVE SKISKI"
     url: "https://www.youtube.com/watch?v=cIMkaQT9ELM"
     note: "犬と暮らす旅人 / Love Nomad Life"
+externalGuide:
+  title: Kiroro Snow World，北海道高降雪量的粉雪研究室
+  url: https://www.japowdb.com/zh-tw/resorts/kiroro-snow-world/
 ---
 
 Kiroro Snow World 是北海道的大型雪場，共有 23 條雪道，搭配 9 座纜車。雪道如 Family Course、Center Link，初級、中級與上級路線都有配置，標籤偏向夜滑、雙板與單板。

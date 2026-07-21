@@ -248,6 +248,9 @@ externalContent:
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=344s
     note: MIRU tube JAPAN 【Route Guide】
+externalGuide:
+  title: 上越國際，380 公頃豪雪裡，滑一整天還不重複
+  url: https://www.japowdb.com/zh-tw/resorts/joetsu-kokusai/
 ---
 
 上越國際滑雪場是日本屈指可數的大型雪場，由 4 個區域組成，適合從玩雪親子到進階玩家的不同需求。Mother's zone 有兒童樂園等雪上遊樂設施，活力區可以挑戰 38 度陡坡，觀景區能邊滑行邊欣賞冬季景色，林蔭區則主打雪質良好的長距離連續滑行。

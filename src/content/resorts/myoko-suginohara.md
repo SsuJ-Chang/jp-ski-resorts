@@ -247,6 +247,9 @@ externalContent:
   - title: "全日本最長的雪道!8.5km!怎麼摔都不會痛!不用去北海道了｜妙高雪場開箱 杉之原SUGINOHARA｜YK🏂VLOG"
     url: "https://www.youtube.com/watch?v=scsRnyrkqIE"
     note: "YK來了"
+externalGuide:
+  title: 杉之原，1,124 公尺落差，一趟滑到底
+  url: https://www.japowdb.com/zh-tw/resorts/myoko-suginohara/
 ---
 
 杉之原以約 8.5 km 的長距離寬闊滑道為代表特色，能帶來連續巡航的開放感。雪場同時規劃多條路線，從初學者到進階玩家都能依程度選擇坡面，也很重視讓孩子體驗冬季滑雪樂趣，是妙高地區具代表性的長距離雪場。

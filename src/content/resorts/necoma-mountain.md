@@ -280,6 +280,9 @@ externalContent:
   - title: "【上から下まで】福島県 / 猫魔スキー場【TOP TO BOTTOM】 // Who's TV"
     url: "https://www.youtube.com/watch?v=5nyQXed1EN4"
     note: "Who’s TV / by Fumika Hoshino"
+externalGuide:
+  title: Necoma Mountain，33 條雪道的東北粉雪實驗場
+  url: https://www.japowdb.com/zh-tw/resorts/nekoma/
 ---
 
 Necoma Mountain 位於福島縣磐梯雪區，南北面向帶來的雪況差異讓同一天行程能排出完全不同的滑感。你可以先在主雪道巡航，再把 park、林間感或積雪後的變化段落接進後半天。

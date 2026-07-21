@@ -207,6 +207,9 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP3 白馬岩岳滑雪場🗻｜自學滑雪全紀錄❄️｜連續滑雪第三天🏂｜日本雪場開箱🎄｜自駕去滑雪｜HAKUBA IWATAKE⛷️
     url: https://www.youtube.com/watch?v=acJZsaLUmEM
     note: 和Ivy去旅行
+externalGuide:
+  title: 白馬岩岳，站上山頂港，看完整座北阿爾卑斯
+  url: https://www.japowdb.com/zh-tw/resorts/hakuba-iwatake/
 ---
 
 白馬岩岳位於長野縣白馬山麓，山頂視野、寬面主雪道與 side country 氣氛是它最有辨識度的地方。北側與山頂周邊路線讓一天行程不只剩下反覆巡航，也能穿插地形感與換線樂趣。

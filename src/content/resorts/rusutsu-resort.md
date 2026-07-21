@@ -345,6 +345,9 @@ externalContent:
   - title: "【ルスツリゾート】最強寒波の北海道で極上パウダースノーを満喫 - LOVE SKISKI"
     url: "https://www.youtube.com/watch?v=XZhXnmqylVM"
     note: "犬と暮らす旅人 / Love Nomad Life"
+externalGuide:
+  title: 留壽都 Resort，三座山的乾粉雪迷宮
+  url: https://www.japowdb.com/zh-tw/resorts/rusutsu-resort/
 ---
 
 留壽都 Resort 位於北海道，東山、西山與 Isola 三區讓同一天能排出完全不同的滑行節奏。它的強項不只是雪道數多，而是長距離巡航、林間視野與住宿型動線可以自然接在一起。

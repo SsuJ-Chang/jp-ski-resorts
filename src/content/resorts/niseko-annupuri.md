@@ -233,6 +233,9 @@ externalContent:
   - title: "二世古Annupuri新手初訪絕不能錯過｜明確分區簡單理解Village二世古村｜6種單人滑雪拍攝方式超真實心得分享｜Niseko EP3"
     url: https://www.youtube.com/watch?v=A539suY39dc
     note: LeoTW沈浸滑雪
+externalGuide:
+  title: 二世谷聯合：四座山，887 公頃，今天該去哪裡滑？
+  url: https://www.japowdb.com/zh-tw/resorts/niseko-united/
 ---
 
 二世谷 Annupuri在北海道提供13 條雪道，搭配 6 座纜車。路線包含 Paradise、Family、Junior，整體初級、中級與上級路線都有配置；標籤上偏向親子同行、夜滑。

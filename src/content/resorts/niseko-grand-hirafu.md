@@ -286,6 +286,9 @@ externalContent:
   - title: 【日本北海道🇯🇵】EP2 新雪谷格蘭比羅夫滑雪場🗻｜看羊蹄山逛山雪道攻略⛰️｜Step on｜ 二世古 NISEKO GRAND HIRAFU ❄️｜帝王蟹火鍋🦀️｜北海道 滑雪 自由行⛩️
     url: https://www.youtube.com/watch?v=f9y-yngyp6M
     note: 和Ivy去旅行
+externalGuide:
+  title: 二世谷聯合：四座山，887 公頃，今天該去哪裡滑？
+  url: https://www.japowdb.com/zh-tw/resorts/niseko-united/
 ---
 
 二世谷 Grand Hirafu 是二世谷地區具代表性的大型雪場，以高品質粉雪與寬廣規模聞名。區內從初學者到進階玩家都能享受雪上運動，從山頂到山麓的落差帶來爽快長距離滑行，也能在粉雪中感受北海道度假滑雪的特色。

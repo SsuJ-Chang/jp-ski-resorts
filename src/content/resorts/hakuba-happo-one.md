@@ -188,6 +188,9 @@ externalContent:
   - title: "【白馬八方尾根スキー場】山頂から見る絶景の北アルプスと長野オリンピック - LOVE SKISKI"
     url: "https://www.youtube.com/watch?v=iATxoottKnM"
     note: "犬と暮らす旅人 / Love Nomad Life"
+externalGuide:
+  title: 白馬八方尾根，奧運大斜面與 1,071 公尺落差
+  url: https://www.japowdb.com/zh-tw/resorts/hakuba-happo-one/
 ---
 
 白馬八方尾根以壯闊山景與大落差滑行聞名，能在北阿爾卑斯景色中感受長距離下滑的開闊感。雪場保留山岳地形與白馬在地山村氛圍，滑道從寬闊巡航到較具挑戰性的坡面都有，是白馬代表性的山岳型雪場。
