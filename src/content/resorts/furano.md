@@ -23,8 +23,8 @@ links:
   instagram: https://www.instagram.com/furanoski_official
   googleMaps: https://www.google.com/maps/search/?api=1&query=Furano%20Ski%20Resort
   weather: https://weathernews.jp/ski/spot/31602/
-  ticket: https://weathernews.jp/ski/spot/31602/
-  access: https://weathernews.jp/ski/spot/31602/
+  ticket: https://www.princehotels.co.jp/ski/furano/winter/lift/#lift-fee
+  access: https://www.princehotels.co.jp/ski/furano/winter/access/
 contact:
   address:
     zhTw: 日本北海道富良野市中御料
@@ -38,10 +38,16 @@ season:
   note: 營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。
   source: https://weathernews.jp/ski/spot/31602/
   nightSkiingHours: 平日16:00〜18：00、週末假日與年末年始16:00〜19:30
+trailMaps:
+- label: 富良野 雪道圖
+  language: 日文
+  season: 2025-2026
+  url: https://www.princehotels.co.jp/file.jsp?id=496649
+  sourceLabel: Furano Ski Resort Official
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/31602/
+  source: https://www.princehotels.co.jp/ski/furano/winter/lift/#lift-fee
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
   - name: 1 日券
@@ -72,7 +78,7 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20
-  courseInfoPage: https://www.princehotels.co.jp/ski/furano/winter/coursemap/?tab=course
+  courseInfoPage: https://www.princehotels.co.jp/ski/furano/winter/coursemap/
   summary: 富良野在北海道人氣雪場清單列為第 2 名。共有 28 條雪道、9 座纜車，難度比例為初級 40%、中級 40%、上級 20%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
   details:
   - name: D1コース
@@ -80,141 +86,169 @@ courses:
     length: 795m
     maxSlope: 26°
     averageSlope: 12°
+    note: 附設於富良野下山第 2 纜車的初級雪道。
   - name: D2コース
     difficulty: beginner
     length: 510m
     maxSlope: 23°
     averageSlope: 10°
+    note: 緩坡且較少人注意，適合基本練習。
   - name: 3 B1コース
     difficulty: beginner
     length: 1,410m
     maxSlope: 25°
     averageSlope: 12°
+    note: 中斜面的長距離雪道，雪道寬敞舒適；上段部分為中級雪道。
   - name: 4 B2コース
     difficulty: beginner
     length: 660m
     maxSlope: 18°
     averageSlope: 10°
+    note: 穿越落葉松林，坡度變化豐富。
   - name: 5 C1コース
     difficulty: beginner
     length: 700m
     maxSlope: 19°
     averageSlope: 10°
+    note: 雪道寬度充足，適合初學者課程。
   - name: 6 E２コース
     difficulty: intermediate
     length: 620m
     maxSlope: 31°
     averageSlope: 17°
+    note: 雪場最上方的北向坡面，中急斜面且視野良好。
   - name: 7 D3コース
     difficulty: intermediate
     length: 530m
     maxSlope: 22°
     averageSlope: 13°
+    note: 林間中斜面，坡度變化接連出現。
   - name: 8 A2コース
     difficulty: intermediate
     length: 1,750m
     maxSlope: 22°
     averageSlope: 12°
+    note: 穿越白樺林，坡度變化豐富；上段部分為初級雪道。
   - name: 9 A1コース
     difficulty: intermediate
     length: 850m
     maxSlope: 21°
     averageSlope: 14°
+    note: 從空中纜車山頂站向右側滑入的雪道。
   - name: 10 C2コース
     difficulty: intermediate
     length: 570m
     maxSlope: 20°
     averageSlope: 11°
+    note: 寬闊雪道，適合安全地逐步提升。
   - name: 11 H1コース
     difficulty: intermediate
     length: 1,500m
     maxSlope: 25°
     averageSlope: 11°
+    note: 連接富良野區與北之峰區的中級雪道。
   - name: 12 E１コース
     difficulty: advanced
     length: 430m
     maxSlope: 25°
     averageSlope: 18°
+    note: 位於最上方、景觀良好的粉雪與饅頭坡急斜面。
   - name: 13 A4コース
     difficulty: advanced
     length: 500m
     maxSlope: 29°
     averageSlope: 17°
+    note: 未壓雪急斜面。
   - name: 14 A3コース
     difficulty: advanced
     length: 1,770m
     maxSlope: 30°
     averageSlope: 15°
+    note: 坡度較陡的饅頭坡雪道。
   - name: G1コース
     difficulty: beginner
     length: 1,080m
     maxSlope: 28°
     averageSlope: 12°
+    note: 穿越白樺林，坡度變化豐富。
   - name: 2 F1コース
     difficulty: beginner
     length: 1,900m
     maxSlope: 17°
     averageSlope: 10°
+    note: 可滑入富良野王子飯店一側的林間雪道。
   - name: 3 F4コース
     difficulty: beginner
     length: 890m
     maxSlope: 18°
     averageSlope: 7°
+    note: 從家庭雪場向上挑戰，平緩至中斜面。
   - name: 4 F5コース
     difficulty: beginner
     length: 1,020m
     maxSlope: 18°
     averageSlope: 10°
+    note: 坡度適中，滑行感暢快。
   - name: 5 F6コース
     difficulty: beginner
     length: 1,170m
     maxSlope: 19°
     averageSlope: 9°
+    note: 寬闊的一枚斜面，適合逐步提升。
   - name: 6 Ｆ７コース
     difficulty: beginner
     length: 690m
     maxSlope: 18°
     averageSlope: 10°
+    note: 適合想扎實練習的滑雪者。
   - name: 7 Ｇ２コース
     difficulty: intermediate
     length: 410m
     maxSlope: 25°
     averageSlope: 18°
+    note: 可一邊眺望富良野市區一邊滑行的中斜面。
   - name: 8 Ｆ２コース
     difficulty: intermediate
     length: 880m
     maxSlope: 23°
     averageSlope: 13°
+    note: 適合競賽訓練的雪面。
   - name: 9 Ｋ１コース
     difficulty: intermediate
     length: 1,320m
     maxSlope: 29°
     averageSlope: 12°
+    note: 從北之峰山頂眺望十勝岳與大雪山連峰，景觀壯闊。
   - name: 10 Ｇ３コース
     difficulty: intermediate
     length: 660m
     maxSlope: 26°
     averageSlope: 18°
+    note: 中上級者的滑行天堂，適合提升程度的巡航雪道。
   - name: 11 Ｋ２コース
     difficulty: advanced
     length: 280m
     maxSlope: 34°
     averageSlope: 27°
+    note: 碗狀未壓雪饅頭坡。
   - name: 12 K4コース
     difficulty: advanced
     length: 360m
     maxSlope: 25°
     averageSlope: 13°
+    note: 適合進階者的短距離雪道。
   - name: 13 K3コース
     difficulty: advanced
     length: 340m
     maxSlope: 27°
     averageSlope: 23°
+    note: 景觀良好，適合享受饅頭坡的進階雪道。
   - name: 14 プレミアムゾーン
     difficulty: advanced
     length: 830m
     maxSlope: 34°
     averageSlope: 23°
+    note: 未壓雪粉雪專家雪道。
 lifts:
   total: 9
 access:
@@ -228,7 +262,7 @@ access:
       note: Japan Ski Guide 列出札幌／新千歲機場與富良野站的轉乘方式，班次依季節調整。
       links:
         - label: 富良野官方交通資訊
-          url: https://www.princehotels.co.jp/ski/furano/winter/
+          url: https://www.princehotels.co.jp/ski/furano/winter/access/
   fromAirport:
     - label: 旭川機場出發
       steps:
@@ -239,7 +273,7 @@ access:
       note: 旭川機場至富良野約 1 小時 30 分，抵達後再銜接雪場交通。
       links:
         - label: 富良野官方交通資訊
-          url: https://www.princehotels.co.jp/ski/furano/winter/
+          url: https://www.princehotels.co.jp/ski/furano/winter/access/
   car:
     recommended: true
     snowTireRequired: true
