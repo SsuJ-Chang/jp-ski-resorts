@@ -331,6 +331,9 @@ terrainSummary:
   advanced: Splash Bowl、Riesen、Slalom、筍山等多條上級與非壓雪路線集中在山頂側。
   snowboard: 官方資料列出苗場 Snow Park 位於第 5 高速纜車旁，適合想加入地形公園元素的行程。
   powder: 山頂側部分上級路線官方註記為非壓雪，需留意雪況與安全警示。
+externalGuide:
+  title: 4,000 公尺長滑道與龍纜串起的雪季假期
+  url: https://www.japowdb.com/zh-tw/resorts/naeba/
 ---
 
 苗場是新潟代表性的大型度假雪場，滑道、住宿與娛樂設施集中，從初級巡航到較具挑戰性的坡面都有配置。雪場整體度假感強，適合想把滑雪、餐飲與住宿一起安排的旅人，也適合不同程度的同行者各自找到合適玩法。
