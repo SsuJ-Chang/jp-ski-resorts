@@ -360,6 +360,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
+  - title: "斑尾高原滑雪場開箱🏂！交通、雪票與雪具租借全攻略！ 搞笑擔當噴飛手機📱太荒謬｜上集｜YK🏂VLOG"
+    url: "https://www.youtube.com/watch?v=O-s6fS2Bm5E"
+    note: "YK來了"
   - title: 班尾高原滑雪場：日本第一滑雪YouTuber, 刻平流派創始人 IGchan @いぐっちゃん 滑遍日本後的最愛雪場！Ｉ 日本雪場介紹 Japan Resort Review Ｉ Madarao
     url: https://www.youtube.com/watch?v=9oDbDE9dFGI
     note: Uncle Perry - The Snow Sensei
