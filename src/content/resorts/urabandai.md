@@ -19,13 +19,13 @@ visibility:
 links:
   official: "https://www.urabandai-ski.jp/"
   weather: "https://weathernews.jp/ski/spot/33626/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=37.632043,140.067616"
+  googleMaps: https://maps.app.goo.gl/7YhmgJDTPtncJ4mS7
   access: "https://www.urabandai-ski.jp/"
 contact:
   address:
     zhTw: "日本福島縣耶麻郡北鹽原村大字檜原字大府平山1170"
     ja: "〒969-2701 福島県耶麻郡北塩原村大字檜原字大府平山1170"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=37.632043,140.067616"
+    googleMaps: https://maps.app.goo.gl/7YhmgJDTPtncJ4mS7
   phone: "0241-32-2177"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 37.632043
-  longitude: 140.067616
+  latitude: 37.632153115446364
+  longitude: 140.06763902559055
 elevation:
   top: 1200
   bottom: 900

@@ -16,12 +16,12 @@ tags:
 links:
   official: https://www.ski-minowa.jp/
   weather: https://weathernews.jp/ski/spot/33604/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Minowa%20Ski%20Resort%20Fukushima
+  googleMaps: https://maps.app.goo.gl/YHto1En9tg6QwQ7h9
 contact:
   address:
     zhTw: 福島縣耶麻郡豬苗代町若宮吾妻山國有林 194 林班
     ja: 福島県耶麻郡猪苗代町若宮吾妻山国有林194林班
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Minowa%20Ski%20Resort%20Fukushima
+    googleMaps: https://maps.app.goo.gl/YHto1En9tg6QwQ7h9
 season:
   label: 2025-2026
   operatingPeriod: 待官方 2025-2026 營業資訊確認
@@ -62,8 +62,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 37.656
-  longitude: 140.29
+  latitude: 37.65263327546207
+  longitude: 140.25305640674642
 elevation:
   top: 1500
   bottom: 1050

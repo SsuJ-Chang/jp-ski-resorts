@@ -24,12 +24,12 @@ links:
   ticket: https://www.inawashiro-ski.com/lift/
   access: https://www.inawashiro-ski.com/access/
   weather: https://weathernews.jp/ski/spot/33602/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Inawashiro%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/xGY5SC4vhhh3dKYf6
 contact:
   address:
     zhTw: 福島縣耶麻郡豬苗代町葉山 7105
     ja: 〒969-3102 福島県耶麻郡猪苗代町葉山7105
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Inawashiro%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/xGY5SC4vhhh3dKYf6
   phone: 0242-62-5100
 season:
   label: 2025-2026
@@ -79,8 +79,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 37.565
-  longitude: 140.118
+  latitude: 37.5754203569116
+  longitude: 140.09463137791073
 elevation:
   top: 1255
   bottom: 675

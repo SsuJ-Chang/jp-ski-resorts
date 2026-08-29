@@ -1,7 +1,7 @@
 ---
 id: necoma-mountain
 name:
-  zhTw: Necoma Mountain
+  zhTw: 星野渡假村 貓魔滑雪場
   ja: 星野リゾート ネコマ マウンテン
   en: Hoshino Resorts NEKOMA Mountain
 region: tohoku
@@ -25,12 +25,12 @@ links:
   ticket: https://www.nekoma.co.jp/price/
   access: https://www.nekoma.co.jp/access/
   weather: https://weathernews.jp/ski/spot/33632/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hoshino%20Resorts%20NEKOMA%20Mountain
+  googleMaps: https://maps.app.goo.gl/S1XZSnmxPDjqgwBYA
 contact:
   address:
     zhTw: 福島縣耶麻郡磐梯町大字更科字清水平 6838-68
     ja: 〒969-3302 福島県耶麻郡磐梯町大字更科字清水平6838-68
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hoshino%20Resorts%20NEKOMA%20Mountain
+    googleMaps: https://maps.app.goo.gl/S1XZSnmxPDjqgwBYA
   phone: 0242-74-5000
 season:
   label: 2025-2026
@@ -40,7 +40,7 @@ season:
   note: 南區為舊 Alts 磐梯，北區為舊貓魔；營業日期、區域與連結纜車會依積雪調整，請以官方公告為準。
   source: https://weathernews.jp/ski/spot/33632/
 trailMaps:
-- label: Necoma Mountain 雪道圖
+- label: 星野渡假村 貓魔滑雪場 雪道圖
   language: 日本語
   season: 2025-2026
   url: https://www.nekoma.co.jp/liftguide/
@@ -68,7 +68,7 @@ tickets:
     - 一律 ¥2,500、學齡前兒童免費
     note: 16:30-20:00，夜滑營業日限定，對象纜車為南區 Alts Express
 snowWeather:
-  title: Necoma Mountain雪況天氣
+  title: 星野渡假村 貓魔滑雪場雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33632/
   snowDepth: 0 cm
@@ -76,8 +76,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 37.602
-  longitude: 140.032
+  latitude: 37.62731695570116
+  longitude: 140.0379609067464
 elevation:
   top: 1338
   bottom: 700
@@ -88,7 +88,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://www.nekoma.co.jp/liftguide/
-  summary: Necoma Mountain 是舊 Alts 磐梯與舊貓魔以連結纜車整合後的大型雪場，官方列出全 33 條雪道，包含南北雙區、夜滑、雪上公園、樹林滑行與粉雪區域。
+  summary: 星野渡假村 貓魔滑雪場 是舊 Alts 磐梯與舊貓魔以連結纜車整合後的大型雪場，官方列出全 33 條雪道，包含南北雙區、夜滑、雪上公園、樹林滑行與粉雪區域。
   details:
   - name: フレンドリーゲレンデ / Friendly
     difficulty: beginner
@@ -239,7 +239,7 @@ access:
   - label: 東京出發
     steps:
     - 東京站搭乘東北新幹線至郡山站。
-    - 從郡山站轉乘官方接駁巴士、路線巴士或租車前往 Necoma Mountain。
+    - 從郡山站轉乘官方接駁巴士、路線巴士或租車前往星野渡假村 貓魔滑雪場。
     estimatedTime: 約 3-4 小時
     difficulty: medium
     note: 公開資料列出郡山站至雪場接駁約 70 分鐘；接駁需以官方當季資訊為準。依接駁與轉乘方式而定。
@@ -281,8 +281,8 @@ externalContent:
     url: "https://www.youtube.com/watch?v=5nyQXed1EN4"
     note: "Who’s TV / by Fumika Hoshino"
 externalGuide:
-  title: Necoma Mountain，33 條雪道的東北粉雪實驗場
+  title: 星野渡假村 貓魔滑雪場，33 條雪道的東北粉雪實驗場
   url: https://www.japowdb.com/zh-tw/resorts/nekoma/
 ---
 
-Necoma Mountain 位於福島縣磐梯雪區，南北面向帶來的雪況差異讓同一天行程能排出完全不同的滑感。你可以先在主雪道巡航，再把 park、林間感或積雪後的變化段落接進後半天。
+星野渡假村 貓魔滑雪場 位於福島縣磐梯雪區，南北面向帶來的雪況差異讓同一天行程能排出完全不同的滑感。你可以先在主雪道巡航，再把 park、林間感或積雪後的變化段落接進後半天。

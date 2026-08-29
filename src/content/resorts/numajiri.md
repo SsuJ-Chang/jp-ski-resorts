@@ -1,7 +1,7 @@
 ---
 id: "numajiri"
 name:
-  zhTw: "沼尻"
+  zhTw: "Numajiri Ski"
   ja: "沼尻スキー場"
   en: "Numajiri Ski Area"
 region: "tohoku"
@@ -21,13 +21,13 @@ links:
   instagram: "https://www.instagram.com/sns.numajiri/"
   xTwitter: "https://twitter.com/numajiri_office"
   weather: "https://weathernews.jp/ski/spot/33617/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=37.622985,140.227363"
+  googleMaps: https://maps.app.goo.gl/m6Y5GpUhHYp1LVAf9
   access: "https://www.numajiri-ski.jp"
 contact:
   address:
     zhTw: "日本福島縣耶麻郡豬苗代町大字蚕養字沼尻山甲2855-434"
     ja: "〒969-2752 福島県耶麻郡猪苗代町大字蚕養字沼尻山甲2855-434"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=37.622985,140.227363"
+    googleMaps: https://maps.app.goo.gl/m6Y5GpUhHYp1LVAf9
   phone: "0242-67-1250"
 season:
   label: "2025-2026"
@@ -36,7 +36,7 @@ season:
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/33617/"
 snowWeather:
-  title: "沼尻 積雪與天氣"
+  title: "Numajiri Ski 積雪與天氣"
   provider: "Weathernews"
   url: "https://weathernews.jp/ski/spot/33617/"
   snowDepth: 0 cm
@@ -44,8 +44,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 37.622985
-  longitude: 140.227363
+  latitude: 37.62268757924815
+  longitude: 140.22800136572465
 elevation:
   top: 1220
   bottom: 850
@@ -56,7 +56,7 @@ courses:
   intermediateRatio: 45
   advancedRatio: 10
   courseInfoPage: "https://weathernews.jp/ski/spot/33617/"
-  summary: "沼尻共有 7 條雪道，難度比例約初級 45%、中級 45%、進階 10%，適合依雪況與同行者程度安排滑行路線。"
+  summary: "Numajiri Ski 共有 7 條雪道，難度比例約初級 45%、中級 45%、進階 10%，適合依雪況與同行者程度安排滑行路線。"
   details:
     - name: "初級路線 1"
       difficulty: beginner
@@ -102,4 +102,4 @@ externalContent:
   vlogs: []
 ---
 
-沼尻在福島縣提供7 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。
+Numajiri Ski 在福島縣提供7 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

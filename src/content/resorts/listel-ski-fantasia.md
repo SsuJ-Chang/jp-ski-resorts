@@ -1,7 +1,7 @@
 ---
 id: "listel-ski-fantasia"
 name:
-  zhTw: "Listel Ski Fantasia"
+  zhTw: "利時達豬苗代"
   ja: "リステルスキーファンタジア"
   en: "Listel Ski Fantasia"
 region: "tohoku"
@@ -19,13 +19,13 @@ visibility:
 links:
   official: "http://www.listel-inawashiro.jp/snow_season/"
   weather: "https://weathernews.jp/ski/spot/33606/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=37.543187,140.149602"
+  googleMaps: https://maps.app.goo.gl/MEnq34gEr6ghMBDGA
   access: "http://www.listel-inawashiro.jp/snow_season/"
 contact:
   address:
     zhTw: "日本福島縣耶麻郡豬苗代町大字川桁リステルパーク"
     ja: "〒969-2696 福島県耶麻郡猪苗代町大字川桁リステルパーク"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=37.543187,140.149602"
+    googleMaps: https://maps.app.goo.gl/MEnq34gEr6ghMBDGA
   phone: "0242-66-4111"
 season:
   label: "2025-2026"
@@ -34,7 +34,7 @@ season:
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/33606/"
 snowWeather:
-  title: "Listel Ski Fantasia 積雪與天氣"
+  title: "利時達豬苗代積雪與天氣"
   provider: "Weathernews"
   url: "https://weathernews.jp/ski/spot/33606/"
   snowDepth: 0 cm
@@ -54,7 +54,7 @@ courses:
   intermediateRatio: 20
   advancedRatio: 40
   courseInfoPage: "https://weathernews.jp/ski/spot/33606/"
-  summary: "Listel Ski Fantasia共有 6 條雪道，難度比例約初級 40%、中級 20%、進階 40%，適合依雪況與同行者程度安排滑行路線。"
+  summary: "利時達豬苗代共有 6 條雪道，難度比例約初級 40%、中級 20%、進階 40%，適合依雪況與同行者程度安排滑行路線。"
   details:
     - name: "初級路線 1"
       difficulty: beginner
@@ -97,4 +97,4 @@ externalContent:
   vlogs: []
 ---
 
-Listel Ski Fantasia位於福島縣，是中小型雪場，共有6 條雪道，搭配 3 座纜車。上級路線比例明顯，坡面變化較多，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、親子同行。
+利時達豬苗代位於福島縣，是中小型雪場，共有6 條雪道，搭配 3 座纜車。上級路線比例明顯，坡面變化較多，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、親子同行。

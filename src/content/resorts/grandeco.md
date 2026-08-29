@@ -23,12 +23,12 @@ links:
   ticket: https://resort.en-hotel.com/grandeco/snow/ja/
   access: https://resort.en-hotel.com/grandeco/snow/ja/
   weather: https://weathernews.jp/ski/spot/33609/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Grandeco%20Snow%20Resort
+  googleMaps: https://maps.app.goo.gl/w6T1iuQBPbUjR9c38
 contact:
   address:
     zhTw: 福島縣耶麻郡北鹽原村檜原荒砂澤山 1082-93
     ja: 〒969-2701 福島県耶麻郡北塩原村檜原荒砂沢山1082-93
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Grandeco%20Snow%20Resort
+    googleMaps: https://maps.app.goo.gl/w6T1iuQBPbUjR9c38
   phone: 0241-32-2530
 season:
   label: 2025-2026
@@ -75,8 +75,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 37.688
-  longitude: 140.085
+  latitude: 37.69565452002523
+  longitude: 140.13268580674645
 elevation:
   top: 1590
   bottom: 1010

@@ -37,7 +37,7 @@ export const bandaisanMap = {
     },
     {
       id: 'necoma-mountain',
-      label: 'Necoma Mountain',
+      label: '星野渡假村 貓魔滑雪場',
       kind: 'resort',
       resortId: 'necoma-mountain',
       location: { latitude: 37.602, longitude: 140.032 },
@@ -53,7 +53,7 @@ export const bandaisanMap = {
     },
     {
       id: 'listel-ski-fantasia',
-      label: 'Listel',
+      label:'利時達豬苗代',
       kind: 'resort',
       resortId: 'listel-ski-fantasia',
       location: { latitude: 37.543187, longitude: 140.149602 },
@@ -69,7 +69,7 @@ export const bandaisanMap = {
     },
     {
       id: 'urabandai-ski-area',
-      label: 'Urabandai',
+      label: '裏磐梯',
       kind: 'resort',
       resortId: 'urabandai',
       location: { latitude: 37.632043, longitude: 140.067616 },
@@ -77,7 +77,7 @@ export const bandaisanMap = {
     },
     {
       id: 'numajiri',
-      label: '沼尻',
+      label: 'Numajiri Ski',
       kind: 'resort',
       resortId: 'numajiri',
       location: { latitude: 37.622985, longitude: 140.227363 },
