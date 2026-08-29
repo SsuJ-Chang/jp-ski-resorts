@@ -4,6 +4,11 @@ import BackToTopButton from '../components/BackToTopButton.astro'
 import HeaderSearch from '../components/HeaderSearch.astro'
 import GoogleAnalytics from '../components/GoogleAnalytics.astro'
 import { withBasePath } from '../utils/paths'
+import { isPopularResortsEnabled } from '../data/popularResorts'
+import { popularResorts } from '../data/popularResorts'
+import { regions } from '../data/regions'
+import { getPublishedResorts } from '../utils/resortCatalog'
+import PopularResortsModal from '../components/PopularResortsModal.astro'
 
 type Props = {
   title: string
@@ -35,6 +40,21 @@ const canonicalUrl = new URL(canonicalPath ?? Astro.url.pathname, siteUrl).toStr
 const siteName = '日本滑雪場指南'
 const socialImageUrl = new URL(withBasePath('/images/og-image.png'), siteUrl).toString()
 const socialImageAlt = '日本滑雪場指南'
+const publishedResorts = isPopularResortsEnabled ? await getPublishedResorts() : []
+const popularResortItems = popularResorts.resorts
+  .map((entry) => {
+    const resort = publishedResorts.find((item) => item.id === entry.id)
+    if (!resort) return null
+
+    return {
+      ...entry,
+      name: resort.data.name.zhTw,
+      region: regions.find((region) => region.key === resort.data.region)?.name.zhTw ?? resort.data.region,
+    }
+  })
+  .filter((item): item is NonNullable<typeof item> => item !== null)
+const showPopularResorts = isPopularResortsEnabled && popularResortItems.length === popularResorts.resorts.length
+const isHomePage = Astro.url.pathname === withBasePath('/')
 ---
 
 <!doctype html>
@@ -91,11 +111,24 @@ const socialImageAlt = '日本滑雪場指南'
           <a href={withBasePath('/')}>首頁</a>
           <a href={resortListPath}>滑雪場</a>
           <a href={withBasePath('/ski-areas/')}>雪場區域</a>
+          {isPopularResortsEnabled && (
+            <button class="site-header__popular-trigger" type="button" data-popular-open>熱門排行</button>
+          )}
         </nav>
         {showHeaderSearch && <HeaderSearch resortsUrl={resortListPath} />}
       </div>
     </header>
     <slot />
+    {showPopularResorts && (
+      <PopularResortsModal
+        title={popularResorts.title}
+        description={popularResorts.description}
+        period={popularResorts.period}
+        version={popularResorts.version}
+        autoShow={isHomePage}
+        resorts={popularResortItems}
+      />
+    )}
     <footer class="site-footer">
       <div class="site-footer__inner">
         <p class="site-footer__copyright">

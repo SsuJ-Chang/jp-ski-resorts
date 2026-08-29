@@ -1,0 +1,94 @@
+---
+import { withBasePath } from '../utils/paths'
+
+type PopularResort = {
+  id: string
+  name: string
+  region: string
+  data: string
+  note?: string
+}
+
+type Props = {
+  title: string
+  description: string
+  period: string
+  version: string
+  autoShow?: boolean
+  resorts: PopularResort[]
+}
+
+const { title, description, period, version, autoShow = false, resorts } = Astro.props
+---
+
+<div class="popular-resorts" data-popular-resorts data-popular-version={version} data-popular-auto={autoShow} hidden>
+  <button class="popular-resorts__backdrop" type="button" data-popular-close aria-label="關閉熱門雪場排行"></button>
+  <section
+    class:list={["popular-resorts__dialog", { "popular-resorts__dialog--scrollable": resorts.length > 10 }]}
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="popular-resorts-title"
+  >
+    <button class="popular-resorts__close" type="button" data-popular-close aria-label="關閉熱門雪場排行">
+      <span aria-hidden="true">×</span>
+    </button>
+    <div class="popular-resorts__heading">
+      <h2 id="popular-resorts-title">{title}</h2>
+      <p class="popular-resorts__period">資料期間：{period}</p>
+      <p class="popular-resorts__description">{description}</p>
+    </div>
+    <div class="popular-resorts__list">
+      {resorts.map((resort, index) => (
+        <a class:list={["popular-resort", `popular-resort--rank-${index + 1}`]} href={withBasePath(`/resorts/${resort.id}/`)} data-popular-resort={resort.id}>
+          <span class="popular-resort__rank">{index + 1}</span>
+          <span class="popular-resort__body">
+            <span class="popular-resort__name">{resort.name}</span>
+            <span class="popular-resort__meta">{resort.region}{resort.note ? `・${resort.note}` : ''}</span>
+          </span>
+          <span class="popular-resort__data">{resort.data}%</span>
+        </a>
+      ))}
+    </div>
+  </section>
+</div>
+
+<script>
+  const initPopularResorts = () => {
+    const modal = document.querySelector<HTMLElement>('[data-popular-resorts]')
+    const trigger = document.querySelector<HTMLElement>('[data-popular-open]')
+    if (!modal || !trigger) return
+
+    const version = modal.dataset.popularVersion
+    const storageKey = version ? `popular-resorts-seen-${version}` : ''
+    const closeButtons = modal.querySelectorAll<HTMLElement>('[data-popular-close]')
+    const firstFocusable = modal.querySelector<HTMLElement>('.popular-resorts__close')
+    const close = () => {
+      modal.hidden = true
+      document.body.classList.remove('popular-resorts-open')
+      if (storageKey) sessionStorage.setItem(storageKey, 'true')
+      trigger.focus()
+    }
+    const open = () => {
+      modal.hidden = false
+      document.body.classList.add('popular-resorts-open')
+      firstFocusable?.focus()
+    }
+
+    closeButtons.forEach((button) => button.addEventListener('click', close))
+    trigger.addEventListener('click', open)
+    modal.querySelectorAll<HTMLAnchorElement>('[data-popular-resort]').forEach((link) => link.addEventListener('click', close))
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape' && !modal.hidden) close()
+    })
+
+    if (modal.dataset.popularAuto === 'true' && (!storageKey || !sessionStorage.getItem(storageKey))) {
+      window.setTimeout(open, 800)
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initPopularResorts, { once: true })
+  } else {
+    initPopularResorts()
+  }
+</script>

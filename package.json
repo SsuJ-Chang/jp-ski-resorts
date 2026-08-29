@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro check && astro build",
-    "check": "npm run build && npm run seo:audit",
+    "check": "npm run validate:popular-resorts && npm run build && npm run seo:audit",
+    "validate:popular-resorts": "node scripts/validate-popular-resorts.mjs",
     "seo:audit": "node scripts/seo-audit.mjs",
     "preview": "astro preview",
     "astro": "astro"

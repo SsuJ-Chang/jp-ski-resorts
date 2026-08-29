@@ -73,6 +73,282 @@ a:visited {
   align-items: center;
 }
 
+.site-header__popular-trigger {
+  border: 0;
+  padding: 10px 12px;
+  background: transparent;
+  font: inherit;
+  cursor: pointer;
+}
+
+.site-header__popular-trigger:focus,
+.site-header__popular-trigger:focus-visible,
+.popular-resorts__close:focus,
+.popular-resorts__close:focus-visible {
+  outline: none;
+}
+
+body.popular-resorts-open {
+  overflow: hidden;
+}
+
+.popular-resorts[hidden] {
+  display: none;
+}
+
+.popular-resorts {
+  position: fixed;
+  inset: 0;
+  z-index: 30;
+  display: grid;
+  place-items: center;
+  padding: 24px 16px;
+}
+
+.popular-resorts__backdrop {
+  position: absolute;
+  inset: 0;
+  border: 0;
+  background: rgba(23, 33, 31, 0.72);
+  cursor: pointer;
+}
+
+.popular-resorts__dialog {
+  position: relative;
+  width: min(560px, 100%);
+  max-height: min(760px, calc(100svh - 48px));
+  overflow-y: hidden;
+  border: 1px solid rgba(23, 33, 31, 0.14);
+  border-radius: 10px;
+  padding: 24px 28px 32px;
+  background: #f7f8f3;
+  box-shadow: 0 24px 80px rgba(8, 21, 18, 0.28);
+  color: #17211f;
+  animation: popular-resorts-enter 260ms ease-out both;
+}
+
+.popular-resorts__dialog--scrollable {
+  overflow-y: scroll;
+  scrollbar-color: rgba(23, 33, 31, 0.28) transparent;
+  scrollbar-width: thin;
+}
+
+.popular-resorts__dialog::-webkit-scrollbar {
+  width: 7px;
+}
+
+.popular-resorts__dialog::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.popular-resorts__dialog::-webkit-scrollbar-thumb {
+  border: 2px solid #f7f8f3;
+  border-radius: 99px;
+  background: rgba(23, 33, 31, 0.28);
+}
+
+.popular-resorts__dialog::-webkit-scrollbar-button {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+.popular-resorts__dialog::-webkit-scrollbar-button:single-button,
+.popular-resorts__dialog::-webkit-scrollbar-button:vertical:decrement,
+.popular-resorts__dialog::-webkit-scrollbar-button:vertical:increment,
+.popular-resorts__dialog::-webkit-scrollbar-button:vertical:start:decrement,
+.popular-resorts__dialog::-webkit-scrollbar-button:vertical:end:increment {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+.popular-resorts__close {
+  position: absolute;
+  top: 15px;
+  right: 17px;
+  display: grid;
+  width: 36px;
+  height: 36px;
+  place-items: center;
+  border: 1px solid rgba(23, 33, 31, 0.16);
+  border-radius: 50%;
+  background: transparent;
+  color: #17211f;
+  font-size: 25px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.popular-resorts__close:hover,
+.popular-resorts__close:focus-visible {
+  border-color: #c58b46;
+  background: #f0e5d3;
+}
+
+.popular-resorts__heading {
+  padding-right: 48px;
+}
+
+.popular-resorts__heading h2 {
+  margin: 0;
+  font-size: clamp(1.65rem, 4vw, 2.2rem);
+  letter-spacing: -0.04em;
+}
+
+.popular-resorts__period {
+  margin: 3px 0 0;
+  line-height: 1.1;
+  color: #84918b;
+  font-size: 0.75rem;
+  text-align: left;
+}
+
+.popular-resorts__description {
+  margin: 8px 0 12px;
+  color: #60706a;
+  font-size: 0.9rem;
+}
+
+.popular-resorts__list {
+  display: grid;
+  gap: 4px;
+}
+
+.popular-resort {
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr) auto;
+  gap: 14px;
+  align-items: center;
+  border: 0;
+  border-bottom: 1px solid rgba(23, 33, 31, 0.12);
+  padding: 6px 4px 5px;
+  background: transparent;
+  text-decoration: none;
+  transition: padding-left 160ms ease, background 160ms ease;
+}
+
+.popular-resort:hover,
+.popular-resort:focus-visible {
+  padding-left: 10px;
+  background: rgba(224, 232, 225, 0.56);
+}
+
+.popular-resort__rank {
+  width: 42px;
+  text-align: right;
+  color: #71817a;
+  font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+  font-size: 1.2rem;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+
+.popular-resort__body {
+  min-width: 0;
+}
+
+.popular-resort__name,
+.popular-resort__meta {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.popular-resort__name {
+  font-weight: 850;
+}
+
+.popular-resort__meta {
+  margin-top: 2px;
+  color: #687872;
+  font-size: 0.78rem;
+}
+
+.popular-resort__data {
+  align-self: center;
+  color: #56665f;
+  font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+  font-size: 1.15rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.popular-resort--rank-1 {
+  border-color: rgba(196, 111, 37, 0.62);
+  background: linear-gradient(90deg, rgba(235, 185, 112, 0.2), transparent 72%);
+}
+
+.popular-resort--rank-1 .popular-resort__rank,
+.popular-resort--rank-1 .popular-resort__name,
+.popular-resort--rank-1 .popular-resort__data {
+  color: #b45f1d;
+}
+
+.popular-resort--rank-1 .popular-resort__rank { font-size: 1.5rem; }
+.popular-resort--rank-1 .popular-resort__name { font-size: 1.08rem; }
+.popular-resort--rank-1 .popular-resort__data { font-size: 1.38rem; }
+
+.popular-resort--rank-2 {
+  border-color: rgba(55, 126, 160, 0.5);
+  background: linear-gradient(90deg, rgba(126, 184, 210, 0.16), transparent 72%);
+}
+
+.popular-resort--rank-2 .popular-resort__rank,
+.popular-resort--rank-2 .popular-resort__name,
+.popular-resort--rank-2 .popular-resort__data {
+  color: #397e9f;
+}
+
+.popular-resort--rank-2 .popular-resort__rank { font-size: 1.35rem; }
+.popular-resort--rank-2 .popular-resort__name { font-size: 1.04rem; }
+.popular-resort--rank-2 .popular-resort__data { font-size: 1.28rem; }
+
+.popular-resort--rank-3 {
+  border-color: rgba(63, 137, 119, 0.5);
+  background: linear-gradient(90deg, rgba(128, 183, 163, 0.15), transparent 72%);
+}
+
+.popular-resort--rank-3 .popular-resort__rank,
+.popular-resort--rank-3 .popular-resort__name,
+.popular-resort--rank-3 .popular-resort__data {
+  color: #438d7b;
+}
+
+.popular-resort--rank-3 .popular-resort__rank { font-size: 1.28rem; }
+.popular-resort--rank-3 .popular-resort__name { font-size: 1.02rem; }
+.popular-resort--rank-3 .popular-resort__data { font-size: 1.22rem; }
+
+@keyframes popular-resorts-enter {
+  from { opacity: 0; transform: translateY(12px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+@media (max-width: 640px) {
+  .site-header__nav { gap: 5px; }
+  .site-header__popular-trigger { font-size: 0.82rem; }
+  .popular-resorts { padding: 16px 10px; }
+  .popular-resorts__dialog { max-height: calc(100svh - 32px); border-radius: 10px; padding: 24px 14px 26px; }
+  .popular-resort { grid-template-columns: 44px minmax(0, 1fr) auto; gap: 10px; padding: 6px 2px 5px; }
+  .popular-resort__rank { width: 44px; }
+  .popular-resort__meta { font-size: 0.7rem; }
+  .popular-resort__data { font-size: 1rem; }
+  .popular-resort--rank-1 .popular-resort__rank { font-size: 1.3rem; }
+  .popular-resort--rank-1 .popular-resort__name { font-size: 1.03rem; }
+  .popular-resort--rank-1 .popular-resort__data { font-size: 1.2rem; }
+  .popular-resort--rank-2 .popular-resort__rank { font-size: 1.2rem; }
+  .popular-resort--rank-2 .popular-resort__name { font-size: 1rem; }
+  .popular-resort--rank-2 .popular-resort__data { font-size: 1.12rem; }
+  .popular-resort--rank-3 .popular-resort__rank { font-size: 1.16rem; }
+  .popular-resort--rank-3 .popular-resort__name { font-size: 0.98rem; }
+  .popular-resort--rank-3 .popular-resort__data { font-size: 1.08rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .popular-resorts__dialog, .popular-resort { animation: none; transition: none; }
+}
+
 .site-header__actions {
   display: flex;
   gap: 12px;
@@ -83,15 +359,18 @@ a:visited {
 }
 
 .site-header__nav a,
+.site-header__popular-trigger,
 .text-link {
   color: #334643;
   font-size: 0.95rem;
   font-weight: 700;
+  text-decoration: underline;
   text-decoration-color: rgba(51, 70, 67, 0.3);
   text-underline-offset: 4px;
 }
 
-.site-header__nav a {
+.site-header__nav a,
+.site-header__popular-trigger {
   padding: 10px 12px;
 }
 
@@ -2929,7 +3208,8 @@ h1 {
     gap: 0;
   }
 
-  .site-header__nav a {
+  .site-header__nav a,
+  .site-header__popular-trigger {
     padding: 8px 6px;
     font-size: 0.86rem;
   }
