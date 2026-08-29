@@ -45,7 +45,7 @@ export const madaraoMap = {
     },
     {
       id: 'tangram-ski-circus',
-      label: 'Tangram',
+      label: 'Tangram 滑雪廣場',
       kind: 'resort',
       resortId: 'tangram-ski-circus',
       location: { latitude: 36.853903, longitude: 138.262697 },

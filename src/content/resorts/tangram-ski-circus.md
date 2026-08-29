@@ -1,7 +1,7 @@
 ---
 id: tangram-ski-circus
 name:
-  zhTw: Tangram Ski Circus
+  zhTw: Tangram 滑雪廣場
   ja: タングラムスキーサーカス
   en: Tangram Ski Circus
 region: kanto-koshinetsu
@@ -15,13 +15,13 @@ tags:
 links:
   official: https://www.tangram.jp/ski/
   weather: https://weathernews.jp/ski/spot/35508/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Tangram%20Ski%20Circus
+  googleMaps: https://maps.app.goo.gl/X85n8ApRvfZz5Vo8A
   access: https://www.tangram.jp/
 contact:
   address:
-    zhTw: 〒389-1302 長野縣上水内郡信濃町大字古海3575-8 地図を見る
-    ja: 〒389-1302 長野県上水内郡信濃町大字古海3575-8 地図を見る
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Tangram%20Ski%20Circus
+    zhTw: 〒389-1302 長野縣上水内郡信濃町大字古海3575-8
+    ja: 〒389-1302 長野県上水内郡信濃町大字古海3575-8
+    googleMaps: https://maps.app.goo.gl/X85n8ApRvfZz5Vo8A
   phone: 026-258-3673
 season:
   label: 2025-2026
@@ -31,7 +31,7 @@ season:
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
   source: https://weathernews.jp/ski/spot/35508/
 trailMaps:
-- label: Tangram 雪道圖
+- label: Tangram 滑雪廣場雪道圖
   language: 日本語
   season: 2025-2026
   url: https://www.tangram.jp/ski/ski/images/map/map.jpg
@@ -92,7 +92,7 @@ tickets:
         - 小學生以下：¥1,200
       note: 可不穿雪具搭乘第 5 纜車。
 snowWeather:
-  title: Tangram Ski Circus雪況預報
+  title: Tangram 滑雪廣場雪況預報
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35508/
   snowDepth: 0 cm
@@ -100,8 +100,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 36.853903
-  longitude: 138.262697
+  latitude: 36.85354850583456
+  longitude: 138.2629658134934
 elevation:
   top: 1320
   bottom: 800
@@ -180,4 +180,4 @@ terrainSummary:
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
 ---
 
-Tangram Ski Circus 是結合滑雪、住宿與娛樂的綜合型度假雪場，整雪狀態穩定，從初級到進階玩家都能找到適合路線。雪場內有高速區、技巧集中區與悠閒滑行區等主題區域，兒童區也配置移動走道，整體很適合家人朋友一起停留玩雪。
+Tangram 滑雪廣場是結合滑雪、住宿與娛樂的綜合型度假雪場，整雪狀態穩定，從初級到進階玩家都能找到適合路線。雪場內有高速區、技巧集中區與悠閒滑行區等主題區域，兒童區也配置移動走道，整體很適合家人朋友一起停留玩雪。
