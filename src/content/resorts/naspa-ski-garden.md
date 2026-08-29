@@ -23,12 +23,12 @@ links:
   ticket: https://www.naspa.co.jp/ski/price/
   access: https://www.naspa.co.jp/ski/access/
   weather: https://www.naspa.co.jp/ski/gelande/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=NASPA%20Ski%20Garden
+  googleMaps: https://maps.app.goo.gl/vcTbWNcQbkQhFtuB7
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町湯澤 2117-9
     ja: 〒949-6101 新潟県南魚沼郡湯沢町湯沢2117-9
-    googleMaps: https://www.google.com/maps/search/?api=1&query=NASPA%20Ski%20Garden
+    googleMaps: https://maps.app.goo.gl/vcTbWNcQbkQhFtuB7
   phone: 025-780-6888
 season:
   label: 2025-2026
@@ -60,8 +60,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.92451
-  longitude: 138.80501
+  latitude: 36.92694790326949
+  longitude: 138.80897810674642
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

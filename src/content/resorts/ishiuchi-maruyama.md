@@ -28,12 +28,12 @@ links:
   weather: https://ishiuchi.or.jp/winter/ski/lift-course/
   snowReport: https://ishiuchi.or.jp/winter/ski/lift-course/
   liftStatus: https://ishiuchi.or.jp/winter/ski/lift-course/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Ishiuchi%20Maruyama%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/CV3617srRk29UdET9
 contact:
   address:
     zhTw: 新潟縣南魚沼市石打 1699
     ja: 〒949-6372 新潟県南魚沼市石打1699
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Ishiuchi%20Maruyama%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/CV3617srRk29UdET9
   phone: 025-783-2222
 season:
   label: 2025-2026
@@ -108,8 +108,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.97073
-  longitude: 138.79221
+  latitude: 36.979478928195356
+  longitude: 138.80234496947963
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 2

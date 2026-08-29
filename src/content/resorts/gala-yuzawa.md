@@ -27,12 +27,12 @@ links:
   ticket: https://gala.co.jp/winter/charges/
   access: https://gala.co.jp/winter/access/
   weather: https://weathernews.jp/ski/spot/35430/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=GALA%20Yuzawa%20Snow%20Resort
+  googleMaps: https://maps.app.goo.gl/MMxfPdgES98YL3VL9
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町大字湯澤字茅平 1039-2
     ja: 〒949-6101 新潟県南魚沼郡湯沢町大字湯沢字茅平1039-2
-    googleMaps: https://www.google.com/maps/search/?api=1&query=GALA%20Yuzawa%20Snow%20Resort
+    googleMaps: https://maps.app.goo.gl/MMxfPdgES98YL3VL9
   phone: 050-1807-3243
 season:
   label: 2025-2026
@@ -91,8 +91,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣為靜態展示資料，出發前請確認當季營運公告與最新天氣資訊。
 location:
-  latitude: 36.95
-  longitude: 138.783
+  latitude: 36.95090492732642
+  longitude: 138.79961670859637
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 2

@@ -23,12 +23,12 @@ links:
   ticket: https://www.yuzawakogen.com/winter/tickets/
   access: https://www.yuzawakogen.com/access/
   weather: https://www.yuzawakogen.com/winter/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Yuzawa%20Kogen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/Eb4W34MMfjPbRfhA7
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町湯澤 490
     ja: 〒949-6101 新潟県南魚沼郡湯沢町湯沢490
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Yuzawa%20Kogen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/Eb4W34MMfjPbRfhA7
   phone: 025-784-3326
 season:
   label: 2025-2026
@@ -60,8 +60,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.9347
-  longitude: 138.7899
+  latitude: 36.94039492786586
+  longitude: 138.80389573558216
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 2

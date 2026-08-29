@@ -25,12 +25,12 @@ links:
   trailMapPage: https://www.princehotels.co.jp/ski/naeba/winter/coursemap/
   ticket: https://www.princehotels.co.jp/ski/naeba/winter/lift/
   access: https://www.princehotels.co.jp/ski/naeba/winter/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Naeba%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/2eFoiRG62wtqabh86
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町三國 202
     ja: 〒949-6292 新潟県南魚沼郡湯沢町三国202
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Naeba%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/2eFoiRG62wtqabh86
   phone: 025-789-4117
 season:
   label: 2025-2026
@@ -76,8 +76,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.79391
-  longitude: 138.77102
+  latitude: 36.79550204571513
+  longitude: 138.78621190659032
 elevation:
   top: 1789
   bottom: 889

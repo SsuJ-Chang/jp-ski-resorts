@@ -23,12 +23,12 @@ links:
   ticket: https://iwa-ppara.com/price/
   access: https://iwa-ppara.com/access/
   weather: https://weathernews.jp/ski/spot/35453/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Iwappara%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/gHpyTXkkacTJhz7RA
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町土樽 731-79
     ja: 〒949-6103 新潟県南魚沼郡湯沢町土樽731-79
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Iwappara%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/gHpyTXkkacTJhz7RA
   phone: 025-787-3211
 season:
   label: 2025-2026
@@ -91,8 +91,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.9127
-  longitude: 138.843
+  latitude: 36.93832620611502
+  longitude: 138.84057609325356
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 2

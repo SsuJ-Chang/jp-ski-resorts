@@ -23,12 +23,12 @@ links:
   ticket: https://jkokusai.co.jp/ski/lift/hayawariticket/
   access: https://jkokusai.co.jp/ski/access/
   weather: https://jkokusai.co.jp/ski/gelande/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Joetsu%20Kokusai%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/WTPVTyT2M712jKMQ6
 contact:
   address:
     zhTw: 新潟縣南魚沼市樺野澤 112-1
     ja: 〒949-6431 新潟県南魚沼市樺野沢112-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Joetsu%20Kokusai%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/WTPVTyT2M712jKMQ6
   phone: 025-782-1028
 season:
   label: 2025-2026
@@ -72,8 +72,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 37.03
-  longitude: 138.85
+  latitude: 37.0334531933517
+  longitude: 138.82024625593166
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

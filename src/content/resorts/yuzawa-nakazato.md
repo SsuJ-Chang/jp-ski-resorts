@@ -21,12 +21,12 @@ links:
   ticket: https://www.yuzawa-nakazato.com/winter/fee/
   access: https://www.yuzawa-nakazato.com/winter/access/
   weather: https://www.yuzawa-nakazato.com/winter/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Yuzawa%20Nakazato%20Snow%20Resort
+  googleMaps: https://maps.app.goo.gl/HgHBQ2aBpR592ih19
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町土樽 5044-1
     ja: 〒949-6103 新潟県南魚沼郡湯沢町土樽5044-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Yuzawa%20Nakazato%20Snow%20Resort
+    googleMaps: https://maps.app.goo.gl/HgHBQ2aBpR592ih19
   phone: 025-787-3301
 season:
   label: 2025-2026
@@ -65,8 +65,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.9096
-  longitude: 138.8507
+  latitude: 36.91429700555565
+  longitude: 138.84899997791072
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 2

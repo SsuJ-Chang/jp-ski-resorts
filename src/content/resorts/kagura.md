@@ -25,19 +25,19 @@ links:
   trailMapPage: https://www.princehotels.co.jp/ski/kagura/winter/coursemap/
   ticket: https://www.princehotels.co.jp/ski/kagura/winter/lift/
   access: https://www.princehotels.co.jp/ski/kagura/winter/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Kagura%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/FCzDtaTcFAKNPet79
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町三俣 742
     ja: 〒949-6211 新潟県南魚沼郡湯沢町大字三俣742
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Kagura%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/FCzDtaTcFAKNPet79
   phone: 025-788-9221
 season:
   label: 2025-2026
   operatingPeriod: 2025/11/22-2026/5/17
   hours: 8:00-16:30
   nightSkiingHours: 無夜滑
-  note: かぐら、みつまた、田代三區域構成，營業期間較長、實際開放請以官方公告為準。
+  note: 神樂、三俣、田代三區域構成，營業期間較長、實際開放請以官方公告為準。
   source: https://www.princehotels.co.jp/ski/kagura/winter/lift/
 trailMaps:
 - label: 神樂雪場圖
@@ -71,8 +71,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.7896
-  longitude: 138.7805
+  latitude: 36.86000691539257
+  longitude: 138.72649593558216
 elevation:
   top: 1845
   bottom: 620

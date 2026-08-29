@@ -19,12 +19,12 @@ links:
   ticket: https://www.nakazato-snowwood.com/
   access: https://www.nakazato-snowwood.com/
   weather: https://www.nakazato-snowwood.com/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Nakazato%20Snow%20Wood%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/XqREhKECdq9FETsh8
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町土樽
     ja: 新潟県南魚沼郡湯沢町土樽
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Nakazato%20Snow%20Wood%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/XqREhKECdq9FETsh8
   phone: 025-787-3511
 season:
   label: 2025-2026
@@ -56,8 +56,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.90408
-  longitude: 138.85348
+  latitude: 36.90544236075633
+  longitude: 138.85022859325358
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

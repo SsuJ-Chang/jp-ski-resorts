@@ -21,12 +21,12 @@ links:
   ticket: https://www.park-resort.com/ski/price/
   access: https://www.park-resort.com/ski/access/
   weather: https://www.park-resort.com/ski/gelande/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Yuzawa%20Park%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/6b7KVUkKkoocfmd46
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町土樽 1613
     ja: 〒949-6103 新潟県南魚沼郡湯沢町土樽1613
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Yuzawa%20Park%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/6b7KVUkKkoocfmd46
   phone: 025-787-4111
 season:
   label: 2025-2026
@@ -58,8 +58,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.9268572
-  longitude: 138.8557542
+  latitude: 36.92506443752493
+  longitude: 138.85967363558214
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

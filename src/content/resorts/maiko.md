@@ -26,12 +26,12 @@ links:
   ticket: https://www.maiko-resort.com/winter/price/
   access: https://www.maiko-resort.com/winter/access/
   weather: https://www.maiko-resort.com/winter/gelande/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Maiko%20Snow%20Resort
+  googleMaps: https://maps.app.goo.gl/Fhud7wEZeydm1uBb9
 contact:
   address:
     zhTw: 新潟縣南魚沼市舞子 2056-108
     ja: 〒949-6423 新潟県南魚沼市舞子2056-108
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Maiko%20Snow%20Resort
+    googleMaps: https://maps.app.goo.gl/Fhud7wEZeydm1uBb9
   phone: 025-783-4100
 season:
   label: 2025-2026
@@ -63,8 +63,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.994
-  longitude: 138.783
+  latitude: 36.98299200710466
+  longitude: 138.82492964907502
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

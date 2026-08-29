@@ -19,12 +19,12 @@ links:
   ticket: https://www.ipponsugi.net/
   access: https://www.ipponsugi.net/
   weather: https://www.ipponsugi.net/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Ipponsugi%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/NQL945UUPKuJ4i2i7
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町湯澤
     ja: 新潟県南魚沼郡湯沢町湯沢
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Ipponsugi%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/NQL945UUPKuJ4i2i7
   phone: 025-784-4440
 season:
   label: 2025-2026
@@ -56,8 +56,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.94
-  longitude: 138.806
+  latitude: 36.936572906930664
+  longitude: 138.80666573558213
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

@@ -18,12 +18,12 @@ links:
   trailMapPage: https://www.kandatsu.com/course-guide/
   ticket: https://www.kandatsu.com/price/
   access: https://www.kandatsu.com/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Kandatsu%20Snow%20Resort
+  googleMaps: https://maps.app.goo.gl/YcFqwn2neQoZSXvm9
 contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町神立 4121-2
     ja: 〒949-6102 新潟県南魚沼郡湯沢町神立4121-2
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Kandatsu%20Snow%20Resort
+    googleMaps: https://maps.app.goo.gl/YcFqwn2neQoZSXvm9
   phone: 025-788-0111
 season:
   label: 2025-2026
@@ -67,8 +67,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.9091
-  longitude: 138.818
+  latitude: 36.91125445484221
+  longitude: 138.81279750674645
 elevation:
   top: 1000
   bottom: 460
