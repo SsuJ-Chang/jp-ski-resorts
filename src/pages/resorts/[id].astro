@@ -31,7 +31,7 @@ const hasExternalContent =
   (resort.data.externalContent?.vlogs?.length ?? 0) > 0
 const hasLodgingRecommendations = (resort.data.lodgingRecommendations?.length ?? 0) > 0
 const nearbyLodgingUrl = resort.data.location
-  ? `https://www.google.com/maps/search/lodging/@${resort.data.location.latitude},${resort.data.location.longitude},14z`
+  ? `https://www.google.com/maps/search/lodging/@${resort.data.location.latitude},${resort.data.location.longitude},12z`
   : undefined
 const hasRjOpinion = Boolean(resort.data.rjOpinion?.trim())
 const externalGuide = resort.data.externalGuide
