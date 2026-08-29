@@ -24,12 +24,12 @@ links:
   access: https://www.niseko.ne.jp/en/niseko-access/
   weather: https://weathernews.jp/ski/spot/31605/
   liftStatus: https://www.niseko.ne.jp/en/niseko-lift-status/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20Village%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/HgXo1fKb9xnzCtaC7
 contact:
   address:
     zhTw: 日本北海道虻田郡二世谷町東山溫泉
     ja: 〒048-1592 北海道虻田郡ニセコ町東山温泉
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20Village%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/HgXo1fKb9xnzCtaC7
   phone: 0136-44-2211
 season:
   label: 2026-2027
@@ -87,15 +87,15 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 42.8457
-  longitude: 140.6693
+  latitude: 42.84693070345555
+  longitude: 140.68449982578917
 courses:
   beginnerRatio: 17
   intermediateRatio: 38
   advancedRatio: 45
   total: 29
   courseInfoPage: https://www.niseko.ne.jp/en/map/village/
-  summary: Niseko Village 位於 Annupuri 與 Grand Hirafu 之間，官方列出 29 條主要雪道，包含飯店側緩坡、長距離巡航線與多條樹林、非壓雪或高難度路線。
+  summary: Niseko Village 位於 Annupuri 與格蘭比羅夫之間，官方列出 29 條主要雪道，包含飯店側緩坡、長距離巡航線與多條樹林、非壓雪或高難度路線。
   details:
   - name: Cruiser
     difficulty: beginner
@@ -268,7 +268,7 @@ terrainSummary:
   beginner: 飯店側有 Cruiser、Banzai、Shakey Knees 與 Final Fling 等緩坡動線。
   intermediate: Dabesa、Junkyard、Namara 等中級線可銜接村落與山腰。
   advanced: Wonderland、Superstition、Misoshiru 與多條地圖黑線構成高難度與非壓雪特色。
-  snowboard: 區域連接 Annupuri 與 Grand Hirafu，平緩連絡段需留意速度維持。
+  snowboard: 區域連接 Annupuri 與格蘭比羅夫，平緩連絡段需留意速度維持。
   powder: 多條官方未列完整坡度的路線在全山地圖上屬高難度，開放與雪況需看即時公告。
 externalContent:
   blogs: []

@@ -24,12 +24,12 @@ links:
   access: https://www.niseko.ne.jp/en/niseko-access/
   weather: https://weathernews.jp/ski/spot/31603/
   liftStatus: https://www.niseko.ne.jp/en/niseko-lift-status/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20Annupuri%20International%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/dn7X5KtKuUYoXyFm6
 contact:
   address:
     zhTw: 日本北海道虻田郡二世谷町字二世谷 485
     ja: 〒048-1511 北海道虻田郡ニセコ町字ニセコ485
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20Annupuri%20International%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/dn7X5KtKuUYoXyFm6
   phone: 0136-58-2080
 season:
   label: 2026-2027

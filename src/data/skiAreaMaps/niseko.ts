@@ -41,7 +41,7 @@ export const nisekoMap = {
     },
     {
       id: 'niseko-grand-hirafu',
-      label: 'Grand Hirafu',
+      label: '格蘭比羅夫',
       kind: 'resort',
       resortId: 'niseko-grand-hirafu',
       nudge: { x: 1, y: 0 },

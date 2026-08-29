@@ -7,7 +7,7 @@ region: "hokkaido"
 prefecture: "北海道"
 baseTown: "倶知安 / Niseko"
 accessHub: "倶知安站 / Niseko 站 / Niseko United Shuttle Bus"
-summary: "北海道代表性的聯合雪場區域，由 Annupuri、Niseko Village、Grand Hirafu、HANAZONO 四個主要雪場組成，以粉雪、全山共通券、夜滑與國際化住宿圈聞名。"
+summary: "北海道代表性的聯合雪場區域，由 Annupuri、Niseko Village、新雪谷格蘭比羅夫、HANAZONO 四個主要雪場組成，以粉雪、全山共通券、夜滑與國際化住宿圈聞名。"
 traits:
   - "粉雪"
   - "全山共通券"

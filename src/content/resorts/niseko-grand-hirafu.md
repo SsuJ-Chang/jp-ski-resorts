@@ -1,7 +1,7 @@
 ---
 id: niseko-grand-hirafu
 name:
-  zhTw: 二世谷 Grand Hirafu
+  zhTw: 二世谷格蘭比羅夫
   ja: ニセコ東急 グラン・ヒラフ
   en: Niseko Tokyu Grand HIRAFU
 region: hokkaido
@@ -24,12 +24,12 @@ links:
   access: https://www.niseko.ne.jp/en/niseko-access/
   weather: https://weathernews.jp/ski/spot/31605/
   liftStatus: https://www.niseko.ne.jp/en/niseko-lift-status/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20Tokyu%20Grand%20HIRAFU
+  googleMaps: https://maps.app.goo.gl/5VL3MPUEhUWrajTM6
 contact:
   address:
     zhTw: 日本北海道虻田郡倶知安町二世谷 Hirafu 1 條 2 丁目 9-1
     ja: 〒044-0080 北海道虻田郡倶知安町ニセコひらふ1条2丁目9-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20Tokyu%20Grand%20HIRAFU
+    googleMaps: https://maps.app.goo.gl/5VL3MPUEhUWrajTM6
   phone: 0136-22-0109
 season:
   label: 2026-2027
@@ -79,7 +79,7 @@ tickets:
     - 65 歲以上 ¥5,400
     note: 2027/4/5-5/5
 snowWeather:
-  title: 二世谷 Grand Hirafu 雪況天氣
+  title: 格蘭比羅夫雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31605/
   snowDepth: 0 cm
@@ -87,15 +87,15 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 42.8624
-  longitude: 140.7034
+  latitude: 42.861780727367844
+  longitude: 140.69823653558217
 courses:
   beginnerRatio: 48
   intermediateRatio: 19
   advancedRatio: 33
   total: 21
   courseInfoPage: https://www.niseko.ne.jp/en/map/grand-hirafu/
-  summary: Grand Hirafu 是 Niseko United 核心大型區域，官方列出 21 條主要雪道，包含 Family、Holiday、Kogen 等初級線，也有 Super、Konayuki、Onsenzawa 等高難度路線。
+  summary: 格蘭比羅夫是 Niseko United 核心大型區域，官方列出 21 條主要雪道，包含 Family、Holiday、Kogen 等初級線，也有 Super、Konayuki、Onsenzawa 等高難度路線。
   details:
   - name: Shirakaba
     difficulty: beginner
@@ -230,10 +230,10 @@ access:
     - label: 札幌站／札幌市區直達巴士
       steps:
         - 札幌站北口或真駒內站搭乘前往二世谷的季節性直達巴士。
-        - 在 Hirafu 下車，步行或轉乘住宿接駁前往 Grand Hirafu。
+        - 在 Hirafu 下車，步行或轉乘住宿接駁前往格蘭比羅夫。
       estimatedTime: 約 3 小時
       difficulty: medium
-      note: 直達巴士為季節性服務，需依營運公司規定預約；官方時刻表顯示抵達 Hirafu 約 3 小時。
+      note: 直達巴士為季節性服務，需依營運公司規定預約；官方時刻表顯示抵達格蘭比羅夫 約 3 小時。
       links:
         - label: Niseko United 官方交通資訊
           url: https://www.niseko.ne.jp/en/niseko-access/
@@ -241,7 +241,7 @@ access:
     - label: 新千歲機場直達巴士
       steps:
         - 新千歲機場搭乘前往二世谷的季節性直達巴士。
-        - 在 Hirafu 下車，步行或轉乘住宿接駁前往 Grand Hirafu。
+        - 在 Hirafu 下車，步行或轉乘住宿接駁前往格蘭比羅夫。
       estimatedTime: 約 3.5 小時
       difficulty: medium
       note: Niseko United 官方時刻表以 Hirafu 為下車點；班次與營運期間依雪季調整。
@@ -252,7 +252,7 @@ access:
     - label: 新千歲機場／倶知安站轉乘
       steps:
         - 抵達新千歲機場後，搭乘機場巴士或電車前往倶知安站。
-        - 從倶知安站轉乘巴士前往 Grand Hirafu。
+        - 從倶知安站轉乘巴士前往格蘭比羅夫。
       estimatedTime: 倶知安站後約 20 分
       difficulty: medium
       note: Japan Ski Guide 列出的新千歲機場至倶知安站約 2 小時 25 分，未包含候車時間。
@@ -291,4 +291,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/niseko-united/
 ---
 
-二世谷 Grand Hirafu 是二世谷地區具代表性的大型雪場，以高品質粉雪與寬廣規模聞名。區內從初學者到進階玩家都能享受雪上運動，從山頂到山麓的落差帶來爽快長距離滑行，也能在粉雪中感受北海道度假滑雪的特色。
+二世谷格蘭比羅夫是二世谷地區具代表性的大型雪場，以高品質粉雪與寬廣規模聞名。區內從初學者到進階玩家都能享受雪上運動，從山頂到山麓的落差帶來爽快長距離滑行，也能在粉雪中感受北海道度假滑雪的特色。

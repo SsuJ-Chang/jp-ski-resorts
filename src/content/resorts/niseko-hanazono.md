@@ -25,12 +25,12 @@ links:
   access: https://www.niseko.ne.jp/en/niseko-access/
   weather: https://weathernews.jp/ski/spot/31618/
   liftStatus: https://www.niseko.ne.jp/en/niseko-lift-status/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20Hanazono%20Resort
+  googleMaps: https://maps.app.goo.gl/jPRfJKNS8fy8vfV89
 contact:
   address:
     zhTw: 日本北海道虻田郡倶知安町字岩尾別 328-36
     ja: 〒044-0082 北海道虻田郡倶知安町字岩尾別328-36
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Niseko%20Hanazono%20Resort
+    googleMaps: https://maps.app.goo.gl/jPRfJKNS8fy8vfV89
   phone: 0136-23-0103
 season:
   label: 2026-2027
@@ -88,8 +88,8 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 42.8892
-  longitude: 140.7202
+  latitude: 42.89325476425831
+  longitude: 140.70018739325357
 courses:
   beginnerRatio: 33
   intermediateRatio: 50
