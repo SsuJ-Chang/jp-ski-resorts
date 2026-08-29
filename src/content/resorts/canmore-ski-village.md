@@ -21,13 +21,13 @@ links:
   instagram: "https://www.instagram.com/canmore_ski/"
   xTwitter: "https://x.com/canmoreski"
   weather: "https://weathernews.jp/ski/spot/31206/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.730081,142.538437"
+  googleMaps: https://maps.app.goo.gl/QqXUKxTmpgW14YhP8
   access: "https://www.canmore-ski.jp"
 contact:
   address:
     zhTw: "日本北海道上川郡東川町西５号北４４番地"
     ja: "〒071-1405 北海道上川郡東川町西５号北４４番地"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.730081,142.538437"
+    googleMaps: https://maps.app.goo.gl/QqXUKxTmpgW14YhP8
   phone: "0166-82-5001"
 season:
   label: "2025-2026"
@@ -44,8 +44,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.730081
-  longitude: 142.538437
+  latitude: 43.7305872873575
+  longitude: 142.538813181817
 elevation:
   top: 456
   bottom: 210

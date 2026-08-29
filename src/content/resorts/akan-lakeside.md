@@ -18,7 +18,7 @@ links:
   facebook: https://www.facebook.com/%E5%9B%BD%E8%A8%AD%E9%98%BF%E5%AF%92%E6%B9%96%E7%95%94%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4%E3%82%A6%E3%82%BF%E3%83%A9-313271622050236/
   instagram: https://www.instagram.com/akan_ski_utara
   xTwitter: https://x.com/Akan_Ski_Utara
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Akan%20Lakeside%20National%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/3VbcqA1RBNsTWCPa7
   weather: https://weathernews.jp/ski/spot/31901/
   ticket: https://weathernews.jp/ski/spot/31901/
   access: https://weathernews.jp/ski/spot/31901/
@@ -26,7 +26,7 @@ contact:
   address:
     zhTw: 日本北海道釧路市阿寒町シュリコマベツ4-4
     ja: 〒085-0000 北海道釧路市阿寒町シュリコマベツ4-4
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Akan%20Lakeside%20National%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/3VbcqA1RBNsTWCPa7
   phone: 0154-67-2881
 season:
   label: 2025-2026
@@ -61,6 +61,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 43.42455648724596
+  longitude: 144.0846254122542
 elevation:
   top: 784
   bottom: 507

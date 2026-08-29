@@ -3,7 +3,7 @@ id: "takino-snow-world"
 name:
   zhTw: "瀧野 Snow World"
   ja: "滝野スノーワールド"
-  en: "Takino Snow World"
+  en: "Takino Snow World Family Ski Resort"
 region: "hokkaido"
 prefecture: "北海道"
 tags:
@@ -19,13 +19,13 @@ links:
   instagram: "https://www.instagram.com/takino.park/"
   xTwitter: "https://x.com/takino_official"
   weather: "https://weathernews.jp/ski/spot/31619/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=42.916898,141.388721"
+  googleMaps: https://maps.app.goo.gl/3LfhuFduvGwmn5kL6
   access: "https://www.takinopark.com/"
 contact:
   address:
     zhTw: "日本北海道札幌市南区瀧野247番地"
     ja: "〒005-0862 北海道札幌市南区滝野247番地"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=42.916898,141.388721"
+    googleMaps: https://maps.app.goo.gl/3LfhuFduvGwmn5kL6
   phone: "011-592-3333"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 42.916898
-  longitude: 141.388721
+  latitude: 42.91688027177573
+  longitude: 141.38860955110104
 elevation:
   top: 280
   bottom: 250

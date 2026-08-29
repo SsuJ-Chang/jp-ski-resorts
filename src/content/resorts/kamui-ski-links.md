@@ -23,12 +23,12 @@ links:
   ticket: https://www.kamui-skilinks.com/guide/
   access: https://www.kamui-skilinks.com/accsess/
   weather: https://weathernews.jp/ski/spot/31203/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Kamui%20Ski%20Links
+  googleMaps: https://maps.app.goo.gl/Z3VDSpSDGPcohXWe6
 contact:
   address:
     zhTw: 北海道旭川市神居町西丘 112
     ja: 〒074-1181 北海道旭川市神居町西丘112
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Kamui%20Ski%20Links
+    googleMaps: https://maps.app.goo.gl/Z3VDSpSDGPcohXWe6
   phone: 0166-72-2311
 season:
   label: 2025-2026
@@ -80,8 +80,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 43.70509882216627
-  longitude: 142.18723074127666
+  latitude: 43.70513375276238
+  longitude: 142.18710199999998
 elevation:
   top: 751
   bottom: 150

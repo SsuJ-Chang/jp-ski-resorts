@@ -1,7 +1,7 @@
 ---
 id: asahikawa-santa-present-park
 name:
-  zhTw: 旭川聖誕禮物公園
+  zhTw: 聖誕禮物公園
   ja: 旭川サンタプレゼントパーク
   en: Asahikawa Santa Present Park
 region: hokkaido
@@ -23,12 +23,12 @@ links:
   liftStatus: https://www.asahikawasantapresentpark.com/cont1/8.html
   ticket: https://www.asahikawasantapresentpark.com/cont1/8.html
   access: https://www.asahikawasantapresentpark.com/map.html
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Asahikawa%20Santa%20Present%20Park
+  googleMaps: https://maps.app.goo.gl/nTmyZhak7GxfiuXk9
 contact:
   address:
     zhTw: 北海道旭川市神居町富岡 555 番地之 2
     ja: 〒070-8025 北海道旭川市神居町富岡555番地の2
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Asahikawa%20Santa%20Present%20Park
+    googleMaps: https://maps.app.goo.gl/nTmyZhak7GxfiuXk9
   phone: 0166-63-3232
 season:
   label: 2025-2026
@@ -76,7 +76,7 @@ tickets:
     - 大人、兒童：¥1,500
     note: 10:00-15:00 可不限次數使用；一般纜車券不可使用 Snow Escalator。
 snowWeather:
-  title: 旭川聖誕禮物公園雪況天氣
+  title: 聖誕禮物公園雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31204/
   snowDepth: 0 cm
@@ -84,8 +84,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣為靜態展示資料，出發前請確認當季營運公告與最新天氣資訊。
 location:
-  latitude: 43.7611
-  longitude: 142.302544
+  latitude: 43.761065153545076
+  longitude: 142.30256261349342
 elevation:
   top: 330
   bottom: 170
@@ -167,4 +167,4 @@ externalContent:
   vlogs: []
 ---
 
-旭川聖誕禮物公園是北海道的中小型雪場，整理為6 條雪道，搭配 4 座纜車。雪道如 センターコース、登山道コース、スパルタコース，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+聖誕禮物公園是北海道的中小型雪場，整理為6 條雪道，搭配 4 座纜車。雪道如 センターコース、登山道コース、スパルタコース，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

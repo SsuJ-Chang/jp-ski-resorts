@@ -15,13 +15,13 @@ visibility:
 links:
   official: "https://www.town.yakumo.lg.jp/soshiki/taiiku/yakumo-ski.html"
   weather: "https://weathernews.jp/ski/spot/32304/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=42.213008,140.236359"
+  googleMaps: https://maps.app.goo.gl/VpQWmDuP6X23RiDbA
   access: "https://www.town.yakumo.lg.jp/soshiki/taiiku/yakumo-ski.html"
 contact:
   address:
     zhTw: "日本北海道二海郡八雲町春日"
     ja: "〒049-3127 北海道二海郡八雲町春日"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=42.213008,140.236359"
+    googleMaps: https://maps.app.goo.gl/VpQWmDuP6X23RiDbA
   phone: "0137-64-3036"
 season:
   label: "2025-2026"
@@ -38,17 +38,17 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 42.213008
-  longitude: 140.236359
+  latitude: 42.213071064179246
+  longitude: 140.2366854971002
 elevation:
   top: 200
   bottom: 120
   verticalDrop: 80
 courses:
   total: 3
-  beginnerRatio: 0
-  intermediateRatio: 0
-  advancedRatio: 0
+  beginnerRatio: 33
+  intermediateRatio: 34
+  advancedRatio: 33
   courseInfoPage: "https://weathernews.jp/ski/spot/32304/"
   summary: "八雲町營共有 3 條雪道，難度比例約初級 0%、中級 0%、進階 0%，適合依雪況與同行者程度安排滑行路線。"
   details:

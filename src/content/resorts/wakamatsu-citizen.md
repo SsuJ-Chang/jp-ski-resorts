@@ -1,8 +1,8 @@
 ---
 id: "wakamatsu-citizen"
 name:
-  zhTw: "若松市民"
-  ja: "若松市民スキー場"
+  zhTw: "北見若松市民"
+  ja: "北見若松市民スキー場"
   en: "Wakamatsu Citizen Ski Area"
 region: "hokkaido"
 prefecture: "北海道"
@@ -17,13 +17,13 @@ visibility:
 links:
   official: "https://weathernews.jp/ski/spot/31706/"
   weather: "https://weathernews.jp/ski/spot/31706/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.755353,143.921216"
+  googleMaps: https://maps.app.goo.gl/9jed8P3QAW9QGdm5A
   access: "https://weathernews.jp/ski/spot/31706/"
 contact:
   address:
     zhTw: "日本北海道北見市若松651番地"
     ja: "〒090-0808 北海道北見市若松651番地"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.755353,143.921216"
+    googleMaps: https://maps.app.goo.gl/9jed8P3QAW9QGdm5A
   phone: "0157-22-2910"
 season:
   label: "2025-2026"
@@ -32,7 +32,7 @@ season:
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/31706/"
 snowWeather:
-  title: "若松市民 積雪與天氣"
+  title: "北見若松市民積雪與天氣"
   provider: "Weathernews"
   url: "https://weathernews.jp/ski/spot/31706/"
   snowDepth: 0 cm
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.755353
-  longitude: 143.921216
+  latitude: 43.75534276104931
+  longitude: 143.92117212599567
 elevation:
   top: 350
   bottom: 70
@@ -52,7 +52,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 50
   courseInfoPage: "https://weathernews.jp/ski/spot/31706/"
-  summary: "若松市民共有 3 條雪道，難度比例約初級 20%、中級 30%、進階 50%，適合依雪況與同行者程度安排滑行路線。"
+  summary: "北見若松市民共有 3 條雪道，難度比例約初級 20%、中級 30%、進階 50%，適合依雪況與同行者程度安排滑行路線。"
   details:
     - name: "初級路線"
       difficulty: beginner
@@ -92,4 +92,4 @@ externalContent:
   vlogs: []
 ---
 
-若松市民位於北海道，共有3 條雪道、1 座纜車，白天可先把主要雪道滑順，晚上再接燈光雪面延長時段。主雪道配置偏向好上手路線，夜滑時段則補足短天數行程的滑行量。若想把練習、夜滑和地方停留排在同一天，這種地方型雪場會比單純趕場更順。
+北見若松市民位於北海道，共有3 條雪道、1 座纜車，白天可先把主要雪道滑順，晚上再接燈光雪面延長時段。主雪道配置偏向好上手路線，夜滑時段則補足短天數行程的滑行量。若想把練習、夜滑和地方停留排在同一天，這種地方型雪場會比單純趕場更順。

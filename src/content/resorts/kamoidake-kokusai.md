@@ -19,13 +19,13 @@ links:
   official: "https://www.kamoidake.co.jp/"
   instagram: "https://www.instagram.com/kamoidake_ski_resort/"
   weather: "https://weathernews.jp/ski/spot/31505/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.520622,142.018892"
+  googleMaps: https://maps.app.goo.gl/yeXpvCtsBtvanCYv6
   access: "https://www.kamoidake.co.jp/"
 contact:
   address:
     zhTw: "日本北海道歌志内市歌神95番地9"
     ja: "〒073-0404 北海道歌志内市歌神95番地9"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.520622,142.018892"
+    googleMaps: https://maps.app.goo.gl/yeXpvCtsBtvanCYv6
   phone: "0125-74-5900"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.520622
-  longitude: 142.018892
+  latitude: 43.520710747281164
+  longitude: 142.01922089899972
 elevation:
   top: 467
   bottom: 216

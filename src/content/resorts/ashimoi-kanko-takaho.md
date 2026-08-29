@@ -1,7 +1,7 @@
 ---
 id: "ashimoi-kanko-takaho"
 name:
-  zhTw: "ASHIMOI KANKO 高穗"
+  zhTw: "Numatacho 高穗"
   ja: "ASHIMOI KANKO 高穂スキー場"
   en: "ASHIMOI KANKO Takaho Ski Area"
 region: "hokkaido"
@@ -16,7 +16,7 @@ visibility:
   status: "published"
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
-  official: "https://weathernews.jp/ski/spot/31301/"
+  official: https://www.town.numata.hokkaido.jp/section/kyouiku/ujj7s30000001mvv.html
   weather: "https://weathernews.jp/ski/spot/31301/"
   googleMaps: "https://www.google.com/maps/search/?api=1&query=43.8187,141.9683"
   access: "https://weathernews.jp/ski/spot/31301/"
@@ -33,7 +33,7 @@ season:
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/31301/"
 snowWeather:
-  title: "ASHIMOI KANKO 高穗 積雪與天氣"
+  title: "Numatacho 高穗積雪與天氣"
   provider: "Weathernews"
   url: "https://weathernews.jp/ski/spot/31301/"
   snowDepth: 0 cm
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.8187
-  longitude: 141.9683
+  latitude: 43.82092528998844
+  longitude: 141.96307261065616
 elevation:
   top: 150
   bottom: 70
@@ -53,7 +53,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 20
   courseInfoPage: "https://weathernews.jp/ski/spot/31301/"
-  summary: "ASHIMOI KANKO 高穗共有 3 條雪道，難度比例約初級 50%、中級 30%、進階 20%，適合依雪況與同行者程度安排滑行路線。"
+  summary: "Numatacho 高穗共有 3 條雪道，難度比例約初級 50%、中級 30%、進階 20%，適合依雪況與同行者程度安排滑行路線。"
   details:
     - name: "初級路線"
       difficulty: beginner
@@ -93,4 +93,4 @@ externalContent:
   vlogs: []
 ---
 
-ASHIMOI KANKO 高穗位在北海道，雪道數為3 條，搭配 1 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。
+Numatacho 高穗位在北海道，雪道數為3 條，搭配 1 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。

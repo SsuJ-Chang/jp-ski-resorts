@@ -15,7 +15,7 @@ visibility:
 links:
   official: https://nakayama-ski.com/
   facebook: https://www.facebook.com/NakayamatougeSnow/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Nakayama%20Pass%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/yVU8fe3FF6afzaf76
   weather: https://weathernews.jp/ski/spot/31606/
   ticket: https://weathernews.jp/ski/spot/31606/
   access: https://weathernews.jp/ski/spot/31606/
@@ -23,7 +23,7 @@ contact:
   address:
     zhTw: 日本北海道虻田郡喜茂別町字川上345
     ja: 〒044-0223 北海道虻田郡喜茂別町字川上345
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Nakayama%20Pass%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/yVU8fe3FF6afzaf76
   phone: 0136-33-3373
 season:
   label: 2025-2026
@@ -60,6 +60,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 42.85069191714935
+  longitude: 141.09482748650655
 elevation:
   top: 980
   bottom: 800

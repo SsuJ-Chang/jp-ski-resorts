@@ -20,13 +20,13 @@ visibility:
 links:
   official: "https://www.nayoro.co.jp/piyashiri/top/"
   weather: "https://weathernews.jp/ski/spot/31207/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=44.404477,142.513361"
+  googleMaps: https://maps.app.goo.gl/7VsDBkRRbBML9nHw5
   access: "https://www.nayoro.co.jp/piyashiri/top/"
 contact:
   address:
     zhTw: "日本北海道名寄市字日進"
     ja: "〒096-0066 北海道名寄市字日進"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=44.404477,142.513361"
+    googleMaps: https://maps.app.goo.gl/7VsDBkRRbBML9nHw5
   phone: "01654-2-1180"
 season:
   label: "2025-2026"
@@ -43,8 +43,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 44.404477
-  longitude: 142.513361
+  latitude: 44.404566403636046
+  longitude: 142.51345072602166
 elevation:
   top: 673
   bottom: 193

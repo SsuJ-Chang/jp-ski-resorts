@@ -16,13 +16,13 @@ visibility:
 links:
   official: "https://www.city.shibetsu.lg.jp/gyoseisaito/kosodate_bunka_supotsu/supotsu/2/1812.html"
   weather: "https://weathernews.jp/ski/spot/31218/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=44.1172,142.6036"
+  googleMaps: https://maps.app.goo.gl/um3VsVU9qQ5ipAYu9
   access: "https://www.city.shibetsu.lg.jp/gyoseisaito/kosodate_bunka_supotsu/supotsu/2/1812.html"
 contact:
   address:
     zhTw: "日本北海道士別市朝日町中央6656番地"
     ja: "〒095-0401 北海道士別市朝日町中央6656番地"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=44.1172,142.6036"
+    googleMaps: https://maps.app.goo.gl/um3VsVU9qQ5ipAYu9
   phone: "0165-28-3140"
 season:
   label: "2025-2026"
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 44.1172
-  longitude: 142.6036
+  latitude: 44.119991906142666
+  longitude: 142.59872099717467
 elevation:
   top: 392
   bottom: 220

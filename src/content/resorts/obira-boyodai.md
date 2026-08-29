@@ -17,13 +17,13 @@ visibility:
 links:
   official: "http://www.town.obira.hokkaido.jp/kanko/detail/00001389.html"
   weather: "https://weathernews.jp/ski/spot/31309/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=44.025160,141.675111"
+  googleMaps: https://maps.app.goo.gl/VD6sEoRLntiRLXMC6
   access: "http://www.town.obira.hokkaido.jp/kanko/detail/00001389.html"
 contact:
   address:
     zhTw: "日本北海道留萌郡小平町字小平町535-1"
     ja: "〒078-3301 北海道留萌郡小平町字小平町535-1"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=44.025160,141.675111"
+    googleMaps: https://maps.app.goo.gl/VD6sEoRLntiRLXMC6
   phone: "0164-56-2244"
 season:
   label: "2025-2026"
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 44.02516
-  longitude: 141.675111
+  latitude: 44.02503641748966
+  longitude: 141.6744669818289
 elevation:
   top: 127
   bottom: 15

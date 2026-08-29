@@ -20,7 +20,7 @@ links:
   facebook: https://www.facebook.com/sapporo.teine/
   instagram: https://www.instagram.com/sapporoteine_ski/
   xTwitter: https://twitter.com/teine1024
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Sapporo%20Teine
+  googleMaps: https://maps.app.goo.gl/jjCosynGAtLFSMGo6
   weather: https://weathernews.jp/ski/spot/31401/
   ticket: https://sapporo-teine.com/snow/lift-time
   access: https://sapporo-teine.com/snow/access
@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 日本北海道札幌市手稲区手稲本町593番地3
     ja: 〒006-0029 北海道札幌市手稲区手稲本町593番地3
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Sapporo%20Teine
+    googleMaps: https://maps.app.goo.gl/jjCosynGAtLFSMGo6
   phone: 011-682-6000
 season:
   label: 2025-2026
@@ -111,6 +111,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 43.07862652587335
+  longitude: 141.19562754121617
 elevation:
   top: 1023
   bottom: 340

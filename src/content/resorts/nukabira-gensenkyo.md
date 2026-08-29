@@ -18,7 +18,7 @@ links:
   official: https://ichida54.wixsite.com/nukabiraskijyo
   facebook: https://www.facebook.com/nukaskiski/
   instagram: https://www.instagram.com/nukabira_ski/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Nukabira%20Gensenkyo%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/xuGWnXZDeM7R8d8L9
   weather: https://weathernews.jp/ski/spot/32002/
   ticket: https://weathernews.jp/ski/spot/32002/
   access: https://weathernews.jp/ski/spot/32002/
@@ -26,7 +26,7 @@ contact:
   address:
     zhTw: 日本北海道河東郡上士幌町ぬかびら源泉郷南区75
     ja: 〒080-1403 北海道河東郡上士幌町ぬかびら源泉郷南区75
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Nukabira%20Gensenkyo%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/xuGWnXZDeM7R8d8L9
   phone: 01564-4-2201
 season:
   label: 2025-2026
@@ -62,6 +62,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 43.364042398730746
+  longitude: 143.1870456288355
 elevation:
   top: 1230
   bottom: 570

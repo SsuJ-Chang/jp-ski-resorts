@@ -18,13 +18,13 @@ links:
   official: "http://engaru-mori-no-okhotsk.jp/skiing/"
   facebook: "https://www.facebook.com/engaru.rockvalley/"
   weather: "https://weathernews.jp/ski/spot/31710/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=44.021127,143.495865"
+  googleMaps: https://maps.app.goo.gl/27xHNwNCYvTxxWGB7
   access: "http://engaru-mori-no-okhotsk.jp/skiing/"
 contact:
   address:
     zhTw: "日本北海道紋別郡遠軽町野上150-1"
     ja: "〒099-0344 北海道紋別郡遠軽町野上150-1"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=44.021127,143.495865"
+    googleMaps: https://maps.app.goo.gl/27xHNwNCYvTxxWGB7
   phone: "0158-42-4536"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 44.021127
-  longitude: 143.495865
+  latitude: 44.021290699324865
+  longitude: 143.49588272600616
 elevation:
   top: 409
   bottom: 144

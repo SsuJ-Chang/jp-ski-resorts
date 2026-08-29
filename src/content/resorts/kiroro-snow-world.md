@@ -20,7 +20,7 @@ links:
   facebook: https://www.facebook.com/kirororesort/
   instagram: https://www.instagram.com/kirororesort/
   xTwitter: https://twitter.com/KIRORO_RESORT
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Kiroro%20Snow%20World
+  googleMaps: https://maps.app.goo.gl/jkAJyUtaZLMELuwh6
   weather: https://weathernews.jp/ski/spot/31609/
   ticket: https://weathernews.jp/ski/spot/31609/
   access: https://weathernews.jp/ski/spot/31609/
@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 日本北海道余市郡赤井川村字常盤１２８−１
     ja: 〒046-0593 北海道余市郡赤井川村字常盤１２８−１
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Kiroro%20Snow%20World
+    googleMaps: https://maps.app.goo.gl/jkAJyUtaZLMELuwh6
   phone: 0135-34-7171
 season:
   label: 2025-2026
@@ -66,6 +66,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 43.067927678691305
+  longitude: 140.98926718863157
 elevation:
   top: 1180
   bottom: 520

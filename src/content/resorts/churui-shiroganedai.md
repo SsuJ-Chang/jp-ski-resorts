@@ -1,8 +1,8 @@
 ---
 id: "churui-shiroganedai"
 name:
-  zhTw: "忠類白銀台"
-  ja: "忠類白銀台スキー場"
+  zhTw: "白銀台"
+  ja: "白銀台スキー場"
   en: "Churui Shiroganedai Ski Area"
 region: "hokkaido"
 prefecture: "北海道"
@@ -17,13 +17,13 @@ visibility:
 links:
   official: "http://makubetsu-ski.com/category/news-hg/"
   weather: "https://weathernews.jp/ski/spot/32003/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=42.563651,143.309980"
+  googleMaps: https://maps.app.goo.gl/NCq1zJ2tVyfn5hGY6
   access: "http://makubetsu-ski.com/category/news-hg/"
 contact:
   address:
     zhTw: "日本北海道中川郡幕別町忠類白銀町415"
     ja: "〒089-1701 北海道中川郡幕別町忠類白銀町415"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=42.563651,143.309980"
+    googleMaps: https://maps.app.goo.gl/NCq1zJ2tVyfn5hGY6
   phone: "01558-8-2024"
 season:
   label: "2025-2026"
@@ -32,7 +32,7 @@ season:
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/32003/"
 snowWeather:
-  title: "忠類白銀台 積雪與天氣"
+  title: "白銀台積雪與天氣"
   provider: "Weathernews"
   url: "https://weathernews.jp/ski/spot/32003/"
   snowDepth: 0 cm
@@ -40,15 +40,15 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 42.563651
-  longitude: 143.30998
+  latitude: 42.563764816652146
+  longitude: 143.30998246827812
 courses:
   total: 3
   beginnerRatio: 20
   intermediateRatio: 50
   advancedRatio: 30
   courseInfoPage: "https://weathernews.jp/ski/spot/32003/"
-  summary: "忠類白銀台共有 3 條雪道，難度比例約初級 20%、中級 50%、進階 30%，適合依雪況與同行者程度安排滑行路線。"
+  summary: "白銀台共有 3 條雪道，難度比例約初級 20%、中級 50%、進階 30%，適合依雪況與同行者程度安排滑行路線。"
   details:
     - name: "初級路線"
       difficulty: beginner
@@ -88,4 +88,4 @@ externalContent:
   vlogs: []
 ---
 
-忠類白銀台位於北海道，共有3 條雪道、1 座纜車，白天可先把主要雪道滑順，晚上再接燈光雪面延長時段。主雪道配置偏向好上手路線，夜滑時段則補足短天數行程的滑行量。若想把練習、夜滑和地方停留排在同一天，這種地方型雪場會比單純趕場更順。
+白銀台位於北海道，共有3 條雪道、1 座纜車，白天可先把主要雪道滑順，晚上再接燈光雪面延長時段。主雪道配置偏向好上手路線，夜滑時段則補足短天數行程的滑行量。若想把練習、夜滑和地方停留排在同一天，這種地方型雪場會比單純趕場更順。

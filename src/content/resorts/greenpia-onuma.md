@@ -19,7 +19,7 @@ links:
   official: http://www.gp-onuma.com
   instagram: https://www.instagram.com/greenpiaonuma/
   xTwitter: https://twitter.com/greenpiaonuma
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Greenpia%20Onuma%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/hNw9MiqfeCwzXWhw8
   weather: https://weathernews.jp/ski/spot/31613/
   ticket: https://weathernews.jp/ski/spot/31613/
   access: https://weathernews.jp/ski/spot/31613/
@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 日本北海道茅部郡森町字赤井川229
     ja: 〒049-2142 北海道茅部郡森町字赤井川229
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Greenpia%20Onuma%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/hNw9MiqfeCwzXWhw8
   phone: 01374-5-2277
 season:
   label: 2025-2026
@@ -65,6 +65,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 42.002495125368355
+  longitude: 140.6029367528937
 elevation:
   top: 442
   bottom: 182

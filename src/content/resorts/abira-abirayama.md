@@ -18,14 +18,14 @@ visibility:
 links:
   official: https://www.town.abira.lg.jp/midokoro/shisetsu/sport/149
   weather: https://weathernews.jp/ski/spot/31801/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=42.864208,141.797948
+  googleMaps: https://maps.app.goo.gl/MQ8SsQtpqjY5dpuu5
   access: https://www.town.abira.lg.jp/midokoro/shisetsu/sport/149
   ticket: https://www.town.abira.lg.jp/midokoro/shisetsu/sport/149
 contact:
   address:
     zhTw: 日本北海道勇払郡安平町追分豊栄193番地
     ja: 〒059-1987 北海道勇払郡安平町追分豊栄193番地
-    googleMaps: https://www.google.com/maps/search/?api=1&query=42.864208,141.797948
+    googleMaps: https://maps.app.goo.gl/MQ8SsQtpqjY5dpuu5
   phone: 0145-25-2514
 season:
   label: 2025-2026
@@ -79,8 +79,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 42.864208
-  longitude: 141.797948
+  latitude: 42.86414488546088
+  longitude: 141.7980436394542
 elevation:
   top: 150
   bottom: 50

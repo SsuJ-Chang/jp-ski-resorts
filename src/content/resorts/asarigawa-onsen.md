@@ -20,13 +20,13 @@ links:
   facebook: "https://www.facebook.com/asari.ski.official/"
   instagram: "https://www.instagram.com/sasson_asari_official/"
   weather: "https://weathernews.jp/ski/spot/31502/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.143609,141.036773"
+  googleMaps: https://maps.app.goo.gl/XVNqE6JoJdBYPuaCA
   access: "https://asari-ski.com/"
 contact:
   address:
     zhTw: "日本北海道小樽市朝里川溫泉1-394"
     ja: "〒047-0154 北海道小樽市朝里川温泉1-394"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.143609,141.036773"
+    googleMaps: https://maps.app.goo.gl/XVNqE6JoJdBYPuaCA
   phone: "0134-54-0101"
 season:
   label: "2025-2026"
@@ -43,8 +43,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.143609
-  longitude: 141.036773
+  latitude: 43.14361686615037
+  longitude: 141.03674662597166
 elevation:
   top: 660
   bottom: 140

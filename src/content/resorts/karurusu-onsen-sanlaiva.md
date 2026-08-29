@@ -19,7 +19,7 @@ links:
   facebook: https://www.facebook.com/KarurusuSANLAIVA/
   instagram: https://www.instagram.com/sanlaiva/
   xTwitter: https://twitter.com/SANLAIVA_K
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Karurusu%20Onsen%20Sanlaiva%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/f7KVQ9JhcuS5D8236
   weather: https://weathernews.jp/ski/spot/32103/
   ticket: https://weathernews.jp/ski/spot/32103/
   access: https://weathernews.jp/ski/spot/32103/
@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 日本北海道登別市カルルス町27番地
     ja: 〒059-0553 北海道登別市カルルス町27番地
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Karurusu%20Onsen%20Sanlaiva%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/f7KVQ9JhcuS5D8236
   phone: 0143-84-2872
 season:
   label: 2025-2026
@@ -62,6 +62,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 42.521823140869344
+  longitude: 141.10470471060546
 elevation:
   top: 750
   bottom: 350

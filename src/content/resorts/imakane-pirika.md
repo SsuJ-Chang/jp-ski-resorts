@@ -20,13 +20,13 @@ links:
   facebook: "https://www.facebook.com/kurplazapirika.net/"
   xTwitter: "https://twitter.com/kurplaza_pirika"
   weather: "https://weathernews.jp/ski/spot/32402/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=42.464814,140.203654"
+  googleMaps: https://maps.app.goo.gl/fLWkUwH4iDGMkast9
   access: "https://kurplazapirika.net"
 contact:
   address:
     zhTw: "日本北海道瀬棚郡今金町字美利河205-1"
     ja: "〒049-4151 北海道瀬棚郡今金町字美利河205-1"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=42.464814,140.203654"
+    googleMaps: https://maps.app.goo.gl/fLWkUwH4iDGMkast9
   phone: "0137-83-7111"
 season:
   label: "2025-2026"
@@ -43,8 +43,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 42.464814
-  longitude: 140.203654
+  latitude: 42.46394086514147
+  longitude: 140.2031430259453
 elevation:
   top: 410
   bottom: 133

@@ -16,13 +16,13 @@ visibility:
 links:
   official: "http://www.asahikawa-dpc.co.jp/4ski/skiindex.html"
   weather: "https://weathernews.jp/ski/spot/31210/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.748287,142.333093"
+  googleMaps: https://maps.app.goo.gl/4s3jc3kG7jk8kLFd9
   access: "http://www.asahikawa-dpc.co.jp/4ski/skiindex.html"
 contact:
   address:
     zhTw: "日本北海道旭川市神居7條18丁目"
     ja: "〒070-8017 北海道旭川市神居7条18丁目"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.748287,142.333093"
+    googleMaps: https://maps.app.goo.gl/4s3jc3kG7jk8kLFd9
   phone: "0166-62-4922"
 season:
   label: "2025-2026"
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.748287
-  longitude: 142.333093
+  latitude: 43.74831347743395
+  longitude: 142.33352426832434
 elevation:
   top: 173
   bottom: 114

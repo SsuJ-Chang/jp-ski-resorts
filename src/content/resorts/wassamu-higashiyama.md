@@ -18,13 +18,13 @@ visibility:
 links:
   xTwitter: "https://twitter.com/wassamu_ski"
   weather: "https://weathernews.jp/ski/spot/31223/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=44.034530,142.413609"
+  googleMaps: https://maps.app.goo.gl/ebzZKZEz2VHtz88M6
   access: "https://twitter.com/wassamu_ski"
 contact:
   address:
     zhTw: "日本北海道上川郡和寒町日ノ出"
     ja: "〒098-0101 北海道上川郡和寒町日ノ出"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=44.034530,142.413609"
+    googleMaps: https://maps.app.goo.gl/ebzZKZEz2VHtz88M6
   phone: "0165-32-4385"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 44.03453
-  longitude: 142.413609
+  latitude: 44.03428100917876
+  longitude: 142.41367493950017
 elevation:
   top: 900
   bottom: 154

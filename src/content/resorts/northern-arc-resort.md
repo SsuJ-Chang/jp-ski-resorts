@@ -19,13 +19,13 @@ links:
   official: "http://northernarcresort.co.jp/contents/golfski/ski.html"
   instagram: "https://www.instagram.com/northernarcresort_ski/"
   weather: "https://weathernews.jp/ski/spot/31703/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.868412,143.926523"
+  googleMaps: https://maps.app.goo.gl/18KAGkLc6DWbQ6DD9
   access: "http://northernarcresort.co.jp/contents/golfski/ski.html"
 contact:
   address:
     zhTw: "日本北海道北見市端野町二区８２９番地"
     ja: "〒099-2102 北海道北見市端野町二区８２９番地"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.868412,143.926523"
+    googleMaps: https://maps.app.goo.gl/18KAGkLc6DWbQ6DD9
   phone: "0157-56-3333"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.868412
-  longitude: 143.926523
+  latitude: 43.8681394630158
+  longitude: 143.92666699716457
 elevation:
   top: 306
   bottom: 90

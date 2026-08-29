@@ -17,14 +17,14 @@ links:
   official: https://shorefield.jp/fv-snowpark/
   instagram: https://www.instagram.com/fvsnowpark/
   weather: https://weathernews.jp/ski/spot/31417/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=42.990401,141.549772
+  googleMaps: https://maps.app.goo.gl/7Pzsq6hm8BbU6BCB6
   access: https://shorefield.jp/fv-snowpark/
   ticket: https://shorefield.jp/fv-snowpark/
 contact:
   address:
     zhTw: 日本北海道北広島市 Ｆビレッジ
     ja: 〒061-1116 北海道北広島市 Ｆビレッジ
-    googleMaps: https://www.google.com/maps/search/?api=1&query=42.990401,141.549772
+    googleMaps: https://maps.app.goo.gl/7Pzsq6hm8BbU6BCB6
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/01-2026/02/末
@@ -73,8 +73,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 42.990401
-  longitude: 141.549772
+  latitude: 42.989631088624215
+  longitude: 141.54742758637818
 courses:
   total: 1
   beginnerRatio: 100

@@ -1,7 +1,7 @@
 ---
 id: rusutsu-resort
 name:
-  zhTw: 留壽都 Resort
+  zhTw: 留壽都渡假村
   ja: ルスツリゾート
   en: Rusutsu Resort
 region: hokkaido
@@ -22,7 +22,7 @@ links:
   facebook: https://www.facebook.com/RusutsuResort
   instagram: https://www.instagram.com/rusutsuresort_official/
   xTwitter: https://twitter.com/rusutsuitter
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Rusutsu%20Resort
+  googleMaps: https://maps.app.goo.gl/9EA5BPhCVtBcC5Sz5
   weather: https://weathernews.jp/ski/spot/31601/
   ticket: https://weathernews.jp/ski/spot/31601/
   access: https://weathernews.jp/ski/spot/31601/
@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 日本北海道虻田郡留寿都村字泉川13
     ja: 〒048-1711 北海道虻田郡留寿都村字泉川13
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Rusutsu%20Resort
+    googleMaps: https://maps.app.goo.gl/9EA5BPhCVtBcC5Sz5
   phone: 0136-46-3111
 season:
   label: 2025-2026
@@ -61,13 +61,16 @@ tickets:
     - 兒童 ¥3,000
     - 長者 ¥5,400
 snowWeather:
-  title: 留壽都 Resort雪況天氣
+  title: 留壽都渡假村雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31601/
   snowDepth: 0 cm
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 42.74980058756057
+  longitude: 140.90002996844146
 elevation:
   top: 994
   bottom: 400
@@ -78,7 +81,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://rusutsu.com/trail-map/
-  summary: 留壽都 Resort 在北海道人氣雪場清單列為第 5 名。共有 37 條雪道、18 座纜車，難度比例為初級 30%、中級 40%、上級 30%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
+  summary: 留壽都渡假村在北海道人氣雪場清單列為第 5 名。共有 37 條雪道、18 座纜車，難度比例為初級 30%、中級 40%、上級 30%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
   details:
   - name: ファミリーコース
     difficulty: beginner
@@ -272,7 +275,7 @@ access:
     - label: 札幌市區預約制接駁
       steps:
         - 從札幌站附近加森大樓搭乘免費「Rusutsu 号」接駁巴士。
-        - 抵達留壽都 Resort 後步行至雪場入口。
+        - 抵達留壽都渡假村後步行至雪場入口。
       estimatedTime: 約 2 小時
       difficulty: easy
       note: 接駁巴士需依官方規定預約；也有札幌市區出發的付費滑雪巴士。
@@ -283,7 +286,7 @@ access:
     - label: 新千歲機場滑雪巴士
       steps:
         - 從新千歲機場搭乘前往留壽都的付費滑雪巴士。
-        - 抵達 Resort 巴士站後步行至雪場入口。
+        - 抵達渡假村巴士站後步行至雪場入口。
       estimatedTime: 約 2 小時
       difficulty: easy
       note: 官方列有 Big Runs 等機場巴士方案，班次與預約期限依雪季公告。
@@ -346,8 +349,8 @@ externalContent:
     url: "https://www.youtube.com/watch?v=XZhXnmqylVM"
     note: "犬と暮らす旅人 / Love Nomad Life"
 externalGuide:
-  title: 留壽都 Resort，三座山的乾粉雪迷宮
+  title: 留壽都渡假村，三座山的乾粉雪迷宮
   url: https://www.japowdb.com/zh-tw/resorts/rusutsu-resort/
 ---
 
-留壽都 Resort 位於北海道，東山、西山與 Isola 三區讓同一天能排出完全不同的滑行節奏。它的強項不只是雪道數多，而是長距離巡航、林間視野與住宿型動線可以自然接在一起。
+留壽都渡假村位於北海道，東山、西山與 Isola 三區讓同一天能排出完全不同的滑行節奏。它的強項不只是雪道數多，而是長距離巡航、林間視野與住宿型動線可以自然接在一起。

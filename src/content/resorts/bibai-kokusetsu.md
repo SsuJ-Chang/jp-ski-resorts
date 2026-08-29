@@ -17,13 +17,13 @@ visibility:
 links:
   official: "https://bibaiski.jp/"
   weather: "https://weathernews.jp/ski/spot/31515/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.321960,141.950172"
+  googleMaps: https://maps.app.goo.gl/4W2xA21XgMzcREqv8
   access: "https://bibaiski.jp/"
 contact:
   address:
     zhTw: "日本北海道美唄市東美唄町番町"
     ja: "〒072-0000 北海道美唄市東美唄町番町"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.321960,141.950172"
+    googleMaps: https://maps.app.goo.gl/4W2xA21XgMzcREqv8
   phone: "0126-68-8216"
 season:
   label: "2025-2026"
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.32196
-  longitude: 141.950172
+  latitude: 43.3217482839247
+  longitude: 141.9486240683075
 elevation:
   top: 321
   bottom: 136

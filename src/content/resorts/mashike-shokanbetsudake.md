@@ -2,7 +2,7 @@
 id: "mashike-shokanbetsudake"
 name:
   zhTw: "增毛町暑寒別岳"
-  ja: "増毛町暑寒別岳"
+  ja: "増毛町営暑寒別岳スキー場"
   en: "Mashike Shokanbetsudake Ski Area"
 region: "hokkaido"
 prefecture: "北海道"
@@ -17,13 +17,13 @@ visibility:
 links:
   official: "https://www.town.mashike.hokkaido.jp/tourism/place/ski/index.html"
   weather: "https://weathernews.jp/ski/spot/31303/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.809878,141.529122"
+  googleMaps: https://maps.app.goo.gl/2hDKtLCWbHwMGXG18
   access: "https://www.town.mashike.hokkaido.jp/tourism/place/ski/index.html"
 contact:
   address:
     zhTw: "日本北海道增毛郡增毛町暑寒澤698-1"
     ja: "〒077-0216 北海道増毛郡増毛町暑寒沢698-1"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.809878,141.529122"
+    googleMaps: https://maps.app.goo.gl/2hDKtLCWbHwMGXG18
   phone: "0164-53-3002"
 season:
   label: "2025-2026"
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.809878
-  longitude: 141.529122
+  latitude: 43.80977037651168
+  longitude: 141.52894146832676
 elevation:
   top: 322
   bottom: 115

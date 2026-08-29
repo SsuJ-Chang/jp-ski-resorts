@@ -20,13 +20,13 @@ links:
   instagram: "https://www.instagram.com/fus_sapporo/"
   xTwitter: "https://twitter.com/FusSapporo"
   weather: "https://weathernews.jp/ski/spot/31412/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=42.954177,141.279438"
+  googleMaps: https://maps.app.goo.gl/8LsMGkCu69wYPwkRA
   access: "https://www.fujino-yagai-sports.jp/"
 contact:
   address:
     zhTw: "日本北海道札幌市南区藤野473-1"
     ja: "〒061-2271 北海道札幌市南区藤野473-1"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=42.954177,141.279438"
+    googleMaps: https://maps.app.goo.gl/8LsMGkCu69wYPwkRA
   phone: "011-591-8111"
 season:
   label: "2025-2026"
@@ -43,8 +43,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 42.954177
-  longitude: 141.279438
+  latitude: 42.9543237194381
+  longitude: 141.2794122106221
 elevation:
   top: 563
   bottom: 260

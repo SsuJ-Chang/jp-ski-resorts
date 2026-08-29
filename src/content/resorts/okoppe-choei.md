@@ -19,13 +19,13 @@ visibility:
 links:
   official: "http://www.town.okoppe.lg.jp/cms/section/education/shakai/nbm3tm0000001f0q.html"
   weather: "https://weathernews.jp/ski/spot/31711/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=44.459028,143.113696"
+  googleMaps: https://maps.app.goo.gl/hHa6fWALLzHHnfqM9
   access: "http://www.town.okoppe.lg.jp/cms/section/education/shakai/nbm3tm0000001f0q.html"
 contact:
   address:
     zhTw: "日本北海道紋別郡興部町字北興39番地の2"
     ja: "〒098-1622 北海道紋別郡興部町字北興39番地の2"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=44.459028,143.113696"
+    googleMaps: https://maps.app.goo.gl/hHa6fWALLzHHnfqM9
   phone: "0158-82-4000"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 44.459028
-  longitude: 143.113696
+  latitude: 44.45921576752044
+  longitude: 143.11329858184624
 elevation:
   top: 77
   bottom: 10

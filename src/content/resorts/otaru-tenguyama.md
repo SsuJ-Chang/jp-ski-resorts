@@ -18,7 +18,7 @@ links:
   facebook: https://www.facebook.com/tenguyamaropeway/
   instagram: https://www.instagram.com/otaru_tenguyama.resort/
   xTwitter: https://x.com/otarutenguyama
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Otaru%20Tenguyama%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/maJKr22GeZETZxGi9
   weather: https://weathernews.jp/ski/spot/31503/
   ticket: https://weathernews.jp/ski/spot/31503/
   access: https://weathernews.jp/ski/spot/31503/
@@ -26,7 +26,7 @@ contact:
   address:
     zhTw: 日本北海道小樽市最上2-16-15
     ja: 〒047-0023 北海道小樽市最上2-16-15
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Otaru%20Tenguyama%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/maJKr22GeZETZxGi9
   phone: 0134-33-7381
 season:
   label: 2025-2026
@@ -64,6 +64,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 43.17778413647086
+  longitude: 140.97524010000004
 elevation:
   top: 532
   bottom: 211

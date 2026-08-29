@@ -22,13 +22,13 @@ links:
   instagram: "https://www.instagram.com/snowcruiseonze/"
   xTwitter: "https://twitter.com/snowcruiseonze"
   weather: "https://weathernews.jp/ski/spot/31616/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.146043,141.132387"
+  googleMaps: https://maps.app.goo.gl/PBzzJoXahSbqGAyB9
   access: "https://onze.jp/"
 contact:
   address:
     zhTw: "日本北海道小樽市春香町357番地"
     ja: "〒047-0265 北海道小樽市春香町357番地"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.146043,141.132387"
+    googleMaps: https://maps.app.goo.gl/PBzzJoXahSbqGAyB9
   phone: "0134-62-2228"
 season:
   label: "2025-2026"
@@ -45,8 +45,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.146043
-  longitude: 141.132387
+  latitude: 43.14644253974012
+  longitude: 141.1331902683006
 elevation:
   top: 308
   bottom: 100

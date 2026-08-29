@@ -16,13 +16,13 @@ visibility:
 links:
   official: "https://www.city.mikasa.hokkaido.jp/sightseeing/category_sp/122.html"
   weather: "https://weathernews.jp/ski/spot/31518/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.251986,141.980964"
+  googleMaps: https://maps.app.goo.gl/4HW3KQgHNKL7NpBF9
   access: "https://www.city.mikasa.hokkaido.jp/sightseeing/category_sp/122.html"
 contact:
   address:
     zhTw: "日本北海道三笠市西桂澤50"
     ja: "〒068-2102 北海道三笠市西桂沢50"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.251986,141.980964"
+    googleMaps: https://maps.app.goo.gl/4HW3KQgHNKL7NpBF9
   phone: "01267-6-8235"
 season:
   label: "2025-2026"
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.251986
-  longitude: 141.980964
+  latitude: 43.252124628690005
+  longitude: 141.98097572597587
 elevation:
   top: 320
   bottom: 106

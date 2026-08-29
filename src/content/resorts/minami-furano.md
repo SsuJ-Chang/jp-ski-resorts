@@ -20,13 +20,13 @@ links:
   instagram: "https://www.instagram.com/minamifurano_town/"
   xTwitter: "https://x.com/Minami_Furano"
   weather: "https://weathernews.jp/ski/spot/31511/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.160063,142.558386"
+  googleMaps: https://maps.app.goo.gl/pLCZ4sfdTJCkkR2F7
   access: "https://www.town.minamifurano.hokkaido.jp/"
 contact:
   address:
     zhTw: "日本北海道空知郡南富良野町字幾寅1031"
     ja: "〒079-2401 北海道空知郡南富良野町字幾寅1031"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.160063,142.558386"
+    googleMaps: https://maps.app.goo.gl/pLCZ4sfdTJCkkR2F7
   phone: "0167-52-2143"
 season:
   label: "2025-2026"
@@ -43,8 +43,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.160063
-  longitude: 142.558386
+  latitude: 43.15996506749351
+  longitude: 142.55867951063018
 elevation:
   top: 780
   bottom: 400

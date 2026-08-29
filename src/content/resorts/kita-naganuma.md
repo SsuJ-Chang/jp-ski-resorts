@@ -19,13 +19,13 @@ visibility:
 links:
   official: "https://www.maoi-net.jp/kosodate_kyoiku/sports/sportsshisetsu/northski.html"
   weather: "https://weathernews.jp/ski/spot/31517/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.039048,141.744008"
+  googleMaps: https://maps.app.goo.gl/WuN8kJ8XsJTYWisv6
   access: "https://www.maoi-net.jp/kosodate_kyoiku/sports/sportsshisetsu/northski.html"
 contact:
   address:
     zhTw: "日本北海道夕張郡長沼町東6線北12番地"
     ja: "〒069-1317 北海道夕張郡長沼町東6線北12番地"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.039048,141.744008"
+    googleMaps: https://maps.app.goo.gl/WuN8kJ8XsJTYWisv6
   phone: "0123-89-2915"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.039048
-  longitude: 141.744008
+  latitude: 43.039490868119636
+  longitude: 141.74406471062554
 elevation:
   top: 199
   bottom: 90

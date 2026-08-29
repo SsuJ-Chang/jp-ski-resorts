@@ -18,13 +18,13 @@ visibility:
 links:
   official: "https://weathernews.jp/ski/spot/31501/"
   weather: "https://weathernews.jp/ski/spot/31501/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.165728,141.809721"
+  googleMaps: https://maps.app.goo.gl/qiFoGCYM7sjQfT8n7
   access: "https://weathernews.jp/ski/spot/31501/"
 contact:
   address:
     zhTw: "日本北海道岩見澤市上志文町452番地"
     ja: "〒068-0836 北海道岩見沢市上志文町452番地"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.165728,141.809721"
+    googleMaps: https://maps.app.goo.gl/qiFoGCYM7sjQfT8n7
   phone: "0126-44-2322"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.165728
-  longitude: 141.809721
+  latitude: 43.16452148195444
+  longitude: 141.81296316830148
 elevation:
   top: 176
   bottom: 61

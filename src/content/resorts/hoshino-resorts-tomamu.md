@@ -1,7 +1,7 @@
 ---
 id: hoshino-resorts-tomamu
 name:
-  zhTw: 星野 Resorts Tomamu
+  zhTw: 星野渡假村 Tomamu
   ja: 星野リゾート トマム スキー場
   en: Hoshino Resorts TOMAMU Ski Area
 region: hokkaido
@@ -21,7 +21,7 @@ links:
   facebook: https://www.facebook.com/tomamu.hokkaido
   instagram: https://www.instagram.com/hoshinoresorts.tomamu/
   xTwitter: https://twitter.com/snowtomamu
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hoshino%20Resorts%20TOMAMU%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/TXwYdNH7iwwSB1pq7
   weather: https://weathernews.jp/ski/spot/31201/
   ticket: https://weathernews.jp/ski/spot/31201/
   access: https://weathernews.jp/ski/spot/31201/
@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 日本北海道勇払郡占冠村字中トマム
     ja: 〒079-2204 北海道勇払郡占冠村字中トマム
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hoshino%20Resorts%20TOMAMU%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/TXwYdNH7iwwSB1pq7
   phone: 0167-58-1111
 season:
   label: 2025-2026
@@ -60,7 +60,7 @@ tickets:
     - 兒童 ¥2,500
     - 長者 ¥5,000
 snowWeather:
-  title: 星野 Resorts Tomamu雪況天氣
+  title: 星野渡假村 Tomamu雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31201/
   snowDepth: 0 cm
@@ -68,8 +68,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 43.0694726541191
-  longitude: 142.61502079325354
+  latitude: 43.06946873527101
+  longitude: 142.6150047
 elevation:
   top: 1171
   bottom: 586
@@ -80,7 +80,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://weathernews.jp/ski/spot/31201/
-  summary: 星野 Resorts Tomamu 在北海道人氣雪場清單列為第 4 名。共有 29 條雪道、6 座纜車，難度比例為初級 30%、中級 40%、上級 30%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
+  summary: 星野渡假村 Tomamu 在北海道人氣雪場清單列為第 4 名。共有 29 條雪道、6 座纜車，難度比例為初級 30%、中級 40%、上級 30%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
   details:
   - name: プラチナベル
     difficulty: beginner
@@ -206,7 +206,7 @@ access:
     - label: 札幌站／Tomamu 站轉乘
       steps:
         - 從札幌站搭 JR 石勝線至 Tomamu 站。
-        - 從 Tomamu 站搭乘星野 Resort 免費接駁巴士約 5 分鐘。
+        - 從 Tomamu 站搭乘星野渡假村免費接駁巴士約 5 分鐘。
       estimatedTime: 約 1 小時 45 分
       difficulty: easy
       note: Japan Ski Guide 列出的札幌站至 Tomamu 站約 1 小時 40 分，需再銜接接駁巴士。
@@ -331,8 +331,8 @@ externalContent:
     url: "https://www.youtube.com/watch?v=1IWDU498pXc"
     note: "犬と暮らす旅人 / Love Nomad Life"
 externalGuide:
-  title: 星野 Resorts Tomamu，把穩定乾粉雪滑成一場度假
+  title: 星野渡假村 Tomamu，把穩定乾粉雪滑成一場度假
   url: https://www.japowdb.com/zh-tw/resorts/tomamu/
 ---
 
-星野 Resorts Tomamu 是北海道的大型雪場，共有 29 條雪道，搭配 6 座纜車。雪道如 プラチナベル、シルバーベル，初級、中級與上級路線都有配置，標籤偏向夜滑、雙板與單板。
+星野渡假村 Tomamu 是北海道的大型雪場，共有 29 條雪道，搭配 6 座纜車。雪道如 プラチナベル、シルバーベル，初級、中級與上級路線都有配置，標籤偏向夜滑、雙板與單板。

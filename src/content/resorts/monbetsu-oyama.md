@@ -1,8 +1,8 @@
 ---
 id: "monbetsu-oyama"
 name:
-  zhTw: "紋別市營大山"
-  ja: "紋別市営大山スキー場"
+  zhTw: "市營大山"
+  ja: "市営大山スキー場"
   en: "Monbetsu Municipal Oyama Ski Area"
 region: "hokkaido"
 prefecture: "北海道"
@@ -17,13 +17,13 @@ visibility:
 links:
   official: "https://weathernews.jp/ski/spot/31716/"
   weather: "https://weathernews.jp/ski/spot/31716/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=44.348428,143.332733"
+  googleMaps: https://maps.app.goo.gl/L4MiAomtUNZz2K6x7
   access: "https://weathernews.jp/ski/spot/31716/"
 contact:
   address:
     zhTw: "日本北海道紋別市大山町25-2、25-3、25-4、25-9"
     ja: "〒094-0021 北海道紋別市大山町25-2、25-3、25-4、25-9"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=44.348428,143.332733"
+    googleMaps: https://maps.app.goo.gl/L4MiAomtUNZz2K6x7
   phone: "0158-24-7099"
 season:
   label: "2025-2026"
@@ -32,7 +32,7 @@ season:
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/31716/"
 snowWeather:
-  title: "紋別市營大山 積雪與天氣"
+  title: "市營大山積雪與天氣"
   provider: "Weathernews"
   url: "https://weathernews.jp/ski/spot/31716/"
   snowDepth: 0 cm
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 44.348428
-  longitude: 143.332733
+  latitude: 44.3481169331981
+  longitude: 143.33250846834827
 elevation:
   top: 333
   bottom: 30
@@ -52,7 +52,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: "https://weathernews.jp/ski/spot/31716/"
-  summary: "紋別市營大山共有 4 條雪道，難度比例約初級 40%、中級 40%、進階 20%，適合依雪況與同行者程度安排滑行路線。"
+  summary: "市營大山共有 4 條雪道，難度比例約初級 40%、中級 40%、進階 20%，適合依雪況與同行者程度安排滑行路線。"
   details:
     - name: "初級路線 1"
       difficulty: beginner
@@ -95,4 +95,4 @@ externalContent:
   vlogs: []
 ---
 
-紋別市營大山位在北海道，雪道數為4 條，搭配 2 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。
+市營大山位在北海道，雪道數為4 條，搭配 2 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。

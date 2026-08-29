@@ -22,13 +22,13 @@ links:
   threads: "https://www.threads.net/@horotachiski_yarubehorokanai"
   xTwitter: "https://x.com/HorotachiYarube"
   weather: "https://weathernews.jp/ski/spot/31302/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=44.014866,142.135921"
+  googleMaps: https://maps.app.goo.gl/hm2Xvf7SEMdmCeBi9
   access: "https://www.horotachi-horokanai.com/"
 contact:
   address:
     zhTw: "日本北海道雨竜郡幌加内町字長留内"
     ja: "〒074-0415 北海道雨竜郡幌加内町字長留内"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=44.014866,142.135921"
+    googleMaps: https://maps.app.goo.gl/hm2Xvf7SEMdmCeBi9
   phone: "0165-35-3410"
 season:
   label: "2025-2026"
@@ -45,8 +45,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 44.014866
-  longitude: 142.135921
+  latitude: 44.01548873162018
+  longitude: 142.1356115683349
 elevation:
   top: 367
   bottom: 150

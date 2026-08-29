@@ -21,12 +21,12 @@ links:
   trailMapPage: https://www.town.pippu.hokkaido.jp/ski/course.html
   ticket: https://www.town.pippu.hokkaido.jp/ski/lift.html
   access: https://www.town.pippu.hokkaido.jp/ski/access.html
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Pippu%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/zwSgteTKwX1pZBSe8
 contact:
   address:
     zhTw: 北海道上川郡比布町北 7 線 17 號
     ja: 〒078-0327 北海道上川郡比布町北7線17号
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Pippu%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/zwSgteTKwX1pZBSe8
   phone: 0166-85-3056
 season:
   label: 2025-2026
@@ -70,8 +70,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 43.93
-  longitude: 142.5
+  latitude: 43.93329969586639
+  longitude: 142.49984162883553
 elevation:
   top: 580
   bottom: 240

@@ -18,13 +18,13 @@ links:
   official: "https://www.city.shibetsu.lg.jp/soshikikarasagasu/gasshukunosato_supotsusuishinka/shiminsupotsukakari/1351.html"
   xTwitter: "https://twitter.com/hinata_ski"
   weather: "https://weathernews.jp/ski/spot/31212/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=44.265675,142.343516"
+  googleMaps: https://maps.app.goo.gl/wawGV1FY6j9Yr9j5A
   access: "https://www.city.shibetsu.lg.jp/soshikikarasagasu/gasshukunosato_supotsusuishinka/shiminsupotsukakari/1351.html"
 contact:
   address:
     zhTw: "日本北海道士別市多寄町日向4095"
     ja: "〒098-0475 北海道士別市多寄町日向4095"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=44.265675,142.343516"
+    googleMaps: https://maps.app.goo.gl/wawGV1FY6j9Yr9j5A
   phone: "0165-26-2577"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 44.265675
-  longitude: 142.343516
+  latitude: 44.265684099793695
+  longitude: 142.34376179718058
 elevation:
   top: 410
   bottom: 183

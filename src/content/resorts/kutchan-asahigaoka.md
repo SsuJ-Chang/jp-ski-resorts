@@ -18,13 +18,13 @@ visibility:
 links:
   official: "https://weathernews.jp/ski/spot/32101/"
   weather: "https://weathernews.jp/ski/spot/32101/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=42.901688,140.738516"
+  googleMaps: https://maps.app.goo.gl/Tto7yqBZZPVhY31j8
   access: "https://weathernews.jp/ski/spot/32101/"
 contact:
   address:
     zhTw: "日本北海道虻田郡俱知安町字旭37-1"
     ja: "〒044-0083 北海道虻田郡倶知安町字旭37-1"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=42.901688,140.738516"
+    googleMaps: https://maps.app.goo.gl/Tto7yqBZZPVhY31j8
   phone: "0136-23-2743"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 42.901688
-  longitude: 140.738516
+  latitude: 42.90176081264212
+  longitude: 140.73861874130435
 elevation:
   top: 290
   bottom: 190

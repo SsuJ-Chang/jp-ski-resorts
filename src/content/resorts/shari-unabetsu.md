@@ -1,9 +1,9 @@
 ---
 id: "shari-unabetsu"
 name:
-  zhTw: "斜里町 Unabetsu"
-  ja: "斜里町ウナベツスキー場"
-  en: "Shari Unabetsu Ski Area"
+  zhTw: "Unabetsu"
+  ja: "ウナベツスキー場"
+  en: "Unabetsu Ski Area"
 region: "hokkaido"
 prefecture: "北海道"
 tags:
@@ -15,13 +15,13 @@ visibility:
 links:
   official: "http://www.shiretoko.asia/index.html"
   weather: "https://weathernews.jp/ski/spot/31701/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.925738,144.809025"
+  googleMaps: https://maps.app.goo.gl/kgJ2kPJ2qSsN2tqF6
   access: "http://www.shiretoko.asia/index.html"
 contact:
   address:
     zhTw: "日本北海道斜里郡斜里町峰浜"
     ja: "〒099-4122 北海道斜里郡斜里町峰浜"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.925738,144.809025"
+    googleMaps: https://maps.app.goo.gl/kgJ2kPJ2qSsN2tqF6
   phone: "0152-28-2225"
 season:
   label: "2025-2026"
@@ -30,7 +30,7 @@ season:
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/31701/"
 snowWeather:
-  title: "斜里町 Unabetsu 積雪與天氣"
+  title: "Unabetsu積雪與天氣"
   provider: "Weathernews"
   url: "https://weathernews.jp/ski/spot/31701/"
   snowDepth: 0 cm
@@ -38,8 +38,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.925738
-  longitude: 144.809025
+  latitude: 43.92598311729749
+  longitude: 144.80875221066023
 elevation:
   top: 220
   bottom: 50
@@ -50,7 +50,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: "https://weathernews.jp/ski/spot/31701/"
-  summary: "斜里町 Unabetsu共有 3 條雪道，難度比例約初級 30%、中級 40%、進階 30%，適合依雪況與同行者程度安排滑行路線。"
+  summary: "Unabetsu共有 3 條雪道，難度比例約初級 30%、中級 40%、進階 30%，適合依雪況與同行者程度安排滑行路線。"
   details:
     - name: "初級路線"
       difficulty: beginner
@@ -90,4 +90,4 @@ externalContent:
   vlogs: []
 ---
 
-斜里町 Unabetsu在北海道提供3 條雪道，搭配 1 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向夜滑。
+Unabetsu 在北海道提供3 條雪道，搭配 1 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向夜滑。

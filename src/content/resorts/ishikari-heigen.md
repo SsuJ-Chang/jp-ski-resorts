@@ -20,13 +20,13 @@ links:
   official: "https://www.ishikari-heigen-ski.net/liftticket"
   instagram: "https://www.instagram.com/ishikariheigen.cc/"
   weather: "https://weathernews.jp/ski/spot/31414/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.260911,141.507228"
+  googleMaps: https://maps.app.goo.gl/PAcDDRoHyBGqx55d9
   access: "https://www.ishikari-heigen-ski.net/liftticket"
 contact:
   address:
     zhTw: "日本北海道石狩郡当別町弁華別3002番地"
     ja: "〒061-0208 北海道石狩郡当別町弁華別3002番地"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.260911,141.507228"
+    googleMaps: https://maps.app.goo.gl/PAcDDRoHyBGqx55d9
   phone: "0133-23-1101"
 season:
   label: "2025-2026"
@@ -43,8 +43,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.260911
-  longitude: 141.507228
+  latitude: 43.26117018675848
+  longitude: 141.50637643946968
 elevation:
   top: 126
   bottom: 20

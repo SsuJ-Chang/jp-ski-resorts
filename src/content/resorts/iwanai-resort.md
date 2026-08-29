@@ -1,7 +1,7 @@
 ---
 id: "iwanai-resort"
 name:
-  zhTw: "Iwanai Resort"
+  zhTw: "岩內"
   ja: "Iwanai Resort"
   en: "Iwanai Resort"
 region: "hokkaido"
@@ -19,13 +19,13 @@ links:
   facebook: "https://www.facebook.com/iwanairesort/"
   instagram: "https://www.instagram.com/iwanairesort/"
   weather: "https://weathernews.jp/ski/spot/31614/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=42.947870,140.512191"
+  googleMaps: https://maps.app.goo.gl/e6KeJAA2P6bKXBaYA
   access: "https://iwanairesort.com"
 contact:
   address:
     zhTw: "日本北海道岩内郡岩内町野束350-4"
     ja: "〒045-0024 北海道岩内郡岩内町野束350-4"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=42.947870,140.512191"
+    googleMaps: https://maps.app.goo.gl/e6KeJAA2P6bKXBaYA
   phone: "0135-62-4622"
 season:
   label: "2025-2026"
@@ -34,7 +34,7 @@ season:
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/31614/"
 snowWeather:
-  title: "Iwanai Resort 積雪與天氣"
+  title: "岩內積雪與天氣"
   provider: "Weathernews"
   url: "https://weathernews.jp/ski/spot/31614/"
   snowDepth: 0 cm
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 42.94787
-  longitude: 140.512191
+  latitude: 42.94736583033786
+  longitude: 140.51472601247065
 elevation:
   top: 370
   bottom: 200
@@ -54,7 +54,7 @@ courses:
   intermediateRatio: 15
   advancedRatio: 5
   courseInfoPage: "https://weathernews.jp/ski/spot/31614/"
-  summary: "Iwanai Resort共有 3 條雪道，難度比例約初級 80%、中級 15%、進階 5%，適合依雪況與同行者程度安排滑行路線。"
+  summary: "岩內共有 3 條雪道，難度比例約初級 80%、中級 15%、進階 5%，適合依雪況與同行者程度安排滑行路線。"
   details:
     - name: "初級路線 1"
       difficulty: beginner
@@ -88,4 +88,4 @@ externalContent:
   vlogs: []
 ---
 
-北海道的Iwanai Resort以3 條雪道，搭配 1 座纜車組成滑行區。雪道配置偏初級，練習門檻較低，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、溫泉停留。
+北海道的岩內以 3 條雪道，搭配 1 座纜車組成滑行區。雪道配置偏初級，練習門檻較低，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、溫泉停留。

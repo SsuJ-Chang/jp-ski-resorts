@@ -18,13 +18,13 @@ visibility:
 links:
   official: "http://www.h-greenland.com/"
   weather: "https://weathernews.jp/ski/spot/31507/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.169263,141.782082"
+  googleMaps: https://maps.app.goo.gl/HTYufrLLN288vVNZ9
   access: "http://www.h-greenland.com/"
 contact:
   address:
     zhTw: "日本北海道岩見澤市志文町1056番地 いわみざわ公園"
     ja: "〒068-0833 北海道岩見沢市志文町1056番地 いわみざわ公園"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.169263,141.782082"
+    googleMaps: https://maps.app.goo.gl/HTYufrLLN288vVNZ9
   phone: "0126-22-2121"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.169263
-  longitude: 141.782082
+  latitude: 43.16939236977429
+  longitude: 141.78230191247917
 courses:
   total: 4
   beginnerRatio: 70

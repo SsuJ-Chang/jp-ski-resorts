@@ -19,7 +19,7 @@ links:
   official: http://www.hakodate-nanae.jp
   facebook: https://www.facebook.com/hakodate.nanae.snowpark
   instagram: https://www.instagram.com/hakodatenanae
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hakodate%20Nanae%20Snow%20Park
+  googleMaps: https://maps.app.goo.gl/nWTPU3CCX2kUhnBb9
   weather: https://weathernews.jp/ski/spot/32301/
   ticket: https://weathernews.jp/ski/spot/32301/
   access: https://weathernews.jp/ski/spot/32301/
@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 日本北海道亀田郡七飯町東大沼666
     ja: 〒041-1351 北海道亀田郡七飯町東大沼666
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hakodate%20Nanae%20Snow%20Park
+    googleMaps: https://maps.app.goo.gl/nWTPU3CCX2kUhnBb9
   phone: 0138-67-3355
 season:
   label: 2025-2026
@@ -59,6 +59,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 41.98741300597736
+  longitude: 140.74789077116446 
 elevation:
   top: 943
   bottom: 198

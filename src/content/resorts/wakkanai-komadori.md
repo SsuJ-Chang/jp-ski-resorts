@@ -19,13 +19,13 @@ visibility:
 links:
   official: "http://w-shinko.co.jp/komadori-ski/"
   weather: "https://weathernews.jp/ski/spot/31106/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=45.386932,141.686688"
+  googleMaps: https://maps.app.goo.gl/tHs8pXPsz1UC1aA1A
   access: "http://w-shinko.co.jp/komadori-ski/"
 contact:
   address:
     zhTw: "日本北海道稚內市こまどり4"
     ja: "〒097-0003 北海道稚内市こまどり4"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=45.386932,141.686688"
+    googleMaps: https://maps.app.goo.gl/tHs8pXPsz1UC1aA1A
   phone: "0162-22-4564"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 45.386932
-  longitude: 141.686688
+  latitude: 45.38761030009789
+  longitude: 141.68885049722564
 elevation:
   top: 55
   bottom: 5

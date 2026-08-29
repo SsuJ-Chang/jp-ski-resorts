@@ -21,13 +21,13 @@ links:
   facebook: "https://www.facebook.com/mountracey.skiresort"
   instagram: "https://www.instagram.com/mt.racey_ski/"
   weather: "https://weathernews.jp/ski/spot/31608/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.050830,141.969730"
+  googleMaps: https://maps.app.goo.gl/5m6nkTzjiYY9terP7
   access: "https://yubari-resort.co.jp/"
 contact:
   address:
     zhTw: "日本北海道夕張市末広2-4"
     ja: "〒068-0411 北海道夕張市末広2-4"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.050830,141.969730"
+    googleMaps: https://maps.app.goo.gl/5m6nkTzjiYY9terP7
   phone: "0123-57-7766"
 season:
   label: "2025-2026"
@@ -44,8 +44,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.05083
-  longitude: 141.96973
+  latitude: 43.05155329110597
+  longitude: 141.969341395284
 elevation:
   top: 702
   bottom: 298

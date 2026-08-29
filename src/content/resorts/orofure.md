@@ -17,13 +17,13 @@ visibility:
 links:
   official: "https://weathernews.jp/ski/spot/32105/"
   weather: "https://weathernews.jp/ski/spot/32105/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=42.558021,140.985695"
+  googleMaps: https://maps.app.goo.gl/xE37wrWBbknrSetc9
   access: "https://weathernews.jp/ski/spot/32105/"
 contact:
   address:
     zhTw: "日本北海道有珠郡壮瞥町弁景204-5"
     ja: "〒052-0115 北海道有珠郡壮瞥町弁景204-5"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=42.558021,140.985695"
+    googleMaps: https://maps.app.goo.gl/xE37wrWBbknrSetc9
   phone: "0142-65-2323"
 season:
   label: "2025-2026"
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 42.558021
-  longitude: 140.985695
+  latitude: 42.556878032891916
+  longitude: 140.98552346827796
 elevation:
   top: 454
   bottom: 318

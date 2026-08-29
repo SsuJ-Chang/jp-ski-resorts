@@ -19,7 +19,7 @@ links:
   facebook: https://www.facebook.com/SAPPOROMOIWAYAMASKIRESORT/
   instagram: https://www.instagram.com/sapporo_moiwayama_skiarea/
   xTwitter: https://x.com/SapporoMoiwaSki
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Sapporo%20Moiwayama%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/o3fyWYndvXCDySij8
   weather: https://weathernews.jp/ski/spot/31406/
   ticket: https://weathernews.jp/ski/spot/31406/
   access: https://weathernews.jp/ski/spot/31406/
@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 日本北海道札幌市南区藻岩下1991
     ja: 〒005-0040 北海道札幌市南区藻岩下1991
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Sapporo%20Moiwayama%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/o3fyWYndvXCDySij8
   phone: 050-3662-8715
 season:
   label: 2025-2026
@@ -65,6 +65,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 43.01253277716613
+  longitude: 141.33312231349342
 elevation:
   top: 531
   bottom: 173

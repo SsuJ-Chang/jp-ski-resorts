@@ -1,7 +1,7 @@
 ---
 id: sahoro-resort
 name:
-  zhTw: Sahoro Resort
+  zhTw: 佐幌渡假村
   ja: サホロリゾートスキー場
   en: Sahoro Resort Ski Area
 region: hokkaido
@@ -17,7 +17,7 @@ visibility:
   note: 北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。
 links:
   official: https://sahoro.co.jp/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Sahoro%20Resort%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/MbufjAXeSTY49ba97
   weather: https://weathernews.jp/ski/spot/31202/
   ticket: https://weathernews.jp/ski/spot/31202/
   access: https://weathernews.jp/ski/spot/31202/
@@ -25,7 +25,7 @@ contact:
   address:
     zhTw: 日本北海道上川郡新得町狩勝高原
     ja: 〒081-0039 北海道上川郡新得町狩勝高原
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Sahoro%20Resort%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/MbufjAXeSTY49ba97
   phone: 0156-64-4121
 season:
   label: 2025-2026
@@ -56,13 +56,16 @@ tickets:
     - 兒童 ¥4,480
     - 長者 ¥5,600
 snowWeather:
-  title: Sahoro Resort雪況天氣
+  title: 佐幌渡假村雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31202/
   snowDepth: 0 cm
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 43.1748360480492
+  longitude: 142.80796527116445
 elevation:
   top: 1030
   bottom: 420
@@ -73,7 +76,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 40
   courseInfoPage: https://weathernews.jp/ski/spot/31202/
-  summary: Sahoro Resort 在北海道人氣雪場清單列為第 9 名。共有 21 條雪道、8 座纜車，難度比例為初級 30%、中級 30%、上級 40%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
+  summary: 佐幌渡假村在北海道人氣雪場清單列為第 9 名。共有 21 條雪道、8 座纜車，難度比例為初級 30%、中級 30%、上級 40%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
   details:
   - name: 初級ゲレンデ（名稱待確認）
     difficulty: beginner
@@ -106,7 +109,7 @@ access:
     - label: JR 新得站轉乘
       steps:
         - 從札幌搭 JR 石勝線至新得站。
-        - 從新得站搭計程車或預約接駁前往 Sahoro Resort。
+        - 從新得站搭計程車或預約接駁前往佐幌渡假村。
       estimatedTime: 新得站後約 15 分
       difficulty: medium
       note: Resort 位於新得町山區，車站後段以計程車或住宿接駁為主。
@@ -116,7 +119,7 @@ access:
   fromAirport:
     - label: 帶廣機場出發
       steps:
-        - 從帶廣機場搭巴士或計程車前往 Sahoro Resort。
+        - 從帶廣機場搭巴士或計程車前往佐幌渡假村。
       estimatedTime: 約 1.5 小時
       difficulty: medium
       note: 帶廣機場至雪場的接駁需依住宿與雪季交通方案確認。
@@ -141,4 +144,4 @@ externalContent:
     note: "Todd's Japan Ski Trip"
 ---
 
-Sahoro Resort是北海道的大型雪場，整理為 21 條雪道，搭配 8 座纜車。上級路線比例明顯，坡面變化較多，介紹保留在可確認的雪道數與難度比例；標籤上偏向夜滑、雙板與單板。
+佐幌渡假村是北海道的大型雪場，整理為 21 條雪道，搭配 8 座纜車。上級路線比例明顯，坡面變化較多，介紹保留在可確認的雪道數與難度比例；標籤上偏向夜滑、雙板與單板。

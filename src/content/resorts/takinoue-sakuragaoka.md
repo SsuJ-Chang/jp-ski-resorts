@@ -1,8 +1,8 @@
 ---
 id: "takinoue-sakuragaoka"
 name:
-  zhTw: "瀧上町櫻丘"
-  ja: "滝上町桜ヶ丘スキー場"
+  zhTw: "櫻丘"
+  ja: "桜ヶ丘スキー場"
   en: "Takinoue Sakuragaoka Ski Area"
 region: "hokkaido"
 prefecture: "北海道"
@@ -17,13 +17,13 @@ visibility:
 links:
   official: "https://weathernews.jp/ski/spot/31713/"
   weather: "https://weathernews.jp/ski/spot/31713/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=44.190997,143.106443"
+  googleMaps: https://maps.app.goo.gl/UvYuJVw5ZZirSCyS8
   access: "https://weathernews.jp/ski/spot/31713/"
 contact:
   address:
     zhTw: "日本北海道紋別郡瀧上町濁川中央"
     ja: "〒099-5541 北海道紋別郡滝上町濁川中央"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=44.190997,143.106443"
+    googleMaps: https://maps.app.goo.gl/UvYuJVw5ZZirSCyS8
   phone: "0158-29-2500"
 season:
   label: "2025-2026"
@@ -32,7 +32,7 @@ season:
   note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
   source: "https://weathernews.jp/ski/spot/31713/"
 snowWeather:
-  title: "瀧上町櫻丘 積雪與天氣"
+  title: "櫻丘積雪與天氣"
   provider: "Weathernews"
   url: "https://weathernews.jp/ski/spot/31713/"
   snowDepth: 0 cm
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 44.190997
-  longitude: 143.106443
+  latitude: 44.19114909789306
+  longitude: 143.10658102601323
 elevation:
   top: 250
   bottom: 122
@@ -52,7 +52,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 30
   courseInfoPage: "https://weathernews.jp/ski/spot/31713/"
-  summary: "瀧上町櫻丘共有 4 條雪道，難度比例約初級 20%、中級 50%、進階 30%，適合依雪況與同行者程度安排滑行路線。"
+  summary: "櫻丘共有 4 條雪道，難度比例約初級 20%、中級 50%、進階 30%，適合依雪況與同行者程度安排滑行路線。"
   details:
     - name: "初級路線"
       difficulty: beginner
@@ -94,4 +94,4 @@ externalContent:
   vlogs: []
 ---
 
-瀧上町櫻丘位於北海道，共有4 條雪道、1 座纜車，白天可先把主要雪道滑順，晚上再接燈光雪面延長時段。主雪道配置偏向好上手路線，夜滑時段則補足短天數行程的滑行量。若想把練習、夜滑和地方停留排在同一天，這種地方型雪場會比單純趕場更順。
+櫻丘位於北海道，共有4 條雪道、1 座纜車，白天可先把主要雪道滑順，晚上再接燈光雪面延長時段。主雪道配置偏向好上手路線，夜滑時段則補足短天數行程的滑行量。若想把練習、夜滑和地方停留排在同一天，這種地方型雪場會比單純趕場更順。

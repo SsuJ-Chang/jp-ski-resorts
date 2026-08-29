@@ -18,13 +18,13 @@ visibility:
 links:
   official: "https://weathernews.jp/ski/spot/31307/"
   weather: "https://weathernews.jp/ski/spot/31307/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=45.074107,141.842066"
+  googleMaps: https://maps.app.goo.gl/op386Jx8CiQ5Vvtg7
   access: "https://weathernews.jp/ski/spot/31307/"
 contact:
   address:
     zhTw: "日本北海道天塩郡豐富町字溫泉"
     ja: "〒098-4132 北海道天塩郡豊富町字温泉"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=45.074107,141.842066"
+    googleMaps: https://maps.app.goo.gl/op386Jx8CiQ5Vvtg7
   phone: "0162-82-2842"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 45.074107
-  longitude: 141.842066
+  latitude: 45.074210303278385
+  longitude: 141.84196209721296
 elevation:
   top: 110
   bottom: 8

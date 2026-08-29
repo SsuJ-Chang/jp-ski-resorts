@@ -16,13 +16,13 @@ visibility:
 links:
   official: "https://www.town.horonobe.lg.jp/www4/section/edu/le009f0000001go7.html"
   weather: "https://weathernews.jp/ski/spot/31308/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=45.019640,141.853523"
+  googleMaps: https://maps.app.goo.gl/EtkP7cKjcoxPznUd8
   access: "https://www.town.horonobe.lg.jp/www4/section/edu/le009f0000001go7.html"
 contact:
   address:
     zhTw: "日本北海道天塩郡幌延町幌延106-1"
     ja: "〒098-3223 北海道天塩郡幌延町幌延106-1"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=45.019640,141.853523"
+    googleMaps: https://maps.app.goo.gl/EtkP7cKjcoxPznUd8
   phone: "01632-5-1620"
 season:
   label: "2025-2026"
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 45.01964
-  longitude: 141.853523
+  latitude: 45.01951886436138
+  longitude: 141.85414351070415
 elevation:
   top: 56
   bottom: 0

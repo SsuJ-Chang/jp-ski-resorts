@@ -16,14 +16,14 @@ visibility:
 links:
   official: https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html
   weather: https://weathernews.jp/ski/spot/31708/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=43.988242,144.223838
+  googleMaps: https://maps.app.goo.gl/FBMq4NMnkWcfGHCNA
   access: https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html
   ticket: https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html
 contact:
   address:
     zhTw: 日本北海道網走市字呼人28-3
     ja: 〒099-2421 北海道網走市字呼人28-3
-    googleMaps: https://www.google.com/maps/search/?api=1&query=43.988242,144.223838
+    googleMaps: https://maps.app.goo.gl/FBMq4NMnkWcfGHCNA
   phone: 0152-48-2550
 season:
   label: 2025-2026
@@ -77,8 +77,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 43.988242
-  longitude: 144.223838
+  latitude: 43.988466150875084
+  longitude: 144.22396996833388
 elevation:
   top: 205
   bottom: 25

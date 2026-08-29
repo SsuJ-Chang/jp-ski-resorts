@@ -18,13 +18,13 @@ visibility:
 links:
   official: "https://weathernews.jp/ski/spot/31304/"
   weather: "https://weathernews.jp/ski/spot/31304/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=44.721452,142.279498"
+  googleMaps: https://maps.app.goo.gl/pWRcdCiex4a3GvNo9
   access: "https://weathernews.jp/ski/spot/31304/"
 contact:
   address:
     zhTw: "日本北海道中川郡音威子府村字音威子府"
     ja: "〒098-2501 北海道中川郡音威子府村字音威子府"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=44.721452,142.279498"
+    googleMaps: https://maps.app.goo.gl/pWRcdCiex4a3GvNo9
   phone: "01656-5-3305"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 44.721452
-  longitude: 142.279498
+  latitude: 44.72234763341297
+  longitude: 142.2720146818566
 elevation:
   top: 240
   bottom: 70

@@ -18,13 +18,13 @@ visibility:
 links:
   official: "https://www.town.hidaka.hokkaido.jp/site/ski/"
   weather: "https://weathernews.jp/ski/spot/32201/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=42.870604,142.446262"
+  googleMaps: https://maps.app.goo.gl/EV5deHhjDHj8yvcf6
   access: "https://www.town.hidaka.hokkaido.jp/site/ski/"
 contact:
   address:
     zhTw: "日本北海道沙流郡日高町字富岡444-1"
     ja: "〒055-2315 北海道沙流郡日高町字富岡444-1"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=42.870604,142.446262"
+    googleMaps: https://maps.app.goo.gl/EV5deHhjDHj8yvcf6
   phone: "01457-6-3667"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 42.870604
-  longitude: 142.446262
+  latitude: 42.870634543567625
+  longitude: 142.44652989712537
 elevation:
   top: 754
   bottom: 251

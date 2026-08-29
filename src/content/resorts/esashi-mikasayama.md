@@ -21,13 +21,13 @@ links:
   facebook: "https://www.facebook.com/%E6%9E%9D%E5%B9%B8%E7%94%BA%E4%B8%89%E7%AC%A0%E5%B1%B1%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4-377940465704309/"
   instagram: "https://instagram.com/emsc___esashi_mikasayama_sc"
   weather: "https://weathernews.jp/ski/spot/31102/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=44.933559,142.565009"
+  googleMaps: https://maps.app.goo.gl/wrjKc3igWxmgT2fJ7
   access: "http://www.ski.npo-emsc.net/"
 contact:
   address:
     zhTw: "日本北海道枝幸郡枝幸町北幸町7020-1"
     ja: "〒098-5822 北海道枝幸郡枝幸町北幸町7020-1"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=44.933559,142.565009"
+    googleMaps: https://maps.app.goo.gl/wrjKc3igWxmgT2fJ7
   phone: "01636-2-1876"
 season:
   label: "2025-2026"
@@ -44,8 +44,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 44.933559
-  longitude: 142.565009
+  latitude: 44.93355498529308
+  longitude: 142.5646927683718
 elevation:
   top: 172
   bottom: 56

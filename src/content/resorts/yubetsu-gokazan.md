@@ -18,13 +18,13 @@ visibility:
 links:
   official: "https://www.town.yubetsu.lg.jp/administration/culture/detail.html?content=271"
   weather: "https://weathernews.jp/ski/spot/31712/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=44.1795,143.614"
+  googleMaps: https://maps.app.goo.gl/aAedDmQRWWz9wbaC9
   access: "https://www.town.yubetsu.lg.jp/administration/culture/detail.html?content=271"
 contact:
   address:
     zhTw: "日本北海道紋別郡湧別町北兵村二区100"
     ja: "〒099-6323 北海道紋別郡湧別町北兵村二区100"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=44.1795,143.614"
+    googleMaps: https://maps.app.goo.gl/aAedDmQRWWz9wbaC9
   phone: "01586-2-3111"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 44.1795
-  longitude: 143.614
+  latitude: 44.183864295706414
+  longitude: 143.6095343990259
 elevation:
   top: 120
   bottom: 25

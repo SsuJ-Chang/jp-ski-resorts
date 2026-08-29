@@ -19,13 +19,13 @@ visibility:
 links:
   official: "http://www.dynasty-resort.jp/"
   weather: "https://weathernews.jp/ski/spot/31416/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=42.931520,141.451489"
+  googleMaps: https://maps.app.goo.gl/8Ui6YKVvFyFd1NiG8
   access: "http://www.dynasty-resort.jp/"
 contact:
   address:
     zhTw: "日本北海道北広島市仁別82番4"
     ja: "〒061-1267 北海道北広島市仁別82番4"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=42.931520,141.451489"
+    googleMaps: https://maps.app.goo.gl/8Ui6YKVvFyFd1NiG8
   phone: "011-376-2611"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 42.93152
-  longitude: 141.451489
+  latitude: 42.93165522196033
+  longitude: 141.4515285817858
 elevation:
   top: 270
   bottom: 170

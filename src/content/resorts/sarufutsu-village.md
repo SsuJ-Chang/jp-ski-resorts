@@ -18,13 +18,13 @@ visibility:
 links:
   official: "https://weathernews.jp/ski/spot/31104/"
   weather: "https://weathernews.jp/ski/spot/31104/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=45.3348,142.1123"
+  googleMaps: https://maps.app.goo.gl/zUyuMveTTWEpJzNw7
   access: "https://weathernews.jp/ski/spot/31104/"
 contact:
   address:
     zhTw: "日本北海道宗谷郡猿払村鬼志別西町238番地、及び225番地"
     ja: "〒098-6232 北海道宗谷郡猿払村鬼志別西町238番地、及び225番地"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=45.3348,142.1123"
+    googleMaps: https://maps.app.goo.gl/zUyuMveTTWEpJzNw7
   phone: "01635-2-3540"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 45.3348
-  longitude: 142.1123
+  latitude: 45.33705316304361
+  longitude: 142.10743925489473
 elevation:
   top: 52
   bottom: 10

@@ -14,14 +14,14 @@ visibility:
 links:
   official: https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/hokenhukushibu/kenkosportska/supotsu/2/7966.html
   weather: https://weathernews.jp/ski/spot/31621/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=42.846418,141.489341
+  googleMaps: https://maps.app.goo.gl/5RmLCLXHiMderHrWA
   access: https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/hokenhukushibu/kenkosportska/supotsu/2/7966.html
   ticket: https://www.city.eniwa.hokkaido.jp/material/files/group/29/R07ryokin.pdf
 contact:
   address:
     zhTw: 日本北海道惠庭市盤尻330-2
     ja: 〒061-1422 北海道恵庭市盤尻330-2
-    googleMaps: https://www.google.com/maps/search/?api=1&query=42.846418,141.489341
+    googleMaps: https://maps.app.goo.gl/5RmLCLXHiMderHrWA
   phone: 0123-25-5727
 season:
   label: 2025-2026
@@ -79,8 +79,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 42.846418
-  longitude: 141.489341
+  latitude: 42.846566827998394
+  longitude: 141.48935132595997
 elevation:
   top: 170
   bottom: 110

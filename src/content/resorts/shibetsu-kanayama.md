@@ -16,13 +16,13 @@ visibility:
 links:
   official: "https://weathernews.jp/ski/spot/32104/"
   weather: "https://weathernews.jp/ski/spot/32104/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=43.743597,144.928301"
+  googleMaps: https://maps.app.goo.gl/opwyyYQEeKVkMWQYA
   access: "https://weathernews.jp/ski/spot/32104/"
 contact:
   address:
     zhTw: "日本北海道標津郡標津町字古多糠"
     ja: "〒086-1731 北海道標津郡標津町字古多糠"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=43.743597,144.928301"
+    googleMaps: https://maps.app.goo.gl/opwyyYQEeKVkMWQYA
   phone: "0153-85-2172"
 season:
   label: "2025-2026"
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 43.743597
-  longitude: 144.928301
+  latitude: 43.74333659306232
+  longitude: 144.92734356832412
 elevation:
   top: 547
   bottom: 183

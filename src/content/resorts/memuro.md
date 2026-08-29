@@ -16,13 +16,13 @@ visibility:
 links:
   official: "https://www.memuro.net/administration/soshiki/miryoku/shin-arashiyama/2025-1112-1623-114.html"
   weather: "https://weathernews.jp/ski/spot/32001/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=42.830577,142.988310"
+  googleMaps: https://maps.app.goo.gl/zF9yHJ3noz49DwQa6
   access: "https://www.memuro.net/administration/soshiki/miryoku/shin-arashiyama/2025-1112-1623-114.html"
 contact:
   address:
     zhTw: "日本北海道河西郡芽室町中美生2線42"
     ja: "〒082-0086 北海道河西郡芽室町中美生2線42"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=42.830577,142.988310"
+    googleMaps: https://maps.app.goo.gl/zF9yHJ3noz49DwQa6
   phone: "0155-65-2121"
 season:
   label: "2025-2026"
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 42.830577
-  longitude: 142.98831
+  latitude: 42.83093123397394
+  longitude: 142.98850969712404
 elevation:
   top: 330
   bottom: 176

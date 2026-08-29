@@ -21,7 +21,7 @@ links:
   official: https://www.princehotels.co.jp/ski/furano/winter/
   facebook: https://www.facebook.com/furanoskiarea/
   instagram: https://www.instagram.com/furanoski_official
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Furano%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/KgYwKSqpF74MYhAs8
   weather: https://weathernews.jp/ski/spot/31602/
   ticket: https://www.princehotels.co.jp/ski/furano/winter/lift/#lift-fee
   access: https://www.princehotels.co.jp/ski/furano/winter/access/
@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 日本北海道富良野市中御料
     ja: 〒076-8511 北海道富良野市中御料
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Furano%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/KgYwKSqpF74MYhAs8
   phone: 0167-22-1111
 season:
   label: 2025-2026
@@ -99,6 +99,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 43.32608652759183
+  longitude: 142.3529834352853
 elevation:
   top: 1074
   bottom: 235
