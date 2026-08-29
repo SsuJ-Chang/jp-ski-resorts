@@ -1997,6 +1997,10 @@ h1 {
   gap: 16px;
 }
 
+.lodging-search-resource {
+  margin-top: 16px;
+}
+
 .fact-list {
   display: grid;
   gap: 16px;

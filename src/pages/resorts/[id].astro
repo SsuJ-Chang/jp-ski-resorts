@@ -30,6 +30,9 @@ const hasExternalContent =
   (resort.data.externalContent?.blogs?.length ?? 0) > 0 ||
   (resort.data.externalContent?.vlogs?.length ?? 0) > 0
 const hasLodgingRecommendations = (resort.data.lodgingRecommendations?.length ?? 0) > 0
+const nearbyLodgingUrl = resort.data.location
+  ? `https://www.google.com/maps/search/lodging/@${resort.data.location.latitude},${resort.data.location.longitude},14z`
+  : undefined
 const hasRjOpinion = Boolean(resort.data.rjOpinion?.trim())
 const externalGuide = resort.data.externalGuide
 
@@ -802,10 +805,10 @@ const resortStructuredData = [
       }
 
       {
-        hasLodgingRecommendations && (
+        (hasLodgingRecommendations || nearbyLodgingUrl) && (
           <section class="info-panel detail-panel detail-panel--wide external-content-panel">
             <h2>住宿推薦</h2>
-            <ul class="link-list link-list--with-notes">
+            {hasLodgingRecommendations && <ul class="link-list link-list--with-notes">
               {resort.data.lodgingRecommendations?.map((lodging) => (
                 <li class="link-list__item">
                   <a
@@ -821,7 +824,20 @@ const resortStructuredData = [
                   {lodging.rjOpinion && <RjOpinion text={lodging.rjOpinion} compact />}
                 </li>
               ))}
-            </ul>
+            </ul>}
+            {nearbyLodgingUrl && (
+              <div class="resource-section lodging-search-resource">
+                <ul class="resource-list">
+                  <li>
+                    <div>
+                      <a href={nearbyLodgingUrl} target="_blank" rel="noreferrer">
+                        透過 Google Maps 搜尋附近住宿
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            )}
           </section>
         )
       }
