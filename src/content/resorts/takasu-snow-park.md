@@ -1,7 +1,7 @@
 ---
 id: takasu-snow-park
 name:
-  zhTw: 高鷲 Snow Park
+  zhTw: 高鷲滑雪公園
   ja: 高鷲スノーパーク
   en: Takasu Snow Park
 region: chubu
@@ -26,12 +26,12 @@ links:
   access: https://www.takasu.gr.jp/access/
   snowReport: https://www.takasu.gr.jp/condition/
   liftStatus: https://www.takasu.gr.jp/condition/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Takasu%20Snow%20Park
+  googleMaps: https://maps.app.goo.gl/FLSpyawcH3hfDueq9
 contact:
   address:
     zhTw: 日本岐阜縣郡上市高鷲町西洞 3086-1
     ja: 〒501-5305 岐阜県郡上市高鷲町西洞3086-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Takasu%20Snow%20Park
+    googleMaps: https://maps.app.goo.gl/FLSpyawcH3hfDueq9
   phone: 0575-72-7000
 season:
   label: 2025-2026
@@ -49,7 +49,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.takasumountains.com/lift/
-  note: TAKASU MOUNTAINS 6 雪場共通券摘要；全山共通券不含 Dynaland 與鷲ヶ岳夜滑，IC 卡押金另計 ¥500。
+  note: TAKASU MOUNTAINS 6 雪場共通券摘要；全山共通券不含 Dynaland 與鷲岳夜滑，IC 卡押金另計 ¥500。
   plans:
   - name: 6 雪場共通 1 日券
     priceLines:
@@ -79,8 +79,8 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時雪況為準。
 location:
-  latitude: 35.967
-  longitude: 136.838
+  latitude: 35.99838703995597
+  longitude: 136.87735065767106
 elevation:
   verticalDrop: 600
 courses:
@@ -175,7 +175,7 @@ access:
   fromNagoya:
   - label: 名古屋出發高速巴士與接駁
     steps:
-    - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
+    - 從名鐵巴士中心搭高速巴士到「高速蛭野高原」。
     - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE 前往高鷲 Snow Park。
     estimatedTime: 約 2.5-3 小時
     difficulty: medium

@@ -18,12 +18,12 @@ links:
   ticket: https://www.takasumountains.com/lift/
   access: https://www.takasu.gr.jp/access/
   snowReport: https://www.gujyokogen-hotel.com/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Gujo%20Vacance%20Mura%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/183c3hUZ45Gdhyxt6
 contact:
   address:
     zhTw: 日本岐阜縣郡上市高鷲町鷲見上野 2363-395
     ja: 〒501-5302 岐阜県郡上市高鷲町鷲見上野2363-395
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Gujo%20Vacance%20Mura%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/183c3hUZ45Gdhyxt6
   phone: 0575-73-2206
 season:
   label: 2025-2026
@@ -58,8 +58,8 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以飯店官方公告為準。
 location:
-  latitude: 35.996
-  longitude: 136.872
+  latitude: 35.9752626582376
+  longitude: 136.94053606804292
 elevation:
   top: 1150
   bottom: 1000
@@ -84,7 +84,7 @@ access:
   fromNagoya:
   - label: 名古屋出發高速巴士與接駁
     steps:
-    - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
+    - 從名鐵巴士中心搭高速巴士到「高速蛭野高原」。
     - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE，於郡上ヴァカンス村ホテル相關站點下車。
     estimatedTime: 約 3 小時以上
     difficulty: hard

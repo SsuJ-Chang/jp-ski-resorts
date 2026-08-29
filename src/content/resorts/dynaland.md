@@ -27,12 +27,12 @@ links:
   access: https://www.dynaland.co.jp/access/
   snowReport: https://www.dynaland.co.jp/condition/
   liftStatus: https://www.dynaland.co.jp/condition/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Dynaland%20Gifu
+  googleMaps: https://maps.app.goo.gl/72ZPG2PWHPoEReuf7
 contact:
   address:
     zhTw: 日本岐阜縣郡上市高鷲町西洞 3035-2
     ja: 〒501-5305 岐阜県郡上市高鷲町西洞3035-2
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Dynaland%20Gifu
+    googleMaps: https://maps.app.goo.gl/72ZPG2PWHPoEReuf7
   phone: 0575-72-6636
 season:
   label: 2025-2026
@@ -41,7 +41,7 @@ season:
   nightSkiingHours: 18:00-23:00
   source: https://www.takasumountains.com/ski/
 trailMaps:
-- label: 高鷲 Snow Park / Dynaland 雪場圖
+- label: 高鷲滑雪公園 / Dynaland 雪場圖
   language: Japanese
   season: 2025-2026
   url: https://www.dynaland.co.jp/gelande/
@@ -73,8 +73,8 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時雪況為準。
 location:
-  latitude: 35.956
-  longitude: 136.839
+  latitude: 35.990352034523184
+  longitude: 136.87055655767102
 elevation:
   verticalDrop: 447
 courses:
@@ -83,7 +83,7 @@ courses:
   intermediateRatio: 32
   advancedRatio: 28
   courseInfoPage: https://www.dynaland.co.jp/gelande/
-  summary: Dynaland 官方標示 18 條 course、最長 3,200m，特色是早朝、夜滑、park、長距離中級線與高鷲 Snow Park 跨區動線。
+  summary: Dynaland 官方標示 18 條 course、最長 3,200m，特色是早朝、夜滑、park、長距離中級線與高鷲滑雪公園跨區動線。
   details:
   - name: パラダイスAコース / Paradise A Course
     difficulty: beginner
@@ -199,7 +199,7 @@ access:
   fromNagoya:
   - label: 名古屋出發高速巴士與接駁
     steps:
-    - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
+    - 從名鐵巴士中心搭高速巴士到「高速蛭野高原」。
     - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE 前往 Dynaland。
     estimatedTime: 約 2.5-3.5 小時
     difficulty: medium
@@ -207,7 +207,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 東海北陸自動車道高鷲 IC 起約 10 分鐘，ひるがの高原 Smart IC（ETC 專用）起約 15 分鐘；冬季需雪胎或防滑鏈。
+    note: 東海北陸自動車道高鷲 IC 起約 10 分鐘，蛭野高原 Smart IC（ETC 專用）起約 15 分鐘；冬季需雪胎或防滑鏈。
 terrainSummary:
   beginner: Paradise A、Karamatsu、No.1 Gelende 與第 6 Gelende 支撐初級與家庭動線。
   intermediate: Downhill 與 Skyline B 是長距離巡航主軸，夜滑也以 Downhill 為核心。
@@ -221,4 +221,4 @@ externalContent:
     note: 和Ivy去旅行
 ---
 
-Dynaland 是西日本規模很大的雪場之一，與鄰近高鷲 Snow Park 串連後山域更完整。場內約 20 條滑道涵蓋初級到進階玩家，充分利用地形變化，餐廳、租賃與課程等機能也齊全，是高鷲地區代表性的綜合型雪場。
+Dynaland 是西日本規模很大的雪場之一，與鄰近高鷲滑雪公園串連後山域更完整。場內約 20 條滑道涵蓋初級到進階玩家，充分利用地形變化，餐廳、租賃與課程等機能也齊全，是高鷲地區代表性的綜合型雪場。

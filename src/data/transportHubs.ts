@@ -65,7 +65,7 @@ export const transportHubs = {
   },
   hiruganoSmartIc: {
     id: 'hirugano-smart-ic',
-    label: 'ひるがの高原 Smart IC',
+    label: '蛭野高原 Smart IC',
     location: {
       latitude: 36.0047,
       longitude: 136.8938,

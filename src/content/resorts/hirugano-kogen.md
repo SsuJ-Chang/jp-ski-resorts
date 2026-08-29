@@ -1,7 +1,7 @@
 ---
 id: hirugano-kogen
 name:
-  zhTw: ひるがの高原
+  zhTw: 蛭野高原
   ja: ひるがの高原スキー場
   en: Hirugano Kogen Ski Resort
 region: chubu
@@ -22,12 +22,12 @@ links:
   access: https://www.hiruganokogen.com/access/
   snowReport: https://www.hiruganokogen.com/condition/
   liftStatus: https://www.hiruganokogen.com/condition/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hirugano%20Kogen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/dTp8CChjDNShfeSY7
 contact:
   address:
     zhTw: 日本岐阜縣郡上市高鷲町ひるがの 4670-75
     ja: 〒501-5301 岐阜県郡上市高鷲町ひるがの4670-75
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hirugano%20Kogen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/dTp8CChjDNShfeSY7
   phone: 0575-73-2311
 season:
   label: 2025-2026
@@ -35,7 +35,7 @@ season:
   hours: 平日 8:30-16:30；週末及國定假日 8:00-16:30
   source: https://www.takasumountains.com/ski/
 trailMaps:
-- label: ひるがの高原雪場圖
+- label: 蛭野高原高原雪場圖
   language: Japanese
   season: 2025-2026
   url: https://www.hiruganokogen.com/about/
@@ -53,7 +53,7 @@ tickets:
     - 長者 ¥5,500
     - 中高生 ¥4,500
 snowWeather:
-  title: ひるがの高原雪況天氣
+  title: 蛭野高原高原雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35202/
   snowDepth: 0 cm
@@ -61,8 +61,8 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時雪況為準。
 location:
-  latitude: 36.004
-  longitude: 136.895
+  latitude: 36.005716444217214
+  longitude: 136.90854694232897
 elevation:
   verticalDrop: 150
 courses:
@@ -71,7 +71,7 @@ courses:
   intermediateRatio: 55
   advancedRatio: 0
   courseInfoPage: https://www.hiruganokogen.com/about/
-  summary: ひるがの高原是 Takasu Mountains 裡最偏初心者與家庭的雪場，官方 area summary 標示 8 course，詳細頁公開 6 條主要 ski/snowboard course 與 kids land。
+  summary: 蛭野高原高原是 Takasu Mountains 裡最偏初心者與家庭的雪場，官方 area summary 標示 8 course，詳細頁公開 6 條主要 ski/snowboard course 與 kids land。
   details:
   - name: 林間コース / Rinkan Course
     difficulty: beginner
@@ -115,15 +115,15 @@ access:
   fromNagoya:
   - label: 名古屋出發高速巴士
     steps:
-    - 從名古屋搭岐阜巴士高速巴士「名古屋郡上ひるがの線」。
-    - 於「ひるがの高原スキー場直通便」站下車即可抵達雪場。
+    - 從名古屋搭岐阜巴士高速巴士「名古屋郡上蛭野高原線」。
+    - 於「蛭野高原高原滑雪場直通便」站下車即可抵達雪場。
     estimatedTime: 約 2 小時 29 分
     difficulty: easy
-    note: 若改搭到「高速ひるがの高原」站，需再轉乘 Takasu Snow Shuttle Bus；接駁班次與營運期間需行前確認。
+    note: 若改搭到「高速蛭野高原高原」站，需再轉乘 Takasu Snow Shuttle Bus；接駁班次與營運期間需行前確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: ひるがの高原 Smart IC（ETC 專用）起約 5km；未使用 ETC 時可由高鷲 IC 約 13km 或莊川 IC 約 11km 前往。
+    note: 蛭野高原高原 Smart IC（ETC 專用）起約 5km；未使用 ETC 時可由高鷲 IC 約 13km 或莊川 IC 約 11km 前往。
 terrainSummary:
   beginner: 林間、Spade、Clover、Dia Slope 都偏初學與家庭練習。
   intermediate: Queen 與 King Slope 提供較明確的轉彎練習與中級坡度。
@@ -131,4 +131,4 @@ terrainSummary:
   snowboard: 坡面寬且規模小，適合第一次日本滑雪或家庭 snowboarding。
 ---
 
-ひるがの高原位於岐阜縣的高鷲 Mountains，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。放進高鷲旅程時，能和周邊雪場形成不同節奏；適合第一次日本滑雪時，把代表性雪景與滑行體驗放在一起。
+蛭野高原高原位於岐阜縣的高鷲 Mountains，氛圍偏輕鬆友善，適合把親子同行、練習與雪地遊玩排在一起。放進高鷲旅程時，能和周邊雪場形成不同節奏；適合第一次日本滑雪時，把代表性雪景與滑行體驗放在一起。

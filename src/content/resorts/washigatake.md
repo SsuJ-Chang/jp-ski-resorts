@@ -1,7 +1,7 @@
 ---
 id: washigatake
 name:
-  zhTw: 鷲ヶ岳
+  zhTw: 鷲岳
   ja: 鷲ヶ岳スキー場
   en: Washigatake Ski Resort
 region: chubu
@@ -22,12 +22,12 @@ links:
   access: https://ski.washigatake.jp/access/
   snowReport: https://ski.washigatake.jp/condition/
   liftStatus: https://ski.washigatake.jp/condition/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Washigatake%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/SvUmtA9S9yPSQFYX7
 contact:
   address:
     zhTw: 日本岐阜縣郡上市高鷲町大鷲 3250
     ja: 〒501-5303 岐阜県郡上市高鷲町大鷲3250
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Washigatake%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/SvUmtA9S9yPSQFYX7
   phone: 0575-72-5105
 season:
   label: 2025-2026
@@ -36,7 +36,7 @@ season:
   nightSkiingHours: 週六限定夜滑，指定日 16:00-22:30
   source: https://www.takasumountains.com/ski/
 trailMaps:
-- label: 鷲ヶ岳 course map
+- label: 鷲岳 course map
   language: Japanese
   season: 2025-2026
   url: https://ski.washigatake.jp/gelande/
@@ -45,7 +45,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.takasumountains.com/lift/
-  note: TAKASU MOUNTAINS 6 雪場共通券摘要；全山共通券不含鷲ヶ岳夜滑。
+  note: TAKASU MOUNTAINS 6 雪場共通券摘要；全山共通券不含鷲岳夜滑。
   plans:
   - name: 6 雪場共通 1 日券
     priceLines:
@@ -54,7 +54,7 @@ tickets:
     - 長者 ¥5,500
     - 中高生 ¥4,500
 snowWeather:
-  title: 鷲ヶ岳雪況天氣
+  title: 鷲岳雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35205/
   snowDepth: 0 cm
@@ -62,8 +62,8 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時雪況為準。
 location:
-  latitude: 35.92
-  longitude: 136.872
+  latitude: 35.9433789918715
+  longitude: 136.91974512883547
 elevation:
   verticalDrop: 410
 courses:
@@ -72,7 +72,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://ski.washigatake.jp/gelande/
-  summary: 鷲ヶ岳官方列出 13 條 course，最長 3,500m，特色是高鷲 IC 附近的便利交通、寬大名物坡面、park 與週六指定日夜滑。
+  summary: 鷲岳官方列出 13 條 course，最長 3,500m，特色是高鷲 IC 附近的便利交通、寬大名物坡面、park 與週六指定日夜滑。
   details:
   - name: ノースウェイコース / North Way Course
     difficulty: beginner
@@ -158,8 +158,8 @@ access:
   fromNagoya:
   - label: 名古屋出發高速巴士與接駁
     steps:
-    - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
-    - 轉乘 Takasu Snow Shuttle Bus 鷲ヶ岳 LINE 前往鷲ヶ岳。
+    - 從名鐵巴士中心搭高速巴士到「高速蛭野高原」。
+    - 轉乘 Takasu Snow Shuttle Bus 鷲岳 LINE 前往鷲岳。
     estimatedTime: 約 2.5-3 小時
     difficulty: medium
     note: 也可利用名古屋出發的預約制 tour bus；免費接駁有季節與班次限制，需確認上下車站與回程班次。
@@ -181,4 +181,4 @@ externalContent:
     note: "Todd's Japan Ski Trip"
 ---
 
-鷲ヶ岳的滑道配置均衡，包含約 400 m 寬的超寬滑道在內共有 13 條路線，多數為容易滑行的中坡。場內也有約 1,200 m 的主題滑道，配置 20 多個專項設施，對兒童與年輕玩家都很有吸引力。
+鷲岳的滑道配置均衡，包含約 400 m 寬的超寬滑道在內共有 13 條路線，多數為容易滑行的中坡。場內也有約 1,200 m 的主題滑道，配置 20 多個專項設施，對兒童與年輕玩家都很有吸引力。

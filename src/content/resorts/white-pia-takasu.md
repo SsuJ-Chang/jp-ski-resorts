@@ -1,7 +1,7 @@
 ---
 id: white-pia-takasu
 name:
-  zhTw: White Pia たかす
+  zhTw: White Pia 高鷲
   ja: ホワイトピアたかす
   en: White Pia Takasu
 region: chubu
@@ -36,7 +36,7 @@ season:
   hours: 全日 8:00-16:30；Sunrise 營業 7:00 起
   source: https://www.takasumountains.com/ski/
 trailMaps:
-- label: White Pia たかす雪場圖
+- label: White Pia 高鷲雪場圖
   language: Japanese
   season: 2025-2026
   url: https://whitepia.jp/gerende/
@@ -54,7 +54,7 @@ tickets:
     - 長者 ¥5,500
     - 中高生 ¥4,500
 snowWeather:
-  title: White Pia たかす雪況天氣
+  title: White Pia 高鷲雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35220/
   snowDepth: 0 cm
@@ -62,8 +62,8 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時雪況為準。
 location:
-  latitude: 35.949
-  longitude: 136.879
+  latitude: 35.9560036202049
+  longitude: 136.93482165582236
 elevation:
   verticalDrop: 355
 courses:
@@ -72,7 +72,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://whitepia.jp/gerende/
-  summary: White Pia たかす官方標示 13 條 course、最長 2,600m，特色是熊手型 course layout、山頂展望、mogul、freestyle park 與鷲ヶ岳共通動線。
+  summary: White Pia 高鷲官方標示 13 條 course、最長 2,600m，特色是熊手型 course layout、山頂展望、mogul、freestyle park 與鷲岳共通動線。
   details:
   - name: ブラックベア / Black Bear
     difficulty: beginner
@@ -119,15 +119,15 @@ access:
   fromNagoya:
   - label: 名古屋出發高速巴士與接駁
     steps:
-    - 從名鐵巴士中心搭高速巴士到「高速ひるがの高原」。
-    - 轉乘 Takasu Snow Shuttle Bus 鷲ヶ岳 LINE 前往 White Pia たかす。
+    - 從名鐵巴士中心搭高速巴士到「高速蛭野高原」。
+    - 轉乘 Takasu Snow Shuttle Bus 鷲岳 LINE 前往 White Pia 高鷲。
     estimatedTime: 約 2.5-3 小時
     difficulty: medium
     note: 免費接駁有季節與班次限制；部分時段只停靠特定方向，需行前確認上下車站與回程班次。
   car:
     recommended: true
     snowTireRequired: true
-    note: 高鷲 IC 起約 15 分鐘；ひるがの高原 Smart IC（ETC 專用）起約 10 分鐘，官方特別提醒橋面容易結冰。
+    note: 高鷲 IC 起約 15 分鐘；蛭野高原 Smart IC（ETC 專用）起約 10 分鐘，官方特別提醒橋面容易結冰。
 terrainSummary:
   beginner: Black Bear 下部、Center Way、Center C、Panorama Way 與 Snake Street 是主要緩坡動線。
   intermediate: Center A/B、Star、Swing、Skip 提供中級與 mogul 練習銜接。
@@ -136,4 +136,4 @@ terrainSummary:
   powder: 官方重點較偏地形與展望，粉雪狀況需看當日公告。
 ---
 
-岐阜縣的White Pia たかす共有13 條雪道，搭配 4 座纜車，包含 ブラックベア / Black Bear、センターウェイ / Center Way、センターC / Center C 等路線。初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+岐阜縣的White Pia 高鷲共有13 條雪道，搭配 4 座纜車，包含 ブラックベア / Black Bear、センターウェイ / Center Way、センターC / Center C 等路線。初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
