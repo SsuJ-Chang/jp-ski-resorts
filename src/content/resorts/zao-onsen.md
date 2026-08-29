@@ -24,12 +24,12 @@ links:
   weather: https://weathernews.jp/ski/spot/33501/
   ticket: https://zaomountainresort.com/chrage/
   access: https://zaomountainresort.com/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Zao%20Onsen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/ZHKC87u1K18H8H5i7
 contact:
   address:
     zhTw: 日本山形縣山形市藏王溫泉
     ja: 〒990-2301 山形県山形市蔵王温泉
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Zao%20Onsen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/ZHKC87u1K18H8H5i7
   phone: 023-694-9328（藏王溫泉觀光協會）
 season:
   label: 2025-2026
@@ -97,8 +97,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 38.170507
-  longitude: 140.401887
+  latitude: 38.165314954041435
+  longitude: 140.39526757116448
 elevation:
   top: 1661
   bottom: 780
