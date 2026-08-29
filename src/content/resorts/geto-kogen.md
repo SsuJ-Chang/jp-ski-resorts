@@ -22,12 +22,12 @@ links:
   xTwitter: "https://twitter.com/getokogen"
   weather: "https://weathernews.jp/ski/spot/33315/"
   access: "https://www.getokogen.com/winter/05access/index.html"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=Geto%20Kogen%20Ski%20Resort"
+  googleMaps: https://maps.app.goo.gl/4FgrBzDRsmFmqSu67
 contact:
   address:
     zhTw: "日本岩手縣北上市和賀町岩崎新田"
     ja: "〒024-0322 岩手県北上市和賀町岩崎新田"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=Geto%20Kogen%20Ski%20Resort"
+    googleMaps: https://maps.app.goo.gl/4FgrBzDRsmFmqSu67
   phone: "0197-65-9000"
 season:
   label: "2025-2026"
@@ -135,8 +135,8 @@ snowWeather:
   forecast: []
   note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 location:
-  latitude: 39.237441
-  longitude: 140.905233
+  latitude: 39.23679495307127
+  longitude: 140.9062501711645
 elevation:
   top: 1070
   bottom: 640
