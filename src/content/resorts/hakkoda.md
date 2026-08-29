@@ -19,12 +19,12 @@ links:
   instagram: "https://www.instagram.com/hakkoda_ropeway_official"
   weather: "https://weathernews.jp/ski/spot/33105/"
   access: "https://hakkoda-ropeway.jp/access/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=Hakkoda%20Ropeway%20Ski"
+  googleMaps: https://maps.app.goo.gl/riWeNFRsxiQXEAvS9
 contact:
   address:
     zhTw: "日本青森縣青森市大字荒川字寒水澤"
     ja: "〒030-0188 青森県青森市大字荒川字寒水沢"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=Hakkoda%20Ropeway%20Ski"
+    googleMaps: https://maps.app.goo.gl/riWeNFRsxiQXEAvS9
   phone: "017-738-0343"
 season:
   label: "2025-2026"
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 location:
-  latitude: 40.679173
-  longitude: 140.830607
+  latitude: 40.68094361461105
+  longitude: 140.8316751759673
 elevation:
   top: 1324
   bottom: 660
