@@ -15,10 +15,10 @@ visibility:
   status: "published"
   note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
 links:
-  official: "https://weathernews.jp/ski/spot/31216/"
-  weather: "https://weathernews.jp/ski/spot/31216/"
-  googleMaps: "https://maps.app.goo.gl/9NtwWKJTw5UufEN76
-  access: "https://weathernews.jp/ski/spot/31216/"
+  official: https://weathernews.jp/ski/spot/31216/
+  weather: https://weathernews.jp/ski/spot/31216/
+  googleMaps: https://maps.app.goo.gl/9NtwWKJTw5UufEN76
+  access: https://weathernews.jp/ski/spot/31216/
 contact:
   address:
     zhTw: "日本北海道上川郡新得町字新得9番地"
