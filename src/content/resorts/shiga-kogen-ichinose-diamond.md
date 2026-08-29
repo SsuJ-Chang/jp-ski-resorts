@@ -1,7 +1,7 @@
 ---
 id: shiga-kogen-ichinose-diamond
 name:
-  zhTw: 志賀高原一之瀨 Diamond
+  zhTw: 志賀高原一之瀨鑽石
   ja: 一の瀬ダイヤモンドスキー場
   en: Ichinose Diamond Ski Area
 region: kanto-koshinetsu
@@ -21,7 +21,13 @@ links:
   access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Ichinose%20Diamond%20Ski%20Area%20Shiga%20Kogen
+  googleMaps: https://maps.app.goo.gl/Aoj4abvDGpfXMi9i9
+contact:
+  address:
+    zhTw: 日本長野縣下高井郡山之內町平穩
+    ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi, 山ノ内町Hirao
+    googleMaps: https://maps.app.goo.gl/Aoj4abvDGpfXMi9i9
+  phone: 0269-34-2556
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
@@ -44,7 +50,7 @@ tickets:
     - 長者 ¥6,400
     - 兒童 ¥3,600
 snowWeather:
-  title: 志賀高原一之瀨 Diamond 雪況天氣
+  title: 志賀高原一之瀨鑽石雪況天氣
   provider: Official
   url: https://www.shigakogen.gr.jp/english/lift_information/
   snowDepth: 0 cm
@@ -60,7 +66,7 @@ courses:
   advancedRatio: 0
   total: 2
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
-  summary: 一之瀨 Diamond 是一之瀨旁的練習區，Diamond Gelende 與 Rabbit Course 適合 slalom 與基礎訓練。
+  summary: 一之瀨鑽石是一之瀨旁的練習區，Diamond Gelende 與 Rabbit Course 適合 slalom 與基礎訓練。
   details:
   - name: Diamond Gelende
     difficulty: intermediate
@@ -91,4 +97,4 @@ terrainSummary:
   snowboard: 平緩外側路線可用於雪板基本動作練習。
 ---
 
-長野縣的志賀高原一之瀨 Diamond共有 2 條雪道，搭配 2 座纜車，包含 Diamond Gelende、Rabbit Course 等路線；以中級滑行為主，標籤偏向初學者練習、雙板與單板。
+長野縣的志賀高原一之瀨鑽石共有 2 條雪道，搭配 2 座纜車，包含 Diamond Gelende、Rabbit Course 等路線；以中級滑行為主，標籤偏向初學者練習、雙板與單板。

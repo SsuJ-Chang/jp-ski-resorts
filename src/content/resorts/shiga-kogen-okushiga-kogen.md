@@ -23,7 +23,13 @@ links:
   access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Okushiga%20Kogen%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/HTDdvtnoDHrZhRLE6
+contact:
+  address:
+    zhTw: 日本長野縣下高井郡山之內町夜間瀨大澤 12377-17
+    ja: 〒381-0405 Nagano, Shimotakai District, Yamanouchi, Yomase, 大沢12377-17
+    googleMaps: https://maps.app.goo.gl/HTDdvtnoDHrZhRLE6
+  phone: 0269-34-2225
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/13-2026/5/3

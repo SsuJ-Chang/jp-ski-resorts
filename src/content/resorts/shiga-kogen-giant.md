@@ -1,7 +1,7 @@
 ---
 id: shiga-kogen-giant
 name:
-  zhTw: 志賀高原 Giant
+  zhTw: 志賀高原 巨人
   ja: ジャイアントスキー場
   en: Giant Ski Area
 region: kanto-koshinetsu
@@ -20,7 +20,13 @@ links:
   access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Giant%20Ski%20Area%20Shiga%20Kogen
+  googleMaps: https://maps.app.goo.gl/Wc4NSyaRyveHXiiv7
+contact:
+  address:
+    zhTw: 日本長野縣下高井郡山之內町平穩
+    ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi, 山ノ内町Hirao
+    googleMaps: https://maps.app.goo.gl/Wc4NSyaRyveHXiiv7
+  phone: 0269-34-2524
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
@@ -43,7 +49,7 @@ tickets:
     - 長者 ¥6,400
     - 兒童 ¥3,600
 snowWeather:
-  title: 志賀高原 Giant 雪況天氣
+  title: 志賀高原巨人雪況天氣
   provider: Official
   url: https://www.shigakogen.gr.jp/english/lift_information/
   snowDepth: 0 cm
@@ -59,16 +65,16 @@ courses:
   advancedRatio: 34
   total: 3
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
-  summary: Giant 是中央區域具代表性的進階斜面，也有避開主斜面的初級連絡路。
+  summary: 巨人是中央區域具代表性的進階斜面，也有避開主斜面的初級連絡路。
   details:
   - name: Giant Nanamagari Course
     difficulty: beginner
     length: 705m
-    note: 避開 Giant 困難區段的初級連絡路，可銜接東館山、西館山、高天原與一之瀨方向。
+    note: 避開巨人困難區段的初級連絡路，可銜接東館山、西館山、高天原與一之瀨方向。
   - name: Giant Connection Course
     difficulty: intermediate
     length: 240m
-    note: 連接 Giant 與蓮池區域的短距離連絡路。
+    note: 連接巨人與蓮池區域的短距離連絡路。
   - name: Giant Gelende
     difficulty: advanced
     length: 1,000m
@@ -80,18 +86,18 @@ access:
   - label: 東京出發經長野
     steps:
     - 從東京搭北陸新幹線到長野站。
-    - 從長野站東口搭直達巴士前往志賀高原，於 Giant 或山之站、蓮池周邊站點下車。
+    - 從長野站東口搭直達巴士前往志賀高原，於巨人或山之站、蓮池周邊站點下車。
     estimatedTime: 長野後約 1.5-2 小時
     difficulty: medium
     note: 志賀高原範圍很大，實際下車站與所需時間會依雪場區域不同；冬季班次與末班車需先確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。可利用 Giant 停車場約 350 台，冬季需準備雪胎或雪鏈。
+    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。可利用巨人停車場約 350 台，冬季需準備雪胎或雪鏈。
 terrainSummary:
   beginner: Nanamagari Course 提供避開主斜面的安全移動路線。
   intermediate: Connection Course 主要作為區域銜接。
   advanced: Giant Gelende 是中央區域代表性高難度斜面。
 ---
 
-長野縣的志賀高原 Giant共有 3 條雪道，搭配 2 座纜車，包含 Giant Nanamagari Course 等路線；初級、中級與上級路線都有配置。
+長野縣的志賀高原巨人共有 3 條雪道，搭配 2 座纜車，包含 Giant Nanamagari Course 等路線；初級、中級與上級路線都有配置。

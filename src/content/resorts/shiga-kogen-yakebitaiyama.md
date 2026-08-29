@@ -23,7 +23,13 @@ links:
   access: https://www.princehotels.co.jp/ski/shiga/winter/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Yakebitaiyama%20Ski%20Area%20Shiga%20Kogen
+  googleMaps: https://maps.app.goo.gl/FcxA3SuDqHpM372UA
+contact:
+  address:
+    zhTw: 日本長野縣下高井郡山之內町志賀高原燒額山
+    ja: 〒381-0497 長野県下高井郡山ノ内町志賀高原焼額山
+    googleMaps: https://maps.app.goo.gl/FcxA3SuDqHpM372UA
+  phone: 0269-34-3117
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整

@@ -21,7 +21,13 @@ links:
   access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Nishidateyama%20Ski%20Area%20Shiga%20Kogen
+  googleMaps: https://maps.app.goo.gl/w5rNHvcS4w15TQvK6
+contact:
+  address:
+    zhTw: 日本長野縣下高井郡山之內町
+    ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi
+    googleMaps: https://maps.app.goo.gl/w5rNHvcS4w15TQvK6
+  phone: 0269-34-2524
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整

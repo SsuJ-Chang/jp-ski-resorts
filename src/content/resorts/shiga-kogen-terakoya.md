@@ -11,7 +11,7 @@ tags:
 - powder
 - snowboard_friendly
 links:
-  official: https://shigakogen.co.jp/
+  official: https://shigakogen.co.jp/winter/
   facebook: https://www.facebook.com/ShigaKogen.Ski
   instagram: https://www.instagram.com/ShigaCentral/
   xTwitter: https://x.com/ShigaCentral
@@ -21,7 +21,13 @@ links:
   access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Terakoya%20Ski%20Area%20Shiga%20Kogen
+  googleMaps: https://maps.app.goo.gl/TAFHERD7fDwVAwybA
+contact:
+  address:
+    zhTw: 日本長野縣下高井郡山之內町平穩寺小屋
+    ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi, 山ノ内町Hirao, 寺小屋
+    googleMaps: https://maps.app.goo.gl/TAFHERD7fDwVAwybA
+  phone: 0269-34-2231
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整

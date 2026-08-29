@@ -1,7 +1,7 @@
 ---
 id: shiga-kogen-ichinose-family
 name:
-  zhTw: 志賀高原一之瀨 Family
+  zhTw: 志賀高原一之瀨家庭
   ja: 一の瀬ファミリースキー場
   en: Ichinose Family Ski Area
 region: kanto-koshinetsu
@@ -23,7 +23,13 @@ links:
   access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Ichinose%20Family%20Ski%20Area%20Shiga%20Kogen
+  googleMaps: https://maps.app.goo.gl/NQDbX3C5A7585xC98
+contact:
+  address:
+    zhTw: 日本長野縣下高井郡山之內町
+    ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi
+    googleMaps: https://maps.app.goo.gl/NQDbX3C5A7585xC98
+  phone: 0269-34-2241
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
@@ -46,7 +52,7 @@ tickets:
     - 長者 ¥6,400
     - 兒童 ¥3,600
 snowWeather:
-  title: 志賀高原一之瀨 Family 雪況天氣
+  title: 志賀高原一之瀨家庭雪況天氣
   provider: Official
   url: https://www.shigakogen.gr.jp/english/lift_information/
   snowDepth: 0 cm
@@ -62,7 +68,7 @@ courses:
   advancedRatio: 14
   total: 7
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
-  summary: 一之瀨 Family 有寬廣主斜面、長距離初級林間路線與中央區域連絡路，是志賀高原住宿與練習常用區域。
+  summary: 一之瀨家庭有寬廣主斜面、長距離初級林間路線與中央區域連絡路，是志賀高原住宿與練習常用區域。
   details:
   - name: Ichinose Family Front Gelende (Upper section)
     difficulty: beginner
@@ -79,11 +85,11 @@ courses:
   - name: Ichinose Family - Terakoya Connection Course
     difficulty: beginner
     length: 600m
-    note: 從一之瀨 Family base 前往高天原 Mammoth 方向的連絡路。
+    note: 從一之瀨家庭 base 前往高天原 Mammoth 方向的連絡路。
   - name: Ichinose Family - Takamagahara Connection Course
     difficulty: beginner
     length: 700m
-    note: 從一之瀨 Family base 前往高天原 Mammoth 的連絡路。
+    note: 從一之瀨家庭 base 前往高天原 Mammoth 的連絡路。
   - name: Panorama Course
     difficulty: intermediate
     length: 2,300m
@@ -102,7 +108,7 @@ access:
     - 從長野站東口搭直達巴士前往志賀高原，於一之瀨周邊站點下車。
     estimatedTime: 長野後約 1.5-2 小時
     difficulty: medium
-    note: 一之瀨 Family 位於中央區域核心，住宿與滑行動線多；下車站需依住宿或當日行程確認。
+    note: 一之瀨家庭位於中央區域核心，住宿與滑行動線多；下車站需依住宿或當日行程確認。
   car:
     recommended: true
     snowTireRequired: true
@@ -114,4 +120,4 @@ terrainSummary:
   snowboard: 寬斜面與長距離路線適合雪板練習，但需注意連絡路速度。
 ---
 
-志賀高原一之瀨 Family 位在長野縣，整理為 7 條雪道，搭配 4 座纜車。Ichinose Family Front G…、Tengu Course 可作為代表路線，初級、中級與上級路線都有配置，標籤偏向初學者練習、親子同行。
+志賀高原一之瀨家庭位在長野縣，整理為 7 條雪道，搭配 4 座纜車。Ichinose Family Front G…、Tengu Course 可作為代表路線，初級、中級與上級路線都有配置，標籤偏向初學者練習、親子同行。

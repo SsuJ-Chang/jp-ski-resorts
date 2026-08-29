@@ -27,7 +27,7 @@ export const shigaKogenMap = {
     },
     {
       id: 'shiga-kogen-sun-valley',
-      label: 'Sun Valley',
+      label: '太陽谷',
       kind: 'resort',
       resortId: 'shiga-kogen-sun-valley',
       nudge: { x: -5, y: -4 },
@@ -48,7 +48,7 @@ export const shigaKogenMap = {
     },
     {
       id: 'shiga-kogen-giant',
-      label: 'Giant',
+      label: '巨人',
       kind: 'resort',
       resortId: 'shiga-kogen-giant',
       nudge: { x: -1, y: -4 },
@@ -83,7 +83,7 @@ export const shigaKogenMap = {
     },
     {
       id: 'shiga-kogen-takamagahara-mammoth',
-      label: '高天原 Mammoth',
+      label: '高天原長毛象',
       kind: 'resort',
       resortId: 'shiga-kogen-takamagahara-mammoth',
       nudge: { x: -4, y: 2 },
@@ -97,14 +97,14 @@ export const shigaKogenMap = {
     },
     {
       id: 'shiga-kogen-ichinose-family',
-      label: '一之瀨 Family',
+      label: '一之瀨家庭',
       kind: 'resort',
       resortId: 'shiga-kogen-ichinose-family',
       nudge: { x: 3, y: 1 },
     },
     {
       id: 'shiga-kogen-ichinose-diamond',
-      label: '一之瀨 Diamond',
+      label: '一之瀨鑽石',
       kind: 'resort',
       resortId: 'shiga-kogen-ichinose-diamond',
       nudge: { x: 1, y: 7 },

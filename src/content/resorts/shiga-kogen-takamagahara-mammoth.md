@@ -1,7 +1,7 @@
 ---
 id: shiga-kogen-takamagahara-mammoth
 name:
-  zhTw: 志賀高原高天原 Mammoth
+  zhTw: 志賀高原高天原長毛象
   ja: 高天ヶ原マンモススキー場
   en: Takamagahara Mammoth Ski Area
 region: kanto-koshinetsu
@@ -21,7 +21,13 @@ links:
   access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Takamagahara%20Mammoth%20Ski%20Area%20Shiga%20Kogen
+  googleMaps: https://maps.app.goo.gl/E5t4xtMZBRHzfYiD8
+contact:
+  address:
+    zhTw: 日本長野縣下高井郡山之內町平穩
+    ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi, 山ノ内町Hirao
+    googleMaps: https://maps.app.goo.gl/E5t4xtMZBRHzfYiD8
+  phone: 0269-34-2041
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
@@ -44,7 +50,7 @@ tickets:
     - 長者 ¥6,400
     - 兒童 ¥3,600
 snowWeather:
-  title: 志賀高原高天原 Mammoth 雪況天氣
+  title: 志賀高原高天原長毛象雪況天氣
   provider: Official
   url: https://www.shigakogen.gr.jp/english/lift_information/
   snowDepth: 0 cm
@@ -60,7 +66,7 @@ courses:
   advancedRatio: 0
   total: 2
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
-  summary: 高天原 Mammoth 位於中央區域核心，可連接東館山、Tanne no Mori Okojo 與西館山。
+  summary: 高天原長毛象位於中央區域核心，可連接東館山、Tanne no Mori Okojo 與西館山。
   details:
   - name: Takamagahara Mammoth Gelende (Lower section)
     difficulty: beginner
@@ -91,4 +97,4 @@ terrainSummary:
   snowboard: 可銜接多個中央區域雪場，適合移動型滑行。
 ---
 
-志賀高原高天原 Mammoth 位於長野縣，特色是寬面主雪道與區域中心位置，滑行安排很直覺。它適合放在志賀高原多日行程的中段，拿來做穩定巡航、重新調整節奏，或銜接周邊區域。
+志賀高原高天原長毛象位於長野縣，特色是寬面主雪道與區域中心位置，滑行安排很直覺。它適合放在志賀高原多日行程的中段，拿來做穩定巡航、重新調整節奏，或銜接周邊區域。

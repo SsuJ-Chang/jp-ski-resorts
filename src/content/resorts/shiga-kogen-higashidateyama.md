@@ -22,7 +22,13 @@ links:
   access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Higashidateyama%20Ski%20Area%20Shiga%20Kogen
+  googleMaps: https://maps.app.goo.gl/NNV9qdt7Gqv5EkcV6
+contact:
+  address:
+    zhTw: 日本長野縣下高井郡山之內町平穩
+    ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi, 山ノ内町Hirao
+    googleMaps: https://maps.app.goo.gl/NNV9qdt7Gqv5EkcV6
+  phone: 0269-34-2231
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
@@ -61,7 +67,7 @@ courses:
   advancedRatio: 0
   total: 5
   courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
-  summary: 東館山有奧運路線與長距離 Forest Course，並可連接一之瀨 Family 與寺小屋。
+  summary: 東館山有奧運路線與長距離 Forest Course，並可連接一之瀨家庭與寺小屋。
   details:
   - name: Higashitateyama Forest Course
     difficulty: beginner
@@ -72,7 +78,7 @@ courses:
   - name: Higashitateyama - Ichinose Family Connection Course
     difficulty: beginner
     length: 500m
-    note: 連接東館山與一之瀨 Family 的連絡路。
+    note: 連接東館山與一之瀨家庭的連絡路。
   - name: Higashitateyama - Terakoya Connection Course
     difficulty: beginner
     length: 500m

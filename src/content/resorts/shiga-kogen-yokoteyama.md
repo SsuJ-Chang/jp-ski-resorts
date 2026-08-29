@@ -21,7 +21,13 @@ links:
   access: https://yokoteyama2307.com/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Yokoteyama%20Ski%20Area%20Shiga%20Kogen
+  googleMaps: https://maps.app.goo.gl/E3unk2Yzh1G4GppbA
+contact:
+  address:
+    zhTw: 日本長野縣下高井郡山之內町平穩
+    ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi, 山ノ内町Hirao
+    googleMaps: https://maps.app.goo.gl/E3unk2Yzh1G4GppbA
+  phone: 0269-34-2600
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整

@@ -21,7 +21,7 @@ links:
   access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Ichinose%20Yamanokami%20Ski%20Area%20Shiga%20Kogen
+  googleMaps: https://maps.app.goo.gl/dA2korSQj9eiYzTf6
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
