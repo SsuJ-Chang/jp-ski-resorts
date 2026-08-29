@@ -22,12 +22,12 @@ links:
   instagram: "https://www.instagram.com/appi_snow/"
   weather: "https://weathernews.jp/ski/spot/33301/"
   access: "https://www.appi.co.jp/snow-mountain-resort/access/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=Appi%20Kogen%20Ski%20Resort"
+  googleMaps: https://maps.app.goo.gl/sgdnS3wCt6hqxUqz8
 contact:
   address:
     zhTw: "日本岩手縣八幡平市安比高原"
     ja: "〒028-7395 岩手県八幡平市安比高原"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=Appi%20Kogen%20Ski%20Resort"
+    googleMaps: https://maps.app.goo.gl/sgdnS3wCt6hqxUqz8
   phone: "0570-029-511"
 season:
   label: "2025-2026"
@@ -82,8 +82,8 @@ snowWeather:
   forecast: []
   note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 location:
-  latitude: 40.002299
-  longitude: 140.969937
+  latitude: 40.0024173604333
+  longitude: 140.970519442329
 elevation:
   top: 1328
   bottom: 620
