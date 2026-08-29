@@ -22,12 +22,12 @@ links:
   ticket: https://www.hachi-hachikita.co.jp/hachikita/rate.html
   access: https://www.hachi-hachikita.co.jp/hachikita/access.html
   weather: https://weathernews.jp/ski/spot/36301/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hachikita%20Kogen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/62hSE7Dr577gEmpf7
 contact:
   address:
     zhTw: 兵庫縣美方郡香美町村岡區大笹 580-1
     ja: 〒667-1344 兵庫県美方郡香美町村岡区大笹580−1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hachikita%20Kogen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/62hSE7Dr577gEmpf7
   phone: 0796-96-0201
 season:
   label: 2025-2026
@@ -81,8 +81,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 35.42
-  longitude: 134.56
+  latitude: 35.40781191841512
+  longitude: 134.55390777116443
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 2
