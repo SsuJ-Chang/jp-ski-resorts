@@ -89,8 +89,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.66451
-  longitude: 137.82522
+  latitude: 36.66336949950693
+  longitude: 137.83660396792817
 courses:
   beginnerRatio: 50
   intermediateRatio: 25
