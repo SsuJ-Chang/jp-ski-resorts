@@ -20,14 +20,14 @@ links:
   xTwitter: https://x.com/wrh_sanosaka
   trailMapPage: https://sanosaka.jp/course/
   ticket: https://sanosaka.jp/lift/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=White%20Resort%20Hakuba%20Sanosaka
+  googleMaps: https://maps.app.goo.gl/B7MwgR7jaQf5ZRjT6
   trailMapPdf: https://sanosaka.jp/wp/wp-content/uploads/2025/12/sanosaka_map.pdf
   access: https://sanosaka.jp/access/
 contact:
   address:
     zhTw: 長野縣北安曇郡白馬村神城 458
     ja: 〒399-9211 長野県北安曇郡白馬村大字神城458
-    googleMaps: https://www.google.com/maps/search/?api=1&query=White%20Resort%20Hakuba%20Sanosaka
+    googleMaps: https://maps.app.goo.gl/B7MwgR7jaQf5ZRjT6
   phone: 0261-75-2452
 season:
   label: 2025-2026
@@ -67,8 +67,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.6302
-  longitude: 137.8402
+  latitude: 36.62932526047126
+  longitude: 137.84158847791073
 elevation:
   top: 1200
   bottom: 740

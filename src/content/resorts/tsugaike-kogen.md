@@ -26,13 +26,13 @@ links:
   xTwitter: https://x.com/gogotsugaike
   trailMapPage: https://www.tsugaike.gr.jp/snow/gelande
   ticket: https://www.tsugaike.gr.jp/snow/price
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Tsugaike%20Mountain%20Resort
+  googleMaps: https://maps.app.goo.gl/ZEQiyW8smTGF5Zw47
   access: https://www.tsugaike.gr.jp/snow/access
 contact:
   address:
     zhTw: 長野縣北安曇郡小谷村千國乙
     ja: 〒399-9422 長野県北安曇郡小谷村大字千国乙
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Tsugaike%20Mountain%20Resort
+    googleMaps: https://maps.app.goo.gl/ZEQiyW8smTGF5Zw47
   phone: 050-1809-2606
 season:
   label: 2025-2026
@@ -79,8 +79,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.75523
-  longitude: 137.85074
+  latitude: 36.74932993549222
+  longitude: 137.86606236441781
 elevation:
   top: 1704
   bottom: 800

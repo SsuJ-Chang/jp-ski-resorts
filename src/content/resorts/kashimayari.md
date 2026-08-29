@@ -22,12 +22,12 @@ links:
   ticket: https://www.kashimayari.net/snow/ticket/
   access: https://www.kashimayari.net/snow/access/
   weather: https://www.kashimayari.net/snow/course/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Kashimayari%20Snow%20Resort
+  googleMaps: https://maps.app.goo.gl/fE1nV7jQuTVhJgpb9
 contact:
   address:
     zhTw: 長野縣大町市平 20490-4
     ja: 〒398-0001 長野県大町市平20490-4
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Kashimayari%20Snow%20Resort
+    googleMaps: https://maps.app.goo.gl/fE1nV7jQuTVhJgpb9
   phone: 0261-23-1231
 season:
   label: 2025-2026
@@ -59,8 +59,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.58163
-  longitude: 137.83928
+  latitude: 36.5971153725714
+  longitude: 137.825418549075
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

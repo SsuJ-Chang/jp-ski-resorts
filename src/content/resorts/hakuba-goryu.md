@@ -25,12 +25,12 @@ links:
   trailMapPdf: https://www.hakubaescal.com/winter/common/pdf/gelande/gelandemap2025.pdf
   ticket: https://www.hakubaescal.com/winter/tickets/lift/
   access: https://www.hakubaescal.com/winter/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Able%20Hakuba%20Goryu%20Escal%20Plaza
+  googleMaps: https://maps.app.goo.gl/uTFHLf9nyArEHLRR8
 contact:
   address:
     zhTw: 日本長野縣北安曇郡白馬村神城 22184-10 Escal Plaza
     ja: 〒399-9211 長野県北安曇郡白馬村神城22184-10 エスカルプラザ
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Able%20Hakuba%20Goryu%20Escal%20Plaza
+    googleMaps: https://maps.app.goo.gl/uTFHLf9nyArEHLRR8
   phone: 0261-75-2101
 season:
   label: 2025-2026

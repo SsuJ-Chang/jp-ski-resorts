@@ -18,12 +18,12 @@ links:
   ticket: https://jiigatake.com/price/
   access: https://jiigatake.com/access/
   weather: https://jiigatake.com/slope/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Jiigatake%20Snow%20Resort
+  googleMaps: https://maps.app.goo.gl/Nrr2KAAyyocAvsHc6
 contact:
   address:
     zhTw: 長野縣大町市平 4819
     ja: 長野県大町市平4819
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Jiigatake%20Snow%20Resort
+    googleMaps: https://maps.app.goo.gl/Nrr2KAAyyocAvsHc6
   phone: 0261-22-0551
 season:
   label: 2025-2026
@@ -67,8 +67,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.5604
-  longitude: 137.7983
+  latitude: 36.56268144604031
+  longitude: 137.7984624690385
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

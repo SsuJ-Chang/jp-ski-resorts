@@ -24,12 +24,12 @@ links:
   weather: https://www.hakuba47.co.jp/winter/en/mountain/mountain_info/
   snowReport: https://www.hakuba47.co.jp/winter/en/condition/
   liftStatus: https://www.hakuba47.co.jp/winter/en/condition/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%2047%20Winter%20Sports%20Park
+  googleMaps: https://maps.app.goo.gl/6WiDDLDg9SV3t4Rn7
 contact:
   address:
     zhTw: 長野縣北安曇郡白馬村神城 24196-47
     ja: 〒399-9211 長野県北安曇郡白馬村神城24196-47
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%2047%20Winter%20Sports%20Park
+    googleMaps: https://maps.app.goo.gl/6WiDDLDg9SV3t4Rn7
   phone: 0261-75-3533
 season:
   label: 2025-2026
@@ -91,8 +91,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.67218
-  longitude: 137.82166
+  latitude: 36.685499482550675
+  longitude: 137.82829163558213
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

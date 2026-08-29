@@ -21,12 +21,12 @@ links:
   ticket: https://www.hakunori.com/ticket/
   access: https://www.hakunori.com/access/
   weather: https://www.hakunori.com/gelande/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Norikura%20Onsen%20Snow%20Resort
+  googleMaps: https://maps.app.goo.gl/HETfzeCaUBxfAwZe6
 contact:
   address:
     zhTw: 長野縣北安曇郡小谷村千國乙 12860-1
     ja: 長野県北安曇郡小谷村千国乙12860-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Norikura%20Onsen%20Snow%20Resort
+    googleMaps: https://maps.app.goo.gl/HETfzeCaUBxfAwZe6
   phone: 0261-82-2821
 season:
   label: 2025-2026
@@ -58,8 +58,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.76953
-  longitude: 137.8704
+  latitude: 36.7660550946228
+  longitude: 137.87397523558215
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

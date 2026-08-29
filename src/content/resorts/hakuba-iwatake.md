@@ -23,12 +23,12 @@ links:
   weather: https://iwatake-mountain-resort.com/winter/course_lift
   snowReport: https://iwatake-mountain-resort.com/winter/course_lift
   liftStatus: https://iwatake-mountain-resort.com/winter/course_lift
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Iwatake%20Snow%20Field
+  googleMaps: https://maps.app.goo.gl/fM7LETmWj14n9Mz59
 contact:
   address:
     zhTw: 長野縣北安曇郡白馬村北城 12056
     ja: 〒399-9301 長野県北安曇郡白馬村北城12056
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Iwatake%20Snow%20Field
+    googleMaps: https://maps.app.goo.gl/fM7LETmWj14n9Mz59
   phone: 0261-72-2474
 season:
   label: 2025-2026
@@ -88,8 +88,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.72437
-  longitude: 137.84539
+  latitude: 36.71695650390195
+  longitude: 137.85699380674643
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

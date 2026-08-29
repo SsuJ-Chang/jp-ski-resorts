@@ -21,12 +21,12 @@ links:
   ticket: https://www.hgp.co.jp/cortina/ski/charge/
   access: https://www.hgp.co.jp/cortina/ski/access/
   weather: https://www.hgp.co.jp/cortina/ski/gelande/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Cortina%20Snow%20Resort
+  googleMaps: https://maps.app.goo.gl/vSZrhvijEkySNig27
 contact:
   address:
     zhTw: 長野縣北安曇郡小谷村千國乙 12860-1
     ja: 〒399-9422 長野県北安曇郡小谷村千国乙12860-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Cortina%20Snow%20Resort
+    googleMaps: https://maps.app.goo.gl/vSZrhvijEkySNig27
   phone: 0261-82-2236
 season:
   label: 2025-2026
@@ -58,8 +58,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.77873
-  longitude: 137.88186
+  latitude: 36.777188408723674
+  longitude: 137.88512920674643
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

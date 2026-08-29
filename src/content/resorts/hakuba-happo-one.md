@@ -25,12 +25,12 @@ links:
   weather: https://www.happo-one.jp/gelande/condition/
   snowReport: https://www.happo-one.jp/gelande/condition/
   liftStatus: https://www.happo-one.jp/gelande/lift/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Happo-one%20Snow%20Resort
+  googleMaps: https://maps.app.goo.gl/5QCNFQJ2BPkXSst79
 contact:
   address:
     zhTw: 長野縣北安曇郡白馬村北城八方
     ja: 長野県北安曇郡白馬村北城八方
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hakuba%20Happo-one%20Snow%20Resort
+    googleMaps: https://maps.app.goo.gl/5QCNFQJ2BPkXSst79
   phone: 0261-72-3066
 season:
   label: 2025-2026
@@ -73,8 +73,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.70369
-  longitude: 137.81896
+  latitude: 36.7021389339943
+  longitude: 137.83694996441784
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3
