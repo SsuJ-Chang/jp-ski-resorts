@@ -24,12 +24,12 @@ links:
   ticket: https://alpenblick-resort.com/ski
   access: https://alpenblick-resort.com/access
   weather: https://weathernews.jp/ski/spot/35413/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Ikenotaira%20Onsen%20Alpenblick%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/52rrSAw33VBqC2n96
 contact:
   address:
     zhTw: 新潟縣妙高市關川 2457-1
     ja: 新潟県妙高市関川2457-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Ikenotaira%20Onsen%20Alpenblick%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/52rrSAw33VBqC2n96
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/13-2026/4/5
@@ -83,8 +83,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.8799
-  longitude: 138.1781
+  latitude: 36.87273552072962
+  longitude: 138.17191309325358
 elevation:
   top: 1500
   bottom: 760

@@ -21,12 +21,12 @@ links:
   ticket: https://www.princehotels.co.jp/ski/myoko/winter/lift/
   access: https://www.princehotels.co.jp/ski/myoko/winter/access/
   weather: https://weathernews.jp/ski/spot/35423/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Myoko%20Suginohara%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/MbT4PPa4mzJfeBHY9
 contact:
   address:
     zhTw: 新潟縣妙高市杉野澤
     ja: 新潟県妙高市杉野沢
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Myoko%20Suginohara%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/MbT4PPa4mzJfeBHY9
   phone: 0255-86-6211
 season:
   label: 2025-2026
@@ -69,8 +69,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.8646
-  longitude: 138.1441
+  latitude: 36.85710277483855
+  longitude: 138.15506463558214
 elevation:
   top: 1855
   bottom: 731

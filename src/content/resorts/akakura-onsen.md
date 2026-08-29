@@ -23,12 +23,12 @@ links:
   ticket: https://akakura-ski.com/
   access: https://akakura-ski.com/
   weather: https://weathernews.jp/ski/spot/35493/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Akakura%20Onsen%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/ZLBbHjcQ21WGhhJq8
 contact:
   address:
     zhTw: 新潟縣妙高市赤倉溫泉
     ja: 新潟県妙高市赤倉温泉
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Akakura%20Onsen%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/ZLBbHjcQ21WGhhJq8
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/13-2026/4/5
@@ -78,8 +78,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.8933
-  longitude: 138.1783
+  latitude: 36.89105545259374
+  longitude: 138.17670163558213
 elevation:
   top: 1250
   bottom: 750

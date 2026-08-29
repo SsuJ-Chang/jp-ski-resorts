@@ -22,12 +22,12 @@ links:
   ticket: https://akr-ski.com/slope/
   access: https://akr-ski.com/access/
   weather: https://weathernews.jp/ski/spot/35411/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Akakura%20Kanko%20Resort%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/9sZU7Mx1A3DhoUrj7
 contact:
   address:
     zhTw: 新潟縣妙高市田切 216
     ja: 新潟県妙高市田切216
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Akakura%20Kanko%20Resort%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/9sZU7Mx1A3DhoUrj7
   phone: 0255-87-2503
 season:
   label: 2025-2026
@@ -75,8 +75,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.8877
-  longitude: 138.1846
+  latitude: 36.88703984187844
+  longitude: 138.17758623542613
 elevation:
   top: 1500
   bottom: 730

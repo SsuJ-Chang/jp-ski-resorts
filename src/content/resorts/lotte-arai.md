@@ -18,12 +18,12 @@ tags:
 links:
   official: https://www.lottehotel.com/arai-resort/ja.html
   weather: https://weathernews.jp/ski/spot/35494/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=LOTTE%20ARAI%20RESORT
+  googleMaps: https://maps.app.goo.gl/iNta2t4Sk8QRWhFJ8
 contact:
   address:
     zhTw: 新潟縣妙高市兩善寺 1966
     ja: 新潟県妙高市両善寺1966
-    googleMaps: https://www.google.com/maps/search/?api=1&query=LOTTE%20ARAI%20RESORT
+    googleMaps: https://maps.app.goo.gl/iNta2t4Sk8QRWhFJ8
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/14-2026/5/12
@@ -62,8 +62,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.9854
-  longitude: 138.2278
+  latitude: 36.990665481318274
+  longitude: 138.18134829309744
 elevation:
   top: 1280
   bottom: 329
