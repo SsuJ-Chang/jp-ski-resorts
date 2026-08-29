@@ -16,12 +16,12 @@ links:
   official: "http://www.shichinohe-kankou.jp/kazoku/ski"
   facebook: "https://www.facebook.com/tabinokura.shichinohe/"
   weather: "https://weathernews.jp/ski/spot/33109/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=Shichinohe%20Municipal%20Ski%20Area"
+  googleMaps: https://maps.app.goo.gl/oNzj6bkmNAtnZXZB7
 contact:
   address:
     zhTw: "日本青森縣上北郡七戶町字左組 106-5"
     ja: "〒039-2568 青森県上北郡七戸町字左組106-5"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=Shichinohe%20Municipal%20Ski%20Area"
+    googleMaps: https://maps.app.goo.gl/oNzj6bkmNAtnZXZB7
   phone: "0176-62-5612"
 season:
   label: "2025-2026"
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 40.698047
-  longitude: 141.098958
+  latitude: 40.698206083764276
+  longitude: 141.09905378835523
 elevation:
   top: 209
   bottom: 88

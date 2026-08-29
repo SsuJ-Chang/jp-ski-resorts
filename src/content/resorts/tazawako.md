@@ -23,14 +23,14 @@ links:
   instagram: "https://www.instagram.com/akita_tazawako_snow_resort"
   xTwitter: "https://twitter.com/tazawakoski"
   weather: "https://weathernews.jp/ski/spot/33204/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=39.762534,140.770960"
+  googleMaps: https://maps.app.goo.gl/4NgCrm3VtVAExeQq5
   access: "https://www.tazawako-ski.com"
 contact:
   address:
     zhTw: "日本秋田縣仙北市田澤湖生保内字下高野73-2"
     ja: "〒014-1201 秋田県仙北市田沢湖生保内字下高野73-2"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=39.762534,140.770960"
-  phone: "0187462011"
+    googleMaps: https://maps.app.goo.gl/4NgCrm3VtVAExeQq5
+  phone: "0187-46-2011"
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/29"
@@ -46,8 +46,8 @@ snowWeather:
   forecast: []
   note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
 location:
-  latitude: 39.762534
-  longitude: 140.77096
+  latitude: 39.762498617375684
+  longitude: 140.7707023681735
 elevation:
   top: 1186
   bottom: 578

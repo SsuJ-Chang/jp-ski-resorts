@@ -1,7 +1,7 @@
 ---
 id: "miyagi-zao-eboshi"
 name:
-  zhTw: "宮城藏王 Eboshi Resort"
+  zhTw: "宮城藏王黑帽子"
   ja: "みやぎ蔵王えぼしリゾート"
   en: "Miyagi Zao Eboshi Resort"
 region: "tohoku"
@@ -18,12 +18,12 @@ links:
   instagram: "https://www.instagram.com/eboshiresort/"
   weather: "https://weathernews.jp/ski/spot/33404/"
   access: "https://eboshi.co.jp/access/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=Miyagi%20Zao%20Eboshi%20Resort"
+  googleMaps: https://maps.app.goo.gl/49ABvnv1KdfM9ag27
 contact:
   address:
     zhTw: "日本宮城縣刈田郡藏王町遠刈田溫泉倉石岳國有林內"
     ja: "〒989-0998 宮城県刈田郡蔵王町遠刈田温泉倉石岳国有林内"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=Miyagi%20Zao%20Eboshi%20Resort"
+    googleMaps: https://maps.app.goo.gl/49ABvnv1KdfM9ag27
   phone: "0224-34-4001"
 season:
   label: "2025-2026"
@@ -31,7 +31,7 @@ season:
   note: "營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
   source: "https://weathernews.jp/ski/spot/33404/"
 snowWeather:
-  title: "宮城藏王 Eboshi Resort雪況天氣"
+  title: "宮城藏王黑帽子雪況天氣"
   provider: "Weathernews"
   url: "https://weathernews.jp/ski/spot/33404/"
   snowDepth: 0 cm
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
 location:
-  latitude: 38.127024
-  longitude: 140.5288
+  latitude: 38.12683298837901
+  longitude: 140.5287150104447
 elevation:
   top: 1350
   bottom: 650
@@ -51,7 +51,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 20
   courseInfoPage: "https://weathernews.jp/ski/spot/33404/"
-  summary: "宮城藏王 Eboshi Resort 的全長 4.3km dynamic course 可長距離巡航，天氣好時可眺望太平洋與仙台平野。共有 9 條雪道，初級 50%、中級 30%、上級 20%。"
+  summary: "宮城藏王黑帽子的全長 4.3km dynamic course 可長距離巡航，天氣好時可眺望太平洋與仙台平野。共有 9 條雪道，初級 50%、中級 30%、上級 20%。"
   details:
     - name: "ファミリーゲレンデ"
       difficulty: beginner
@@ -99,7 +99,7 @@ access:
     - label: "仙台機場出發"
       steps:
         - "從仙台機場租車或包車，往藏王町遠刈田溫泉方向移動。"
-        - "依當日道路與積雪狀況前往宮城藏王 Eboshi Resort。"
+        - "依當日道路與積雪狀況前往宮城藏王黑帽子。"
       estimatedTime: "約 60 分"
       difficulty: "hard"
       note: "不自駕時可先移動到仙台市區，再視當季運行日銜接預約制滑雪巴士。"
@@ -108,7 +108,7 @@ access:
     snowTireRequired: true
     note: "從東北自動車道村田 IC 或白石 IC 下交流道後約 30 分；仙台站出發約 60 分。雪場道路雖設有融雪設備，冬季仍需準備雪胎或防滑裝備。"
 terrainSummary:
-  beginner: "宮城藏王 Eboshi Resort 初級雪道占 50%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
+  beginner: "宮城藏王黑帽子初級雪道占 50%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
   intermediate: "中級雪道占 30%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
   advanced: "上級雪道占 20%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
   snowboard: "雪板可全區滑行。"
@@ -117,4 +117,4 @@ externalContent:
   vlogs: []
 ---
 
-宮城藏王 Eboshi Resort 位於藏王連峰烏帽岳東北坡，晴天時能眺望仙台平原與太平洋。雪場以粉雪滑道與約 4.3 km 的長距離路線為特色，從山頂一路滑下時景色開闊，單板高速滑行時捲起雪霧也很有速度感。
+宮城藏王黑帽子位於藏王連峰烏帽岳東北坡，晴天時能眺望仙台平原與太平洋。雪場以粉雪滑道與約 4.3 km 的長距離路線為特色，從山頂一路滑下時景色開闊，單板高速滑行時捲起雪霧也很有速度感。
