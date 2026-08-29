@@ -20,12 +20,12 @@ links:
   ticket: https://www.whitevalley.jp/free/price
   access: https://www.whitevalley.jp/free/access
   weather: https://weathernews.jp/ski/spot/34226/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=White%20Valley%20Ski%20Resort%20Minakami
+  googleMaps: https://maps.app.goo.gl/QokTsbZ6YsFRV7Jz7
 contact:
   address:
     zhTw: 群馬縣利根郡みなかみ町谷川國有林內
     ja: 〒379-1619 群馬県利根郡みなかみ町谷川国有林内
-    googleMaps: https://www.google.com/maps/search/?api=1&query=White%20Valley%20Ski%20Resort%20Minakami
+    googleMaps: https://maps.app.goo.gl/QokTsbZ6YsFRV7Jz7
   phone: 0278-72-5094
 season:
   label: 2025-2026
@@ -77,8 +77,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.798
-  longitude: 138.943
+  latitude: 336.79500219995222
+  longitude: 138.95735525767103
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

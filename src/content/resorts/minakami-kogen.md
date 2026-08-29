@@ -24,12 +24,12 @@ links:
   ticket: https://www.minakami-ski.jp/price/
   access: https://www.minakami-ski.jp/access/
   weather: https://weathernews.jp/ski/spot/34205/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Minakami%20Kogen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/fpC8C5GLVTKeytP9A
 contact:
   address:
     zhTw: 群馬縣利根郡みなかみ町藤原 6152-1
     ja: 〒379-1721 群馬県利根郡みなかみ町藤原6152-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Minakami%20Kogen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/fpC8C5GLVTKeytP9A
   phone: 0278-75-2222
 season:
   label: 2025-2026
@@ -72,8 +72,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.873
-  longitude: 139.075
+  latitude: 36.85573075841047
+  longitude: 139.07650468156555
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 2

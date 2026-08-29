@@ -20,12 +20,12 @@ links:
   ticket: https://tanigawadake-joch.com/mt-t/
   access: https://tanigawadake-joch.com/mt-t/
   weather: https://weathernews.jp/ski/spot/34202/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Tanigawadake%20Tenjindaira%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/2X8cd4bZBwyj7Rn16
 contact:
   address:
     zhTw: 群馬縣利根郡みなかみ町湯檜曾湯吹山國有林
     ja: 〒379-1728 群馬県利根郡みなかみ町湯檜曽湯吹山国有林
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Tanigawadake%20Tenjindaira%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/2X8cd4bZBwyj7Rn16
   phone: 0278-72-3575
 season:
   label: 2025-2026
@@ -74,8 +74,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.818149
-  longitude: 138.94907
+  latitude: 36.81814065004815
+  longitude: 138.94821164232894
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 2

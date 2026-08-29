@@ -23,12 +23,12 @@ links:
   ticket: https://hodaigi.jp/lift-price/
   access: https://hodaigi.jp/access/
   weather: https://weathernews.jp/ski/spot/34216/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Minakami%20Hodaigi%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/tu6ccyFRR1VpAT6L8
 contact:
   address:
     zhTw: 群馬縣利根郡みなかみ町藤原 3839-1
     ja: 〒379-1721 群馬県利根郡みなかみ町藤原3839-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Minakami%20Hodaigi%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/tu6ccyFRR1VpAT6L8
   phone: 0278-75-2557
 season:
   label: 2025-2026
@@ -83,8 +83,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.837423
-  longitude: 139.078326
+  latitude: 36.83755306044488
+  longitude: 139.07827513923587
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 2

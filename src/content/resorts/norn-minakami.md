@@ -22,12 +22,12 @@ links:
   ticket: https://www.norn.co.jp/winter/lift/
   access: https://www.norn.co.jp/winter/access/
   weather: https://weathernews.jp/ski/spot/34211/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Norn%20Minakami%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/ehWp1pFCUowoZfwX7
 contact:
   address:
     zhTw: 群馬縣利根郡みなかみ町寺間 479-139
     ja: 〒379-1614 群馬県利根郡みなかみ町寺間479-139
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Norn%20Minakami%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/ehWp1pFCUowoZfwX7
   phone: 0278-72-6688
 season:
   label: 2025-2026
@@ -86,8 +86,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 36.748
-  longitude: 138.99
+  latitude: 36.743451657556434
+  longitude: 138.94218569999998
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 2
