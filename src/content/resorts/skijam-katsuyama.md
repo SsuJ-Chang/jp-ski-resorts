@@ -23,12 +23,12 @@ links:
   ticket: https://jamresort.jp/activity-white/lift-ticket/
   liftStatus: https://jamresort.jp/activity-white/lift-ticket/
   access: https://jamresort.jp/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Ski%20Jam%20Katsuyama
+  googleMaps: https://maps.app.goo.gl/H5PHcp44m4TujPxY7
 contact:
   address:
     zhTw: 日本福井縣勝山市 170-70
     ja: 福井県勝山市170-70
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Ski%20Jam%20Katsuyama
+    googleMaps: https://maps.app.goo.gl/H5PHcp44m4TujPxY7
   phone: 0779-87-6109
 season:
   label: 2025-2026
@@ -86,6 +86,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 36.0734315117931
+  longitude: 136.55560755767104
 courses:
   total: 12
   beginnerRatio: 30

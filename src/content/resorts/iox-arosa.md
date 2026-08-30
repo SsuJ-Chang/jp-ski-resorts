@@ -2,7 +2,7 @@
 id: iox-arosa
 name:
   zhTw: IOX-AROSA
-  ja: IOX-AROSA
+  ja: イオックス・アローザ
   en: IOX-AROSA
 region: hokuriku
 prefecture: 富山縣
@@ -19,12 +19,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35510/
   ticket: https://weathernews.jp/ski/spot/35510/
   access: https://iox-arosa.jp/access
-  googleMaps: https://www.google.com/maps/search/?api=1&query=IOX%20AROSA%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/SkGsfKs7cRTMvked9
 contact:
   address:
     zhTw: 日本富山縣南砺市才川七字ススケ原 115
     ja: 富山県南砺市才川七字ススケ原115
-    googleMaps: https://www.google.com/maps/search/?api=1&query=IOX%20AROSA%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/SkGsfKs7cRTMvked9
   phone: 0763-55-1326
 season:
   label: 2025-2026
@@ -51,6 +51,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 36.51464624510804
+  longitude: 136.8234150288355
 courses:
   total: 7
   beginnerRatio: 30
@@ -112,4 +115,4 @@ terrainSummary:
   snowboard: 雪板可滑行。
 ---
 
-IOX-AROSA位於富山縣，共有7 條雪道、5 座纜車，主體是可反覆換線的中型滑行配置。主雪道之間的難度與坡向差異夠明顯，安排一天行程時不容易太單調。如果你想在雪道數、節奏變化與實際可滑效率之間取平衡，這類配置會很實用。
+IOX-AROSA位於富山縣，共有 7 條雪道、5 座纜車，主體是可反覆換線的中型滑行配置。主雪道之間的難度與坡向差異夠明顯，安排一天行程時不容易太單調。如果你想在雪道數、節奏變化與實際可滑效率之間取平衡，這類配置會很實用。

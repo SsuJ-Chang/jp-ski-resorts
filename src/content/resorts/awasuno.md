@@ -18,13 +18,13 @@ links:
   weather: https://weathernews.jp/ski/spot/35509/
   ticket: https://awasuno.com/winter/lift
   access: https://www.awasuno.com/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Awasuno%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/t7iEJv7jKs8eTYni9
 contact:
   address:
     zhTw: 日本富山縣富山市粟巣野 1868
     ja: 富山県富山市粟巣野1868
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Awasuno%20Ski%20Area
-  phone: 076-482-1844
+    googleMaps: https://maps.app.goo.gl/t7iEJv7jKs8eTYni9
+  phone: 076-460-3688
 season:
   label: 2025-2026
   operatingPeriod: 2025-2026 雪季：12/20-3/15
@@ -49,6 +49,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 36.57615114792148
+  longitude: 137.44057013922725
 courses:
   total: 6
   beginnerRatio: 35

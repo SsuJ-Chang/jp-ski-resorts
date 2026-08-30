@@ -20,12 +20,12 @@ links:
   ticket: https://www.sam-hakusan.com/white/seymour/lift/
   access: https://www.sam-hakusan.com/white/seymour/access/
   weather: https://weathernews.jp/ski/spot/35601/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hakusan%20Seymour%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/hRB4qDUzWBVAMe7F9
 contact:
   address:
     zhTw: 日本石川縣白山市河內町內尾
     ja: 〒920-2318 石川県白山市河内町内尾
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hakusan%20Seymour%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/hRB4qDUzWBVAMe7F9
   phone: 076-273-0331
 season:
   label: 2025-2026
@@ -71,6 +71,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時狀態與最新雪況資訊為準。
+location:
+  latitude: 36.34718591805552
+  longitude: 136.67775097116447
 courses:
   beginnerRatio: 22
   intermediateRatio: 33

@@ -16,12 +16,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35504/
   ticket: https://weathernews.jp/ski/spot/35504/
   access: https://weathernews.jp/ski/spot/35504/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Taira%20Ski%20Resort%20Nanto%20Toyama
+  googleMaps: https://maps.app.goo.gl/ygfweXjPvcLxptpm8
 contact:
   address:
     zhTw: 日本富山縣南砺市梨谷
     ja: 富山県南砺市梨谷
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Taira%20Ski%20Resort%20Nanto%20Toyama
+    googleMaps: https://maps.app.goo.gl/ygfweXjPvcLxptpm8
   phone: 0763-66-2911
 season:
   label: 2025-2026
@@ -47,6 +47,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 36.44011268238234
+  longitude: 136.92467644232894
 courses:
   total: 5
   beginnerRatio: 20

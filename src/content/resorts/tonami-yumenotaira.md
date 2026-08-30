@@ -1,7 +1,7 @@
 ---
 id: tonami-yumenotaira
 name:
-  zhTw: 砺波夢之平
+  zhTw: 礪波夢之平
   ja: となみ夢の平スキー場
   en: Tonami Yumenotaira Ski Area
 region: hokuriku
@@ -18,12 +18,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35502/
   ticket: https://ski.yumeno-taira.com/fee/
   access: https://ski.yumeno-taira.com/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Tonami%20Yumenotaira%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/H2orNs9JLBkYt8zm9
 contact:
   address:
     zhTw: 日本富山縣砺波市五谷字源谷 22
     ja: 富山県砺波市五谷字源谷22
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Tonami%20Yumenotaira%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/H2orNs9JLBkYt8zm9
   phone: 0763-37-1575
 season:
   label: 2025-2026
@@ -46,20 +46,23 @@ tickets:
     - 成人 ¥1,880
     - 兒童 ¥1,360
 snowWeather:
-  title: 砺波夢之平雪況天氣
+  title: 礪波夢之平雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35502/
   snowDepth: 0 cm
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 36.58612730453431
+  longitude: 137.0205712288355
 courses:
   total: 3
   beginnerRatio: 70
   intermediateRatio: 30
   advancedRatio: 0
   courseInfoPage: https://ski.yumeno-taira.com/slope/
-  summary: 砺波夢之平共有 3 條雪道，最大斜度 25°，初級 70%、中級 30%、上級 0%。最低斜度約 10°，實際開放狀況請以官方公告為準。
+  summary: 礪波夢之平共有 3 條雪道，最大斜度 25°，初級 70%、中級 30%、上級 0%。最低斜度約 10°，實際開放狀況請以官方公告為準。
   details:
   - name: Aコース
     difficulty: advanced
@@ -75,7 +78,7 @@ access:
   - label: 東京出發經高岡
     steps:
     - 從東京搭北陸新幹線到新高岡或高岡周邊。
-    - 從高岡站轉租車或計程車前往砺波夢之平。
+    - 從高岡站轉租車或計程車前往礪波夢之平。
     estimatedTime: 站後約 33 分
     difficulty: hard
     note: 公開交通資料以車程為主，未列直達大眾運輸；若不自駕，建議先確認叫車與回程安排。
@@ -83,7 +86,7 @@ access:
   - label: 富山機場出發
     steps:
     - 從富山機場租車或包車前往砺波市五谷方向。
-    - 依當日道路狀況前往砺波夢之平停車場。
+    - 依當日道路狀況前往礪波夢之平停車場。
     estimatedTime: 約 40 分
     difficulty: hard
     note: 雪場位於山側，冬季建議以雪胎車輛前往並預留道路積雪時間。
@@ -98,4 +101,4 @@ terrainSummary:
   snowboard: 雪板可滑行。
 ---
 
-砺波夢之平位於富山縣，是小型雪場，共有3 條雪道，搭配 1 座纜車。代表路線包含 Aコース、Bコース、Cコース，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。
+礪波夢之平位於富山縣，是小型雪場，共有 3 條雪道，搭配 1 座纜車。代表路線包含 Aコース、Bコース、Cコース，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

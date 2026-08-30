@@ -17,12 +17,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35516/
   ticket: https://gokayama-kankou.com/fees/
   access: https://weathernews.jp/ski/spot/35516/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Takanbo%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/VNc6vX8B1BYXSZudA
 contact:
   address:
     zhTw: 日本富山縣南砺市西赤尾町 1767
     ja: 富山県南砺市西赤尾町1767
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Takanbo%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/VNc6vX8B1BYXSZudA
   phone: 0763-67-3766
 season:
   label: 2025-2026
@@ -48,6 +48,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 36.378877901682785
+  longitude: 136.86536635767104
 courses:
   total: 4
   beginnerRatio: 40

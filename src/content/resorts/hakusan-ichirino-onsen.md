@@ -26,12 +26,12 @@ links:
   ticket: https://www.sam-hakusan.com/white/ichirino/lift/
   access: https://www.sam-hakusan.com/white/ichirino/access/
   weather: https://weathernews.jp/ski/spot/35603/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hakusan%20Ichirino%20Onsen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/krHusDmHzgSVcpbj8
 contact:
   address:
     zhTw: 日本石川縣白山市尾添リ 63
     ja: 〒920-2333 石川県白山市尾添リ63
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hakusan%20Ichirino%20Onsen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/krHusDmHzgSVcpbj8
   phone: 076-256-7412
 season:
   label: 2025-2026
@@ -80,6 +80,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時狀態與最新雪況資訊為準。
+location:
+  latitude: 36.2684089774229
+  longitude: 136.71500887116449
 courses:
   beginnerRatio: 33
   intermediateRatio: 42

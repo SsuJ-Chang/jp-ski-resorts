@@ -18,12 +18,12 @@ links:
   ticket: https://www.city.nanao.lg.jp/syougai/shisetsu/korosa.html
   access: https://www.city.nanao.lg.jp/syougai/shisetsu/korosa.html
   weather: https://weathernews.jp/ski/spot/35611/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Nanao%20Korosa%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/bXiwr3CAKjgNMw6q7
 contact:
   address:
     zhTw: 日本石川縣七尾市多根町ハカノ谷內 555-7
     ja: 石川県七尾市多根町ハカノ谷内555-7
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Nanao%20Korosa%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/bXiwr3CAKjgNMw6q7
   phone: 0767-57-0022
 season:
   label: 2025-2026
@@ -64,6 +64,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 36.97537365377318
+  longitude: 136.95962998465788
 courses:
   beginnerRatio: 33
   intermediateRatio: 33

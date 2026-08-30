@@ -21,12 +21,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35511/
   ticket: https://www.unazuki-snowpark.com/price/
   access: https://www.unazuki-snowpark.com/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Unazuki%20Onsen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/tZqBjJp4MKEkB3V1A
 contact:
   address:
     zhTw: 日本富山縣黑部市宇奈月溫泉字大原 5738
     ja: 富山県黒部市宇奈月温泉字大原5738
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Unazuki%20Onsen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/tZqBjJp4MKEkB3V1A
   phone: 0765-62-1757
 season:
   label: 2025-2026
@@ -51,6 +51,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 36.812410695884466
+  longitude: 137.58457155767107
 courses:
   total: 1
   beginnerRatio: 20

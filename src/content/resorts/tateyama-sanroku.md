@@ -18,12 +18,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35505/
   ticket: https://www.tateyama36.co.jp/price/
   access: https://www.tateyama36.co.jp/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Tateyama%20Sanroku%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/8DAcQt4BfY2hKivd8
 contact:
   address:
     zhTw: 日本富山縣富山市本宮
     ja: 富山県富山市本宮
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Tateyama%20Sanroku%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/8DAcQt4BfY2hKivd8
   phone: 076-482-1311
 season:
   label: 2025-2026
@@ -49,6 +49,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 36.57505975741884
+  longitude: 137.41603734435216
 courses:
   total: 9
   beginnerRatio: 30
@@ -132,4 +135,4 @@ terrainSummary:
   snowboard: 雪板可滑行。
 ---
 
-富山縣的立山山麓共有9 條雪道，搭配 4 座纜車，包含 パノラマコース、パラダイスゲレンデ上部、パラダイスゲレンデ下部 等路線。初級、中級與上級路線都有配置；標籤上偏向雙板與單板。
+富山縣的立山山麓共有 9 條雪道，搭配 4 座纜車，包含 パノラマコース、パラダイスゲレンデ上部、パラダイスゲレンデ下部 等路線。初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

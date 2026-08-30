@@ -21,12 +21,12 @@ links:
   ticket: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/price/
   access: https://komatsu-ccf.com/sports/ookuradake_kogen_ski_resort/access/
   weather: https://weathernews.jp/ski/spot/35605/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Okuradake%20Kogen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/c2XtQns22X659sJx5
 contact:
   address:
     zhTw: 日本石川縣小松市尾小屋町レ 41
     ja: 〒923-0172 石川県小松市尾小屋町レ41番地
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Okuradake%20Kogen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/c2XtQns22X659sJx5
   phone: 0761-67-1426
 season:
   label: 2025-2026
@@ -49,6 +49,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 36.2839655026176
+  longitude: 136.53812544232895
 courses:
   beginnerRatio: 50
   intermediateRatio: 25

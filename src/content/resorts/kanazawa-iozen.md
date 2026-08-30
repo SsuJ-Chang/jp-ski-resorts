@@ -22,12 +22,12 @@ links:
   ticket: https://www.kanazawa-sports.jp/use/search/546
   access: https://www.kanazawa-sports.jp/use/search/546
   weather: https://weathernews.jp/ski/spot/35608/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Kanazawa%20Iozen%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/mJhMR1s6zgvRjbBb7
 contact:
   address:
     zhTw: 日本石川縣金澤市俵町テ甲 21
     ja: 〒920-1108 石川県金沢市俵町テ甲21番地
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Kanazawa%20Iozen%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/mJhMR1s6zgvRjbBb7
   phone: 076-229-1947
 season:
   label: 2025-2026
@@ -75,6 +75,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 36.527251732000806
+  longitude: 136.75361519999998
 courses:
   beginnerRatio: 50
   intermediateRatio: 25

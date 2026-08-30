@@ -19,12 +19,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35706/
   ticket: https://fukuiizumi.com/ryoukin/
   access: https://fukuiizumi.com/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Fukui%20Izumi%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/D2nrT6DaXU7ssevPA
 contact:
   address:
     zhTw: 日本福井縣大野市朝日前坂 27
     ja: 福井県大野市朝日前坂27
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Fukui%20Izumi%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/D2nrT6DaXU7ssevPA
   phone: 0779-78-2711
 season:
   label: 2025-2026
@@ -50,6 +50,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或最新雪況資訊為準。
+location:
+  latitude: 35.93977853984175
+  longitude: 136.6922409288355
 courses:
   total: 6
   beginnerRatio: 30

@@ -18,12 +18,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35501/
   ticket: https://ushidake.com/ski/liftprice/
   access: https://ushidake.com/ski/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Ushidake%20Onsen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/ztdoz1suD3atQrje7
 contact:
   address:
     zhTw: 日本富山縣富山市山田小谷中根 2
     ja: 富山県富山市山田小谷中根2
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Ushidake%20Onsen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/ztdoz1suD3atQrje7
   phone: 076-457-2044
 season:
   label: 2025-2026
@@ -51,6 +51,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 36.57263201903566
+  longitude: 137.0564564
 courses:
   total: 3
   beginnerRatio: 25

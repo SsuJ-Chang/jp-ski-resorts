@@ -19,12 +19,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35710/
   ticket: http://www.ski.ikeda-kibou.com/file/parelift_R7.pdf
   access: http://www.ski.ikeda-kibou.com/#access
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Shinbo%20Family%20Ski%20Resort%20Fukui
+  googleMaps: https://maps.app.goo.gl/zxPYLkgwx5huc1Fy6
 contact:
   address:
     zhTw: 日本福井縣今立郡池田町新保 13-4
     ja: 福井県今立郡池田町新保13-4
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Shinbo%20Family%20Ski%20Resort%20Fukui
+    googleMaps: https://maps.app.goo.gl/zxPYLkgwx5huc1Fy6
   phone: 0778-44-7787
 season:
   label: 2025-2026
@@ -50,6 +50,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 35.85591717387278
+  longitude: 136.30775927116449
 courses:
   total: 1
   beginnerRatio: 50

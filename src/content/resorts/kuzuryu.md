@@ -19,12 +19,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35703/
   ticket: https://kuzuryu-skiland.com/price/
   access: https://kuzuryu-skiland.com/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Kuzuryu%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/STj2w5rStGnBdEdN9
 contact:
   address:
     zhTw: 日本福井縣大野市角野 14-3
     ja: 福井県大野市角野14-3
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Kuzuryu%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/STj2w5rStGnBdEdN9
   phone: 0779-78-2651
 season:
   label: 2025-2026
@@ -50,6 +50,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 35.89845039214877
+  longitude: 136.65456457119757
 courses:
   total: 8
   beginnerRatio: 40
