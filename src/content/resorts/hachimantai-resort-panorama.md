@@ -1,7 +1,7 @@
 ---
 id: hachimantai-resort-panorama
 name:
-  zhTw: 八幡平 Resort Panorama
+  zhTw: 八幡平渡假村全景
   ja: 八幡平リゾート・パノラマスキー場
   en: Hachimantai Resort Panorama Ski Area
 region: tohoku
@@ -19,12 +19,12 @@ links:
   xTwitter: https://x.com/hachiresort
   weather: https://weathernews.jp/ski/spot/33311/
   access: https://www.hachimantai.co.jp/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hachimantai%20Resort%20Panorama%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/gV9JHD6gkMgoxmJY6
 contact:
   address:
     zhTw: 日本岩手縣八幡平市松尾寄木 1-509-1
     ja: 〒028-7302 岩手県八幡平市松尾寄木1-509-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hachimantai%20Resort%20Panorama%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/gV9JHD6gkMgoxmJY6
   phone: "0195-78-2577"
 season:
   label: "2025-2026"
@@ -32,7 +32,7 @@ season:
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33311/
 snowWeather:
-  title: 八幡平 Resort Panorama雪況天氣
+  title: 八幡平渡假村全景雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33311/
   snowDepth: 0 cm
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或最新雪況資訊為準。
 location:
-  latitude: 39.894268
-  longitude: 140.975123
+  latitude: 39.89456923914251
+  longitude: 140.97540285767104
 elevation:
   top: 1000
   bottom: 540
@@ -52,7 +52,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 0
   courseInfoPage: https://surfsnow.jp/guide/htm/r0009gc1.htm
-  summary: 八幡平 Resort Panorama 位於岩手山山麓，有緩斜長距離路線，也可搭配八幡平 Winterland 雪上活動。Panorama 區共有 7 條主要雪道，初級 70%、中級 30%、上級 0%；公開雪道資料另將 Panorama 與下倉合併列為 14 條雪道。
+  summary: 八幡平渡假村全景位於岩手山山麓，有緩斜長距離路線，也可搭配八幡平 Winterland 雪上活動。Panorama 區共有 7 條主要雪道，初級 70%、中級 30%、上級 0%；公開雪道資料另將 Panorama 與下倉合併列為 14 條雪道。
   details:
     - name: "Family Course / ファミリーコース"
       difficulty: beginner
@@ -111,7 +111,7 @@ access:
     snowTireRequired: true
     note: 可由東北自動車道松尾八幡平 IC，經縣道 45 號前往，約 15 分鐘；冬季需雪胎或雪鏈。
 terrainSummary:
-  beginner: 八幡平 Resort Panorama 初級雪道占 70%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。
+  beginner: 八幡平渡假村全景初級雪道占 70%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。
   intermediate: 中級雪道占 30%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。
   advanced: 上級雪道占 0%，較高難度區域請依當日雪況、能見度與官方管制判斷。
   snowboard: 雪板可全區滑行。
@@ -120,4 +120,4 @@ externalContent:
   vlogs: []
 ---
 
-八幡平 Resort Panorama是岩手縣的中小型雪場，整理為7 條雪道，搭配 4 座纜車。雪道如 Family Course / ファミリーコース、Conide A Course / コニーデAコース、Conide B Course / コニーデBコース，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。
+八幡平渡假村全景是岩手縣的中小型雪場，整理為7 條雪道，搭配 4 座纜車。雪道如 Family Course / ファミリーコース、Conide A Course / コニーデAコース、Conide B Course / コニーデBコース，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

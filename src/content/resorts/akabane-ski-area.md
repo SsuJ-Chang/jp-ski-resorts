@@ -17,12 +17,12 @@ links:
   official: https://tono-sks.com/akabane-snowpark/
   ticket: https://tono-sks.com/akabane-snowpark/
   weather: https://weathernews.jp/ski/spot/33323/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Akabane%20Ski%20Area%20Tono
+  googleMaps: https://maps.app.goo.gl/mZWQ1UBKroQmBbSc7
 contact:
   address:
     zhTw: 日本岩手縣遠野市上鄉町平倉 41-47
     ja: 〒028-0775 岩手県遠野市上郷町平倉41-47
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Akabane%20Ski%20Area%20Tono
+    googleMaps: https://maps.app.goo.gl/mZWQ1UBKroQmBbSc7
   phone: 0198-65-3343
 season:
   label: 2025-2026
@@ -67,8 +67,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 39.247735
-  longitude: 141.596959
+  latitude: 39.24770547485283
+  longitude: 141.59657865767105
 elevation:
   top: 650
   bottom: 535

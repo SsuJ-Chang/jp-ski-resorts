@@ -18,13 +18,13 @@ links:
   official: https://greenvalleykamuro.com/
   instagram: https://www.instagram.com/greenvalleykamuroski/
   weather: https://weathernews.jp/ski/spot/33518/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.916531,140.394223
+  googleMaps: https://maps.app.goo.gl/p7veyfoX8ykv8jfAA
   access: https://greenvalleykamuro.com/
 contact:
   address:
     zhTw: 日本山形縣最上郡金山町大字有屋1400
     ja: 〒999-5401 山形県最上郡金山町大字有屋1400
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.916531,140.394223
+    googleMaps: https://maps.app.goo.gl/p7veyfoX8ykv8jfAA
   phone: "090-4165-6961"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.916531
-  longitude: 140.394223
+  latitude: 38.9166303486448
+  longitude: 140.39399005464963
 elevation:
   top: 479
   bottom: 323

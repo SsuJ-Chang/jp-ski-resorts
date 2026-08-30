@@ -2,7 +2,7 @@
 id: akita-hachimantai
 name:
   zhTw: 秋田八幡平
-  ja: 秋田八幡平
+  ja: 秋田八幡平スキー場
   en: Akita Hachimantai
 region: tohoku
 prefecture: 秋田縣
@@ -18,12 +18,12 @@ links:
   official: https://www.akihachi.jp
   facebook: https://www.facebook.com/AkitahachimantaiSkiArea
   weather: https://weathernews.jp/ski/spot/33211/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Akita%20Hachimantai%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/cWVp9oDHuau9PNVy5
 contact:
   address:
     zhTw: 日本秋田縣鹿角市八幡平字熊澤外 8 國有林
     ja: 〒018-5141 秋田県鹿角市八幡平字熊沢外8国有林
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Akita%20Hachimantai%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/cWVp9oDHuau9PNVy5
   phone: "0186-31-2020"
 season:
   label: "2025-2026"
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 39.978834
-  longitude: 140.801225
+  latitude: 39.97870751607177
+  longitude: 140.801173
 elevation:
   top: 1200
   bottom: 950

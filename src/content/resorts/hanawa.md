@@ -2,7 +2,7 @@
 id: hanawa
 name:
   zhTw: 花輪
-  ja: 花輪
+  ja: 花輪スキー場
   en: Hanawa Ski Area
 region: tohoku
 prefecture: 秋田縣
@@ -19,13 +19,13 @@ links:
   facebook: https://www.facebook.com/alpas.hanawaski
   instagram: https://www.instagram.com/alpas.kazuno/
   weather: https://weathernews.jp/ski/spot/33201/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=40.188041,140.822675
+  googleMaps: https://maps.app.goo.gl/E12qVtkhcHegzZXc7
   access: https://r.goope.jp/alpas/
 contact:
   address:
     zhTw: 日本秋田縣鹿角市花輪字百合澤81-1
     ja: 〒018-5201 秋田県鹿角市花輪字百合沢81-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=40.188041,140.822675
+    googleMaps: https://maps.app.goo.gl/E12qVtkhcHegzZXc7
   phone: "0186-23-8000"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 40.188041
-  longitude: 140.822675
+  latitude: 40.188555696140504
+  longitude: 140.8235940546955
 elevation:
   top: 730
   bottom: 280

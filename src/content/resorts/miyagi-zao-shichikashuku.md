@@ -19,13 +19,13 @@ links:
   official: https://zao-7kashuku.jp/ski/
   instagram: https://www.instagram.com/7kashuku.ski
   weather: https://weathernews.jp/ski/spot/33412/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=37.999126,140.366313
+  googleMaps: https://maps.app.goo.gl/dFAkCB8568xqHPpV6
   access: https://zao-7kashuku.jp/ski/
 contact:
   address:
     zhTw: 日本宮城縣刈田郡七之宿町字侭の上129
     ja: 〒989-0612 宮城県刈田郡七ヶ宿町字侭の上129
-    googleMaps: https://www.google.com/maps/search/?api=1&query=37.999126,140.366313
+    googleMaps: https://maps.app.goo.gl/dFAkCB8568xqHPpV6
   phone: "0224-37-3111"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 37.999126
-  longitude: 140.366313
+  latitude: 37.9988062544539
+  longitude: 140.36673511044006
 elevation:
   top: 1068
   bottom: 525

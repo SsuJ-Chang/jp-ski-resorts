@@ -19,13 +19,13 @@ visibility:
 links:
   official: http://www.city.obanazawa.yamagata.jp/
   weather: https://weathernews.jp/ski/spot/33509/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.536689,140.508581
+  googleMaps: https://maps.app.goo.gl/NaTQNXS6DSB1aoxQA
   access: http://www.city.obanazawa.yamagata.jp/
 contact:
   address:
     zhTw: 日本山形縣尾花澤市大字鶴子858
     ja: 〒999-4443 山形県尾花沢市大字鶴子858
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.536689,140.508581
+    googleMaps: https://maps.app.goo.gl/NaTQNXS6DSB1aoxQA
   phone: "0237-28-3939"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.536689
-  longitude: 140.508581
+  latitude: 38.536849746768844
+  longitude: 140.5087915969652
 elevation:
   top: 450
   bottom: 300

@@ -19,12 +19,12 @@ links:
   xTwitter: https://x.com/Yudono_Skiarea
   weather: https://weathernews.jp/ski/spot/33505/
   access: https://yudonosan.com/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Yudonosan%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/v623cYU4kF4J3iu17
 contact:
   address:
-    zhTw: 日本山形縣鶴岡市田麥俣字六十里山 104-5
-    ja: 〒997-0532 山形県鶴岡市田麦俣字六十里山104ー5
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Yudonosan%20Ski%20Resort
+    zhTw: 日本山形縣鶴岡市田麥俣字六十里山 104-1
+    ja: 〒997-0532 山形県鶴岡市田麦俣字六十里山104ー1
+    googleMaps: https://maps.app.goo.gl/v623cYU4kF4J3iu17
   phone: "0235-54-6450"
 season:
   label: "2025-2026"
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 38.572226
-  longitude: 139.942002
+  latitude: 38.572149605971404
+  longitude: 139.94188121349342
 elevation:
   top: 700
   bottom: 530

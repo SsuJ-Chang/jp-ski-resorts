@@ -16,13 +16,13 @@ visibility:
 links:
   official: https://tadamikousya.sakura.ne.jp/
   weather: https://weathernews.jp/ski/spot/33624/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=37.346854,139.309474
+  googleMaps: https://maps.app.goo.gl/QaMNn6Vyyo9S6oe17
   access: https://tadamikousya.sakura.ne.jp/
 contact:
   address:
     zhTw: 日本福島縣南會津郡只見町大字只見字田ノ口24番地
     ja: 〒968-0421 福島県南会津郡只見町大字只見字田ノ口24番地
-    googleMaps: https://www.google.com/maps/search/?api=1&query=37.346854,139.309474
+    googleMaps: https://maps.app.goo.gl/QaMNn6Vyyo9S6oe17
   phone: "0241-82-2304"
 season:
   label: "2025-2026"
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 37.346854
-  longitude: 139.309474
+  latitude: 37.34631867684497
+  longitude: 139.31026784479923
 elevation:
   top: 850
   bottom: 300

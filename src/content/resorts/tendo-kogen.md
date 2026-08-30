@@ -18,13 +18,13 @@ visibility:
 links:
   official: https://tendokogen.or.jp/
   weather: https://weathernews.jp/ski/spot/33508/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.348888,140.483067
+  googleMaps: https://maps.app.goo.gl/yphrx2gBLeFRm6pL6
   access: https://tendokogen.or.jp/
 contact:
   address:
     zhTw: 日本山形縣天童市大字田麦野1321
     ja: 〒994-0104 山形県天童市大字田麦野1321
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.348888,140.483067
+    googleMaps: https://maps.app.goo.gl/yphrx2gBLeFRm6pL6
   phone: "023-657-3628"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.348888
-  longitude: 140.483067
+  latitude: 38.346725357981256
+  longitude: 140.48178633928765
 elevation:
   top: 690
   bottom: 600

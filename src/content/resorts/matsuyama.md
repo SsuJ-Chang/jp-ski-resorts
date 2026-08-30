@@ -2,7 +2,7 @@
 id: matsuyama
 name:
   zhTw: 松山
-  ja: 松山
+  ja: 松山スキー場
   en: Matsuyama Ski Area
 region: tohoku
 prefecture: 山形縣
@@ -17,13 +17,13 @@ visibility:
 links:
   official: http://matuyama-net.com/ski/
   weather: https://weathernews.jp/ski/spot/33515/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.859580,139.980531
+  googleMaps: https://maps.app.goo.gl/nzxxXSPznEWtWGuF6
   access: http://matuyama-net.com/ski/
 contact:
   address:
-    zhTw: 日本山形縣酒田市土渕字大平1-59
-    ja: 〒999-6839 山形県酒田市土渕字大平1-59
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.859580,139.980531
+    zhTw: 日本山形縣酒田市土渕字大平1-6
+    ja: 〒999-6839 山形県酒田市土渕字大平1-6
+    googleMaps: https://maps.app.goo.gl/nzxxXSPznEWtWGuF6
   phone: "0234-62-2020"
 season:
   label: "2025-2026"
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.85958
-  longitude: 139.980531
+  latitude: 38.85972395068038
+  longitude: 139.98078016814128
 elevation:
   top: 280
   bottom: 205

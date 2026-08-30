@@ -1,8 +1,8 @@
 ---
 id: hiranai-yogoshiyama
 name:
-  zhTw: 平內町夜越山
-  ja: 平内町夜越山スキー場
+  zhTw: 夜越山
+  ja: 夜越山スキー場
   en: Hiranai Town Yogoshiyama Ski Area
 region: tohoku
 prefecture: 青森縣
@@ -15,12 +15,12 @@ visibility:
 links:
   official: https://start-yogoshiyama.purea-web.net/ski.html
   weather: https://weathernews.jp/ski/spot/33115/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Yogoshiyama%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/6vpsLXNdC8zgQFeL6
 contact:
   address:
     zhTw: 日本青森縣東津輕郡平內町大字濱子字堀替 36-1
     ja: 〒039-3331 青森県東津軽郡平内町大字浜子字堀替36-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Yogoshiyama%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/6vpsLXNdC8zgQFeL6
   phone: "017-755-2756"
 season:
   label: "2025-2026"
@@ -30,7 +30,7 @@ season:
   note: 營業期間與時間為公開雪場資料；夜滑時段與開始時間可能依日期不同，請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33115/
 snowWeather:
-  title: 平內町夜越山雪況天氣
+  title: 夜越山雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33115/
   snowDepth: 0 cm
@@ -38,8 +38,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 40.922376
-  longitude: 140.987236
+  latitude: 40.92184008180546
+  longitude: 140.98778672883552
 elevation:
   top: 185
   bottom: 37
@@ -50,7 +50,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 40
   courseInfoPage: https://weathernews.jp/ski/spot/33115/
-  summary: 平內町夜越山共有 3 條雪道與 1 座纜車，標高約 37-185m；初級 30%、中級 30%、進階 40%，雪板可全區滑行。
+  summary: 夜越山共有 3 條雪道與 1 座纜車，標高約 37-185m；初級 30%、中級 30%、進階 40%，雪板可全區滑行。
   details:
     - name: "初級路線"
       difficulty: beginner
@@ -86,4 +86,4 @@ externalContent:
   vlogs: []
 ---
 
-平內町夜越山位於青森縣，共有3 條雪道、1 座纜車，滑行主軸是長距離下滑與區域串聯，最長線約 185m。高處到山麓之間有明顯分段，適合把暖身、主滑與收尾排成完整一趟。如果你偏好巡航效率和換線變化，而不是反覆刷同一面坡，這類配置會更有意思。
+夜越山位於青森縣，共有3 條雪道、1 座纜車，滑行主軸是長距離下滑與區域串聯，最長線約 185m。高處到山麓之間有明顯分段，適合把暖身、主滑與收尾排成完整一趟。如果你偏好巡航效率和換線變化，而不是反覆刷同一面坡，這類配置會更有意思。

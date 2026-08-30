@@ -1,8 +1,8 @@
 ---
 id: ani
 name:
-  zhTw: 阿仁
-  ja: 阿仁
+  zhTw: 森吉山阿仁
+  ja: 森吉山阿仁スキー場
   en: Ani Ski Area
 region: tohoku
 prefecture: 秋田縣
@@ -21,13 +21,13 @@ links:
   instagram: https://www.instagram.com/moriyosizan/
   xTwitter: https://twitter.com/aniski001
   weather: https://weathernews.jp/ski/spot/33208/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=39.955297,140.491334
+  googleMaps: https://maps.app.goo.gl/Fs3Mu6nHGNKuWWBa7
   access: http://www.aniski.jp
 contact:
   address:
     zhTw: 日本秋田縣北秋田市阿仁鍵ノ滝79-5
     ja: 〒018-4624 秋田県北秋田市阿仁鍵ノ滝79-5
-    googleMaps: https://www.google.com/maps/search/?api=1&query=39.955297,140.491334
+    googleMaps: https://maps.app.goo.gl/Fs3Mu6nHGNKuWWBa7
   phone: "0186-82-3311"
 season:
   label: "2025-2026"
@@ -36,7 +36,7 @@ season:
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/33208/
 snowWeather:
-  title: 阿仁 積雪與天氣
+  title: 森吉山阿仁積雪與天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33208/
   snowDepth: 0 cm
@@ -44,8 +44,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 39.955297
-  longitude: 140.491334
+  latitude: 39.95745910157988
+  longitude: 140.49767009701606
 elevation:
   top: 1200
   bottom: 537
@@ -56,7 +56,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 0
   courseInfoPage: https://www.aniski.jp/slope
-  summary: 阿仁以ゴンドラ山頂起點的長距離林間路線為主，包含パラダイスコース、らくらくコース與サンシャインコース等初級線，以及ユートピアコース、チャレンジコース等中級變化；最長滑走可達 3,500m。
+  summary: 森吉山阿仁以ゴンドラ山頂起點的長距離林間路線為主，包含パラダイスコース、らくらくコース與サンシャインコース等初級線，以及ユートピアコース、チャレンジコース等中級變化；最長滑走可達 3,500m。
   details:
     - name: "らくらくコース"
       difficulty: beginner
@@ -126,4 +126,4 @@ externalContent:
   vlogs: []
 ---
 
-秋田縣的阿仁共有 5 條雪道，搭配 3 座纜車，包含 らくらくコース、サンシャインコース 等路線；雪道配置偏初級，練習門檻較低，標籤偏向初學者練習、親子同行。
+秋田縣的森吉山阿仁共有 5 條雪道，搭配 3 座纜車，包含 らくらくコース、サンシャインコース 等路線；雪道配置偏初級，練習門檻較低，標籤偏向初學者練習、親子同行。

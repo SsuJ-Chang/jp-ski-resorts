@@ -17,13 +17,13 @@ visibility:
 links:
   official: http://okuaizukaneyama.blog.jp
   weather: https://weathernews.jp/ski/spot/33613/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=37.445278,139.535198
+  googleMaps: https://maps.app.goo.gl/LZoDKdEBcqJ2xZgK6
   access: http://okuaizukaneyama.blog.jp
 contact:
   address:
     zhTw: 日本福島縣大沼郡金山町大字小栗山字上野2339
     ja: 〒968-0012 福島県大沼郡金山町大字小栗山字上野2339
-    googleMaps: https://www.google.com/maps/search/?api=1&query=37.445278,139.535198
+    googleMaps: https://maps.app.goo.gl/LZoDKdEBcqJ2xZgK6
   phone: "0241-54-2022"
 season:
   label: "2025-2026"
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 37.445278
-  longitude: 139.535198
+  latitude: 37.444874242750416
+  longitude: 139.53512502576316
 elevation:
   top: 775
   bottom: 470

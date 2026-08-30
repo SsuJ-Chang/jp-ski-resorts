@@ -2,7 +2,7 @@
 id: amihari-onsen
 name:
   zhTw: 網張溫泉
-  ja: 網張温泉
+  ja: 網張温泉スキー場
   en: Amihari Onsen
 region: tohoku
 prefecture: 岩手縣
@@ -16,12 +16,12 @@ visibility:
 links:
   official: http://www.qkamura.or.jp/ski/iwate
   weather: https://weathernews.jp/ski/spot/33305/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Amihari%20Onsen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/jCavyM2Ji89HMAWi9
 contact:
   address:
     zhTw: 日本岩手縣岩手郡雫石町網張溫泉
     ja: 〒020-0585 岩手県岩手郡雫石町網張温泉
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Amihari%20Onsen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/jCavyM2Ji89HMAWi9
   phone: "019-693-2211"
 season:
   label: "2025-2026"
@@ -37,8 +37,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 39.821436
-  longitude: 140.935981
+  latitude: 39.82143568443681
+  longitude: 140.93625927116452
 elevation:
   top: 1350
   bottom: 760

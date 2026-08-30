@@ -18,13 +18,13 @@ visibility:
 links:
   official: http://www.qkamura.or.jp/haguro
   weather: https://weathernews.jp/ski/spot/33507/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.692932,139.984755
+  googleMaps: https://maps.app.goo.gl/eWMwJSDAA5cLA32e8
   access: http://www.qkamura.or.jp/haguro
 contact:
   address:
     zhTw: 日本山形縣鶴岡市羽黒町手向羽黒山
     ja: 〒997-0211 山形県鶴岡市羽黒町手向羽黒山
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.692932,139.984755
+    googleMaps: https://maps.app.goo.gl/eWMwJSDAA5cLA32e8
   phone: "0235-62-4270"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.692932
-  longitude: 139.984755
+  latitude: 38.69289185496886
+  longitude: 139.98478916813528
 elevation:
   top: 377
   bottom: 312

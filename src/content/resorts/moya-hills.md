@@ -19,12 +19,12 @@ links:
   trailMapPage: https://www.moyahills.jp/winter/winter.html
   ticket: https://www.moyahills.jp/winter/lift.html
   weather: https://weathernews.jp/ski/spot/33102/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Moya%20Hills%20Aomori
+  googleMaps: https://maps.app.goo.gl/av8S3nqs9DqatWCM7
 contact:
   address:
     zhTw: 日本青森縣青森市雲谷字梨野木 63
     ja: 〒030-0133 青森県青森市雲谷字梨野木63
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Moya%20Hills%20Aomori
+    googleMaps: https://maps.app.goo.gl/av8S3nqs9DqatWCM7
   phone: 017-764-1110
 season:
   label: 2025-2026
@@ -108,8 +108,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 40.737004
-  longitude: 140.793881
+  latitude: 40.73677059420317
+  longitude: 140.7940869
 elevation:
   top: 520
   bottom: 200

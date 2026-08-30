@@ -18,13 +18,13 @@ links:
   official: http://www.siroimori.co.jp/yokone-ski/index.html
   facebook: https://www.facebook.com/profile.php?id=100057396431729
   weather: https://weathernews.jp/ski/spot/33532/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.071059,139.730572
+  googleMaps: https://maps.app.goo.gl/ADZNGkrhyToBReVd8
   access: http://www.siroimori.co.jp/yokone-ski/index.html
 contact:
   address:
     zhTw: 日本山形縣西置賜郡大字小国町大字小国小坂町895
     ja: 山形県西置賜郡大字小国町大字小国小坂町895
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.071059,139.730572
+    googleMaps: https://maps.app.goo.gl/ADZNGkrhyToBReVd8
   phone: "0238-62-4723"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.071059
-  longitude: 139.730572
+  latitude: 38.07071324400001
+  longitude: 139.7310857257846
 elevation:
   top: 279
   bottom: 140

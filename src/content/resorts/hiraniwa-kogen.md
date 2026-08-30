@@ -15,12 +15,12 @@ visibility:
 links:
   official: https://hiraniwa.com/
   weather: https://weathernews.jp/ski/spot/33321/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hiraniwa%20Kogen%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/mqEvfP8g937aYUqL9
 contact:
   address:
     zhTw: 日本岩手縣久慈市山形町來內 20-13-1
     ja: 〒028-8605 岩手県久慈市山形町来内20-13-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hiraniwa%20Kogen%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/mqEvfP8g937aYUqL9
   phone: "0194-72-2944"
 season:
   label: "2025-2026"
@@ -37,8 +37,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 40.0836
-  longitude: 141.5031
+  latitude: 40.08303386226915
+  longitude: 141.50304054232896
 elevation:
   top: 910
   bottom: 700

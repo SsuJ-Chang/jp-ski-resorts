@@ -1,8 +1,8 @@
 ---
 id: daisen-ohdai
 name:
-  zhTw: 大仙市大台
-  ja: 大仙市大台
+  zhTw: 大台
+  ja: 大台スキー場
   en: Daisen City Ohdai Ski Area
 region: tohoku
 prefecture: 秋田縣
@@ -20,13 +20,13 @@ links:
   official: https://ohdai.omagari-sc.com/
   facebook: https://www.facebook.com/ohdai.ski.resort
   weather: https://weathernews.jp/ski/spot/33217/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=39.519386,140.655197
+  googleMaps: https://maps.app.goo.gl/nGWt8ivHfHApwgrb6
   access: https://ohdai.omagari-sc.com/
 contact:
   address:
     zhTw: 日本秋田縣大仙市太田町川口字大台１−２
     ja: 〒019-1615 秋田県大仙市太田町川口字大台１−２
-    googleMaps: https://www.google.com/maps/search/?api=1&query=39.519386,140.655197
+    googleMaps: https://maps.app.goo.gl/nGWt8ivHfHApwgrb6
   phone: "0187-89-1788"
 season:
   label: "2025-2026"
@@ -35,7 +35,7 @@ season:
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/33217/
 snowWeather:
-  title: 大仙市大台 積雪與天氣
+  title: 大台積雪與天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33217/
   snowDepth: 0 cm
@@ -43,8 +43,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 39.519386
-  longitude: 140.655197
+  latitude: 39.51932122208322
+  longitude: 140.65519799700024
 elevation:
   top: 435
   bottom: 195
@@ -55,7 +55,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 20
   courseInfoPage: https://weathernews.jp/ski/spot/33217/
-  summary: 大仙市大台共有 6 條雪道，難度比例約初級 50%、中級 30%、進階 20%，適合依雪況與同行者程度安排滑行路線。
+  summary: 大台共有 6 條雪道，難度比例約初級 50%、中級 30%、進階 20%，適合依雪況與同行者程度安排滑行路線。
   details:
     - name: "初級路線 1"
       difficulty: beginner
@@ -99,4 +99,4 @@ externalContent:
   vlogs: []
 ---
 
-大仙市大台位於秋田縣，是中小型雪場，共有6 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、夜滑。
+大台位於秋田縣，是中小型雪場，共有6 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、夜滑。

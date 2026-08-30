@@ -16,12 +16,12 @@ visibility:
 links:
   official: http://www.owani-ski.com/
   weather: https://weathernews.jp/ski/spot/33101/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Owani%20Onsen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/Z3MddtYo5ZYAfzat8
 contact:
   address:
     zhTw: 日本青森縣南津輕郡大鰐町大字虹貝字清川 48-1
     ja: 〒038-0221 青森県南津軽郡大鰐町大字虹貝字清川48-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Owani%20Onsen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/Z3MddtYo5ZYAfzat8
   phone: "0172-49-1023"
 season:
   label: "2025-2026"
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 40.507437
-  longitude: 140.566335
+  latitude: 40.50783363990725
+  longitude: 140.564685657671
 elevation:
   top: 533
   bottom: 100

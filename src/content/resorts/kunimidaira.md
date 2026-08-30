@@ -2,7 +2,7 @@
 id: kunimidaira
 name:
   zhTw: 國見平
-  ja: 国見平スキー場
+  ja: 衣川国見平スキー場
   en: Kunimidaira Ski Area
 region: tohoku
 prefecture: 岩手縣
@@ -17,12 +17,12 @@ links:
   instagram: https://www.instagram.com/kunimidaira/
   xTwitter: https://x.com/kunimidaira
   weather: https://weathernews.jp/ski/spot/33314/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Kunimidaira%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/UaVnjsjeHjdfMYAq9
 contact:
   address:
     zhTw: 日本岩手縣奧州市衣川長塚 303
     ja: 〒023-0000 岩手県奥州市衣川長塚303番地
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Kunimidaira%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/UaVnjsjeHjdfMYAq9
   phone: "0197-52-6611"
 season:
   label: "2025-2026"
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 39.060116
-  longitude: 140.970125
+  latitude: 39.052280182979345
+  longitude: 140.9688279018487
 elevation:
   top: 600
   bottom: 400

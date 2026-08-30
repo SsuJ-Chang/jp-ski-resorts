@@ -18,13 +18,13 @@ links:
   official: http://www.yonezawa-ski.co.jp
   xTwitter: https://twitter.com/yonezawaskipark
   weather: https://weathernews.jp/ski/spot/33510/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=37.864752,140.231889
+  googleMaps: https://maps.app.goo.gl/LCvrz9sio9BVrur87
   access: http://www.yonezawa-ski.co.jp
 contact:
   address:
     zhTw: 日本山形縣米澤市万世町刈安字栃平道下24266-1
     ja: 〒992-1121 山形県米沢市万世町刈安字栃平道下24266-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=37.864752,140.231889
+    googleMaps: https://maps.app.goo.gl/LCvrz9sio9BVrur87
   phone: "0238-28-2511"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 37.864752
-  longitude: 140.231889
+  latitude: 37.86478669213239
+  longitude: 140.23186862577745
 elevation:
   top: 800
   bottom: 475

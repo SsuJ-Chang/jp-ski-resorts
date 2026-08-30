@@ -2,7 +2,7 @@
 id: onikoube
 name:
   zhTw: Onikoube
-  ja: オニコウベ
+  ja: オニコウベスキー場
   en: Onikoube Ski Resort
 region: tohoku
 prefecture: 宮城縣
@@ -20,13 +20,13 @@ links:
   instagram: https://www.instagram.com/onikoube_ski_resort/
   xTwitter: https://x.com/onikoube
   weather: https://weathernews.jp/ski/spot/33401/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.786907,140.639269
+  googleMaps: https://maps.app.goo.gl/ajMKqeKsNiU8naD1A
   access: http://www.onikoube.com
 contact:
   address:
     zhTw: 日本宮城縣大崎市鳴子温泉鬼首字小向原9-55
     ja: 〒989-6941 宮城県大崎市鳴子温泉鬼首字小向原9-55
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.786907,140.639269
+    googleMaps: https://maps.app.goo.gl/ajMKqeKsNiU8naD1A
   phone: "0229-86-2111"
 season:
   label: "2025-2026"
@@ -43,8 +43,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.786907
-  longitude: 140.639269
+  latitude: 38.78709098172031
+  longitude: 140.63959801601354
 elevation:
   top: 1055
   bottom: 340

@@ -18,13 +18,13 @@ visibility:
 links:
   official: https://www.takahata-ski.net/
   weather: https://weathernews.jp/ski/spot/33616/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=37.100895,139.449390
+  googleMaps: https://maps.app.goo.gl/8Kximdaw1ACr2RNc9
   access: https://www.takahata-ski.net/
 contact:
   address:
     zhTw: 日本福島縣南會津郡南会津町大桃字一ノ間々20-3
     ja: 〒967-0515 福島県南会津郡南会津町大桃字一ノ間々20-3
-    googleMaps: https://www.google.com/maps/search/?api=1&query=37.100895,139.449390
+    googleMaps: https://maps.app.goo.gl/8Kximdaw1ACr2RNc9
   phone: "0241-76-2231"
 season:
   label: "2025-2026"
@@ -32,6 +32,12 @@ season:
   hours: "平日：8:30〜16:00 / 假日：8:30〜16:00"
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/33616/
+trailMaps:
+- label: 北日光・高畑 雪道圖
+  language: 日文
+  season: 2025-2026
+  url: https://www.takahata-ski.net/gelande/
+  sourceLabel: Kita Nikko Takahata Official
 snowWeather:
   title: 北日光・高畑 積雪與天氣
   provider: Weathernews
@@ -41,8 +47,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 37.100895
-  longitude: 139.44939
+  latitude: 37.1008764850603
+  longitude: 139.44980494109353
 elevation:
   top: 1240
   bottom: 720

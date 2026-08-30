@@ -2,8 +2,8 @@
 id: kushibiki-taranokidai
 name:
   zhTw: 櫛引 Taranokidai
-  ja: 櫛引たらのきだい
-  en: Kushibiki Taranokidai Ski Area
+  ja: 櫛引たらのきだいスキー場
+  en: Kushibiki Taranokidai Ski Slope
 region: tohoku
 prefecture: 山形縣
 tags:
@@ -18,14 +18,14 @@ visibility:
 links:
   facebook: https://www.facebook.com/taranokidai/
   weather: https://weathernews.jp/ski/spot/33516/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.652479,139.912937
+  googleMaps: https://maps.app.goo.gl/BF2nMJmB5HhteXpE9
   access: https://www.facebook.com/taranokidai/
 contact:
   address:
     zhTw: 日本山形縣鶴岡市たらのき代字西野469-1
     ja: 〒997-0303 山形県鶴岡市たらのき代字西野469-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.652479,139.912937
-  phone: "0235-57-5470"
+    googleMaps: https://maps.app.goo.gl/BF2nMJmB5HhteXpE9
+  phone: "0235-57-4488"
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/01-2026/03/01"

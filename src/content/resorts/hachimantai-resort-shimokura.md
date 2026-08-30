@@ -1,7 +1,7 @@
 ---
 id: hachimantai-resort-shimokura
 name:
-  zhTw: 八幡平 Resort 下倉
+  zhTw: 八幡平渡假村下倉
   ja: 八幡平リゾート・下倉スキー場
   en: Hachimantai Resort Shimokura Ski Area
 region: tohoku
@@ -17,12 +17,12 @@ links:
   xTwitter: https://x.com/hachiresort
   weather: https://weathernews.jp/ski/spot/33316/
   access: https://www.hachimantai.co.jp/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hachimantai%20Resort%20Shimokura%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/ynTUDkq5w8a3wzweA
 contact:
   address:
     zhTw: 日本岩手縣八幡平市松尾寄木松川國有林
     ja: 〒028-7302 岩手県八幡平市松尾寄木松川国有林
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hachimantai%20Resort%20Shimokura%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/ynTUDkq5w8a3wzweA
   phone: "0195-78-3456"
 season:
   label: "2025-2026"
@@ -32,7 +32,7 @@ season:
   note: 營業期間與時間為公開雪場資料；下倉與 Panorama 共通票券，實際開放雪道與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33316/
 snowWeather:
-  title: 八幡平 Resort 下倉雪況天氣
+  title: 八幡平渡假村下倉雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33316/
   snowDepth: 0 cm
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 39.899151
-  longitude: 140.956802
+  latitude: 39.899406674260014
+  longitude: 140.95691165767104
 elevation:
   top: 1130
   bottom: 580
@@ -52,7 +52,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 30
   courseInfoPage: https://weathernews.jp/ski/spot/33316/
-  summary: 八幡平 Resort 下倉共有 6 條雪道與 3 座纜車，標高約 580-1,130m；初級 20%、中級 50%、進階 30%，雪板可全區滑行。
+  summary: 八幡平渡假村下倉共有 6 條雪道與 3 座纜車，標高約 580-1,130m；初級 20%、中級 50%、進階 30%，雪板可全區滑行。
   details:
     - name: "初級路線"
       difficulty: beginner
@@ -79,7 +79,7 @@ access:
     - label: "東京出發經盛岡或大更"
       steps:
         - 從東京搭東北新幹線到盛岡站。
-        - 從盛岡站搭路線巴士前往八幡平 Resort 下倉。
+        - 從盛岡站搭路線巴士前往八幡平渡假村下倉。
       estimatedTime: "盛岡站後約 90 分"
       difficulty: medium
       note: 也可從花輪線大更站轉乘路線巴士或計程車，約 30 分；盛岡與八幡平方向巴士需依當季時刻安排。
@@ -97,4 +97,4 @@ externalContent:
   vlogs: []
 ---
 
-八幡平 Resort 下倉以純天然粉雪、自然景觀與溫泉度假氛圍為特色。Panorama 區有總長約 2.7 km 的緩坡，適合家庭與初學者；下倉區則以多變化滑道與高品質雪況受到中高級玩家喜愛，能一次感受兩種不同雪場節奏。
+八幡平渡假村下倉以純天然粉雪、自然景觀與溫泉度假氛圍為特色。Panorama 區有總長約 2.7 km 的緩坡，適合家庭與初學者；下倉區則以多變化滑道與高品質雪況受到中高級玩家喜愛，能一次感受兩種不同雪場節奏。

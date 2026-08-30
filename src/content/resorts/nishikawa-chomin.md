@@ -1,8 +1,8 @@
 ---
 id: nishikawa-chomin
 name:
-  zhTw: 西川町民
-  ja: 西川町民スキー場
+  zhTw: 西川町民間澤
+  ja: 西川町民間沢スキー場
   en: Nishikawa Chomin Ski Area
 region: tohoku
 prefecture: 山形縣
@@ -17,14 +17,14 @@ visibility:
 links:
   official: https://nishikawa.gassankk.co.jp/
   weather: https://weathernews.jp/ski/spot/33521/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.438755,140.125814
+  googleMaps: https://maps.app.goo.gl/gPtSv5naurcaZyoq8
   access: https://nishikawa.gassankk.co.jp/
 contact:
   address:
     zhTw: 日本山形縣西村山郡西川町大字間澤字サッテロ782-8
     ja: 〒990-0703 山形県西村山郡西川町大字間沢字サッテロ782-8
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.438755,140.125814
-  phone: "0237-74-4055"
+    googleMaps: https://maps.app.goo.gl/gPtSv5naurcaZyoq8
+  phone: "0237-74-2778"
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/下旬-2026/03/15"
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.438755
-  longitude: 140.125814
+  latitude: 38.436904843929675
+  longitude: 140.1256316895515
 elevation:
   top: 390
   bottom: 240

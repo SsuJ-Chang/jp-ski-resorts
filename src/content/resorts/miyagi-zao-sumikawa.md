@@ -1,7 +1,7 @@
 ---
 id: miyagi-zao-sumikawa
 name:
-  zhTw: 宮城藏王澄川 Snow Park
+  zhTw: 宮城藏王澄川雪樂園
   ja: マウンテンフィールド宮城蔵王すみかわスノーパーク
   en: Mountain Field Miyagi Zao Sumikawa Snow Park
 region: tohoku
@@ -21,13 +21,13 @@ links:
   instagram: https://www.instagram.com/mtf_mz_sumikawa/
   xTwitter: https://x.com/mtf_mz_sumikawa
   weather: https://weathernews.jp/ski/spot/33405/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.135059,140.494637
+  googleMaps: https://maps.app.goo.gl/GELzMkqntcKUoaRYA
   access: http://www.zao-sumikawa.jp
 contact:
   address:
     zhTw: 日本宮城縣刈田郡藏王町遠刈田温泉字倉石岳国有林内
     ja: 〒989-0916 宮城県刈田郡蔵王町遠刈田温泉字倉石岳国有林内
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.135059,140.494637
+    googleMaps: https://maps.app.goo.gl/GELzMkqntcKUoaRYA
   phone: "0224-87-2610"
 season:
   label: "2025-2026"
@@ -36,7 +36,7 @@ season:
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/33405/
 snowWeather:
-  title: 宮城藏王澄川 Snow Park 積雪與天氣
+  title: 宮城藏王澄川雪樂園積雪與天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33405/
   snowDepth: 0 cm
@@ -44,8 +44,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.135059
-  longitude: 140.494637
+  latitude: 38.135088148915415
+  longitude: 140.49483779695132
 elevation:
   top: 1400
   bottom: 1100
@@ -56,7 +56,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://weathernews.jp/ski/spot/33405/
-  summary: 宮城藏王澄川 Snow Park共有 9 條雪道，難度比例約初級 40%、中級 40%、進階 20%，適合依雪況與同行者程度安排滑行路線。
+  summary: 宮城藏王澄川雪樂園共有 9 條雪道，難度比例約初級 40%、中級 40%、進階 20%，適合依雪況與同行者程度安排滑行路線。
   details:
     - name: "初級路線 1"
       difficulty: beginner
@@ -110,4 +110,4 @@ externalContent:
   vlogs: []
 ---
 
-宮城藏王澄川 Snow Park位於宮城縣，是中小型雪場，共有9 條雪道，搭配 3 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、溫泉停留。
+宮城藏王澄川雪樂園位於宮城縣，是中小型雪場，共有9 條雪道，搭配 3 座纜車。初級、中級與上級路線都有配置，可先用規模與難度判斷是否符合行程需求；標籤上偏向初學者練習、溫泉停留。

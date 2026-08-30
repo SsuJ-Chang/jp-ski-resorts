@@ -16,12 +16,12 @@ visibility:
 links:
   official: https://www.hyakuzawa-ski.com/soma.html
   weather: https://weathernews.jp/ski/spot/33113/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Soma%20Romantopia%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/FQ49q2mn5omQVCaKA
 contact:
   address:
     zhTw: 日本青森縣弘前市大字水木在家字櫻井 44
     ja: 〒036-1505 青森県弘前市大字水木在家字桜井44
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Soma%20Romantopia%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/FQ49q2mn5omQVCaKA
   phone: "0172-84-2020"
 season:
   label: "2025-2026"
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 40.575661
-  longitude: 140.390082
+  latitude: 40.575845055528845
+  longitude: 140.39006627116447
 elevation:
   top: 164
   bottom: 84

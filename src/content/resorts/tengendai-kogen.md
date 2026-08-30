@@ -2,7 +2,7 @@
 id: tengendai-kogen
 name:
   zhTw: 天元台高原
-  ja: 天元台高原
+  ja: 天元台高原スキー場
   en: Tengendai Kogen
 region: tohoku
 prefecture: 山形縣
@@ -20,12 +20,12 @@ links:
   instagram: https://www.instagram.com/tengendai_official/
   weather: https://weathernews.jp/ski/spot/33506/
   access: https://www.tengendai.jp/access
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Tengendai%20Kogen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/2FofFbriwm6eo9Cj7
 contact:
   address:
     zhTw: 日本山形縣米澤市白布溫泉天元台
     ja: 〒992-1461 山形県米沢市白布温泉天元台
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Tengendai%20Kogen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/2FofFbriwm6eo9Cj7
   phone: "0238-55-2236"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 37.77532
-  longitude: 140.134323
+  latitude: 37.774639757124106
+  longitude: 140.1365278737564
 elevation:
   top: 1820
   bottom: 920

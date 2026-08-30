@@ -20,13 +20,13 @@ links:
   facebook: https://www.facebook.com/aizudaikura
   instagram: https://www.instagram.com/daikura_ski/
   weather: https://weathernews.jp/ski/spot/33615/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=37.181393,139.637209
+  googleMaps: https://maps.app.goo.gl/g5NqFwACMnnCjfaTA
   access: https://daikura.net/
 contact:
   address:
     zhTw: 日本福島縣南會津郡田島町大字針生字昼滝山857-150
     ja: 〒967-0026 福島県南会津郡田島町大字針生字昼滝山857-150
-    googleMaps: https://www.google.com/maps/search/?api=1&query=37.181393,139.637209
+    googleMaps: https://maps.app.goo.gl/g5NqFwACMnnCjfaTA
   phone: "0241-64-2121"
 season:
   label: "2025-2026"
@@ -43,8 +43,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 37.181393
-  longitude: 139.637209
+  latitude: 37.18152613914619
+  longitude: 139.6372569545898
 elevation:
   top: 1200
   bottom: 838

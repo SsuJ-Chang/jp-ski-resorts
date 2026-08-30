@@ -19,12 +19,12 @@ links:
   xTwitter: https://x.com/shiroisiskijyou
   weather: https://weathernews.jp/ski/spot/33411/
   access: https://www.nposki.com/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Miyagi%20Zao%20Shiroishi%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/hZVq96KcgggFWGcg9
 contact:
   address:
     zhTw: 日本宮城縣白石市福岡八宮字不忘山
     ja: 〒989-0733 宮城県白石市福岡八宮字不忘山
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Miyagi%20Zao%20Shiroishi%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/hZVq96KcgggFWGcg9
   phone: "0224-24-8111"
 season:
   label: "2025-2026"
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 38.06886
-  longitude: 140.513675
+  latitude: 38.06857810053354
+  longitude: 140.5133036846579
 elevation:
   top: 1150
   bottom: 850

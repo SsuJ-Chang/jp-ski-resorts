@@ -18,13 +18,13 @@ visibility:
 links:
   official: https://www.city.kitaakita.akita.jp/genre/kyouiku_bunka_sports/sports/sports_taiiku/p1370/yakushi
   weather: https://weathernews.jp/ski/spot/33225/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=40.213049,140.278751
+  googleMaps: https://maps.app.goo.gl/jWX89syhUzko3LQb9
   access: https://www.city.kitaakita.akita.jp/genre/kyouiku_bunka_sports/sports/sports_taiiku/p1370/yakushi
 contact:
   address:
     zhTw: 日本秋田縣北秋田市今泉字鳥越13-1
     ja: 〒018-3343 秋田県北秋田市今泉字鳥越13-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=40.213049,140.278751
+    googleMaps: https://maps.app.goo.gl/jWX89syhUzko3LQb9
   phone: "0186-67-2112"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 40.213049
-  longitude: 140.278751
+  latitude: 40.21362213857192
+  longitude: 140.2791799681898
 elevation:
   top: 187
   bottom: 50

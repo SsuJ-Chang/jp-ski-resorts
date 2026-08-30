@@ -19,13 +19,13 @@ links:
   official: https://npo-onogawa.org
   facebook: https://www.facebook.com/onogawaski
   weather: https://weathernews.jp/ski/spot/33517/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=37.877801,140.058025
+  googleMaps: https://maps.app.goo.gl/WPQBa8C4Ps1wVi419
   access: https://npo-onogawa.org
 contact:
   address:
     zhTw: 日本山形縣米澤市小野川町字志田1881-1
     ja: 〒992-0076 山形県米沢市小野川町字志田1881-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=37.877801,140.058025
+    googleMaps: https://maps.app.goo.gl/WPQBa8C4Ps1wVi419
   phone: "0238-32-2121"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 37.877801
-  longitude: 140.058025
+  latitude: 37.87794547344745
+  longitude: 140.05769472577788
 elevation:
   top: 462
   bottom: 340

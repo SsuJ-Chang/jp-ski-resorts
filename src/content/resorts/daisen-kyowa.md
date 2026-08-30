@@ -1,7 +1,7 @@
 ---
 id: daisen-kyowa
 name:
-  zhTw: 大仙市營協和
+  zhTw: 協和
   ja: 大仙市営協和スキー場
   en: Daisen Municipal Kyowa Ski Area
 region: tohoku
@@ -16,13 +16,13 @@ visibility:
 links:
   official: http://kyowasnow.net/
   weather: https://weathernews.jp/ski/spot/33203/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=39.680992,140.393088
+  googleMaps: https://maps.app.goo.gl/PRim99fuRQpKq5gc9
   access: http://kyowasnow.net/
 contact:
   address:
     zhTw: 日本秋田縣大仙市協和船岡字上庄内71-1
     ja: 〒019-2401 秋田県大仙市協和船岡字上庄内71-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=39.680992,140.393088
+    googleMaps: https://maps.app.goo.gl/PRim99fuRQpKq5gc9
   phone: "018-893-2050"
 season:
   label: "2025-2026"
@@ -31,7 +31,7 @@ season:
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/33203/
 snowWeather:
-  title: 大仙市營協和 積雪與天氣
+  title: 協和積雪與天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33203/
   snowDepth: 0 cm
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 39.680992
-  longitude: 140.393088
+  latitude: 39.681014769460134
+  longitude: 140.3930450681705
 elevation:
   top: 432
   bottom: 170
@@ -51,7 +51,7 @@ courses:
   intermediateRatio: 45
   advancedRatio: 20
   courseInfoPage: https://weathernews.jp/ski/spot/33203/
-  summary: 大仙市營協和共有 9 條雪道，難度比例約初級 35%、中級 45%、進階 20%，適合依雪況與同行者程度安排滑行路線。
+  summary: 協和共有 9 條雪道，難度比例約初級 35%、中級 45%、進階 20%，適合依雪況與同行者程度安排滑行路線。
   details:
     - name: "初級路線 1"
       difficulty: beginner
@@ -109,4 +109,4 @@ externalContent:
   vlogs: []
 ---
 
-大仙市營協和位於秋田縣，是中小型雪場，共有 9 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，內文以雪道數與難度比例為主，標籤偏向溫泉停留、雙板與單板。
+協和位於秋田縣，是中小型雪場，共有 9 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，內文以雪道數與難度比例為主，標籤偏向溫泉停留、雙板與單板。

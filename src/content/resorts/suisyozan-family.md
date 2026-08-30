@@ -1,7 +1,7 @@
 ---
 id: suisyozan-family
 name:
-  zhTw: 水晶山 Family
+  zhTw: 水晶山
   ja: 水晶山ファミリースキー場
   en: Suisyozan Family Ski Area
 region: tohoku
@@ -18,13 +18,13 @@ visibility:
 links:
   official: https://www.suisyozan-ski-area.com/
   weather: https://weathernews.jp/ski/spot/33216/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=40.177386,140.763842
+  googleMaps: https://maps.app.goo.gl/m2CA9BWVMjM2y5P36
   access: https://www.suisyozan-ski-area.com/
 contact:
   address:
     zhTw: 日本秋田縣鹿角市尾去澤字獅子澤13-5
     ja: 〒018-5202 秋田県鹿角市尾去沢字獅子沢13-5
-    googleMaps: https://www.google.com/maps/search/?api=1&query=40.177386,140.763842
+    googleMaps: https://maps.app.goo.gl/m2CA9BWVMjM2y5P36
   phone: "0186-23-2424"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 40.177386
-  longitude: 140.763842
+  latitude: 40.17752791883473
+  longitude: 140.76389668353067
 elevation:
   top: 476
   bottom: 265

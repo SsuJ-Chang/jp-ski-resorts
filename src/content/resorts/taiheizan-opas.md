@@ -20,13 +20,13 @@ links:
   official: http://www.theboon.net/opas/
   facebook: https://www.facebook.com/taiheizanopas
   weather: https://weathernews.jp/ski/spot/33210/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=39.7854,140.2199
+  googleMaps: https://maps.app.goo.gl/RA5Gp4gnxvdapPmF7
   access: http://www.theboon.net/opas/
 contact:
   address:
     zhTw: 日本秋田縣秋田市仁別字蛇馬目澤111
     ja: 〒010-0824 秋田県秋田市仁別字蛇馬目沢111
-    googleMaps: https://www.google.com/maps/search/?api=1&query=39.7854,140.2199
+    googleMaps: https://maps.app.goo.gl/RA5Gp4gnxvdapPmF7
   phone: "018-827-2221"
 season:
   label: "2025-2026"
@@ -43,8 +43,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 39.7854
-  longitude: 140.2199
+  latitude: 39.78756436871978
+  longitude: 140.21968453933903
 elevation:
   top: 330
   bottom: 140

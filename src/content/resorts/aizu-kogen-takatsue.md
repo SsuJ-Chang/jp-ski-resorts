@@ -15,12 +15,12 @@ visibility:
 links:
   official: http://www.takatsue.jp/
   weather: https://weathernews.jp/ski/spot/33601/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Aizu%20Kogen%20Takatsue%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/S8PC247KXVTQHsZCA
 contact:
   address:
     zhTw: 日本福島縣南會津郡南會津町高杖原 535
     ja: 〒967-0315 福島県南会津郡南会津町高杖原535
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Aizu%20Kogen%20Takatsue%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/S8PC247KXVTQHsZCA
   phone: "0241-78-2220"
 season:
   label: "2025-2026"
@@ -36,8 +36,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 37.110208
-  longitude: 139.616231
+  latitude: 37.11008514233536
+  longitude: 139.6163592288355
 elevation:
   top: 1650
   bottom: 945

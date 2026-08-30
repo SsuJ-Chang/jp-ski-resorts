@@ -21,12 +21,12 @@ links:
   xTwitter: https://twitter.com/Okunaka_Kirara
   weather: https://weathernews.jp/ski/spot/33317/
   access: https://www.okunakayamakogen.jp/access
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Okunakayama%20Kogen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/5ug9iFgjKJ18amgVA
 contact:
   address:
     zhTw: 日本岩手縣二戶郡一戶町奧中山字西田子 662-1
     ja: 〒028-5134 岩手県二戸郡一戸町奥中山字西田子662-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Okunakayama%20Kogen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/5ug9iFgjKJ18amgVA
   phone: "0195-35-3131"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 40.083405
-  longitude: 141.190448
+  latitude: 40.083350561562725
+  longitude: 141.19127967116444
 elevation:
   top: 1018
   bottom: 650

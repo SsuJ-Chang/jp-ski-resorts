@@ -17,12 +17,12 @@ links:
   official: https://www.hyakuzawa-ski.com/
   instagram: https://www.instagram.com/hyakuzawa.snowboardschool/
   weather: https://weathernews.jp/ski/spot/33104/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Iwakiyama%20Hyakuzawa%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/fAkYgeZkxLVpyFxU7
 contact:
   address:
     zhTw: 日本青森縣弘前市大字百澤字東岩木山國有林 32
     ja: 〒036-1343 青森県弘前市大字百沢字東岩木山国有林32
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Iwakiyama%20Hyakuzawa%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/fAkYgeZkxLVpyFxU7
   phone: "0172-83-2224"
 season:
   label: "2025-2026"
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 40.628435
-  longitude: 140.33121
+  latitude: 40.62868169567055
+  longitude: 140.33073817116448
 elevation:
   top: 784
   bottom: 356

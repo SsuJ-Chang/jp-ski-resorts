@@ -1,7 +1,7 @@
 ---
 id: tengamori
 name:
-  zhTw: 橫手市天下森
+  zhTw: 天下森
   ja: 横手市天下森スキー場
   en: Yokote Tengamori Ski Area
 region: tohoku
@@ -18,13 +18,13 @@ visibility:
 links:
   official: https://www.tengamori.com
   weather: https://weathernews.jp/ski/spot/33221/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=39.162200,140.621238
+  googleMaps: https://maps.app.goo.gl/4C9WYd1nhirszkKcA
   access: https://www.tengamori.com
 contact:
   address:
     zhTw: 日本秋田縣橫手市増田町狙半内字天下森地内
     ja: 〒019-0705 秋田県横手市増田町狙半内字天下森地内
-    googleMaps: https://www.google.com/maps/search/?api=1&query=39.162200,140.621238
+    googleMaps: https://maps.app.goo.gl/4C9WYd1nhirszkKcA
   phone: "0182-45-9816"
 season:
   label: "2025-2026"
@@ -33,7 +33,7 @@ season:
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/33221/
 snowWeather:
-  title: 橫手市天下森 積雪與天氣
+  title: 天下森積雪與天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33221/
   snowDepth: 0 cm
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 39.1622
-  longitude: 140.621238
+  latitude: 39.16231167117234
+  longitude: 140.62157097000062
 elevation:
   top: 465
   bottom: 275
@@ -53,7 +53,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 10
   courseInfoPage: https://weathernews.jp/ski/spot/33221/
-  summary: 橫手市天下森共有 2 條雪道，難度比例約初級 50%、中級 40%、進階 10%，適合依雪況與同行者程度安排滑行路線。
+  summary: 天下森共有 2 條雪道，難度比例約初級 50%、中級 40%、進階 10%，適合依雪況與同行者程度安排滑行路線。
   details:
     - name: "初級路線"
       difficulty: beginner
@@ -84,4 +84,4 @@ externalContent:
   vlogs: []
 ---
 
-橫手市天下森在秋田縣提供2 條雪道，搭配 1 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。
+天下森在秋田縣提供2 條雪道，搭配 1 座纜車。初級、中級與上級路線都有配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

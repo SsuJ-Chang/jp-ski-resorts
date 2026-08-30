@@ -2,7 +2,7 @@
 id: mogami-akakura-onsen
 name:
   zhTw: 最上赤倉溫泉
-  ja: 山形県最上町　赤倉温泉スキー場
+  ja: 山形県最上町赤倉温泉スキー場
   en: Mogami Akakura Onsen Ski Area
 region: tohoku
 prefecture: 山形縣
@@ -20,13 +20,13 @@ links:
   facebook: https://www.facebook.com/akakuraski/
   instagram: https://www.instagram.com/akakuraspa_ski_resort/
   weather: https://weathernews.jp/ski/spot/33512/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.705483,140.544368
+  googleMaps: https://maps.app.goo.gl/gg6smYkAQWKSqXcZ8
   access: https://akakura-spa-ski.com/
 contact:
   address:
     zhTw: 日本山形縣最上郡最上町大字富澤3480-1
     ja: 〒999-6105 山形県最上郡最上町大字富沢3480-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.705483,140.544368
+    googleMaps: https://maps.app.goo.gl/gg6smYkAQWKSqXcZ8
   phone: "0233-45-2901"
 season:
   label: "2025-2026"
@@ -43,8 +43,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.705483
-  longitude: 140.544368
+  latitude: 38.70565164339147
+  longitude: 140.54426923816223
 elevation:
   top: 602
   bottom: 300

@@ -2,7 +2,7 @@
 id: uenono
 name:
   zhTw: 上野野
-  ja: 上野々
+  ja: 上野々スキー場
   en: Uenono Ski Area
 region: tohoku
 prefecture: 宮城縣
@@ -18,13 +18,13 @@ visibility:
 links:
   official: https://uenono.com/
   weather: https://weathernews.jp/ski/spot/33406/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.733388,140.712245
+  googleMaps: https://maps.app.goo.gl/newDWGjVUj37fEXg7
   access: https://uenono.com/
 contact:
   address:
     zhTw: 日本宮城縣大崎市鳴子温泉古戸前132-159
     ja: 〒989-6826 宮城県大崎市鳴子温泉古戸前132-159
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.733388,140.712245
+    googleMaps: https://maps.app.goo.gl/newDWGjVUj37fEXg7
   phone: "0229-83-3650"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.733388
-  longitude: 140.712245
+  latitude: 38.73346132498496
+  longitude: 140.7123985393011
 elevation:
   top: 400
   bottom: 300

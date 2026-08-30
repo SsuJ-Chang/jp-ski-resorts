@@ -1,8 +1,8 @@
 ---
 id: hanamaki-namari-onsen
 name:
-  zhTw: 花卷市鉛溫泉
-  ja: 花巻市鉛温泉スキー場
+  zhTw: 鉛溫泉
+  ja: 鉛温泉スキー場
   en: Hanamaki City Namari Onsen Ski Area
 region: tohoku
 prefecture: 岩手縣
@@ -16,12 +16,12 @@ links:
   official: http://www.city.hanamaki.iwate.jp/ski/
   facebook: https://www.facebook.com/NamarionsenSki/
   weather: https://weathernews.jp/ski/spot/33306/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hanamaki%20Namari%20Onsen%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/mz4YqsEPBYWknX21A
 contact:
   address:
     zhTw: 日本岩手縣花卷市鉛字中平 36-1
     ja: 〒025-0252 岩手県花巻市鉛字中平36-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hanamaki%20Namari%20Onsen%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/mz4YqsEPBYWknX21A
   phone: "0198-25-2711"
 season:
   label: "2025-2026"
@@ -38,8 +38,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 39.46309
-  longitude: 140.993182
+  latitude: 39.46319581898879
+  longitude: 140.9933528
 elevation:
   top: 467
   bottom: 223

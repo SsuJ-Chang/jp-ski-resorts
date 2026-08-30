@@ -1,8 +1,8 @@
 ---
 id: yuda-ski-area
 name:
-  zhTw: 町營湯田
-  ja: 町営湯田スキー場
+  zhTw: 湯田
+  ja: 湯田スキー場
   en: Town-operated Yuda Ski Area
 region: tohoku
 prefecture: 岩手縣
@@ -15,12 +15,12 @@ visibility:
 links:
   official: https://www.town.nishiwaga.lg.jp/soshikikarasagasu/kyoikuiinkai_shogaigakushuuka/1/3/4/1299.html
   weather: https://weathernews.jp/ski/spot/33322/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Town-operated%20Yuda%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/ZZtu6sNfJxpuCwHK6
 contact:
   address:
     zhTw: 日本岩手縣和賀郡西和賀町湯之澤 35
     ja: 〒029-5506 岩手県和賀郡西和賀町湯之沢35
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Town-operated%20Yuda%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/ZZtu6sNfJxpuCwHK6
   phone: "0197-82-2410"
 season:
   label: "2025-2026"
@@ -29,7 +29,7 @@ season:
   note: 營業期間與時間為公開雪場資料；積雪不足時可能調整開放日與營業範圍，請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33322/
 snowWeather:
-  title: 町營湯田雪況天氣
+  title: 湯田雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33322/
   snowDepth: 0 cm
@@ -37,8 +37,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 39.337421
-  longitude: 140.784863
+  latitude: 39.35829130341502
+  longitude: 140.7822769877058
 elevation:
   top: 457
   bottom: 265
@@ -49,7 +49,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://weathernews.jp/ski/spot/33322/
-  summary: 町營湯田共有 1 條雪道與 1 座纜車，標高約 265-457m；初級 40%、中級 40%、進階 20%，雪板可全區滑行。
+  summary: 湯田共有 1 條雪道與 1 座纜車，標高約 265-457m；初級 40%、中級 40%、進階 20%，雪板可全區滑行。
   details:
     - name: "初級路線"
       difficulty: beginner
@@ -80,4 +80,4 @@ externalContent:
   vlogs: []
 ---
 
-町營湯田是岩手縣的小型練習雪場，整理為1 條雪道，搭配 1 座纜車。單一路線配置，重點在簡單滑行與基本練習，介紹保留在可確認的雪道數與難度比例；標籤上偏向初學者練習、雙板與單板。
+湯田是岩手縣的小型練習雪場，整理為1 條雪道，搭配 1 座纜車。單一路線配置，重點在簡單滑行與基本練習，介紹保留在可確認的雪道數與難度比例；標籤上偏向初學者練習、雙板與單板。

@@ -17,13 +17,13 @@ visibility:
 links:
   official: http://www.zaoliza.co.jp/wntr/
   weather: https://weathernews.jp/ski/spot/33504/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.123957,140.405488
+  googleMaps: https://maps.app.goo.gl/JgSSXnAAhMBQUbED9
   access: http://www.zaoliza.co.jp/wntr/
 contact:
   address:
     zhTw: 日本山形縣上山市藏王坊平高原
     ja: 〒999-3113 山形県上山市蔵王坊平高原
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.123957,140.405488
+    googleMaps: https://maps.app.goo.gl/JgSSXnAAhMBQUbED9
   phone: "023-679-2311"
 season:
   label: "2025-2026"
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.123957
-  longitude: 140.405488
+  latitude: 38.12411750144298
+  longitude: 140.4053005998716
 elevation:
   top: 1446
   bottom: 1060

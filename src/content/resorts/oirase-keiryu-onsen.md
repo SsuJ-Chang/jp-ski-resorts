@@ -20,12 +20,12 @@ links:
   instagram: https://www.instagram.com/yakeyamatimes/
   xTwitter: https://twitter.com/yakeyama64
   weather: https://weathernews.jp/ski/spot/33110/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Oirase%20Keiryu%20Onsen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/JF6orPzzicF98h649
 contact:
   address:
     zhTw: 日本青森縣十和田市法量字燒山 64-122
     ja: 〒034-0303 青森県十和田市法量字焼山64-122
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Oirase%20Keiryu%20Onsen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/JF6orPzzicF98h649
   phone: "0176-74-2008"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 40.579533
-  longitude: 140.99318
+  latitude: 40.57944315623135
+  longitude: 140.99327987358473
 elevation:
   top: 450
   bottom: 200

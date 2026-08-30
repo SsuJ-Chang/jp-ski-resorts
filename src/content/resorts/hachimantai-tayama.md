@@ -1,8 +1,8 @@
 ---
 id: hachimantai-tayama
 name:
-  zhTw: 八幡平市田山
-  ja: 八幡平市田山スキー場
+  zhTw: 田山
+  ja: 田山スキー場
   en: Hachimantai City Tayama Ski Area
 region: tohoku
 prefecture: 岩手縣
@@ -14,12 +14,12 @@ visibility:
 links:
   official: https://www.city.hachimantai.lg.jp/soshiki/shisho-a/2021.html
   weather: https://weathernews.jp/ski/spot/33303/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Hachimantai%20City%20Tayama%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/GuwtRWWRm3GKxTav6
 contact:
   address:
     zhTw: 日本岩手縣八幡平市矢神 8-1
     ja: 〒028-7603 岩手県八幡平市矢神8-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Hachimantai%20City%20Tayama%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/GuwtRWWRm3GKxTav6
   phone: "0195-73-2650"
 season:
   label: "2025-2026"
@@ -36,8 +36,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 40.134494
-  longitude: 140.951911
+  latitude: 40.134812346711065
+  longitude: 140.9518303288355
 elevation:
   top: 585
   bottom: 315
@@ -48,7 +48,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 40
   courseInfoPage: https://weathernews.jp/ski/spot/33303/
-  summary: 八幡平市田山共有 2 條雪道與 2 座纜車，標高約 315-585m；初級 20%、中級 40%、進階 40%，雪板可全區滑行。
+  summary: 田山共有 2 條雪道與 2 座纜車，標高約 315-585m；初級 20%、中級 40%、進階 40%，雪板可全區滑行。
   details:
     - name: "中級路線"
       difficulty: intermediate
@@ -82,4 +82,4 @@ externalContent:
   vlogs: []
 ---
 
-八幡平市田山位在岩手縣，雪道數為2 條，搭配 2 座纜車。上級路線比例明顯，坡面變化較多，這裡先呈現已整理的滑行配置；標籤上偏向雙板與單板。
+田山位在岩手縣，雪道數為2 條，搭配 2 座纜車。上級路線比例明顯，坡面變化較多，這裡先呈現已整理的滑行配置；標籤上偏向雙板與單板。

@@ -1,7 +1,7 @@
 ---
 id: jeunesse-kurikoma
 name:
-  zhTw: Jeunesse 栗駒
+  zhTw: 青年栗駒
   ja: ジュネス栗駒
   en: Jeunesse Kurikoma Ski Area
 region: tohoku
@@ -23,13 +23,13 @@ links:
   threads: https://www.threads.net/@ak_resort_jeunesse
   xTwitter: https://x.com/jeunesse_resort
   weather: https://weathernews.jp/ski/spot/33209/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=39.159365,140.726281
+  googleMaps: https://maps.app.goo.gl/5qZzx4nL1AhugBGS6
   access: https://www.jeunesse-ski.com
 contact:
   address:
     zhTw: 日本秋田縣雄勝郡東成瀬村椿川字柳澤39-7
     ja: 〒019-0803 秋田県雄勝郡東成瀬村椿川字柳沢39-7
-    googleMaps: https://www.google.com/maps/search/?api=1&query=39.159365,140.726281
+    googleMaps: https://maps.app.goo.gl/5qZzx4nL1AhugBGS6
   phone: "0182-47-3101"
 season:
   label: "2025-2026"
@@ -46,8 +46,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 39.159365
-  longitude: 140.726281
+  latitude: 39.160094751330064
+  longitude: 140.72856693931635
 elevation:
   top: 770
   bottom: 395

@@ -17,12 +17,12 @@ visibility:
 links:
   official: http://www.princehotels.co.jp/ski/shizukuishi/index.html
   weather: https://weathernews.jp/ski/spot/33302/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Shizukuishi%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/wAFD5CvmxQKAZCeR9
 contact:
   address:
     zhTw: 日本岩手縣岩手郡雫石町高倉溫泉
     ja: 〒020-0593 岩手県岩手郡雫石町高倉温泉
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Shizukuishi%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/wAFD5CvmxQKAZCeR9
   phone: "019-693-1111"
 season:
   label: "2025-2026"
@@ -38,8 +38,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 39.775197
-  longitude: 140.930167
+  latitude: 39.773841803792344
+  longitude: 140.92432377116447
 elevation:
   top: 1145
   bottom: 428

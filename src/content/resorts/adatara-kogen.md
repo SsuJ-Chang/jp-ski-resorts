@@ -21,13 +21,13 @@ links:
   instagram: https://www.instagram.com/adatara_resort/
   xTwitter: https://x.com/adatara_resort
   weather: https://weathernews.jp/ski/spot/33607/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=37.622995,140.324423
+  googleMaps: https://maps.app.goo.gl/V14tb4TH1aSijZFM9
   access: http://www.adatara-resort.com/
 contact:
   address:
     zhTw: 日本福島縣二本松市奥岳温泉
     ja: 〒964-0075 福島県二本松市奥岳温泉
-    googleMaps: https://www.google.com/maps/search/?api=1&query=37.622995,140.324423
+    googleMaps: https://maps.app.goo.gl/V14tb4TH1aSijZFM9
   phone: "0243-24-2141"
 season:
   label: "2025-2026"
@@ -44,8 +44,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 37.622995
-  longitude: 140.324423
+  latitude: 37.62265943847804
+  longitude: 140.3244591834402
 elevation:
   top: 1120
   bottom: 950

@@ -1,8 +1,8 @@
 ---
 id: kitakata-sannokura
 name:
-  zhTw: 喜多方市三之倉
-  ja: 喜多方市三ノ倉スキー場
+  zhTw: 三之倉
+  ja: 三ノ倉スキー場
   en: Kitakata Sannokura Ski Resort
 region: tohoku
 prefecture: 福島縣
@@ -15,12 +15,12 @@ visibility:
 links:
   official: https://www.furusatosinkou.co.jp
   weather: https://weathernews.jp/ski/spot/33629/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Kitakata%20Sannokura%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/jziEvXTvm2YWErkv9
 contact:
   address:
     zhTw: 日本福島縣喜多方市熱鹽加納町相田字北權現森甲 857-1
     ja: 〒966-0108 福島県喜多方市熱塩加納町相田字北権現森甲857-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Kitakata%20Sannokura%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/jziEvXTvm2YWErkv9
   phone: "0241-36-2071"
 season:
   label: "2025-2026"
@@ -28,7 +28,7 @@ season:
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33629/
 snowWeather:
-  title: 喜多方市三之倉雪況天氣
+  title: 三之倉雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33629/
   snowDepth: 0 cm
@@ -36,8 +36,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 37.750168
-  longitude: 139.867288
+  latitude: 37.75029161928399
+  longitude: 139.8673406411156
 elevation:
   top: 780
   bottom: 570
@@ -48,7 +48,7 @@ courses:
   intermediateRatio: 60
   advancedRatio: 10
   courseInfoPage: https://weathernews.jp/ski/spot/33629/
-  summary: 喜多方市三之倉可俯瞰會津盆地，票價相對平實，適合家庭安排。共有 3 條雪道，初級 30%、中級 60%、上級 10%。
+  summary: 三之倉可俯瞰會津盆地，票價相對平實，適合家庭安排。共有 3 條雪道，初級 30%、中級 60%、上級 10%。
   details:
     - name: "初級コース（名稱待確認）"
       difficulty: beginner
@@ -66,7 +66,7 @@ access:
     - label: "東京出發經喜多方"
       steps:
         - 從東京搭東北新幹線到郡山站，轉 JR 磐越西線往會津若松、喜多方方向。
-        - 從喜多方站轉計程車前往喜多方市三之倉。
+        - 從喜多方站轉計程車前往三之倉。
       estimatedTime: "站後約 35 分"
       difficulty: hard
       note: 喜多方站後公開資料以計程車為主；建議先確認叫車、回程與夜滑時段的交通安排。
@@ -74,7 +74,7 @@ access:
     - label: "福島機場出發"
       steps:
         - 從福島機場租車或包車，往會津若松、喜多方方向移動。
-        - 依當日道路狀況前往喜多方市三之倉停車場。
+        - 依當日道路狀況前往三之倉停車場。
       estimatedTime: "約 120 分"
       difficulty: hard
       note: 公開交通資料以車程為主；冬季與夜滑時段需特別確認道路積雪與回程。
@@ -83,7 +83,7 @@ access:
     snowTireRequired: true
     note: 可由磐越自動車道會津若松 IC 前往，約 50 分鐘；也可由東北自動車道飯坂 IC 方向前往，約 90 分鐘。
 terrainSummary:
-  beginner: 喜多方市三之倉初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。
+  beginner: 三之倉初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。
   intermediate: 中級雪道占 60%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。
   advanced: 上級雪道占 10%，較高難度區域請依當日雪況、能見度與官方管制判斷。
   snowboard: 雪板可全區滑行。
@@ -92,4 +92,4 @@ externalContent:
   vlogs: []
 ---
 
-喜多方市三之倉是福島縣的小型雪場，共有 3 條雪道，搭配 2 座纜車。中級路線占比較高，可先用規模與難度判斷行程需求，標籤偏向親子同行、雙板與單板。
+三之倉是福島縣的小型雪場，共有 3 條雪道，搭配 2 座纜車。中級路線占比較高，可先用規模與難度判斷行程需求，標籤偏向親子同行、雙板與單板。

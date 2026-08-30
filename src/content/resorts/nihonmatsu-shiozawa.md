@@ -2,7 +2,7 @@
 id: nihonmatsu-shiozawa
 name:
   zhTw: 二本松鹽澤
-  ja: 二本松塩沢
+  ja: 二本松塩沢スキー場
   en: Nihonmatsu Shiozawa Ski Area
 region: tohoku
 prefecture: 福島縣
@@ -18,13 +18,13 @@ visibility:
 links:
   official: http://www.tohoku-safaripark.co.jp/ski/
   weather: https://weathernews.jp/ski/spot/33608/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=37.640495,140.330893
+  googleMaps: https://maps.app.goo.gl/9UMs6Fu2YjQuLg6HA
   access: http://www.tohoku-safaripark.co.jp/ski/
 contact:
   address:
     zhTw: 日本福島縣二本松市鹽澤字ぐみ塚山国有林内
     ja: 〒964-0086 福島県二本松市塩沢字ぐみ塚山国有林内
-    googleMaps: https://www.google.com/maps/search/?api=1&query=37.640495,140.330893
+    googleMaps: https://maps.app.goo.gl/9UMs6Fu2YjQuLg6HA
   phone: "0243-24-2845"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 37.640495
-  longitude: 140.330893
+  latitude: 37.64052602065309
+  longitude: 140.33100054111193
 elevation:
   top: 925
   bottom: 709

@@ -21,13 +21,13 @@ links:
   instagram: https://www.instagram.com/springvalley_sendai_izumi/
   xTwitter: https://twitter.com/springvalley022
   weather: https://weathernews.jp/ski/spot/33410/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.418528,140.722868
+  googleMaps: https://maps.app.goo.gl/Qm6HUCSLJnL41KpX8
   access: https://www.springvalley.co.jp/
 contact:
   address:
     zhTw: 日本宮城縣仙台市泉区福岡字岳山14-2
     ja: 〒981-3225 宮城県仙台市泉区福岡字岳山14-2
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.418528,140.722868
+    googleMaps: https://maps.app.goo.gl/Qm6HUCSLJnL41KpX8
   phone: "022-379-3755"
 season:
   label: "2025-2026"
@@ -44,8 +44,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.418528
-  longitude: 140.722868
+  latitude: 38.418941090328985
+  longitude: 140.7230349969611
 elevation:
   top: 959
   bottom: 687

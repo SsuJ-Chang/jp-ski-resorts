@@ -1,8 +1,8 @@
 ---
 id: mutsu-kamafuseyama
 name:
-  zhTw: 陸奧市釜臥山
-  ja: むつ市釜臥山スキー場
+  zhTw: 釜臥山
+  ja: 釜臥山スキー場
   en: Mutsu City Kamafuseyama Ski Resort
 region: tohoku
 prefecture: 青森縣
@@ -16,12 +16,12 @@ visibility:
 links:
   official: https://kamafuse-ski.mutsu-taikyo.jp/
   weather: https://weathernews.jp/ski/spot/33108/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Mutsu%20City%20Kamafuseyama%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/XgRxsspakMLRc3rU7
 contact:
   address:
     zhTw: 日本青森縣陸奧市大字大湊字大川守 44-5
     ja: 〒035-0096 青森県むつ市大字大湊字大川守44-5
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Mutsu%20City%20Kamafuseyama%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/XgRxsspakMLRc3rU7
   phone: "0175-24-1881"
 season:
   label: "2025-2026"
@@ -31,7 +31,7 @@ season:
   note: 營業期間與時間為公開雪場資料；實際開放日、營業範圍與票價請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33108/
 snowWeather:
-  title: 陸奧市釜臥山雪況天氣
+  title: 釜臥山雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33108/
   snowDepth: 0 cm
@@ -39,8 +39,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 41.2595
-  longitude: 141.1417
+  latitude: 41.26285286898579
+  longitude: 141.1381831981513
 elevation:
   top: 520
   bottom: 113
@@ -51,7 +51,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 20
   courseInfoPage: https://weathernews.jp/ski/spot/33108/
-  summary: 陸奧市釜臥山共有 3 條雪道與 2 座纜車，標高約 113-520m；初級 50%、中級 30%、進階 20%，雪板可全區滑行。
+  summary: 釜臥山共有 3 條雪道與 2 座纜車，標高約 113-520m；初級 50%、中級 30%、進階 20%，雪板可全區滑行。
   details:
     - name: "初級路線"
       difficulty: beginner
@@ -87,4 +87,4 @@ externalContent:
   vlogs: []
 ---
 
-陸奧市釜臥山位在青森縣，雪道數為3 條，搭配 2 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、夜滑。
+釜臥山位在青森縣，雪道數為3 條，搭配 2 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、夜滑。

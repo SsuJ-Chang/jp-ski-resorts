@@ -17,13 +17,13 @@ visibility:
 links:
   official: http://www.zao-sarukura.co.jp
   weather: https://weathernews.jp/ski/spot/33519/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.128545,140.374825
+  googleMaps: https://maps.app.goo.gl/v13bfcBxW5HtAwRb9
   access: http://www.zao-sarukura.co.jp
 contact:
   address:
     zhTw: 日本山形縣上山市藏王字藏王山2843-1
     ja: 〒999-3113 山形県上山市蔵王字蔵王山2843-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.128545,140.374825
+    googleMaps: https://maps.app.goo.gl/v13bfcBxW5HtAwRb9
   phone: "023-679-2211"
 season:
   label: "2025-2026"
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.128545
-  longitude: 140.374825
+  latitude: 38.1284378869138
+  longitude: 140.37648343927995
 elevation:
   top: 880
   bottom: 710

@@ -2,7 +2,7 @@
 id: izumigatake
 name:
   zhTw: 泉岳
-  ja: 泉ヶ岳
+  ja: 泉ヶ岳スキー場
   en: Izumigatake Ski Area
 region: tohoku
 prefecture: 宮城縣
@@ -18,13 +18,13 @@ visibility:
 links:
   official: http://www.izumigatake.info
   weather: https://weathernews.jp/ski/spot/33402/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.390970,140.721602
+  googleMaps: https://maps.app.goo.gl/XnTWAmrcsLfoEbYBA
   access: http://www.izumigatake.info
 contact:
   address:
     zhTw: 日本宮城縣仙台市泉区福岡字岳山
     ja: 〒981-3225 宮城県仙台市泉区福岡字岳山
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.390970,140.721602
+    googleMaps: https://maps.app.goo.gl/XnTWAmrcsLfoEbYBA
   phone: "022-379-1250"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.39097
-  longitude: 140.721602
+  latitude: 38.39082771892983
+  longitude: 140.72084172579574
 elevation:
   top: 1200
   bottom: 600

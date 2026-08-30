@@ -18,13 +18,13 @@ visibility:
 links:
   official: https://ski.city.yurihonjo.lg.jp/
   weather: https://weathernews.jp/ski/spot/33206/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=39.190812,140.092105
+  googleMaps: https://maps.app.goo.gl/ZJMnyzU9cGGkM6mGA
   access: https://ski.city.yurihonjo.lg.jp/
 contact:
   address:
     zhTw: 日本秋田縣由利本莊市矢島町荒澤字長保田6
     ja: 〒015-0418 秋田県由利本荘市矢島町荒沢字長保田6
-    googleMaps: https://www.google.com/maps/search/?api=1&query=39.190812,140.092105
+    googleMaps: https://maps.app.goo.gl/ZJMnyzU9cGGkM6mGA
   phone: "0184-56-2182"
 season:
   label: "2025-2026"
@@ -41,8 +41,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 39.190812
-  longitude: 140.092105
+  latitude: 39.1905022639922
+  longitude: 140.09311726815287
 elevation:
   top: 700
   bottom: 480

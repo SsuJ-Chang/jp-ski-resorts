@@ -19,13 +19,13 @@ visibility:
 links:
   official: https://www.town.shirataka.lg.jp/1350.htm
   weather: https://weathernews.jp/ski/spot/33523/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.235937,140.154713
+  googleMaps: https://maps.app.goo.gl/PAMUK8e1G6ymApgu8
   access: https://www.town.shirataka.lg.jp/1350.htm
 contact:
   address:
     zhTw: 日本山形縣西置賜郡白鷹町大字中山2801
     ja: 〒992-0802 山形県西置賜郡白鷹町大字中山2801
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.235937,140.154713
+    googleMaps: https://maps.app.goo.gl/PAMUK8e1G6ymApgu8
   phone: "0238-87-2215"
 season:
   label: "2025-2026"
@@ -42,8 +42,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 38.235937
-  longitude: 140.154713
+  latitude: 38.23592847077882
+  longitude: 140.15458319695477
 elevation:
   top: 617
   bottom: 510

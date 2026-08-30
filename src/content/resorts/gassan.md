@@ -3,7 +3,7 @@ id: gassan
 name:
   zhTw: 月山
   ja: 月山スキー場
-  en: Gassan Ski Area
+  en: Gassan Ski Resort
 region: tohoku
 prefecture: 山形縣
 tags:
@@ -22,12 +22,12 @@ links:
   liftStatus: https://mt-gassan.com/snow/
   ticket: https://mt-gassan.com/snow/info/
   access: https://mt-gassan.com/snow/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=38.5277745,140.0080823
+  googleMaps: https://maps.app.goo.gl/BADvxkFmaTSbWmkGA
 contact:
   address:
     zhTw: 日本山形縣西村山郡西川町志津姥澤
     ja: 〒990-0734 山形県西村山郡西川町志津姥沢
-    googleMaps: https://www.google.com/maps/search/?api=1&query=38.5277745,140.0080823
+    googleMaps: https://maps.app.goo.gl/BADvxkFmaTSbWmkGA
   phone: 0237-75-2025
 season:
   label: '2026'
@@ -82,8 +82,8 @@ snowWeather:
   forecast: []
   note: 此區塊僅保留官方雪況與纜車狀態頁連結；實際積雪、天氣、纜車與開放區域請以出發當日官方公告為準。
 location:
-  latitude: 38.527775
-  longitude: 140.008082
+  latitude: 38.51897948012287
+  longitude: 140.00660722580025
 courses:
   beginnerRatio: 0
   intermediateRatio: 0

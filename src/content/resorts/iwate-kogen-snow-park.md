@@ -2,7 +2,7 @@
 
 id: iwate-kogen-snow-park
 name:
-  zhTw: 岩手高原 Snow Park
+  zhTw: 岩手高原戲雪公園
   ja: 岩手高原スノーパーク
   en: Iwate Kogen Snow Park
 region: tohoku
@@ -19,12 +19,12 @@ links:
   instagram: https://www.instagram.com/iwatekogen
   weather: https://weathernews.jp/ski/spot/33309/
   access: https://iwatekogen.jp/access/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Iwate%20Kogen%20Snow%20Park
+  googleMaps: https://maps.app.goo.gl/cTgjnrpe6TnBik946
 contact:
   address:
     zhTw: 日本岩手縣岩手郡雫石町長山字岩手山
     ja: 〒020-0585 岩手県岩手郡雫石町長山字岩手山
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Iwate%20Kogen%20Snow%20Park
+    googleMaps: https://maps.app.goo.gl/cTgjnrpe6TnBik946
   phone: "019-693-4000"
 season:
   label: "2025-2026"
@@ -32,7 +32,7 @@ season:
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33309/
 snowWeather:
-  title: 岩手高原 Snow Park雪況天氣
+  title: 岩手高原戲雪公園雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33309/
   snowDepth: 0 cm
@@ -40,8 +40,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 39.813961
-  longitude: 140.966088
+  latitude: 39.814037219489215
+  longitude: 140.9662087711645
 elevation:
   top: 1213
   bottom: 630
@@ -52,7 +52,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://iwatekogen.jp/gelande/
-  summary: 岩手高原 Snow Park 有箱型纜車、多樣雪道配置與服務設施，並標示小學生以下可免費搭乘纜車與箱型纜車。共有 10 條雪道，初級 30%、中級 50%、上級 20%。
+  summary: 岩手高原戲雪公園有箱型纜車、多樣雪道配置與服務設施，並標示小學生以下可免費搭乘纜車與箱型纜車。共有 10 條雪道，初級 30%、中級 50%、上級 20%。
   details:
     - name: "E4ゲレンデ"
       difficulty: mixed
@@ -111,7 +111,7 @@ access:
     - label: "東京出發經盛岡"
       steps:
         - 從東京搭東北新幹線到盛岡站。
-        - 從盛岡站西口巴士站搭雪場接駁巴士前往岩手高原 Snow Park。
+        - 從盛岡站西口巴士站搭雪場接駁巴士前往岩手高原戲雪公園。
       estimatedTime: "站後約 45 分"
       difficulty: easy
       note: 接駁巴士運行日與時刻需以當季公告為準；氣象與道路狀況可能造成停駛或延誤。
@@ -119,7 +119,7 @@ access:
     - label: "岩手花卷機場出發"
       steps:
         - 從岩手花卷機場租車、包車或搭計程車往雫石、岩手山方向。
-        - 依當日道路狀況前往岩手高原 Snow Park 停車場。
+        - 依當日道路狀況前往岩手高原戲雪公園停車場。
       estimatedTime: "約 60 分"
       difficulty: hard
       note: 公開資料以車程為主；若不自駕，建議先到盛岡站再銜接雪場接駁。
@@ -128,7 +128,7 @@ access:
     snowTireRequired: true
     note: 可由東北自動車道盛岡 IC 前往，約 35 分鐘；停車場約 2,800 台且每日免費。
 terrainSummary:
-  beginner: 岩手高原 Snow Park 初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。
+  beginner: 岩手高原戲雪公園初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。
   intermediate: 中級雪道占 50%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。
   advanced: 上級雪道占 20%，較高難度區域請依當日雪況、能見度與官方管制判斷。
   snowboard: 雪板可全區滑行。
@@ -137,4 +137,4 @@ externalContent:
   vlogs: []
 ---
 
-岩手高原 Snow Park 位於岩手縣，是中小型雪場，共有 10 條雪道，搭配 7 座纜車。代表路線包含 E4ゲレンデ、W2ゲレンデ，初級、中級與上級路線都有配置，標籤偏向親子同行、雙板與單板。
+岩手高原戲雪公園位於岩手縣，是中小型雪場，共有 10 條雪道，搭配 7 座纜車。代表路線包含 E4ゲレンデ、W2ゲレンデ，初級、中級與上級路線都有配置，標籤偏向親子同行、雙板與單板。
