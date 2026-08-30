@@ -2,8 +2,8 @@
 id: hida-nagareha
 name:
   zhTw: 飛驒流葉
-  ja: ひだ流葉
-  en: Hida Nagareha
+  ja: ひだ流葉スキー場
+  en: Star Spur Ryokufu Resort Hida Nagareha
 region: chubu
 prefecture: 岐阜縣
 tags:
@@ -19,12 +19,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35201/
   ticket: https://weathernews.jp/ski/spot/35201/
   access: https://weathernews.jp/ski/spot/35201/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=36.310807,137.240021
+  googleMaps: https://maps.app.goo.gl/6Cu2oGhFyMw7aedc8
 contact:
   address:
     zhTw: 日本岐阜縣飛驒市神岡町伏方 150
     ja: 〒506-1154 岐阜県飛騨市神岡町伏方150
-    googleMaps: https://www.google.com/maps/search/?api=1&query=36.310807,137.240021
+    googleMaps: https://maps.app.goo.gl/6Cu2oGhFyMw7aedc8
   phone: 0578-82-0916
 season:
   label: 2025-2026
@@ -67,8 +67,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 36.310807
-  longitude: 137.240021
+  latitude: 36.30779489709696
+  longitude: 137.24487136805374
 elevation:
   top: 1400
   bottom: 750

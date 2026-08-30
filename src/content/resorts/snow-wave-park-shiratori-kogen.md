@@ -15,7 +15,7 @@ links:
   facebook: https://www.facebook.com/shiratorikogen.ski/
   instagram: https://www.instagram.com/shiratorikogenswp/
   xTwitter: https://x.com/shiratorikogen
-  googleMaps: https://www.google.com/maps/search/?api=1&query=35.957200%2C136.805143
+  googleMaps: https://maps.app.goo.gl/Wfy2igQrjYREpW2Q8
   trailMapPage: https://siratori-k.jp/swp/gelande
   weather: https://weathernews.jp/ski/spot/35221/
   ticket: https://siratori-k.jp/swp/price
@@ -24,7 +24,7 @@ contact:
   address:
     zhTw: 日本岐阜縣郡上市白鳥町石徹白 133
     ja: 〒501-5231 岐阜県郡上市白鳥町石徹白133
-    googleMaps: https://www.google.com/maps/search/?api=1&query=35.957200%2C136.805143
+    googleMaps: https://maps.app.goo.gl/Wfy2igQrjYREpW2Q8
   phone: 0575-86-3111
 season:
   label: 2025-2026
@@ -69,65 +69,48 @@ snowWeather:
   forecast: []
   note: 靜態展示用雪況資料，出發前請以官方與天氣頁面最新公告為準。
 location:
-  latitude: 35.9572
-  longitude: 136.805143
+  latitude: 35.95738592460167
+  longitude: 136.8050997257135
 elevation:
   top: 1276
   bottom: 1000
   verticalDrop: 276
 courses:
-  total: 15
-  beginnerRatio: 20
-  intermediateRatio: 70
-  advancedRatio: 10
-  courseInfoPage: https://siratori-k.jp/swp/
-  summary: 公開資料標示 15 條 course，海拔約 1,000m 到 1,276m，中級比例約 70%。雪場有 snow park、kids park，並標示全區可 snowboard。
+  total: 10
+  courseInfoPage: https://siratori-k.jp/swp/gelande/
+  summary: Snow Wave Park 白鳥高原官方雪場圖以 Main Courses、Panorama Tour Course、Romance Course 與 Cruising Route 為主要滑行區，另有 Back Country & Treerun Course、Powder Area、Natural Powder Point，以及 Family／Kids Area 和 2,000m 雪橇道。官方資料標示全場最長滑行距離為 2,500m，最大坡度為 30°。
   details:
-  - name: 初級路線 1
+  - name: Main Courses
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 2
+    note: 官方雪場圖標示的主要初級滑行區，實際滑行路線可依雪況組合調整。
+  - name: Panorama Tour Course
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 3
+    note: 官方雪場圖標示的全景巡迴滑行區，未提供個別長度與坡度。
+  - name: Romance Course
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 1
+    note: 官方雪場圖標示的 Romance Course，未提供個別長度與坡度。
+  - name: Cruising Route
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 2
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 3
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 4
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 5
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 6
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 7
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 8
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 9
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 10
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 11
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線
-    difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    note: 官方雪場圖以中級雪道標示的巡航路線，未提供個別長度與坡度。
+  - name: Back Country & Treerun Course
+    difficulty: ungroomed
+    note: 官方雪場圖標示的非壓雪林間滑行區，實際開放狀況與滑行限制依現場公告及雪況而定。
+  - name: Powder Area 1
+    difficulty: ungroomed
+    note: 官方雪場圖標示的粉雪區，未提供個別長度與坡度。
+  - name: Powder Area 2
+    difficulty: ungroomed
+    note: 官方雪場圖標示的粉雪區，未提供個別長度與坡度。
+  - name: Natural Powder Point
+    difficulty: ungroomed
+    note: 官方雪場圖標示的天然粉雪點，未提供個別長度與坡度。
+  - name: Family／Kids Area
+    difficulty: beginner
+    note: 官方雪場圖標示的家庭與兒童活動區，適合親子遊玩。
+  - name: 日本最長級雪橇道
+    difficulty: beginner
+    length: 2,000m
+    note: 官方資料標示雪橇道全長 2,000m；是否開放會依積雪、天候與現場狀況調整。
 lifts:
   total: 3
 access:
@@ -157,4 +140,4 @@ externalContent:
     note: 全国的スキー場ガイド
 ---
 
-Snow Wave Park 白鳥高原位於岐阜縣，共有15 條雪道、3 座纜車，重點不只在壓雪主線，還包含自然地形與雪況變化。上部與邊側路線通常比山麓更有地形起伏，滑感會隨雪況明顯改變。如果你想把巡航之外的粉雪感、林間感或地形閱讀排進一天，這類配置會更有內容。
+Snow Wave Park 白鳥高原位於岐阜縣，共有 15 條雪道、3 座纜車，重點不只在壓雪主線，還包含自然地形與雪況變化。上部與邊側路線通常比山麓更有地形起伏，滑感會隨雪況明顯改變。如果你想把巡航之外的粉雪感、林間感或地形閱讀排進一天，這類配置會更有內容。

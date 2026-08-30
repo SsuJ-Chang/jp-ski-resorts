@@ -22,7 +22,7 @@ export const resortListingOrder = [
   'nozawa-onsen',
   'naeba',
   'ishiuchi-maruyama',
-  'snow-park-yeti',
+  'fujiyama-snow-resort-yeti',
   'kagura',
   'kamui-ski-links',
   'iwappara',

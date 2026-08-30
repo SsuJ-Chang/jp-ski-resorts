@@ -17,12 +17,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35239/
   ticket: https://weathernews.jp/ski/spot/35239/
   access: https://weathernews.jp/ski/spot/35239/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=36.239561,137.082146
+  googleMaps: https://maps.app.goo.gl/yTsLjNhYMZuPDY1D8
 contact:
   address:
     zhTw: 日本岐阜縣飛驒市河合町稻越 2822-4
     ja: 〒509-4312 岐阜県飛騨市河合町稲越2822-4
-    googleMaps: https://www.google.com/maps/search/?api=1&query=36.239561,137.082146
+    googleMaps: https://maps.app.goo.gl/yTsLjNhYMZuPDY1D8
   phone: 0577-65-2903
 season:
   label: 2025-2026
@@ -65,8 +65,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 36.239561
-  longitude: 137.082146
+  latitude: 36.23980942597985
+  longitude: 137.08210672572278
 elevation:
   top: 1216
   bottom: 830

@@ -1,9 +1,9 @@
 ---
 id: hida-hounokidaira
 name:
-  zhTw: 飛驒 Hounokidaira
-  ja: 飛騨ほおのき平
-  en: Hida Hounokidaira
+  zhTw: 飛驒 Hounoki Daira
+  ja: 飛騨ほおのき平スキー場
+  en: Hida Hounoki Daira
 region: chubu
 prefecture: 岐阜縣
 tags:
@@ -17,12 +17,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35207/
   ticket: https://weathernews.jp/ski/spot/35207/
   access: https://weathernews.jp/ski/spot/35207/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=36.175817,137.490978
+  googleMaps: https://maps.app.goo.gl/PGjvp1Pz5HRx2QUP7
 contact:
   address:
     zhTw: 日本岐阜縣高山市丹生川町久手 447
     ja: 〒506-2252 岐阜県高山市丹生川町久手447
-    googleMaps: https://www.google.com/maps/search/?api=1&query=36.175817,137.490978
+    googleMaps: https://maps.app.goo.gl/PGjvp1Pz5HRx2QUP7
   phone: 0577-79-2244
 season:
   label: 2025-2026
@@ -65,8 +65,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 36.175817
-  longitude: 137.490978
+  latitude: 36.17561090007566
+  longitude: 137.49293324106273
 elevation:
   top: 1550
   bottom: 1200

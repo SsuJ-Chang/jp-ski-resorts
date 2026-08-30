@@ -15,12 +15,12 @@ links:
   xTwitter: https://x.com/chausu_kogen
   access: https://www.chausuyama.jp/access/
   weather: https://weathernews.jp/ski/spot/35101/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Chausuyama%20Kogen%20Ski%20Resort
+  googleMaps: https://maps.app.goo.gl/no8DJkE4BYxzE4pg9
 contact:
   address:
     zhTw: 愛知縣北設樂郡豐根村大字坂宇場字御所平
     ja: 〒449-0405 愛知県北設楽郡豊根村大字坂宇場字御所平
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Chausuyama%20Kogen%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/no8DJkE4BYxzE4pg9
   phone: 0536-87-2345
 season:
   label: 2025-2026
@@ -56,8 +56,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 35.2181
-  longitude: 137.6587
+  latitude: 35.220261219757155
+  longitude: 137.65504462883553
 elevation:
   top: 1360
   bottom: 1215
@@ -115,4 +115,4 @@ terrainSummary:
   advanced: 上級比例較低，整體以親子與練習型雪場為主。
 ---
 
-茶臼山高原位於愛知縣，共有4 條雪道、2 座纜車，滑行主軸是長距離下滑與區域串聯，最長線約 60m。ファミリーゲレンデ、Aコース這類主線能把寬坡、連接段與視野一路串起來。如果你偏好巡航效率和換線變化，而不是反覆刷同一面坡，這類配置會更有意思。
+茶臼山高原位於愛知縣，共有 4 條雪道、2 座纜車，滑行主軸是長距離下滑與區域串聯，最長線約 60m。ファミリーゲレンデ、Aコース這類主線能把寬坡、連接段與視野一路串起來。如果你偏好巡航效率和換線變化，而不是反覆刷同一面坡，這類配置會更有意思。

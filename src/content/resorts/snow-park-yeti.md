@@ -1,9 +1,9 @@
 ---
-id: snow-park-yeti
+id: fujiyama-snow-resort-yeti
 name:
-  zhTw: Snow Park YETI
+  zhTw: Fujiyama Snow Resort Yeti
   ja: スノーパーク イエティ
-  en: FUJIYAMA SNOW RESORT YETI
+  en: Fujiyama Snow Resort Yeti
 region: chubu
 prefecture: 靜岡縣
 tags:
@@ -17,12 +17,12 @@ links:
   instagram: https://www.instagram.com/yeti_snowresort/
   access: https://www.yeti-resort.com/access/
   weather: https://weathernews.jp/ski/spot/35003/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Snow%20Park%20Yeti
+  googleMaps: https://maps.app.goo.gl/u4Boj4WHwEX5MZ4v8
 contact:
   address:
     zhTw: 靜岡縣裾野市須山字藤原 2428
     ja: 〒410-1231 静岡県裾野市須山字藤原2428
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Snow%20Park%20Yeti
+    googleMaps: https://maps.app.goo.gl/u4Boj4WHwEX5MZ4v8
   phone: 055-998-0636
 season:
   label: 2025-2026
@@ -66,8 +66,8 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
-  latitude: 35.30005
-  longitude: 138.768422
+  latitude: 35.300184289608595
+  longitude: 138.7683705288355
 elevation:
   top: 1450
   bottom: 1300

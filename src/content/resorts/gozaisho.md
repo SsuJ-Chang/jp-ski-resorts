@@ -17,12 +17,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35301/
   ticket: https://weathernews.jp/ski/spot/35301/
   access: https://weathernews.jp/ski/spot/35301/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=35.020483,136.422461
+  googleMaps: https://maps.app.goo.gl/BrU8vvaG4kGXN6Mb6
 contact:
   address:
     zhTw: 日本三重縣三重郡菰野町湯之山溫泉
     ja: 〒510-1233 三重県三重郡菰野町湯の山温泉
-    googleMaps: https://www.google.com/maps/search/?api=1&query=35.020483,136.422461
+    googleMaps: https://maps.app.goo.gl/BrU8vvaG4kGXN6Mb6
   phone: 059-392-2261
 season:
   label: 2025-2026
@@ -57,8 +57,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 35.020483
-  longitude: 136.422461
+  latitude: 35.02040543641656
+  longitude: 136.42324602568326
 courses:
   total: 2
   courseInfoPage: https://weathernews.jp/ski/spot/35301/

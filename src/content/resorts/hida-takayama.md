@@ -3,7 +3,7 @@ id: hida-takayama
 name:
   zhTw: 飛驒高山
   ja: 飛騨高山スキー場
-  en: Hida Takayama Ski Area
+  en: Hida Takayama Municipal Ski Resort
 region: chubu
 prefecture: 岐阜縣
 tags:
@@ -17,12 +17,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35216/
   ticket: https://weathernews.jp/ski/spot/35216/
   access: https://weathernews.jp/ski/spot/35216/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=36.1378,137.4312
+  googleMaps: https://maps.app.goo.gl/T7W6VBAUH86Peths9
 contact:
   address:
     zhTw: 日本岐阜縣高山市岩井町 914
     ja: 〒506-0815 岐阜県高山市岩井町914
-    googleMaps: https://www.google.com/maps/search/?api=1&query=36.1378,137.4312
+    googleMaps: https://maps.app.goo.gl/T7W6VBAUH86Peths9
   phone: 0577-31-1020
 season:
   label: 2025-2026
@@ -65,8 +65,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 36.1378
-  longitude: 137.4312
+  latitude: 36.14113463669811
+  longitude: 137.42890699688397
 elevation:
   top: 1430
   bottom: 1310

@@ -1,7 +1,7 @@
 ---
 id: meiho
 name:
-  zhTw: めいほう
+  zhTw: Meiho
   ja: めいほうスキー場
   en: Meiho Ski Resort
 region: chubu
@@ -17,7 +17,7 @@ links:
   facebook: https://www.facebook.com/meihoresort/
   instagram: https://www.instagram.com/meihoresort/
   xTwitter: https://twitter.com/meihoresort
-  googleMaps: https://www.google.com/maps/search/?api=1&query=35.941931%2C137.042838
+  googleMaps: https://maps.app.goo.gl/NT783dCsBPnwVZEd6
   trailMapPage: https://www.meihoski.co.jp/gelande/
   weather: https://weathernews.jp/ski/spot/35206/
   ticket: https://www.meihoski.co.jp/price/
@@ -26,7 +26,7 @@ contact:
   address:
     zhTw: 日本岐阜縣郡上市明寶奧住 3447-1
     ja: 〒501-4304 岐阜県郡上市明宝奥住3447-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=35.941931%2C137.042838
+    googleMaps: https://maps.app.goo.gl/NT783dCsBPnwVZEd6
   phone: 0575-87-2811
 season:
   label: 2025-2026
@@ -35,7 +35,7 @@ season:
   note: 營業日期與時間可能依積雪與天候調整，出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/35206/
 trailMaps:
-- label: めいほう雪場圖
+- label: Meiho 雪場圖
   language: Japanese
   season: 2025-2026
   url: https://www.meihoski.co.jp/gelande/
@@ -67,7 +67,7 @@ tickets:
     - 兒童 ¥2,500
     - 年長者 ¥5,000
 snowWeather:
-  title: めいほう雪況天氣
+  title: Meiho 雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35206/
   snowDepth: 0 cm
@@ -75,59 +75,92 @@ snowWeather:
   forecast: []
   note: 靜態展示用雪況資料，出發前請以官方與天氣頁面最新公告為準。
 location:
-  latitude: 35.941931
-  longitude: 137.042838
+  latitude: 35.94188457943844
+  longitude: 137.0429529968772
 elevation:
   top: 1600
   bottom: 900
   verticalDrop: 700
 courses:
-  total: 13
-  beginnerRatio: 45
-  intermediateRatio: 40
-  advancedRatio: 15
-  courseInfoPage: https://www.meihoski.co.jp/winter/
-  summary: 公開資料標示 13 條 course，海拔約 900m 到 1,600m，初級 45%、中級 40%、上級 15%。雪場有 kids park、snow park，並標示全區可 snowboard。
+  total: 12
+  beginnerRatio: 33.33
+  intermediateRatio: 41.67
+  advancedRatio: 25
+  courseInfoPage: https://www.meihoski.co.jp/gelande/
+  summary: Meiho 滑雪場官方頁面列出 12 條雪道，包含初級 4 條、中級 5 條與上級 3 條；最長的 α5000 達 5,000m，最高最大斜度為 γ800 的 38°。
   details:
-  - name: 初級路線 1
+  - name: α5000
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 2
+    length: 5,000m
+    maxSlope: 15°
+    averageSlope: 8°
+    note: 西日本最長級的長距離雪道，沿線設有多處地形公園。
+  - name: α1400
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 3
+    length: 1,400m
+    maxSlope: 17°
+    averageSlope: 13°
+    note: 林間雪道，適合情侶與家庭悠閒滑行。
+  - name: α1100
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 4
+    length: 1,100m
+    maxSlope: 14°
+    averageSlope: 11°
+    note: Meiho 滑雪場最寬廣的雪道，初學者至進階者皆可享受。
+  - name: α350
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 5
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 6
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 1
+    length: 350m
+    maxSlope: 16°
+    averageSlope: 13°
+    note: 位於第 3 四人纜車旁、靠近滑雪中心的初級雪道。
+  - name: β1000
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 2
+    length: 1,000m
+    maxSlope: 24°
+    averageSlope: 15°
+    note: 位於第 4 四人纜車沿線，適合想連續滑行的中級滑雪者。
+  - name: β900
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 3
+    length: 900m
+    maxSlope: 24°
+    averageSlope: 14°
+    note: 中級雪道。
+  - name: β500
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 4
+    length: 500m
+    maxSlope: 19°
+    averageSlope: 13°
+    note: 坡度較緩的中級雪道，適合以穩定轉彎為目標的滑雪者。
+  - name: β300
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 5
+    length: 300m
+    maxSlope: 26°
+    averageSlope: 19°
+    note: 中級雪道。
+  - name: β200
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 1
+    length: 200m
+    maxSlope: 23°
+    averageSlope: 22°
+    note: 可作為 α5000 迂迴路線的捷徑，雖短但斜度較陡。
+  - name: γ900
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 2
+    length: 900m
+    maxSlope: 34°
+    averageSlope: 19°
+    note: 上級雪道。
+  - name: γ800
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    length: 800m
+    maxSlope: 38°
+    averageSlope: 20°
+    note: 官方頁面列出的最大斜度最高雪道。
+  - name: γ200
+    difficulty: advanced
+    length: 200m
+    maxSlope: 32°
+    averageSlope: 21°
+    note: 上級雪道中最短的一條，適合挑戰進階技巧。
 lifts:
   total: 5
 access:
@@ -159,4 +192,4 @@ terrainSummary:
   powder: 高難度區域有非壓雪與粉雪特色，需依當日開放狀態滑行。
 ---
 
-めいほう是岐阜縣的中型雪場，整理為13 條雪道，搭配 5 座纜車。初級、中級與上級路線都有配置，介紹保留在可確認的雪道數與難度比例；標籤上偏向初學者練習、親子同行。
+Meiho 是岐阜縣的中型雪場，整理為 12 條雪道，搭配 5 座纜車。初級、中級與上級路線都有配置，介紹依官方雪道頁面整理；標籤上偏向初學者練習、親子同行。

@@ -1,7 +1,7 @@
 ---
 id: winghills-shirotori
 name:
-  zhTw: Winghills 白鳥 Resort
+  zhTw: Winghills 白鳥渡假村
   ja: ウイングヒルズ白鳥リゾート
   en: Winghills Shirotori Resort
 region: chubu
@@ -16,7 +16,7 @@ links:
   facebook: https://www.facebook.com/winghills
   instagram: https://www.instagram.com/winghills1350
   xTwitter: https://twitter.com/winghills1350
-  googleMaps: https://www.google.com/maps/search/?api=1&query=35.966090%2C136.802492
+  googleMaps: https://maps.app.goo.gl/XXPxnS3nMWBRuTub8
   trailMapPage: https://winghills.net/snow/coursemap/
   weather: https://weathernews.jp/ski/spot/35212/
   ticket: https://winghills.net/snow/lift/
@@ -25,7 +25,7 @@ contact:
   address:
     zhTw: 日本岐阜縣郡上市白鳥町石徹白峠山 1-1
     ja: 〒501-5231 岐阜県郡上市白鳥町石徹白峠山1-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=35.966090%2C136.802492
+    googleMaps: https://maps.app.goo.gl/XXPxnS3nMWBRuTub8
   phone: 0575-86-3518
 season:
   label: 2025-2026
@@ -35,7 +35,7 @@ season:
   note: 營業時間可能依時期與天候調整，請以官方公告為準。
   source: https://weathernews.jp/ski/spot/35212/
 trailMaps:
-- label: Winghills 白鳥 Resort course map
+- label: Winghills 白鳥渡假村 course map
   language: Japanese
   season: 2025-2026
   url: https://winghills.net/snow/coursemap/
@@ -63,7 +63,7 @@ tickets:
     priceLines:
     - 大人 ¥4,400
 snowWeather:
-  title: Winghills 白鳥 Resort 雪況天氣
+  title: Winghills 白鳥渡假村雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35212/
   snowDepth: 0 cm
@@ -71,53 +71,98 @@ snowWeather:
   forecast: []
   note: 靜態展示用雪況資料，出發前請以官方與天氣頁面最新公告為準。
 location:
-  latitude: 35.96609
-  longitude: 136.802492
+  latitude: 35.96601207516906
+  longitude: 136.80280433920709
 elevation:
   top: 1350
   bottom: 870
   verticalDrop: 480
 courses:
-  total: 11
-  beginnerRatio: 40
-  intermediateRatio: 30
-  advancedRatio: 30
-  courseInfoPage: https://winghills.net/snow/
-  summary: 公開資料標示 11 條 course，海拔約 870m 到 1,350m，初級 40%、中級 30%、上級 30%。雪場標示全區可 snowboard，並有與溫泉設施相鄰的特色。
+  total: 13
+  beginnerRatio: 30.77
+  intermediateRatio: 30.77
+  advancedRatio: 38.46
+  courseInfoPage: https://winghills.net/snow/coursemap/
+  summary: Winghills 白鳥度假村官方 Slope Condition 列出 13 個具備完整坡度與長度資料的滑行區域，從適合初學者的寬廣緩坡，到中級巡航雪道、進階陡坡、樹林區與 mogul 雪道都有；最長雪道為 2,400m。
   details:
-  - name: 初級路線 1
+  - name: C1 天際線雪道
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 2
+    length: 2,400m
+    maxSlope: 15°
+    averageSlope: 9°
+    note: 從山頂沿稜線滑行的全景雪道，官方描述適合初級滑雪者。
+  - name: C2 塔樓下降雪道（中段）
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 3
+    length: 1,200m
+    maxSlope: 15°
+    averageSlope: 9°
+    note: 官方建議初學者與家庭旅客從山頂經此雪道下滑。
+  - name: C3 中庭雪場
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 4
+    length: 1,000m
+    maxSlope: 15°
+    averageSlope: 12°
+    note: 寬度約 100m 的主要緩坡，設有人工造雪設備。
+  - name: C4 綠蔭小徑
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 5
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 1
+    length: 1,000m
+    maxSlope: 12°
+    averageSlope: 9°
+    note: 穿越林木間的緩坡雪道，適合慢速練習。
+  - name: B1 巡航雪道
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 2
+    length: 2,000m
+    maxSlope: 23°
+    averageSlope: 13°
+    note: 景觀良好的中上級巡航雪道，部分路段不壓雪。
+  - name: B2 白科花園
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 3
+    length: 350m
+    maxSlope: 23°
+    averageSlope: 18°
+    note: 視野開闊，適合以平行轉彎暢滑。
+  - name: B3 吊燈山丘
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 1
+    length: 400m
+    maxSlope: 25°
+    averageSlope: 18°
+    note: 中上級雪道，也是 JSBA 單板滑雪檢定雪道。
+  - name: B4 塔樓下降雪道（下段）
+    difficulty: intermediate
+    length: 900m
+    maxSlope: 23°
+    averageSlope: 12°
+    note: 從 The LOOK 以下開始，坡度由緩轉中等，適合中上級滑雪者。
+  - name: A1 塔樓下降雪道（上段）
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 2
+    length: 700m
+    maxSlope: 30°
+    averageSlope: 15°
+    note: 位於纜車正下方的陡坡，降雪時會形成粉雪雪面。
+  - name: A2 潛水雪道
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 3
+    length: 500m
+    maxSlope: 35°
+    averageSlope: 17°
+    note: 連續雪丘地形，官方標示為雪場最難的雪道。
+  - name: A3 隆德賽道
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    length: 400m
+    maxSlope: 32°
+    averageSlope: 20°
+    note: 具挑戰性的高速雪道，官方列為上級者雪道。
+  - name: A4 樹林滑行區
+    difficulty: advanced
+    length: 700m
+    maxSlope: 30°
+    averageSlope: 18°
+    note: 僅限具備經驗者滑行的自負責任區域；事故救援等費用由使用者負擔。
+  - name: 12 Mogul 雪道
+    difficulty: advanced
+    length: 230m
+    maxSlope: 35°
+    averageSlope: 26°
+    note: 官方標示的 mogul 雪道，預定設於潛水雪道。
 lifts:
   total: 4
 access:
@@ -155,4 +200,4 @@ externalContent:
     note: 全国的スキー場ガイド
 ---
 
-WingHills 白鳥 Resort 位於雪鄉，旺季能感受粉雪滑行。吊籃式纜車可一路連接山頂，從頂峰展開的滑道涵蓋初級到進階需求；專項區也有 U 型滑道、貓跳與 Street Style 等進階玩法，整體變化度很高。
+WingHills 白鳥渡假村位於雪鄉，旺季能感受粉雪滑行。吊籃式纜車可一路連接山頂，從頂峰展開的滑道涵蓋初級到進階需求；專項區也有 U 型滑道、貓跳與 Street Style 等進階玩法，整體變化度很高。

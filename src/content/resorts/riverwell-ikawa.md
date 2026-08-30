@@ -15,12 +15,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35001/
   ticket: https://weathernews.jp/ski/spot/35001/
   access: https://weathernews.jp/ski/spot/35001/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=35.215744,138.279037
+  googleMaps: https://maps.app.goo.gl/BZtUmLomiRg3neVB6
 contact:
   address:
     zhTw: 日本靜岡縣靜岡市葵區井川 2629-190
     ja: 〒428-0504 静岡県静岡市葵区井川2629-190
-    googleMaps: https://www.google.com/maps/search/?api=1&query=35.215744,138.279037
+    googleMaps: https://maps.app.goo.gl/BZtUmLomiRg3neVB6
   phone: 054-260-2316
 season:
   label: 2025-2026
@@ -47,8 +47,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 35.215744
-  longitude: 138.279037
+  latitude: 35.21582808710457
+  longitude: 138.27890769500507
 elevation:
   top: 1441
   bottom: 1412
@@ -76,4 +76,4 @@ terrainSummary:
   snowboard: 雪板可全區滑行。
 ---
 
-靜岡縣的Riverwell 井川以1 條雪道，搭配 1 座纜車組成滑行區。單一路線配置，重點在簡單滑行與基本練習，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。
+靜岡縣的 Riverwell 井川以 1 條雪道，搭配 1 座纜車組成滑行區。單一路線配置，重點在簡單滑行與基本練習，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。

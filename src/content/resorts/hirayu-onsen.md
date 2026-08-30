@@ -16,12 +16,12 @@ links:
   weather: https://weathernews.jp/ski/spot/35214/
   ticket: https://weathernews.jp/ski/spot/35214/
   access: https://weathernews.jp/ski/spot/35214/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=36.184864,137.552798
+  googleMaps: https://maps.app.goo.gl/gvCMFxUMTqBRVgM16
 contact:
   address:
     zhTw: 日本岐阜縣高山市奧飛驒溫泉鄉平湯溫泉 768-1
     ja: 〒506-1433 岐阜県高山市奥飛騨温泉郷平湯温泉768-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=36.184864,137.552798
+    googleMaps: https://maps.app.goo.gl/gvCMFxUMTqBRVgM16
   phone: 0578-89-2424
 season:
   label: 2025-2026
@@ -60,8 +60,8 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
-  latitude: 36.184864
-  longitude: 137.552798
+  latitude: 36.18489742319116
+  longitude: 137.552891883392
 elevation:
   top: 1860
   bottom: 1310
