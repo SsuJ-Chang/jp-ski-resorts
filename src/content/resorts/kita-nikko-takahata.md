@@ -54,43 +54,76 @@ elevation:
   bottom: 720
   verticalDrop: 520
 courses:
-  total: 10
+  total: 11
   beginnerRatio: 20
   intermediateRatio: 50
   advancedRatio: 30
-  courseInfoPage: https://weathernews.jp/ski/spot/33616/
-  summary: 北日光・高畑共有 10 條雪道，難度比例約初級 20%、中級 50%、進階 30%，適合依雪況與同行者程度安排滑行路線。
+  courseInfoPage: https://www.takahata-ski.net/gelande/
+  summary: 北日光・高畑滑雪場共有 11 個滑雪區與雪道，包含藍色、紅色、橘色與黑色區域，從初學者練習路線到進階者挑戰路線皆有；官方頁面另列伊加雅滑雪區。
   details:
-    - name: "初級路線 1"
+    - name: 藍色內線
+      difficulty: mixed
+      length: 1,000m
+      maxSlope: 20°
+      averageSlope: 14°
+      note: 藍色區路線，官方標示為中級至進階難度。
+    - name: 藍色中心
+      difficulty: mixed
+      length: 500m
+      maxSlope: 32°
+      averageSlope: 16°
+      note: 藍色區路線，官方標示為中級至進階難度。
+    - name: 藍色外線
+      difficulty: intermediate
+      length: 1,300m
+      maxSlope: 20°
+      averageSlope: 15°
+      note: 藍色區路線，適合中級滑雪者。
+    - name: 藍色高速道
       difficulty: beginner
-      note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "初級路線 2"
+      length: 1,400m
+      maxSlope: 16°
+      averageSlope: 9°
+      note: 藍色區較平緩的長距離路線，適合初學者。
+    - name: 紅色
+      difficulty: intermediate
+      length: 360m
+      maxSlope: 21°
+      averageSlope: 16°
+      note: 紅色區路線，適合中級滑雪者進行基礎練習。
+    - name: 橘色外線
+      difficulty: intermediate
+      length: 1,500m
+      maxSlope: 16°
+      averageSlope: 11°
+      note: 橘色區長距離巡航路線，可欣賞山頂景色。
+    - name: 橘色內線
+      difficulty: intermediate
+      length: 1,400m
+      maxSlope: 21°
+      averageSlope: 13°
+      note: 橘色區路線，適合基礎練習。
+    - name: 超級黑色
+      difficulty: advanced
+      length: 450m
+      maxSlope: 34°
+      averageSlope: 20°
+      note: 黑色區高難度路線，適合進階滑雪者。
+    - name: 黑色
       difficulty: beginner
-      note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線 1"
-      difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線 2"
-      difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線 3"
-      difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線 4"
-      difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線 5"
-      difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線 1"
-      difficulty: advanced
-      note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線 2"
-      difficulty: advanced
-      note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線 3"
-      difficulty: advanced
-      note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+      length: 1,300m
+      maxSlope: 20°
+      averageSlope: 12°
+      note: 黑色區寬廣且以緩斜坡為主，適合初學者練習。
+    - name: 安全通道
+      difficulty: beginner
+      length: 700m
+      maxSlope: 16°
+      averageSlope: 9°
+      note: 黑色區較平緩的連絡路線。
+    - name: 伊加雅滑雪區
+      difficulty: mixed
+      note: 官方雪道頁面列為黑色區項目，但未提供全長與坡度資料。
 lifts:
   total: 5
 access:

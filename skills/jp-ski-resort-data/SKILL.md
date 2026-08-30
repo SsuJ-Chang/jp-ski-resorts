@@ -32,6 +32,7 @@ YAML quoting rules:
 - Keep quotes around values that could be interpreted as dates, numbers, booleans, nulls, or other YAML types. This includes season labels such as `2025-2026`, date ranges, display timestamps, phone numbers, prices, distances, and other values that must remain strings.
 - Keep quotes around text containing YAML-sensitive punctuation or structures, including a colon followed by a space, a comment marker (`#`), flow collection characters (`[]` or `{}`), leading special characters, or content that could be parsed as a mapping or list item.
 - Ordinary URLs may be unquoted when they contain no YAML-sensitive whitespace or punctuation. Quote URLs when their exact content could be ambiguous to the YAML parser.
+- Measurement values with an explicit unit suffix, such as `1,000m` or `20°`, may use unquoted plain scalars when they cannot be parsed as YAML numbers and the schema expects a string.
 - Keep quotes around ticket lines, times, mixed numeric text, and long descriptions when quoting makes their string type or boundaries clearer.
 - Use block scalars such as `|-` or `>` for multiline text instead of wrapping multiline content in ordinary quotes.
 - Do not change the semantic value while normalizing quotes. Quote removal is a formatting cleanup only; preserve names, URLs, numbers, and user-facing copy exactly.
