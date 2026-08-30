@@ -29,9 +29,9 @@ contact:
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/01"
-  hours: "平日：全日營業日10:00〜21:00、日中營業日10:00〜16:00 / 假日：10:00〜16:00 / 夜滑：16:00〜21:00(週一、週二、週三、週四、週五)"
-  note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
-  source: https://weathernews.jp/ski/spot/31301/
+  hours: "平日：10:00〜21:00；週六、週日與國定假日：10:00〜16:00；2 月 12 日至 3 月 1 日平日：16:00〜21:00、週六日與國定假日：10:00〜16:00。12 月 31 日營業至 15:00，1 月 1 日與 1 月 2 日休業。"
+  note: 2025-2026 雪季已結束；營業日期與時間會依積雪、天候與活動調整，出發前請確認官方公告。
+  source: https://www.town.numata.hokkaido.jp/section/kyouiku/ujj7s30000001mvv.html
 snowWeather:
   title: Numatacho 高穗積雪與天氣
   provider: Weathernews
@@ -48,22 +48,15 @@ elevation:
   bottom: 70
   verticalDrop: 80
 courses:
-  total: 3
-  beginnerRatio: 50
-  intermediateRatio: 30
-  advancedRatio: 20
-  courseInfoPage: https://weathernews.jp/ski/spot/31301/
-  summary: Numatacho 高穗共有 3 條雪道，難度比例約初級 50%、中級 30%、進階 20%，適合依雪況與同行者程度安排滑行路線。
+  total: 1
+  courseInfoPage: https://www.town.numata.hokkaido.jp/section/kyouiku/ujj7s30000001mvv.html
+  summary: ASHIMOI KANKO 高穗滑雪場官方資料記載 1 條全長約 500 公尺的雪道，初級、中級與上級滑雪者皆可使用，最大斜度 21°。
   details:
-    - name: "初級路線"
-      difficulty: beginner
-      note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線"
-      difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線"
-      difficulty: advanced
-      note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    - name: 高穗滑雪場雪道
+      difficulty: mixed
+      length: 約500m
+      maxSlope: 21°
+      note: 官方資料列出初級、中級與上級滑行難度，未提供各難度比例。
 lifts:
   total: 1
 access:
@@ -93,4 +86,4 @@ externalContent:
   vlogs: []
 ---
 
-Numatacho 高穗位在北海道，雪道數為3 條，搭配 1 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。
+Numatacho 高穗位在北海道，雪道數為 3 條，搭配 1 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。
