@@ -23,7 +23,7 @@ links:
   xTwitter: https://twitter.com/PalcallTsumagoi/
   trailMapPage: https://tsumagoiskiresort.life/course-guide/
   weather: https://weathernews.jp/ski/spot/34213/
-  googleMaps: https://maps.google.co.jp/maps?q=36.556053,138.464077
+  googleMaps: https://maps.app.goo.gl/6uFyVqFW3pcEZw2R8
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/15-2026/04/05
@@ -74,7 +74,7 @@ contact:
   address:
     zhTw: 群馬縣吾妻郡嬬恋村干俣バラギ高原
     ja: 〒377-1611 群馬県吾妻郡嬬恋村干俣バラギ高原
-    googleMaps: https://maps.google.co.jp/maps?q=36.556053,138.464077
+    googleMaps: https://maps.app.goo.gl/6uFyVqFW3pcEZw2R8
   phone: 0279-96-1177
 tickets:
   season: 2025-2026
@@ -87,13 +87,13 @@ tickets:
     - 成人 ¥6,500 / 兒童 ¥3,000
     - 網路優惠：成人 ¥5,500 / 兒童 ¥2,500
     note: 12/20(六) - 4/5(日) 8:00 - 16:00；IC 卡發行費已包含。若持有事前註冊的 IC 卡，通常價可再折 500 日圓。可使用全雪場的纜車與吊椅；未就學兒童在高校生以上監護人同行下最多 2 名免費，身心障礙手冊可享定價 5 折。各項折扣不可併用。
+location:
+  latitude: 36.55595137322342
+  longitude: 138.46395923922663
 elevation:
   top: 2100
   bottom: 1430
   verticalDrop: 670
-location:
-  latitude: 36.556053
-  longitude: 138.464077
 lifts:
   total: 5
 access:
@@ -118,6 +118,9 @@ externalContent:
   - title: 日本300多個雪場，你為什麼還要人擠人?! ｜ 絕景秘境雪場 - 群馬嬬戀PalCall Tsumagoi Resort ｜ Resort Report ｜ 日本雪場介紹
     url: https://www.youtube.com/watch?v=PmiJ-_eVMTg
     note: Uncle Perry - The Snow Sensei
+externalGuide:
+  title: Palcall 嬬戀，22 條雪道串起群馬高原的長距離滑行
+  url: https://www.japowdb.com/zh-tw/resorts/palcall-tsumagoi/
 ---
 
 群馬縣的 Palcall 嬬戀以 3,193m 長纜車串起嬬戀區與バラギ區，22 條雪道多數是初級到中級的長距離滑行，從山頂 2,100m 一路滑下能感受高海拔與開闊景觀。巴ラギ區則以寬幅緩坡、親子與新手練習為主，也很適合想把巡航滑順感練好的玩家。
