@@ -40,7 +40,7 @@ season:
   note: 官方 TAKASU MOUNTAINS 頁面列出 2025-2026 預定營業期間與基本資料。
   source: https://www.takasumountains.com/ski/
 trailMaps:
-- label: 高鷲 Snow Park / Dynaland 雪場圖
+- label: 高鷲滑雪公園 / Dynaland 雪場圖
   language: Japanese
   season: 2025-2026
   url: https://www.takasu.gr.jp/gelande/
@@ -71,7 +71,7 @@ tickets:
     - 長者 ¥15,500
     - 中高生 ¥12,800
 snowWeather:
-  title: 高鷲 Snow Park 雪況天氣
+  title: 高鷲滑雪公園雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35241/
   snowDepth: 0 cm
@@ -89,7 +89,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 28
   courseInfoPage: https://www.takasu.gr.jp/gelande/
-  summary: 高鷲 Snow Park 官方列出 13 條 course，最長滑走 4,900m，山頂可與 Dynaland 往來，特色是大型寬坡、長距離巡航、park 與 tree run。
+  summary: 高鷲滑雪公園官方列出 13 條 course，最長滑走 4,900m，山頂可與 Dynaland 往來，特色是大型寬坡、長距離巡航、park 與 tree run。
   details:
   - name: バンブーコース / Bamboo Course
     difficulty: beginner
@@ -168,7 +168,7 @@ courses:
     length: 2,250m
     maxSlope: 40°
     averageSlope: 12°
-    note: 高鷲 Snow Park 官方標示最難關 course，最大 40°，為未壓雪與饅頭斜面。
+    note: 高鷲滑雪公園官方標示最難關 course，最大 40°，為未壓雪與饅頭斜面。
 lifts:
   total: 4
 access:
@@ -176,7 +176,7 @@ access:
   - label: 名古屋出發高速巴士與接駁
     steps:
     - 從名鐵巴士中心搭高速巴士到「高速蛭野高原」。
-    - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE 前往高鷲 Snow Park。
+    - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE 前往高鷲滑雪公園。
     estimatedTime: 約 2.5-3 小時
     difficulty: medium
     note: 也可利用名古屋直行日歸 tour bus；免費接駁有季節與班次限制，回程需確認上行線巴士站。
@@ -196,8 +196,8 @@ externalContent:
     url: https://www.youtube.com/watch?v=v3e3Bgtegqc
     note: 和Ivy去旅行
 externalGuide:
-  title: 高鷲 Snow Park，西日本最大雪場的 600 公尺落差
+  title: 高鷲滑雪公園，西日本最大雪場的 600 公尺落差
   url: https://www.japowdb.com/zh-tw/resorts/takasu-snow-park/
 ---
 
-高鷲 Snow Park位於岐阜縣，以13 條雪道形成中型雪場規模，搭配 4 座纜車。主要路線有 バンブーコース / Bamboo Course、ビギナーズコース / Beginners Course、ダイヤモンドコース / Diamond Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+高鷲滑雪公園位於岐阜縣，以13 條雪道形成中型雪場規模，搭配 4 座纜車。主要路線有 バンブーコース / Bamboo Course、ビギナーズコース / Beginners Course、ダイヤモンドコース / Diamond Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
