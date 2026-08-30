@@ -130,8 +130,8 @@ externalContent:
   blogs: []
   vlogs:
   - title: "白馬人才會來的秘境滑雪場❄️!適合新手嗎?唯一能看火車和又能看湖的雪場!默念口訣挑戰黑線蘑菇道｜白馬雪場開箱EP.4🏂｜"
-    url: "https://www.youtube.com/watch?v=aRGLOokZ6wQ"
-    note: "YK來了"
+    url: https://www.youtube.com/watch?v=aRGLOokZ6wQ
+    note: YK來了
 terrainSummary:
   beginner: Paradise Downhill 等緩斜面適合初學者穩定練習，Shirayuki Daira 也有 Snow Friends Park。
   intermediate: Paradise、Lake Down、Lake View 與 Carving Slope 提供中級練習與青木湖景觀。

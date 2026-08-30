@@ -172,11 +172,11 @@ externalContent:
   blogs: []
   vlogs:
   - title: "【ハンターマウンテン】山頂から極上のパウダーと那須塩原の絶景を満喫 - LOVE SKISKI"
-    url: "https://www.youtube.com/watch?v=vQkso2rVszk"
-    note: "犬と暮らす旅人 / Love Nomad Life"
+    url: https://www.youtube.com/watch?v=vQkso2rVszk
+    note: 犬と暮らす旅人 / Love Nomad Life
   - title: "【ハンターマウンテン】那須塩原の絶景と極上パウダーを満喫 - LOVE SKISKI"
-    url: "https://www.youtube.com/watch?v=eCvCtd4VciU"
-    note: "犬と暮らす旅人 / Love Nomad Life"
+    url: https://www.youtube.com/watch?v=eCvCtd4VciU
+    note: 犬と暮らす旅人 / Love Nomad Life
 ---
 
 Hunter Mountain 鹽原是首都圈周邊規模很大的雙板與單板滑雪度假村，場內有最長約 3 km 的長距離滑道與多條路線。雪上公園配置 Rail、BOX、Kicker 與 U 型場地，也有旗門線、家庭滑雪區與兒童樂園，玩法相當完整。

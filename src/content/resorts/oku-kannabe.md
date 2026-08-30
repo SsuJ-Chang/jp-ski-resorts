@@ -122,8 +122,8 @@ externalContent:
   blogs: []
   vlogs:
   - title: "【混雑知らず】関西の隠れた名スキー場「オクカン」を滑ってみた！【奥神鍋スキー場】"
-    url: "https://www.youtube.com/watch?v=gYJLWB5BNhQ"
-    note: "Todd's Japan Ski Trip"
+    url: https://www.youtube.com/watch?v=gYJLWB5BNhQ
+    note: Todd's Japan Ski Trip
 ---
 
 奧神鍋位於兵庫縣，是中小型雪場，共有7 條雪道，搭配 5 座纜車。代表路線包含 ファミリーゲレンデ、ロマンスコース、栃の木コース，初級、中級與上級路線都有配置；標籤上偏向親子同行、夜滑。

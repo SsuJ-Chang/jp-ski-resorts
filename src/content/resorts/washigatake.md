@@ -177,8 +177,8 @@ externalContent:
   blogs: []
   vlogs:
   - title: "大雪の鷲ヶ岳スキー場を大満喫！岐阜県の奥美濃で人気のスキー場を滑り尽くした！"
-    url: "https://www.youtube.com/watch?v=75FMB--Epvo"
-    note: "Todd's Japan Ski Trip"
+    url: https://www.youtube.com/watch?v=75FMB--Epvo
+    note: Todd's Japan Ski Trip
 ---
 
 鷲岳的滑道配置均衡，包含約 400 m 寬的超寬滑道在內共有 13 條路線，多數為容易滑行的中坡。場內也有約 1,200 m 的主題滑道，配置 20 多個專項設施，對兒童與年輕玩家都很有吸引力。

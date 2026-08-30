@@ -191,11 +191,11 @@ externalContent:
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
   - title: "【北海道滑雪】上・Kiroro 札幌國際｜粉雪爆擊 陷入JAPOW出不來｜小樽海景第一排獨棟開箱｜手稻神社 滑雪御守｜25-26雪季"
-    url: "https://www.youtube.com/watch?v=o598DlcplMk"
-    note: "Hey! fudeze 福蝶賊"
+    url: https://www.youtube.com/watch?v=o598DlcplMk
+    note: Hey! fudeze 福蝶賊
   - title: "【キロロ】北海道の極上パウダーが楽しめるスノーリゾート - LOVE SKISKI"
-    url: "https://www.youtube.com/watch?v=cIMkaQT9ELM"
-    note: "犬と暮らす旅人 / Love Nomad Life"
+    url: https://www.youtube.com/watch?v=cIMkaQT9ELM
+    note: 犬と暮らす旅人 / Love Nomad Life
 externalGuide:
   title: Kiroro Snow World，北海道高降雪量的粉雪研究室
   url: https://www.japowdb.com/zh-tw/resorts/kiroro-snow-world/

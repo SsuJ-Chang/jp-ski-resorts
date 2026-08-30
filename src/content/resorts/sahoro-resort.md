@@ -140,8 +140,8 @@ externalContent:
   blogs: []
   vlogs:
   - title: "隱藏寶藏滑雪場，享受真正的 Japow | Sahoro佐幌滑雪場・十勝北海道"
-    url: "https://www.youtube.com/watch?v=MbrzL1AxMRo"
-    note: "Todd's Japan Ski Trip"
+    url: https://www.youtube.com/watch?v=MbrzL1AxMRo
+    note: Todd's Japan Ski Trip
 ---
 
 佐幌渡假村是北海道的大型雪場，整理為 21 條雪道，搭配 8 座纜車。上級路線比例明顯，坡面變化較多，介紹保留在可確認的雪道數與難度比例；標籤上偏向夜滑、雙板與單板。

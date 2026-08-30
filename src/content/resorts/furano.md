@@ -360,11 +360,11 @@ externalContent:
     url: https://www.youtube.com/watch?v=_MZSqJ44eZ4
     note: 大林滑雪男子
   - title: "日本最著名的滑雪場完整指南 | 富良野滑雪場・北海道"
-    url: "https://www.youtube.com/watch?v=akcnuU07JSw"
-    note: "Todd's Japan Ski Trip"
+    url: https://www.youtube.com/watch?v=akcnuU07JSw
+    note: Todd's Japan Ski Trip
   - title: "【富良野スキー場】バックカントリー & 樹氷を満喫！冬の絶景とパウダースノー - LOVE SKISKI"
-    url: "https://www.youtube.com/watch?v=DlDRR_f1pTA"
-    note: "犬と暮らす旅人 / Love Nomad Life"
+    url: https://www.youtube.com/watch?v=DlDRR_f1pTA
+    note: 犬と暮らす旅人 / Love Nomad Life
 externalGuide:
   title: 富良野，值得深入研究的不只是 28 條雪道
   url: https://www.japowdb.com/zh-tw/resorts/furano-ski/

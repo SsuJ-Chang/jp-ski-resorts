@@ -115,8 +115,8 @@ externalContent:
   blogs: []
   vlogs:
   - title: "岐阜の北部に隠れたパウダースポット | 朝寝坊してもパウダーが滑れるローカルゲレンデ。平湯温泉スキー場がちょうどいい。【奥飛騨】"
-    url: "https://www.youtube.com/watch?v=elDI5XJ49aw"
-    note: "Todd's Japan Ski Trip"
+    url: https://www.youtube.com/watch?v=elDI5XJ49aw
+    note: Todd's Japan Ski Trip
 ---
 
 岐阜縣的平湯溫泉以 3 條雪道，搭配 2 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向溫泉停留、雙板與單板。

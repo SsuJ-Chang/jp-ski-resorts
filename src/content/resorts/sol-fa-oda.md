@@ -8,8 +8,8 @@ region: kansai-chugoku
 prefecture: 愛媛縣
 links:
   official: https://sol-fa.com/
-  facebook: "https://www.facebook.com/solfa.odamiyama"
-  instagram: "https://www.instagram.com/solfa.oda/"
+  facebook: https://www.facebook.com/solfa.odamiyama
+  instagram: https://www.instagram.com/solfa.oda/
   weather: https://weathernews.jp/ski/spot/37304/
   access: https://sol-fa.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9-1/
   googleMaps: https://www.google.com/maps/search/?api=1&query=SOL-FA%E3%82%AA%E3%83%80%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%B2%E3%83%AC%E3%83%B3%E3%83%87
@@ -26,47 +26,47 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20
-  courseInfoPage: "https://weathernews.jp/ski/spot/37304/"
-  summary: "SOL-FA Oda 共有 5 條雪道與 1 個地形區，初級 30%、中級 50%、上級 20%。全區設有人工降雪設備，實際開放與地形道具配置請以當季公告為準。"
+  courseInfoPage: https://weathernews.jp/ski/spot/37304/
+  summary: SOL-FA Oda 共有 5 條雪道與 1 個地形區，初級 30%、中級 50%、上級 20%。全區設有人工降雪設備，實際開放與地形道具配置請以當季公告為準。
   details:
     - name: "初級ゲレンデ（名稱待確認）"
       difficulty: beginner
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+      note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
     - name: "ファミリーゲレンデ（名稱待確認）"
       difficulty: beginner
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+      note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
     - name: "中級者ゲレンデ"
       difficulty: intermediate
-      note: "四國地區較大規模的中級坡面；個別長度待確認。"
+      note: 四國地區較大規模的中級坡面；個別長度待確認。
     - name: "林間コース（名稱待確認）"
       difficulty: intermediate
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+      note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
     - name: "上級ゲレンデ（名稱待確認）"
       difficulty: advanced
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+      note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
     - name: "スノーパーク"
       difficulty: mixed
-      note: "設有跳台、box、rail 等項目；配置會依季節與積雪調整。"
+      note: 設有跳台、box、rail 等項目；配置會依季節與積雪調整。
 access:
   fromOsaka:
   - label: "大阪出發經內子"
     steps:
-    - "從新大阪搭新幹線到岡山，再轉乘特急往松山、內子方向。"
-    - "在 JR 內子站下車後，轉乘計程車或事先安排接送前往雪場。"
+    - 從新大阪搭新幹線到岡山，再轉乘特急往松山、內子方向。
+    - 在 JR 內子站下車後，轉乘計程車或事先安排接送前往雪場。
     estimatedTime: "內子後約 60 分"
-    difficulty: "hard"
-    note: "內子站後公開資料以計程車銜接為主；雪場位於山區，建議事前安排回程交通。"
+    difficulty: hard
+    note: 內子站後公開資料以計程車銜接為主；雪場位於山區，建議事前安排回程交通。
   fromAirport:
   - label: "松山機場出發"
     steps:
-    - "從松山機場租車或包車，往松山自動車道與內子、小田深山方向移動。"
-    - "依當日道路與積雪狀況前往 SOL-FA Oda。"
-    difficulty: "hard"
-    note: "松山 IC 後到雪場約 80 分；若不自駕，建議先移動到松山或內子，再安排計程車或接送。"
+    - 從松山機場租車或包車，往松山自動車道與內子、小田深山方向移動。
+    - 依當日道路與積雪狀況前往 SOL-FA Oda。
+    difficulty: hard
+    note: 松山 IC 後到雪場約 80 分；若不自駕，建議先移動到松山或內子，再安排計程車或接送。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從松山 IC 約 80 分，從內子 IC 約 60 分；停車場約 700 台，冬季山區道路需準備雪胎或防滑裝備。"
+    note: 從松山 IC 約 80 分，從內子 IC 約 60 分；停車場約 700 台，冬季山區道路需準備雪胎或防滑裝備。
 ---
 
 SOL-FA Oda位於愛媛縣，共有5 條雪道，規模雖然不大，但雪道集中，半天到一天就能把主要路線輪過一遍。中級者ゲレンデ、スノーパーク能看出這裡仍是地方型雪場常見的短中距離坡段。比起追求刷里程，這裡更適合把時間放在動作熟悉與同伴配速。

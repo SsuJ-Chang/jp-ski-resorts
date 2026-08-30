@@ -138,11 +138,11 @@ externalContent:
   blogs: []
   vlogs:
   - title: "今日本で1番熱いスキー場【GWまで営業"
-    url: "https://www.youtube.com/watch?v=WTGGuJjZ7pM"
-    note: "Who’s TV / by Fumika Hoshino"
+    url: https://www.youtube.com/watch?v=WTGGuJjZ7pM
+    note: Who’s TV / by Fumika Hoshino
   - title: "奥只見丸山秘境園ついに解禁！！"
-    url: "https://www.youtube.com/watch?v=D3VaNRZka38"
-    note: "Who’s TV / by Fumika Hoshino"
+    url: https://www.youtube.com/watch?v=D3VaNRZka38
+    note: Who’s TV / by Fumika Hoshino
 ---
 
 奧只見丸山是少見能分成初滑季與春季滑雪兩段享受的雪場。初滑季能體驗粉雪，春季則能感受多樣地形與保留自然起伏的滑道；從山頂還能俯瞰奧只見水庫與群山景色，是特色很鮮明的深山型雪場。

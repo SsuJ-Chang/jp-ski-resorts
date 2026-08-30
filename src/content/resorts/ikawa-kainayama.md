@@ -23,29 +23,29 @@ courses:
   beginnerRatio: 50
   intermediateRatio: 40
   advancedRatio: 10
-  courseInfoPage: "https://weathernews.jp/ski/spot/37103/"
-  summary: "井川腕山共有 5 條雪道與兒童練習區，初級 50%、中級 40%、上級 10%。人工造雪支援滑行，實際開放與夜滑日請以當季公告為準。"
+  courseInfoPage: https://weathernews.jp/ski/spot/37103/
+  summary: 井川腕山共有 5 條雪道與兒童練習區，初級 50%、中級 40%、上級 10%。人工造雪支援滑行，實際開放與夜滑日請以當季公告為準。
   details:
     - name: "ちびっこゲレンデ"
       difficulty: beginner
-      note: "兒童練習與雪上遊戲區，設有移動式輸送帶；個別長度待確認。"
+      note: 兒童練習與雪上遊戲區，設有移動式輸送帶；個別長度待確認。
     - name: "ナデシココース"
       difficulty: beginner
-      note: "初滑期間曾作為開放雪道；個別長度待確認。"
+      note: 初滑期間曾作為開放雪道；個別長度待確認。
     - name: "メインゲレンデ"
       difficulty: intermediate
-      note: "主雪道可從雪場上部眺望周邊山景，個別長度待確認。"
+      note: 主雪道可從雪場上部眺望周邊山景，個別長度待確認。
     - name: "中級コース（名稱待確認）"
       difficulty: intermediate
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+      note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
     - name: "上級コース（名稱待確認）"
       difficulty: advanced
-      note: "公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。"
+      note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: "從德島市區使用高速道路約 100 分、約 80km；從高松市區使用高速道路約 130 分、約 70km。冬季山區道路需準備雪胎或防滑裝備。"
+    note: 從德島市區使用高速道路約 100 分、約 80km；從高松市區使用高速道路約 130 分、約 70km。冬季山區道路需準備雪胎或防滑裝備。
 ---
 
 井川腕山在德島縣提供5 條雪道。路線包含 ちびっこゲレンデ、ナデシココース、メインゲレンデ，整體初級、中級與上級路線都有配置。

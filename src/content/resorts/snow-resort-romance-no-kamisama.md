@@ -173,8 +173,8 @@ externalContent:
   blogs: []
   vlogs:
   - title: "美女と一緒にロマンスの神様スキー場上から下まで夢の1本！"
-    url: "https://www.youtube.com/watch?v=MkqOclTtNX4"
-    note: "Who’s TV / by Fumika Hoshino"
+    url: https://www.youtube.com/watch?v=MkqOclTtNX4
+    note: Who’s TV / by Fumika Hoshino
 ---
 
 Snow Resort Romance no Kamisama位於長野縣，是中小型雪場，共有 10 條雪道，搭配 6 座纜車。代表路線包含 パーフェクトコース / Perfect Course、ロマンスコース / Romance Course、ファミリーコース / Family Course，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。

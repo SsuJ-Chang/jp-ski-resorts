@@ -145,8 +145,8 @@ externalContent:
   blogs: []
   vlogs:
   - title: "【上から下まで】TOP TO BOTTOM 【川場スキー場】// Who's TV"
-    url: "https://www.youtube.com/watch?v=b-Cniy7wDxM"
-    note: "Who’s TV / by Fumika Hoshino"
+    url: https://www.youtube.com/watch?v=b-Cniy7wDxM
+    note: Who’s TV / by Fumika Hoshino
 ---
 
 川場是關東周邊以粉雪與多變坡面著稱的雪場，滑道配置涵蓋初級到進階，也設有人工貓跳路線，適合想練技術或挑戰節奏變化的玩家。雪場內結合餐飲與休憩機能，滑行之外也有完整的停留空間。

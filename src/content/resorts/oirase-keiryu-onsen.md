@@ -1,45 +1,45 @@
 ---
-id: "oirase-keiryu-onsen"
+id: oirase-keiryu-onsen
 name:
-  zhTw: "奧入瀨溪流溫泉"
-  ja: "奥入瀬渓流温泉スキー場"
-  en: "Oirase Keiryu Onsen Ski Resort"
-region: "tohoku"
-prefecture: "青森縣"
+  zhTw: 奧入瀨溪流溫泉
+  ja: 奥入瀬渓流温泉スキー場
+  en: Oirase Keiryu Onsen Ski Resort
+region: tohoku
+prefecture: 青森縣
 tags:
-  - "beginner_friendly"
-  - "family_friendly"
-  - "onsen"
-  - "snowboard_friendly"
+  - beginner_friendly
+  - family_friendly
+  - onsen
+  - snowboard_friendly
 visibility:
-  status: "published"
-  note: "東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。"
+  status: published
+  note: 東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。
 links:
-  official: "http://www.oirase.or.jp/ski/ski.htm"
-  facebook: "https://www.facebook.com/SkiAssocicationOfTowada/"
-  instagram: "https://www.instagram.com/yakeyamatimes/"
-  xTwitter: "https://twitter.com/yakeyama64"
-  weather: "https://weathernews.jp/ski/spot/33110/"
-  googleMaps: "https://www.google.com/maps/search/?api=1&query=Oirase%20Keiryu%20Onsen%20Ski%20Resort"
+  official: http://www.oirase.or.jp/ski/ski.htm
+  facebook: https://www.facebook.com/SkiAssocicationOfTowada/
+  instagram: https://www.instagram.com/yakeyamatimes/
+  xTwitter: https://twitter.com/yakeyama64
+  weather: https://weathernews.jp/ski/spot/33110/
+  googleMaps: https://www.google.com/maps/search/?api=1&query=Oirase%20Keiryu%20Onsen%20Ski%20Resort
 contact:
   address:
-    zhTw: "日本青森縣十和田市法量字燒山 64-122"
-    ja: "〒034-0303 青森県十和田市法量字焼山64-122"
-    googleMaps: "https://www.google.com/maps/search/?api=1&query=Oirase%20Keiryu%20Onsen%20Ski%20Resort"
+    zhTw: 日本青森縣十和田市法量字燒山 64-122
+    ja: 〒034-0303 青森県十和田市法量字焼山64-122
+    googleMaps: https://www.google.com/maps/search/?api=1&query=Oirase%20Keiryu%20Onsen%20Ski%20Resort
   phone: "0176-74-2008"
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/29-2026/03/08"
-  note: "營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。"
-  source: "https://weathernews.jp/ski/spot/33110/"
+  note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
+  source: https://weathernews.jp/ski/spot/33110/
 snowWeather:
-  title: "奧入瀨溪流溫泉雪況天氣"
-  provider: "Weathernews"
-  url: "https://weathernews.jp/ski/spot/33110/"
+  title: 奧入瀨溪流溫泉雪況天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/33110/
   snowDepth: 0 cm
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
-  note: "雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。"
+  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 location:
   latitude: 40.579533
   longitude: 140.99318
@@ -52,44 +52,44 @@ courses:
   beginnerRatio: 70
   intermediateRatio: 25
   advancedRatio: 5
-  courseInfoPage: "https://weathernews.jp/ski/spot/33110/"
-  summary: "奧入瀨溪流溫泉可搭配溫泉住宿，雙板與雪板都可使用。共有 2 條雪道，初級 70%、中級 25%、上級 5%。"
+  courseInfoPage: https://weathernews.jp/ski/spot/33110/
+  summary: 奧入瀨溪流溫泉可搭配溫泉住宿，雙板與雪板都可使用。共有 2 條雪道，初級 70%、中級 25%、上級 5%。
   details:
     - name: "ファミリーゲレンデ"
       difficulty: beginner
-      note: "緩斜面中心，適合初學者與家庭練習。"
+      note: 緩斜面中心，適合初學者與家庭練習。
     - name: "湯の平コース"
       difficulty: intermediate
-      note: "坡度變化較多的雪道，實際開放請以當日公告為準。"
+      note: 坡度變化較多的雪道，實際開放請以當日公告為準。
 lifts:
   total: 2
 access:
   fromTokyo:
     - label: "東京出發經八戶"
       steps:
-        - "從東京搭東北新幹線到八戶站。"
-        - "從八戶站轉乘巴士往奧入瀨溪流溫泉、燒山方向。"
-        - "下車後依住宿或當地交通安排前往雪場。"
+        - 從東京搭東北新幹線到八戶站。
+        - 從八戶站轉乘巴士往奧入瀨溪流溫泉、燒山方向。
+        - 下車後依住宿或當地交通安排前往雪場。
       estimatedTime: "站後約 85 分"
-      difficulty: "medium"
-      note: "也可經三澤站轉巴士，站後約 50 分；冬季班次與下車點需出發前確認。"
+      difficulty: medium
+      note: 也可經三澤站轉巴士，站後約 50 分；冬季班次與下車點需出發前確認。
   fromAirport:
     - label: "三澤機場出發"
       steps:
-        - "從三澤機場租車或包車，往十和田市燒山方向移動。"
-        - "依當日道路與積雪狀況前往奧入瀨溪流溫泉。"
+        - 從三澤機場租車或包車，往十和田市燒山方向移動。
+        - 依當日道路與積雪狀況前往奧入瀨溪流溫泉。
       estimatedTime: "約 60 分"
-      difficulty: "hard"
-      note: "機場後公開資料以車行時間為主，不自駕時建議事先確認巴士或住宿接送。"
+      difficulty: hard
+      note: 機場後公開資料以車行時間為主，不自駕時建議事先確認巴士或住宿接送。
   car:
     recommended: true
     snowTireRequired: true
-    note: "從下田百石 IC 往燒山方向約 70 分；從十和田南 IC 往燒山方向約 95 分。冬季請準備雪胎或防滑裝備。"
+    note: 從下田百石 IC 往燒山方向約 70 分；從十和田南 IC 往燒山方向約 95 分。冬季請準備雪胎或防滑裝備。
 terrainSummary:
-  beginner: "奧入瀨溪流溫泉初級雪道占 70%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。"
-  intermediate: "中級雪道占 25%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。"
-  advanced: "上級雪道占 5%，較高難度區域請依當日雪況、能見度與官方管制判斷。"
-  snowboard: "雪板可全區滑行。"
+  beginner: 奧入瀨溪流溫泉初級雪道占 70%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。
+  intermediate: 中級雪道占 25%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。
+  advanced: 上級雪道占 5%，較高難度區域請依當日雪況、能見度與官方管制判斷。
+  snowboard: 雪板可全區滑行。
 externalContent:
   blogs: []
   vlogs: []

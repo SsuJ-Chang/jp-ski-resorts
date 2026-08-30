@@ -146,8 +146,8 @@ externalContent:
   blogs: []
   vlogs:
   - title: "【上から下まで】丸沼高原TOP TO BOTTOM 【スノーボード】// Who's TV"
-    url: "https://www.youtube.com/watch?v=M6yT0I6wvSU"
-    note: "Who’s TV / by Fumika Hoshino"
+    url: https://www.youtube.com/watch?v=M6yT0I6wvSU
+    note: Who’s TV / by Fumika Hoshino
 ---
 
 丸沼高原從海拔約 2,000 m 的山頂展開，能一路滑行約 4,000 m，感受高海拔雪場的爽快速度感。雪場設有單板與雙板區、兒童區與初級專用路線，雪質也很有特色，適合想兼顧長距離巡航與輕鬆練習的玩家。

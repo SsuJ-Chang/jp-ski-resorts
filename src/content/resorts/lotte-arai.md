@@ -244,8 +244,8 @@ externalContent:
   blogs: []
   vlogs:
   - title: "【上から下まで】ロッテアライリゾート TOP TO BOTTOM 【スノーボード】// Who's TV"
-    url: "https://www.youtube.com/watch?v=UGSvkm5EQds"
-    note: "Who’s TV / by Fumika Hoshino"
+    url: https://www.youtube.com/watch?v=UGSvkm5EQds
+    note: Who’s TV / by Fumika Hoshino
 ---
 
 樂天新井是新潟縣的中型雪場，共有 14 條雪道，搭配 8 座纜車。雪道如 妙高ロングラン、タテガミ，初級、中級與上級路線都有配置，標籤偏向親子同行、夜滑。

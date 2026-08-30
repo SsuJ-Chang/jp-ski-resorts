@@ -215,8 +215,8 @@ externalContent:
     url: https://www.youtube.com/watch?v=zZq4RrZOa5A
     note: 艾維斯52赫茲
   - title: "【上から下まで】ホワイトワールド尾瀬岩鞍/平昌オリンピック選手広野あさみプロと滑るよ！【TOP TO BOTTOM】 //Who's TV"
-    url: "https://www.youtube.com/watch?v=1fsxp5H8OGk"
-    note: "Who’s TV / by Fumika Hoshino"
+    url: https://www.youtube.com/watch?v=1fsxp5H8OGk
+    note: Who’s TV / by Fumika Hoshino
 ---
 
 White World 尾瀨岩鞍是群馬縣內規模很大的雪場，滑道種類豐富，能對應初級到進階玩家的不同需求。雪場也設有熊貓冒險廣場與兒童區，滑行之外保有親子玩雪空間，整體是兼具滑道份量與家庭友善度的高原型雪場。

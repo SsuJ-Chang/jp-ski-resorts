@@ -1,42 +1,42 @@
 ---
-id: "yakumo-choei"
+id: yakumo-choei
 name:
-  zhTw: "八雲町營"
-  ja: "八雲町営スキー場"
-  en: "Yakumo Municipal Ski Area"
-region: "hokkaido"
-prefecture: "北海道"
+  zhTw: 八雲町營
+  ja: 八雲町営スキー場
+  en: Yakumo Municipal Ski Area
+region: hokkaido
+prefecture: 北海道
 tags:
-  - "no_car_accessible"
-  - "snowboard_friendly"
+  - no_car_accessible
+  - snowboard_friendly
 visibility:
-  status: "published"
-  note: "北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。"
+  status: published
+  note: 北海道雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。
 links:
-  official: "https://www.town.yakumo.lg.jp/soshiki/taiiku/yakumo-ski.html"
-  weather: "https://weathernews.jp/ski/spot/32304/"
+  official: https://www.town.yakumo.lg.jp/soshiki/taiiku/yakumo-ski.html
+  weather: https://weathernews.jp/ski/spot/32304/
   googleMaps: https://maps.app.goo.gl/VpQWmDuP6X23RiDbA
-  access: "https://www.town.yakumo.lg.jp/soshiki/taiiku/yakumo-ski.html"
+  access: https://www.town.yakumo.lg.jp/soshiki/taiiku/yakumo-ski.html
 contact:
   address:
-    zhTw: "日本北海道二海郡八雲町春日"
-    ja: "〒049-3127 北海道二海郡八雲町春日"
+    zhTw: 日本北海道二海郡八雲町春日
+    ja: 〒049-3127 北海道二海郡八雲町春日
     googleMaps: https://maps.app.goo.gl/VpQWmDuP6X23RiDbA
   phone: "0137-64-3036"
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/07-2026/03/08"
   hours: "平日：2月末止10:00〜21:00 ３月17:00〜21:00 / 假日：９:00〜20:00"
-  note: "營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。"
-  source: "https://weathernews.jp/ski/spot/32304/"
+  note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
+  source: https://weathernews.jp/ski/spot/32304/
 snowWeather:
-  title: "八雲町營 積雪與天氣"
-  provider: "Weathernews"
-  url: "https://weathernews.jp/ski/spot/32304/"
+  title: 八雲町營 積雪與天氣
+  provider: Weathernews
+  url: https://weathernews.jp/ski/spot/32304/
   snowDepth: 0 cm
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
-  note: "雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。"
+  note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 location:
   latitude: 42.213071064179246
   longitude: 140.2366854971002
@@ -49,35 +49,35 @@ courses:
   beginnerRatio: 33
   intermediateRatio: 34
   advancedRatio: 33
-  courseInfoPage: "https://weathernews.jp/ski/spot/32304/"
-  summary: "八雲町營共有 3 條雪道，難度比例約初級 0%、中級 0%、進階 0%，適合依雪況與同行者程度安排滑行路線。"
+  courseInfoPage: https://weathernews.jp/ski/spot/32304/
+  summary: 八雲町營共有 3 條雪道，難度比例約初級 0%、中級 0%、進階 0%，適合依雪況與同行者程度安排滑行路線。
   details:
     - name: "雪道 1"
       difficulty: mixed
-      note: "目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。"
+      note: 目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。
     - name: "雪道 2"
       difficulty: mixed
-      note: "目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。"
+      note: 目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。
     - name: "雪道 3"
       difficulty: mixed
-      note: "目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。"
+      note: 目前僅能確認此雪場的雪道總數；正式雪道名稱、難度、長度與坡度待後續以官方雪道圖補齊。
 lifts:
   total: 1
 access:
   fromSapporo:
     - label: "大眾交通工具（主要車站銜接）"
       steps:
-        - "鐵路：八雲駅より車で約22分"
-      difficulty: "medium"
+        - 鐵路：八雲駅より車で約22分
+      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true
-    note: "停車場：60台。冬季山路需準備雪胎或雪鏈。"
+    note: 停車場：60台。冬季山路需準備雪胎或雪鏈。
 terrainSummary:
-  beginner: "初級比例約 0%，可作為暖身、親子同行或初訪時的主要安排。"
-  intermediate: "中級比例約 0%，適合已能穩定轉彎的滑雪者串接主要雪道。"
-  advanced: "進階比例約 0%，建議視當日積雪與壓雪狀況選擇。"
-  snowboard: "全面可；單板實際可滑區域仍以現場開放為準。"
+  beginner: 初級比例約 0%，可作為暖身、親子同行或初訪時的主要安排。
+  intermediate: 中級比例約 0%，適合已能穩定轉彎的滑雪者串接主要雪道。
+  advanced: 進階比例約 0%，建議視當日積雪與壓雪狀況選擇。
+  snowboard: 全面可；單板實際可滑區域仍以現場開放為準。
 externalContent:
   blogs: []
   vlogs: []

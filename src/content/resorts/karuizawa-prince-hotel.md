@@ -159,8 +159,8 @@ externalContent:
     url: https://www.youtube.com/watch?v=vMWhSBRttyg
     note: LeoTW沈浸滑雪
   - title: "【オープン初日】軽井沢プリンスホテルスキー場 【上から下まで】// Who's TV"
-    url: "https://www.youtube.com/watch?v=kdQ8KMIk8zo"
-    note: "Who’s TV / by Fumika Hoshino"
+    url: https://www.youtube.com/watch?v=kdQ8KMIk8zo
+    note: Who’s TV / by Fumika Hoshino
 ---
 
 輕井澤王子飯店滑雪場以人工造雪與人工降雪設備維持穩定雪量，晴天率高，整體氛圍明亮而時尚。雪場滑道配置容易掌握，也結合購物、保齡球等度假設施，適合想把輕鬆滑雪與輕井澤休閒感一起安排的旅人。
