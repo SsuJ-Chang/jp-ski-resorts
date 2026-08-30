@@ -21,12 +21,12 @@ links:
   xTwitter: https://x.com/kujyu_ski
   access: https://www.kujyuski.co.jp/facility/access
   weather: https://weathernews.jp/ski/spot/38301/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=%E3%81%8F%E3%81%98%E3%82%85%E3%81%86%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4
+  googleMaps: https://maps.app.goo.gl/ZjshAiYq7D2e662c6
 contact:
   address:
     zhTw: 大分縣玖珠郡九重町大字湯坪 612-1
     ja: 〒879-4912 大分県玖珠郡九重町大字湯坪612-1
-    googleMaps: https://www.google.com/maps/search/?api=1&query=%E3%81%8F%E3%81%98%E3%82%85%E3%81%86%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4
+    googleMaps: https://maps.app.goo.gl/ZjshAiYq7D2e662c6
   phone: 0973-79-2200
 season:
   label: 2025-2026
@@ -69,6 +69,9 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+location:
+  latitude: 33.09957442305333
+  longitude: 131.1783768711645
 elevation:
   top: 1300
   bottom: 1150

@@ -11,6 +11,9 @@ tags:
 - family_friendly
 - onsen
 - snowboard_friendly
+rjOpinion: |-
+  很不幸的在整理雪場時候看到已永久歇業...。
+  [官網說明](https://www.gokase.co.jp/ski/%e3%82%b9%e3%82%ad%e3%83%bc%e5%a0%b4%e5%96%b6%e6%a5%ad%e7%b5%82%e4%ba%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/)
 homeRegionExample: true
 visibility:
   status: published
@@ -20,12 +23,12 @@ links:
   instagram: https://www.instagram.com/gokase_highland_ski_resort/
   access: https://www.gokase.co.jp/wp/wp-content/themes/biz-vektor/pdf/shuttle_bus_timetable.pdf
   weather: https://weathernews.jp/ski/spot/38602/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E3%83%B6%E7%80%AC%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4
+  googleMaps: https://maps.app.goo.gl/dmRxHABJ1bt8dCts7
 contact:
   address:
     zhTw: 宮崎縣西臼杵郡五瀨町大字鞍岡 4647-171
     ja: 〒882-1201 宮崎県西臼杵郡五ヶ瀬町大字鞍岡4647-171
-    googleMaps: https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E3%83%B6%E7%80%AC%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4
+    googleMaps: https://maps.app.goo.gl/dmRxHABJ1bt8dCts7
   phone: 0982-83-2144
 season:
   label: 2025-2026
