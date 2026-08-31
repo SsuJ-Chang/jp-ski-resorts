@@ -6,6 +6,13 @@ name:
   en: Edelweiss Ski Resort
 region: kanto-koshinetsu
 prefecture: 栃木縣
+location:
+  latitude: 36.925096
+  longitude: 139.748985
+elevation:
+  top: 1480
+  bottom: 1200
+  verticalDrop: 280
 tags:
 - beginner_friendly
 - family_friendly
@@ -19,6 +26,12 @@ links:
   trailMapPage: https://edelsnow.com/information/coursemap.php
   weather: https://weathernews.jp/ski/spot/34105/
   googleMaps: https://maps.google.co.jp/maps?q=36.925096,139.748985
+contact:
+  address:
+    zhTw: 栃木縣日光市川治温泉高原鶏頂山
+    ja: 〒321-2612 栃木県日光市川治温泉高原鶏頂山
+    googleMaps: https://maps.google.co.jp/maps?q=36.925096,139.748985
+  phone: 0288-78-0786
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/03/31
@@ -31,6 +44,27 @@ trailMaps:
   season: 2025-2026
   url: https://edelsnow.com/information/coursemap.php
   sourceLabel: Edelweiss Ski Resort Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/34105/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 假日1日券
+    priceLines:
+    - 成人 ¥6,000 兒童 ¥4,300 樂齡 ¥5,300
+  - name: 平日1日券
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥3,000 樂齡 ¥3,000
+  - name: 假日半日券
+    priceLines:
+    - 成人 ¥5,000 兒童 ¥3,400 樂齡 ¥4,600
+  - name: 平日半日券
+    priceLines:
+    - 成人 ¥2,700 兒童 ¥2,700 樂齡 ¥2,700
+  - name: 2 回券
+    priceLines:
+    - 成人 ¥1,800 兒童 ¥1,800 樂齡 ¥1,800
 snowWeather:
   title: Edelweiss Ski Resort雪況天氣
   provider: Weathernews
@@ -97,52 +131,18 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 30
   advancedRatio: 30
-terrainSummary:
-  beginner: 初級雪道以 ファミリーコース、スマイルコース 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 センターコース、スクランブル A、プロムナードコース、テクニカルコース 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 ダイナミックコース、チャレンジコース，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-contact:
-  address:
-    zhTw: 栃木縣日光市川治温泉高原鶏頂山
-    ja: 〒321-2612 栃木県日光市川治温泉高原鶏頂山
-    googleMaps: https://maps.google.co.jp/maps?q=36.925096,139.748985
-  phone: 0288-78-0786
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/34105/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 假日1日券
-    priceLines:
-    - 成人 ¥6,000 兒童 ¥4,300 樂齡 ¥5,300
-  - name: 平日1日券
-    priceLines:
-    - 成人 ¥3,500 兒童 ¥3,000 樂齡 ¥3,000
-  - name: 假日半日券
-    priceLines:
-    - 成人 ¥5,000 兒童 ¥3,400 樂齡 ¥4,600
-  - name: 平日半日券
-    priceLines:
-    - 成人 ¥2,700 兒童 ¥2,700 樂齡 ¥2,700
-  - name: 2 回券
-    priceLines:
-    - 成人 ¥1,800 兒童 ¥1,800 樂齡 ¥1,800
-elevation:
-  top: 1480
-  bottom: 1200
-  verticalDrop: 280
-location:
-  latitude: 36.925096
-  longitude: 139.748985
 lifts:
   total: 5
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：東武鉄道鬼怒川線鬼怒川温泉駅、免費シャトルバス運行（週六、週日、國定假日） (40分) 車 ：浦和→今市IC→エーデルワイススキーリゾート (60分) 車 ：水戸市→西那須野塩原IC入口→エーデルワイススキーリゾート (60分) 1500台 平日 免費 假日 免費
+    note: 交通資訊摘要：東武鉄道鬼怒川線鬼怒川温泉駅、免費シャトルバス運行（週六、週日、國定假日） (40分) 車 ：浦和→今市IC→エーデルワイススキーリゾート (60分) 車 ：水戸市→西那須野塩原IC入口→エーデルワイススキーリゾート (60分) 1500台 平日 免費 假日 免費terrainSummary:
+  beginner: 初級雪道以 ファミリーコース、スマイルコース 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 センターコース、スクランブル A、プロムナードコース、テクニカルコース 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 ダイナミックコース、チャレンジコース，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+
 ---
 
 Edelweiss Ski Resort位於栃木縣，重點不在刺激挑戰，而是讓同行者用舒服節奏熟悉雪地活動。住宿、餐飲與滑行動線集中，停留感比單日滑雪更完整；適合不想每天移動太多，想用度假節奏滑雪的人。也適合把雪地遊玩、練習與休息時間安排得更從容。

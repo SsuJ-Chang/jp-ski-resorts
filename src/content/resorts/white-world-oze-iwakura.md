@@ -6,6 +6,13 @@ name:
   en: White World Oze Iwakura
 region: kanto-koshinetsu
 prefecture: 群馬縣
+location:
+  latitude: 36.815088
+  longitude: 139.220384
+elevation:
+  top: 1703
+  bottom: 1006
+  verticalDrop: 697
 tags:
 - family_friendly
 - large_ski_area
@@ -22,6 +29,12 @@ links:
   trailMapPage: https://www.oze-iwakura.co.jp/ski/slopeguide/index.html
   weather: https://weathernews.jp/ski/spot/34207/
   googleMaps: https://maps.google.co.jp/maps?q=36.815088,139.220384
+contact:
+  address:
+    zhTw: 群馬縣利根郡片品村大字土出2609
+    ja: 〒378-0412 群馬県利根郡片品村大字土出2609
+    googleMaps: https://maps.google.co.jp/maps?q=36.815088,139.220384
+  phone: 0278-58-7777
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/13-2026/04/05
@@ -34,6 +47,30 @@ trailMaps:
   season: 2025-2026
   url: https://www.oze-iwakura.co.jp/ski/slopeguide/index.html
   sourceLabel: White World Oze Iwakura Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/34207/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥6,500 兒童 ¥4,500 樂齡 ¥6,000
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥700 兒童 ¥500
+  - name: 5 小時券
+    priceLines:
+    - 成人 ¥5,800 兒童 ¥3,800 樂齡 ¥5,300
+  - name: 夜滑券
+    priceLines:
+    - 成人 ¥2,500 兒童 ¥1,600 樂齡 ¥2,300
+  - name: 20 小時券
+    priceLines:
+    - 成人 ¥21,000 兒童 ¥13,000 樂齡 ¥19,000
+  - name: ※
+    priceLines:
+    - 國高中生のリフト券あり
 snowWeather:
   title: White World 尾瀨岩鞍雪況天氣
   provider: Weathernews
@@ -158,49 +195,6 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
-terrainSummary:
-  beginner: 初級雪道以 ファミリーコース、ロマンスコース、しらかばコース、ミルキーウェイ 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 チャレンジ A、チャレンジ B、国体女子（沢）、チャンピオン B 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 国体女子（西山）、国体男子、エキスパート下、エキスパート上，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-  powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
-contact:
-  address:
-    zhTw: 群馬縣利根郡片品村大字土出2609
-    ja: 〒378-0412 群馬県利根郡片品村大字土出2609
-    googleMaps: https://maps.google.co.jp/maps?q=36.815088,139.220384
-  phone: 0278-58-7777
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/34207/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,500 兒童 ¥4,500 樂齡 ¥6,000
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥700 兒童 ¥500
-  - name: 5 小時券
-    priceLines:
-    - 成人 ¥5,800 兒童 ¥3,800 樂齡 ¥5,300
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥2,500 兒童 ¥1,600 樂齡 ¥2,300
-  - name: 20 小時券
-    priceLines:
-    - 成人 ¥21,000 兒童 ¥13,000 樂齡 ¥19,000
-  - name: ※
-    priceLines:
-    - 國高中生のリフト券あり
-elevation:
-  top: 1703
-  bottom: 1006
-  verticalDrop: 697
-location:
-  latitude: 36.815088
-  longitude: 139.220384
 lifts:
   total: 11
 access:
@@ -208,6 +202,12 @@ access:
     recommended: true
     snowTireRequired: true
     note: 交通資訊摘要：JR上越線沼田駅→路線バス (50分) 電車 ：上越新幹線上毛高原駅→路線バス (70分) 車 ：前橋IC→沼田IC経由 (70分) 車 ：練馬IC→沼田IC経由 (140分) 飛行機：羽田空港 (180分) 2200台 平日 免費 假日 1000円（乗用車1台に4名以上乗車の場合は免費）3/16以降は全日免費
+terrainSummary:
+  beginner: 初級雪道以 ファミリーコース、ロマンスコース、しらかばコース、ミルキーウェイ 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 チャレンジ A、チャレンジ B、国体女子（沢）、チャンピオン B 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 国体女子（西山）、国体男子、エキスパート下、エキスパート上，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+  powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
 externalContent:
   blogs: []
   vlogs:

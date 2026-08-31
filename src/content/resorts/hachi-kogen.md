@@ -7,6 +7,19 @@ name:
 region: kansai-chugoku
 prefecture: 兵庫縣
 skiArea: hachibuse-yama
+location:
+  latitude: 35.38521575938857
+  longitude: 134.53525403918835
+mapDisplay:
+  showOnRegionGuide: true
+  labelPriority: 2
+  approximatePosition:
+    x: 62
+    y: 67
+elevation:
+  top: 1221
+  bottom: 550
+  verticalDrop: 671
 tags:
 - beginner_friendly
 - family_friendly
@@ -78,19 +91,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 35.38521575938857
-  longitude: 134.53525403918835
-mapDisplay:
-  showOnRegionGuide: true
-  labelPriority: 2
-  approximatePosition:
-    x: 62
-    y: 67
-elevation:
-  top: 1221
-  bottom: 550
-  verticalDrop: 671
 courses:
   total: 11
   beginnerRatio: 40

@@ -6,6 +6,12 @@ name:
   en: New Greenpia Tsunan
 region: kanto-koshinetsu
 prefecture: 新潟縣
+location:
+  latitude: 36.962052
+  longitude: 138.688156
+elevation:
+  top: 965
+  bottom: 650
 tags:
 - family_friendly
 - onsen
@@ -58,12 +64,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 36.962052
-  longitude: 138.688156
-elevation:
-  top: 965
-  bottom: 650
 courses:
   total: 5
   courseInfoPage: https://new-greenpia.com

@@ -6,6 +6,13 @@ name:
   en: Hida Hounoki Daira
 region: chubu
 prefecture: 岐阜縣
+location:
+  latitude: 36.17561090007566
+  longitude: 137.49293324106273
+elevation:
+  top: 1550
+  bottom: 1200
+  verticalDrop: 350
 tags:
 - large_ski_area
 - no_car_accessible
@@ -64,13 +71,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 36.17561090007566
-  longitude: 137.49293324106273
-elevation:
-  top: 1550
-  bottom: 1200
-  verticalDrop: 350
 courses:
   total: 17
   beginnerRatio: 30

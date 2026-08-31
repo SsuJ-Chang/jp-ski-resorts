@@ -6,6 +6,13 @@ name:
   en: Biwako Valley
 region: kansai-chugoku
 prefecture: 滋賀縣
+location:
+  latitude: 35.21309195685543
+  longitude: 135.89588982568924
+elevation:
+  top: 1174
+  bottom: 950
+  verticalDrop: 224
 tags:
 - large_ski_area
 - snowboard_friendly
@@ -16,6 +23,12 @@ links:
   trailMapPage: https://www.biwako-valley.com/winter/
   weather: https://weathernews.jp/ski/spot/36001/
   googleMaps: https://maps.app.goo.gl/KHBwaoxJVTDNEe3PA
+contact:
+  address:
+    zhTw: 滋賀縣大津市木戸1547-1
+    ja: 〒520-0514 滋賀県大津市木戸1547-1
+    googleMaps: https://maps.app.goo.gl/KHBwaoxJVTDNEe3PA
+  phone: 077-592-1155
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/28-2026/03/22
@@ -28,6 +41,18 @@ trailMaps:
   season: 2025-2026
   url: https://www.biwako-valley.com/w_season/openclose
   sourceLabel: Biwako Valley Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/36001/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1 回券
+    priceLines:
+    - 請見官方公告
+  - name: 初滑り情報 詳しくは公式ウェブサイトを確認ください
+    priceLines:
+    - 請見官方公告
 snowWeather:
   title: 琵琶湖山谷雪況天氣
   provider: Weathernews
@@ -98,36 +123,6 @@ courses:
     maxSlope: 19°
     averageSlope: 15°
     note: 起伏豐富、雪質良好的雪道，降雪後適合享受粉雪。
-terrainSummary:
-  beginner: 初級雪道包含打見雪道與阿爾卑斯雪道，適合練習速度控制與穩定轉彎。
-  intermediate: 中級雪道包含蓬萊全景、巨人、浪漫、動態與森林雪道，可依雪況安排較長距離滑行。
-  advanced: 中上級雪道包含冠軍與蓬萊北雪道，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-contact:
-  address:
-    zhTw: 滋賀縣大津市木戸1547-1
-    ja: 〒520-0514 滋賀県大津市木戸1547-1
-    googleMaps: https://maps.app.goo.gl/KHBwaoxJVTDNEe3PA
-  phone: 077-592-1155
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/36001/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 1 回券
-    priceLines:
-    - 請見官方公告
-  - name: 初滑り情報 詳しくは公式ウェブサイトを確認ください
-    priceLines:
-    - 請見官方公告
-elevation:
-  top: 1174
-  bottom: 950
-  verticalDrop: 224
-location:
-  latitude: 35.21309195685543
-  longitude: 135.89588982568924
 lifts:
   total: 6
 access:
@@ -148,7 +143,12 @@ access:
     note: 從名神高速京都東 IC 經西大津繞道與湖西道路，於志賀 IC 出口後約 5 分鐘抵達。導航請設定「滋賀縣大津市木戸 1485-2（舊 JA 加油站／琵琶湖谷入口）」或「びわ湖バレイ駐車場ゲート」；入口位於縣道 558 號沿線、設有大型招牌的 T 字路口，請留意導航可能誤導至登山道。大型連休可能因停車場滿位而限制入場，建議改搭大眾運輸；停車場僅收現金。週末與連休期間，9 至 15 號停車場與纜車山麓站之間會視情況運行免費循環巴士。
     links:
     - label: 官方交通與停車資訊
-      url: https://www.biwako-valley.com/all_season/access/
+      url: https://www.biwako-valley.com/all_season/access/terrainSummary:
+  beginner: 初級雪道包含打見雪道與阿爾卑斯雪道，適合練習速度控制與穩定轉彎。
+  intermediate: 中級雪道包含蓬萊全景、巨人、浪漫、動態與森林雪道，可依雪況安排較長距離滑行。
+  advanced: 中上級雪道包含冠軍與蓬萊北雪道，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+
 ---
 
 琵琶湖山谷位於滋賀縣，共有9 條雪道、6 座纜車，主體是可反覆換線的中型滑行配置。打見ゲレンデ、ジャイアントコース能看出主雪道之間有明確分工。如果你想在雪道數、節奏變化與實際可滑效率之間取平衡，這類配置會很實用。

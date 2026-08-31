@@ -6,6 +6,13 @@ name:
   en: Kiroro Snow World
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 43.067927678691305
+  longitude: 140.98926718863157
+elevation:
+  top: 1180
+  bottom: 520
+  verticalDrop: 660
 tags:
 - powder
 - large_ski_area
@@ -66,13 +73,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 43.067927678691305
-  longitude: 140.98926718863157
-elevation:
-  top: 1180
-  bottom: 520
-  verticalDrop: 660
 courses:
   total: 23
   beginnerRatio: 37

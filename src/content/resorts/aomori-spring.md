@@ -6,6 +6,13 @@ name:
   en: Aomori Spring Ski Resort
 region: tohoku
 prefecture: 青森縣
+location:
+  latitude: 40.695466756482155
+  longitude: 140.28201115767106
+elevation:
+  top: 921
+  bottom: 396
+  verticalDrop: 525
 tags:
   - beginner_friendly
   - large_ski_area
@@ -40,13 +47,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 40.695466756482155
-  longitude: 140.28201115767106
-elevation:
-  top: 921
-  bottom: 396
-  verticalDrop: 525
 courses:
   total: 15
   beginnerRatio: 53

@@ -6,6 +6,13 @@ name:
   en: Nukabira Gensenkyo Ski Area
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 43.364042398730746
+  longitude: 143.1870456288355
+elevation:
+  top: 1230
+  bottom: 570
+  verticalDrop: 660
 tags:
 - powder
 - beginner_friendly
@@ -62,13 +69,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 43.364042398730746
-  longitude: 143.1870456288355
-elevation:
-  top: 1230
-  bottom: 570
-  verticalDrop: 660
 courses:
   total: 14
   beginnerRatio: 40

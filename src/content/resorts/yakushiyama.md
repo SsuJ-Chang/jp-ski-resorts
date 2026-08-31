@@ -6,6 +6,13 @@ name:
   en: Yakushiyama Ski Area
 region: tohoku
 prefecture: 秋田縣
+location:
+  latitude: 40.21362213857192
+  longitude: 140.2791799681898
+elevation:
+  top: 187
+  bottom: 50
+  verticalDrop: 137
 tags:
   - beginner_friendly
   - family_friendly
@@ -40,13 +47,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 40.21362213857192
-  longitude: 140.2791799681898
-elevation:
-  top: 187
-  bottom: 50
-  verticalDrop: 137
 courses:
   total: 2
   beginnerRatio: 70

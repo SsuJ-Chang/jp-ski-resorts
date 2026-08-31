@@ -6,6 +6,9 @@ name:
   en: Nanao Korosa Ski Area
 region: hokuriku
 prefecture: 石川縣
+location:
+  latitude: 36.97537365377318
+  longitude: 136.95962998465788
 tags:
 - beginner_friendly
 - family_friendly
@@ -64,9 +67,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 36.97537365377318
-  longitude: 136.95962998465788
 courses:
   beginnerRatio: 33
   intermediateRatio: 33

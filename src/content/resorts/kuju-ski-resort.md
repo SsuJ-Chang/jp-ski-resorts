@@ -6,15 +6,22 @@ name:
   en: Kuju Forest Park Snow Resort
 region: kyushu
 prefecture: 大分縣
+location:
+  latitude: 33.09957442305333
+  longitude: 131.1783768711645
+elevation:
+  top: 1300
+  bottom: 1150
+  verticalDrop: 150
 tags:
 - beginner_friendly
 - family_friendly
 - night_skiing
 - onsen
 - snowboard_friendly
-homeRegionExample: true
 visibility:
   status: published
+homeRegionExample: true
 links:
   official: https://www.kujyuski.co.jp/
   instagram: https://www.instagram.com/kuju_ski
@@ -69,13 +76,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 33.09957442305333
-  longitude: 131.1783768711645
-elevation:
-  top: 1300
-  bottom: 1150
-  verticalDrop: 150
 courses:
   total: 6
   beginnerRatio: 50

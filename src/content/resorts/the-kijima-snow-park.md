@@ -6,6 +6,9 @@ name:
   en: The Kijima Snow Park
 region: kanto-koshinetsu
 prefecture: 長野縣
+location:
+  latitude: 36.818033
+  longitude: 138.396414
 links:
   official: https://iiyama-makinoiri.snowpark.jp/snow/
   instagram: https://www.instagram.com/kijima_snowpark/
@@ -58,9 +61,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 36.818033
-  longitude: 138.396414
 courses:
   beginnerRatio: 40
   intermediateRatio: 20

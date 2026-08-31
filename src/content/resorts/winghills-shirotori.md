@@ -6,6 +6,13 @@ name:
   en: Winghills Shirotori Resort
 region: chubu
 prefecture: 岐阜縣
+location:
+  latitude: 35.96601207516906
+  longitude: 136.80280433920709
+elevation:
+  top: 1350
+  bottom: 870
+  verticalDrop: 480
 tags:
 - beginner_friendly
 - family_friendly
@@ -70,13 +77,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 靜態展示用雪況資料，出發前請以官方與天氣頁面最新公告為準。
-location:
-  latitude: 35.96601207516906
-  longitude: 136.80280433920709
-elevation:
-  top: 1350
-  bottom: 870
-  verticalDrop: 480
 courses:
   total: 13
   beginnerRatio: 30.77

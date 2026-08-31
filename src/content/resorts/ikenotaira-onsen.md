@@ -7,6 +7,13 @@ name:
 region: kanto-koshinetsu
 prefecture: 新潟縣
 skiArea: myoko-kogen
+location:
+  latitude: 36.87273552072962
+  longitude: 138.17191309325358
+elevation:
+  top: 1500
+  bottom: 760
+  verticalDrop: 740
 tags:
 - beginner_friendly
 - family_friendly
@@ -82,13 +89,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 36.87273552072962
-  longitude: 138.17191309325358
-elevation:
-  top: 1500
-  bottom: 760
-  verticalDrop: 740
 courses:
   total: 16
   beginnerRatio: 35

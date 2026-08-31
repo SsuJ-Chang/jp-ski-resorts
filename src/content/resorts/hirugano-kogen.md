@@ -7,6 +7,11 @@ name:
 region: chubu
 prefecture: 岐阜縣
 skiArea: takasu-mountains
+location:
+  latitude: 36.005716444217214
+  longitude: 136.90854694232897
+elevation:
+  verticalDrop: 150
 tags:
 - beginner_friendly
 - family_friendly
@@ -60,11 +65,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時雪況為準。
-location:
-  latitude: 36.005716444217214
-  longitude: 136.90854694232897
-elevation:
-  verticalDrop: 150
 courses:
   total: 8
   beginnerRatio: 45

@@ -6,6 +6,13 @@ name:
   en: Takayama Shimin Ski Area
 region: chubu
 prefecture: 岐阜縣
+location:
+  latitude: 36.061664321792406
+  longitude: 137.22622191037485
+elevation:
+  top: 1200
+  bottom: 900
+  verticalDrop: 300
 tags:
 - beginner_friendly
 - family_friendly
@@ -78,13 +85,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 36.061664321792406
-  longitude: 137.22622191037485
-elevation:
-  top: 1200
-  bottom: 900
-  verticalDrop: 300
 courses:
   total: 3
   courseInfoPage: https://www.city.takayama.lg.jp/shisetsu/1004139/1000043/1018844.html

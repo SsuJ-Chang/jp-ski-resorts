@@ -6,6 +6,13 @@ name:
   en: Makino Kogen Family Ski Area
 region: kansai-chugoku
 prefecture: 滋賀縣
+location:
+  latitude: 35.496364
+  longitude: 136.033641
+elevation:
+  top: 350
+  bottom: 150
+  verticalDrop: 200
 tags:
 - beginner_friendly
 - family_friendly
@@ -16,6 +23,12 @@ links:
   trailMapPage: http://www.makinokougen.co.jp/
   weather: https://weathernews.jp/ski/spot/36009/
   googleMaps: https://maps.google.co.jp/maps?q=35.496364,136.033641
+contact:
+  address:
+    zhTw: 滋賀縣高島市マキノ町牧野931
+    ja: 〒520-1836 滋賀県高島市マキノ町牧野931
+    googleMaps: https://maps.google.co.jp/maps?q=35.496364,136.033641
+  phone: 0740-27-0936
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/28-2026/02/28
@@ -28,6 +41,21 @@ trailMaps:
   season: 2025-2026
   url: http://www.makinokougen.co.jp/
   sourceLabel: Makino Kogen Family Ski Area Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/36009/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: サンキッド（動く歩道） 料金1回
+    priceLines:
+    - 成人 ¥150 兒童 ¥150
+  - name: サンキッド（動く歩道） 料金1日
+    priceLines:
+    - 成人 ¥1,000 兒童 ¥1,000
+  - name: サンキッド（動く歩道） 料金12回
+    priceLines:
+    - 成人 ¥1,500 兒童 ¥1,500
 snowWeather:
   title: 牧野高原 Family雪況天氣
   provider: Weathernews
@@ -46,42 +74,14 @@ courses:
     note: 小型家庭取向雪場，公開資料列 1 條雪道。
   beginnerRatio: 90
   intermediateRatio: 10
-terrainSummary:
-  beginner: 初級雪道以 ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-contact:
-  address:
-    zhTw: 滋賀縣高島市マキノ町牧野931
-    ja: 〒520-1836 滋賀県高島市マキノ町牧野931
-    googleMaps: https://maps.google.co.jp/maps?q=35.496364,136.033641
-  phone: 0740-27-0936
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/36009/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: サンキッド（動く歩道） 料金1回
-    priceLines:
-    - 成人 ¥150 兒童 ¥150
-  - name: サンキッド（動く歩道） 料金1日
-    priceLines:
-    - 成人 ¥1,000 兒童 ¥1,000
-  - name: サンキッド（動く歩道） 料金12回
-    priceLines:
-    - 成人 ¥1,500 兒童 ¥1,500
-elevation:
-  top: 350
-  bottom: 150
-  verticalDrop: 200
-location:
-  latitude: 35.496364
-  longitude: 136.033641
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：湖西線マキノ駅下車、バス (15分) 車 ：名神高速道路 京都東I.C (90分) 車 ：北陸自動車道 木之本I.C (30分) 500台 平日 1000円 假日 1000円
+    note: 交通資訊摘要：湖西線マキノ駅下車、バス (15分) 車 ：名神高速道路 京都東I.C (90分) 車 ：北陸自動車道 木之本I.C (30分) 500台 平日 1000円 假日 1000円terrainSummary:
+  beginner: 初級雪道以 ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+
 ---
 
 牧野高原 Family位於滋賀縣，以1 條雪道形成小型練習雪場規模。主要路線有 ファミリーゲレンデ，單一路線配置，重點在簡單滑行與基本練習；標籤上偏向初學者練習、親子同行。

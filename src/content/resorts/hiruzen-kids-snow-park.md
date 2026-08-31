@@ -6,6 +6,9 @@ name:
   en: Hiruzen Kids Snow Park
 region: kansai-chugoku
 prefecture: 岡山縣
+location:
+  latitude: 35.294759
+  longitude: 133.630111
 tags:
 - beginner_friendly
 - family_friendly
@@ -15,6 +18,12 @@ links:
   trailMapPage: https://www.qkamura.or.jp/hiruzen/
   weather: https://weathernews.jp/ski/spot/36604/
   googleMaps: https://maps.google.co.jp/maps?q=35.294759,133.630111
+contact:
+  address:
+    zhTw: 岡山縣真庭市蒜山上福田1205-281
+    ja: 〒717-0602 岡山県真庭市蒜山上福田1205-281
+    googleMaps: https://maps.google.co.jp/maps?q=35.294759,133.630111
+  phone: 0867-66-2501
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/28-2026/02/23
@@ -27,6 +36,15 @@ trailMaps:
   season: 2025-2026
   url: https://www.qkamura.or.jp/hiruzen/
   sourceLabel: Hiruzen Kids Snow Park Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/36604/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1日券（有料エリア入場券）
+    priceLines:
+    - 訪客 成人 ¥800 兒童 ¥800 樂齡 ¥800
 snowWeather:
   title: 蒜山 Kids Snow Park雪況天氣
   provider: Weathernews
@@ -46,31 +64,13 @@ courses:
   - name: 有料エリア入場雪遊びゾーン
     difficulty: beginner
     note: 為兒童 Snow Park，主要供親子雪上遊樂與入門體驗。
-terrainSummary:
-  beginner: 初級雪道以 有料エリア入場雪遊びゾーン 為主，適合練習速度控制與穩定轉彎。
-contact:
-  address:
-    zhTw: 岡山縣真庭市蒜山上福田1205-281
-    ja: 〒717-0602 岡山県真庭市蒜山上福田1205-281
-    googleMaps: https://maps.google.co.jp/maps?q=35.294759,133.630111
-  phone: 0867-66-2501
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/36604/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 1日券（有料エリア入場券）
-    priceLines:
-    - 訪客 成人 ¥800 兒童 ¥800 樂齡 ¥800
-location:
-  latitude: 35.294759
-  longitude: 133.630111
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：姫新線中国勝山駅→蒜山高原行市営バス終点蒜山高原下車 (100分) 車 ：米子自動車道蒜山IC→一般道（約4km） (10分) 100台 平日 免費 假日 免費
+    note: 交通資訊摘要：姫新線中国勝山駅→蒜山高原行市営バス終点蒜山高原下車 (100分) 車 ：米子自動車道蒜山IC→一般道（約4km） (10分) 100台 平日 免費 假日 免費terrainSummary:
+  beginner: 初級雪道以 有料エリア入場雪遊びゾーン 為主，適合練習速度控制與穩定轉彎。
+
 ---
 
 蒜山 Kids Snow Park位於岡山縣，是小型練習雪場，共有1 條雪道。代表路線包含 有料エリア入場雪遊びゾーン，單一路線配置，重點在簡單滑行與基本練習；標籤上偏向初學者練習、親子同行。

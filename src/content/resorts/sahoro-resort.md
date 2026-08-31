@@ -6,6 +6,13 @@ name:
   en: Sahoro Resort Ski Area
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 43.1748360480492
+  longitude: 142.80796527116445
+elevation:
+  top: 1030
+  bottom: 420
+  verticalDrop: 610
 tags:
 - powder
 - large_ski_area
@@ -63,13 +70,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 43.1748360480492
-  longitude: 142.80796527116445
-elevation:
-  top: 1030
-  bottom: 420
-  verticalDrop: 610
 courses:
   total: 21
   beginnerRatio: 30

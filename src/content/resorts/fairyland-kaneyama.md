@@ -6,6 +6,13 @@ name:
   en: Fairyland Kaneyama Ski Area
 region: tohoku
 prefecture: 福島縣
+location:
+  latitude: 37.444874242750416
+  longitude: 139.53512502576316
+elevation:
+  top: 775
+  bottom: 470
+  verticalDrop: 305
 tags:
   - family_friendly
   - no_car_accessible
@@ -39,13 +46,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 37.444874242750416
-  longitude: 139.53512502576316
-elevation:
-  top: 775
-  bottom: 470
-  verticalDrop: 305
 courses:
   total: 3
   beginnerRatio: 35

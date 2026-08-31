@@ -6,6 +6,13 @@ name:
   en: Onikoube Ski Resort
 region: tohoku
 prefecture: 宮城縣
+location:
+  latitude: 38.78709098172031
+  longitude: 140.63959801601354
+elevation:
+  top: 1055
+  bottom: 340
+  verticalDrop: 715
 tags:
   - family_friendly
   - no_car_accessible
@@ -42,13 +49,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 38.78709098172031
-  longitude: 140.63959801601354
-elevation:
-  top: 1055
-  bottom: 340
-  verticalDrop: 715
 courses:
   total: 8
   beginnerRatio: 30

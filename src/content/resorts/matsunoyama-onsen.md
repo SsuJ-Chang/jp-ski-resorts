@@ -6,6 +6,12 @@ name:
   en: Matsunoyama Onsen Ski Area
 region: kanto-koshinetsu
 prefecture: 新潟縣
+location:
+  latitude: 37.052424
+  longitude: 138.597728
+elevation:
+  top: 709
+  bottom: 383
 tags:
 - onsen
 - no_car_accessible
@@ -58,12 +64,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 37.052424
-  longitude: 138.597728
-elevation:
-  top: 709
-  bottom: 383
 courses:
   total: 5
   courseInfoPage: http://www.matsunoyama-ski.com/

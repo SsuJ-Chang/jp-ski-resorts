@@ -6,6 +6,13 @@ name:
   en: Hakodate Nanae Snow Park
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 41.98741300597736
+  longitude: 140.74789077116446 
+elevation:
+  top: 943
+  bottom: 198
+  verticalDrop: 745
 tags:
 - powder
 - beginner_friendly
@@ -59,13 +66,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 41.98741300597736
-  longitude: 140.74789077116446 
-elevation:
-  top: 943
-  bottom: 198
-  verticalDrop: 745
 courses:
   total: 8
   beginnerRatio: 60

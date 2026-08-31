@@ -6,6 +6,13 @@ name:
   en: Miyagi Zao Shiroishi Ski Resort
 region: tohoku
 prefecture: 宮城縣
+location:
+  latitude: 38.06857810053354
+  longitude: 140.5133036846579
+elevation:
+  top: 1150
+  bottom: 850
+  verticalDrop: 300
 tags:
   - powder
   - snowboard_friendly
@@ -39,13 +46,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 38.06857810053354
-  longitude: 140.5133036846579
-elevation:
-  top: 1150
-  bottom: 850
-  verticalDrop: 300
 courses:
   total: 8
   beginnerRatio: 40

@@ -6,6 +6,12 @@ name:
   en: Shirakaba 2in1
 region: kanto-koshinetsu
 prefecture: 長野縣
+location:
+  latitude: 36.095431
+  longitude: 138.2643
+elevation:
+  top: 1834
+  bottom: 1565
 tags:
 - no_car_accessible
 - snowboard_friendly
@@ -55,12 +61,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 36.095431
-  longitude: 138.2643
-elevation:
-  top: 1834
-  bottom: 1565
 courses:
   total: 9
   beginnerRatio: 40

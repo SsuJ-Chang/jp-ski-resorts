@@ -6,6 +6,13 @@ name:
   en: Grand Snow Okuibuki
 region: kansai-chugoku
 prefecture: 滋賀縣
+location:
+  latitude: 35.521787483513336
+  longitude: 136.38674012569928
+elevation:
+  top: 1250
+  bottom: 700
+  verticalDrop: 550
 tags:
 - family_friendly
 - large_ski_area
@@ -20,6 +27,12 @@ links:
   trailMapPage: https://www.okuibuki.co.jp/gelande/course/
   weather: https://weathernews.jp/ski/spot/36004/
   googleMaps: https://maps.app.goo.gl/e5LGjDidMxB8jPRg8
+contact:
+  address:
+    zhTw: 滋賀縣米原市甲津原奥伊吹
+    ja: 〒521-0301 滋賀県米原市甲津原奥伊吹
+    googleMaps: https://maps.app.goo.gl/e5LGjDidMxB8jPRg8
+  phone: 0749-55-0123
 season:
   label: 2025-2026
   operatingPeriod: 2025/11/14-2026/04/12
@@ -32,6 +45,75 @@ trailMaps:
   season: 2025-2026
   url: https://www.okuibuki.co.jp/gelande/course/
   sourceLabel: Grand Snow Okuibuki Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://www.okuibuki.co.jp/charge/
+  note: 官方票價依 A／B／C／D 日期分類；各票價另收 IC 卡押金 ¥500，還卡時可退還。中學生與高中生購票需出示學生證，60 歲以上需出示年齡證明。
+  plans:
+  - name: 1 日券（A 日程）
+    priceLines:
+    - 成人：¥4,000
+    - 中學生／高中生：¥3,500
+    - 兒童（小學生以下）：¥3,000
+    - 銀髮族（60 歲以上）：¥3,500
+    note: 可使用兒童公園與雪地電扶梯；家庭多人同行另有兒童票優惠。
+  - name: 1 日券（B 日程）
+    priceLines:
+    - 成人：¥4,900
+    - 中學生／高中生：¥4,400
+    - 兒童（小學生以下）：¥3,000
+    - 銀髮族（60 歲以上）：¥3,500
+  - name: 1 日券（C 日程）
+    priceLines:
+    - 成人：¥6,300
+    - 中學生／高中生：¥4,000
+    - 兒童（小學生以下）：¥3,500
+    - 銀髮族（60 歲以上）：¥5,800
+  - name: 1 日券（D 日程）
+    priceLines:
+    - 成人：¥7,000
+    - 中學生／高中生：¥6,500
+    - 兒童（小學生以下）：¥3,500
+    - 銀髮族（60 歲以上）：¥5,800
+  - name: 午後券（A 日程）
+    priceLines:
+    - 成人：¥3,000
+    - 中學生／高中生：¥2,500
+    - 兒童（小學生以下）：¥2,000
+    - 銀髮族（60 歲以上）：¥2,500
+    note: 11:30 開始販售，可使用兒童公園與雪地電扶梯。
+  - name: 午後券（B 日程）
+    priceLines:
+    - 成人：¥3,900
+    - 中學生／高中生：¥3,400
+    - 兒童（小學生以下）：¥2,000
+    - 銀髮族（60 歲以上）：¥2,500
+  - name: 午後券（C 日程）
+    priceLines:
+    - 成人：¥5,300
+    - 中學生／高中生：¥3,000
+    - 兒童（小學生以下）：¥2,500
+    - 銀髮族（60 歲以上）：¥4,800
+  - name: 午後券（D 日程）
+    priceLines:
+    - 成人：¥6,000
+    - 中學生／高中生：¥5,500
+    - 兒童（小學生以下）：¥2,500
+    - 銀髮族（60 歲以上）：¥4,800
+  - name: 回數券（10 回）
+    priceLines:
+    - 各年齡：¥4,500
+    note: D 日程不販售。
+  - name: 1 回券
+    priceLines:
+    - 各年齡：¥500
+    note: 搭乘四人纜車需扣除 2 回。
+  - name: 兒童公園／雪地電扶梯
+    priceLines:
+    - A／B 日程：¥1,500
+    - C／D 日程：¥2,000
+    note: 兒童公園內可免費借用雪橇。
 snowWeather:
   title: 奧伊吹雪況天氣
   provider: Weathernews
@@ -132,99 +214,6 @@ courses:
     maxSlope: 46°
     averageSlope: 43°
     note: 官方標示為最上級者向け的極陡雪道，降雪後也可享受粉雪滑行。
-terrainSummary:
-  beginner: 初級雪道以 ビギナーゲレンデ、ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 バラエティーコース、パラダイスコース、ダイナミックコース、アルペンコース 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 チャンピオンコース、テクニカルコース，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-externalContent:
-  blogs: []
-  vlogs:
-  - title: "全年150天可滑｜關西最熱門滑雪場奧伊吹超全攻略｜自駕滋賀滑雪一日遊｜也很適合親子同遊｜雪票租借美食看透透｜14條雪道｜日本友人聊滑雪"
-    url: https://www.youtube.com/watch?v=QB0FIiquvWg
-    note: LeoTW沈浸滑雪
-contact:
-  address:
-    zhTw: 滋賀縣米原市甲津原奥伊吹
-    ja: 〒521-0301 滋賀県米原市甲津原奥伊吹
-    googleMaps: https://maps.app.goo.gl/e5LGjDidMxB8jPRg8
-  phone: 0749-55-0123
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://www.okuibuki.co.jp/charge/
-  note: 官方票價依 A／B／C／D 日期分類；各票價另收 IC 卡押金 ¥500，還卡時可退還。中學生與高中生購票需出示學生證，60 歲以上需出示年齡證明。
-  plans:
-  - name: 1 日券（A 日程）
-    priceLines:
-    - 成人：¥4,000
-    - 中學生／高中生：¥3,500
-    - 兒童（小學生以下）：¥3,000
-    - 銀髮族（60 歲以上）：¥3,500
-    note: 可使用兒童公園與雪地電扶梯；家庭多人同行另有兒童票優惠。
-  - name: 1 日券（B 日程）
-    priceLines:
-    - 成人：¥4,900
-    - 中學生／高中生：¥4,400
-    - 兒童（小學生以下）：¥3,000
-    - 銀髮族（60 歲以上）：¥3,500
-  - name: 1 日券（C 日程）
-    priceLines:
-    - 成人：¥6,300
-    - 中學生／高中生：¥4,000
-    - 兒童（小學生以下）：¥3,500
-    - 銀髮族（60 歲以上）：¥5,800
-  - name: 1 日券（D 日程）
-    priceLines:
-    - 成人：¥7,000
-    - 中學生／高中生：¥6,500
-    - 兒童（小學生以下）：¥3,500
-    - 銀髮族（60 歲以上）：¥5,800
-  - name: 午後券（A 日程）
-    priceLines:
-    - 成人：¥3,000
-    - 中學生／高中生：¥2,500
-    - 兒童（小學生以下）：¥2,000
-    - 銀髮族（60 歲以上）：¥2,500
-    note: 11:30 開始販售，可使用兒童公園與雪地電扶梯。
-  - name: 午後券（B 日程）
-    priceLines:
-    - 成人：¥3,900
-    - 中學生／高中生：¥3,400
-    - 兒童（小學生以下）：¥2,000
-    - 銀髮族（60 歲以上）：¥2,500
-  - name: 午後券（C 日程）
-    priceLines:
-    - 成人：¥5,300
-    - 中學生／高中生：¥3,000
-    - 兒童（小學生以下）：¥2,500
-    - 銀髮族（60 歲以上）：¥4,800
-  - name: 午後券（D 日程）
-    priceLines:
-    - 成人：¥6,000
-    - 中學生／高中生：¥5,500
-    - 兒童（小學生以下）：¥2,500
-    - 銀髮族（60 歲以上）：¥4,800
-  - name: 回數券（10 回）
-    priceLines:
-    - 各年齡：¥4,500
-    note: D 日程不販售。
-  - name: 1 回券
-    priceLines:
-    - 各年齡：¥500
-    note: 搭乘四人纜車需扣除 2 回。
-  - name: 兒童公園／雪地電扶梯
-    priceLines:
-    - A／B 日程：¥1,500
-    - C／D 日程：¥2,000
-    note: 兒童公園內可免費借用雪橇。
-elevation:
-  top: 1250
-  bottom: 700
-  verticalDrop: 550
-location:
-  latitude: 35.521787483513336
-  longitude: 136.38674012569928
 lifts:
   total: 9
 access:
@@ -258,7 +247,18 @@ access:
     - label: 官方汽車與停車場資訊
       url: https://www.okuibuki.co.jp/access/
     - label: 官方電車與接駁車資訊
-      url: https://www.okuibuki.co.jp/access/public_transport/
+      url: https://www.okuibuki.co.jp/access/public_transport/terrainSummary:
+  beginner: 初級雪道以 ビギナーゲレンデ、ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 バラエティーコース、パラダイスコース、ダイナミックコース、アルペンコース 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 チャンピオンコース、テクニカルコース，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+externalContent:
+  blogs: []
+  vlogs:
+  - title: "全年150天可滑｜關西最熱門滑雪場奧伊吹超全攻略｜自駕滋賀滑雪一日遊｜也很適合親子同遊｜雪票租借美食看透透｜14條雪道｜日本友人聊滑雪"
+    url: https://www.youtube.com/watch?v=QB0FIiquvWg
+    note: LeoTW沈浸滑雪
+
 ---
 
 奧伊吹位於滋賀縣，是中型雪場，共有14 條雪道，搭配 9 座纜車。代表路線包含 ビギナーゲレンデ、ファミリーゲレンデ、バラエティーコース，初級、中級與上級路線都有配置；標籤上偏向親子同行、雙板與單板。

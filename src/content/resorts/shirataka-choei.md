@@ -6,6 +6,13 @@ name:
   en: Shirataka Municipal Ski Area
 region: tohoku
 prefecture: 山形縣
+location:
+  latitude: 38.23592847077882
+  longitude: 140.15458319695477
+elevation:
+  top: 617
+  bottom: 510
+  verticalDrop: 107
 tags:
   - beginner_friendly
   - family_friendly
@@ -41,13 +48,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 38.23592847077882
-  longitude: 140.15458319695477
-elevation:
-  top: 617
-  bottom: 510
-  verticalDrop: 107
 courses:
   total: 3
   beginnerRatio: 40

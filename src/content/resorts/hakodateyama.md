@@ -6,6 +6,13 @@ name:
   en: Hakodateyama Ski Resort
 region: kansai-chugoku
 prefecture: 滋賀縣
+location:
+  latitude: 35.427849
+  longitude: 135.995963
+elevation:
+  top: 690
+  bottom: 545
+  verticalDrop: 145
 tags:
 - large_ski_area
 - night_skiing
@@ -18,6 +25,12 @@ links:
   trailMapPage: https://www.hakodateyama.com/winter/about/
   weather: https://weathernews.jp/ski/spot/36007/
   googleMaps: https://maps.google.co.jp/maps?q=35.427849,135.995963
+contact:
+  address:
+    zhTw: 滋賀縣高島市今津町日置前
+    ja: 〒520-1655 滋賀県高島市今津町日置前
+    googleMaps: https://maps.google.co.jp/maps?q=35.427849,135.995963
+  phone: 0740-22-2486
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/03/15
@@ -30,6 +43,30 @@ trailMaps:
   season: 2025-2026
   url: https://www.hakodateyama.com/winter/about/
   sourceLabel: Hakodateyama Ski Resort Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/36007/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: リフト・ゴンドラセット1日券（土假日・年末年始）
+    priceLines:
+    - 成人 ¥5,500 兒童 ¥4,400 樂齡 ¥4,700
+  - name: リフト・ゴンドラセット1日券（平日）
+    priceLines:
+    - 成人 ¥4,800 兒童 ¥3,700 樂齡 ¥3,900
+  - name: リフト・ゴンドラセット午前・午後券（土假日・年末年始）
+    priceLines:
+    - 成人 ¥4,900 兒童 ¥3,900 樂齡 ¥4,200
+  - name: リフト・ゴンドラセット午前・午後券（平日）
+    priceLines:
+    - 成人 ¥4,300 兒童 ¥3,200 樂齡 ¥3,400
+  - name: リフト1回券
+    priceLines:
+    - 成人 ¥400 兒童 ¥400 樂齡 ¥400
+  - name: リフト11回券
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥4,000 樂齡 ¥4,000
 snowWeather:
   title: 箱館山雪況天氣
   provider: Weathernews
@@ -82,55 +119,18 @@ courses:
   beginnerRatio: 25
   intermediateRatio: 50
   advancedRatio: 25
-terrainSummary:
-  beginner: 初級雪道以 びわこビューコース、ヤッホーゲレンデ 初級 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 ヤッホーゲレンデ 中級、スリーバレー 1 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 スリーバレー 2、スリーバレー 3，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-contact:
-  address:
-    zhTw: 滋賀縣高島市今津町日置前
-    ja: 〒520-1655 滋賀県高島市今津町日置前
-    googleMaps: https://maps.google.co.jp/maps?q=35.427849,135.995963
-  phone: 0740-22-2486
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/36007/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: リフト・ゴンドラセット1日券（土假日・年末年始）
-    priceLines:
-    - 成人 ¥5,500 兒童 ¥4,400 樂齡 ¥4,700
-  - name: リフト・ゴンドラセット1日券（平日）
-    priceLines:
-    - 成人 ¥4,800 兒童 ¥3,700 樂齡 ¥3,900
-  - name: リフト・ゴンドラセット午前・午後券（土假日・年末年始）
-    priceLines:
-    - 成人 ¥4,900 兒童 ¥3,900 樂齡 ¥4,200
-  - name: リフト・ゴンドラセット午前・午後券（平日）
-    priceLines:
-    - 成人 ¥4,300 兒童 ¥3,200 樂齡 ¥3,400
-  - name: リフト1回券
-    priceLines:
-    - 成人 ¥400 兒童 ¥400 樂齡 ¥400
-  - name: リフト11回券
-    priceLines:
-    - 成人 ¥4,000 兒童 ¥4,000 樂齡 ¥4,000
-elevation:
-  top: 690
-  bottom: 545
-  verticalDrop: 145
-location:
-  latitude: 35.427849
-  longitude: 135.995963
 lifts:
   total: 5
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：湖西線近江今津駅下車 バスで (20分) 車 ：小牧IC→名神道→北陸道木之本IC→一般道 (108分) 車 ：吹田IC→名神道京都東IC→湖西道路、Ｒ161号線経由 (60分) 1100台 平日 1000円 假日 1000円
+    note: 交通資訊摘要：湖西線近江今津駅下車 バスで (20分) 車 ：小牧IC→名神道→北陸道木之本IC→一般道 (108分) 車 ：吹田IC→名神道京都東IC→湖西道路、Ｒ161号線経由 (60分) 1100台 平日 1000円 假日 1000円terrainSummary:
+  beginner: 初級雪道以 びわこビューコース、ヤッホーゲレンデ 初級 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 ヤッホーゲレンデ 中級、スリーバレー 1 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 スリーバレー 2、スリーバレー 3，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+
 ---
 
 箱館山位於滋賀縣，共有8 條雪道、5 座纜車，主體是可反覆換線的中型滑行配置。びわこビューコース、ヤッホーゲレンデ 初級能看出主雪道之間有明確分工。如果你想在雪道數、節奏變化與實際可滑效率之間取平衡，這類配置會很實用。

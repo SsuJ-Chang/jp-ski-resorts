@@ -7,6 +7,9 @@ name:
 region: hokkaido
 prefecture: 北海道
 skiArea: niseko
+location:
+  latitude: 42.8467
+  longitude: 140.6352
 tags:
 - powder
 - family_friendly
@@ -86,9 +89,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 42.8467
-  longitude: 140.6352
 courses:
   beginnerRatio: 23
   intermediateRatio: 46

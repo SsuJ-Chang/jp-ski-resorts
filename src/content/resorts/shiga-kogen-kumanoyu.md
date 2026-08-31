@@ -7,6 +7,9 @@ name:
 region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
+location:
+  latitude: 36.671
+  longitude: 138.533
 tags:
 - onsen
 - powder
@@ -64,9 +67,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 官方即時狀態頁提供各區天氣、積雪、纜車與雪道開放狀態；此資料不作為即時同步。
-location:
-  latitude: 36.671
-  longitude: 138.533
 courses:
   beginnerRatio: 40
   intermediateRatio: 40

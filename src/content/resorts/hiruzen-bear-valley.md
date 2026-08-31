@@ -6,6 +6,13 @@ name:
   en: Hiruzen Bear Valley
 region: kansai-chugoku
 prefecture: 岡山縣
+location:
+  latitude: 35.261237
+  longitude: 133.596342
+elevation:
+  top: 727
+  bottom: 591
+  verticalDrop: 136
 tags:
 - family_friendly
 - night_skiing
@@ -17,6 +24,12 @@ links:
   trailMapPage: https://bear-ski.amebaownd.com/
   weather: https://weathernews.jp/ski/spot/36607/
   googleMaps: https://maps.google.co.jp/maps?q=35.261237,133.596342
+contact:
+  address:
+    zhTw: 岡山縣真庭市蒜山本茅部644-105
+    ja: 〒717-0611 岡山県真庭市蒜山本茅部644-105
+    googleMaps: https://maps.google.co.jp/maps?q=35.261237,133.596342
+  phone: 0867-66-5333
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/27-2026/03/01
@@ -29,6 +42,30 @@ trailMaps:
   season: 2025-2026
   url: https://bear-ski.amebaownd.com/
   sourceLabel: Hiruzen Bear Valley Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/36607/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,500 兒童 ¥3,500 樂齡 ¥4,000
+  - name: 11回數券(11回)
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥4,000
+  - name: 季票
+    priceLines:
+    - 成人 ¥30,000 兒童 ¥20,000
+  - name: 上午券
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥2,500
+  - name: 下午券
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥2,500
+  - name: 夜滑券
+    priceLines:
+    - 成人 ¥3,000 兒童 ¥3,000
 snowWeather:
   title: 蒜山 Bear Valley雪況天氣
   provider: Weathernews
@@ -57,55 +94,18 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20
-terrainSummary:
-  beginner: 初級雪道以 ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 メインゲレンデ、夜滑ゲレンデ 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 チャレンジバーン，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-contact:
-  address:
-    zhTw: 岡山縣真庭市蒜山本茅部644-105
-    ja: 〒717-0611 岡山県真庭市蒜山本茅部644-105
-    googleMaps: https://maps.google.co.jp/maps?q=35.261237,133.596342
-  phone: 0867-66-5333
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/36607/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,500 兒童 ¥3,500 樂齡 ¥4,000
-  - name: 11回數券(11回)
-    priceLines:
-    - 成人 ¥4,000 兒童 ¥4,000
-  - name: 季票
-    priceLines:
-    - 成人 ¥30,000 兒童 ¥20,000
-  - name: 上午券
-    priceLines:
-    - 成人 ¥3,500 兒童 ¥2,500
-  - name: 下午券
-    priceLines:
-    - 成人 ¥3,500 兒童 ¥2,500
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥3,000 兒童 ¥3,000
-elevation:
-  top: 727
-  bottom: 591
-  verticalDrop: 136
-location:
-  latitude: 35.261237
-  longitude: 133.596342
 lifts:
   total: 2
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：伯備線江尾駅からタクシーで (30分) 車 ：米子自動車道蒜山ICより (5分) 車 ：岡山、倉敷から (70分) 飛行機：岡山空港から (70分) 500台 平日 免費 假日 夜滑時免費、他500円
+    note: 交通資訊摘要：伯備線江尾駅からタクシーで (30分) 車 ：米子自動車道蒜山ICより (5分) 車 ：岡山、倉敷から (70分) 飛行機：岡山空港から (70分) 500台 平日 免費 假日 夜滑時免費、他500円terrainSummary:
+  beginner: 初級雪道以 ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 メインゲレンデ、夜滑ゲレンデ 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 チャレンジバーン，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+
 ---
 
 蒜山 Bear Valley在岡山縣提供4 條雪道，搭配 2 座纜車。路線包含 ファミリーゲレンデ、メインゲレンデ、夜滑ゲレンデ，整體初級、中級與上級路線都有配置；標籤上偏向親子同行、夜滑。

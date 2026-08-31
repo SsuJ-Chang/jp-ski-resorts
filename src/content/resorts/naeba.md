@@ -7,6 +7,12 @@ name:
 region: kanto-koshinetsu
 prefecture: 新潟縣
 skiArea: yuzawa
+location:
+  latitude: 36.79550204571513
+  longitude: 138.78621190659032
+elevation:
+  top: 1789
+  bottom: 889
 tags:
 - family_friendly
 - large_ski_area
@@ -75,12 +81,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 36.79550204571513
-  longitude: 138.78621190659032
-elevation:
-  top: 1789
-  bottom: 889
 courses:
   total: 24
   beginnerRatio: 42
@@ -281,6 +281,12 @@ access:
     recommended: true
     snowTireRequired: true
     note: 可由關越自動車道月夜野 IC 經國道 17 號約 33km、約 50 分，或由湯澤 IC 經國道 17 號約 21km、約 30 分。停車場約 3,800 台，平日與假日收費不同。
+terrainSummary:
+  beginner: 飯店前、火打與筍平區域有多條初級雪道，適合家庭與住宿型行程練習。
+  intermediate: 大斜面、わくわく、筍山 Skyline 等中級路線提供較長滑行距離與不同區域串聯。
+  advanced: Splash Bowl、Riesen、Slalom、筍山等多條上級與非壓雪路線集中在山頂側。
+  snowboard: 官方資料列出苗場 Snow Park 位於第 5 高速纜車旁，適合想加入地形公園元素的行程。
+  powder: 山頂側部分上級路線官方註記為非壓雪，需留意雪況與安全警示。
 lodgingRecommendations:
 - title: 苗場王子大飯店 苗場プリンスホテル
   url: https://maps.app.goo.gl/SSa3gfVt1xRuMfaw7
@@ -325,12 +331,6 @@ externalContent:
   - title: 【日本東京🇯🇵】EP2 苗場滑雪場❄️｜新手自學單板滑雪全紀錄｜新手教新手能學得會嗎?｜苗場王子飯店♨️｜開箱房間 4號館｜Action4📸
     url: https://www.youtube.com/watch?v=hitoGk0kJl0
     note: 和Ivy去旅行
-terrainSummary:
-  beginner: 飯店前、火打與筍平區域有多條初級雪道，適合家庭與住宿型行程練習。
-  intermediate: 大斜面、わくわく、筍山 Skyline 等中級路線提供較長滑行距離與不同區域串聯。
-  advanced: Splash Bowl、Riesen、Slalom、筍山等多條上級與非壓雪路線集中在山頂側。
-  snowboard: 官方資料列出苗場 Snow Park 位於第 5 高速纜車旁，適合想加入地形公園元素的行程。
-  powder: 山頂側部分上級路線官方註記為非壓雪，需留意雪況與安全警示。
 externalGuide:
   title: 4,000 公尺長滑道與龍纜串起的雪季假期
   url: https://www.japowdb.com/zh-tw/resorts/naeba/

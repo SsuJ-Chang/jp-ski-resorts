@@ -6,6 +6,12 @@ name:
   en: Yakushi Ski Area
 region: kanto-koshinetsu
 prefecture: 新潟縣
+location:
+  latitude: 37.23493
+  longitude: 138.991344
+elevation:
+  top: 220
+  bottom: 100
 tags:
 - beginner_friendly
 - family_friendly
@@ -55,12 +61,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 37.23493
-  longitude: 138.991344
-elevation:
-  top: 220
-  bottom: 100
 courses:
   total: 3
   summary: 共 3 條雪道、1 座纜車，初級 25%、中級 50%、高級 25%。

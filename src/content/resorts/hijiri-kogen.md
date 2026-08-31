@@ -6,6 +6,12 @@ name:
   en: Hijiri Kogen Ski Area
 region: kanto-koshinetsu
 prefecture: 長野縣
+location:
+  latitude: 36.486952
+  longitude: 138.072268
+elevation:
+  top: 1131
+  bottom: 1000
 tags:
 - beginner_friendly
 - family_friendly
@@ -62,12 +68,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 36.486952
-  longitude: 138.072268
-elevation:
-  top: 1131
-  bottom: 1000
 courses:
   total: 3
   beginnerRatio: 40

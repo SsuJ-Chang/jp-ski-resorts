@@ -6,6 +6,13 @@ name:
   en: Dynasty Ski Resort
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 42.93165522196033
+  longitude: 141.4515285817858
+elevation:
+  top: 270
+  bottom: 170
+  verticalDrop: 100
 tags:
   - beginner_friendly
   - family_friendly
@@ -41,13 +48,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 42.93165522196033
-  longitude: 141.4515285817858
-elevation:
-  top: 270
-  bottom: 170
-  verticalDrop: 100
 courses:
   total: 5
   beginnerRatio: 50

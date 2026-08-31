@@ -6,6 +6,13 @@ name:
   en: Hiruzen Sled Paradise
 region: kansai-chugoku
 prefecture: 岡山縣
+location:
+  latitude: 35.290886
+  longitude: 133.635622
+elevation:
+  top: 521
+  bottom: 516
+  verticalDrop: 5
 tags:
   - beginner_friendly
   - family_friendly
@@ -36,13 +43,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 35.290886
-  longitude: 133.635622
-elevation:
-  top: 521
-  bottom: 516
-  verticalDrop: 5
 courses:
   total: 1
   courseInfoPage: https://www.hkcenter.co.jp/

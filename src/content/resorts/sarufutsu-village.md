@@ -6,6 +6,13 @@ name:
   en: Sarufutsu Village Ski Area
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 45.33705316304361
+  longitude: 142.10743925489473
+elevation:
+  top: 52
+  bottom: 10
+  verticalDrop: 42
 tags:
   - beginner_friendly
   - night_skiing
@@ -40,13 +47,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 45.33705316304361
-  longitude: 142.10743925489473
-elevation:
-  top: 52
-  bottom: 10
-  verticalDrop: 42
 courses:
   total: 1
   beginnerRatio: 100

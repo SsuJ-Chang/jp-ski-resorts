@@ -6,15 +6,18 @@ name:
   en: Ski Jam Katsuyama
 region: hokuriku
 prefecture: 福井縣
+location:
+  latitude: 36.0734315117931
+  longitude: 136.55560755767104
 tags:
 - large_ski_area
 - long_run
 - resort_village
 - snowboard_friendly
-homeRegionExample: true
 visibility:
   status: published
   note: 福井縣雪場，未歸入現有 skiArea enum；資料以縣別雪場清單與官方網站整理。
+homeRegionExample: true
 links:
   official: https://jamresort.jp/activity-white/
   facebook: https://www.facebook.com/jamresort.official
@@ -86,9 +89,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 36.0734315117931
-  longitude: 136.55560755767104
 courses:
   total: 12
   beginnerRatio: 30

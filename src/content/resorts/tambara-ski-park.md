@@ -6,6 +6,13 @@ name:
   en: Tambara Ski Park
 region: kanto-koshinetsu
 prefecture: 群馬縣
+location:
+  latitude: 36.778553
+  longitude: 139.072718
+elevation:
+  top: 1550
+  bottom: 1250
+  verticalDrop: 300
 tags:
 - family_friendly
 - large_ski_area
@@ -21,6 +28,12 @@ links:
   trailMapPage: https://www.tambara.co.jp/winter/course/
   weather: https://weathernews.jp/ski/spot/34209/
   googleMaps: https://maps.google.co.jp/maps?q=36.778553,139.072718
+contact:
+  address:
+    zhTw: 群馬縣沼田市玉原高原
+    ja: 〒378-0071 群馬県沼田市玉原高原
+    googleMaps: https://maps.google.co.jp/maps?q=36.778553,139.072718
+  phone: 0278-23-9311
 season:
   label: 2025-2026
   operatingPeriod: 2025/11/22-2026/05/06
@@ -33,6 +46,30 @@ trailMaps:
   season: 2025-2026
   url: https://www.tambara.co.jp/winter/course/
   sourceLabel: Tambara Ski Park Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/34209/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥5,200〜¥6,500 兒童 ¥3,700〜¥4,000 樂齡 ¥5,000〜¥6,200
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥1,000
+  - name: キッズ1日券（4歳以上の未就学）
+    priceLines:
+    - 兒童 ¥2,700
+  - name: 第1リフト専用1日券
+    priceLines:
+    - 成人 ¥4,400 兒童 ¥3,100 樂齡 ¥4,400
+  - name: 初滑り情報 11/29〜12/12止初滑り料金
+    priceLines:
+    - 成人¥5,000
+    - 樂齡¥4,800
+    - 小学生¥3,400
+    - キッズ¥2,500
 snowWeather:
   title: 玉原 Ski Park雪況天氣
   provider: Weathernews
@@ -97,56 +134,19 @@ courses:
   beginnerRatio: 35
   intermediateRatio: 45
   advancedRatio: 20
-terrainSummary:
-  beginner: 初級雪道以 G ファミリーコース、H マルチユースコース、E ウッディコース 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 F チャレンジコース、A センターコース、C レイクウッドコース、D フォレスターコース 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 B トライアルコース，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-  powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
-contact:
-  address:
-    zhTw: 群馬縣沼田市玉原高原
-    ja: 〒378-0071 群馬県沼田市玉原高原
-    googleMaps: https://maps.google.co.jp/maps?q=36.778553,139.072718
-  phone: 0278-23-9311
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/34209/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,200〜¥6,500 兒童 ¥3,700〜¥4,000 樂齡 ¥5,000〜¥6,200
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥1,000
-  - name: キッズ1日券（4歳以上の未就学）
-    priceLines:
-    - 兒童 ¥2,700
-  - name: 第1リフト専用1日券
-    priceLines:
-    - 成人 ¥4,400 兒童 ¥3,100 樂齡 ¥4,400
-  - name: 初滑り情報 11/29〜12/12止初滑り料金
-    priceLines:
-    - 成人¥5,000
-    - 樂齡¥4,800
-    - 小学生¥3,400
-    - キッズ¥2,500
-elevation:
-  top: 1550
-  bottom: 1250
-  verticalDrop: 300
-location:
-  latitude: 36.778553
-  longitude: 139.072718
 lifts:
   total: 6
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：上越新幹線上毛高原駅下車、タクシー (50分) 電車 ：JR上越線沼田駅下車、免費送迎バス【要予約】 (60分) 車 ：前橋IC→沼田IC→たんばらスキーパーク (50分) 車 ：練馬IC→沼田IC→たんばらスキーパーク (120分) 2000台 平日 免費 假日 1000円
+    note: 交通資訊摘要：上越新幹線上毛高原駅下車、タクシー (50分) 電車 ：JR上越線沼田駅下車、免費送迎バス【要予約】 (60分) 車 ：前橋IC→沼田IC→たんばらスキーパーク (50分) 車 ：練馬IC→沼田IC→たんばらスキーパーク (120分) 2000台 平日 免費 假日 1000円terrainSummary:
+  beginner: 初級雪道以 G ファミリーコース、H マルチユースコース、E ウッディコース 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 F チャレンジコース、A センターコース、C レイクウッドコース、D フォレスターコース 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 B トライアルコース，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+  powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
+
 ---
 
 玉原 Ski Park位於群馬縣，以8 條雪道形成中小型雪場規模，搭配 6 座纜車。主要路線有 G ファミリーコース、H マルチユースコース、E ウッディコース，初級、中級與上級路線都有配置；標籤上偏向親子同行、夜滑。

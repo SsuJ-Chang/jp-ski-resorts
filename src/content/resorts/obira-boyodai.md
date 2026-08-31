@@ -6,6 +6,13 @@ name:
   en: Obira Boyodai Ski Area
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 44.02503641748966
+  longitude: 141.6744669818289
+elevation:
+  top: 127
+  bottom: 15
+  verticalDrop: 112
 tags:
   - night_skiing
   - no_car_accessible
@@ -39,13 +46,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 44.02503641748966
-  longitude: 141.6744669818289
-elevation:
-  top: 127
-  bottom: 15
-  verticalDrop: 112
 courses:
   total: 4
   beginnerRatio: 30

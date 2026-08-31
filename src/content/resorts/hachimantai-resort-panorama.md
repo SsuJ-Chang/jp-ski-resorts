@@ -6,6 +6,13 @@ name:
   en: Hachimantai Resort Panorama Ski Area
 region: tohoku
 prefecture: 岩手縣
+location:
+  latitude: 39.89456923914251
+  longitude: 140.97540285767104
+elevation:
+  top: 1000
+  bottom: 540
+  verticalDrop: 460
 tags:
   - beginner_friendly
   - family_friendly
@@ -39,13 +46,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或最新雪況資訊為準。
-location:
-  latitude: 39.89456923914251
-  longitude: 140.97540285767104
-elevation:
-  top: 1000
-  bottom: 540
-  verticalDrop: 460
 courses:
   total: 7
   beginnerRatio: 70

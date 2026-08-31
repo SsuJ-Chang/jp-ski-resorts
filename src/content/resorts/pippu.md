@@ -6,6 +6,12 @@ name:
   en: Pippu Ski Resort
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 43.93329969586639
+  longitude: 142.49984162883553
+elevation:
+  top: 580
+  bottom: 240
 tags:
 - beginner_friendly
 - family_friendly
@@ -69,12 +75,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 43.93329969586639
-  longitude: 142.49984162883553
-elevation:
-  top: 580
-  bottom: 240
 courses:
   total: 9
   beginnerRatio: 30

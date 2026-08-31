@@ -6,6 +6,13 @@ name:
   en: Palcall Tsumagoi Resort
 region: kanto-koshinetsu
 prefecture: 群馬縣
+location:
+  latitude: 36.55595137322342
+  longitude: 138.46395923922663
+elevation:
+  top: 2100
+  bottom: 1430
+  verticalDrop: 670
 tags:
 - beginner_friendly
 - family_friendly
@@ -24,6 +31,12 @@ links:
   trailMapPage: https://tsumagoiskiresort.life/course-guide/
   weather: https://weathernews.jp/ski/spot/34213/
   googleMaps: https://maps.app.goo.gl/6uFyVqFW3pcEZw2R8
+contact:
+  address:
+    zhTw: 群馬縣吾妻郡嬬恋村干俣バラギ高原
+    ja: 〒377-1611 群馬県吾妻郡嬬恋村干俣バラギ高原
+    googleMaps: https://maps.app.goo.gl/6uFyVqFW3pcEZw2R8
+  phone: 0279-96-1177
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/15-2026/04/05
@@ -36,6 +49,17 @@ trailMaps:
   season: 2025-2026
   url: https://tsumagoiskiresort.life/course-guide/
   sourceLabel: Palcall Tsumagoi Resort Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://tsumagoiskiresort.life/lifttickets/
+  note: 只整理 1 日券分頁內容；其他票種未收錄。
+  plans:
+  - name: 1日券（全日）
+    priceLines:
+    - 成人 ¥6,500 / 兒童 ¥3,000
+    - 網路優惠：成人 ¥5,500 / 兒童 ¥2,500
+    note: 12/20(六) - 4/5(日) 8:00 - 16:00；IC 卡發行費已包含。若持有事前註冊的 IC 卡，通常價可再折 500 日圓。可使用全雪場的纜車與吊椅；未就學兒童在高校生以上監護人同行下最多 2 名免費，身心障礙手冊可享定價 5 折。各項折扣不可併用。
 snowWeather:
   title: Palcall 嬬戀 Resort雪況天氣
   provider: Weathernews
@@ -65,35 +89,6 @@ courses:
   beginnerRatio: 62
   intermediateRatio: 33
   advancedRatio: 5
-terrainSummary:
-  beginner: 嬬戀區的長距離路線與巴ラギ區的寬幅緩坡，都很適合從轉彎、控速與穩定連續滑行開始練習。
-  intermediate: 官方主打的初級到中級連續滑行很強，能把多段坡面串成長距離巡航，是這座雪場最有特色的滑法之一。
-  advanced: D-1 是少數需要特別注意的進階路線；其餘主體仍以初級到中級為主。
-  snowboard: 雪板使用者可以把兩大區域都當成巡航雪場來滑，寬幅坡面與長距離串接感很友善。
-contact:
-  address:
-    zhTw: 群馬縣吾妻郡嬬恋村干俣バラギ高原
-    ja: 〒377-1611 群馬県吾妻郡嬬恋村干俣バラギ高原
-    googleMaps: https://maps.app.goo.gl/6uFyVqFW3pcEZw2R8
-  phone: 0279-96-1177
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://tsumagoiskiresort.life/lifttickets/
-  note: 只整理 1 日券分頁內容；其他票種未收錄。
-  plans:
-  - name: 1日券（全日）
-    priceLines:
-    - 成人 ¥6,500 / 兒童 ¥3,000
-    - 網路優惠：成人 ¥5,500 / 兒童 ¥2,500
-    note: 12/20(六) - 4/5(日) 8:00 - 16:00；IC 卡發行費已包含。若持有事前註冊的 IC 卡，通常價可再折 500 日圓。可使用全雪場的纜車與吊椅；未就學兒童在高校生以上監護人同行下最多 2 名免費，身心障礙手冊可享定價 5 折。各項折扣不可併用。
-location:
-  latitude: 36.55595137322342
-  longitude: 138.46395923922663
-elevation:
-  top: 2100
-  bottom: 1430
-  verticalDrop: 670
 lifts:
   total: 5
 access:
@@ -112,6 +107,11 @@ access:
     recommended: true
     snowTireRequired: true
     note: 冬季的パノラマライン南、北路都會封閉，請從國道144號線西部小學方向前往バラギ高原；全日免費停車。
+terrainSummary:
+  beginner: 嬬戀區的長距離路線與巴ラギ區的寬幅緩坡，都很適合從轉彎、控速與穩定連續滑行開始練習。
+  intermediate: 官方主打的初級到中級連續滑行很強，能把多段坡面串成長距離巡航，是這座雪場最有特色的滑法之一。
+  advanced: D-1 是少數需要特別注意的進階路線；其餘主體仍以初級到中級為主。
+  snowboard: 雪板使用者可以把兩大區域都當成巡航雪場來滑，寬幅坡面與長距離串接感很友善。
 externalContent:
   blogs: []
   vlogs:

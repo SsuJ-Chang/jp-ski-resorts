@@ -6,6 +6,13 @@ name:
   en: Chikusa Kogen Ski Resort
 region: kansai-chugoku
 prefecture: 兵庫縣
+location:
+  latitude: 35.220969
+  longitude: 134.389448
+elevation:
+  top: 1125
+  bottom: 900
+  verticalDrop: 225
 tags:
 - beginner_friendly
 - family_friendly
@@ -19,6 +26,12 @@ links:
   trailMapPage: https://www.chikusakogen.com/gelande/
   weather: https://weathernews.jp/ski/spot/36304/
   googleMaps: https://maps.google.co.jp/maps?q=35.220969,134.389448
+contact:
+  address:
+    zhTw: 兵庫縣宍粟市千種町西河内1047-218
+    ja: 〒671-3233 兵庫県宍粟市千種町西河内1047-218
+    googleMaps: https://maps.google.co.jp/maps?q=35.220969,134.389448
+  phone: 0790-76-3555
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/14-2026/03/29
@@ -31,6 +44,30 @@ trailMaps:
   season: 2025-2026
   url: https://www.chikusakogen.com/gelande/
   sourceLabel: Chikusa Kogen Ski Resort Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/36304/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,500 兒童 ¥3,500 樂齡 ¥4,000
+  - name: 6 小時券
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥3,000 樂齡 ¥3,500
+  - name: 4 小時券
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥2,500 樂齡 ¥3,000
+  - name: 夜滑券
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥3,000 樂齡 ¥3,300
+  - name: 1日券＋夜滑
+    priceLines:
+    - 成人 ¥7,000 兒童 ¥6,000 樂齡 ¥6,500
+  - name: 午後夜滑
+    priceLines:
+    - 成人 ¥6,000 兒童 ¥5,000 樂齡 ¥5,500
 snowWeather:
   title: 千種高原雪況天氣
   provider: Weathernews
@@ -68,55 +105,18 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20
-terrainSummary:
-  beginner: 初級雪道以 メルヘンコース、パノラマコース（第3リフト下部） 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 ダイナミックコース（第1リフト下部）、クィーンコース、クリスタルコース 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 ダイナミックコース（上部）、パノラマコース（上部），請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-contact:
-  address:
-    zhTw: 兵庫縣宍粟市千種町西河内1047-218
-    ja: 〒671-3233 兵庫県宍粟市千種町西河内1047-218
-    googleMaps: https://maps.google.co.jp/maps?q=35.220969,134.389448
-  phone: 0790-76-3555
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/36304/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,500 兒童 ¥3,500 樂齡 ¥4,000
-  - name: 6 小時券
-    priceLines:
-    - 成人 ¥4,000 兒童 ¥3,000 樂齡 ¥3,500
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥3,500 兒童 ¥2,500 樂齡 ¥3,000
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥3,500 兒童 ¥3,000 樂齡 ¥3,300
-  - name: 1日券＋夜滑
-    priceLines:
-    - 成人 ¥7,000 兒童 ¥6,000 樂齡 ¥6,500
-  - name: 午後夜滑
-    priceLines:
-    - 成人 ¥6,000 兒童 ¥5,000 樂齡 ¥5,500
-elevation:
-  top: 1125
-  bottom: 900
-  verticalDrop: 225
-location:
-  latitude: 35.220969
-  longitude: 134.389448
 lifts:
   total: 3
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：中国自動車道山崎ICから (60分) 車 ：中国自動車道佐用ICから (60分) 1000台 平日 免費 假日 1000円
+    note: 交通資訊摘要：中国自動車道山崎ICから (60分) 車 ：中国自動車道佐用ICから (60分) 1000台 平日 免費 假日 1000円terrainSummary:
+  beginner: 初級雪道以 メルヘンコース、パノラマコース（第3リフト下部） 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 ダイナミックコース（第1リフト下部）、クィーンコース、クリスタルコース 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 ダイナミックコース（上部）、パノラマコース（上部），請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+
 ---
 
 千種高原同時適合雙板與單板玩家，雪場設有兒童樂園與初學者容易使用的山腳緩坡，也有山頂附近的特色地形與最大 31 度的挑戰性坡面。整體配置從親子玩雪、初級練習到進階挑戰都有照顧，是一座小而完整的家庭型雪場。

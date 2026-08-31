@@ -6,6 +6,13 @@ name:
   en: Yokone Ski Area
 region: tohoku
 prefecture: 山形縣
+location:
+  latitude: 38.07071324400001
+  longitude: 139.7310857257846
+elevation:
+  top: 279
+  bottom: 140
+  verticalDrop: 139
 tags:
   - night_skiing
   - no_car_accessible
@@ -40,13 +47,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 38.07071324400001
-  longitude: 139.7310857257846
-elevation:
-  top: 279
-  bottom: 140
-  verticalDrop: 139
 courses:
   total: 1
   beginnerRatio: 0

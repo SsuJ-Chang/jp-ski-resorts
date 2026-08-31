@@ -6,6 +6,9 @@ name:
   en: Gassan Ski Resort
 region: tohoku
 prefecture: 山形縣
+location:
+  latitude: 38.51897948012287
+  longitude: 140.00660722580025
 tags:
 - onsen
 - snowboard_friendly
@@ -81,9 +84,6 @@ snowWeather:
   updatedAt: 2026/6/19 03:00:00
   forecast: []
   note: 此區塊僅保留官方雪況與纜車狀態頁連結；實際積雪、天氣、纜車與開放區域請以出發當日官方公告為準。
-location:
-  latitude: 38.51897948012287
-  longitude: 140.00660722580025
 courses:
   beginnerRatio: 0
   intermediateRatio: 0

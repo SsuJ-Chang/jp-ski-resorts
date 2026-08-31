@@ -6,6 +6,12 @@ name:
   en: Shinshu Matsumoto Nomugitoge Ski Area
 region: kanto-koshinetsu
 prefecture: 長野縣
+location:
+  latitude: 36.048474
+  longitude: 137.70954
+elevation:
+  top: 2130
+  bottom: 1400
 tags:
 - large_ski_area
 - powder
@@ -64,12 +70,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 36.048474
-  longitude: 137.70954
-elevation:
-  top: 2130
-  bottom: 1400
 courses:
   total: 12
   beginnerRatio: 30

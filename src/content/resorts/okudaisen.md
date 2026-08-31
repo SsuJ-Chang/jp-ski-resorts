@@ -6,6 +6,13 @@ name:
   en: Kyukamura Oku-Daisen Ski Area
 region: kansai-chugoku
 prefecture: 鳥取縣
+location:
+  latitude: 35.352
+  longitude: 133.532
+elevation:
+  top: 960
+  bottom: 920
+  verticalDrop: 40
 tags:
 - beginner_friendly
 - family_friendly
@@ -70,13 +77,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 35.352
-  longitude: 133.532
-elevation:
-  top: 960
-  bottom: 920
-  verticalDrop: 40
 courses:
   total: 3
   beginnerRatio: 60

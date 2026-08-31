@@ -6,6 +6,13 @@ name:
   en: Spring Valley Sendai Izumi Ski Area
 region: tohoku
 prefecture: 宮城縣
+location:
+  latitude: 38.418941090328985
+  longitude: 140.7230349969611
+elevation:
+  top: 959
+  bottom: 687
+  verticalDrop: 272
 tags:
   - family_friendly
   - large_ski_area
@@ -43,13 +50,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 38.418941090328985
-  longitude: 140.7230349969611
-elevation:
-  top: 959
-  bottom: 687
-  verticalDrop: 272
 courses:
   total: 12
   beginnerRatio: 25

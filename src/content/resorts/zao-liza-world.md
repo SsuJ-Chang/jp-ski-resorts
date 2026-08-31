@@ -6,6 +6,13 @@ name:
   en: Zao Liza World
 region: tohoku
 prefecture: 山形縣
+location:
+  latitude: 38.12411750144298
+  longitude: 140.4053005998716
+elevation:
+  top: 1446
+  bottom: 1060
+  verticalDrop: 386
 tags:
   - family_friendly
   - no_car_accessible
@@ -39,13 +46,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 38.12411750144298
-  longitude: 140.4053005998716
-elevation:
-  top: 1446
-  bottom: 1060
-  verticalDrop: 386
 courses:
   total: 6
   beginnerRatio: 33

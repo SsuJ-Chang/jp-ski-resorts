@@ -6,6 +6,13 @@ name:
   en: Hachimantai City Tayama Ski Area
 region: tohoku
 prefecture: 岩手縣
+location:
+  latitude: 40.134812346711065
+  longitude: 140.9518303288355
+elevation:
+  top: 585
+  bottom: 315
+  verticalDrop: 270
 tags:
   - snowboard_friendly
 visibility:
@@ -35,13 +42,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 40.134812346711065
-  longitude: 140.9518303288355
-elevation:
-  top: 585
-  bottom: 315
-  verticalDrop: 270
 courses:
   total: 2
   beginnerRatio: 20

@@ -7,6 +7,13 @@ name:
 region: tohoku
 prefecture: 福島縣
 skiArea: bandaisan
+location:
+  latitude: 37.5754203569116
+  longitude: 140.09463137791073
+elevation:
+  top: 1255
+  bottom: 675
+  verticalDrop: 580
 tags:
 - beginner_friendly
 - family_friendly
@@ -78,13 +85,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 37.5754203569116
-  longitude: 140.09463137791073
-elevation:
-  top: 1255
-  bottom: 675
-  verticalDrop: 580
 courses:
   total: 18
   beginnerRatio: 50

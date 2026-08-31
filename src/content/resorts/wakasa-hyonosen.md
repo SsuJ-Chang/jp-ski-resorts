@@ -6,6 +6,13 @@ name:
   en: Wakasa Hyounosen Ski Area
 region: kansai-chugoku
 prefecture: 鳥取縣
+location:
+  latitude: 35.33998
+  longitude: 134.4941
+elevation:
+  top: 1200
+  bottom: 770
+  verticalDrop: 430
 tags:
 - family_friendly
 - night_skiing
@@ -16,6 +23,12 @@ links:
   trailMapPage: http://www.hyounosen.or.jp/ski/index.html
   weather: https://weathernews.jp/ski/spot/36805/
   googleMaps: https://maps.google.co.jp/maps?q=35.33998,134.49410
+contact:
+  address:
+    zhTw: 鳥取縣八頭郡若桜町舂米
+    ja: 〒680-0728 鳥取県八頭郡若桜町舂米
+    googleMaps: https://maps.google.co.jp/maps?q=35.33998,134.49410
+  phone: 0858-82-0512
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/27-2026/03/22
@@ -28,6 +41,30 @@ trailMaps:
   season: 2025-2026
   url: http://www.hyounosen.or.jp/ski/index.html
   sourceLabel: Wakasa Hyounosen Ski Area Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/36805/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,500
+  - name: 上午券
+    priceLines:
+    - 成人 ¥3,000 兒童 ¥1,500
+  - name: 下午券
+    priceLines:
+    - 成人 ¥3,000 兒童 ¥1,500
+  - name: 回數券(11回)
+    priceLines:
+    - 成人 ¥3,000
+  - name: 季票
+    priceLines:
+    - 成人 ¥40,000 兒童 ¥25,000 樂齡 ¥35,000
+  - name: 票券
+    priceLines:
+    - 樂齡券（６０歳以上） 成人 ¥3,500
 snowWeather:
   title: 若櫻冰之山雪況天氣
   provider: Weathernews
@@ -71,55 +108,18 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20
-terrainSummary:
-  beginner: 初級雪道以 ロマンスコース 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 アルパインコース、パノラマコース 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 イヌワシコース、チャレンジコース，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-contact:
-  address:
-    zhTw: 鳥取縣八頭郡若桜町舂米
-    ja: 〒680-0728 鳥取県八頭郡若桜町舂米
-    googleMaps: https://maps.google.co.jp/maps?q=35.33998,134.49410
-  phone: 0858-82-0512
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/36805/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,500
-  - name: 上午券
-    priceLines:
-    - 成人 ¥3,000 兒童 ¥1,500
-  - name: 下午券
-    priceLines:
-    - 成人 ¥3,000 兒童 ¥1,500
-  - name: 回數券(11回)
-    priceLines:
-    - 成人 ¥3,000
-  - name: 季票
-    priceLines:
-    - 成人 ¥40,000 兒童 ¥25,000 樂齡 ¥35,000
-  - name: 票券
-    priceLines:
-    - 樂齡券（６０歳以上） 成人 ¥3,500
-elevation:
-  top: 1200
-  bottom: 770
-  verticalDrop: 430
-location:
-  latitude: 35.33998
-  longitude: 134.4941
 lifts:
   total: 5
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：若桜鉄道若桜駅より車で (20分) 車 ：中国山崎IC→R29→R482→わかさ氷ノ山 (70km) (100分) 車 ：津山IC→R29→R53→R482→わかさ氷ノ山 (88km) (120分) 870台 平日 免費 假日 600円
+    note: 交通資訊摘要：若桜鉄道若桜駅より車で (20分) 車 ：中国山崎IC→R29→R482→わかさ氷ノ山 (70km) (100分) 車 ：津山IC→R29→R53→R482→わかさ氷ノ山 (88km) (120分) 870台 平日 免費 假日 600円terrainSummary:
+  beginner: 初級雪道以 ロマンスコース 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 アルパインコース、パノラマコース 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 イヌワシコース、チャレンジコース，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+
 ---
 
 若櫻冰之山位在鳥取縣，滑行區由5 條雪道，搭配 5 座纜車構成。ロマンスコース、アルパインコース、パノラマコース 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向親子同行、夜滑。

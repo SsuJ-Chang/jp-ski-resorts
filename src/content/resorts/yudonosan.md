@@ -6,6 +6,13 @@ name:
   en: Yudonosan Ski Resort
 region: tohoku
 prefecture: 山形縣
+location:
+  latitude: 38.572149605971404
+  longitude: 139.94188121349342
+elevation:
+  top: 700
+  bottom: 530
+  verticalDrop: 170
 tags:
   - family_friendly
   - powder
@@ -39,13 +46,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 38.572149605971404
-  longitude: 139.94188121349342
-elevation:
-  top: 700
-  bottom: 530
-  verticalDrop: 170
 courses:
   total: 7
   beginnerRatio: 30

@@ -6,6 +6,12 @@ name:
   en: Takeshi Banshogahara Ski Area
 region: kanto-koshinetsu
 prefecture: 長野縣
+location:
+  latitude: 36.260181
+  longitude: 138.112492
+elevation:
+  top: 1500
+  bottom: 1300
 tags:
 - beginner_friendly
 - family_friendly
@@ -61,12 +67,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 36.260181
-  longitude: 138.112492
-elevation:
-  top: 1500
-  bottom: 1300
 courses:
   total: 3
   beginnerRatio: 40

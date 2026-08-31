@@ -6,6 +6,13 @@ name:
   en: Akabane Ski Area
 region: tohoku
 prefecture: 岩手縣
+location:
+  latitude: 39.24770547485283
+  longitude: 141.59657865767105
+elevation:
+  top: 650
+  bottom: 535
+  verticalDrop: 115
 tags:
 - beginner_friendly
 - night_skiing
@@ -66,13 +73,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 39.24770547485283
-  longitude: 141.59657865767105
-elevation:
-  top: 650
-  bottom: 535
-  verticalDrop: 115
 courses:
   total: 3
   beginnerRatio: 34

@@ -6,6 +6,13 @@ name:
   en: Kurobushi Kogen Snow Park Jungle Jungle
 region: tohoku
 prefecture: 山形縣
+location:
+  latitude: 38.439505445997405
+  longitude: 140.5387327816198
+elevation:
+  top: 1030
+  bottom: 700
+  verticalDrop: 330
 tags:
   - family_friendly
   - night_skiing
@@ -43,13 +50,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 38.439505445997405
-  longitude: 140.5387327816198
-elevation:
-  top: 1030
-  bottom: 700
-  verticalDrop: 330
 courses:
   total: 5
   beginnerRatio: 30

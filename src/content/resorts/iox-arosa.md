@@ -6,6 +6,9 @@ name:
   en: IOX-AROSA
 region: hokuriku
 prefecture: 富山縣
+location:
+  latitude: 36.51464624510804
+  longitude: 136.8234150288355
 tags:
 - night_skiing
 - snowboard_friendly
@@ -51,9 +54,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 36.51464624510804
-  longitude: 136.8234150288355
 courses:
   total: 7
   beginnerRatio: 30

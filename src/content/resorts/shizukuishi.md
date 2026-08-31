@@ -6,6 +6,13 @@ name:
   en: Shizukuishi Ski Resort
 region: tohoku
 prefecture: 岩手縣
+location:
+  latitude: 39.773841803792344
+  longitude: 140.92432377116447
+elevation:
+  top: 1145
+  bottom: 428
+  verticalDrop: 717
 tags:
   - family_friendly
   - large_ski_area
@@ -37,13 +44,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 39.773841803792344
-  longitude: 140.92432377116447
-elevation:
-  top: 1145
-  bottom: 428
-  verticalDrop: 717
 courses:
   total: 20
   beginnerRatio: 30

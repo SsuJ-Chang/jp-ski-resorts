@@ -6,6 +6,13 @@ name:
   en: Suisyozan Family Ski Area
 region: tohoku
 prefecture: 秋田縣
+location:
+  latitude: 40.17752791883473
+  longitude: 140.76389668353067
+elevation:
+  top: 476
+  bottom: 265
+  verticalDrop: 211
 tags:
   - beginner_friendly
   - night_skiing
@@ -40,13 +47,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 40.17752791883473
-  longitude: 140.76389668353067
-elevation:
-  top: 476
-  bottom: 265
-  verticalDrop: 211
 courses:
   total: 5
   beginnerRatio: 50

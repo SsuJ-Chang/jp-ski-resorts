@@ -7,6 +7,13 @@ name:
   en: Geto Kogen Ski Resort
 region: tohoku
 prefecture: 岩手縣
+location:
+  latitude: 39.23679495307127
+  longitude: 140.9062501711645
+elevation:
+  top: 1070
+  bottom: 640
+  verticalDrop: 430
 tags:
   - large_ski_area
   - powder
@@ -134,13 +141,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 39.23679495307127
-  longitude: 140.9062501711645
-elevation:
-  top: 1070
-  bottom: 640
-  verticalDrop: 430
 courses:
   total: 14
   beginnerRatio: 30

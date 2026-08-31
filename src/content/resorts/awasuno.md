@@ -6,6 +6,9 @@ name:
   en: Awasuno Ski Area
 region: hokuriku
 prefecture: 富山縣
+location:
+  latitude: 36.57615114792148
+  longitude: 137.44057013922725
 tags:
 - family_friendly
 - snowboard_friendly
@@ -49,9 +52,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 36.57615114792148
-  longitude: 137.44057013922725
 courses:
   total: 6
   beginnerRatio: 35

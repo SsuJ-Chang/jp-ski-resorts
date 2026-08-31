@@ -6,6 +6,13 @@ name:
   en: Takino Snow World Family Ski Resort
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 42.91688027177573
+  longitude: 141.38860955110104
+elevation:
+  top: 280
+  bottom: 250
+  verticalDrop: 30
 tags:
   - family_friendly
   - no_car_accessible
@@ -41,13 +48,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 42.91688027177573
-  longitude: 141.38860955110104
-elevation:
-  top: 280
-  bottom: 250
-  verticalDrop: 30
 courses:
   total: 1
   beginnerRatio: 0

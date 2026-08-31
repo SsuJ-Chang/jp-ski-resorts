@@ -7,6 +7,19 @@ name:
 region: kanto-koshinetsu
 prefecture: 新潟縣
 skiArea: yuzawa
+location:
+  latitude: 36.95090492732642
+  longitude: 138.79961670859637
+mapDisplay:
+  showOnRegionGuide: true
+  labelPriority: 2
+  approximatePosition:
+    x: 46
+    y: 53
+elevation:
+  top: 1181
+  bottom: 358
+  verticalDrop: 823
 tags:
 - beginner_friendly
 - family_friendly
@@ -90,19 +103,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣為靜態展示資料，出發前請確認當季營運公告與最新天氣資訊。
-location:
-  latitude: 36.95090492732642
-  longitude: 138.79961670859637
-mapDisplay:
-  showOnRegionGuide: true
-  labelPriority: 2
-  approximatePosition:
-    x: 46
-    y: 53
-elevation:
-  top: 1181
-  bottom: 358
-  verticalDrop: 823
 courses:
   total: 16
   beginnerRatio: 35

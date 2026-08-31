@@ -6,6 +6,13 @@ name:
   en: Hiraniwa Kogen Ski Area
 region: tohoku
 prefecture: 岩手縣
+location:
+  latitude: 40.08303386226915
+  longitude: 141.50304054232896
+elevation:
+  top: 910
+  bottom: 700
+  verticalDrop: 210
 tags:
   - beginner_friendly
   - snowboard_friendly
@@ -36,13 +43,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 40.08303386226915
-  longitude: 141.50304054232896
-elevation:
-  top: 910
-  bottom: 700
-  verticalDrop: 210
 courses:
   total: 10
   beginnerRatio: 50

@@ -6,6 +6,13 @@ name:
   en: Town-operated Yuda Ski Area
 region: tohoku
 prefecture: 岩手縣
+location:
+  latitude: 39.35829130341502
+  longitude: 140.7822769877058
+elevation:
+  top: 457
+  bottom: 265
+  verticalDrop: 192
 tags:
   - beginner_friendly
   - snowboard_friendly
@@ -36,13 +43,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 39.35829130341502
-  longitude: 140.7822769877058
-elevation:
-  top: 457
-  bottom: 265
-  verticalDrop: 192
 courses:
   total: 1
   beginnerRatio: 40

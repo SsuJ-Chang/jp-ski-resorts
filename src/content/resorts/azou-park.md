@@ -6,6 +6,13 @@ name:
   en: Azou Park Ski Area
 region: kansai-chugoku
 prefecture: 鳥取縣
+location:
+  latitude: 35.405842
+  longitude: 134.064231
+elevation:
+  top: 300
+  bottom: 200
+  verticalDrop: 100
 tags:
 - beginner_friendly
 - family_friendly
@@ -52,13 +59,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 35.405842
-  longitude: 134.064231
-elevation:
-  top: 300
-  bottom: 200
-  verticalDrop: 100
 courses:
   total: 1
   courseInfoPage: https://azou-forest-park.com/facility#leisure

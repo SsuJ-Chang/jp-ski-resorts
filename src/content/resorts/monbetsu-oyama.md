@@ -6,6 +6,13 @@ name:
   en: Monbetsu Municipal Oyama Ski Area
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 44.3481169331981
+  longitude: 143.33250846834827
+elevation:
+  top: 333
+  bottom: 30
+  verticalDrop: 303
 tags:
   - beginner_friendly
   - family_friendly
@@ -39,13 +46,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 44.3481169331981
-  longitude: 143.33250846834827
-elevation:
-  top: 333
-  bottom: 30
-  verticalDrop: 303
 courses:
   total: 4
   beginnerRatio: 40

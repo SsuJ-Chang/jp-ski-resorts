@@ -6,6 +6,13 @@ name:
   en: Manza Onsen Ski Resort
 region: kanto-koshinetsu
 prefecture: 群馬縣
+location:
+  latitude: 36.635703
+  longitude: 138.506178
+elevation:
+  top: 1990
+  bottom: 1654
+  verticalDrop: 336
 tags:
 - beginner_friendly
 - family_friendly
@@ -22,6 +29,12 @@ links:
   trailMapPage: https://www.princehotels.co.jp/ski/manza/winter/coursemap/
   weather: https://weathernews.jp/ski/spot/34203/
   googleMaps: https://maps.google.co.jp/maps?q=36.635703,138.506178
+contact:
+  address:
+    zhTw: 群馬縣吾妻郡嬬恋村万座温泉
+    ja: 〒377-1528 群馬県吾妻郡嬬恋村万座温泉
+    googleMaps: https://maps.google.co.jp/maps?q=36.635703,138.506178
+  phone: 0279-97-3117
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/03/22
@@ -34,6 +47,18 @@ trailMaps:
   season: 2025-2026
   url: https://www.princehotels.co.jp/ski/manza/winter/coursemap/
   sourceLabel: Manza Onsen Ski Resort Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/34203/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1日券（12/30〜1/3は¥200追加）
+    priceLines:
+    - 成人 ¥5,700 兒童 0円
+  - name: 4時間券（12/30〜1/3は¥200追加）
+    priceLines:
+    - 成人 ¥5,200 兒童 0円
 snowWeather:
   title: 萬座溫泉雪況天氣
   provider: Weathernews
@@ -134,44 +159,19 @@ courses:
   beginnerRatio: 50
   intermediateRatio: 30
   advancedRatio: 20
-terrainSummary:
-  beginner: 初級雪道以 B1 どうぶつの森コース、B6 ハイクアップ A、C1 パノラマゲレンデ R、C2 パノラマゲレンデ L 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 A1 プリンスゲレンデ L、A2 プリンスゲレンデ R、B2 しゃくなげコース、B7 ハイクアップ B 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 D1 万座山ゲレンデ、B3 エキスパートコース、B4 チャレンジコース、B5 黒湯上級コース，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-  powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
-contact:
-  address:
-    zhTw: 群馬縣吾妻郡嬬恋村万座温泉
-    ja: 〒377-1528 群馬県吾妻郡嬬恋村万座温泉
-    googleMaps: https://maps.google.co.jp/maps?q=36.635703,138.506178
-  phone: 0279-97-3117
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/34203/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 1日券（12/30〜1/3は¥200追加）
-    priceLines:
-    - 成人 ¥5,700 兒童 0円
-  - name: 4時間券（12/30〜1/3は¥200追加）
-    priceLines:
-    - 成人 ¥5,200 兒童 0円
-elevation:
-  top: 1990
-  bottom: 1654
-  verticalDrop: 336
-location:
-  latitude: 36.635703
-  longitude: 138.506178
 lifts:
   total: 4
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：吾妻線万座・鹿沢口駅、タクシー (30分) 電車 ：吾妻線万座・鹿沢口駅、西武高原バス (50分) 車 ：関越自動車道 渋川伊香保IC→万座温泉 (100分) 車 ：上信越自動車道 碓氷軽井沢IC→万座温泉 (90分) 400台 平日 免費 假日 免費
+    note: 交通資訊摘要：吾妻線万座・鹿沢口駅、タクシー (30分) 電車 ：吾妻線万座・鹿沢口駅、西武高原バス (50分) 車 ：関越自動車道 渋川伊香保IC→万座温泉 (100分) 車 ：上信越自動車道 碓氷軽井沢IC→万座温泉 (90分) 400台 平日 免費 假日 免費terrainSummary:
+  beginner: 初級雪道以 B1 どうぶつの森コース、B6 ハイクアップ A、C1 パノラマゲレンデ R、C2 パノラマゲレンデ L 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 A1 プリンスゲレンデ L、A2 プリンスゲレンデ R、B2 しゃくなげコース、B7 ハイクアップ B 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 D1 万座山ゲレンデ、B3 エキスパートコース、B4 チャレンジコース、B5 黒湯上級コース，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+  powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
+
 ---
 
 萬座溫泉以細緻粉雪著稱，有「粉雪萬座」的特色印象。雪場規模不算巨大，但坡面設計有緩有急、起伏分明，能讓親子與初學者安心練習，也讓中級玩家感受到節奏變化；周邊安靜的高原與溫泉氛圍也很鮮明。

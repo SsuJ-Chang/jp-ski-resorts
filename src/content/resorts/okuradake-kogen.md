@@ -6,6 +6,9 @@ name:
   en: Okuradake Kogen Ski Resort
 region: hokuriku
 prefecture: 石川縣
+location:
+  latitude: 36.2839655026176
+  longitude: 136.53812544232895
 tags:
 - beginner_friendly
 - family_friendly
@@ -49,9 +52,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 36.2839655026176
-  longitude: 136.53812544232895
 courses:
   beginnerRatio: 50
   intermediateRatio: 25

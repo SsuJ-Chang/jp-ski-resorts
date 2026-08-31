@@ -6,6 +6,13 @@ name:
   en: Rusutsu Resort
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 42.74980058756057
+  longitude: 140.90002996844146
+elevation:
+  top: 994
+  bottom: 400
+  verticalDrop: 594
 tags:
 - powder
 - large_ski_area
@@ -13,10 +20,10 @@ tags:
 - night_skiing
 - snowboard_friendly
 - resort_village
-homeRegionExample: true
 visibility:
   status: published
   note: 北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。
+homeRegionExample: true
 links:
   official: https://rusutsu.com/rusutsu-in-winter/
   facebook: https://www.facebook.com/RusutsuResort
@@ -68,13 +75,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 42.74980058756057
-  longitude: 140.90002996844146
-elevation:
-  top: 994
-  bottom: 400
-  verticalDrop: 594
 courses:
   total: 37
   beginnerRatio: 30

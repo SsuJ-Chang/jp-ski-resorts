@@ -6,6 +6,13 @@ name:
   en: Senjojiki Ski Area
 region: kanto-koshinetsu
 prefecture: 長野縣
+location:
+  latitude: 35.778555
+  longitude: 137.81451
+elevation:
+  top: 2830
+  bottom: 2608
+  verticalDrop: 222
 tags:
 - powder
 - no_car_accessible
@@ -48,13 +55,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 35.778555
-  longitude: 137.81451
-elevation:
-  top: 2830
-  bottom: 2608
-  verticalDrop: 222
 courses:
   total: 4
   beginnerRatio: 40

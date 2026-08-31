@@ -6,6 +6,13 @@ name:
   en: Zao Onsen Ski Resort
 region: tohoku
 prefecture: 山形縣
+location:
+  latitude: 38.165314954041435
+  longitude: 140.39526757116448
+elevation:
+  top: 1661
+  bottom: 780
+  verticalDrop: 881
 tags:
 - large_ski_area
 - night_skiing
@@ -96,13 +103,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 38.165314954041435
-  longitude: 140.39526757116448
-elevation:
-  top: 1661
-  bottom: 780
-  verticalDrop: 881
 courses:
   total: 26
   beginnerRatio: 40

@@ -6,6 +6,13 @@ name:
   en: Aizu Kogen Takatsue Ski Resort
 region: tohoku
 prefecture: 福島縣
+location:
+  latitude: 37.11008514233536
+  longitude: 139.6163592288355
+elevation:
+  top: 1650
+  bottom: 945
+  verticalDrop: 705
 tags:
   - large_ski_area
   - snowboard_friendly
@@ -35,13 +42,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 37.11008514233536
-  longitude: 139.6163592288355
-elevation:
-  top: 1650
-  bottom: 945
-  verticalDrop: 705
 courses:
   total: 14
   beginnerRatio: 30

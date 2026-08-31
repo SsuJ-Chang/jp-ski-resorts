@@ -6,6 +6,13 @@ name:
   en: Daisen Municipal Kyowa Ski Area
 region: tohoku
 prefecture: 秋田縣
+location:
+  latitude: 39.681014769460134
+  longitude: 140.3930450681705
+elevation:
+  top: 432
+  bottom: 170
+  verticalDrop: 262
 tags:
   - no_car_accessible
   - onsen
@@ -38,13 +45,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 39.681014769460134
-  longitude: 140.3930450681705
-elevation:
-  top: 432
-  bottom: 170
-  verticalDrop: 262
 courses:
   total: 9
   beginnerRatio: 35

@@ -6,6 +6,13 @@ name:
   en: Mizuho Highland
 region: kansai-chugoku
 prefecture: 島根縣
+location:
+  latitude: 34.815403
+  longitude: 132.400701
+elevation:
+  top: 1212
+  bottom: 491
+  verticalDrop: 721
 tags:
 - night_skiing
 - snowboard_friendly
@@ -17,6 +24,12 @@ links:
   trailMapPage: https://www.mizuhohighland.com/course/
   weather: https://weathernews.jp/ski/spot/36801/
   googleMaps: https://maps.google.co.jp/maps?q=34.815403,132.400701
+contact:
+  address:
+    zhTw: 島根縣邑智郡邑南町市木6242-19
+    ja: 〒697-0631 島根県邑智郡邑南町市木6242-19
+    googleMaps: https://maps.google.co.jp/maps?q=34.815403,132.400701
+  phone: 0855-85-1111
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/27-2026/03/22
@@ -29,6 +42,30 @@ trailMaps:
   season: 2025-2026
   url: https://www.mizuhohighland.com/course/
   sourceLabel: Mizuho Highland Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/36801/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 假日1日券（假日）
+    priceLines:
+    - 成人 ¥6,500 兒童 ¥2,900
+  - name: 假日ランチパック券假日（ランチ券¥1,000分付一日券）
+    priceLines:
+    - 成人 ¥7,800 兒童 ¥4,200
+  - name: 平日1日券（平日）
+    priceLines:
+    - 成人 ¥5,400 兒童 ¥2,100
+  - name: 平日ランチパック平日（ランチ券¥1,000券付1日券）
+    priceLines:
+    - 成人 ¥6,700 兒童 ¥3,400
+  - name: 假日3時間券（假日）
+    priceLines:
+    - 成人 ¥4,300 兒童 ¥2,600
+  - name: 假日5時間券（假日）
+    priceLines:
+    - 成人 ¥6,300
 snowWeather:
   title: 瑞穗 Highland雪況天氣
   provider: Weathernews
@@ -70,55 +107,18 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20
-terrainSummary:
-  beginner: 初級雪道以 ナスターコース、ビーチコース 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 スカイラインコース、チェスナットコース 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 ラビットコース，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-contact:
-  address:
-    zhTw: 島根縣邑智郡邑南町市木6242-19
-    ja: 〒697-0631 島根県邑智郡邑南町市木6242-19
-    googleMaps: https://maps.google.co.jp/maps?q=34.815403,132.400701
-  phone: 0855-85-1111
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/36801/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 假日1日券（假日）
-    priceLines:
-    - 成人 ¥6,500 兒童 ¥2,900
-  - name: 假日ランチパック券假日（ランチ券¥1,000分付一日券）
-    priceLines:
-    - 成人 ¥7,800 兒童 ¥4,200
-  - name: 平日1日券（平日）
-    priceLines:
-    - 成人 ¥5,400 兒童 ¥2,100
-  - name: 平日ランチパック平日（ランチ券¥1,000券付1日券）
-    priceLines:
-    - 成人 ¥6,700 兒童 ¥3,400
-  - name: 假日3時間券（假日）
-    priceLines:
-    - 成人 ¥4,300 兒童 ¥2,600
-  - name: 假日5時間券（假日）
-    priceLines:
-    - 成人 ¥6,300
-elevation:
-  top: 1212
-  bottom: 491
-  verticalDrop: 721
-location:
-  latitude: 34.815403
-  longitude: 132.400701
 lifts:
   total: 3
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：山陽本線広島駅からバスで (70分) 車 ：広島IC→瑞穂IC→一般道 (50分) 車 ：岡山IC→瑞穂IC→一般道 (161分) 飛行機：広島空港 (100分) 2000台 平日 普通車1000円大型車2000円 假日 普通車1000円大型車2000円
+    note: 交通資訊摘要：山陽本線広島駅からバスで (70分) 車 ：広島IC→瑞穂IC→一般道 (50分) 車 ：岡山IC→瑞穂IC→一般道 (161分) 飛行機：広島空港 (100分) 2000台 平日 普通車1000円大型車2000円 假日 普通車1000円大型車2000円terrainSummary:
+  beginner: 初級雪道以 ナスターコース、ビーチコース 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 スカイラインコース、チェスナットコース 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 ラビットコース，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+
 ---
 
 瑞穗 Highland位於島根縣，共有5 條雪道、3 座纜車，規模雖然不大，但雪道集中，半天到一天就能把主要路線輪過一遍。ナスターコース、ビーチコース能看出這裡仍是地方型雪場常見的短中距離坡段。比起追求刷里程，這裡更適合把時間放在動作熟悉與同伴配速。

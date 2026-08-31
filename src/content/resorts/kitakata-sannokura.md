@@ -6,6 +6,13 @@ name:
   en: Kitakata Sannokura Ski Resort
 region: tohoku
 prefecture: 福島縣
+location:
+  latitude: 37.75029161928399
+  longitude: 139.8673406411156
+elevation:
+  top: 780
+  bottom: 570
+  verticalDrop: 210
 tags:
   - family_friendly
   - snowboard_friendly
@@ -35,13 +42,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 37.75029161928399
-  longitude: 139.8673406411156
-elevation:
-  top: 780
-  bottom: 570
-  verticalDrop: 210
 courses:
   total: 3
   beginnerRatio: 30

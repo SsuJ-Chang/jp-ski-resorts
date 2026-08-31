@@ -7,6 +7,13 @@ name:
   en: Iwate Kogen Snow Park
 region: tohoku
 prefecture: 岩手縣
+location:
+  latitude: 39.814037219489215
+  longitude: 140.9662087711645
+elevation:
+  top: 1213
+  bottom: 630
+  verticalDrop: 583
 tags:
   - family_friendly
   - snowboard_friendly
@@ -39,13 +46,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 39.814037219489215
-  longitude: 140.9662087711645
-elevation:
-  top: 1213
-  bottom: 630
-  verticalDrop: 583
 courses:
   total: 10
   beginnerRatio: 30

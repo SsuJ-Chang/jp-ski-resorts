@@ -6,6 +6,9 @@ name:
   en: Fukui Izumi Ski Resort
 region: hokuriku
 prefecture: 福井縣
+location:
+  latitude: 35.93977853984175
+  longitude: 136.6922409288355
 tags:
 - snowboard_friendly
 visibility:
@@ -50,9 +53,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以官方雪況頁或最新雪況資訊為準。
-location:
-  latitude: 35.93977853984175
-  longitude: 136.6922409288355
 courses:
   total: 6
   beginnerRatio: 30

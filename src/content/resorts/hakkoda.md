@@ -7,6 +7,13 @@ name:
   en: Hakkoda
 region: tohoku
 prefecture: 青森縣
+location:
+  latitude: 40.68094361461105
+  longitude: 140.8316751759673
+elevation:
+  top: 1324
+  bottom: 660
+  verticalDrop: 664
 tags:
   - powder
   - snowboard_friendly
@@ -39,13 +46,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 40.68094361461105
-  longitude: 140.8316751759673
-elevation:
-  top: 1324
-  bottom: 660
-  verticalDrop: 664
 courses:
   total: 2
   beginnerRatio: 20

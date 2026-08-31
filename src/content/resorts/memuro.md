@@ -6,6 +6,13 @@ name:
   en: Memuro Ski Area
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 42.83093123397394
+  longitude: 142.98850969712404
+elevation:
+  top: 330
+  bottom: 176
+  verticalDrop: 154
 tags:
   - beginner_friendly
   - no_car_accessible
@@ -38,13 +45,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 42.83093123397394
-  longitude: 142.98850969712404
-elevation:
-  top: 330
-  bottom: 176
-  verticalDrop: 154
 courses:
   total: 4
   beginnerRatio: 40

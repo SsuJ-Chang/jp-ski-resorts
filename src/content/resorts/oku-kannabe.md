@@ -6,6 +6,13 @@ name:
   en: Oku Kannabe Ski Area
 region: kansai-chugoku
 prefecture: 兵庫縣
+location:
+  latitude: 35.504559
+  longitude: 134.652386
+elevation:
+  top: 940
+  bottom: 380
+  verticalDrop: 560
 tags:
 - family_friendly
 - night_skiing
@@ -18,6 +25,12 @@ links:
   trailMapPage: https://okukan.com/gelande/
   weather: https://weathernews.jp/ski/spot/36302/
   googleMaps: https://maps.google.co.jp/maps?q=35.504559,134.652386
+contact:
+  address:
+    zhTw: 兵庫縣豐岡市日高町山田710
+    ja: 〒669-5377 兵庫県豐岡市日高町山田710
+    googleMaps: https://maps.google.co.jp/maps?q=35.504559,134.652386
+  phone: 0796-45-0510
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/28-2026/03/15
@@ -30,6 +43,24 @@ trailMaps:
   season: 2025-2026
   url: https://okukan.com/gelande/
   sourceLabel: Oku Kannabe Ski Area Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/36302/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥5,500 兒童 ¥3,500 樂齡 ¥5,500
+  - name: 半日
+    priceLines:
+    - 成人 ¥5,000 兒童 ¥3,000 樂齡 ¥5,000
+  - name: 2 日券
+    priceLines:
+    - 成人 ¥9,000 兒童 未標示 樂齡 ¥9,000
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥600 兒童 ¥600 樂齡 ¥600
 snowWeather:
   title: 奧神鍋雪況天氣
   provider: Weathernews
@@ -73,43 +104,6 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
-terrainSummary:
-  beginner: 初級雪道以 ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 ロマンスコース、ロングランコース 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 栃の木コース、スーパーゲレンデ、オフピステエリア，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-  powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
-contact:
-  address:
-    zhTw: 兵庫縣豐岡市日高町山田710
-    ja: 〒669-5377 兵庫県豐岡市日高町山田710
-    googleMaps: https://maps.google.co.jp/maps?q=35.504559,134.652386
-  phone: 0796-45-0510
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/36302/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,500 兒童 ¥3,500 樂齡 ¥5,500
-  - name: 半日
-    priceLines:
-    - 成人 ¥5,000 兒童 ¥3,000 樂齡 ¥5,000
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥9,000 兒童 未標示 樂齡 ¥9,000
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥600 兒童 ¥600 樂齡 ¥600
-elevation:
-  top: 940
-  bottom: 380
-  verticalDrop: 560
-location:
-  latitude: 35.504559
-  longitude: 134.652386
 lifts:
   total: 5
 access:
@@ -118,6 +112,12 @@ access:
     snowTireRequired: true
     note: 交通資訊摘要：山陰本線江原駅下車バスで (30分) 車 ：中国吹田IC→福崎IC→北近畿豊岡自動車道路日高神鍋高原IC（約13km） (110分) 車 ：岡山IC→山陽姫路東IC→播但連絡道和田山IC→北近畿豊岡自動車道路日高神鍋高原IC（約13km） (115分) 付近からゲレンデ止登降ファミリーリフトで楽々ゲレンデへ。 {{hitokoto}} 新型コロナウイルス感染予防対策 --> 標高 940m 〜 380m コース数 7 リフト数 5 ボード滑走 全面可 コース難易度 初級者向け 30％ 中級者向け 40％ 上級者向け 30％ レンタル スキー：○ スノーボード：○ レンタル料金 スキーセット 大人：ー円 子供：ー円 スキーウェア 大人：ー円 子供：ー円 ボードセット 大人：ー円 子供：ー円 ボードウェア 大人：ー円 子供：ー円 スクール スキー：○ スノーボード：○ スキー（子供）：○ スノーボード（子供）：○ モーグル：× パイプ：× リフト料金 ◆1日券 大人 5500円 小人 3500円 シニア 5500円 ◆半日 大人 5000円 小人 3000円 シニア 5000円 ◆2日券 大人 9000円 小人 ー円 シニア 9000円 ◆1回券 大人 600円 小人 600円 シニア 600円 キャッシュレス決済 チケット購入：○ レストラン：× ショップ：× 決済方法 PayPay スノーパーク × キッズパーク × パイプ × ペットの同伴 ○ ペット同伴エリア --> 無 近場の温泉 神鍋温泉ゆとろぎ 住所 〒669-5377 兵庫県豐岡市日高町山田710 地図を見る お問い合わせ TEL：0796-45-0510 ホームページ 營業期間 2025年12月28日 ~ 2026年03月15日 營業時間 平日：8:30〜16:40 假日：8:30〜16:40 夜滑：夜滑無 交通案内 電車 ：山陰本線江原駅下車バスで (30分) 車 ：中国吹田IC→福崎IC→北近畿豊岡自動車道路日高神鍋高原IC（約13km） (110分) 車 ：岡山IC→山陽姫路東IC→播但連絡道和田山IC→北近畿豊岡自動車道路日高神鍋高原IC（約13km） (115分) 施設 シャワー 仮眠所 人工降雪機/人工造雪機 更衣室 荷物置き場 キッズパーク 託児所 ペットの同伴
       駐車場 500台 平日 免費 假日 1500円
+terrainSummary:
+  beginner: 初級雪道以 ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 ロマンスコース、ロングランコース 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 栃の木コース、スーパーゲレンデ、オフピステエリア，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+  powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
 externalContent:
   blogs: []
   vlogs:

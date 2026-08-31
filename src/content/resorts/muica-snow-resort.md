@@ -6,6 +6,12 @@ name:
   en: Muica Snow Resort
 region: kanto-koshinetsu
 prefecture: 新潟縣
+location:
+  latitude: 37.071042
+  longitude: 138.845885
+elevation:
+  top: 748
+  bottom: 348
 tags:
 - beginner_friendly
 - family_friendly
@@ -57,12 +63,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 37.071042
-  longitude: 138.845885
-elevation:
-  top: 748
-  bottom: 348
 courses:
   total: 12
   summary: 共 12 條雪道、4 座纜車，初級 35%、中級 40%、高級 25%。

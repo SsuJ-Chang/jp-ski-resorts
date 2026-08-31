@@ -6,6 +6,12 @@ name:
   en: Shinshu Kaida Kogen MIA Ski Area
 region: kanto-koshinetsu
 prefecture: 長野縣
+location:
+  latitude: 35.930412
+  longitude: 137.53001
+elevation:
+  top: 2120
+  bottom: 1557
 tags:
 - no_car_accessible
 - powder
@@ -58,12 +64,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 35.930412
-  longitude: 137.53001
-elevation:
-  top: 2120
-  bottom: 1557
 courses:
   total: 6
   beginnerRatio: 40

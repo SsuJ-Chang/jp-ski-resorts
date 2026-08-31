@@ -6,6 +6,12 @@ name:
   en: Charmant Hiuchi
 region: kanto-koshinetsu
 prefecture: 新潟縣
+location:
+  latitude: 36.9992
+  longitude: 138.0672
+elevation:
+  top: 1009
+  bottom: 501
 tags:
 - large_ski_area
 - powder
@@ -59,12 +65,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 36.9992
-  longitude: 138.0672
-elevation:
-  top: 1009
-  bottom: 501
 courses:
   total: 17
   courseInfoPage: https://charmant-hiuchi.jp/

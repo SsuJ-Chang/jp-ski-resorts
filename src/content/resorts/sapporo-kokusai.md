@@ -6,6 +6,13 @@ name:
   en: Sapporo Kokusai Ski Resort
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 43.07233110405179
+  longitude: 141.08276104232897
+elevation:
+  top: 1100
+  bottom: 630
+  verticalDrop: 470
 tags:
 - powder
 - snowboard_friendly
@@ -57,13 +64,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 43.07233110405179
-  longitude: 141.08276104232897
-elevation:
-  top: 1100
-  bottom: 630
-  verticalDrop: 470
 courses:
   total: 7
   beginnerRatio: 30

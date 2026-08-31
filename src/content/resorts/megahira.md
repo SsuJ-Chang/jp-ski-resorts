@@ -6,6 +6,13 @@ name:
   en: Megahira Onsen Ski Resort
 region: kansai-chugoku
 prefecture: 廣島縣
+location:
+  latitude: 34.498547
+  longitude: 132.143767
+elevation:
+  top: 1066
+  bottom: 972
+  verticalDrop: 94
 tags:
 - large_ski_area
 - night_skiing
@@ -17,6 +24,12 @@ links:
   trailMapPage: https://www.megahira.co.jp/ski/map/
   weather: https://weathernews.jp/ski/spot/36720/
   googleMaps: https://maps.google.co.jp/maps?q=34.498547,132.143767
+contact:
+  address:
+    zhTw: 廣島縣廿日市市吉和4301
+    ja: 〒738-0301 広島県廿日市市吉和4301
+    googleMaps: https://maps.google.co.jp/maps?q=34.498547,132.143767
+  phone: 0829-40-3000
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/12-2026/03/08
@@ -29,6 +42,30 @@ trailMaps:
   season: 2025-2026
   url: https://www.megahira.co.jp/ski/map/
   sourceLabel: Megahira Onsen Ski Resort Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/36720/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 9時間券（平日）
+    priceLines:
+    - 成人 ¥6,300 兒童 ¥4,300
+  - name: 4時間券（平日）
+    priceLines:
+    - 成人 ¥5,400 兒童 ¥3,500
+  - name: 9時間券（週末及國定假日）
+    priceLines:
+    - 成人 ¥6,800 兒童 ¥4,300
+  - name: 4時間券（週末及國定假日）
+    priceLines:
+    - 成人 ¥5,800 兒童 ¥3,500
+  - name: シーズン券ゴールドメンバー
+    priceLines:
+    - 成人 ¥80,000 兒童 ¥45,000 樂齡 ¥68,000
+  - name: 平日ゴゴイチ(13:00〜17:00）
+    priceLines:
+    - 成人 ¥3,800 ・上記リフト料金は入場料込みの価格です。・そり遊びなどは入場料¥600が必要です。・平日ゴゴイチ券は年末年始期間はご利用になれません。
 snowWeather:
   title: 女鹿平溫泉 Megahira雪況天氣
   provider: Weathernews
@@ -85,55 +122,18 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 60
   advancedRatio: 10
-terrainSummary:
-  beginner: 初級雪道以 ファミリーゲレンデ、ソリコース 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 林間 700 コース、林間 800 コース、林間 900 IN / OUT、林間 1000 コース 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 ダウンヒルコース、スカイコース、チャレンジコース，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-contact:
-  address:
-    zhTw: 廣島縣廿日市市吉和4301
-    ja: 〒738-0301 広島県廿日市市吉和4301
-    googleMaps: https://maps.google.co.jp/maps?q=34.498547,132.143767
-  phone: 0829-40-3000
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/36720/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 9時間券（平日）
-    priceLines:
-    - 成人 ¥6,300 兒童 ¥4,300
-  - name: 4時間券（平日）
-    priceLines:
-    - 成人 ¥5,400 兒童 ¥3,500
-  - name: 9時間券（週末及國定假日）
-    priceLines:
-    - 成人 ¥6,800 兒童 ¥4,300
-  - name: 4時間券（週末及國定假日）
-    priceLines:
-    - 成人 ¥5,800 兒童 ¥3,500
-  - name: シーズン券ゴールドメンバー
-    priceLines:
-    - 成人 ¥80,000 兒童 ¥45,000 樂齡 ¥68,000
-  - name: 平日ゴゴイチ(13:00〜17:00）
-    priceLines:
-    - 成人 ¥3,800 ・上記リフト料金は入場料込みの価格です。・そり遊びなどは入場料¥600が必要です。・平日ゴゴイチ券は年末年始期間はご利用になれません。
-elevation:
-  top: 1066
-  bottom: 972
-  verticalDrop: 94
-location:
-  latitude: 34.498547
-  longitude: 132.143767
 lifts:
   total: 5
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：山陽本線宮内串戸駅からバスで (75分) 車 ：広島IC→吉和IC→一般道（ICより約3分) (47分) 車 ：福岡IC→吉和IC→一般道（ICより約3分） (188分) 1300台 平日 免費 假日 免費
+    note: 交通資訊摘要：山陽本線宮内串戸駅からバスで (75分) 車 ：広島IC→吉和IC→一般道（ICより約3分) (47分) 車 ：福岡IC→吉和IC→一般道（ICより約3分） (188分) 1300台 平日 免費 假日 免費terrainSummary:
+  beginner: 初級雪道以 ファミリーゲレンデ、ソリコース 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 林間 700 コース、林間 800 コース、林間 900 IN / OUT、林間 1000 コース 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 ダウンヒルコース、スカイコース、チャレンジコース，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+
 ---
 
 女鹿平溫泉 Megahira 的滑道配置涵蓋初級到進階需求，並透過人工造雪與揚雪設備維持雪季初期的滑行條件。雪場結合租賃、商店與周邊溫泉，滑完後能接續泡湯放鬆，是廣島地區兼具滑行與溫泉休閒感的雪場。

@@ -6,6 +6,13 @@ name:
   en: Snow Wave Park Shiratori Kogen
 region: chubu
 prefecture: 岐阜縣
+location:
+  latitude: 35.95738592460167
+  longitude: 136.8050997257135
+elevation:
+  top: 1276
+  bottom: 1000
+  verticalDrop: 276
 tags:
 - family_friendly
 - powder
@@ -68,13 +75,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 靜態展示用雪況資料，出發前請以官方與天氣頁面最新公告為準。
-location:
-  latitude: 35.95738592460167
-  longitude: 136.8050997257135
-elevation:
-  top: 1276
-  bottom: 1000
-  verticalDrop: 276
 courses:
   total: 10
   courseInfoPage: https://siratori-k.jp/swp/gelande/

@@ -6,6 +6,13 @@ name:
   en: Kushibiki Taranokidai Ski Slope
 region: tohoku
 prefecture: 山形縣
+location:
+  latitude: 38.652479
+  longitude: 139.912937
+elevation:
+  top: 365
+  bottom: 260
+  verticalDrop: 105
 tags:
   - family_friendly
   - night_skiing
@@ -40,13 +47,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 38.652479
-  longitude: 139.912937
-elevation:
-  top: 365
-  bottom: 260
-  verticalDrop: 105
 courses:
   total: 7
   beginnerRatio: 30

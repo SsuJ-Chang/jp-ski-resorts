@@ -6,6 +6,13 @@ name:
   en: Otoifuji Ski Area
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 44.72234763341297
+  longitude: 142.2720146818566
+elevation:
+  top: 240
+  bottom: 70
+  verticalDrop: 170
 tags:
   - beginner_friendly
   - night_skiing
@@ -40,13 +47,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 44.72234763341297
-  longitude: 142.2720146818566
-elevation:
-  top: 240
-  bottom: 70
-  verticalDrop: 170
 courses:
   total: 3
   beginnerRatio: 70

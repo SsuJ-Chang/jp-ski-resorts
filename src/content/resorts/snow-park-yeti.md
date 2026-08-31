@@ -6,6 +6,13 @@ name:
   en: Fujiyama Snow Resort Yeti
 region: chubu
 prefecture: 靜岡縣
+location:
+  latitude: 35.300184289608595
+  longitude: 138.7683705288355
+elevation:
+  top: 1450
+  bottom: 1300
+  verticalDrop: 150
 tags:
 - beginner_friendly
 - family_friendly
@@ -65,13 +72,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 35.300184289608595
-  longitude: 138.7683705288355
-elevation:
-  top: 1450
-  bottom: 1300
-  verticalDrop: 150
 courses:
   total: 4
   beginnerRatio: 50

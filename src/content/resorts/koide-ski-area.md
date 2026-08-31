@@ -6,6 +6,12 @@ name:
   en: Koide Ski Area
 region: kanto-koshinetsu
 prefecture: 新潟縣
+location:
+  latitude: 37.2282
+  longitude: 138.955285
+elevation:
+  top: 262
+  bottom: 130
 tags:
 - beginner_friendly
 - family_friendly
@@ -57,12 +63,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 37.2282
-  longitude: 138.955285
-elevation:
-  top: 262
-  bottom: 130
 courses:
   total: 6
   summary: 共 6 個滑行區域，初級 40%、中級 40%、高級 20%。其中センター前広場偏向雪上遊樂與入門練習，其餘雪道可依程度逐步銜接。

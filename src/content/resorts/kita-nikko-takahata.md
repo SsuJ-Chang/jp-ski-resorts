@@ -6,6 +6,13 @@ name:
   en: Kita Nikko Takahata Ski Area
 region: tohoku
 prefecture: 福島縣
+location:
+  latitude: 37.1008764850603
+  longitude: 139.44980494109353
+elevation:
+  top: 1240
+  bottom: 720
+  verticalDrop: 520
 tags:
   - family_friendly
   - large_ski_area
@@ -46,13 +53,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 37.1008764850603
-  longitude: 139.44980494109353
-elevation:
-  top: 1240
-  bottom: 720
-  verticalDrop: 520
 courses:
   total: 11
   beginnerRatio: 20

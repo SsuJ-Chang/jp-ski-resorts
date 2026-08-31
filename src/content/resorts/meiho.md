@@ -6,6 +6,13 @@ name:
   en: Meiho Ski Resort
 region: chubu
 prefecture: 岐阜縣
+location:
+  latitude: 35.94188457943844
+  longitude: 137.0429529968772
+elevation:
+  top: 1600
+  bottom: 900
+  verticalDrop: 700
 tags:
 - beginner_friendly
 - family_friendly
@@ -74,13 +81,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 靜態展示用雪況資料，出發前請以官方與天氣頁面最新公告為準。
-location:
-  latitude: 35.94188457943844
-  longitude: 137.0429529968772
-elevation:
-  top: 1600
-  bottom: 900
-  verticalDrop: 700
 courses:
   total: 12
   beginnerRatio: 33.33

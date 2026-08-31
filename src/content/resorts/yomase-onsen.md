@@ -6,6 +6,12 @@ name:
   en: Yomase Onsen Ski Area
 region: kanto-koshinetsu
 prefecture: 長野縣
+location:
+  latitude: 36.785504
+  longitude: 138.414946
+elevation:
+  top: 1220
+  bottom: 740
 tags:
 - large_ski_area
 - no_car_accessible
@@ -64,12 +70,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 36.785504
-  longitude: 138.414946
-elevation:
-  top: 1220
-  bottom: 740
 courses:
   total: 12
   beginnerRatio: 30

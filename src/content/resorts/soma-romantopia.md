@@ -6,6 +6,13 @@ name:
   en: Soma Romantopia Ski Resort
 region: tohoku
 prefecture: 青森縣
+location:
+  latitude: 40.575845055528845
+  longitude: 140.39006627116447
+elevation:
+  top: 164
+  bottom: 84
+  verticalDrop: 80
 tags:
   - beginner_friendly
   - night_skiing
@@ -38,13 +45,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 40.575845055528845
-  longitude: 140.39006627116447
-elevation:
-  top: 164
-  bottom: 84
-  verticalDrop: 80
 courses:
   total: 2
   beginnerRatio: 50

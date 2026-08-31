@@ -6,6 +6,13 @@ name:
   en: Karuizawa Snow Park
 region: kanto-koshinetsu
 prefecture: 群馬縣
+location:
+  latitude: 36.423094
+  longitude: 138.626796
+elevation:
+  top: 1400
+  bottom: 1270
+  verticalDrop: 130
 tags:
 - beginner_friendly
 - family_friendly
@@ -17,6 +24,12 @@ links:
   trailMapPage: https://karuizawa.holidayinnresorts.com/ski/
   weather: https://weathernews.jp/ski/spot/34220/
   googleMaps: https://maps.google.co.jp/maps?q=36.423094,138.626796
+contact:
+  address:
+    zhTw: 群馬縣吾妻郡長野原町大字北軽井沢2032-16
+    ja: 〒377-1412 群馬県吾妻郡長野原町大字北軽井沢2032-16
+    googleMaps: https://maps.google.co.jp/maps?q=36.423094,138.626796
+  phone: 0279-84-1227
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/13-2026/03/31
@@ -29,6 +42,30 @@ trailMaps:
   season: 2025-2026
   url: https://karuizawa.holidayinnresorts.com/ski/
   sourceLabel: Karuizawa Snow Park Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/34220/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 平日リフト1日券
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥3,000 樂齡 ¥3,000
+  - name: 週末及國定假日リフト1日券
+    priceLines:
+    - 成人 ¥5,000 兒童 ¥4,000 樂齡 ¥4,000
+  - name: 特定日リフト1日券
+    priceLines:
+    - 成人 ¥6,000 兒童 ¥5,000 樂齡 ¥5,000
+  - name: 平日リフト4時間券
+    priceLines:
+    - 成人 ¥3,500 兒童 ¥2,600 樂齡 ¥2,600
+  - name: 週末及國定假日リフト4時間券
+    priceLines:
+    - 成人 ¥4,500 兒童 ¥3,600 樂齡 ¥3,600
+  - name: 特定日リフト4時間券
+    priceLines:
+    - 成人 ¥5,500 兒童 ¥4,600 樂齡 ¥4,600
 snowWeather:
   title: 輕井澤 Snow Park雪況天氣
   provider: Weathernews
@@ -54,55 +91,18 @@ courses:
   beginnerRatio: 60
   intermediateRatio: 20
   advancedRatio: 20
-terrainSummary:
-  beginner: 初級雪道以 初級緩坡區 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 中級巡航區 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 上級急斜面區，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-contact:
-  address:
-    zhTw: 群馬縣吾妻郡長野原町大字北軽井沢2032-16
-    ja: 〒377-1412 群馬県吾妻郡長野原町大字北軽井沢2032-16
-    googleMaps: https://maps.google.co.jp/maps?q=36.423094,138.626796
-  phone: 0279-84-1227
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/34220/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 平日リフト1日券
-    priceLines:
-    - 成人 ¥4,000 兒童 ¥3,000 樂齡 ¥3,000
-  - name: 週末及國定假日リフト1日券
-    priceLines:
-    - 成人 ¥5,000 兒童 ¥4,000 樂齡 ¥4,000
-  - name: 特定日リフト1日券
-    priceLines:
-    - 成人 ¥6,000 兒童 ¥5,000 樂齡 ¥5,000
-  - name: 平日リフト4時間券
-    priceLines:
-    - 成人 ¥3,500 兒童 ¥2,600 樂齡 ¥2,600
-  - name: 週末及國定假日リフト4時間券
-    priceLines:
-    - 成人 ¥4,500 兒童 ¥3,600 樂齡 ¥3,600
-  - name: 特定日リフト4時間券
-    priceLines:
-    - 成人 ¥5,500 兒童 ¥4,600 樂齡 ¥4,600
-elevation:
-  top: 1400
-  bottom: 1270
-  verticalDrop: 130
-location:
-  latitude: 36.423094
-  longitude: 138.626796
 lifts:
   total: 3
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：JR北陸新幹線軽井沢駅下車、免費シャトルバス(要予約) 0279-84-1441 前日17:00止 (40分) 車 ：上信越自動車道碓氷軽井沢IC→18号、146号経由 (45分) 400台 平日 免費 假日 免費
+    note: 交通資訊摘要：JR北陸新幹線軽井沢駅下車、免費シャトルバス(要予約) 0279-84-1441 前日17:00止 (40分) 車 ：上信越自動車道碓氷軽井沢IC→18号、146号経由 (45分) 400台 平日 免費 假日 免費terrainSummary:
+  beginner: 初級雪道以 初級緩坡區 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 中級巡航區 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 上級急斜面區，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+
 ---
 
 輕井澤 Snow Park位在群馬縣，滑行區由6 條雪道，搭配 3 座纜車構成。初級緩坡區、中級巡航區、上級急斜面區 等路線能看出坡面配置，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

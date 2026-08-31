@@ -6,6 +6,13 @@ name:
   en: Karurusu Onsen Sanlaiva Ski Area
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 42.521823140869344
+  longitude: 141.10470471060546
+elevation:
+  top: 750
+  bottom: 350
+  verticalDrop: 400
 tags:
 - powder
 - beginner_friendly
@@ -62,13 +69,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 42.521823140869344
-  longitude: 141.10470471060546
-elevation:
-  top: 750
-  bottom: 350
-  verticalDrop: 400
 courses:
   total: 7
   beginnerRatio: 20

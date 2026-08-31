@@ -6,6 +6,13 @@ name:
   en: Tengendai Kogen
 region: tohoku
 prefecture: 山形縣
+location:
+  latitude: 37.774639757124106
+  longitude: 140.1365278737564
+elevation:
+  top: 1820
+  bottom: 920
+  verticalDrop: 900
 tags:
   - onsen
   - powder
@@ -40,13 +47,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 37.774639757124106
-  longitude: 140.1365278737564
-elevation:
-  top: 1820
-  bottom: 920
-  verticalDrop: 900
 courses:
   total: 7
   beginnerRatio: 30

@@ -6,6 +6,9 @@ name:
   en: Ushidake Onsen Ski Area
 region: hokuriku
 prefecture: 富山縣
+location:
+  latitude: 36.57263201903566
+  longitude: 137.0564564
 tags:
 - night_skiing
 - onsen
@@ -51,9 +54,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 36.57263201903566
-  longitude: 137.0564564
 courses:
   total: 3
   beginnerRatio: 25

@@ -6,6 +6,13 @@ name:
   en: Akagoyama Snowpal
 region: kansai-chugoku
 prefecture: 滋賀縣
+location:
+  latitude: 35.546848
+  longitude: 136.219571
+elevation:
+  top: 273
+  bottom: 205
+  verticalDrop: 68
 tags:
 - beginner_friendly
 - family_friendly
@@ -14,6 +21,12 @@ links:
   trailMapPage: https://woodypal.jp/
   weather: https://weathernews.jp/ski/spot/36008/
   googleMaps: https://maps.google.co.jp/maps?q=35.546848,136.219571
+contact:
+  address:
+    zhTw: 滋賀縣長浜市余呉町中之郷260
+    ja: 〒529-0515 滋賀県長浜市余呉町中之郷260
+    googleMaps: https://maps.google.co.jp/maps?q=35.546848,136.219571
+  phone: "0749-86-4145"
 season:
   label: 2025-2026
   operatingPeriod: 2026/01/23-2026/02/22
@@ -44,26 +57,13 @@ courses:
     note: 公開資料列 1 條雪道，定位為小型入門與親子取向雪場。
   beginnerRatio: 70
   intermediateRatio: 30
-terrainSummary:
-  beginner: 初級雪道以 スノーパルゲレンデ 為主，適合練習速度控制與穩定轉彎。
-contact:
-  address:
-    zhTw: 滋賀縣長浜市余呉町中之郷260
-    ja: 〒529-0515 滋賀県長浜市余呉町中之郷260
-    googleMaps: https://maps.google.co.jp/maps?q=35.546848,136.219571
-  phone: "0749-86-4145"
-elevation:
-  top: 273
-  bottom: 205
-  verticalDrop: 68
-location:
-  latitude: 35.546848
-  longitude: 136.219571
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：北陸本線木ノ本駅下車、バス (20分) 電車 ：北陸本線木ノ本駅下車、タクシー (15分) 車 ：北陸道木之本ICから車で (10分) 300台 平日 免費 假日 免費
+    note: 交通資訊摘要：北陸本線木ノ本駅下車、バス (20分) 電車 ：北陸本線木ノ本駅下車、タクシー (15分) 車 ：北陸道木之本ICから車で (10分) 300台 平日 免費 假日 免費terrainSummary:
+  beginner: 初級雪道以 スノーパルゲレンデ 為主，適合練習速度控制與穩定轉彎。
+
 ---
 
 赤子山 Snowpal是滋賀縣的小型練習雪場，整理為1 條雪道。雪道如 スノーパルゲレンデ，單一路線配置，重點在簡單滑行與基本練習；標籤上偏向初學者練習、親子同行。

@@ -6,6 +6,13 @@ name:
   en: Owani Onsen Ski Resort
 region: tohoku
 prefecture: 青森縣
+location:
+  latitude: 40.50783363990725
+  longitude: 140.564685657671
+elevation:
+  top: 533
+  bottom: 100
+  verticalDrop: 433
 tags:
   - beginner_friendly
   - onsen
@@ -38,13 +45,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 40.50783363990725
-  longitude: 140.564685657671
-elevation:
-  top: 533
-  bottom: 100
-  verticalDrop: 433
 courses:
   total: 9
   beginnerRatio: 50

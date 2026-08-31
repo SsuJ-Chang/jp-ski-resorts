@@ -7,6 +7,12 @@ name:
 region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: hakuba
+location:
+  latitude: 36.62932526047126
+  longitude: 137.84158847791073
+elevation:
+  top: 1200
+  bottom: 740
 tags:
 - beginner_friendly
 - family_friendly
@@ -66,12 +72,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 36.62932526047126
-  longitude: 137.84158847791073
-elevation:
-  top: 1200
-  bottom: 740
 courses:
   total: 10
   beginnerRatio: 40
@@ -126,18 +126,18 @@ access:
     recommended: true
     snowTireRequired: true
     note: 從長野自動車道安曇野 IC 約 60 分、上信越自動車道長野 IC 約 60 分、北陸自動車道糸魚川 IC 約 70 分。降雪或路面結冰時必須使用雪胎，2WD 車輛需準備雪鏈。
-externalContent:
-  blogs: []
-  vlogs:
-  - title: "白馬人才會來的秘境滑雪場❄️!適合新手嗎?唯一能看火車和又能看湖的雪場!默念口訣挑戰黑線蘑菇道｜白馬雪場開箱EP.4🏂｜"
-    url: https://www.youtube.com/watch?v=aRGLOokZ6wQ
-    note: YK來了
 terrainSummary:
   beginner: Paradise Downhill 等緩斜面適合初學者穩定練習，Shirayuki Daira 也有 Snow Friends Park。
   intermediate: Paradise、Lake Down、Lake View 與 Carving Slope 提供中級練習與青木湖景觀。
   advanced: New Paradise 與 Reserved Training Slope 是主要進階路線，最大斜度可達 32°。
   snowboard: 官方介紹 Carving Slope 以技術型雪板滑行者聞名，Snow Friends Park 也可在下場前練習。
-  powder: 官方特色說明白馬佐野坂為天然雪 100%，New Paradise 急斜面與粉雪相性佳。
+  powder: 官方特色說明白馬佐野坂為天然雪 100%，New Paradise 急斜面與粉雪相性佳。externalContent:
+  blogs: []
+  vlogs:
+  - title: "白馬人才會來的秘境滑雪場❄️!適合新手嗎?唯一能看火車和又能看湖的雪場!默念口訣挑戰黑線蘑菇道｜白馬雪場開箱EP.4🏂｜"
+    url: https://www.youtube.com/watch?v=aRGLOokZ6wQ
+    note: YK來了
+
 ---
 
 長野縣的白馬佐野坂共有 10 條雪道，搭配 4 座纜車，包含 レイクダウン・レイクビュー / Lake Down & Lake View、パラダイス・パラダイスダウンヒル / Paradise & Paradise Downhill、カービングゲレンデ / Carving Slope 等路線。初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

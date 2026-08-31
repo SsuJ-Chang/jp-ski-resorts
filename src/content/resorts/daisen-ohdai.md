@@ -6,6 +6,13 @@ name:
   en: Daisen City Ohdai Ski Area
 region: tohoku
 prefecture: 秋田縣
+location:
+  latitude: 39.51932122208322
+  longitude: 140.65519799700024
+elevation:
+  top: 435
+  bottom: 195
+  verticalDrop: 240
 tags:
   - beginner_friendly
   - night_skiing
@@ -42,13 +49,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 39.51932122208322
-  longitude: 140.65519799700024
-elevation:
-  top: 435
-  bottom: 195
-  verticalDrop: 240
 courses:
   total: 6
   beginnerRatio: 50

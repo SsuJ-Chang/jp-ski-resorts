@@ -6,6 +6,13 @@ name:
   en: Onbara Kogen Ski Resort
 region: kansai-chugoku
 prefecture: 岡山縣
+location:
+  latitude: 35.3127
+  longitude: 133.980931
+elevation:
+  top: 900
+  bottom: 700
+  verticalDrop: 200
 tags:
 - beginner_friendly
 - family_friendly
@@ -17,6 +24,12 @@ links:
   trailMapPage: https://www.ombara-kogen.com/ski/gelande/
   weather: https://weathernews.jp/ski/spot/36602/
   googleMaps: https://maps.google.co.jp/maps?q=35.312700,133.980931
+contact:
+  address:
+    zhTw: 岡山縣苫田郡鏡野町上齋原2037
+    ja: 〒708-0601 岡山県苫田郡鏡野町上齋原2037
+    googleMaps: https://maps.google.co.jp/maps?q=35.312700,133.980931
+  phone: 0868-44-2808
 season:
   label: 2025-2026
   operatingPeriod: 2026/01/05-2026/03/01
@@ -29,6 +42,30 @@ trailMaps:
   season: 2025-2026
   url: https://www.ombara-kogen.com/ski/gelande/
   sourceLabel: Onbara Kogen Ski Resort Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/36602/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,500 兒童 ¥3,000
+  - name: 上午券
+    priceLines:
+    - 成人 ¥3,000
+  - name: 下午券
+    priceLines:
+    - 成人 ¥3,000 兒童 ¥2,000
+  - name: 票券
+    priceLines:
+    - 樂齡1日券（週日國定假日除外） 樂齡 ¥3,500
+  - name: 回數券（11回）
+    priceLines:
+    - 成人 ¥3,000
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥300
 snowWeather:
   title: 恩原高原雪況天氣
   provider: Weathernews
@@ -85,55 +122,18 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20
-terrainSummary:
-  beginner: 初級雪道以 パノラマ第3ゲレンデ 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 パノラマ第1裏、レイクサイド第1ゲレンデ 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 パノラマ第1表、パノラマ第2表、パノラマ第2裏、レイクサイド第2表，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-contact:
-  address:
-    zhTw: 岡山縣苫田郡鏡野町上齋原2037
-    ja: 〒708-0601 岡山県苫田郡鏡野町上齋原2037
-    googleMaps: https://maps.google.co.jp/maps?q=35.312700,133.980931
-  phone: 0868-44-2808
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/36602/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,500 兒童 ¥3,000
-  - name: 上午券
-    priceLines:
-    - 成人 ¥3,000
-  - name: 下午券
-    priceLines:
-    - 成人 ¥3,000 兒童 ¥2,000
-  - name: 票券
-    priceLines:
-    - 樂齡1日券（週日國定假日除外） 樂齡 ¥3,500
-  - name: 回數券（11回）
-    priceLines:
-    - 成人 ¥3,000
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥300
-elevation:
-  top: 900
-  bottom: 700
-  verticalDrop: 200
-location:
-  latitude: 35.3127
-  longitude: 133.980931
 lifts:
   total: 3
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：岡山IC→院庄IC→一般道 (120分) 車 ：高松西IC→院庄IC→一般道 (150分) 700台 平日 免費 假日 免費
+    note: 交通資訊摘要：岡山IC→院庄IC→一般道 (120分) 車 ：高松西IC→院庄IC→一般道 (150分) 700台 平日 免費 假日 免費terrainSummary:
+  beginner: 初級雪道以 パノラマ第3ゲレンデ 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 パノラマ第1裏、レイクサイド第1ゲレンデ 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 パノラマ第1表、パノラマ第2表、パノラマ第2裏、レイクサイド第2表，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+
 ---
 
 恩原高原位於岡山縣，是中小型雪場，共有8 條雪道，搭配 3 座纜車。代表路線包含 パノラマ第3ゲレンデ、パノラマ第1裏、レイクサイド第1ゲレンデ，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

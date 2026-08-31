@@ -6,6 +6,13 @@ name:
   en: Rokkosan Snow Park
 region: kansai-chugoku
 prefecture: 兵庫縣
+location:
+  latitude: 34.7680565006236
+  longitude: 135.24259636800411
+elevation:
+  top: 855
+  bottom: 813
+  verticalDrop: 42
 tags:
 - beginner_friendly
 - family_friendly
@@ -18,6 +25,12 @@ links:
   trailMapPage: https://www.rokkosan.com/ski/beginner/ski/
   weather: https://weathernews.jp/ski/spot/36306/
   googleMaps: https://maps.app.goo.gl/nENWw8VvNLnghYeM7
+contact:
+  address:
+    zhTw: 兵庫縣神戸市灘区六甲山町北六甲4512-98
+    ja: 〒657-0101 兵庫県神戸市灘区六甲山町北六甲4512-98
+    googleMaps: https://maps.app.goo.gl/nENWw8VvNLnghYeM7
+  phone: 078-891-0366
 season:
   label: 2026-2027
   operatingPeriod: 2026/12/05-2027/03/07
@@ -30,6 +43,26 @@ trailMaps:
   season: 2025-2026
   url: https://www.rokkosan.com/ski/beginner/ski/
   sourceLabel: Rokkosan Snow Park Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://www.rokkosan.com/ski/fee/
+  note: 官方票價頁目前仍是 2025-2026 季資料，並說明 2026-2027 季價格與內容預計於 10 月公布；以下票價皆為大人與小人一律。
+  plans:
+  - name: 1 日券
+    priceLines:
+    - 平日：¥1,600
+    - 週末與假日：¥3,300
+  - name: 1 回券
+    priceLines:
+    - 平日：¥250
+    - 週末與假日：¥250
+  - name: 12 回券
+    priceLines:
+    - 週末與假日：¥2,500
+  - name: 3 小時券
+    priceLines:
+    - 週末與假日：¥2,800
 snowWeather:
   title: 六甲山雪況天氣
   provider: Weathernews
@@ -56,42 +89,6 @@ courses:
     note: 雪盆與雪上遊樂區，與滑雪坡分區使用。
   beginnerRatio: 70
   intermediateRatio: 30
-terrainSummary:
-  beginner: 初級雪道以 第1ゲレンデ、第2ゲレンデ、スノーランド 為主，適合練習速度控制與穩定轉彎。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-contact:
-  address:
-    zhTw: 兵庫縣神戸市灘区六甲山町北六甲4512-98
-    ja: 〒657-0101 兵庫県神戸市灘区六甲山町北六甲4512-98
-    googleMaps: https://maps.app.goo.gl/nENWw8VvNLnghYeM7
-  phone: 078-891-0366
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://www.rokkosan.com/ski/fee/
-  note: 官方票價頁目前仍是 2025-2026 季資料，並說明 2026-2027 季價格與內容預計於 10 月公布；以下票價皆為大人與小人一律。
-  plans:
-  - name: 1 日券
-    priceLines:
-    - 平日：¥1,600
-    - 週末與假日：¥3,300
-  - name: 1 回券
-    priceLines:
-    - 平日：¥250
-    - 週末與假日：¥250
-  - name: 12 回券
-    priceLines:
-    - 週末與假日：¥2,500
-  - name: 3 小時券
-    priceLines:
-    - 週末與假日：¥2,800
-elevation:
-  top: 855
-  bottom: 813
-  verticalDrop: 42
-location:
-  latitude: 34.7680565006236
-  longitude: 135.24259636800411
 access:
   fromOsaka:
   - label: 大阪／神戶搭乘電車、纜車與山上巴士
@@ -114,7 +111,10 @@ access:
     - label: 官方汽車與停車資訊
       url: https://www.rokkosan.com/ski/ski_access/
     - label: 官方票價與停車費資訊
-      url: https://www.rokkosan.com/ski/fee/
+      url: https://www.rokkosan.com/ski/fee/terrainSummary:
+  beginner: 初級雪道以 第1ゲレンデ、第2ゲレンデ、スノーランド 為主，適合練習速度控制與穩定轉彎。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+
 ---
 
 六甲山位在兵庫縣，滑行區由 3 條雪道構成。第1ゲレンデ、第2ゲレンデ、スノーランド 等路線能看出坡面配置，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

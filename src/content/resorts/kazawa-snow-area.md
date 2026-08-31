@@ -6,6 +6,13 @@ name:
   en: Kazawa Snow Area
 region: kanto-koshinetsu
 prefecture: 群馬縣
+location:
+  latitude: 36.471114
+  longitude: 138.429982
+elevation:
+  top: 1850
+  bottom: 1350
+  verticalDrop: 500
 tags:
 - no_car_accessible
 - onsen
@@ -73,13 +80,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 36.471114
-  longitude: 138.429982
-elevation:
-  top: 1850
-  bottom: 1350
-  verticalDrop: 500
 courses:
   total: 10
   beginnerRatio: 25

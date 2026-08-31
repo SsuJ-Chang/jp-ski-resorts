@@ -6,6 +6,13 @@ name:
   en: Nayoro Piyashiri Ski Area
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 44.404566403636046
+  longitude: 142.51345072602166
+elevation:
+  top: 673
+  bottom: 193
+  verticalDrop: 480
 tags:
   - family_friendly
   - night_skiing
@@ -42,13 +49,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 44.404566403636046
-  longitude: 142.51345072602166
-elevation:
-  top: 673
-  bottom: 193
-  verticalDrop: 480
 courses:
   total: 9
   beginnerRatio: 10

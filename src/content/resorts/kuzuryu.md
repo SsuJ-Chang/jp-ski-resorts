@@ -6,6 +6,9 @@ name:
   en: Kuzuryu Ski Resort
 region: hokuriku
 prefecture: 福井縣
+location:
+  latitude: 35.89845039214877
+  longitude: 136.65456457119757
 tags:
 - family_friendly
 - snowboard_friendly
@@ -50,9 +53,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 35.89845039214877
-  longitude: 136.65456457119757
 courses:
   total: 8
   beginnerRatio: 40

@@ -6,6 +6,13 @@ name:
   en: Dogoyama Kogen Ski Area
 region: kansai-chugoku
 prefecture: 廣島縣
+location:
+  latitude: 35.056415
+  longitude: 133.203524
+elevation:
+  top: 1050
+  bottom: 700
+  verticalDrop: 350
 tags:
 - family_friendly
 - no_car_accessible
@@ -71,13 +78,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 35.056415
-  longitude: 133.203524
-elevation:
-  top: 1050
-  bottom: 700
-  verticalDrop: 350
 courses:
   total: 4
   beginnerRatio: 40

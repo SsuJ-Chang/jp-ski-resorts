@@ -6,6 +6,9 @@ name:
   en: Hakusan Ichirino Onsen Ski Resort
 region: hokuriku
 prefecture: 石川縣
+location:
+  latitude: 36.2684089774229
+  longitude: 136.71500887116449
 tags:
 - family_friendly
 - good_for_first_japan_trip
@@ -14,10 +17,10 @@ tags:
 - no_car_accessible
 - onsen
 - snowboard_friendly
-homeRegionExample: true
 visibility:
   status: published
   note: 石川縣白山市雪場，未歸入現有 skiArea enum。
+homeRegionExample: true
 links:
   official: https://www.sam-hakusan.com/white/ichirino/
   facebook: https://www.facebook.com/ichirino.hakusan
@@ -80,9 +83,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時狀態與最新雪況資訊為準。
-location:
-  latitude: 36.2684089774229
-  longitude: 136.71500887116449
 courses:
   beginnerRatio: 33
   intermediateRatio: 42

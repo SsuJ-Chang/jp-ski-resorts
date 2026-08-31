@@ -6,6 +6,13 @@ name:
   en: Furano Ski Resort
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 43.32608652759183
+  longitude: 142.3529834352853
+elevation:
+  top: 1074
+  bottom: 235
+  verticalDrop: 839
 tags:
 - powder
 - beginner_friendly
@@ -13,10 +20,10 @@ tags:
 - night_skiing
 - snowboard_friendly
 - resort_village
-homeRegionExample: true
 visibility:
   status: published
   note: 北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。
+homeRegionExample: true
 links:
   official: https://www.princehotels.co.jp/ski/furano/winter/
   facebook: https://www.facebook.com/furanoskiarea/
@@ -99,13 +106,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 43.32608652759183
-  longitude: 142.3529834352853
-elevation:
-  top: 1074
-  bottom: 235
-  verticalDrop: 839
 courses:
   total: 28
   beginnerRatio: 40

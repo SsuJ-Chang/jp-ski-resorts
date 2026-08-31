@@ -6,6 +6,12 @@ name:
   en: Pilatus Tateshina Snow Resort
 region: kanto-koshinetsu
 prefecture: 長野縣
+location:
+  latitude: 36.06801
+  longitude: 138.301392
+elevation:
+  top: 2240
+  bottom: 1760
 tags:
 - no_car_accessible
 - snowboard_friendly
@@ -57,12 +63,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 36.06801
-  longitude: 138.301392
-elevation:
-  top: 2240
-  bottom: 1760
 courses:
   total: 7
   beginnerRatio: 40

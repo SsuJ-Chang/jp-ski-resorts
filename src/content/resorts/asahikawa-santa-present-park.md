@@ -6,6 +6,13 @@ name:
   en: Asahikawa Santa Present Park
 region: hokkaido
 prefecture: 北海道
+location:
+  latitude: 43.761065153545076
+  longitude: 142.30256261349342
+elevation:
+  top: 330
+  bottom: 170
+  verticalDrop: 160
 tags:
 - beginner_friendly
 - family_friendly
@@ -83,13 +90,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣為靜態展示資料，出發前請確認當季營運公告與最新天氣資訊。
-location:
-  latitude: 43.761065153545076
-  longitude: 142.30256261349342
-elevation:
-  top: 330
-  bottom: 170
-  verticalDrop: 160
 courses:
   total: 6
   beginnerRatio: 40

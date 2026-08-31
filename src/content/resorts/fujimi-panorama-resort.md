@@ -6,6 +6,13 @@ name:
   en: Fujimi Panorama Resort
 region: kanto-koshinetsu
 prefecture: 長野縣
+location:
+  latitude: 35.910655
+  longitude: 138.206978
+elevation:
+  top: 1780
+  bottom: 1050
+  verticalDrop: 730
 tags:
 - beginner_friendly
 - family_friendly
@@ -59,13 +66,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 35.910655
-  longitude: 138.206978
-elevation:
-  top: 1780
-  bottom: 1050
-  verticalDrop: 730
 courses:
   total: 7
   beginnerRatio: 30

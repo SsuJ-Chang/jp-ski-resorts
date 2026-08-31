@@ -6,6 +6,10 @@ name:
   en: Gokase Highland Ski Resort
 region: kyushu
 prefecture: 宮崎縣
+elevation:
+  top: 1610
+  bottom: 1270
+  verticalDrop: 340
 tags:
 - beginner_friendly
 - family_friendly
@@ -14,9 +18,9 @@ tags:
 rjOpinion: |-
   很不幸的在整理雪場時候看到已永久歇業...。
   [官網說明](https://www.gokase.co.jp/ski/%e3%82%b9%e3%82%ad%e3%83%bc%e5%a0%b4%e5%96%b6%e6%a5%ad%e7%b5%82%e4%ba%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/)
-homeRegionExample: true
 visibility:
   status: published
+homeRegionExample: true
 links:
   official: https://www.gokase.co.jp/ski/
   facebook: https://www.facebook.com/gokase.ski
@@ -69,10 +73,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-elevation:
-  top: 1610
-  bottom: 1270
-  verticalDrop: 340
 courses:
   total: 2
   beginnerRatio: 50

@@ -6,6 +6,13 @@ name:
   en: Mt. Norikura Snow Resort
 region: kanto-koshinetsu
 prefecture: 長野縣
+location:
+  latitude: 36.120895
+  longitude: 137.617024
+elevation:
+  top: 2000
+  bottom: 1500
+  verticalDrop: 500
 tags:
 - family_friendly
 - no_car_accessible
@@ -61,13 +68,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 36.120895
-  longitude: 137.617024
-elevation:
-  top: 2000
-  bottom: 1500
-  verticalDrop: 500
 courses:
   total: 20
   beginnerRatio: 40

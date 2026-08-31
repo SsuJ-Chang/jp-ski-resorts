@@ -6,6 +6,12 @@ name:
   en: Ninox Snow Park
 region: kanto-koshinetsu
 prefecture: 新潟縣
+location:
+  latitude: 37.926847
+  longitude: 139.467938
+elevation:
+  top: 533
+  bottom: 317
 tags:
 - beginner_friendly
 - family_friendly
@@ -62,12 +68,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
-location:
-  latitude: 37.926847
-  longitude: 139.467938
-elevation:
-  top: 533
-  bottom: 317
 courses:
   total: 2
   courseInfoPage: https://www.ninox.co.jp

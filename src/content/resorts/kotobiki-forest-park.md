@@ -6,6 +6,13 @@ name:
   en: Kotobiki Forest Park
 region: kansai-chugoku
 prefecture: 島根縣
+location:
+  latitude: 35.0549
+  longitude: 132.7698
+elevation:
+  top: 720
+  bottom: 540
+  verticalDrop: 180
 tags:
 - family_friendly
 - night_skiing
@@ -19,6 +26,12 @@ links:
   trailMapPage: https://ski.kotobiki.co.jp/course-gerende/
   weather: https://weathernews.jp/ski/spot/36804/
   googleMaps: https://maps.google.co.jp/maps?q=35.0549,132.7698
+contact:
+  address:
+    zhTw: 島根縣飯石郡飯南町佐見1151
+    ja: 〒690-3204 島根県飯石郡飯南町佐見1151
+    googleMaps: https://maps.google.co.jp/maps?q=35.0549,132.7698
+  phone: 0854-72-1021
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/19-2026/03/01
@@ -31,6 +44,30 @@ trailMaps:
   season: 2025-2026
   url: https://ski.kotobiki.co.jp/course-gerende/
   sourceLabel: Kotobiki Forest Park Official
+tickets:
+  season: 2025-2026
+  currency: JPY
+  source: https://weathernews.jp/ski/spot/36804/
+  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  plans:
+  - name: 1 日券
+    priceLines:
+    - 成人 ¥4,500 兒童 ¥3,000 樂齡 ¥4,000
+  - name: 4 小時券
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,500
+  - name: 1 回券
+    priceLines:
+    - 成人 ¥400 兒童 ¥400 樂齡 ¥400
+  - name: 1日券平日
+    priceLines:
+    - 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,500
+  - name: 4時間券平日
+    priceLines:
+    - 成人 ¥3,600 兒童 ¥2,100 樂齡 ¥3,100
+  - name: 10 小時券
+    priceLines:
+    - 成人 ¥9,500 兒童 ¥6,000 樂齡 ¥8,000
 snowWeather:
   title: 琴引 Forest Park雪況天氣
   provider: Weathernews
@@ -70,55 +107,18 @@ courses:
   beginnerRatio: 20
   intermediateRatio: 60
   advancedRatio: 20
-terrainSummary:
-  beginner: 初級雪道以 チェリーコース 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 パインコース、エルムコース、メイプルコース、林間コース 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 オークコース、ヒッコリーコース，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-contact:
-  address:
-    zhTw: 島根縣飯石郡飯南町佐見1151
-    ja: 〒690-3204 島根県飯石郡飯南町佐見1151
-    googleMaps: https://maps.google.co.jp/maps?q=35.0549,132.7698
-  phone: 0854-72-1021
-tickets:
-  season: 2025-2026
-  currency: JPY
-  source: https://weathernews.jp/ski/spot/36804/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
-  plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,500 兒童 ¥3,000 樂齡 ¥4,000
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,500
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥400 兒童 ¥400 樂齡 ¥400
-  - name: 1日券平日
-    priceLines:
-    - 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,500
-  - name: 4時間券平日
-    priceLines:
-    - 成人 ¥3,600 兒童 ¥2,100 樂齡 ¥3,100
-  - name: 10 小時券
-    priceLines:
-    - 成人 ¥9,500 兒童 ¥6,000 樂齡 ¥8,000
-elevation:
-  top: 720
-  bottom: 540
-  verticalDrop: 180
-location:
-  latitude: 35.0549
-  longitude: 132.7698
 lifts:
   total: 3
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：芸備線三次駅下車でタクシー（バスあり） (40分) 車 ：中国自動車道 三次ICより国道54号松江方面へ (40分) 車 ：山陰自動車道吉田掛合ICより広島方面へR54で約20km (20分) 500台 平日 免費 假日 免費
+    note: 交通資訊摘要：芸備線三次駅下車でタクシー（バスあり） (40分) 車 ：中国自動車道 三次ICより国道54号松江方面へ (40分) 車 ：山陰自動車道吉田掛合ICより広島方面へR54で約20km (20分) 500台 平日 免費 假日 免費terrainSummary:
+  beginner: 初級雪道以 チェリーコース 為主，適合練習速度控制與穩定轉彎。
+  intermediate: 中級者可用 パインコース、エルムコース、メイプルコース、林間コース 串接較長滑行或主坡巡航。
+  advanced: 進階路線包含 オークコース、ヒッコリーコース，請依當日開放狀態與雪況判斷。
+  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+
 ---
 
 琴引 Forest Park 配備人工降雪機，能維持穩定的滑行條件，區內有 7 條滑道，涵蓋初級到進階玩家的需求。雪場也設有以安心、安全為主軸的雪世界，包含動感走廊、兒童樂園與兒童屋，適合家庭一起享受冬季玩雪與滑雪。

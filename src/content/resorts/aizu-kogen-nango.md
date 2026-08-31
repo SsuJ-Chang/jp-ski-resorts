@@ -7,6 +7,13 @@ name:
   en: Aizu Kogen Nango Ski Resort
 region: tohoku
 prefecture: 福島縣
+location:
+  latitude: 37.26704748722505
+  longitude: 139.54573018465788
+elevation:
+  top: 1000
+  bottom: 510
+  verticalDrop: 490
 tags:
   - powder
   - snowboard_friendly
@@ -40,13 +47,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 37.26704748722505
-  longitude: 139.54573018465788
-elevation:
-  top: 1000
-  bottom: 510
-  verticalDrop: 490
 courses:
   total: 12
   beginnerRatio: 40

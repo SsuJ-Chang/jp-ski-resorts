@@ -7,6 +7,13 @@ name:
   en: Appi Kogen
 region: tohoku
 prefecture: 岩手縣
+location:
+  latitude: 40.0024173604333
+  longitude: 140.970519442329
+elevation:
+  top: 1328
+  bottom: 620
+  verticalDrop: 708
 tags:
   - large_ski_area
   - long_run
@@ -81,13 +88,6 @@ snowWeather:
   updatedAt: "2026/4/30 09:00:00"
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 40.0024173604333
-  longitude: 140.970519442329
-elevation:
-  top: 1328
-  bottom: 620
-  verticalDrop: 708
 courses:
   total: 21
   beginnerRatio: 30
