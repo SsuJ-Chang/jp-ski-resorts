@@ -1,7 +1,7 @@
 ---
 id: rokkosan-snow-park
 name:
-  zhTw: 六甲山 Snow Park
+  zhTw: 六甲山
   ja: 六甲山スノーパーク
   en: Rokkosan Snow Park
 region: kansai-chugoku
@@ -17,21 +17,21 @@ links:
   xTwitter: https://x.com/rokkosan_snow_
   trailMapPage: https://www.rokkosan.com/ski/beginner/ski/
   weather: https://weathernews.jp/ski/spot/36306/
-  googleMaps: https://maps.google.co.jp/maps?q=34.767987,135.242606
+  googleMaps: https://maps.app.goo.gl/nENWw8VvNLnghYeM7
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/06-2026/03/08
-  hours: は朝9時から夕方5時止です。 パイプ × ペットの同伴 × 近場の温泉 有馬温泉 名実ともに日本を代表する名泉の一つであり、秀吉が愛したことでも有名です。 住所 〒657-0101 兵庫県神戸市灘区六甲山町北六甲4512-98 地図を見る お問い合わせ TEL：078-891-0366 ホームページ 營業期間 2025年12月06日 ~ 2026年03月08日 營業時間 平日：9:00〜17:00 假日：9:00〜20:00（週六・週日・國定假日および12/25〜1/7は假日扱い。12/6、12/31、1/1は9:00~17:00營業。）
-  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
-  source: https://weathernews.jp/ski/spot/36306/
+  label: 2026-2027
+  operatingPeriod: 2026/12/05-2027/03/07
+  hours: 通常營業日：9:00 ~ 17:00；週末與假日：9:00 ~ 20:00；部分日期提前開門：8:00 ~ 20:00；無夜間營業日：9:00 ~ 17:00
+  note: 2026/12/05 因夜間包場活動僅營業至 17:00；Snow Land 使用時間為 9:00 ~ 17:00，實際營業日與時段請以官方營業行事曆為準。
+  source: https://www.rokkosan.com/ski/information/?yr=2026&month=8
 trailMaps:
-- label: 六甲山 Snow Park 官方雪道資訊
+- label: 六甲山官方雪道資訊
   language: 日本語
   season: 2025-2026
   url: https://www.rokkosan.com/ski/beginner/ski/
   sourceLabel: Rokkosan Snow Park Official
 snowWeather:
-  title: 六甲山 Snow Park雪況天氣
+  title: 六甲山雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/36306/
   snowDepth: 0 cm
@@ -63,41 +63,58 @@ contact:
   address:
     zhTw: 兵庫縣神戸市灘区六甲山町北六甲4512-98
     ja: 〒657-0101 兵庫県神戸市灘区六甲山町北六甲4512-98
-    googleMaps: https://maps.google.co.jp/maps?q=34.767987,135.242606
+    googleMaps: https://maps.app.goo.gl/nENWw8VvNLnghYeM7
   phone: 078-891-0366
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/36306/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  source: https://www.rokkosan.com/ski/fee/
+  note: 官方票價頁目前仍是 2025-2026 季資料，並說明 2026-2027 季價格與內容預計於 10 月公布；以下票價皆為大人與小人一律。
   plans:
-  - name: 平日1日券
+  - name: 1 日券
     priceLines:
-    - 成人 ¥1,600 兒童 ¥1,600
-  - name: 1回券(平日・週末及國定假日・年末年始)
+    - 平日：¥1,600
+    - 週末與假日：¥3,300
+  - name: 1 回券
     priceLines:
-    - 成人 ¥250 兒童 ¥250
-  - name: 假日1日券(週末及國定假日・年末年始)
+    - 平日：¥250
+    - 週末與假日：¥250
+  - name: 12 回券
     priceLines:
-    - 成人 ¥3,300 兒童 ¥3,300
-  - name: 假日3時間券(週末及國定假日・年末年始)
+    - 週末與假日：¥2,500
+  - name: 3 小時券
     priceLines:
-    - 成人 ¥2,800 兒童 ¥2,800
-  - name: 假日回數券(12回、週末及國定假日・年末年始)
-    priceLines:
-    - 成人 ¥2,500 兒童 ¥2,500
+    - 週末與假日：¥2,800
 elevation:
   top: 855
   bottom: 813
   verticalDrop: 42
 location:
-  latitude: 34.767987
-  longitude: 135.242606
+  latitude: 34.7680565006236
+  longitude: 135.24259636800411
 access:
+  fromOsaka:
+  - label: 大阪／神戶搭乘電車、纜車與山上巴士
+    steps:
+    - 從阪急六甲站、JR 六甲道站或阪神御影站搭乘公共交通工具前往六甲纜車下站。
+    - 搭乘六甲纜車，從六甲纜車下站至六甲山上站約 10 分鐘。
+    - 從六甲山上站搭乘六甲山上巴士，於「スノーパーク前」下車，步行約 1 分鐘抵達雪場入口。
+    difficulty: medium
+    note: 「スノーパーク前」巴士站位置可能依時期變更，出發前請確認六甲山上巴士資訊。
+    links:
+    - label: 官方六甲纜車與山上巴士資訊
+      url: https://www.rokkocable.com/
+    - label: 官方交通資訊
+      url: https://www.rokkosan.com/ski/ski_access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：阪神御影駅、JR六甲道駅、阪急六甲駅からバス、六甲ケーブル経由 (60分) 車 ：阪神高速3号神戸線魚崎ICより 表六甲ドライブウェイ経由 (40分) 700台 平日 1500円 假日 1500円
+    note: 從神戶約 35 分鐘、大阪市區約 60 分鐘。雪場設有約 550 台的停車場，入口距離依序為第 1、第 2、第 3 停車場；第 3 停車場僅在前兩處停滿時開放。第 1 停車場（最內側）與第 2 停車場至入口的步行時間相同。降雪量雖少，仍可能遇到積雪或路面結冰；使用普通輪胎時，官方建議攜帶雪鏈以因應天候變化。停車採一日制，並可在合作的六甲山上設施停車場重新停車；合作設施包含六甲花園露台與 ROKKO 森之音博物館。
+    links:
+    - label: 官方汽車與停車資訊
+      url: https://www.rokkosan.com/ski/ski_access/
+    - label: 官方票價與停車費資訊
+      url: https://www.rokkosan.com/ski/fee/
 ---
 
-六甲山 Snow Park位在兵庫縣，滑行區由3 條雪道構成。第1ゲレンデ、第2ゲレンデ、スノーランド 等路線能看出坡面配置，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。
+六甲山位在兵庫縣，滑行區由 3 條雪道構成。第1ゲレンデ、第2ゲレンデ、スノーランド 等路線能看出坡面配置，雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。
