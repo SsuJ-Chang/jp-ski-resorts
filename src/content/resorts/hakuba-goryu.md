@@ -7,6 +7,9 @@ name:
 region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: hakuba
+location:
+  latitude: 36.66336949950693
+  longitude: 137.83660396792817
 tags:
 - beginner_friendly
 - night_skiing
@@ -88,9 +91,6 @@ snowWeather:
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
-location:
-  latitude: 36.66336949950693
-  longitude: 137.83660396792817
 courses:
   beginnerRatio: 50
   intermediateRatio: 25
