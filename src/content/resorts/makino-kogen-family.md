@@ -78,7 +78,8 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：湖西線マキノ駅下車、バス (15分) 車 ：名神高速道路 京都東I.C (90分) 車 ：北陸自動車道 木之本I.C (30分) 500台 平日 1000円 假日 1000円terrainSummary:
+    note: 交通資訊摘要：湖西線マキノ駅下車、バス (15分) 車 ：名神高速道路 京都東I.C (90分) 車 ：北陸自動車道 木之本I.C (30分) 500台 平日 1000円 假日 1000円
+terrainSummary:
   beginner: 初級雪道以 ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 

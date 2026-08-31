@@ -128,7 +128,8 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：岡山IC→院庄IC→一般道 (120分) 車 ：高松西IC→院庄IC→一般道 (150分) 700台 平日 免費 假日 免費terrainSummary:
+    note: 交通資訊摘要：岡山IC→院庄IC→一般道 (120分) 車 ：高松西IC→院庄IC→一般道 (150分) 700台 平日 免費 假日 免費
+terrainSummary:
   beginner: 初級雪道以 パノラマ第3ゲレンデ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 パノラマ第1裏、レイクサイド第1ゲレンデ 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 パノラマ第1表、パノラマ第2表、パノラマ第2裏、レイクサイド第2表，請依當日開放狀態與雪況判斷。

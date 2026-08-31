@@ -103,7 +103,8 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：JR播但線寺前駅下車 シャトルバス有（要予約） (30分) 車 ：播但道神崎南IC (30分) 600台 平日 500円 假日 1000円terrainSummary:
+    note: 交通資訊摘要：JR播但線寺前駅下車 シャトルバス有（要予約） (30分) 車 ：播但道神崎南IC (30分) 600台 平日 500円 假日 1000円
+terrainSummary:
   beginner: 初級雪道以 サウスコース 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 センターコース、ウエストコース 串接較長滑行或主坡巡航。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。

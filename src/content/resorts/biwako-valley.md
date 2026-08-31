@@ -143,7 +143,8 @@ access:
     note: 從名神高速京都東 IC 經西大津繞道與湖西道路，於志賀 IC 出口後約 5 分鐘抵達。導航請設定「滋賀縣大津市木戸 1485-2（舊 JA 加油站／琵琶湖谷入口）」或「びわ湖バレイ駐車場ゲート」；入口位於縣道 558 號沿線、設有大型招牌的 T 字路口，請留意導航可能誤導至登山道。大型連休可能因停車場滿位而限制入場，建議改搭大眾運輸；停車場僅收現金。週末與連休期間，9 至 15 號停車場與纜車山麓站之間會視情況運行免費循環巴士。
     links:
     - label: 官方交通與停車資訊
-      url: https://www.biwako-valley.com/all_season/access/terrainSummary:
+      url: https://www.biwako-valley.com/all_season/access/
+terrainSummary:
   beginner: 初級雪道包含打見雪道與阿爾卑斯雪道，適合練習速度控制與穩定轉彎。
   intermediate: 中級雪道包含蓬萊全景、巨人、浪漫、動態與森林雪道，可依雪況安排較長距離滑行。
   advanced: 中上級雪道包含冠軍與蓬萊北雪道，請依當日開放狀態與雪況判斷。

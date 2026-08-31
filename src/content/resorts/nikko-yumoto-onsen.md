@@ -98,7 +98,8 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：東武鉄道日光線東武日光駅下車、バス (85分) 車 ：東北自動車宇都宮IC下車〜日光宇都宮有料道路清滝ICより国道120号で (45分) 100台 平日 免費 假日 1000円terrainSummary:
+    note: 交通資訊摘要：東武鉄道日光線東武日光駅下車、バス (85分) 車 ：東北自動車宇都宮IC下車〜日光宇都宮有料道路清滝ICより国道120号で (45分) 100台 平日 免費 假日 1000円
+terrainSummary:
   beginner: 初級雪道以 A コース、B コース、C コース 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 D コース 串接較長滑行或主坡巡航。
 

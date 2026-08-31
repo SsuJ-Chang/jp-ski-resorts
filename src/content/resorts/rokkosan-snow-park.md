@@ -111,7 +111,8 @@ access:
     - label: 官方汽車與停車資訊
       url: https://www.rokkosan.com/ski/ski_access/
     - label: 官方票價與停車費資訊
-      url: https://www.rokkosan.com/ski/fee/terrainSummary:
+      url: https://www.rokkosan.com/ski/fee/
+terrainSummary:
   beginner: 初級雪道以 第1ゲレンデ、第2ゲレンデ、スノーランド 為主，適合練習速度控制與穩定轉彎。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 

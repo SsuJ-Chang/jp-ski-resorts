@@ -100,7 +100,8 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：芸備線 JR備後落合駅よりタクシー (20分) 車 ：中国自動車道庄原ICよりR183〜R314経由 約40km (45分) 車 ：中国自動車道東城ICよりR314経由 約40km (45分) 500台 平日 免費 假日 免費terrainSummary:
+    note: 交通資訊摘要：芸備線 JR備後落合駅よりタクシー (20分) 車 ：中国自動車道庄原ICよりR183〜R314経由 約40km (45分) 車 ：中国自動車道東城ICよりR314経由 約40km (45分) 500台 平日 免費 假日 免費
+terrainSummary:
   beginner: 初級雪道以 第1ゲレンデ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 第2ゲレンデ、林間コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 上級コース，請依當日開放狀態與雪況判斷。

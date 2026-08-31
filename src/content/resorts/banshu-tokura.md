@@ -96,7 +96,8 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：中国道山崎IC (50分) 車 ：養父IC (60分) 550台 假日 1000円terrainSummary:
+    note: 交通資訊摘要：中国道山崎IC (50分) 車 ：養父IC (60分) 550台 假日 1000円
+terrainSummary:
   beginner: 初級雪道以 振子沢第1ペア沿いゲレンデ、キッズパーク 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 みはらしペア沿いゲレンデ 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 高丸トリプル沿いゲレンデ，請依當日開放狀態與雪況判斷。

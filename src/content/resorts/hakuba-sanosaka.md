@@ -131,7 +131,8 @@ terrainSummary:
   intermediate: Paradise、Lake Down、Lake View 與 Carving Slope 提供中級練習與青木湖景觀。
   advanced: New Paradise 與 Reserved Training Slope 是主要進階路線，最大斜度可達 32°。
   snowboard: 官方介紹 Carving Slope 以技術型雪板滑行者聞名，Snow Friends Park 也可在下場前練習。
-  powder: 官方特色說明白馬佐野坂為天然雪 100%，New Paradise 急斜面與粉雪相性佳。externalContent:
+  powder: 官方特色說明白馬佐野坂為天然雪 100%，New Paradise 急斜面與粉雪相性佳。
+externalContent:
   blogs: []
   vlogs:
   - title: "白馬人才會來的秘境滑雪場❄️!適合新手嗎?唯一能看火車和又能看湖的雪場!默念口訣挑戰黑線蘑菇道｜白馬雪場開箱EP.4🏂｜"

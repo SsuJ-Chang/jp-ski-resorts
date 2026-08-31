@@ -247,7 +247,8 @@ access:
     - label: 官方汽車與停車場資訊
       url: https://www.okuibuki.co.jp/access/
     - label: 官方電車與接駁車資訊
-      url: https://www.okuibuki.co.jp/access/public_transport/terrainSummary:
+      url: https://www.okuibuki.co.jp/access/public_transport/
+terrainSummary:
   beginner: 初級雪道以 ビギナーゲレンデ、ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 バラエティーコース、パラダイスコース、ダイナミックコース、アルペンコース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 チャンピオンコース、テクニカルコース，請依當日開放狀態與雪況判斷。

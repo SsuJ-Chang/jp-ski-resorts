@@ -124,7 +124,8 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：上越線沼田駅下車、バスで (70分) 車 ：前橋IC→沼田IC→尾瀬戸倉 (60分) 車 ：練馬IC→沼田IC→尾瀬戸倉 (150分) 900台 平日 免費 假日 免費terrainSummary:
+    note: 交通資訊摘要：上越線沼田駅下車、バスで (70分) 車 ：前橋IC→沼田IC→尾瀬戸倉 (60分) 車 ：練馬IC→沼田IC→尾瀬戸倉 (150分) 900台 平日 免費 假日 免費
+terrainSummary:
   beginner: 初級雪道以 レッスンゲレンデ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 十二平ゲレンデ、ロマンスコース、富士見コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 A コース、ダイナミックコース、荒山コース，請依當日開放狀態與雪況判斷。

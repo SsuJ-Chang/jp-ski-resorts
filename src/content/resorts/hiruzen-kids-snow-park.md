@@ -68,7 +68,8 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：姫新線中国勝山駅→蒜山高原行市営バス終点蒜山高原下車 (100分) 車 ：米子自動車道蒜山IC→一般道（約4km） (10分) 100台 平日 免費 假日 免費terrainSummary:
+    note: 交通資訊摘要：姫新線中国勝山駅→蒜山高原行市営バス終点蒜山高原下車 (100分) 車 ：米子自動車道蒜山IC→一般道（約4km） (10分) 100台 平日 免費 假日 免費
+terrainSummary:
   beginner: 初級雪道以 有料エリア入場雪遊びゾーン 為主，適合練習速度控制與穩定轉彎。
 
 ---
