@@ -79,7 +79,7 @@ tickets:
       priceLines:
         - 成人：¥7,000
         - 兒童：¥4,000
-        - 敬老：¥6,000
+        - 長者：¥6,000
       note: 平日 / 假日價格不同時，可再拆成多行。
     - name: 4 小時券
       priceLines:
@@ -212,6 +212,14 @@ access:
       links:
         - label: 機場交通頁
           url: https://example.com/airport-access/
+  publicTransit:
+    - label: 最近車站轉乘接駁巴士
+      steps:
+        - 抵達最近車站後，轉乘路線巴士或官方接駁車
+        - 在雪場附近站牌下車後步行至入口
+      estimatedTime: 約 30 分
+      difficulty: easy
+      note: 適用於不綁定東京、大阪、名古屋、札幌或機場出發的當地公共運輸路線。
   car:
     recommended: false
     snowTireRequired: true

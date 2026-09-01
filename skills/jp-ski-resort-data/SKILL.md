@@ -45,3 +45,20 @@ Coordinate rules:
 - Resort map components should read resort coordinates from resort content whenever possible.
 - Transport hubs, stations, and non-resort map nodes should keep their coordinates in dedicated data files such as `src/data/transportHubs.ts`.
 - Coordinate values are numeric schema fields. Do not add thousands separators or unit text.
+
+Access and transport rules:
+
+- `access.fromTokyo`, `access.fromOsaka`, `access.fromNagoya`, `access.fromSapporo`, and `access.fromAirport` are origin-based non-driving routes. Use them for railways, buses, official shuttle buses, and other public-transport connections from the named origin.
+- `access.publicTransit` is for non-driving routes that do not fit a major origin group, especially the local connection from a nearby station, bus stop, or transport hub to the resort. Use it for a resort's general public-transport access rather than inventing a city origin.
+- Do not duplicate the same route in an origin-based field and `publicTransit`. Choose the field that best describes the route's starting point; a local station-to-resort connection belongs in `publicTransit` unless it is presented as part of a complete city-to-resort itinerary.
+- `access.car` is the only place for self-driving information, including expressway exits, driving times, parking, winter tyres, snow chains, and road cautions. Do not put a self-driving route in any `from*` or `publicTransit` field.
+- A taxi may appear as a last-mile step in a non-driving route, but a taxi-only itinerary should be labelled clearly; do not describe it as a railway or bus route.
+- Keep `access.*[].estimatedTime` limited to the compact time shown in the route badge. Put transfers, seasonal schedules, reservations, and road conditions in `note`.
+
+Ticket formatting rules:
+
+- Follow the Hakuba Goryu-style flat structure: one `tickets.plans[]` item is one ticket type, and each `priceLines[]` item is one readable price category or pricing unit.
+- Prefer one category per line with a colon, for example `成人：¥5,300`, `長者：¥4,500`, and `小學生：¥1,800`. Split weekday/holiday or area-specific prices into separate lines or separate plans when that improves readability.
+- Use the site-wide Traditional Chinese category terms `成人`, `兒童`, `小學生`, `國中生`, `高中生`, and `長者`. Translate `Senior` and `シニア` as `長者`; do not use `樂齡` or `年長者` as ticket category labels.
+- Keep official product names when they are proper names, but translate explanatory ticket text into Traditional Chinese. Do not leave mixed labels such as `大人 / Senior / 小學生`.
+- Use `、` when one `priceLines` item genuinely needs multiple labels, and use spaces around `/` and `~` in display text. Use thousands separators in prices.
