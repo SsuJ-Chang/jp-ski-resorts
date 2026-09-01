@@ -53,24 +53,34 @@ tickets:
   source: https://weathernews.jp/ski/spot/34207/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,500 兒童 ¥4,500 樂齡 ¥6,000
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥700 兒童 ¥500
-  - name: 5 小時券
-    priceLines:
-    - 成人 ¥5,800 兒童 ¥3,800 樂齡 ¥5,300
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥2,500 兒童 ¥1,600 樂齡 ¥2,300
-  - name: 20 小時券
-    priceLines:
-    - 成人 ¥21,000 兒童 ¥13,000 樂齡 ¥19,000
-  - name: ※
-    priceLines:
-    - 國高中生のリフト券あり
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥4,500
+        - 長者：¥6,000
+    - name: 1 回券
+      priceLines:
+        - 成人：¥700
+        - 兒童：¥500
+    - name: 5 小時券
+      priceLines:
+        - 成人：¥5,800
+        - 兒童：¥3,800
+        - 長者：¥5,300
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥2,500
+        - 兒童：¥1,600
+        - 長者：¥2,300
+    - name: 20 小時券
+      priceLines:
+        - 成人：¥21,000
+        - 兒童：¥13,000
+        - 長者：¥19,000
+    - name: 高中生纜車券
+      priceLines:
+        - 價格待補
+      note: 國高中生另有纜車券。
 snowWeather:
   title: White World 尾瀨岩鞍雪況天氣
   provider: Weathernews

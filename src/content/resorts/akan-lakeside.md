@@ -47,19 +47,19 @@ tickets:
   source: https://weathernews.jp/ski/spot/31901/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥2,000
-    - 長者 ¥3,000
-  - name: 11 回券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥1,700
-  - name: 季票
-    priceLines:
-    - 成人 ¥35,000
-    - 兒童 ¥23,500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥2,000
+        - 長者：¥3,000
+    - name: 11 回券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥1,700
+    - name: 季票
+      priceLines:
+        - 成人：¥35,000
+        - 兒童：¥23,500
 snowWeather:
   title: 阿寒湖畔雪況天氣
   provider: Weathernews

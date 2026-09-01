@@ -50,26 +50,26 @@ tickets:
   source: https://www.kanazawa-sports.jp/use/search/546
   note: 官方設施頁列出的主要纜車券；營業年度如有調整請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - ¥1,570
-    note: 當日營業開始至營業結束有效。
-  - name: 上午券
-    priceLines:
-    - ¥830
-    note: 營業開始至 13:00。
-  - name: 下午券
-    priceLines:
-    - ¥830
-    note: 12:00 至營業結束。
-  - name: 回數券 11 回
-    priceLines:
-    - ¥1,000
-    note: 購買雪季中有效。
-  - name: 1 回券
-    priceLines:
-    - ¥100
-    note: 購買雪季中有效。
+    - name: 1 日券
+      priceLines:
+        - ¥1,570
+      note: 當日營業開始至營業結束有效。
+    - name: 上午券
+      priceLines:
+        - ¥830
+      note: 營業開始至 13:00。
+    - name: 下午券
+      priceLines:
+        - ¥830
+      note: 12:00 至營業結束。
+    - name: 回數券 11 回
+      priceLines:
+        - ¥1,000
+      note: 購買雪季中有效。
+    - name: 1 回券
+      priceLines:
+        - ¥100
+      note: 購買雪季中有效。
 snowWeather:
   title: 金澤市營醫王山雪況天氣
   provider: Weathernews

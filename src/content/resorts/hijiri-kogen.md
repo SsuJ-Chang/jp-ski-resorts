@@ -40,26 +40,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34891/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1日券(週末假日)
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥2,000
-    - 樂齡 ¥2,000
-  - name: 12回券(週末假日)
-    priceLines:
-    - 成人 ¥2,000
-    - 兒童 ¥1,500
-    - 樂齡 ¥2,000
-  - name: 4時間券（週末假日）
-    priceLines:
-    - 成人 ¥2,000
-    - 兒童 ¥1,500
-    - 樂齡 ¥1,500
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥200
-    - 兒童 ¥150
-    - 樂齡 ¥200
+    - name: 1日券(週末假日)
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,000
+        - 長者：¥2,000
+    - name: 12回券(週末假日)
+      priceLines:
+        - 成人：¥2,000
+        - 兒童：¥1,500
+        - 長者：¥2,000
+    - name: 4時間券（週末假日）
+      priceLines:
+        - 成人：¥2,000
+        - 兒童：¥1,500
+        - 長者：¥1,500
+    - name: 1 回券
+      priceLines:
+        - 成人：¥200
+        - 兒童：¥150
+        - 長者：¥200
 snowWeather:
   title: 聖高原雪況預報
   provider: Weathernews

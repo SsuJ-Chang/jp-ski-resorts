@@ -76,12 +76,6 @@ access:
         - 鐵路：仙台市営地下鉄泉中央駅下車、バスで (40分)
       estimatedTime: "約 40 分"
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：車で (100分)
-      estimatedTime: "約 100 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

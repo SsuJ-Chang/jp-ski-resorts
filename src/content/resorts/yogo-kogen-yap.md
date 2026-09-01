@@ -49,24 +49,34 @@ tickets:
   source: https://weathernews.jp/ski/spot/36002/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券（平日）
-    priceLines:
-    - 成人 ¥4,500 兒童 ¥2,500 樂齡 ¥4,000
-  - name: 1日券（週末及國定假日）
-    priceLines:
-    - 成人 ¥5,200 兒童 ¥3,500 樂齡 ¥4,200
-  - name: 午後券（平日）
-    priceLines:
-    - 成人 ¥3,500 兒童 ¥1,500 樂齡 ¥3,000
-  - name: 午後券（週末及國定假日）
-    priceLines:
-    - 成人 ¥4,200 兒童 ¥2,500 樂齡 ¥3,200
-  - name: 親子券(
-    priceLines:
-    - 成人1日券＋兒童1日券）週末及國定假日 成人 ¥7,500
-  - name: 夜滑券（17:30〜22:50）
-    priceLines:
-    - 成人 ¥3,800 兒童 ¥2,600 樂齡 ¥3,300
+    - name: 1日券（平日）
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥2,500
+        - 長者：¥4,000
+    - name: 1日券（週末及國定假日）
+      priceLines:
+        - 成人：¥5,200
+        - 兒童：¥3,500
+        - 長者：¥4,200
+    - name: 午後券（平日）
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥1,500
+        - 長者：¥3,000
+    - name: 午後券（週末及國定假日）
+      priceLines:
+        - 成人：¥4,200
+        - 兒童：¥2,500
+        - 長者：¥3,200
+    - name: 親子券(
+      priceLines:
+        - 成人1日券＋兒童1日券）週末、國定假日 成人：¥7,500
+    - name: 夜滑券（17:30〜22:50）
+      priceLines:
+        - 成人：¥3,800
+        - 兒童：¥2,600
+        - 長者：¥3,300
 snowWeather:
   title: Yogo Kogen Resort YAP雪況天氣
   provider: Weathernews

@@ -46,25 +46,25 @@ tickets:
   source: https://weathernews.jp/ski/spot/38602/
   note: 初版先依公開資料整理主要票種；完整票價、租借與優惠規則請以官方當季公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,000
-    - 兒童 ¥3,500
-    - 長者 ¥3,500
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥8,000
-    - 兒童 ¥5,000
-  - name: 上午券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥3,000
-    - 長者 ¥3,000
-  - name: 下午券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥3,000
-    - 長者 ¥3,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥3,500
+        - 長者：¥3,500
+    - name: 2 日券
+      priceLines:
+        - 成人：¥8,000
+        - 兒童：¥5,000
+    - name: 上午券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥3,000
+        - 長者：¥3,000
+    - name: 下午券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥3,000
+        - 長者：¥3,000
 snowWeather:
   title: 五瀨高原雪況天氣
   provider: Weathernews
@@ -93,24 +93,10 @@ courses:
 lifts:
   total: 3
 access:
-  fromAirport:
-  - label: 熊本機場出發
-    steps:
-    - 抵達熊本機場後，租車往五瀨町、山都町方向前往五瀨高原。
-    - 依山都通潤橋 IC 或藏田 IC 周邊道路資訊進入一般道路後，前往本屋敷停車場或雪場入口。
-    - 抵達後依官方免費接駁巴士時刻表，往返本屋敷停車場與入場纜車搭乘處。
-    estimatedTime: 約 90 分鐘
-    difficulty: hard
-    note: 公開資料列熊本機場約 90 分鐘；官方另提供停車場與入場纜車搭乘處之間的免費接駁巴士時刻表，冬季山路需確認路況與接駁時刻。
-    links:
-    - label: 五瀨高原免費接駁巴士時刻表
-      url: https://www.gokase.co.jp/wp/wp-content/themes/biz-vektor/pdf/shuttle_bus_timetable.pdf
-    - label: 五瀨高原 Weathernews
-      url: https://weathernews.jp/ski/spot/38602/
   car:
     recommended: true
     snowTireRequired: true
-    note: 山都通潤橋 IC 或藏田 IC 後約 60 分鐘；九州山區冬季仍可能有積雪或結冰，建議出發前確認道路狀況並準備雪胎或雪鏈。
+    note: 山都通潤橋 IC 或藏田 IC 後約 60 分鐘；九州山區冬季仍可能有積雪或結冰，建議出發前確認道路狀況並準備雪胎或雪鏈；自駕路線：熊本機場出發：抵達熊本機場後，租車往五瀨町、山都町方向前往五瀨高原；依山都通潤橋 IC 或藏田 IC 周邊道路資訊進入一般道路後，前往本屋敷停車場或雪場入口；抵達後依官方免費接駁巴士時刻表，往返本屋敷停車場與入場纜車搭乘處；參考時間 約 90 分鐘；公開資料列熊本機場約 90 分鐘；官方另提供停車場與入場纜車搭乘處之間的免費接駁巴士時刻表，冬季山路需確認路況與接駁時刻。
 terrainSummary:
   beginner: 公開資料列初級比例 50%，官方雪道頁亦有 Beginner course 與 Family Gelande 等區域。
   intermediate: 公開資料列中級比例 50%，官方雪道頁列有 Paradise Course 與 Dynamic Course 等區域。

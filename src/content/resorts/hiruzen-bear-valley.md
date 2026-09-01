@@ -48,24 +48,31 @@ tickets:
   source: https://weathernews.jp/ski/spot/36607/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,500 兒童 ¥3,500 樂齡 ¥4,000
-  - name: 11回數券(11回)
-    priceLines:
-    - 成人 ¥4,000 兒童 ¥4,000
-  - name: 季票
-    priceLines:
-    - 成人 ¥30,000 兒童 ¥20,000
-  - name: 上午券
-    priceLines:
-    - 成人 ¥3,500 兒童 ¥2,500
-  - name: 下午券
-    priceLines:
-    - 成人 ¥3,500 兒童 ¥2,500
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥3,000 兒童 ¥3,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥3,500
+        - 長者：¥4,000
+    - name: 11回數券(11回)
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥4,000
+    - name: 季票
+      priceLines:
+        - 成人：¥30,000
+        - 兒童：¥20,000
+    - name: 上午券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥2,500
+    - name: 下午券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥2,500
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥3,000
 snowWeather:
   title: 蒜山 Bear Valley雪況天氣
   provider: Weathernews

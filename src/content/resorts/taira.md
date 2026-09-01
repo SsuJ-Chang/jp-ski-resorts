@@ -38,10 +38,10 @@ tickets:
   source: https://weathernews.jp/ski/spot/35504/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠與停車費請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,000
-    - 小學生 ¥2,500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,000
+        - 小學生：¥2,500
 snowWeather:
   title: Taira雪況天氣
   provider: Weathernews

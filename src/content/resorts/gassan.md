@@ -42,40 +42,47 @@ tickets:
   season: '2026'
   currency: JPY
   source: https://mt-gassan.com/snow/info/
-  note: 小人為小學生，未就學兒童免費；T-bar 以現金於乘車時支付，實際販售與折扣適用期間請以官方現場公告為準。
+  note: 兒童為小學生，兒童（學齡前）免費；T-bar 以現金於乘車時支付，實際販售與折扣適用期間請以官方現場公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 大人 ¥5,800 / 小學生 ¥3,500
-  - name: 上午・下午券
-    priceLines:
-    - 大人 ¥4,600 / 小學生 ¥2,100
-    note: 上午券可用至 13:00；下午券自 12:00 起可用。
-  - name: 1 回券
-    priceLines:
-    - 大人 ¥1,200 / 小學生 ¥600
-  - name: 來回券
-    priceLines:
-    - 大人 ¥1,800 / 小學生 ¥900
-  - name: 7 枚回數券
-    priceLines:
-    - 大人 ¥5,300 / 小學生 ¥3,000
-  - name: 初滑 1 日券
-    priceLines:
-    - 大人 ¥5,000 / 小學生 ¥2,500
-    note: 2026/04/10-2026/04/17 適用。
-  - name: 熟齡 1 日券
-    priceLines:
-    - 60 歲以上：¥5,400
-    note: 2026/04/18 起至雪季結束適用，需出示證明文件。
-  - name: 週三週四優惠 1 日券
-    priceLines:
-    - 大人 ¥5,400 / 小學生 ¥2,500
-    note: 2026/05/07 起至雪季結束適用，國定假日除外。
-  - name: T-bar 1 回利用
-    priceLines:
-    - ¥200
-    note: 乘車時現金支付。
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,800
+        - 小學生：¥3,500
+    - name: 上午・下午券
+      priceLines:
+        - 成人：¥4,600
+        - 小學生：¥2,100
+      note: 上午券可用至 13:00；下午券自 12:00 起可用。
+    - name: 1 回券
+      priceLines:
+        - 成人：¥1,200
+        - 小學生：¥600
+    - name: 來回券
+      priceLines:
+        - 成人：¥1,800
+        - 小學生：¥900
+    - name: 7 枚回數券
+      priceLines:
+        - 成人：¥5,300
+        - 小學生：¥3,000
+    - name: 初滑 1 日券
+      priceLines:
+        - 成人：¥5,000
+        - 小學生：¥2,500
+      note: 2026/04/10-2026/04/17 適用。
+    - name: 熟齡 1 日券
+      priceLines:
+        - 長者（60 歲以上）：¥5,400
+      note: 2026/04/18 起至雪季結束適用，需出示證明文件。
+    - name: 週三週四優惠 1 日券
+      priceLines:
+        - 成人：¥5,400
+        - 小學生：¥2,500
+      note: 2026/05/07 起至雪季結束適用，國定假日除外。
+    - name: T-bar 1 回利用
+      priceLines:
+        - ¥200
+      note: 乘車時現金支付。
 snowWeather:
   title: 月山雪況與纜車狀態
   provider: Mt.月山 Official

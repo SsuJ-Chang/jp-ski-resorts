@@ -51,31 +51,31 @@ tickets:
   source: https://weathernews.jp/ski/spot/36610/
   note: 2025-2026 主要票種摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥500
-    - 兒童 ¥500
-    - 樂齡 ¥500
-  - name: 3 小時券
-    priceLines:
-    - 成人 ¥3,500
-    - 兒童 ¥2,000
-    - 樂齡 ¥2,500
-  - name: 5 小時券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥2,500
-    - 樂齡 ¥3,000
-  - name: 平日 1 日券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥2,800
-    - 樂齡 ¥3,000
-  - name: 週末假日與特定日 1 日券
-    priceLines:
-    - 成人 ¥4,500
-    - 兒童 ¥3,000
-    - 樂齡 ¥3,500
+    - name: 1 回券
+      priceLines:
+        - 成人：¥500
+        - 兒童：¥500
+        - 長者：¥500
+    - name: 3 小時券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥2,000
+        - 長者：¥2,500
+    - name: 5 小時券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥2,500
+        - 長者：¥3,000
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥2,800
+        - 長者：¥3,000
+    - name: 週末假日與特定日 1 日券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥3,000
+        - 長者：¥3,500
 snowWeather:
   title: Ibuki no Sato 雪況天氣
   provider: Weathernews
@@ -110,25 +110,25 @@ courses:
 lifts:
   total: 3
 access:
-  fromOsaka:
-  - label: 大眾交通工具（主要車站銜接）
-    steps:
-    - 搭乘 JR 伯備線至新見站後，轉乘路線巴士約 48 分鐘前往。
-    - 雪季也可確認預約制直行巴士「いぶきライナー」，新見站至雪場約 40 分鐘。
-    estimatedTime: 約 40-48 分
-    difficulty: medium
-    note: 直行巴士為預約制；不自駕時建議先確認當季班次、預約條件與回程時間。
   fromAirport:
-  - label: 岡山機場出發
-    steps:
-    - 從岡山機場以自駕或包車銜接高速道路前往雪場。
-    estimatedTime: 約 90 分
-    difficulty: medium
-    note: 機場後段以車行時間為主，實際會受道路積雪與高速道路狀況影響。
+    - label: 岡山機場出發
+      steps:
+        - 從岡山機場以包車銜接高速道路前往雪場。
+      estimatedTime: 約 90 分
+      difficulty: medium
+      note: 機場後段以車行時間為主，實際會受道路積雪與高速道路狀況影響。
   car:
     recommended: true
     snowTireRequired: true
     note: 自駕參考：中國自動車道新見 IC 至雪場約 30 分。停車場約 1,000 台，平日與假日免費；冬季山路需準備雪胎或雪鏈。
+  publicTransit:
+    - label: 大眾交通工具（主要車站銜接）
+      steps:
+        - 搭乘 JR 伯備線至新見站後，轉乘路線巴士約 48 分鐘前往。
+        - 雪季也可確認預約制直行巴士「いぶきライナー」，新見站至雪場約 40 分鐘。
+      estimatedTime: 約 40-48 分
+      difficulty: medium
+      note: 直行巴士為預約制；不自駕時建議先確認當季班次、預約條件與回程時間。
 terrainSummary:
   beginner: 初級比例約 35%，可作為暖身、親子同行或初訪時的主要安排。
   intermediate: 中級比例約 45%，適合已能穩定轉彎的滑雪者使用主要雪道練習。

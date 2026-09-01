@@ -55,18 +55,18 @@ lifts:
   total: 0
 access:
   fromOsaka:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 可從 JR 伯備線江尾站或根雨站轉乘計程車銜接，約 20-30 分鐘。
         - 也可從山陰本線倉吉站方向銜接地面交通，約 40 分鐘。
-      estimatedTime: "約 30-40 分"
+      estimatedTime: 約 30-40 分
       difficulty: medium
       note: 公共交通最後一段以計程車或地面交通為主，建議先確認叫車、回程與冬季營業狀態。
   fromAirport:
-    - label: "米子鬼太郎機場出發"
+    - label: 米子鬼太郎機場出發
       steps:
-        - 從米子鬼太郎機場以自駕、租車或包車前往蒜山高原中心周邊。
-      estimatedTime: "約 60 分"
+        - 從米子鬼太郎機場以包車前往蒜山高原中心周邊。
+      estimatedTime: 約 60 分
       difficulty: medium
       note: 機場後段以車行時間為主，實際會受道路積雪與高速道路狀況影響。
   car:

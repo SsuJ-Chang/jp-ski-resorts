@@ -44,21 +44,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/31606/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,000
-    - 兒童 ¥4,400
-    - 長者 ¥4,400
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥4,200
-    - 兒童 ¥3,700
-    - 長者 ¥3,700
-  - name: 11 回券
-    priceLines:
-    - 成人 ¥4,700
-    - 兒童 ¥4,200
-    - 長者 ¥4,200
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥4,400
+        - 長者：¥4,400
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥4,200
+        - 兒童：¥3,700
+        - 長者：¥3,700
+    - name: 11 回券
+      priceLines:
+        - 成人：¥4,700
+        - 兒童：¥4,200
+        - 長者：¥4,200
 snowWeather:
   title: 中山峠雪況天氣
   provider: Weathernews
@@ -86,20 +86,10 @@ courses:
 lifts:
   total: 1
 access:
-  fromSapporo:
-    - label: 札幌出發
-      steps:
-        - 從札幌沿國道 230 號經中山峠前往雪場。
-      estimatedTime: 約 70 分
-      difficulty: easy
-      note: 中山峠位於札幌與留壽都之間，主要以自駕或租車前往。
-      links:
-        - label: 中山峠官方交通資訊
-          url: https://nakayama-ski.com/
   fromAirport:
     - label: 新千歲機場出發
       steps:
-        - 從新千歲機場租車或搭乘巴士前往札幌方向。
+        - 從新千歲機場包車或搭乘巴士前往札幌方向。
         - 經國道 230 號前往中山峠。
       estimatedTime: 約 1.5 小時
       difficulty: medium
@@ -110,7 +100,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 從札幌市區自駕約 70 分鐘，新千歲機場約 90 分鐘。中山峠冬季降雪與風勢較強，自駕需使用雪胎或雪鏈並留意道路公告。
+    note: 從札幌市區自駕約 70 分鐘，新千歲機場約 90 分鐘。中山峠冬季降雪與風勢較強，自駕需使用雪胎或雪鏈並留意道路公告；自駕路線：札幌出發：從札幌沿國道 230 號經中山峠前往雪場；參考時間 約 70 分；中山峠位於札幌與留壽都之間，主要以自駕或租車前往。
 terrainSummary:
   beginner: 初級雪道佔 0%，可作為安排練習與暖身的參考。
   intermediate: 中級雪道佔 100%，適合已能穩定轉彎的滑雪者參考。

@@ -42,26 +42,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34824/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 全日1日券
-    priceLines:
-    - 成人 ¥4,200
-    - 兒童 ¥2,500
-    - 樂齡 ¥3,800
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥3,800
-    - 兒童 ¥2,300
-    - 樂齡 ¥3,600
-  - name: 3 小時券
-    priceLines:
-    - 成人 ¥3,400
-    - 兒童 ¥2,200
-    - 樂齡 ¥3,200
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥3,600
-    - 兒童 ¥2,000
-    - 樂齡 ¥3,600
+    - name: 全日1日券
+      priceLines:
+        - 成人：¥4,200
+        - 兒童：¥2,500
+        - 長者：¥3,800
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥3,800
+        - 兒童：¥2,300
+        - 長者：¥3,600
+    - name: 3 小時券
+      priceLines:
+        - 成人：¥3,400
+        - 兒童：¥2,200
+        - 長者：¥3,200
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥3,600
+        - 兒童：¥2,000
+        - 長者：¥3,600
 snowWeather:
   title: Iizuna Resort雪況預報
   provider: Weathernews

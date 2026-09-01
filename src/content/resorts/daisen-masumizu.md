@@ -48,24 +48,30 @@ tickets:
   source: https://weathernews.jp/ski/spot/36907/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,700 兒童 ¥3,700
-  - name: 午前券・午後券
-    priceLines:
-    - 成人 ¥3,700 兒童 ¥2,700
-  - name: 夜滑券(週五、週六、國定假日前一天)
-    priceLines:
-    - 成人 ¥4,000 兒童 ¥4,000
-  - name: 11 回券
-    priceLines:
-    - 成人 ¥5,500 兒童 ¥5,500
-  - name: 入場券
-    priceLines:
-    - 成人 ¥500 兒童 ¥500
-  - name: 平日限定1時間券
-    priceLines:
-    - 成人 ¥1,300 兒童 ¥1,300
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,700
+        - 兒童：¥3,700
+    - name: 午前券・午後券
+      priceLines:
+        - 成人：¥3,700
+        - 兒童：¥2,700
+    - name: 夜滑券(週五、週六、國定假日前一天)
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥4,000
+    - name: 11 回券
+      priceLines:
+        - 成人：¥5,500
+        - 兒童：¥5,500
+    - name: 入場券
+      priceLines:
+        - 成人：¥500
+        - 兒童：¥500
+    - name: 平日限定1時間券
+      priceLines:
+        - 成人：¥1,300
+        - 兒童：¥1,300
 snowWeather:
   title: 大山桝水高原 Snow Park雪況天氣
   provider: Weathernews

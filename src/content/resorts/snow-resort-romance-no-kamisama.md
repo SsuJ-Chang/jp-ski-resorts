@@ -41,26 +41,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34858/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 週末
-    priceLines:
-    - 成人 ¥5,700
-    - 兒童 ¥2,500
-    - 樂齡 ¥5,200
-  - name: 週末假日２日券
-    priceLines:
-    - 成人 ¥10,900
-    - 兒童 ¥3,500
-    - 樂齡 ¥9,900
-  - name: 週末假日３日券
-    priceLines:
-    - 成人 ¥16,100
-    - 兒童 ¥4,500
-    - 樂齡 ¥4,500
-  - name: １ 回券
-    priceLines:
-    - 成人 ¥300
-    - 兒童 ¥600
-    - 樂齡 ¥600
+    - name: 週末
+      priceLines:
+        - 成人：¥5,700
+        - 兒童：¥2,500
+        - 長者：¥5,200
+    - name: 週末假日２日券
+      priceLines:
+        - 成人：¥10,900
+        - 兒童：¥3,500
+        - 長者：¥9,900
+    - name: 週末假日３日券
+      priceLines:
+        - 成人：¥16,100
+        - 兒童：¥4,500
+        - 長者：¥4,500
+    - name: １ 回券
+      priceLines:
+        - 成人：¥300
+        - 兒童：¥600
+        - 長者：¥600
 snowWeather:
   title: Snow Resort Romance no Kamisama雪況預報
   provider: Weathernews

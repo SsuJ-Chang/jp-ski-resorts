@@ -44,24 +44,24 @@ tickets:
   source: https://weathernews.jp/ski/spot/34834/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,500
-    - 兒童 ¥3,400
-    - 樂齡 ¥3,800
-  - name: 上午券・下午券
-    priceLines:
-    - 成人 ¥3,800
-    - 兒童 ¥3,000
-    - 樂齡 ¥3,600
-  - name: 回數券(12回)
-    priceLines:
-    - 成人 ¥4,500
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥2,000
-    - 兒童 ¥1,500
-    - 樂齡 ¥1,700
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥3,400
+        - 長者：¥3,800
+    - name: 上午券・下午券
+      priceLines:
+        - 成人：¥3,800
+        - 兒童：¥3,000
+        - 長者：¥3,600
+    - name: 回數券(12回)
+      priceLines:
+        - 成人：¥4,500
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥2,000
+        - 兒童：¥1,500
+        - 長者：¥1,700
 snowWeather:
   title: 富士見高原雪況預報
   provider: Weathernews

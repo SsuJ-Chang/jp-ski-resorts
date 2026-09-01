@@ -55,24 +55,24 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.princehotels.co.jp/ski/naeba/winter/lift/
-  note: 主要票種只整理一般旅客最常用方案；小學生以下免費僅在官方有明列的票種中標出。
+  note: 主要票種只整理一般旅客最常用方案；兒童（小學生以下）免費僅在官方有明列的票種中標出。
   plans:
-  - name: Mt. Naeba 共通 1 日券
-    priceLines:
-    - 成人：¥9,800
-    - 小學生以下：免費
-    note: 苗場 / かぐら共通。
-  - name: 苗場區域 1 日券
-    priceLines:
-    - 成人：¥7,800
-    - 小學生以下：免費
-    note: 可使用至 17:00。
-  - name: 苗場區域 8 小時券
-    priceLines:
-    - 成人：¥8,300
-  - name: 苗場區域 4 小時券
-    priceLines:
-    - 成人：¥6,300
+    - name: Mt. Naeba 共通 1 日券
+      priceLines:
+        - 成人：¥9,800
+        - 兒童（小學生以下）：免費
+      note: 苗場 / かぐら共通。
+    - name: 苗場區域 1 日券
+      priceLines:
+        - 成人：¥7,800
+        - 兒童（小學生以下）：免費
+      note: 可使用至 17:00。
+    - name: 苗場區域 8 小時券
+      priceLines:
+        - 成人：¥8,300
+    - name: 苗場區域 4 小時券
+      priceLines:
+        - 成人：¥6,300
 snowWeather:
   title: 苗場雪況天氣
   provider: Weathernews

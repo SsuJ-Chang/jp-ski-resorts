@@ -56,25 +56,25 @@ tickets:
   source: https://www.takasumountains.com/lift/
   note: TAKASU MOUNTAINS 6 雪場共通券摘要；全山共通券不含 Dynaland 與鷲岳夜滑，IC 卡押金另計 ¥500。
   plans:
-  - name: 6 雪場共通 1 日券
-    priceLines:
-    - 成人 ¥6,500
-    - 兒童 ¥3,800
-    - 長者 ¥5,500
-    - 中高生 ¥4,500
-    note: 通過 gate 當日有效。
-  - name: 6 雪場共通 2 日券
-    priceLines:
-    - 成人 ¥11,800
-    - 兒童 ¥6,900
-    - 長者 ¥10,500
-    - 中高生 ¥8,500
-  - name: 6 雪場共通 3 日券
-    priceLines:
-    - 成人 ¥17,100
-    - 兒童 ¥10,000
-    - 長者 ¥15,500
-    - 中高生 ¥12,800
+    - name: 6 雪場共通 1 日券
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥3,800
+        - 長者：¥5,500
+        - 國中生、高中生：¥4,500
+      note: 通過 gate 當日有效。
+    - name: 6 雪場共通 2 日券
+      priceLines:
+        - 成人：¥11,800
+        - 兒童：¥6,900
+        - 長者：¥10,500
+        - 國中生、高中生：¥8,500
+    - name: 6 雪場共通 3 日券
+      priceLines:
+        - 成人：¥17,100
+        - 兒童：¥10,000
+        - 長者：¥15,500
+        - 國中生、高中生：¥12,800
 snowWeather:
   title: 高鷲滑雪公園雪況天氣
   provider: Weathernews

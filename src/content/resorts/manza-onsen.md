@@ -53,12 +53,14 @@ tickets:
   source: https://weathernews.jp/ski/spot/34203/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券（12/30〜1/3は¥200追加）
-    priceLines:
-    - 成人 ¥5,700 兒童 0円
-  - name: 4時間券（12/30〜1/3は¥200追加）
-    priceLines:
-    - 成人 ¥5,200 兒童 0円
+    - name: 1 日券（12/30 ~ 1/3 加收 ¥200）
+      priceLines:
+        - 成人：¥5,700
+        - 兒童：免費
+    - name: 4 小時券（12/30 ~ 1/3 加收 ¥200）
+      priceLines:
+        - 成人：¥5,200
+        - 兒童：免費
 snowWeather:
   title: 萬座溫泉雪況天氣
   provider: Weathernews

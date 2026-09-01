@@ -43,24 +43,24 @@ tickets:
   source: https://weathernews.jp/ski/spot/34903/
   note: 主要票種摘要；開幕優惠、季票與完整規則請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,900
-    - 兒童 ¥5,500
-    - 銀髮族 ¥6,000
-  - name: 上午券
-    priceLines:
-    - 成人 ¥6,000
-    - 兒童 ¥4,600
-    - 銀髮族 ¥5,100
-  - name: 下午券
-    priceLines:
-    - 成人 ¥5,600
-    - 兒童 ¥4,600
-    - 銀髮族 ¥4,800
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥1,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,900
+        - 兒童：¥5,500
+        - 長者：¥6,000
+    - name: 上午券
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥4,600
+        - 長者：¥5,100
+    - name: 下午券
+      priceLines:
+        - 成人：¥5,600
+        - 兒童：¥4,600
+        - 長者：¥4,800
+    - name: 1 回券
+      priceLines:
+        - 成人：¥1,000
 snowWeather:
   title: Sun Meadows 清里雪況天氣
   provider: Weathernews

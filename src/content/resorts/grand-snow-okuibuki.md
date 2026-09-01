@@ -49,71 +49,71 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.okuibuki.co.jp/charge/
-  note: 官方票價依 A／B／C／D 日期分類；各票價另收 IC 卡押金 ¥500，還卡時可退還。中學生與高中生購票需出示學生證，60 歲以上需出示年齡證明。
+  note: 官方票價依 A / B / C / D 日期分類；各票價另收 IC 卡押金 ¥500，還卡時可退還。國中生與高中生購票需出示學生證，60 歲以上需出示年齡證明。
   plans:
-  - name: 1 日券（A 日程）
-    priceLines:
-    - 成人：¥4,000
-    - 中學生／高中生：¥3,500
-    - 兒童（小學生以下）：¥3,000
-    - 銀髮族（60 歲以上）：¥3,500
-    note: 可使用兒童公園與雪地電扶梯；家庭多人同行另有兒童票優惠。
-  - name: 1 日券（B 日程）
-    priceLines:
-    - 成人：¥4,900
-    - 中學生／高中生：¥4,400
-    - 兒童（小學生以下）：¥3,000
-    - 銀髮族（60 歲以上）：¥3,500
-  - name: 1 日券（C 日程）
-    priceLines:
-    - 成人：¥6,300
-    - 中學生／高中生：¥4,000
-    - 兒童（小學生以下）：¥3,500
-    - 銀髮族（60 歲以上）：¥5,800
-  - name: 1 日券（D 日程）
-    priceLines:
-    - 成人：¥7,000
-    - 中學生／高中生：¥6,500
-    - 兒童（小學生以下）：¥3,500
-    - 銀髮族（60 歲以上）：¥5,800
-  - name: 午後券（A 日程）
-    priceLines:
-    - 成人：¥3,000
-    - 中學生／高中生：¥2,500
-    - 兒童（小學生以下）：¥2,000
-    - 銀髮族（60 歲以上）：¥2,500
-    note: 11:30 開始販售，可使用兒童公園與雪地電扶梯。
-  - name: 午後券（B 日程）
-    priceLines:
-    - 成人：¥3,900
-    - 中學生／高中生：¥3,400
-    - 兒童（小學生以下）：¥2,000
-    - 銀髮族（60 歲以上）：¥2,500
-  - name: 午後券（C 日程）
-    priceLines:
-    - 成人：¥5,300
-    - 中學生／高中生：¥3,000
-    - 兒童（小學生以下）：¥2,500
-    - 銀髮族（60 歲以上）：¥4,800
-  - name: 午後券（D 日程）
-    priceLines:
-    - 成人：¥6,000
-    - 中學生／高中生：¥5,500
-    - 兒童（小學生以下）：¥2,500
-    - 銀髮族（60 歲以上）：¥4,800
-  - name: 回數券（10 回）
-    priceLines:
-    - 各年齡：¥4,500
-    note: D 日程不販售。
-  - name: 1 回券
-    priceLines:
-    - 各年齡：¥500
-    note: 搭乘四人纜車需扣除 2 回。
-  - name: 兒童公園／雪地電扶梯
-    priceLines:
-    - A／B 日程：¥1,500
-    - C／D 日程：¥2,000
-    note: 兒童公園內可免費借用雪橇。
+    - name: 1 日券（A 日程）
+      priceLines:
+        - 成人：¥4,000
+        - 國中生、高中生：¥3,500
+        - 兒童（小學生以下）：¥3,000
+        - 長者（60 歲以上）：¥3,500
+      note: 可使用兒童公園與雪地電扶梯；家庭多人同行另有兒童票優惠。
+    - name: 1 日券（B 日程）
+      priceLines:
+        - 成人：¥4,900
+        - 國中生、高中生：¥4,400
+        - 兒童（小學生以下）：¥3,000
+        - 長者（60 歲以上）：¥3,500
+    - name: 1 日券（C 日程）
+      priceLines:
+        - 成人：¥6,300
+        - 國中生、高中生：¥4,000
+        - 兒童（小學生以下）：¥3,500
+        - 長者（60 歲以上）：¥5,800
+    - name: 1 日券（D 日程）
+      priceLines:
+        - 成人：¥7,000
+        - 國中生、高中生：¥6,500
+        - 兒童（小學生以下）：¥3,500
+        - 長者（60 歲以上）：¥5,800
+    - name: 午後券（A 日程）
+      priceLines:
+        - 成人：¥3,000
+        - 國中生、高中生：¥2,500
+        - 兒童（小學生以下）：¥2,000
+        - 長者（60 歲以上）：¥2,500
+      note: 11:30 開始販售，可使用兒童公園與雪地電扶梯。
+    - name: 午後券（B 日程）
+      priceLines:
+        - 成人：¥3,900
+        - 國中生、高中生：¥3,400
+        - 兒童（小學生以下）：¥2,000
+        - 長者（60 歲以上）：¥2,500
+    - name: 午後券（C 日程）
+      priceLines:
+        - 成人：¥5,300
+        - 國中生、高中生：¥3,000
+        - 兒童（小學生以下）：¥2,500
+        - 長者（60 歲以上）：¥4,800
+    - name: 午後券（D 日程）
+      priceLines:
+        - 成人：¥6,000
+        - 國中生、高中生：¥5,500
+        - 兒童（小學生以下）：¥2,500
+        - 長者（60 歲以上）：¥4,800
+    - name: 回數券（10 回）
+      priceLines:
+        - 各年齡：¥4,500
+      note: D 日程不販售。
+    - name: 1 回券
+      priceLines:
+        - 各年齡：¥500
+      note: 搭乘四人纜車需扣除 2 回。
+    - name: 兒童公園 / 雪地電扶梯
+      priceLines:
+        - A、B 日程：¥1,500
+        - C、D 日程：¥2,000
+      note: 兒童公園內可免費借用雪橇。
 snowWeather:
   title: 奧伊吹雪況天氣
   provider: Weathernews
@@ -218,36 +218,36 @@ lifts:
   total: 9
 access:
   fromOsaka:
-  - label: 大阪／京都前往米原，再搭乘奧伊吹接駁車
-    steps:
-    - 從新大阪搭乘新幹線至米原，約 35 分鐘；京都至米原約 20 分鐘。
-    - 從 JR 米原站搭乘預約制奧伊吹專用接駁車至雪場，單程 ¥1,500。
-    estimatedTime: 新大阪至米原約 35 分鐘，另加接駁車車程
-    difficulty: medium
-    note: 接駁車需事前預約，官方建議使用網路預約；米原站亦可租車前往。
-    links:
-    - label: 官方電車與接駁車資訊
-      url: https://www.okuibuki.co.jp/access/public_transport/
+    - label: 大阪／京都前往米原，再搭乘奧伊吹接駁車
+      steps:
+        - 從新大阪搭乘新幹線至米原，約 35 分鐘；京都至米原約 20 分鐘。
+        - 從 JR 米原站搭乘預約制奧伊吹專用接駁車至雪場，單程 ¥1,500。
+      estimatedTime: 新大阪至米原約 35 分鐘，另加接駁車車程
+      difficulty: medium
+      note: 接駁車需事前預約，官方建議使用網路預約；米原站亦可包車前往。
+      links:
+        - label: 官方電車與接駁車資訊
+          url: https://www.okuibuki.co.jp/access/public_transport/
   fromNagoya:
-  - label: 名古屋前往米原，再搭乘奧伊吹接駁車
-    steps:
-    - 從名古屋搭乘新幹線至米原，約 30 分鐘。
-    - 從 JR 米原站搭乘預約制奧伊吹專用接駁車至雪場，單程 ¥1,500。
-    estimatedTime: 名古屋至米原約 30 分鐘，另加接駁車車程
-    difficulty: medium
-    note: 也可從 JR 近江長岡站搭乘預約制接駁車；接駁車需事前預約。
-    links:
-    - label: 官方電車與接駁車資訊
-      url: https://www.okuibuki.co.jp/access/public_transport/
+    - label: 名古屋前往米原，再搭乘奧伊吹接駁車
+      steps:
+        - 從名古屋搭乘新幹線至米原，約 30 分鐘。
+        - 從 JR 米原站搭乘預約制奧伊吹專用接駁車至雪場，單程 ¥1,500。
+      estimatedTime: 名古屋至米原約 30 分鐘，另加接駁車車程
+      difficulty: medium
+      note: 也可從 JR 近江長岡站搭乘預約制接駁車；接駁車需事前預約。
+      links:
+        - label: 官方電車與接駁車資訊
+          url: https://www.okuibuki.co.jp/access/public_transport/
   car:
     recommended: true
     snowTireRequired: true
     note: 大阪約 100 分鐘、京都約 80 分鐘、名古屋約 50 分鐘。導航請搜尋「グランスノー奥伊吹」或「奥伊吹スキー場」；冬季前往需準備雪地行車裝備。停車場最多可容納 2,700 台車，普通車平日／休日均為 ¥1,000，露營車與小型巴士 ¥2,000，大型巴士 ¥3,000。第 3 停車場可搭乘 Snow Warp 直達雪場。
     links:
-    - label: 官方汽車與停車場資訊
-      url: https://www.okuibuki.co.jp/access/
-    - label: 官方電車與接駁車資訊
-      url: https://www.okuibuki.co.jp/access/public_transport/
+      - label: 官方汽車與停車場資訊
+        url: https://www.okuibuki.co.jp/access/
+      - label: 官方電車與接駁車資訊
+        url: https://www.okuibuki.co.jp/access/public_transport/
 terrainSummary:
   beginner: 初級雪道以 ビギナーゲレンデ、ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 バラエティーコース、パラダイスコース、ダイナミックコース、アルペンコース 串接較長滑行或主坡巡航。

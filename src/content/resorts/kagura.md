@@ -56,18 +56,18 @@ tickets:
   currency: JPY
   source: https://www.princehotels.co.jp/ski/kagura/winter/lift/
   plans:
-  - name: かぐら滑雪場 1 日券
-    priceLines:
-    - 成人：¥7,500
-  - name: かぐら滑雪場 2 日券
-    priceLines:
-    - 成人：¥14,500
-  - name: 上午券
-    priceLines:
-    - 成人：¥6,000
-  - name: 苗場、かぐら共通 1 日券
-    priceLines:
-    - 成人：¥9,800
+    - name: かぐら滑雪場 1 日券
+      priceLines:
+        - 成人：¥7,500
+    - name: かぐら滑雪場 2 日券
+      priceLines:
+        - 成人：¥14,500
+    - name: 上午券
+      priceLines:
+        - 成人：¥6,000
+    - name: 苗場、かぐら共通 1 日券
+      priceLines:
+        - 成人：¥9,800
 snowWeather:
   title: 神樂雪況天氣
   provider: Weathernews

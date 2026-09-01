@@ -55,24 +55,24 @@ tickets:
   source: https://resort.en-hotel.com/grandeco/snow/ja/
   note: 主要日間票摘要；官方票價分為 pre-season、regular season 與 spring season，並依年齡與平假日區分。完整線上價格與票種請以官方頁面為準。
   plans:
-  - name: Regular season 1 日券（平日）
-    priceLines:
-    - 成人 ¥5,900
-    - 長者 ¥5,500
-    - 青少年 ¥4,900
-    - 兒童 ¥4,100
-    note: Regular season 平日票價摘要
-  - name: Regular season 1 日券（週末假日）
-    priceLines:
-    - 成人 ¥6,500
-    - 長者 ¥6,100
-    - 青少年 ¥5,500
-    - 兒童 ¥4,500
-    note: Regular season 週末與假日票價摘要
-  - name: Pre-season / Spring 1 日券
-    priceLines:
-    - 一律 ¥4,300
-    note: Pre-season 與 Spring season 的一般 1 日券摘要
+    - name: Regular season 1 日券（平日）
+      priceLines:
+        - 成人：¥5,900
+        - 長者：¥5,500
+        - 青少年：¥4,900
+        - 兒童：¥4,100
+      note: Regular season 平日票價摘要
+    - name: Regular season 1 日券（週末假日）
+      priceLines:
+        - 成人：¥6,500
+        - 長者：¥6,100
+        - 青少年：¥5,500
+        - 兒童：¥4,500
+      note: Regular season 週末與假日票價摘要
+    - name: Pre-season / Spring 1 日券
+      priceLines:
+        - 一律：¥4,300
+      note: Pre-season 與 Spring season 的一般 1 日券摘要
 snowWeather:
   title: Grandeco雪況天氣
   provider: Weathernews
@@ -183,17 +183,17 @@ lifts:
   total: 5
 access:
   fromTokyo:
-  - label: 東京出發
-    steps:
-    - 東京站搭乘東北新幹線至郡山站。
-    - 轉乘 JR 磐越西線至豬苗代站，或依官方資訊轉乘高速巴士、接駁或租車。
-    - 從豬苗代、裏磐梯方向前往 Grandeco。
-    estimatedTime: 約 3.5-4.5 小時
-    difficulty: medium
-    note: 裏磐梯區域冬季接駁與巴士班次有限，出發前請確認官方交通資訊。依接駁與轉乘方式而定。
-    links:
-    - label: Grandeco Official
-      url: https://resort.en-hotel.com/grandeco/snow/ja/
+    - label: 東京出發
+      steps:
+        - 東京站搭乘東北新幹線至郡山站。
+        - 轉乘 JR 磐越西線至豬苗代站，或依官方資訊轉乘高速巴士、接駁。
+        - 從豬苗代、裏磐梯方向前往 Grandeco。
+      estimatedTime: 約 3.5-4.5 小時
+      difficulty: medium
+      note: 裏磐梯區域冬季接駁與巴士班次有限，出發前請確認官方交通資訊。依接駁與轉乘方式而定。
+      links:
+        - label: Grandeco Official
+          url: https://resort.en-hotel.com/grandeco/snow/ja/
   car:
     recommended: true
     snowTireRequired: true

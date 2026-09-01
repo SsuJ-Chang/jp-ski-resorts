@@ -43,21 +43,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/34852/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 平日1日券（全日）
-    priceLines:
-    - 樂齡 ¥4,800
-  - name: 平日下午券
-    priceLines:
-    - 成人 ¥5,200
-    - 樂齡 ¥4,500
-  - name: 夕方券
-    priceLines:
-    - 成人 ¥2,000
-    - 樂齡 ¥2,000
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥2,300
-    - 樂齡 ¥2,300
+    - name: 平日1日券（全日）
+      priceLines:
+        - 長者：¥4,800
+    - name: 平日下午券
+      priceLines:
+        - 成人：¥5,200
+        - 長者：¥4,500
+    - name: 夕方券
+      priceLines:
+        - 成人：¥2,000
+        - 長者：¥2,000
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥2,300
+        - 長者：¥2,300
 snowWeather:
   title: 佐久 Ski Garden Parada雪況預報
   provider: Weathernews

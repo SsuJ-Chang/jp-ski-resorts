@@ -48,24 +48,29 @@ tickets:
   source: https://weathernews.jp/ski/spot/36801/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 假日1日券（假日）
-    priceLines:
-    - 成人 ¥6,500 兒童 ¥2,900
-  - name: 假日ランチパック券假日（ランチ券¥1,000分付一日券）
-    priceLines:
-    - 成人 ¥7,800 兒童 ¥4,200
-  - name: 平日1日券（平日）
-    priceLines:
-    - 成人 ¥5,400 兒童 ¥2,100
-  - name: 平日ランチパック平日（ランチ券¥1,000券付1日券）
-    priceLines:
-    - 成人 ¥6,700 兒童 ¥3,400
-  - name: 假日3時間券（假日）
-    priceLines:
-    - 成人 ¥4,300 兒童 ¥2,600
-  - name: 假日5時間券（假日）
-    priceLines:
-    - 成人 ¥6,300
+    - name: 假日1日券（假日）
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥2,900
+    - name: 假日午餐套票（附 ¥1,000 午餐券的 1 日券）
+      priceLines:
+        - 成人：¥7,800
+        - 兒童：¥4,200
+    - name: 平日1日券（平日）
+      priceLines:
+        - 成人：¥5,400
+        - 兒童：¥2,100
+    - name: 平日午餐套票（附 ¥1,000 午餐券的 1 日券）
+      priceLines:
+        - 成人：¥6,700
+        - 兒童：¥3,400
+    - name: 假日3時間券（假日）
+      priceLines:
+        - 成人：¥4,300
+        - 兒童：¥2,600
+    - name: 假日5時間券（假日）
+      priceLines:
+        - 成人：¥6,300
 snowWeather:
   title: 瑞穗高原雪況天氣
   provider: Weathernews

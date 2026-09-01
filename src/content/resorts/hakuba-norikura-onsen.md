@@ -55,9 +55,9 @@ tickets:
   source: https://www.hakunori.com/ticket/
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 待依 2025-2026 官網票價頁補齊
+    - name: 1 日券
+      priceLines:
+        - 待依 2025-2026 官網票價頁補齊
 snowWeather:
   title: 白馬乘鞍溫泉雪況天氣
   provider: Weathernews

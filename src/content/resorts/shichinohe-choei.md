@@ -78,10 +78,10 @@ access:
     - label: 東京出發經七戶十和田
       steps:
         - 從東京搭東北、北海道新幹線到七戶十和田站。
-        - 從七戶十和田站轉乘租車或計程車前往雪場。
-      estimatedTime: "七戶十和田站後約 15 分"
+        - 從七戶十和田站轉乘包車或計程車前往雪場。
+      estimatedTime: 七戶十和田站後約 15 分
       difficulty: medium
-      note: 新幹線站後以租車或計程車銜接較直接；若不自駕需先確認計程車與回程安排。
+      note: 新幹線站後以包車或計程車銜接較直接；若不自駕需先確認計程車與回程安排。
   car:
     recommended: true
     snowTireRequired: true

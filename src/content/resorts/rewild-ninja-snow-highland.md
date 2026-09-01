@@ -42,22 +42,22 @@ tickets:
   source: https://weathernews.jp/ski/spot/34838/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,500
-    - 兒童 ¥2,000
-    - 樂齡 ¥3,800
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥8,000
-    - 兒童 ¥3,500
-    - 樂齡 ¥7,000
-  - name: 半日券
-    priceLines:
-    - 成人 ¥3,500
-  - name: 1日券成人兒童セット券
-    priceLines:
-    - 成人 ¥6,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥2,000
+        - 長者：¥3,800
+    - name: 2 日券
+      priceLines:
+        - 成人：¥8,000
+        - 兒童：¥3,500
+        - 長者：¥7,000
+    - name: 半日券
+      priceLines:
+        - 成人：¥3,500
+    - name: 成人兒童 1 日套票
+      priceLines:
+        - 成人：¥6,000
 snowWeather:
   title: REWILD NINJA SNOW HIGHLAND雪況預報
   provider: Weathernews

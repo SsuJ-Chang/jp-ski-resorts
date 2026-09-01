@@ -48,27 +48,27 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.qkamura.or.jp/daisen/ski/
-  note: 官方 2025-2026 主要票種摘要；學齡前兒童免費，租借與住宿者票價請以官方頁面為準。
+  note: 官方 2025-2026 主要票種摘要；兒童（學齡前）免費，租借與住宿者票價請以官方頁面為準。
   plans:
-  - name: 1 日券（週末假日）
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥3,000
-  - name: 平日 free 票
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥2,500
-  - name: AM / PM 券
-    priceLines:
-    - 成人 ¥2,500
-    - 兒童 ¥2,000
-    note: AM 9:00-13:00，PM 12:00-16:30
-  - name: 12 回券
-    priceLines:
-    - 全年齡：¥4,000
-  - name: 1 回券
-    priceLines:
-    - 全年齡：¥400
+    - name: 1 日券（週末假日）
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥3,000
+    - name: 平日 free 票
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,500
+    - name: AM / PM 券
+      priceLines:
+        - 成人：¥2,500
+        - 兒童：¥2,000
+      note: AM 9:00-13:00，PM 12:00-16:30
+    - name: 12 回券
+      priceLines:
+        - 全年齡：¥4,000
+    - name: 1 回券
+      priceLines:
+        - 全年齡：¥400
 snowWeather:
   title: 奧大山雪況天氣
   provider: Weathernews
@@ -102,23 +102,23 @@ lifts:
   total: 1
 access:
   fromOsaka:
-  - label: 大阪出發
-    steps:
-    - 從大阪或關西方向搭乘 JR、高速巴士或自駕前往米子、江府町或江尾站周邊。
-    - 依官方交通資訊銜接接駁、計程車或租車前往休暇村奧大山。
-    estimatedTime: 約 4-5 小時以上
-    difficulty: hard
-    note: 鳥取大山南側冬季大眾運輸班次有限，建議出發前確認住宿接駁與官方 access。依交通方式而定。
-    links:
-    - label: Kyukamura Oku-Daisen Access
-      url: https://www.qkamura.or.jp/daisen/access/
+    - label: 大阪出發
+      steps:
+        - 從大阪或關西方向搭乘 JR、高速巴士或前往米子、江府町或江尾站周邊。
+        - 依官方交通資訊銜接接駁、計程車前往休暇村奧大山。
+      estimatedTime: 約 4-5 小時以上
+      difficulty: hard
+      note: 鳥取大山南側冬季大眾運輸班次有限，建議出發前確認住宿接駁與官方 access。依交通方式而定。
+      links:
+        - label: Kyukamura Oku-Daisen Access
+          url: https://www.qkamura.or.jp/daisen/access/
   fromTokyo:
-  - label: 東京出發
-    steps:
-    - 從東京搭乘飛機至米子鬼太郎機場，或以新幹線、特急列車銜接至米子、江尾周邊。
-    - 再轉乘租車、計程車或住宿接駁前往休暇村奧大山。
-    difficulty: hard
-    note: 從關東出發建議先確認米子機場、JR 班次與住宿接駁。依航班與轉乘方式而定。
+    - label: 東京出發
+      steps:
+        - 從東京搭乘飛機至米子鬼太郎機場，或以新幹線、特急列車銜接至米子、江尾周邊。
+        - 再轉乘計程車或住宿接駁前往休暇村奧大山。
+      difficulty: hard
+      note: 從關東出發建議先確認米子機場、JR 班次與住宿接駁。依航班與轉乘方式而定。
   car:
     recommended: true
     snowTireRequired: true

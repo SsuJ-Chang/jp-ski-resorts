@@ -49,24 +49,34 @@ tickets:
   source: https://weathernews.jp/ski/spot/34215/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,600 兒童 ¥4,400 樂齡 ¥5,000
-  - name: 5時間
-    priceLines:
-    - 成人 ¥5,100 兒童 ¥3,900 樂齡 ¥4,600
-  - name: 4 回券
-    priceLines:
-    - 成人 ¥2,500 兒童 ¥2,000 樂齡 ¥2,500
-  - name: 季票
-    priceLines:
-    - 成人 ¥54,000 兒童 ¥34,000 樂齡 ¥44,000
-  - name: 1日券平日
-    priceLines:
-    - 成人 ¥5,300 兒童 ¥4,100 樂齡 ¥4,700
-  - name: 初滑り情報 開放日限定で、1日券が特別価格にて販売いたします。特別価格：¥3,500
-    priceLines:
-    - 請見官方公告
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,600
+        - 兒童：¥4,400
+        - 長者：¥5,000
+    - name: 5時間
+      priceLines:
+        - 成人：¥5,100
+        - 兒童：¥3,900
+        - 長者：¥4,600
+    - name: 4 回券
+      priceLines:
+        - 成人：¥2,500
+        - 兒童：¥2,000
+        - 長者：¥2,500
+    - name: 季票
+      priceLines:
+        - 成人：¥54,000
+        - 兒童：¥34,000
+        - 長者：¥44,000
+    - name: 1日券平日
+      priceLines:
+        - 成人：¥5,300
+        - 兒童：¥4,100
+        - 長者：¥4,700
+    - name: 初滑資訊：開放日限定 1 日券特價 ¥3,500
+      priceLines:
+        - 請見官方公告
 snowWeather:
   title: Ogna 武尊雪況天氣
   provider: Weathernews

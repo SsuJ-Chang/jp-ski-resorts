@@ -41,18 +41,18 @@ tickets:
   source: https://weathernews.jp/ski/spot/35444/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥3,500
-    - 兒童 ¥2,500
-  - name: 平日1日券
-    priceLines:
-    - 成人 ¥2,800
-    - 兒童 ¥1,800
-  - name: 半日券
-    priceLines:
-    - 成人 ¥2,500
-    - 兒童 ¥1,700
+    - name: 1 日券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥2,500
+    - name: 平日1日券
+      priceLines:
+        - 成人：¥2,800
+        - 兒童：¥1,800
+    - name: 半日券
+      priceLines:
+        - 成人：¥2,500
+        - 兒童：¥1,700
 snowWeather:
   title: 藥師雪況預報
   provider: Weathernews

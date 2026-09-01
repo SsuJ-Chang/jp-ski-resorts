@@ -41,21 +41,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/34878/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥3,200
-    - 樂齡 ¥3,200
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥3,500
-    - 兒童 ¥2,700
-    - 樂齡 ¥2,700
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥500
-    - 兒童 ¥500
-    - 樂齡 ¥500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥3,200
+        - 長者：¥3,200
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥2,700
+        - 長者：¥2,700
+    - name: 1 回券
+      priceLines:
+        - 成人：¥500
+        - 兒童：¥500
+        - 長者：¥500
 snowWeather:
   title: 白樺 Resort 池之平 Snow Park雪況預報
   provider: Weathernews

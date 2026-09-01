@@ -40,24 +40,24 @@ tickets:
   source: https://weathernews.jp/ski/spot/34843/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1日券・週末假日
-    priceLines:
-    - 成人 ¥4,800
-    - 兒童 ¥2,000
-    - 樂齡 ¥4,300
-  - name: 半日券・週末假日
-    priceLines:
-    - 成人 ¥4,300
-    - 樂齡 ¥3,800
-  - name: 1日券・平日
-    priceLines:
-    - 成人 ¥4,300
-    - 兒童 ¥2,000
-    - 樂齡 ¥3,800
-  - name: 半日券・平日
-    priceLines:
-    - 成人 ¥3,800
-    - 樂齡 ¥3,300
+    - name: 1日券・週末假日
+      priceLines:
+        - 成人：¥4,800
+        - 兒童：¥2,000
+        - 長者：¥4,300
+    - name: 半日券・週末假日
+      priceLines:
+        - 成人：¥4,300
+        - 長者：¥3,800
+    - name: 1日券・平日
+      priceLines:
+        - 成人：¥4,300
+        - 兒童：¥2,000
+        - 長者：¥3,800
+    - name: 半日券・平日
+      priceLines:
+        - 成人：¥3,800
+        - 長者：¥3,300
 snowWeather:
   title: 八千穗高原雪況預報
   provider: Weathernews

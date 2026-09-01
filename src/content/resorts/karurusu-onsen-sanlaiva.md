@@ -48,19 +48,19 @@ tickets:
   source: https://weathernews.jp/ski/spot/32103/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥3,800
-    - 兒童 ¥1,500
-    - 長者 ¥2,800
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥2,800
-    - 兒童 ¥1,200
-  - name: 11 回券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥2,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥3,800
+        - 兒童：¥1,500
+        - 長者：¥2,800
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥2,800
+        - 兒童：¥1,200
+    - name: 11 回券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,000
 snowWeather:
   title: Karurusu 溫泉 Sanlaiva雪況天氣
   provider: Weathernews
@@ -108,7 +108,7 @@ access:
         - 從登別站或登別溫泉轉乘計程車前往雪場。
       estimatedTime: 約 2 小時
       difficulty: medium
-      note: 雪場位於登別溫泉山區，最後一段以計程車或租車較容易銜接。
+      note: 雪場位於登別溫泉山區，最後一段以計程車較容易銜接。
       links:
         - label: Sanlaiva 官方交通資訊
           url: https://sanlaiva.com/

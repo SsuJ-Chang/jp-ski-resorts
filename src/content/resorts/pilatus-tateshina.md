@@ -38,23 +38,23 @@ tickets:
   source: https://weathernews.jp/ski/spot/34835/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,000
-    - 兒童 ¥3,000
-    - 樂齡 ¥4,500
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥10,200
-    - 兒童 ¥5,100
-  - name: 上午券(13時止)
-    priceLines:
-    - 成人 ¥4,400
-    - 兒童 ¥2,200
-  - name: 下午券(12時から)
-    priceLines:
-    - 成人 ¥4,400
-    - 兒童 ¥2,200
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥3,000
+        - 長者：¥4,500
+    - name: 2 日券
+      priceLines:
+        - 成人：¥10,200
+        - 兒童：¥5,100
+    - name: 上午券(13時止)
+      priceLines:
+        - 成人：¥4,400
+        - 兒童：¥2,200
+    - name: 下午券（12:00 起）
+      priceLines:
+        - 成人：¥4,400
+        - 兒童：¥2,200
 snowWeather:
   title: Pilatus 蓼科 Snow Resort雪況預報
   provider: Weathernews

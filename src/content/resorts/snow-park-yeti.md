@@ -44,26 +44,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/35003/
   note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、營業時段與直行巴士資訊請以官方為準。
   plans:
-  - name: 週末及國定假日 1 日券
-    priceLines:
-    - 成人 ¥5,300
-    - 兒童 ¥4,300
-    - 長者 ¥4,300
-  - name: 平日 1 日券
-    priceLines:
-    - 成人 ¥4,300
-    - 兒童 ¥3,300
-    - 長者 ¥3,300
-  - name: 夜滑券（月-四）
-    priceLines:
-    - 成人 ¥2,900
-    - 兒童 ¥2,400
-    - 長者 ¥2,400
-  - name: 夜滑券（五-日與假日）
-    priceLines:
-    - 成人 ¥3,200
-    - 兒童 ¥2,700
-    - 長者 ¥2,700
+    - name: 週末及國定假日 1 日券
+      priceLines:
+        - 成人：¥5,300
+        - 兒童：¥4,300
+        - 長者：¥4,300
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥4,300
+        - 兒童：¥3,300
+        - 長者：¥3,300
+    - name: 夜滑券（月-四）
+      priceLines:
+        - 成人：¥2,900
+        - 兒童：¥2,400
+        - 長者：¥2,400
+    - name: 夜滑券（五-日與假日）
+      priceLines:
+        - 成人：¥3,200
+        - 兒童：¥2,700
+        - 長者：¥2,700
 snowWeather:
   title: Snow Park YETI 雪況天氣
   provider: Weathernews

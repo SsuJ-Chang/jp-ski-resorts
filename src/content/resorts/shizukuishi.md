@@ -155,19 +155,19 @@ lifts:
   total: 6
 access:
   fromTokyo:
-    - label: "東京出發經雫石"
+    - label: 東京出發經雫石
       steps:
         - 從東京搭秋田新幹線到雫石站。
         - 從雫石站轉乘計程車或事先安排接送前往雪場。
-      estimatedTime: "站後約 20 分"
+      estimatedTime: 站後約 20 分
       difficulty: hard
       note: 雫石站後公開資料以計程車銜接為主；請先確認回程交通與雪季接送資訊。
   fromAirport:
-    - label: "花卷機場出發"
+    - label: 花卷機場出發
       steps:
-        - 從花卷機場搭計程車、租車或包車，經東北自動車道往雫石方向移動。
+        - 從花卷機場搭計程車、包車，經東北自動車道往雫石方向移動。
         - 依當日道路與積雪狀況前往雫石。
-      estimatedTime: "約 65 分"
+      estimatedTime: 約 65 分
       difficulty: hard
       note: 機場後公開資料以車行時間為主，不自駕時建議事先安排接送。
   car:

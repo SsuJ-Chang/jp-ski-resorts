@@ -50,24 +50,36 @@ tickets:
   source: https://weathernews.jp/ski/spot/34101/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券(特定日)
-    priceLines:
-    - 成人 ¥6,800 兒童 ¥5,800 樂齡 ¥6,300
-  - name: 1日券(假日)
-    priceLines:
-    - 成人 ¥6,500 兒童 ¥5,500 樂齡 ¥6,000
-  - name: 1日券(平日)
-    priceLines:
-    - 成人 ¥5,800 兒童 ¥4,800 樂齡 ¥5,300
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥6,500 兒童 ¥5,500 樂齡 ¥6,000
-  - name: 回數券(10ポイント）
-    priceLines:
-    - 成人 ¥5,500 兒童 ¥5,500 樂齡 ¥5,500
-  - name: 1ポイント券
-    priceLines:
-    - 成人 ¥600 兒童 ¥600 樂齡 ¥600
+    - name: 1日券(特定日)
+      priceLines:
+        - 成人：¥6,800
+        - 兒童：¥5,800
+        - 長者：¥6,300
+    - name: 1日券(假日)
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥5,500
+        - 長者：¥6,000
+    - name: 1日券(平日)
+      priceLines:
+        - 成人：¥5,800
+        - 兒童：¥4,800
+        - 長者：¥5,300
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥5,500
+        - 長者：¥6,000
+    - name: 回數券（10 點）
+      priceLines:
+        - 成人：¥5,500
+        - 兒童：¥5,500
+        - 長者：¥5,500
+    - name: 1 點券
+      priceLines:
+        - 成人：¥600
+        - 兒童：¥600
+        - 長者：¥600
 snowWeather:
   title: Hunter Mountain 鹽原雪況天氣
   provider: Weathernews

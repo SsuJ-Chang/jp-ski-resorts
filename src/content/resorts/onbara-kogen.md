@@ -48,24 +48,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/36602/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,500 兒童 ¥3,000
-  - name: 上午券
-    priceLines:
-    - 成人 ¥3,000
-  - name: 下午券
-    priceLines:
-    - 成人 ¥3,000 兒童 ¥2,000
-  - name: 票券
-    priceLines:
-    - 樂齡1日券（週日國定假日除外） 樂齡 ¥3,500
-  - name: 回數券（11回）
-    priceLines:
-    - 成人 ¥3,000
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥300
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥3,000
+    - name: 上午券
+      priceLines:
+        - 成人：¥3,000
+    - name: 下午券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,000
+    - name: 票券
+      priceLines:
+        - 長者1日券（週日國定假日除外） 長者：¥3,500
+    - name: 回數券（11回）
+      priceLines:
+        - 成人：¥3,000
+    - name: 1 回券
+      priceLines:
+        - 成人：¥300
 snowWeather:
   title: 恩原高原雪況天氣
   provider: Weathernews

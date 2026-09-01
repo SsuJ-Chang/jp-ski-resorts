@@ -45,21 +45,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/34840/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1日券(全日)
-    priceLines:
-    - 成人 ¥4,800
-    - 兒童 ¥3,500
-    - 樂齡 ¥3,800
-  - name: 半日券(全日)
-    priceLines:
-    - 成人 ¥3,800
-    - 兒童 ¥2,500
-    - 樂齡 ¥2,800
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥2,000
-    - 兒童 ¥1,500
-    - 樂齡 ¥1,500
+    - name: 1日券(全日)
+      priceLines:
+        - 成人：¥4,800
+        - 兒童：¥3,500
+        - 長者：¥3,800
+    - name: 半日券(全日)
+      priceLines:
+        - 成人：¥3,800
+        - 兒童：¥2,500
+        - 長者：¥2,800
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥2,000
+        - 兒童：¥1,500
+        - 長者：¥1,500
 snowWeather:
   title: Chateraise Ski Valley 野邊山雪況預報
   provider: Weathernews

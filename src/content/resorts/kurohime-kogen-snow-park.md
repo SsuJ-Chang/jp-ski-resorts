@@ -44,11 +44,11 @@ tickets:
   source: https://weathernews.jp/ski/spot/34866/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,200
-    - 兒童 ¥3,300
-    - 樂齡 ¥5,500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,200
+        - 兒童：¥3,300
+        - 長者：¥5,500
 snowWeather:
   title: 黑姬高原 Snow Park雪況預報
   provider: Weathernews

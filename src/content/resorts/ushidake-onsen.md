@@ -41,11 +41,11 @@ tickets:
   source: https://weathernews.jp/ski/spot/35501/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠與停車費請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥3,660
-    - 兒童 ¥2,620
-    - 長者 ¥3,140
+    - name: 1 日券
+      priceLines:
+        - 成人：¥3,660
+        - 兒童：¥2,620
+        - 長者：¥3,140
 snowWeather:
   title: 牛岳溫泉雪況天氣
   provider: Weathernews

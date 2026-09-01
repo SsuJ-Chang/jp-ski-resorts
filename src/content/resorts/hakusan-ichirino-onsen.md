@@ -55,26 +55,26 @@ tickets:
   source: https://www.sam-hakusan.com/white/ichirino/lift/
   note: 2025-2026 主要票種摘要；2026-2027 雪季請以官方更新為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,000
-    - 兒童 ¥4,000
-    - 長者 ¥4,500
-    note: 兒童為 4 歲以上至小學生，長者為 60 歲以上。
-  - name: 半日券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥3,300
-    note: 營業開始至 13:00，或 12:00 至日間營業結束；不含夜滑時段。
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥2,500
-    note: 夜滑營業日限定。
-  - name: 1 回券
-    priceLines:
-    - ¥450
-    note: 搭乘箱型纜車需 2 張 1 回券或回數券 2 格。
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥4,000
+        - 長者：¥4,500
+      note: 兒童為 4 歲以上至小學生，長者為 60 歲以上。
+    - name: 半日券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥3,300
+      note: 營業開始至 13:00，或 12:00 至日間營業結束；不含夜滑時段。
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,500
+      note: 夜滑營業日限定。
+    - name: 1 回券
+      priceLines:
+        - ¥450
+      note: 搭乘箱型纜車需 2 張 1 回券或回數券 2 格。
 snowWeather:
   title: 白山一里野溫泉雪況天氣
   provider: Weathernews

@@ -72,12 +72,6 @@ access:
         - 鐵路：根室本線新得駅下車、徒歩 (10分)
       estimatedTime: "約 10 分"
       difficulty: medium
-  fromAirport:
-    - label: 機場銜接
-      steps:
-        - 飛機：とかち帯広空港より車で (90分)
-      estimatedTime: "約 90 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

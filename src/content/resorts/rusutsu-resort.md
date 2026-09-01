@@ -52,21 +52,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/31601/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: 25 小時券（窗口購買）
-    priceLines:
-    - 成人 ¥34,700
-    - 兒童 ¥17,400
-    - 長者 ¥28,900
-  - name: 25 小時券（線上購買）
-    priceLines:
-    - 成人 ¥33,100
-    - 兒童 ¥16,600
-    - 長者 ¥27,700
-  - name: Top-up 5 小時券（窗口購買）
-    priceLines:
-    - 成人 ¥6,600
-    - 兒童 ¥3,000
-    - 長者 ¥5,400
+    - name: 25 小時券（窗口購買）
+      priceLines:
+        - 成人：¥34,700
+        - 兒童：¥17,400
+        - 長者：¥28,900
+    - name: 25 小時券（線上購買）
+      priceLines:
+        - 成人：¥33,100
+        - 兒童：¥16,600
+        - 長者：¥27,700
+    - name: Top-up 5 小時券（窗口購買）
+      priceLines:
+        - 成人：¥6,600
+        - 兒童：¥3,000
+        - 長者：¥5,400
 snowWeather:
   title: 留壽都渡假村雪況天氣
   provider: Weathernews

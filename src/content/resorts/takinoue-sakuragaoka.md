@@ -74,12 +74,6 @@ access:
       steps:
         - 鐵路：函館本線旭川駅下車→紋別行き都市間バスに乗車→滝上町濁川下車(徒歩10分)
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：オホーツク紋別空港より車で (60分)
-      estimatedTime: "約 60 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

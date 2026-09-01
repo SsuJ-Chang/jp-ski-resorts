@@ -46,26 +46,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34901/
   note: 主要票種摘要；售票規則、優惠與可用日期請以官方公告為準。
   plans:
-  - name: 平日 1 日券
-    priceLines:
-    - 成人 ¥5,500
-    - 兒童 ¥4,000
-    - 銀髮族 ¥5,000
-  - name: 週末假日 1 日券
-    priceLines:
-    - 成人 ¥6,500
-    - 兒童 ¥5,500
-    - 銀髮族 ¥6,000
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥3,000
-    - 銀髮族 ¥3,000
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥1,500
-    - 兒童 ¥1,500
-    - 銀髮族 ¥1,500
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥5,500
+        - 兒童：¥4,000
+        - 長者：¥5,000
+    - name: 週末假日 1 日券
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥5,500
+        - 長者：¥6,000
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥3,000
+        - 長者：¥3,000
+    - name: 1 回券
+      priceLines:
+        - 成人：¥1,500
+        - 兒童：¥1,500
+        - 長者：¥1,500
 snowWeather:
   title: Fujiten Snow Resort雪況天氣
   provider: Weathernews

@@ -55,32 +55,32 @@ tickets:
   source: https://alpenblick-resort.com/ski
   note: 主要票種依官方 2025-2026 票價整理；線上購票、組合票與詳細條件請以官方頁面為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,900
-    - 長者 ¥5,900
-    - 國中生 ¥5,900
-    - 小學生 ¥4,300
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥5,600
-    - 長者 ¥4,800
-    - 國中生 ¥4,800
-    - 小學生 ¥3,500
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥11,800
-    - 長者 ¥10,400
-    - 國中生 ¥10,400
-    - 小學生 ¥7,800
-  - name: 親子票 A
-    priceLines:
-    - 成人 1 名與小學生 1 名 ¥10,000
-    note: 官方 family A 票種
-  - name: 親子票 B
-    priceLines:
-    - 成人 2 名與小學生 1 名 ¥16,700
-    note: 官方 family B 票種
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,900
+        - 長者：¥5,900
+        - 國中生：¥5,900
+        - 小學生：¥4,300
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥5,600
+        - 長者：¥4,800
+        - 國中生：¥4,800
+        - 小學生：¥3,500
+    - name: 2 日券
+      priceLines:
+        - 成人：¥11,800
+        - 長者：¥10,400
+        - 國中生：¥10,400
+        - 小學生：¥7,800
+    - name: 親子票 A
+      priceLines:
+        - 成人 1 名、小學生 1 名：¥10,000
+      note: 官方 family A 票種
+    - name: 親子票 B
+      priceLines:
+        - 成人 2 名、小學生 1 名：¥16,700
+      note: 官方 family B 票種
 snowWeather:
   title: 池之平雪況天氣
   provider: Weathernews

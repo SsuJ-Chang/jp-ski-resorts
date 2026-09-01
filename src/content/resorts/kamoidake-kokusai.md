@@ -71,14 +71,8 @@ access:
   fromSapporo:
     - label: "大眾交通工具（主要車站銜接）"
       steps:
-        - 鐵路：函館本線砂川駅下車、車で (20分)
+        - 鐵路：函館本線砂川駅下車，轉乘計程車約 20 分鐘。
       estimatedTime: "約 20 分"
-      difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：新千歳空港から車で高速道路使用 (100分)
-      estimatedTime: "約 100 分"
       difficulty: medium
   car:
     recommended: true

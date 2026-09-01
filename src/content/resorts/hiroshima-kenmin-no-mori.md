@@ -48,24 +48,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/36713/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,900 兒童 ¥2,800 樂齡 ¥2,800
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥8,600
-  - name: 上午券
-    priceLines:
-    - 成人 ¥3,500
-  - name: 下午券
-    priceLines:
-    - 成人 ¥3,500
-  - name: 12 回券
-    priceLines:
-    - 成人 ¥4,200
-  - name: 初滑り情報 12月19日(週五）プレ開放。開放は翌日12月21日(週六)の予定です。積雪達しましたら滑れます。
-    priceLines:
-    - 請見官方公告
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥2,800
+        - 長者：¥2,800
+    - name: 2 日券
+      priceLines:
+        - 成人：¥8,600
+    - name: 上午券
+      priceLines:
+        - 成人：¥3,500
+    - name: 下午券
+      priceLines:
+        - 成人：¥3,500
+    - name: 12 回券
+      priceLines:
+        - 成人：¥4,200
+    - name: 初滑資訊：12 月 19 日（週五）試營運；預定 12 月 21 日（週六）正式開放，實際依積雪狀況。
+      priceLines:
+        - 請見官方公告
 snowWeather:
   title: 廣島縣民之森雪況天氣
   provider: Weathernews

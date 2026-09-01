@@ -84,19 +84,19 @@ lifts:
   total: 2
 access:
   fromTokyo:
-    - label: "東京出發經鶴岡"
+    - label: 東京出發經鶴岡
       steps:
         - 從東京方向搭新幹線與在來線，或改搭高速巴士、飛機等方式前往鶴岡。
-        - 從鶴岡站轉乘租車、計程車或包車，往國道 112 號與湯殿山方向移動。
-      estimatedTime: "鶴岡後約 40 分"
+        - 從鶴岡站轉乘計程車或包車，往國道 112 號與湯殿山方向移動。
+      estimatedTime: 鶴岡後約 40 分
       difficulty: hard
       note: 鶴岡後公開資料以車行時間為主；不自駕時建議先安排回程交通或住宿接送。
   fromAirport:
-    - label: "庄內機場出發"
+    - label: 庄內機場出發
       steps:
-        - 從庄內機場租車、計程車或包車，往鶴岡與湯殿山方向移動。
+        - 從庄內機場搭計程車或包車，往鶴岡與湯殿山方向移動。
         - 依當日道路與積雪狀況前往湯殿山。
-      estimatedTime: "約 40 分"
+      estimatedTime: 約 40 分
       difficulty: hard
       note: 機場後公開資料以車行時間為主；冬季請先確認道路與回程交通。
   car:

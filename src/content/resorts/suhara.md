@@ -39,21 +39,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/35457/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,800
-    - 兒童 ¥3,000
-    - 樂齡 ¥4,000
-  - name: 平日優惠券
-    priceLines:
-    - 成人 ¥3,800
-    - 兒童 ¥3,000
-    - 樂齡 ¥3,800
-  - name: 5 小時券
-    priceLines:
-    - 成人 ¥3,800
-    - 兒童 ¥2,300
-    - 樂齡 ¥3,400
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,800
+        - 兒童：¥3,000
+        - 長者：¥4,000
+    - name: 平日優惠券
+      priceLines:
+        - 成人：¥3,800
+        - 兒童：¥3,000
+        - 長者：¥3,800
+    - name: 5 小時券
+      priceLines:
+        - 成人：¥3,800
+        - 兒童：¥2,300
+        - 長者：¥3,400
 snowWeather:
   title: 須原雪況預報
   provider: Weathernews

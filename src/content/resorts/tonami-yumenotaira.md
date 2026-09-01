@@ -40,14 +40,14 @@ tickets:
   source: https://weathernews.jp/ski/spot/35502/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠與停車費請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥2,930
-    - 兒童 ¥2,090
-  - name: 半日券
-    priceLines:
-    - 成人 ¥1,880
-    - 兒童 ¥1,360
+    - name: 1 日券
+      priceLines:
+        - 成人：¥2,930
+        - 兒童：¥2,090
+    - name: 半日券
+      priceLines:
+        - 成人：¥1,880
+        - 兒童：¥1,360
 snowWeather:
   title: 礪波夢之平雪況天氣
   provider: Weathernews
@@ -75,21 +75,21 @@ lifts:
   total: 1
 access:
   fromTokyo:
-  - label: 東京出發經高岡
-    steps:
-    - 從東京搭北陸新幹線到新高岡或高岡周邊。
-    - 從高岡站轉租車或計程車前往礪波夢之平。
-    estimatedTime: 站後約 33 分
-    difficulty: hard
-    note: 公開交通資料以車程為主，未列直達大眾運輸；若不自駕，建議先確認叫車與回程安排。
+    - label: 東京出發經高岡
+      steps:
+        - 從東京搭北陸新幹線到新高岡或高岡周邊。
+        - 從高岡站轉包車或計程車前往礪波夢之平。
+      estimatedTime: 站後約 33 分
+      difficulty: hard
+      note: 公開交通資料以車程為主，未列直達大眾運輸；若不自駕，建議先確認叫車與回程安排。
   fromAirport:
-  - label: 富山機場出發
-    steps:
-    - 從富山機場租車或包車前往砺波市五谷方向。
-    - 依當日道路狀況前往礪波夢之平停車場。
-    estimatedTime: 約 40 分
-    difficulty: hard
-    note: 雪場位於山側，冬季建議以雪胎車輛前往並預留道路積雪時間。
+    - label: 富山機場出發
+      steps:
+        - 從富山機場包車前往砺波市五谷方向。
+        - 依當日道路狀況前往礪波夢之平停車場。
+      estimatedTime: 約 40 分
+      difficulty: hard
+      note: 雪場位於山側，冬季建議以雪胎車輛前往並預留道路積雪時間。
   car:
     recommended: true
     snowTireRequired: true

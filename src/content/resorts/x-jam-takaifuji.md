@@ -44,26 +44,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34862/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,900
-    - 兒童 ¥2,500
-    - 樂齡 ¥4,400
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥9,300
-    - 兒童 ¥4,800
-    - 樂齡 ¥8,400
-  - name: 3 日券
-    priceLines:
-    - 成人 ¥14,000
-    - 兒童 ¥7,200
-    - 樂齡 ¥12,600
-  - name: 上午券（8：00~13:00)
-    priceLines:
-    - 成人 ¥3,500
-    - 兒童 ¥2,000
-    - 樂齡 ¥3,300
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥2,500
+        - 長者：¥4,400
+    - name: 2 日券
+      priceLines:
+        - 成人：¥9,300
+        - 兒童：¥4,800
+        - 長者：¥8,400
+    - name: 3 日券
+      priceLines:
+        - 成人：¥14,000
+        - 兒童：¥7,200
+        - 長者：¥12,600
+    - name: 上午券（8：00 ~ 13:00)
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥2,000
+        - 長者：¥3,300
 snowWeather:
   title: X-JAM 高井富士雪況預報
   provider: Weathernews

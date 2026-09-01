@@ -81,12 +81,6 @@ access:
         - 鐵路：地下鉄東豊線福住駅または地下鉄東西線大谷地駅下車→バス・タクシーにて (30分)
       estimatedTime: "約 30 分"
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：新千歳空港より車で (45分)
-      estimatedTime: "約 45 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

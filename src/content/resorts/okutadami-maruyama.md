@@ -42,20 +42,20 @@ tickets:
   source: https://weathernews.jp/ski/spot/35431/
   note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、套票與長者證明規則請以官方為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,000
-    - 兒童 ¥1,800
-    - 長者 ¥4,300
-  - name: 上午券
-    priceLines:
-    - 成人 ¥3,800
-  - name: 下午券
-    priceLines:
-    - 成人 ¥3,800
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥8,500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥1,800
+        - 長者：¥4,300
+    - name: 上午券
+      priceLines:
+        - 成人：¥3,800
+    - name: 下午券
+      priceLines:
+        - 成人：¥3,800
+    - name: 2 日券
+      priceLines:
+        - 成人：¥8,500
 snowWeather:
   title: 奧只見丸山雪況天氣
   provider: Weathernews

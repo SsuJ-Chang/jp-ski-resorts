@@ -58,26 +58,26 @@ tickets:
   source: https://tanigawadake-joch.com/mt-t/
   note: 官方票價包含滑雪場內外攜帶雙板或雪板搭乘 Ropeway 的使用情境，觀光與登山用途票券請改查谷川岳ヨッホ官方網站。
   plans:
-  - name: 1Day Pass
-    priceLines:
-    - 成人 ¥9,000
-    - 小學生 ¥1,500
-    note: 適用 2025/12/20-2026/1/9 與 2026/3/1-3/9。
-  - name: Ultimate 1Day Pass
-    priceLines:
-    - 成人 ¥13,000
-    - 小學生 ¥1,500
-    note: 適用 2026/1/10-2/28，官方標示 150 名限定且需預約。
-  - name: Spring Pass
-    priceLines:
-    - 成人 ¥6,000
-    - 小學生 ¥1,500
-    note: 適用 2026/3/10-4/5。
-  - name: 下午券
-    priceLines:
-    - 成人 ¥6,000
-    - 小學生 ¥1,500
-    note: 12:00 起可使用，適用 2025/12/20-2026/4/5。
+    - name: 1Day Pass
+      priceLines:
+        - 成人：¥9,000
+        - 小學生：¥1,500
+      note: 適用 2025/12/20-2026/1/9 與 2026/3/1-3/9。
+    - name: Ultimate 1Day Pass
+      priceLines:
+        - 成人：¥13,000
+        - 小學生：¥1,500
+      note: 適用 2026/1/10-2/28，官方標示 150 名限定且需預約。
+    - name: Spring Pass
+      priceLines:
+        - 成人：¥6,000
+        - 小學生：¥1,500
+      note: 適用 2026/3/10-4/5。
+    - name: 下午券
+      priceLines:
+        - 成人：¥6,000
+        - 小學生：¥1,500
+      note: 12:00 起可使用，適用 2025/12/20-2026/4/5。
 snowWeather:
   title: 谷川岳天神平雪況天氣
   provider: Weathernews

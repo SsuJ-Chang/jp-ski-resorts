@@ -48,24 +48,36 @@ tickets:
   source: https://weathernews.jp/ski/spot/34217/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,300 兒童 ¥3,000 樂齡 ¥5,900
-  - name: フレンドリーパス
-    priceLines:
-    - 成人 ¥3,300 兒童 ¥2,000 樂齡 ¥3,300
-  - name: グレードアップ料金
-    priceLines:
-    - 成人 ¥3,100 兒童 ¥1,000 樂齡 ¥3,100
-  - name: 10 小時券
-    priceLines:
-    - 成人 ¥10,500 兒童 ¥10,500 樂齡 ¥10,500
-  - name: 20 小時券
-    priceLines:
-    - 成人 ¥19,000 兒童 ¥19,000 樂齡 ¥19,000
-  - name: フルシーズン券
-    priceLines:
-    - 成人 ¥80,000 兒童 ¥33,000 樂齡 ¥80,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,300
+        - 兒童：¥3,000
+        - 長者：¥5,900
+    - name: Friendly Pass
+      priceLines:
+        - 成人：¥3,300
+        - 兒童：¥2,000
+        - 長者：¥3,300
+    - name: 升級費用
+      priceLines:
+        - 成人：¥3,100
+        - 兒童：¥1,000
+        - 長者：¥3,100
+    - name: 10 小時券
+      priceLines:
+        - 成人：¥10,500
+        - 兒童：¥10,500
+        - 長者：¥10,500
+    - name: 20 小時券
+      priceLines:
+        - 成人：¥19,000
+        - 兒童：¥19,000
+        - 長者：¥19,000
+    - name: 全雪季季票
+      priceLines:
+        - 成人：¥80,000
+        - 兒童：¥33,000
+        - 長者：¥80,000
 snowWeather:
   title: 丸沼高原雪況天氣
   provider: Weathernews

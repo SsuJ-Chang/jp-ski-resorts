@@ -67,40 +67,40 @@ tickets:
   source: https://en.nozawaski.com/the-mountain/lift-ticket/ticket-prices/
   note: 主要票種依 2025-2026 Winter Fares 整理。標示星號的票種包含 gondola 與 lift，但不含夜滑。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥7,500
-    - 兒童 ¥4,500
-    - 熟齡 ¥6,000
-    note: 僅限購買當日使用；兒童為國中以下，熟齡為 60 歲以上且購買時需出示證件。
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥13,900
-    - 兒童 ¥8,300
-    - 熟齡 ¥11,100
-    note: 自購買日起連續 2 日有效；不連續使用請依住宿端規則確認。
-  - name: 3 日券
-    priceLines:
-    - 成人 ¥20,300
-    - 兒童 ¥12,100
-    - 熟齡 ¥16,200
-    note: 自購買日起連續 3 日有效。
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥6,400
-    - 兒童 ¥3,800
-    - 熟齡 ¥5,100
-    note: 通過第一個 gate 後開始計時，僅限購買當日白天營業時間使用。
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥2,700
-    - 兒童 ¥1,600
-    note: 購買當日 17:00-20:00 有效。
-  - name: 觀光 gondola 來回券
-    priceLines:
-    - 成人 ¥3,500
-    - 兒童 ¥2,500
-    note: 僅供未攜帶雙板或雪板裝備的觀光乘客搭乘來回。
+    - name: 1 日券
+      priceLines:
+        - 成人：¥7,500
+        - 兒童：¥4,500
+        - 熟齡：¥6,000
+      note: 僅限購買當日使用；兒童為國中以下，熟齡為 60 歲以上且購買時需出示證件。
+    - name: 2 日券
+      priceLines:
+        - 成人：¥13,900
+        - 兒童：¥8,300
+        - 熟齡：¥11,100
+      note: 自購買日起連續 2 日有效；不連續使用請依住宿端規則確認。
+    - name: 3 日券
+      priceLines:
+        - 成人：¥20,300
+        - 兒童：¥12,100
+        - 熟齡：¥16,200
+      note: 自購買日起連續 3 日有效。
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥6,400
+        - 兒童：¥3,800
+        - 熟齡：¥5,100
+      note: 通過第一個 gate 後開始計時，僅限購買當日白天營業時間使用。
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥2,700
+        - 兒童：¥1,600
+      note: 購買當日 17:00-20:00 有效。
+    - name: 觀光 gondola 來回券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥2,500
+      note: 僅供未攜帶雙板或雪板裝備的觀光乘客搭乘來回。
 snowWeather:
   title: 野澤溫泉雪況天氣
   provider: Weathernews

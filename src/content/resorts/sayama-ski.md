@@ -43,21 +43,24 @@ tickets:
   source: https://weathernews.jp/ski/spot/34303/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: ワンデーチケット
-    priceLines:
-    - 成人 ¥4,000 兒童 ¥1,000
-  - name: アフタヌーンチケット
-    priceLines:
-    - 成人 ¥3,000
-  - name: 夜滑チケット
-    priceLines:
-    - 成人 ¥2,500 兒童 ¥1,000
-  - name: 入場チケット(0〜2歳止免費)
-    priceLines:
-    - 成人 ¥1,200 兒童 ¥1,000
-  - name: シーズンパス(0〜2歳止免費)
-    priceLines:
-    - 成人 ¥68,000 12月27日(週六)〜１月４日(週日)および１月、２月の土、週日、國定假日は特定日料金となります。料金の確認は狭山スキー場のHPでご確認ください。
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥1,000
+    - name: 下午券
+      priceLines:
+        - 成人：¥3,000
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥2,500
+        - 兒童：¥1,000
+    - name: 入場券（0 ~ 2 歲免費）
+      priceLines:
+        - 成人：¥1,200
+        - 兒童：¥1,000
+    - name: 季票（0 ~ 2 歲免費）
+      priceLines:
+        - 成人：¥68,000 12月27日(週六) ~ １月４日(週日)および１月、２月的週六、週日、國定假日為特定日期價格，請至狹山滑雪場官方網站確認。
 snowWeather:
   title: 狹山雪況天氣
   provider: Weathernews

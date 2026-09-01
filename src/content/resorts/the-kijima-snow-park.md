@@ -33,26 +33,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/44805/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1日券(假日)
-    priceLines:
-    - 成人 ¥5,000
-    - 兒童 ¥3,000
-    - 樂齡 ¥4,500
-  - name: 半日券(下午)(假日)
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥1,500
-    - 樂齡 ¥2,500
-  - name: 1回券(假日)
-    priceLines:
-    - 成人 ¥500
-    - 兒童 ¥500
-    - 樂齡 ¥500
-  - name: 1日券(假日、平日)
-    priceLines:
-    - 成人 ¥4,500
-    - 兒童 ¥3,000
-    - 樂齡 ¥3,900
+    - name: 1日券(假日)
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥3,000
+        - 長者：¥4,500
+    - name: 半日券(下午)(假日)
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥1,500
+        - 長者：¥2,500
+    - name: 1回券(假日)
+      priceLines:
+        - 成人：¥500
+        - 兒童：¥500
+        - 長者：¥500
+    - name: 1日券(假日、平日)
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥3,000
+        - 長者：¥3,900
 snowWeather:
   title: The Kijima Snow Park雪況預報
   provider: Weathernews

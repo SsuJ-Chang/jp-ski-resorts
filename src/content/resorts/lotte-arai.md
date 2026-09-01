@@ -45,21 +45,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/35494/
   note: 初版依公開資料整理主要票種；官方頁面若更新，請優先以 LOTTE ARAI RESORT 官方資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥7,500
-    - 長者 ¥7,000
-    - 兒童 ¥5,000
-  - name: 下午券
-    priceLines:
-    - 成人 ¥6,300
-    - 長者 ¥5,800
-    - 兒童 ¥4,500
-  - name: First Class 1 日券
-    priceLines:
-    - 成人 ¥12,500
-    - 長者 ¥12,000
-    - 兒童 ¥8,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥7,500
+        - 長者：¥7,000
+        - 兒童：¥5,000
+    - name: 下午券
+      priceLines:
+        - 成人：¥6,300
+        - 長者：¥5,800
+        - 兒童：¥4,500
+    - name: First Class 1 日券
+      priceLines:
+        - 成人：¥12,500
+        - 長者：¥12,000
+        - 兒童：¥8,000
 snowWeather:
   title: 樂天新井雪況天氣
   provider: Weathernews
@@ -213,23 +213,23 @@ lifts:
   total: 8
 access:
   fromTokyo:
-  - label: 東京出發
-    steps:
-    - 東京站搭乘北陸新幹線至上越妙高站。
-    - 依官方接駁、巴士、計程車或租車前往 LOTTE ARAI RESORT。
-    estimatedTime: 約 2.5-3.5 小時
-    difficulty: medium
-    note: 接駁與巴士資訊請以 LOTTE ARAI RESORT 官方公告與當季時刻表為準。依轉乘方式而定。
-    links:
-    - label: LOTTE ARAI RESORT Official
-      url: https://www.lottehotel.com/arai-resort/ja.html
+    - label: 東京出發
+      steps:
+        - 東京站搭乘北陸新幹線至上越妙高站。
+        - 依官方接駁、巴士、計程車前往 LOTTE ARAI RESORT。
+      estimatedTime: 約 2.5-3.5 小時
+      difficulty: medium
+      note: 接駁與巴士資訊請以 LOTTE ARAI RESORT 官方公告與當季時刻表為準。依轉乘方式而定。
+      links:
+        - label: LOTTE ARAI RESORT Official
+          url: https://www.lottehotel.com/arai-resort/ja.html
   fromAirport:
-  - label: 機場出發
-    steps:
-    - 抵達東京、北陸或新潟周邊機場後，銜接新幹線或租車至上越妙高、新井周邊。
-    - 再依官方接駁、巴士或計程車前往度假村。
-    difficulty: hard
-    note: 跨區轉乘時間差異大，建議出發前確認官方交通資訊與住宿接駁。依機場與轉乘方式而定。
+    - label: 機場出發
+      steps:
+        - 抵達東京、北陸或新潟周邊機場後，銜接新幹線至上越妙高、新井周邊。
+        - 再依官方接駁、巴士或計程車前往度假村。
+      difficulty: hard
+      note: 跨區轉乘時間差異大，建議出發前確認官方交通資訊與住宿接駁。依機場與轉乘方式而定。
   car:
     recommended: true
     snowTireRequired: true

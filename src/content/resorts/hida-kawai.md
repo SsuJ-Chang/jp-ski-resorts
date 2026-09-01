@@ -43,26 +43,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/35239/
   note: 主要票種摘要；季票、回數券與完整規則請以官方公告為準。
   plans:
-  - name: 假日 1 日券
-    priceLines:
-    - 成人 ¥3,900
-    - 兒童 ¥2,500
-    - 銀髮族 ¥3,400
-  - name: 平日 1 日券
-    priceLines:
-    - 成人 ¥2,500
-    - 兒童 ¥1,500
-    - 銀髮族 ¥2,500
-  - name: 假日半日券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥2,500
-    - 銀髮族 ¥1,500
-  - name: 11 回券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥2,000
-    - 銀髮族 ¥3,000
+    - name: 假日 1 日券
+      priceLines:
+        - 成人：¥3,900
+        - 兒童：¥2,500
+        - 長者：¥3,400
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥2,500
+        - 兒童：¥1,500
+        - 長者：¥2,500
+    - name: 假日半日券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,500
+        - 長者：¥1,500
+    - name: 11 回券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,000
+        - 長者：¥3,000
 snowWeather:
   title: 飛驒河合雪況天氣
   provider: Weathernews

@@ -55,21 +55,31 @@ tickets:
   source: https://weathernews.jp/ski/spot/34227/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,000 兒童 ¥2,500 樂齡 ¥3,800
-  - name: 下午券
-    priceLines:
-    - 成人 ¥3,000 兒童 ¥2,000 樂齡 ¥3,000
-  - name: 上午券
-    priceLines:
-    - 成人 ¥3,000 兒童 ¥2,000 樂齡 ¥3,000
-  - name: 11 回券
-    priceLines:
-    - 成人 ¥3,200 兒童 ¥3,200 樂齡 ¥3,200
-  - name: 季票
-    priceLines:
-    - 成人 ¥20,000 兒童 ¥14,000 樂齡 ¥20,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥2,500
+        - 長者：¥3,800
+    - name: 下午券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,000
+        - 長者：¥3,000
+    - name: 上午券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,000
+        - 長者：¥3,000
+    - name: 11 回券
+      priceLines:
+        - 成人：¥3,200
+        - 兒童：¥3,200
+        - 長者：¥3,200
+    - name: 季票
+      priceLines:
+        - 成人：¥20,000
+        - 兒童：¥14,000
+        - 長者：¥20,000
 snowWeather:
   title: 藤原雪況天氣
   provider: Weathernews

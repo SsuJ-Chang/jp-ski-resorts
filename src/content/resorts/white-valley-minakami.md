@@ -56,31 +56,31 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.whitevalley.jp/free/price
-  note: 依官方 2025-2026 料金案内頁整理，國中生、高中生與 55 歲以上長者需出示證明，6 歲以下學齡前兒童在保護者同乘條件下免費。
+  note: 依官方 2025-2026 料金案内頁整理，國中生、高中生與 55 歲以上長者需出示證明，6 歲以下兒童（學齡前）在保護者同乘條件下免費。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,500
-    - 小學生 ¥2,900
-    - 國高中生與長者 ¥4,800
-  - name: 上午券
-    priceLines:
-    - 成人、國高中生與長者：¥4,400
-    note: 開始營業至 12:00 有效。
-  - name: 下午券
-    priceLines:
-    - 成人、國高中生與長者：¥3,800
-    note: 12:00 至營業結束有效。
-  - name: 1 回券
-    priceLines:
-    - 成人、小學生、國高中生與長者：¥600
-  - name: 季票
-    priceLines:
-    - 全日券 成人 ¥40,000
-    - 小學生 ¥20,000
-    - 長者 ¥35,000
-    - 平日券 成人 ¥25,000
-    - 長者 ¥20,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,500
+        - 小學生：¥2,900
+        - 國高中生、長者：¥4,800
+    - name: 上午券
+      priceLines:
+        - 成人、國高中生、長者：¥4,400
+      note: 開始營業至 12:00 有效。
+    - name: 下午券
+      priceLines:
+        - 成人、國高中生、長者：¥3,800
+      note: 12:00 至營業結束有效。
+    - name: 1 回券
+      priceLines:
+        - 成人、小學生、國高中生、長者：¥600
+    - name: 季票
+      priceLines:
+        - 全日券 成人：¥40,000
+        - 小學生：¥20,000
+        - 長者：¥35,000
+        - 平日券 成人：¥25,000
+        - 長者：¥20,000
 snowWeather:
   title: White Valley 雪況天氣
   provider: Weathernews

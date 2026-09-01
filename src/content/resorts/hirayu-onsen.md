@@ -42,22 +42,22 @@ tickets:
   source: https://weathernews.jp/ski/spot/35214/
   note: 主要票種摘要；溫泉利用、兒童票與完整規則請以官方公告為準。
   plans:
-  - name: 平日 1 日券
-    priceLines:
-    - 成人 ¥3,300
-    - 銀髮族 ¥3,300
-  - name: 假日 1 日券
-    priceLines:
-    - 成人 ¥3,900
-    - 銀髮族 ¥3,900
-  - name: 平日半日券
-    priceLines:
-    - 成人 ¥2,200
-    - 銀髮族 ¥2,200
-  - name: 假日半日券
-    priceLines:
-    - 成人 ¥2,800
-    - 銀髮族 ¥2,800
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥3,300
+        - 長者：¥3,300
+    - name: 假日 1 日券
+      priceLines:
+        - 成人：¥3,900
+        - 長者：¥3,900
+    - name: 平日半日券
+      priceLines:
+        - 成人：¥2,200
+        - 長者：¥2,200
+    - name: 假日半日券
+      priceLines:
+        - 成人：¥2,800
+        - 長者：¥2,800
 snowWeather:
   title: 平湯溫泉雪況天氣
   provider: Weathernews

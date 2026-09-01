@@ -59,30 +59,30 @@ tickets:
   source: https://www.hakubaescal.com/winter/tickets/lift/
   note: 現場 Ticket Center 主要票種摘要，價格含 IC 卡押金；完整規則與線上票價以官方頁面為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥9,500
-    - 長者 ¥9,000
-    - 青年 ¥6,500
-    - 兒童 ¥4,500
-    note: 當日 17:00 前有效
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥17,500
-    - 長者 ¥16,500
-    - 青年 ¥11,500
-    - 兒童 ¥8,000
-    note: 雪季內任選 2 日有效
-  - name: 半日券
-    priceLines:
-    - 成人 ¥8,000
-    - 兒童 ¥3,900
-    note: 開始營業至 13:00，或 12:00 至結束營業
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥6,500
-    - 兒童 ¥3,000
-    note: Toomi Slope 與 Iimori Slope，18:00-21:30
+    - name: 1 日券
+      priceLines:
+        - 成人：¥9,500
+        - 長者：¥9,000
+        - 青年：¥6,500
+        - 兒童：¥4,500
+      note: 當日 17:00 前有效
+    - name: 2 日券
+      priceLines:
+        - 成人：¥17,500
+        - 長者：¥16,500
+        - 青年：¥11,500
+        - 兒童：¥8,000
+      note: 雪季內任選 2 日有效
+    - name: 半日券
+      priceLines:
+        - 成人：¥8,000
+        - 兒童：¥3,900
+      note: 開始營業至 13:00，或 12:00 至結束營業
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥3,000
+      note: Toomi Slope 與 Iimori Slope，18:00-21:30
 snowWeather:
   title: 白馬五龍雪況天氣
   provider: Weathernews

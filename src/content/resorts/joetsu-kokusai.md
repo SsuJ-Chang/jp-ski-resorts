@@ -57,21 +57,21 @@ tickets:
   source: https://jkokusai.co.jp/ski/lift/hayawariticket/
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
-  - name: 1 日入場券
-    priceLines:
-    - 成人 ¥5,500
-    - 兒童 ¥3,500
-    - 熟齡 ¥4,300
-  - name: 1 日入場券+
-    priceLines:
-    - 成人 ¥5,800
-    - 兒童 ¥3,800
-    - 熟齡 ¥4,600
-  - name: 夜滑入場券
-    priceLines:
-    - 成人 ¥1,500
-    - 兒童 ¥1,000
-    - 熟齡 ¥1,000
+    - name: 1 日入場券
+      priceLines:
+        - 成人：¥5,500
+        - 兒童：¥3,500
+        - 熟齡：¥4,300
+    - name: 1 日入場券+
+      priceLines:
+        - 成人：¥5,800
+        - 兒童：¥3,800
+        - 熟齡：¥4,600
+    - name: 夜滑入場券
+      priceLines:
+        - 成人：¥1,500
+        - 兒童：¥1,000
+        - 熟齡：¥1,000
 snowWeather:
   title: 上越國際雪況天氣
   provider: Official / Weathernews

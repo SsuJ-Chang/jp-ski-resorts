@@ -42,26 +42,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34848/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,400
-    - 兒童 ¥3,200
-    - 樂齡 ¥4,200
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥9,800
-    - 兒童 ¥5,400
-    - 樂齡 ¥7,400
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥4,400
-    - 兒童 ¥2,400
-    - 樂齡 ¥3,400
-  - name: 回數券（9回）
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥2,400
-    - 樂齡 ¥3,200
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,400
+        - 兒童：¥3,200
+        - 長者：¥4,200
+    - name: 2 日券
+      priceLines:
+        - 成人：¥9,800
+        - 兒童：¥5,400
+        - 長者：¥7,400
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥4,400
+        - 兒童：¥2,400
+        - 長者：¥3,400
+    - name: 回數券（9回）
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥2,400
+        - 長者：¥3,200
 snowWeather:
   title: 湯之丸雪況預報
   provider: Weathernews

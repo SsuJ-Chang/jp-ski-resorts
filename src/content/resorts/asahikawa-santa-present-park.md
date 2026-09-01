@@ -54,34 +54,34 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.asahikawasantapresentpark.com/cont1/8.html
-  note: 2025-2026 票價含稅；大人為國中生以上，兒童為小學生以下，65 歲以上出示證明可適用兒童票價。購買後不可退票或更換票種。
+  note: 2025-2026 票價含稅；成人為國中生以上，兒童為兒童（小學生以下），長者（65 歲以上）出示證明可適用兒童票價。購買後不可退票或更換票種。
   plans:
-  - name: 日中券
-    priceLines:
-    - 大人 ¥4,200
-    - 兒童 ¥3,300
-    note: 營業開始至 16:00 可使用。
-  - name: 5 小時券
-    priceLines:
-    - 大人 ¥3,600
-    - 兒童 ¥3,000
-  - name: 2 小時券
-    priceLines:
-    - 大人 ¥3,000
-    - 兒童 ¥2,500
-  - name: 12 回券
-    priceLines:
-    - 大人 ¥3,700
-    - 兒童 ¥3,000
-  - name: 夜滑券
-    priceLines:
-    - 大人 ¥1,800
-    - 兒童 ¥1,100
-    note: 16:00 起至營業結束可使用。
-  - name: Snow Escalator 專用券
-    priceLines:
-    - 大人、兒童：¥1,500
-    note: 10:00-15:00 可不限次數使用；一般纜車券不可使用 Snow Escalator。
+    - name: 日中券
+      priceLines:
+        - 成人：¥4,200
+        - 兒童：¥3,300
+      note: 營業開始至 16:00 可使用。
+    - name: 5 小時券
+      priceLines:
+        - 成人：¥3,600
+        - 兒童：¥3,000
+    - name: 2 小時券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,500
+    - name: 12 回券
+      priceLines:
+        - 成人：¥3,700
+        - 兒童：¥3,000
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥1,800
+        - 兒童：¥1,100
+      note: 16:00 起至營業結束可使用。
+    - name: Snow Escalator 專用券
+      priceLines:
+        - 成人、兒童：¥1,500
+      note: 10:00-15:00 可不限次數使用；一般纜車券不可使用 Snow Escalator。
 snowWeather:
   title: 聖誕禮物公園雪況天氣
   provider: Weathernews
@@ -132,26 +132,26 @@ lifts:
   total: 4
 access:
   fromSapporo:
-  - label: 札幌出發，JR 至旭川後轉乘
-    steps:
-    - 從札幌站搭 JR 函館本線特急前往旭川站。
-    - 從旭川站改搭冬季道北巴士 455 快速サンタリンクス線、計程車，或租車前往雪場。
-    estimatedTime: 約 2 小時以上
-    difficulty: medium
-    note: 冬季巴士班次與時間每年可能調整，請以當季時刻表與道北巴士公告為準。依列車、巴士班次與道路狀況而定。
-    links:
-    - label: 冬期間のバス運行時刻表
-      url: https://www.asahikawasantapresentpark.com/cont9/43.html
+    - label: 札幌出發，JR 至旭川後轉乘
+      steps:
+        - 從札幌站搭 JR 函館本線特急前往旭川站。
+        - 從旭川站改搭冬季道北巴士 455 快速サンタリンクス線、計程車，前往雪場。
+      estimatedTime: 約 2 小時以上
+      difficulty: medium
+      note: 冬季巴士班次與時間每年可能調整，請以當季時刻表與道北巴士公告為準。依列車、巴士班次與道路狀況而定。
+      links:
+        - label: 冬期間のバス運行時刻表
+          url: https://www.asahikawasantapresentpark.com/cont9/43.html
   fromAirport:
-  - label: 旭川機場出發
-    steps:
-    - 從旭川機場搭車前往旭川市區方向。
-    - 依當季交通狀況轉乘計程車、租車或市區巴士前往雪場。
-    estimatedTime: 開車約 40 分鐘
-    difficulty: medium
-    links:
-    - label: Access
-      url: https://www.asahikawasantapresentpark.com/map.html
+    - label: 旭川機場出發
+      steps:
+        - 從旭川機場搭車前往旭川市區方向。
+        - 依當季交通狀況轉乘計程車或市區巴士前往雪場。
+      estimatedTime: 約 40 分鐘
+      difficulty: medium
+      links:
+        - label: Access
+          url: https://www.asahikawasantapresentpark.com/map.html
   car:
     recommended: true
     snowTireRequired: true

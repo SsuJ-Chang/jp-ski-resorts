@@ -45,17 +45,17 @@ tickets:
   source: https://weathernews.jp/ski/spot/35456/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,600
-    - 兒童 ¥3,200
-  - name: 5 小時券
-    priceLines:
-    - 成人 ¥5,000
-    - 兒童 ¥2,800
-  - name: 夜滑券
-    priceLines:
-    - 成人 / 兒童：¥2,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,600
+        - 兒童：¥3,200
+    - name: 5 小時券
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥2,800
+    - name: 夜滑券
+      priceLines:
+        - 成人、兒童：¥2,000
 snowWeather:
   title: Cupid Valley雪況預報
   provider: Weathernews

@@ -41,26 +41,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34845/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,400
-    - 兒童 ¥2,800
-    - 樂齡 ¥5,000
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥4,400
-    - 兒童 ¥4,400
-    - 樂齡 ¥4,400
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥500
-    - 兒童 ¥500
-    - 樂齡 ¥500
-  - name: 丸山ゲレンデ1日券
-    priceLines:
-    - 成人 ¥2,500
-    - 兒童 ¥1,500
-    - 樂齡 ¥2,500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,400
+        - 兒童：¥2,800
+        - 長者：¥5,000
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥4,400
+        - 兒童：¥4,400
+        - 長者：¥4,400
+    - name: 1 回券
+      priceLines:
+        - 成人：¥500
+        - 兒童：¥500
+        - 長者：¥500
+    - name: 丸山雪道 1 日券
+      priceLines:
+        - 成人：¥2,500
+        - 兒童：¥1,500
+        - 長者：¥2,500
 snowWeather:
   title: 藪原高原雪況預報
   provider: Weathernews

@@ -50,24 +50,28 @@ tickets:
   source: https://weathernews.jp/ski/spot/36325/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 平日1日券
-    priceLines:
-    - 成人 ¥3,200 兒童 ¥500 樂齡 ¥3,000
-  - name: 週末及國定假日1日券
-    priceLines:
-    - 成人 ¥4,500 兒童 ¥500 樂齡 ¥3,800
-  - name: 平日学割1日券 (学生証提示)
-    priceLines:
-    - 成人 ¥2,000
-  - name: 週末及國定假日学割1日券 (学生証提示)
-    priceLines:
-    - 成人 ¥2,500
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥3,500
-  - name: 回數券(11回)
-    priceLines:
-    - 成人 ¥4,000
+    - name: 平日1日券
+      priceLines:
+        - 成人：¥3,200
+        - 兒童：¥500
+        - 長者：¥3,000
+    - name: 週末及國定假日1日券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥500
+        - 長者：¥3,800
+    - name: 平日学割1日券 (学生証提示)
+      priceLines:
+        - 成人：¥2,000
+    - name: 週末及國定假日学割1日券 (学生証提示)
+      priceLines:
+        - 成人：¥2,500
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥3,500
+    - name: 回數券(11回)
+      priceLines:
+        - 成人：¥4,000
 snowWeather:
   title: 若杉高原大屋雪況天氣
   provider: Weathernews

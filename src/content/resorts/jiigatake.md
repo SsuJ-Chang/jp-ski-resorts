@@ -52,21 +52,21 @@ tickets:
   source: https://jiigatake.com/price/
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,400
-    - 兒童 ¥3,200
-    - 學生與熟齡 ¥4,400
-  - name: 平日 1 日券
-    priceLines:
-    - 成人 ¥4,900
-    - 兒童 ¥2,900
-    - 學生與熟齡 ¥3,900
-  - name: 半日券
-    priceLines:
-    - 成人 ¥3,900
-    - 兒童 ¥2,500
-    - 學生與熟齡 ¥3,200
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,400
+        - 兒童：¥3,200
+        - 學生、熟齡：¥4,400
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥2,900
+        - 學生、熟齡：¥3,900
+    - name: 半日券
+      priceLines:
+        - 成人：¥3,900
+        - 兒童：¥2,500
+        - 學生、熟齡：¥3,200
 snowWeather:
   title: 爺岳雪況天氣
   provider: Weathernews

@@ -78,12 +78,6 @@ access:
         - 鐵路：JR千歳線北広島駅下車、タクシー (40分)
       estimatedTime: "約 15 分"
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：新千歳空港から車で (45分)
-      estimatedTime: "約 45 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

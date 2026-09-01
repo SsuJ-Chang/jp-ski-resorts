@@ -62,20 +62,22 @@ tickets:
   source: https://www.minakami-ski.jp/price/
   note: 依官方 2025-2026 票價頁整理，未列於主要票種的住宿者優惠、套票與活動票請以官方為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,500、小學生 ¥3,600、學齡前兒童免費
-    note: 一般營業期間的主要纜車券。
-  - name: 半日券
-    priceLines:
-    - 成人 ¥4,500
-    - 小學生 ¥3,100
-    note: 上午或下午時段票種，實際可用時間請以官方售票資訊為準。
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥700
-    - 小學生 ¥700
-    note: 單次搭乘票。
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,500
+        - 小學生：¥3,600
+        - 兒童（學齡前）：免費
+      note: 一般營業期間的主要纜車券。
+    - name: 半日券
+      priceLines:
+        - 成人：¥4,500
+        - 小學生：¥3,100
+      note: 上午或下午時段票種，實際可用時間請以官方售票資訊為準。
+    - name: 1 回券
+      priceLines:
+        - 成人：¥700
+        - 小學生：¥700
+      note: 單次搭乘票。
 snowWeather:
   title: 水上高原雪況天氣
   provider: Weathernews

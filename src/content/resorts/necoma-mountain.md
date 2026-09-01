@@ -58,22 +58,33 @@ tickets:
   source: https://www.nekoma.co.jp/price/
   note: 窗口票種摘要；除儲值購買外另收 IC 卡保證金 ¥500，退卡時返還。完整規則與 WEB 票價請以官方頁面為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,300、長者 ¥5,800、國高中生 ¥4,500、小學生 ¥3,000、學齡前兒童免費
-    note: 日間營業有效，不含 first ride 與夜滑
-  - name: 下午券
-    priceLines:
-    - 成人 ¥5,800、長者 ¥5,300、國高中生 ¥4,000、小學生 ¥2,500、學齡前兒童免費
-    note: 11:00-14:30，有效時段不含夜滑
-  - name: 初學者限定 1 日券
-    priceLines:
-    - 成人 ¥2,500、小學生 ¥1,500、學齡前兒童免費
-    note: 僅可搭乘南區 First Chair 與北區 Friendly Cat Express
-  - name: 夜滑券
-    priceLines:
-    - 一律 ¥2,500、學齡前兒童免費
-    note: 16:30-20:00，夜滑營業日限定，對象纜車為南區 Alts Express
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,300
+        - 長者：¥5,800
+        - 國高中生：¥4,500
+        - 小學生：¥3,000
+        - 兒童（學齡前）：免費
+      note: 日間營業有效，不含 first ride 與夜滑
+    - name: 下午券
+      priceLines:
+        - 成人：¥5,800
+        - 長者：¥5,300
+        - 國高中生：¥4,000
+        - 小學生：¥2,500
+        - 兒童（學齡前）：免費
+      note: 11:00-14:30，有效時段不含夜滑
+    - name: 初學者限定 1 日券
+      priceLines:
+        - 成人：¥2,500
+        - 小學生：¥1,500
+        - 兒童（學齡前）：免費
+      note: 僅可搭乘南區 First Chair 與北區 Friendly Cat Express
+    - name: 夜滑券
+      priceLines:
+        - 一律：¥2,500
+        - 兒童（學齡前）：免費
+      note: 16:30-20:00，夜滑營業日限定，對象纜車為南區 Alts Express
 snowWeather:
   title: 星野渡假村 貓魔滑雪場雪況天氣
   provider: Weathernews
@@ -236,16 +247,16 @@ lifts:
   total: 13
 access:
   fromTokyo:
-  - label: 東京出發
-    steps:
-    - 東京站搭乘東北新幹線至郡山站。
-    - 從郡山站轉乘官方接駁巴士、路線巴士或租車前往星野渡假村 貓魔滑雪場。
-    estimatedTime: 約 3-4 小時
-    difficulty: medium
-    note: 公開資料列出郡山站至雪場接駁約 70 分鐘；接駁需以官方當季資訊為準。依接駁與轉乘方式而定。
-    links:
-    - label: NEKOMA Mountain Access
-      url: https://www.nekoma.co.jp/access/
+    - label: 東京出發
+      steps:
+        - 東京站搭乘東北新幹線至郡山站。
+        - 從郡山站轉乘官方接駁巴士、路線巴士前往星野渡假村 貓魔滑雪場。
+      estimatedTime: 約 3-4 小時
+      difficulty: medium
+      note: 公開資料列出郡山站至雪場接駁約 70 分鐘；接駁需以官方當季資訊為準。依接駁與轉乘方式而定。
+      links:
+        - label: NEKOMA Mountain Access
+          url: https://www.nekoma.co.jp/access/
   car:
     recommended: true
     snowTireRequired: true

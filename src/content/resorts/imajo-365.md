@@ -38,10 +38,10 @@ tickets:
   source: https://weathernews.jp/ski/spot/35704/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠與停車費請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,000
-    - 小學生 ¥3,500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,000
+        - 小學生：¥3,500
 snowWeather:
   title: 今庄 365雪況天氣
   provider: Weathernews
@@ -86,12 +86,12 @@ lifts:
   total: 3
 access:
   fromOsaka:
-  - label: 大阪出發經敦賀
-    steps:
-    - 從大阪或京都搭 JR 至敦賀站。
-    - 從敦賀站轉計程車或租車前往今庄 365。
-    difficulty: hard
-    note: 敦賀站後約 20 分鐘；若改由今庄站轉乘，今庄站後同樣以計程車為主，班次與叫車需事前確認。
+    - label: 大阪出發經敦賀
+      steps:
+        - 從大阪或京都搭 JR 至敦賀站。
+        - 從敦賀站轉計程車前往今庄 365。
+      difficulty: hard
+      note: 敦賀站後約 20 分鐘；若改由今庄站轉乘，今庄站後同樣以計程車為主，班次與叫車需事前確認。
   car:
     recommended: true
     snowTireRequired: true

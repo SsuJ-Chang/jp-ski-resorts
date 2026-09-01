@@ -45,26 +45,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/35201/
   note: 主要票種摘要；季票、學生票與完整規則請以官方公告為準。
   plans:
-  - name: 平日 1 日券
-    priceLines:
-    - 成人 ¥3,700
-    - 兒童 ¥2,500
-    - 銀髮族 ¥3,000
-  - name: 週末假日 1 日券
-    priceLines:
-    - 成人 ¥4,700
-    - 兒童 ¥3,000
-    - 銀髮族 ¥3,800
-  - name: 平日上午・下午券
-    priceLines:
-    - 成人 ¥2,700
-    - 兒童 ¥2,000
-    - 銀髮族 ¥2,200
-  - name: 週末假日上午・下午券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥2,500
-    - 銀髮族 ¥3,300
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥3,700
+        - 兒童：¥2,500
+        - 長者：¥3,000
+    - name: 週末假日 1 日券
+      priceLines:
+        - 成人：¥4,700
+        - 兒童：¥3,000
+        - 長者：¥3,800
+    - name: 平日上午・下午券
+      priceLines:
+        - 成人：¥2,700
+        - 兒童：¥2,000
+        - 長者：¥2,200
+    - name: 週末假日上午・下午券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥2,500
+        - 長者：¥3,300
 snowWeather:
   title: 飛驒流葉雪況天氣
   provider: Weathernews
@@ -106,21 +106,21 @@ lifts:
   total: 6
 access:
   fromNagoya:
-  - label: 飛驒古川站轉濃飛巴士
-    steps:
-    - 從名古屋方向搭 JR 高山本線到飛驒古川站。
-    - 從飛驒古川站轉乘濃飛巴士或直行巴士前往雪場。
-    estimatedTime: 約 30 分鐘
-    difficulty: medium
-    note: 時間為飛驒古川站到雪場的巴士段；直行巴士與季節班次需事先確認。
+    - label: 飛驒古川站轉濃飛巴士
+      steps:
+        - 從名古屋方向搭 JR 高山本線到飛驒古川站。
+        - 從飛驒古川站轉乘濃飛巴士或直行巴士前往雪場。
+      estimatedTime: 約 30 分鐘
+      difficulty: medium
+      note: 時間為飛驒古川站到雪場的巴士段；直行巴士與季節班次需事先確認。
   fromAirport:
-  - label: 富山機場出發
-    steps:
-    - 從富山機場轉乘巴士、租車或接駁交通往飛驒市方向。
-    - 前往飛驒流葉雪場。
-    estimatedTime: 約 60 分鐘
-    difficulty: medium
-    note: 時間為富山機場到雪場的參考車程。
+    - label: 富山機場出發
+      steps:
+        - 從富山機場轉乘巴士或接駁交通往飛驒市方向。
+        - 前往飛驒流葉雪場。
+      estimatedTime: 約 60 分鐘
+      difficulty: medium
+      note: 時間為富山機場到雪場的參考車程。
   car:
     recommended: true
     snowTireRequired: true

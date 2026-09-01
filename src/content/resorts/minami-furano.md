@@ -75,11 +75,6 @@ courses:
 lifts:
   total: 2
 access:
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：新千歳空港から車で90分
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

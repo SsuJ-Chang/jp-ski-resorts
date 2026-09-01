@@ -71,21 +71,21 @@ lifts:
   total: 3
 access:
   fromTokyo:
-    - label: "東京出發經米澤"
+    - label: 東京出發經米澤
       steps:
         - 從東京搭山形新幹線到米澤站。
         - 從米澤站轉乘山交巴士米澤至白布溫泉方向班次。
         - 抵達白布溫泉、天元台周邊後，前往纜車山麓站。
-      estimatedTime: "站後約 40 分"
+      estimatedTime: 站後約 40 分
       difficulty: medium
       note: 米澤站後班次以山交巴士時刻為準；請同時確認天元台纜車營運狀況。
   fromAirport:
-    - label: "仙台或山形機場出發"
+    - label: 仙台或山形機場出發
       steps:
-        - 從機場先移動到米澤站或租車往米澤、白布溫泉方向移動。
-        - 搭乘山交巴士或開車前往天元台高原纜車山麓站。
+        - 從機場先移動到米澤站往米澤、白布溫泉方向移動。
+        - 搭乘山交巴士或前往天元台高原纜車山麓站。
       difficulty: hard
-      note: 機場出發需依航班與地面交通重新組合路線；若行李較多，自駕或包車會較容易掌握時間。
+      note: 機場出發需依航班與地面交通重新組合路線；若行李較多，包車會較容易掌握時間。
   car:
     recommended: true
     snowTireRequired: true

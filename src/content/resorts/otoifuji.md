@@ -71,14 +71,8 @@ access:
     - label: "大眾交通工具（主要車站銜接）"
       steps:
         - 鐵路：JR音威子府駅より徒歩で (15分)
-        - 鐵路：JR音威子府駅より車で (5分)
+        - 鐵路：JR 音威子府站下車，轉乘計程車約 5 分鐘。
       estimatedTime: "約 15 分"
-      difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：旭川空港より車で (150分)
-      estimatedTime: "約 150 分"
       difficulty: medium
   car:
     recommended: true

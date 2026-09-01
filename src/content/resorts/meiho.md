@@ -53,26 +53,26 @@ tickets:
   source: https://www.meihoski.co.jp/price/
   note: 主要票種摘要，實際販售日、特定日設定與附加票券請以官方售票資訊為準。
   plans:
-  - name: 平日 1 日券
-    priceLines:
-    - 大人 ¥5,300
-    - 兒童 ¥2,500
-    - 年長者 ¥4,800
-  - name: 特定日 1 日券
-    priceLines:
-    - 大人 ¥6,000
-    - 兒童 ¥2,500
-    - 年長者 ¥5,500
-  - name: 平日下午券
-    priceLines:
-    - 大人 ¥4,300
-    - 兒童 ¥2,500
-    - 年長者 ¥4,300
-  - name: 特定日下午券
-    priceLines:
-    - 大人 ¥5,000
-    - 兒童 ¥2,500
-    - 年長者 ¥5,000
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥5,300
+        - 兒童：¥2,500
+        - 長者：¥4,800
+    - name: 特定日 1 日券
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥2,500
+        - 長者：¥5,500
+    - name: 平日下午券
+      priceLines:
+        - 成人：¥4,300
+        - 兒童：¥2,500
+        - 長者：¥4,300
+    - name: 特定日下午券
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥2,500
+        - 長者：¥5,000
 snowWeather:
   title: Meiho 雪況天氣
   provider: Weathernews

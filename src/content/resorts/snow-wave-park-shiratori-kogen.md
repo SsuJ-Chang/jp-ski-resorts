@@ -51,22 +51,22 @@ tickets:
   source: https://siratori-k.jp/swp/price
   note: 主要票種摘要，實際販售日、特定日設定與其他加購票券請以官方售票資訊為準。
   plans:
-  - name: 平日 1 日券
-    priceLines:
-    - 大人 ¥3,500
-    - 兒童 ¥1,500
-    - 年長者 ¥3,300
-  - name: 特定日 1 日券
-    priceLines:
-    - 大人 ¥4,900
-    - 兒童 ¥1,500
-    - 年長者 ¥3,300
-  - name: 下午券
-    priceLines:
-    - 大人 ¥3,500
-  - name: 中高生券
-    priceLines:
-    - 國高中生：¥3,300
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥1,500
+        - 長者：¥3,300
+    - name: 特定日 1 日券
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥1,500
+        - 長者：¥3,300
+    - name: 下午券
+      priceLines:
+        - 成人：¥3,500
+    - name: 國中生、高中生券
+      priceLines:
+        - 國高中生：¥3,300
 snowWeather:
   title: Snow Wave Park 白鳥高原雪況天氣
   provider: Weathernews

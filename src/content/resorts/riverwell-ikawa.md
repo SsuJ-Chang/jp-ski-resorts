@@ -41,10 +41,10 @@ tickets:
   source: https://weathernews.jp/ski/spot/35001/
   note: 主要票種摘要；完整售票規則與現場付款方式請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥1,040
-    - 兒童 ¥310
+    - name: 1 日券
+      priceLines:
+        - 成人：¥1,040
+        - 兒童：¥310
 snowWeather:
   title: Riverwell 井川雪況天氣
   provider: Weathernews

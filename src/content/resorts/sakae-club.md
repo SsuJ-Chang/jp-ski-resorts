@@ -39,20 +39,20 @@ tickets:
   source: https://weathernews.jp/ski/spot/34873/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,500
-    - 兒童 ¥2,500
-    - 樂齡 ¥4,000
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥450
-    - 兒童 ¥450
-    - 樂齡 ¥450
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥2,100
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥2,500
+        - 長者：¥4,000
+    - name: 1 回券
+      priceLines:
+        - 成人：¥450
+        - 兒童：¥450
+        - 長者：¥450
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥2,100
 snowWeather:
   title: 榮俱樂部雪況預報
   provider: Weathernews

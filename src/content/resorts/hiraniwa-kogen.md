@@ -85,13 +85,13 @@ lifts:
   total: 3
 access:
   fromTokyo:
-    - label: "東京出發經盛岡"
+    - label: 東京出發經盛岡
       steps:
         - 從東京搭東北新幹線到盛岡站。
         - 從盛岡站轉乘巴士或計程車前往平庭高原。
-      estimatedTime: "盛岡站後約 110-120 分"
+      estimatedTime: 盛岡站後約 110-120 分
       difficulty: hard
-      note: 從盛岡站移動距離較長，公開資料列出巴士約 120 分、計程車約 110 分；建議先確認巴士班次或改用租車。
+      note: 從盛岡站移動距離較長，公開資料列出巴士約 120 分、計程車約 110 分；建議先確認巴士班次或改用包車。
   car:
     recommended: true
     snowTireRequired: true

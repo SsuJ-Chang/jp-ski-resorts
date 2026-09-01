@@ -64,14 +64,8 @@ access:
   fromSapporo:
     - label: "大眾交通工具（主要車站銜接）"
       steps:
-        - 鐵路：JR旭川駅（車で） (30分)
+        - 鐵路：JR 旭川站下車，轉乘計程車約 30 分鐘。
         - 鐵路：JR当麻駅（タクシーで） (5分)
-      estimatedTime: "約 30 分"
-      difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：旭川空港（車で） (30分)
       estimatedTime: "約 30 分"
       difficulty: medium
   car:

@@ -57,18 +57,18 @@ tickets:
   source: https://www.takasumountains.com/lift/
   note: TAKASU MOUNTAINS 6 雪場共通券摘要；全山共通券不含 Dynaland 夜滑，夜滑需另購夜滑券。
   plans:
-  - name: 6 雪場共通 1 日券
-    priceLines:
-    - 成人 ¥6,500
-    - 兒童 ¥3,800
-    - 長者 ¥5,500
-    - 中高生 ¥4,500
-  - name: 6 雪場共通 2 日券
-    priceLines:
-    - 成人 ¥11,800
-    - 兒童 ¥6,900
-    - 長者 ¥10,500
-    - 中高生 ¥8,500
+    - name: 6 雪場共通 1 日券
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥3,800
+        - 長者：¥5,500
+        - 國中生、高中生：¥4,500
+    - name: 6 雪場共通 2 日券
+      priceLines:
+        - 成人：¥11,800
+        - 兒童：¥6,900
+        - 長者：¥10,500
+        - 國中生、高中生：¥8,500
 snowWeather:
   title: Dynaland 雪況天氣
   provider: Weathernews

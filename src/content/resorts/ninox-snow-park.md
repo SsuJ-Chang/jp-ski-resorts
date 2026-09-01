@@ -45,21 +45,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/35438/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,000
-    - 兒童 ¥3,200
-    - 樂齡 ¥4,200
-  - name: 5 小時券
-    priceLines:
-    - 成人 ¥4,200
-    - 兒童 ¥2,900
-    - 樂齡 ¥3,500
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥2,000
-    - 樂齡 ¥2,300
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥3,200
+        - 長者：¥4,200
+    - name: 5 小時券
+      priceLines:
+        - 成人：¥4,200
+        - 兒童：¥2,900
+        - 長者：¥3,500
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,000
+        - 長者：¥2,300
 snowWeather:
   title: Ninox Snow Park雪況預報
   provider: Weathernews

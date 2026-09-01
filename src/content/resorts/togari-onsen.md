@@ -47,28 +47,28 @@ tickets:
   source: https://weathernews.jp/ski/spot/34832/
   note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、夜滑與活動票種請以官方為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,500
-    - 兒童 ¥3,500
-    - 長者 ¥5,000
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥9,500
-    - 兒童 ¥5,500
-    - 長者 ¥9,000
-  - name: 上午券
-    priceLines:
-    - 成人 ¥4,500
-    - 兒童 ¥3,000
-    - 長者 ¥4,000
-    note: 8:30-13:00。
-  - name: 下午券
-    priceLines:
-    - 成人 ¥4,500
-    - 兒童 ¥3,000
-    - 長者 ¥4,000
-    note: 12:30-17:00。
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,500
+        - 兒童：¥3,500
+        - 長者：¥5,000
+    - name: 2 日券
+      priceLines:
+        - 成人：¥9,500
+        - 兒童：¥5,500
+        - 長者：¥9,000
+    - name: 上午券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥3,000
+        - 長者：¥4,000
+      note: 8:30-13:00。
+    - name: 下午券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥3,000
+        - 長者：¥4,000
+      note: 12:30-17:00。
 snowWeather:
   title: 戶狩溫泉雪況天氣
   provider: Weathernews

@@ -49,20 +49,20 @@ courses:
       note: 設有跳台、box、rail 等項目；配置會依季節與積雪調整。
 access:
   fromOsaka:
-  - label: "大阪出發經內子"
-    steps:
-    - 從新大阪搭新幹線到岡山，再轉乘特急往松山、內子方向。
-    - 在 JR 內子站下車後，轉乘計程車或事先安排接送前往雪場。
-    estimatedTime: "內子後約 60 分"
-    difficulty: hard
-    note: 內子站後公開資料以計程車銜接為主；雪場位於山區，建議事前安排回程交通。
+    - label: 大阪出發經內子
+      steps:
+        - 從新大阪搭新幹線到岡山，再轉乘特急往松山、內子方向。
+        - 在 JR 內子站下車後，轉乘計程車或事先安排接送前往雪場。
+      estimatedTime: 內子後約 60 分
+      difficulty: hard
+      note: 內子站後公開資料以計程車銜接為主；雪場位於山區，建議事前安排回程交通。
   fromAirport:
-  - label: "松山機場出發"
-    steps:
-    - 從松山機場租車或包車，往松山自動車道與內子、小田深山方向移動。
-    - 依當日道路與積雪狀況前往 SOL-FA Oda。
-    difficulty: hard
-    note: 松山 IC 後到雪場約 80 分；若不自駕，建議先移動到松山或內子，再安排計程車或接送。
+    - label: 松山機場出發
+      steps:
+        - 從松山機場包車，往松山自動車道與內子、小田深山方向移動。
+        - 依當日道路與積雪狀況前往 SOL-FA Oda。
+      difficulty: hard
+      note: 機場後段以車行時間為主；若不自駕，建議先移動到松山或內子，再安排計程車或接送。
   car:
     recommended: true
     snowTireRequired: true

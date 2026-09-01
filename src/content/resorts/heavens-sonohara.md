@@ -40,25 +40,25 @@ tickets:
   source: https://weathernews.jp/ski/spot/34856/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1日券(平日)
-    priceLines:
-    - 成人 ¥5,000
-    - 兒童 ¥3,000
-    - 樂齡 ¥3,300
-  - name: 1日券(週末假日)
-    priceLines:
-    - 成人 ¥5,000
-    - 兒童 ¥3,000
-    - 樂齡 ¥3,300
-  - name: 下午券(週末假日)
-    priceLines:
-    - 成人 ¥4,500
-    - 兒童 ¥2,500
-  - name: 回數券(250円券×11回)
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥3,000
-    - 樂齡 ¥3,000
+    - name: 1日券(平日)
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥3,000
+        - 長者：¥3,300
+    - name: 1日券(週末假日)
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥3,000
+        - 長者：¥3,300
+    - name: 下午券(週末假日)
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥2,500
+    - name: 回數券(¥250券×11回)
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥3,000
+        - 長者：¥3,000
 snowWeather:
   title: Heavens Sonohara Snow World雪況預報
   provider: Weathernews

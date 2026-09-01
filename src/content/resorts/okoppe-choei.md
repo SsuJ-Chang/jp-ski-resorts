@@ -69,12 +69,6 @@ access:
         - 鐵路：遠軽駅→バス→町営スキー場前下車→徒歩 (150分)
       estimatedTime: "約 120 分"
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：オホーツク紋別空港から車で (40分)
-      estimatedTime: "約 40 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

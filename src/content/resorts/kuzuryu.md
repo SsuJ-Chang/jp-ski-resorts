@@ -41,10 +41,10 @@ tickets:
   source: https://weathernews.jp/ski/spot/35703/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠與停車費請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥3,000
-    - 中學生以下 ¥2,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥3,000
+        - 國中生以下：¥2,000
 snowWeather:
   title: 九頭龍雪況天氣
   provider: Weathernews
@@ -105,24 +105,17 @@ lifts:
   total: 3
 access:
   fromOsaka:
-  - label: 大阪出發經福井・九頭龍湖
-    steps:
-    - 從大阪或京都搭 JR 至福井站。
-    - 轉乘 JR 越美北線到九頭龍湖站。
-    - 從九頭龍湖站步行前往雪場，或於週末使用當地接送。
-    difficulty: hard
-    note: 九頭龍湖站後步行約 10 分鐘，週末有接送資訊；越美北線班次有限，需先確認回程列車。
-  fromNagoya:
-  - label: 名古屋出發自駕
-    steps:
-    - 從名古屋方向經東海北陸自動車道至白鳥 IC。
-    - 轉油坂峠道路與國道往九頭龍方向前往雪場。
-    difficulty: medium
-    note: 白鳥 IC 後約 30 分鐘；若由中部縱貫自動車道九頭龍 IC 前往，IC 後約 5 分鐘。
+    - label: 大阪出發經福井・九頭龍湖
+      steps:
+        - 從大阪或京都搭 JR 至福井站。
+        - 轉乘 JR 越美北線到九頭龍湖站。
+        - 從九頭龍湖站步行前往雪場，或於週末使用當地接送。
+      difficulty: hard
+      note: 九頭龍湖站後步行約 10 分鐘，週末有接送資訊；越美北線班次有限，需先確認回程列車。
   car:
     recommended: true
     snowTireRequired: true
-    note: 可由東海北陸自動車道白鳥 IC 經油坂峠道路前往，或由中部縱貫自動車道九頭龍 IC 起約 5 分鐘；冬季需雪胎或防滑鏈。
+    note: 可由東海北陸自動車道白鳥 IC 經油坂峠道路前往，或由中部縱貫自動車道九頭龍 IC 起約 5 分鐘；冬季需雪胎或防滑鏈；自駕路線：名古屋出發自駕：從名古屋方向經東海北陸自動車道至白鳥 IC；轉油坂峠道路與國道往九頭龍方向前往雪場；白鳥 IC 後約 30 分鐘；若由中部縱貫自動車道九頭龍 IC 前往，IC 後約 5 分鐘。
 terrainSummary:
   beginner: 初級雪道占 40%，可作為安排練習與暖身時的參考；實際難度仍會受積雪與開放雪道影響。
   intermediate: 中級雪道占 30%，適合已能穩定轉彎的滑雪者參考。

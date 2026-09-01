@@ -41,21 +41,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/35492/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥3,700
-    - 兒童 ¥2,600
-    - 樂齡 ¥2,600
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥5,800
-    - 兒童 ¥4,200
-    - 樂齡 ¥4,200
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥2,600
-    - 兒童 ¥2,100
-    - 樂齡 ¥2,100
+    - name: 1 日券
+      priceLines:
+        - 成人：¥3,700
+        - 兒童：¥2,600
+        - 長者：¥2,600
+    - name: 2 日券
+      priceLines:
+        - 成人：¥5,800
+        - 兒童：¥4,200
+        - 長者：¥4,200
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥2,600
+        - 兒童：¥2,100
+        - 長者：¥2,100
 snowWeather:
   title: 八海山麓雪況預報
   provider: Weathernews

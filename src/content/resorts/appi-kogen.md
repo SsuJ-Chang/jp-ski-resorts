@@ -48,37 +48,41 @@ trailMaps:
   url: https://www.appi.co.jp/snow-mountain-resort/assets/pdf/skiablearea2024-25.pdf
   sourceLabel: Hakuba Goryu Official
 tickets:
-  season: "2025-2026"
+  season: 2025-2026
   currency: JPY
   source: https://www.appi.co.jp/snow-mountain-resort/offseason/ticket/
   note: 主要票種摘要；頁面標示金額皆含 ¥500 IC 卡保証金，退卡可退回。兒童為 12 歲以下免費。
   plans:
     - name: Blue Pass 1 日券（一般旺季）
       priceLines:
-        - "成人：窗口 ¥9,500 / 線上 ¥9,000"
-        - "兒童：免費"
+        - 成人：窗口 ¥9,500
+        - 成人：線上 ¥9,000
+        - 兒童：免費
       note: 適用 2025/12/20 ~ 2026/03/22，可搭乘一般纜車與 Gondola。
     - name: Blue Pass 1 日券（雪季初期 / 春雪期）
       priceLines:
-        - "成人：窗口 ¥4,500 / 線上 ¥4,500"
-        - "兒童：免費"
+        - 成人：窗口 ¥4,500
+        - 成人：線上 ¥4,500
+        - 兒童：免費
       note: 雪季初期 2025/12/06 ~ 12/19、春雪期 2026/03/23 ~ 05/06；線上預購價同為 ¥4,500。
     - name: Blue Pass 夜滑券
       priceLines:
-        - "成人：¥4,000"
-        - "兒童：免費"
+        - 成人：¥4,000
+        - 兒童：免費
       note: 16:00 ~ 20:00，限週六與假日前夕。
     - name: Gold Pass 1 日券
       priceLines:
-        - "成人：窗口 ¥14,500 / 線上 ¥14,000"
+        - 成人：窗口 ¥14,500
+        - 成人：線上 ¥14,000
       note: 含 Blue Pass 1 日券與指定纜車快速通道；12 歲以下若需使用快速通道也需購買。
     - name: Black Pass 1 日券
       priceLines:
-        - "成人：窗口 ¥33,500 / 線上 ¥33,000"
+        - 成人：窗口 ¥33,500
+        - 成人：線上 ¥33,000
       note: 每日限量 30 張，含快速通道、Black Pass Lounge、餐廳優先通道、西森山 Snow Cat 無限次與 Fast Track 優先入山。
     - name: 西森山 Snow Cat 單次
       priceLines:
-        - "成人：¥5,000"
+        - 成人：¥5,000
       note: 西森山區域需另購；Black Pass 可無限次搭乘。
 snowWeather:
   title: 安比高原雪況天氣

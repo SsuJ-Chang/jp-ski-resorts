@@ -43,26 +43,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/35207/
   note: 主要票種摘要；特定日與完整規則請以官方公告為準。
   plans:
-  - name: 平日 1 日券
-    priceLines:
-    - 成人 ¥3,700
-    - 兒童 ¥2,500
-    - 銀髮族 ¥3,000
-  - name: 特定日 1 日券
-    priceLines:
-    - 成人 ¥4,900
-    - 兒童 ¥3,000
-    - 銀髮族 ¥4,100
-  - name: 特定日上午券
-    priceLines:
-    - 成人 ¥4,300
-    - 兒童 ¥2,500
-    - 銀髮族 ¥3,600
-  - name: 特定日下午券
-    priceLines:
-    - 成人 ¥4,300
-    - 兒童 ¥2,500
-    - 銀髮族 ¥3,600
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥3,700
+        - 兒童：¥2,500
+        - 長者：¥3,000
+    - name: 特定日 1 日券
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥3,000
+        - 長者：¥4,100
+    - name: 特定日上午券
+      priceLines:
+        - 成人：¥4,300
+        - 兒童：¥2,500
+        - 長者：¥3,600
+    - name: 特定日下午券
+      priceLines:
+        - 成人：¥4,300
+        - 兒童：¥2,500
+        - 長者：¥3,600
 snowWeather:
   title: 飛驒 Hounokidaira雪況天氣
   provider: Weathernews

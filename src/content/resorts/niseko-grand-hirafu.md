@@ -53,34 +53,34 @@ tickets:
   source: https://www.niseko.ne.jp/en/lift/
   note: Niseko United All Mountain Pass 主要 1 日券摘要；多日券、點數券、線上限定 50 小時券與夜滑有效規則請以官方頁面為準。
   plans:
-  - name: Peak Season 全山 1 日券
-    priceLines:
-    - 成人 ¥13,500
-    - 4-12 歲 ¥8,100
-    - 13-15 歲 ¥11,500
-    - 65 歲以上 ¥11,500
-    note: 2026/12/24-2027/2/28
-  - name: Regular Season 全山 1 日券
-    priceLines:
-    - 成人 ¥12,600
-    - 4-12 歲 ¥7,600
-    - 13-15 歲 ¥10,700
-    - 65 歲以上 ¥10,700
-    note: 2026/12/12-12/23、2027/3/1-3/22
-  - name: Early / Spring Season 全山 1 日券
-    priceLines:
-    - 成人 ¥8,800
-    - 4-12 歲 ¥5,300
-    - 13-15 歲 ¥7,500
-    - 65 歲以上 ¥7,500
-    note: 2026/11/28-12/11、2027/3/23-4/4
-  - name: Final Season 全山 1 日券
-    priceLines:
-    - 成人 ¥6,300
-    - 4-12 歲 ¥3,800
-    - 13-15 歲 ¥5,400
-    - 65 歲以上 ¥5,400
-    note: 2027/4/5-5/5
+    - name: Peak Season 全山 1 日券
+      priceLines:
+        - 成人：¥13,500
+        - 4-12 歲：¥8,100
+        - 13-15 歲：¥11,500
+        - 長者（65 歲以上）：¥11,500
+      note: 2026/12/24-2027/2/28
+    - name: Regular Season 全山 1 日券
+      priceLines:
+        - 成人：¥12,600
+        - 4-12 歲：¥7,600
+        - 13-15 歲：¥10,700
+        - 長者（65 歲以上）：¥10,700
+      note: 2026/12/12-12/23、2027/3/1-3/22
+    - name: Early / Spring Season 全山 1 日券
+      priceLines:
+        - 成人：¥8,800
+        - 4-12 歲：¥5,300
+        - 13-15 歲：¥7,500
+        - 長者（65 歲以上）：¥7,500
+      note: 2026/11/28-12/11、2027/3/23-4/4
+    - name: Final Season 全山 1 日券
+      priceLines:
+        - 成人：¥6,300
+        - 4-12 歲：¥3,800
+        - 13-15 歲：¥5,400
+        - 長者（65 歲以上）：¥5,400
+      note: 2027/4/5-5/5
 snowWeather:
   title: 格蘭比羅夫雪況天氣
   provider: Weathernews

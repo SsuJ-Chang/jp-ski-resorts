@@ -63,20 +63,20 @@ lifts:
   total: 1
 access:
   fromTokyo:
-    - label: "東京出發經弘前"
+    - label: 東京出發經弘前
       steps:
         - 從東京搭東北、北海道新幹線往青森方向，轉乘前往弘前站。
         - 從弘前站搭弘南巴士相馬線至相馬廳舍，轉乘免費接駁巴士前往雪場。
-      estimatedTime: "弘前站後約 50 分"
+      estimatedTime: 弘前站後約 50 分
       difficulty: medium
       note: 也可從弘前站搭車約 30 分；免費接駁與巴士班次需先確認當季時刻。
   fromAirport:
-    - label: "青森機場出發"
+    - label: 青森機場出發
       steps:
         - 從青森機場搭車前往弘前市相馬地區的 Soma Romantopia。
-      estimatedTime: "約 65 分"
+      estimatedTime: 約 65 分
       difficulty: medium
-      note: 攜帶裝備時可比較租車、計程車或住宿接駁方案。
+      note: 攜帶裝備時可比較計程車或住宿接駁方案。
   car:
     recommended: true
     snowTireRequired: true

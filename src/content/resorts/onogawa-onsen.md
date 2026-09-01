@@ -68,12 +68,6 @@ access:
         - 鐵路：山形新幹線米沢駅下車白布・小野川温泉行きバスで駐車場前 (1分)
       estimatedTime: "約 1 分"
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：山形空港より車で (120分)
-      estimatedTime: "約 120 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

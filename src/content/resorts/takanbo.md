@@ -39,10 +39,10 @@ tickets:
   source: https://weathernews.jp/ski/spot/35516/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠與停車費請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,000
-    - 小學生 ¥2,500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,000
+        - 小學生：¥2,500
 snowWeather:
   title: Takanbo雪況天氣
   provider: Weathernews
@@ -71,13 +71,13 @@ lifts:
   total: 4
 access:
   fromTokyo:
-  - label: 東京出發經城端
-    steps:
-    - 從東京搭北陸新幹線到新高岡或富山，轉 JR 城端線到城端站。
-    - 從城端站搭巴士到「ささら館前」，下車後步行前往雪場。
-    estimatedTime: 步行約 20 分
-    difficulty: hard
-    note: 巴士下車後仍需步行，雪具較多時建議評估計程車或自駕；班次與回程需出發前確認。
+    - label: 東京出發經城端
+      steps:
+        - 從東京搭北陸新幹線到新高岡或富山，轉 JR 城端線到城端站。
+        - 從城端站搭巴士到「ささら館前」，下車後步行前往雪場。
+      estimatedTime: 步行約 20 分
+      difficulty: hard
+      note: 巴士下車後仍需步行，雪具較多時建議評估計程車或；班次與回程需出發前確認。
   car:
     recommended: true
     snowTireRequired: true

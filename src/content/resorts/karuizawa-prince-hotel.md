@@ -42,12 +42,14 @@ tickets:
   source: https://weathernews.jp/ski/spot/34813/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥10,000、兒童 免費
-  - name: 下午券
-    priceLines:
-    - 成人 ¥9,000、兒童 免費
+    - name: 1 日券
+      priceLines:
+        - 成人：¥10,000
+        - 兒童：免費
+    - name: 下午券
+      priceLines:
+        - 成人：¥9,000
+        - 兒童：免費
 snowWeather:
   title: 輕井澤王子大飯店雪況預報
   provider: Weathernews

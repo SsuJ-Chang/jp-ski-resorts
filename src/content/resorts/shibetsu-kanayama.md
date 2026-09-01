@@ -71,12 +71,6 @@ courses:
 lifts:
   total: 2
 access:
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：中標津空港から車で (45分)
-      estimatedTime: "約 45 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

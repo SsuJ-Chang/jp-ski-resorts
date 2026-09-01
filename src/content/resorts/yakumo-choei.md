@@ -67,7 +67,7 @@ access:
   fromSapporo:
     - label: "大眾交通工具（主要車站銜接）"
       steps:
-        - 鐵路：八雲駅より車で約22分
+        - 鐵路：八雲站下車，轉乘計程車約 22 分鐘。
       difficulty: medium
   car:
     recommended: true

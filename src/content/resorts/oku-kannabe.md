@@ -49,18 +49,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/36302/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,500 兒童 ¥3,500 樂齡 ¥5,500
-  - name: 半日
-    priceLines:
-    - 成人 ¥5,000 兒童 ¥3,000 樂齡 ¥5,000
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥9,000 兒童 未標示 樂齡 ¥9,000
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥600 兒童 ¥600 樂齡 ¥600
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,500
+        - 兒童：¥3,500
+        - 長者：¥5,500
+    - name: 半日
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥3,000
+        - 長者：¥5,000
+    - name: 2 日券
+      priceLines:
+        - 成人：¥9,000
+        - 兒童：未標示
+        - 長者：¥9,000
+    - name: 1 回券
+      priceLines:
+        - 成人：¥600
+        - 兒童：¥600
+        - 長者：¥600
 snowWeather:
   title: 奧神鍋雪況天氣
   provider: Weathernews

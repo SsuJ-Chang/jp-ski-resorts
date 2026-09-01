@@ -105,19 +105,19 @@ lifts:
   total: 3
 access:
   fromTokyo:
-    - label: "東京出發經會津田島"
+    - label: 東京出發經會津田島
       steps:
         - 從東京淺草方向搭東武、野岩鐵道與會津鐵道系統前往會津田島站。
-        - 從會津田島站轉計程車、租車或當地接駁車輛前往會津高原南鄉。
-      estimatedTime: "站後約 40-50 分"
+        - 從會津田島站轉計程車或當地接駁車輛前往會津高原南鄉。
+      estimatedTime: 站後約 40-50 分
       difficulty: hard
       note: 會津田島站後的公共交通銜接有限，建議先確認當季巴士、計程車與回程安排。
   fromAirport:
-    - label: "福島機場出發"
+    - label: 福島機場出發
       steps:
-        - 從福島機場租車或包車，往會津田島、南會津町方向移動。
+        - 從福島機場包車，往會津田島、南會津町方向移動。
         - 依當日道路狀況前往會津高原南鄉停車場。
-      estimatedTime: "約 100 分"
+      estimatedTime: 約 100 分
       difficulty: hard
       note: 公開交通資料以車程為主；冬季山路需準備雪胎或雪鏈。
   car:

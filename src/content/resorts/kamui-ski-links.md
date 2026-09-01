@@ -53,31 +53,31 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.kamui-skilinks.com/guide/
-  note: 官方票價頁說明自動 IC gate 另收 IC 卡押金 500 日圓，退卡時退還、價格皆含稅。
+  note: 官方票價頁說明自動 IC gate 另收 IC 卡押金 ¥500，退卡時退還、價格皆含稅。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,300
-    - 長者 ¥4,500
-    - 小學生 ¥1,800
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥4,600
-    - 長者 ¥4,100
-    - 小學生 ¥1,600
-    note: 自首次通過 gate 起連續 4 小時可用。
-  - name: 回數券 12 點
-    priceLines:
-    - 成人 ¥4,300
-    - 長者 ¥3,800
-    - 小學生 ¥1,400
-    note: 搭乘 箱型纜車 單次使用 3 點。
-  - name: 20 小時券
-    priceLines:
-    - 成人 ¥20,000
-    - 長者 ¥18,000
-    - 小學生 ¥7,200
-    note: 雪季內以 1 小時為單位使用，不能多人分用。
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,300
+        - 長者：¥4,500
+        - 小學生：¥1,800
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥4,600
+        - 長者：¥4,100
+        - 小學生：¥1,600
+      note: 自首次通過 gate 起連續 4 小時可用。
+    - name: 回數券 12 點
+      priceLines:
+        - 成人：¥4,300
+        - 長者：¥3,800
+        - 小學生：¥1,400
+      note: 搭乘 箱型纜車 單次使用 3 點。
+    - name: 20 小時券
+      priceLines:
+        - 成人：¥20,000
+        - 長者：¥18,000
+        - 小學生：¥7,200
+      note: 雪季內以 1 小時為單位使用，不能多人分用。
 snowWeather:
   title: 神居雪況天氣
   provider: Weathernews

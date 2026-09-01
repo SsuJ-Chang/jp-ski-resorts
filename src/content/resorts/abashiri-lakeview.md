@@ -42,39 +42,39 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html
-  note: 小人為國中生以下。網走市、斜里町、清里町、小清水町與大空町的小中學生週六免費；65 歲以上網走市民購買季票可享 10% 折扣。
+  note: 兒童為國中生以下。網走市、斜里町、清里町、小清水町與大空町的小國中生週六免費；長者（65 歲以上）網走市民購買季票可享 10% 折扣。
   plans:
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥210
-    - 小人 ¥130
-  - name: 回數券（11 枚）
-    priceLines:
-    - 成人 ¥2,100
-    - 小人 ¥1,360
-  - name: 2 小時券
-    priceLines:
-    - 成人 ¥1,200
-    - 小人 ¥700
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥1,700
-    - 小人 ¥900
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥2,940
-    - 小人 ¥1,680
-  - name: 季票
-    priceLines:
-    - 成人 ¥21,800
-    - 小人 ¥13,100
-  - name: 親子套票 4 小時券
-    priceLines:
-    - 親子：¥2,200
-  - name: 週三限定 Special 2 小時券
-    priceLines:
-    - 成人 / 小人：¥600
-    note: 販售至 16:00。
+    - name: 1 回券
+      priceLines:
+        - 成人：¥210
+        - 兒童：¥130
+    - name: 回數券（11 枚）
+      priceLines:
+        - 成人：¥2,100
+        - 兒童：¥1,360
+    - name: 2 小時券
+      priceLines:
+        - 成人：¥1,200
+        - 兒童：¥700
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥1,700
+        - 兒童：¥900
+    - name: 1 日券
+      priceLines:
+        - 成人：¥2,940
+        - 兒童：¥1,680
+    - name: 季票
+      priceLines:
+        - 成人：¥21,800
+        - 兒童：¥13,100
+    - name: 親子套票 4 小時券
+      priceLines:
+        - 親子：¥2,200
+    - name: 週三限定 Special 2 小時券
+      priceLines:
+        - 成人、兒童：¥600
+      note: 販售至 16:00。
 snowWeather:
   title: 網走 Lake View 積雪與天氣
   provider: Weathernews

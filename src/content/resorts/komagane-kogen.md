@@ -43,26 +43,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34902/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,400
-    - 兒童 ¥3,300
-    - 樂齡 ¥4,100
-  - name: 日中5時間券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥2,800
-    - 樂齡 ¥3,600
-  - name: 回數券(12回)
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥4,000
-    - 樂齡 ¥4,000
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥500
-    - 兒童 ¥500
-    - 樂齡 ¥500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,400
+        - 兒童：¥3,300
+        - 長者：¥4,100
+    - name: 日中5時間券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥2,800
+        - 長者：¥3,600
+    - name: 回數券(12回)
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥4,000
+        - 長者：¥4,000
+    - name: 1 回券
+      priceLines:
+        - 成人：¥500
+        - 兒童：¥500
+        - 長者：¥500
 snowWeather:
   title: 駒ヶ根高原雪況預報
   provider: Weathernews

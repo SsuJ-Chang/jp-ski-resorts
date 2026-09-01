@@ -71,12 +71,6 @@ courses:
 lifts:
   total: 2
 access:
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：女満別空港から車で (30分)
-      estimatedTime: "約 30 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

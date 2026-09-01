@@ -51,18 +51,22 @@ tickets:
   source: https://weathernews.jp/ski/spot/36703/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1日券（週末及國定假日・12/30~1/3）
-    priceLines:
-    - 成人 ¥5,000 兒童 ¥2,700
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥3,900 兒童 ¥2,300
-  - name: 1日券（平日）（¥1,000分食事券付き）
-    priceLines:
-    - 成人 ¥4,000 兒童 ¥2,700
-  - name: 11 回券
-    priceLines:
-    - 成人 ¥4,500 兒童 ¥4,500
+    - name: 1日券（週末及國定假日・12/30 ~ 1/3）
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥2,700
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥3,900
+        - 兒童：¥2,300
+    - name: 平日 1 日券（附 ¥1,000 餐券）
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥2,700
+    - name: 11 回券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥4,500
 snowWeather:
   title: 大佐雪況天氣
   provider: Weathernews

@@ -39,18 +39,18 @@ tickets:
   source: https://weathernews.jp/ski/spot/35301/
   note: 主要票種摘要；纜車上山費用另計，完整規則請以官方公告為準。
   plans:
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥300
-    - 兒童 ¥300
-  - name: 6 回券
-    priceLines:
-    - 成人 ¥1,000
-    - 兒童 ¥1,000
-  - name: 週末假日 1 日券
-    priceLines:
-    - 成人 ¥2,000
-    - 兒童 ¥2,000
+    - name: 1 回券
+      priceLines:
+        - 成人：¥300
+        - 兒童：¥300
+    - name: 6 回券
+      priceLines:
+        - 成人：¥1,000
+        - 兒童：¥1,000
+    - name: 週末假日 1 日券
+      priceLines:
+        - 成人：¥2,000
+        - 兒童：¥2,000
 snowWeather:
   title: 御在所雪況天氣
   provider: Weathernews

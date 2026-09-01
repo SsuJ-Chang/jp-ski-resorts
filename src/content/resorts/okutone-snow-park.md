@@ -50,24 +50,35 @@ tickets:
   source: https://weathernews.jp/ski/spot/34225/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,500 兒童 0円 樂齡 ¥5,200
-  - name: 5 小時券
-    priceLines:
-    - 成人 ¥6,000 兒童 0円 樂齡 ¥4,800
-  - name: 1DAY PASSPORT
-    priceLines:
-    - 成人 ¥8,000 兒童 0円 樂齡 ¥6,400
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥3,500 兒童 0円 樂齡 ¥3,500
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥800 兒童 0円 樂齡 ¥800
-  - name: 全日シーズン券
-    priceLines:
-    - 成人 ¥70,000 樂齡 ¥60,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：免費
+        - 長者：¥5,200
+    - name: 5 小時券
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：免費
+        - 長者：¥4,800
+    - name: 1DAY PASSPORT
+      priceLines:
+        - 成人：¥8,000
+        - 兒童：免費
+        - 長者：¥6,400
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：免費
+        - 長者：¥3,500
+    - name: 1 回券
+      priceLines:
+        - 成人：¥800
+        - 兒童：免費
+        - 長者：¥800
+    - name: 全日季票
+      priceLines:
+        - 成人：¥70,000
+        - 長者：¥60,000
 snowWeather:
   title: 奧利根 Snow Park雪況天氣
   provider: Weathernews

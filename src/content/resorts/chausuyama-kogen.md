@@ -41,19 +41,19 @@ tickets:
   source: https://weathernews.jp/ski/spot/35101/
   note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、折扣日與 belt conveyor 券請以官方為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥2,500
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥2,000
-    - 兒童 ¥2,000
-  - name: 平日 1 日券
-    priceLines:
-    - 成人 ¥2,500
-    - 兒童 ¥1,000
-    note: 資料列為平日票種。
+    - name: 1 日券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,500
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥2,000
+        - 兒童：¥2,000
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥2,500
+        - 兒童：¥1,000
+      note: 資料列為平日票種。
 snowWeather:
   title: 茶臼山高原雪況天氣
   provider: Weathernews
@@ -97,18 +97,10 @@ courses:
 lifts:
   total: 2
 access:
-  fromNagoya:
-  - label: 名古屋出發自駕
-    steps:
-    - 從名古屋 IC 方向接猿投 Green Road，轉國道 153、國道 257。
-    - 進入茶臼山高原道路（縣道 507）後，前往茶臼山高原停車場。
-    estimatedTime: 約 2 小時
-    difficulty: hard
-    note: 目前公開資料以自駕動線為主；冬季山區道路需確認積雪、結冰與防滑裝備。
   car:
     recommended: true
     snowTireRequired: true
-    note: 名古屋 IC 方向約 120 分鐘；三遠南信自動車道鳳來峽 IC 方向約 70 分鐘，冬季需留意縣道與高原道路路況。
+    note: 名古屋 IC 方向約 120 分鐘；三遠南信自動車道鳳來峽 IC 方向約 70 分鐘，冬季需留意縣道與高原道路路況；自駕路線：名古屋出發自駕：從名古屋 IC 方向接猿投 Green Road，轉國道 153、國道 257；進入茶臼山高原道路（縣道 507）後，前往茶臼山高原停車場；參考時間 約 2 小時；目前公開資料以自駕動線為主；冬季山區道路需確認積雪、結冰與防滑裝備。
 terrainSummary:
   beginner: 初級雪道約 30%，可搭配雪上遊樂區規劃親子或第一次滑雪。
   intermediate: 中級比例最高，適合已能控制速度的滑雪者短程練習。

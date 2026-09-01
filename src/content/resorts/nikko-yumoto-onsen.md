@@ -47,24 +47,30 @@ tickets:
   source: https://weathernews.jp/ski/spot/34102/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,000 兒童 ¥2,900
-  - name: 半日券(8:00〜13:00)
-    priceLines:
-    - 成人 ¥3,200 兒童 ¥2,300
-  - name: 午後券(12:00〜終了時間)
-    priceLines:
-    - 成人 ¥3,200 兒童 ¥2,300
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥6,200 兒童 ¥4,500
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥400 兒童 ¥400
-  - name: 4 回券
-    priceLines:
-    - 成人 ¥1,500 兒童 ¥1,500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥2,900
+    - name: 半日券(8:00〜13:00)
+      priceLines:
+        - 成人：¥3,200
+        - 兒童：¥2,300
+    - name: 午後券(12:00〜終了時間)
+      priceLines:
+        - 成人：¥3,200
+        - 兒童：¥2,300
+    - name: 2 日券
+      priceLines:
+        - 成人：¥6,200
+        - 兒童：¥4,500
+    - name: 1 回券
+      priceLines:
+        - 成人：¥400
+        - 兒童：¥400
+    - name: 4 回券
+      priceLines:
+        - 成人：¥1,500
+        - 兒童：¥1,500
 snowWeather:
   title: 日光湯元溫泉雪況天氣
   provider: Weathernews

@@ -46,16 +46,16 @@ tickets:
   source: https://weathernews.jp/ski/spot/31403/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,000
-    - 兒童 ¥2,800
-  - name: 國高中生 1 日券（需出示學生證）
-    priceLines:
-    - 國高中生 ¥4,000
-  - name: 長者 1 日券（滿 60 歲以上，需出示身分證明）
-    priceLines:
-    - 長者 ¥5,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥2,800
+    - name: 國高中生 1 日券（需出示學生證）
+      priceLines:
+        - 國高中生：¥4,000
+    - name: 長者 1 日券（滿 60 歲以上，需出示身分證明）
+      priceLines:
+        - 長者：¥5,000
 snowWeather:
   title: 札幌國際雪況天氣
   provider: Weathernews
@@ -134,7 +134,7 @@ access:
     - label: 新千歲機場出發
       steps:
         - 從新千歲機場先前往札幌市區，再轉乘札幌國際線巴士。
-        - 或由新千歲機場租車，經札幌方向前往朝里 IC。
+        - 或由新千歲機場包車，經札幌方向前往朝里 IC。
       estimatedTime: 約 2 小時
       difficulty: medium
       note: 官方主要介紹札幌市區與小樽方向的雪季巴士；機場出發需預留市區轉乘時間。

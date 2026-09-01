@@ -49,15 +49,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/32301/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,800、兒童 免費、長者 ¥4,600
-  - name: 5 小時券
-    priceLines:
-    - 成人 ¥5,300、兒童 免費、長者 ¥4,200
-  - name: 1DAY FREE PASS（營業開始至結束）
-    priceLines:
-    - 成人 ¥7,300、兒童 免費、長者 ¥5,800
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,800
+        - 兒童：免費
+        - 長者：¥4,600
+    - name: 5 小時券
+      priceLines:
+        - 成人：¥5,300
+        - 兒童：免費
+        - 長者：¥4,200
+    - name: 1DAY FREE PASS（營業開始至結束）
+      priceLines:
+        - 成人：¥7,300
+        - 兒童：免費
+        - 長者：¥5,800
 snowWeather:
   title: 函館七飯 Snow Park雪況天氣
   provider: Weathernews
@@ -128,7 +134,7 @@ access:
   fromAirport:
     - label: 函館機場出發
       steps:
-        - 從函館機場搭計程車或租車前往雪場。
+        - 從函館機場搭計程車前往雪場。
       estimatedTime: 約 1 小時
       difficulty: medium
       note: 官方與公開資料以車行方式為主，機場至雪場沒有固定大眾運輸直達線。

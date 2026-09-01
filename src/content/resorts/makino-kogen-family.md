@@ -49,32 +49,32 @@ tickets:
   source: https://makinokougen.co.jp/pages/275/
   note: SunKid 動態步道全長約 100 公尺，運行時間為 8:00～17:00。官方票價圖未標示票券有效季節，實際販售狀況請以現場公告為準。
   plans:
-  - name: SunKid 動態步道單次券
-    priceLines:
-    - 不分年齡 ¥150
-  - name: SunKid 動態步道 1 日券
-    priceLines:
-    - 不分年齡 ¥1,000
-  - name: SunKid 動態步道 12 回券
-    priceLines:
-    - 不分年齡 ¥1,500
-  - name: 香蕉船巡迴單次券
-    priceLines:
-    - ¥500／人
-    note: 幼童可能需要由家長陪同乘坐。
-  - name: 雪鞋租借（成人）
-    priceLines:
-    - ¥2,000
-  - name: 雪鞋租借（兒童）
-    priceLines:
-    - ¥1,500
-  - name: 雪鞋租借（雪杖）
-    priceLines:
-    - ¥500
-  - name: 雪鞋溫泉套票（僅成人）
-    priceLines:
-    - ¥2,600
-    note: 雪鞋租借時段為 8:00～17:00；預約者優先，請事前以電話預約。
+    - name: SunKid 動態步道單次券
+      priceLines:
+        - 不分年齡：¥150
+    - name: SunKid 動態步道 1 日券
+      priceLines:
+        - 不分年齡：¥1,000
+    - name: SunKid 動態步道 12 回券
+      priceLines:
+        - 不分年齡：¥1,500
+    - name: 香蕉船巡迴單次券
+      priceLines:
+        - ¥500 / 人
+      note: 幼童可能需要由家長陪同乘坐。
+    - name: 雪鞋租借（成人）
+      priceLines:
+        - ¥2,000
+    - name: 雪鞋租借（兒童）
+      priceLines:
+        - ¥1,500
+    - name: 雪鞋租借（雪杖）
+      priceLines:
+        - ¥500
+    - name: 雪鞋溫泉套票（僅成人）
+      priceLines:
+        - ¥2,600
+      note: 雪鞋租借時段為 8:00～17:00；預約者優先，請事前以電話預約。
 snowWeather:
   title: 牧野高原 Family 雪況天氣
   provider: Weathernews

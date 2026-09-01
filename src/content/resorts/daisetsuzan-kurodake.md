@@ -47,18 +47,18 @@ tickets:
   source: https://weathernews.jp/ski/spot/31215/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: 日間券（空中纜車、纜車共通）
-    priceLines:
-    - 成人 ¥5,200
-    - 兒童 ¥2,600
-  - name: 空中纜車來回
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥1,500
-  - name: 空中纜車單程
-    priceLines:
-    - 成人 ¥1,800
-    - 兒童 ¥900
+    - name: 日間券（空中纜車、纜車共通）
+      priceLines:
+        - 成人：¥5,200
+        - 兒童：¥2,600
+    - name: 空中纜車來回
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥1,500
+    - name: 空中纜車單程
+      priceLines:
+        - 成人：¥1,800
+        - 兒童：¥900
 snowWeather:
   title: 大雪山黑岳雪況天氣
   provider: Weathernews

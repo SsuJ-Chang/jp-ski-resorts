@@ -41,24 +41,27 @@ tickets:
   source: https://weathernews.jp/ski/spot/34844/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,700
-    - 兒童 ¥3,000
-    - 樂齡 ¥4,600
-  - name: 下午券
-    priceLines:
-    - 成人 ¥5,100
-    - 兒童 ¥2,600
-    - 樂齡 ¥4,100
-  - name: ２ 日券
-    priceLines:
-    - 成人 ¥9,900
-    - 兒童 ¥5,200
-    - 樂齡 ¥7,800
-  - name: １ 回券
-    priceLines:
-    - 成人 ¥700、兒童 ¥700、樂齡 ¥700、兒童 免費
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,700
+        - 兒童：¥3,000
+        - 長者：¥4,600
+    - name: 下午券
+      priceLines:
+        - 成人：¥5,100
+        - 兒童：¥2,600
+        - 長者：¥4,100
+    - name: ２ 日券
+      priceLines:
+        - 成人：¥9,900
+        - 兒童：¥5,200
+        - 長者：¥7,800
+    - name: １ 回券
+      priceLines:
+        - 成人：¥700
+        - 兒童：¥700
+        - 長者：¥700
+        - 兒童：免費
 snowWeather:
   title: Blanche 高山雪況預報
   provider: Weathernews

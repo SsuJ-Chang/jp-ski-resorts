@@ -42,19 +42,19 @@ tickets:
   source: https://weathernews.jp/ski/spot/35447/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,500
-    - 國高中生 ¥4,200
-    - 兒童 ¥2,800
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥4,600
-    - 國高中生 ¥3,400
-    - 兒童 ¥2,200
-  - name: Snow Escalator
-    priceLines:
-    - 成人 / 兒童：¥1,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,500
+        - 國高中生：¥4,200
+        - 兒童：¥2,800
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥4,600
+        - 國高中生：¥3,400
+        - 兒童：¥2,200
+    - name: Snow Escalator
+      priceLines:
+        - 成人、兒童：¥1,000
 snowWeather:
   title: Muica Snow Resort雪況預報
   provider: Weathernews

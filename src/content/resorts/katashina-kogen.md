@@ -51,31 +51,31 @@ tickets:
   source: https://weathernews.jp/ski/spot/34229/
   note: 2025-2026 主要票種摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 假日 1 日券
-    priceLines:
-    - 成人 ¥5,100
-    - 兒童 ¥3,600
-    - 樂齡 ¥4,800
-  - name: 假日 Super 上午・下午券
-    priceLines:
-    - 成人 ¥4,600
-    - 兒童 ¥3,200
-    - 樂齡 ¥4,300
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥500
-    - 兒童 ¥400
-    - 樂齡 ¥500
-  - name: 平日 1 日券
-    priceLines:
-    - 成人 ¥3,500
-    - 兒童 ¥2,800
-    - 樂齡 ¥3,400
-  - name: 平日 Super 上午・下午券
-    priceLines:
-    - 成人 ¥3,100
-    - 兒童 ¥2,400
-    - 樂齡 ¥3,000
+    - name: 假日 1 日券
+      priceLines:
+        - 成人：¥5,100
+        - 兒童：¥3,600
+        - 長者：¥4,800
+    - name: 假日 Super 上午・下午券
+      priceLines:
+        - 成人：¥4,600
+        - 兒童：¥3,200
+        - 長者：¥4,300
+    - name: 1 回券
+      priceLines:
+        - 成人：¥500
+        - 兒童：¥400
+        - 長者：¥500
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥2,800
+        - 長者：¥3,400
+    - name: 平日 Super 上午・下午券
+      priceLines:
+        - 成人：¥3,100
+        - 兒童：¥2,400
+        - 長者：¥3,000
 snowWeather:
   title: 片品高原雪況天氣
   provider: Weathernews

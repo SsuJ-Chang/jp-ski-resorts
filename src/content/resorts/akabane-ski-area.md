@@ -44,27 +44,27 @@ tickets:
   source: https://tono-sks.com/akabane-snowpark/
   note: 未就學兒可免費使用纜車。
   plans:
-  - name: 1 回券
-    priceLines:
-    - ¥60
-  - name: 12 回券
-    priceLines:
-    - ¥600
-  - name: 上午券
-    priceLines:
-    - ¥800
-  - name: 下午券
-    priceLines:
-    - ¥800
-  - name: 1 日券
-    priceLines:
-    - ¥1,400
-  - name: 夜滑券
-    priceLines:
-    - ¥1,000
-  - name: 季票
-    priceLines:
-    - ¥10,500
+    - name: 1 回券
+      priceLines:
+        - ¥60
+    - name: 12 回券
+      priceLines:
+        - ¥600
+    - name: 上午券
+      priceLines:
+        - ¥800
+    - name: 下午券
+      priceLines:
+        - ¥800
+    - name: 1 日券
+      priceLines:
+        - ¥1,400
+    - name: 夜滑券
+      priceLines:
+        - ¥1,000
+    - name: 季票
+      priceLines:
+        - ¥10,500
 snowWeather:
   title: 赤羽根雪況天氣
   provider: Weathernews

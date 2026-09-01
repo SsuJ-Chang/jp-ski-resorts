@@ -40,14 +40,14 @@ tickets:
   source: https://weathernews.jp/ski/spot/35427/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 11 回券
-    priceLines:
-    - 成人 ¥2,100
-    - 兒童 ¥1,600
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥210
-    - 兒童 ¥160
+    - name: 11 回券
+      priceLines:
+        - 成人：¥2,100
+        - 兒童：¥1,600
+    - name: 1 回券
+      priceLines:
+        - 成人：¥210
+        - 兒童：¥160
 snowWeather:
   title: 金谷山雪況預報
   provider: Weathernews

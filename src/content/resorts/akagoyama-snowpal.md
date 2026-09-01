@@ -48,18 +48,18 @@ tickets:
   source: https://woodypal.jp/facility/%E8%B5%A4%E5%AD%90%E5%B1%B1%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4-%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%91%E3%83%AB/
   note: 此設施採入場費制，不販售纜車票且不運行纜車；入場時會發放當日有效的手環。週二休園，無積雪時可能休園。
   plans:
-  - name: 入場費（成人／國中生以上）
-    priceLines:
-    - ¥550
-  - name: 入場費（小學生）
-    priceLines:
-    - ¥440
-  - name: 入場費（幼兒，3～5 歲）
-    priceLines:
-    - ¥330
-  - name: 雪橇租借（1 台）
-    priceLines:
-    - ¥550
+    - name: 入場費（成人 / 國中生以上）
+      priceLines:
+        - ¥550
+    - name: 入場費（小學生）
+      priceLines:
+        - ¥440
+    - name: 入場費（幼兒，3～5 歲）
+      priceLines:
+        - ¥330
+    - name: 雪橇租借（1 台）
+      priceLines:
+        - ¥550
 snowWeather:
   title: 赤子山 Snowpal 雪況天氣
   provider: Weathernews

@@ -53,22 +53,22 @@ tickets:
   source: https://winghills.net/snow/lift/
   note: 主要票種摘要，實際販售日、兒童區與其他時段券請以官方售票資訊為準。
   plans:
-  - name: 平日 1 日券
-    priceLines:
-    - 大人 ¥4,900
-    - 兒童 ¥2,200
-    - 年長者 ¥3,900
-  - name: 週末假日 1 日券
-    priceLines:
-    - 大人 ¥5,900
-    - 兒童 ¥2,200
-    - 年長者 ¥4,400
-  - name: 下午券
-    priceLines:
-    - 大人 ¥4,400
-  - name: 4 小時券
-    priceLines:
-    - 大人 ¥4,400
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥2,200
+        - 長者：¥3,900
+    - name: 週末假日 1 日券
+      priceLines:
+        - 成人：¥5,900
+        - 兒童：¥2,200
+        - 長者：¥4,400
+    - name: 下午券
+      priceLines:
+        - 成人：¥4,400
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥4,400
 snowWeather:
   title: Winghills 白鳥渡假村雪況天氣
   provider: Weathernews
@@ -167,25 +167,17 @@ lifts:
   total: 4
 access:
   fromNagoya:
-  - label: 名古屋方向：鐵道轉計程車
-    steps:
-    - 搭乘鐵道至長良川鐵道 北濃站
-    - 由北濃站轉計程車前往雪場
-    estimatedTime: 車站後約 30 分
-    difficulty: medium
-    note: 冬季交通與計程車安排請行前確認。
-  fromOsaka:
-  - label: 關西方向：自駕參考
-    steps:
-    - 由吹田 IC 接名神高速與東海北陸自動車道
-    - 於白鳥 IC 下交流道後經國道 156 號前往雪場
-    estimatedTime: 約 210 分
-    difficulty: hard
-    note: 交通時間為公開資料摘要，實際時間會受雪道與高速道路狀況影響。
+    - label: 名古屋方向：鐵道轉計程車
+      steps:
+        - 搭乘鐵道至長良川鐵道 北濃站
+        - 由北濃站轉計程車前往雪場
+      estimatedTime: 車站後約 30 分
+      difficulty: medium
+      note: 冬季交通與計程車安排請行前確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: 中京方向可經一宮 IC、東海北陸自動車道與白鳥 IC 前往。冬季請準備雪胎與雪道駕駛裝備。
+    note: 中京方向可經一宮 IC、東海北陸自動車道與白鳥 IC 前往。冬季請準備雪胎與雪道駕駛裝備；自駕路線：關西方向：自駕參考：由吹田 IC 接名神高速與東海北陸自動車道；於白鳥 IC 下交流道後經國道 156 號前往雪場；參考時間 約 210 分；交通時間為公開資料摘要，實際時間會受雪道與高速道路狀況影響。
 terrainSummary:
   beginner: 初級比例約 40%，可安排入門與家庭練習。
   intermediate: 中級比例約 30%，適合轉彎穩定後做巡航練習。

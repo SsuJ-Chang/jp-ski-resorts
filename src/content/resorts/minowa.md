@@ -42,24 +42,24 @@ tickets:
   source: https://weathernews.jp/ski/spot/33604/
   note: 以下為公開資料頁面保留的歷史票價參考，已標示待確認；正式票價請以 Minowa 官方當季公告為準。
   plans:
-  - name: 1 日券（待確認）
-    priceLines:
-    - 成人 ¥5,000
-    - 長者 ¥4,500
-    - 兒童 ¥3,300
-    note: 公開資料歷史資訊，需以當季官方票價確認
-  - name: 4 小時券（待確認）
-    priceLines:
-    - 成人 ¥4,500
-    - 長者 ¥4,000
-    - 兒童 ¥2,800
-    note: 公開資料歷史資訊，需以當季官方票價確認
-  - name: 夜滑券（待確認）
-    priceLines:
-    - 成人 ¥2,500
-    - 長者 ¥2,500
-    - 兒童 ¥1,700
-    note: 公開資料歷史資訊，需以當季官方票價確認
+    - name: 1 日券（待確認）
+      priceLines:
+        - 成人：¥5,000
+        - 長者：¥4,500
+        - 兒童：¥3,300
+      note: 公開資料歷史資訊，需以當季官方票價確認
+    - name: 4 小時券（待確認）
+      priceLines:
+        - 成人：¥4,500
+        - 長者：¥4,000
+        - 兒童：¥2,800
+      note: 公開資料歷史資訊，需以當季官方票價確認
+    - name: 夜滑券（待確認）
+      priceLines:
+        - 成人：¥2,500
+        - 長者：¥2,500
+        - 兒童：¥1,700
+      note: 公開資料歷史資訊，需以當季官方票價確認
 snowWeather:
   title: Minowa雪況天氣
   provider: Weathernews
@@ -113,16 +113,16 @@ lifts:
   total: 3
 access:
   fromTokyo:
-  - label: 東京出發
-    steps:
-    - 東京站搭乘東北新幹線至郡山站。
-    - 轉乘 JR 磐越西線至豬苗代站，或依當季交通資訊轉乘巴士、計程車或租車前往 Minowa。
-    estimatedTime: 約 3.5-4.5 小時
-    difficulty: medium
-    note: Minowa 位於山區，冬季大眾運輸與接駁資訊需以官方或住宿方當季公告確認。依轉乘方式而定。
-    links:
-    - label: Minowa Weathernews
-      url: https://weathernews.jp/ski/spot/33604/
+    - label: 東京出發
+      steps:
+        - 東京站搭乘東北新幹線至郡山站。
+        - 轉乘 JR 磐越西線至豬苗代站，或依當季交通資訊轉乘巴士、計程車前往 Minowa。
+      estimatedTime: 約 3.5-4.5 小時
+      difficulty: medium
+      note: Minowa 位於山區，冬季大眾運輸與接駁資訊需以官方或住宿方當季公告確認。依轉乘方式而定。
+      links:
+        - label: Minowa Weathernews
+          url: https://weathernews.jp/ski/spot/33604/
   car:
     recommended: true
     snowTireRequired: true

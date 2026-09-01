@@ -42,18 +42,18 @@ tickets:
   source: https://weathernews.jp/ski/spot/34812/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,500
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥9,000
-  - name: 半日券
-    priceLines:
-    - 成人 ¥4,500
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥1,500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,500
+    - name: 2 日券
+      priceLines:
+        - 成人：¥9,000
+    - name: 半日券
+      priceLines:
+        - 成人：¥4,500
+    - name: 1 回券
+      priceLines:
+        - 成人：¥1,500
 snowWeather:
   title: 車山高原 SKYPARK雪況預報
   provider: Weathernews

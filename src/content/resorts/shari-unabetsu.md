@@ -70,12 +70,6 @@ access:
         - 鐵路：釧鋼本線知床斜里駅下車、バス (20分)
       estimatedTime: "約 20 分"
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：女満別空港から車で (80分)
-      estimatedTime: "約 80 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

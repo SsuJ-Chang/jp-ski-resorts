@@ -43,26 +43,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34890/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1日券(8時間）
-    priceLines:
-    - 成人 ¥4,600
-    - 兒童 ¥3,100
-    - 樂齡 ¥4,100
-  - name: 3.5時間券
-    priceLines:
-    - 成人 ¥4,200
-    - 兒童 ¥2,600
-    - 樂齡 ¥3,700
-  - name: 纜車11回券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥3,000
-    - 樂齡 ¥4,000
-  - name: 纜車1回券
-    priceLines:
-    - 成人 ¥400
-    - 兒童 ¥300
-    - 樂齡 ¥400
+    - name: 1日券(8時間）
+      priceLines:
+        - 成人：¥4,600
+        - 兒童：¥3,100
+        - 長者：¥4,100
+    - name: 3.5時間券
+      priceLines:
+        - 成人：¥4,200
+        - 兒童：¥2,600
+        - 長者：¥3,700
+    - name: 纜車11回券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥3,000
+        - 長者：¥4,000
+    - name: 纜車1回券
+      priceLines:
+        - 成人：¥400
+        - 兒童：¥300
+        - 長者：¥400
 snowWeather:
   title: Asahi Prime雪況預報
   provider: Weathernews

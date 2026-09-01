@@ -41,21 +41,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/34877/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 平日1日券(2in1共通)
-    priceLines:
-    - 成人 ¥5,220
-    - 兒童 ¥3,130
-    - 樂齡 ¥3,130
-  - name: 假日1日券(2in1共通)
-    priceLines:
-    - 成人 ¥5,800
-    - 兒童 ¥3,480
-    - 樂齡 ¥3,480
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥5,220
-    - 兒童 ¥3,130
-    - 樂齡 ¥3,130
+    - name: 平日1日券(2in1共通)
+      priceLines:
+        - 成人：¥5,220
+        - 兒童：¥3,130
+        - 長者：¥3,130
+    - name: 假日1日券(2in1共通)
+      priceLines:
+        - 成人：¥5,800
+        - 兒童：¥3,480
+        - 長者：¥3,480
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥5,220
+        - 兒童：¥3,130
+        - 長者：¥3,130
 snowWeather:
   title: 白樺高原國際雪況預報
   provider: Weathernews

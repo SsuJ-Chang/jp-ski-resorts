@@ -58,31 +58,31 @@ tickets:
   source: https://www.hachi-hachikita.co.jp/hachi/rate.html
   note: HACHI 與 HACHI 北共通 IC 纜車券；官方說明票價已含稅，另需預收 IC key card 保證金 ¥500，且山頂積雪足夠時才可往來兩區。
   plans:
-  - name: 1 日券（平日）
-    priceLines:
-    - 大人 ¥5,000
-    - 長者 ¥4,500
-    - 兒童 ¥3,500
-    note: 長者為 60 歲以上且需出示年齡證明；兒童為 4 歲至小學 6 年級。
-  - name: 1 日券（假日）
-    priceLines:
-    - 大人 ¥5,500
-    - 兒童 ¥3,500
-    note: 假日包含週末、國定假日與 12/31-1/3；長者假日依官方說明使用大人假日券。
-  - name: 下午券
-    priceLines:
-    - 大人：¥4,500
-    note: 12:00 起至纜車營業結束有效。
-  - name: 回數券（最多 5 回）
-    priceLines:
-    - 大人 / 長者 / 兒童：¥700 / 次
-    note: 發行季中有效；每位使用者需要各自持有 IC key card。
-  - name: 季票
-    priceLines:
-    - 大人 ¥57,000
-    - 長者 ¥54,000
-    - 兒童 ¥32,500
-    note: 於 HACHI 與 HACHI 北兩事務所販售。
+    - name: 1 日券（平日）
+      priceLines:
+        - 成人：¥5,000
+        - 長者：¥4,500
+        - 兒童：¥3,500
+      note: 長者為 60 歲以上且需出示年齡證明；兒童為 4 歲至小學 6 年級。
+    - name: 1 日券（假日）
+      priceLines:
+        - 成人：¥5,500
+        - 兒童：¥3,500
+      note: 假日包含週末、國定假日與 12/31-1/3；長者假日依官方說明使用成人假日券。
+    - name: 下午券
+      priceLines:
+        - 成人：¥4,500
+      note: 12:00 起至纜車營業結束有效。
+    - name: 回數券（最多 5 回）
+      priceLines:
+        - 成人、長者、兒童：¥700 / 次
+      note: 發行季中有效；每位使用者需要各自持有 IC key card。
+    - name: 季票
+      priceLines:
+        - 成人：¥57,000
+        - 長者：¥54,000
+        - 兒童：¥32,500
+      note: 於 HACHI 與 HACHI 北兩事務所販售。
 snowWeather:
   title: HACHI 高原積雪天氣
   provider: Weathernews
@@ -136,38 +136,28 @@ lifts:
   total: 11
 access:
   fromOsaka:
-  - label: 大阪自駕
-    steps:
-    - 從吹田 IC 進入中國道，經吉川 JCT、舞鶴若狹道春日 IC 與北近畿豐岡道。
-    - 於八鹿氷ノ山 IC 下交流道後，經 R9、關神社前與 R87 前往 HACHI 高原。
-    estimatedTime: 約 130 分鐘
-    difficulty: medium
-    note: 公開資料整理的自駕範例；冬季道路需確認積雪與防滑裝備。
-    links:
-    - label: HACHI Access
-      url: https://www.hachi-hachikita.co.jp/hachi/access.html
-  - label: 大阪電車與巴士
-    steps:
-    - 搭乘 JR 至山陰本線八鹿站。
-    - 於八鹿站轉乘全但巴士鉢伏口方向，前往 HACHI 高原。
-    estimatedTime: 八鹿站後約 50 分鐘
-    difficulty: medium
-    note: 班次與停靠點會依季節調整，出發前請確認全但巴士與官方交通資訊。
-    links:
-    - label: HACHI Access
-      url: https://www.hachi-hachikita.co.jp/hachi/access.html
+    - label: 大阪電車與巴士
+      steps:
+        - 搭乘 JR 至山陰本線八鹿站。
+        - 於八鹿站轉乘全但巴士鉢伏口方向，前往 HACHI 高原。
+      estimatedTime: 八鹿站後約 50 分鐘
+      difficulty: medium
+      note: 班次與停靠點會依季節調整，出發前請確認全但巴士與官方交通資訊。
+      links:
+        - label: HACHI Access
+          url: https://www.hachi-hachikita.co.jp/hachi/access.html
   fromTokyo:
-  - label: 東京出發
-    steps:
-    - 搭乘新幹線至新大阪或京都，再轉 JR 前往八鹿站。
-    - 從八鹿站轉乘巴士或計程車前往 HACHI 高原。
-    estimatedTime: 約 5.5-6.5 小時
-    difficulty: hard
-    note: 東京出發轉乘次數較多，比較適合排入關西或兵庫北部多日行程。
+    - label: 東京出發
+      steps:
+        - 搭乘新幹線至新大阪或京都，再轉 JR 前往八鹿站。
+        - 從八鹿站轉乘巴士或計程車前往 HACHI 高原。
+      estimatedTime: 約 5.5-6.5 小時
+      difficulty: hard
+      note: 東京出發轉乘次數較多，比較適合排入關西或兵庫北部多日行程。
   car:
     recommended: true
     snowTireRequired: true
-    note: 雪場位於山區，冬季自駕需準備雪胎或鏈條；共通券可往來 HACHI 北的條件仍取決於山頂積雪與天候。
+    note: 雪場位於山區，冬季自駕需準備雪胎或鏈條；共通券可往來 HACHI 北的條件仍取決於山頂積雪與天候；自駕路線：大阪自駕：從吹田 IC 進入中國道，經吉川 JCT、舞鶴若狹道春日 IC 與北近畿豐岡道；於八鹿氷ノ山 IC 下交流道後，經 R9、關神社前與 R87 前往 HACHI 高原；參考時間 約 130 分鐘；公開資料整理的自駕範例；冬季道路需確認積雪與防滑裝備。
 terrainSummary:
   beginner: 中央雪場、Family、林間與大久保等初級路線較多，適合練習基本轉彎、親子滑行與暖身。
   intermediate: 中央トリプル與 Downhill 提供較寬或較長的中級滑行感，並可搭配 THE PARKS 雪上設施安排。

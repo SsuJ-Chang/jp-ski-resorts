@@ -41,24 +41,24 @@ tickets:
   source: https://weathernews.jp/ski/spot/34904/
   note: 主要票種摘要；季票、回數券與完整規則請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,500
-    - 兒童 ¥3,000
-    - 銀髮族 ¥2,700
-  - name: 短時間 1 日券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥2,700
-  - name: 下午券
-    priceLines:
-    - 成人 ¥2,500
-    - 兒童 ¥2,500
-  - name: 11 回券
-    priceLines:
-    - 成人 ¥3,100
-    - 兒童 ¥3,100
-    - 銀髮族 ¥3,100
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥3,000
+        - 長者：¥2,700
+    - name: 短時間 1 日券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥2,700
+    - name: 下午券
+      priceLines:
+        - 成人：¥2,500
+        - 兒童：¥2,500
+    - name: 11 回券
+      priceLines:
+        - 成人：¥3,100
+        - 兒童：¥3,100
+        - 長者：¥3,100
 snowWeather:
   title: Kamui Misaka雪況天氣
   provider: Weathernews

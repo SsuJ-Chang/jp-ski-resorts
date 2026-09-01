@@ -38,35 +38,35 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://shorefield.jp/fv-snowpark/
-  note: 兒童票適用 12 歲以下；3 歲以下免費。滑雪／雪板套裝含專用票、雪具與雪衣租借、滑雪或雪板支援。
+  note: 兒童票適用 12 歲以下；3 歲以下免費。滑雪 / 雪板套裝含專用票、雪具與雪衣租借、滑雪或雪板支援。
   plans:
-  - name: Premium Pass
-    priceLines:
-    - 成人 ¥20,000
-    - 兒童 ¥17,000
-    note: 含滑雪／雪板與所有活動。
-  - name: 選べるセット
-    priceLines:
-    - 成人 ¥15,000
-    - 兒童 ¥12,000
-    note: 含滑雪／雪板與任選 2 種活動。
-  - name: スキーorボードセット
-    priceLines:
-    - 成人 ¥11,000
-    - 兒童 ¥8,000
-    note: 滑雪或雪板基本套裝。
-  - name: Premium Activity
-    priceLines:
-    - 4 歲以上：¥11,000
-    note: 含所有活動與雪衣、雪靴、小物租借。
-  - name: Activity 10
-    priceLines:
-    - 4 歲以上：¥9,000
-    note: 含所有活動，不含雪衣與雪靴租借。
-  - name: Activity 5
-    priceLines:
-    - 4 歲以上：¥5,000
-    note: 可選 5 種活動，不含雪衣與雪靴租借。
+    - name: Premium Pass
+      priceLines:
+        - 成人：¥20,000
+        - 兒童：¥17,000
+      note: 含滑雪 / 雪板與所有活動。
+    - name: 自選套票
+      priceLines:
+        - 成人：¥15,000
+        - 兒童：¥12,000
+      note: 含滑雪 / 雪板與任選 2 種活動。
+    - name: 雙板 / 雪板套票
+      priceLines:
+        - 成人：¥11,000
+        - 兒童：¥8,000
+      note: 滑雪或雪板基本套裝。
+    - name: Premium Activity
+      priceLines:
+        - 4 歲以上：¥11,000
+      note: 含所有活動與雪衣、雪靴、小物租借。
+    - name: Activity 10
+      priceLines:
+        - 4 歲以上：¥9,000
+      note: 含所有活動，不含雪衣與雪靴租借。
+    - name: Activity 5
+      priceLines:
+        - 4 歲以上：¥5,000
+      note: 可選 5 種活動，不含雪衣與雪靴租借。
 snowWeather:
   title: F VILLAGE Snow Park 積雪與天氣
   provider: Weathernews

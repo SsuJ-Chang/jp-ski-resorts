@@ -46,11 +46,11 @@ tickets:
   source: https://weathernews.jp/ski/spot/36913/
   note: 2025-2026 主要票種摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥500
-    - 兒童 ¥500
-    - 樂齡 ¥500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥500
+        - 兒童：¥500
+        - 長者：¥500
 snowWeather:
   title: 安藏公園雪況天氣
   provider: Weathernews

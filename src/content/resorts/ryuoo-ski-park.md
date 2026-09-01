@@ -43,18 +43,18 @@ tickets:
   source: https://weathernews.jp/ski/spot/34860/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 纜車1日券
-    priceLines:
-    - 成人 ¥5,800
-    - 兒童 ¥2,800
-  - name: 纜車2日券
-    priceLines:
-    - 成人 ¥10,700
-    - 兒童 ¥5,100
-  - name: 纜車半日券
-    priceLines:
-    - 成人 ¥4,600
-    - 兒童 ¥2,000
+    - name: 纜車1日券
+      priceLines:
+        - 成人：¥5,800
+        - 兒童：¥2,800
+    - name: 纜車2日券
+      priceLines:
+        - 成人：¥10,700
+        - 兒童：¥5,100
+    - name: 纜車半日券
+      priceLines:
+        - 成人：¥4,600
+        - 兒童：¥2,000
 snowWeather:
   title: 龍王 Ski Park雪況預報
   provider: Weathernews

@@ -48,21 +48,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/31503/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥500
-    - 兒童 ¥300
-    - 長者 ¥500
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥3,500
-    - 兒童 ¥3,000
-    - 長者 ¥3,500
-  - name: 季票
-    priceLines:
-    - 成人 ¥30,000
-    - 兒童 ¥20,000
-    - 長者 ¥23,000
+    - name: 1 回券
+      priceLines:
+        - 成人：¥500
+        - 兒童：¥300
+        - 長者：¥500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥3,000
+        - 長者：¥3,500
+    - name: 季票
+      priceLines:
+        - 成人：¥30,000
+        - 兒童：¥20,000
+        - 長者：¥23,000
 snowWeather:
   title: 小樽天狗山雪況天氣
   provider: Weathernews

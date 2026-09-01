@@ -42,26 +42,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34885/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 平日１日券
-    priceLines:
-    - 成人 ¥2,500
-    - 兒童 ¥1,000
-    - 樂齡 ¥2,500
-  - name: 週末假日、12/27-1/4の期間　1日券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥3,000
-    - 樂齡 ¥3,500
-  - name: 半日券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥2,000
-    - 樂齡 ¥3,000
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥800
-    - 兒童 ¥600
-    - 樂齡 ¥700
+    - name: 平日１日券
+      priceLines:
+        - 成人：¥2,500
+        - 兒童：¥1,000
+        - 長者：¥2,500
+    - name: 週末、假日及 12/27 ~ 1/4 期間 1 日券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥3,000
+        - 長者：¥3,500
+    - name: 半日券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,000
+        - 長者：¥3,000
+    - name: 1 回券
+      priceLines:
+        - 成人：¥800
+        - 兒童：¥600
+        - 長者：¥700
 snowWeather:
   title: YAMABOKU Wild Snow Park雪況預報
   provider: Weathernews

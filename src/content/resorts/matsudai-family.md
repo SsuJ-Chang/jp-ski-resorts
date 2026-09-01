@@ -39,15 +39,15 @@ tickets:
   source: https://weathernews.jp/ski/spot/35491/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 / 兒童：¥2,500
-  - name: 上午／下午券
-    priceLines:
-    - 共通：¥1,800
-  - name: 夜滑券
-    priceLines:
-    - 共通：¥1,000
+    - name: 1 日券
+      priceLines:
+        - 成人、兒童：¥2,500
+    - name: 上午 / 下午券
+      priceLines:
+        - 共通：¥1,800
+    - name: 夜滑券
+      priceLines:
+        - 共通：¥1,000
 snowWeather:
   title: 十日町市松代 Family雪況預報
   provider: Weathernews

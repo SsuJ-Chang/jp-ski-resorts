@@ -41,23 +41,23 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://weathernews.jp/ski/spot/34836/
-  note: 主要票種依 2025-2026 公開雪場資料整理；未就學兒童、開幕期間優惠與完整票價請以官方為準。
+  note: 主要票種依 2025-2026 公開雪場資料整理；兒童（學齡前）、開幕期間優惠與完整票價請以官方為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,000
-    - 兒童 ¥2,000
-    - 長者 ¥5,700
-  - name: 上午券或下午券
-    priceLines:
-    - 成人 ¥5,300
-    - 兒童 ¥1,500
-    - 長者 ¥5,100
-  - name: 箱型纜車 1 回券
-    priceLines:
-    - 成人 ¥2,300
-    - 兒童 ¥1,100
-    - 長者 ¥2,300
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥2,000
+        - 長者：¥5,700
+    - name: 上午券或下午券
+      priceLines:
+        - 成人：¥5,300
+        - 兒童：¥1,500
+        - 長者：¥5,100
+    - name: 箱型纜車 1 回券
+      priceLines:
+        - 成人：¥2,300
+        - 兒童：¥1,100
+        - 長者：¥2,300
 snowWeather:
   title: 富士見 Panorama Resort 雪況天氣
   provider: Weathernews

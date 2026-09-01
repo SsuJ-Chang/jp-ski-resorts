@@ -48,24 +48,24 @@ tickets:
   source: https://www.sam-hakusan.com/white/seymour/lift/
   note: 2025-2026 主要票種摘要；2026-2027 雪季請以官方更新為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,500
-    - 兒童 ¥3,500
-    - 長者 ¥4,000
-    note: 兒童為 4 歲以上至小學生，長者為 60 歲以上。
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥8,500
-    - 兒童 ¥6,500
-  - name: 半日券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥3,300
-    note: 營業開始至 13:00，或 12:00 至營業結束。
-  - name: 1 回券
-    priceLines:
-    - ¥450
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥3,500
+        - 長者：¥4,000
+      note: 兒童為 4 歲以上至小學生，長者為 60 歲以上。
+    - name: 2 日券
+      priceLines:
+        - 成人：¥8,500
+        - 兒童：¥6,500
+    - name: 半日券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥3,300
+      note: 營業開始至 13:00，或 12:00 至營業結束。
+    - name: 1 回券
+      priceLines:
+        - ¥450
 snowWeather:
   title: 白山千丈溫泉 Seymour 雪況天氣
   provider: Weathernews

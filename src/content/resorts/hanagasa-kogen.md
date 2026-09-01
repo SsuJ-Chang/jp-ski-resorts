@@ -74,12 +74,6 @@ access:
         - 鐵路：大石田駅(要バス乗換) (30分)
       estimatedTime: "約 30 分"
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：山形空港から車で (60分)
-      estimatedTime: "約 60 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

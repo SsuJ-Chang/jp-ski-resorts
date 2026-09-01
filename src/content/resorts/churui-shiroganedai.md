@@ -68,12 +68,6 @@ access:
         - 鐵路：JR帯広駅で下車、十勝バスで広尾方面へ１時間、バス停「忠類」で下車、徒歩で (15分)
       estimatedTime: "約 15 分"
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：帯広空港から車で広尾方面へ (20分)
-      estimatedTime: "約 20 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

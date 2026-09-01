@@ -42,26 +42,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/44807/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,200
-    - 兒童 ¥3,000
-    - 樂齡 ¥3,500
-  - name: 12 回券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥3,000
-    - 樂齡 ¥3,000
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥300
-    - 兒童 ¥300
-    - 樂齡 ¥300
-  - name: 上午券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥2,500
-    - 樂齡 ¥2,800
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,200
+        - 兒童：¥3,000
+        - 長者：¥3,500
+    - name: 12 回券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥3,000
+        - 長者：¥3,000
+    - name: 1 回券
+      priceLines:
+        - 成人：¥300
+        - 兒童：¥300
+        - 長者：¥300
+    - name: 上午券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,500
+        - 長者：¥2,800
 snowWeather:
   title: 平谷高原雪況預報
   provider: Weathernews

@@ -55,16 +55,16 @@ tickets:
   source: https://www.yuzawa-nakazato.com/winter/fee/
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,400
-    - 中高生 ¥5,200
-    - 小學生 ¥3,200
-  - name: 5 小時券
-    priceLines:
-    - 成人 ¥5,200
-    - 中高生 ¥4,200
-    - 小學生 ¥2,500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,400
+        - 國中生、高中生：¥5,200
+        - 小學生：¥3,200
+    - name: 5 小時券
+      priceLines:
+        - 成人：¥5,200
+        - 國中生、高中生：¥4,200
+        - 小學生：¥2,500
 snowWeather:
   title: 湯澤中里雪況天氣
   provider: Official / Weathernews

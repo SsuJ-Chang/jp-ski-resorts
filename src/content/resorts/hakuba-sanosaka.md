@@ -53,17 +53,17 @@ tickets:
   currency: JPY
   source: https://sanosaka.jp/lift/
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,400
-    - 小學生 ¥1,000
-  - name: 5 小時券
-    priceLines:
-    - 成人：¥4,900
-  - name: 3 小時券
-    priceLines:
-    - 成人：¥4,200
-  note: 成人為國中生以上；學齡前兒童免費，但仍需纜車券。小學生 1 日券有 A/B 兩種，B 含 Snow Friends Park 入場。
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,400
+        - 小學生：¥1,000
+    - name: 5 小時券
+      priceLines:
+        - 成人：¥4,900
+    - name: 3 小時券
+      priceLines:
+        - 成人：¥4,200
+  note: 成人為國中生以上；兒童（學齡前）免費，但仍需纜車券。小學生 1 日券有 A/B 兩種，B 含 Snow Friends Park 入場。
 snowWeather:
   title: 白馬佐野坂雪況天氣
   provider: Weathernews

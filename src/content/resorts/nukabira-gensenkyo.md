@@ -47,20 +47,20 @@ tickets:
   source: https://weathernews.jp/ski/spot/32002/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: 1 日券（OPEN-CLOSE）
-    priceLines:
-    - 成人 ¥4,500
-    - 兒童 ¥2,000
-    - 長者 ¥4,000
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥4,000
-    - 長者 ¥3,500
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥800
-    - 兒童 ¥500
-    - 長者 ¥800
+    - name: 1 日券（OPEN-CLOSE）
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥2,000
+        - 長者：¥4,000
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥4,000
+        - 長者：¥3,500
+    - name: 1 回券
+      priceLines:
+        - 成人：¥800
+        - 兒童：¥500
+        - 長者：¥800
 snowWeather:
   title: 糠平源泉鄉雪況天氣
   provider: Weathernews
@@ -105,7 +105,7 @@ access:
     - label: JR 帶廣站轉乘
       steps:
         - 從札幌搭 JR 至帶廣站。
-        - 從帶廣站搭巴士或租車前往糠平源泉鄉，再轉往雪場。
+        - 從帶廣站搭巴士前往糠平源泉鄉，再轉往雪場。
       estimatedTime: 帶廣站後約 1 小時 40 分
       difficulty: medium
       note: 帶廣站至糠平方向巴士班次有限，需先確認去回程銜接。

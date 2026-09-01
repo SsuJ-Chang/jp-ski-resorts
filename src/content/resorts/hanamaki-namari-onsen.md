@@ -71,20 +71,20 @@ lifts:
   total: 2
 access:
   fromTokyo:
-    - label: "東京出發經花卷"
+    - label: 東京出發經花卷
       steps:
         - 從東京搭東北新幹線到新花卷站或花卷站周邊。
         - 從 JR 花卷站搭岩手縣交通定期巴士前往鉛溫泉方向。
-      estimatedTime: "花卷站後約 30 分"
+      estimatedTime: 花卷站後約 30 分
       difficulty: medium
-      note: 巴士班次需依當季時刻安排；若從新花卷站抵達，需先銜接到花卷站或改搭計程車、租車。
+      note: 巴士班次需依當季時刻安排；若從新花卷站抵達，需先銜接到花卷站或改搭計程車。
   fromAirport:
-    - label: "岩手花卷機場出發"
+    - label: 岩手花卷機場出發
       steps:
         - 從岩手花卷機場搭車前往花卷市鉛溫泉雪場。
-      estimatedTime: "約 45 分"
+      estimatedTime: 約 45 分
       difficulty: medium
-      note: 攜帶裝備時可比較機場租車、計程車或住宿接送。
+      note: 攜帶裝備時可比較機場計程車或住宿接送。
   car:
     recommended: true
     snowTireRequired: true

@@ -48,18 +48,18 @@ tickets:
   source: https://shigakogen-ski.or.jp/winter/ticket/
   note: 志賀高原全山共通主要票種摘要；完整天數券、餐券套票、線上票與兒童規則請以官方頁面為準。
   plans:
-  - name: 全山 1 日券
-    priceLines:
-    - 成人 ¥8,000
-    - 中高生 ¥6,200
-    - 長者 ¥6,400
-    - 兒童 ¥3,600
-  - name: 餐券付全山 1 日券
-    priceLines:
-    - 成人 ¥8,700
-    - 中高生 ¥6,900
-    - 長者 ¥7,100
-    - 兒童 ¥4,300
+    - name: 全山 1 日券
+      priceLines:
+        - 成人：¥8,000
+        - 國中生、高中生：¥6,200
+        - 長者：¥6,400
+        - 兒童：¥3,600
+    - name: 餐券付全山 1 日券
+      priceLines:
+        - 成人：¥8,700
+        - 國中生、高中生：¥6,900
+        - 長者：¥7,100
+        - 兒童：¥4,300
 snowWeather:
   title: 橫手山雪況天氣
   provider: Weathernews

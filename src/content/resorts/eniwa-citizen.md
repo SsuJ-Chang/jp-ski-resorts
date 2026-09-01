@@ -41,42 +41,42 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.city.eniwa.hokkaido.jp/material/files/group/29/R07ryokin.pdf
-  note: 成人為國中生以上，兒童為小學生以下，未就學兒免費。回數券為 11 次份，高齡票為 65 歲以上、3 小時以內。
+  note: 成人為國中生以上，兒童為兒童（小學生以下），未就學兒免費。回數券為 11 次份，高齡票為 長者（65 歲以上）、3 小時以內。
   plans:
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥150
-    - 兒童 ¥120
-  - name: 回數券（11 次份）
-    priceLines:
-    - 成人 ¥1,500
-    - 兒童 ¥1,200
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥2,300
-    - 兒童 ¥1,700
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥1,800
-    - 兒童 ¥1,400
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥500
-    - 兒童 ¥500
-  - name: 高齡票
-    priceLines:
-    - 65 歲以上：¥1,000
-    note: 3 小時以內。
-  - name: 親子雙人票
-    priceLines:
-    - 成人 1 人 + 兒童 1 人：¥2,500
-  - name: 親子三人票
-    priceLines:
-    - 成人 1 人 + 兒童 2 人：¥3,000
-  - name: 季票
-    priceLines:
-    - 成人 ¥17,500
-    - 兒童 ¥12,500
+    - name: 1 回券
+      priceLines:
+        - 成人：¥150
+        - 兒童：¥120
+    - name: 回數券（11 次份）
+      priceLines:
+        - 成人：¥1,500
+        - 兒童：¥1,200
+    - name: 1 日券
+      priceLines:
+        - 成人：¥2,300
+        - 兒童：¥1,700
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥1,800
+        - 兒童：¥1,400
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥500
+        - 兒童：¥500
+    - name: 高齡票
+      priceLines:
+        - 長者（65 歲以上）：¥1,000
+      note: 3 小時以內。
+    - name: 親子雙人票
+      priceLines:
+        - 成人 1 人 + 兒童 1 人：¥2,500
+    - name: 親子三人票
+      priceLines:
+        - 成人 1 人 + 兒童 2 人：¥3,000
+    - name: 季票
+      priceLines:
+        - 成人：¥17,500
+        - 兒童：¥12,500
 snowWeather:
   title: 惠庭市民 積雪與天氣
   provider: Weathernews
@@ -107,10 +107,10 @@ access:
     - label: 札幌／惠庭站轉乘
       steps:
         - 從札幌搭 JR 千歲線至惠庭站。
-        - 從惠庭站搭計程車或租車前往盤尻雪場。
+        - 從惠庭站搭計程車前往盤尻雪場。
       estimatedTime: 車站後約 20 分
       difficulty: medium
-      note: 官方資料以自駕與當地交通為主，市民雪場沒有固定的札幌直達巴士。
+      note: 官方資料以當地交通為主，市民雪場沒有固定的札幌直達巴士。
       links:
         - label: 惠庭市官方交通資訊
           url: https://www.city.eniwa.hokkaido.jp/soshikikarasagasu/hokenhukushibu/kenkosportska/supotsu/2/7966.html
@@ -118,7 +118,7 @@ access:
     - label: 新千歲機場出發
       steps:
         - 從新千歲機場搭 JR 至惠庭站。
-        - 從惠庭站轉乘計程車或租車前往雪場。
+        - 從惠庭站轉乘計程車前往雪場。
       estimatedTime: 約 30 分
       difficulty: medium
       note: 雪場位於惠庭市郊，機場後段需轉乘車輛。

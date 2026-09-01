@@ -49,27 +49,27 @@ tickets:
   source: https://weathernews.jp/ski/spot/36701/
   note: 2025-2026 主要票種摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥3,500
-    - 兒童 ¥2,000
-    - 樂齡 ¥2,000
-  - name: 6 回券
-    priceLines:
-    - 成人 ¥2,000
-  - name: 上午券
-    priceLines:
-    - 成人 ¥2,000
-  - name: 下午券
-    priceLines:
-    - 成人 ¥2,000
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥500
-  - name: 女士日 1 日券
-    priceLines:
-    - 成人 ¥1,000
-    note: 每週三女性限定。
+    - name: 1 日券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥2,000
+        - 長者：¥2,000
+    - name: 6 回券
+      priceLines:
+        - 成人：¥2,000
+    - name: 上午券
+      priceLines:
+        - 成人：¥2,000
+    - name: 下午券
+      priceLines:
+        - 成人：¥2,000
+    - name: 1 回券
+      priceLines:
+        - 成人：¥500
+    - name: 女士日 1 日券
+      priceLines:
+        - 成人：¥1,000
+      note: 每週三女性限定。
 snowWeather:
   title: 道後山高原雪況天氣
   provider: Weathernews

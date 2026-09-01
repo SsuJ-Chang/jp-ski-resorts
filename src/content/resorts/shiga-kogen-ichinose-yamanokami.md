@@ -40,12 +40,12 @@ tickets:
   currency: JPY
   source: https://shigakogen-ski.or.jp/winter/ticket/
   plans:
-  - name: 全山 1 日券
-    priceLines:
-    - 成人 ¥8,000
-    - 中高生 ¥6,200
-    - 長者 ¥6,400
-    - 兒童 ¥3,600
+    - name: 全山 1 日券
+      priceLines:
+        - 成人：¥8,000
+        - 國中生、高中生：¥6,200
+        - 長者：¥6,400
+        - 兒童：¥3,600
 snowWeather:
   title: 志賀高原一之瀨山之神雪況天氣
   provider: Official

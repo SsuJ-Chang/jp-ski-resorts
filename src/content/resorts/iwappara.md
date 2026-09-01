@@ -60,41 +60,41 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://iwa-ppara.com/price/
-  note: 成人為中學生以上，兒童為 3 歲 ~ 小學生，熟齡為 60 歲以上；夜滑結束時間依日期為 19:00 或 20:00。
+  note: 成人為國中生以上，兒童為 3 歲 ~ 小學生，熟齡為 60 歲以上；夜滑結束時間依日期為 19:00 或 20:00。
   plans:
-  - name: 1 日入場券
-    priceLines:
-    - 成人：¥5,500
-    - 兒童：¥3,500
-    - 熟齡：¥4,300
-    note: 8:00 ~ 17:00。
-  - name: 1 日 + 夜滑入場券
-    priceLines:
-    - 成人：¥5,800
-    - 兒童：¥3,800
-    - 熟齡：¥4,600
-    note: 8:00 ~ 夜滑結束。
-  - name: 午後 + 夜滑入場券
-    priceLines:
-    - 成人：¥4,500
-    - 兒童：¥2,800
-    - 熟齡：¥3,500
-    note: 13:00 ~ 夜滑結束。
-  - name: 夜滑入場券
-    priceLines:
-    - 成人：¥1,500
-    - 兒童：¥1,000
-    - 熟齡：¥1,000
-    note: 17:00 ~ 夜滑結束。
-  - name: 單次入場券
-    priceLines:
-    - 1 張：¥800
-    note: 每搭乘 1 條纜車需 1 張。
-  - name: Kids Paradise 入場券
-    priceLines:
-    - A：¥1,000
-    - B：¥1,500
-    note: A 可於當日中途進出；B 含 Kids Paradise 入場與單次入場券 / 纜車 1 次搭乘券。
+    - name: 1 日入場券
+      priceLines:
+        - 成人：¥5,500
+        - 兒童：¥3,500
+        - 熟齡：¥4,300
+      note: 8:00 ~ 17:00。
+    - name: 1 日 + 夜滑入場券
+      priceLines:
+        - 成人：¥5,800
+        - 兒童：¥3,800
+        - 熟齡：¥4,600
+      note: 8:00 ~ 夜滑結束。
+    - name: 午後 + 夜滑入場券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥2,800
+        - 熟齡：¥3,500
+      note: 13:00 ~ 夜滑結束。
+    - name: 夜滑入場券
+      priceLines:
+        - 成人：¥1,500
+        - 兒童：¥1,000
+        - 熟齡：¥1,000
+      note: 17:00 ~ 夜滑結束。
+    - name: 單次入場券
+      priceLines:
+        - 1 張：¥800
+      note: 每搭乘 1 條纜車需 1 張。
+    - name: Kids Paradise 入場券
+      priceLines:
+        - A：¥1,000
+        - B：¥1,500
+      note: A 可於當日中途進出；B 含 Kids Paradise 入場與單次入場券 / 纜車 1 次搭乘券。
 snowWeather:
   title: 岩原雪況天氣
   provider: Weathernews

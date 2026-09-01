@@ -70,20 +70,20 @@ lifts:
   total: 3
 access:
   fromTokyo:
-    - label: "東京出發經弘前"
+    - label: 東京出發經弘前
       steps:
         - 從東京搭東北、北海道新幹線往青森方向，轉乘前往弘前站。
         - 從弘前站轉乘巴士前往岩木山百澤。
-      estimatedTime: "弘前站後約 40 分"
+      estimatedTime: 弘前站後約 40 分
       difficulty: medium
       note: 弘前站出發的巴士班次會依日期與季節調整，建議先確認當季時刻。
   fromAirport:
-    - label: "青森機場出發"
+    - label: 青森機場出發
       steps:
         - 從青森機場經弘前巴士總站方向轉乘前往岩木山百澤。
-      estimatedTime: "約 120 分"
+      estimatedTime: 約 120 分
       difficulty: medium
-      note: 若攜帶滑雪裝備，青森機場出發可比較巴士、計程車或租車方案。
+      note: 若攜帶滑雪裝備，青森機場出發可比較巴士、計程車方案。
   car:
     recommended: true
     snowTireRequired: true

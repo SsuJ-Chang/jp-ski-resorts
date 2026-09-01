@@ -47,21 +47,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/31202/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥8,800
-    - 兒童 ¥7,000
-    - 長者 ¥7,000
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥7,000
-    - 兒童 ¥5,600
-    - 長者 ¥5,600
-  - name: 回數券（11 點）
-    priceLines:
-    - 成人 ¥5,600
-    - 兒童 ¥4,480
-    - 長者 ¥5,600
+    - name: 1 日券
+      priceLines:
+        - 成人：¥8,800
+        - 兒童：¥7,000
+        - 長者：¥7,000
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥7,000
+        - 兒童：¥5,600
+        - 長者：¥5,600
+    - name: 回數券（11 點）
+      priceLines:
+        - 成人：¥5,600
+        - 兒童：¥4,480
+        - 長者：¥5,600
 snowWeather:
   title: 佐幌渡假村雪況天氣
   provider: Weathernews

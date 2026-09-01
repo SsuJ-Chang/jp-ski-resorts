@@ -86,12 +86,6 @@ access:
         - 鐵路：岩見沢駅よりタクシーで (15分)
       estimatedTime: "約 20 分"
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：千歳空港から車で (60分)
-      estimatedTime: "約 60 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

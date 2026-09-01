@@ -72,12 +72,6 @@ access:
         - 鐵路：函館本線岩見沢駅より中央バス利用 (15分)
       estimatedTime: "約 15 分"
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：新千歳空港から車で (80分)
-      estimatedTime: "約 80 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

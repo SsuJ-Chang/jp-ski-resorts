@@ -51,22 +51,22 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.princehotels.co.jp/ski/myoko/winter/lift/
-  note: 主要一般票種摘要；小學生以下免費、長者為 55 歲以上，會員與早鳥等優惠請以官方頁面為準。
+  note: 主要一般票種摘要；兒童（小學生以下）免費、長者為 55 歲以上，會員與早鳥等優惠請以官方頁面為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥8,000
-    - 長者與國高中生 ¥7,400
-    note: 8:30-16:00
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥7,200
-    - 長者與國高中生 ¥6,700
-    note: 自購票起連續 4 小時有效
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥15,000
-    - 長者與國高中生 ¥13,800
+    - name: 1 日券
+      priceLines:
+        - 成人：¥8,000
+        - 長者、國高中生：¥7,400
+      note: 8:30-16:00
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥7,200
+        - 長者、國高中生：¥6,700
+      note: 自購票起連續 4 小時有效
+    - name: 2 日券
+      priceLines:
+        - 成人：¥15,000
+        - 長者、國高中生：¥13,800
 snowWeather:
   title: 杉之原雪況天氣
   provider: Weathernews

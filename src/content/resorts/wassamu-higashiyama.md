@@ -92,12 +92,6 @@ access:
         - 鐵路：道北バス名寄行き和寒高校前から徒歩 (5分)
       estimatedTime: "約 10 分"
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：旭川空港から車で (60分)
-      estimatedTime: "約 60 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

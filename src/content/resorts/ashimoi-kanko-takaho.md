@@ -66,12 +66,6 @@ access:
         - 鐵路：留萌本線沼田駅→(バス)→月見橋停留所→(徒歩) (15分)
       estimatedTime: "約 15 分"
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：旭川空港から車で (100分)
-      estimatedTime: "約 100 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

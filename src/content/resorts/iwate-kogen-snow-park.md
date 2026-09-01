@@ -108,19 +108,19 @@ lifts:
   total: 7
 access:
   fromTokyo:
-    - label: "東京出發經盛岡"
+    - label: 東京出發經盛岡
       steps:
         - 從東京搭東北新幹線到盛岡站。
         - 從盛岡站西口巴士站搭雪場接駁巴士前往岩手高原戲雪公園。
-      estimatedTime: "站後約 45 分"
+      estimatedTime: 站後約 45 分
       difficulty: easy
       note: 接駁巴士運行日與時刻需以當季公告為準；氣象與道路狀況可能造成停駛或延誤。
   fromAirport:
-    - label: "岩手花卷機場出發"
+    - label: 岩手花卷機場出發
       steps:
-        - 從岩手花卷機場租車、包車或搭計程車往雫石、岩手山方向。
+        - 從岩手花卷機場包車或搭計程車往雫石、岩手山方向。
         - 依當日道路狀況前往岩手高原戲雪公園停車場。
-      estimatedTime: "約 60 分"
+      estimatedTime: 約 60 分
       difficulty: hard
       note: 公開資料以車程為主；若不自駕，建議先到盛岡站再銜接雪場接駁。
   car:

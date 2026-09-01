@@ -82,7 +82,7 @@ access:
   fromTokyo:
     - label: "大眾交通工具（主要車站銜接）"
       steps:
-        - 鐵路：羽越本線鶴岡駅から車で (30分)
+        - 鐵路：羽越本線鶴岡站下車，轉乘計程車約 30 分鐘。
       estimatedTime: "約 30 分"
       difficulty: medium
   car:

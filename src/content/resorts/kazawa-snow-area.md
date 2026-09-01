@@ -50,28 +50,28 @@ tickets:
   source: https://weathernews.jp/ski/spot/34214/
   note: 2025-2026 主要票種摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,000
-    - 兒童 ¥3,000
-    - 樂齡 ¥4,500
-    note: 平日折扣以現場或官方公告為準。
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥9,600
-    - 兒童 ¥6,000
-    - 樂齡 ¥8,000
-    note: 平日折扣以現場或官方公告為準。
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥4,400
-    - 樂齡 ¥4,400
-    note: 平日折扣以現場或官方公告為準。
-  - name: 季末感謝日
-    priceLines:
-    - 成人 ¥3,300
-    - 兒童 ¥3,000
-    note: 適用日期與販售條件請以官方公告為準。
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：¥3,000
+        - 長者：¥4,500
+      note: 平日折扣以現場或官方公告為準。
+    - name: 2 日券
+      priceLines:
+        - 成人：¥9,600
+        - 兒童：¥6,000
+        - 長者：¥8,000
+      note: 平日折扣以現場或官方公告為準。
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥4,400
+        - 長者：¥4,400
+      note: 平日折扣以現場或官方公告為準。
+    - name: 季末感謝日
+      priceLines:
+        - 成人：¥3,300
+        - 兒童：¥3,000
+      note: 適用日期與販售條件請以官方公告為準。
 snowWeather:
   title: 鹿澤 Snow Area 雪況天氣
   provider: Weathernews

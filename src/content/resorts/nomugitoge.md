@@ -42,26 +42,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34830/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 假日1日券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥2,000
-    - 樂齡 ¥3,500
-  - name: 平日1日券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥1,000
-    - 樂齡 ¥2,500
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥1,000
-    - 樂齡 ¥2,500
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥300
-    - 兒童 ¥200
-    - 樂齡 ¥300
+    - name: 假日1日券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥2,000
+        - 長者：¥3,500
+    - name: 平日1日券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥1,000
+        - 長者：¥2,500
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥1,000
+        - 長者：¥2,500
+    - name: 1 回券
+      priceLines:
+        - 成人：¥300
+        - 兒童：¥200
+        - 長者：¥300
 snowWeather:
   title: 信州松本野麥峠雪況預報
   provider: Weathernews

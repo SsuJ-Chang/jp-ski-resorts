@@ -47,17 +47,17 @@ tickets:
   source: https://weathernews.jp/ski/spot/31405/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: 2 小時券
-    priceLines:
-    - 成人 ¥5,000
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥6,000
-    - 兒童 ¥4,400
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥7,000
-    - 兒童 ¥5,000
+    - name: 2 小時券
+      priceLines:
+        - 成人：¥5,000
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥4,400
+    - name: 1 日券
+      priceLines:
+        - 成人：¥7,000
+        - 兒童：¥5,000
 snowWeather:
   title: 札幌盤溪雪況天氣
   provider: Weathernews

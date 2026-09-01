@@ -76,12 +76,6 @@ access:
         - 鐵路：石北本線遠軽駅下車、バス (20分)
       estimatedTime: "約 20 分"
       difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：オホーツク紋別空港から車で (30分)
-      estimatedTime: "約 30 分"
-      difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

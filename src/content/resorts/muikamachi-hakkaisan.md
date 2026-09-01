@@ -41,16 +41,20 @@ tickets:
   source: https://weathernews.jp/ski/spot/35401/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,000、兒童免費、樂齡 ¥6,000
-  - name: 上午券
-    priceLines:
-    - 成人 ¥5,500
-    - 樂齡 ¥5,500
-  - name: 下午券
-    priceLines:
-    - 成人 ¥5,000、兒童免費、樂齡 ¥5,000
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：免費
+        - 長者：¥6,000
+    - name: 上午券
+      priceLines:
+        - 成人：¥5,500
+        - 長者：¥5,500
+    - name: 下午券
+      priceLines:
+        - 成人：¥5,000
+        - 兒童：免費
+        - 長者：¥5,000
 snowWeather:
   title: 六日町八海山雪況預報
   provider: Weathernews

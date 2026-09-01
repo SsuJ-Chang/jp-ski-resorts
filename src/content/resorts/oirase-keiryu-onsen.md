@@ -65,20 +65,20 @@ lifts:
   total: 2
 access:
   fromTokyo:
-    - label: "東京出發經八戶"
+    - label: 東京出發經八戶
       steps:
         - 從東京搭東北新幹線到八戶站。
         - 從八戶站轉乘巴士往奧入瀨溪流溫泉、燒山方向。
         - 下車後依住宿或當地交通安排前往雪場。
-      estimatedTime: "站後約 85 分"
+      estimatedTime: 站後約 85 分
       difficulty: medium
       note: 也可經三澤站轉巴士，站後約 50 分；冬季班次與下車點需出發前確認。
   fromAirport:
-    - label: "三澤機場出發"
+    - label: 三澤機場出發
       steps:
-        - 從三澤機場租車或包車，往十和田市燒山方向移動。
+        - 從三澤機場包車，往十和田市燒山方向移動。
         - 依當日道路與積雪狀況前往奧入瀨溪流溫泉。
-      estimatedTime: "約 60 分"
+      estimatedTime: 約 60 分
       difficulty: hard
       note: 機場後公開資料以車行時間為主，不自駕時建議事先確認巴士或住宿接送。
   car:

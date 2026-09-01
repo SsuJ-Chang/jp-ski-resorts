@@ -92,15 +92,15 @@ access:
       steps:
         - 從東京搭東北新幹線到仙台站。
         - 從仙台站東口或地下鐵長町南站，轉乘完全預約制滑雪巴士前往雪場。
-      estimatedTime: "仙台後約 2 小時"
+      estimatedTime: 仙台後約 2 小時
       difficulty: medium
       note: 直達巴士依雪季期間與指定日期運行，需事前預約，且可能有最低成行人數限制。
   fromAirport:
     - label: 仙台機場出發
       steps:
-        - 從仙台機場租車或包車，往藏王町遠刈田溫泉方向移動。
+        - 從仙台機場包車，往藏王町遠刈田溫泉方向移動。
         - 依當日道路與積雪狀況前往宮城藏王黑帽子。
-      estimatedTime: "約 60 分"
+      estimatedTime: 約 60 分
       difficulty: hard
       note: 不自駕時可先移動到仙台市區，再視當季運行日銜接預約制滑雪巴士。
   car:

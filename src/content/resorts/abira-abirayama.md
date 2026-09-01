@@ -46,37 +46,37 @@ tickets:
   source: https://www.town.abira.lg.jp/midokoro/shisetsu/sport/149
   note: 兒童區分為幼兒、小學生與國中生；町內 3 歲以上至國中生可免費搭乘纜車。持身心障礙相關手冊者與陪同照護者可依居住地享免費或半價。
   plans:
-  - name: 普通券（1 回）
-    priceLines:
-    - 兒童 ¥70
-    - 高中生 ¥130
-    - 成人 ¥130
-  - name: 回數券（11 回）
-    priceLines:
-    - 兒童 ¥700
-    - 高中生 ¥1,300
-    - 成人 ¥1,300
-  - name: 日中券（9:00-16:00）
-    priceLines:
-    - 兒童 ¥900
-    - 高中生 ¥1,500
-    - 成人 ¥1,700
-  - name: 日中季票
-    priceLines:
-    - 兒童 ¥13,000
-    - 高中生 ¥18,000
-    - 成人 ¥20,000
-  - name: ぬくもりセット
-    priceLines:
-    - 小學生 ¥900
-    - 國中生 ¥1,100
-    - 高中生 ¥1,600
-    - 成人 ¥1,700
-    note: 日中券 1 張加上ぬくもりの湯入浴券 1 張。
-  - name: 親子セット
-    priceLines:
-    - 兒童 1 人 + 成人 1 人：¥2,000
-    note: 兒童日中券 1 張加成人日中券 1 張。
+    - name: 普通券（1 回）
+      priceLines:
+        - 兒童：¥70
+        - 高中生：¥130
+        - 成人：¥130
+    - name: 回數券（11 回）
+      priceLines:
+        - 兒童：¥700
+        - 高中生：¥1,300
+        - 成人：¥1,300
+    - name: 日中券（9:00-16:00）
+      priceLines:
+        - 兒童：¥900
+        - 高中生：¥1,500
+        - 成人：¥1,700
+    - name: 日中季票
+      priceLines:
+        - 兒童：¥13,000
+        - 高中生：¥18,000
+        - 成人：¥20,000
+    - name: ぬくもり套票
+      priceLines:
+        - 小學生：¥900
+        - 國中生：¥1,100
+        - 高中生：¥1,600
+        - 成人：¥1,700
+      note: 日中券 1 張加上ぬくもりの湯入浴券 1 張。
+    - name: 親子套票
+      priceLines:
+        - 兒童 1 人 + 成人 1 人：¥2,000
+      note: 兒童日中券 1 張加成人日中券 1 張。
 snowWeather:
   title: 安平町安平山 積雪與天氣
   provider: Weathernews
@@ -120,12 +120,6 @@ access:
     links:
     - label: 安平町官方交通資訊
       url: https://www.town.abira.lg.jp/midokoro/shisetsu/sport/149
-  fromAirport:
-  - label: 機場銜接
-    steps:
-    - 飛機：新千歳空港より車利用 (25分)
-    estimatedTime: 約 25 分
-    difficulty: medium
   car:
     recommended: true
     snowTireRequired: true

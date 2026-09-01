@@ -51,27 +51,27 @@ tickets:
   source: https://www.daisen-resort.jp/6/
   note: 主要票種依官方與公開資料整理；IC key card 與各種優惠、期間限定票請以官方頁面為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,800
-    - 兒童 ¥4,000
-  - name: 平日 1 日券
-    priceLines:
-    - 成人 ¥5,200
-    - 兒童 ¥4,000
-    note: 資料列為成人平日 1 日券；兒童票價依一般 1 日券整理
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥10,000
-    - 兒童 ¥7,400
-  - name: 1 day 5 小時券
-    priceLines:
-    - 成人 ¥4,800
-    - 兒童 ¥3,000
-  - name: 親子券
-    priceLines:
-    - 成人、兒童：¥8,500
-    note: 官方列為親子票，詳細組合條件請以官方票價頁為準。
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,800
+        - 兒童：¥4,000
+    - name: 平日 1 日券
+      priceLines:
+        - 成人：¥5,200
+        - 兒童：¥4,000
+      note: 資料列為成人平日 1 日券；兒童票價依一般 1 日券整理
+    - name: 2 日券
+      priceLines:
+        - 成人：¥10,000
+        - 兒童：¥7,400
+    - name: 1 day 5 小時券
+      priceLines:
+        - 成人：¥4,800
+        - 兒童：¥3,000
+    - name: 親子券
+      priceLines:
+        - 成人、兒童：¥8,500
+      note: 官方列為親子票，詳細組合條件請以官方票價頁為準。
 snowWeather:
   title: 大山白色度假村雪況天氣
   provider: Weathernews
@@ -146,24 +146,24 @@ lifts:
   total: 10
 access:
   fromOsaka:
-  - label: 大阪出發
-    steps:
-    - 從大阪、京都或神戶搭乘 JR 或高速巴士前往米子站。
-    - 從米子站轉乘往大山方向的巴士或計程車前往大山寺、雪場周邊。
-    estimatedTime: 約 4-5 小時
-    difficulty: medium
-    note: 公開資料列出山陰本線米子站轉巴士約 50 分鐘；冬季班次請以官方 access 與巴士時刻表為準。依交通方式而定。
-    links:
-    - label: Daisen White Resort Access
-      url: https://www.daisen-resort.jp/10/
+    - label: 大阪出發
+      steps:
+        - 從大阪、京都或神戶搭乘 JR 或高速巴士前往米子站。
+        - 從米子站轉乘往大山方向的巴士或計程車前往大山寺、雪場周邊。
+      estimatedTime: 約 4-5 小時
+      difficulty: medium
+      note: 公開資料列出山陰本線米子站轉巴士約 50 分鐘；冬季班次請以官方 access 與巴士時刻表為準。依交通方式而定。
+      links:
+        - label: Daisen White Resort Access
+          url: https://www.daisen-resort.jp/10/
   fromTokyo:
-  - label: 東京出發
-    steps:
-    - 從東京搭乘飛機至米子鬼太郎機場，或以新幹線、特急列車銜接至米子站。
-    - 從米子機場或米子站轉乘計程車、巴士或租車前往大山。
-    estimatedTime: 約 4 小時以上
-    difficulty: hard
-    note: 從關東出發建議先確認米子機場與米子站接駁時間。依航班與轉乘方式而定。
+    - label: 東京出發
+      steps:
+        - 從東京搭乘飛機至米子鬼太郎機場，或以新幹線、特急列車銜接至米子站。
+        - 從米子機場或米子站轉乘計程車、巴士前往大山。
+      estimatedTime: 約 4 小時以上
+      difficulty: hard
+      note: 從關東出發建議先確認米子機場與米子站接駁時間。依航班與轉乘方式而定。
   car:
     recommended: true
     snowTireRequired: true

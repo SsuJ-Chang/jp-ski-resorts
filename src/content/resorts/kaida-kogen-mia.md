@@ -42,20 +42,20 @@ tickets:
   source: https://weathernews.jp/ski/spot/34854/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,200
-    - 兒童 ¥1,800
-    - 樂齡 ¥4,500
-  - name: 下午券
-    priceLines:
-    - 成人 ¥4,200
-    - 樂齡 ¥3,500
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥1,500
-    - 兒童 ¥600
-    - 樂齡 ¥1,500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,200
+        - 兒童：¥1,800
+        - 長者：¥4,500
+    - name: 下午券
+      priceLines:
+        - 成人：¥4,200
+        - 長者：¥3,500
+    - name: 1 回券
+      priceLines:
+        - 成人：¥1,500
+        - 兒童：¥600
+        - 長者：¥1,500
 snowWeather:
   title: 信州開田高原 MIA雪況預報
   provider: Weathernews

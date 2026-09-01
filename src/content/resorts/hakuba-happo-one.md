@@ -63,20 +63,20 @@ tickets:
   source: https://www.happo-one.jp/ticket/
   note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
   plans:
-  - name: 高峰期 1 日券
-    priceLines:
-    - 成人 ¥8,700
-    - 兒童 ¥4,350
-    - 熟齡 ¥8,400
-  - name: 高峰期 2 日券
-    priceLines:
-    - 成人 ¥17,400
-    - 兒童 ¥8,700
-    - 熟齡 ¥16,800
-  - name: 上午 / 下午券
-    priceLines:
-    - 成人 ¥7,200
-    - 兒童 ¥3,600
+    - name: 高峰期 1 日券
+      priceLines:
+        - 成人：¥8,700
+        - 兒童：¥4,350
+        - 熟齡：¥8,400
+    - name: 高峰期 2 日券
+      priceLines:
+        - 成人：¥17,400
+        - 兒童：¥8,700
+        - 熟齡：¥16,800
+    - name: 上午 / 下午券
+      priceLines:
+        - 成人：¥7,200
+        - 兒童：¥3,600
 snowWeather:
   title: 白馬八方尾根雪況天氣
   provider: Weathernews

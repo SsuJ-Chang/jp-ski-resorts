@@ -47,22 +47,22 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.rokkosan.com/ski/fee/
-  note: 官方票價頁目前仍是 2025-2026 季資料，並說明 2026-2027 季價格與內容預計於 10 月公布；以下票價皆為大人與小人一律。
+  note: 官方票價頁目前仍是 2025-2026 季資料，並說明 2026-2027 季價格與內容預計於 10 月公布；以下票價皆為成人與兒童一律。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 平日：¥1,600
-    - 週末與假日：¥3,300
-  - name: 1 回券
-    priceLines:
-    - 平日：¥250
-    - 週末與假日：¥250
-  - name: 12 回券
-    priceLines:
-    - 週末與假日：¥2,500
-  - name: 3 小時券
-    priceLines:
-    - 週末與假日：¥2,800
+    - name: 1 日券
+      priceLines:
+        - 平日：¥1,600
+        - 週末、假日：¥3,300
+    - name: 1 回券
+      priceLines:
+        - 平日：¥250
+        - 週末、假日：¥250
+    - name: 12 回券
+      priceLines:
+        - 週末、假日：¥2,500
+    - name: 3 小時券
+      priceLines:
+        - 週末、假日：¥2,800
 snowWeather:
   title: 六甲山雪況天氣
   provider: Weathernews

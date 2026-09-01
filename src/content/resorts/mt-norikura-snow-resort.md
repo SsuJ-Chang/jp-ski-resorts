@@ -46,20 +46,20 @@ tickets:
   source: https://weathernews.jp/ski/spot/34807/
   note: 主要票種依 2025-2026 公開雪場資料整理；18 歲以下免費與長野縣民割 PLUS 條件請以官方為準。
   plans:
-  - name: 1 日券 S/A
-    priceLines:
-    - 成人 ¥5,500
-    - 長者 ¥5,500
-    note: 18 歲以下依 資料註記免費。
-  - name: 4 小時券 S2/A
-    priceLines:
-    - 成人 ¥4,500
-    - 長者 ¥4,500
-    note: 公開資料列有一般與長野縣民割 PLUS 票種。
-  - name: 1 日券 B
-    priceLines:
-    - 成人 ¥4,500
-    - 長者 ¥3,500
+    - name: 1 日券 S/A
+      priceLines:
+        - 成人：¥5,500
+        - 長者：¥5,500
+      note: 18 歲以下依 資料註記免費。
+    - name: 4 小時券 S2/A
+      priceLines:
+        - 成人：¥4,500
+        - 長者：¥4,500
+      note: 公開資料列有一般與長野縣民割 PLUS 票種。
+    - name: 1 日券 B
+      priceLines:
+        - 成人：¥4,500
+        - 長者：¥3,500
 snowWeather:
   title: Mt.乘鞍 Snow Resort 雪況天氣
   provider: Weathernews

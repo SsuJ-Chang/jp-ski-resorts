@@ -40,26 +40,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34815/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,200
-    - 兒童 ¥2,800
-    - 樂齡 ¥4,200
-  - name: 半日券
-    priceLines:
-    - 成人 ¥4,200
-    - 兒童 ¥2,300
-    - 樂齡 ¥3,700
-  - name: 回數券
-    priceLines:
-    - 成人 ¥4,500
-    - 兒童 ¥4,500
-    - 樂齡 ¥4,500
-  - name: ウインキーパーク入場券
-    priceLines:
-    - 成人 ¥500
-    - 兒童 ¥500
-    - 樂齡 ¥500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,200
+        - 兒童：¥2,800
+        - 長者：¥4,200
+    - name: 半日券
+      priceLines:
+        - 成人：¥4,200
+        - 兒童：¥2,300
+        - 長者：¥3,700
+    - name: 回數券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥4,500
+        - 長者：¥4,500
+    - name: Winky Park 入場券
+      priceLines:
+        - 成人：¥500
+        - 兒童：¥500
+        - 長者：¥500
 snowWeather:
   title: 木曾福島雪況預報
   provider: Weathernews

@@ -52,24 +52,28 @@ tickets:
   source: https://weathernews.jp/ski/spot/34209/
   note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥5,200〜¥6,500 兒童 ¥3,700〜¥4,000 樂齡 ¥5,000〜¥6,200
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥1,000
-  - name: キッズ1日券（4歳以上の未就学）
-    priceLines:
-    - 兒童 ¥2,700
-  - name: 第1リフト専用1日券
-    priceLines:
-    - 成人 ¥4,400 兒童 ¥3,100 樂齡 ¥4,400
-  - name: 初滑り情報 11/29〜12/12止初滑り料金
-    priceLines:
-    - 成人¥5,000
-    - 樂齡¥4,800
-    - 小学生¥3,400
-    - キッズ¥2,500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥5,200 ~ ¥6,500
+        - 兒童：¥3,700 ~ ¥4,000
+        - 長者：¥5,000 ~ ¥6,200
+    - name: 1 回券
+      priceLines:
+        - 成人：¥1,000
+    - name: 兒童（學齡前） 1 日券（4 歲以上）
+      priceLines:
+        - 兒童：¥2,700
+    - name: 第 1 纜車專用 1 日券
+      priceLines:
+        - 成人：¥4,400
+        - 兒童：¥3,100
+        - 長者：¥4,400
+    - name: 初滑資訊（11/29 ~ 12/12）
+      priceLines:
+        - 成人：¥5,000
+        - 長者：¥4,800
+        - 小學生：¥3,400
+        - 兒童：¥2,500
 snowWeather:
   title: 玉原 Ski Park雪況天氣
   provider: Weathernews

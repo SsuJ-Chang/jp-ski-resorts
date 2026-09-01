@@ -48,22 +48,22 @@ tickets:
   currency: JPY
   source: https://www.kandatsu.com/price/
   plans:
-  - name: 1 日券（平日）
-    priceLines:
-    - 成人 ¥5,500
-    - 兒童 ¥3,500
-  - name: 1 日券（週六、特定日）
-    priceLines:
-    - 成人 ¥6,500
-    - 兒童 ¥4,000
-  - name: 1 日券（日、假日、正月）
-    priceLines:
-    - 成人 ¥6,000
-    - 兒童 ¥3,800
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥4,900
-    - 兒童 ¥3,000
+    - name: 1 日券（平日）
+      priceLines:
+        - 成人：¥5,500
+        - 兒童：¥3,500
+    - name: 1 日券（週六、特定日）
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥4,000
+    - name: 1 日券（日、假日、正月）
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥3,800
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥3,000
 snowWeather:
   title: 神立高原雪況天氣
   provider: Weathernews

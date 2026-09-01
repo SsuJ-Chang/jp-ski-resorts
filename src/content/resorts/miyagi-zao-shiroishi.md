@@ -85,19 +85,19 @@ lifts:
   total: 4
 access:
   fromTokyo:
-    - label: "東京出發經白石藏王"
+    - label: 東京出發經白石藏王
       steps:
         - 從東京搭東北新幹線到白石藏王站。
         - 從白石藏王站轉乘預約制免費接駁巴士，經白石站前往雪場。
-      estimatedTime: "站後約 50 分"
+      estimatedTime: 站後約 50 分
       difficulty: medium
       note: 免費接駁巴士需事前預約，主要在週末假日、年末年始與部分 3 月平日運行；名額額滿即停止受理。
   fromAirport:
-    - label: "仙台機場出發"
+    - label: 仙台機場出發
       steps:
-        - 從仙台機場租車或包車，往白石市與南藏王方向移動。
+        - 從仙台機場包車，往白石市與南藏王方向移動。
         - 依當日道路與積雪狀況前往宮城藏王白石。
-      estimatedTime: "約 60 分"
+      estimatedTime: 約 60 分
       difficulty: hard
       note: 若以大眾運輸移動，可先前往白石藏王或白石站，再確認當季接駁巴士運行日。
   car:

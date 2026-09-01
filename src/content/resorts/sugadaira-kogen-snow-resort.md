@@ -49,18 +49,18 @@ tickets:
   source: https://weathernews.jp/ski/spot/34816/
   note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、販售條件與 IC 卡規則請以官方為準。
   plans:
-  - name: All Area 1 日券
-    priceLines:
-    - 成人 ¥6,400
-    - 兒童 ¥3,800
-    - 長者 ¥5,800
-    note: IC 卡保證金另計 ¥500，退還纜車券時退回。
-  - name: All Area 2 日券
-    priceLines:
-    - 成人 ¥12,000
-    - 兒童 ¥7,000
-    - 長者 ¥11,000
-    note: IC 卡保證金另計 ¥500，退還纜車券時退回。
+    - name: All Area 1 日券
+      priceLines:
+        - 成人：¥6,400
+        - 兒童：¥3,800
+        - 長者：¥5,800
+      note: IC 卡保證金另計 ¥500，退還纜車券時退回。
+    - name: All Area 2 日券
+      priceLines:
+        - 成人：¥12,000
+        - 兒童：¥7,000
+        - 長者：¥11,000
+      note: IC 卡保證金另計 ¥500，退還纜車券時退回。
 snowWeather:
   title: 菅平高原 Snow Resort 雪況天氣
   provider: Weathernews

@@ -44,26 +44,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34831/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,900
-    - 兒童 ¥2,800
-    - 樂齡 ¥3,800
-  - name: 半日券
-    priceLines:
-    - 成人 ¥4,300
-    - 兒童 ¥2,200
-    - 樂齡 ¥3,300
-  - name: スーパー下午券
-    priceLines:
-    - 成人 ¥4,900
-    - 兒童 ¥2,800
-    - 樂齡 ¥3,800
-  - name: 回數券（11回）
-    priceLines:
-    - 成人 ¥4,900
-    - 兒童 ¥2,800
-    - 樂齡 ¥3,800
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥2,800
+        - 長者：¥3,800
+    - name: 半日券
+      priceLines:
+        - 成人：¥4,300
+        - 兒童：¥2,200
+        - 長者：¥3,300
+    - name: Super 下午券
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥2,800
+        - 長者：¥3,800
+    - name: 回數券（11回）
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥2,800
+        - 長者：¥3,800
 snowWeather:
   title: 中央道伊那 Ski Resort雪況預報
   provider: Weathernews

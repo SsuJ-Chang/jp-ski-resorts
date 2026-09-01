@@ -42,19 +42,19 @@ tickets:
   source: https://weathernews.jp/ski/spot/35417/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,500
-    - 兒童 ¥3,700
-    - 樂齡 ¥3,900
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥3,500
-    - 兒童 ¥2,800
-    - 樂齡 ¥3,200
-  - name: 夜滑券
-    priceLines:
-    - 共通：¥1,200
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,500
+        - 兒童：¥3,700
+        - 長者：¥3,900
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥2,800
+        - 長者：¥3,200
+    - name: 夜滑券
+      priceLines:
+        - 共通：¥1,200
 snowWeather:
   title: 小出雪況預報
   provider: Weathernews

@@ -48,25 +48,25 @@ tickets:
   source: https://www.town.pippu.hokkaido.jp/ski/lift.html
   note: 主要票種摘要，完整規則請以官方頁面為準。
   plans:
-  - name: 1 日券（附入浴券）
-    priceLines:
-    - 成人 ¥3,800
-    - 兒童 ¥2,800
-    - 長者 ¥2,800
-    note: 9:00-16:00。
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥3,000
-    - 兒童 ¥2,300
-  - name: 4 小時券（附餐券）
-    priceLines:
-    - 成人 ¥3,600
-    - 兒童 ¥2,900
-  - name: 夜滑券（附入浴券）
-    priceLines:
-    - 成人 ¥1,200
-    - 兒童 ¥1,000
-    note: 16:00-20:30。
+    - name: 1 日券（附入浴券）
+      priceLines:
+        - 成人：¥3,800
+        - 兒童：¥2,800
+        - 長者：¥2,800
+      note: 9:00-16:00。
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥3,000
+        - 兒童：¥2,300
+    - name: 4 小時券（附餐券）
+      priceLines:
+        - 成人：¥3,600
+        - 兒童：¥2,900
+    - name: 夜滑券（附入浴券）
+      priceLines:
+        - 成人：¥1,200
+        - 兒童：¥1,000
+      note: 16:00-20:30。
 snowWeather:
   title: 比布雪況天氣
   provider: Weathernews
@@ -141,22 +141,22 @@ lifts:
   total: 3
 access:
   fromSapporo:
-  - label: 札幌出發經旭川
-    steps:
-    - 從札幌站搭特急列車到旭川站。
-    - 從旭川站可轉乘 JR 到比布站，再搭雪季免費接駁巴士前往雪場。
-    - 也可從旭川站前搭乘道北巴士直達雪場。
-    estimatedTime: 約 2.5-3 小時
-    difficulty: medium
-    note: 免費接駁巴士在雪場營業期間每日運行，旭川站前的道北巴士為付費路線；班次可能調整，出發前需確認時刻表。
+    - label: 札幌出發經旭川
+      steps:
+        - 從札幌站搭特急列車到旭川站。
+        - 從旭川站可轉乘 JR 到比布站，再搭雪季免費接駁巴士前往雪場。
+        - 也可從旭川站前搭乘道北巴士直達雪場。
+      estimatedTime: 約 2.5-3 小時
+      difficulty: medium
+      note: 免費接駁巴士在雪場營業期間每日運行，旭川站前的道北巴士為付費路線；班次可能調整，出發前需確認時刻表。
   fromAirport:
-  - label: 旭川機場出發
-    steps:
-    - 從旭川機場租車、計程車或包車，經道道 37 號與國道 40 號方向前往比布。
-    - 依當日道路與積雪狀況前往 Pippu。
-    estimatedTime: 約 50-60 分
-    difficulty: hard
-    note: 機場後公開資料以車行時間為主；若不自駕，可先移動到旭川站，再轉乘道北巴士或經比布站接駁。
+    - label: 旭川機場出發
+      steps:
+        - 從旭川機場搭計程車或包車，經道道 37 號與國道 40 號方向前往比布。
+        - 依當日道路與積雪狀況前往 Pippu。
+      estimatedTime: 約 50-60 分
+      difficulty: hard
+      note: 機場後公開資料以車行時間為主；若不自駕，可先移動到旭川站，再轉乘道北巴士或經比布站接駁。
   car:
     recommended: true
     snowTireRequired: true

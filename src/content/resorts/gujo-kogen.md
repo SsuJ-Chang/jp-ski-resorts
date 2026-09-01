@@ -50,12 +50,12 @@ tickets:
   source: https://www.takasumountains.com/lift/
   note: TAKASU MOUNTAINS 6 雪場共通券可在郡上高原使用，但官方說明郡上高原不販售共通券；完整單獨券請以飯店現地公告為準。
   plans:
-  - name: 6 雪場共通 1 日券
-    priceLines:
-    - 成人 ¥6,500
-    - 兒童 ¥3,800
-    - 長者 ¥5,500
-    - 中高生 ¥4,500
+    - name: 6 雪場共通 1 日券
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥3,800
+        - 長者：¥5,500
+        - 國中生、高中生：¥4,500
 snowWeather:
   title: 郡上高原雪況天氣
   provider: Weathernews

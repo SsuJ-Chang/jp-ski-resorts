@@ -42,21 +42,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/35486/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,800
-    - 兒童 ¥3,400
-    - 樂齡 ¥3,800
-  - name: 上午券
-    priceLines:
-    - 成人 ¥4,000
-    - 兒童 ¥2,800
-    - 樂齡 ¥3,300
-  - name: 下午券
-    priceLines:
-    - 成人 ¥3,400
-    - 兒童 ¥2,300
-    - 樂齡 ¥2,900
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,800
+        - 兒童：¥3,400
+        - 長者：¥3,800
+    - name: 上午券
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥2,800
+        - 長者：¥3,300
+    - name: 下午券
+      priceLines:
+        - 成人：¥3,400
+        - 兒童：¥2,300
+        - 長者：¥2,900
 snowWeather:
   title: Charmant 火打雪況預報
   provider: Weathernews

@@ -63,19 +63,19 @@ lifts:
   total: 2
 access:
   fromTokyo:
-    - label: "東京出發經喜多方"
+    - label: 東京出發經喜多方
       steps:
         - 從東京搭東北新幹線到郡山站，轉 JR 磐越西線往會津若松、喜多方方向。
         - 從喜多方站轉計程車前往三之倉。
-      estimatedTime: "站後約 35 分"
+      estimatedTime: 站後約 35 分
       difficulty: hard
       note: 喜多方站後公開資料以計程車為主；建議先確認叫車、回程與夜滑時段的交通安排。
   fromAirport:
-    - label: "福島機場出發"
+    - label: 福島機場出發
       steps:
-        - 從福島機場租車或包車，往會津若松、喜多方方向移動。
+        - 從福島機場包車，往會津若松、喜多方方向移動。
         - 依當日道路狀況前往三之倉停車場。
-      estimatedTime: "約 120 分"
+      estimatedTime: 約 120 分
       difficulty: hard
       note: 公開交通資料以車程為主；冬季與夜滑時段需特別確認道路積雪與回程。
   car:

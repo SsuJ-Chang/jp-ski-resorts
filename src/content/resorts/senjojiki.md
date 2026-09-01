@@ -41,12 +41,12 @@ tickets:
   source: https://weathernews.jp/ski/spot/44806/
   note: 2025-2026 公開雪場資料列示 Ropeway 往復券；此雪場不同於一般纜車券，完整票價請以中央阿爾卑斯駒ヶ岳 Ropeway 官方公告為準。
   plans:
-  - name: 駒ヶ岳 Ropeway 往復券
-    priceLines:
-    - 成人 ¥2,540 或 ¥2,790
-    - 兒童 ¥1,260 或 ¥1,390
-    - 長者 ¥2,540 或 ¥2,790
-    note: 公開資料以 Ropeway 往復券列示；實際運賃可能採變動制，且路線巴士運賃另計。
+    - name: 駒ヶ岳 Ropeway 往復券
+      priceLines:
+        - 成人：¥2,540 或 ¥2,790
+        - 兒童：¥1,260 或 ¥1,390
+        - 長者：¥2,540 或 ¥2,790
+      note: 公開資料以 Ropeway 往復券列示；實際運賃可能採變動制，且路線巴士運賃另計。
 snowWeather:
   title: 中央阿爾卑斯千疊敷雪況天氣
   provider: Weathernews

@@ -72,14 +72,8 @@ access:
     - label: "大眾交通工具（主要車站銜接）"
       steps:
         - 鐵路：JR芽室駅より車 (15分)
-        - 鐵路：帯広駅より車で (40分)
+        - 鐵路：帶廣站下車，轉乘計程車約 40 分鐘。
       estimatedTime: "約 15 分"
-      difficulty: medium
-  fromAirport:
-    - label: "機場銜接"
-      steps:
-        - 飛機：帯広空港より車で (40分)
-      estimatedTime: "約 40 分"
       difficulty: medium
   car:
     recommended: true

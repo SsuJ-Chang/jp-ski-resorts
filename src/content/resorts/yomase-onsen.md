@@ -42,26 +42,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34842/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥4,900
-    - 兒童 ¥2,500
-    - 樂齡 ¥4,400
-  - name: 上午券
-    priceLines:
-    - 成人 ¥3,500
-    - 兒童 ¥2,000
-    - 樂齡 ¥3,300
-  - name: 下午券
-    priceLines:
-    - 成人 ¥3,500
-    - 兒童 ¥2,000
-    - 樂齡 ¥3,300
-  - name: 1 回券
-    priceLines:
-    - 成人 ¥600
-    - 兒童 ¥400
-    - 樂齡 ¥550
+    - name: 1 日券
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥2,500
+        - 長者：¥4,400
+    - name: 上午券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥2,000
+        - 長者：¥3,300
+    - name: 下午券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥2,000
+        - 長者：¥3,300
+    - name: 1 回券
+      priceLines:
+        - 成人：¥600
+        - 兒童：¥400
+        - 長者：¥550
 snowWeather:
   title: 夜間瀨溫泉雪況預報
   provider: Weathernews

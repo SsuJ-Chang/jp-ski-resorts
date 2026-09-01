@@ -42,26 +42,26 @@ tickets:
   source: https://weathernews.jp/ski/spot/34833/
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,000
-    - 兒童 ¥1,200
-    - 樂齡 ¥4,800
-  - name: 1day passport(8:30〜夜間終了止）
-    priceLines:
-    - 成人 ¥7,500
-    - 兒童 ¥1,300
-    - 樂齡 ¥6,000
-  - name: 5 小時券
-    priceLines:
-    - 成人 ¥5,500
-    - 兒童 ¥1,000
-    - 樂齡 ¥4,400
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥3,500
-    - 兒童 ¥1,000
-    - 樂齡 ¥3,500
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥1,200
+        - 長者：¥4,800
+    - name: 1day passport(8:30〜夜間終了止）
+      priceLines:
+        - 成人：¥7,500
+        - 兒童：¥1,300
+        - 長者：¥6,000
+    - name: 5 小時券
+      priceLines:
+        - 成人：¥5,500
+        - 兒童：¥1,000
+        - 長者：¥4,400
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥1,000
+        - 長者：¥3,500
 snowWeather:
   title: 白樺湖 Royal Hill雪況預報
   provider: Weathernews

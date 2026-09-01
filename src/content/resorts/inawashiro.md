@@ -57,26 +57,26 @@ tickets:
   source: https://www.inawashiro-ski.com/lift/
   note: 主要訪客票種摘要；官方也提供 Inawashiro Ski Club 會員價格，完整規則與期間限定票請以官方頁面為準。
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥6,600
-    - 小學生 ¥3,200
-    note: 訪客窗口票價
-  - name: 4 小時券
-    priceLines:
-    - 成人 ¥5,600
-    - 小學生 ¥2,700
-    note: 訪客窗口票價
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥7,200
-    - 小學生 ¥3,600
-    note: 訪客窗口票價，夜滑營業日限定
-  - name: 一日券 + 夜滑券
-    priceLines:
-    - 成人 ¥10,200
-    - 小學生 ¥5,000
-    note: 訪客窗口票價
+    - name: 1 日券
+      priceLines:
+        - 成人：¥6,600
+        - 小學生：¥3,200
+      note: 訪客窗口票價
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥5,600
+        - 小學生：¥2,700
+      note: 訪客窗口票價
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥7,200
+        - 小學生：¥3,600
+      note: 訪客窗口票價，夜滑營業日限定
+    - name: 一日券 + 夜滑券
+      priceLines:
+        - 成人：¥10,200
+        - 小學生：¥5,000
+      note: 訪客窗口票價
 snowWeather:
   title: 豬苗代雪況天氣
   provider: Weathernews

@@ -50,21 +50,21 @@ tickets:
   source: https://weathernews.jp/ski/spot/31609/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
   plans:
-  - name: 1 日券（另需卡片保證金 ¥500）
-    priceLines:
-    - 成人 ¥8,800
-    - 兒童 ¥4,800
-    - 長者 ¥7,700
-  - name: 4 小時券（另需卡片保證金 ¥500）
-    priceLines:
-    - 成人 ¥7,400
-    - 兒童 ¥3,900
-    - 長者 ¥6,600
-  - name: 夜滑券
-    priceLines:
-    - 成人 ¥2,900
-    - 兒童 ¥1,900
-    - 長者 ¥2,900
+    - name: 1 日券（另需卡片保證金 ¥500）
+      priceLines:
+        - 成人：¥8,800
+        - 兒童：¥4,800
+        - 長者：¥7,700
+    - name: 4 小時券（另需卡片保證金 ¥500）
+      priceLines:
+        - 成人：¥7,400
+        - 兒童：¥3,900
+        - 長者：¥6,600
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥2,900
+        - 兒童：¥1,900
+        - 長者：¥2,900
 snowWeather:
   title: Kiroro Snow World雪況天氣
   provider: Weathernews

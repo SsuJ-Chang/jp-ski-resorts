@@ -58,25 +58,25 @@ tickets:
   currency: JPY
   source: https://www.tsugaike.gr.jp/snow/price
   plans:
-  - name: 1 日券
-    priceLines:
-    - 成人 ¥8,200
-    - 兒童 ¥4,900
-    - 長者 ¥6,700
-  - name: 上午券
-    priceLines:
-    - 成人 ¥6,500
-    - 兒童 ¥4,200
-    - 長者 ¥5,000
-  - name: 2 日券
-    priceLines:
-    - 成人 ¥14,600
-    - 兒童 ¥9,000
-    - 長者 ¥11,500
-  - name: 區域限定初學者券
-    priceLines:
-    - 成人 ¥4,900
-    - 兒童 ¥3,400
+    - name: 1 日券
+      priceLines:
+        - 成人：¥8,200
+        - 兒童：¥4,900
+        - 長者：¥6,700
+    - name: 上午券
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥4,200
+        - 長者：¥5,000
+    - name: 2 日券
+      priceLines:
+        - 成人：¥14,600
+        - 兒童：¥9,000
+        - 長者：¥11,500
+    - name: 區域限定初學者券
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥3,400
 snowWeather:
   title: 栂池高原雪況天氣
   provider: Weathernews
