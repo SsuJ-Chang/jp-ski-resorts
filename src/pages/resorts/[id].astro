@@ -167,6 +167,7 @@ const accessRouteGroups = [
   { origin: '名古屋出發', routes: resort.data.access?.fromNagoya },
   { origin: '札幌出發', routes: resort.data.access?.fromSapporo },
   { origin: '機場出發', routes: resort.data.access?.fromAirport },
+  { origin: '大眾運輸', routes: resort.data.access?.publicTransit },
 ]
 const accessRoutes = accessRouteGroups.flatMap((group) =>
   (group.routes ?? []).map((route) => ({

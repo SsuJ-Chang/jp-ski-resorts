@@ -7,8 +7,8 @@ name:
 region: kansai-chugoku
 prefecture: 兵庫縣
 location:
-  latitude: 35.220969
-  longitude: 134.389448
+  latitude: 35.220677974157596
+  longitude: 134.3898749968539
 elevation:
   top: 1125
   bottom: 900
@@ -24,13 +24,14 @@ links:
   instagram: https://www.instagram.com/chiguminn.chikusakogen/
   xTwitter: https://twitter.com/ChikusakogenNls
   trailMapPage: https://www.chikusakogen.com/gelande/
+  access: https://www.chikusakogen.com/access/
   weather: https://weathernews.jp/ski/spot/36304/
-  googleMaps: https://maps.google.co.jp/maps?q=35.220969,134.389448
+  googleMaps: https://maps.app.goo.gl/b3Db84m2yDDyPYxQ8
 contact:
   address:
     zhTw: 兵庫縣宍粟市千種町西河内1047-218
     ja: 〒671-3233 兵庫県宍粟市千種町西河内1047-218
-    googleMaps: https://maps.google.co.jp/maps?q=35.220969,134.389448
+    googleMaps: https://maps.app.goo.gl/b3Db84m2yDDyPYxQ8
   phone: 0790-76-3555
 season:
   label: 2025-2026
@@ -39,7 +40,7 @@ season:
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36304/
 trailMaps:
-- label: 千種高原 官方雪道資訊
+- label: 千種高原官方雪道資訊
   language: 日本語
   season: 2025-2026
   url: https://www.chikusakogen.com/gelande/
@@ -77,31 +78,45 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
-  total: 7
-  courseInfoPage: https://www.chikusakogen.com/gelande/
-  summary: 列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  total: 8
+  courseInfoPage: https://www.chikusakogen.com/gelande/#course
+  summary: 官方雪道頁面列出 Panorama、Dynamic、Queen、Crystal、Melphen 等雪道，以及 Panorama 與 Dynamic 的上段路線；夜滑期間開放 Yurchikusa 夜滑雪道。雪場標高約 900～1,125 公尺，共有 5 條主要雪道配置。
   details:
-  - name: メルヘンコース
+  - name: Crystal Course / クリスタルコース
     difficulty: beginner
-    note: 官方營運狀態列為初級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
-  - name: パノラマコース（第3リフト下部）
+    length: 200m
+    note: 適合想嘗試稍有斜度雪道的初學者，且較少受到纜車視線干擾，可安心練習。
+  - name: Melphen Course / メルヘンコース
     difficulty: beginner
-    note: Panorama 下部，官方列為初級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
-  - name: ダイナミックコース（第1リフト下部）
-    difficulty: intermediate
-    note: Dynamic 下部，官方列為中級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
-  - name: クィーンコース
-    difficulty: intermediate
-    note: 官方營運狀態列為中級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
-  - name: クリスタルコース
-    difficulty: intermediate
-    note: 官方營運狀態列為中級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
-  - name: ダイナミックコース（上部）
+    length: 1,200m
+    note: 從山頂開始是相對平緩的長距離路線，適合初學者；整體較窄，滑行時需留意雪道寬度。
+  - name: Panorama Course / パノラマコース
+    difficulty: mixed
+    length: 700m
+    averageSlope: 12°
+    note: 千種高原的主要雪道，壓雪整備後雪面平整，適合初學者至中高級滑雪者，並設有公園設施。
+  - name: Dynamic Course / ダイナミックコース
+    difficulty: mixed
+    length: 800m
+    averageSlope: 18°
+    note: 具備緩急變化的雪道，滑行時能感受速度與節奏；設有人工降雪設備，可在整個雪季滑行。
+  - name: Queen Course / クイーンコース
+    difficulty: mixed
+    length: 500m
+    note: 兼具緩斜、急斜、粉雪與雪丘等變化，未壓雪區的斜度較容易掌握，初級粉雪滑雪者也能進入。
+  - name: Dynamic Course Upper / ダイナミックコース（上部）
     difficulty: advanced
-    note: Dynamic 上部，官方列為上級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
-  - name: パノラマコース（上部）
+    length: 300m
+    averageSlope: 27°
+    note: 降雪後是粉雪愛好者喜愛的區域，通常會形成雪丘；雪道側邊另有可繞行急斜面的林間路線。
+  - name: Panorama Course Upper / パノラマコース（上部）
     difficulty: advanced
-    note: Panorama 上部，官方列為上級；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    length: 500m
+    averageSlope: 31°
+    note: 雪場最大的急斜面，降雪後可享受深粉雪；初學者請勿進入。
+  - name: Yurchikusa Night Course / ヨルチクサ（ナイターコース）
+    difficulty: mixed
+    note: 夜滑雪道，營業時間依官方行事曆為準；夜滑期間第 3 纜車運行，Panorama Course 可滑行。
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20
@@ -111,7 +126,8 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：中国自動車道山崎ICから (60分) 車 ：中国自動車道佐用ICから (60分) 1000台 平日 免費 假日 1000円terrainSummary:
+    note: 官方交通頁面列出 4 條主要車行路線：山崎 IC 經國道 29 號、縣道 53 號與縣道 72 號；山崎 IC 經國道 429 號、縣道 72 號；佐用 IC 經國道 373 號、國道 179 號、縣道 53 號與縣道 72 號；以及山陽自動車道銜接播磨自動車道，從播磨新宮 IC 經縣道 44 號與縣道 72 號前往雪場。冬季請準備雪胎，並依最新道路狀況調整路線。
+terrainSummary:
   beginner: 初級雪道以 メルヘンコース、パノラマコース（第3リフト下部） 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 ダイナミックコース（第1リフト下部）、クィーンコース、クリスタルコース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 ダイナミックコース（上部）、パノラマコース（上部），請依當日開放狀態與雪況判斷。

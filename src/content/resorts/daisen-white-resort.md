@@ -7,8 +7,8 @@ name:
 region: kansai-chugoku
 prefecture: 鳥取縣
 location:
-  latitude: 35.391
-  longitude: 133.533
+  latitude: 35.397218824944545
+  longitude: 133.53408024185393
 elevation:
   top: 1120
   bottom: 655
@@ -26,12 +26,12 @@ links:
   ticket: https://www.daisen-resort.jp/6/
   access: https://www.daisen-resort.jp/10/
   weather: https://weathernews.jp/ski/spot/36904/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Daisen%20White%20Resort
+  googleMaps: https://maps.app.goo.gl/fKgkBZkjgRWC5yYP8
 contact:
   address:
     zhTw: 鳥取縣西伯郡大山町大山 96
     ja: 〒689-3318 鳥取県西伯郡大山町大山96
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Daisen%20White%20Resort
+    googleMaps: https://maps.app.goo.gl/fKgkBZkjgRWC5yYP8
   phone: 0859-52-2315
 season:
   label: 2025-2026

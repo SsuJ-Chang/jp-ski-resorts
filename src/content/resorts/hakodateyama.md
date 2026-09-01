@@ -7,8 +7,8 @@ name:
 region: kansai-chugoku
 prefecture: 滋賀縣
 location:
-  latitude: 35.427849
-  longitude: 135.995963
+  latitude: 35.43844416714272
+  longitude: 135.98635086802554
 elevation:
   top: 690
   bottom: 545
@@ -24,12 +24,12 @@ links:
   xTwitter: https://twitter.com/happy_hakochan
   trailMapPage: https://www.hakodateyama.com/winter/about/
   weather: https://weathernews.jp/ski/spot/36007/
-  googleMaps: https://maps.google.co.jp/maps?q=35.427849,135.995963
+  googleMaps: https://maps.app.goo.gl/k5irGqxy1gCECMoa8
 contact:
   address:
     zhTw: 滋賀縣高島市今津町日置前
     ja: 〒520-1655 滋賀県高島市今津町日置前
-    googleMaps: https://maps.google.co.jp/maps?q=35.427849,135.995963
+    googleMaps: https://maps.app.goo.gl/k5irGqxy1gCECMoa8
   phone: 0740-22-2486
 season:
   label: 2025-2026

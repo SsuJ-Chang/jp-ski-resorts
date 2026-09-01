@@ -1,14 +1,14 @@
 ---
 id: mizuho-highland
 name:
-  zhTw: 瑞穗 Highland
+  zhTw: 瑞穗高原
   ja: 瑞穂ハイランド
   en: Mizuho Highland
 region: kansai-chugoku
 prefecture: 島根縣
 location:
-  latitude: 34.815403
-  longitude: 132.400701
+  latitude: 34.81605733824673
+  longitude: 132.39991691218322
 elevation:
   top: 1212
   bottom: 491
@@ -23,12 +23,12 @@ links:
   xTwitter: https://twitter.com/mizuhohighland/
   trailMapPage: https://www.mizuhohighland.com/course/
   weather: https://weathernews.jp/ski/spot/36801/
-  googleMaps: https://maps.google.co.jp/maps?q=34.815403,132.400701
+  googleMaps: https://maps.app.goo.gl/ddTgc2FLF6vonrP98
 contact:
   address:
     zhTw: 島根縣邑智郡邑南町市木6242-19
     ja: 〒697-0631 島根県邑智郡邑南町市木6242-19
-    googleMaps: https://maps.google.co.jp/maps?q=34.815403,132.400701
+    googleMaps: https://maps.app.goo.gl/ddTgc2FLF6vonrP98
   phone: 0855-85-1111
 season:
   label: 2025-2026
@@ -37,7 +37,7 @@ season:
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/36801/
 trailMaps:
-- label: 瑞穗 Highland 官方雪道資訊
+- label: 瑞穗高原官方雪道資訊
   language: 日本語
   season: 2025-2026
   url: https://www.mizuhohighland.com/course/
@@ -67,7 +67,7 @@ tickets:
     priceLines:
     - 成人 ¥6,300
 snowWeather:
-  title: 瑞穗 Highland雪況天氣
+  title: 瑞穗高原雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/36801/
   snowDepth: 0 cm
@@ -122,4 +122,4 @@ terrainSummary:
 
 ---
 
-瑞穗 Highland位於島根縣，共有5 條雪道、3 座纜車，規模雖然不大，但雪道集中，半天到一天就能把主要路線輪過一遍。ナスターコース、ビーチコース能看出這裡仍是地方型雪場常見的短中距離坡段。比起追求刷里程，這裡更適合把時間放在動作熟悉與同伴配速。
+瑞穗高原位於島根縣，共有 5 條雪道、3 座纜車，規模雖然不大，但雪道集中，半天到一天就能把主要路線輪過一遍。ナスターコース、ビーチコース能看出這裡仍是地方型雪場常見的短中距離坡段。比起追求刷里程，這裡更適合把時間放在動作熟悉與同伴配速。

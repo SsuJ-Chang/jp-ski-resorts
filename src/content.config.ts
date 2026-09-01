@@ -232,6 +232,7 @@ const resorts = defineCollection({
         fromNagoya: z.array(accessRouteSchema).optional(),
         fromSapporo: z.array(accessRouteSchema).optional(),
         fromAirport: z.array(accessRouteSchema).optional(),
+        publicTransit: z.array(accessRouteSchema).optional(),
         car: z
           .object({
             recommended: z.boolean(),
