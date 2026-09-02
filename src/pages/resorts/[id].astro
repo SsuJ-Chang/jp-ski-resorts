@@ -332,7 +332,26 @@ const resortStructuredData = [
             <span>{resort.data.prefecture}</span>
           )}
         </nav>
-        <h1 id="page-title">{resort.data.name.zhTw}</h1>
+        <div class="detail-hero__title-row">
+          <h1 id="page-title">{resort.data.name.zhTw}</h1>
+          <div class="copy-resort-url-row">
+            <button
+              class="copy-resort-url"
+              type="button"
+              data-copy-resort-url={resortUrl}
+              aria-label="複製雪場網址"
+              title="複製雪場網址"
+            >
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <circle cx="18" cy="5" r="2.5" />
+                <circle cx="6" cy="12" r="2.5" />
+                <circle cx="18" cy="19" r="2.5" />
+                <path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4" />
+              </svg>
+            </button>
+            <span class="copy-resort-url__status" aria-live="polite" data-copy-resort-url-status></span>
+          </div>
+        </div>
         <p class="detail-hero__names">
           {resort.data.name.ja}
           {resort.data.name.en && <span>{resort.data.name.en}</span>}
@@ -355,6 +374,42 @@ const resortStructuredData = [
         ))}
       </div>
     </section>
+
+    <script>
+      const copyResortUrlButton = document.querySelector<HTMLButtonElement>('[data-copy-resort-url]')
+      const copyResortUrlStatus = document.querySelector<HTMLElement>('[data-copy-resort-url-status]')
+
+      copyResortUrlButton?.addEventListener('click', async () => {
+        const url = copyResortUrlButton.dataset.copyResortUrl
+        if (!url) return
+
+        try {
+          if (navigator.clipboard?.writeText) {
+            await navigator.clipboard.writeText(url)
+          } else {
+            const input = document.createElement('textarea')
+            input.value = url
+            input.setAttribute('readonly', '')
+            input.style.position = 'fixed'
+            input.style.opacity = '0'
+            document.body.append(input)
+            input.select()
+            const legacyDocument = document as unknown as { execCommand(commandId: string): boolean }
+            legacyDocument.execCommand('copy')
+            input.remove()
+          }
+
+          copyResortUrlStatus?.replaceChildren('已複製雪場網址')
+          copyResortUrlStatus?.classList.add('copy-resort-url__status--visible')
+          window.setTimeout(() => {
+            copyResortUrlStatus?.classList.remove('copy-resort-url__status--visible')
+          }, 2400)
+        } catch {
+          copyResortUrlStatus?.replaceChildren('複製失敗，請手動複製網址')
+          copyResortUrlStatus?.classList.add('copy-resort-url__status--visible')
+        }
+      })
+    </script>
 
     {externalGuide && (
       <aside class="external-guide-card" aria-labelledby="external-guide-title" data-external-guide>
