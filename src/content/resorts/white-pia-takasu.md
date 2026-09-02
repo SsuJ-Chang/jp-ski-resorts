@@ -31,7 +31,7 @@ links:
   googleMaps: https://www.google.com/maps/search/?api=1&query=White%20Pia%20Takasu
 contact:
   address:
-    zhTw: 日本岐阜縣郡上市高鷲町鷲見 512
+    zhTw: 岐阜縣郡上市高鷲町鷲見 512
     ja: 〒501-5302 岐阜県郡上市高鷲町鷲見512
     googleMaps: https://www.google.com/maps/search/?api=1&query=White%20Pia%20Takasu
   phone: 0575-72-6311

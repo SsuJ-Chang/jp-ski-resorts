@@ -32,10 +32,10 @@ links:
   access: http://jxj.co.jp
 contact:
   address:
-    zhTw: 日本山形縣東根市大字観音寺字水無山3170-164
+    zhTw: 山形縣東根市大字観音寺字水無山3170-164
     ja: 〒999-3723 山形県東根市大字観音寺字水無山3170-164
     googleMaps: https://maps.app.goo.gl/pVUWyTSwfTzoeLeZ9
-  phone: "0237-41-5555"
+  phone: 0237-41-5555
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/07-2026/03/31"

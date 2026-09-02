@@ -32,7 +32,7 @@ links:
   access: https://weathernews.jp/ski/spot/32103/
 contact:
   address:
-    zhTw: 日本北海道登別市カルルス町27番地
+    zhTw: 北海道登別市カルルス町27番地
     ja: 〒059-0553 北海道登別市カルルス町27番地
     googleMaps: https://maps.app.goo.gl/f7KVQ9JhcuS5D8236
   phone: 0143-84-2872

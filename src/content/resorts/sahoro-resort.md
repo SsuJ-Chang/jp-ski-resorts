@@ -30,7 +30,7 @@ links:
   access: https://weathernews.jp/ski/spot/31202/
 contact:
   address:
-    zhTw: 日本北海道上川郡新得町狩勝高原
+    zhTw: 北海道上川郡新得町狩勝高原
     ja: 〒081-0039 北海道上川郡新得町狩勝高原
     googleMaps: https://maps.app.goo.gl/MbufjAXeSTY49ba97
   phone: 0156-64-4121

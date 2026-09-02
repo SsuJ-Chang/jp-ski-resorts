@@ -25,7 +25,7 @@ links:
   googleMaps: https://maps.app.goo.gl/SkGsfKs7cRTMvked9
 contact:
   address:
-    zhTw: 日本富山縣南砺市才川七字ススケ原 115
+    zhTw: 富山縣南砺市才川七字ススケ原 115
     ja: 富山県南砺市才川七字ススケ原115
     googleMaps: https://maps.app.goo.gl/SkGsfKs7cRTMvked9
   phone: 0763-55-1326

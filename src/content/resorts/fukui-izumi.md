@@ -25,7 +25,7 @@ links:
   googleMaps: https://maps.app.goo.gl/D2nrT6DaXU7ssevPA
 contact:
   address:
-    zhTw: 日本福井縣大野市朝日前坂 27
+    zhTw: 福井縣大野市朝日前坂 27
     ja: 福井県大野市朝日前坂27
     googleMaps: https://maps.app.goo.gl/D2nrT6DaXU7ssevPA
   phone: 0779-78-2711

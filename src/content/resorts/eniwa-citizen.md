@@ -26,7 +26,7 @@ links:
   ticket: https://www.city.eniwa.hokkaido.jp/material/files/group/29/R07ryokin.pdf
 contact:
   address:
-    zhTw: 日本北海道惠庭市盤尻330-2
+    zhTw: 北海道惠庭市盤尻330-2
     ja: 〒061-1422 北海道恵庭市盤尻330-2
     googleMaps: https://maps.app.goo.gl/5RmLCLXHiMderHrWA
   phone: 0123-25-5727

@@ -28,7 +28,7 @@ links:
   googleMaps: https://maps.app.goo.gl/NNV9qdt7Gqv5EkcV6
 contact:
   address:
-    zhTw: 日本長野縣下高井郡山之內町平穩
+    zhTw: 長野縣下高井郡山之內町平穩
     ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi, 山ノ内町Hirao
     googleMaps: https://maps.app.goo.gl/NNV9qdt7Gqv5EkcV6
   phone: 0269-34-2231

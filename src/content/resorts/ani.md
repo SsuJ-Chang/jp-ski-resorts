@@ -32,10 +32,10 @@ links:
   access: http://www.aniski.jp
 contact:
   address:
-    zhTw: 日本秋田縣北秋田市阿仁鍵ノ滝79-5
+    zhTw: 秋田縣北秋田市阿仁鍵ノ滝79-5
     ja: 〒018-4624 秋田県北秋田市阿仁鍵ノ滝79-5
     googleMaps: https://maps.app.goo.gl/Fs3Mu6nHGNKuWWBa7
-  phone: "0186-82-3311"
+  phone: 0186-82-3311
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/13-2026/04/26"

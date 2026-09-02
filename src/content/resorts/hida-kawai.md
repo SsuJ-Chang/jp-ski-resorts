@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/yTsLjNhYMZuPDY1D8
 contact:
   address:
-    zhTw: 日本岐阜縣飛驒市河合町稻越 2822-4
+    zhTw: 岐阜縣飛驒市河合町稻越 2822-4
     ja: 〒509-4312 岐阜県飛騨市河合町稲越2822-4
     googleMaps: https://maps.app.goo.gl/yTsLjNhYMZuPDY1D8
   phone: 0577-65-2903

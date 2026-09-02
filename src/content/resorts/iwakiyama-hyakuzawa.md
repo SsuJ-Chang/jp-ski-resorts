@@ -27,10 +27,10 @@ links:
   googleMaps: https://maps.app.goo.gl/fAkYgeZkxLVpyFxU7
 contact:
   address:
-    zhTw: 日本青森縣弘前市大字百澤字東岩木山國有林 32
+    zhTw: 青森縣弘前市大字百澤字東岩木山國有林 32
     ja: 〒036-1343 青森県弘前市大字百沢字東岩木山国有林32
     googleMaps: https://maps.app.goo.gl/fAkYgeZkxLVpyFxU7
-  phone: "0172-83-2224"
+  phone: 0172-83-2224
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/02-2026/03/15"

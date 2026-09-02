@@ -25,7 +25,7 @@ links:
   ticket: https://shorefield.jp/fv-snowpark/
 contact:
   address:
-    zhTw: 日本北海道北広島市 Ｆビレッジ
+    zhTw: 北海道北広島市 Ｆビレッジ
     ja: 〒061-1116 北海道北広島市 Ｆビレッジ
     googleMaps: https://maps.app.goo.gl/7Pzsq6hm8BbU6BCB6
 season:

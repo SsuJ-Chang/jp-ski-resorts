@@ -27,10 +27,10 @@ links:
   access: https://www.town.horonobe.lg.jp/www4/section/edu/le009f0000001go7.html
 contact:
   address:
-    zhTw: 日本北海道天塩郡幌延町幌延106-1
+    zhTw: 北海道天塩郡幌延町幌延106-1
     ja: 〒098-3223 北海道天塩郡幌延町幌延106-1
     googleMaps: https://maps.app.goo.gl/EtkP7cKjcoxPznUd8
-  phone: "01632-5-1620"
+  phone: 01632-5-1620
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/21-2026/03/09"

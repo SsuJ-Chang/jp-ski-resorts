@@ -28,10 +28,10 @@ links:
   googleMaps: https://maps.app.goo.gl/cWVp9oDHuau9PNVy5
 contact:
   address:
-    zhTw: 日本秋田縣鹿角市八幡平字熊澤外 8 國有林
+    zhTw: 秋田縣鹿角市八幡平字熊澤外 8 國有林
     ja: 〒018-5141 秋田県鹿角市八幡平字熊沢外8国有林
     googleMaps: https://maps.app.goo.gl/cWVp9oDHuau9PNVy5
-  phone: "0186-31-2020"
+  phone: 0186-31-2020
 season:
   label: "2025-2026"
   operatingPeriod: "2025/11/21-2026/05/02"

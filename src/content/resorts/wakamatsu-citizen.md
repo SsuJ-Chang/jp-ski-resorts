@@ -28,10 +28,10 @@ links:
   access: https://weathernews.jp/ski/spot/31706/
 contact:
   address:
-    zhTw: 日本北海道北見市若松651番地
+    zhTw: 北海道北見市若松651番地
     ja: 〒090-0808 北海道北見市若松651番地
     googleMaps: https://maps.app.goo.gl/9jed8P3QAW9QGdm5A
-  phone: "0157-22-2910"
+  phone: 0157-22-2910
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/14-2026/03/22"

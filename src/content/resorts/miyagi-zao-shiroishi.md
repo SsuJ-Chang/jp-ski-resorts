@@ -29,10 +29,10 @@ links:
   googleMaps: https://maps.app.goo.gl/hZVq96KcgggFWGcg9
 contact:
   address:
-    zhTw: 日本宮城縣白石市福岡八宮字不忘山
+    zhTw: 宮城縣白石市福岡八宮字不忘山
     ja: 〒989-0733 宮城県白石市福岡八宮字不忘山
     googleMaps: https://maps.app.goo.gl/hZVq96KcgggFWGcg9
-  phone: "0224-24-8111"
+  phone: 0224-24-8111
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/19-2026/03/15"

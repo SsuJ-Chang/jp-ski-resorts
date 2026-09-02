@@ -29,7 +29,7 @@ contact:
     zhTw: 〒382-0817 長野縣上高井郡高山村大字奥山田字山田入3681-352 地図を見る
     ja: 〒382-0817 長野県上高井郡高山村大字奥山田字山田入3681-352 地図を見る
     googleMaps: https://www.google.com/maps/search/?api=1&query=YAMABOKU%20Wild%20Snow%20Park
-  phone: "0262745959"
+  phone: 026-274-5959
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/3/15

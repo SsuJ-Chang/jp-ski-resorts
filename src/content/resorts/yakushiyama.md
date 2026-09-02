@@ -29,10 +29,10 @@ links:
   access: https://www.city.kitaakita.akita.jp/genre/kyouiku_bunka_sports/sports/sports_taiiku/p1370/yakushi
 contact:
   address:
-    zhTw: 日本秋田縣北秋田市今泉字鳥越13-1
+    zhTw: 秋田縣北秋田市今泉字鳥越13-1
     ja: 〒018-3343 秋田県北秋田市今泉字鳥越13-1
     googleMaps: https://maps.app.goo.gl/jWX89syhUzko3LQb9
-  phone: "0186-67-2112"
+  phone: 0186-67-2112
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/24-2026/03/08"

@@ -31,10 +31,10 @@ links:
   access: https://www.town.minamifurano.hokkaido.jp/
 contact:
   address:
-    zhTw: 日本北海道空知郡南富良野町字幾寅1031
+    zhTw: 北海道空知郡南富良野町字幾寅1031
     ja: 〒079-2401 北海道空知郡南富良野町字幾寅1031
     googleMaps: https://maps.app.goo.gl/pLCZ4sfdTJCkkR2F7
-  phone: "0167-52-2143"
+  phone: 0167-52-2143
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/22"

@@ -29,10 +29,10 @@ links:
   access: http://www.tohoku-safaripark.co.jp/ski/
 contact:
   address:
-    zhTw: 日本福島縣二本松市鹽澤字ぐみ塚山国有林内
+    zhTw: 福島縣二本松市鹽澤字ぐみ塚山国有林内
     ja: 〒964-0086 福島県二本松市塩沢字ぐみ塚山国有林内
     googleMaps: https://maps.app.goo.gl/9UMs6Fu2YjQuLg6HA
-  phone: "0243-24-2845"
+  phone: 0243-24-2845
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/16-2026/02/27"

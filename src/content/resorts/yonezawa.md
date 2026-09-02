@@ -29,10 +29,10 @@ links:
   access: http://www.yonezawa-ski.co.jp
 contact:
   address:
-    zhTw: 日本山形縣米澤市万世町刈安字栃平道下24266-1
+    zhTw: 山形縣米澤市万世町刈安字栃平道下24266-1
     ja: 〒992-1121 山形県米沢市万世町刈安字栃平道下24266-1
     googleMaps: https://maps.app.goo.gl/LCvrz9sio9BVrur87
-  phone: "0238-28-2511"
+  phone: 0238-28-2511
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/28-2026/03/22"

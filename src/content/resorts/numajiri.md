@@ -32,10 +32,10 @@ links:
   access: https://www.numajiri-ski.jp
 contact:
   address:
-    zhTw: 日本福島縣耶麻郡豬苗代町大字蚕養字沼尻山甲2855-434
+    zhTw: 福島縣耶麻郡豬苗代町大字蚕養字沼尻山甲2855-434
     ja: 〒969-2752 福島県耶麻郡猪苗代町大字蚕養字沼尻山甲2855-434
     googleMaps: https://maps.app.goo.gl/m6Y5GpUhHYp1LVAf9
-  phone: "0242-67-1250"
+  phone: 0242-67-1250
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/18"

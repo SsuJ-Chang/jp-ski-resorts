@@ -29,10 +29,10 @@ links:
   access: https://www.bokujyo.com/winter/access.html
 contact:
   address:
-    zhTw: 日本兵庫縣美方郡新溫泉町丹土1033
+    zhTw: 兵庫縣美方郡新溫泉町丹土1033
     ja: 〒669-6813 兵庫県美方郡新温泉町丹土1033
     googleMaps: https://maps.app.goo.gl/LuEpoMNDNH8eRRY7A
-  phone: "0796-92-1005"
+  phone: 0796-92-1005
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/28-2026/02/28"

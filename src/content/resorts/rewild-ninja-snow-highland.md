@@ -27,9 +27,9 @@ links:
 contact:
   address:
     zhTw: 〒3862211 長野縣須坂市仁礼峰の原3153-50 地図を見る
-    ja: 〒3862211 長野県須坂市仁礼峰の原3153-50 地図を見る
+    ja: 〒386-2211 長野県須坂市仁礼峰の原3153-50 地図を見る
     googleMaps: https://www.google.com/maps/search/?api=1&query=REWILD%20NINJA%20SNOW%20HIGHLAND
-  phone: "0268710464"
+  phone: 0268-71-0464
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/13-2026/4/4

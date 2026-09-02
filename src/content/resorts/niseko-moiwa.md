@@ -33,10 +33,10 @@ links:
   access: https://niseko-moiwa.jp/ja/
 contact:
   address:
-    zhTw: 日本北海道虻田郡ニセコ町字ニセコ448
+    zhTw: 北海道虻田郡ニセコ町字ニセコ448
     ja: 〒048-1511 北海道虻田郡ニセコ町字ニセコ448
     googleMaps: https://www.google.com/maps/search/?api=1&query=42.848305,140.630306
-  phone: "0136-59-2511"
+  phone: 0136-59-2511
 season:
   label: "2025-2026"
   operatingPeriod: "2025/11/29-2026/04/05"

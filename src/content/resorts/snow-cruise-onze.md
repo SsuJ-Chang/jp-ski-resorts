@@ -33,10 +33,10 @@ links:
   access: https://onze.jp/
 contact:
   address:
-    zhTw: 日本北海道小樽市春香町357番地
+    zhTw: 北海道小樽市春香町357番地
     ja: 〒047-0265 北海道小樽市春香町357番地
     googleMaps: https://maps.app.goo.gl/PBzzJoXahSbqGAyB9
-  phone: "0134-62-2228"
+  phone: 0134-62-2228
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/19-2026/03/29"

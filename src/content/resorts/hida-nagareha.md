@@ -29,7 +29,7 @@ links:
   googleMaps: https://maps.app.goo.gl/6Cu2oGhFyMw7aedc8
 contact:
   address:
-    zhTw: 日本岐阜縣飛驒市神岡町伏方 150
+    zhTw: 岐阜縣飛驒市神岡町伏方 150
     ja: 〒506-1154 岐阜県飛騨市神岡町伏方150
     googleMaps: https://maps.app.goo.gl/6Cu2oGhFyMw7aedc8
   phone: 0578-82-0916

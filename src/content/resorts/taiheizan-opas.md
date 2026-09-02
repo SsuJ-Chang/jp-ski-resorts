@@ -31,10 +31,10 @@ links:
   access: http://www.theboon.net/opas/
 contact:
   address:
-    zhTw: 日本秋田縣秋田市仁別字蛇馬目澤111
+    zhTw: 秋田縣秋田市仁別字蛇馬目澤111
     ja: 〒010-0824 秋田県秋田市仁別字蛇馬目沢111
     googleMaps: https://maps.app.goo.gl/RA5Gp4gnxvdapPmF7
-  phone: "018-827-2221"
+  phone: 018-827-2221
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/21-2026/03/15"

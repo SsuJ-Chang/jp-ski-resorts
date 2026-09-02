@@ -29,10 +29,10 @@ links:
   access: https://weathernews.jp/ski/spot/31501/
 contact:
   address:
-    zhTw: 日本北海道岩見澤市上志文町452番地
+    zhTw: 北海道岩見澤市上志文町452番地
     ja: 〒068-0836 北海道岩見沢市上志文町452番地
     googleMaps: https://maps.app.goo.gl/qiFoGCYM7sjQfT8n7
-  phone: "0126-44-2322"
+  phone: 0126-44-2322
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/02/27"

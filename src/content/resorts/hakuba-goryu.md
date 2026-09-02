@@ -31,7 +31,7 @@ links:
   googleMaps: https://maps.app.goo.gl/uTFHLf9nyArEHLRR8
 contact:
   address:
-    zhTw: 日本長野縣北安曇郡白馬村神城 22184-10 Escal Plaza
+    zhTw: 長野縣北安曇郡白馬村神城 22184-10 Escal Plaza
     ja: 〒399-9211 長野県北安曇郡白馬村神城22184-10 エスカルプラザ
     googleMaps: https://maps.app.goo.gl/uTFHLf9nyArEHLRR8
   phone: 0261-75-2101

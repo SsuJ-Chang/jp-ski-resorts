@@ -28,10 +28,10 @@ links:
   access: http://okuaizukaneyama.blog.jp
 contact:
   address:
-    zhTw: 日本福島縣大沼郡金山町大字小栗山字上野2339
+    zhTw: 福島縣大沼郡金山町大字小栗山字上野2339
     ja: 〒968-0012 福島県大沼郡金山町大字小栗山字上野2339
     googleMaps: https://maps.app.goo.gl/LZoDKdEBcqJ2xZgK6
-  phone: "0241-54-2022"
+  phone: 0241-54-2022
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/04-2026/03/29"

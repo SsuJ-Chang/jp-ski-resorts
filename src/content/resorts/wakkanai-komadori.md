@@ -30,10 +30,10 @@ links:
   access: http://w-shinko.co.jp/komadori-ski/
 contact:
   address:
-    zhTw: 日本北海道稚內市こまどり4
+    zhTw: 北海道稚內市こまどり4
     ja: 〒097-0003 北海道稚内市こまどり4
     googleMaps: https://maps.app.goo.gl/tHs8pXPsz1UC1aA1A
-  phone: "0162-22-4564"
+  phone: 0162-22-4564
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/14-2026/03/15"

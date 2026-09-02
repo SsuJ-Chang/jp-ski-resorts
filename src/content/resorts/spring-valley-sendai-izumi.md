@@ -32,10 +32,10 @@ links:
   access: https://www.springvalley.co.jp/
 contact:
   address:
-    zhTw: 日本宮城縣仙台市泉区福岡字岳山14-2
+    zhTw: 宮城縣仙台市泉区福岡字岳山14-2
     ja: 〒981-3225 宮城県仙台市泉区福岡字岳山14-2
     googleMaps: https://maps.app.goo.gl/Qm6HUCSLJnL41KpX8
-  phone: "022-379-3755"
+  phone: 022-379-3755
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/17-2026/04/01"

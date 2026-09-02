@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/w5rNHvcS4w15TQvK6
 contact:
   address:
-    zhTw: 日本長野縣下高井郡山之內町
+    zhTw: 長野縣下高井郡山之內町
     ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi
     googleMaps: https://maps.app.goo.gl/w5rNHvcS4w15TQvK6
   phone: 0269-34-2524

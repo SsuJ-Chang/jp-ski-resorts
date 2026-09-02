@@ -29,10 +29,10 @@ links:
   access: https://weathernews.jp/ski/spot/31509/
 contact:
   address:
-    zhTw: 日本北海道空知郡上富良野町東1線北27号
+    zhTw: 北海道空知郡上富良野町東1線北27号
     ja: 〒071-0521 北海道空知郡上富良野町東1線北27号
     googleMaps: https://maps.app.goo.gl/fFnEKyzbSRAfZuFb6
-  phone: "0167-45-3567"
+  phone: 0167-45-3567
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/09"

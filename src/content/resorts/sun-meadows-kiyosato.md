@@ -27,7 +27,7 @@ links:
   googleMaps: https://www.google.com/maps/search/?api=1&query=35.947885,138.414259
 contact:
   address:
-    zhTw: 日本山梨縣北杜市大泉町西井出 8240-1
+    zhTw: 山梨縣北杜市大泉町西井出 8240-1
     ja: 〒407-0311 山梨県北杜市大泉町西井出8240-1
     googleMaps: https://www.google.com/maps/search/?api=1&query=35.947885,138.414259
   phone: 0551-48-4111

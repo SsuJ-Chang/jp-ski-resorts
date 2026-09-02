@@ -33,10 +33,10 @@ links:
   access: https://www.horotachi-horokanai.com/
 contact:
   address:
-    zhTw: 日本北海道雨竜郡幌加内町字長留内
+    zhTw: 北海道雨竜郡幌加内町字長留内
     ja: 〒074-0415 北海道雨竜郡幌加内町字長留内
     googleMaps: https://maps.app.goo.gl/hm2Xvf7SEMdmCeBi9
-  phone: "0165-35-3410"
+  phone: 0165-35-3410
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/18-2026/03/22"

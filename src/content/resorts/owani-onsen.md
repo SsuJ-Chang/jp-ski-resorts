@@ -26,10 +26,10 @@ links:
   googleMaps: https://maps.app.goo.gl/Z3MddtYo5ZYAfzat8
 contact:
   address:
-    zhTw: 日本青森縣南津輕郡大鰐町大字虹貝字清川 48-1
+    zhTw: 青森縣南津輕郡大鰐町大字虹貝字清川 48-1
     ja: 〒038-0221 青森県南津軽郡大鰐町大字虹貝字清川48-1
     googleMaps: https://maps.app.goo.gl/Z3MddtYo5ZYAfzat8
-  phone: "0172-49-1023"
+  phone: 0172-49-1023
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/03-2026/03/08"

@@ -29,7 +29,7 @@ links:
   googleMaps: https://maps.app.goo.gl/H5PHcp44m4TujPxY7
 contact:
   address:
-    zhTw: 日本福井縣勝山市 170-70
+    zhTw: 福井縣勝山市 170-70
     ja: 福井県勝山市170-70
     googleMaps: https://maps.app.goo.gl/H5PHcp44m4TujPxY7
   phone: 0779-87-6109

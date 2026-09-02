@@ -26,10 +26,10 @@ links:
   googleMaps: https://maps.app.goo.gl/XgRxsspakMLRc3rU7
 contact:
   address:
-    zhTw: 日本青森縣陸奧市大字大湊字大川守 44-5
+    zhTw: 青森縣陸奧市大字大湊字大川守 44-5
     ja: 〒035-0096 青森県むつ市大字大湊字大川守44-5
     googleMaps: https://maps.app.goo.gl/XgRxsspakMLRc3rU7
-  phone: "0175-24-1881"
+  phone: 0175-24-1881
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/13-2026/03/15"

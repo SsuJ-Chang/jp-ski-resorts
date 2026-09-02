@@ -27,10 +27,10 @@ links:
   access: https://www.city.shibetsu.lg.jp/gyoseisaito/kosodate_bunka_supotsu/supotsu/2/1812.html
 contact:
   address:
-    zhTw: 日本北海道士別市朝日町中央6656番地
+    zhTw: 北海道士別市朝日町中央6656番地
     ja: 〒095-0401 北海道士別市朝日町中央6656番地
     googleMaps: https://maps.app.goo.gl/um3VsVU9qQ5ipAYu9
-  phone: "0165-28-3140"
+  phone: 0165-28-3140
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/中旬-2026/03/下旬"

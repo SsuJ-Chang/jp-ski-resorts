@@ -29,10 +29,10 @@ links:
   access: https://www.takahata-ski.net/
 contact:
   address:
-    zhTw: 日本福島縣南會津郡南会津町大桃字一ノ間々20-3
+    zhTw: 福島縣南會津郡南会津町大桃字一ノ間々20-3
     ja: 〒967-0515 福島県南会津郡南会津町大桃字一ノ間々20-3
     googleMaps: https://maps.app.goo.gl/8Kximdaw1ACr2RNc9
-  phone: "0241-76-2231"
+  phone: 0241-76-2231
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/28-2026/03/22"

@@ -29,7 +29,7 @@ links:
   googleMaps: https://maps.app.goo.gl/HTDdvtnoDHrZhRLE6
 contact:
   address:
-    zhTw: 日本長野縣下高井郡山之內町夜間瀨大澤 12377-17
+    zhTw: 長野縣下高井郡山之內町夜間瀨大澤 12377-17
     ja: 〒381-0405 Nagano, Shimotakai District, Yamanouchi, Yomase, 大沢12377-17
     googleMaps: https://maps.app.goo.gl/HTDdvtnoDHrZhRLE6
   phone: 0269-34-2225

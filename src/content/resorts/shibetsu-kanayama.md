@@ -27,10 +27,10 @@ links:
   access: https://weathernews.jp/ski/spot/32104/
 contact:
   address:
-    zhTw: 日本北海道標津郡標津町字古多糠
+    zhTw: 北海道標津郡標津町字古多糠
     ja: 〒086-1731 北海道標津郡標津町字古多糠
     googleMaps: https://maps.app.goo.gl/opwyyYQEeKVkMWQYA
-  phone: "0153-85-2172"
+  phone: 0153-85-2172
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/05-2026/03/01"

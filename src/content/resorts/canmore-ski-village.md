@@ -32,10 +32,10 @@ links:
   access: https://www.canmore-ski.jp
 contact:
   address:
-    zhTw: 日本北海道上川郡東川町西５号北４４番地
+    zhTw: 北海道上川郡東川町西５号北４４番地
     ja: 〒071-1405 北海道上川郡東川町西５号北４４番地
     googleMaps: https://maps.app.goo.gl/QqXUKxTmpgW14YhP8
-  phone: "0166-82-5001"
+  phone: 0166-82-5001
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/20"

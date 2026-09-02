@@ -28,10 +28,10 @@ links:
   access: https://weathernews.jp/ski/spot/31713/
 contact:
   address:
-    zhTw: 日本北海道紋別郡瀧上町濁川中央
+    zhTw: 北海道紋別郡瀧上町濁川中央
     ja: 〒099-5541 北海道紋別郡滝上町濁川中央
     googleMaps: https://maps.app.goo.gl/UvYuJVw5ZZirSCyS8
-  phone: "0158-29-2500"
+  phone: 0158-29-2500
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/27-2026/03/22"

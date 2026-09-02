@@ -30,7 +30,7 @@ links:
   googleMaps: https://maps.app.goo.gl/HgXo1fKb9xnzCtaC7
 contact:
   address:
-    zhTw: 日本北海道虻田郡二世谷町東山溫泉
+    zhTw: 北海道虻田郡二世谷町東山溫泉
     ja: 〒048-1592 北海道虻田郡ニセコ町東山温泉
     googleMaps: https://maps.app.goo.gl/HgXo1fKb9xnzCtaC7
   phone: 0136-44-2211

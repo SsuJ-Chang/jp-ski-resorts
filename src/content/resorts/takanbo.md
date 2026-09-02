@@ -23,7 +23,7 @@ links:
   googleMaps: https://maps.app.goo.gl/VNc6vX8B1BYXSZudA
 contact:
   address:
-    zhTw: 日本富山縣南砺市西赤尾町 1767
+    zhTw: 富山縣南砺市西赤尾町 1767
     ja: 富山県南砺市西赤尾町1767
     googleMaps: https://maps.app.goo.gl/VNc6vX8B1BYXSZudA
   phone: 0763-67-3766

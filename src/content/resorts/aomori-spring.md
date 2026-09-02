@@ -29,10 +29,10 @@ links:
   googleMaps: https://maps.app.goo.gl/uJsajKSdcaE3beoX8
 contact:
   address:
-    zhTw: 日本青森縣西津輕郡鰺澤町鰺澤高原
+    zhTw: 青森縣西津輕郡鰺澤町鰺澤高原
     ja: 〒038-2793 青森県西津軽郡鯵ヶ沢町鯵ヶ沢高原
     googleMaps: https://maps.app.goo.gl/uJsajKSdcaE3beoX8
-  phone: "0173-72-1011"
+  phone: 0173-72-1011
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/13-2026/04/05"

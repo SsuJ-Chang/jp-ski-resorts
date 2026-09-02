@@ -30,10 +30,10 @@ links:
   access: http://www.town.bifuka.hokkaido.jp
 contact:
   address:
-    zhTw: 日本北海道中川郡美深町字敷島347-4
+    zhTw: 北海道中川郡美深町字敷島347-4
     ja: 〒098-2214 北海道中川郡美深町字敷島347-4
     googleMaps: https://maps.app.goo.gl/EvDBtBLdaJVBYZhLA
-  phone: "01656-2-2382"
+  phone: 01656-2-2382
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/29-2026/03/08"

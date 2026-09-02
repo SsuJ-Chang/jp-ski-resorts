@@ -25,10 +25,10 @@ links:
   googleMaps: https://maps.app.goo.gl/jziEvXTvm2YWErkv9
 contact:
   address:
-    zhTw: 日本福島縣喜多方市熱鹽加納町相田字北權現森甲 857-1
+    zhTw: 福島縣喜多方市熱鹽加納町相田字北權現森甲 857-1
     ja: 〒966-0108 福島県喜多方市熱塩加納町相田字北権現森甲857-1
     googleMaps: https://maps.app.goo.gl/jziEvXTvm2YWErkv9
-  phone: "0241-36-2071"
+  phone: 0241-36-2071
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/15"

@@ -29,10 +29,10 @@ links:
   access: http://engaru-mori-no-okhotsk.jp/skiing/
 contact:
   address:
-    zhTw: 日本北海道紋別郡遠軽町野上150-1
+    zhTw: 北海道紋別郡遠軽町野上150-1
     ja: 〒099-0344 北海道紋別郡遠軽町野上150-1
     googleMaps: https://maps.app.goo.gl/27xHNwNCYvTxxWGB7
-  phone: "0158-42-4536"
+  phone: 0158-42-4536
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/04/05"

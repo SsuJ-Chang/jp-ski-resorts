@@ -30,7 +30,7 @@ links:
   googleMaps: https://maps.app.goo.gl/dTp8CChjDNShfeSY7
 contact:
   address:
-    zhTw: 日本岐阜縣郡上市高鷲町ひるがの 4670-75
+    zhTw: 岐阜縣郡上市高鷲町ひるがの 4670-75
     ja: 〒501-5301 岐阜県郡上市高鷲町ひるがの4670-75
     googleMaps: https://maps.app.goo.gl/dTp8CChjDNShfeSY7
   phone: 0575-73-2311

@@ -27,10 +27,10 @@ links:
   access: http://www.asahikawa-dpc.co.jp/4ski/skiindex.html
 contact:
   address:
-    zhTw: 日本北海道旭川市神居7條18丁目
+    zhTw: 北海道旭川市神居7條18丁目
     ja: 〒070-8017 北海道旭川市神居7条18丁目
     googleMaps: https://maps.app.goo.gl/4s3jc3kG7jk8kLFd9
-  phone: "0166-62-4922"
+  phone: 0166-62-4922
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/30-2026/02/23"

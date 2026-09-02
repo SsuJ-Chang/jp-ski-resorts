@@ -25,10 +25,10 @@ links:
   googleMaps: https://maps.app.goo.gl/S8PC247KXVTQHsZCA
 contact:
   address:
-    zhTw: 日本福島縣南會津郡南會津町高杖原 535
+    zhTw: 福島縣南會津郡南會津町高杖原 535
     ja: 〒967-0315 福島県南会津郡南会津町高杖原535
     googleMaps: https://maps.app.goo.gl/S8PC247KXVTQHsZCA
-  phone: "0241-78-2220"
+  phone: 0241-78-2220
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/19-2026/03/22"

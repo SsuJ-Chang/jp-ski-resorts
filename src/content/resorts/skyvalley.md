@@ -32,10 +32,10 @@ links:
   ticket: https://skyvalley.jp/lift
 contact:
   address:
-    zhTw: 日本兵庫縣美方郡香美町村岡區中大谷701
+    zhTw: 兵庫縣美方郡香美町村岡區中大谷701
     ja: 〒667-1343 兵庫県美方郡香美町村岡区中大谷701
     googleMaps: https://maps.app.goo.gl/ma8ehdt66ZnAVXT69
-  phone: "0796-96-0375"
+  phone: 0796-96-0375
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/27-2026/03/15"

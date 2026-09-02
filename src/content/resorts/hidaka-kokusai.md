@@ -29,10 +29,10 @@ links:
   access: https://www.town.hidaka.hokkaido.jp/site/ski/
 contact:
   address:
-    zhTw: 日本北海道沙流郡日高町字富岡444-1
+    zhTw: 北海道沙流郡日高町字富岡444-1
     ja: 〒055-2315 北海道沙流郡日高町字富岡444-1
     googleMaps: https://maps.app.goo.gl/EV5deHhjDHj8yvcf6
-  phone: "01457-6-3667"
+  phone: 01457-6-3667
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/05-2026/03/08"

@@ -26,10 +26,10 @@ links:
   googleMaps: https://maps.app.goo.gl/jCavyM2Ji89HMAWi9
 contact:
   address:
-    zhTw: 日本岩手縣岩手郡雫石町網張溫泉
+    zhTw: 岩手縣岩手郡雫石町網張溫泉
     ja: 〒020-0585 岩手県岩手郡雫石町網張温泉
     googleMaps: https://maps.app.goo.gl/jCavyM2Ji89HMAWi9
-  phone: "019-693-2211"
+  phone: 019-693-2211
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/29"

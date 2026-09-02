@@ -27,10 +27,10 @@ links:
   googleMaps: https://maps.app.goo.gl/ynTUDkq5w8a3wzweA
 contact:
   address:
-    zhTw: 日本岩手縣八幡平市松尾寄木松川國有林
+    zhTw: 岩手縣八幡平市松尾寄木松川國有林
     ja: 〒028-7302 岩手県八幡平市松尾寄木松川国有林
     googleMaps: https://maps.app.goo.gl/ynTUDkq5w8a3wzweA
-  phone: "0195-78-3456"
+  phone: 0195-78-3456
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/22"

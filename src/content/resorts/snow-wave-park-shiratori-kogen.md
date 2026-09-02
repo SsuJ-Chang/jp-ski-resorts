@@ -29,7 +29,7 @@ links:
   access: https://siratori-k.jp/swp/access
 contact:
   address:
-    zhTw: 日本岐阜縣郡上市白鳥町石徹白 133
+    zhTw: 岐阜縣郡上市白鳥町石徹白 133
     ja: 〒501-5231 岐阜県郡上市白鳥町石徹白133
     googleMaps: https://maps.app.goo.gl/Wfy2igQrjYREpW2Q8
   phone: 0575-86-3111

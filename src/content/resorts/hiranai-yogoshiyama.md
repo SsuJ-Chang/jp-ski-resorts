@@ -25,10 +25,10 @@ links:
   googleMaps: https://maps.app.goo.gl/6vpsLXNdC8zgQFeL6
 contact:
   address:
-    zhTw: 日本青森縣東津輕郡平內町大字濱子字堀替 36-1
+    zhTw: 青森縣東津輕郡平內町大字濱子字堀替 36-1
     ja: 〒039-3331 青森県東津軽郡平内町大字浜子字堀替36-1
     googleMaps: https://maps.app.goo.gl/6vpsLXNdC8zgQFeL6
-  phone: "017-755-2756"
+  phone: 017-755-2756
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/21-2026/03/08"

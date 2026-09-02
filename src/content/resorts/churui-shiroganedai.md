@@ -24,10 +24,10 @@ links:
   access: http://makubetsu-ski.com/category/news-hg/
 contact:
   address:
-    zhTw: 日本北海道中川郡幕別町忠類白銀町415
+    zhTw: 北海道中川郡幕別町忠類白銀町415
     ja: 〒089-1701 北海道中川郡幕別町忠類白銀町415
     googleMaps: https://maps.app.goo.gl/NCq1zJ2tVyfn5hGY6
-  phone: "01558-8-2024"
+  phone: 01558-8-2024
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/18-2026/03/15"

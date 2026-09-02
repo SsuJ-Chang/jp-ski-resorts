@@ -29,10 +29,10 @@ links:
   access: http://www.qkamura.or.jp/haguro
 contact:
   address:
-    zhTw: 日本山形縣鶴岡市羽黒町手向羽黒山
+    zhTw: 山形縣鶴岡市羽黒町手向羽黒山
     ja: 〒997-0211 山形県鶴岡市羽黒町手向羽黒山
     googleMaps: https://maps.app.goo.gl/eWMwJSDAA5cLA32e8
-  phone: "0235-62-4270"
+  phone: 0235-62-4270
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/30-2026/03/01"

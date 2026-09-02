@@ -29,10 +29,10 @@ links:
   access: https://weathernews.jp/ski/spot/32101/
 contact:
   address:
-    zhTw: 日本北海道虻田郡俱知安町字旭37-1
+    zhTw: 北海道虻田郡俱知安町字旭37-1
     ja: 〒044-0083 北海道虻田郡倶知安町字旭37-1
     googleMaps: https://maps.app.goo.gl/Tto7yqBZZPVhY31j8
-  phone: "0136-23-2743"
+  phone: 0136-23-2743
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/25-2026/03/08"

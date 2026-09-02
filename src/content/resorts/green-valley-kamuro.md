@@ -29,10 +29,10 @@ links:
   access: https://greenvalleykamuro.com/
 contact:
   address:
-    zhTw: 日本山形縣最上郡金山町大字有屋1400
+    zhTw: 山形縣最上郡金山町大字有屋1400
     ja: 〒999-5401 山形県最上郡金山町大字有屋1400
     googleMaps: https://maps.app.goo.gl/p7veyfoX8ykv8jfAA
-  phone: "090-4165-6961"
+  phone: 090-4165-6961
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/29-2026/03/15"

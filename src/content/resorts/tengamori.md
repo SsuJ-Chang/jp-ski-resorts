@@ -29,10 +29,10 @@ links:
   access: https://www.tengamori.com
 contact:
   address:
-    zhTw: 日本秋田縣橫手市増田町狙半内字天下森地内
+    zhTw: 秋田縣橫手市増田町狙半内字天下森地内
     ja: 〒019-0705 秋田県横手市増田町狙半内字天下森地内
     googleMaps: https://maps.app.goo.gl/4C9WYd1nhirszkKcA
-  phone: "0182-45-9816"
+  phone: 0182-45-9816
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/29-2026/03/08"

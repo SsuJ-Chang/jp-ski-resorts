@@ -34,7 +34,7 @@ links:
   access: https://weathernews.jp/ski/spot/31201/
 contact:
   address:
-    zhTw: 日本北海道勇払郡占冠村字中トマム
+    zhTw: 北海道勇払郡占冠村字中トマム
     ja: 〒079-2204 北海道勇払郡占冠村字中トマム
     googleMaps: https://maps.app.goo.gl/TXwYdNH7iwwSB1pq7
   phone: 0167-58-1111

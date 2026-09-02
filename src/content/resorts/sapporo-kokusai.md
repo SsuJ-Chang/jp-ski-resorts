@@ -30,7 +30,7 @@ links:
   access: https://weathernews.jp/ski/spot/31403/
 contact:
   address:
-    zhTw: 日本北海道札幌市南区定山渓937番地先
+    zhTw: 北海道札幌市南区定山渓937番地先
     ja: 〒061-2301 北海道札幌市南区定山渓937番地先
     googleMaps: https://maps.app.goo.gl/SUdWSta3x1cw4tYy9
   phone: 011-598-4511

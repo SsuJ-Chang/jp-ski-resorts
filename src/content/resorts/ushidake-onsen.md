@@ -24,7 +24,7 @@ links:
   googleMaps: https://maps.app.goo.gl/ztdoz1suD3atQrje7
 contact:
   address:
-    zhTw: 日本富山縣富山市山田小谷中根 2
+    zhTw: 富山縣富山市山田小谷中根 2
     ja: 富山県富山市山田小谷中根2
     googleMaps: https://maps.app.goo.gl/ztdoz1suD3atQrje7
   phone: 076-457-2044

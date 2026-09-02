@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/PGjvp1Pz5HRx2QUP7
 contact:
   address:
-    zhTw: 日本岐阜縣高山市丹生川町久手 447
+    zhTw: 岐阜縣高山市丹生川町久手 447
     ja: 〒506-2252 岐阜県高山市丹生川町久手447
     googleMaps: https://maps.app.goo.gl/PGjvp1Pz5HRx2QUP7
   phone: 0577-79-2244

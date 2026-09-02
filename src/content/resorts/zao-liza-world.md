@@ -28,10 +28,10 @@ links:
   access: http://www.zaoliza.co.jp/wntr/
 contact:
   address:
-    zhTw: 日本山形縣上山市藏王坊平高原
+    zhTw: 山形縣上山市藏王坊平高原
     ja: 〒999-3113 山形県上山市蔵王坊平高原
     googleMaps: https://maps.app.goo.gl/JgSSXnAAhMBQUbED9
-  phone: "023-679-2311"
+  phone: 023-679-2311
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/19-2026/03/29"

@@ -29,10 +29,10 @@ links:
   access: https://twitter.com/wassamu_ski
 contact:
   address:
-    zhTw: 日本北海道上川郡和寒町日ノ出
+    zhTw: 北海道上川郡和寒町日ノ出
     ja: 〒098-0101 北海道上川郡和寒町日ノ出
     googleMaps: https://maps.app.goo.gl/ebzZKZEz2VHtz88M6
-  phone: "0165-32-4385"
+  phone: 0165-32-4385
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/14-2026/03/20"

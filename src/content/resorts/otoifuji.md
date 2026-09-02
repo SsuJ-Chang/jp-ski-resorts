@@ -29,10 +29,10 @@ links:
   access: https://weathernews.jp/ski/spot/31304/
 contact:
   address:
-    zhTw: 日本北海道中川郡音威子府村字音威子府
+    zhTw: 北海道中川郡音威子府村字音威子府
     ja: 〒098-2501 北海道中川郡音威子府村字音威子府
     googleMaps: https://maps.app.goo.gl/pWRcdCiex4a3GvNo9
-  phone: "01656-5-3305"
+  phone: 01656-5-3305
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/19-2026/03/22"

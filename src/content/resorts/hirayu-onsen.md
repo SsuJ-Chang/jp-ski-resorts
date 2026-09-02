@@ -26,7 +26,7 @@ links:
   googleMaps: https://maps.app.goo.gl/gvCMFxUMTqBRVgM16
 contact:
   address:
-    zhTw: 日本岐阜縣高山市奧飛驒溫泉鄉平湯溫泉 768-1
+    zhTw: 岐阜縣高山市奧飛驒溫泉鄉平湯溫泉 768-1
     ja: 〒506-1433 岐阜県高山市奥飛騨温泉郷平湯温泉768-1
     googleMaps: https://maps.app.goo.gl/gvCMFxUMTqBRVgM16
   phone: 0578-89-2424

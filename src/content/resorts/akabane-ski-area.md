@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/mZWQ1UBKroQmBbSc7
 contact:
   address:
-    zhTw: 日本岩手縣遠野市上鄉町平倉 41-47
+    zhTw: 岩手縣遠野市上鄉町平倉 41-47
     ja: 〒028-0775 岩手県遠野市上郷町平倉41-47
     googleMaps: https://maps.app.goo.gl/mZWQ1UBKroQmBbSc7
   phone: 0198-65-3343

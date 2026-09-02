@@ -29,10 +29,10 @@ links:
   access: https://www.town.yubetsu.lg.jp/administration/culture/detail.html?content=271
 contact:
   address:
-    zhTw: 日本北海道紋別郡湧別町北兵村二区100
+    zhTw: 北海道紋別郡湧別町北兵村二区100
     ja: 〒099-6323 北海道紋別郡湧別町北兵村二区100
     googleMaps: https://maps.app.goo.gl/aAedDmQRWWz9wbaC9
-  phone: "01586-2-3111"
+  phone: 01586-2-3111
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/04-2026/03/20"

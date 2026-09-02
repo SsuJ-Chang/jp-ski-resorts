@@ -30,10 +30,10 @@ links:
   access: https://zao-7kashuku.jp/ski/
 contact:
   address:
-    zhTw: 日本宮城縣刈田郡七之宿町字侭の上129
+    zhTw: 宮城縣刈田郡七之宿町字侭の上129
     ja: 〒989-0612 宮城県刈田郡七ヶ宿町字侭の上129
     googleMaps: https://maps.app.goo.gl/dFAkCB8568xqHPpV6
-  phone: "0224-37-3111"
+  phone: 0224-37-3111
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/28-2026/03/22"

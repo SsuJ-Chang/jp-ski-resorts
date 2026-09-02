@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/T7W6VBAUH86Peths9
 contact:
   address:
-    zhTw: 日本岐阜縣高山市岩井町 914
+    zhTw: 岐阜縣高山市岩井町 914
     ja: 〒506-0815 岐阜県高山市岩井町914
     googleMaps: https://maps.app.goo.gl/T7W6VBAUH86Peths9
   phone: 0577-31-1020

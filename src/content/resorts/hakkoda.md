@@ -29,10 +29,10 @@ links:
   googleMaps: https://maps.app.goo.gl/riWeNFRsxiQXEAvS9
 contact:
   address:
-    zhTw: 日本青森縣青森市大字荒川字寒水澤
+    zhTw: 青森縣青森市大字荒川字寒水澤
     ja: 〒030-0188 青森県青森市大字荒川字寒水沢
     googleMaps: https://maps.app.goo.gl/riWeNFRsxiQXEAvS9
-  phone: "017-738-0343"
+  phone: 017-738-0343
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/05/03"

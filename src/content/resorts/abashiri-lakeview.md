@@ -28,7 +28,7 @@ links:
   ticket: https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html
 contact:
   address:
-    zhTw: 日本北海道網走市字呼人28-3
+    zhTw: 北海道網走市字呼人28-3
     ja: 〒099-2421 北海道網走市字呼人28-3
     googleMaps: https://maps.app.goo.gl/FBMq4NMnkWcfGHCNA
   phone: 0152-48-2550

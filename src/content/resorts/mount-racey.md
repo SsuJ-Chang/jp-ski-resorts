@@ -32,10 +32,10 @@ links:
   access: https://yubari-resort.co.jp/
 contact:
   address:
-    zhTw: 日本北海道夕張市末広2-4
+    zhTw: 北海道夕張市末広2-4
     ja: 〒068-0411 北海道夕張市末広2-4
     googleMaps: https://maps.app.goo.gl/5m6nkTzjiYY9terP7
-  phone: "0123-57-7766"
+  phone: 0123-57-7766
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/06-2026/03/29"

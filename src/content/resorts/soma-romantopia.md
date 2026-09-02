@@ -26,10 +26,10 @@ links:
   googleMaps: https://maps.app.goo.gl/FQ49q2mn5omQVCaKA
 contact:
   address:
-    zhTw: 日本青森縣弘前市大字水木在家字櫻井 44
+    zhTw: 青森縣弘前市大字水木在家字櫻井 44
     ja: 〒036-1505 青森県弘前市大字水木在家字桜井44
     googleMaps: https://maps.app.goo.gl/FQ49q2mn5omQVCaKA
-  phone: "0172-84-2020"
+  phone: 0172-84-2020
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/28-2026/03/08"

@@ -28,10 +28,10 @@ links:
   access: https://bibaiski.jp/
 contact:
   address:
-    zhTw: 日本北海道美唄市東美唄町番町
+    zhTw: 北海道美唄市東美唄町番町
     ja: 〒072-0000 北海道美唄市東美唄町番町
     googleMaps: https://maps.app.goo.gl/4W2xA21XgMzcREqv8
-  phone: "0126-68-8216"
+  phone: 0126-68-8216
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/19-2026/03/15"

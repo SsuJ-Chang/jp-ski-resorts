@@ -22,7 +22,7 @@ links:
   googleMaps: https://maps.app.goo.gl/ygfweXjPvcLxptpm8
 contact:
   address:
-    zhTw: 日本富山縣南砺市梨谷
+    zhTw: 富山縣南砺市梨谷
     ja: 富山県南砺市梨谷
     googleMaps: https://maps.app.goo.gl/ygfweXjPvcLxptpm8
   phone: 0763-66-2911

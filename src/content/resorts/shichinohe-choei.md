@@ -26,10 +26,10 @@ links:
   googleMaps: https://maps.app.goo.gl/oNzj6bkmNAtnZXZB7
 contact:
   address:
-    zhTw: 日本青森縣上北郡七戶町字左組 106-5
+    zhTw: 青森縣上北郡七戶町字左組 106-5
     ja: 〒039-2568 青森県上北郡七戸町字左組106-5
     googleMaps: https://maps.app.goo.gl/oNzj6bkmNAtnZXZB7
-  phone: "0176-62-5612"
+  phone: 0176-62-5612
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/10-2026/03/01"

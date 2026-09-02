@@ -30,10 +30,10 @@ links:
   access: https://www.takinopark.com/
 contact:
   address:
-    zhTw: 日本北海道札幌市南区瀧野247番地
+    zhTw: 北海道札幌市南区瀧野247番地
     ja: 〒005-0862 北海道札幌市南区滝野247番地
     googleMaps: https://maps.app.goo.gl/3LfhuFduvGwmn5kL6
-  phone: "011-592-3333"
+  phone: 011-592-3333
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/23-2026/03/29"

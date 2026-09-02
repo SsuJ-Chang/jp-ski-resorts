@@ -31,7 +31,7 @@ links:
   access: https://weathernews.jp/ski/spot/31503/
 contact:
   address:
-    zhTw: 日本北海道小樽市最上2-16-15
+    zhTw: 北海道小樽市最上2-16-15
     ja: 〒047-0023 北海道小樽市最上2-16-15
     googleMaps: https://maps.app.goo.gl/maJKr22GeZETZxGi9
   phone: 0134-33-7381

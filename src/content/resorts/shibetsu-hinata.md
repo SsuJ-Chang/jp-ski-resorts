@@ -29,10 +29,10 @@ links:
   access: https://www.city.shibetsu.lg.jp/soshikikarasagasu/gasshukunosato_supotsusuishinka/shiminsupotsukakari/1351.html
 contact:
   address:
-    zhTw: 日本北海道士別市多寄町日向4095
+    zhTw: 北海道士別市多寄町日向4095
     ja: 〒098-0475 北海道士別市多寄町日向4095
     googleMaps: https://maps.app.goo.gl/wawGV1FY6j9Yr9j5A
-  phone: "0165-26-2577"
+  phone: 0165-26-2577
 season:
   label: "2025-2026"
   operatingPeriod: "2025/11/下旬-2026/03/下旬"

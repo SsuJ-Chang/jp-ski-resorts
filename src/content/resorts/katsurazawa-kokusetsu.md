@@ -27,10 +27,10 @@ links:
   access: https://www.city.mikasa.hokkaido.jp/sightseeing/category_sp/122.html
 contact:
   address:
-    zhTw: 日本北海道三笠市西桂澤50
+    zhTw: 北海道三笠市西桂澤50
     ja: 〒068-2102 北海道三笠市西桂沢50
     googleMaps: https://maps.app.goo.gl/4HW3KQgHNKL7NpBF9
-  phone: "01267-6-8235"
+  phone: 01267-6-8235
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/04-2026/03/08"

@@ -30,10 +30,10 @@ links:
   access: http://www.town.okoppe.lg.jp/cms/section/education/shakai/nbm3tm0000001f0q.html
 contact:
   address:
-    zhTw: 日本北海道紋別郡興部町字北興39番地の2
+    zhTw: 北海道紋別郡興部町字北興39番地の2
     ja: 〒098-1622 北海道紋別郡興部町字北興39番地の2
     googleMaps: https://maps.app.goo.gl/hHa6fWALLzHHnfqM9
-  phone: "0158-82-4000"
+  phone: 0158-82-4000
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/上旬-2026/03/中旬"

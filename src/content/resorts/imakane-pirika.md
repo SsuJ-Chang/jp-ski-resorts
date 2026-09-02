@@ -31,10 +31,10 @@ links:
   access: https://kurplazapirika.net
 contact:
   address:
-    zhTw: 日本北海道瀬棚郡今金町字美利河205-1
+    zhTw: 北海道瀬棚郡今金町字美利河205-1
     ja: 〒049-4151 北海道瀬棚郡今金町字美利河205-1
     googleMaps: https://maps.app.goo.gl/fLWkUwH4iDGMkast9
-  phone: "0137-83-7111"
+  phone: 0137-83-7111
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/22"

@@ -28,7 +28,7 @@ links:
   googleMaps: https://maps.app.goo.gl/BADvxkFmaTSbWmkGA
 contact:
   address:
-    zhTw: 日本山形縣西村山郡西川町志津姥澤
+    zhTw: 山形縣西村山郡西川町志津姥澤
     ja: 〒990-0734 山形県西村山郡西川町志津姥沢
     googleMaps: https://maps.app.goo.gl/BADvxkFmaTSbWmkGA
   phone: 0237-75-2025

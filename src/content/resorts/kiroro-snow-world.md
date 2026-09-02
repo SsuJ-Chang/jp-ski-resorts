@@ -33,7 +33,7 @@ links:
   access: https://weathernews.jp/ski/spot/31609/
 contact:
   address:
-    zhTw: 日本北海道余市郡赤井川村字常盤１２８−１
+    zhTw: 北海道余市郡赤井川村字常盤１２８−１
     ja: 〒046-0593 北海道余市郡赤井川村字常盤１２８−１
     googleMaps: https://maps.app.goo.gl/jkAJyUtaZLMELuwh6
   phone: 0135-34-7171

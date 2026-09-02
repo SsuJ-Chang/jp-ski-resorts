@@ -24,10 +24,10 @@ links:
   googleMaps: https://maps.app.goo.gl/GuwtRWWRm3GKxTav6
 contact:
   address:
-    zhTw: 日本岩手縣八幡平市矢神 8-1
+    zhTw: 岩手縣八幡平市矢神 8-1
     ja: 〒028-7603 岩手県八幡平市矢神8-1
     googleMaps: https://maps.app.goo.gl/GuwtRWWRm3GKxTav6
-  phone: "0195-73-2650"
+  phone: 0195-73-2650
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/03-2026/03/22"

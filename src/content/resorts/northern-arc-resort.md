@@ -30,10 +30,10 @@ links:
   access: http://northernarcresort.co.jp/contents/golfski/ski.html
 contact:
   address:
-    zhTw: 日本北海道北見市端野町二区８２９番地
+    zhTw: 北海道北見市端野町二区８２９番地
     ja: 〒099-2102 北海道北見市端野町二区８２９番地
     googleMaps: https://maps.app.goo.gl/18KAGkLc6DWbQ6DD9
-  phone: "0157-56-3333"
+  phone: 0157-56-3333
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/15"

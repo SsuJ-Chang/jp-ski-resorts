@@ -28,7 +28,7 @@ links:
   access: https://weathernews.jp/ski/spot/31606/
 contact:
   address:
-    zhTw: 日本北海道虻田郡喜茂別町字川上345
+    zhTw: 北海道虻田郡喜茂別町字川上345
     ja: 〒044-0223 北海道虻田郡喜茂別町字川上345
     googleMaps: https://maps.app.goo.gl/yVU8fe3FF6afzaf76
   phone: 0136-33-3373

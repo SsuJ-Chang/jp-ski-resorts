@@ -29,10 +29,10 @@ links:
   access: https://www.facebook.com/taranokidai/
 contact:
   address:
-    zhTw: 日本山形縣鶴岡市たらのき代字西野469-1
+    zhTw: 山形縣鶴岡市たらのき代字西野469-1
     ja: 〒997-0303 山形県鶴岡市たらのき代字西野469-1
     googleMaps: https://maps.app.goo.gl/BF2nMJmB5HhteXpE9
-  phone: "0235-57-4488"
+  phone: 0235-57-4488
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/01-2026/03/01"

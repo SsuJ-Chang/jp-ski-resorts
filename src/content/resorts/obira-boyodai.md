@@ -28,10 +28,10 @@ links:
   access: http://www.town.obira.hokkaido.jp/kanko/detail/00001389.html
 contact:
   address:
-    zhTw: 日本北海道留萌郡小平町字小平町535-1
+    zhTw: 北海道留萌郡小平町字小平町535-1
     ja: 〒078-3301 北海道留萌郡小平町字小平町535-1
     googleMaps: https://maps.app.goo.gl/VD6sEoRLntiRLXMC6
-  phone: "0164-56-2244"
+  phone: 0164-56-2244
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/24-2026/02/28"

@@ -30,7 +30,7 @@ links:
   googleMaps: https://maps.app.goo.gl/dn7X5KtKuUYoXyFm6
 contact:
   address:
-    zhTw: 日本北海道虻田郡二世谷町字二世谷 485
+    zhTw: 北海道虻田郡二世谷町字二世谷 485
     ja: 〒048-1511 北海道虻田郡ニセコ町字ニセコ485
     googleMaps: https://maps.app.goo.gl/dn7X5KtKuUYoXyFm6
   phone: 0136-58-2080

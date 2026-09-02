@@ -38,6 +38,16 @@ YAML quoting rules:
 - Do not change the semantic value while normalizing quotes. Quote removal is a formatting cleanup only; preserve names, URLs, numbers, and user-facing copy exactly.
 - Do not force every string to use the same quoting style. Apply the safe plain-scalar rule field by field, and preserve quotes where they protect parsing or clarify that a value is a string.
 
+Contact address rules:
+
+- Use `contact.address.ja` as the canonical source when normalizing resort addresses.
+- Write Japanese addresses in the common order: `〒postal code prefecture municipality district and block number`.
+- Omit `日本` / `Japan` from displayed Japanese and Traditional Chinese addresses.
+- Translate `address.ja` into `address.zhTw`; do not preserve a conflicting or stale Chinese address when the Japanese source has changed.
+- Preserve address components such as `大字`, `字`, and `丁目` when they appear in the Japanese source, translating them consistently for Traditional Chinese.
+- Keep `address.en` optional until an accurate Romanized address is available; do not invent English addresses by blindly transliterating kanji.
+- Keep phone values as plain YAML strings without unnecessary quotes, for example `phone: 026-000-0000`.
+
 Coordinate rules:
 
 - Every existing `src/content/resorts/*.md` entry should have `location.latitude` and `location.longitude`.

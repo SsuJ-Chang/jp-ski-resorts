@@ -32,10 +32,10 @@ links:
   ticket: https://tohachi.jp/lift
 contact:
   address:
-    zhTw: 日本兵庫縣養父市別宮284
+    zhTw: 兵庫縣養父市別宮284
     ja: 〒667-1128 兵庫県養父市別宮284
     googleMaps: https://www.google.com/maps/search/?api=1&query=35.386003,134.566542
-  phone: "079-667-8201"
+  phone: 079-667-8201
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/27-2026/03/08"

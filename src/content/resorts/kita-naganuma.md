@@ -30,10 +30,10 @@ links:
   access: https://www.maoi-net.jp/kosodate_kyoiku/sports/sportsshisetsu/northski.html
 contact:
   address:
-    zhTw: 日本北海道夕張郡長沼町東6線北12番地
+    zhTw: 北海道夕張郡長沼町東6線北12番地
     ja: 〒069-1317 北海道夕張郡長沼町東6線北12番地
     googleMaps: https://maps.app.goo.gl/WuN8kJ8XsJTYWisv6
-  phone: "0123-89-2915"
+  phone: 0123-89-2915
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/24-2026/03/10"

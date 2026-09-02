@@ -32,10 +32,10 @@ links:
   access: http://www.zao-sumikawa.jp
 contact:
   address:
-    zhTw: 日本宮城縣刈田郡藏王町遠刈田温泉字倉石岳国有林内
+    zhTw: 宮城縣刈田郡藏王町遠刈田温泉字倉石岳国有林内
     ja: 〒989-0916 宮城県刈田郡蔵王町遠刈田温泉字倉石岳国有林内
     googleMaps: https://maps.app.goo.gl/GELzMkqntcKUoaRYA
-  phone: "0224-87-2610"
+  phone: 0224-87-2610
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/13-2026/04/05"

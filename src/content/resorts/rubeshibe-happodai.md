@@ -30,10 +30,10 @@ links:
   access: https://weathernews.jp/ski/spot/31705/
 contact:
   address:
-    zhTw: 日本北海道北見市留辺蘂町旭公園74番地6
+    zhTw: 北海道北見市留辺蘂町旭公園74番地6
     ja: 〒091-0026 北海道北見市留辺蘂町旭公園74番地6
     googleMaps: https://maps.app.goo.gl/nQzEpQygVLqfcDQ7A
-  phone: "0157-42-2750"
+  phone: 0157-42-2750
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/20"

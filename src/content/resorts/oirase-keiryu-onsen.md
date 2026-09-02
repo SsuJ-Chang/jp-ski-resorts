@@ -30,10 +30,10 @@ links:
   googleMaps: https://maps.app.goo.gl/JF6orPzzicF98h649
 contact:
   address:
-    zhTw: 日本青森縣十和田市法量字燒山 64-122
+    zhTw: 青森縣十和田市法量字燒山 64-122
     ja: 〒034-0303 青森県十和田市法量字焼山64-122
     googleMaps: https://maps.app.goo.gl/JF6orPzzicF98h649
-  phone: "0176-74-2008"
+  phone: 0176-74-2008
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/29-2026/03/08"

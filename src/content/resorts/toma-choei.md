@@ -29,10 +29,10 @@ links:
   access: https://weathernews.jp/ski/spot/31220/
 contact:
   address:
-    zhTw: 日本北海道上川郡當麻町市街6区
+    zhTw: 北海道上川郡當麻町市街6区
     ja: 〒078-1300 北海道上川郡当麻町市街6区
     googleMaps: https://maps.app.goo.gl/tG3jwCGhgqn5AqoNA
-  phone: "0166-84-2698"
+  phone: 0166-84-2698
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/01"

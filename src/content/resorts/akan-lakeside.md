@@ -31,7 +31,7 @@ links:
   access: https://weathernews.jp/ski/spot/31901/
 contact:
   address:
-    zhTw: 日本北海道釧路市阿寒町シュリコマベツ4-4
+    zhTw: 北海道釧路市阿寒町シュリコマベツ4-4
     ja: 〒085-0000 北海道釧路市阿寒町シュリコマベツ4-4
     googleMaps: https://maps.app.goo.gl/3VbcqA1RBNsTWCPa7
   phone: 0154-67-2881

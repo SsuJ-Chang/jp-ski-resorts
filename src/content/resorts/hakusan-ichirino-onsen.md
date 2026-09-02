@@ -32,7 +32,7 @@ links:
   googleMaps: https://maps.app.goo.gl/krHusDmHzgSVcpbj8
 contact:
   address:
-    zhTw: 日本石川縣白山市尾添リ 63
+    zhTw: 石川縣白山市尾添リ 63
     ja: 〒920-2333 石川県白山市尾添リ63
     googleMaps: https://maps.app.goo.gl/krHusDmHzgSVcpbj8
   phone: 076-256-7412

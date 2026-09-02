@@ -28,10 +28,10 @@ links:
   access: http://matuyama-net.com/ski/
 contact:
   address:
-    zhTw: 日本山形縣酒田市土渕字大平1-6
+    zhTw: 山形縣酒田市土渕字大平1-6
     ja: 〒999-6839 山形県酒田市土渕字大平1-6
     googleMaps: https://maps.app.goo.gl/nzxxXSPznEWtWGuF6
-  phone: "0234-62-2020"
+  phone: 0234-62-2020
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/01-2026/03/04"

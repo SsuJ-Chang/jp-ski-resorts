@@ -28,10 +28,10 @@ links:
   access: https://weathernews.jp/ski/spot/31716/
 contact:
   address:
-    zhTw: 日本北海道紋別市大山町25-2、25-3、25-4、25-9
+    zhTw: 北海道紋別市大山町25-2、25-3、25-4、25-9
     ja: 〒094-0021 北海道紋別市大山町25-2、25-3、25-4、25-9
     googleMaps: https://maps.app.goo.gl/L4MiAomtUNZz2K6x7
-  phone: "0158-24-7099"
+  phone: 0158-24-7099
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/上旬-2026/03/中旬"

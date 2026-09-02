@@ -27,10 +27,10 @@ links:
   googleMaps: https://maps.app.goo.gl/UaVnjsjeHjdfMYAq9
 contact:
   address:
-    zhTw: 日本岩手縣奧州市衣川長塚 303
+    zhTw: 岩手縣奧州市衣川長塚 303
     ja: 〒023-0000 岩手県奥州市衣川長塚303番地
     googleMaps: https://maps.app.goo.gl/UaVnjsjeHjdfMYAq9
-  phone: "0197-52-6611"
+  phone: 0197-52-6611
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/01-2026/03/16"

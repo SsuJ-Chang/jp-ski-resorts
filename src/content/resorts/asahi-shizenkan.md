@@ -28,10 +28,10 @@ links:
   access: http://www.shizenkan.jp/winter/
 contact:
   address:
-    zhTw: 日本山形縣西村山郡朝日町大字白倉745-1
+    zhTw: 山形縣西村山郡朝日町大字白倉745-1
     ja: 〒990-1574 山形県西村山郡朝日町大字白倉745-1
     googleMaps: https://maps.app.goo.gl/NuowQev75RCwQVEf8
-  phone: "0237-83-7111"
+  phone: 0237-83-7111
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/28-2026/03/15"

@@ -30,10 +30,10 @@ links:
   access: https://www.town.shirataka.lg.jp/1350.htm
 contact:
   address:
-    zhTw: 日本山形縣西置賜郡白鷹町大字中山2801
+    zhTw: 山形縣西置賜郡白鷹町大字中山2801
     ja: 〒992-0802 山形県西置賜郡白鷹町大字中山2801
     googleMaps: https://maps.app.goo.gl/PAMUK8e1G6ymApgu8
-  phone: "0238-87-2215"
+  phone: 0238-87-2215
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/09-2026/02/27"

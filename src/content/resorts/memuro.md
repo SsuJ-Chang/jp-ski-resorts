@@ -27,10 +27,10 @@ links:
   access: https://www.memuro.net/administration/soshiki/miryoku/shin-arashiyama/2025-1112-1623-114.html
 contact:
   address:
-    zhTw: 日本北海道河西郡芽室町中美生2線42
+    zhTw: 北海道河西郡芽室町中美生2線42
     ja: 〒082-0086 北海道河西郡芽室町中美生2線42
     googleMaps: https://maps.app.goo.gl/zF9yHJ3noz49DwQa6
-  phone: "0155-65-2121"
+  phone: 0155-65-2121
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/04-2026/03/15"

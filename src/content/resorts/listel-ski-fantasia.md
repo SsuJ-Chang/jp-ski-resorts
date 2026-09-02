@@ -30,10 +30,10 @@ links:
   access: http://www.listel-inawashiro.jp/snow_season/
 contact:
   address:
-    zhTw: 日本福島縣耶麻郡豬苗代町大字川桁リステルパーク
+    zhTw: 福島縣耶麻郡豬苗代町大字川桁リステルパーク
     ja: 〒969-2696 福島県耶麻郡猪苗代町大字川桁リステルパーク
     googleMaps: https://maps.app.goo.gl/MEnq34gEr6ghMBDGA
-  phone: "0242-66-4111"
+  phone: 0242-66-4111
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/29-2026/03/22"

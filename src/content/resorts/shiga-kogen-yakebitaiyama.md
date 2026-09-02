@@ -29,7 +29,7 @@ links:
   googleMaps: https://maps.app.goo.gl/FcxA3SuDqHpM372UA
 contact:
   address:
-    zhTw: 日本長野縣下高井郡山之內町志賀高原燒額山
+    zhTw: 長野縣下高井郡山之內町志賀高原燒額山
     ja: 〒381-0497 長野県下高井郡山ノ内町志賀高原焼額山
     googleMaps: https://maps.app.goo.gl/FcxA3SuDqHpM372UA
   phone: 0269-34-3117

@@ -28,10 +28,10 @@ links:
   access: https://www.town.mashike.hokkaido.jp/tourism/place/ski/index.html
 contact:
   address:
-    zhTw: 日本北海道增毛郡增毛町暑寒澤698-1
+    zhTw: 北海道增毛郡增毛町暑寒澤698-1
     ja: 〒077-0216 北海道増毛郡増毛町暑寒沢698-1
     googleMaps: https://maps.app.goo.gl/2hDKtLCWbHwMGXG18
-  phone: "0164-53-3002"
+  phone: 0164-53-3002
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/08"

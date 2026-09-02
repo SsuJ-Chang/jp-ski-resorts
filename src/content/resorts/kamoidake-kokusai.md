@@ -30,10 +30,10 @@ links:
   access: https://www.kamoidake.co.jp/
 contact:
   address:
-    zhTw: 日本北海道歌志内市歌神95番地9
+    zhTw: 北海道歌志内市歌神95番地9
     ja: 〒073-0404 北海道歌志内市歌神95番地9
     googleMaps: https://maps.app.goo.gl/yeXpvCtsBtvanCYv6
-  phone: "0125-74-5900"
+  phone: 0125-74-5900
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/28-2026/03/30"

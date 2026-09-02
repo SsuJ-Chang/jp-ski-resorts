@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/TAFHERD7fDwVAwybA
 contact:
   address:
-    zhTw: 日本長野縣下高井郡山之內町平穩寺小屋
+    zhTw: 長野縣下高井郡山之內町平穩寺小屋
     ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi, 山ノ内町Hirao, 寺小屋
     googleMaps: https://maps.app.goo.gl/TAFHERD7fDwVAwybA
   phone: 0269-34-2231

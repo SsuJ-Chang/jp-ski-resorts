@@ -25,10 +25,10 @@ links:
   googleMaps: https://maps.app.goo.gl/mqEvfP8g937aYUqL9
 contact:
   address:
-    zhTw: 日本岩手縣久慈市山形町來內 20-13-1
+    zhTw: 岩手縣久慈市山形町來內 20-13-1
     ja: 〒028-8605 岩手県久慈市山形町来内20-13-1
     googleMaps: https://maps.app.goo.gl/mqEvfP8g937aYUqL9
-  phone: "0194-72-2944"
+  phone: 0194-72-2944
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/28-2026/03/18"

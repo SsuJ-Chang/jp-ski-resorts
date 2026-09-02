@@ -28,10 +28,10 @@ links:
   access: https://nishikawa.gassankk.co.jp/
 contact:
   address:
-    zhTw: 日本山形縣西村山郡西川町大字間澤字サッテロ782-8
+    zhTw: 山形縣西村山郡西川町大字間澤字サッテロ782-8
     ja: 〒990-0703 山形県西村山郡西川町大字間沢字サッテロ782-8
     googleMaps: https://maps.app.goo.gl/gPtSv5naurcaZyoq8
-  phone: "0237-74-2778"
+  phone: 0237-74-2778
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/下旬-2026/03/15"

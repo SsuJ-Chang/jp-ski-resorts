@@ -27,10 +27,10 @@ links:
   access: http://kyowasnow.net/
 contact:
   address:
-    zhTw: 日本秋田縣大仙市協和船岡字上庄内71-1
+    zhTw: 秋田縣大仙市協和船岡字上庄内71-1
     ja: 〒019-2401 秋田県大仙市協和船岡字上庄内71-1
     googleMaps: https://maps.app.goo.gl/PRim99fuRQpKq5gc9
-  phone: "018-893-2050"
+  phone: 018-893-2050
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/03-2026/03/01"

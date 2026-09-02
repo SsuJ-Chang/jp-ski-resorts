@@ -32,7 +32,7 @@ links:
   access: https://weathernews.jp/ski/spot/32301/
 contact:
   address:
-    zhTw: 日本北海道亀田郡七飯町東大沼666
+    zhTw: 北海道亀田郡七飯町東大沼666
     ja: 〒041-1351 北海道亀田郡七飯町東大沼666
     googleMaps: https://maps.app.goo.gl/nWTPU3CCX2kUhnBb9
   phone: 0138-67-3355

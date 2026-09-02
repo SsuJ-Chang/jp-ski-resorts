@@ -32,10 +32,10 @@ links:
   googleMaps: https://maps.app.goo.gl/4FgrBzDRsmFmqSu67
 contact:
   address:
-    zhTw: 日本岩手縣北上市和賀町岩崎新田
+    zhTw: 岩手縣北上市和賀町岩崎新田
     ja: 〒024-0322 岩手県北上市和賀町岩崎新田
     googleMaps: https://maps.app.goo.gl/4FgrBzDRsmFmqSu67
-  phone: "0197-65-9000"
+  phone: 0197-65-9000
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/05-2026/05/02"

@@ -31,10 +31,10 @@ links:
   access: https://www.fujino-yagai-sports.jp/
 contact:
   address:
-    zhTw: 日本北海道札幌市南区藤野473-1
+    zhTw: 北海道札幌市南区藤野473-1
     ja: 〒061-2271 北海道札幌市南区藤野473-1
     googleMaps: https://maps.app.goo.gl/8LsMGkCu69wYPwkRA
-  phone: "011-591-8111"
+  phone: 011-591-8111
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/17-2026/03/29"

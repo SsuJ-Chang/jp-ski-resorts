@@ -31,10 +31,10 @@ links:
   access: https://www.nayoro.co.jp/piyashiri/top/
 contact:
   address:
-    zhTw: 日本北海道名寄市字日進
+    zhTw: 北海道名寄市字日進
     ja: 〒096-0066 北海道名寄市字日進
     googleMaps: https://maps.app.goo.gl/7VsDBkRRbBML9nHw5
-  phone: "01654-2-1180"
+  phone: 01654-2-1180
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/13-2026/03/22"

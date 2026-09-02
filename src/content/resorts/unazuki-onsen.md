@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/tZqBjJp4MKEkB3V1A
 contact:
   address:
-    zhTw: 日本富山縣黑部市宇奈月溫泉字大原 5738
+    zhTw: 富山縣黑部市宇奈月溫泉字大原 5738
     ja: 富山県黒部市宇奈月温泉字大原5738
     googleMaps: https://maps.app.goo.gl/tZqBjJp4MKEkB3V1A
   phone: 0765-62-1757

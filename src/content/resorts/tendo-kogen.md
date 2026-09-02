@@ -29,10 +29,10 @@ links:
   access: https://tendokogen.or.jp/
 contact:
   address:
-    zhTw: 日本山形縣天童市大字田麦野1321
+    zhTw: 山形縣天童市大字田麦野1321
     ja: 〒994-0104 山形県天童市大字田麦野1321
     googleMaps: https://maps.app.goo.gl/yphrx2gBLeFRm6pL6
-  phone: "023-657-3628"
+  phone: 023-657-3628
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/15"

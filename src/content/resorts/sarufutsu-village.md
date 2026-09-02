@@ -29,10 +29,10 @@ links:
   access: https://weathernews.jp/ski/spot/31104/
 contact:
   address:
-    zhTw: 日本北海道宗谷郡猿払村鬼志別西町238番地、及び225番地
+    zhTw: 北海道宗谷郡猿払村鬼志別西町238番地、及び225番地
     ja: 〒098-6232 北海道宗谷郡猿払村鬼志別西町238番地、及び225番地
     googleMaps: https://maps.app.goo.gl/zUyuMveTTWEpJzNw7
-  phone: "01635-2-3540"
+  phone: 01635-2-3540
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/下旬-2026/02/下旬"

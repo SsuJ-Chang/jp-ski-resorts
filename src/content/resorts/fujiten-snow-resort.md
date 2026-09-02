@@ -29,7 +29,7 @@ links:
   googleMaps: https://www.google.com/maps/search/?api=1&query=35.442203,138.687873
 contact:
   address:
-    zhTw: 日本山梨縣南都留郡鳴澤村字富士山 8545-1
+    zhTw: 山梨縣南都留郡鳴澤村字富士山 8545-1
     ja: 〒401-0320 山梨県南都留郡鳴沢村字富士山8545-1
     googleMaps: https://www.google.com/maps/search/?api=1&query=35.442203,138.687873
   phone: 0555-85-2000

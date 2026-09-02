@@ -31,10 +31,10 @@ links:
   access: https://ohdai.omagari-sc.com/
 contact:
   address:
-    zhTw: 日本秋田縣大仙市太田町川口字大台１−２
+    zhTw: 秋田縣大仙市太田町川口字大台１−２
     ja: 〒019-1615 秋田県大仙市太田町川口字大台１−２
     googleMaps: https://maps.app.goo.gl/nGWt8ivHfHApwgrb6
-  phone: "0187-89-1788"
+  phone: 0187-89-1788
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/29-2026/03/01"

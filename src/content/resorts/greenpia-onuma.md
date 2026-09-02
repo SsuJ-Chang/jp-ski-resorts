@@ -32,7 +32,7 @@ links:
   access: https://weathernews.jp/ski/spot/31613/
 contact:
   address:
-    zhTw: 日本北海道茅部郡森町字赤井川229
+    zhTw: 北海道茅部郡森町字赤井川229
     ja: 〒049-2142 北海道茅部郡森町字赤井川229
     googleMaps: https://maps.app.goo.gl/hNw9MiqfeCwzXWhw8
   phone: 01374-5-2277

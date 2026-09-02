@@ -32,10 +32,10 @@ links:
   googleMaps: https://maps.app.goo.gl/sgdnS3wCt6hqxUqz8
 contact:
   address:
-    zhTw: 日本岩手縣八幡平市安比高原
+    zhTw: 岩手縣八幡平市安比高原
     ja: 〒028-7395 岩手県八幡平市安比高原
     googleMaps: https://maps.app.goo.gl/sgdnS3wCt6hqxUqz8
-  phone: "0570-029-511"
+  phone: 0570-029-511
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/05-2026/05/02"

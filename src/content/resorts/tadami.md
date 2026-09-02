@@ -27,10 +27,10 @@ links:
   access: https://tadamikousya.sakura.ne.jp/
 contact:
   address:
-    zhTw: 日本福島縣南會津郡只見町大字只見字田ノ口24番地
+    zhTw: 福島縣南會津郡只見町大字只見字田ノ口24番地
     ja: 〒968-0421 福島県南会津郡只見町大字只見字田ノ口24番地
     googleMaps: https://maps.app.goo.gl/QaMNn6Vyyo9S6oe17
-  phone: "0241-82-2304"
+  phone: 0241-82-2304
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/01-2026/03/29"

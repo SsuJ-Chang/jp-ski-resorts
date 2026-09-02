@@ -32,10 +32,10 @@ links:
   access: http://www.ski.npo-emsc.net/
 contact:
   address:
-    zhTw: 日本北海道枝幸郡枝幸町北幸町7020-1
+    zhTw: 北海道枝幸郡枝幸町北幸町7020-1
     ja: 〒098-5822 北海道枝幸郡枝幸町北幸町7020-1
     googleMaps: https://maps.app.goo.gl/wrjKc3igWxmgT2fJ7
-  phone: "01636-2-1876"
+  phone: 01636-2-1876
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/04-2026/03/22"

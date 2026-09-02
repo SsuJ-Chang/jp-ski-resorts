@@ -27,10 +27,10 @@ links:
   googleMaps: https://maps.app.goo.gl/wAFD5CvmxQKAZCeR9
 contact:
   address:
-    zhTw: 日本岩手縣岩手郡雫石町高倉溫泉
+    zhTw: 岩手縣岩手郡雫石町高倉溫泉
     ja: 〒020-0593 岩手県岩手郡雫石町高倉温泉
     googleMaps: https://maps.app.goo.gl/wAFD5CvmxQKAZCeR9
-  phone: "019-693-1111"
+  phone: 019-693-1111
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/22"

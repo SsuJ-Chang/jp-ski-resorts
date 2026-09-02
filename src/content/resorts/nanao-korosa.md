@@ -24,7 +24,7 @@ links:
   googleMaps: https://maps.app.goo.gl/bXiwr3CAKjgNMw6q7
 contact:
   address:
-    zhTw: 日本石川縣七尾市多根町ハカノ谷內 555-7
+    zhTw: 石川縣七尾市多根町ハカノ谷內 555-7
     ja: 石川県七尾市多根町ハカノ谷内555-7
     googleMaps: https://maps.app.goo.gl/bXiwr3CAKjgNMw6q7
   phone: 0767-57-0022

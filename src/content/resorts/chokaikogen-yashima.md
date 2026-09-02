@@ -29,10 +29,10 @@ links:
   access: https://ski.city.yurihonjo.lg.jp/
 contact:
   address:
-    zhTw: 日本秋田縣由利本莊市矢島町荒澤字長保田6
+    zhTw: 秋田縣由利本莊市矢島町荒澤字長保田6
     ja: 〒015-0418 秋田県由利本荘市矢島町荒沢字長保田6
     googleMaps: https://maps.app.goo.gl/ZJMnyzU9cGGkM6mGA
-  phone: "0184-56-2182"
+  phone: 0184-56-2182
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/02-2026/03/22"

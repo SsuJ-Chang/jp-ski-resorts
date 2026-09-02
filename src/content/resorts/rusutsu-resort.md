@@ -35,7 +35,7 @@ links:
   access: https://weathernews.jp/ski/spot/31601/
 contact:
   address:
-    zhTw: 日本北海道虻田郡留寿都村字泉川13
+    zhTw: 北海道虻田郡留寿都村字泉川13
     ja: 〒048-1711 北海道虻田郡留寿都村字泉川13
     googleMaps: https://maps.app.goo.gl/9EA5BPhCVtBcC5Sz5
   phone: 0136-46-3111

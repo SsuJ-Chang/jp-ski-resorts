@@ -28,10 +28,10 @@ links:
   googleMaps: https://maps.app.goo.gl/49ABvnv1KdfM9ag27
 contact:
   address:
-    zhTw: 日本宮城縣刈田郡藏王町遠刈田溫泉倉石岳國有林內
+    zhTw: 宮城縣刈田郡藏王町遠刈田溫泉倉石岳國有林內
     ja: 〒989-0998 宮城県刈田郡蔵王町遠刈田温泉倉石岳国有林内
     googleMaps: https://maps.app.goo.gl/49ABvnv1KdfM9ag27
-  phone: "0224-34-4001"
+  phone: 0224-34-4001
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/12-2026/03/29"

@@ -29,10 +29,10 @@ links:
   googleMaps: https://maps.app.goo.gl/cTgjnrpe6TnBik946
 contact:
   address:
-    zhTw: 日本岩手縣岩手郡雫石町長山字岩手山
+    zhTw: 岩手縣岩手郡雫石町長山字岩手山
     ja: 〒020-0585 岩手県岩手郡雫石町長山字岩手山
     googleMaps: https://maps.app.goo.gl/cTgjnrpe6TnBik946
-  phone: "019-693-4000"
+  phone: 019-693-4000
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/13-2026/03/31"

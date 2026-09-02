@@ -29,10 +29,10 @@ links:
   access: https://uenono.com/
 contact:
   address:
-    zhTw: 日本宮城縣大崎市鳴子温泉古戸前132-159
+    zhTw: 宮城縣大崎市鳴子温泉古戸前132-159
     ja: 〒989-6826 宮城県大崎市鳴子温泉古戸前132-159
     googleMaps: https://maps.app.goo.gl/newDWGjVUj37fEXg7
-  phone: "0229-83-3650"
+  phone: 0229-83-3650
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/24-2026/02/26"

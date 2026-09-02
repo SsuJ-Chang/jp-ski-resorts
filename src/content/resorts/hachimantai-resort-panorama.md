@@ -29,10 +29,10 @@ links:
   googleMaps: https://maps.app.goo.gl/gV9JHD6gkMgoxmJY6
 contact:
   address:
-    zhTw: 日本岩手縣八幡平市松尾寄木 1-509-1
+    zhTw: 岩手縣八幡平市松尾寄木 1-509-1
     ja: 〒028-7302 岩手県八幡平市松尾寄木1-509-1
     googleMaps: https://maps.app.goo.gl/gV9JHD6gkMgoxmJY6
-  phone: "0195-78-2577"
+  phone: 0195-78-2577
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/22"

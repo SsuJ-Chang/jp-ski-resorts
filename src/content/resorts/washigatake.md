@@ -30,7 +30,7 @@ links:
   googleMaps: https://maps.app.goo.gl/SvUmtA9S9yPSQFYX7
 contact:
   address:
-    zhTw: 日本岐阜縣郡上市高鷲町大鷲 3250
+    zhTw: 岐阜縣郡上市高鷲町大鷲 3250
     ja: 〒501-5303 岐阜県郡上市高鷲町大鷲3250
     googleMaps: https://maps.app.goo.gl/SvUmtA9S9yPSQFYX7
   phone: 0575-72-5105

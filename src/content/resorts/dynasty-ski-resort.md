@@ -30,10 +30,10 @@ links:
   access: http://www.dynasty-resort.jp/
 contact:
   address:
-    zhTw: 日本北海道北広島市仁別82番4
+    zhTw: 北海道北広島市仁別82番4
     ja: 〒061-1267 北海道北広島市仁別82番4
     googleMaps: https://maps.app.goo.gl/8Ui6YKVvFyFd1NiG8
-  phone: "011-376-2611"
+  phone: 011-376-2611
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/28-2026/03/15"

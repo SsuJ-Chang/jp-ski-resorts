@@ -19,7 +19,7 @@ links:
   googleMaps: https://maps.app.goo.gl/fRVSSEbUjp8b7SWB8
 contact:
   address:
-    zhTw: Tei Nishinokawa, Saijo, Ehime 793-0215日本
+    zhTw: Tei Nishinokawa, Saijo, Ehime 793-0215
     ja: Tei Nishinokawa, Saijo, Ehime 793-0215日本
     googleMaps: https://maps.app.goo.gl/kTTh5qfZSVeLRpj6A
   phone: 897-59-0331

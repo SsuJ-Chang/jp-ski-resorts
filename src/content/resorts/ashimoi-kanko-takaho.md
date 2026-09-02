@@ -29,10 +29,10 @@ links:
   access: https://weathernews.jp/ski/spot/31301/
 contact:
   address:
-    zhTw: 日本北海道雨竜郡沼田町字高穂325
+    zhTw: 北海道雨竜郡沼田町字高穂325
     ja: 〒078-2214 北海道雨竜郡沼田町字高穂325
     googleMaps: https://www.google.com/maps/search/?api=1&query=43.8187,141.9683
-  phone: "0164-35-1011"
+  phone: 0164-35-1011
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/01"

@@ -29,7 +29,7 @@ contact:
     zhTw: 滋賀縣長浜市余呉町中之郷260
     ja: 〒529-0515 滋賀県長浜市余呉町中之郷260
     googleMaps: https://maps.app.goo.gl/sFvHMxXVePnwRLwPA
-  phone: "0749-86-4145"
+  phone: 0749-86-4145
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/03/08

@@ -25,10 +25,10 @@ links:
   access: http://www.h-greenland.com/
 contact:
   address:
-    zhTw: 日本北海道岩見澤市志文町1056番地 いわみざわ公園
+    zhTw: 北海道岩見澤市志文町1056番地 いわみざわ公園
     ja: 〒068-0833 北海道岩見沢市志文町1056番地 いわみざわ公園
     googleMaps: https://maps.app.goo.gl/HTYufrLLN288vVNZ9
-  phone: "0126-22-2121"
+  phone: 0126-22-2121
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/08-2026/02/25"

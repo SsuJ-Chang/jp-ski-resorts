@@ -31,7 +31,7 @@ links:
   access: https://www.meihoski.co.jp/access/
 contact:
   address:
-    zhTw: 日本岐阜縣郡上市明寶奧住 3447-1
+    zhTw: 岐阜縣郡上市明寶奧住 3447-1
     ja: 〒501-4304 岐阜県郡上市明宝奥住3447-1
     googleMaps: https://maps.app.goo.gl/NT783dCsBPnwVZEd6
   phone: 0575-87-2811

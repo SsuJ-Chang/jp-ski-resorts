@@ -29,10 +29,10 @@ links:
   access: http://www.izumigatake.info
 contact:
   address:
-    zhTw: 日本宮城縣仙台市泉区福岡字岳山
+    zhTw: 宮城縣仙台市泉区福岡字岳山
     ja: 〒981-3225 宮城県仙台市泉区福岡字岳山
     googleMaps: https://maps.app.goo.gl/XnTWAmrcsLfoEbYBA
-  phone: "022-379-1250"
+  phone: 022-379-1250
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/26-2026/02/23"

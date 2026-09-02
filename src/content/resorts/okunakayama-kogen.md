@@ -31,10 +31,10 @@ links:
   googleMaps: https://maps.app.goo.gl/5ug9iFgjKJ18amgVA
 contact:
   address:
-    zhTw: 日本岩手縣二戶郡一戶町奧中山字西田子 662-1
+    zhTw: 岩手縣二戶郡一戶町奧中山字西田子 662-1
     ja: 〒028-5134 岩手県二戸郡一戸町奥中山字西田子662-1
     googleMaps: https://maps.app.goo.gl/5ug9iFgjKJ18amgVA
-  phone: "0195-35-3131"
+  phone: 0195-35-3131
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/13-2026/03/29"

@@ -25,7 +25,7 @@ links:
   googleMaps: https://maps.app.goo.gl/9F3vTmnoLjjy9UDK8
 contact:
   address:
-    zhTw: 日本岐阜縣高山市一之宮町 7846-1
+    zhTw: 岐阜縣高山市一之宮町 7846-1
     ja: 〒509-3505 岐阜県高山市一之宮町7846-1
     googleMaps: https://maps.app.goo.gl/9F3vTmnoLjjy9UDK8
   phone: '0577532421'

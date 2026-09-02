@@ -24,7 +24,7 @@ links:
   googleMaps: https://maps.app.goo.gl/8DAcQt4BfY2hKivd8
 contact:
   address:
-    zhTw: 日本富山縣富山市本宮
+    zhTw: 富山縣富山市本宮
     ja: 富山県富山市本宮
     googleMaps: https://maps.app.goo.gl/8DAcQt4BfY2hKivd8
   phone: 076-482-1311

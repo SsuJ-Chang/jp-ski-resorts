@@ -29,10 +29,10 @@ links:
   googleMaps: https://maps.app.goo.gl/v623cYU4kF4J3iu17
 contact:
   address:
-    zhTw: 日本山形縣鶴岡市田麥俣字六十里山 104-1
+    zhTw: 山形縣鶴岡市田麥俣字六十里山 104-1
     ja: 〒997-0532 山形県鶴岡市田麦俣字六十里山104ー1
     googleMaps: https://maps.app.goo.gl/v623cYU4kF4J3iu17
-  phone: "0235-54-6450"
+  phone: 0235-54-6450
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/06-2026/03/31"

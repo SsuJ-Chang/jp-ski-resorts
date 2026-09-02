@@ -29,10 +29,10 @@ links:
   access: https://weathernews.jp/ski/spot/31307/
 contact:
   address:
-    zhTw: 日本北海道天塩郡豐富町字溫泉
+    zhTw: 北海道天塩郡豐富町字溫泉
     ja: 〒098-4132 北海道天塩郡豊富町字温泉
     googleMaps: https://maps.app.goo.gl/op386Jx8CiQ5Vvtg7
-  phone: "0162-82-2842"
+  phone: 0162-82-2842
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/04-2026/03/08"

@@ -28,10 +28,10 @@ links:
   ticket: https://zaisanku.weebly.com/spd.html
 contact:
   address:
-    zhTw: 日本奈良縣吉野郡天川村洞川678-220
+    zhTw: 奈良縣吉野郡天川村洞川678-220
     ja: 〒638-0431 奈良県吉野郡天川村洞川678-220
     googleMaps: https://maps.app.goo.gl/XEmWdPCRMfAsQzCv5
-  phone: "0747-64-0082"
+  phone: 0747-64-0082
 season:
   label: "2025-2026"
   operatingPeriod: "2026/01/31-2026/02/28"

@@ -28,10 +28,10 @@ links:
   access: http://www.zao-sarukura.co.jp
 contact:
   address:
-    zhTw: 日本山形縣上山市藏王字藏王山2843-1
+    zhTw: 山形縣上山市藏王字藏王山2843-1
     ja: 〒999-3113 山形県上山市蔵王字蔵王山2843-1
     googleMaps: https://maps.app.goo.gl/v13bfcBxW5HtAwRb9
-  phone: "023-679-2211"
+  phone: 023-679-2211
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/19-2026/03/08"

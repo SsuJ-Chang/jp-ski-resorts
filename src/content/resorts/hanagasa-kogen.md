@@ -30,10 +30,10 @@ links:
   access: http://www.city.obanazawa.yamagata.jp/
 contact:
   address:
-    zhTw: 日本山形縣尾花澤市大字鶴子858
+    zhTw: 山形縣尾花澤市大字鶴子858
     ja: 〒999-4443 山形県尾花沢市大字鶴子858
     googleMaps: https://maps.app.goo.gl/NaTQNXS6DSB1aoxQA
-  phone: "0237-28-3939"
+  phone: 0237-28-3939
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/27-2026/03/31"

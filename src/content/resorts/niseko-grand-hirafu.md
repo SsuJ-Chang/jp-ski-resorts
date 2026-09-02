@@ -30,7 +30,7 @@ links:
   googleMaps: https://maps.app.goo.gl/5VL3MPUEhUWrajTM6
 contact:
   address:
-    zhTw: 日本北海道虻田郡倶知安町二世谷 Hirafu 1 條 2 丁目 9-1
+    zhTw: 北海道虻田郡倶知安町二世谷 Hirafu 1 條 2 丁目 9-1
     ja: 〒044-0080 北海道虻田郡倶知安町ニセコひらふ1条2丁目9-1
     googleMaps: https://maps.app.goo.gl/5VL3MPUEhUWrajTM6
   phone: 0136-22-0109

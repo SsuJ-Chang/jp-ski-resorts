@@ -30,10 +30,10 @@ links:
   googleMaps: https://maps.app.goo.gl/bw4yuCpcUykjQEQDA
 contact:
   address:
-    zhTw: 日本福島縣南會津郡南會津町界字湯之入 293
+    zhTw: 福島縣南會津郡南會津町界字湯之入 293
     ja: 〒967-0631 南会津郡南会津町界字湯の入293
     googleMaps: https://maps.app.goo.gl/bw4yuCpcUykjQEQDA
-  phone: "0241-73-2111"
+  phone: 0241-73-2111
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/22"

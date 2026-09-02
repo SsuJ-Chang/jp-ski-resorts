@@ -31,7 +31,7 @@ links:
   access: https://weathernews.jp/ski/spot/31215/
 contact:
   address:
-    zhTw: 日本北海道上川郡上川町層雲峡
+    zhTw: 北海道上川郡上川町層雲峡
     ja: 〒078-1701 北海道上川郡上川町層雲峡
     googleMaps: https://maps.app.goo.gl/bHupZforoywA1JG88
   phone: 01658-5-3031

@@ -31,10 +31,10 @@ links:
   access: https://daikura.net/
 contact:
   address:
-    zhTw: 日本福島縣南會津郡田島町大字針生字昼滝山857-150
+    zhTw: 福島縣南會津郡田島町大字針生字昼滝山857-150
     ja: 〒967-0026 福島県南会津郡田島町大字針生字昼滝山857-150
     googleMaps: https://maps.app.goo.gl/g5NqFwACMnnCjfaTA
-  phone: "0241-64-2121"
+  phone: 0241-64-2121
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/20-2026/03/22"

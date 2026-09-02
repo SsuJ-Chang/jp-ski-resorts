@@ -25,7 +25,7 @@ links:
 contact:
   address:
     zhTw: 〒3970002 木曽町新開10034 地図を見る
-    ja: 〒3970002 木曽町新開10034 地図を見る
+    ja: 〒397-0002 木曽町新開10034 地図を見る
     googleMaps: https://www.google.com/maps/search/?api=1&query=Kiso%20Fukushima%20Ski%20Area
   phone: '0264276021'
 season:

@@ -30,10 +30,10 @@ links:
   access: https://iwanairesort.com
 contact:
   address:
-    zhTw: 日本北海道岩内郡岩内町野束350-4
+    zhTw: 北海道岩内郡岩内町野束350-4
     ja: 〒045-0024 北海道岩内郡岩内町野束350-4
     googleMaps: https://maps.app.goo.gl/e6KeJAA2P6bKXBaYA
-  phone: "0135-62-4622"
+  phone: 0135-62-4622
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/28-2026/03/15"

@@ -35,7 +35,7 @@ links:
   googleMaps: https://maps.app.goo.gl/72ZPG2PWHPoEReuf7
 contact:
   address:
-    zhTw: 日本岐阜縣郡上市高鷲町西洞 3035-2
+    zhTw: 岐阜縣郡上市高鷲町西洞 3035-2
     ja: 〒501-5305 岐阜県郡上市高鷲町西洞3035-2
     googleMaps: https://maps.app.goo.gl/72ZPG2PWHPoEReuf7
   phone: 0575-72-6636

@@ -31,7 +31,7 @@ links:
   access: https://weathernews.jp/ski/spot/32002/
 contact:
   address:
-    zhTw: 日本北海道河東郡上士幌町ぬかびら源泉郷南区75
+    zhTw: 北海道河東郡上士幌町ぬかびら源泉郷南区75
     ja: 〒080-1403 北海道河東郡上士幌町ぬかびら源泉郷南区75
     googleMaps: https://maps.app.goo.gl/xuGWnXZDeM7R8d8L9
   phone: 01564-4-2201

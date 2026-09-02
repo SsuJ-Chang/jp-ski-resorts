@@ -30,10 +30,10 @@ links:
   access: https://www.urabandai-ski.jp/
 contact:
   address:
-    zhTw: 日本福島縣耶麻郡北鹽原村大字檜原字大府平山1170
+    zhTw: 福島縣耶麻郡北鹽原村大字檜原字大府平山1170
     ja: 〒969-2701 福島県耶麻郡北塩原村大字檜原字大府平山1170
     googleMaps: https://maps.app.goo.gl/7YhmgJDTPtncJ4mS7
-  phone: "0241-32-2177"
+  phone: 0241-32-2177
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/19-2026/03/22"

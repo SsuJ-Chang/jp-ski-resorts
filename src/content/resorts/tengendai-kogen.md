@@ -30,10 +30,10 @@ links:
   googleMaps: https://maps.app.goo.gl/2FofFbriwm6eo9Cj7
 contact:
   address:
-    zhTw: 日本山形縣米澤市白布溫泉天元台
+    zhTw: 山形縣米澤市白布溫泉天元台
     ja: 〒992-1461 山形県米沢市白布温泉天元台
     googleMaps: https://maps.app.goo.gl/2FofFbriwm6eo9Cj7
-  phone: "0238-55-2236"
+  phone: 0238-55-2236
 season:
   label: "2025-2026"
   operatingPeriod: "2025/11/24-2026/05/06"
