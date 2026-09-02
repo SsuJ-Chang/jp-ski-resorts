@@ -36,7 +36,7 @@ const nearbyLodgingUrl = resort.data.location
 const hasRjOpinion = Boolean(resort.data.rjOpinion?.trim())
 const externalGuide = resort.data.externalGuide
 
-type OfficialLinkIcon = 'website' | 'facebook' | 'instagram' | 'threads' | 'xTwitter'
+type OfficialLinkIcon = 'website' | 'facebook' | 'instagram' | 'threads' | 'xTwitter' | 'youtube'
 
 type OfficialLinkItem = {
   key: string
@@ -85,6 +85,13 @@ const officialLinks = ([
     url: resort.data.links.xTwitter,
     analyticsResource: 'official_x_twitter',
     icon: 'xTwitter',
+  },
+  {
+    key: 'youtube',
+    label: '官方 YouTube 頻道',
+    url: resort.data.links.youtube,
+    analyticsResource: 'official_youtube',
+    icon: 'youtube',
   },
 ] satisfies OfficialLinkItem[]).filter((item): item is DisplayOfficialLinkItem => Boolean(item.url))
 
@@ -483,6 +490,12 @@ const resortStructuredData = [
                               <path
                                 data-filled="true"
                                 d="M4.4 4h4.2l3.7 5.1L16.8 4h2.8l-6 6.9 6.2 9.1h-4.2l-4.1-5.8L6.5 20H3.7l6.4-7.4L4.4 4Zm3.1 1.7 8.9 12.6h1.2L8.7 5.7H7.5Z"
+                              />
+                            )}
+                            {link.icon === 'youtube' && (
+                              <path
+                                data-filled="true"
+                                d="M21.6 7.2a2.9 2.9 0 0 0-2-2C17.8 4.7 12 4.7 12 4.7s-5.8 0-7.6.5a2.9 2.9 0 0 0-2 2C2 9 2 12 2 12s0 3 .4 4.8a2.9 2.9 0 0 0 2 2c1.8.5 7.6.5 7.6.5s5.8 0 7.6-.5a2.9 2.9 0 0 0 2-2C22 15 22 12 22 12s0-3-.4-4.8ZM10 15.5v-7l6 3.5-6 3.5Z"
                               />
                             )}
                           </svg>

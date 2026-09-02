@@ -19,7 +19,16 @@ const matchesHostname = (value: string, domains: string[]) => {
   return domains.some((domain) => hostname === domain || hostname.endsWith(`.${domain}`))
 }
 
-const socialLinkDomains = ['facebook.com', 'fb.com', 'instagram.com', 'threads.net', 'x.com', 'twitter.com']
+const socialLinkDomains = [
+  'facebook.com',
+  'fb.com',
+  'instagram.com',
+  'threads.net',
+  'x.com',
+  'twitter.com',
+  'youtube.com',
+  'youtu.be',
+]
 
 const socialUrlSchema = (domains: string[], label: string) =>
   z.url().refine((value) => matchesHostname(value, domains), {
@@ -37,6 +46,7 @@ const linkSchema = z.object({
   instagram: socialUrlSchema(['instagram.com'], 'Instagram').optional(),
   threads: socialUrlSchema(['threads.net'], 'Threads').optional(),
   xTwitter: socialUrlSchema(['x.com', 'twitter.com'], 'X/Twitter').optional(),
+  youtube: socialUrlSchema(['youtube.com', 'youtu.be'], 'YouTube').optional(),
   googleMaps: z.url().optional(),
   trailMapPage: z.url().optional(),
   trailMapPdf: z.url().optional(),
