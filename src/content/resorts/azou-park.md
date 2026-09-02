@@ -7,8 +7,8 @@ name:
 region: kansai-chugoku
 prefecture: 鳥取縣
 location:
-  latitude: 35.405842
-  longitude: 134.064231
+  latitude: 35.40594290948225
+  longitude: 134.06424779686006
 elevation:
   top: 300
   bottom: 200
@@ -20,13 +20,13 @@ links:
   official: https://azou-forest-park.com/facility#leisure
   trailMapPage: https://azou-forest-park.com/facility#leisure
   weather: https://weathernews.jp/ski/spot/36913/
-  googleMaps: https://maps.google.co.jp/maps?q=35.405842,134.064231
+  googleMaps: https://maps.app.goo.gl/2FenWqwjVMxj34mB6
   access: https://azou-forest-park.com/facility#leisure
 contact:
   address:
     zhTw: 鳥取縣鳥取市河內1185-1
     ja: 〒680-1425 鳥取県鳥取市河内1185-1
-    googleMaps: https://maps.google.co.jp/maps?q=35.405842,134.064231
+    googleMaps: https://maps.app.goo.gl/2FenWqwjVMxj34mB6
   phone: 0857-56-0024
 season:
   label: 2025-2026
@@ -84,4 +84,4 @@ externalContent:
   vlogs: []
 ---
 
-安藏公園在鳥取縣提供1 條雪道，搭配 2 座纜車。單一路線配置，重點在簡單滑行與基本練習，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。
+安藏公園在鳥取縣提供 1 條雪道，搭配 2 座纜車。單一路線配置，重點在簡單滑行與基本練習，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

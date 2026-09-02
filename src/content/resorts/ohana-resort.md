@@ -7,28 +7,29 @@ name:
 region: kansai-chugoku
 prefecture: 滋賀縣
 location:
-  latitude: 35.535787
-  longitude: 136.092625
+  latitude: 35.535464847250715
+  longitude: 136.09207398152216
 elevation:
   top: 592
   bottom: 384
   verticalDrop: 208
 tags:
 - family_friendly
-- night_skiing
 - snowboard_friendly
 - resort_village
 links:
   official: https://ohana-shiga.com/
   instagram: https://www.instagram.com/ohana_resort_shiga/
   trailMapPage: https://ohana-shiga.com/
+  ticket: https://ohana-shiga.com/
+  access: https://ohana-shiga.com/
   weather: https://weathernews.jp/ski/spot/36006/
-  googleMaps: https://maps.google.co.jp/maps?q=35.535787,136.092625
+  googleMaps: https://maps.app.goo.gl/AvrEffFNC4DSpc9u8
 contact:
   address:
     zhTw: 滋賀縣高島市マキノ町野口507
     ja: 〒520-1802 滋賀県高島市マキノ町野口507
-    googleMaps: https://maps.google.co.jp/maps?q=35.535787,136.092625
+    googleMaps: https://maps.app.goo.gl/AvrEffFNC4DSpc9u8
   phone: 0740-28-0875
 season:
   label: 2025-2026
@@ -40,44 +41,58 @@ trailMaps:
 - label: Ohana Resort 官方雪道資訊
   language: 日本語
   season: 2025-2026
-  url: https://ohana-shiga.com/
+  url: https://ohana-shiga.com/wp-content/uploads/2026/02/ゲレンデマップ.png
   sourceLabel: Ohana Resort Official
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/36006/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  source: https://ohana-shiga.com/
+  note: 12/29 ~ 1/4 適用週末及國定假日票價與營業時間。兒童票適用國小以下，長者票適用 60 歲以上；未就學兒童也收取兒童票價。票券限購買當日使用且不得退換；單次票僅接受現金。出示身心障礙者手冊可享上述票價半價，同行 1 人也可享半價，以 ¥50 為單位進位。
   plans:
-    - name: 1日券平日
+    - name: 平日 1 日券
       priceLines:
         - 成人：¥4,500
         - 兒童：¥3,000
-        - 長者：¥3,500
-    - name: 1日券週末及國定假日
+        - 長者（60 歲以上）：¥3,500
+      note: 可從營業開始時間使用至 17:00。
+    - name: 平日上午券
+      priceLines:
+        - 成人：¥3,800
+        - 兒童：¥2,500
+        - 長者（60 歲以上）：¥3,000
+      note: 可從營業開始時間使用至 13:00。
+    - name: 平日下午券
+      priceLines:
+        - 成人：¥3,800
+        - 兒童：¥2,500
+        - 長者（60 歲以上）：¥3,000
+      note: 可於 12:00 ~ 17:00 使用。
+    - name: 週末及國定假日 1 日券
       priceLines:
         - 成人：¥5,000
         - 兒童：¥3,800
-        - 長者：¥4,000
-    - name: 午後券平日
-      priceLines:
-        - 成人：¥3,800
-        - 兒童：¥2,800
-        - 長者：¥3,000
-    - name: 午後券週末及國定假日
+        - 長者（60 歲以上）：¥4,000
+      note: 可從營業開始時間使用至 17:00。
+    - name: 週末及國定假日上午券
       priceLines:
         - 成人：¥4,000
         - 兒童：¥3,000
-        - 長者：¥3,200
-    - name: 1 回券
+        - 長者（60 歲以上）：¥3,200
+      note: 可從營業開始時間使用至 13:00。
+    - name: 週末及國定假日下午券
       priceLines:
-        - 成人：¥500
-        - 兒童：¥500
-        - 長者：¥500
-    - name: 動態步道使用券
+        - 成人：¥4,000
+        - 兒童：¥3,000
+        - 長者（60 歲以上）：¥3,200
+      note: 可於 12:00 ~ 17:00 使用。
+    - name: 1 次券
       priceLines:
-        - 成人：¥1,200
-        - 兒童：¥1,200
-        - 長者：¥1,200
+        - 全票種統一：¥500
+      note: 僅接受現金。
+    - name: 移動式步道使用券
+      priceLines:
+        - 全票種統一：¥1,200
+      note: 可從營業開始時間使用至 16:50。
 snowWeather:
   title: Ohana Resort雪況天氣
   provider: Weathernews
@@ -89,49 +104,59 @@ snowWeather:
 courses:
   total: 5
   courseInfoPage: https://ohana-shiga.com/
-  summary: 列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 官方頁面列出 4 條主要雪道，另設有使用移動式步道的兒童雪地區雪道；雪道地圖並標示 4 部ロマンスリフト。
   details:
+  - name: ムービングコース（ちびっこゲレンデ）
+    difficulty: beginner
+    note: 位於山麓的兒童雪地區，設有移動式步道，官方介紹為幼童與初學者也能使用的區域。
   - name: 乗鞍第1コース
     difficulty: beginner
     length: 1,200m
     maxSlope: 16°
     averageSlope: 9°
-    note: 較長的初級線；官方資料並列出全長 1,200m、最大坡度 16°、平均坡度 9°。
+    note: 緩和的長距離初級雪道，官方介紹為適合兒童與初學者練習的路線。
   - name: 乗鞍第2コース
     difficulty: intermediate
     length: 460m
     maxSlope: 20°
     averageSlope: 11°
-    note: 中級路線；官方資料並列出全長 460m、最大坡度 20°、平均坡度 11°。
+    note: 經過整備且坡度變化較少的中級雪道。
   - name: 大谷第2コース
     difficulty: intermediate
     length: 520m
     maxSlope: 25°
     averageSlope: 12°
-    note: 中級路線；官方資料並列出全長 520m、最大坡度 25°、平均坡度 12°。
+    note: 官方介紹為適合自由滑行的中級雪道。
   - name: 大谷第1コース
     difficulty: advanced
     length: 600m
     maxSlope: 31°
     averageSlope: 17°
-    note: 進階坡；官方資料並列出全長 600m、最大坡度 31°、平均坡度 17°。
-  beginnerRatio: 20
-  intermediateRatio: 60
-  advancedRatio: 20
+    note: 坡面變化較豐富的上級雪道。
 lifts:
   total: 4
 access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：湖西線マキノ駅下車 バスで (20分) 車 ：北陸道木之本IC→一般道(木之本IC〜18km) (30分) 車 ：京都東IC→湖西道路→一般道 77km (70分) からすぐにゲレンデという便利さ！ビギナー、ファミリー、そして上級者もお楽しみいただけます。 {{hitokoto}} 新型コロナウイルス感染予防対策 --> 標高 592m 〜 384m コース数 5 リフト数 4 ボード滑走 全面可 コース難易度 初級者向け 20％ 中級者向け 60％ 上級者向け 20％ レンタル スキー：○ スノーボード：○ レンタル料金 スキーセット 大人：5000円 子供：3500円 スキーウェア 大人：3500円 子供：2000円 ボードセット 大人：5000円 子供：3500円 ボードウェア 大人：3500円 子供：2000円 スクール スキー：× スノーボード：× スキー（子供）：× スノーボード（子供）：× モーグル：× パイプ：× リフト料金 ◆1日券平日 大人 4500円 小人 3000円 シニア 3500円 ◆1日券週末及國定假日 大人 5000円 小人 3800円 シニア 4000円 ◆午後券平日 大人 3800円 小人 2800円 シニア 3000円 ◆午後券週末及國定假日 大人 4000円 小人 3000円 シニア 3200円 ◆1回券 大人 500円 小人 500円 シニア 500円 ◆ムービングベルト利用券 大人 1200円 小人 1200円 シニア 1200円 キャッシュレス決済 チケット購入：○ レストラン：○ ショップ：○ 決済方法 クレジットカード、PayPay、QUICPay、交通系ICなど スノーパーク × キッズパーク ○ 詳細 --> ソリ、雪遊びができます。利用料金は免費です。 パイプ × ペットの同伴 × 近場の温泉 マキノ高原温泉「さらさ」 車で約15分 浴室男女別裸浴、バーデゾーン男女水着混浴の温泉です。 住所 〒520-1802 滋賀県高島市マキノ町野口507 地図を見る お問い合わせ TEL：0740-28-0875 ホームページ 營業期間 2025年12月28日 ~ 2026年03月06日 營業時間 平日：8:30〜17:00 假日：8:00〜17:00 夜滑：実施無 交通案内 電車 ：湖西線マキノ駅下車
-      バスで (20分) 車 ：北陸道木之本IC→一般道(木之本IC〜18km) (30分) 車 ：京都東IC→湖西道路→一般道 77km (70分) 施設 シャワー 仮眠所 人工降雪機/人工造雪機 更衣室 荷物置き場 キッズパーク 託児所 ペットの同伴 駐車場 450台 平日 普通車 1000円〜 假日 普通車 1000円〜
+    note: 自駕路線：大阪方向約 113km，從吹田 IC 經名神高速公路至京都東 IC，再經湖西道路與國道 161 號約 77km；名古屋方向約 100km，從小牧 IC 經名神高速公路、米原 JCT 與北陸自動車道至木之本 IC，再經國道 161 號約 18km；福井方向約 67km，從福井 IC 經北陸自動車道至敦賀 IC，再經國道 161 號約 17km。停車場約可容納 450 輛，小客車 ¥1,000、小型巴士 ¥3,000、大型巴士 ¥5,000；約於營業開始前 1 小時開放至 17:30，僅接受現金。
+  publicTransit:
+    - label: JR マキノ站轉乘巴士
+      steps:
+        - 搭乘 JR 湖西線至マキノ站。
+        - 從マキノ站轉乘巴士前往 Ohana Resort，車程約 20 分鐘。
+      estimatedTime: 約 20 分鐘
+      difficulty: easy
+      note: 官方頁面僅列出巴士車程，班次、乘車處與停靠站請以當季交通公告為準。
+      links:
+        - label: Ohana Resort 官方交通資訊
+          url: https://ohana-shiga.com/
 terrainSummary:
-  beginner: 初級雪道以 乗鞍第1コース 為主，適合練習速度控制與穩定轉彎。
+  beginner: 初級區包含乗鞍第1コース與使用移動式步道的兒童雪地區雪道，雪道緩和且有較長滑行距離。
   intermediate: 中級者可用 乗鞍第2コース、大谷第2コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 大谷第1コース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
 
 ---
 
-Ohana Resort位於滋賀縣，共有5 條雪道、4 座纜車，白天可先把主要雪道滑順，晚上再接燈光雪面延長時段。乗鞍第1コース、乗鞍第2コース這類主線適合暖身與反覆練習。若想把練習、夜滑和地方停留排在同一天，這種地方型雪場會比單純趕場更順。
+Ohana Resort 位於滋賀縣高島市，有 4 條主要雪道、4 部纜車，另設有使用移動式步道的兒童雪地區雪道。乗鞍第1コース是緩和的長距離初級線，乗鞍與大谷區的其他雪道則提供中級至上級的坡度變化。

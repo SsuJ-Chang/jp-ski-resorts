@@ -7,8 +7,8 @@ name:
 region: kansai-chugoku
 prefecture: 山口縣
 location:
-  latitude: 34.452054
-  longitude: 131.695918
+  latitude: 34.45208224299871
+  longitude: 131.69581569682973
 elevation:
   top: 850
   bottom: 600
@@ -20,15 +20,18 @@ tags:
 - snowboard_friendly
 - tree_run
 links:
-  official: https://sites.google.com/view/tokusagaminesuki/%E7%A9%8D%E9%9B%AA%E6%83%85%E5%A0%B1
+  official: https://sites.google.com/view/tokusagaminesuki/
+  facebook: https://www.facebook.com/profile.php?id=61559737164691
+  instagram: https://www.instagram.com/tokusagaminewoodpaqk/
+  youtube: https://www.youtube.com/channel/UCz95Fn9twCjEYFkVRBpdzog
   trailMapPage: https://sites.google.com/view/tokusagaminesuki/%E7%A9%8D%E9%9B%AA%E6%83%85%E5%A0%B1
   weather: https://weathernews.jp/ski/spot/38103/
-  googleMaps: https://maps.google.co.jp/maps?q=34.452054,131.695918
+  googleMaps: https://maps.app.goo.gl/kTTh5qfZSVeLRpj6A
 contact:
   address:
     zhTw: 山口縣山口市阿東町嘉年下１１５０５−１
     ja: 〒759-1602 山口県山口市阿東町嘉年下１１５０５−１
-    googleMaps: https://maps.google.co.jp/maps?q=34.452054,131.695918
+    googleMaps: https://maps.app.goo.gl/kTTh5qfZSVeLRpj6A
   phone: 083-958-0547
 season:
   label: 2025-2026
@@ -45,32 +48,29 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/38103/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  source: https://sites.google.com/view/tokusagaminesuki/%E6%96%99%E9%87%91
+  note: 2025-2026 雪季票價；成人為中學生以上，兒童為小學生以下，11 回券與 1 回券可於日後使用。
   plans:
     - name: 1 日券
       priceLines:
         - 成人：¥4,100
         - 兒童：¥3,050
-        - 長者：¥3,050
     - name: 11 回券
       priceLines:
         - 成人：¥2,600
+        - 兒童：¥2,600
     - name: 上午券
       priceLines:
         - 成人：¥2,600
         - 兒童：¥2,100
-        - 長者：¥2,100
     - name: 下午券
       priceLines:
         - 成人：¥3,200
         - 兒童：¥2,600
-        - 長者：¥2,600
     - name: 1 回券
       priceLines:
         - 成人：¥300
         - 兒童：¥300
-        - 長者：¥300
 snowWeather:
   title: 十種峰雪況天氣
   provider: Weathernews
@@ -82,39 +82,50 @@ snowWeather:
 courses:
   total: 5
   courseInfoPage: https://sites.google.com/view/tokusagaminesuki/%E7%A9%8D%E9%9B%AA%E6%83%85%E5%A0%B1
-  summary: 共 1 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 官方列出 5 條雪道，包含初級與雪橇區、初中級路線、林間路線、中上級路線及上級路線；目前官方雪況頁標示全部不可滑行。
   details:
   - name: 初級・ソリゲレンデ
     difficulty: beginner
-    note: 官方狀態頁列為初級者與雪盆區；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    note: 官方列為初級者與雪橇雪道；目前官方雪況頁標示不可滑行。
   - name: 初級・中級者コース
     difficulty: intermediate
-    note: 官方狀態頁列為初中級者路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    note: 官方列為初中級者路線；目前官方雪況頁標示不可滑行。
   - name: 林間コース
     difficulty: intermediate
-    note: 官方狀態頁列名林間路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    note: 官方列有林間路線；目前官方雪況頁標示不可滑行。
   - name: 中級・上級者コース
     difficulty: advanced
-    note: 官方狀態頁列為中上級者路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    note: 官方列為中上級者路線；目前官方雪況頁標示不可滑行。
   - name: 上級者コース
     difficulty: advanced
-    note: 官方狀態頁列為上級者路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
-  beginnerRatio: 30
-  intermediateRatio: 40
-  advancedRatio: 30
+    note: 官方列為上級者路線；目前官方雪況頁標示不可滑行。
 lifts:
   total: 1
 access:
+  publicTransit:
+  - label: 德佐站轉乘計程車
+    steps:
+    - 搭乘 JR 山口線至德佐站。
+    - 車站步行約 2 分鐘可找到德佐計程車，再洽詢前往雪場的接送。
+    difficulty: medium
+    note: 官方明確說明沒有前往雪場的公車，並提供德佐計程車電話 083-956-0640。
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：山口県徳佐駅からバスで (20分) 車 ：中国自動車道鹿野ICよりR315北上 (45分) 車 ：中国自動車小郡ICよりR9号北上 (70分) 200台 平日 500円 假日 500円
+    note: 從山口市區經一般道路約 70 分鐘、防府市約 90 分鐘、周南市約 90 分鐘可抵達。官方提醒降雪日禁止使用普通輪胎，必須攜帶雪鏈；停車費為輕型與普通車 ¥500、露營車 ¥1,000、大型車與巴士 ¥2,000。
 terrainSummary:
   beginner: 初級雪道以 初級・ソリゲレンデ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 初級・中級者コース、林間コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 中級・上級者コース、上級者コース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+sources:
+  - label: 十種峰官方交通
+    url: https://sites.google.com/view/tokusagaminesuki/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9
+  - label: 十種峰官方雪票
+    url: https://sites.google.com/view/tokusagaminesuki/%E6%96%99%E9%87%91
+  - label: 十種峰官方雪況
+    url: https://sites.google.com/view/tokusagaminesuki/%E7%A9%8D%E9%9B%AA%E6%83%85%E5%A0%B1
 
 ---
 
-十種峰位於山口縣，以5 條雪道形成小型雪場規模，搭配 1 座纜車。主要路線有 初級・ソリゲレンデ、初級・中級者コース、林間コース，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+十種峰位於山口縣，以 5 條天然雪雪道形成小型雪場規模，搭配 1 座纜車。路線涵蓋初級與雪橇區、初中級、林間、中上級及上級者雪道，另有適合家庭使用的雪橇活動空間。

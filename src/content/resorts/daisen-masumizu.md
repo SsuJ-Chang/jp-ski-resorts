@@ -7,8 +7,8 @@ name:
 region: kansai-chugoku
 prefecture: 鳥取縣
 location:
-  latitude: 35.3654
-  longitude: 133.5172
+  latitude: 35.36899814756211
+  longitude: 133.51628705452973
 elevation:
   top: 950
   bottom: 740
@@ -18,17 +18,19 @@ tags:
 - family_friendly
 - night_skiing
 links:
-  official: https://www.masumizu.net/
+  official: https://www.masumizu.net/ski.html
   facebook: https://www.facebook.com/masumizutenkuu/
   instagram: https://www.instagram.com/masumizutenkuu/
   trailMapPage: https://www.masumizu.net/ski.html
+  access: https://www.masumizu.net/access.html
+  ticket: https://www.masumizu.net/ski.html#
   weather: https://weathernews.jp/ski/spot/36907/
-  googleMaps: https://maps.google.co.jp/maps?q=35.3654,133.5172
+  googleMaps: hhttps://maps.app.goo.gl/QWge5wdBFmtccTRv9
 contact:
   address:
     zhTw: 鳥取縣西伯郡伯耆町大内桝水高原1069-50
     ja: 〒689-4215 鳥取県西伯郡伯耆町大内桝水高原1069-50
-    googleMaps: https://maps.google.co.jp/maps?q=35.3654,133.5172
+    googleMaps: https://maps.app.goo.gl/QWge5wdBFmtccTRv9
   phone: 0859-52-2420
 season:
   label: 2025-2026
@@ -45,33 +47,42 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/36907/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  source: https://www.masumizu.net/ski.html#
+  note: 纜車券價格已包含入場費；下列為官方頁面公布的主要票種。
   plans:
     - name: 1 日券
       priceLines:
         - 成人：¥4,700
         - 兒童：¥3,700
-    - name: 午前券・午後券
+    - name: 上午券
       priceLines:
         - 成人：¥3,700
         - 兒童：¥2,700
-    - name: 夜滑券(週五、週六、國定假日前一天)
+    - name: 下午券
       priceLines:
-        - 成人：¥4,000
-        - 兒童：¥4,000
+        - 成人：¥3,700
+        - 兒童：¥2,700
+      note: 13:00～17:00。
+    - name: 夜滑券
+      priceLines:
+        - 成人、兒童：¥4,000
     - name: 11 回券
       priceLines:
-        - 成人：¥5,500
-        - 兒童：¥5,500
+        - 成人、兒童：¥5,500
     - name: 入場券
       priceLines:
         - 成人：¥500
         - 兒童：¥500
-    - name: 平日限定1時間券
+    - name: 1 小時券（平日限定）
       priceLines:
-        - 成人：¥1,300
-        - 兒童：¥1,300
+        - 成人：¥1,500
+        - 兒童：¥1,500
+      note: 自發券起 1 小時內有效。
+    - name: 季票
+      priceLines:
+        - 18 歲以上：¥35,000
+        - 未滿 18 歲：¥30,000
+      note: 自雪季開始至 2 月底有效。
 snowWeather:
   title: 大山桝水高原 Snow Park雪況天氣
   provider: Weathernews
@@ -83,34 +94,42 @@ snowWeather:
 courses:
   total: 3
   courseInfoPage: https://www.masumizu.net/ski.html
-  summary: 列為 3 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 官方頁面介紹 1 條約 700m 的主要雪道，另設初學者練習雪場與雪遊戲區；雪場配置 1 組纜車。
   details:
   - name: 初心者練習ゲレンデ
     difficulty: beginner
-    note: 山麓側入門練習坡；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    note: 官方列為初學者練習用雪場，未提供長度與坡度數值。
   - name: メインゲレンデ
     difficulty: intermediate
     length: 700m
     maxSlope: 30°
-    note: 官方說明主坡約 700m、標高差約 160m、最大坡度 30 度。
+    note: 官方說明全長約 700m、高低差約 160m、最大坡度約 30°，可眺望米子市區與日本海。
   - name: スノープレイゾーン
     difficulty: beginner
-    note: 雪上遊樂與親子取向區域；目前官方來源未公開更細的全長、坡度或雪面特色描述。
-  beginnerRatio: 40
-  intermediateRatio: 40
-  advancedRatio: 20
+    note: 提供雪上溜滑梯、雪橇、遊具與雪山等雪地遊樂設施；4 歲未滿兒童免費。
 lifts:
   total: 1
 access:
+  publicTransit:
+    - label: 計程車接送
+      steps:
+        - 非自駕旅客可預約青空計程車或青空交通前往雪場。
+        - 預約與諮詢電話：0859-22-3939。
+      difficulty: medium
+      note: 使用指定交通服務可獲得纜車券折價券；費用與預約方式請直接向業者確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：岡山駅より伯備線にて米子(120分)タクシーにて(30分) (150分) 車 ：岡山IC→溝口IC→一般道 (103分) 車 ：高松西IC→溝口IC→一般道 (145分) 飛行機：米子空港より (60分) からゲレンデ止がすぐでアクセスが便利♪ゲレンデには充実のパークアイテムの設置。ファミリーからシニア止幅広い世代に楽しんでいただけるスキー場です。 {{hitokoto}} 新型コロナウイルス感染予防対策 --> 標高 950m 〜 740m コース数 3 リフト数 1 ボード滑走 一部を除いて可 コース難易度 初級者向け 40％ 中級者向け 40％ 上級者向け 20％ レンタル スキー：○ スノーボード：○ レンタル料金 スキーセット 大人：3500円 子供：2500円 スキーウェア 大人：3000円 子供：2000円 ボードセット 大人：3500円 子供：3500円 ボードウェア 大人：3000円 子供：2000円 スクール スキー：○ スノーボード：○ スキー（子供）：○ スノーボード（子供）：○ モーグル：× パイプ：× リフト料金 ◆1日券 大人 4700円 小人 3700円 ◆午前券・午後券 大人 3700円 小人 2700円 ◆夜滑券(週五、週六、國定假日前一天) 大人 4000円 小人 4000円 ◆11回券 大人 5500円 小人 5500円 ◆入場券 大人 500円 小人 500円 ◆平日限定1時間券 大人 1300円 小人 1300円 ◆レディースDAY(每週週五) 大人 2000円 ◆初滑り情報 12/19(週五)安全祈願祭、20(週六)よりリフト運行開始予定 ※各リフト券には入場料が含まれております。※入場料は4歳未満は免費。 キャッシュレス決済 チケット購入：× レストラン：× ショップ：× 決済方法 クレジットカード、paypay スノーパーク ○ 詳細 --> キッカー・各種BOX・レールなど充実の設置ラインナップ キッズパーク ○ 詳細 --> そり広場、遊具でお父さんお母さんと一緒にお楽しみいただけます。※雪遊びゾーンは入場券500円が必要です。※入場料は4歳未満は免費。 パイプ × ペットの同伴 ○ 近場の温泉 【岸本ゆうあいパル】【豪円湯院】 車で20分 車で30分〜40分 ウィンタースポーツの後はゆっくり体を癒せる温泉が最高!!
-      住所 〒689-4215 鳥取県西伯郡伯耆町大内桝水高原1069-50 地図を見る お問い合わせ TEL：0859-52-2420 ホームページ 營業期間 2025年12月27日 ~ 2026年03月01日 營業時間 平日：9:00〜17:00(週一至週五) 假日：9:00〜17:00（週六、週日、國定假日） 夜滑：週五、週六、國定假日前一天17:30〜22:00 交通案内 電車 ：岡山駅より伯備線にて米子(120分)タクシーにて(30分) (150分) 車 ：岡山IC→溝口IC→一般道 (103分) 車 ：高松西IC→溝口IC→一般道 (145分) 飛行機：米子空港より (60分) 施設 シャワー 仮眠所 人工降雪機/人工造雪機 更衣室 荷物置き場 キッズパーク 託児所 ペットの同伴 駐車場 250台 平日 免費 假日 免費
+    note: 從溝口 IC 經縣道 45 號上山，沿途可看到作為交通據點的 Field Station 三叉路；雪場周邊有約 250 台免費停車位。冬季山路請準備雪胎或雪鏈。
 terrainSummary:
-  beginner: 初級雪道以 初心者練習ゲレンデ、スノープレイゾーン 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 メインゲレンデ 串接較長滑行或主坡巡航。
+  beginner: 初學者可使用練習雪場與雪遊戲區，主要雪道亦有適合練習的坡段。
+  intermediate: 主要雪道全長約 700m，可安排中級滑行與坡面巡航。
+sources:
+  - label: 大山桝水高原官方交通
+    url: https://www.masumizu.net/access.html
+  - label: 大山桝水高原官方雪票與雪道
+    url: https://www.masumizu.net/ski.html#
 
 ---
 
-大山桝水高原 Snow Park在鳥取縣提供3 條雪道，搭配 1 座纜車。路線包含 初心者練習ゲレンデ、メインゲレンデ、スノープレイゾーン，整體初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+大山桝水高原 Snow Park 位於鳥取縣伯耆町，配置 1 組纜車與約 700m 的主要雪道，另有初學者練習雪場及雪遊戲區。主要雪道高低差約 160m、最大坡度約 30°，並設有夜滑時段；免費停車場距離雪場步行約 1 分鐘，適合想輕鬆安排日間或夜間滑行的旅客。

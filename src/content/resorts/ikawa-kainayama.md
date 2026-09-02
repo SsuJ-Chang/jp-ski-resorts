@@ -6,10 +6,21 @@ name:
   en: Ikawa Ski Resort Kainayama
 region: kansai-chugoku
 prefecture: 德島縣
+location:
+  latitude: 33.96341363749772
+  longitude: 133.88476143729469
 links:
   official: https://www.ikawaski.jp/
+  facebook: https://www.facebook.com/people/%E4%BA%95%E5%B7%9D%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4-%E3%81%8B%E3%81%84%E3%81%AA%E3%81%A3%E3%81%93/100062946354531/
+  instagram: https://www.instagram.com/ikawaskipark_kaina/
   weather: https://weathernews.jp/ski/spot/37103/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=%E4%BA%95%E5%B7%9D%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4%E8%85%95%E5%B1%B1
+  googleMaps: https://maps.app.goo.gl/vnuHBJkXrb41w1CF9
+contact:
+  address:
+    zhTw: Ikawacho Iuchinishi, 三好市德島縣 779-4805
+    ja: Ikawacho Iuchinishi, 三好市德島縣 779-4805
+    googleMaps: https://maps.app.goo.gl/kTTh5qfZSVeLRpj6A
+  phone: 883-78-3003
 snowWeather:
   title: 井川腕山雪況天氣
   provider: Weathernews
@@ -46,6 +57,14 @@ access:
     recommended: true
     snowTireRequired: true
     note: 從德島市區使用高速道路約 100 分、約 80km；從高松市區使用高速道路約 130 分、約 70km。冬季山區道路需準備雪胎或防滑裝備。
+externalContent:
+  blogs:
+    - title: 井川滑雪場腕山｜三好市官方觀光介紹
+      url: https://miyoshi-tourism.jp/spot/110/
+  vlogs: []
+sources:
+  - label: 三好市官方觀光介紹
+    url: https://miyoshi-tourism.jp/spot/110/
 ---
 
-井川腕山在德島縣提供5 條雪道。路線包含 ちびっこゲレンデ、ナデシココース、メインゲレンデ，整體初級、中級與上級路線都有配置。
+井川腕山在德島縣提供 5 條雪道。路線包含 ちびっこゲレンデ、ナデシココース、メインゲレンデ，整體初級、中級與上級路線都有配置。

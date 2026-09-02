@@ -1,88 +1,92 @@
 ---
 id: mineyama-kogen-white-peak
 name:
-  zhTw: 峰山高原 Resort WHITE PEAK
-  ja: 峰山高原リゾート WHITE PEAK
+  zhTw: 峰山高原 WHITE PEAK
+  ja: 峰山高原リゾート ホワイトピーク
   en: Mineyama Kogen Resort WHITE PEAK
 region: kansai-chugoku
 prefecture: 兵庫縣
 location:
-  latitude: 35.132117
-  longitude: 134.666647
+  latitude: 35.13225495935733
+  longitude: 134.6667020256868
 elevation:
   top: 1070
   bottom: 930
   verticalDrop: 140
 tags:
-- beginner_friendly
-- family_friendly
-- night_skiing
-- snowboard_friendly
-- resort_village
+  - beginner_friendly
+  - family_friendly
+  - night_skiing
+  - snowboard_friendly
+  - resort_village
 links:
   official: https://mineyama-kogen-resort.com/
   facebook: https://www.facebook.com/mineyama.kogen.resort/
   instagram: https://www.instagram.com/mineyama_kogen_resort/
   xTwitter: https://twitter.com/mineyama_resort
   trailMapPage: https://mineyama-kogen-resort.com/course/
+  ticket: https://mineyama-kogen-resort.com/price/#navspwallet
+  access: https://mineyama-kogen-resort.com/access/
   weather: https://weathernews.jp/ski/spot/36313/
-  googleMaps: https://maps.google.co.jp/maps?q=35.132117,134.666647
+  googleMaps: https://maps.app.goo.gl/5YwnV3AzvypPmG6MA
 contact:
   address:
     zhTw: 兵庫縣神崎郡神河町上小田881-146
     ja: 〒679-3125 兵庫県神崎郡神河町上小田881-146
-    googleMaps: https://maps.google.co.jp/maps?q=35.132117,134.666647
+    googleMaps: https://maps.app.goo.gl/5YwnV3AzvypPmG6MA
   phone: 0790-34-1900
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/27-2026/03/15
-  hours: 平日：週一至週四 8:30〜17:00、週五 8:30〜21:00。假日：週六 8:00〜21:00、週日 8:00〜18:00。當日營業資訊請以官方網站公告為準。 夜滑：17:00〜21:00
+  hours: 依票種及夜滑營業日而異，最早 8:00 開始，最晚營業至 21:00。
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
-  source: https://weathernews.jp/ski/spot/36313/
+  source: https://mineyama-kogen-resort.com/price/#navspwallet
 trailMaps:
-- label: 峰山高原 Resort WHITE PEAK 官方雪道資訊
-  language: 日本語
-  season: 2025-2026
-  url: https://mineyama-kogen-resort.com/course/
-  sourceLabel: Mineyama Kogen Resort WHITE PEAK Official
+  - label: 峰山高原 WHITE PEAK 官方雪道資訊
+    language: 日文
+    season: 2025-2026
+    url: https://mineyama-kogen-resort.com/course/
+    sourceLabel: 峰山高原 WHITE PEAK 官方網站
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/36313/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  source: https://mineyama-kogen-resort.com/price/#navspwallet
+  note: 兒童票適用小學 1 至 6 年級，長者票適用 55 歲以上；中學生至 54 歲適用成人票。IC 卡押金為 ¥500，歸還卡片時退還。
   plans:
-    - name: 1日券(週六、週日、國定假日)
+    - name: 1 日券（可夜滑）
       priceLines:
-        - 成人：¥4,800
-        - 兒童：¥3,300
-        - 長者：¥3,300
-    - name: 1日券(平日)
+        - 週末及假日成人：¥4,800 / 兒童、長者：¥3,300
+        - 平日成人：¥3,600 / 兒童、長者：¥2,600
+      note: 夜滑僅限夜滑營業日；假日最早 8:00 開始，平日 8:30 開始。
+    - name: 6 小時券
       priceLines:
-        - 成人：¥3,600
-        - 兒童：¥2,600
-        - 長者：¥2,600
-    - name: 6時間券(週六、週日、國定假日)
+        - 週末及假日成人：¥3,900 / 兒童、長者：¥2,900
+        - 平日成人：¥3,200 / 兒童、長者：¥2,200
+    - name: 4 小時券
       priceLines:
-        - 成人：¥3,900
-        - 兒童：¥2,900
-        - 長者：¥2,900
-    - name: 6時間券(平日)
+        - 週末及假日成人：¥3,300 / 兒童、長者：¥2,600
+        - 平日成人：¥2,800 / 兒童、長者：¥1,900
+      note: 夜滑營業日的販售至 14:00 截止。
+    - name: 夜滑 4 小時券
       priceLines:
-        - 成人：¥3,200
-        - 兒童：¥2,200
-        - 長者：¥2,200
-    - name: 夜滑 4 小時券（週六、週日、國定假日，15:00 起販售）
+        - 週末及假日成人：¥2,800 / 兒童、長者：¥2,300
+        - 平日成人：¥2,100 / 兒童、長者：¥1,500
+      note: 通常 15:00〜21:00 有效；僅營業至 18:00 的日期為 14:00〜18:00。
+    - name: 纜車單次券
       priceLines:
-        - 成人：¥2,800
-        - 兒童：¥2,300
-        - 長者：¥2,300
-    - name: 夜滑 4 小時券（平日，15:00 起販售）
+        - 成人、兒童、長者：¥500
+    - name: 纜車 3 回券
       priceLines:
-        - 成人：¥2,100
-        - 兒童：¥1,500
-        - 長者：¥1,500
+        - 成人、兒童、長者：¥1,500
+    - name: 纜車 5 回券
+      priceLines:
+        - 成人、兒童、長者：¥2,200
+    - name: 學齡前兒童纜車票
+      priceLines:
+        - 免費
+      note: 小學未入學兒童搭乘纜車僅需支付 IC 卡押金 ¥500，歸還卡片時退還。
 snowWeather:
-  title: 峰山高原 Resort WHITE PEAK雪況天氣
+  title: 峰山高原 WHITE PEAK 雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/36313/
   snowDepth: 0 cm
@@ -92,35 +96,50 @@ snowWeather:
 courses:
   total: 3
   courseInfoPage: https://mineyama-kogen-resort.com/course/
-  summary: 列為 3 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 峰山高原 WHITE PEAK 有 3 條主要雪道，從可讓初學者與兒童使用的南側雪道，到適合進階練習的中心與西側雪道都有配置。
   details:
-  - name: サウスコース
-    difficulty: beginner
-    length: 862m
-    note: 官方介紹為初級與雪盆使用取向；官方資料並列出全長 862m。
-  - name: センターコース
-    difficulty: intermediate
-    length: 1,170m
-    note: 中心主線，可搭配夜滑營運；官方資料並列出全長 1,170m。
-  - name: ウエストコース
-    difficulty: intermediate
-    length: 917m
-    maxSlope: 30°
-    note: 官方標示最大坡度 30 度的中級線。
-  beginnerRatio: 70
-  intermediateRatio: 30
+    - name: 南側雪道 / サウスコース
+      difficulty: beginner
+      length: 862m
+      note: 全長 862m 的初級雪道，可供雙板、單板、雪橇與 Strider 使用。
+    - name: 中心雪道 / センターコース
+      difficulty: intermediate
+      length: 1,170m
+      note: 全長 1,170m，寬度大，適合由初級雪道進階練習；週末可作為夜滑雪道。
+    - name: 西側雪道 / ウエストコース
+      difficulty: intermediate
+      length: 917m
+      maxSlope: 30°
+      note: 全長 917m，最大坡度 30° 的中級雪道。
 lifts:
   total: 2
 access:
+  publicTransit:
+    - label: JR寺前站轉乘計程車或接駁巴士
+      steps:
+        - 搭乘 JR 播但線至寺前站。
+        - 從寺前站搭乘計程車約 25 分鐘，或預約雪季接駁巴士前往雪場。
+      estimatedTime: 約 25 分鐘
+      difficulty: medium
+      note: 接駁巴士單程費用為成人 ¥1,000、小學生 ¥700、學齡前兒童及 1 歲兒童 ¥500，未滿 1 歲免費；寺前站附近設有接駁巴士使用者專用免費臨時停車場。
+      links:
+        - label: 峰山高原 WHITE PEAK 官方交通資訊
+          url: https://mineyama-kogen-resort.com/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：JR播但線寺前駅下車 シャトルバス有（要予約） (30分) 車 ：播但道神崎南IC (30分) 600台 平日 500円 假日 1000円
+    note: 播但連絡道路神崎南 IC 出口後沿縣道 8 號約 30 分鐘。普通車停車費為平日 ¥500、週末及假日 ¥1,000；住宿飯店旅客免費。冬季山路請準備雪胎，必要時攜帶雪鏈。
 terrainSummary:
-  beginner: 初級雪道以 サウスコース 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 センターコース、ウエストコース 串接較長滑行或主坡巡航。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-
+  beginner: 南側雪道為 862m 初級路線，並可使用雪橇與 Strider。
+  intermediate: 中心雪道為寬闊的 1,170m 路線，西側雪道則有最大 30° 坡度。
+  snowboard: 雪板可滑行；兒童公園與初學者區域仍以現場公告為準。
+sources:
+  - https://mineyama-kogen-resort.com/access/
+  - https://mineyama-kogen-resort.com/price/#navspwallet
+  - https://mineyama-kogen-resort.com/course/
+externalContent:
+  blogs: []
+  vlogs: []
 ---
 
-峰山高原 Resort WHITE PEAK 是以初學者友善為核心的滑雪場，即使第一次滑雪或空手前往，也能輕鬆開始體驗。這裡不只提供滑雪，也強調在度假村中停下來休息，搭配 ICE RU TOWN 等空間感受冬季高原的悠閒氣氛。
+峰山高原 WHITE PEAK 是兵庫縣神河町的高原雪場，設有南側、中心與西側 3 條雪道。南側雪道適合初學者與兒童，中心雪道寬闊且可進行夜滑，西側雪道則以 30° 最大坡度提供中級者挑戰，並結合大型兒童公園與鄰近住宿設施。

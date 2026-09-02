@@ -1,14 +1,14 @@
 ---
-id: ibuki-no-sato
+id: ibukinosato
 name:
-  zhTw: Ibuki no Sato
+  zhTw: IBUKINOSATO
   ja: いぶきの里スキー場
-  en: Ibuki no Sato Ski Area
+  en: IBUKINOSATO Snow Park
 region: kansai-chugoku
 prefecture: 岡山縣
 location:
-  latitude: 35.169314
-  longitude: 133.409015
+  latitude: 35.1690808559466
+  longitude: 133.40934762864205
 elevation:
   top: 850
   bottom: 650
@@ -19,19 +19,19 @@ tags:
 - onsen
 - snowboard_friendly
 links:
-  official: https://www.ibukinosato.co.jp/
+  official: https://www.ibukinosato.co.jp/ski
   facebook: https://www.facebook.com/ibukinosatosnowpark
   instagram: https://www.instagram.com/ibukinosato/
   xTwitter: https://x.com/ibuki_ski_area
-  trailMapPage: https://www.ibukinosato.co.jp/
+  trailMapPage: https://www.ibukinosato.co.jp/slopes
   weather: https://weathernews.jp/ski/spot/36610/
-  googleMaps: https://maps.google.co.jp/maps?q=35.169314,133.409015
-  access: https://www.ibukinosato.co.jp/
+  googleMaps: https://maps.app.goo.gl/dtJ3qZqim1K3mT4J8
+  access: https://www.ibukinosato.co.jp/access
 contact:
   address:
     zhTw: 岡山縣新見市千屋花見1336-1
     ja: 〒718-0104 岡山県新見市千屋花見1336-1
-    googleMaps: https://maps.google.co.jp/maps?q=35.169314,133.409015
+    googleMaps: https://maps.app.goo.gl/dtJ3qZqim1K3mT4J8
   phone: 0867-77-2266
 season:
   label: 2025-2026
@@ -40,11 +40,11 @@ season:
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/36610/
 trailMaps:
-- label: Ibuki no Sato 官方雪場資訊
+- label: IBUKINOSATO 官方雪場資訊
   language: 日本語
   season: 2025-2026
   url: https://www.ibukinosato.co.jp/
-  sourceLabel: Ibuki no Sato Official
+  sourceLabel: IBUKINOSATO Official
 tickets:
   season: 2025-2026
   currency: JPY
@@ -77,7 +77,7 @@ tickets:
         - 兒童：¥3,000
         - 長者：¥3,500
 snowWeather:
-  title: Ibuki no Sato 雪況天氣
+  title: IBUKINOSATO 雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/36610/
   snowDepth: 0 cm
@@ -89,24 +89,36 @@ courses:
   beginnerRatio: 35
   intermediateRatio: 45
   advancedRatio: 20
-  courseInfoPage: https://www.ibukinosato.co.jp/
-  summary: Ibuki no Sato 共有 5 條雪道，難度比例約初級 35%、中級 45%、進階 20%，旁邊有新見千屋溫泉，可作為岡山北部滑雪與泡湯行程。
+  courseInfoPage: https://www.ibukinosato.co.jp/slopes
+  summary: IBUKINOSATO 官方列出 5 條雪道，從適合初學者的緩坡到最大坡度 30 度的 Champion Valley，並設有兒童雪地遊樂區。
   details:
-  - name: 初級路線 1
+  - name: 斯內基雪道 / スネーキーコース
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 2
+    length: 400m
+    averageSlope: 6°
+    note: 初學者雪道，官方列出的全長為 400m、平均坡度為 6 度。
+  - name: 燈飾雪道 / イルミネーションコース
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 1
+    length: 400m
+    averageSlope: 10°
+    note: 初級者雪道，官方列出的全長為 400m、平均坡度為 10 度。
+  - name: 中央雪道 / センターコース
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 2
+    length: 200m
+    averageSlope: 11°
+    note: 初級者雪道，官方列出的全長為 200m、平均坡度為 11 度。
+  - name: 技術雪道 / テクニカルコース
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線
+    length: 600m
+    maxSlope: 25°
+    averageSlope: 14°
+    note: 上、中級者雪道，官方列出的全長為 600m、平均坡度為 14 度、最大坡度為 25 度。
+  - name: 冠軍谷 / チャンピオンバレー
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    length: 660m
+    maxSlope: 30°
+    averageSlope: 12°
+    note: 中、初級者雪道，官方列出的海拔範圍為 710〜850m、全長 660m、平均坡度 12 度、最大坡度 30 度。
 lifts:
   total: 3
 access:
@@ -122,13 +134,12 @@ access:
     snowTireRequired: true
     note: 自駕參考：中國自動車道新見 IC 至雪場約 30 分。停車場約 1,000 台，平日與假日免費；冬季山路需準備雪胎或雪鏈。
   publicTransit:
-    - label: 大眾交通工具（主要車站銜接）
+    - label: 新見站轉乘備北巴士
       steps:
-        - 搭乘 JR 伯備線至新見站後，轉乘路線巴士約 48 分鐘前往。
-        - 雪季也可確認預約制直行巴士「いぶきライナー」，新見站至雪場約 40 分鐘。
-      estimatedTime: 約 40-48 分
+        - 從 JR 伯備線新見站 1 號乘車處搭乘備北巴士「千屋溫泉行」。
+        - 於終點「新見千屋溫泉」下車，雪場就在下車處前方。
       difficulty: medium
-      note: 直行巴士為預約制；不自駕時建議先確認當季班次、預約條件與回程時間。
+      note: 巴士時刻表依平日、週六與國定假日、週日分別安排，出發前請確認最新班次。
 terrainSummary:
   beginner: 初級比例約 35%，可作為暖身、親子同行或初訪時的主要安排。
   intermediate: 中級比例約 45%，適合已能穩定轉彎的滑雪者使用主要雪道練習。
@@ -137,6 +148,11 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
+sources:
+  - label: IBUKINOSATO 官方交通
+    url: https://www.ibukinosato.co.jp/access
+  - label: IBUKINOSATO 官方雪道
+    url: https://www.ibukinosato.co.jp/slopes
 ---
 
-Ibuki no Sato位於岡山縣，重點不在刺激挑戰，而是讓同行者用舒服節奏熟悉雪地活動。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合不只想滑雪，也想把身體放鬆與地方氛圍一起安排的人。也適合把雪地遊玩、練習與休息時間安排得更從容。
+IBUKINOSATO 位於岡山縣，重點不在刺激挑戰，而是讓同行者用舒服節奏熟悉雪地活動。行程可以安排得單純一點，把時間留給練習、休息與看雪景；適合不只想滑雪，也想把身體放鬆與地方氛圍一起安排的人。也適合把雪地遊玩、練習與休息時間安排得更從容。

@@ -7,8 +7,8 @@ name:
 region: kansai-chugoku
 prefecture: 鳥取縣
 location:
-  latitude: 35.349
-  longitude: 133.535
+  latitude: 35.34444065520866
+  longitude: 133.59139535767108
 elevation:
   top: 960
   bottom: 920
@@ -18,24 +18,27 @@ tags:
 - family_friendly
 - resort_village
 - snowboard_friendly
+visibility:
+  status: published
+  note: 實際雪場名稱為鏡ヶ成スキー場；休暇村奥大山是住宿與設施名稱。
 links:
   official: https://www.qkamura.or.jp/daisen/ski/
   trailMapPage: https://www.qkamura.or.jp/daisen/ski/
   ticket: https://www.qkamura.or.jp/daisen/ski/
-  access: https://www.qkamura.or.jp/daisen/access/
+  access: https://www.qkamura.or.jp/daisen/ski/
   weather: https://weathernews.jp/ski/spot/36908/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Kagamiganaru%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/fcKxYWsCQKp8bvFL6
 contact:
   address:
     zhTw: 鳥取縣日野郡江府町御机 709-1 休暇村奧大山
     ja: 〒689-4424 鳥取県日野郡江府町御机709-1 休暇村奥大山
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Kagamiganaru%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/fcKxYWsCQKp8bvFL6
   phone: 0859-75-2300
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/3/29
   hours: 9:00-16:30
-  note: 官方頁面與公開資料以鏡ヶ成スキー場、休暇村奥大山スキー場名稱呈現相同雪場資訊；此 entry 依使用者提供的「鏡成」拆分整理。
+  note: 休暇村奥大山是住宿與設施名稱，實際雪場名稱為鏡ヶ成スキー場；本 entry 作為唯一公開的雪場資料。
   source: https://www.qkamura.or.jp/daisen/ski/
 trailMaps:
 - label: 鏡ヶ成雪道圖
@@ -47,21 +50,26 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.qkamura.or.jp/daisen/ski/
-  note: 官方 2025-2026 主要票種摘要；兒童（學齡前）免費，租借與住宿者票價請以官方頁面為準。
+  note: 官方主要票種摘要；纜車券包含入場費，未滿學齡兒童免費，租借與住宿者優惠請以官方頁面為準。
   plans:
     - name: 1 日券（週末假日）
       priceLines:
         - 成人：¥4,000
         - 兒童：¥3,000
-    - name: 平日 free 票
+    - name: 平日券
       priceLines:
         - 成人：¥3,000
         - 兒童：¥2,500
-    - name: AM / PM 券
+    - name: 上午券
       priceLines:
         - 成人：¥2,500
         - 兒童：¥2,000
-      note: AM 9:00-13:00，PM 12:00-16:30
+      note: 09:00～13:00。
+    - name: 下午券
+      priceLines:
+        - 成人：¥2,500
+        - 兒童：¥2,000
+      note: 12:00～16:30。
     - name: 12 回券
       priceLines:
         - 全年齡：¥4,000
@@ -71,7 +79,7 @@ tickets:
 snowWeather:
   title: 鏡ヶ成雪況天氣
   provider: Weathernews
-  url: https://weathernews.jp/ski/spot/36908/
+  url: https://weathernews.jp/ski/spot/36908/****
   snowDepth: 0 cm
   updatedAt: 2026/4/30 09:00:00
   forecast: []
@@ -131,6 +139,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
+sources:
+  - label: 鏡ヶ成官方交通、雪票與雪道
+    url: https://www.qkamura.or.jp/daisen/ski/
 ---
 
-鏡ヶ成在鳥取縣提供3 條雪道，搭配 1 座纜車。路線包含 初心者ゲレンデ / Beginner Slope、初心者パーク / Beginner Park、中級者ゲレンデ / Intermediate Slope，整體雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。
+鏡ヶ成在鳥取縣提供 3 條雪道，搭配 1 座纜車。路線包含 初心者ゲレンデ / Beginner Slope、初心者パーク / Beginner Park、中級者ゲレンデ / Intermediate Slope，整體雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。

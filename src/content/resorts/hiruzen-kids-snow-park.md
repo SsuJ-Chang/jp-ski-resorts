@@ -7,22 +7,23 @@ name:
 region: kansai-chugoku
 prefecture: 岡山縣
 location:
-  latitude: 35.294759
-  longitude: 133.630111
+  latitude: 35.29533812348578
+  longitude: 133.63107836802098
 tags:
 - beginner_friendly
 - family_friendly
 - night_skiing
 links:
   official: https://www.qkamura.or.jp/hiruzen/
+  access: https://www.qkamura.or.jp/hiruzen/access/
   trailMapPage: https://www.qkamura.or.jp/hiruzen/
   weather: https://weathernews.jp/ski/spot/36604/
-  googleMaps: https://maps.google.co.jp/maps?q=35.294759,133.630111
+  googleMaps: https://maps.app.goo.gl/kiPrNbkCA1iLPRNK7
 contact:
   address:
     zhTw: 岡山縣真庭市蒜山上福田1205-281
     ja: 〒717-0602 岡山県真庭市蒜山上福田1205-281
-    googleMaps: https://maps.google.co.jp/maps?q=35.294759,133.630111
+    googleMaps: https://maps.app.goo.gl/kiPrNbkCA1iLPRNK7
   phone: 0867-66-2501
 season:
   label: 2025-2026
@@ -67,12 +68,21 @@ courses:
     difficulty: beginner
     note: 為兒童 Snow Park，主要供親子雪上遊樂與入門體驗。
 access:
+  publicTransit:
+    - label: 中國勝山站轉乘真庭市營巴士
+      steps:
+        - 搭乘 JR 姫新線至中國勝山站。
+        - 轉乘前往蒜山高原的真庭市營巴士，於終點蒜山高原站下車，車程約 100 分鐘。
+      difficulty: easy
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：姫新線中国勝山駅→蒜山高原行市営バス終点蒜山高原下車 (100分) 車 ：米子自動車道蒜山IC→一般道（約4km） (10分) 100台 平日 免費 假日 免費
+    note: 米子自動車道蒜山 IC 下交流道後，經一般道路約 4km、約 10 分鐘可抵達；停車場約 100 台，平日與假日免費。
 terrainSummary:
   beginner: 初級雪道以 有料エリア入場雪遊びゾーン 為主，適合練習速度控制與穩定轉彎。
+sources:
+  - label: 蒜山高原休暇村官方交通
+    url: https://www.qkamura.or.jp/hiruzen/access/
 
 ---
 

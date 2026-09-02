@@ -3,12 +3,12 @@ id: kotobiki-forest-park
 name:
   zhTw: 琴引 Forest Park
   ja: 琴引フォレストパーク
-  en: Kotobiki Forest Park
+  en: Kotobiki Forest Park Ski Area
 region: kansai-chugoku
 prefecture: 島根縣
 location:
-  latitude: 35.0549
-  longitude: 132.7698
+  latitude: 35.055008495092004
+  longitude: 132.76822845451957
 elevation:
   top: 720
   bottom: 540
@@ -24,13 +24,15 @@ links:
   instagram: https://www.instagram.com/kotobikikotoru/
   xTwitter: https://x.com/kotobikikotoru
   trailMapPage: https://ski.kotobiki.co.jp/course-gerende/
+  access: https://ski.kotobiki.co.jp/access/
+  ticket: https://ski.kotobiki.co.jp/lift_online/
   weather: https://weathernews.jp/ski/spot/36804/
-  googleMaps: https://maps.google.co.jp/maps?q=35.0549,132.7698
+  googleMaps: https://maps.app.goo.gl/6rZovrjekpiXw3cA9
 contact:
   address:
     zhTw: 島根縣飯石郡飯南町佐見1151
     ja: 〒690-3204 島根県飯石郡飯南町佐見1151
-    googleMaps: https://maps.google.co.jp/maps?q=35.0549,132.7698
+    googleMaps: https://maps.app.goo.gl/6rZovrjekpiXw3cA9
   phone: 0854-72-1021
 season:
   label: 2025-2026
@@ -47,39 +49,21 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/36804/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  source: https://ski.kotobiki.co.jp/lift_online/
+  note: 2025-2026 票價摘要；纜車券分為平日與假日價格，學齡前兒童另有專屬價格，完整線上購票規則請以官方頁面為準。
   plans:
     - name: 1 日券
       priceLines:
-        - 成人：¥4,500
-        - 兒童：¥3,000
-        - 長者：¥4,000
-    - name: 4 小時券
-      priceLines:
-        - 成人：¥4,000
-        - 兒童：¥2,500
-        - 長者：¥3,500
-    - name: 1 回券
-      priceLines:
-        - 成人：¥400
-        - 兒童：¥400
-        - 長者：¥400
-    - name: 1日券平日
-      priceLines:
-        - 成人：¥4,000
-        - 兒童：¥2,500
-        - 長者：¥3,500
-    - name: 4時間券平日
-      priceLines:
-        - 成人：¥3,600
-        - 兒童：¥2,100
-        - 長者：¥3,100
+        - 成人：平日 ¥4,000、假日 ¥4,500
+        - 兒童（高中生以下）：平日 ¥2,500、假日 ¥3,000
+        - 長者（60 歲以上）：平日 ¥3,500、假日 ¥4,000
+        - 學齡前兒童（未滿國小）：平日 ¥2,000
     - name: 10 小時券
       priceLines:
         - 成人：¥9,500
-        - 兒童：¥6,000
-        - 長者：¥8,000
+        - 兒童（高中生以下）：¥6,000
+        - 長者（60 歲以上）：¥8,000
+        - 學齡前兒童（未滿國小）：無法使用
 snowWeather:
   title: 琴引 Forest Park雪況天氣
   provider: Weathernews
@@ -91,31 +75,32 @@ snowWeather:
 courses:
   total: 7
   courseInfoPage: https://ski.kotobiki.co.jp/course-gerende/
-  summary: 列為 7 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 琴引 Forest Park 共有 7 條雪道，從寬廣的初級櫻桃雪道、人工造雪主線，到林間巡航與最大坡度 25° 的上級雪道都有配置。
   details:
   - name: チェリーコース
     difficulty: beginner
     length: 400m
-    note: 官方列為初級路線；官方資料並列出全長 400m。
+    note: 約 400m 的緩坡雪道，適合初學者；雪道較寬，末段有較陡斜面，並以人工造雪維持滑行。
   - name: パインコース
     difficulty: intermediate
-    note: 官方介紹為人工造雪主線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    length: 800m
+    note: 琴引的主雪道，以人工造雪維持滑行；各類滑雪比賽也會使用此雪道。
   - name: エルムコース
     difficulty: intermediate
-    note: 起段較陡、後段較緩的路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    note: 先經過急斜面，之後接續緩坡並與櫻桃雪道匯合，雪道寬度足夠滑行。
   - name: メイプルコース
     difficulty: intermediate
-    note: 人工造雪路線，可銜接 Elm / Cherry。
+    note: 人工造雪雪道，依積雪狀況可維持季中滑行，並可與榆木及櫻桃雪道匯合。
   - name: 林間コース
     difficulty: intermediate
-    note: 林間巡航路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    note: 穿過冬季林木間的彎曲雪道，最後與橡木雪道匯合；因雪道較窄，雪板滑雪者建議具備中級以上程度。
   - name: オークコース
     difficulty: advanced
-    note: 官方列名 Oak 路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    note: 穿越林間的雪道，先有急斜面，之後接續帶有起伏的緩坡，雪道寬度較足。
   - name: ヒッコリーコース
     difficulty: advanced
     maxSlope: 25°
-    note: 官方標示最大坡度 25 度的上級線。
+    note: 琴引雪場最大坡度雪道，從緩坡變化至短距離 25° 急斜面，適合上級者練習。
   beginnerRatio: 20
   intermediateRatio: 60
   advancedRatio: 20
@@ -125,12 +110,19 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：芸備線三次駅下車でタクシー（バスあり） (40分) 車 ：中国自動車道 三次ICより国道54号松江方面へ (40分) 車 ：山陰自動車道吉田掛合ICより広島方面へR54で約20km (20分) 500台 平日 免費 假日 免費
+    note: 交通頁以官方交通地圖提供前往琴引 Forest Park 的路線資訊；自駕可由中國自動車道三次 IC 經國道 54 號往松江方向，或由山陰自動車道吉田掛合 IC 經國道 54 號前往。停車場約 500 台，平日與假日免費。冬季山路需準備雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道以 チェリーコース 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 パインコース、エルムコース、メイプルコース、林間コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 オークコース、ヒッコリーコース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+sources:
+  - label: 琴引 Forest Park 官方交通
+    url: https://ski.kotobiki.co.jp/access/
+  - label: 琴引 Forest Park 官方雪票
+    url: https://ski.kotobiki.co.jp/lift_online/
+  - label: 琴引 Forest Park 官方雪道
+    url: https://ski.kotobiki.co.jp/course-gerende/
 
 ---
 

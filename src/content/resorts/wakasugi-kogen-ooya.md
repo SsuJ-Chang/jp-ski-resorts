@@ -7,71 +7,78 @@ name:
 region: kansai-chugoku
 prefecture: 兵庫縣
 location:
-  latitude: 35.283203
-  longitude: 134.587666
+  latitude: 35.2832975850005
+  longitude: 134.58783881034955
 elevation:
   top: 830
   bottom: 680
   verticalDrop: 150
 tags:
-- beginner_friendly
-- family_friendly
-- night_skiing
-- onsen
-- snowboard_friendly
+  - beginner_friendly
+  - family_friendly
+  - night_skiing
+  - onsen
+  - snowboard_friendly
+visibility:
+  status: published
 links:
   official: https://ooyaski.com/ski/
   facebook: https://www.facebook.com/ooya.ski/
   xTwitter: https://x.com/ooyaski
   trailMapPage: https://ooyaski.com/ski/courses/
+  ticket: https://ooyaski.com/ski/lift-tickets/
+  access: https://ooyaski.com/access/
   weather: https://weathernews.jp/ski/spot/36325/
-  googleMaps: https://maps.google.co.jp/maps?q=35.283203,134.587666
+  googleMaps: https://maps.app.goo.gl/kzeBA7e3MvRusq538
 contact:
   address:
     zhTw: 兵庫縣養父市大屋町若杉99-2
     ja: 〒667-0323 兵庫県養父市大屋町若杉99-2
-    googleMaps: https://maps.google.co.jp/maps?q=35.283203,134.587666
-  phone: "0796691576"
+    googleMaps: https://maps.app.goo.gl/kzeBA7e3MvRusq538
+  phone: 079-669-1576
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/27-2026/03/08
-  hours: 平日：8:15〜16:45 假日：8:15〜16:45 夜滑：無
+  hours: 票券販售及租借：8:00〜17:00 / 1 號纜車（週末及假日）：9:00〜16:40 / 2、3 號纜車：8:30〜16:40
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
-  source: https://weathernews.jp/ski/spot/36325/
+  source: https://ooyaski.com/ski/lift-tickets/
 trailMaps:
-- label: 若杉高原大屋 官方雪道資訊
-  language: 日本語
-  season: 2025-2026
-  url: https://ooyaski.com/ski/courses/
-  sourceLabel: Wakasugi Kogen Ooya Ski Area Official
+  - label: 若杉高原大屋官方雪道資訊
+    language: 日文
+    season: 2025-2026
+    url: https://ooyaski.com/ski/courses/
+    sourceLabel: 若杉高原大屋官方網站
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/36325/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  source: https://ooyaski.com/ski/lift-tickets/
+  note: 兒童票適用國中生以下，長者票適用 55 歲以上且須出示證明；學生票須出示學生證。所有票券另收 ¥1,000 IC 卡押金，歸還卡片時退還。
   plans:
-    - name: 平日1日券
+    - name: 1 日券
       priceLines:
-        - 成人：¥3,200
-        - 兒童：¥500
-        - 長者：¥3,000
-    - name: 週末及國定假日1日券
+        - 平日成人：¥3,200 / 週末、假日及年末年初成人：¥4,500
+        - 平日及週末、假日兒童：¥500
+        - 平日長者：¥3,000 / 週末、假日及年末年初長者：¥3,800
+    - name: 學生 1 日券
       priceLines:
-        - 成人：¥4,500
-        - 兒童：¥500
-        - 長者：¥3,800
-    - name: 平日学割1日券 (学生証提示)
-      priceLines:
-        - 成人：¥2,000
-    - name: 週末及國定假日学割1日券 (学生証提示)
-      priceLines:
-        - 成人：¥2,500
+        - 平日：¥2,000 / 週末、假日及年末年初：¥2,500
+      note: 須出示學生證。
     - name: 4 小時券
       priceLines:
-        - 成人：¥3,500
-    - name: 回數券(11回)
+        - 平日：¥2,400 / 週末、假日及年末年初：¥3,500
+    - name: 回數券（11 回）
       priceLines:
-        - 成人：¥4,000
+        - ¥4,000
+    - name: 樂ちんベルト券（初學者傳送帶）
+      priceLines:
+        - ¥500
+    - name: 樂ちんベルト券（學齡前兒童）
+      priceLines:
+        - 免費
+      note: IC 卡押金 ¥1,000 另計，歸還卡片時退還。
+    - name: 季票（成人）
+      priceLines:
+        - ¥50,000
 snowWeather:
   title: 若杉高原大屋雪況天氣
   provider: Weathernews
@@ -81,35 +88,47 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
-  total: 5
+  total: 3
   courseInfoPage: https://ooyaski.com/ski/courses/
-  summary: 列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 官方雪道頁列出 3 個區域，包含適合初學者的家庭雪道、兒童公園與雪橇區，以及初級至中級的寬闊主坡。
   details:
-  - name: ファミリーゲレンデ
-    difficulty: beginner
-    note: 官方新頁列為初級坡；目前官方來源未公開更細的全長、坡度或雪面特色描述。
-  - name: メインバーン
-    difficulty: intermediate
-    note: 官方新頁列為初級到中級者使用的主坡。
-  - name: キッズパーク・そりゲレンデ
-    difficulty: beginner
-    note: 兒童與雪盆區；目前官方來源未公開更細的全長、坡度或雪面特色描述。
-  beginnerRatio: 40
-  intermediateRatio: 30
-  advancedRatio: 30
+    - name: ファミリーゲレンデ
+      difficulty: beginner
+      note: 緩斜面，適合雪地初體驗與兒童。
+    - name: キッズパーク・そりゲレンデ
+      difficulty: beginner
+      note: 供兒童使用的公園與雪橇專用區。
+    - name: メインバーン
+      difficulty: mixed
+      note: 寬闊且視野良好的主坡，適合初級至中級者練習。
 lifts:
   total: 3
 access:
+  publicTransit:
+    - label: 八鹿站轉乘計程車
+      steps:
+        - 搭乘 JR 山陰本線至八鹿站。
+        - 從八鹿站轉乘計程車前往雪場；路線巴士班次有限。
+      difficulty: medium
+      note: 官方建議冬季滑雪期間優先使用自駕前往。
+      links:
+        - label: 若杉高原大屋官方交通資訊
+          url: https://ooyaski.com/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：中国吹田IC→山崎IC→一般道 (150分) 車 ：岡山IC→山陽姫路西IC→一般道 (160分) が近くて便利なファミリーのためのスキー場です、子供1日遊び放題￥500！！(中学生以下)、楽ちんレッスン1コース2000円など、格安なのも魅力。初めてでも安心の楽ちんベルトや手ぶらでOKのレンタルもあるので、スキーデビューにぴったり！滑った後には、ゲレンデ横の温泉で、冷えた身体を温められるのが嬉しい。楽しいコースや施設がギュッとつまった、オールインワンファミリーゲレンデ♪ {{hitokoto}} 新型コロナウイルス感染予防対策 --> 標高 830m 〜 680m コース数 5 リフト数 3 ボード滑走 全面可 流れ止めの装着がないとリフト乗車はできません。 コース難易度 初級者向け 40％ 中級者向け 30％ 上級者向け 30％ レンタル スキー：○ スノーボード：○ レンタル料金 スキーセット 大人：4300円 子供：3700円 スキーウェア 大人：3400円 子供：2800円 ボードセット 大人：4300円 子供：3700円 ボードウェア 大人：3400円 子供：2800円 スクール スキー：○ スノーボード：○ スキー（子供）：○ スノーボード（子供）：○ モーグル：○ パイプ：× リフト料金 ◆平日1日券 大人 3200円 小人 500円 シニア 3000円 ◆週末及國定假日1日券 大人 4500円 小人 500円 シニア 3800円 ◆平日学割1日券 (学生証提示) 大人 2000円 ◆週末及國定假日学割1日券 (学生証提示) 大人 2500円 ◆4時間券 大人 3500円 ◆回数券(11回) 大人 4000円 ◆楽ちんベルト券 大人 500円 ◆楽ちんベルト券(未就学児) 大人 0円 キャッシュレス決済 チケット購入：○ レストラン：× ショップ：○ スノーパーク × キッズパーク ○ 詳細 --> そりエリアでのそりあそびOK雪遊びエリアあり 春スキー × ゲレンデグルメ ○ 詳細 --> 心、体あったまる手作り豚汁！ パイプ × 近場の温泉 若杉高原温泉 ゲレンデに隣接しています。 岩風呂が自慢の温泉です。疲れた体をゆっくり癒やしてください。 住所 〒667-0323 兵庫県養父市大屋町若杉99-2 地図を見る お問い合わせ
-      TEL：0796691576 ホームページ 營業期間 2025年12月27日 ~ 2026年03月08日 營業時間 平日：8:15〜16:45 假日：8:15〜16:45 夜滑：無 交通案内 車 ：中国吹田IC→山崎IC→一般道 (150分) 車 ：岡山IC→山陽姫路西IC→一般道 (160分) 施設 シャワー 仮眠所 人工降雪機/人工造雪機 更衣室 荷物置き場 キッズパーク 託児所 駐車場 400台 平日 12月中、平日免費 假日 1000円
+    note: 大阪及神戶出發約 150 分鐘；由中國自動車道山崎 IC 下交流道後，沿國道 29 號約 50 分鐘可抵達。停車場約 400 台，12 月中平日免費，週末及假日為 ¥1,000。冬季必須裝備雪胎，降雪或路面結冰時可能實施雪鏈管制。
 terrainSummary:
-  beginner: 初級雪道以 ファミリーゲレンデ、キッズパーク・そりゲレンデ 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 メインバーン 串接較長滑行或主坡巡航。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-
+  beginner: 家庭雪道與兒童公園、雪橇區以緩斜面為主，適合初學者與兒童。
+  intermediate: 主坡為寬闊且視野良好的初級至中級路線。
+  snowboard: 雪板可全區滑行；公園、非壓雪與管制區仍以現場公告為準。
+sources:
+  - https://ooyaski.com/access/
+  - https://ooyaski.com/ski/lift-tickets/
+  - https://ooyaski.com/ski/courses/
+externalContent:
+  blogs: []
+  vlogs: []
 ---
 
-若杉高原大屋是親子友善的小型雪場，兒童區、雪地傳送帶與初學者課程讓第一次玩雪也容易上手。場內也有每日整備的貓跳滑道與滑雪公園元素，能讓有基礎的玩家練習小技巧，是偏向家庭與輕量滑雪的雪場。
+若杉高原大屋是兵庫縣養父市的親子友善雪場，設有 3 個主要滑雪與玩雪區域。家庭雪道與兒童公園適合初學者，寬闊的主坡則涵蓋初級至中級難度，並提供雪地傳送帶與鄰接雪場的溫泉設施。

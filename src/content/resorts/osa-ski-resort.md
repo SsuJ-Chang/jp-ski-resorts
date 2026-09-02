@@ -2,13 +2,13 @@
 id: osa-ski-resort
 name:
   zhTw: 大佐
-  ja: 大佐
+  ja: 芸北高原大佐スキー場
   en: Osa Ski Resort
 region: kansai-chugoku
 prefecture: 廣島縣
 location:
-  latitude: 34.746603
-  longitude: 132.221011
+  latitude: 34.74793594385482
+  longitude: 132.22004564101636
 elevation:
   top: 1030
   bottom: 720
@@ -25,13 +25,14 @@ links:
   instagram: https://www.instagram.com/osaski_ski.hiroshimaken/
   xTwitter: https://twitter.com/osaski
   trailMapPage: https://osaski.co.jp/course/
+  access: https://osaski.co.jp/access/
   weather: https://weathernews.jp/ski/spot/36703/
-  googleMaps: https://maps.google.co.jp/maps?q=34.746603,132.221011
+  googleMaps: https://maps.app.goo.gl/AeYUENwsbR2m2hdt8
 contact:
   address:
     zhTw: 廣島縣山縣郡北広島町荒神原38-31
     ja: 〒731-2431 広島県山県郡北広島町荒神原38-31
-    googleMaps: https://maps.google.co.jp/maps?q=34.746603,132.221011
+    googleMaps: https://maps.app.goo.gl/AeYUENwsbR2m2hdt8
   phone: 0826-35-0038
 season:
   label: 2025-2026
@@ -76,64 +77,79 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
-  total: 7
+  total: 6
   courseInfoPage: https://osaski.co.jp/course/
-  summary: 列為 7 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 官方列出 6 條雪道，包含適合家庭與初中級者的寬廣坡面，以及最大坡度 28 度的進階雪道與非壓雪路線。
   details:
   - name: プラッツ前ゲレンデハウス
     difficulty: beginner
     length: 400m
     maxSlope: 12°
     averageSlope: 10°
-    note: 山麓練習坡；官方資料並列出全長 400m、最大坡度 12°、平均坡度 10°。
+    note: 適合家庭滑雪的寬廣雪道，官方列出的全長為 400m、最大坡度為 12 度、平均坡度為 10 度。
   - name: センターコース
     difficulty: beginner
     length: 400m
     maxSlope: 15°
     averageSlope: 13°
-    note: 中心初中級坡；官方資料並列出全長 400m、最大坡度 15°、平均坡度 13°。
+    note: 雪場中央的主雪道，官方列出的全長為 400m、最大坡度為 15 度、平均坡度為 13 度。
   - name: レストハウス前コース
     difficulty: intermediate
     length: 400m
     maxSlope: 19°
     averageSlope: 13°
-    note: 休息屋前坡面；官方資料並列出全長 400m、最大坡度 19°、平均坡度 13°。
+    note: 寬廣的單一坡面，適合初中級者，官方列出的全長為 400m、最大坡度為 19 度、平均坡度為 13 度。
   - name: チャンピオンコース
     difficulty: advanced
     length: 700m
     maxSlope: 28°
     averageSlope: 16°
-    note: 進階路線；官方資料並列出全長 700m、最大坡度 28°、平均坡度 16°。
+    note: 大佐最具挑戰性的雪道，官方列出的全長為 700m、最大坡度為 28 度、平均坡度為 16 度。
   - name: ジャイアントコース
     difficulty: advanced
     length: 750m
     maxSlope: 25°
     averageSlope: 15°
-    note: 進階長線；官方資料並列出全長 750m、最大坡度 25°、平均坡度 15°。
+    note: 大幅右彎的動感雪道，積雪充足時會形成雪包，官方列出的全長為 750m、最大坡度為 25 度、平均坡度為 15 度。
   - name: OFF PISTE
     difficulty: ungroomed
     length: 750m
     maxSlope: 24°
     averageSlope: 16°
-    note: 官方列為 off-piste 路線；官方資料並列出全長 750m、最大坡度 24°、平均坡度 16°。
+    note: 非壓雪雪道，官方列出的全長為 750m、最大坡度為 24 度、平均坡度為 16 度。
   beginnerRatio: 50
   intermediateRatio: 30
   advancedRatio: 20
 lifts:
   total: 5
 access:
+  publicTransit:
+    - label: 廣島方向團體巴士
+      steps:
+        - 可洽詢廣交觀光安排從廣島出發的滑雪團體巴士或旅行方案。
+      difficulty: medium
+      note: 官方交通頁列有廣交觀光聯絡方式，未提供固定一般路線巴士班次。
+    - label: 四國方向團體巴士
+      steps:
+        - 可洽詢松山海陸旅行社安排從四國出發的滑雪團體巴士或旅行方案。
+      difficulty: medium
+      note: 官方交通頁列有松山海陸旅行聯絡方式，未提供固定一般路線巴士班次。
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：山陽新幹線広島駅下車、バスで (90分) 車 ：戸河内ICより (40分) 車から降りると即ゲレンデ！好アクセスも魅力です。100％天然雪で營業です。広島と島根県境にある、幅広ゲレンデです。 {{hitokoto}} 新型コロナウイルス感染予防対策 --> 標高 1030m 〜 720m コース数 7 リフト数 5 ボード滑走 全面可 コース難易度 初級者向け 50％ 中級者向け 30％ 上級者向け 20％ レンタル スキー：○ スノーボード：○ レンタル料金 スキーセット 大人：4000円 子供：2800円 スキーウェア 大人：4000円 子供：2800円 ボードセット 大人：4200円 子供：2800円 ボードウェア 大人：4000円 子供：2800円 スクール スキー：○ スノーボード：○ スキー（子供）：○ スノーボード（子供）：○ モーグル：× パイプ：× リフト料金 ◆1日券（週末及國定假日・12/30~1/3） 大人 5000円 小人 2700円 ◆4時間券 大人 3900円 小人 2300円 ◆1日券（平日）（1000円分食事券付き） 大人 4000円 小人 2700円 ◆11回券 大人 4500円 小人 4500円 キャッシュレス決済 チケット購入：○ レストラン：× ショップ：× 決済方法 VISA Mastercard paypay iD 他 スノーパーク × キッズパーク ○ 詳細 --> ソリ・エッジ（金属の）のついていないスキー・ボードはOK、雪遊びもOK、入場料（1日出入自由）：子ども1000円 大人500円（リフト券購入者は出入り自由。） パウダースノー ○ 詳細 --> 上級者コースの一部オフピステコースがあります。非圧雪コースですので、雪の状況を確認して、気を付けて滑走ください。 春スキー × パイプ × ペットの同伴 × 近場の温泉 芸北オークガーデン 大佐スキー場より広島方面へ約15分 露天風呂もある温泉です。 住所 〒731-2431 広島県山県郡北広島町荒神原38-31 地図を見る お問い合わせ TEL：0826-35-0038 ホームページ 營業期間 2026年01月04日 ~ 2026年02月21日 營業時間 平日：8:00〜17:00 夜滑：積雪状況による。日にち限定：1/10・2/7・2/14・2/21
-      17：30〜21：00 交通案内 電車 ：山陽新幹線広島駅下車、バスで (90分) 車 ：戸河内ICより (40分) 施設 シャワー 仮眠所 人工降雪機/人工造雪機 更衣室 荷物置き場 キッズパーク 託児所 ペットの同伴 駐車場 1500台 平日 1000円(普通車) 假日 1000円(普通車)
+    note: 可由戸河内 IC 經國道 191 號與縣道 40 號前往，也可由加計 Smart IC 經國道 186 號、縣道 306 號，或由千代田前 IC 前往。停車費依車種與日期而異，普通車平日、週末假日及 12/30〜1/3 均為 ¥1,000；冬季行車請準備雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道以 プラッツ前ゲレンデハウス、センターコース 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 レストハウス前コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 チャンピオンコース、ジャイアントコース、OFF PISTE，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
   powder: 部分路線標示非壓雪、powder 或高坡度，降雪後變化較大。
+sources:
+  - label: 大佐官方交通
+    url: https://osaski.co.jp/access/
+  - label: 大佐官方雪道
+    url: https://osaski.co.jp/course/
 
 ---
 
-大佐在廣島縣提供7 條雪道，搭配 5 座纜車。路線包含 プラッツ前ゲレンデハウス、センターコース、レストハウス前コース，整體初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+大佐在廣島縣提供 6 條雪道，搭配 5 座纜車。路線包含 プラッツ前ゲレンデハウス、センターコース、レストハウス前ゲレンデ，整體初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

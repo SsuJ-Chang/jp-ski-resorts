@@ -7,8 +7,8 @@ name:
 region: kansai-chugoku
 prefecture: 廣島縣
 location:
-  latitude: 35.0662
-  longitude: 133.0747
+  latitude: 35.06954525115476
+  longitude: 133.0715617103426
 elevation:
   top: 1080
   bottom: 930
@@ -22,14 +22,15 @@ links:
   instagram: https://www.instagram.com/hiba__stagram/
   xTwitter: https://twitter.com/kenmori_agri
   trailMapPage: https://hiroshima-kenmori.com/
+  access: https://hiroshima-kenmori.com/access
   weather: https://weathernews.jp/ski/spot/36713/
-  googleMaps: https://maps.google.co.jp/maps?q=35.0662,133.0747
+  googleMaps: https://maps.app.goo.gl/5TnCsYsx56bZGeBW7
 contact:
   address:
     zhTw: 廣島縣庄原市西城町油木156-14
     ja: 〒729-5602 広島県庄原市西城町油木156-14
-    googleMaps: https://maps.google.co.jp/maps?q=35.0662,133.0747
-  phone: 0824-84-2011
+    googleMaps: https://maps.app.goo.gl/5TnCsYsx56bZGeBW7
+  phone: 0824-84-2020
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/28-2026/03/03
@@ -102,12 +103,15 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：芸備線 JR備後落合駅よりタクシー (20分) 車 ：中国自動車道庄原ICよりR183〜R314経由 約40km (45分) 車 ：中国自動車道東城ICよりR314経由 約40km (45分) 500台 平日 免費 假日 免費
+    note: 官方交通頁確認雪場所在的廣島縣民之森公園中心地址為廣島縣庄原市西城町油木 156-14；頁面未提供新的 IC 路線、停車容量或停車費資訊，冬季前往山區請準備雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道以 第1ゲレンデ 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 第2ゲレンデ、林間コース 串接較長滑行或主坡巡航。
   advanced: 進階路線包含 上級コース，請依當日開放狀態與雪況判斷。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+sources:
+  - label: 廣島縣民之森官方交通
+    url: https://hiroshima-kenmori.com/access
 
 ---
 

@@ -2,84 +2,85 @@
 id: manba
 name:
   zhTw: 神鍋高原萬場
-  ja: 神鍋高原万場スキー場
+  ja: 神鍋高原 万場スキー場
   en: Manba Ski Area
 region: kansai-chugoku
 prefecture: 兵庫縣
 location:
-  latitude: 35.494258
-  longitude: 134.66367
+  latitude: 35.49442354006861
+  longitude: 134.6636821680272
 elevation:
   top: 800
   bottom: 345
   verticalDrop: 455
 tags:
-- night_skiing
-- snowboard_friendly
-- tree_run
-- long_run
+  - night_skiing
+  - snowboard_friendly
+  - tree_run
+  - long_run
+visibility:
+  status: published
 links:
   official: https://www.manba-ski.jp/
   facebook: https://www.facebook.com/manba.ski/
   instagram: https://www.instagram.com/manbaski/
   xTwitter: https://x.com/manbaskijou
   trailMapPage: https://www.manba-ski.jp/gelande/
+  ticket: https://www.manba-ski.jp/price/
+  access: https://www.manba-ski.jp/access/
   weather: https://weathernews.jp/ski/spot/36308/
-  googleMaps: https://maps.google.co.jp/maps?q=35.494258,134.663670
+  googleMaps: https://maps.app.goo.gl/rBLnwjma4avePZyz9
 contact:
   address:
-    zhTw: 兵庫縣豐岡市日高町万場480
-    ja: 〒669-5378 兵庫県豐岡市日高町万場480
-    googleMaps: https://maps.google.co.jp/maps?q=35.494258,134.663670
+    zhTw: 兵庫縣豐岡市日高町萬場480
+    ja: 〒669-5378 兵庫県豊岡市日高町万場480
+    googleMaps: https://maps.app.goo.gl/rBLnwjma4avePZyz9
   phone: 0796-45-0191
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/28-2026/03/03
-  hours: 平日：8:30〜16:45 假日：8:30〜16:45 夜滑：無
-  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
-  source: https://weathernews.jp/ski/spot/36308/
+  operatingPeriod: 2025/12/28-2026/03/08
+  hours: 第 1 雙人纜車 8:30〜16:45 / 第 2 雙人纜車 8:45〜16:40 / 第 4 雙人纜車 9:00〜16:30 / 雪地電扶梯 9:00〜16:00
+  note: 2025-2026 營業期間摘要；實際開放日與營業時間請以官方公告為準。
+  source: https://www.manba-ski.jp/price/
 trailMaps:
-- label: 神鍋高原萬場 官方雪道資訊
-  language: 日本語
-  season: 2025-2026
-  url: https://www.manba-ski.jp/gelande/
-  sourceLabel: Manba Ski Area Official
+  - label: 神鍋高原萬場官方雪道資訊
+    language: 日文
+    season: 2025-2026
+    url: https://www.manba-ski.jp/gelande/
+    sourceLabel: 神鍋高原萬場官方網站
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/36308/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  source: https://www.manba-ski.jp/price/
+  note: 兒童票適用 4 歲至小學生，長者票適用 55 歲以上；購買兒童票或長者 1 日券時須出示年齡證明。入場券可搭乘纜車最多 3 次、無限使用雪地電扶梯，並可使用雪遊廣場。
   plans:
-    - name: 1日券週末及國定假日
+    - name: 1 日券
       priceLines:
-        - 成人：¥4,900
-        - 兒童：¥3,000
-        - 長者：¥4,400
-    - name: 1日券平日
-      priceLines:
-        - 成人：¥4,200
-        - 兒童：¥2,500
-        - 長者：¥3,700
+        - 週末及假日成人：¥4,900 / 長者：¥4,400 / 兒童：¥3,000
+        - 平日成人：¥4,200 / 長者：¥3,700 / 兒童：¥2,500
     - name: 2 日券
       priceLines:
-        - 成人：¥7,800
-        - 兒童：¥4,000
-        - 長者：¥7,000
-    - name: 午前券午後券週末及國定假日
+        - 成人：¥8,300 / 長者：¥7,300 / 兒童：¥4,000
+    - name: 上午券
       priceLines:
-        - 成人：¥4,400
-        - 兒童：¥2,500
-        - 長者：¥3,900
-    - name: 午前券午後券平日
+        - 週末及假日成人：¥4,400 / 長者：¥3,900 / 兒童：¥2,500
+        - 平日成人：¥3,700 / 長者：¥3,500 / 兒童：¥2,500
+      note: 8:30〜12:30 有效。
+    - name: 下午券
       priceLines:
-        - 成人：¥3,700
-        - 兒童：¥2,500
-        - 長者：¥3,500
+        - 週末及假日成人：¥4,400 / 長者：¥3,900 / 兒童：¥2,500
+        - 平日成人：¥3,700 / 長者：¥3,500 / 兒童：¥2,500
+      note: 12:30〜16:45 有效。
     - name: 入場券
       priceLines:
-        - 成人：¥1,800
-        - 兒童：¥1,500
-        - 長者：¥1,800
+        - 週末及假日：成人、長者、兒童 ¥1,800
+        - 平日：成人、長者、兒童 ¥1,500
+      note: 可搭乘纜車最多 3 次、無限使用雪地電扶梯，並可全天使用雪遊廣場。
+    - name: 兵庫 5 季票
+      priceLines:
+        - 成人：¥39,800（超早鳥） / ¥48,800（一般）
+        - 兒童（小學生以下）：¥9,800
+      note: 可滑行兵庫縣 5 座合作雪場；超早鳥販售期間為 8 月 1 日至 11 月 16 日，一般販售自 11 月 17 日起至雪季結束。
 snowWeather:
   title: 神鍋高原萬場雪況天氣
   provider: Weathernews
@@ -91,60 +92,73 @@ snowWeather:
 courses:
   total: 7
   courseInfoPage: https://www.manba-ski.jp/gelande/
-  summary: 列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 神鍋高原萬場共有 7 條主要雪道，從緩斜面的家庭雪道與 4,000m 林間雪道，到三角 A、B、C 雪道的中高級斜面都有配置。
   details:
-  - name: ファミリーコース
-    difficulty: beginner
-    length: 500m
-    averageSlope: 11°
-    note: 家庭與初級者取向；官方資料並列出全長 500m、平均坡度 11°。
-  - name: 林間コース
-    difficulty: beginner
-    length: 4,000m
-    averageSlope: 10°
-    note: 長距離林間巡航線；官方資料並列出全長 4,000m、平均坡度 10°。
-  - name: ユートピアコース
-    difficulty: intermediate
-    length: 360m
-    averageSlope: 17°
-    note: 中級路線；官方資料並列出全長 360m、平均坡度 17°。
-  - name: センターホールコース
-    difficulty: intermediate
-    length: 600m
-    averageSlope: 23°
-    note: 中心區中級坡；官方資料並列出全長 600m、平均坡度 23°。
-  - name: トライアングル B
-    difficulty: advanced
-    length: 350m
-    averageSlope: 20°
-    note: Triangle 區進階線；官方資料並列出全長 350m、平均坡度 20°。
-  - name: トライアングル A
-    difficulty: advanced
-    length: 300m
-    averageSlope: 30°
-    note: Triangle 區高坡度路線；官方資料並列出全長 300m、平均坡度 30°。
-  - name: トライアングル C
-    difficulty: advanced
-    length: 200m
-    averageSlope: 30°
-    note: Triangle 區高坡度短線；官方資料並列出全長 200m、平均坡度 30°。
-  beginnerRatio: 30
-  intermediateRatio: 40
-  advancedRatio: 30
+    - name: 家庭雪道 / ファミリーゲレンデ
+      difficulty: beginner
+      length: 500m
+      averageSlope: 11°
+      note: 寬闊且平緩的初級雪道，鄰近停車場，適合家庭與剛開始練習的初學者。
+    - name: 中心大廳雪道 / センターホールゲレンデ
+      difficulty: mixed
+      length: 600m
+      averageSlope: 23°
+      note: 位於雪場中段，坡面寬闊且視野良好。
+    - name: 優閒境地雪道 / ユートピアゲレンデ
+      difficulty: mixed
+      length: 360m
+      averageSlope: 17°
+      note: 位於中心大廳雪道上方，從第 2 雙人纜車下車處即可抵達。
+    - name: 林間雪道 / 林間コース
+      difficulty: mixed
+      length: 4,000m
+      averageSlope: 10°
+      note: 穿梭林間的長距離雪道，可感受山岳路線的滑行氛圍。
+    - name: 三角 A 雪道 / トライアングルAコース
+      difficulty: mixed
+      length: 300m
+      averageSlope: 30°
+      note: 曾使用於國民體育大會大迴轉比賽，保留雪丘的斜面適合喜愛雪丘滑行者。
+    - name: 三角 B 雪道 / トライアングルBコース
+      difficulty: mixed
+      length: 350m
+      averageSlope: 20°
+      note: 可眺望神鍋山與田園雪景，特色是經壓雪整理的完整坡面。
+    - name: 三角 C 雪道 / トライアングルCコース
+      difficulty: advanced
+      length: 200m
+      averageSlope: 30°
+      note: 帶有雪丘的急斜面，保留自然雪面特色。
 lifts:
   total: 3
 access:
+  publicTransit:
+    - label: 江原站轉乘全但巴士
+      steps:
+        - 搭乘 JR 山陰本線至江原站。
+        - 從江原站搭乘前往神鍋高原的全但巴士，約 28 分鐘後於萬場口下車。
+      estimatedTime: 約 28 分鐘
+      difficulty: medium
+      note: 大阪、神戶另有直通巴士前往日高町，京阪神出發約 3 小時；直通巴士採指定座位預約制。
+      links:
+        - label: 神鍋高原萬場官方交通資訊
+          url: https://www.manba-ski.jp/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：山陰本線江原駅下車 バスで万場停留所下車 (25分) 車 ：池田IC→中国道→吉川JCT→舞鶴若狭自動道→春日IC→北近畿豊岡自動車道日高神鍋IC (15分) 車 ：岡山IC→山陽道山陽姫路東IC→播但連絡道(57km)→北近畿豊岡自動車道日高神鍋IC (15分) 飛行機：但馬空港より (30分) から3分でゲレンデです。 {{hitokoto}} 新型コロナウイルス感染予防対策 --> 標高 800m 〜 345m コース数 5 リフト数 3 ボード滑走 全面可 コース難易度 初級者向け 30％ 中級者向け 40％ 上級者向け 30％ レンタル スキー：○ スノーボード：○ レンタル料金 スキーセット 大人：4000円 子供：3000円 スキーウェア 大人：4000円 子供：3000円 ボードセット 大人：4000円 子供：3000円 ボードウェア 大人：4000円 子供：3000円 スクール スキー：○ スノーボード：× スキー（子供）：○ スノーボード（子供）：× モーグル：× パイプ：× リフト料金 ◆1日券週末及國定假日 大人 4900円 小人 3000円 シニア 4400円 ◆1日券平日 大人 4200円 小人 2500円 シニア 3700円 ◆2日券 大人 7800円 小人 4000円 シニア 7000円 ◆午前券午後券週末及國定假日 大人 4400円 小人 2500円 シニア 3900円 ◆午前券午後券平日 大人 3700円 小人 2500円 シニア 3500円 ◆入場券 大人 1800円 小人 1500円 シニア 1800円 ◆初滑り情報 シニアは55歳以上 中学生はシニア料金 入場の際はリフト券若しくは入場券をご購入ください。午前券は8:30〜12:30 午後券は12:30〜16:45迄 キャッシュレス決済 チケット購入：○ レストラン：○ ショップ：○ 決済方法 PayPay ｄ払い auPAY ＶＩＳＡ ＪＢＣ 等 スノーパーク × キッズパーク ○ 詳細 --> キッズエリアにジャングルジム・キャッスルクライマー設置。チュービングストライダー・雪遊びエリアとスキー・スノーボードエリアに分かれて安心して遊べます。入場の際はリフトチケットか入場券をご購入ください。入場券にはリフト３回止乗車可能です。 パウダースノー
-      ○ 詳細 --> センターホールゲレンデ・トライアングルAコースは非圧雪の急斜面となっており上級者に人気です。 春スキー × ゲレンデグルメ ○ 詳細 --> 第一リフト乗り場前のレストラン坂之屋は、但馬牛や地元の米や野菜を提供しています。但馬牛の肉うどんなど但馬の食材をお楽しみいただけます。但馬牛入りのカツカレー・かつ丼が人気メニューです。 パイプ × ペットの同伴 × 近場の温泉 かんなべ湯の森ゆとろぎ 車で3分 リフト券提示で１００円割引有 住所 〒669-5378 兵庫県豐岡市日高町万場480 地図を見る お問い合わせ TEL：0796-45-0191 ホームページ 營業期間 2025年12月28日 ~ 2026年03月03日 營業時間 平日：8:30〜16:45 假日：8:30〜16:45 夜滑：無 交通案内 電車 ：山陰本線江原駅下車 バスで万場停留所下車 (25分) 車 ：池田IC→中国道→吉川JCT→舞鶴若狭自動道→春日IC→北近畿豊岡自動車道日高神鍋IC (15分) 車 ：岡山IC→山陽道山陽姫路東IC→播但連絡道(57km)→北近畿豊岡自動車道日高神鍋IC (15分) 飛行機：但馬空港より (30分) 施設 シャワー 仮眠所 人工降雪機/人工造雪機 更衣室 荷物置き場 キッズパーク 託児所 ペットの同伴 駐車場 500台 平日 免費 假日 1500円
+    note: 神戶三田 IC 約 80 分鐘、中國池田 IC 約 100 分鐘、吹田 IC 約 110 分鐘、姬路約 100 分鐘。停車場平日免費，週末、假日及年末年初（12 月 29 日至 1 月 3 日）為 ¥1,500。冬季山路請準備雪胎，必要時攜帶雪鏈。
 terrainSummary:
-  beginner: 初級雪道以 ファミリーコース、林間コース 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 ユートピアコース、センターホールコース 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 トライアングル B、トライアングル A、トライアングル C，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
-
+  beginner: 家庭雪道為寬闊平緩的初級路線，4,000m 林間雪道則適合初學者體驗長距離滑行。
+  intermediate: 中心大廳、優閒境地與三角 A、B 雪道皆為中高級路線，坡度與雪面特色各有不同。
+  advanced: 三角 C 雪道為 30° 帶雪丘的急斜面，屬於上級路線。
+  snowboard: 雪板可滑行；雪遊廣場、兒童區與管制區仍以現場公告為準。
+sources:
+  - https://www.manba-ski.jp/access/
+  - https://www.manba-ski.jp/price/
+  - https://www.manba-ski.jp/gelande/
+externalContent:
+  blogs: []
+  vlogs: []
 ---
 
-神鍋高原萬場在兵庫縣提供7 條雪道，搭配 3 座纜車。路線包含 ファミリーコース、林間コース、ユートピアコース，整體初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。
+神鍋高原萬場是兵庫縣豐岡市的高原雪場，設有 7 條主要雪道與 3 座雙人纜車。家庭雪道與林間雪道適合初學者，中段與山頂則有中心大廳、優閒境地及三角 A、B、C 雪道，從寬闊斜面到雪丘急坡都能找到不同滑行節奏。

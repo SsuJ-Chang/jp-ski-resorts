@@ -2,10 +2,17 @@
 id: sol-fa-oda
 name:
   zhTw: SOL-FA Oda
-  ja: SOL-FAオダスキーゲレンデ
+  ja: SOLFA小田スキー場
   en: SOL-FA Oda Ski Gelande
 region: kansai-chugoku
 prefecture: 愛媛縣
+location:
+  latitude: 33.54095925169506
+  longitude: 132.83374739680153
+tags:
+- beginner_friendly
+- family_friendly
+- snowboard_friendly
 links:
   official: https://sol-fa.com/
   facebook: https://www.facebook.com/solfa.odamiyama
@@ -13,8 +20,14 @@ links:
   weather: https://weathernews.jp/ski/spot/37304/
   access: https://sol-fa.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9-1/
   googleMaps: https://www.google.com/maps/search/?api=1&query=SOL-FA%E3%82%AA%E3%83%80%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%B2%E3%83%AC%E3%83%B3%E3%83%87
+contact:
+  address:
+    zhTw: 愛媛縣喜多郡內子町小田深山
+    ja: 〒791-3524 愛媛県喜多郡内子町小田深山
+    googleMaps: https://maps.app.goo.gl/kTTh5qfZSVeLRpj6A
+  phone: 892-52-3232
 snowWeather:
-  title: SOL-FA Oda雪況天氣
+  title: SOL-FA Oda 雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/37304/
   snowDepth: 0 cm
@@ -26,47 +39,44 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20
-  courseInfoPage: https://weathernews.jp/ski/spot/37304/
-  summary: SOL-FA Oda 共有 5 條雪道與 1 個地形區，初級 30%、中級 50%、上級 20%。全區設有人工降雪設備，實際開放與地形道具配置請以當季公告為準。
+  courseInfoPage: https://tw.wamazing.com/snow/articles/396
+  summary: SOL-FA Oda 共有 5 條雪道，初級 30%、中級 50%、上級 20%；最長滑行距離 1,200m、最大坡度 30 度，並設有人工降雪設備與兒童雪地遊樂區。
   details:
-    - name: "初級ゲレンデ（名稱待確認）"
+    - name: 家庭雪道 / ファミリーゲレンデ
       difficulty: beginner
-      note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
-    - name: "ファミリーゲレンデ（名稱待確認）"
-      difficulty: beginner
-      note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
-    - name: "中級者ゲレンデ"
+      length: 400m
+      note: 適合初學者與家庭使用的緩坡雪道，全長為 400m。
+    - name: Ideal 雪道 / Ideal course
       difficulty: intermediate
-      note: 四國地區較大規模的中級坡面；個別長度待確認。
-    - name: "林間コース（名稱待確認）"
-      difficulty: intermediate
-      note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
-    - name: "上級ゲレンデ（名稱待確認）"
-      difficulty: advanced
-      note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
-    - name: "スノーパーク"
+      length: 1,200m
+      averageSlope: 15°
+      note: 雪場主要的中級長距離路線，雪道寬廣；最上端可眺望石鎚山與四國喀斯特地形。
+    - name: 地形公園 / スノーパーク
       difficulty: mixed
-      note: 設有跳台、box、rail 等項目；配置會依季節與積雪調整。
+      note: 位於 Ideal 雪道下段，設有空氣台與雪丘等地形；配置會依季節與積雪調整。
 access:
-  fromOsaka:
-    - label: 大阪出發經內子
+  publicTransit:
+    - label: JR 內子站轉乘計程車
       steps:
-        - 從新大阪搭新幹線到岡山，再轉乘特急往松山、內子方向。
-        - 在 JR 內子站下車後，轉乘計程車或事先安排接送前往雪場。
-      estimatedTime: 內子後約 60 分
+        - 搭乘 JR 至內子站。
+        - 於內子站轉乘計程車前往雪場，車程約 1 小時。
+      estimatedTime: 約 1 小時
       difficulty: hard
-      note: 內子站後公開資料以計程車銜接為主；雪場位於山區，建議事前安排回程交通。
-  fromAirport:
-    - label: 松山機場出發
-      steps:
-        - 從松山機場包車，往松山自動車道與內子、小田深山方向移動。
-        - 依當日道路與積雪狀況前往 SOL-FA Oda。
-      difficulty: hard
-      note: 機場後段以車行時間為主；若不自駕，建議先移動到松山或內子，再安排計程車或接送。
+      note: 雪場距離最近車站較遠，後段交通以計程車為主，建議事先安排回程。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從松山 IC 約 80 分，從內子 IC 約 60 分；停車場約 700 台，冬季山區道路需準備雪胎或防滑裝備。
+    note: 松山自動車道松山 IC 約 80 分鐘、內子五十崎 IC 約 60 分鐘；停車場約 700 台。冬季山區道路可能結冰，請準備雪胎或雪鏈。
+externalContent:
+  blogs:
+    - title: SOL-FA小田滑雪場｜四國長距離雪道與親子遊樂區介紹
+      url: https://tw.wamazing.com/snow/articles/396
+  vlogs: []
+sources:
+  - label: SOL-FA Oda 官方交通
+    url: https://www.sol-fa.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9-1/
+  - label: Wamazing SOL-FA Oda 介紹
+    url: https://tw.wamazing.com/snow/articles/396
 ---
 
-SOL-FA Oda位於愛媛縣，共有5 條雪道，規模雖然不大，但雪道集中，半天到一天就能把主要路線輪過一遍。中級者ゲレンデ、スノーパーク能看出這裡仍是地方型雪場常見的短中距離坡段。比起追求刷里程，這裡更適合把時間放在動作熟悉與同伴配速。
+SOL-FA Oda 位於愛媛縣小田深山，5 條雪道涵蓋初級至上級者，最長可滑行 1,200m。雪場以人工降雪維持雪面，主要的 Ideal 雪道屬寬廣中級長距離路線；家庭雪道與兒童雪地遊樂區則讓親子同行更容易安排。

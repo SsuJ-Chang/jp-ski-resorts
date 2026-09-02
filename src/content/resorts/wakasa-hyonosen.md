@@ -7,8 +7,8 @@ name:
 region: kansai-chugoku
 prefecture: 鳥取縣
 location:
-  latitude: 35.33998
-  longitude: 134.4941
+  latitude: 35.352574581040436
+  longitude: 134.48873475452936
 elevation:
   top: 1200
   bottom: 770
@@ -19,15 +19,17 @@ tags:
 - powder
 - snowboard_friendly
 links:
-  official: http://www.hyounosen.or.jp/ski/index.html
-  trailMapPage: http://www.hyounosen.or.jp/ski/index.html
+  official: https://hyounosen-ski.jp
+  trailMapPage: https://hyounosen-ski.jp/course
   weather: https://weathernews.jp/ski/spot/36805/
-  googleMaps: https://maps.google.co.jp/maps?q=35.33998,134.49410
+  googleMaps: https://maps.app.goo.gl/VsunYohuimWuzPXn6
+  access: https://hyounosen-ski.jp/access
+  ticket: https://hyounosen-ski.jp/price
 contact:
   address:
     zhTw: 鳥取縣八頭郡若桜町舂米
     ja: 〒680-0728 鳥取県八頭郡若桜町舂米
-    googleMaps: https://maps.google.co.jp/maps?q=35.33998,134.49410
+    googleMaps: https://maps.app.goo.gl/VsunYohuimWuzPXn6
   phone: 0858-82-0512
 season:
   label: 2025-2026
@@ -39,38 +41,47 @@ trailMaps:
 - label: 若櫻冰之山 官方雪道資訊
   language: 日本語
   season: 2025-2026
-  url: http://www.hyounosen.or.jp/ski/index.html
+  url: https://hyounosen-ski.jp/course
   sourceLabel: Wakasa Hyounosen Ski Area Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
-  source: https://weathernews.jp/ski/spot/36805/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  source: https://hyounosen-ski.jp/price
+  note: 官網 2026-2027 票價摘要；未滿學齡兒童免費，年末年始期間平日也適用假日價格。
   plans:
     - name: 1 日券
       priceLines:
-        - 成人：¥4,000
-        - 兒童：¥2,500
-        - 長者：¥3,500
+        - 成人：平日 ¥3,500、假日 ¥4,500
+        - 兒童（國小六年級以下）：平日 ¥2,500、假日 ¥3,000
+        - 長者（60 歲以上）：平日 ¥3,000、假日 ¥4,000
+        - 22 歲以下：平日 ¥3,000、假日 ¥3,500
+      note: 平日 LINE 優惠價：成人 ¥3,000、長者 ¥2,500、22 歲以下 ¥2,500。
+    - name: 親子 1 日券
+      priceLines:
+        - 成人 1 名 + 兒童 1 名：¥6,500
+      note: 僅有假日價格。
     - name: 上午券
       priceLines:
-        - 成人：¥3,000
-        - 兒童：¥1,500
+        - 成人：¥3,500
+        - 兒童（國小六年級以下）：¥2,000
+      note: 08:00～13:00；官網未列長者與 22 歲以下價格。
     - name: 下午券
       priceLines:
-        - 成人：¥3,000
-        - 兒童：¥1,500
-    - name: 回數券(11回)
+        - 成人：¥3,500
+        - 兒童（國小六年級以下）：¥2,000
+      note: 12:00～17:00；官網未列長者與 22 歲以下價格。
+    - name: 單次券
       priceLines:
-        - 成人：¥3,000
+        - ¥350
+    - name: 11 回券
+      priceLines:
+        - ¥3,500
     - name: 季票
       priceLines:
-        - 成人：¥40,000
-        - 兒童：¥25,000
-        - 長者：¥35,000
-    - name: 票券
-      priceLines:
-        - 長者券（６０歳以上） 成人：¥3,500
+        - 成人：¥45,000
+        - 兒童（國小六年級以下）：¥30,000
+        - 長者（60 歲以上）：¥40,000
+      note: 11 月 20 日前預約早割，各方案折 ¥6,000。
 snowWeather:
   title: 若櫻冰之山雪況天氣
   provider: Weathernews
@@ -81,8 +92,8 @@ snowWeather:
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
   total: 5
-  courseInfoPage: http://www.hyounosen.or.jp/ski/index.html
-  summary: 列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  courseInfoPage: https://hyounosen-ski.jp/course
+  summary: 若櫻冰之山共有 5 條雪道，從初級入門、中級巡航到上級急斜面都有配置；其中イヌワシ與アルパイン會隨坡段呈現初級至中級的難度變化。
   details:
   - name: ロマンスコース
     difficulty: beginner
@@ -90,21 +101,24 @@ courses:
     maxSlope: 20°
     averageSlope: 8°
     note: 初級巡航線；官方資料並列出全長 500m、最大坡度 20°、平均坡度 8°。
+  - name: イヌワシコース
+    difficulty: mixed
+    length: 800m
+    maxSlope: 39°
+    averageSlope: 17°
+    note: 上部為適合初學者的寬廣緩坡，往下逐漸變為中級者向的急斜面；也適合雪杖練習。
   - name: アルパインコース
-    difficulty: intermediate
-    note: 官方介紹雪況穩定的主要路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    difficulty: mixed
+    length: 500m
+    maxSlope: 20°
+    averageSlope: 15°
+    note: 雪道寬廣且雪質穩定；前 100m 較有刺激感，之後為寬闊的一枚斜面，適合初級至中級滑行。
   - name: パノラマコース
     difficulty: intermediate
     length: 1,000m
     maxSlope: 32°
     averageSlope: 10°
-    note: 長距離路線，最大坡度較高；目前官方來源未公開更細的全長、坡度或雪面特色描述。
-  - name: イヌワシコース
-    difficulty: advanced
-    length: 800m
-    maxSlope: 39°
-    averageSlope: 17°
-    note: 高坡度進階路線；官方資料並列出全長 800m、最大坡度 39°、平均坡度 17°。
+    note: 全長 1,000m，從長緩坡接至平均 20° 的較硬斜面，坡度變化豐富。
   - name: チャレンジコース
     difficulty: advanced
     length: 500m
@@ -117,15 +131,36 @@ courses:
 lifts:
   total: 5
 access:
+  publicTransit:
+    - label: 鳥取站出發
+      steps:
+        - 從鳥取站搭乘日交巴士若櫻線，於若櫻站轉乘前往雪場的路線巴士。
+      estimatedTime: 約 1 小時
+      difficulty: medium
+    - label: 若櫻站接駁
+      steps:
+        - 從若櫻站搭乘前往雪場的路線巴士。
+      difficulty: easy
+      note: 1 月起週六、週日與國定假日另有直達雪場的 ¥100 巴士。
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：若桜鉄道若桜駅より車で (20分) 車 ：中国山崎IC→R29→R482→わかさ氷ノ山 (70km) (100分) 車 ：津山IC→R29→R53→R482→わかさ氷ノ山 (88km) (120分) 870台 平日 免費 假日 600円
+    note: |-
+      大阪方向：約 3 小時，可由中國自動車道佐用 JCT 接鳥取自動車道河原 IC，或由山崎 IC 經國道 29 號至若櫻町，再接國道 482 號。
+      岡山方向：約 3 小時，可由中國自動車道津山 IC 經國道 53 號、鳥取自動車道智頭 IC／河原 IC，再經國道 29 號與 482 號。
+      鳥取機場或鳥取站方向：約 1 小時，經河原 IC 聯絡線、國道 29 號與國道 482 號。停車場共約 870 台，平日免費；假日小客車 ¥800、中型車 ¥1,400、大型巴士 ¥1,900。
 terrainSummary:
   beginner: 初級雪道以 ロマンスコース 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 アルパインコース、パノラマコース 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 イヌワシコース、チャレンジコース，請依當日開放狀態與雪況判斷。
+  intermediate: 中級者可用 イヌワシコース、アルパインコース、パノラマコース 串接較長滑行或主坡巡航。
+  advanced: 進階路線以チャレンジコース為主，另有具高坡度變化的雪道。
   snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+sources:
+  - label: 若櫻冰之山官方交通
+    url: https://hyounosen-ski.jp/access
+  - label: 若櫻冰之山官方雪票
+    url: https://hyounosen-ski.jp/price
+  - label: 若櫻冰之山官方雪道
+    url: https://hyounosen-ski.jp/course
 
 ---
 
