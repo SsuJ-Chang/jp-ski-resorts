@@ -481,6 +481,7 @@ const resortStructuredData = [
                   <dd>
                     <span>{resort.data.contact.address.zhTw}</span>
                     <span>{resort.data.contact.address.ja}</span>
+                    {resort.data.contact.address.en && <span>{resort.data.contact.address.en}</span>}
                     <a
                       href={resort.data.contact.address.googleMaps}
                       target="_blank"

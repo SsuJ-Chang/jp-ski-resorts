@@ -49,6 +49,7 @@ contact:
   address:
     zhTw: 長野縣北安曇郡範例村 123
     ja: 〒399-0000 長野県北安曇郡サンプル村123
+    en: 123 Sample Village, Kitaazumi District, Nagano 399-0000
     googleMaps: https://www.google.com/maps/search/?api=1&query=Example%20Snow%20Resort
   phone: 0261-00-0000
 season:

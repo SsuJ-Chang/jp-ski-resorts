@@ -168,6 +168,7 @@ const resorts = defineCollection({
         address: z.object({
           zhTw: z.string(),
           ja: z.string(),
+          en: z.string().optional(),
           googleMaps: z.url(),
         }),
         phone: z.string().optional(),

@@ -173,6 +173,7 @@ tree_run
 |---|---:|---|---|
 | `address.zhTw` | 是 | string | 繁體中文地址。 |
 | `address.ja` | 是 | string | 日文地址。 |
+| `address.en` | 否 | string | 英文地址；使用常見國際地址順序。 |
 | `address.googleMaps` | 是 | URL | Google Maps 連結。 |
 | `phone` | 否 | string | 電話。 |
 
