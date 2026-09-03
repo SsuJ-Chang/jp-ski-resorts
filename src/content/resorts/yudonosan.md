@@ -3,7 +3,7 @@ id: yudonosan
 name:
   zhTw: 湯殿山
   ja: 湯殿山スキー場
-  en: Yudonosan Ski Resort
+  en: Yudonosan Ski Field
 region: tohoku
 prefecture: 山形縣
 location:
@@ -29,15 +29,54 @@ links:
   googleMaps: https://maps.app.goo.gl/v623cYU4kF4J3iu17
 contact:
   address:
-    zhTw: 山形縣鶴岡市田麥俣字六十里山 104-1
-    ja: 〒997-0532 山形県鶴岡市田麦俣字六十里山104ー1
+    zhTw: 山形縣鶴岡市田麥俣字六十里山104-5
+    ja: 〒997-0532 山形県鶴岡市田麦俣字六十里山104-5
+    en: Aza Rokujuuriyama 104-5, Tamugimata, Tsuruoka, Yamagata 997-0532
     googleMaps: https://maps.app.goo.gl/v623cYU4kF4J3iu17
   phone: 0235-54-6450
 season:
   label: "2025-2026"
   operatingPeriod: "2025/12/06-2026/03/31"
-  note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
-  source: https://weathernews.jp/ski/spot/33505/
+  hours: 8:45-16:00
+  note: 營業時間會依日落時間及積雪狀況調整。
+  source: https://yudonosan.com/price/
+tickets:
+  season: "2025-2026"
+  currency: JPY
+  source: https://yudonosan.com/price/
+  plans:
+    - name: 1 日券
+      priceLines:
+        - 一般（高中生以上）：¥3,700
+        - 國中小學生：¥1,000
+        - 高中生（出示學生證）：¥1,800
+        - 長者（60 歲以上）：¥3,000
+    - name: 4 小時券
+      priceLines:
+        - 一般（高中生以上）：¥3,300
+        - 國中小學生：¥500
+    - name: 回數券（11 次）
+      priceLines:
+        - 一般（高中生以上）：¥3,200
+        - 國中小學生：¥1,000
+    - name: 單次券
+      priceLines:
+        - 一般（高中生以上）：¥320
+        - 國中小學生：¥100
+    - name: 家庭 1 日券
+      priceLines:
+        - 一般 1 人＋國中小學生 1 人：¥4,200
+        - 一般 2 人＋國中小學生 1 人：¥7,400
+      note: 學齡前兒童免費搭乘纜車；每月第 3 個週日，國中生以下免費。
+    - name: 女性 1 日券
+      priceLines:
+        - 女性：¥2,200
+      note: 適用每週二、三、四與每月第 1 個週六；年末年始及國定假日不適用。
+    - name: 季票
+      priceLines:
+        - 一般（高中生以上）：¥37,000
+        - 國中小學生：¥6,100
+        - 長者（60 歲以上）：¥31,000
 snowWeather:
   title: 湯殿山雪況天氣
   provider: Weathernews
@@ -52,57 +91,47 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://yudonosan.com/facility/
-  summary: 湯殿山初級與中級雪道較多，降雪早且雪量多，並有 half pipe、snow park 與多樣地形。共有 5 條雪道，初級 30%、中級 50%、上級 20%。
+  summary: 湯殿山設有 7 條雪道，初級與中級雪道較多，另有 half pipe、snow park 與雪地遊戲區。
   details:
     - name: 林間コース
       difficulty: beginner
       length: 2,000m
       maxSlope: 10°
       averageSlope: 8°
+      note: 在林間滑行的初級長距離雪道，坡度平緩。
     - name: 初級コース
       difficulty: beginner
+      note: 坡度和緩，適合初學者。
     - name: うさぎさんコース
       difficulty: beginner
+      note: 全場坡度最和緩的雪道，適合初次練習。
     - name: ロマンスリーゼンコース
       difficulty: intermediate
       length: 1,000m
       maxSlope: 30°
       averageSlope: 13°
+      note: 上段坡度較陡，中段起轉為初學者也能安心滑行的緩坡。
     - name: 正面ゲレンデ
       difficulty: intermediate
       length: 850m
       maxSlope: 15°
       averageSlope: 15°
+      note: 寬廣斜面，適合初學者練習，也受到家庭客歡迎。
     - name: 上級コース
       difficulty: advanced
       length: 300m
       maxSlope: 35°
       averageSlope: 25°
+      note: 上段為中級坡度，中段開始變陡；積雪充足時可享受粉雪。
     - name: 沢コース
       difficulty: mixed
 lifts:
   total: 2
 access:
-  fromTokyo:
-    - label: 東京出發經鶴岡
-      steps:
-        - 從東京方向搭新幹線與在來線，或改搭高速巴士、飛機等方式前往鶴岡。
-        - 從鶴岡站轉乘計程車或包車，往國道 112 號與湯殿山方向移動。
-      estimatedTime: 鶴岡後約 40 分
-      difficulty: hard
-      note: 鶴岡後公開資料以車行時間為主；不自駕時建議先安排回程交通或住宿接送。
-  fromAirport:
-    - label: 庄內機場出發
-      steps:
-        - 從庄內機場搭計程車或包車，往鶴岡與湯殿山方向移動。
-        - 依當日道路與積雪狀況前往湯殿山。
-      estimatedTime: 約 40 分
-      difficulty: hard
-      note: 機場後公開資料以車行時間為主；冬季請先確認道路與回程交通。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從山形自動車道湯殿山 IC 下交流道後約 10 分，月山 IC 下交流道後約 20 分；從鶴岡或酒田出發約 40 分，山形出發約 90 分。冬季需準備雪胎或防滑裝備。
+    note: 酒田經山形自動車道約 40 分、鶴岡經國道 112 號約 40 分、山形經國道 112 號約 90 分；湯殿山 IC 約 10 分、月山 IC 約 20 分、高速巴士庄內朝日站約 20 分。仙台、山形方向建議由月山 IC 下交流道；鶴岡、酒田方向建議由湯殿山 IC 下交流道。
 terrainSummary:
   beginner: 湯殿山初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。
   intermediate: 中級雪道占 50%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。
@@ -114,4 +143,4 @@ externalContent:
   vlogs: []
 ---
 
-山形縣的湯殿山共有7 條雪道，搭配 2 座纜車，包含 林間コース、初級コース、うさぎさんコース 等路線。初級、中級與上級路線都有配置；標籤上偏向親子同行、雙板與單板。
+山形縣的湯殿山共有 7 條雪道，搭配 2 座纜車，包含 林間コース、初級コース、うさぎさんコース 等路線。初級、中級與上級路線都有配置；標籤上偏向親子同行、雙板與單板。

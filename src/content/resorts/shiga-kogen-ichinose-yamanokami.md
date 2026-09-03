@@ -8,8 +8,8 @@ region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.745
-  longitude: 138.527
+  latitude: 36.74135299536317
+  longitude: 138.5085084038315
 tags:
 - beginner_friendly
 - snowboard_friendly
@@ -21,10 +21,17 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://shigakogen-ski.or.jp/access/
+  access: https://shigakogen.co.jp/winter/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
-  googleMaps: https://maps.app.goo.gl/dA2korSQj9eiYzTf6
+  googleMaps: https://maps.app.goo.gl/RiJfJzkyw5GKeeH67
+contact:
+  address:
+    zhTw: 長野縣下高井郡山之內町平穩7148
+    ja: 〒381-0401 長野県下高井郡山ノ内町平穏7148
+    en: Hirao 7148, Yamanouchi, Shimotakai District, Nagano 381-0401
+    googleMaps: https://maps.app.goo.gl/RiJfJzkyw5GKeeH67
+  phone: 0269-34-2241
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
@@ -38,14 +45,25 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://shigakogen-ski.or.jp/winter/ticket/
+  source: https://shigakogen.co.jp/winter/lift-price/
   plans:
-    - name: 全山 1 日券
+    - name: 中央エリア 1 日券（12/20-3/31）
       priceLines:
-        - 成人：¥8,000
-        - 國中生、高中生：¥6,200
-        - 長者：¥6,400
-        - 兒童：¥3,600
+        - 成人：¥7,000
+        - 兒童：¥3,500
+    - name: 中央エリア 1 日券（營業開始-12/19、4/1-營業結束）
+      priceLines:
+        - 成人：¥5,600
+        - 兒童：¥2,800
+    - name: 中央エリア 4 小時券（12/20-3/31）
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥3,000
+    - name: Web 1 日券（12/20-3/31）
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥3,250
+      note: 中高生與長者適用成人票價；未就學兒童由付費成人陪同時，每位成人可免費攜帶 1 名。
 snowWeather:
   title: 志賀高原一之瀨山之神雪況天氣
   provider: Official
@@ -59,17 +77,17 @@ courses:
   intermediateRatio: 50
   advancedRatio: 0
   total: 2
-  courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
-  summary: 一之瀨山之神主要是連接一之瀨、Diamond 與燒額山方向的移動雪道。
+  courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/ichinose-yamanokami-ski/
+  summary: 一之瀨山之神是志賀高原中央區域的重要連絡雪場，可從 Diamond 滑往燒額山與奧志賀高原方向，也能利用纜車返回一之瀨側。
   details:
   - name: Monkey Course
     difficulty: beginner
     length: 750m
-    note: 從燒額山區域通往中央區域的連絡路；官方資料並列出全長 750m。
+    note: 連接 Diamond 與燒額山方向的初級連絡雪道，平均斜度 8 度、最大斜度 15 度。
   - name: Kamoshika Course
     difficulty: intermediate
     length: 800m
-    note: 從一之瀨 Diamond 區域通往燒額山區域的連絡路。
+    note: 連接一之瀨 Diamond 與燒額山方向的中級連絡雪道，平均斜度 8 度、最大斜度 15 度。
 lifts:
   total: 1
 access:
@@ -77,18 +95,27 @@ access:
   - label: 東京出發經長野
     steps:
     - 從東京搭北陸新幹線到長野站。
-    - 從長野站東口搭直達巴士前往志賀高原，於一之瀨或燒額山側站點下車後銜接。
-    estimatedTime: 長野後約 1.5-2 小時
+    - 從長野站東口搭長電巴士「長野－志賀高原」急行線前往志賀高原。
+    estimatedTime: 長野站出發約 1.5-2 小時
     difficulty: medium
-    note: 一之瀨山之神主要是中央區域與燒額山之間的連絡雪場，實際進出通常會配合一之瀨或燒額山的住宿、巴士站與纜車營運。
+    note: 各雪場下車站不同，請依住宿地點與當日巴士路線確認。
+  publicTransit:
+  - label: 電車與巴士
+    steps:
+    - 從長野站東口轉乘長電巴士「長野－志賀高原」急行線。
+    - 可利用奧志賀高原線、白根火山線等區內路線巴士前往各區域。
+    - 雪場間移動可利用官方免費滑雪接駁車，非接駁時段可能需要付費。
+    estimatedTime: 長野站出發約 1.5-2 小時
+    difficulty: medium
+    note: 巴士班次與免費接駁車時段會依季節調整，出發前請查看官方公告。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。一之瀨區域停車合計約 1,300 台，部分為住宿者專用。
+    note: 從信州中野 IC 經國道 292 號進入志賀高原；志賀高原山之站設有免費停車位約 1,600 台，並可搭乘雪場間免費接駁車。
 terrainSummary:
-  beginner: Monkey Course 是初級連絡路，可從燒額山回到中央區域。
-  intermediate: Kamoshika Course 連接一之瀨 Diamond 與燒額山。
+  beginner: Monkey Course 是初級連絡雪道，可從 Diamond 前往燒額山方向。
+  intermediate: Kamoshika Course 是中級連絡雪道，連接一之瀨 Diamond 與燒額山方向。
   snowboard: 主要用途是區域移動，雪板需留意平緩連絡段速度。
 ---
 
-志賀高原一之瀨山之神位於長野縣，以2 條雪道形成小型練習雪場規模，搭配 1 座纜車。主要路線有 Monkey Course、Kamoshika Course，以初級與中級路線為主；標籤上偏向初學者練習、雙板與單板。
+志賀高原一之瀨山之神位於長野縣，設有 2 條雪道與 1 座纜車，最高標高 1,700 公尺、最低標高 1,595 公尺。Monkey Course 與 Kamoshika Course 都是連絡雪道，以初級與中級路線為主，適合雙板與單板滑雪者。

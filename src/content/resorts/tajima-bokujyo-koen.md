@@ -31,6 +31,7 @@ contact:
   address:
     zhTw: 兵庫縣美方郡新溫泉町丹土1033
     ja: 〒669-6813 兵庫県美方郡新温泉町丹土1033
+    en: Hyogo mikata District shin'onsen, tantsuchi1033 669-6813
     googleMaps: https://maps.app.goo.gl/LuEpoMNDNH8eRRY7A
   phone: 0796-92-1005
 season:

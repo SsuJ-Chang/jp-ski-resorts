@@ -27,6 +27,7 @@ contact:
   address:
     zhTw: 〒384-0000 長野縣小諸市高峰高原 地図を見る
     ja: 〒384-0000 長野県小諸市高峰高原 地図を見る
+    en: Nagano komoro, kouhoukougen chizuwomiru 384-0000
     googleMaps: https://www.google.com/maps/search/?api=1&query=Takamine%20Mountain%20Park
   phone: 0267-23-1714
 season:

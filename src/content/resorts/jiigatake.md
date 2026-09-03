@@ -32,6 +32,7 @@ contact:
   address:
     zhTw: 長野縣大町市平 4819
     ja: 長野県大町市平4819
+    en: Nagano dai, taira4819
     googleMaps: https://maps.app.goo.gl/Nrr2KAAyyocAvsHc6
   phone: 0261-22-0551
 season:

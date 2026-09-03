@@ -32,6 +32,7 @@ contact:
   address:
     zhTw: 北海道札幌市南区瀧野247番地
     ja: 〒005-0862 北海道札幌市南区滝野247番地
+    en: Hokkaido sapporo, minamikutakino247banchi 005-0862
     googleMaps: https://maps.app.goo.gl/3LfhuFduvGwmn5kL6
   phone: 011-592-3333
 season:

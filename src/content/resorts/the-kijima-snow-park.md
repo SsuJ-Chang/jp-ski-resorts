@@ -19,6 +19,7 @@ contact:
   address:
     zhTw: 〒389-2303 長野縣下高井郡木島平村上木島3278-212 地図を見る
     ja: 〒389-2303 長野県下高井郡木島平村上木島3278-212 地図を見る
+    en: Nagano shimotakai District kijimataira, uekishima3278-212 chizuwomiru 389-2303
     googleMaps: https://www.google.com/maps/search/?api=1&query=The%20Kijima%20Snow%20Park
   phone: 0269-82-4150
 season:

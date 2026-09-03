@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 北海道河西郡芽室町中美生2線42
     ja: 〒082-0086 北海道河西郡芽室町中美生2線42
+    en: Hokkaido kasai District memuro, nakabishou2sen42 082-0086
     googleMaps: https://maps.app.goo.gl/zF9yHJ3noz49DwQa6
   phone: 0155-65-2121
 season:

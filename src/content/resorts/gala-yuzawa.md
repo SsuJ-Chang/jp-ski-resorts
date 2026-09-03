@@ -45,6 +45,7 @@ contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町大字湯澤字茅平 1039-2
     ja: 〒949-6101 新潟県南魚沼郡湯沢町大字湯沢字茅平1039-2
+    en: 1039-2 Ooaza Yuzawa, Aza Kayadaira, Yuzawa, Minamiuonuma District, Niigata 949-6101
     googleMaps: https://maps.app.goo.gl/MMxfPdgES98YL3VL9
   phone: 050-1807-3243
 season:

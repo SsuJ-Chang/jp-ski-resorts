@@ -34,6 +34,7 @@ contact:
   address:
     zhTw: 岩手縣北上市和賀町岩崎新田
     ja: 〒024-0322 岩手県北上市和賀町岩崎新田
+    en: Iwate kitakami, waga, iwasakinitta 024-0322
     googleMaps: https://maps.app.goo.gl/4FgrBzDRsmFmqSu67
   phone: 0197-65-9000
 season:

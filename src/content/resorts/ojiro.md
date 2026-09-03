@@ -32,6 +32,7 @@ contact:
   address:
     zhTw: 兵庫縣美方郡香美町小代区大谷463
     ja: 〒667-1503 兵庫県美方郡香美町小代区大谷463
+    en: Hyogo mikata District kami, shoudaikuootani463 667-1503
     googleMaps: https://maps.app.goo.gl/LVxaDD3qskE9RupC9
   phone: 0796-97-2717
 season:

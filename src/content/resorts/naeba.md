@@ -36,6 +36,7 @@ contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町三國 202
     ja: 〒949-6292 新潟県南魚沼郡湯沢町三国202
+    en: 202 Mikuni, Yuzawa, Minamiuonuma District, Niigata 949-6292
     googleMaps: https://maps.app.goo.gl/2eFoiRG62wtqabh86
   phone: 025-789-4117
 season:

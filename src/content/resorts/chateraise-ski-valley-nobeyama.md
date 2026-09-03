@@ -30,6 +30,7 @@ contact:
   address:
     zhTw: 〒384-1407 長野縣南佐久郡川上村御所平1841 地図を見る
     ja: 〒384-1407 長野県南佐久郡川上村御所平1841 地図を見る
+    en: Nagano minamisaku District kawakami, goshotaira1841 chizuwomiru 384-1407
     googleMaps: https://www.google.com/maps/search/?api=1&query=Chateraise%20Ski%20Valley%20Nobeyama
   phone: 0267-91-1001
 season:

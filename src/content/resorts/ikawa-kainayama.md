@@ -7,19 +7,20 @@ name:
 region: kansai-chugoku
 prefecture: 德島縣
 location:
-  latitude: 33.96341363749772
-  longitude: 133.88476143729469
+  latitude: 33.96339581819654
+  longitude: 133.8847614610062
 links:
   official: https://www.ikawaski.jp/
   facebook: https://www.facebook.com/people/%E4%BA%95%E5%B7%9D%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4-%E3%81%8B%E3%81%84%E3%81%AA%E3%81%A3%E3%81%93/100062946354531/
   instagram: https://www.instagram.com/ikawaskipark_kaina/
   weather: https://weathernews.jp/ski/spot/37103/
-  googleMaps: https://maps.app.goo.gl/vnuHBJkXrb41w1CF9
+  googleMaps: https://maps.app.goo.gl/FR3miW8ZXaPb2VCf9
 contact:
   address:
-    zhTw: Ikawacho Iuchinishi, 三好市德島縣 779-4805
-    ja: Ikawacho Iuchinishi, 三好市德島縣 779-4805
-    googleMaps: https://maps.app.goo.gl/kTTh5qfZSVeLRpj6A
+    zhTw: 德島縣三好市井川町井內西 779-4805
+    ja: 〒779-4805 徳島県三好市井川町井内西
+    en: Iuchinishi, Ikawa-cho, Miyoshi, Tokushima 779-4805
+    googleMaps: https://maps.app.goo.gl/FR3miW8ZXaPb2VCf9
   phone: 883-78-3003
 snowWeather:
   title: 井川腕山雪況天氣

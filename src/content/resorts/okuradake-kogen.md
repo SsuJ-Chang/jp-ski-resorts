@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 石川縣小松市尾小屋町レ 41
     ja: 〒923-0172 石川県小松市尾小屋町レ41番地
+    en: Ishikawa komatsu, okoya, re41banchi 923-0172
     googleMaps: https://maps.app.goo.gl/c2XtQns22X659sJx5
   phone: 0761-67-1426
 season:

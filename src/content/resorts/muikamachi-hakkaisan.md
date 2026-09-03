@@ -27,6 +27,7 @@ contact:
   address:
     zhTw: 新潟縣南魚沼市八口
     ja: 〒949-7121 新潟県南魚沼市八口
+    en: Niigata minamiuonuma, yakuchi 949-7121
     googleMaps: https://www.google.com/maps/search/?api=1&query=Muikamachi%20Hakkaisan
   phone: 025-775-3311
 season:

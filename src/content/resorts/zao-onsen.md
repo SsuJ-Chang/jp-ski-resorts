@@ -36,6 +36,7 @@ contact:
   address:
     zhTw: 山形縣山形市藏王溫泉
     ja: 〒990-2301 山形県山形市蔵王温泉
+    en: Zao Onsen, Yamagata, Yamagata 990-2301
     googleMaps: https://maps.app.goo.gl/ZHKC87u1K18H8H5i7
   phone: 023-694-9328（藏王溫泉觀光協會）
 season:

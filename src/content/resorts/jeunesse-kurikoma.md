@@ -36,6 +36,7 @@ contact:
   address:
     zhTw: 秋田縣雄勝郡東成瀬村椿川字柳澤39-7
     ja: 〒019-0803 秋田県雄勝郡東成瀬村椿川字柳沢39-7
+    en: Akita okatsu District higashinaruse, tsubakikawa Aza yanagisawa39-7 019-0803
     googleMaps: https://maps.app.goo.gl/5qZzx4nL1AhugBGS6
   phone: 0182-47-3101
 season:

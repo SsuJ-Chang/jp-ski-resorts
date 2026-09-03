@@ -26,6 +26,7 @@ contact:
   address:
     zhTw: 〒399-7701 長野縣東筑摩郡麻績村麻5887 地図を見る
     ja: 〒399-7701 長野県東筑摩郡麻績村麻5887 地図を見る
+    en: Nagano higashichikuma District omi, asa5887 chizuwomiru 399-7701
     googleMaps: https://www.google.com/maps/search/?api=1&query=Hijiri%20Kogen%20Ski%20Area
   phone: 0263-67-2145
 season:

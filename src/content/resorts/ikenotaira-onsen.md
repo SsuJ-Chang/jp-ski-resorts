@@ -36,6 +36,7 @@ contact:
   address:
     zhTw: 新潟縣妙高市關川 2457-1
     ja: 新潟県妙高市関川2457-1
+    en: Niigata myoukou, sekigawa2457-1
     googleMaps: https://maps.app.goo.gl/52rrSAw33VBqC2n96
 season:
   label: 2025-2026

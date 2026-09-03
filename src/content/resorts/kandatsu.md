@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町神立 4121-2
     ja: 〒949-6102 新潟県南魚沼郡湯沢町神立4121-2
+    en: Niigata minamiuonuma District yuzawa, kandachi4121-2 949-6102
     googleMaps: https://maps.app.goo.gl/YcFqwn2neQoZSXvm9
   phone: 025-788-0111
 season:

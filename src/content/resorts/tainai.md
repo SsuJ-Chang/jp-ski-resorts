@@ -28,6 +28,7 @@ contact:
   address:
     zhTw: 新潟縣胎內市熱田坂 881-166
     ja: 〒959-2823 新潟県胎内市熱田坂881-166
+    en: Niigata tainai, atsutasaka881-166 959-2823
     googleMaps: https://www.google.com/maps/search/?api=1&query=Tainai%20Ski%20Area
   phone: 0254-28-1717
 season:

@@ -27,6 +27,7 @@ contact:
   address:
     zhTw: 〒399-6202 長野縣木曽郡木祖村菅2857-16 地図を見る
     ja: 〒399-6202 長野県木曽郡木祖村菅2857-16 地図を見る
+    en: Nagano kiso District kiso, kan2857-16 chizuwomiru 399-6202
     googleMaps: https://www.google.com/maps/search/?api=1&query=Yabuhara%20Kogen%20Ski%20Area
   phone: 0264-36-1622
 season:

@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 長野縣下高井郡山之內町平穩
     ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi, 山ノ内町Hirao
+    en: Nagano, Shimotakai District, Yamanouchi, yamanonai, Hirao 381-0401
     googleMaps: https://maps.app.goo.gl/E3unk2Yzh1G4GppbA
   phone: 0269-34-2600
 season:

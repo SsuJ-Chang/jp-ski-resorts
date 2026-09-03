@@ -27,6 +27,7 @@ contact:
   address:
     zhTw: 新潟縣魚沼市青島 1609
     ja: 〒946-0043 新潟県魚沼市青島1609
+    en: Niigata uonuma, aoshima1609 946-0043
     googleMaps: https://www.google.com/maps/search/?api=1&query=Koide%20Ski%20Area
   phone: 025-792-5320
 season:

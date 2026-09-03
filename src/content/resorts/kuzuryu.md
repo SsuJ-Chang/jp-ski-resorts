@@ -27,6 +27,7 @@ contact:
   address:
     zhTw: 福井縣大野市角野 14-3
     ja: 福井県大野市角野14-3
+    en: Fukui oono, kakuno14-3
     googleMaps: https://maps.app.goo.gl/STj2w5rStGnBdEdN9
   phone: 0779-78-2651
 season:

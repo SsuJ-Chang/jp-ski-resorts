@@ -26,6 +26,7 @@ contact:
   address:
     zhTw: 富山縣砺波市五谷字源谷 22
     ja: 富山県砺波市五谷字源谷22
+    en: Toyama tonami, gotani Aza gentani22
     googleMaps: https://maps.app.goo.gl/H2orNs9JLBkYt8zm9
   phone: 0763-37-1575
 season:

@@ -25,6 +25,7 @@ contact:
   address:
     zhTw: 三重縣三重郡菰野町湯之山溫泉
     ja: 〒510-1233 三重県三重郡菰野町湯の山温泉
+    en: Mie mie District komono, yunoyamaonsen 510-1233
     googleMaps: https://maps.app.goo.gl/BrU8vvaG4kGXN6Mb6
   phone: 059-392-2261
 season:

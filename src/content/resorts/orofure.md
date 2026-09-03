@@ -30,6 +30,7 @@ contact:
   address:
     zhTw: 北海道有珠郡壮瞥町弁景204-5
     ja: 〒052-0115 北海道有珠郡壮瞥町弁景204-5
+    en: Hokkaido usu District soubetsu, benkei204-5 052-0115
     googleMaps: https://maps.app.goo.gl/xE37wrWBbknrSetc9
   phone: 0142-65-2323
 season:

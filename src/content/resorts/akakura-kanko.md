@@ -34,6 +34,7 @@ contact:
   address:
     zhTw: 新潟縣妙高市田切 216
     ja: 新潟県妙高市田切216
+    en: Niigata myoukou, tagiri216
     googleMaps: https://maps.app.goo.gl/9sZU7Mx1A3DhoUrj7
   phone: 0255-87-2503
 season:

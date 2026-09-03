@@ -24,6 +24,7 @@ contact:
   address:
     zhTw: 富山縣南砺市梨谷
     ja: 富山県南砺市梨谷
+    en: Toyama nanto, nashitani
     googleMaps: https://maps.app.goo.gl/ygfweXjPvcLxptpm8
   phone: 0763-66-2911
 season:

@@ -31,6 +31,7 @@ contact:
   address:
     zhTw: 北海道士別市多寄町日向4095
     ja: 〒098-0475 北海道士別市多寄町日向4095
+    en: Hokkaido shibetsu, tayori, hyuuga4095 098-0475
     googleMaps: https://maps.app.goo.gl/wawGV1FY6j9Yr9j5A
   phone: 0165-26-2577
 season:

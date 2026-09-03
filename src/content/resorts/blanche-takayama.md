@@ -27,6 +27,7 @@ contact:
   address:
     zhTw: 〒386-0601 長野縣小県郡長和町大門鷹山3652 地図を見る
     ja: 〒386-0601 長野県小県郡長和町大門鷹山3652 地図を見る
+    en: Nagano chiisagata District chouwa, daimontakayama3652 chizuwomiru 386-0601
     googleMaps: https://www.google.com/maps/search/?api=1&query=Blanche%20Takayama%20Ski%20Resort
   phone: 0268-69-2232
 season:

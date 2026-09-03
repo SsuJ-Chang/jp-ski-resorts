@@ -28,6 +28,7 @@ contact:
   address:
     zhTw: 〒389-0102 長野縣北佐久郡軽井沢町軽井沢 地図を見る
     ja: 〒389-0102 長野県北佐久郡軽井沢町軽井沢 地図を見る
+    en: Nagano kitasaku District karuizawa, karuizawa chizuwomiru 389-0102
     googleMaps: https://www.google.com/maps/search/?api=1&query=Karuizawa%20Prince%20Hotel%20Ski%20Resort
   phone: 0267-42-5588
 season:

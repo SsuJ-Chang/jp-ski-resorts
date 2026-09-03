@@ -31,6 +31,7 @@ contact:
   address:
     zhTw: 山形縣天童市大字田麦野1321
     ja: 〒994-0104 山形県天童市大字田麦野1321
+    en: Yamagata tendou, Ooaza tamugino1321 994-0104
     googleMaps: https://maps.app.goo.gl/yphrx2gBLeFRm6pL6
   phone: 023-657-3628
 season:

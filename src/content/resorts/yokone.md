@@ -31,6 +31,7 @@ contact:
   address:
     zhTw: 山形縣西置賜郡大字小国町大字小国小坂町895
     ja: 山形県西置賜郡大字小国町大字小国小坂町895
+    en: Yamagata nishiokitama District Ooaza shoukoku, Ooaza shoukokukosaka, 895
     googleMaps: https://maps.app.goo.gl/ADZNGkrhyToBReVd8
   phone: 0238-62-4723
 season:

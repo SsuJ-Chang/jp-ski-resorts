@@ -30,6 +30,7 @@ contact:
   address:
     zhTw: 栃木縣日光市川治温泉高原鶏頂山
     ja: 〒321-2612 栃木県日光市川治温泉高原鶏頂山
+    en: Tochigi nikkou, kawajionsenkougenkeichouyama 321-2612
     googleMaps: https://maps.google.co.jp/maps?q=36.925096,139.748985
   phone: 0288-78-0786
 season:

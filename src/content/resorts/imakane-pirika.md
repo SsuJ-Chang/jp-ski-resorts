@@ -33,6 +33,7 @@ contact:
   address:
     zhTw: 北海道瀬棚郡今金町字美利河205-1
     ja: 〒049-4151 北海道瀬棚郡今金町字美利河205-1
+    en: Hokkaido setana District imagane, Aza pirika205-1 049-4151
     googleMaps: https://maps.app.goo.gl/fLWkUwH4iDGMkast9
   phone: 0137-83-7111
 season:

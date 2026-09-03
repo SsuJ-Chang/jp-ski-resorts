@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 北海道天塩郡幌延町幌延106-1
     ja: 〒098-3223 北海道天塩郡幌延町幌延106-1
+    en: Hokkaido teshio District horonobe, horonobe106-1 098-3223
     googleMaps: https://maps.app.goo.gl/EtkP7cKjcoxPznUd8
   phone: 01632-5-1620
 season:

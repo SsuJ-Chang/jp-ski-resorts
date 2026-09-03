@@ -46,6 +46,7 @@ contact:
   address:
     zhTw: 長野縣下高井郡野澤溫泉村大字豐鄉 7653
     ja: 〒389-2502 長野県下高井郡野沢温泉村大字豊郷7653
+    en: 7653 Ooaza Toyosato, Nozawaonsen, Shimotakai District, Nagano 389-2502
     googleMaps: https://www.google.com/maps/search/?api=1&query=Nozawa%20Onsen%20Snow%20Resort
   phone: 0269-85-3166
 season:

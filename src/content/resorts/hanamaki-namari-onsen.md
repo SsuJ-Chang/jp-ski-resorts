@@ -28,6 +28,7 @@ contact:
   address:
     zhTw: 岩手縣花卷市鉛字中平 36-1
     ja: 〒025-0252 岩手県花巻市鉛字中平36-1
+    en: Iwate hanamaki, namari Aza chuuhei36-1 025-0252
     googleMaps: https://maps.app.goo.gl/mz4YqsEPBYWknX21A
   phone: 0198-25-2711
 season:

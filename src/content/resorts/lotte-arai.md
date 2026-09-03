@@ -30,6 +30,7 @@ contact:
   address:
     zhTw: 新潟縣妙高市兩善寺 1966
     ja: 新潟県妙高市両善寺1966
+    en: Niigata myoukou, ryouzentera1966
     googleMaps: https://maps.app.goo.gl/iNta2t4Sk8QRWhFJ8
 season:
   label: 2025-2026

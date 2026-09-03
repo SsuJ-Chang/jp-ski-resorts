@@ -18,24 +18,25 @@ links:
   facebook: https://www.facebook.com/ShigaKogen.Ski
   instagram: https://www.instagram.com/ShigaCentral/
   xTwitter: https://x.com/ShigaCentral
-  trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
+  trailMapPage: https://shigakogen.co.jp/winter/snow-slope/nishidateyama-ski/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
-  ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://shigakogen-ski.or.jp/access/
-  snowReport: https://www.shigakogen.gr.jp/english/lift_information/
-  liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
+  ticket: https://shigakogen.co.jp/winter/lift-price/
+  access: https://shigakogen.co.jp/winter/access/
+  snowReport: https://shigakogen.co.jp/winter/snow-slope/nishidateyama-ski/
+  liftStatus: https://shigakogen.co.jp/winter/snow-slope/nishidateyama-ski/
   googleMaps: https://maps.app.goo.gl/w5rNHvcS4w15TQvK6
 contact:
   address:
-    zhTw: 長野縣下高井郡山之內町
-    ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi
+    zhTw: 長野縣下高井郡山之內町平穩7148
+    ja: 〒381-0401 長野県下高井郡山ノ内町平穏7148
+    en: Hirao 7148, Yamanouchi, Shimotakai District, Nagano 381-0401
     googleMaps: https://maps.app.goo.gl/w5rNHvcS4w15TQvK6
   phone: 0269-34-2524
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
   hours: 8:30-16:30 左右，依官方即時狀態頁為準
-  source: https://shigakogen-ski.or.jp/winter/ticket/
+  source: https://shigakogen.co.jp/winter/lift-price/
 trailMaps:
 - label: 志賀高原全山雪場圖
   language: English
@@ -44,58 +45,53 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://shigakogen-ski.or.jp/winter/ticket/
+  source: https://shigakogen.co.jp/winter/lift-price/
   plans:
-    - name: 全山 1 日券
+    - name: 中央エリア 1 日券（12/20-3/31）
       priceLines:
-        - 成人：¥8,000
-        - 國中生、高中生：¥6,200
-        - 長者：¥6,400
-        - 兒童：¥3,600
+        - 成人：¥7,000
+        - 兒童：¥3,500
+    - name: 中央エリア 1 日券（營業開始-12/19、4/1-營業結束）
+      priceLines:
+        - 成人：¥5,600
+        - 兒童：¥2,800
+    - name: 中央エリア 4 小時券（12/20-3/31）
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥3,000
+    - name: Web 1 日券（12/20-3/31）
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥3,250
+      note: 中高生與長者適用成人票價；未就學兒童由付費成人陪同時，每位成人可免費攜帶 1 名。
 snowWeather:
   title: 志賀高原西館山雪況天氣
   provider: Official
-  url: https://www.shigakogen.gr.jp/english/lift_information/
+  url: https://shigakogen.co.jp/winter/snow-slope/nishidateyama-ski/
   snowDepth: 0 cm
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 官方即時狀態頁提供各區天氣、積雪、纜車與雪道開放狀態；此資料不作為即時同步。
 courses:
-  beginnerRatio: 43
-  intermediateRatio: 57
-  advancedRatio: 0
-  total: 7
-  courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
-  summary: 西館山包含奧運 World Cup Course 與多條林間初中級路線，可從山頂眺望北阿爾卑斯。
+  beginnerRatio: 30
+  intermediateRatio: 40
+  advancedRatio: 30
+  total: 3
+  courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/nishidateyama-ski/
+  summary: 官方資料列出 3 條雪道，涵蓋初級、中級與上級路線。
   details:
-  - name: Nishitateyama Beginner Course（Upper section）
+  - name: Nishidateyama Beginner Course
     difficulty: beginner
-    length: 1,000m
-    note: 穿越樹林的路線，官方說明適合初級到進階者，山頂可眺望北阿爾卑斯。
-  - name: Nishitateyama Beginner Course（Lower section）
-    difficulty: beginner
-    length: 730m
-    note: 穿越樹林的下段路線，延續上段視野與林間滑行特色。
-  - name: Nishitateyama Gelende
+    length: 1,730m
+    note: 平均斜度 9 度、最大斜度 18 度。
+  - name: Nishidateyama Takamagahara Gelende
     difficulty: beginner
     length: 280m
-    note: 連接高天原與西館山的短斜面，山頂可眺望東館山。
-  - name: World Cup Course（Upper section）
+    note: 平均斜度 7 度、最大斜度 13 度。
+  - name: World Cup Course
     difficulty: intermediate
-    length: 1,000m
-    note: 奧運比賽使用路線，可同時欣賞景觀；官方資料並列出全長 1,000m。
-  - name: World Cup Course（Lower section）
-    difficulty: intermediate
-    length: 450m
-    note: World Cup Course 下段，延續奧運路線特色。
-  - name: Nishitateyama Intermediate Course（Upper section）
-    difficulty: intermediate
-    length: 450m
-    note: 林間路線，官方說明適合初級到進階者。
-  - name: Nishitateyama Intermediate Course（Lower section）
-    difficulty: intermediate
-    length: 300m
-    note: 中級下段林間路線，可銜接西館山下部。
+    length: 1,450m
+    note: 平均斜度 15 度、最大斜度 28 度。
 lifts:
   total: 3
 access:
@@ -103,14 +99,23 @@ access:
   - label: 東京出發經長野
     steps:
     - 從東京搭北陸新幹線到長野站。
-    - 從長野站東口搭直達巴士前往志賀高原，於 Giant、發哺溫泉或中央區域可銜接站點下車。
-    estimatedTime: 長野後約 1.5-2 小時
+    - 從長野站東口搭長電巴士「長野－志賀高原」急行線前往志賀高原。
+    estimatedTime: 長野站出發約 1.5-2 小時
     difficulty: medium
-    note: 西館山可與 Giant、發哺ブナ平等中央區域動線銜接，公共交通最後一段需配合下車站與纜車營運。
+    note: 各雪場下車站不同，請依住宿地點與當日巴士路線確認。
+  publicTransit:
+  - label: 電車與巴士
+    steps:
+    - 從長野站東口轉乘長電巴士「長野－志賀高原」急行線。
+    - 可利用奧志賀高原線、白根火山線等區內路線巴士前往各區域。
+    - 雪場間移動可利用官方免費滑雪接駁車，非接駁時段可能需要付費。
+    estimatedTime: 長野站出發約 1.5-2 小時
+    difficulty: medium
+    note: 巴士班次與免費接駁車時段會依季節調整，出發前請查看官方公告。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。此區常利用 Giant 停車場約 350 台，冬季需準備雪胎或雪鏈。
+    note: 從信州中野 IC 經國道 292 號進入志賀高原；志賀高原山之站設有免費停車位約 1,600 台，並可搭乘雪場間免費接駁車。
 terrainSummary:
   beginner: Beginner Course 上下段和 Gelende 提供林間初級路線。
   intermediate: World Cup Course 與 Intermediate Course 是主要中級路線。
@@ -118,4 +123,4 @@ terrainSummary:
   snowboard: 林間轉彎與中級斜面適合雪板練習銜接。
 ---
 
-志賀高原西館山是長野縣的中小型雪場，整理為7 條雪道，搭配 3 座纜車。雪道如 Nishitateyama Beginner Course（Upper section）、Nishitateyama Beginner Course（Lower section）、Nishitateyama Gelende，以初級與中級路線為主；標籤上偏向初學者練習、雙板與單板。
+志賀高原西館山是長野縣的中小型雪場，整理為 7 條雪道，搭配 3 座纜車。雪道如 Nishitateyama Beginner Course（Upper section）、Nishitateyama Beginner Course（Lower section）、Nishitateyama Gelende，以初級與中級路線為主；標籤上偏向初學者練習、雙板與單板。

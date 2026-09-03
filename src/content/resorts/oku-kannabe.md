@@ -33,6 +33,7 @@ contact:
   address:
     zhTw: 兵庫縣豐岡市日高町山田710
     ja: 〒669-5372 兵庫県豊岡市日高町山田710
+    en: Hyogo toyooka, hidaka, yamada710 669-5372
     googleMaps: https://maps.app.goo.gl/maeHeLJnQ9WKSCkeA
   phone: 0796-45-0510
 season:

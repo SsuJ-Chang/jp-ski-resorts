@@ -30,6 +30,7 @@ contact:
   address:
     zhTw: 北海道美唄市東美唄町番町
     ja: 〒072-0000 北海道美唄市東美唄町番町
+    en: Hokkaido bibai, toumiuta, ban 072-0000
     googleMaps: https://maps.app.goo.gl/4W2xA21XgMzcREqv8
   phone: 0126-68-8216
 season:

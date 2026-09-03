@@ -33,6 +33,7 @@ contact:
   address:
     zhTw: 北海道札幌市南区藤野473-1
     ja: 〒061-2271 北海道札幌市南区藤野473-1
+    en: Hokkaido sapporo, minamikufujino473-1 061-2271
     googleMaps: https://maps.app.goo.gl/8LsMGkCu69wYPwkRA
   phone: 011-591-8111
 season:

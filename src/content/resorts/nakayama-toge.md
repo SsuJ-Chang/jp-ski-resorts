@@ -30,6 +30,7 @@ contact:
   address:
     zhTw: 北海道虻田郡喜茂別町字川上345
     ja: 〒044-0223 北海道虻田郡喜茂別町字川上345
+    en: Hokkaido abuta District kimobetsu, Aza kawakami345 044-0223
     googleMaps: https://maps.app.goo.gl/yVU8fe3FF6afzaf76
   phone: 0136-33-3373
 season:

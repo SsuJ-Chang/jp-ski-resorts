@@ -33,6 +33,7 @@ contact:
   address:
     zhTw: 長野縣北安曇郡白馬村神城 22184-10 Escal Plaza
     ja: 〒399-9211 長野県北安曇郡白馬村神城22184-10 エスカルプラザ
+    en: 22184-10 Kamishiro, Hakuba, Kitaazumi District, Nagano 399-9211
     googleMaps: https://maps.app.goo.gl/uTFHLf9nyArEHLRR8
   phone: 0261-75-2101
 season:

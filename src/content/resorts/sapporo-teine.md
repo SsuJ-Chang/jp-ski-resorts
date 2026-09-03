@@ -35,6 +35,7 @@ contact:
   address:
     zhTw: 北海道札幌市手稲区手稲本町593番地3
     ja: 〒006-0029 北海道札幌市手稲区手稲本町593番地3
+    en: Hokkaido sapporo, teinekuteinehon, 593banchi3 006-0029
     googleMaps: https://maps.app.goo.gl/jjCosynGAtLFSMGo6
   phone: 011-682-6000
 season:

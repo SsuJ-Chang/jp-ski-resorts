@@ -35,6 +35,7 @@ contact:
   address:
     zhTw: 北海道虻田郡ニセコ町字ニセコ448
     ja: 〒048-1511 北海道虻田郡ニセコ町字ニセコ448
+    en: Hokkaido abuta District niseko, Aza niseko448 048-1511
     googleMaps: https://www.google.com/maps/search/?api=1&query=42.848305,140.630306
   phone: 0136-59-2511
 season:

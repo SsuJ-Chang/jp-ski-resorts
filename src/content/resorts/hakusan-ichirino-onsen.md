@@ -34,6 +34,7 @@ contact:
   address:
     zhTw: 石川縣白山市尾添リ 63
     ja: 〒920-2333 石川県白山市尾添リ63
+    en: Ishikawa hakusan, osoeri63 920-2333
     googleMaps: https://maps.app.goo.gl/krHusDmHzgSVcpbj8
   phone: 076-256-7412
 season:

@@ -26,6 +26,7 @@ contact:
   address:
     zhTw: 長野縣駒ヶ根市赤穗 1
     ja: 〒399-4117 長野県駒ヶ根市赤穂1
+    en: Nagano komagane, akou1 399-4117
     googleMaps: https://www.google.com/maps/search/?api=1&query=Senjojiki%20Ski%20Area%20Komagane
   phone: 0265-83-5201
 season:

@@ -23,6 +23,7 @@ contact:
   address:
     zhTw: 岡山縣真庭市蒜山上福田1205-281
     ja: 〒717-0602 岡山県真庭市蒜山上福田1205-281
+    en: Okayama maniwa, hiruzenuefukuda1205-281 717-0602
     googleMaps: https://maps.app.goo.gl/kiPrNbkCA1iLPRNK7
   phone: 0867-66-2501
 season:

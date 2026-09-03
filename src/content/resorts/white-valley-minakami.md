@@ -38,6 +38,7 @@ contact:
   address:
     zhTw: 群馬縣利根郡みなかみ町谷川國有林內
     ja: 〒379-1619 群馬県利根郡みなかみ町谷川国有林内
+    en: Gunma tone District minakami, tanigawakokuyuurinnai 379-1619
     googleMaps: https://maps.app.goo.gl/QokTsbZ6YsFRV7Jz7
   phone: 0278-72-5094
 season:

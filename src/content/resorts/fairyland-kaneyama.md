@@ -30,6 +30,7 @@ contact:
   address:
     zhTw: 福島縣大沼郡金山町大字小栗山字上野2339
     ja: 〒968-0012 福島県大沼郡金山町大字小栗山字上野2339
+    en: Fukushima oonuma District kanayama, Ooaza oguriyama Aza ueno2339 968-0012
     googleMaps: https://maps.app.goo.gl/LZoDKdEBcqJ2xZgK6
   phone: 0241-54-2022
 season:

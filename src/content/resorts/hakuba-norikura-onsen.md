@@ -35,6 +35,7 @@ contact:
   address:
     zhTw: 長野縣北安曇郡小谷村千國乙 12860-1
     ja: 長野県北安曇郡小谷村千国乙12860-1
+    en: Nagano kitaazumi District kotani, senkuniotsu12860-1
     googleMaps: https://maps.app.goo.gl/HETfzeCaUBxfAwZe6
   phone: 0261-82-2821
 season:

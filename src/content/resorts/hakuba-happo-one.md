@@ -43,6 +43,7 @@ contact:
   address:
     zhTw: 長野縣北安曇郡白馬村北城八方
     ja: 長野県北安曇郡白馬村北城八方
+    en: Nagano kitaazumi District hakuba, kitashirohappou
     googleMaps: https://maps.app.goo.gl/5QCNFQJ2BPkXSst79
   phone: 0261-72-3066
 season:

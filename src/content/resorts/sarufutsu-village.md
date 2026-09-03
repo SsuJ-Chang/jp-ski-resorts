@@ -31,6 +31,7 @@ contact:
   address:
     zhTw: 北海道宗谷郡猿払村鬼志別西町238番地、及び225番地
     ja: 〒098-6232 北海道宗谷郡猿払村鬼志別西町238番地、及び225番地
+    en: Hokkaido souya District sarufutsu, onishibetsunishi, 238banchi, oyobi225banchi 098-6232
     googleMaps: https://maps.app.goo.gl/zUyuMveTTWEpJzNw7
   phone: 01635-2-3540
 season:

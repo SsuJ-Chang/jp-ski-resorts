@@ -31,6 +31,7 @@ contact:
   address:
     zhTw: 山口縣山口市阿東町嘉年下１１５０５−１
     ja: 〒759-1602 山口県山口市阿東町嘉年下１１５０５−１
+    en: Yamaguchi yamaguchi, atou, katoshishita11505-1 759-1602
     googleMaps: https://maps.app.goo.gl/kTTh5qfZSVeLRpj6A
   phone: 083-958-0547
 season:

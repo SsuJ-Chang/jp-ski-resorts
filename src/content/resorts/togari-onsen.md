@@ -32,6 +32,7 @@ contact:
   address:
     zhTw: 長野縣飯山市大字豐田 6356-2
     ja: 〒389-2411 長野県飯山市大字豊田6356-2
+    en: Nagano iiyama, Ooaza toyoda6356-2 389-2411
     googleMaps: https://www.google.com/maps/search/?api=1&query=Togari%20Onsen%20Ski%20Resort
   phone: 0269-65-2359
 season:

@@ -34,6 +34,7 @@ contact:
   address:
     zhTw: 北海道枝幸郡枝幸町北幸町7020-1
     ja: 〒098-5822 北海道枝幸郡枝幸町北幸町7020-1
+    en: Hokkaido esashi District esashi, kitasachi, 7020-1 098-5822
     googleMaps: https://maps.app.goo.gl/wrjKc3igWxmgT2fJ7
   phone: 01636-2-1876
 season:

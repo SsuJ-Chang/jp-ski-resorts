@@ -35,6 +35,7 @@ contact:
   address:
     zhTw: 北海道小樽市春香町357番地
     ja: 〒047-0265 北海道小樽市春香町357番地
+    en: Hokkaido otaru, haruka, 357banchi 047-0265
     googleMaps: https://maps.app.goo.gl/PBzzJoXahSbqGAyB9
   phone: 0134-62-2228
 season:

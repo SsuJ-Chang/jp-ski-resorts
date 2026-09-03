@@ -32,6 +32,7 @@ contact:
   address:
     zhTw: 青森縣十和田市法量字燒山 64-122
     ja: 〒034-0303 青森県十和田市法量字焼山64-122
+    en: Aomori towada, houryou Aza takiyama64-122 034-0303
     googleMaps: https://maps.app.goo.gl/JF6orPzzicF98h649
   phone: 0176-74-2008
 season:

@@ -35,6 +35,7 @@ contact:
   address:
     zhTw: 長野縣北安曇郡小谷村千國乙 12860-1
     ja: 〒399-9422 長野県北安曇郡小谷村千国乙12860-1
+    en: 12860-1 Chikuni Otsu, Otari, Kitaazumi District, Nagano 399-9422
     googleMaps: https://maps.app.goo.gl/vSZrhvijEkySNig27
   phone: 0261-82-2236
 season:

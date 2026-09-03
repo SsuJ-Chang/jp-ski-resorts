@@ -18,24 +18,25 @@ links:
   facebook: https://www.facebook.com/ShigaKogen.Ski
   instagram: https://www.instagram.com/ShigaCentral/
   xTwitter: https://x.com/ShigaCentral
-  trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
+  trailMapPage: https://shigakogen.co.jp/winter/snow-slope/sunvalley-ski/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
-  ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://shigakogen-ski.or.jp/access/
-  snowReport: https://www.shigakogen.gr.jp/english/lift_information/
-  liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
+  ticket: https://shigakogen.co.jp/winter/lift-price/
+  access: https://shigakogen.co.jp/winter/access/
+  snowReport: https://shigakogen.co.jp/winter/snow-slope/sunvalley-ski/
+  liftStatus: https://shigakogen.co.jp/winter/snow-slope/sunvalley-ski/
   googleMaps: https://maps.app.goo.gl/EzBcfXWhJUKkwBzH7
 contact:
   address:
-    zhTw: 長野縣下高井郡山之內町平穩
-    ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi, 山ノ内町Hirao
+    zhTw: 長野縣下高井郡山之內町平穩7148
+    ja: 〒381-0401 長野県下高井郡山ノ内町平穏7148
+    en: Hirao 7148, Yamanouchi, Shimotakai District, Nagano 381-0401
     googleMaps: https://maps.app.goo.gl/EzBcfXWhJUKkwBzH7
   phone: 0269-34-2255
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
   hours: 8:30-16:30 左右，依官方即時狀態頁為準
-  source: https://shigakogen-ski.or.jp/winter/ticket/
+  source: https://shigakogen.co.jp/winter/lift-price/
 trailMaps:
 - label: 志賀高原全山雪場圖
   language: English
@@ -45,49 +46,53 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://shigakogen-ski.or.jp/winter/ticket/
-  note: 志賀高原全山共通主要票種摘要；完整天數券、餐券套票、線上票與兒童規則請以官方頁面為準。
+  source: https://shigakogen.co.jp/winter/lift-price/
   plans:
-    - name: 全山 1 日券
+    - name: 中央エリア 1 日券（12/20-3/31）
       priceLines:
-        - 成人：¥8,000
-        - 國中生、高中生：¥6,200
-        - 長者：¥6,400
-        - 兒童：¥3,600
-    - name: 餐券付全山 1 日券
+        - 成人：¥7,000
+        - 兒童：¥3,500
+    - name: 中央エリア 1 日券（營業開始-12/19、4/1-營業結束）
       priceLines:
-        - 成人：¥8,700
-        - 國中生、高中生：¥6,900
-        - 長者：¥7,100
-        - 兒童：¥4,300
+        - 成人：¥5,600
+        - 兒童：¥2,800
+    - name: 中央エリア 4 小時券（12/20-3/31）
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥3,000
+    - name: Web 1 日券（12/20-3/31）
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥3,250
+      note: 中高生與長者適用成人票價；未就學兒童由付費成人陪同時，每位成人可免費攜帶 1 名。
 snowWeather:
   title: 志賀高原 Sun Valley 雪況天氣
   provider: Official
-  url: https://www.shigakogen.gr.jp/english/lift_information/
+  url: https://shigakogen.co.jp/winter/snow-slope/sunvalley-ski/
   snowDepth: 0 cm
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 官方即時狀態頁提供各區天氣、積雪、纜車與雪道開放狀態；此資料不作為即時同步。
 courses:
-  beginnerRatio: 33
-  intermediateRatio: 33
-  advancedRatio: 34
+  beginnerRatio: 20
+  intermediateRatio: 60
+  advancedRatio: 20
   total: 3
-  courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
-  summary: Sun Valley 位於志賀高原入口側，有進階不整地、中級主雪道與連接丸池的初級雪道。
+  courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/sunvalley-ski/
+  summary: 官方資料列出 3 條雪道，涵蓋初級、中級與上級路線。
   details:
   - name: Sun Valley Beginner Course
     difficulty: beginner
     length: 162m
-    note: 連接丸池滑雪場，適合初學者移動與練習。
+    note: 平均斜度 12 度、最大斜度 15 度。
   - name: Sun Valley B + Main Course
     difficulty: intermediate
     length: 800m
-    note: 從山頂可眺望山之內町、中野市、長野市與北阿爾卑斯。
-  - name: Sun Valley A + Polar Bear Course
+    note: 平均斜度 12 度、最大斜度 25 度。
+  - name: Sun Valley A + Shirokuma Course
     difficulty: advanced
     length: 650m
-    note: 未壓雪且有饅頭的挑戰型斜面；官方資料並列出全長 650m。
+    note: 平均斜度 18 度、最大斜度 30 度。
 lifts:
   total: 1
 access:
@@ -95,14 +100,23 @@ access:
   - label: 東京出發經長野
     steps:
     - 從東京搭北陸新幹線到長野站。
-    - 從長野站東口搭直達巴士前往志賀高原，於 Sun Valley 或山之站周邊站點下車。
-    estimatedTime: 長野後約 1.5-2 小時
+    - 從長野站東口搭長電巴士「長野－志賀高原」急行線前往志賀高原。
+    estimatedTime: 長野站出發約 1.5-2 小時
     difficulty: medium
-    note: Sun Valley 位於志賀高原入口側，實際下車站與步行距離會依住宿、停車場與當季巴士時刻不同。
+    note: 各雪場下車站不同，請依住宿地點與當日巴士路線確認。
+  publicTransit:
+  - label: 電車與巴士
+    steps:
+    - 從長野站東口轉乘長電巴士「長野－志賀高原」急行線。
+    - 可利用奧志賀高原線、白根火山線等區內路線巴士前往各區域。
+    - 雪場間移動可利用官方免費滑雪接駁車，非接駁時段可能需要付費。
+    estimatedTime: 長野站出發約 1.5-2 小時
+    difficulty: medium
+    note: 巴士班次與免費接駁車時段會依季節調整，出發前請查看官方公告。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。Sun Valley 停車場約 400 台，冬季需準備雪胎或雪鏈。
+    note: 從信州中野 IC 經國道 292 號進入志賀高原；志賀高原山之站設有免費停車位約 1,600 台，並可搭乘雪場間免費接駁車。
 terrainSummary:
   beginner: 初級雪道短而直接，可銜接丸池區域。
   intermediate: 主雪道提供入口側的中級滑行與景觀。

@@ -33,6 +33,7 @@ contact:
   address:
     zhTw: 秋田縣秋田市仁別字蛇馬目澤111
     ja: 〒010-0824 秋田県秋田市仁別字蛇馬目沢111
+    en: Akita akita, hitoshibetsu Aza hebimanomesawa111 010-0824
     googleMaps: https://maps.app.goo.gl/RA5Gp4gnxvdapPmF7
   phone: 018-827-2221
 season:

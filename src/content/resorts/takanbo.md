@@ -25,6 +25,7 @@ contact:
   address:
     zhTw: 富山縣南砺市西赤尾町 1767
     ja: 富山県南砺市西赤尾町1767
+    en: Toyama nanto, nishiakao, 1767
     googleMaps: https://maps.app.goo.gl/VNc6vX8B1BYXSZudA
   phone: 0763-67-3766
 season:

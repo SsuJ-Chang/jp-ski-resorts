@@ -26,6 +26,7 @@ contact:
   address:
     zhTw: 岩手縣八幡平市矢神 8-1
     ja: 〒028-7603 岩手県八幡平市矢神8-1
+    en: Iwate hachimantai, yagami8-1 028-7603
     googleMaps: https://maps.app.goo.gl/GuwtRWWRm3GKxTav6
   phone: 0195-73-2650
 season:

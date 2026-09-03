@@ -26,6 +26,7 @@ contact:
   address:
     zhTw: 〒395-0304 長野縣下伊那郡阿智村智里3731-4 地図を見る
     ja: 〒395-0304 長野県下伊那郡阿智村智里3731-4 地図を見る
+    en: Nagano shimoina District achi, satorusato3731-4 chizuwomiru 395-0304
     googleMaps: https://www.google.com/maps/search/?api=1&query=Heavens%20Sonohara%20Snow%20World
   phone: 0265-44-2311
 season:

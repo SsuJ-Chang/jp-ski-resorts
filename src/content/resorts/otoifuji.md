@@ -31,6 +31,7 @@ contact:
   address:
     zhTw: 北海道中川郡音威子府村字音威子府
     ja: 〒098-2501 北海道中川郡音威子府村字音威子府
+    en: Hokkaido nakagawa District otoineppu, Aza otoineppu 098-2501
     googleMaps: https://maps.app.goo.gl/pWRcdCiex4a3GvNo9
   phone: 01656-5-3305
 season:

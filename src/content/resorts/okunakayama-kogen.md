@@ -33,6 +33,7 @@ contact:
   address:
     zhTw: 岩手縣二戶郡一戶町奧中山字西田子 662-1
     ja: 〒028-5134 岩手県二戸郡一戸町奥中山字西田子662-1
+    en: Iwate ninohe District ichinohe, okunakayama Aza nishidako662-1 028-5134
     googleMaps: https://maps.app.goo.gl/5ug9iFgjKJ18amgVA
   phone: 0195-35-3131
 season:

@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 〒399-4431 長野縣伊那市西春近3390 地図を見る
     ja: 〒399-4431 長野県伊那市西春近3390 地図を見る
+    en: Nagano ina, nishiharukin3390 chizuwomiru 399-4431
     googleMaps: https://www.google.com/maps/search/?api=1&query=Chuo%20Expressway%20Ina%20Ski%20Resort
   phone: 0265-73-8855
 season:

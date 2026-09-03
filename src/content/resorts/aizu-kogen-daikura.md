@@ -33,6 +33,7 @@ contact:
   address:
     zhTw: 福島縣南會津郡田島町大字針生字昼滝山857-150
     ja: 〒967-0026 福島県南会津郡田島町大字針生字昼滝山857-150
+    en: Fukushima minamiaizu District tajima, Ooaza haryuu Aza hirutakiyama857-150 967-0026
     googleMaps: https://maps.app.goo.gl/g5NqFwACMnnCjfaTA
   phone: 0241-64-2121
 season:

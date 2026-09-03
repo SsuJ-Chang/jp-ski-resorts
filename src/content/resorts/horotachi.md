@@ -35,6 +35,7 @@ contact:
   address:
     zhTw: 北海道雨竜郡幌加内町字長留内
     ja: 〒074-0415 北海道雨竜郡幌加内町字長留内
+    en: Hokkaido uryuu District horokanai, Aza chouryuunai 074-0415
     googleMaps: https://maps.app.goo.gl/hm2Xvf7SEMdmCeBi9
   phone: 0165-35-3410
 season:

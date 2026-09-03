@@ -32,6 +32,7 @@ contact:
   address:
     zhTw: 北海道虻田郡倶知安町二世谷 Hirafu 1 條 2 丁目 9-1
     ja: 〒044-0080 北海道虻田郡倶知安町ニセコひらふ1条2丁目9-1
+    en: 1-2-9-1 Niseko Hirafu, Kutchan, Abuta District, Hokkaido 044-0080
     googleMaps: https://maps.app.goo.gl/5VL3MPUEhUWrajTM6
   phone: 0136-22-0109
 season:

@@ -32,6 +32,7 @@ contact:
   address:
     zhTw: 北海道歌志内市歌神95番地9
     ja: 〒073-0404 北海道歌志内市歌神95番地9
+    en: Hokkaido utashinai, kashin95banchi9 073-0404
     googleMaps: https://maps.app.goo.gl/yeXpvCtsBtvanCYv6
   phone: 0125-74-5900
 season:

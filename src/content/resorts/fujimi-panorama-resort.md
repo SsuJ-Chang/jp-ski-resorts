@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 長野縣諏訪郡富士見町富士見 6666-703
     ja: 〒399-0211 長野県諏訪郡富士見町富士見6666-703
+    en: Nagano suwa District fujimi, fujimi6666-703 399-0211
     googleMaps: https://www.google.com/maps/search/?api=1&query=Fujimi%20Panorama%20Resort
   phone: 0266-62-5666
 season:

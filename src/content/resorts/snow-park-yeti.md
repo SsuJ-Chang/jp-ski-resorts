@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 靜岡縣裾野市須山字藤原 2428
     ja: 〒410-1231 静岡県裾野市須山字藤原2428
+    en: Shizuoka susono, suyama Aza fujiwara2428 410-1231
     googleMaps: https://maps.app.goo.gl/u4Boj4WHwEX5MZ4v8
   phone: 055-998-0636
 season:

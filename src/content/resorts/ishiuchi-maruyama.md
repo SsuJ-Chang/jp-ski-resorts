@@ -42,6 +42,7 @@ contact:
   address:
     zhTw: 新潟縣南魚沼市石打 1699
     ja: 〒949-6372 新潟県南魚沼市石打1699
+    en: Niigata minamiuonuma, ishiuchi1699 949-6372
     googleMaps: https://maps.app.goo.gl/CV3617srRk29UdET9
   phone: 025-783-2222
 season:

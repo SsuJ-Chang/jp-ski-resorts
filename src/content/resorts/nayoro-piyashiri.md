@@ -33,6 +33,7 @@ contact:
   address:
     zhTw: 北海道名寄市字日進
     ja: 〒096-0066 北海道名寄市字日進
+    en: Hokkaido nayoro, Aza nisshin 096-0066
     googleMaps: https://maps.app.goo.gl/7VsDBkRRbBML9nHw5
   phone: 01654-2-1180
 season:

@@ -38,6 +38,7 @@ contact:
   address:
     zhTw: 群馬縣利根郡みなかみ町湯檜曾湯吹山國有林
     ja: 〒379-1728 群馬県利根郡みなかみ町湯檜曽湯吹山国有林
+    en: Gunma tone District minakami, yuhinokisoyusuiyamaguniyuurin 379-1728
     googleMaps: https://maps.app.goo.gl/2X8cd4bZBwyj7Rn16
   phone: 0278-72-3575
 season:

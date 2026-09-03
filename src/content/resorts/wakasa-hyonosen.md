@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 鳥取縣八頭郡若桜町舂米
     ja: 〒680-0728 鳥取県八頭郡若桜町舂米
+    en: Tottori yagashira District wakasa, shoukome 680-0728
     googleMaps: https://maps.app.goo.gl/VsunYohuimWuzPXn6
   phone: 0858-82-0512
 season:

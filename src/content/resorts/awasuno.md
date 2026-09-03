@@ -26,6 +26,7 @@ contact:
   address:
     zhTw: 富山縣富山市粟巣野 1868
     ja: 富山県富山市粟巣野1868
+    en: Toyama toyama, awasuno1868
     googleMaps: https://maps.app.goo.gl/t7iEJv7jKs8eTYni9
   phone: 076-460-3688
 season:

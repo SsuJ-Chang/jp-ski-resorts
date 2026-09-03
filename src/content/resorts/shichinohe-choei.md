@@ -28,6 +28,7 @@ contact:
   address:
     zhTw: 青森縣上北郡七戶町字左組 106-5
     ja: 〒039-2568 青森県上北郡七戸町字左組106-5
+    en: Aomori kamikita District shichinohe, Aza hidarikumi106-5 039-2568
     googleMaps: https://maps.app.goo.gl/oNzj6bkmNAtnZXZB7
   phone: 0176-62-5612
 season:

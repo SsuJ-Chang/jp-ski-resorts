@@ -30,6 +30,7 @@ contact:
   address:
     zhTw: 山形縣西村山郡朝日町大字白倉745-1
     ja: 〒990-1574 山形県西村山郡朝日町大字白倉745-1
+    en: Yamagata nishi, yama District asahi, Ooaza shirokura745-1 990-1574
     googleMaps: https://maps.app.goo.gl/NuowQev75RCwQVEf8
   phone: 0237-83-7111
 season:

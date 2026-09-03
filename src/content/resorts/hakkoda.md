@@ -31,6 +31,7 @@ contact:
   address:
     zhTw: 青森縣青森市大字荒川字寒水澤
     ja: 〒030-0188 青森県青森市大字荒川字寒水沢
+    en: Aomori aomori, Ooaza arakawa Aza kansuisawa 030-0188
     googleMaps: https://maps.app.goo.gl/riWeNFRsxiQXEAvS9
   phone: 017-738-0343
 season:

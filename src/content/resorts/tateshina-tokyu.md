@@ -26,6 +26,7 @@ contact:
   address:
     zhTw: 〒391-0301 長野縣茅野市北山字鹿山4026-2 地図を見る
     ja: 〒391-0301 長野県茅野市北山字鹿山4026-2 地図を見る
+    en: Nagano chino, kitayama Aza shikayama4026-2 chizuwomiru 391-0301
     googleMaps: https://www.google.com/maps/search/?api=1&query=Tateshina%20Tokyu%20Ski%20Area
   phone: 0266-69-3245
 season:

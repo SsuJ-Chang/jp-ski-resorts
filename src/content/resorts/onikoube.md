@@ -33,6 +33,7 @@ contact:
   address:
     zhTw: 宮城縣大崎市鳴子温泉鬼首字小向原9-55
     ja: 〒989-6941 宮城県大崎市鳴子温泉鬼首字小向原9-55
+    en: Miyagi oosaki, narukoonsenonikoube Aza komukaihara9-55 989-6941
     googleMaps: https://maps.app.goo.gl/ajMKqeKsNiU8naD1A
   phone: 0229-86-2111
 season:

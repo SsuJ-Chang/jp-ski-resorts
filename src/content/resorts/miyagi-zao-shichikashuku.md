@@ -32,6 +32,7 @@ contact:
   address:
     zhTw: 宮城縣刈田郡七之宿町字侭の上129
     ja: 〒989-0612 宮城県刈田郡七ヶ宿町字侭の上129
+    en: Miyagi karida District shichigashuku, Aza mamanoue129 989-0612
     googleMaps: https://maps.app.goo.gl/dFAkCB8568xqHPpV6
   phone: 0224-37-3111
 season:

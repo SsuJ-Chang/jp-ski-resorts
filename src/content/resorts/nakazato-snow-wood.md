@@ -33,6 +33,7 @@ contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町土樽
     ja: 新潟県南魚沼郡湯沢町土樽
+    en: Niigata minamiuonuma District yuzawa, tsuchitaru
     googleMaps: https://maps.app.goo.gl/XqREhKECdq9FETsh8
   phone: 025-787-3511
 season:

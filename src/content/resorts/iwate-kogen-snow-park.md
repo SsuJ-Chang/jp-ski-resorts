@@ -31,6 +31,7 @@ contact:
   address:
     zhTw: 岩手縣岩手郡雫石町長山字岩手山
     ja: 〒020-0585 岩手県岩手郡雫石町長山字岩手山
+    en: Iwate iwate District shizukuishi, nagayama Aza iwateyama 020-0585
     googleMaps: https://maps.app.goo.gl/cTgjnrpe6TnBik946
   phone: 019-693-4000
 season:

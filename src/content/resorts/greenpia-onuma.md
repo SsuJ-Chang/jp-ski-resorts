@@ -34,6 +34,7 @@ contact:
   address:
     zhTw: 北海道茅部郡森町字赤井川229
     ja: 〒049-2142 北海道茅部郡森町字赤井川229
+    en: Hokkaido kayabe District mori, Aza akaigawa229 049-2142
     googleMaps: https://maps.app.goo.gl/hNw9MiqfeCwzXWhw8
   phone: 01374-5-2277
 season:

@@ -33,6 +33,7 @@ contact:
   address:
     zhTw: 兵庫縣神崎郡神河町上小田881-146
     ja: 〒679-3125 兵庫県神崎郡神河町上小田881-146
+    en: Hyogo kanzaki District kamikawa, ueoda881-146 679-3125
     googleMaps: https://maps.app.goo.gl/5YwnV3AzvypPmG6MA
   phone: 0790-34-1900
 season:

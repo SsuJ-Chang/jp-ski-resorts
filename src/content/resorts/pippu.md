@@ -32,6 +32,7 @@ contact:
   address:
     zhTw: 北海道上川郡比布町北 7 線 17 號
     ja: 〒078-0327 北海道上川郡比布町北7線17号
+    en: Hokkaido kamikawa District pippu, kita7sen17gou 078-0327
     googleMaps: https://maps.app.goo.gl/zwSgteTKwX1pZBSe8
   phone: 0166-85-3056
 season:

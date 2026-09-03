@@ -37,6 +37,7 @@ contact:
   address:
     zhTw: 福島縣耶麻郡磐梯町大字更科字清水平 6838-68
     ja: 〒969-3302 福島県耶麻郡磐梯町大字更科字清水平6838-68
+    en: Fukushima yama District bandai, Ooaza sarashina Aza shimizudaira6838-68 969-3302
     googleMaps: https://maps.app.goo.gl/S1XZSnmxPDjqgwBYA
   phone: 0242-74-5000
 season:

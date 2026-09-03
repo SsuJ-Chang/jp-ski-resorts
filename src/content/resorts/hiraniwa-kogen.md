@@ -27,6 +27,7 @@ contact:
   address:
     zhTw: 岩手縣久慈市山形町來內 20-13-1
     ja: 〒028-8605 岩手県久慈市山形町来内20-13-1
+    en: Iwate kuji, yamagata, rainai20-13-1 028-8605
     googleMaps: https://maps.app.goo.gl/mqEvfP8g937aYUqL9
   phone: 0194-72-2944
 season:

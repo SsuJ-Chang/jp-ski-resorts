@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 廣島縣庄原市西城町油木156-14
     ja: 〒729-5602 広島県庄原市西城町油木156-14
+    en: Hiroshima shoubara, saijou, yuki156-14 729-5602
     googleMaps: https://maps.app.goo.gl/5TnCsYsx56bZGeBW7
   phone: 0824-84-2020
 season:

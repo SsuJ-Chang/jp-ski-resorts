@@ -32,6 +32,7 @@ contact:
   address:
     zhTw: 福島縣耶麻郡北鹽原村大字檜原字大府平山1170
     ja: 〒969-2701 福島県耶麻郡北塩原村大字檜原字大府平山1170
+    en: Fukushima yama District kitashiobara, Ooaza hibara Aza oobuhirayama1170 969-2701
     googleMaps: https://maps.app.goo.gl/7YhmgJDTPtncJ4mS7
   phone: 0241-32-2177
 season:

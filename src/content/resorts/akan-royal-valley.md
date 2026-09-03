@@ -33,6 +33,7 @@ contact:
   address:
     zhTw: 北海道釧路市阿寒町15-40-2
     ja: 〒085-0242 北海道釧路市阿寒町15-40-2
+    en: Hokkaido kushiro, akan, 15-40-2 085-0242
     googleMaps: https://maps.app.goo.gl/Mut1hKFuv2QLLHV16
   phone: 0154-66-3422
 season:

@@ -8,8 +8,8 @@ region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.738
-  longitude: 138.519
+  latitude: 36.73756436363716
+  longitude: 138.51423599999998
 tags:
 - beginner_friendly
 - family_friendly
@@ -23,15 +23,16 @@ links:
   trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
   ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://shigakogen-ski.or.jp/access/
+  access: https://shigakogen.co.jp/winter/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
-  googleMaps: https://maps.app.goo.gl/NQDbX3C5A7585xC98
+  googleMaps: https://maps.app.goo.gl/8RKmZ2U6goHovicU9
 contact:
   address:
-    zhTw: 長野縣下高井郡山之內町
-    ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi
-    googleMaps: https://maps.app.goo.gl/NQDbX3C5A7585xC98
+    zhTw: 長野縣下高井郡山之內町平穩7148
+    ja: 〒381-0401 長野県下高井郡山ノ内町平穏7148
+    en: Hirao 7148, Yamanouchi, Shimotakai District, Nagano 381-0401
+    googleMaps: https://maps.app.goo.gl/8RKmZ2U6goHovicU9
   phone: 0269-34-2241
 season:
   label: 2025-2026
@@ -46,14 +47,25 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://shigakogen-ski.or.jp/winter/ticket/
+  source: https://shigakogen.co.jp/winter/lift-price/
   plans:
-    - name: 全山 1 日券
+    - name: 中央エリア 1 日券（12/20-3/31）
       priceLines:
-        - 成人：¥8,000
-        - 國中生、高中生：¥6,200
-        - 長者：¥6,400
-        - 兒童：¥3,600
+        - 成人：¥7,000
+        - 兒童：¥3,500
+    - name: 中央エリア 1 日券（營業開始-12/19、4/1-營業結束）
+      priceLines:
+        - 成人：¥5,600
+        - 兒童：¥2,800
+    - name: 中央エリア 4 小時券（12/20-3/31）
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥3,000
+    - name: Web 1 日券（12/20-3/31）
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥3,250
+      note: 中高生與長者適用成人票價；未就學兒童由付費成人陪同時，每位成人可免費攜帶 1 名。
 snowWeather:
   title: 志賀高原一之瀨家庭雪況天氣
   provider: Official
@@ -63,41 +75,29 @@ snowWeather:
   forecast: []
   note: 官方即時狀態頁提供各區天氣、積雪、纜車與雪道開放狀態；此資料不作為即時同步。
 courses:
-  beginnerRatio: 72
-  intermediateRatio: 14
-  advancedRatio: 14
-  total: 7
-  courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
-  summary: 一之瀨家庭有寬廣主斜面、長距離初級林間路線與中央區域連絡路，是志賀高原住宿與練習常用區域。
+  beginnerRatio: 50
+  intermediateRatio: 25
+  advancedRatio: 25
+  total: 4
+  courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/ichinose-family-ski/
+  summary: 一之瀨家庭滑雪場有寬廣的正面雪道、長距離天狗雪道、全景雪道與高難度 Perfecter 雪道，從初學者到進階者都能找到適合的路線。
   details:
-  - name: Ichinose Family Front Gelende (Upper section)
+  - name: Ichinose Family Front Gelende
     difficulty: beginner
-    length: 500m
-    note: 約 1km 寬廣斜面的上段，官方描述上部較高難度、下部較適合初學者。
-  - name: Ichinose Family Front Gelende (Lower section)
-    difficulty: beginner
-    length: 500m
-    note: Front Gelende 下段，視野開闊，適合練習。
+    length: 1,000m
+    note: 寬廣的主雪道，平均斜度 15 度、最大斜度 26 度；上段較陡，下段較適合初學者。
   - name: Tengu Course
     difficulty: beginner
     length: 3,200m
-    note: 長距離初級林間路線，官方描述很受兒童喜愛。
-  - name: Ichinose Family - Terakoya Connection Course
-    difficulty: beginner
-    length: 600m
-    note: 從一之瀨家庭 base 前往高天原 Mammoth 方向的連絡路。
-  - name: Ichinose Family - Takamagahara Connection Course
-    difficulty: beginner
-    length: 700m
-    note: 從一之瀨家庭 base 前往高天原 Mammoth 的連絡路。
+    note: 長距離初級雪道，平均斜度 10 度、最大斜度 13 度。
   - name: Panorama Course
     difficulty: intermediate
     length: 2,300m
-    note: 中級林間路線，景觀佳且滑行順暢；官方資料並列出全長 2,300m。
+    note: 中級雪道，平均斜度 16 度、最大斜度 18 度。
   - name: Perfecter Course
     difficulty: advanced
     length: 1,500m
-    note: 中央區域具高難度的路線之一，斜度變化多，進階者也具挑戰性。
+    note: 高難度雪道，平均斜度 26 度、最大斜度 30 度。
 lifts:
   total: 4
 access:
@@ -105,19 +105,28 @@ access:
   - label: 東京出發經長野
     steps:
     - 從東京搭北陸新幹線到長野站。
-    - 從長野站東口搭直達巴士前往志賀高原，於一之瀨周邊站點下車。
-    estimatedTime: 長野後約 1.5-2 小時
+    - 從長野站東口搭長電巴士「長野－志賀高原」急行線前往志賀高原。
+    estimatedTime: 長野站出發約 1.5-2 小時
     difficulty: medium
-    note: 一之瀨家庭位於中央區域核心，住宿與滑行動線多；下車站需依住宿或當日行程確認。
+    note: 各雪場下車站不同，請依住宿地點與當日巴士路線確認。
+  publicTransit:
+  - label: 電車與巴士
+    steps:
+    - 從長野站東口轉乘長電巴士「長野－志賀高原」急行線。
+    - 可利用奧志賀高原線、白根火山線等區內路線巴士前往各區域。
+    - 雪場間移動可利用官方免費滑雪接駁車，非接駁時段可能需要付費。
+    estimatedTime: 長野站出發約 1.5-2 小時
+    difficulty: medium
+    note: 巴士班次與免費接駁車時段會依季節調整，出發前請查看官方公告。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。一之瀨區域停車合計約 1,300 台，部分為住宿者專用。
+    note: 從信州中野 IC 經國道 292 號進入志賀高原；志賀高原山之站設有免費停車位約 1,600 台，並可搭乘雪場間免費接駁車。
 terrainSummary:
-  beginner: Front Gelende 下部、Tengu Course 與連絡路適合初學者與家庭。
+  beginner: Front Gelende 與 Tengu Course 適合初學者與家庭。
   intermediate: Panorama Course 提供長距離中級林間滑行。
-  advanced: Perfecter Course 是一之瀨區域的進階挑戰路線。
+  advanced: Perfecter Course 是一之瀨家庭區域的進階挑戰路線。
   snowboard: 寬斜面與長距離路線適合雪板練習，但需注意連絡路速度。
 ---
 
-志賀高原一之瀨家庭位在長野縣，整理為 7 條雪道，搭配 4 座纜車。Ichinose Family Front G…、Tengu Course 可作為代表路線，初級、中級與上級路線都有配置，標籤偏向初學者練習、親子同行。
+志賀高原一之瀨家庭位在長野縣，設有 4 條雪道與 4 座纜車。寬廣的 Ichinose Family Front Gelende、長距離 Tengu Course、Panorama Course 與 Perfecter Course 涵蓋初級、中級及上級路線，適合親子與不同程度的滑雪者。

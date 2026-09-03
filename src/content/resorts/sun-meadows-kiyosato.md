@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 山梨縣北杜市大泉町西井出 8240-1
     ja: 〒407-0311 山梨県北杜市大泉町西井出8240-1
+    en: Yamanashi hokuto, ooizumi, nishiishutsu8240-1 407-0311
     googleMaps: https://www.google.com/maps/search/?api=1&query=35.947885,138.414259
   phone: 0551-48-4111
 season:

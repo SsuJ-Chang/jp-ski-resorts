@@ -28,6 +28,7 @@ contact:
   address:
     zhTw: 〒390-1611 長野縣松本市奈川1173-13 地図を見る
     ja: 〒390-1611 長野県松本市奈川1173-13 地図を見る
+    en: Nagano matsumoto, nagawa1173-13 chizuwomiru 390-1611
     googleMaps: https://www.google.com/maps/search/?api=1&query=Shinshu%20Matsumoto%20Nomugitoge%20Ski%20Area
   phone: 0263-79-2246
 season:

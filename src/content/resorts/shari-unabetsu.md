@@ -28,6 +28,7 @@ contact:
   address:
     zhTw: 北海道斜里郡斜里町峰浜
     ja: 〒099-4122 北海道斜里郡斜里町峰浜
+    en: Hokkaido shari District shari, minehama 099-4122
     googleMaps: https://maps.app.goo.gl/kgJ2kPJ2qSsN2tqF6
   phone: 0152-28-2225
 season:

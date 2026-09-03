@@ -33,6 +33,7 @@ contact:
   address:
     zhTw: 北海道空知郡南富良野町字幾寅1031
     ja: 〒079-2401 北海道空知郡南富良野町字幾寅1031
+    en: Hokkaido sorachi District minamifurano, Aza ikutora1031 079-2401
     googleMaps: https://maps.app.goo.gl/pLCZ4sfdTJCkkR2F7
   phone: 0167-52-2143
 season:

@@ -23,6 +23,7 @@ contact:
   address:
     zhTw: 埼玉縣所沢市上山口2167
     ja: 〒359-1153 埼玉県所沢市上山口2167
+    en: Saitama tokorozawa, kamiyamaguchi2167 359-1153
     googleMaps: https://maps.google.co.jp/maps?q=35.768357,139.418660
   phone: 04-2922-1384
 season:

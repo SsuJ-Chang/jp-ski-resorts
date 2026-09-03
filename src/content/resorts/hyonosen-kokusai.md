@@ -31,6 +31,7 @@ contact:
   address:
     zhTw: 兵庫縣養父市奈良尾509
     ja: 〒667-1125 兵庫県養父市奈良尾509
+    en: Hyogo youfu, narao509 667-1125
     googleMaps: https://maps.app.goo.gl/wsGpmawmTUXhqKx97
   phone: 079-667-7219
 season:

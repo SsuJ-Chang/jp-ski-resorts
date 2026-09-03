@@ -26,6 +26,7 @@ contact:
   address:
     zhTw: 石川縣七尾市多根町ハカノ谷內 555-7
     ja: 石川県七尾市多根町ハカノ谷内555-7
+    en: Ishikawa nanao, tane, hakanotaniuchi555-7
     googleMaps: https://maps.app.goo.gl/bXiwr3CAKjgNMw6q7
   phone: 0767-57-0022
 season:

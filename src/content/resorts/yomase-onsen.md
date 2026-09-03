@@ -28,6 +28,7 @@ contact:
   address:
     zhTw: 〒381-0405 長野縣下高井郡山ノ内町夜間瀬7078 地図を見る
     ja: 〒381-0405 長野県下高井郡山ノ内町夜間瀬7078 地図を見る
+    en: Nagano shimotakai District yamanonai, yakanse7078 chizuwomiru 381-0405
     googleMaps: https://www.google.com/maps/search/?api=1&query=Yomase%20Onsen%20Ski%20Area
   phone: 0269-33-2377
 season:

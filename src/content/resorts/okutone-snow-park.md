@@ -30,6 +30,7 @@ contact:
   address:
     zhTw: 群馬縣利根郡みなかみ町向山39
     ja: 〒379-1724 群馬県利根郡みなかみ町向山39
+    en: Gunma tone District minakami, mukaiyama39 379-1724
     googleMaps: https://maps.google.co.jp/maps?q=36.803306,139.006577
   phone: 0278-72-8101
 season:

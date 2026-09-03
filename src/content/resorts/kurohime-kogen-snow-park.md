@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 〒389-1303 長野縣上水内郡信濃町野尻3807 地図を見る
     ja: 〒389-1303 長野県上水内郡信濃町野尻3807 地図を見る
+    en: Nagano kamiminochi District shinano, nojiri3807 chizuwomiru 389-1303
     googleMaps: https://www.google.com/maps/search/?api=1&query=Kurohime%20Kogen%20Snow%20Park
   phone: 026-255-3171
 season:

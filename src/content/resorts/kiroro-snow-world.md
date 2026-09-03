@@ -35,6 +35,7 @@ contact:
   address:
     zhTw: 北海道余市郡赤井川村字常盤１２８−１
     ja: 〒046-0593 北海道余市郡赤井川村字常盤１２８−１
+    en: Hokkaido yo, District akaigawa, Aza tokiwa128-1 046-0593
     googleMaps: https://maps.app.goo.gl/jkAJyUtaZLMELuwh6
   phone: 0135-34-7171
 season:

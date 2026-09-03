@@ -30,6 +30,7 @@ contact:
   address:
     zhTw: 石川縣金澤市俵町テ甲 21
     ja: 〒920-1108 石川県金沢市俵町テ甲21番地
+    en: Ishikawa kanazawa, tawara, tekabuto21banchi 920-1108
     googleMaps: https://maps.app.goo.gl/mJhMR1s6zgvRjbBb7
   phone: 076-229-1947
 season:

@@ -30,6 +30,7 @@ contact:
   address:
     zhTw: 〒381-0405 長野縣下高井郡山ノ内町大字夜間瀬１１４９４ 地図を見る
     ja: 〒381-0405 長野県下高井郡山ノ内町大字夜間瀬１１４９４ 地図を見る
+    en: Nagano shimotakai District yamanonai, Ooaza yakanse11494 chizuwomiru 381-0405
     googleMaps: https://www.google.com/maps/search/?api=1&query=Komaruyama%20Ski%20Area
   phone: 0269-33-6621
 season:

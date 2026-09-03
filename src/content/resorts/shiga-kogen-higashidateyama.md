@@ -19,24 +19,25 @@ links:
   facebook: https://www.facebook.com/ShigaKogen.Ski
   instagram: https://www.instagram.com/ShigaCentral/
   xTwitter: https://x.com/ShigaCentral
-  trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
+  trailMapPage: https://shigakogen.co.jp/winter/snow-slope/higashidateyama-ski/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
-  ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://shigakogen-ski.or.jp/access/
-  snowReport: https://www.shigakogen.gr.jp/english/lift_information/
-  liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
+  ticket: https://shigakogen.co.jp/winter/lift-price/
+  access: https://shigakogen.co.jp/winter/access/
+  snowReport: https://shigakogen.co.jp/winter/snow-slope/higashidateyama-ski/
+  liftStatus: https://shigakogen.co.jp/winter/snow-slope/higashidateyama-ski/
   googleMaps: https://maps.app.goo.gl/NNV9qdt7Gqv5EkcV6
 contact:
   address:
-    zhTw: 長野縣下高井郡山之內町平穩
-    ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi, 山ノ内町Hirao
+    zhTw: 長野縣下高井郡山之內町平穩7148
+    ja: 〒381-0401 長野県下高井郡山ノ内町平穏7148
+    en: Hirao 7148, Yamanouchi, Shimotakai District, Nagano 381-0401
     googleMaps: https://maps.app.goo.gl/NNV9qdt7Gqv5EkcV6
   phone: 0269-34-2231
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
   hours: 9:00-16:10 左右，依官方即時狀態頁為準
-  source: https://shigakogen-ski.or.jp/winter/ticket/
+  source: https://shigakogen.co.jp/winter/lift-price/
 trailMaps:
 - label: 志賀高原全山雪場圖
   language: English
@@ -45,56 +46,49 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://shigakogen-ski.or.jp/winter/ticket/
+  source: https://shigakogen.co.jp/winter/lift-price/
   plans:
-    - name: 全山 1 日券
+    - name: 中央エリア 1 日券（12/20-3/31）
       priceLines:
-        - 成人：¥8,000
-        - 國中生、高中生：¥6,200
-        - 長者：¥6,400
-        - 兒童：¥3,600
+        - 成人：¥7,000
+        - 兒童：¥3,500
+    - name: 中央エリア 1 日券（營業開始-12/19、4/1-營業結束）
+      priceLines:
+        - 成人：¥5,600
+        - 兒童：¥2,800
+    - name: 中央エリア 4 小時券（12/20-3/31）
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥3,000
+    - name: Web 1 日券（12/20-3/31）
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥3,250
+      note: 中高生與長者適用成人票價；未就學兒童由付費成人陪同時，每位成人可免費攜帶 1 名。
 snowWeather:
   title: 志賀高原東館山雪況天氣
   provider: Official
-  url: https://www.shigakogen.gr.jp/english/lift_information/
+  url: https://shigakogen.co.jp/winter/snow-slope/higashidateyama-ski/
   snowDepth: 0 cm
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 官方即時狀態頁提供各區天氣、積雪、纜車與雪道開放狀態；此資料不作為即時同步。
 courses:
-  beginnerRatio: 50
-  intermediateRatio: 50
-  advancedRatio: 0
-  total: 5
-  courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
-  summary: 東館山有奧運路線與長距離 Forest Course，並可連接一之瀨家庭與寺小屋。
+  beginnerRatio: 40
+  intermediateRatio: 40
+  advancedRatio: 20
+  total: 2
+  courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/higashidateyama-ski/
+  summary: 官方資料列出 2 條雪道，涵蓋初級、中級與上級路線。
   details:
-  - name: Higashitateyama Forest Course
+  - name: Higashidateyama Forest Course
     difficulty: beginner
     length: 4,000m
-    note: 林間長距離路線，官方說明適合初級到進階者，可享受蜿蜒道路。
-    videoLinks:
-    - https://www.youtube.com/watch?v=KQCss9sO5U0&t=495s
-  - name: Higashitateyama - Ichinose Family Connection Course
-    difficulty: beginner
-    length: 500m
-    note: 連接東館山與一之瀨家庭的連絡路。
-  - name: Higashitateyama - Terakoya Connection Course
-    difficulty: beginner
-    length: 500m
-    note: 連接東館山與寺小屋區域的連絡路；官方資料並列出全長 500m。
-  - name: Higashitateyama Olympic Course (Upper section)
+    note: 平均斜度 10 度、最大斜度 12 度。
+  - name: Higashidateyama Olympic Course
     difficulty: intermediate
-    length: 400m
-    note: 奧運使用路線，可感受競賽路線氣氛；官方資料並列出全長 400m。
-  - name: Higashitateyama Olympic Course (Middle section)
-    difficulty: intermediate
-    length: 800m
-    note: Olympic Course 中段，延續競賽路線特色。
-  - name: Higashitateyama Olympic Course (Lower section)
-    difficulty: intermediate
-    length: 400m
-    note: Olympic Course 下段，銜接東館山下部。
+    length: 1,600m
+    note: 平均斜度 20 度、最大斜度 36 度。
 lifts:
   total: 1
 access:
@@ -102,14 +96,23 @@ access:
   - label: 東京出發經長野
     steps:
     - 從東京搭北陸新幹線到長野站。
-    - 從長野站東口搭直達巴士前往志賀高原，於發哺溫泉、東館山或中央區域可銜接站點下車。
-    estimatedTime: 長野後約 1.5-2 小時
+    - 從長野站東口搭長電巴士「長野－志賀高原」急行線前往志賀高原。
+    estimatedTime: 長野站出發約 1.5-2 小時
     difficulty: medium
-    note: 東館山與一之瀨、寺小屋之間可透過雪場內動線銜接，但公共交通下車點與纜車營運需以當日資訊為準。
+    note: 各雪場下車站不同，請依住宿地點與當日巴士路線確認。
+  publicTransit:
+  - label: 電車與巴士
+    steps:
+    - 從長野站東口轉乘長電巴士「長野－志賀高原」急行線。
+    - 可利用奧志賀高原線、白根火山線等區內路線巴士前往各區域。
+    - 雪場間移動可利用官方免費滑雪接駁車，非接駁時段可能需要付費。
+    estimatedTime: 長野站出發約 1.5-2 小時
+    difficulty: medium
+    note: 巴士班次與免費接駁車時段會依季節調整，出發前請查看官方公告。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。東館山 Gondola 停車場約 40 台，空間較少，冬季需準備雪胎或雪鏈。
+    note: 從信州中野 IC 經國道 292 號進入志賀高原；志賀高原山之站設有免費停車位約 1,600 台，並可搭乘雪場間免費接駁車。
 terrainSummary:
   beginner: Forest Course 長達 4,000m，是中央區域重要長距離初級路線。
   intermediate: Olympic Course 上中下段是主要中級路線。

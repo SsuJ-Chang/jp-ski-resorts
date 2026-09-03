@@ -36,6 +36,7 @@ contact:
   address:
     zhTw: 秋田縣仙北市田澤湖生保内字下高野73-2
     ja: 〒014-1201 秋田県仙北市田沢湖生保内字下高野73-2
+    en: Akita senboku, tazawakoobonai Aza shimotakano73-2 014-1201
     googleMaps: https://maps.app.goo.gl/4NgCrm3VtVAExeQq5
   phone: 0187-46-2011
 season:

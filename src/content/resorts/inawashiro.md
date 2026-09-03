@@ -36,6 +36,7 @@ contact:
   address:
     zhTw: 福島縣耶麻郡豬苗代町葉山 7105
     ja: 〒969-3102 福島県耶麻郡猪苗代町葉山7105
+    en: Fukushima yama District inawashiro, hayama7105 969-3102
     googleMaps: https://maps.app.goo.gl/xGY5SC4vhhh3dKYf6
   phone: 0242-62-5100
 season:

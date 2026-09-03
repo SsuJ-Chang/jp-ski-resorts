@@ -28,6 +28,7 @@ contact:
   address:
     zhTw: 〒395-0601 長野縣下伊那郡平谷村1511 地図を見る
     ja: 〒395-0601 長野県下伊那郡平谷村1511 地図を見る
+    en: Nagano shimoina District hiratani, 1511 chizuwomiru 395-0601
     googleMaps: https://www.google.com/maps/search/?api=1&query=Hiraya%20Kogen%20Ski%20Area
   phone: 0265-48-2100
 season:

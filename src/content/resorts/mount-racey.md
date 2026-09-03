@@ -34,6 +34,7 @@ contact:
   address:
     zhTw: 北海道夕張市末広2-4
     ja: 〒068-0411 北海道夕張市末広2-4
+    en: Hokkaido yuubari, suehiro2-4 068-0411
     googleMaps: https://maps.app.goo.gl/5m6nkTzjiYY9terP7
   phone: 0123-57-7766
 season:

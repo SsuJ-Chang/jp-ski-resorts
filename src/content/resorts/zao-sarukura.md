@@ -30,6 +30,7 @@ contact:
   address:
     zhTw: 山形縣上山市藏王字藏王山2843-1
     ja: 〒999-3113 山形県上山市蔵王字蔵王山2843-1
+    en: Yamagata ueyama, zaou Aza zaouyama2843-1 999-3113
     googleMaps: https://maps.app.goo.gl/v13bfcBxW5HtAwRb9
   phone: 023-679-2211
 season:

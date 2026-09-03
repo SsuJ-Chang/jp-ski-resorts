@@ -31,6 +31,7 @@ contact:
   address:
     zhTw: 北海道雨竜郡沼田町字高穂325
     ja: 〒078-2214 北海道雨竜郡沼田町字高穂325
+    en: Hokkaido uryuu District numata, Aza takaho325 078-2214
     googleMaps: https://www.google.com/maps/search/?api=1&query=43.8187,141.9683
   phone: 0164-35-1011
 season:

@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 〒399-4117 長野縣駒ヶ根市赤穂5-879 地図を見る
     ja: 〒399-4117 長野県駒ヶ根市赤穂5-879 地図を見る
+    en: Nagano komagane, akou5-879 chizuwomiru 399-4117
     googleMaps: https://www.google.com/maps/search/?api=1&query=Komagane%20Kogen%20Ski%20Area
   phone: 0265-83-4000
 season:

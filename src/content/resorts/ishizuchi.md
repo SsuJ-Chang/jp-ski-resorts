@@ -21,6 +21,7 @@ contact:
   address:
     zhTw: Tei Nishinokawa, Saijo, Ehime 793-0215
     ja: Tei Nishinokawa, Saijo, Ehime 793-0215日本
+    en: Tei Nishinokawa, Saijo, Ehime 793-0215nippon
     googleMaps: https://maps.app.goo.gl/kTTh5qfZSVeLRpj6A
   phone: 897-59-0331
 snowWeather:

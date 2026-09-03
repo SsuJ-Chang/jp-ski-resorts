@@ -30,6 +30,7 @@ contact:
   address:
     zhTw: 北海道上川郡新得町字新得9番地
     ja: 〒081-0038 北海道上川郡新得町字新得9番地
+    en: Hokkaido kamikawa District shintoku, Aza shintoku9banchi 081-0038
     googleMaps: https://maps.app.goo.gl/9NtwWKJTw5UufEN76
   phone: 0156-64-5546
 season:

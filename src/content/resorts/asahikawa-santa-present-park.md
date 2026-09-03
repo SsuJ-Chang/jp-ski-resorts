@@ -35,6 +35,7 @@ contact:
   address:
     zhTw: 北海道旭川市神居町富岡 555 番地之 2
     ja: 〒070-8025 北海道旭川市神居町富岡555番地の2
+    en: Hokkaido asahikawa, kamii, tomioka555banchino2 070-8025
     googleMaps: https://maps.app.goo.gl/nTmyZhak7GxfiuXk9
   phone: 0166-63-3232
 season:

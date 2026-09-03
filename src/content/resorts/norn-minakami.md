@@ -40,6 +40,7 @@ contact:
   address:
     zhTw: 群馬縣利根郡みなかみ町寺間 479-139
     ja: 〒379-1614 群馬県利根郡みなかみ町寺間479-139
+    en: Gunma tone District minakami, terakan479-139 379-1614
     googleMaps: https://maps.app.goo.gl/ehWp1pFCUowoZfwX7
   phone: 0278-72-6688
 season:

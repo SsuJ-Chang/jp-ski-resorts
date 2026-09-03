@@ -31,6 +31,7 @@ contact:
   address:
     zhTw: 廣島縣山縣郡北広島町西八幡原
     ja: 〒731-2552 広島県山県郡北広島町西八幡原
+    en: Hiroshima yamagata District kitahiroshima, nishihachimanhara 731-2552
     googleMaps: https://maps.app.goo.gl/dDwENPCXNShFHUsM8
   phone: 0826-37-0341
 season:

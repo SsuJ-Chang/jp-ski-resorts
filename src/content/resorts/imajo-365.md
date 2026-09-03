@@ -24,6 +24,7 @@ contact:
   address:
     zhTw: 福井縣南越前町板取 85-36
     ja: 福井県南越前町板取85-36
+    en: Fukui minamiechizen, itadori85-36
     googleMaps: https://maps.app.goo.gl/SuFrZ416TEztWQBHA
   phone: 0778-45-1115
 season:

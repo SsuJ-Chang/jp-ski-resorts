@@ -29,6 +29,7 @@ contact:
   address:
     zhTw: 滋賀縣高島市マキノ町牧野931
     ja: 〒520-1836 滋賀県高島市マキノ町牧野931
+    en: Shiga takashima, makino, makino931 520-1836
     googleMaps: https://maps.app.goo.gl/FQL2THKaHRyHHEed7
   phone: 0740-27-0936
 season:

@@ -42,6 +42,7 @@ contact:
   address:
     zhTw: 長野縣北安曇郡白馬村神城 24196-47
     ja: 〒399-9211 長野県北安曇郡白馬村神城24196-47
+    en: 24196-47 Kamishiro, Hakuba, Kitaazumi District, Nagano 399-9211
     googleMaps: https://maps.app.goo.gl/6WiDDLDg9SV3t4Rn7
   phone: 0261-75-3533
 season:
