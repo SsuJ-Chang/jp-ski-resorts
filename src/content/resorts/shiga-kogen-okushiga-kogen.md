@@ -8,8 +8,11 @@ region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.778
-  longitude: 138.523
+  latitude: 36.766299883266576
+  longitude: 138.51457054827486
+elevation:
+  top: 2000
+  bottom: 1470
 tags:
 - powder
 - family_friendly
@@ -22,7 +25,7 @@ links:
   xTwitter: https://x.com/okushigakogen/
   trailMapPage: https://okushigakogenresort.com/winter/ski/
   trailMapPdf: https://okushigakogenresort.com/assets/document/okushiga_map_comp.pdf
-  ticket: https://shigakogen-ski.or.jp/winter/ticket/
+  ticket: https://okushigakogenresort.com/winter/ski/
   access: https://shigakogen-ski.or.jp/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
@@ -30,7 +33,7 @@ links:
 contact:
   address:
     zhTw: 長野縣下高井郡山之內町夜間瀨大澤 12377-17
-    ja: 〒381-0405 Nagano, Shimotakai District, Yamanouchi, Yomase, 大沢12377-17
+    ja: 〒381-0405 長野県下高井郡山ノ内町大字夜間瀬12377-17
     en: Nagano, Shimotakai District, Yamanouchi, Yomase, oosawa12377-17 381-0405
     googleMaps: https://maps.app.goo.gl/HTDdvtnoDHrZhRLE6
   phone: 0269-34-2225
@@ -80,6 +83,18 @@ tickets:
         - 長者：¥5,000
         - 兒童：¥2,900
       note: 適用 2025/12/20-2026/3/31。
+    - name: 早朝券（6:30-8:00）
+      priceLines:
+        - 成人／國高中生／長者：¥2,500
+        - 兒童：¥1,200
+      note: 僅適用 2026/4/1-5/3 的週末與國定假日。
+    - name: 單次券／點數券
+      priceLines:
+        - 第 1 纜車：成人 ¥600／兒童 ¥300（3 點）
+        - 第 2 纜車：成人 ¥1,200／兒童 ¥600（6 點）
+        - 第 3、4 纜車：成人 ¥400／兒童 ¥200（2 點）
+        - Gondola 單程：成人 ¥2,000／兒童 ¥1,000（9 點）
+        - Gondola 往返：成人 ¥3,600／兒童 ¥1,800（18 點）
 snowWeather:
   title: 奧志賀高原雪況天氣
   provider: Official
@@ -89,9 +104,9 @@ snowWeather:
   forecast: []
   note: 官方即時狀態頁提供各區天氣、積雪、纜車與雪道開放狀態；此資料不作為即時同步。
 courses:
-  beginnerRatio: 11
-  intermediateRatio: 56
-  advancedRatio: 33
+  beginnerRatio: 20
+  intermediateRatio: 60
+  advancedRatio: 20
   total: 9
   courseInfoPage: https://okushigakogenresort.com/winter/ski/
   summary: 官方目前列出 9 條主要雪道，從入口初級線、林間巡航線到代表性的 Downhill 長雪道與未壓雪急斜面都有。

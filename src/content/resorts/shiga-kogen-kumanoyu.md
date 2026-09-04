@@ -8,8 +8,11 @@ region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.671
-  longitude: 138.533
+  latitude: 36.683656985100825
+  longitude: 138.4957870288355
+elevation:
+  top: 1960
+  bottom: 1690
 tags:
 - onsen
 - powder
@@ -17,25 +20,25 @@ tags:
 - no_car_accessible
 links:
   official: https://www.kumanoyu.co.jp/
-  trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
+  trailMapPage: https://www.kumanoyu.co.jp/lift/index.html#ticket
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
-  ticket: https://shigakogen-ski.or.jp/winter/ticket/
-  access: https://shigakogen-ski.or.jp/access/
+  ticket: https://www.kumanoyu.co.jp/lift/index.html#ticket
+  access: https://www.kumanoyu.co.jp/lift/index.html#access
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
   googleMaps: https://maps.app.goo.gl/BEoWrL9TScVSKd926
 contact:
   address:
-    zhTw: 長野縣下高井郡山之內町平穩
-    ja: 〒381-0401 Nagano, Shimotakai District, Yamanouchi, 山ノ内町Hirao
-    en: Nagano, Shimotakai District, Yamanouchi, yamanonai, Hirao 381-0401
+    zhTw: 長野縣下高井郡山之內町平穩 7148
+    ja: 〒381-0401 長野県下高井郡山ノ内町平穩7148
+    en: Hirao 7148, Yamanouchi, Shimotakai District, Nagano 381-0401
     googleMaps: https://maps.app.goo.gl/BEoWrL9TScVSKd926
   phone: 0269-34-2166
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
   hours: 8:30-16:30 左右，依官方即時狀態頁為準
-  source: https://shigakogen-ski.or.jp/winter/ticket/
+  source: https://www.kumanoyu.co.jp/lift/index.html#ticket
 trailMaps:
 - label: 志賀高原全山雪場圖
   language: English
@@ -45,21 +48,31 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://shigakogen-ski.or.jp/winter/ticket/
-  note: 志賀高原全山共通主要票種摘要；完整天數券、餐券套票、線上票與兒童規則請以官方頁面為準。
+  source: https://www.kumanoyu.co.jp/lift/index.html#ticket
+  note: 熊之湯限定票價；成人為18至59歲、長者為60歲以上、兒童為0歲至小學生。
   plans:
-    - name: 全山 1 日券
+    - name: 熊之湯限定券
       priceLines:
-        - 成人：¥8,000
-        - 國中生、高中生：¥6,200
-        - 長者：¥6,400
-        - 兒童：¥3,600
-    - name: 餐券付全山 1 日券
+        - 成人：4小時5,500日圓 / 1日6,500日圓 / 2日12,700日圓 / 3日19,000日圓
+        - 中高校生：4小時5,200日圓 / 1日5,800日圓 / 2日11,400日圓 / 3日17,100日圓
+        - 長者：4小時5,200日圓 / 1日6,000日圓 / 2日11,800日圓 / 3日17,700日圓
+        - 兒童：4小時2,700日圓 / 1日3,300日圓 / 2日6,400日圓 / 3日9,500日圓
+    - name: 初滑り／春季熊之湯限定券
       priceLines:
-        - 成人：¥8,700
-        - 國中生、高中生：¥6,900
-        - 長者：¥7,100
-        - 兒童：¥4,300
+        - 成人：1日6,200日圓 / 2日11,900日圓
+        - 中高校生：1日5,500日圓 / 2日10,600日圓
+        - 長者：1日5,900日圓 / 2日11,400日圓
+        - 兒童：1日3,000日圓 / 2日5,600日圓
+    - name: 熊之湯・橫手山・涉峠共通券
+      priceLines:
+        - 成人：1日8,500日圓 / 2日16,500日圓 / 3日24,500日圓
+        - 中高校生：1日6,300日圓 / 2日12,100日圓 / 3日17,900日圓
+        - 長者：1日6,500日圓 / 2日12,500日圓 / 3日18,500日圓
+        - 兒童：1日4,000日圓 / 2日7,500日圓 / 3日11,000日圓
+    - name: 夜間／早朝券
+      priceLines:
+        - 夜間券（18:30-21:00）：成人3,000日圓 / 兒童1,500日圓
+        - 早朝券（6:00-8:30）：成人2,500日圓 / 中高校生與長者2,300日圓 / 兒童1,700日圓
 snowWeather:
   title: 熊之湯雪況天氣
   provider: Official
@@ -69,12 +82,12 @@ snowWeather:
   forecast: []
   note: 官方即時狀態頁提供各區天氣、積雪、纜車與雪道開放狀態；此資料不作為即時同步。
 courses:
-  beginnerRatio: 40
+  beginnerRatio: 30
   intermediateRatio: 40
-  advancedRatio: 20
+  advancedRatio: 30
   total: 10
-  courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
-  summary: 熊之湯位於志賀高原南東側，官方列出 10 條雪道，初級、中級與進階線都有。
+  courseInfoPage: https://www.kumanoyu.co.jp/lift/index.html#ticket
+  summary: 熊之湯滑雪場在海拔 1,690 至 1,960 公尺的北向扇形山坡配置 5 條纜車與 10 條雪道，雪道最後都匯回山腳；日照較少，能維持乾爽細緻的雪質。
   details:
   - name: Horseback Course
     difficulty: beginner
@@ -122,15 +135,15 @@ access:
   fromTokyo:
   - label: 東京出發經長野
     steps:
-    - 從東京搭北陸新幹線到長野站。
-    - 從長野站東口搭直達巴士前往志賀高原，於熊之湯或ほたる温泉周邊站點下車。
-    estimatedTime: 長野後約 1.5-2 小時
+    - 搭乘北陸新幹線至長野站。
+    - 從長野站東口搭乘志賀高原線巴士，於「ほたる温泉（硯川）」或「熊の湯」下車。
+    estimatedTime: 長野站後約1小時30分
     difficulty: medium
-    note: 熊之湯位於志賀高原往橫手山、澀峠方向，車程通常比入口區更長；冬季班次、末班車與回程需先確認。
+    note: 巴士下車後可步行前往滑雪場；冬季班次與道路狀況請以當季公告為準。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從信州中野 IC 經國道 292 號進入志賀高原；東京練馬 IC 出發約 3 小時 30 分。熊之湯與ほたる温泉共用周邊停車場約 400 台，冬季需準備雪胎或雪鏈。
+    note: 從上信越自動車道信州中野IC經志賀中野道路、國道292號前往志賀高原；冬季需使用雪胎或攜帶雪鏈。熊之湯與螢溫泉共用停車場約300個車位。
 terrainSummary:
   beginner: 初級線與迂迴線可支撐較保守的滑行安排。
   intermediate: No.3 與 No.4 系列提供中級練習與銜接。
@@ -143,4 +156,4 @@ externalContent:
     note: 和Ivy去旅行
 ---
 
-熊之湯位於長野縣志賀高原，坡面密實、視野開闊，滑起來比一般入門雪場更有高山感。若你在志賀高原想安排一站偏技術練習、同時又保有冷雪手感的區域，熊之湯很有辨識度。
+熊之湯滑雪場坐落於志賀高原北向山坡，海拔 1,690 至 1,960 公尺，日照較少而能保持乾爽細緻的雪質。10 條雪道由 5 條纜車串連，初、中、高級雪道皆會匯回山腳，動線清楚好安排。除了粉雪滑行，雪場也設有兒童雪地遊戲區、免費休憩室與溫泉，適合不同程度的雪友一起前往。

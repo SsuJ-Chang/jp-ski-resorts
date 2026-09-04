@@ -1,15 +1,18 @@
 ---
 id: shiga-kogen-yakebitaiyama
 name:
-  zhTw: 志賀高原 燒額山
+  zhTw: 燒額山
   ja: 焼額山スキー場
   en: Yakebitaiyama Ski Area
 region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.7542
-  longitude: 138.5253
+  latitude: 36.75272672637802
+  longitude: 138.5171064288355
+elevation:
+  top: 2000
+  bottom: 1555
 tags:
 - large_ski_area
 - family_friendly
@@ -20,9 +23,9 @@ links:
   official: https://www.princehotels.co.jp/ski/shiga/winter/
   facebook: https://www.facebook.com/yakebitaiyama/
   instagram: https://www.instagram.com/yakebiski_official/
-  trailMapPage: https://www.shigakogen.gr.jp/english/lift_information/
+  trailMapPage: https://www.princehotels.co.jp/ski/shiga/winter/coursemap/
   trailMapPdf: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
-  ticket: https://shigakogen-ski.or.jp/winter/ticket/
+  ticket: https://www.princehotels.co.jp/ski/shiga/winter/lift/
   access: https://www.princehotels.co.jp/ski/shiga/winter/access/
   snowReport: https://www.shigakogen.gr.jp/english/lift_information/
   liftStatus: https://www.shigakogen.gr.jp/english/lift_information/
@@ -35,34 +38,38 @@ contact:
     googleMaps: https://maps.app.goo.gl/FcxA3SuDqHpM372UA
   phone: 0269-34-3117
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
-  hours: 8:30-16:30 左右，依官方即時狀態頁為準
-  source: https://shigakogen-ski.or.jp/winter/ticket/
+  label: 2026-2027
+  operatingPeriod: 2026/12/4-2027/5/5（予定）
+  hours: 8:30-16:30（天候・運行狀況により變更）
+  source: https://www.princehotels.co.jp/ski/shiga/winter/lift/
 trailMaps:
-- label: 志賀高原全山雪場圖
-  language: English
-  season: 2025-2026
-  url: https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf
-  sourceLabel: Shiga Kogen Mountain Resort
+- label: 燒額山雪場圖
+  language: 日文
+  season: 2026-2027
+  url: https://www.princehotels.co.jp/file.jsp?id=500331
+  sourceLabel: Yakebitaiyama Ski Area
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
-  source: https://shigakogen-ski.or.jp/winter/ticket/
-  note: 志賀高原全山共通主要票種摘要；完整天數券、餐券套票、線上票與兒童規則請以官方頁面為準。
+  source: https://www.princehotels.co.jp/ski/shiga/winter/lift/
+  note: 燒額山區域兒童（小學生以下）全日免費；以下為窗口一般票價，均含稅。
   plans:
-    - name: 全山 1 日券
+    - name: 初滑り期間（2026/12/4-12/18）區域券
       priceLines:
-        - 成人：¥8,000
-        - 國中生、高中生：¥6,200
-        - 長者：¥6,400
-        - 兒童：¥3,600
-    - name: 餐券付全山 1 日券
+        - 成人4小時券：6,000日圓；1日券：7,000日圓；2日券：13,500日圓
+        - 長者4小時券：5,500日圓；1日券：6,500日圓；2日券：12,500日圓
+        - 中高校生4小時券：4,500日圓；1日券：5,000日圓；2日券：9,500日圓
+    - name: 一般期間（2026/12/19-2027/3/31）區域券
       priceLines:
-        - 成人：¥8,700
-        - 國中生、高中生：¥6,900
-        - 長者：¥7,100
-        - 兒童：¥4,300
+        - 成人4小時券：7,000日圓；1日券：8,500日圓；2日券：16,000日圓；3日券：23,000日圓
+        - 長者4小時券：6,200日圓；1日券：7,500日圓；2日券：14,500日圓；3日券：21,000日圓
+        - 中高校生4小時券：5,000日圓；1日券：6,000日圓；2日券：11,500日圓；3日券：16,800日圓
+    - name: 春季期間（2027/4/1-5/5）志賀高原共通券
+      priceLines:
+        - 成人1日券：7,500日圓；2日券：14,500日圓
+        - 長者1日券：7,000日圓；2日券：13,500日圓
+        - 中高校生1日券：5,500日圓；2日券：10,500日圓
+        - 兒童1日券：3,000日圓；2日券：5,500日圓
 snowWeather:
   title: 志賀高原 燒額山雪況天氣
   provider: Weathernews
@@ -72,96 +79,141 @@ snowWeather:
   forecast: []
   note: 官方即時狀態頁提供各區天氣、積雪、纜車與雪道開放狀態；此資料不作為即時同步。
 courses:
-  beginnerRatio: 46
-  intermediateRatio: 31
-  advancedRatio: 23
-  total: 13
-  courseInfoPage: https://www.shigakogen.gr.jp/english/lift_information/
-  summary: 燒額山是志賀高原東側的大型區域，官方列出 13 條雪道，從飯店前初級雪道到奧運雪道與中段進階線都有。
+  beginnerRatio: 20
+  intermediateRatio: 50
+  advancedRatio: 30
+  total: 20
+  courseInfoPage: https://www.princehotels.co.jp/ski/shiga/winter/coursemap/
+  summary: 燒額山共有20條雪道，從適合初學者的緩坡到奧運競賽級陡坡，並設有未壓雪地形雪道。
   details:
-  - name: South Course
+  - name: Middle Connection Course / ミドル連絡コース
     difficulty: beginner
-    length: 960m
-    videoLinks:
-    - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=522s
-    note: 官方雪道資料列為初級路線，全長 960m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: Shirakaba Course
+    length: 1,210m
+    maxIncline: 17°
+    averageIncline: 11°
+  - name: East Connection Course / イースト連絡コース
     difficulty: beginner
-    length: 850m
-    videoLinks:
-    - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=253s
-    note: 官方雪道資料列為初級路線，全長 850m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: Panorama IN Course
+    length: 540m
+    maxIncline: 10°
+    averageIncline: 6°
+  - name: South Course / サウスコース
     difficulty: beginner
-    length: 650m
-    note: 官方雪道資料列為初級路線，全長 650m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: Panorama OUT Course
+    length: 970m
+    maxIncline: 15°
+    averageIncline: 9°
+    note: 南館前的雪道，適合初學者練習。
+  - name: South Connection Course / サウス連絡コース
     difficulty: beginner
-    length: 700m
-    note: 官方雪道資料列為初級路線，全長 700m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: Family Course
-    difficulty: beginner
-    length: 650m
-    note: 官方雪道資料列為初級路線，全長 650m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: Bridge Course
-    difficulty: beginner
-    length: 200m
-    note: 官方雪道資料列為初級路線，全長 200m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: No.2 Mountain Stream Course
+    length: 150m
+    maxIncline: 8°
+    averageIncline: 6°
+  - name: Giant Slalom Course / ジャイアントスラロームコース
     difficulty: intermediate
-    length: 2,500m
-    note: 官方雪道資料列為中級路線，全長 2,500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: No.2 High-speed Course
+    length: 2,230m
+    maxIncline: 25°
+    averageIncline: 11°
+    note: 穿梭針葉林的陡坡，享受滑降樂趣。
+  - name: Gondola Connection Course / ゴンドラ連絡コース
     difficulty: intermediate
-    length: 1,000m
-    note: 官方雪道資料列為中級路線，全長 1,000m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: Panorama Course
+    length: 680m
+    maxIncline: 14°
+    averageIncline: 10°
+  - name: Gondola Bypass Course / ゴンドラ迂回コース
     difficulty: intermediate
-    length: 2,500m
-    videoLinks:
-    - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=97s
-    note: 官方雪道資料列為中級路線，全長 2,500m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: GS Course
+    length: 270m
+    maxIncline: 16°
+    averageIncline: 9°
+  - name: Panorama Course / パノラマコース
     difficulty: intermediate
-    length: 2,400m
-    videoLinks:
-    - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=1103s
-    - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=1262s
-    - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=1584s
-    note: 官方雪道資料列為中級路線，全長 2,400m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: Olympic Course
+    length: 1,460m
+    maxIncline: 25°
+    averageIncline: 10°
+    note: 可眺望北阿爾卑斯與北信五岳，並可滑入飯店南館。
+  - name: Panorama In Course / パノラマインコース
+    difficulty: intermediate
+    length: 1,110m
+    maxIncline: 20°
+    averageIncline: 11°
+  - name: Karamatsu Course / 唐松コース
+    difficulty: intermediate
+    length: 920m
+    maxIncline: 18°
+    averageIncline: 10°
+    note: 雪道寬度與坡度都適合中級者。
+  - name: Shirakaba Course / 白樺コース
+    difficulty: intermediate
+    length: 1,710m
+    maxIncline: 17°
+    averageIncline: 9°
+    note: 被白樺林環繞的雪道。
+  - name: Buna Course / ブナコース
+    difficulty: intermediate
+    length: 620m
+    maxIncline: 22°
+    averageIncline: 11°
+    note: 最後有陡坡與急彎，請小心滑行。
+  - name: East Course / イーストコース
+    difficulty: intermediate
+    length: 800m
+    maxIncline: 21°
+    averageIncline: 12°
+    note: 緩坡與中坡連續，適合練習轉彎。
+  - name: Okushiga Connection Course / 奥志賀連絡コース
+    difficulty: intermediate
+    length: 620m
+    maxIncline: 24°
+    averageIncline: 13°
+  - name: Olympic Course / オリンピックコース
     difficulty: advanced
-    length: 900m
-    videoLinks:
-    - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=1170s
-    note: 官方雪道資料列為上級路線，全長 900m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: Middle Course
+    length: 570m
+    maxIncline: 31°
+    averageIncline: 23°
+    note: 1998年長野冬季奧運及國際賽事使用的競賽雪道。
+  - name: YAKEBI WALL / YAKEBI WALL
+    difficulty: advanced
+    length: 230m
+    maxIncline: 39°
+    averageIncline: 29°
+    note: 須經巡邏隊確認，預定10:00至13:00開放並依雪況限制滑行。
+  - name: Super Giant Slalom Course / スーパージャイアントスラロームコース
+    difficulty: advanced
+    length: 1,180m
+    maxIncline: 25°
+    averageIncline: 10°
+    note: 未壓雪與饅頭雪道，之後可銜接東側雪道。
+  - name: YAKEBI VALLEY / YAKEBI VALLEY
+    difficulty: advanced
+    length: 623m
+    maxIncline: 34°
+    averageIncline: 16°
+    note: 須經巡邏隊確認，預定10:00至14:00開放並依雪況限制滑行。
+  - name: Middle Course / ミドルコース
     difficulty: advanced
     length: 400m
-    videoLinks:
-    - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=917s
-    note: 官方雪道資料列為上級路線，全長 400m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: East Course
+    maxIncline: 25°
+    averageIncline: 18°
+    note: 未壓雪的饅頭雪道。
+  - name: YAKEBI COAST / YAKEBI COAST
     difficulty: advanced
-    length: 800m
-    videoLinks:
-    - https://www.youtube.com/watch?v=j3pg5rzX1hA&t=844s
-    note: 官方雪道資料列為上級路線，全長 800m；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    length: 893m
+    maxIncline: 31°
+    averageIncline: 13°
+    note: 未壓雪雪道中最長，路線與坡度變化豐富。
 lifts:
   total: 5
 access:
   fromTokyo:
   - label: 東京出發經長野
     steps:
-    - 從東京搭北陸新幹線到長野站。
-    - 從長野站東口搭往奧志賀高原方向的急行巴士，於燒額山或志賀高原王子飯店周邊站點下車。
-    estimatedTime: 長野後約 1 小時 24 分
+    - 搭乘北陸新幹線至長野站。
+    - 長野站東口搭乘前往奧志賀高原的急行巴士，平常約1小時24分；也可搭長野電鐵至湯田中站，再轉巴士約1小時。
+    estimatedTime: 長野站東口巴士約1小時24分
     difficulty: medium
-    note: 燒額山位於志賀高原東側，適合配合志賀高原王子飯店一帶安排；巴士班次與停靠點需先確認。
+    note: 冬季請預留轉乘與雪地交通時間，並事先確認巴士班次。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從上信越自動車道信州中野 IC 約 30km、平常約 45 分。志賀高原內沒有加油站，建議先補給；燒額山免費停車場約 1,500 台。
+    note: 從上信越自動車道信州中野IC約30公里，平常車程約45分鐘。志賀高原內沒有加油站，請先在山麓加油；現場提供約1,500個免費停車位。
 terrainSummary:
   beginner: 初級雪道集中在飯店前與全景線周邊，適合在東側區域移動。
   intermediate: 多條 1,000m 以上中級線可串接，包含山溪線、全景線與 GS 線。

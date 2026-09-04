@@ -57,7 +57,7 @@ export const resortListingOrder = [
   'minowa',
   'miyagi-zao-eboshi',
   'shiga-kogen-yakebitaiyama',
-  'shiga-kogen-yokoteyama',
+  'shiga-kogen-yokoteyama-shibutoge',
   'madarao-kogen',
   'ryuoo-ski-park',
   'tangram-ski-circus',

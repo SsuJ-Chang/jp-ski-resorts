@@ -138,18 +138,11 @@ export const shigaKogenMap = {
       nudge: { x: -4, y: 3 },
     },
     {
-      id: 'shiga-kogen-yokoteyama',
-      label: '橫手山',
+      id: 'shiga-kogen-yokoteyama-shibutoge',
+      label: '橫手山・涉峠',
       kind: 'resort',
-      resortId: 'shiga-kogen-yokoteyama',
+      resortId: 'shiga-kogen-yokoteyama-shibutoge',
       nudge: { x: 1, y: 0 },
-    },
-    {
-      id: 'shiga-kogen-shibutoge',
-      label: '澀峠',
-      kind: 'resort',
-      resortId: 'shiga-kogen-shibutoge',
-      nudge: { x: 4, y: 3 },
     },
   ],
 } as const satisfies SkiAreaMapDefinition

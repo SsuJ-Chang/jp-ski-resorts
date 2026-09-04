@@ -30,8 +30,7 @@ featuredResorts:
   - "shiga-kogen-yakebitaiyama"
   - "shiga-kogen-okushiga-kogen"
   - "shiga-kogen-kumanoyu"
-  - "shiga-kogen-yokoteyama"
-  - "shiga-kogen-shibutoge"
+  - "shiga-kogen-yokoteyama-shibutoge"
 externalContent:
   websites:
     - title: "志賀高原 Mountain Resort 官方入口"
