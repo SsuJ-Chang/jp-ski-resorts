@@ -61,41 +61,54 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://iwa-ppara.com/price/
-  note: 成人為國中生以上，兒童為 3 歲 ~ 小學生，熟齡為 60 歲以上；夜滑結束時間依日期為 19:00 或 20:00。
+  note: 官網目前公開 2025-2026 雪季票價；夜滑結束時間平日、週日與連假最後一天為 19:00，週六為 20:00。
   plans:
+    - name: 下午暨夜滑入場券
+      priceLines:
+        - 成人（國中生以上） ¥4,500
+        - Junior（3 歲至小學生） ¥2,800
+        - Master（60 歲以上） ¥3,500
+      note: 13:00 起至夜滑結束。
     - name: 1 日入場券
       priceLines:
-        - 成人：¥5,500
-        - 兒童：¥3,500
-        - 熟齡：¥4,300
-      note: 8:00 ~ 17:00。
-    - name: 1 日 + 夜滑入場券
+        - 成人（國中生以上） ¥5,500
+        - Junior（3 歲至小學生） ¥3,500
+        - Master（60 歲以上） ¥4,300
+      note: 8:00～17:00。
+    - name: 1 日入場券＋夜滑
       priceLines:
-        - 成人：¥5,800
-        - 兒童：¥3,800
-        - 熟齡：¥4,600
-      note: 8:00 ~ 夜滑結束。
-    - name: 午後 + 夜滑入場券
+        - 成人（國中生以上） ¥5,800
+        - Junior（3 歲至小學生） ¥3,800
+        - Master（60 歲以上） ¥4,600
+      note: 8:00 起至夜滑結束。
+    - name: 2 日入場券
       priceLines:
-        - 成人：¥4,500
-        - 兒童：¥2,800
-        - 熟齡：¥3,500
-      note: 13:00 ~ 夜滑結束。
+        - 成人（國中生以上） ¥8,800
+        - Junior（3 歲至小學生） ¥5,600
+        - Master（60 歲以上） ¥6,800
+      note: 8:00 起至第二天 17:00。
+    - name: 2 日入場券＋夜滑
+      priceLines:
+        - 成人（國中生以上） ¥9,200
+        - Junior（3 歲至小學生） ¥6,000
+        - Master（60 歲以上） ¥7,200
+      note: 8:00 起至第二天夜滑結束。
+    - name: 3 日入場券
+      priceLines:
+        - 成人（國中生以上） ¥11,500
+        - Junior（3 歲至小學生） ¥7,300
+        - Master（60 歲以上） ¥9,000
+      note: 8:00 起至第三天 17:00。
     - name: 夜滑入場券
       priceLines:
-        - 成人：¥1,500
-        - 兒童：¥1,000
-        - 熟齡：¥1,000
-      note: 17:00 ~ 夜滑結束。
+        - 成人（國中生以上） ¥1,500
+        - Junior（3 歲至小學生） ¥1,000
+        - Master（60 歲以上） ¥1,000
+      note: 17:00 起至夜滑結束。
     - name: 單次入場券
       priceLines:
-        - 1 張：¥800
-      note: 每搭乘 1 條纜車需 1 張。
-    - name: Kids Paradise 入場券
-      priceLines:
-        - A：¥1,000
-        - B：¥1,500
-      note: A 可於當日中途進出；B 含 Kids Paradise 入場與單次入場券 / 纜車 1 次搭乘券。
+        - 每次 ¥800
+      note: 每搭乘一條纜車需 1 張。
 snowWeather:
   title: 岩原雪況天氣
   provider: Weathernews
@@ -283,20 +296,20 @@ lifts:
   total: 9
 access:
   fromTokyo:
-  - label: 東京 / 越後湯澤站轉乘
-    steps:
-    - 東京站搭乘上越新幹線至越後湯澤站。
-    - 從越後湯澤站東口案內所附近搭乘岩原免費接駁巴士前往山麓或中腹リゾートセンター。
-    estimatedTime: 站後約 10-15 分鐘
-    difficulty: easy
-    note: 土假日與年末年始有定期免費接駁；平日班次較少，另有需預約的循環巴士與岩原—上越國際接駁，出發前請確認當季時刻表。越後湯澤站起約 10-15 分鐘。
-    links:
-    - label: Iwappara Ski Resort Access
-      url: https://iwa-ppara.com/access/
+    - label: 東京站
+      steps:
+        - 東京站搭乘上越新幹線至越後湯澤站
+        - 由越後湯澤站搭乘接駁車或接駁巴士前往雪場
+      estimatedTime: 約 1 小時 40 分鐘
+      difficulty: easy
+      note: 接駁車班次與預約方式依官方交通頁及當季公告。
+      links:
+        - label: 岩原滑雪場交通資訊
+          url: https://iwa-ppara.com/access/
   car:
-    recommended: false
+    recommended: true
     snowTireRequired: true
-    note: 關越道湯沢 I.C. 下交流道後可前往雪場，場內設有多處停車場；冬季仍需雪胎或雪鏈，週末與年末年始部分停車場採收費或事前預約。
+    note: 關越自動車道湯澤 IC 出口後依指示前往雪場。平日停車免費；週末與年末年始指定期間部分停車區需付費或事前預約。
 terrainSummary:
   beginner: 寬廣緩坡是岩原主要特色，ワイドバーン、メインバーン、クルーズコース等路線適合初學者練習與長距離滑行。
   intermediate: 中級路線分布在前山、西側與山頂繞行區，フロントコース、ウエストコース、スカイコース等適合練習轉彎節奏與速度控制。
@@ -313,5 +326,4 @@ externalContent:
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=344s
     note: MIRU tube JAPAN 【Route Guide】
 ---
-
-岩原以寬闊緩坡與親子設施聞名，雪上樂園、雪橇區與兒童教學區讓小朋友也能安全玩雪。雪場同時設有滑雪公園與旗門路線，對初級到中級玩家也很友善，整體是一座適合家庭與初次滑雪者慢慢熟悉雪地的雪場。
+岩原滑雪場擁有 20 條滑道，從寬闊緩坡、初學者長距離路線，到不整地、粉雪與貓跳地形都相當完整。夜滑時段可在開闊主斜面與指定滑道持續練習，適合家庭初學者與想挑戰陡坡的進階滑雪者。

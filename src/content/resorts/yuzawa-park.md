@@ -26,10 +26,10 @@ links:
   official: https://www.park-resort.com/ski/
   facebook: https://www.facebook.com/yuzawaparkresort.ski/
   instagram: https://www.instagram.com/yuzawapark_ski/
-  trailMapPage: https://www.park-resort.com/ski/gelande/
+  trailMapPage: https://www.park-resort.com/ski/course/#course
   ticket: https://www.park-resort.com/ski/price/
-  access: https://www.park-resort.com/ski/access/
-  weather: https://www.park-resort.com/ski/gelande/
+  access: https://www.park-resort.com/access/
+  weather: https://www.park-resort.com/ski/course/
   googleMaps: https://maps.app.goo.gl/6b7KVUkKkoocfmd46
 contact:
   address:
@@ -54,11 +54,31 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.park-resort.com/ski/price/
-  note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
+  note: 官網目前公開 2025-2026 雪季優惠與季票資訊；一般 1 日券價格請以現場或官方最新公告為準。
   plans:
-    - name: 1 日券
+    - name: 冬休小學生優惠日
       priceLines:
-        - 待依 2025-2026 官網票價頁補齊
+        - 小學生 1 日券 ¥1,500
+      note: 12 月 20 日～12 月 26 日。
+    - name: Senior 優惠日
+      priceLines:
+        - 55 歲以上 1 日券 ¥2,500
+      note: 1 月 8 日～3 月 26 日每週四。
+    - name: 女性優惠日
+      priceLines:
+        - 女性 1 日券 ¥2,500
+      note: 1 月 9 日～3 月 27 日每週五。
+    - name: 春假小學生優惠日
+      priceLines:
+        - 小學生 1 日券 ¥1,500
+      note: 3 月 22 日～3 月 29 日。
+    - name: 湯澤 Park 季票
+      priceLines:
+        - 一般 ¥30,000
+        - Senior ¥23,000
+        - 國中生、高中生 ¥23,000
+        - Junior ¥17,000
+        - 雙人 ¥55,000
 snowWeather:
   title: 湯澤公園雪況天氣
   provider: Official / Weathernews
@@ -68,12 +88,12 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
-  beginnerRatio: 50
-  intermediateRatio: 50
-  advancedRatio: 0
+  beginnerRatio: 40
+  intermediateRatio: 40
+  advancedRatio: 20
   total: 11
-  courseInfoPage: https://www.park-resort.com/ski/course/
-  summary: 湯澤公園是鄰近住宿設施的湯澤雪場，適合家庭與住宿型滑雪行程。
+  courseInfoPage: https://www.park-resort.com/ski/course/#course
+  summary: 湯澤公園擁有 11 條滑道，初級緩坡與林間路線適合家庭，山頂中級滑道可眺望湯澤街景，另有不整地與地形變化路線。
   details:
   - name: 銀河コース
     difficulty: beginner
@@ -111,19 +131,20 @@ courses:
     averageSlope: 17°
 access:
   fromTokyo:
-  - label: 東京出發
-    steps:
-    - 東京站或上野站搭乘新幹線至鄰近車站。
-    - 依雪場位置轉乘接駁巴士、路線巴士、計程車或步行前往。
-    difficulty: medium
-    note: 詳細班次與接駁期間請以官方 access 頁與當季時刻表為準。依雪場與轉乘方式而定。
-    links:
-    - label: Yuzawa Park Ski Resort Access
-      url: https://www.park-resort.com/ski/access/
+    - label: 東京站
+      steps:
+        - 東京站搭乘上越新幹線至越後湯澤站，約 70 分鐘
+        - 由越後湯澤站搭乘湯澤 Park Resort 免費接駁車
+      estimatedTime: 約 1 小時 20 分鐘
+      difficulty: easy
+      note: 免費接駁車為夏季與滑雪季限定，無須預約；班次依官方時刻表。
+      links:
+        - label: 湯澤 Park Resort 交通資訊
+          url: https://www.park-resort.com/access/
   car:
-    recommended: false
+    recommended: true
     snowTireRequired: true
-    note: 雪季自駕需準備雪胎或雪鏈；初次前往建議優先確認接駁與大眾運輸。
+    note: 關越自動車道湯澤 IC 約 5 分鐘。雪場設有 4 處停車場，最大約 1,000 台，全年免費。
 terrainSummary:
   beginner: 官方資料顯示有初級者可使用的雪道或家庭設施。
   intermediate: 可依官方雪場圖安排中級巡航路線。
@@ -136,5 +157,4 @@ externalContent:
     url: https://www.youtube.com/watch?v=ft3WpoC95rU
     note: MIRU tube JAPAN 【Route Guide】
 ---
-
-湯澤公園共有 11 條滑道，急坡與緩坡交錯配置，能涵蓋初級到進階、雙板到單板玩家的需求。雪場也設有單板專用區與自由式滑雪等趣味項目，家庭旅客則能使用兒童滑道與玩雪區，整體是功能完整的親子型雪場。
+湯澤公園滑雪場共有 11 條滑道，從適合家庭與初學者的寬闊緩坡，到山頂景觀滑道、不整地與地形變化路線都能體驗。越後湯澤站提供免費接駁車，開車前往也有大型免費停車場。

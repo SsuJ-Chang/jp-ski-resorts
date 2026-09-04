@@ -21,17 +21,16 @@ tags:
 - family_friendly
 - good_for_first_japan_trip
 - no_car_accessible
-- snowboard_friendly
 - onsen
 links:
   official: https://www.naspa.co.jp/ski/
   facebook: https://www.facebook.com/ski.garden/
   instagram: https://www.instagram.com/naspa_ski_official/
   xTwitter: https://twitter.com/naspanewotani
-  trailMapPage: https://www.naspa.co.jp/ski/gelande/
-  ticket: https://www.naspa.co.jp/ski/price/
-  access: https://www.naspa.co.jp/ski/access/
-  weather: https://www.naspa.co.jp/ski/gelande/
+  trailMapPage: https://www.naspa.co.jp/ski/gerende/#course
+  ticket: https://www.naspa.co.jp/ski/lift/#fee
+  access: https://www.naspa.co.jp/access/
+  weather: https://www.naspa.co.jp/ski/gerende/
   googleMaps: https://maps.app.goo.gl/vcTbWNcQbkQhFtuB7
 contact:
   address:
@@ -42,10 +41,10 @@ contact:
   phone: 025-780-6888
 season:
   label: 2025-2026
-  operatingPeriod: 請以官方公告為準
-  hours: 請以官方營業時間公告為準
-  note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
-  source: https://www.naspa.co.jp/ski/price/
+  operatingPeriod: 2025/12/20～2026/3/31（予定）
+  hours: 8:30～17:00（滑雪纜車）
+  note: 官網目前標示 2026-2027 雪季資訊將陸續公告，以下營運時間與票價為目前公開的上一季資料。
+  source: https://www.naspa.co.jp/ski/lift/#fee
 trailMaps:
 - label: NASPA滑雪公園雪場圖
   language: 日本語
@@ -55,83 +54,110 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://www.naspa.co.jp/ski/price/
-  note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
+  source: https://www.naspa.co.jp/ski/lift/#fee
+  note: 官網目前標示 2026-2027 雪季資訊將陸續公告；以下為目前公開的 2025-2026 票價。NASPA New Otani 住宿旅客可享雪票服務，但夜間快速滑行需另購票。
   plans:
     - name: 1 日券
       priceLines:
-        - 待依 2025-2026 官網票價頁補齊
+        - 成人（國中生以上） ¥7,000
+        - 兒童（小學生以下） ¥4,800
+    - name: 春季 1 日券（3/23～3/31）
+      priceLines:
+        - 成人（國中生以上） ¥5,000
+        - 兒童（小學生以下） ¥3,300
+    - name: 2 日券
+      priceLines:
+        - 成人（國中生以上） ¥10,000
+        - 兒童（小學生以下） ¥7,300
+    - name: 單次券
+      priceLines:
+        - 成人（國中生以上） ¥700
+        - 兒童（小學生以下） ¥700
+    - name: 身心障礙優惠 1 日券
+      priceLines:
+        - 成人（國中生以上） ¥3,300
+        - 兒童（小學生以下） ¥3,300
+      note: 購票時須出示身心障礙證明。
 snowWeather:
   title: NASPA滑雪公園雪況天氣
   provider: Official / Weathernews
-  url: https://www.naspa.co.jp/ski/gelande/
+  url: https://www.naspa.co.jp/ski/gerende/
   snowDepth: 0 cm
   updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
-  beginnerRatio: 37
-  intermediateRatio: 38
-  advancedRatio: 25
+  beginnerRatio: 40
+  intermediateRatio: 30
+  advancedRatio: 30
   total: 8
-  courseInfoPage: https://www.naspa.co.jp/ski/course/
-  summary: NASPA滑雪公園鄰近 NASPA New Otani，偏向住宿、家庭與初學者友善的雪場。
+  courseInfoPage: https://www.naspa.co.jp/ski/gerende/#course
+  summary: NASPA 是僅限雙板滑雪的雪場，共有 8 條滑道；初級者可使用寬闊緩坡與 2.2km 長距離路線，中高階者則能挑戰不整地與貓跳地形。
   details:
-  - name: Aコース
-    difficulty: intermediate
-    length: 340m
-    maxSlope: 25°
-    averageSlope: 13°
-  - name: Bコース
-    difficulty: beginner
-    length: 400m
-    maxSlope: 18°
-    averageSlope: 10°
-  - name: Cコース
-    difficulty: advanced
-    length: 480m
-    maxSlope: 30°
-    averageSlope: 21°
-  - name: Dコース
-    difficulty: advanced
-    length: 750m
-    maxSlope: 38°
-    averageSlope: 16°
-  - name: Eコース
-    difficulty: intermediate
-    length: 800m
-    maxSlope: 30°
-    averageSlope: 15°
-  - name: Fコース
-    difficulty: beginner
-    length: 600m
-    maxSlope: 12°
-    averageSlope: 7°
-  - name: Gコース
-    difficulty: intermediate
-    length: 580m
-    maxSlope: 27°
-    averageSlope: 14°
-  - name: Hコース
-    difficulty: beginner
-    length: 1,600m
-    maxSlope: 20°
-    averageSlope: 9°
+    - name: B 滑道／Bコース
+      difficulty: beginner
+      length: 400m
+      maxSlope: 18°
+      averageSlope: 10°
+      note: 適合練習犁式轉彎，已稍微熟悉滑行的初學者也能嘗試。
+    - name: F 滑道／Fコース
+      difficulty: beginner
+      length: 600m
+      maxSlope: 12°
+      averageSlope: 7°
+      note: 適合初學者使用的練習滑道。
+    - name: H 滑道／Hコース
+      difficulty: beginner
+      length: 1,600m
+      maxSlope: 20°
+      averageSlope: 9°
+      note: H 至 F 滑道可組成全長約 2.2km 的長距離初級路線，途中另設林間波浪地形。
+    - name: A 滑道／Aコース
+      difficulty: intermediate
+      length: 340m
+      maxSlope: 25°
+      averageSlope: 13°
+      note: 可練習大彎與小彎，出口附近較窄；設有 SAJ B 級認證貓跳滑道。
+    - name: E 滑道／Eコース
+      difficulty: intermediate
+      length: 800m
+      maxSlope: 30°
+      averageSlope: 15°
+      note: 旺季為整備雪面，春季可能形成貓跳地形；下段與 F 滑道合流。
+    - name: G 滑道／Gコース
+      difficulty: intermediate
+      length: 580m
+      maxSlope: 27°
+      averageSlope: 14°
+      note: 寬闊滑道，可進行高速 carving。
+    - name: C 滑道／Cコース
+      difficulty: advanced
+      length: 480m
+      maxSlope: 30°
+      averageSlope: 21°
+      note: 中段起為非整備雪區，依降雪狀況可能形成粉雪或貓跳地形。
+    - name: D 滑道／Dコース
+      difficulty: advanced
+      length: 750m
+      maxSlope: 38°
+      averageSlope: 16°
+      note: 雪場最陡的非整備雪滑道，降雪後早晨可能有深粉雪與貓跳地形。
 access:
   fromTokyo:
-  - label: 東京出發
-    steps:
-    - 東京站或上野站搭乘新幹線至鄰近車站。
-    - 依雪場位置轉乘接駁巴士、路線巴士、計程車或步行前往。
-    difficulty: medium
-    note: 詳細班次與接駁期間請以官方 access 頁與當季時刻表為準。依雪場與轉乘方式而定。
-    links:
-    - label: NASPA Ski Garden Access
-      url: https://www.naspa.co.jp/ski/access/
+    - label: 東京站
+      steps:
+        - 東京站搭乘上越新幹線至越後湯澤站
+        - 由越後湯澤站搭乘接駁車至雪場約 3 分鐘
+      estimatedTime: 約 1 小時 20 分鐘
+      difficulty: easy
+      note: 接駁車班次依季節與官方公告安排。
+      links:
+        - label: NASPA 交通資訊
+          url: https://www.naspa.co.jp/access/
   car:
-    recommended: false
+    recommended: true
     snowTireRequired: true
-    note: 雪季自駕需準備雪胎或雪鏈；初次前往建議優先確認接駁與大眾運輸。
+    note: 關越自動車道湯澤 IC 出口後約 5 分鐘可達；停車場約 2,000 台，全年免費。
 terrainSummary:
   beginner: 官方資料顯示有初級者可使用的雪道或家庭設施。
   intermediate: 可依官方雪場圖安排中級巡航路線。
@@ -150,5 +176,4 @@ externalContent:
     url: https://www.youtube.com/watch?v=S9dJA1r4J68
     note: MIRU tube JAPAN 【Route Guide】
 ---
-
-NASPA 滑雪樂園佔地約 43 公頃，被自然環境包圍，整體氛圍安靜而適合家庭娛樂。飯店直通小巧的私人感雪場，滑行之外也能使用溫泉游泳池與休閒設施放鬆，Pingu 造型大使也讓雪場保有親子友善的度假氣氛。
+NASPA 滑雪花園是僅限雙板滑雪的雪場，8 條滑道涵蓋初級緩坡、2.2km 長距離路線，以及不整地與貓跳地形。初學者可從 B、F、H 滑道循序練習，中高階滑雪者則可挑戰 C、D 等陡坡。

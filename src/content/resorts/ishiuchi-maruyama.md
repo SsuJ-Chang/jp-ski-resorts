@@ -29,13 +29,13 @@ tags:
 popularResortNote:
   zhTw: "湯澤代表性的綜合型雪場"
 links:
-  official: https://ishiuchi.or.jp/
+  official: https://ishiuchi.or.jp/winter/
   facebook: https://www.facebook.com/ishiuchimaruyama/
   instagram: https://www.instagram.com/ishiuchimaruyama/
   xTwitter: https://x.com/ishiuchi_IM
   trailMapPage: https://ishiuchi.or.jp/winter/ski/lift-course/
-  ticket: https://ishiuchi.or.jp/price/
-  access: https://ishiuchi.or.jp/en/access/
+  ticket: https://ishiuchi.or.jp/winter/price/
+  access: https://ishiuchi.or.jp/winter/access/
   weather: https://ishiuchi.or.jp/winter/ski/lift-course/
   snowReport: https://ishiuchi.or.jp/winter/ski/lift-course/
   liftStatus: https://ishiuchi.or.jp/winter/ski/lift-course/
@@ -53,7 +53,7 @@ season:
   hours: 8:30～17:00
   nightSkiingHours: 2025/12/27～2026/2/28 每日、至 2026/3/28 為止的週五與週六 16:00～20:00
   note: ハツカ石口、北口預計開放至 2026/3/29；ハツカ石區夜滑僅週六營業至 2026/3/7。營業期間、時間與開放範圍仍會受積雪與天候影響。
-  source: https://ishiuchi.or.jp/winter/ski/lift-course/
+  source: https://ishiuchi.or.jp/winter/price/
 trailMaps:
 - label: 石打丸山雪場圖
   language: 日本語
@@ -63,7 +63,7 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://ishiuchi.or.jp/price/
+  source: https://ishiuchi.or.jp/winter/price/
   note: 主要票種依 2025-2026 官網基本票種整理；事前 Web 票需於使用日前一天前購入，部分票種採變動價格。小國中生為 6 ~ 15 歲，長者為 長者（65 歲以上），未就學兒為 4 ~ 6 歲。
   plans:
     - name: 彈性時間 1 日券（8.5 小時）
@@ -125,7 +125,7 @@ courses:
   advancedRatio: 10
   total: 27
   courseInfoPage: https://ishiuchi.or.jp/winter/ski/lift-course/
-  summary: 石打丸山是湯澤、南魚沼一帶的大型雪場，2025-2026 官方資訊列出 27 條雪道、夜滑、snow park、tree run 與非壓雪區域，也可透過湯澤 Snow Link 與 GALA 湯澤、湯澤高原串聯。
+  summary: 石打丸山共有27條雪道，從寬闊初級坡、樹林長距離滑道，到非壓雪陡坡都有；另設有雪地公園、樹林滑行區與可銜接GALA湯澤的雪道網絡。
   details:
   - name: 1 メルヘンコース
     difficulty: beginner
@@ -309,20 +309,20 @@ lifts:
   total: 14
 access:
   fromTokyo:
-  - label: 東京站出發
+  - label: 東京出發經越後湯澤
     steps:
-    - 東京站搭乘上越新幹線至 JR 越後湯澤站。
-    - 從越後湯澤站東口搭乘免費接駁巴士或計程車前往雪場，車程約 10 分鐘。
-    estimatedTime: 東京站起約 90 分鐘起
+    - 從東京站搭乘上越新幹線至越後湯澤站，最快約80分鐘。
+    - 從越後湯澤站東口搭乘免費接駁車或計程車，約10分鐘抵達雪場。
+    estimatedTime: 最快約90分鐘
     difficulty: easy
-    note: 免費接駁與巡迴巴士的路線、營運日期會依當季公告調整，出發前請確認官方 access 頁與時刻表。
+    note: 冬季營運期間提供越後湯澤站與雪場間的免費直達接駁車，另有雪場內巡迴接駁。
     links:
-    - label: Ishiuchi Maruyama Ski Resort Access
-      url: https://ishiuchi.or.jp/en/access/
+    - label: 石打丸山交通資訊
+      url: https://ishiuchi.or.jp/winter/access/
   car:
-    recommended: false
+    recommended: true
     snowTireRequired: true
-    note: 關越自動車道塩沢石打 IC 起約 5 分鐘，湯沢 IC 起約 12 分鐘；雪季自駕需準備雪胎或雪鏈，並先確認入口、停車場與除雪狀況。
+    note: 從關越自動車道鹽澤石打IC沿國道17號往越後湯澤方向約5分鐘；從湯澤IC往長岡方向約12分鐘。冬季平日停車免費，特定假日另有收費；停車場6:30開放。
 terrainSummary:
   beginner: 山麓與ハツカ石側有多條短距離或寬緩路線，例如グリーン、林間、北丸山ファミリー、ハツカ石ファミリー等。
   intermediate: 中央、觀光與ハツカ石之間可用尾根、ザイラー、クルーザー等路線串接，適合安排一整天巡航。

@@ -24,30 +24,30 @@ tags:
 - snowboard_friendly
 links:
   official: https://www.nakazato-snowwood.com/
-  trailMapPage: https://www.nakazato-snowwood.com/
+  trailMapPage: https://www.angel-g.co.jp/snowinformation/ski_guide/
   ticket: https://www.nakazato-snowwood.com/
-  access: https://www.nakazato-snowwood.com/
+  access: https://www.angel-g.co.jp/snowinformation/ski_guide/
   weather: https://www.nakazato-snowwood.com/
   googleMaps: https://maps.app.goo.gl/XqREhKECdq9FETsh8
 contact:
   address:
-    zhTw: 新潟縣南魚沼郡湯澤町土樽
-    ja: 新潟県南魚沼郡湯沢町土樽
-    en: Niigata minamiuonuma District yuzawa, tsuchitaru
+    zhTw: 新潟縣南魚沼郡湯澤町土樽 4731-2
+    ja: 〒949-6103 新潟県南魚沼郡湯沢町土樽4731-2
+    en: Niigata minamiuonuma District yuzawa, tsuchitaru4131-2 949-6103
     googleMaps: https://maps.app.goo.gl/XqREhKECdq9FETsh8
   phone: 025-787-3511
 season:
   label: 2025-2026
-  operatingPeriod: 請以官方公告為準
-  hours: 請以官方營業時間公告為準
-  note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
-  source: https://www.nakazato-snowwood.com/
+  operatingPeriod: 2025/12/27～2026/3/31（預定）
+  hours: 8:30～17:00
+  note: 2025/12/27 預定於 9:30 開始營業，首日僅開放下方 1 條纜車；12/28 起預定恢復一般營運。無夜間滑雪。
+  source: https://www.angel-g.co.jp/snowinformation/ski_guide/
 trailMaps:
-- label: 中里Snow Wood雪場圖
-  language: 日本語
-  season: 2025-2026
-  url: https://www.nakazato-snowwood.com/
-  sourceLabel: Nakazato Snow Wood Ski Resort
+  - label: 雪場指南
+    language: 日本語
+    season: 2025-2026
+    url: https://www.angel-g.co.jp/snowinformation/ski_guide/
+    sourceLabel: Angel Grandia 越後中里
 tickets:
   season: 2025-2026
   currency: JPY
@@ -66,41 +66,33 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
-  beginnerRatio: 50
-  intermediateRatio: 50
+  beginnerRatio: 100
+  intermediateRatio: 0
   advancedRatio: 0
-  courseInfoPage: https://www.nakazato-snowwood.com/
-  summary: 中里Snow Wood 是湯澤中里周邊的小型雪場，適合雪上體驗與短時間滑行。
+  courseInfoPage: https://www.angel-g.co.jp/snowinformation/ski_guide/
+  summary: 飯店正前方的 1,500m 緩坡，穿過林間後延伸至開闊山麓；坡面平順，適合初學者與親子。
   details:
-  - name: Snow Wood 緩斜面（名稱待確認）
-    difficulty: beginner
-    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
-  - name: Snow Wood 中級斜面（名稱待確認）
-    difficulty: intermediate
-    note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
+    - name: 中里 Snow Wood 滑雪場
+      difficulty: beginner
+      length: 1,500m
+      note: 飯店步行 0 分鐘即可抵達。坡面沒有明顯落差，女性、初學者與帶小孩的旅客皆能安心使用。
 access:
-  fromTokyo:
-  - label: 東京出發
-    steps:
-    - 東京站或上野站搭乘新幹線至鄰近車站。
-    - 依雪場位置轉乘接駁巴士、路線巴士、計程車或步行前往。
-    difficulty: medium
-    note: 詳細班次與接駁期間請以官方 access 頁與當季時刻表為準。依雪場與轉乘方式而定。
-    links:
-    - label: Nakazato Snow Wood Ski Resort Access
-      url: https://www.nakazato-snowwood.com/
-  car:
-    recommended: false
-    snowTireRequired: true
-    note: 雪季自駕需準備雪胎或雪鏈；初次前往建議優先確認接駁與大眾運輸。
+  publicTransport:
+    - route: JR 上越新幹線「越後湯澤站」轉乘 JR 上越線至「越後中里站」，下車後步行約 10 分鐘（約 700m）。
+      estimatedTime: 從東京約 1 小時 40 分鐘
+  driving:
+    - route: 關越自動車道「湯澤 IC」出發，經國道 17 號約 5km。
+      estimatedTime: 從湯澤 IC 約 10 分鐘
+  note: 雪場位於 Angel Grandia 越後中里飯店正前方，從飯店步行 0 分鐘可達。
+  source: https://www.angel-g.co.jp/snowinformation/ski_guide/
 terrainSummary:
-  beginner: 官方資料顯示有初級者可使用的雪道或家庭設施。
-  intermediate: 可依官方雪場圖安排中級巡航路線。
-  advanced: 較高難度路線需依官方雪場圖與當日開放狀態確認。
+  beginner: 官方介紹為 1,500m、坡面平順的緩坡，適合初學者、女性與親子。
+  intermediate: 官方雪場指南未列出中級專屬雪道。
+  advanced: 官方雪場指南未列出高級專屬雪道。
   snowboard: 雙板與雪板使用規則請以官方公告為準。
 externalContent:
   blogs: []
   vlogs: []
 ---
 
-中里Snow Wood位於新潟縣，頁面以已整理的雪場基本資料為主。若雪道細節來源不足，內文只保留可確認的資訊，不另外延伸形容。
+中里 Snow Wood 位於 Angel Grandia 越後中里飯店正前方，從林間延伸至開闊山麓的 1,500m 緩坡，坡面沒有明顯落差，讓初學者、女性與親子旅客都能從容練習。規模精巧的雪場，適合作為雪地活動或滑雪入門的一站。

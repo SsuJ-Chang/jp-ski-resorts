@@ -31,16 +31,16 @@ links:
   googleMaps: https://maps.app.goo.gl/NQL945UUPKuJ4i2i7
 contact:
   address:
-    zhTw: 新潟縣南魚沼郡湯澤町湯澤
-    ja: 新潟県南魚沼郡湯沢町湯沢
-    en: Niigata minamiuonuma District yuzawa, yuzawa
+    zhTw: 新潟縣南魚沼郡湯澤町湯澤 2521
+    ja: 〒949-6101 新潟県南魚沼郡湯沢町湯沢2521
+    en: Niigata minamiuonuma District yuzawa, yuzawa2521 949-6101
     googleMaps: https://maps.app.goo.gl/NQL945UUPKuJ4i2i7
   phone: 025-784-4440
 season:
   label: 2025-2026
   operatingPeriod: 請以官方公告為準
   hours: 請以官方營業時間公告為準
-  note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
+  note: 官網公告 2025-2026 雪季營業已結束，2026-2027 雪季資訊將另行公告。
   source: https://www.ipponsugi.net/
 trailMaps:
 - label: 一本杉雪場圖
@@ -70,7 +70,7 @@ courses:
   intermediateRatio: 0
   advancedRatio: 0
   courseInfoPage: https://www.ipponsugi.net/
-  summary: 一本杉是越後湯澤站附近的小型雪場，適合雪上遊戲、初學與短時間體驗。
+  summary: 車站步行約 3 分鐘即可抵達的一反杉滑雪場，採用可穿著滑雪板移動的雪地電扶梯，適合初學者與家庭使用。
   details:
   - name: 一本杉ゲレンデ
     difficulty: beginner
@@ -79,19 +79,20 @@ courses:
     note: 緩斜面中心的小型練習坡，適合初次滑行與雪上遊戲。
 access:
   fromTokyo:
-  - label: 東京出發
-    steps:
-    - 東京站或上野站搭乘新幹線至鄰近車站。
-    - 依雪場位置轉乘接駁巴士、路線巴士、計程車或步行前往。
-    difficulty: medium
-    note: 詳細班次與接駁期間請以官方 access 頁與當季時刻表為準。依雪場與轉乘方式而定。
-    links:
-    - label: Ipponsugi Ski Resort Access
-      url: https://www.ipponsugi.net/
+    - label: 東京站
+      steps:
+        - 東京站搭乘上越新幹線至越後湯澤站
+        - 從越後湯澤站東口步行約 3 分鐘抵達雪場
+      estimatedTime: 約 1 小時 20 分鐘
+      difficulty: easy
+      note: 官方主打車站步行可達，適合不開車前往的旅客。
+      links:
+        - label: 一反杉滑雪場官方網站
+          url: https://www.ipponsugi.net/
   car:
     recommended: false
     snowTireRequired: true
-    note: 雪季自駕需準備雪胎或雪鏈；初次前往建議優先確認接駁與大眾運輸。
+    note: 自駕前往時請依官方網站與現場指示確認停車安排；雪季道路需準備雪胎或雪鏈。
 terrainSummary:
   beginner: 官方資料顯示有初級者可使用的雪道或家庭設施。
   intermediate: 可依官方雪場圖安排中級巡航路線。
@@ -101,5 +102,4 @@ externalContent:
   blogs: []
   vlogs: []
 ---
-
-一本杉位於新潟縣，整體配置偏向入門到中緩坡，適合先把基本節奏穩下來。一本杉ゲレンデ可用來安排暖身與反覆練習。若同行者有新手、親子或第一次安排日本雪場的人，這種規模反而更容易掌握。
+一反杉滑雪場位於越後湯澤站附近，步行約 3 分鐘即可抵達。雪場採用雪地電扶梯，穿著滑雪板也能輕鬆移動，並以初學者與家庭滑雪需求為主。

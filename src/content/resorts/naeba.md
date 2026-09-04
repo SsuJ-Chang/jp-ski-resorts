@@ -32,7 +32,7 @@ links:
   xTwitter: https://twitter.com/Naebanow
   trailMapPage: https://www.princehotels.co.jp/ski/naeba/winter/coursemap/
   ticket: https://www.princehotels.co.jp/ski/naeba/winter/lift/
-  access: https://www.princehotels.co.jp/ski/naeba/winter/access/
+  access: https://www.princehotels.co.jp/naeba/access/
   googleMaps: https://maps.app.goo.gl/2eFoiRG62wtqabh86
 contact:
   address:
@@ -44,8 +44,8 @@ contact:
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/13-2026/4/5
-  hours: 平日 8:00-17:00、假日 8:00-20:30
-  nightSkiingHours: 16:30-20:30
+  hours: 8:00-17:00；夜間營業期間延長至 20:30
+  nightSkiingHours: 夜間營業期間至 20:30
   note: 初版依公開資料與官方票價頁整理，實際營業狀態請以官方公告為準。
   source: https://www.princehotels.co.jp/ski/naeba/winter/lift/
 trailMaps:
@@ -58,13 +58,13 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.princehotels.co.jp/ski/naeba/winter/lift/
-  note: 主要票種只整理一般旅客最常用方案；兒童（小學生以下）免費僅在官方有明列的票種中標出。
+  note: 全部票價為含稅價格；成人為國中生以上，小學生以下免費但須於售票處領取專用票券。Mt. Naeba 券可通用苗場與神樂（神樂、三俣、田代）四區；8 小時券與 4 小時券不可搭乘 Dragondola 或使用神樂滑雪場。
   plans:
     - name: Mt. Naeba 共通 1 日券
       priceLines:
         - 成人：¥9,800
         - 兒童（小學生以下）：免費
-      note: 苗場 / かぐら共通。
+      note: 可通用苗場與神樂（神樂、三俣、田代）四區；1 日券使用至 17:00。
     - name: 苗場區域 1 日券
       priceLines:
         - 成人：¥7,800
@@ -73,9 +73,11 @@ tickets:
     - name: 苗場區域 8 小時券
       priceLines:
         - 成人：¥8,300
+      note: 不可搭乘 Dragondola 或使用神樂滑雪場。
     - name: 苗場區域 4 小時券
       priceLines:
         - 成人：¥6,300
+      note: 不可搭乘 Dragondola 或使用神樂滑雪場。
 snowWeather:
   title: 苗場雪況天氣
   provider: Weathernews
@@ -90,7 +92,7 @@ courses:
   intermediateRatio: 25
   advancedRatio: 33
   courseInfoPage: https://www.princehotels.co.jp/ski/naeba/winter/coursemap/
-  summary: 苗場官方列出 24 條雪道，分為飯店前山麓區、火打與 Dragondola 區、山頂區；官方資料標示最長滑走距離 4,000m、總滑走距離 17,986m。
+  summary: 苗場官方列出 24 條雪道，分布於飯店前山麓、火打與 Dragondola 連絡區及山頂區；最長滑走距離 4,000m、總滑走距離 17,986m，並設有初級至上級與非壓雪路線。
   details:
   - name: D1 第4高速リフト南側
     difficulty: beginner
@@ -276,14 +278,14 @@ access:
   - label: 東京出發經越後湯澤
     steps:
     - 從東京搭上越新幹線到越後湯澤站。
-    - 從越後湯澤站轉乘巴士前往苗場滑雪場或苗場王子飯店。
-    estimatedTime: 湯澤後約 60 分
+    - 從越後湯澤站東口轉乘南越後觀光巴士或急行巴士前往苗場；再依目的地步行或轉乘接駁。
+    estimatedTime: 東京至越後湯澤約 90 分；車站至苗場滑雪場約 45 分，急行巴士至苗場王子飯店前再約 5 分
     difficulty: medium
-    note: 巴士會受冬季道路與雪況影響，建議先確認當季班次、末班車與住宿接駁安排。
+    note: 官方冬季圖示另有住宿者專用免費接駁巴士（越後湯澤站至苗場王子飯店，平常約 40 分）；班次、預約與停靠站請以當季公告為準。
   car:
     recommended: true
     snowTireRequired: true
-    note: 可由關越自動車道月夜野 IC 經國道 17 號約 33km、約 50 分，或由湯澤 IC 經國道 17 號約 21km、約 30 分。停車場約 3,800 台，平日與假日收費不同。
+    note: 關越自動車道湯澤 IC 經國道 17 號約 21km、平常約 30 分；月夜野 IC 約 33km、約 50 分。從越後湯澤站經國道 17 號約 23km、約 35 分。苗場王子飯店／苗場滑雪場停車場約 3,800 台，目前全日收費。
 terrainSummary:
   beginner: 飯店前、火打與筍平區域有多條初級雪道，適合家庭與住宿型行程練習。
   intermediate: 大斜面、わくわく、筍山 Skyline 等中級路線提供較長滑行距離與不同區域串聯。
