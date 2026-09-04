@@ -21,6 +21,8 @@ tags:
 - night_skiing
 - snowboard_friendly
 - resort_village
+popularResortNote:
+  zhTw: "長距離巡航與開闊山景"
 links:
   official: https://tsumagoiskiresort.life/winter-season/
   ticket: https://tsumagoiskiresort.life/lifttickets/

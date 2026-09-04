@@ -30,6 +30,8 @@ tags:
 - powder
 - snowboard_friendly
 homeRegionExample: true
+popularResortNote:
+  zhTw: "滑雪、溫泉街與長距離雪道"
 links:
   official: https://en.nozawaski.com/
   facebook: https://www.facebook.com/nozawaonsen.snowresort/

@@ -19,6 +19,8 @@ tags:
 - no_car_accessible
 - powder
 - snowboard_friendly
+popularResortNote:
+  zhTw: "湯澤近郊的夜滑與多樣雪道"
 links:
   official: https://www.kandatsu.com/
   trailMapPage: https://www.kandatsu.com/course-guide/

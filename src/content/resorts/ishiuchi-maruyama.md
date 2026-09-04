@@ -26,6 +26,8 @@ tags:
 - night_skiing
 - powder
 - tree_run
+popularResortNote:
+  zhTw: "湯澤代表性的綜合型雪場"
 links:
   official: https://ishiuchi.or.jp/
   facebook: https://www.facebook.com/ishiuchimaruyama/

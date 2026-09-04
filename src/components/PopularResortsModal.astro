@@ -14,11 +14,12 @@ type Props = {
   description: string
   period: string
   version: string
+  showData?: boolean
   autoShow?: boolean
   resorts: PopularResort[]
 }
 
-const { title, description, period, version, autoShow = false, resorts } = Astro.props
+const { title, description, period, version, showData = true, autoShow = false, resorts } = Astro.props
 ---
 
 <div class="popular-resorts" data-popular-resorts data-popular-version={version} data-popular-auto={autoShow} hidden>
@@ -45,7 +46,7 @@ const { title, description, period, version, autoShow = false, resorts } = Astro
             <span class="popular-resort__name">{resort.name}</span>
             <span class="popular-resort__meta">{resort.region}{resort.note ? `・${resort.note}` : ''}</span>
           </span>
-          <span class="popular-resort__data">{resort.data}%</span>
+          {showData && <span class="popular-resort__data">{resort.data}%</span>}
         </a>
       ))}
     </div>

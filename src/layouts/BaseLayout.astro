@@ -50,6 +50,7 @@ const popularResortItems = popularResorts.resorts
       ...entry,
       name: resort.data.name.zhTw,
       region: regions.find((region) => region.key === resort.data.region)?.name.zhTw ?? resort.data.region,
+      note: resort.data.popularResortNote?.zhTw,
     }
   })
   .filter((item): item is NonNullable<typeof item> => item !== null)
@@ -125,6 +126,7 @@ const isHomePage = Astro.url.pathname === withBasePath('/')
         description={popularResorts.description}
         period={popularResorts.period}
         version={popularResorts.version}
+        showData={popularResorts.showData}
         autoShow={isHomePage}
         resorts={popularResortItems}
       />

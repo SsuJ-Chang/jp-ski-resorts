@@ -22,6 +22,7 @@
 | `skiArea` | 否 | enum | 滑雪旅行區，例如 `hakuba`、`yuzawa`。必須使用現有 `skiAreaKeys`。 |
 | `tags` | 否 | array | 雪場特色標籤。未填時預設為空陣列。 |
 | `visibility` | 否 | object | 控制是否公開顯示。 |
+| `popularResortNote` | 否 | object | 熱門排行榜的多語言補充說明；未填寫時不顯示。 |
 | `homeRegionExample` | 否 | boolean | 是否作為首頁右側 region 列表的範例雪場候選。 |
 | `links` | 是 | object | 官方網站與外部資訊連結。 |
 | `contact` | 否 | object | 地址、Google Maps、電話。 |

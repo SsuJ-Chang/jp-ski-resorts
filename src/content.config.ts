@@ -161,6 +161,13 @@ const resorts = defineCollection({
         note: z.string().optional(),
       })
       .default({ status: 'published' }),
+    popularResortNote: z
+      .object({
+        zhTw: z.string().optional(),
+        ja: z.string().optional(),
+        en: z.string().optional(),
+      })
+      .optional(),
     homeRegionExample: z.boolean().optional(),
     links: linkSchema,
     contact: z

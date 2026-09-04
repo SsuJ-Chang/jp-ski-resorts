@@ -24,6 +24,8 @@ visibility:
   status: published
   note: 北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。
 homeRegionExample: true
+popularResortNote:
+  zhTw: "三座山與北海道粉雪"
 links:
   official: https://rusutsu.com/rusutsu-in-winter/
   facebook: https://www.facebook.com/RusutsuResort

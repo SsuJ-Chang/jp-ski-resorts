@@ -23,6 +23,8 @@ tags:
 visibility:
   status: published
   note: 福島縣雪場清單補新增的靜態初版；以官方資訊與公開雪場資料整理。
+popularResortNote:
+  zhTw: "福島的中小型雪場與多樣坡面"
 links:
   official: http://www.listel-inawashiro.jp/snow_season/
   weather: https://weathernews.jp/ski/spot/33606/

@@ -22,6 +22,8 @@ tags:
 visibility:
   status: published
   note: 北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。
+popularResortNote:
+  zhTw: "札幌市景、粉雪與冬奧雪道"
 links:
   official: https://sapporo-teine.com/snow/
   facebook: https://www.facebook.com/sapporo.teine/

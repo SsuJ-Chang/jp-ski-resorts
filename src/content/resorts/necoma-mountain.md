@@ -23,6 +23,8 @@ tags:
 - snowboard_friendly
 - tree_run
 homeRegionExample: true
+popularResortNote:
+  zhTw: "東北豪雪與南北雙區滑行"
 links:
   official: https://www.nekoma.co.jp/
   facebook: https://www.facebook.com/nekoma.mountain/

@@ -30,6 +30,8 @@ tags:
 visibility:
   status: published
   note: 對外顯示。若資料未完成可改為 draft 或 hidden。
+popularResortNote:
+  zhTw: 熱門排行榜顯示用的雪場補充說明。
 homeRegionExample: true
 links:
   official: https://example.com/
