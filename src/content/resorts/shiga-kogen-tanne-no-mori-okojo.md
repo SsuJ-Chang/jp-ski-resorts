@@ -1,15 +1,19 @@
 ---
+
 id: shiga-kogen-tanne-no-mori-okojo
 name:
-  zhTw: 志賀高原 Tanne no Mori Okojo
+  zhTw: Tanne 森林 Okojo
   ja: タンネの森オコジョスキー場
   en: Tanne no Mori Okojo Ski Area
 region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.731
-  longitude: 138.516
+  latitude: 36.73454426955665
+  longitude: 138.5128693865066
+elevation:
+  top: 1815
+  bottom: 1660
 tags:
 - beginner_friendly
 - family_friendly
@@ -77,12 +81,14 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   total: 1
-  courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/tanne-no-mori-okojo-ski/
+  courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/tanne-ski/
   summary: 官方資料列出 1 條雪道，涵蓋初級、中級與上級路線。
   details:
-  - name: Tanne no Mori Okojo Gelende
+  - name: タンネの森オコジョゲレンデ / Tanne no Mori Okojo Gelende
     difficulty: beginner
     length: 500m
+    maxSlope: 12°
+    averageSlope: 10°
     note: 平均斜度 10 度、最大斜度 12 度；林間雪道。
 lifts:
   total: 1
@@ -113,4 +119,4 @@ terrainSummary:
   snowboard: 樹林間緩坡適合雪板初學者練習轉彎與視線控制。
 ---
 
-志賀高原 Tanne no Mori Okojo 位於長野縣，是小型練習雪場，共有1 條雪道，搭配 1 座纜車。代表路線包含 Tanne no Mori Okojo Gelende，單一路線配置，重點在簡單滑行與基本練習；標籤上偏向初學者練習、親子同行。
+Tanne 森林 Okojo 是志賀高原最能感受自然的雪場，以森林為主題，能在樹林間悠閒滑行；良好雪質與自然地形帶來沉浸式的林間體驗。

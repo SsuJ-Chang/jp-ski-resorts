@@ -1,4 +1,5 @@
 ---
+
 id: shiga-kogen-giant
 name:
   zhTw: 志賀高原 巨人
@@ -8,8 +9,11 @@ region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.7195
-  longitude: 138.499
+  latitude: 36.716086106062235
+  longitude: 138.4977140865066
+elevation:
+  top: 1590
+  bottom: 1330
 tags:
 - no_car_accessible
 links:
@@ -79,9 +83,11 @@ courses:
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/giant-ski/
   summary: 官方資料列出 1 條雪道，涵蓋初級、中級與上級路線。
   details:
-  - name: Giant Gelende
+  - name: ジャイアントゲレンデ / Giant Gelende
     difficulty: advanced
     length: 1,000m
+    maxSlope: 34°
+    averageSlope: 20°
     note: 平均斜度 20 度、最大斜度 34 度；FIS 認證雪道。
 lifts:
   total: 2
@@ -113,4 +119,4 @@ terrainSummary:
   advanced: Giant Gelende 是中央區域代表性高難度斜面。
 ---
 
-長野縣的志賀高原巨人共有 3 條雪道，搭配 2 座纜車，包含 Giant Nanamagari Course 等路線；初級、中級與上級路線都有配置。
+志賀高原 巨人 是全長 1,000 公尺、最大斜度 34 度的 FIS 認證雪場，陡坡與大迴轉雪道深受進階者喜愛；志賀高原山之站也可搭乘志賀高原 Resort Gondola 直達。

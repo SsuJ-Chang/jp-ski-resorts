@@ -1,4 +1,5 @@
 ---
+
 id: shiga-kogen-ichinose-family
 name:
   zhTw: 志賀高原一之瀨家庭
@@ -10,6 +11,9 @@ skiArea: shiga-kogen
 location:
   latitude: 36.73756436363716
   longitude: 138.51423599999998
+elevation:
+  top: 1940
+  bottom: 1620
 tags:
 - beginner_friendly
 - family_friendly
@@ -37,7 +41,7 @@ contact:
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
-  hours: 8:30-16:20 左右，依官方即時狀態頁為準
+  hours: 8:30-16:30
   source: https://shigakogen-ski.or.jp/winter/ticket/
 trailMaps:
 - label: 志賀高原全山雪場圖
@@ -75,28 +79,36 @@ snowWeather:
   forecast: []
   note: 官方即時狀態頁提供各區天氣、積雪、纜車與雪道開放狀態；此資料不作為即時同步。
 courses:
-  beginnerRatio: 50
-  intermediateRatio: 25
-  advancedRatio: 25
+  beginnerRatio: 40
+  intermediateRatio: 30
+  advancedRatio: 30
   total: 4
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/ichinose-family-ski/
   summary: 一之瀨家庭滑雪場有寬廣的正面雪道、長距離天狗雪道、全景雪道與高難度 Perfecter 雪道，從初學者到進階者都能找到適合的路線。
   details:
-  - name: Ichinose Family Front Gelende
+  - name: 一の瀬ファミリー正面ゲレンデ / Ichinose Family Front Gelende
     difficulty: beginner
     length: 1,000m
+    maxSlope: 26°
+    averageSlope: 15°
     note: 寬廣的主雪道，平均斜度 15 度、最大斜度 26 度；上段較陡，下段較適合初學者。
-  - name: Tengu Course
+  - name: 天狗コース / Tengu Course
     difficulty: beginner
     length: 3,200m
+    maxSlope: 13°
+    averageSlope: 10°
     note: 長距離初級雪道，平均斜度 10 度、最大斜度 13 度。
-  - name: Panorama Course
+  - name: パノラマコース / Panorama Course
     difficulty: intermediate
     length: 2,300m
+    maxSlope: 18°
+    averageSlope: 16°
     note: 中級雪道，平均斜度 16 度、最大斜度 18 度。
-  - name: Perfecter Course
+  - name: パーフェクターコース / Perfecter Course
     difficulty: advanced
     length: 1,500m
+    maxSlope: 30°
+    averageSlope: 26°
     note: 高難度雪道，平均斜度 26 度、最大斜度 30 度。
 lifts:
   total: 4
@@ -129,4 +141,4 @@ terrainSummary:
   snowboard: 寬斜面與長距離路線適合雪板練習，但需注意連絡路速度。
 ---
 
-志賀高原一之瀨家庭位在長野縣，設有 4 條雪道與 4 座纜車。寬廣的 Ichinose Family Front Gelende、長距離 Tengu Course、Panorama Course 與 Perfecter Course 涵蓋初級、中級及上級路線，適合親子與不同程度的滑雪者。
+志賀高原一之瀨家庭是志賀高原中央區的主要雪場，設有寬廣的主雪道、急斜面與雪丘、緩斜面及長距離林間路線；天狗雪道與主雪道適合不同程度的滑雪者，並設有夜間滑雪。

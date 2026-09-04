@@ -1,4 +1,5 @@
 ---
+
 id: shiga-kogen-hasuike
 name:
   zhTw: 志賀高原蓮池
@@ -8,8 +9,11 @@ region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.7185
-  longitude: 138.4925
+  latitude: 36.71636080427767
+  longitude: 138.4931202711645
+elevation:
+  top: 1590
+  bottom: 1505
 tags:
 - beginner_friendly
 - no_car_accessible
@@ -80,24 +84,32 @@ courses:
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/hasuike-ski/
   summary: 官方資料列出 4 條雪道，涵蓋初級、中級與上級路線。
   details:
-  - name: Hasuike A Course
+  - name: 蓮池Aコース / Hasuike A Course
     difficulty: beginner
     length: 600m
+    maxSlope: 15°
+    averageSlope: 10°
     note: 平均斜度 10 度、最大斜度 15 度。
-  - name: Hasuike Junior Course
+  - name: 蓮池ジュニアコース / Hasuike Junior Course
     difficulty: beginner
     length: 500m
+    maxSlope: 18°
+    averageSlope: 15°
     note: 平均斜度 15 度、最大斜度 18 度。
-  - name: Hasuike B Course
+  - name: 蓮池Bコース / Hasuike B Course
     difficulty: intermediate
     length: 700m
+    maxSlope: 16°
+    averageSlope: 11°
     note: 平均斜度 11 度、最大斜度 16 度。
-  - name: Giant Connection Course
+  - name: ジャイアント連絡コース / Giant Connection Course
     difficulty: intermediate
     length: 240m
+    maxSlope: 10°
+    averageSlope: 8°
     note: 平均斜度 8 度、最大斜度 10 度。
 lifts:
-  total: 1
+  total: 2
 access:
   fromTokyo:
   - label: 東京出發經長野
@@ -126,4 +138,4 @@ terrainSummary:
   snowboard: 緩坡適合雪板初期練習，但需留意短距離銜接動線。
 ---
 
-志賀高原蓮池在長野縣提供3 條雪道，搭配 1 座纜車。路線包含 Hasuike B Course、Hasuike A Course、Hasuike Junior Course，整體以初級與中級路線為主；標籤上偏向初學者練習。
+志賀高原蓮池擁有多條適合初級與中級者的雪道，地形形成的緩坡對初學者與家庭十分友善；周圍有美麗白樺林，並可透過連絡雪道前往 Giant。

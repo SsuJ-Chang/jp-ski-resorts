@@ -1,4 +1,5 @@
 ---
+
 id: shiga-kogen-ichinose-diamond
 name:
   zhTw: 志賀高原一之瀨鑽石
@@ -8,8 +9,11 @@ region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.739
-  longitude: 138.522
+  latitude: 36.74004805876873
+  longitude: 138.51081844232897
+elevation:
+  top: 1700
+  bottom: 1595
 tags:
 - beginner_friendly
 - snowboard_friendly
@@ -80,13 +84,17 @@ courses:
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/ichinose-diamond-ski/
   summary: 官方資料列出 2 條雪道，涵蓋初級、中級與上級路線。
   details:
-  - name: Rabbit Course
+  - name: ラビットコース / Rabbit Course
     difficulty: beginner
     length: 600m
+    maxSlope: 14°
+    averageSlope: 9°
     note: 平均斜度 9 度、最大斜度 14 度。
-  - name: Diamond Gelende
+  - name: ダイヤモンドゲレンデ / Diamond Gelende
     difficulty: intermediate
     length: 500m
+    maxSlope: 21°
+    averageSlope: 12°
     note: 平均斜度 12 度、最大斜度 21 度。
 lifts:
   total: 2
@@ -118,4 +126,4 @@ terrainSummary:
   snowboard: 平緩外側路線可用於雪板基本動作練習。
 ---
 
-長野縣的志賀高原一之瀨鑽石共有 2 條雪道，搭配 2 座纜車，包含 Diamond Gelende、Rabbit Course 等路線；以中級滑行為主，標籤偏向初學者練習、雙板與單板。
+志賀高原一之瀨鑽石 以視野開闊的寬廣雪場為特色，適合中級滑雪者與家庭；設有 Rabbit Course 與 Diamond Gelende，並可透過新設的雙人纜車前往一之瀨家庭。

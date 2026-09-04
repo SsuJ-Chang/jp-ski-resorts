@@ -1,4 +1,5 @@
 ---
+
 id: shiga-kogen-terakoya
 name:
   zhTw: 志賀高原寺小屋
@@ -8,8 +9,11 @@ region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.736
-  longitude: 138.523
+  latitude: 36.72680853474303
+  longitude: 138.53062369424686
+elevation:
+  top: 2060
+  bottom: 1905
 tags:
 - powder
 - snowboard_friendly
@@ -80,22 +84,26 @@ courses:
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/terakoya-ski/
   summary: 官方資料列出 4 條雪道，涵蓋初級、中級與上級路線。
   details:
-  - name: LIPS Course
+  - name: LIPSコース / LIPS Course
     difficulty: beginner
     length: 420m
-    note: 平均斜度 15 度、最大斜度 30 度。
-  - name: Connection Course
+    maxSlope: 30°
+    averageSlope: 15°
+  - name: 連絡コース / Connection Course
     difficulty: beginner
     length: 500m
-    note: 平均斜度 6 度、最大斜度 6 度。
-  - name: Philosophy Course
+    maxSlope: 6°
+    averageSlope: 6°
+  - name: Philosophyコース / Philosophy Course
     difficulty: intermediate
     length: 940m
-    note: 平均斜度 16 度、最大斜度 23 度。
-  - name: Eternal Course
+    maxSlope: 23°
+    averageSlope: 16°
+  - name: Eternalコース / Eternal Course
     difficulty: intermediate
     length: 820m
-    note: 平均斜度 12 度、最大斜度 20 度。
+    maxSlope: 20°
+    averageSlope: 12°
 lifts:
   total: 2
 access:
@@ -127,4 +135,4 @@ terrainSummary:
   snowboard: 高海拔中級路線適合雪板巡航，但需確認連絡路開放。
 ---
 
-志賀高原寺小屋是長野縣的小型雪場，整理為4 條雪道，搭配 2 座纜車。雪道如 Connection Course、Eternal Course、Philosophy Course，以初級與中級路線為主；標籤上偏向雙板與單板。
+志賀高原寺小屋位於志賀高原高海拔區域，以全山數一數二的粉雪與壯麗景觀聞名；從 Eternal Course 可銜接東館山林間路線，延伸至發哺與 Giant 方向的長距離下坡。

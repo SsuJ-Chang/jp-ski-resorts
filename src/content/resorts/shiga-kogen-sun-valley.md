@@ -1,15 +1,19 @@
 ---
+
 id: shiga-kogen-sun-valley
 name:
-  zhTw: 志賀高原太陽谷
+  zhTw: 太陽谷
   ja: サンバレースキー場
   en: Sun Valley Ski Area
 region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.714
-  longitude: 138.4897
+  latitude: 36.71619370551534
+  longitude: 138.48494722883552
+elevation:
+  top: 1585
+  bottom: 1415
 tags:
 - beginner_friendly
 - no_car_accessible
@@ -81,20 +85,26 @@ courses:
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/sunvalley-ski/
   summary: 官方資料列出 3 條雪道，涵蓋初級、中級與上級路線。
   details:
-  - name: Sun Valley Beginner Course
+  - name: サンバレー初級コース / Sun Valley Beginner Course
     difficulty: beginner
     length: 162m
+    maxSlope: 15°
+    averageSlope: 12°
     note: 平均斜度 12 度、最大斜度 15 度。
-  - name: Sun Valley B + Main Course
+  - name: サンバレーB＋メインコース / Sun Valley B + Main Course
     difficulty: intermediate
     length: 800m
+    maxSlope: 25°
+    averageSlope: 12°
     note: 平均斜度 12 度、最大斜度 25 度。
-  - name: Sun Valley A + Shirokuma Course
+  - name: サンバレーA＋白熊コース / Sun Valley A + Shirokuma Course
     difficulty: advanced
     length: 650m
+    maxSlope: 30°
+    averageSlope: 18°
     note: 平均斜度 18 度、最大斜度 30 度。
 lifts:
-  total: 1
+  total: 2
 access:
   fromTokyo:
   - label: 東京出發經長野
@@ -124,4 +134,4 @@ terrainSummary:
   snowboard: 可作為志賀高原入口側的短距離練習區。
 ---
 
-志賀高原 Sun Valley 位於長野縣，是志賀高原裡很容易拿來當作起滑或收尾的一區。地形不複雜，但和鄰近區域的銜接方便，適合把暖身、調整節奏和區域串聯排在同一天。
+太陽谷 是志賀高原的入口，也是最早映入眼簾的雪場；鄰接丸池與蓮池，可在三個雪場間順暢移動，中級與上級雪道選擇豐富，天候不佳時也常是穩定的滑行選擇。

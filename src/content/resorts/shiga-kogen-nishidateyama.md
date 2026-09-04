@@ -1,4 +1,5 @@
 ---
+
 id: shiga-kogen-nishidateyama
 name:
   zhTw: 志賀高原西館山
@@ -8,8 +9,11 @@ region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.7248
-  longitude: 138.51
+  latitude: 36.7255194915836
+  longitude: 138.49905177116446
+elevation:
+  top: 1815
+  bottom: 1660
 tags:
 - beginner_friendly
 - snowboard_friendly
@@ -80,20 +84,26 @@ courses:
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/nishidateyama-ski/
   summary: 官方資料列出 3 條雪道，涵蓋初級、中級與上級路線。
   details:
-  - name: Nishidateyama Beginner Course
+  - name: 西館山初級コース / Nishidateyama Beginner Course
     difficulty: beginner
     length: 1,730m
+    maxSlope: 18°
+    averageSlope: 9°
     note: 平均斜度 9 度、最大斜度 18 度。
-  - name: Nishidateyama Takamagahara Gelende
+  - name: 西館山高天ヶ原ゲレンデ / Nishidateyama Takamagahara Gelende
     difficulty: beginner
     length: 280m
+    maxSlope: 13°
+    averageSlope: 7°
     note: 平均斜度 7 度、最大斜度 13 度。
-  - name: World Cup Course
+  - name: ワールドカップコース / World Cup Course
     difficulty: intermediate
     length: 1,450m
+    maxSlope: 28°
+    averageSlope: 15°
     note: 平均斜度 15 度、最大斜度 28 度。
 lifts:
-  total: 3
+  total: 4
 access:
   fromTokyo:
   - label: 東京出發經長野
@@ -123,4 +133,4 @@ terrainSummary:
   snowboard: 林間轉彎與中級斜面適合雪板練習銜接。
 ---
 
-志賀高原西館山是長野縣的中小型雪場，整理為 7 條雪道，搭配 3 座纜車。雪道如 Nishitateyama Beginner Course（Upper section）、Nishitateyama Beginner Course（Lower section）、Nishitateyama Gelende，以初級與中級路線為主；標籤上偏向初學者練習、雙板與單板。
+志賀高原西館山以多樣雪道配置與良好雪質聞名，曾多次舉辦世界盃賽事；World Cup Course 適合挑戰，林間初級雪道則能享受穿越樹林的滑行，山頂另設幸福之鐘。

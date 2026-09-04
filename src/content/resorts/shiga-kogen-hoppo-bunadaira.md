@@ -1,15 +1,19 @@
 ---
+
 id: shiga-kogen-hoppo-bunadaira
 name:
-  zhTw: 志賀高原發哺ブナ平
-  ja: 発哺ブナ平スキー場
+  zhTw: 發哺ブナ平
+  ja: 志賀高原発哺ブナ平スキー場
   en: Hoppo Bunadaira Ski Area
 region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.724
-  longitude: 138.5035
+  latitude: 36.72117829693372
+  longitude: 138.5063452
+elevation:
+  top: 1815
+  bottom: 1660
 tags:
 - beginner_friendly
 links:
@@ -79,12 +83,14 @@ courses:
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/hoppo-bunadaira-ski/
   summary: 官方資料列出 1 條雪道，涵蓋初級、中級與上級路線。
   details:
-  - name: Bunadaira Gelende
+  - name: ブナ平ゲレンデ / Bunadaira Gelende
     difficulty: beginner
     length: 1,500m
+    maxSlope: 25°
+    averageSlope: 15°
     note: 平均斜度 15 度、最大斜度 25 度；最大寬度約 160m。
 lifts:
-  total: 1
+  total: 2
 access:
   fromTokyo:
   - label: 東京出發經長野
@@ -113,4 +119,4 @@ terrainSummary:
   snowboard: 寬雪道對雪板練習連續轉彎較友善。
 ---
 
-志賀高原發哺ブナ平是長野縣的小型練習雪場，整理為1 條雪道，搭配 1 座纜車。雪道如 Bunadaira Gelende，單一路線配置，重點在簡單滑行與基本練習；標籤上偏向初學者練習。
+發哺ブナ平擁有最大寬度約 160 公尺的寬廣雪面，是初學者練習的理想雪場；下方可連接西館山與 Giant，上方則能透過東館山纜車前往東館山。

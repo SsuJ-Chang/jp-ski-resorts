@@ -7,7 +7,7 @@ region: "kanto-koshinetsu"
 prefecture: "長野縣"
 baseTown: "山之內町"
 accessHub: "長野站 / 湯田中站 / 志賀高原山之站"
-summary: "長野縣山之內町的大型聯合雪場群，海拔多在 1,500 公尺以上，包含奧志賀、燒額、一之瀨、高天原、熊之湯與橫手山等區域，適合住宿型多日滑雪。"
+summary: "長野縣山之內町的大型聯合雪場群，海拔多在 1,500 公尺以上。中央區以一之瀨、高天原、寺小屋、西館山等雪場為核心，雪道密集、選擇多，適合不同程度的滑雪者。奧志賀與燒額山則以長距離巡航、林間雪道與較完整的度假村設施聞名，滑行節奏相對舒適。熊之湯、橫手山與澀峠位於較高海拔，雪質乾爽、雪季較長，也能享受開闊山景與高山滑行感。各區特色差異明顯，透過纜車與接駁巴士串聯，非常適合安排數日行程，逐區探索不同地形與雪場風格。"
 traits:
   - "大型雪場群"
   - "高海拔"
@@ -35,10 +35,14 @@ featuredResorts:
 externalContent:
   websites:
     - title: "志賀高原 Mountain Resort 官方入口"
-      url: "https://www.shigakogen-ski.or.jp/"
+      url: "https://shigakogen-ski.or.jp/winter/"
       note: "整合志賀高原各雪場、交通、季節資訊與數位手冊。"
+    - title: "志賀高原官方交通指引"
+      url: "https://shigakogen-ski.or.jp/winter/access/index.html"
+    - title: "志賀高原雪場免費接駁巴士"
+      url: "https://shigakogen.co.jp/winter/access/#sec_04"
     - title: "志賀高原全山雪場圖"
-      url: "https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_eng.pdf"
+      url: "https://www.shigakogen-ski.or.jp/assets/pdf/shigakogen_map_ht-tc.pdf"
       note: "志賀高原全山雪道與區域位置圖。"
   vlogs:
   - title: "【日本滑雪】緊急企劃・志賀高原｜搭新幹線去租車 自駕到志賀｜標高2307m 日本最大最高雪場｜雪道旁飄雪 露天溫泉住宿 ｜為明年一月北海道暖身｜25-26雪季"

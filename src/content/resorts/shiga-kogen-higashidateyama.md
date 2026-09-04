@@ -1,4 +1,5 @@
 ---
+
 id: shiga-kogen-higashidateyama
 name:
   zhTw: 志賀高原東館山
@@ -8,8 +9,11 @@ region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.728
-  longitude: 138.516
+  latitude: 36.72996197488757
+  longitude: 138.5208930711645
+elevation:
+  top: 1970
+  bottom: 1540
 tags:
 - beginner_friendly
 - no_car_accessible
@@ -81,13 +85,17 @@ courses:
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/higashidateyama-ski/
   summary: 官方資料列出 2 條雪道，涵蓋初級、中級與上級路線。
   details:
-  - name: Higashidateyama Forest Course
+  - name: 東館林間コース / Higashidateyama Forest Course
     difficulty: beginner
     length: 4,000m
+    maxSlope: 12°
+    averageSlope: 10°
     note: 平均斜度 10 度、最大斜度 12 度。
-  - name: Higashidateyama Olympic Course
+  - name: 東館山オリンピックコース / Higashidateyama Olympic Course
     difficulty: intermediate
     length: 1,600m
+    maxSlope: 36°
+    averageSlope: 20°
     note: 平均斜度 20 度、最大斜度 36 度。
 lifts:
   total: 1
@@ -119,4 +127,4 @@ terrainSummary:
   snowboard: 長距離林道需注意速度維持與平緩區段。
 ---
 
-志賀高原東館山位於長野縣，是小型雪場，共有 5 條雪道，搭配 1 座纜車。代表路線包含 Higashitateyama Forest …，以初級與中級路線為主，標籤偏向初學者練習。
+志賀高原東館山擁有志賀高原最長的連續滑行距離，從山頂搭乘纜車後即可挑戰奧運雪道；同時也有平緩林間路線，持續滑行可一路下到 Giant 雪場。

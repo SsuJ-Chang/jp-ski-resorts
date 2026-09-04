@@ -1,4 +1,5 @@
 ---
+
 id: shiga-kogen-takamagahara-mammoth
 name:
   zhTw: 志賀高原高天原長毛象
@@ -8,8 +9,11 @@ region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: shiga-kogen
 location:
-  latitude: 36.733
-  longitude: 138.515
+  latitude: 36.73129488003127
+  longitude: 138.50823689999999
+elevation:
+  top: 1900
+  bottom: 1670
 tags:
 - beginner_friendly
 - no_car_accessible
@@ -80,12 +84,14 @@ courses:
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/takamahara-ski/
   summary: 官方資料列出 1 條雪道，涵蓋初級、中級與上級路線。
   details:
-  - name: Takamagahara Mammoth Gelende
+  - name: 高天ヶ原マンモスゲレンデ / Takamagahara Mammoth Gelende
     difficulty: intermediate
     length: 1,000m
+    maxSlope: 25°
+    averageSlope: 10°
     note: 平均斜度 10 度、最大斜度 25 度；寬廣的一枚斜面。
 lifts:
-  total: 4
+  total: 3
 access:
   fromTokyo:
   - label: 東京出發經長野
@@ -114,4 +120,4 @@ terrainSummary:
   snowboard: 可銜接多個中央區域雪場，適合移動型滑行。
 ---
 
-志賀高原高天原長毛象位於長野縣，特色是寬面主雪道與區域中心位置，滑行安排很直覺。它適合放在志賀高原多日行程的中段，拿來做穩定巡航、重新調整節奏，或銜接周邊區域。
+志賀高原高天原長毛象 以 1,000 公尺寬廣的一枚雪面為特色，平整雪面適合高速轉彎與開闊滑行；雪丘區難度較高，能同時滿足中級與進階者。

@@ -90,7 +90,7 @@ export const shigaKogenMap = {
     },
     {
       id: 'shiga-kogen-tanne-no-mori-okojo',
-      label: 'Tanne no Mori Okojo',
+      label: 'Tanne 森林 Okojo',
       kind: 'resort',
       resortId: 'shiga-kogen-tanne-no-mori-okojo',
       nudge: { x: -2, y: 7 },
