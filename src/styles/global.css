@@ -1657,11 +1657,14 @@ h1 {
 }
 
 .detail-hero__title-row {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: nowrap;
   min-width: 0;
 }
 
 .detail-hero__title-row h1 {
-  display: inline;
+  min-width: 0;
   margin: 0;
 }
 
@@ -1671,7 +1674,8 @@ h1 {
   gap: 8px;
   min-height: 32px;
   margin-left: 10px;
-  vertical-align: text-bottom;
+  flex: 0 0 auto;
+  white-space: nowrap;
 }
 
 .copy-resort-url {
@@ -1711,6 +1715,7 @@ h1 {
 }
 
 .copy-resort-url__status {
+  flex: 0 0 auto;
   width: max-content;
   max-width: min(280px, calc(100vw - 32px));
   padding: 7px 10px;
@@ -1719,6 +1724,8 @@ h1 {
   color: #fff;
   font-size: 0.82rem;
   font-weight: 700;
+  white-space: nowrap;
+  z-index: 1;
   opacity: 0;
   pointer-events: none;
   transform: translateX(-4px);
