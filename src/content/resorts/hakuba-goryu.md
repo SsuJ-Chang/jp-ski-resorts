@@ -8,8 +8,8 @@ region: kanto-koshinetsu
 prefecture: 長野縣
 skiArea: hakuba
 location:
-  latitude: 36.66336949950693
-  longitude: 137.83660396792817
+  latitude: 36.66300154003418
+  longitude: 137.8366479059021
 tags:
 - beginner_friendly
 - night_skiing
@@ -28,13 +28,13 @@ links:
   trailMapPdf: https://www.hakubaescal.com/winter/common/pdf/gelande/gelandemap2025.pdf
   ticket: https://www.hakubaescal.com/winter/tickets/lift/
   access: https://www.hakubaescal.com/winter/access/
-  googleMaps: https://maps.app.goo.gl/uTFHLf9nyArEHLRR8
+  googleMaps: https://maps.app.goo.gl/nmXj91twuVNhCuzd6
 contact:
   address:
-    zhTw: 長野縣北安曇郡白馬村神城 22184-10 Escal Plaza
-    ja: 〒399-9211 長野県北安曇郡白馬村神城22184-10 エスカルプラザ
+    zhTw: 長野縣北安曇郡白馬村神城 22184-10
+    ja: 〒399-9211 長野県北安曇郡白馬村神城22184-10
     en: 22184-10 Kamishiro, Hakuba, Kitaazumi District, Nagano 399-9211
-    googleMaps: https://maps.app.goo.gl/uTFHLf9nyArEHLRR8
+    googleMaps: https://maps.app.goo.gl/nmXj91twuVNhCuzd6
   phone: 0261-75-2101
 season:
   label: 2025-2026
@@ -55,28 +55,31 @@ trailMaps:
   url: https://www.hakubaescal.com/winter/common/pdf/gelande/gelandemap2025.pdf
   sourceLabel: Hakuba Goryu Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.hakubaescal.com/winter/tickets/lift/
-  note: 現場 Ticket Center 主要票種摘要，價格含 IC 卡押金；完整規則與線上票價以官方頁面為準。
+  note: 2026-2027 年度共通纜車票價摘要，適用白馬五龍與 Hakuba47；線上購票、季節優惠與年齡證明規則以官方票價頁為準。
   plans:
     - name: 1 日券
       priceLines:
         - 成人：¥9,500
         - 長者：¥9,000
-        - 青年：¥6,500
-        - 兒童：¥4,500
+        - 兒童：¥4,300
       note: 當日 17:00 前有效
     - name: 2 日券
       priceLines:
         - 成人：¥17,500
-        - 長者：¥16,500
-        - 青年：¥11,500
-        - 兒童：¥8,000
+        - 長者：¥17,000
+        - 兒童：¥7,800
+    - name: 3 日券
+      priceLines:
+        - 成人：¥25,000
+        - 長者：¥24,500
+        - 兒童：¥11,300
       note: 雪季內任選 2 日有效
     - name: 半日券
       priceLines:
-        - 成人：¥8,000
+        - 成人：¥8,500
         - 兒童：¥3,900
       note: 開始營業至 13:00，或 12:00 至結束營業
     - name: 夜滑券
@@ -84,6 +87,15 @@ tickets:
         - 成人：¥6,500
         - 兒童：¥3,000
       note: Toomi Slope 與 Iimori Slope，18:00-21:30
+    - name: 特別折扣 1 日券（開季～12/15、3/15～閉鎖）
+      priceLines:
+        - 成人：¥8,500
+        - 兒童：¥3,800
+    - name: 五龍夜滑券
+      priceLines:
+        - 成人：¥6,500
+        - 兒童：¥3,000
+      note: Toomi 與 Iimori 雪道夜間營業時使用；夜滑券不可線上加值。
 snowWeather:
   title: 白馬五龍雪況天氣
   provider: Weathernews
@@ -271,15 +283,15 @@ access:
   fromTokyo:
   - label: 東京出發經長野或白馬
     steps:
-    - 從東京搭北陸新幹線到長野站，轉乘路線巴士前往白馬五龍。
-    - 也可從新宿搭特急 Azusa 到白馬站，再銜接接駁巴士或計程車。
-    estimatedTime: 長野後約 1 小時
+    - 從東京搭北陸新幹線到長野站，再轉乘路線巴士至白馬五龍，約 2 小時 40 分。
+    - 也可從新宿搭特急 Azusa 到白馬站，約 4 小時，再銜接接駁巴士或計程車。
+    estimatedTime: 約 2 小時 40 分～5 小時
     difficulty: medium
-    note: 神城站與飯森站到各自雪場入口約 5 分車程；冬季另有雪場免費接駁與 Hakuba Valley 接駁，班次與期間需先確認。
+    note: 五龍、IIMORI 與 Hakuba47 之間有免費三角接駁巴士；Hakuba Valley 接駁亦設有白馬五龍站牌，營運期間與班次依雪季公告為準。
   car:
     recommended: true
     snowTireRequired: true
-    note: 東京方向約 4 小時，可由長野自動車道安曇野 IC 或上信越自動車道長野 IC 方向進入。11 月底至 3 月底官方要求雪胎，停車場禁止夜間停車與車宿。
+    note: 東京方向約 4 小時，可由長野道安曇野 IC 或上信越道長野 IC 方向進入；富山方向經糸魚川 IC 約 2 小時。11 月底至 3 月底必須使用雪胎，停車場禁止夜間停車與車宿。
   rjOpinion: |-
     非自駕建議：
     1. 成田機場搭 **Skyliner** 到**京城上野**。

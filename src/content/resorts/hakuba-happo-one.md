@@ -28,7 +28,7 @@ tags:
 - no_car_accessible
 homeRegionExample: true
 links:
-  official: https://www.happo-one.jp/
+  official: https://www.happo-one.jp/winter/
   facebook: https://www.facebook.com/hakuba.happo/
   instagram: https://www.instagram.com/hakubahappoone/
   xTwitter: https://twitter.com/hakuba_happo
@@ -42,8 +42,8 @@ links:
 contact:
   address:
     zhTw: 長野縣北安曇郡白馬村北城八方
-    ja: 長野県北安曇郡白馬村北城八方
-    en: Nagano kitaazumi District hakuba, kitashirohappou
+    ja: 〒399-9211 長野県北安曇郡白馬村北城八方
+    en: Kitashiro Happo, Hakuba, Kitaazumi District, Nagano 399-9211
     googleMaps: https://maps.app.goo.gl/5QCNFQJ2BPkXSst79
   phone: 0261-72-3066
 season:
@@ -56,28 +56,48 @@ trailMaps:
 - label: 白馬八方尾根雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://www.happo-one.jp/gelande/
+  url: https://www.happo-one.jp/wp2019/wp-content/themes/happo-one2020/img/info/pamphlet/2025-2026/course_map.pdf
   sourceLabel: Hakuba Happo-one Snow Resort
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.happo-one.jp/ticket/
-  note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
+  note: 2026-2027 年度分為季初、高峰與春季價格；兒童票適用 6～17 歲，未滿 6 歲幼兒可免費搭乘纜車與雪場吊椅（需至售票處辦理）。
   plans:
-    - name: 高峰期 1 日券
+    - name: 季初 1 日券（12/1～12/18）
       priceLines:
-        - 成人：¥8,700
-        - 兒童：¥4,350
-        - 熟齡：¥8,400
-    - name: 高峰期 2 日券
+        - 成人：¥6,400
+        - 兒童：¥3,200
+        - 熟齡：¥6,000
+    - name: 高峰期 1 日券（12/19～3/22）
       priceLines:
-        - 成人：¥17,400
-        - 兒童：¥8,700
-        - 熟齡：¥16,800
+        - 成人：¥9,800
+        - 兒童：¥4,900
+        - 熟齡：¥9,500
+    - name: 高峰期 2 日券（非連續日）
+      priceLines:
+        - 成人：¥19,600
+        - 兒童：¥9,800
+        - 熟齡：¥19,000
+    - name: 高峰期 3 日券（非連續日）
+      priceLines:
+        - 成人：¥28,200
+        - 兒童：¥14,100
     - name: 上午 / 下午券
       priceLines:
-        - 成人：¥7,200
-        - 兒童：¥3,600
+        - 成人：¥8,100
+        - 兒童：¥4,050
+      note: 上午券營業開始至 12:00，下午券 12:00 至營業結束。
+    - name: 八方初學者 1 日券
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥2,450
+      note: 限名木山第 2、名木山第 3、白樺第 1、白樺第 2、咲花第 2、咲花第 3 與咲花北尾根纜車。
+    - name: 春季 1 日券（3/23～5/5）
+      priceLines:
+        - 成人：¥6,400
+        - 兒童：¥3,200
+        - 熟齡：¥6,000
 snowWeather:
   title: 白馬八方尾根雪況天氣
   provider: Weathernews
@@ -92,7 +112,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://www.happo-one.jp/gelande/
-  summary: 白馬八方尾根是白馬最具代表性的指標級大型高山雪場。官方一共規劃了 16 條雪道，總滑走面積達 220 公頃，最長滑走距離高達 8,000 公尺；從山頂 1,831 公尺到山麓 760 公尺，高低落差更是超過 1,000 公尺。
+  summary: 白馬八方尾根是日本代表性的國際山岳型雪場，曾是 1998 年長野冬季奧運競賽場地。山頂標高 1,831 公尺，可眺望白馬三山、五龍岳與妙高山等北阿爾卑斯群峰；16 條雪道涵蓋初級練習坡、中級長距離巡航，以及兎平、黑菱與奧運競賽路線等上級地形，最長可滑 8,000 公尺。
   details:
   - name: リーゼンスラロームコース
     difficulty: intermediate
@@ -140,6 +160,64 @@ courses:
     - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=55s
     - https://www.youtube.com/watch?v=AvCYA9LCWC8&t=770s
     note: 位於 1,830m 級最上部，可眺望白馬三山與五龍岳；降雪後有粉雪條件，但也接近登山與 backcountry 出入口，需遵守官方安全規則。
+  - name: 名木山ゲレンデ
+    difficulty: intermediate
+    length: 750m
+    maxSlope: 35°
+    averageSlope: 17°
+    note: 位於八方尾根入口，主要由名木山第 2、名木山第 3 纜車服務；下方有適合初學者練習的緩坡段。
+  - name: パノラマゲレンデ
+    difficulty: intermediate
+    length: 700m
+    maxSlope: 25°
+    averageSlope: 16°
+    note: 中級者常用的寬廣坡面，中級斜面與緩坡交錯，並設有林道迂迴路。
+  - name: 黒菱ゲレンデ
+    difficulty: advanced
+    length: 630m
+    maxSlope: 31°
+    averageSlope: 27°
+    note: 黑菱第 3 纜車側是不整地與饅頭地形，黑菱第 2 纜車側則是較平緩的練習坡。
+  - name: スカイライン・北尾根コース
+    difficulty: intermediate
+    length: 3500m
+    maxSlope: 32°
+    averageSlope: 16°
+    note: 由壓雪主線、未壓雪稜線與林道迂迴路組成，可從黑菱一路連接至北尾根方向。
+  - name: セントラルコース
+    difficulty: advanced
+    length: 1200m
+    maxSlope: 27°
+    averageSlope: 17°
+    note: 連接全景雪場與白樺雪場，是從纜車山頂站返回山麓的中上級路線。
+  - name: オリンピックコースI
+    difficulty: advanced
+    length: 3000m
+    maxSlope: 35°
+    averageSlope: 31°
+    note: 1998 年冬季奧運男子滑降路線，從黑菱平經全景雪場一路下滑至國際雪場，沒有迂迴路。
+  - name: オリンピックコースII
+    difficulty: advanced
+    length: 2650m
+    maxSlope: 35°
+    averageSlope: 31°
+    note: 1998 年冬季奧運女子滑降路線，從黑菱平經全景雪場下滑至咲花雪場；初學者可使用迂迴路。
+  - name: 名木山ゲレンデ（南）
+    difficulty: intermediate
+    length: 750m
+    maxSlope: 35°
+    averageSlope: 17°
+    note: 名木山上部與里森滑雪道相連的坡面，適合銜接長距離路線。
+  - name: 迂回林道コース
+    difficulty: beginner
+    length: 1200m
+    averageSlope: 6°
+    note: 沿林道繞行的緩坡連絡路，可避開較陡的主雪道。
+  - name: 咲花北尾根コース
+    difficulty: beginner
+    length: 3400m
+    averageSlope: 10°
+    note: 從北尾根方向連接咲花雪場的初級長距離路線。
 lifts:
   total: 21
 access:
@@ -164,6 +242,18 @@ access:
     estimatedTime: 約 3.5-4.5 小時
     difficulty: medium
     note: 依大糸線與巴士銜接而定，雪季班次需以當季時刻表為準。
+    links:
+    - label: Hakuba Happo-one Snow Resort Access
+      url: https://www.happo-one.jp/access/
+  fromOsaka:
+  - label: 大阪出發
+    steps:
+    - 大阪站搭乘東海道新幹線至名古屋站。
+    - 於名古屋站轉乘特急信濃至松本站，再轉乘 JR 大糸線至白馬站。
+    - 從白馬站轉乘巴士或計程車至白馬八方尾根各入口。
+    estimatedTime: 約 4.5-5.5 小時
+    difficulty: medium
+    note: 實際時間依新幹線、特急與大糸線班次銜接而定，雪季請依官方時刻表安排行程。
     links:
     - label: Hakuba Happo-one Snow Resort Access
       url: https://www.happo-one.jp/access/

@@ -23,19 +23,19 @@ tags:
 - onsen
 - family_friendly
 links:
-  official: https://www.hakunori.com/
+  official: https://www.hakunori.com/winter/
   facebook: https://www.facebook.com/hakunoriski
   instagram: https://www.instagram.com/hakunori_official/
-  trailMapPage: https://www.hakunori.com/gelande/
-  ticket: https://www.hakunori.com/ticket/
+  trailMapPage: https://www.hakunori.com/guide/?id=data
+  ticket: https://www.hakunori.com/ticket/?id=lift
   access: https://www.hakunori.com/access/
   weather: https://www.hakunori.com/gelande/
   googleMaps: https://maps.app.goo.gl/HETfzeCaUBxfAwZe6
 contact:
   address:
-    zhTw: 長野縣北安曇郡小谷村千國乙 12860-1
-    ja: 長野県北安曇郡小谷村千国乙12860-1
-    en: Nagano kitaazumi District kotani, senkuniotsu12860-1
+    zhTw: 長野縣北安曇郡小谷村白馬乘鞍高原
+    ja: 〒399-9422 長野県北安曇郡小谷村白馬乗鞍高原
+    en: Hakuba Norikura Kogen, Otari Village, Kitaazumi District, Nagano 399-9422
     googleMaps: https://maps.app.goo.gl/HETfzeCaUBxfAwZe6
   phone: 0261-82-2821
 season:
@@ -43,12 +43,12 @@ season:
   operatingPeriod: 請以官方公告為準
   hours: 請以官方營業時間公告為準
   note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
-  source: https://www.hakunori.com/ticket/
+  source: https://www.hakunori.com/ticket/?id=lift
 trailMaps:
 - label: 白馬乘鞍溫泉雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://www.hakunori.com/gelande/
+  url: https://www.hakunori.com/cms/wp-content/themes/hakunori/img/hakunori_gelande_map2025.pdf
   sourceLabel: Hakuba Norikura Onsen Snow Resort
 tickets:
   season: 2025-2026

@@ -10,6 +10,10 @@ skiArea: hakuba
 location:
   latitude: 36.56268144604031
   longitude: 137.7984624690385
+elevation:
+  top: 1200
+  bottom: 940
+  verticalDrop: 260
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3
@@ -23,16 +27,16 @@ tags:
 links:
   official: https://jiigatake.com/
   instagram: https://www.instagram.com/jigatake_snow_resort/
-  trailMapPage: https://jiigatake.com/slope/
+  trailMapPage: https://jiigatake.com/course/
   ticket: https://jiigatake.com/price/
   access: https://jiigatake.com/access/
-  weather: https://jiigatake.com/slope/
+  weather: https://jiigatake.com/course/
   googleMaps: https://maps.app.goo.gl/Nrr2KAAyyocAvsHc6
 contact:
   address:
     zhTw: 長野縣大町市平 4819
-    ja: 長野県大町市平4819
-    en: Nagano dai, taira4819
+    ja: 〒398-0001 長野県大町市平4819
+    en: 4819 Taira, Omachi, Nagano 398-0001
     googleMaps: https://maps.app.goo.gl/Nrr2KAAyyocAvsHc6
   phone: 0261-22-0551
 season:
@@ -48,16 +52,16 @@ trailMaps:
   url: https://jiigatake.com/slope/
   sourceLabel: Jiigatake Snow Resort
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://jiigatake.com/price/
-  note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
+  note: 2026-2027 年度票價；兒童票適用 3 歲至國中生，學生須出示學生證，熟齡票適用 60 歲以上並須出示證明。
   plans:
     - name: 1 日券
       priceLines:
-        - 成人：¥5,400
-        - 兒童：¥3,200
-        - 學生、熟齡：¥4,400
+        - 成人：¥5,500
+        - 兒童／寵物：¥3,300
+        - 學生／熟齡：¥4,500
     - name: 平日 1 日券
       priceLines:
         - 成人：¥4,900
@@ -65,9 +69,31 @@ tickets:
         - 學生、熟齡：¥3,900
     - name: 半日券
       priceLines:
-        - 成人：¥3,900
+        - 成人：¥4,000
         - 兒童：¥2,500
-        - 學生、熟齡：¥3,200
+        - 學生、熟齡：¥3,300
+      note: 上午時段 8:30～12:30，下午時段 12:00～16:00。
+    - name: 2 日券
+      priceLines:
+        - 成人：¥9,000
+        - 兒童／寵物：¥5,500
+        - 學生／熟齡：¥7,000
+    - name: 夜間券
+      priceLines:
+        - 成人：¥3,800
+        - 兒童：¥2,200
+    - name: 家庭券
+      priceLines:
+        - 成人 1 名＋兒童 1 名：¥7,000
+        - 成人 1 名＋兒童 2 名：¥8,800
+    - name: 回數券（10 次）
+      priceLines:
+        - 成人：¥4,000
+        - 兒童：¥3,000
+    - name: 單次券
+      priceLines:
+        - 成人：¥500
+        - 兒童：¥400
 snowWeather:
   title: 爺岳雪況天氣
   provider: Weathernews
@@ -77,47 +103,70 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
+  total: 6
   beginnerRatio: 100
-  intermediateRatio: 0
+  intermediateRatio: 30
   advancedRatio: 0
-  courseInfoPage: https://jiigatake.com/slope/
-  summary: 爺岳是白馬 Valley 南端的家庭與初學者取向雪場，官網主打 debut slope。
+  courseInfoPage: https://jiigatake.com/course/
+  summary: 爺岳是白馬地區最南端、以初學者與家庭為主的雪場。全體坡面較平緩且寬廣，主雪道與兒童區都適合第一次穿上雪具的遊客；雪場特別強調「初心者＆ファミリー向けコース」，並設有雪上電梯與兒童公園。最長的 1,500 公尺かもしかコース可讓初學者循序練習，山頂的雷鳥與ラビット則提供中級者挑戰。
   details:
   - name: エコーゲレンデ
     difficulty: beginner
+    length: 800m
+    averageSlope: 10°
+    note: 雪場主要坡面，緩斜單板且視野開闊，初學者可安心練習。
     videoLinks:
     - https://www.youtube.com/watch?v=Y52z_hxbCHI&t=196s
     - https://www.youtube.com/watch?v=Y52z_hxbCHI&t=298s
   - name: かもしかコース
-    difficulty: mixed
-    length: 1,500m
+    difficulty: beginner
+    length: 1500m
+    averageSlope: 13°
     videoLinks:
     - https://www.youtube.com/watch?v=Y52z_hxbCHI&t=87s
   - name: 林間コース
-    difficulty: mixed
+    difficulty: beginner
+    note: 從ラビットコース中途分出的林間路線，沿樹林彎曲下滑，近年拓寬後更容易滑行。
   - name: 雷鳥コース
-    difficulty: mixed
+    difficulty: intermediate
+    note: 上段略有坡度，中段由緩坡與中斜面交錯組成，也作為技術檢定雪道使用。
   - name: ラビットコース
-    difficulty: mixed
+    difficulty: intermediate
+    note: 從第 3 纜車終點出發，沿第 2 纜車下滑；坡度變化不大，繁忙時段相對寬裕。
+  - name: ポルルコース
+    difficulty: intermediate
+    note: 適合第一次嘗試林間滑行的樹林雪道。
 access:
   fromTokyo:
   - label: 東京出發
     steps:
-    - 東京站或上野站搭乘新幹線至鄰近車站。
-    - 依雪場位置轉乘接駁巴士、路線巴士、計程車或步行前往。
+    - 東京站搭乘中央線與長野道方向列車前往信濃大町站。
+    - 從 JR 信濃大町站轉乘雪場接駁巴士至爺岳雪場。
+    estimatedTime: 約 3 小時
     difficulty: medium
-    note: 詳細班次與接駁期間請以官方 access 頁與當季時刻表為準。依雪場與轉乘方式而定。
+    note: 官方列有 JR 信濃大町站接駁巴士；班次與運行期間依當季公告為準。
+    links:
+    - label: Jiigatake Snow Resort Access
+      url: https://jiigatake.com/access/
+  fromNagoya:
+  - label: 名古屋出發
+    steps:
+    - 名古屋站搭乘特急信濃與在來線前往信濃大町站。
+    - 從 JR 信濃大町站轉乘雪場接駁巴士至爺岳雪場。
+    estimatedTime: 約 2 小時 15 分
+    difficulty: medium
+    note: 轉乘時間依特急與在來線班次而異，請依官方時刻表安排行程。
     links:
     - label: Jiigatake Snow Resort Access
       url: https://jiigatake.com/access/
   car:
     recommended: false
     snowTireRequired: true
-    note: 雪季自駕需準備雪胎或雪鏈；初次前往建議優先確認接駁與大眾運輸。
+    note: 從松本方向經北阿爾卑斯全景道路約 50 分鐘，東京方向經中央道與長野道約 3 小時；停車場約 800 個車位且全日免費，雪季請準備雪胎或雪鏈。
 terrainSummary:
-  beginner: 官方資料顯示有初級者可使用的雪道或家庭設施。
-  intermediate: 可依官方雪場圖安排中級巡航路線。
-  advanced: 較高難度路線需依官方雪場圖與當日開放狀態確認。
+  beginner: 約 70% 為初級坡面，エコーゲレンデ、かもしかコース與林間コース坡度平緩、寬度充足；雪上電梯附近另有適合首次穿雪具兒童的練習區。
+  intermediate: 約 30% 為中級路線，雷鳥コース與ラビットコース位於雪場上部，提供較有變化的坡度與林間滑行體驗。
+  advanced: 官方資料未設置上級雪道，最高難度為中級；實際開放範圍仍依當日雪況公告為準。
   snowboard: 雙板與雪板使用規則請以官方公告為準。
 externalContent:
   blogs:

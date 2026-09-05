@@ -2,7 +2,7 @@
 id: tsugaike-kogen
 name:
   zhTw: 栂池高原
-  ja: つがいけマウンテンリゾート
+  ja: 栂池高原スキー場
   en: Tsugaike Mountain Resort
 region: kanto-koshinetsu
 prefecture: 長野縣
@@ -34,12 +34,12 @@ links:
   trailMapPage: https://www.tsugaike.gr.jp/snow/gelande
   ticket: https://www.tsugaike.gr.jp/snow/price
   googleMaps: https://maps.app.goo.gl/ZEQiyW8smTGF5Zw47
-  access: https://www.tsugaike.gr.jp/snow/access
+  access: https://www.tsugaike.gr.jp/green/access
 contact:
   address:
-    zhTw: 長野縣北安曇郡小谷村千國乙
-    ja: 〒399-9422 長野県北安曇郡小谷村大字千国乙
-    en: Ooaza senkuniotsu, kitaazumi District kotani, Nagano 399-9422
+    zhTw: 長野縣北安曇郡小谷村栂池高原
+    ja: 〒399-9422 長野県北安曇郡小谷村栂池高原
+    en: Tsugaike Kogen, Otari Village, Kitaazumi District, Nagano 399-9422
     googleMaps: https://maps.app.goo.gl/ZEQiyW8smTGF5Zw47
   phone: 050-1809-2606
 season:
@@ -52,32 +52,38 @@ season:
 trailMaps:
 - label: 栂池高原雪場圖
   language: 日本語
-  url: https://www.tsugaike.gr.jp/snow/gelande
+  url: https://www.tsugaike.gr.jp/winter/wp-content/uploads/2025/03/2024-25season_ol.pdf
   sourceLabel: Tsugaike Mountain Resort Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.tsugaike.gr.jp/snow/price
   plans:
-    - name: 1 日券
+    - name: 1 日券（窗口）
       priceLines:
-        - 成人：¥8,200
-        - 兒童：¥4,900
-        - 長者：¥6,700
-    - name: 上午券
+        - 成人：¥9,800
+        - 兒童：¥7,000
+        - 長者：¥8,000
+    - name: 2 日券（連續使用）
       priceLines:
-        - 成人：¥6,500
-        - 兒童：¥4,200
-        - 長者：¥5,000
-    - name: 2 日券
+        - 成人：¥17,400
+        - 兒童：¥12,200
+        - 長者：¥14,300
+    - name: 上午 / 下午券
       priceLines:
-        - 成人：¥14,600
-        - 兒童：¥9,000
-        - 長者：¥11,500
+        - 成人：¥7,800
+        - 兒童：¥6,400
+        - 長者：¥5,500
     - name: 區域限定初學者券
       priceLines:
-        - 成人：¥4,900
-        - 兒童：¥3,400
+        - 成人：¥5,900
+        - 兒童：¥4,100
+      note: 僅限親之原、からまつ與鐘の鳴る丘區域使用。
+    - name: 初滑 / 春滑 1 日券
+      priceLines:
+        - 成人：¥8,000
+        - 兒童：¥5,600
+      note: 初滑為開季至 12/11，春滑為 2027/3/23 至 5/5。
 snowWeather:
   title: 栂池高原雪況天氣
   provider: Weathernews
@@ -157,14 +163,29 @@ access:
   - label: 東京出發經長野
     steps:
     - 從東京搭北陸新幹線到長野站。
-    - 從長野站東口搭長野－白馬線特急巴士，於栂池高原下車。
+    - 從長野站搭長野－栂池高原特急巴士，於栂池高原下車。
+    - 也可從白馬站、白馬八方或南小谷站轉乘路線巴士至栂池高原。
     estimatedTime: 長野後約 1.5-2 小時
     difficulty: medium
-    note: 長野－白馬線會依季節與班次調整停靠站，滑雪季建議先確認當季時刻表與回程末班車。
+    note: 官方交通頁列有長野、新宿、大阪與白馬地區巴士，以及白馬岩岳、八方尾根、栂池高原間免費三山接駁；班次依季節公告為準。
+    links:
+    - label: Tsugaike Mountain Resort Access
+      url: https://www.tsugaike.gr.jp/green/access
+  fromNagoya:
+  - label: 名古屋出發
+    steps:
+    - 搭乘特急信濃至松本站，再轉乘 JR 大糸線至南小谷站。
+    - 從南小谷站轉乘栂池高原方向路線巴士。
+    estimatedTime: 約 3.5-4 小時
+    difficulty: medium
+    note: 南小谷站至栂池高原的巴士班次依季節調整，請先確認官方時刻表。
+    links:
+    - label: Tsugaike Mountain Resort Access
+      url: https://www.tsugaike.gr.jp/green/access
   car:
     recommended: false
     snowTireRequired: true
-    note: 自駕可由長野 IC、安曇野 IC 或糸魚川 IC 轉一般道路前往；栂池高原周邊有多處停車場，部分停車場、特定日或預約車位可能收費。白馬山區冬季需準備雪胎或雪鏈。
+    note: 官方列出的自駕路線可由長野 IC、安曇野 IC 或糸魚川 IC 前往。中央停車場約 300 台、¥500／日，第 2 停車場約 200 台免費，另有栂池住宿旅客專用停車場；冬季請準備雪胎或雪鏈。
 externalContent:
   blogs:
   - title: 白馬滑雪︱栂池高原滑雪場住宿推薦2026，地點超好的6間栂池飯店&背包客住宿

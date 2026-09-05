@@ -35,7 +35,7 @@ contact:
   address:
     zhTw: 長野縣北安曇郡小谷村千國乙 12860-1
     ja: 〒399-9422 長野県北安曇郡小谷村千国乙12860-1
-    en: 12860-1 Chikuni Otsu, Otari, Kitaazumi District, Nagano 399-9422
+    en: 12860-1 Chikuni Otsu, Otari Village, Kitaazumi District, Nagano 399-9422
     googleMaps: https://maps.app.goo.gl/vSZrhvijEkySNig27
   phone: 0261-82-2236
 season:
@@ -48,7 +48,7 @@ trailMaps:
 - label: 白馬Cortina雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://www.hgp.co.jp/cortina/ski/gelande/
+  url: https://www.hgp.co.jp/cortina/ski/gelande/images/gelande.pdf
   sourceLabel: Hakuba Cortina Snow Resort
 tickets:
   season: 2025-2026
@@ -72,7 +72,7 @@ courses:
   intermediateRatio: 33
   advancedRatio: 17
   courseInfoPage: https://www.hgp.co.jp/cortina/ski/gelande/
-  summary: 白馬Cortina 與白馬乘鞍溫泉採共通 lift ticket，是白馬北部粉雪與住宿型行程代表雪場。
+  summary: 白馬Cortina 以 100% 天然雪打造柔軟細緻的粉雪，從初級雪道到標高 1,400 公尺的進階路線都有完整配置。親子可利用兒童雪上樂園與白天、夜間雪遊樂園；滑雪後還能到白馬Cortina 美人之湯享受 11 種溫泉巡湯。
   details:
   - name: 池の田ゲレンデ
     difficulty: beginner

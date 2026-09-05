@@ -30,12 +30,12 @@ tags:
 rjOpinion: 岩岳雖然很多人推，但我個人不算太喜歡，可能去的時機不好，人爆多，要去的建議要早點去排隊買（換）票。雪場景色還是很棒，幾條綠線都滿適合練功的，著名的鬆餅和網美餐廳還沒去過，其實人爆多據說就是有很多非滑雪的人來才被擠爆...。
 links:
   official: https://iwatake-mountain-resort.com/winter
-  trailMapPage: https://iwatake-mountain-resort.com/winter/course_lift
-  ticket: https://iwatake-mountain-resort.com/winter/rates/
+  trailMapPage: https://iwatake-mountain-resort.com/course/view-d
+  ticket: https://iwatake-mountain-resort.com/winter/rates
   access: https://iwatake-mountain-resort.com/access
-  weather: https://iwatake-mountain-resort.com/winter/course_lift
-  snowReport: https://iwatake-mountain-resort.com/winter/course_lift
-  liftStatus: https://iwatake-mountain-resort.com/winter/course_lift
+  weather: https://iwatake-mountain-resort.com/course/view-d
+  snowReport: https://iwatake-mountain-resort.com/course/view-d
+  liftStatus: https://iwatake-mountain-resort.com/course/view-d
   googleMaps: https://maps.app.goo.gl/fM7LETmWj14n9Mz59
 contact:
   address:
@@ -49,12 +49,12 @@ season:
   operatingPeriod: 2025/12/19-2026/3/29
   hours: 依官方 course/lift 狀態頁每日公告；2025-2026 雪季已於 2026/3/29 結束
   note: 官方票價頁標示 2025-2026 winter season 營業期間為 2025/12/19-2026/3/29；官方公告確認 2026/3/29 為本季最後一天。
-  source: https://iwatake-mountain-resort.com/winter/rates/
+  source: https://iwatake-mountain-resort.com/winter/rates
 trailMaps:
 - label: 白馬岩岳雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://iwatake-mountain-resort.com/winter/course_lift
+  url: https://iwatake-mountain-resort.com/wp-content/uploads/2026/02/2025_JAP_A4_ol_t_s.pdf
   sourceLabel: Hakuba Iwatake Snow Field
 tickets:
   season: 2025-2026
@@ -106,8 +106,8 @@ courses:
   intermediateRatio: 20
   advancedRatio: 40
   total: 8
-  courseInfoPage: https://iwatake-mountain-resort.com/winter/course_lift
-  summary: 白馬岩岳官方 course/lift 頁列出 Mountain Side 與 Village Side 主要 8 條滑行雪道，另有 3,000m cross-country course；最長滑走距離為 Sunny Valley 的 3,300m。
+  courseInfoPage: https://iwatake-mountain-resort.com/course/view-d
+  summary: 白馬岩岳是白馬村少見的獨立峰型雪場，標高 1,289 公尺的山頂可欣賞 360 度北阿爾卑斯全景。東西南北各有不同自然地形與雪道，從初級緩坡、3,300 公尺 Sunny Valley 到降雪後的 Iwatake Back Bowl 都能自由安排；不滑雪也能到 IWATAKE WHITE PARK、HAKUBA MOUNTAIN HARBOR 與雪鞋路線享受冬季山景。
   details:
   - name: Iwatake Back Bowl
     difficulty: mixed
@@ -127,7 +127,7 @@ courses:
     maxSlope: 23°
     averageSlope: 10°
     note: 官方等級 2-3，可作為 Mountain Side 中級巡航與轉換區。
-  - name: Hikage / 沢
+  - name: Hikage / 沢コース
     difficulty: mixed
     length: 980m
     maxSlope: 30°
@@ -146,11 +146,11 @@ courses:
     averageSlope: 11°
     note: Village Side 最長路線，官方等級 5；雖平均斜度不高，但整體等級標示偏高，需確認雪況與開放狀態。
   - name: 山麓エリア（かもしか・こめつが）
-    difficulty: mixed
+    difficulty: advanced
     length: 1100m
     maxSlope: 33°
     averageSlope: 14°
-    note: 官方等級 2-4，最大斜度達 33°，也常作為 pole barn 使用基礎區域。
+    note: 官方等級 2～4，最大斜度達 33°；包含かもしか與こめつが路線，部分區域坡度變化明顯。
   - name: ホワイトリボンコース
     difficulty: advanced
     length: 1100m
@@ -164,29 +164,40 @@ access:
   - label: 東京出發
     steps:
     - 東京站搭乘北陸新幹線至長野站。
-    - 於長野站轉乘長野-白馬線特急巴士至白馬站或白馬八方巴士總站。
-    - 轉乘岩岳接駁、村內巴士或計程車至白馬岩岳 Mountain Resort。
+    - 於長野站轉乘長野－白馬線特急巴士至白馬站或白馬八方巴士總站。
+    - 從白馬站或八方巴士站搭乘期間限定免費接駁至岩岳纜車山麓站。
     estimatedTime: 約 3 小時
     difficulty: medium
-    note: 官方 access 頁標示東京經長野站轉特急巴士約 3 小時；白馬站、白馬八方巴士總站等處有期間限定免費接駁，需看當季公告。依巴士與接駁班次而定。
+    note: 官方列出的東京路線為北陸新幹線、長野－白馬線特急巴士與岩岳接駁；接駁運行期間與班次依當季公告為準。
     links:
     - label: Hakuba Iwatake Snow Field Access
       url: https://iwatake-mountain-resort.com/access
   fromNagoya:
   - label: 名古屋出發
     steps:
-    - 名古屋站搭乘特急信濃往白馬方向。
-    - 抵達白馬站後轉乘免費接駁、村內巴士或計程車至岩岳。
-    estimatedTime: 約 3.5 小時以上
+    - 名古屋站搭乘特急信濃至松本站，再轉乘特急或 JR 大糸線至白馬站。
+    - 從白馬站搭乘期間限定免費接駁至岩岳纜車山麓站。
+    estimatedTime: 約 3 小時 30 分
     difficulty: medium
     note: 依鐵路與接駁銜接而定。
+    links:
+    - label: Hakuba Iwatake Mountain Resort Access
+      url: https://iwatake-mountain-resort.com/access
+  fromOsaka:
+  - label: 大阪出發
+    steps:
+    - 大阪站搭乘東海道新幹線至名古屋站。
+    - 轉乘特急信濃至松本站，再轉乘列車至白馬站，最後搭乘岩岳接駁。
+    estimatedTime: 約 4 小時 30 分
+    difficulty: hard
+    note: 大阪至白馬的高速巴士於部分冬季運行；鐵路與接駁班次請依官方交通頁及當季時刻表確認。
     links:
     - label: Hakuba Iwatake Mountain Resort Access
       url: https://iwatake-mountain-resort.com/access
   car:
     recommended: false
     snowTireRequired: true
-    note: 官方標示 Gondola 山麓站前有大型停車場與多處免費停車場；雪季自駕仍需雪胎或雪鏈，並確認道路與停車狀態。
+    note: 東京經長野 IC 或安曇野 IC 約 4 小時，大阪約 5 小時 30 分，名古屋約 3 小時 30 分，金澤經糸魚川 IC 約 2 小時 30 分。纜車山麓站前有可容納約 750 台的第 2 停車場，另有多處免費停車場；雪季請使用雪胎或雪鏈。
 terrainSummary:
   beginner: East、North 與部分 Mountain Side 緩斜面適合初級者練習；但岩岳地形分散，移動前要先確認回到山麓的路線是否開放。
   intermediate: South/Five Side、Iwatake Back Bowl 等可安排山頂巡航與自然地形體驗，適合已能控制速度的滑雪者。
@@ -213,4 +224,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/hakuba-iwatake/
 ---
 
-白馬岩岳位於長野縣白馬山麓，山頂視野、寬面主雪道與 side country 氣氛是它最有辨識度的地方。北側與山頂周邊路線讓一天行程不只剩下反覆巡航，也能穿插地形感與換線樂趣。
+白馬岩岳是白馬村少見的獨立峰型雪場，從標高 1,289 公尺山頂可眺望 360 度北阿爾卑斯全景。東西南北延伸的自然地形，讓滑行不只是一再巡航：初級緩坡、3,300 公尺 Sunny Valley、Iwatake Back Bowl 粉雪區與全長 5 公里的越野滑雪路線，都能依體力與興趣安排。即使不滑雪，也可在 IWATAKE WHITE PARK、雪鞋路線與 HAKUBA MOUNTAIN HARBOR 感受白馬冬景。

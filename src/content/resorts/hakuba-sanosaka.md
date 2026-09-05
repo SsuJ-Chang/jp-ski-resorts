@@ -13,6 +13,7 @@ location:
 elevation:
   top: 1200
   bottom: 740
+  verticalDrop: 460
 tags:
 - beginner_friendly
 - family_friendly
@@ -53,18 +54,34 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://sanosaka.jp/lift/
+  note: 2025-2026 冬季票價；成人為國中生以上，未就學兒童免費但仍需辦理纜車券。小學生 1 日券分為 A、B 兩種，B 券包含 Snow Friends Park 入場。
   plans:
     - name: 1 日券
       priceLines:
         - 成人：¥5,400
-        - 小學生：¥1,000
+        - 小學生 A：¥1,000
+        - 小學生 B：¥1,900（含 Snow Friends Park 入場）
     - name: 5 小時券
       priceLines:
         - 成人：¥4,900
     - name: 3 小時券
       priceLines:
         - 成人：¥4,200
-  note: 成人為國中生以上；兒童（學齡前）免費，但仍需纜車券。小學生 1 日券有 A/B 兩種，B 含 Snow Friends Park 入場。
+    - name: 第 2 纜車往返券
+      priceLines:
+        - 成人：¥1,200
+      note: 僅限搭乘第 2 四人纜車。
+    - name: 回數券（2～10 次）
+      priceLines:
+        - 成人：¥1,200～¥6,000
+    - name: Snow Friends Park 入場＋第 2 纜車往返
+      priceLines:
+        - 成人：¥2,500
+        - 小學生：¥1,700
+    - name: Snow Friends Park 入場券
+      priceLines:
+        - 成人：¥1,500
+        - 小學生：¥1,500
 snowWeather:
   title: 白馬佐野坂雪況天氣
   provider: Weathernews
@@ -79,7 +96,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://sanosaka.jp/course/
-  summary: 白馬佐野坂官方 course guide 強調寬幅雪道、青木湖景觀、天然雪與 New Paradise 上級斜面；營業狀態表列出 10 條雪道。
+  summary: 白馬佐野坂是白馬地區少數能一邊滑行一邊俯瞰青木湖的雪場，100% 天然雪帶來柔軟雪質。雪場各條路線寬廣，從適合初學者的緩斜面、可反覆練習的中斜面，到最大 32 度的 New Paradise 上級斜面都有；地形相對不易受強風吹襲，並設有 Snow Friends Park、移動步道與親子雪上活動。
   details:
   - name: レイクダウン・レイクビュー / Lake Down & Lake View
     difficulty: mixed
@@ -120,13 +137,13 @@ access:
   - label: 東京出發經長野與白馬
     steps:
     - 從東京搭北陸新幹線到長野站。
-    - 從長野站轉乘白馬方向巴士，抵達白馬村內後銜接雪場接駁、Hakuba Valley 接駁或計程車。
+    - 從長野站轉乘白馬方向巴士，抵達白馬村內後銜接雪場接駁或計程車。
     difficulty: hard
-    note: 公共交通最後一段需配合白馬村內住宿區接駁、Hakuba Valley 白馬至大町間接駁或計程車，建議先確認當季時刻與回程。
+    note: 雪場與鹿島槍共同營運白馬村內住宿區接駁；另有 Hakuba Valley 白馬至大町間接駁，班次依雪季公告為準。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從長野自動車道安曇野 IC 約 60 分、上信越自動車道長野 IC 約 60 分、北陸自動車道糸魚川 IC 約 70 分。降雪或路面結冰時必須使用雪胎，2WD 車輛需準備雪鏈。
+    note: 從長野道安曇野 IC 約 60 分鐘、上信越道長野 IC 約 60 分鐘、北陸道糸魚川 IC 約 70 分鐘。第 1、2 停車場位於國道 148 號旁，合計約 250 台；降雪或結冰時必須使用雪胎，2WD 車輛需準備雪鏈。
 terrainSummary:
   beginner: Paradise Downhill 等緩斜面適合初學者穩定練習，Shirayuki Daira 也有 Snow Friends Park。
   intermediate: Paradise、Lake Down、Lake View 與 Carving Slope 提供中級練習與青木湖景觀。
@@ -142,4 +159,4 @@ externalContent:
 
 ---
 
-長野縣的白馬佐野坂共有 10 條雪道，搭配 4 座纜車，包含 レイクダウン・レイクビュー / Lake Down & Lake View、パラダイス・パラダイスダウンヒル / Paradise & Paradise Downhill、カービングゲレンデ / Carving Slope 等路線。初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+白馬佐野坂以青木湖景觀與 100% 天然雪聞名，10 條雪道搭配 4 座纜車，從寬廣緩坡、長距離中級路線到 New Paradise 急斜面都有。Snow Friends Park 設有移動步道與雪上遊樂區，初學者、親子與想挑戰粉雪的滑雪者都能找到適合自己的玩法；雪場地形也較不容易受到強風影響。

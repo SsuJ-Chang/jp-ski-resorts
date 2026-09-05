@@ -27,14 +27,14 @@ tags:
 - snowboard_friendly
 - tree_run
 links:
-  official: https://www.hakuba47.co.jp/winter/en/
+  official: https://www.hakuba47.co.jp/winter/
   facebook: https://www.facebook.com/HKB47official
   instagram: https://www.instagram.com/hakuba47wintersportspark/
   xTwitter: https://twitter.com/Hakuba_47
-  trailMapPage: https://www.hakuba47.co.jp/winter/en/mountain/mountain_info/
-  ticket: https://www.hakuba47.co.jp/winter/en/tickets/lift_tickets_info/1000/
-  access: https://www.hakuba47.co.jp/winter/en/access/
-  weather: https://www.hakuba47.co.jp/winter/en/mountain/mountain_info/
+  trailMapPage: https://www.hakuba47.co.jp/winter/area/info/
+  ticket: https://www.hakuba47.co.jp/winter/ticket/lift_ticket/
+  access: https://www.hakuba47.co.jp/winter/access/
+  weather: https://www.hakuba47.co.jp/winter/area/info/
   snowReport: https://www.hakuba47.co.jp/winter/en/condition/
   liftStatus: https://www.hakuba47.co.jp/winter/en/condition/
   googleMaps: https://maps.app.goo.gl/6WiDDLDg9SV3t4Rn7
@@ -50,52 +50,52 @@ season:
   operatingPeriod: 降雪與準備完成後至 2026/5/6，實際依積雪與當日營運公告調整
   hours: Line-8 Gondola 全面開放期約 8:00-16:00；各 lift 依官方營運狀態調整
   note: Hakuba47 與 Able Hakuba Goryu 共通券營業期間標示至 2026/5/6（至雪場營業結束）；春季 2026/4/6 後部分設施與服務依官方春營業公告調整。
-  source: https://www.hakuba47.co.jp/winter/en/tickets/lift_tickets_info/1000/
+  source: https://www.hakuba47.co.jp/winter/ticket/lift_ticket/
 trailMaps:
 - label: Hakuba 47雪場圖
   language: 日本語
-  season: 2025-2026
-  url: https://www.hakuba47.co.jp/winter/en/mountain/mountain_info/
+  season: 2022-2023
+  url: https://www.hakuba47.co.jp/media/001/202212/gelandemap2022-23.pdf
   sourceLabel: Hakuba 47 Winter Sports Park
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
-  source: https://www.hakuba47.co.jp/winter/en/tickets/lift_tickets_info/1000/
-  note: 主要票種依官網公開資訊整理；完整規則、線上票價與期間限制請以官方頁面為準。
+  source: https://www.hakuba47.co.jp/winter/ticket/lift_ticket/
+  note: 2026-2027 年度 Hakuba47 與白馬五龍共通纜車票價；IC 卡保證金 ¥500 已含於票價，歸還卡片時退還。
   plans:
     - name: Hakuba47 / Goryu 共通 1 日券（窗口）
       priceLines:
-        - 成人：¥9,500
+        - 成人：¥10,000
         - 兒童：¥4,500
         - 青年：¥6,500
         - 熟齡：¥9,000
       note: 5 歲以下與 80 歲以上免費；價格含 ¥500 IC 卡押金，退卡可返還。
     - name: Hakuba47 / Goryu 共通 2 日券（窗口）
       priceLines:
-        - 成人：¥17,500
+        - 成人：¥18,500
         - 兒童：¥8,000
         - 青年：¥11,500
-        - 熟齡：¥16,500
+        - 熟齡：¥17,500
       note: 可於當季內非連續 2 日使用。
     - name: Hakuba47 / Goryu 共通 3 日券（窗口）
       priceLines:
-        - 成人：¥25,000
+        - 成人：¥26,000
         - 兒童：¥11,500
         - 青年：¥16,500
-        - 熟齡：¥24,000
+        - 熟齡：¥25,000
       note: 可於當季內非連續 3 日使用。
     - name: 線上加值 1 日券
       priceLines:
-        - 成人：¥7,700
+        - 成人：¥8,200
         - 兒童：¥3,600
-        - 熟齡：¥7,200
+        - 熟齡：¥7,700
       note: 已持有可加值 IC 卡者適用；青年票需窗口購買並確認身分證件。
     - name: 初滑 / 春滑 1 日券（窗口）
       priceLines:
-        - 成人：¥8,500
+        - 成人：¥9,000
         - 兒童：¥4,000
         - 青年：¥6,500
-      note: 初滑為季初至 2025/12/15；春滑為 2026/3/9 至雪季結束。
+      note: 初滑／春滑優惠適用至 12/15，以及 3/15 起至雪季結束。
 snowWeather:
   title: Hakuba 47雪況天氣
   provider: Weathernews
@@ -109,7 +109,7 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
-  courseInfoPage: https://www.hakuba47.co.jp/winter/en/mountain/mountain_info/
+  courseInfoPage: https://www.hakuba47.co.jp/winter/area/info/
   summary: Hakuba47 官方基本資料列出海拔 1,614m-820m、course total length 13,570m、最長滑走 6,400m；雪場與 Able Hakuba Goryu 相連，共通券可串滑兩區。
   details:
   - name: Route 1
@@ -192,12 +192,12 @@ access:
     - 東京站搭乘北陸新幹線至長野站。
     - 於長野站轉乘長野-白馬線巴士至白馬站或白馬村主要站點。
     - 轉乘 Hakuba47 / Goryu 接駁、村內巴士或計程車至 Hakuba47 base。
-    estimatedTime: 約 3-4 小時
+    estimatedTime: 約 2 小時 40 分～5 小時
     difficulty: medium
-    note: 官方英文 access 頁標示東京至長野新幹線約 88 分鐘，長野站至白馬直達巴士約 1 小時；實際班次需以當季時刻表為準。依新幹線、巴士與接駁銜接而定。
+    note: 長野站至白馬站高速巴士約 1 小時；雪季另有長野站直達 Hakuba47 巴士，運行日期與班次依官方公告為準。
     links:
     - label: Hakuba 47 Winter Sports Park Access
-      url: https://www.hakuba47.co.jp/winter/en/access/
+      url: https://www.hakuba47.co.jp/winter/access/
   fromNagoya:
   - label: 名古屋出發
     steps:
@@ -209,11 +209,11 @@ access:
     note: 依鐵路與接駁銜接而定。
     links:
     - label: Hakuba 47 Winter Sports Park Access
-      url: https://www.hakuba47.co.jp/winter/en/access/
+      url: https://www.hakuba47.co.jp/winter/access/
   car:
     recommended: false
     snowTireRequired: true
-    note: 官方標示停車場免費且超過 2,000 個車位；雪季從長野、安曇野或糸魚川 IC 前往白馬仍需雪胎或雪鏈。
+    note: 從長野道安曇野 IC、上信越道長野 IC 或北陸道糸魚川 IC 前往約 1 小時；官方停車場免費，可容納 2,000 台車。雪季請使用雪胎或雪鏈。
 terrainSummary:
   beginner: 初級比例約 30%，Route 5、6、7、8 可安排從中腹到 base 的長距離練習；Route 7 雖緩但部分較窄，初學者要注意速度控制。
   intermediate: 中級比例約 40%，Route 1 是主力 carving 與巡航路線，Route 4 可結合 47PARKS 做 park 練習。
