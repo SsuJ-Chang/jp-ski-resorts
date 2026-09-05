@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 福島縣二本松市奥岳温泉
     ja: 〒964-0075 福島県二本松市奥岳温泉
-    en: okudakeonsen, nihonmatsu, Fukushima 964-0075
+    en: Okudakeonsen, Nihonmatsu, Fukushima 964-0075
     googleMaps: https://maps.app.goo.gl/V14tb4TH1aSijZFM9
   phone: 0243-24-2141
 season:

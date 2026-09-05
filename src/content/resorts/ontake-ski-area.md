@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 〒397-0201 長野縣木曽郡王滝村3162 地図を見る
     ja: 〒397-0201 長野県木曽郡王滝村3162 地図を見る
-    en: 3162, kiso District outaki, Nagano 397-0201
+    en: 3162, Kiso District Outaki, Nagano 397-0201
     googleMaps: https://www.google.com/maps/search/?api=1&query=Ontake%20Ski%20Area
   phone: 0264-48-2240
 season:

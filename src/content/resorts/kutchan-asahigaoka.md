@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 北海道虻田郡俱知安町字旭37-1
     ja: 〒044-0083 北海道虻田郡倶知安町字旭37-1
-    en: 37-1 Aza asahi, abuta District kutchan, Hokkaido 044-0083
+    en: 37-1 Aza Asahi, Abuta District Kutchan, Hokkaido 044-0083
     googleMaps: https://maps.app.goo.gl/Tto7yqBZZPVhY31j8
   phone: 0136-23-2743
 season:

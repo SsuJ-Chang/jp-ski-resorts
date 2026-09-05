@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 北海道天塩郡豐富町字溫泉
     ja: 〒098-4132 北海道天塩郡豊富町字温泉
-    en: Aza onsen, teshio District houfu, Hokkaido 098-4132
+    en: Aza Onsen, Teshio District Houfu, Hokkaido 098-4132
     googleMaps: https://maps.app.goo.gl/op386Jx8CiQ5Vvtg7
   phone: 0162-82-2842
 season:

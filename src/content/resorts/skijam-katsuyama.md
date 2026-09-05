@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 福井縣勝山市 170-70
     ja: 福井県勝山市170-70
-    en: Fukui katsuyama, 170-70
+    en: Fukui Katsuyama, 170-70
     googleMaps: https://maps.app.goo.gl/H5PHcp44m4TujPxY7
   phone: 0779-87-6109
 season:

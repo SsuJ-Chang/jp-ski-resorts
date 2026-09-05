@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 新潟縣南魚沼市吉里 1562
     ja: 〒949-6402 新潟県南魚沼市吉里1562
-    en: 1562 yoshisato, minamiuonuma, Niigata 949-6402
+    en: 1562 Yoshisato, Minamiuonuma, Niigata 949-6402
     googleMaps: https://www.google.com/maps/search/?api=1&query=Chateau%20Shiozawa%20Ski%20Area
   phone: 025-782-1191
 season:

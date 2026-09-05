@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 新潟縣妙高市兩善寺 1966
     ja: 〒944-0062 新潟県妙高市両善寺1966
-    en: 1966 ryouzentera, myoukou, Niigata 944-0062
+    en: 1966 Ryouzentera, Myoukou, Niigata 944-0062
     googleMaps: https://maps.app.goo.gl/iNta2t4Sk8QRWhFJ8
   phone: 255-75-1100
 season:

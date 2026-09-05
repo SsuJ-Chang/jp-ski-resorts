@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 岐阜縣郡上市明寶奧住 3447-1
     ja: 〒501-4304 岐阜県郡上市明宝奥住3447-1
-    en: 3447-1 meihouokuzumi, District ue, Gifu 501-4304
+    en: 3447-1 Meihouokuzumi, District Ue, Gifu 501-4304
     googleMaps: https://maps.app.goo.gl/NT783dCsBPnwVZEd6
   phone: 0575-87-2811
 season:

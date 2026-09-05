@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 北海道北見市端野町二区８２９番地
     ja: 〒099-2102 北海道北見市端野町二区８２９番地
-    en: 829banchi niku, kitami, tanno, Hokkaido 099-2102
+    en: 829banchi Niku, Kitami, Tanno, Hokkaido 099-2102
     googleMaps: https://maps.app.goo.gl/18KAGkLc6DWbQ6DD9
   phone: 0157-56-3333
 season:

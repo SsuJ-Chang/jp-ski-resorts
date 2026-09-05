@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 福島縣耶麻郡豬苗代町大字川桁リステルパーク
     ja: 〒969-2696 福島県耶麻郡猪苗代町大字川桁リステルパーク
-    en: Ooaza kawagetarisuterupaaku, yama District inawashiro, Fukushima 969-2696
+    en: Ooaza Kawagetarisuterupaaku, Yama District Inawashiro, Fukushima 969-2696
     googleMaps: https://maps.app.goo.gl/MEnq34gEr6ghMBDGA
   phone: 0242-66-4111
 season:

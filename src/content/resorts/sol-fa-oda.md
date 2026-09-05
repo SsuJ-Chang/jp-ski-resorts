@@ -24,7 +24,7 @@ contact:
   address:
     zhTw: 愛媛縣喜多郡內子町小田深山
     ja: 〒791-3524 愛媛県喜多郡内子町小田深山
-    en: odamiyama, kita District uchiko, Ehime 791-3524
+    en: Odamiyama, Kita District Uchiko, Ehime 791-3524
     googleMaps: https://maps.app.goo.gl/kTTh5qfZSVeLRpj6A
   phone: 892-52-3232
 snowWeather:

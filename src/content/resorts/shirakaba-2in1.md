@@ -24,7 +24,7 @@ contact:
   address:
     zhTw: 〒384-2309 長野縣北佐久郡立科町大字芦田八ヶ野2021-1 地図を見る
     ja: 〒384-2309 長野県北佐久郡立科町大字芦田八ヶ野2021-1 地図を見る
-    en: 2021-1 Ooaza ashidahachikeno, kitasaku District tateshina, Nagano 384-2309
+    en: 2021-1 Ooaza Ashidahachikeno, Kitasaku District Tateshina, Nagano 384-2309
     googleMaps: https://www.google.com/maps/search/?api=1&query=Shirakaba%202in1
   phone: 0267-55-6868
 season:

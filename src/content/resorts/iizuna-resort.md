@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 〒389-1226 長野縣上水内郡飯網町大字川上2755-209 地図を見る
     ja: 〒389-1226 長野県上水内郡飯網町大字川上2755-209 地図を見る
-    en: 2755-209 Ooaza kawakami, kamiminochi District meshiami, Nagano 389-1226
+    en: 2755-209 Ooaza Kawakami, Kamiminochi District Meshiami, Nagano 389-1226
     googleMaps: https://www.google.com/maps/search/?api=1&query=Iizuna%20Resort
   phone: 026-253-3911
 season:

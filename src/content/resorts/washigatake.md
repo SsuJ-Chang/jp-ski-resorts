@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 岐阜縣郡上市高鷲町大鷲 3250
     ja: 〒501-5303 岐阜県郡上市高鷲町大鷲3250
-    en: 3250 oowashi, District ue, takasu, Gifu 501-5303
+    en: 3250 Oowashi, District Ue, Takasu, Gifu 501-5303
     googleMaps: https://maps.app.goo.gl/SvUmtA9S9yPSQFYX7
   phone: 0575-72-5105
 season:

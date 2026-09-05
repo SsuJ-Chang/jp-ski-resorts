@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 北海道紋別郡瀧上町濁川中央
     ja: 〒099-5541 北海道紋別郡滝上町濁川中央
-    en: nigorikawachuuou, monbetsu District takigami, Hokkaido 099-5541
+    en: Nigorikawachuuou, Monbetsu District Takigami, Hokkaido 099-5541
     googleMaps: https://maps.app.goo.gl/UvYuJVw5ZZirSCyS8
   phone: 0158-29-2500
 season:

@@ -36,7 +36,7 @@ contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町湯澤 2117-9
     ja: 〒949-6101 新潟県南魚沼郡湯沢町湯沢2117-9
-    en: 2117-9 yuzawa, minamiuonuma District yuzawa, Niigata 949-6101
+    en: 2117-9 Yuzawa, Minamiuonuma District Yuzawa, Niigata 949-6101
     googleMaps: https://maps.app.goo.gl/vcTbWNcQbkQhFtuB7
   phone: 025-780-6888
 season:

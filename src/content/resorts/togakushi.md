@@ -25,7 +25,7 @@ contact:
   address:
     zhTw: 〒381-4101 長野縣長野市戸隠3682 地図を見る
     ja: 〒381-4101 長野県長野市戸隠3682 地図を見る
-    en: 3682 togakushi, nagano, Nagano 381-4101
+    en: 3682 Togakushi, Nagano, Nagano 381-4101
     googleMaps: https://www.google.com/maps/search/?api=1&query=Togakushi%20Ski%20Area
   phone: 026-254-2106
 season:

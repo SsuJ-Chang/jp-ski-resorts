@@ -26,7 +26,7 @@ contact:
   address:
     zhTw: 〒384-0703 長野縣南佐久郡佐久穂町千代里2093 地図を見る
     ja: 〒384-0703 長野県南佐久郡佐久穂町千代里2093 地図を見る
-    en: 2093 chiyosato, minamisaku District sakuho, Nagano 384-0703
+    en: 2093 Chiyosato, Minamisaku District Sakuho, Nagano 384-0703
     googleMaps: https://www.google.com/maps/search/?api=1&query=Yachiho%20Kogen%20Ski%20Area
   phone: 0267-88-3866
 season:

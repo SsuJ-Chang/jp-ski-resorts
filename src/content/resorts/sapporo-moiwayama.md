@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 北海道札幌市南区藻岩下1991
     ja: 〒005-0040 北海道札幌市南区藻岩下1991
-    en: 1991 minamikumoiwashita, sapporo, Hokkaido 005-0040
+    en: 1991 Minamikumoiwashita, Sapporo, Hokkaido 005-0040
     googleMaps: https://maps.app.goo.gl/o3fyWYndvXCDySij8
   phone: 050-3662-8715
 season:

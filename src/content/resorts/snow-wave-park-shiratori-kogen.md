@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 岐阜縣郡上市白鳥町石徹白 133
     ja: 〒501-5231 岐阜県郡上市白鳥町石徹白133
-    en: 133 itoshiro, District ue, hakuchou, Gifu 501-5231
+    en: 133 Itoshiro, District Ue, Hakuchou, Gifu 501-5231
     googleMaps: https://maps.app.goo.gl/Wfy2igQrjYREpW2Q8
   phone: 0575-86-3111
 season:

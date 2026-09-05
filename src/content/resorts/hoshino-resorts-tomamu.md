@@ -36,7 +36,7 @@ contact:
   address:
     zhTw: 北海道勇払郡占冠村字中トマム
     ja: 〒079-2204 北海道勇払郡占冠村字中トマム
-    en: Aza nakatomamu, yuufutsu District shimukappu, Hokkaido 079-2204
+    en: Aza Nakatomamu, Yuufutsu District Shimukappu, Hokkaido 079-2204
     googleMaps: https://maps.app.goo.gl/TXwYdNH7iwwSB1pq7
   phone: 0167-58-1111
 season:

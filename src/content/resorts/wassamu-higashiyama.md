@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 北海道上川郡和寒町日ノ出
     ja: 〒098-0101 北海道上川郡和寒町日ノ出
-    en: nichinoshutsu, kamikawa District wassamu, Hokkaido 098-0101
+    en: Nichinoshutsu, Kamikawa District Wassamu, Hokkaido 098-0101
     googleMaps: https://maps.app.goo.gl/ebzZKZEz2VHtz88M6
   phone: 0165-32-4385
 season:

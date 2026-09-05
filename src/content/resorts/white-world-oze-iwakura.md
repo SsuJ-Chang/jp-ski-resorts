@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 群馬縣利根郡片品村大字土出2609
     ja: 〒378-0412 群馬県利根郡片品村大字土出2609
-    en: 2609 Ooaza tsuchishutsu, tone District katashina, Gunma 378-0412
+    en: 2609 Ooaza Tsuchishutsu, Tone District Katashina, Gunma 378-0412
     googleMaps: https://maps.google.co.jp/maps?q=36.815088,139.220384
   phone: 0278-58-7777
 season:

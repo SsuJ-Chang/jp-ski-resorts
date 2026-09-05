@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 〒389-1302 長野縣上水内郡信濃町大字古海3575-8
     ja: 〒389-1302 長野県上水内郡信濃町大字古海3575-8
-    en: 3575-8 Ooaza furumi, kamiminochi District shinano, Nagano 389-1302
+    en: 3575-8 Ooaza Furumi, Kamiminochi District Shinano, Nagano 389-1302
     googleMaps: https://maps.app.goo.gl/X85n8ApRvfZz5Vo8A
   phone: 026-258-3673
 season:

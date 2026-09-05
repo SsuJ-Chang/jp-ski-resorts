@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 岐阜縣高山市丹生川町久手 447
     ja: 〒506-2252 岐阜県高山市丹生川町久手447
-    en: 447 kyuute, kouzan, nyuukawa, Gifu 506-2252
+    en: 447 Kyuute, Kouzan, Nyuukawa, Gifu 506-2252
     googleMaps: https://maps.app.goo.gl/PGjvp1Pz5HRx2QUP7
   phone: 0577-79-2244
 season:

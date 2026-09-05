@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 島根縣飯石郡飯南町佐見1151
     ja: 〒690-3204 島根県飯石郡飯南町佐見1151
-    en: 1151 saken, iishi District iinan, Shimane 690-3204
+    en: 1151 Saken, Iishi District Iinan, Shimane 690-3204
     googleMaps: https://maps.app.goo.gl/6rZovrjekpiXw3cA9
   phone: 0854-72-1021
 season:

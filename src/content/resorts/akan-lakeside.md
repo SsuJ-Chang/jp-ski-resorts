@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 北海道釧路市阿寒町シュリコマベツ4-4
     ja: 〒085-0000 北海道釧路市阿寒町シュリコマベツ4-4
-    en: 4-4 shurikomabetsu, kushiro, akan, Hokkaido 085-0000
+    en: 4-4 Shurikomabetsu, Kushiro, Akan, Hokkaido 085-0000
     googleMaps: https://maps.app.goo.gl/3VbcqA1RBNsTWCPa7
   phone: 0154-67-2881
 season:

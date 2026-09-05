@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 長野縣上田市菅平高原
     ja: 〒386-2204 長野県上田市菅平高原
-    en: sugadairakougen, ueda, Nagano 386-2204
+    en: Sugadairakougen, Ueda, Nagano 386-2204
     googleMaps: https://www.google.com/maps/search/?api=1&query=Sugadaira%20Kogen%20Snow%20Resort
   phone: 0268-74-2003
 season:

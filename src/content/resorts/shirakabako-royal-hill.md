@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 〒391-0301 長野縣茅野市北山3419番地 地図を見る
     ja: 〒391-0301 長野県茅野市北山3419番地 地図を見る
-    en: 3419banchi kitayama, chino, Nagano 391-0301
+    en: 3419banchi Kitayama, Chino, Nagano 391-0301
     googleMaps: https://www.google.com/maps/search/?api=1&query=Shirakabako%20Royal%20Hill
   phone: 0266-68-2120
 season:

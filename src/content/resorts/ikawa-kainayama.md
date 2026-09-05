@@ -19,7 +19,7 @@ contact:
   address:
     zhTw: 德島縣三好市井川町井內西 779-4805
     ja: 〒779-4805 徳島県三好市井川町井内西
-    en: Iuchinishi, Ikawa-cho, Miyoshi, Tokushima 779-4805
+    en: Iuchinishi, Ikawa-Cho, Miyoshi, Tokushima 779-4805
     googleMaps: https://maps.app.goo.gl/FR3miW8ZXaPb2VCf9
   phone: 883-78-3003
 snowWeather:

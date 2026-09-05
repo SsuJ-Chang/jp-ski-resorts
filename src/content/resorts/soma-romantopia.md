@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 青森縣弘前市大字水木在家字櫻井 44
     ja: 〒036-1505 青森県弘前市大字水木在家字桜井44
-    en: 44 Ooaza mizukizaike Aza sakurai, hirosaki, Aomori 036-1505
+    en: 44 Ooaza Mizukizaike Aza Sakurai, Hirosaki, Aomori 036-1505
     googleMaps: https://maps.app.goo.gl/FQ49q2mn5omQVCaKA
   phone: 0172-84-2020
 season:

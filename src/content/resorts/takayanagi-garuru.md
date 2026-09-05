@@ -26,7 +26,7 @@ contact:
   address:
     zhTw: 新潟縣柏崎市高柳町岡野町 1709
     ja: 〒945-1502 新潟県柏崎市高柳町岡野町1709
-    en: 1709, kashiwazaki, takayanagi, okano, Niigata 945-1502
+    en: 1709, Kashiwazaki, Takayanagi, Okano, Niigata 945-1502
     googleMaps: https://www.google.com/maps/search/?api=1&query=Takayanagi%20Garuru%20Ski%20Area
   phone: 0257-41-2158
 season:

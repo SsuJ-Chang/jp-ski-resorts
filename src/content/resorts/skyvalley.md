@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 兵庫縣美方郡香美町村岡區中大谷701
     ja: 〒667-1343 兵庫県美方郡香美町村岡区中大谷701
-    en: 701 okakuchuudaitani, mikata District kami, Hyogo 667-1343
+    en: 701 Okakuchuudaitani, Mikata District Kami, Hyogo 667-1343
     googleMaps: https://maps.app.goo.gl/ma8ehdt66ZnAVXT69
   phone: 0796-96-0375
 season:

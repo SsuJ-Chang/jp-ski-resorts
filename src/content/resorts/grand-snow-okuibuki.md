@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 滋賀縣米原市甲津原奥伊吹
     ja: 〒521-0301 滋賀県米原市甲津原奥伊吹
-    en: kabutotsuharaokuibuki, yonehara, Shiga 521-0301
+    en: Kabutotsuharaokuibuki, Yonehara, Shiga 521-0301
     googleMaps: https://maps.app.goo.gl/e5LGjDidMxB8jPRg8
   phone: 0749-55-0123
 season:

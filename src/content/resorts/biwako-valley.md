@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 滋賀縣大津市木戸1547-1
     ja: 〒520-0514 滋賀県大津市木戸1547-1
-    en: 1547-1 kido, ootsu, Shiga 520-0514
+    en: 1547-1 Kido, Ootsu, Shiga 520-0514
     googleMaps: https://maps.app.goo.gl/KHBwaoxJVTDNEe3PA
   phone: 077-592-1155
 season:

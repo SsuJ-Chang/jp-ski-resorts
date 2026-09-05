@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 〒391-0392 長野縣茅野市白樺湖 地図を見る
     ja: 〒391-0392 長野県茅野市白樺湖 地図を見る
-    en: shirakabako, chino, Nagano 391-0392
+    en: Shirakabako, Chino, Nagano 391-0392
     googleMaps: https://www.google.com/maps/search/?api=1&query=Shirakaba%20Resort%20Ikenotaira%20Snow%20Park
   phone: 0266-68-2100
 season:

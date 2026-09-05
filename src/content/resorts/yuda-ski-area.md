@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 岩手縣和賀郡西和賀町湯之澤 35
     ja: 〒029-5506 岩手県和賀郡西和賀町湯之沢35
-    en: 35 yuyukisawa, waga District nishiwaga, Iwate 029-5506
+    en: 35 Yuyukisawa, Waga District Nishiwaga, Iwate 029-5506
     googleMaps: https://maps.app.goo.gl/ZZtu6sNfJxpuCwHK6
   phone: 0197-82-2410
 season:

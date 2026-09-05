@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 鳥取縣西伯郡伯耆町大内桝水高原1069-50
     ja: 〒689-4215 鳥取県西伯郡伯耆町大内桝水高原1069-50
-    en: 1069-50 oouchimasumizukougen, saihaku District houki, Tottori 689-4215
+    en: 1069-50 Oouchimasumizukougen, Saihaku District Houki, Tottori 689-4215
     googleMaps: https://maps.app.goo.gl/QWge5wdBFmtccTRv9
   phone: 0859-52-2420
 season:

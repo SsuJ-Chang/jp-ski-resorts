@@ -26,7 +26,7 @@ contact:
   address:
     zhTw: 富山縣富山市本宮
     ja: 富山県富山市本宮
-    en: Toyama toyama, motomiya
+    en: Toyama Toyama, Motomiya
     googleMaps: https://maps.app.goo.gl/8DAcQt4BfY2hKivd8
   phone: 076-482-1311
 season:

@@ -40,7 +40,7 @@ contact:
   address:
     zhTw: 兵庫縣美方郡香美町村岡區大笹 580-1
     ja: 〒667-1344 兵庫県美方郡香美町村岡区大笹580−1
-    en: 580-1 okakuoozasa, mikata District kami, Hyogo 667-1344
+    en: 580-1 Okakuoozasa, Mikata District Kami, Hyogo 667-1344
     googleMaps: https://maps.app.goo.gl/62hSE7Dr577gEmpf7
   phone: 0796-96-0201
 season:

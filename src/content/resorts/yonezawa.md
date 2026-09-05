@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 山形縣米澤市万世町刈安字栃平道下24266-1
     ja: 〒992-1121 山形県米沢市万世町刈安字栃平道下24266-1
-    en: 24266-1 kariyasu Aza tochitairamichishita, yonezawa, bansei, Yamagata 992-1121
+    en: 24266-1 Kariyasu Aza Tochitairamichishita, Yonezawa, Bansei, Yamagata 992-1121
     googleMaps: https://maps.app.goo.gl/LCvrz9sio9BVrur87
   phone: 0238-28-2511
 season:

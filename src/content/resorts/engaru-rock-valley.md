@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 北海道紋別郡遠軽町野上150-1
     ja: 〒099-0344 北海道紋別郡遠軽町野上150-1
-    en: 150-1 nogami, monbetsu District enkaru, Hokkaido 099-0344
+    en: 150-1 Nogami, Monbetsu District Enkaru, Hokkaido 099-0344
     googleMaps: https://maps.app.goo.gl/27xHNwNCYvTxxWGB7
   phone: 0158-42-4536
 season:

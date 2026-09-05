@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 山形縣最上郡金山町大字有屋1400
     ja: 〒999-5401 山形県最上郡金山町大字有屋1400
-    en: 1400 Ooaza ariya, saijou District kanayama, Yamagata 999-5401
+    en: 1400 Ooaza Ariya, Saijou District Kanayama, Yamagata 999-5401
     googleMaps: https://maps.app.goo.gl/p7veyfoX8ykv8jfAA
   phone: 090-4165-6961
 season:

@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 岐阜縣高山市岩井町 914
     ja: 〒506-0815 岐阜県高山市岩井町914
-    en: 914, kouzan, iwai, Gifu 506-0815
+    en: 914, Kouzan, Iwai, Gifu 506-0815
     googleMaps: https://maps.app.goo.gl/T7W6VBAUH86Peths9
   phone: 0577-31-1020
 season:

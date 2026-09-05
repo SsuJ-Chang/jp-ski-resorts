@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 〒389-2303 長野縣下高井郡木島平村大字上木島3876-2 地図を見る
     ja: 〒389-2303 長野県下高井郡木島平村大字上木島3876-2 地図を見る
-    en: 3876-2 Ooaza uekishima, shimotakai District kijimataira, Nagano 389-2303
+    en: 3876-2 Ooaza Uekishima, Shimotakai District Kijimataira, Nagano 389-2303
     googleMaps: https://www.google.com/maps/search/?api=1&query=Snow%20Resort%20Romance%20no%20Kamisama
   phone: 0269-82-3434
 season:

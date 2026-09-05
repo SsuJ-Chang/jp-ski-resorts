@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 北海道惠庭市盤尻330-2
     ja: 〒061-1422 北海道恵庭市盤尻330-2
-    en: 330-2 banjiri, eniwa, Hokkaido 061-1422
+    en: 330-2 Banjiri, Eniwa, Hokkaido 061-1422
     googleMaps: https://maps.app.goo.gl/5RmLCLXHiMderHrWA
   phone: 0123-25-5727
 season:

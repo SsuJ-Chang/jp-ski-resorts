@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 群馬縣吾妻郡草津町字白根国有林158林班
     ja: 〒377-1711 群馬県吾妻郡草津町字白根国有林158林班
-    en: Aza shironekokuyuurin158rinpan, azuma District kusatsu, Gunma 377-1711
+    en: Aza Shironekokuyuurin158rinpan, Azuma District Kusatsu, Gunma 377-1711
     googleMaps: https://maps.google.co.jp/maps?q=36.629013,138.586008
   phone: 0279-88-8111
 season:

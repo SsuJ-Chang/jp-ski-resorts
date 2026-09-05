@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 宮城縣白石市福岡八宮字不忘山
     ja: 〒989-0733 宮城県白石市福岡八宮字不忘山
-    en: fukuokahachimiya Aza fubouyama, shiroishi, Miyagi 989-0733
+    en: Fukuokahachimiya Aza Fubouyama, Shiroishi, Miyagi 989-0733
     googleMaps: https://maps.app.goo.gl/hZVq96KcgggFWGcg9
   phone: 0224-24-8111
 season:

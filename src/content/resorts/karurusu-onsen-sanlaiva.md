@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 北海道登別市カルルス町27番地
     ja: 〒059-0553 北海道登別市カルルス町27番地
-    en: 27banchi, noboribetsu, karurusu, Hokkaido 059-0553
+    en: 27banchi, Noboribetsu, Karurusu, Hokkaido 059-0553
     googleMaps: https://maps.app.goo.gl/f7KVQ9JhcuS5D8236
   phone: 0143-84-2872
 season:

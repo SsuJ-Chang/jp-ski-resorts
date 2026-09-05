@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 北海道空知郡上富良野町東1線北27号
     ja: 〒071-0521 北海道空知郡上富良野町東1線北27号
-    en: 27gou higashi1senkita, sorachi District kamifurano, Hokkaido 071-0521
+    en: 27gou Higashi1senkita, Sorachi District Kamifurano, Hokkaido 071-0521
     googleMaps: https://maps.app.goo.gl/fFnEKyzbSRAfZuFb6
   phone: 0167-45-3567
 season:

@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 福島縣耶麻郡豬苗代町若宮吾妻山國有林 194 林班
     ja: 福島県耶麻郡猪苗代町若宮吾妻山国有林194林班
-    en: Fukushima yama District inawashiro, wakamiyaazumayamaguniyuurin194rinpan
+    en: Fukushima Yama District Inawashiro, Wakamiyaazumayamaguniyuurin194rinpan
     googleMaps: https://maps.app.goo.gl/YHto1En9tg6QwQ7h9
 season:
   label: 2025-2026

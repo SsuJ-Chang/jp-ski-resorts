@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 北海道二海郡八雲町春日
     ja: 〒049-3127 北海道二海郡八雲町春日
-    en: kasuga, futami District yakumo, Hokkaido 049-3127
+    en: Kasuga, Futami District Yakumo, Hokkaido 049-3127
     googleMaps: https://maps.app.goo.gl/VpQWmDuP6X23RiDbA
   phone: 0137-64-3036
 season:

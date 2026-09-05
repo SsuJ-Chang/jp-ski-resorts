@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 北海道士別市朝日町中央6656番地
     ja: 〒095-0401 北海道士別市朝日町中央6656番地
-    en: 6656banchi chuuou, shibetsu, asahi, Hokkaido 095-0401
+    en: 6656banchi Chuuou, Shibetsu, Asahi, Hokkaido 095-0401
     googleMaps: https://maps.app.goo.gl/um3VsVU9qQ5ipAYu9
   phone: 0165-28-3140
 season:

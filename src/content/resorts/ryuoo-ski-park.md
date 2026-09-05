@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 〒381-0405 長野縣下高井郡山ノ内町夜間瀬11700 地図を見る
     ja: 〒381-0405 長野県下高井郡山ノ内町夜間瀬11700 地図を見る
-    en: 11700 yakanse, shimotakai District yamanonai, Nagano 381-0405
+    en: 11700 Yakanse, Shimotakai District Yamanonai, Nagano 381-0405
     googleMaps: https://www.google.com/maps/search/?api=1&query=Ryuoo%20Ski%20Park
 season:
   label: 2025-2026

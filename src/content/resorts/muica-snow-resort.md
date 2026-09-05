@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 新潟縣南魚沼市小栗山 2910-114
     ja: 〒949-6636 新潟県南魚沼市小栗山2910-114
-    en: 2910-114 oguriyama, minamiuonuma, Niigata 949-6636
+    en: 2910-114 Oguriyama, Minamiuonuma, Niigata 949-6636
     googleMaps: https://www.google.com/maps/search/?api=1&query=Muica%20Snow%20Resort
   phone: 025-773-3311
 season:

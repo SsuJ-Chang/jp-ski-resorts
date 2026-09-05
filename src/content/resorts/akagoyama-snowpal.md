@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 滋賀縣長浜市余呉町中之郷260
     ja: 〒529-0515 滋賀県長浜市余呉町中之郷260
-    en: 260 nakayukisato, nagahama, yogo, Shiga 529-0515
+    en: 260 Nakayukisato, Nagahama, Yogo, Shiga 529-0515
     googleMaps: https://maps.app.goo.gl/sFvHMxXVePnwRLwPA
   phone: 0749-86-4145
 season:

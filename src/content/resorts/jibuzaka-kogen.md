@@ -26,7 +26,7 @@ contact:
   address:
     zhTw: 〒395-0501 長野縣下伊那郡阿智村浪合1192 地図を見る
     ja: 〒395-0501 長野県下伊那郡阿智村浪合1192 地図を見る
-    en: 1192 namiai, shimoina District achi, Nagano 395-0501
+    en: 1192 Namiai, Shimoina District Achi, Nagano 395-0501
     googleMaps: https://www.google.com/maps/search/?api=1&query=Jibuzaka%20Kogen%20Ski%20Area
   phone: 0265-47-1111
 season:

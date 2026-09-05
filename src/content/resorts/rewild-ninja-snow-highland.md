@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 〒3862211 長野縣須坂市仁礼峰の原3153-50 地図を見る
     ja: 〒386-2211 長野県須坂市仁礼峰の原3153-50 地図を見る
-    en: 3153-50 nireminenohara, suzaka, Nagano 386-2211
+    en: 3153-50 Nireminenohara, Suzaka, Nagano 386-2211
     googleMaps: https://www.google.com/maps/search/?api=1&query=REWILD%20NINJA%20SNOW%20HIGHLAND
   phone: 0268-71-0464
 season:

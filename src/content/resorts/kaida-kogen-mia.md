@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 〒397-0302 長野縣木曽郡木曽町開田高原西野5346-1 地図を見る
     ja: 〒397-0302 長野県木曽郡木曽町開田高原西野5346-1 地図を見る
-    en: 5346-1 kaidakougennishino, kiso District kiso, Nagano 397-0302
+    en: 5346-1 Kaidakougennishino, Kiso District Kiso, Nagano 397-0302
     googleMaps: https://www.google.com/maps/search/?api=1&query=Shinshu%20Kaida%20Kogen%20MIA%20Ski%20Area
   phone: 0264-44-1111
 season:

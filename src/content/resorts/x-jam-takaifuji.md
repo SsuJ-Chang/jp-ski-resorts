@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 〒381-0405 長野縣下高井郡山ノ内町北志賀高原12713-94 地図を見る
     ja: 〒381-0405 長野県下高井郡山ノ内町北志賀高原12713-94 地図を見る
-    en: 12713-94 kitashigakougen, shimotakai District yamanonai, Nagano 381-0405
+    en: 12713-94 Kitashigakougen, Shimotakai District Yamanonai, Nagano 381-0405
     googleMaps: https://www.google.com/maps/search/?api=1&query=X-JAM%20Takaifuji
   phone: 0269-33-6252
 season:

@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 北海道紋別市大山町25-2、25-3、25-4、25-9
     ja: 〒094-0021 北海道紋別市大山町25-2、25-3、25-4、25-9
-    en: 25-9, monbetsu, ooyama, 25-2, 25-3, 25-4, Hokkaido 094-0021
+    en: 25-9, Monbetsu, Ooyama, 25-2, 25-3, 25-4, Hokkaido 094-0021
     googleMaps: https://maps.app.goo.gl/L4MiAomtUNZz2K6x7
   phone: 0158-24-7099
 season:

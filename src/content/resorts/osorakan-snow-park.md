@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 廣島縣山縣郡安藝太田町大字橫川 740-1
     ja: 〒731-3801 広島県山県郡安芸太田町大字横川740-1
-    en: 740-1 Ooaza yokokawa, yamagata District akioota, Hiroshima 731-3801
+    en: 740-1 Ooaza Yokokawa, Yamagata District Akioota, Hiroshima 731-3801
     googleMaps: https://maps.app.goo.gl/k2iLafQcDkWCFMMw8
   phone: 0826-28-7007
 season:

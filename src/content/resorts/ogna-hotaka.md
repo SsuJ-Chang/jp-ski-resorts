@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 群馬縣利根郡片品村大字花咲字武尊山
     ja: 〒378-0408 群馬県利根郡片品村大字花咲字武尊山
-    en: Ooaza hanasaki Aza busonyama, tone District katashina, Gunma 378-0408
+    en: Ooaza Hanasaki Aza Busonyama, Tone District Katashina, Gunma 378-0408
     googleMaps: https://maps.google.co.jp/maps?q=36.780851,139.167726
   phone: 0278-58-2133
 season:

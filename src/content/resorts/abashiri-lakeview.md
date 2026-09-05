@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 北海道網走市字呼人28-3
     ja: 〒099-2421 北海道網走市字呼人28-3
-    en: 28-3 Aza yobito, abashiri, Hokkaido 099-2421
+    en: 28-3 Aza Yobito, Abashiri, Hokkaido 099-2421
     googleMaps: https://maps.app.goo.gl/FBMq4NMnkWcfGHCNA
   phone: 0152-48-2550
 season:

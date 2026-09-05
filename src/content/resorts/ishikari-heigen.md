@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 北海道石狩郡当別町弁華別3002番地
     ja: 〒061-0208 北海道石狩郡当別町弁華別3002番地
-    en: 3002banchi benhanabetsu, ishikari District toubetsu, Hokkaido 061-0208
+    en: 3002banchi Benhanabetsu, Ishikari District Toubetsu, Hokkaido 061-0208
     googleMaps: https://maps.app.goo.gl/PAcDDRoHyBGqx55d9
   phone: 0133-23-1101
 season:

@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 新潟縣新發田市上三光大平國有林無番地
     ja: 〒957-0331 新潟県新発田市上三光大平国有林無番地
-    en: uesankouoohirakokuyuurinmubanchi, shibata, Niigata 957-0331
+    en: Uesankouoohirakokuyuurinmubanchi, Shibata, Niigata 957-0331
     googleMaps: https://www.google.com/maps/search/?api=1&query=Ninox%20Snow%20Park
   phone: 0254-29-3315
 season:

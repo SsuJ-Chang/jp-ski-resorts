@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 〒384-1103 長野縣南佐久郡小海町豊里5907 地図を見る
     ja: 〒384-1103 長野県南佐久郡小海町豊里5907 地図を見る
-    en: 5907 toyosato, minamisaku District shoukai, Nagano 384-1103
+    en: 5907 Toyosato, Minamisaku District Shoukai, Nagano 384-1103
     googleMaps: https://www.google.com/maps/search/?api=1&query=Chateraise%20Ski%20Valley%20Koumi
   phone: 0267-93-2537
 season:

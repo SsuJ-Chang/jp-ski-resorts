@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 新潟縣中魚沼郡津南町秋成 12300
     ja: 〒949-8313 新潟県中魚沼郡津南町秋成12300
-    en: 12300 akinaru, nakauonuma District tsunan, Niigata 949-8313
+    en: 12300 Akinaru, Nakauonuma District Tsunan, Niigata 949-8313
     googleMaps: https://www.google.com/maps/search/?api=1&query=New%20Greenpia%20Tsunan
   phone: 025-765-4611
 season:

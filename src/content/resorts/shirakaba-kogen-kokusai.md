@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 〒384-2309 長野縣北佐久郡立科町大字芦田八ヶ野743 地図を見る
     ja: 〒384-2309 長野県北佐久郡立科町大字芦田八ヶ野743 地図を見る
-    en: 743 Ooaza ashidahachikeno, kitasaku District tateshina, Nagano 384-2309
+    en: 743 Ooaza Ashidahachikeno, Kitasaku District Tateshina, Nagano 384-2309
     googleMaps: https://www.google.com/maps/search/?api=1&query=Shirakaba%20Kogen%20Kokusai%20Ski%20Area
   phone: 0267-55-6000
 season:

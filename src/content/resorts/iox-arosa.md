@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 富山縣南砺市才川七字ススケ原 115
     ja: 富山県南砺市才川七字ススケ原115
-    en: Toyama nanto, saikawashichi Aza susukehara115
+    en: Toyama Nanto, Saikawashichi Aza Susukehara115
     googleMaps: https://maps.app.goo.gl/SkGsfKs7cRTMvked9
   phone: 0763-55-1326
 season:

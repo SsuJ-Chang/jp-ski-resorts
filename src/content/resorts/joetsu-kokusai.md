@@ -37,7 +37,7 @@ contact:
   address:
     zhTw: 新潟縣南魚沼市樺野澤 112-1
     ja: 〒949-6431 新潟県南魚沼市樺野沢112-1
-    en: 112-1 kabanozawa, minamiuonuma, Niigata 949-6431
+    en: 112-1 Kabanozawa, Minamiuonuma, Niigata 949-6431
     googleMaps: https://maps.app.goo.gl/WTPVTyT2M712jKMQ6
   phone: 025-782-1028
 season:

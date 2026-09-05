@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 鳥取縣西伯郡大山町大山 96
     ja: 〒689-3318 鳥取県西伯郡大山町大山96
-    en: 96 ooyama, saihaku District ooyama, Tottori 689-3318
+    en: 96 Ooyama, Saihaku District Ooyama, Tottori 689-3318
     googleMaps: https://maps.app.goo.gl/fKgkBZkjgRWC5yYP8
   phone: 0859-52-2315
 season:

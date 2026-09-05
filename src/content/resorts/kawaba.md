@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 群馬縣利根郡川場村川場高原
     ja: 〒378-0101 群馬県利根郡川場村川場高原
-    en: kawabakougen, tone District kawaba, Gunma 378-0101
+    en: Kawabakougen, Tone District Kawaba, Gunma 378-0101
     googleMaps: https://maps.google.co.jp/maps?q=36.769198,139.108123
   phone: 0278-52-3346
 season:

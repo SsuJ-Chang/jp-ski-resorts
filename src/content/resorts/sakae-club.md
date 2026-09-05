@@ -25,7 +25,7 @@ contact:
   address:
     zhTw: 〒389-2702 長野縣下水内郡栄村大字北信2903 地図を見る
     ja: 〒389-2702 長野県下水内郡栄村大字北信2903 地図を見る
-    en: 2903 Ooaza hokushin, shimominochi District sakae, Nagano 389-2702
+    en: 2903 Ooaza Hokushin, Shimominochi District Sakae, Nagano 389-2702
     googleMaps: https://www.google.com/maps/search/?api=1&query=Sakae%20Club%20Ski%20Area
   phone: 0269-87-3355
 season:

@@ -25,7 +25,7 @@ contact:
   address:
     zhTw: 〒392-0003 長野縣諏訪市上諏訪13338-1 地図を見る
     ja: 〒392-0003 長野県諏訪市上諏訪13338-1 地図を見る
-    en: 13338-1 kamisuwa, suwa, Nagano 392-0003
+    en: 13338-1 Kamisuwa, Suwa, Nagano 392-0003
     googleMaps: https://www.google.com/maps/search/?api=1&query=Kirigamine%20Family%20Gelande
   phone: 0266-53-1664
 season:

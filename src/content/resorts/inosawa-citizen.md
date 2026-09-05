@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 北海道旭川市神居7條18丁目
     ja: 〒070-8017 北海道旭川市神居7条18丁目
-    en: kamii7jou18choume, asahikawa, Hokkaido 070-8017
+    en: Kamii7jou18choume, Asahikawa, Hokkaido 070-8017
     googleMaps: https://maps.app.goo.gl/4s3jc3kG7jk8kLFd9
   phone: 0166-62-4922
 season:

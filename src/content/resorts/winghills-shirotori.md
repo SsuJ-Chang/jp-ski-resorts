@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 岐阜縣郡上市白鳥町石徹白峠山 1-1
     ja: 〒501-5231 岐阜県郡上市白鳥町石徹白峠山1-1
-    en: 1-1 itoshirotougeyama, District ue, hakuchou, Gifu 501-5231
+    en: 1-1 Itoshirotougeyama, District Ue, Hakuchou, Gifu 501-5231
     googleMaps: https://maps.app.goo.gl/XXPxnS3nMWBRuTub8
   phone: 0575-86-3518
 season:

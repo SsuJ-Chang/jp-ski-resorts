@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 北海道夕張郡長沼町東6線北12番地
     ja: 〒069-1317 北海道夕張郡長沼町東6線北12番地
-    en: 12banchi higashi6senkita, yuubari District naganuma, Hokkaido 069-1317
+    en: 12banchi Higashi6senkita, Yuubari District Naganuma, Hokkaido 069-1317
     googleMaps: https://maps.app.goo.gl/WuN8kJ8XsJTYWisv6
   phone: 0123-89-2915
 season:

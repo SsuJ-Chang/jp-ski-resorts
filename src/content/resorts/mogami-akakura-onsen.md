@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 山形縣最上郡最上町大字富澤3480-1
     ja: 〒999-6105 山形県最上郡最上町大字富沢3480-1
-    en: 3480-1 Ooaza tomizawa, saijou District saijou, Yamagata 999-6105
+    en: 3480-1 Ooaza Tomizawa, Saijou District Saijou, Yamagata 999-6105
     googleMaps: https://maps.app.goo.gl/gg6smYkAQWKSqXcZ8
   phone: 0233-45-2901
 season:

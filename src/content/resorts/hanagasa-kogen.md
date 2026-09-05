@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 山形縣尾花澤市大字鶴子858
     ja: 〒999-4443 山形県尾花沢市大字鶴子858
-    en: 858 Ooaza tsuruko, obanazawa, Yamagata 999-4443
+    en: 858 Ooaza Tsuruko, Obanazawa, Yamagata 999-4443
     googleMaps: https://maps.app.goo.gl/NaTQNXS6DSB1aoxQA
   phone: 0237-28-3939
 season:

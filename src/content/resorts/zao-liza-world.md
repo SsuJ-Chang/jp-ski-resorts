@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 山形縣上山市藏王坊平高原
     ja: 〒999-3113 山形県上山市蔵王坊平高原
-    en: zaoubouhiratakahara, ueyama, Yamagata 999-3113
+    en: Zaoubouhiratakahara, Ueyama, Yamagata 999-3113
     googleMaps: https://maps.app.goo.gl/JgSSXnAAhMBQUbED9
   phone: 023-679-2311
 season:

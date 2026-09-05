@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 群馬縣吾妻郡長野原町大字北軽井沢2032-16
     ja: 〒377-1412 群馬県吾妻郡長野原町大字北軽井沢2032-16
-    en: 2032-16 Ooaza kitakaruizawa, azuma District naganohara, Gunma 377-1412
+    en: 2032-16 Ooaza Kitakaruizawa, Azuma District Naganohara, Gunma 377-1412
     googleMaps: https://maps.google.co.jp/maps?q=36.423094,138.626796
   phone: 0279-84-1227
 season:

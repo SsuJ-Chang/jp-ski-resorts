@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 福井縣今立郡池田町新保 13-4
     ja: 福井県今立郡池田町新保13-4
-    en: Fukui imadate District ikeda, shinbo13-4
+    en: Fukui Imadate District Ikeda, Shinbo13-4
     googleMaps: https://maps.app.goo.gl/zxPYLkgwx5huc1Fy6
   phone: 0778-44-7787
 season:

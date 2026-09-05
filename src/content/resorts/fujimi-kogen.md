@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 〒399-0101 長野縣諏訪郡富士見町境12067 地図を見る
     ja: 〒399-0101 長野県諏訪郡富士見町境12067 地図を見る
-    en: 12067 sakai, suwa District fujimi, Nagano 399-0101
+    en: 12067 Sakai, Suwa District Fujimi, Nagano 399-0101
     googleMaps: https://www.google.com/maps/search/?api=1&query=Fujimi%20Kogen%20Ski%20Area
   phone: 0266-66-2932
 season:

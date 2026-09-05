@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 新潟縣東蒲原郡阿賀町川口字堤之下
     ja: 〒959-4618 新潟県東蒲原郡阿賀町川口字堤ノ下
-    en: kawaguchi Aza tsutsuminoshita, higashikanbara District aga, Niigata 959-4618
+    en: Kawaguchi Aza Tsutsuminoshita, Higashikanbara District Aga, Niigata 959-4618
     googleMaps: https://www.google.com/maps/search/?api=1&query=Mikawa%20Onsen%20Ski%20Area
   phone: 0254-99-3738
 season:

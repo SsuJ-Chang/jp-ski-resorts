@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 兵庫縣豐岡市日高町神鍋高原59-78
     ja: 〒669-5372 兵庫県豐岡市日高町神鍋高原59-78
-    en: 59-78 kaminabekougen, toyooka, hidaka, Hyogo 669-5372
+    en: 59-78 Kaminabekougen, Toyooka, Hidaka, Hyogo 669-5372
     googleMaps: https://maps.app.goo.gl/G6PnAuqLCLWoYEpBA
   phone: 0796-45-1545
 season:

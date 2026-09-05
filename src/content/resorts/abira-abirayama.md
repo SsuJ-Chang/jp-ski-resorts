@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 北海道勇払郡安平町追分豊栄193番地
     ja: 〒059-1987 北海道勇払郡安平町追分豊栄193番地
-    en: 193banchi oiwaketoyosaka, yuufutsu District abira, Hokkaido 059-1987
+    en: 193banchi Oiwaketoyosaka, Yuufutsu District Abira, Hokkaido 059-1987
     googleMaps: https://maps.app.goo.gl/MQ8SsQtpqjY5dpuu5
   phone: 0145-25-2514
 season:

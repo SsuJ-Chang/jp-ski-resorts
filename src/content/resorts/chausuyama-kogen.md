@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 愛知縣北設樂郡豐根村大字坂宇場字御所平
     ja: 〒449-0405 愛知県北設楽郡豊根村大字坂宇場字御所平
-    en: Ooaza sakauba Aza goshotaira, kitashitara District toyone, Aichi 449-0405
+    en: Ooaza Sakauba Aza Goshotaira, Kitashitara District Toyone, Aichi 449-0405
     googleMaps: https://maps.app.goo.gl/no8DJkE4BYxzE4pg9
   phone: 0536-87-2345
 season:
