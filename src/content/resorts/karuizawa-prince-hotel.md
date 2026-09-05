@@ -7,11 +7,12 @@ name:
 region: kanto-koshinetsu
 prefecture: 長野縣
 location:
-  latitude: 36.340596
-  longitude: 138.643623
+  latitude: 36.34063149160287
+  longitude: 138.6436870802745
 elevation:
   top: 1155
   bottom: 940
+  verticalDrop: 215
 tags:
 - beginner_friendly
 - family_friendly
@@ -23,11 +24,13 @@ links:
   facebook: https://www.facebook.com/Karuizawaprincehotelsuki/
   weather: https://weathernews.jp/ski/spot/34813/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Karuizawa%20Prince%20Hotel%20Ski%20Resort
-  access: https://www.princehotels.co.jp/ski/karuizawa/winter/
+  trailMapPage: https://www.princehotels.co.jp/ski/karuizawa/winter/coursemap/?tab=course#menu03
+  ticket: https://www.princehotels.co.jp/ski/karuizawa/winter/lift/#lift-fee
+  access: https://www.princehotels.co.jp/ski/karuizawa/winter/access/
 contact:
   address:
-    zhTw: 〒389-0102 長野縣北佐久郡軽井沢町軽井沢 地図を見る
-    ja: 〒389-0102 長野県北佐久郡軽井沢町軽井沢 地図を見る
+    zhTw: 〒389-0102 長野縣北佐久郡輕井澤町輕井澤
+    ja: 〒389-0102 長野県北佐久郡軽井沢町軽井沢
     en: Karuizawa, Kitasaku District Karuizawa, Nagano 389-0102
     googleMaps: https://www.google.com/maps/search/?api=1&query=Karuizawa%20Prince%20Hotel%20Ski%20Resort
   phone: 0267-42-5588
@@ -36,11 +39,17 @@ season:
   operatingPeriod: 2025/11/1-2026/3/31
   hours: 平日 8:00〜17:00(11/1〜12/19は8:30〜16:30)；假日 8:00〜17:00(11/1〜12/19は8:30〜16:30)；夜間 無
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
-  source: https://weathernews.jp/ski/spot/34813/
+  source: https://www.princehotels.co.jp/ski/karuizawa/winter/lift/#lift-fee
+trailMaps:
+- label: 輕井澤王子大飯店雪場圖
+  language: 日本語
+  season: 2025-2026
+  url: https://www.princehotels.co.jp/file.jsp?id=460053
+  sourceLabel: Karuizawa Prince Hotel Ski Resort Official
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/34813/
+  source: https://www.princehotels.co.jp/ski/karuizawa/winter/lift/#lift-fee
   note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
   plans:
     - name: 1 日券
@@ -64,7 +73,7 @@ courses:
   beginnerRatio: 58
   intermediateRatio: 21
   advancedRatio: 21
-  summary: 共 14 條雪道、8 座纜車，初級 58%、中級 21%、高級 21%。
+  summary: 共 14 條雪道、8 座纜車，以初級者路線為主，並涵蓋中級與高級路線。多樣化的雪道配置可正面眺望淺間山，且從輕井澤站南口搭乘免費接駁巴士約 1 分鐘即可抵達，適合初學者、親子與想輕鬆往返的滑雪行程。
   details:
   - name: ファミリーコース / Family Course
     difficulty: beginner
