@@ -224,7 +224,6 @@ const resorts = defineCollection({
       .object({
         top: z.number().optional(),
         bottom: z.number().optional(),
-        verticalDrop: z.number().optional(),
       })
       .optional(),
     courses: z

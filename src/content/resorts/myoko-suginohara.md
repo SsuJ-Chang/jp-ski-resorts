@@ -13,7 +13,6 @@ location:
 elevation:
   top: 1855
   bottom: 731
-  verticalDrop: 1124
 tags:
 - beginner_friendly
 - family_friendly

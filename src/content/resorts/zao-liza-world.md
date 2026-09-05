@@ -12,7 +12,6 @@ location:
 elevation:
   top: 1446
   bottom: 1060
-  verticalDrop: 386
 tags:
   - family_friendly
   - no_car_accessible

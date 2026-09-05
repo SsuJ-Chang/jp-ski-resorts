@@ -19,7 +19,6 @@ mapDisplay:
 elevation:
   top: 985
   bottom: 400
-  verticalDrop: 585
 tags:
 - beginner_friendly
 - family_friendly

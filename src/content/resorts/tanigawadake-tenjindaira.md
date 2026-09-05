@@ -19,7 +19,6 @@ mapDisplay:
 elevation:
   top: 1502
   bottom: 746
-  verticalDrop: 756
 tags:
 - no_car_accessible
 - onsen

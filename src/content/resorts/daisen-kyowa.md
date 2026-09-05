@@ -12,7 +12,6 @@ location:
 elevation:
   top: 432
   bottom: 170
-  verticalDrop: 262
 tags:
   - no_car_accessible
   - onsen

@@ -12,7 +12,6 @@ location:
 elevation:
   top: 754
   bottom: 251
-  verticalDrop: 503
 tags:
   - family_friendly
   - large_ski_area

@@ -12,7 +12,6 @@ location:
 elevation:
   top: 170
   bottom: 110
-  verticalDrop: 60
 tags:
 - night_skiing
 visibility:

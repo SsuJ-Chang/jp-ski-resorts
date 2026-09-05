@@ -12,7 +12,6 @@ location:
 elevation:
   top: 1100
   bottom: 550
-  verticalDrop: 550
 tags:
   - family_friendly
   - no_car_accessible

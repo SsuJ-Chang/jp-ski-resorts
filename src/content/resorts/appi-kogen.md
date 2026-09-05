@@ -13,7 +13,6 @@ location:
 elevation:
   top: 1328
   bottom: 620
-  verticalDrop: 708
 tags:
   - large_ski_area
   - long_run

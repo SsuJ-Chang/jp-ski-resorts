@@ -12,7 +12,6 @@ location:
 elevation:
   top: 1820
   bottom: 920
-  verticalDrop: 900
 tags:
   - onsen
   - powder

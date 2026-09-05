@@ -12,7 +12,6 @@ location:
 elevation:
   top: 1661
   bottom: 780
-  verticalDrop: 881
 tags:
 - large_ski_area
 - night_skiing

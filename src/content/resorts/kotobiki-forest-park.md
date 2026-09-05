@@ -12,7 +12,6 @@ location:
 elevation:
   top: 720
   bottom: 540
-  verticalDrop: 180
 tags:
 - family_friendly
 - night_skiing

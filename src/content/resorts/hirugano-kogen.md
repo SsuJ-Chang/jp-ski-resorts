@@ -10,8 +10,6 @@ skiArea: takasu-mountains
 location:
   latitude: 36.005716444217214
   longitude: 136.90854694232897
-elevation:
-  verticalDrop: 150
 tags:
 - beginner_friendly
 - family_friendly

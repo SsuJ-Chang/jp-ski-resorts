@@ -12,7 +12,6 @@ location:
 elevation:
   top: 2830
   bottom: 2608
-  verticalDrop: 222
 tags:
 - powder
 - no_car_accessible

@@ -12,7 +12,6 @@ location:
 elevation:
   top: 56
   bottom: 0
-  verticalDrop: 56
 tags:
   - beginner_friendly
   - no_car_accessible

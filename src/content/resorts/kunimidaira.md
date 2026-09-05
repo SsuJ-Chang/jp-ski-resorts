@@ -12,7 +12,6 @@ location:
 elevation:
   top: 600
   bottom: 400
-  verticalDrop: 200
 tags:
   - snowboard_friendly
 visibility:

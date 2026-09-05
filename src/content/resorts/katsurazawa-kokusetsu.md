@@ -12,7 +12,6 @@ location:
 elevation:
   top: 320
   bottom: 106
-  verticalDrop: 214
 tags:
   - family_friendly
   - onsen

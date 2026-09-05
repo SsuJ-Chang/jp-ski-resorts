@@ -12,7 +12,6 @@ location:
 elevation:
   top: 457
   bottom: 265
-  verticalDrop: 192
 tags:
   - beginner_friendly
   - snowboard_friendly

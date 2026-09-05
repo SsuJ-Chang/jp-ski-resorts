@@ -12,7 +12,6 @@ location:
 elevation:
   top: 467
   bottom: 223
-  verticalDrop: 244
 tags:
   - onsen
   - snowboard_friendly

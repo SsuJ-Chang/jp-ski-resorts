@@ -12,7 +12,6 @@ location:
 elevation:
   top: 750
   bottom: 350
-  verticalDrop: 400
 tags:
 - powder
 - beginner_friendly

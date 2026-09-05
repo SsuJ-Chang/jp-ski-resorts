@@ -2288,6 +2288,18 @@ h1 {
   transform: translateX(-50%);
 }
 
+.elevation-mountain__drop {
+  position: absolute;
+  right: 16%;
+  bottom: 7%;
+  margin: 0;
+  color: #526660;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-align: right;
+  z-index: 2;
+}
+
 .course-difficulty-chart {
   position: relative;
   display: grid;

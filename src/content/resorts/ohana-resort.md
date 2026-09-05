@@ -12,7 +12,6 @@ location:
 elevation:
   top: 592
   bottom: 384
-  verticalDrop: 208
 tags:
 - family_friendly
 - snowboard_friendly

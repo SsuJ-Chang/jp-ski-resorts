@@ -12,7 +12,6 @@ location:
 elevation:
   top: 409
   bottom: 144
-  verticalDrop: 265
 tags:
   - night_skiing
   - no_car_accessible

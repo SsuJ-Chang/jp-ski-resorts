@@ -13,7 +13,6 @@ location:
 elevation:
   top: 1200
   bottom: 940
-  verticalDrop: 260
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 3

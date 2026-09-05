@@ -12,7 +12,6 @@ location:
 elevation:
   top: 921
   bottom: 396
-  verticalDrop: 525
 tags:
   - beginner_friendly
   - large_ski_area

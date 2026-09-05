@@ -12,7 +12,6 @@ location:
 elevation:
   top: 800
   bottom: 345
-  verticalDrop: 455
 tags:
   - night_skiing
   - snowboard_friendly

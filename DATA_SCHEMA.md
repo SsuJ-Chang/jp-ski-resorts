@@ -277,7 +277,6 @@ tree_run
 |---|---:|---|---|
 | `top` | 否 | number | 最高海拔，單位通常為公尺。 |
 | `bottom` | 否 | number | 最低海拔，單位通常為公尺。 |
-| `verticalDrop` | 否 | number | 標高差，單位通常為公尺。 |
 
 ## `courses`
 

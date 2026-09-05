@@ -12,7 +12,6 @@ location:
 elevation:
   top: 532
   bottom: 211
-  verticalDrop: 321
 tags:
 - powder
 - night_skiing

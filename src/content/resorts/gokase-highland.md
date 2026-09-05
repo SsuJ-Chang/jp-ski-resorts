@@ -9,7 +9,6 @@ prefecture: 宮崎縣
 elevation:
   top: 1610
   bottom: 1270
-  verticalDrop: 340
 tags:
 - beginner_friendly
 - family_friendly

@@ -12,7 +12,6 @@ location:
 elevation:
   top: 1400
   bottom: 1100
-  verticalDrop: 300
 tags:
   - beginner_friendly
   - no_car_accessible

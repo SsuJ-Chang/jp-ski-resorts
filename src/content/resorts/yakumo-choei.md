@@ -12,7 +12,6 @@ location:
 elevation:
   top: 200
   bottom: 120
-  verticalDrop: 80
 tags:
   - no_car_accessible
   - snowboard_friendly

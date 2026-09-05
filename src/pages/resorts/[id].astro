@@ -161,6 +161,9 @@ const courseDifficultyLabel = courseDifficultyRatios
 
 const formatNumber = (value: number) => new Intl.NumberFormat('zh-Hant-TW').format(value)
 const elevation = resort.data.elevation
+const verticalDrop = elevation?.top !== undefined && elevation?.bottom !== undefined
+  ? elevation.top - elevation.bottom
+  : undefined
 const hasElevationOverview = elevation?.top !== undefined || elevation?.bottom !== undefined
 const elevationLabel = [
   elevation?.top !== undefined ? `top ${formatNumber(elevation.top)}m` : undefined,
@@ -253,6 +256,12 @@ const resortStructuredData = [
         '@type': 'PropertyValue',
         name: '最低標高',
         value: elevation.bottom,
+        unitText: 'm',
+      },
+      verticalDrop !== undefined && {
+        '@type': 'PropertyValue',
+        name: '垂直落差',
+        value: verticalDrop,
         unitText: 'm',
       },
     ].filter(Boolean),
@@ -771,6 +780,7 @@ const resortStructuredData = [
                           </span>
                         )}
                       </div>
+                      {verticalDrop !== undefined && <figcaption class="elevation-mountain__drop">落差 {formatNumber(verticalDrop)}m</figcaption>}
                     </div>
                   </figure>
                 )}

@@ -12,7 +12,6 @@ location:
 elevation:
   top: 1550
   bottom: 1200
-  verticalDrop: 350
 tags:
 - large_ski_area
 - no_car_accessible

@@ -142,7 +142,6 @@ mapDisplay:
 elevation:
   top: 1800
   bottom: 800
-  verticalDrop: 1000
 courses:
   total: 12
   beginnerRatio: 40

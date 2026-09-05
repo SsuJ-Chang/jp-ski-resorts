@@ -12,7 +12,6 @@ location:
 elevation:
   top: 547
   bottom: 183
-  verticalDrop: 364
 tags:
   - beginner_friendly
   - onsen

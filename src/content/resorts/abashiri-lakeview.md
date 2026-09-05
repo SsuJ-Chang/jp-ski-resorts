@@ -12,7 +12,6 @@ location:
 elevation:
   top: 205
   bottom: 25
-  verticalDrop: 180
 tags:
 - beginner_friendly
 - night_skiing

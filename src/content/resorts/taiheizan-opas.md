@@ -12,7 +12,6 @@ location:
 elevation:
   top: 330
   bottom: 140
-  verticalDrop: 190
 tags:
   - beginner_friendly
   - family_friendly

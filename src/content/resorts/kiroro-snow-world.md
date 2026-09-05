@@ -12,7 +12,6 @@ location:
 elevation:
   top: 1180
   bottom: 520
-  verticalDrop: 660
 tags:
 - powder
 - large_ski_area

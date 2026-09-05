@@ -12,7 +12,6 @@ location:
 elevation:
   top: 1080
   bottom: 930
-  verticalDrop: 150
 tags:
 - snowboard_friendly
 - tree_run

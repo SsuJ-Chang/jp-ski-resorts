@@ -12,7 +12,6 @@ location:
 elevation:
   top: 1346
   bottom: 845
-  verticalDrop: 501
 tags:
   - large_ski_area
   - snowboard_friendly

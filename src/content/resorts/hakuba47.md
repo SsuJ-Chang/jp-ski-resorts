@@ -19,7 +19,6 @@ mapDisplay:
 elevation:
   top: 1614
   bottom: 820
-  verticalDrop: 794
 tags:
 - powder
 - large_ski_area

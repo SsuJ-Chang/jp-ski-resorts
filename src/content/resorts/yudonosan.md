@@ -12,7 +12,6 @@ location:
 elevation:
   top: 700
   bottom: 530
-  verticalDrop: 170
 tags:
   - family_friendly
   - powder

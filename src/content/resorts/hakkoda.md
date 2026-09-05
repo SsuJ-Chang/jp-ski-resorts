@@ -13,7 +13,6 @@ location:
 elevation:
   top: 1324
   bottom: 660
-  verticalDrop: 664
 tags:
   - powder
   - snowboard_friendly

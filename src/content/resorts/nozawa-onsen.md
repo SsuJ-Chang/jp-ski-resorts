@@ -18,7 +18,6 @@ mapDisplay:
 elevation:
   top: 1650
   bottom: 565
-  verticalDrop: 1085
 tags:
 - onsen
 - night_skiing
