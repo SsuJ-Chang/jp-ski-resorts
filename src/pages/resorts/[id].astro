@@ -399,14 +399,17 @@ const resortStructuredData = [
             input.remove()
           }
 
+          copyResortUrlButton.classList.add('copy-resort-url--copied')
+          copyResortUrlButton.setAttribute('aria-label', '已複製雪場網址')
+          copyResortUrlButton.setAttribute('title', '已複製雪場網址')
           copyResortUrlStatus?.replaceChildren('已複製雪場網址')
-          copyResortUrlStatus?.classList.add('copy-resort-url__status--visible')
           window.setTimeout(() => {
-            copyResortUrlStatus?.classList.remove('copy-resort-url__status--visible')
+            copyResortUrlButton.classList.remove('copy-resort-url--copied')
+            copyResortUrlButton.setAttribute('aria-label', '複製雪場網址')
+            copyResortUrlButton.setAttribute('title', '複製雪場網址')
           }, 2400)
         } catch {
           copyResortUrlStatus?.replaceChildren('複製失敗，請手動複製網址')
-          copyResortUrlStatus?.classList.add('copy-resort-url__status--visible')
         }
       })
     </script>

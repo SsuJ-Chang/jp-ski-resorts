@@ -1657,14 +1657,12 @@ h1 {
 }
 
 .detail-hero__title-row {
-  display: flex;
-  align-items: baseline;
-  flex-wrap: nowrap;
+  position: relative;
   min-width: 0;
 }
 
 .detail-hero__title-row h1 {
-  min-width: 0;
+  display: inline;
   margin: 0;
 }
 
@@ -1674,8 +1672,8 @@ h1 {
   gap: 8px;
   min-height: 32px;
   margin-left: 10px;
-  flex: 0 0 auto;
   white-space: nowrap;
+  vertical-align: baseline;
 }
 
 .copy-resort-url {
@@ -1692,11 +1690,36 @@ h1 {
   transition: background-color 160ms ease, border-color 160ms ease, transform 160ms ease;
 }
 
+.copy-resort-url--copied {
+  border-color: #245e58;
+  background: #245e58;
+  color: #fff;
+}
+
+.copy-resort-url--copied svg {
+  display: none;
+}
+
+.copy-resort-url--copied::before {
+  content: '\2713';
+  font-size: 1.05rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
 .copy-resort-url:hover,
 .copy-resort-url:focus-visible {
   border-color: #1d5d64;
   background: #e8f0ed;
   transform: translateY(-1px);
+}
+
+.copy-resort-url--copied:hover,
+.copy-resort-url--copied:focus-visible {
+  border-color: #245e58;
+  background: #245e58;
+  color: #fff;
+  transform: none;
 }
 
 .copy-resort-url:focus-visible {
@@ -1715,26 +1738,13 @@ h1 {
 }
 
 .copy-resort-url__status {
-  flex: 0 0 auto;
-  width: max-content;
-  max-width: min(280px, calc(100vw - 32px));
-  padding: 7px 10px;
-  border-radius: 7px;
-  background: #245e58;
-  color: #fff;
-  font-size: 0.82rem;
-  font-weight: 700;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
   white-space: nowrap;
-  z-index: 1;
-  opacity: 0;
-  pointer-events: none;
-  transform: translateX(-4px);
-  transition: opacity 180ms ease, transform 180ms ease;
-}
-
-.copy-resort-url__status--visible {
-  opacity: 1;
-  transform: translateX(0);
 }
 
 .detail-hero__names span {
