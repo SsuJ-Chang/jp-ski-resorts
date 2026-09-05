@@ -28,60 +28,59 @@ links:
   instagram: https://www.instagram.com/alpenblick.resort/
   xTwitter: https://x.com/ikenotairainfo
   trailMapPage: https://alpenblick-resort.com/ski
-  ticket: https://alpenblick-resort.com/ski
+  ticket: https://alpenblick-resort.com/ski/26-27-ticket-info#lift-ticket
   access: https://alpenblick-resort.com/access
   weather: https://weathernews.jp/ski/spot/35413/
   googleMaps: https://maps.app.goo.gl/52rrSAw33VBqC2n96
 contact:
   address:
     zhTw: 新潟縣妙高市關川 2457-1
-    ja: 新潟県妙高市関川2457-1
-    en: Niigata myoukou, sekigawa2457-1
+    ja: 〒949-2112 新潟県妙高市関川2457-1
+    en: Niigata myoukou, sekigawa2457-1 949-2112
     googleMaps: https://maps.app.goo.gl/52rrSAw33VBqC2n96
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/13-2026/4/5
+  label: 2026-2027
+  operatingPeriod: 官方尚未公告 2026-2027 營業期間
   hours: 8:30-16:00
-  note: 營業期間、時間與開放範圍會受積雪與天候影響，出發前請以官方公告為準。
-  source: https://alpenblick-resort.com/ski
+  note: 2026-2027 票券已公布，但官方尚未在票價頁公布完整營業期間；營業時間與開放範圍會受積雪與天候影響，出發前請以官方公告為準。
+  source: https://alpenblick-resort.com/ski/26-27-ticket-info#lift-ticket
 trailMaps:
 - label: 池之平雪道圖
   language: 日本語
-  season: 2025-2026
+  season: 2026-2027
   url: https://alpenblick-resort.com/wp-content/uploads/2026/02/SkiAreaMap_2025-26_JP.webp
   sourceLabel: Alpenblick Resort Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
-  source: https://alpenblick-resort.com/ski
-  note: 主要票種依官方 2025-2026 票價整理；線上購票、組合票與詳細條件請以官方頁面為準。
+  source: https://alpenblick-resort.com/ski/26-27-ticket-info#lift-ticket
+  note: 官方 2026–2027 一般纜車票價均為含稅價格，另需 IC 卡押金 ¥500（歸還卡片時退還）。成人為國中生以上，長者為 60 歲以上；未就學兒童免費。
   plans:
     - name: 1 日券
       priceLines:
-        - 成人：¥6,900
-        - 長者：¥5,900
-        - 國中生：¥5,900
-        - 小學生：¥4,300
-    - name: 4 小時券
+        - 成人：¥7,400
+        - 長者、國中生：¥6,200
+        - 小學生：¥4,400
+    - name: My Number 1 日券
       priceLines:
-        - 成人：¥5,600
-        - 長者：¥4,800
-        - 國中生：¥4,800
-        - 小學生：¥3,500
+        - 成人：¥6,900
+        - 長者、國中生：¥5,800
+        - 小學生：¥4,100
     - name: 2 日券
       priceLines:
-        - 成人：¥11,800
-        - 長者：¥10,400
-        - 國中生：¥10,400
-        - 小學生：¥7,800
-    - name: 親子票 A
+        - 成人：¥13,300
+        - 長者、國中生：¥11,300
+        - 小學生：¥7,900
+    - name: 3 日券
       priceLines:
-        - 成人 1 名、小學生 1 名：¥10,000
-      note: 官方 family A 票種
-    - name: 親子票 B
+        - 成人：¥18,800
+        - 長者、國中生：¥15,900
+        - 小學生：¥11,200
+    - name: 4 小時券
       priceLines:
-        - 成人 2 名、小學生 1 名：¥16,700
-      note: 官方 family B 票種
+        - 成人：¥5,900
+        - 長者、國中生：¥5,000
+        - 小學生：¥3,500
 snowWeather:
   title: 池之平雪況天氣
   provider: Weathernews
@@ -96,7 +95,7 @@ courses:
   intermediateRatio: 45
   advancedRatio: 20
   courseInfoPage: https://alpenblick-resort.com/ski
-  summary: 池之平官方列出 16 條雪道，以寬廣緩坡、長距離林間路線與樹林滑行區域為特色。
+  summary: Alpenblick 官方雪道頁列出 16 條雪道，以寬廣緩坡、長距離林間路線與樹林滑行區域為特色，並配置初級、中級與上級路線。
   details:
   - name: やまばと林間コース / Yamabato Forest Course
     difficulty: beginner
@@ -233,14 +232,14 @@ access:
     - 轉乘至妙高高原站後，依官方接駁、路線巴士或計程車前往池之平溫泉區。
     estimatedTime: 約 3-4 小時
     difficulty: medium
-    note: 接駁與巴士班次會依雪季調整，請以官方 access 頁與當季時刻表為準。依轉乘方式而定。
+    note: 官方交通頁提供度假村地址與地圖；電車、接駁與巴士班次會依雪季調整，請以官方 access 頁與當季時刻表為準。
     links:
     - label: Alpenblick Resort Access
       url: https://alpenblick-resort.com/access
   car:
     recommended: true
     snowTireRequired: true
-    note: 官方資訊列出可由妙高高原 IC 前往；雪季自駕需準備雪胎或雪鏈。
+    note: 官方交通頁提供度假村地址與地圖；雪季自駕需準備雪胎或雪鏈，實際路況請依當日道路公告。
 terrainSummary:
   beginner: やまばと林間、ガッシュタイナー、カヤバ與しらかばカプセルペア等路線提供初級練習與林間巡航。
   intermediate: Quad、Yahoo、Alpenblick 與樹林滑行路線構成主要中級區域。

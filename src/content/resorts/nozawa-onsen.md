@@ -7,8 +7,8 @@ name:
 region: kanto-koshinetsu
 prefecture: 長野縣
 location:
-  latitude: 36.920031
-  longitude: 138.451976
+  latitude: 36.92081463822141
+  longitude: 138.45232318041496
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 1
@@ -33,71 +33,71 @@ homeRegionExample: true
 popularResortNote:
   zhTw: "滑雪、溫泉街與長距離雪道"
 links:
-  official: https://en.nozawaski.com/
+  official: https://nozawaski.com/winter/
   facebook: https://www.facebook.com/nozawaonsen.snowresort/
   instagram: https://www.instagram.com/nozawaski/
-  trailMapPage: https://en.nozawaski.com/the-mountain/moutain-info/slopes-lifts/
+  trailMapPage: https://nozawaski.com/winter/course/map/
   trailMapPdf: https://en.nozawaski.com/pdf/gelandemap2025-26_en.pdf
-  ticket: https://en.nozawaski.com/the-mountain/lift-ticket/ticket-prices/
-  access: https://en.nozawaski.com/access/
+  ticket: https://nozawaski.com/winter/lift_price/
+  access: https://nozawaski.com/winter/access/
   weather: https://weathernews.jp/ski/spot/34801/
   snowReport: https://en.nozawaski.com/the-mountain/moutain-info/slopes-lifts/
   liftStatus: https://en.nozawaski.com/the-mountain/moutain-info/slopes-lifts/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Nozawa%20Onsen%20Snow%20Resort
+  googleMaps: https://maps.app.goo.gl/Qc1yxLCNhQBr5Ud7A
 contact:
   address:
     zhTw: 長野縣下高井郡野澤溫泉村大字豐鄉 7653
     ja: 〒389-2502 長野県下高井郡野沢温泉村大字豊郷7653
     en: 7653 Ooaza Toyosato, Nozawaonsen, Shimotakai District, Nagano 389-2502
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Nozawa%20Onsen%20Snow%20Resort
+    googleMaps: https://maps.app.goo.gl/Qc1yxLCNhQBr5Ud7A
   phone: 0269-85-3166
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/11/29-2026/5/6
+  label: 2026-2027
+  operatingPeriod: 2026/12/19-2027/3/28
   hours: 8:30-16:30；春季部分期間 8:10-16:00
   nightSkiingHours: 17:00-20:00
   note: 2025-2026 冬季營業期間依官方票價頁與雪道狀態頁整理；每日開放雪道與纜車請以官網即時狀態為準。
-  source: https://en.nozawaski.com/the-mountain/lift-ticket/ticket-prices/
+  source: https://nozawaski.com/winter/lift_price/
 trailMaps:
-- label: 野澤溫泉 2025-2026 雪場圖
-  language: English
+- label: 野澤溫泉雪場圖
+  language: 日本語
   season: 2025-2026
-  url: https://en.nozawaski.com/pdf/gelandemap2025-26_en.pdf
+  url: https://nozawaski.com/cms/wp-content/uploads/2026/01/hp-gerende_j.pdf
   sourceLabel: Nozawa Onsen Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
-  source: https://en.nozawaski.com/the-mountain/lift-ticket/ticket-prices/
-  note: 主要票種依 2025-2026 Winter Fares 整理。標示星號的票種包含 gondola 與 lift，但不含夜滑。
+  source: https://nozawaski.com/winter/lift_price/
+  note: 官方 2026–2027 一般票價適用 2026/12/19–2027/3/28；票價均為含稅。兒童為國中生以下，未就學兒童在成人陪同下每位成人可免費帶 1 名；長者為 60 歲以上且須出示證明。IC 卡票券另需 ¥500 押金。
   plans:
     - name: 1 日券
       priceLines:
-        - 成人：¥7,500
-        - 兒童：¥4,500
-        - 熟齡：¥6,000
+        - 成人：¥7,800
+        - 兒童：¥4,700
+        - 熟齡：¥6,300
       note: 僅限購買當日使用；兒童為國中以下，熟齡為 60 歲以上且購買時需出示證件。
     - name: 2 日券
       priceLines:
-        - 成人：¥13,900
-        - 兒童：¥8,300
-        - 熟齡：¥11,100
+        - 成人：¥14,500
+        - 兒童：¥8,700
+        - 熟齡：¥11,650
       note: 自購買日起連續 2 日有效；不連續使用請依住宿端規則確認。
     - name: 3 日券
       priceLines:
-        - 成人：¥20,300
-        - 兒童：¥12,100
-        - 熟齡：¥16,200
+        - 成人：¥21,200
+        - 兒童：¥12,700
+        - 熟齡：¥17,000
       note: 自購買日起連續 3 日有效。
     - name: 4 小時券
       priceLines:
-        - 成人：¥6,400
-        - 兒童：¥3,800
-        - 熟齡：¥5,100
+        - 成人：¥6,700
+        - 兒童：¥4,000
+        - 熟齡：¥5,350
       note: 通過第一個 gate 後開始計時，僅限購買當日白天營業時間使用。
     - name: 夜滑券
       priceLines:
-        - 成人：¥2,700
-        - 兒童：¥1,600
+        - 成人：¥2,850
+        - 兒童：¥1,700
       note: 購買當日 17:00-20:00 有效。
     - name: 觀光 gondola 來回券
       priceLines:
@@ -117,8 +117,8 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 30
   advancedRatio: 30
-  courseInfoPage: https://en.nozawaski.com/the-mountain/moutain-info/slopes-lifts/
-  summary: 野澤溫泉是長野縣大型雪場，官方資料標示總面積 785ha、總雪道面積 297ha、標高差 1,085m、最長滑走距離 10,000m；2026 雪場圖列出 44 筆 course entries，分布涵蓋山頂 Yamabiko、上之平與 Paradise、日影、長坂、柄澤等區域。
+  courseInfoPage: https://nozawaski.com/winter/course/map/
+  summary: 野澤溫泉官方 2026–2027 雪場資訊列出 44 條雪道，總面積 785ha、標高差 1,085m、最長滑走距離 10,000m；雪道分布涵蓋山彥、上之平與 Paradise、日影、長坂、柄澤等區域。
   details:
   - name: 7 KOKENASHI-B
     difficulty: beginner
@@ -341,14 +341,18 @@ access:
     - 抵達野澤溫泉村後，依住宿位置步行或利用村內接駁。
     estimatedTime: 約 2.5-3.5 小時
     difficulty: easy
-    note: 官方 access 頁提供 train and bus 路線資訊；詳細班次需依 2025-2026 雪季時刻表確認。
+    note: 官方交通頁提供飯山站轉乘巴士與村內接駁資訊；詳細班次需依 2026–2027 雪季時刻表確認。村內另設前往雪場的免費接駁巴士。
     links:
     - label: Nozawa Onsen Access
-      url: https://en.nozawaski.com/access/
+      url: https://nozawaski.com/winter/access/
+    - label: 野澤溫泉電車・巴士交通
+      url: https://nozawaski.com/winter/access/train-bus/
+    - label: 村內免費接駁巴士
+      url: https://nozawaski.com/winter/access/bus/
   car:
     recommended: false
     snowTireRequired: true
-    note: 雪季自駕需準備雪胎或雪鏈；村內住宿區多數動線可步行，第一次安排可優先考慮新幹線加巴士。
+    note: 豐田飯山 IC 起可依官方道路圖前往；第 1 停車場（長坂）500 台、第 2（柄澤）220 台、第 3（南原）400 台。普通車平日免費，假日與年末年始依停車場收費，雪季自駕需準備雪胎或雪鏈；禁止車中泊。
 terrainSummary:
   beginner: 上之平、Paradise、日影、長坂與柄澤等區域有寬緩坡與家庭取向設施，適合初學與家庭行程。
   intermediate: Yamabiko、Skyline、Utopia、Rinkan Short Cut 等路線提供較長距離與區域串聯，適合想從山頂一路滑回山麓的行程。

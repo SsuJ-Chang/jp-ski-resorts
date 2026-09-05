@@ -25,35 +25,35 @@ links:
   official: https://akr-ski.com/
   facebook: https://www.facebook.com/akakan.ski/
   instagram: https://www.instagram.com/akakurakanko_ski_sky/
-  trailMapPage: https://akr-ski.com/slope/
-  ticket: https://akr-ski.com/slope/
+  trailMapPage: https://akr-ski.com/slope/#courseIntroduction
+  ticket: https://akr-ski.com/slope/#liftFee
   access: https://akr-ski.com/access/
   weather: https://weathernews.jp/ski/spot/35411/
   googleMaps: https://maps.app.goo.gl/9sZU7Mx1A3DhoUrj7
 contact:
   address:
     zhTw: 新潟縣妙高市田切 216
-    ja: 新潟県妙高市田切216
-    en: Niigata myoukou, tagiri216
+    ja: 〒949-2102 新潟県妙高市田切216
+    en: Niigata myoukou, tagiri216 949-2102
     googleMaps: https://maps.app.goo.gl/9sZU7Mx1A3DhoUrj7
   phone: 0255-87-2503
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/13-2026/5/6
-  hours: 8:30-16:00
+  operatingPeriod: 2025/12/19-2026/5/6
+  hours: Sky Cable 8:30-15:45；纜車 8:30-16:00（部分纜車至 15:45）
   note: 營業期間、時間與開放範圍會受積雪與天候影響，出發前請以官方公告為準。
-  source: https://akr-ski.com/
+  source: https://akr-ski.com/slope/#liftOperationStatus
 trailMaps:
 - label: 赤倉觀光雪道圖
   language: 日本語
   season: 2025-2026
-  url: https://akr-ski.com/slope/
+  url: https://akr-ski.com/slope/#slopeMap
   sourceLabel: Akakura Kanko Resort Official
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://akr-ski.com/slope/
-  note: 主要票種依官方 2025-2026 票價表整理；早鳥、線上購票與期間限定票價請以官方頁面為準。
+  source: https://akr-ski.com/slope/#liftFee
+  note: 主要票種依官方 2025-2026 票價表整理；小學生（12 歲以下）為兒童，未就學兒童免費；長者為 60 歲以上，須出示證明。票價與開放期間請以官方頁面為準。
   plans:
     - name: 4 小時券
       priceLines:
@@ -83,63 +83,58 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
-  total: 8
-  beginnerRatio: 40
-  intermediateRatio: 30
+  total: 10
+  beginnerRatio: 10
+  intermediateRatio: 60
   advancedRatio: 30
-  courseInfoPage: https://akr-ski.com/slope/
-  summary: 赤倉觀光官方列出 8 條雪道，從飯店前初級區、中級長距離路線，到未壓雪上級路線都有。
+  courseInfoPage: https://akr-ski.com/slope/#courseIntroduction
+  summary: 赤倉觀光官方列出 10 條主要雪道，從飯店前適合初學者的緩坡，到 Hotel B、女子國體等中級路線，以及 Hotel A、Champion A 等未壓雪上級路線都有。
   details:
   - name: ホテルビギナーコース / Hotel Beginner Course
     difficulty: beginner
-    length: 700m
+    length: 750m
     maxSlope: 10°
-    videoLinks:
-    - https://www.youtube.com/watch?v=FbHgahuNBoc&t=367s
-    note: 官方說明此路線位於赤倉觀光 Hotel 前方，坡度平緩，可通往 Champion A Course 與女子國體路線。
-  - name: 女子国体コース / Women's National Sports Festival Course
-    difficulty: intermediate
-    length: 1,900m
-    maxSlope: 20°
-    videoLinks:
-    - https://www.youtube.com/watch?v=lCY_86gTt9A&t=60s
-    note: 官方說明此路線寬廣，適合大迴轉滑行，並可眺望妙高高原。
-  - name: Champion A コース / Champion A Course
-    difficulty: intermediate
-    length: 1,200m
-    maxSlope: 22°
-    videoLinks:
-    - https://www.youtube.com/watch?v=lCY_86gTt9A&t=374s
-    note: 官方說明這條路線有起伏變化，是赤倉觀光自豪的下山路線。
+    note: 飯店第 1 纜車沿線的初學者練習路線，旁邊設有停車場，適合家庭與初次滑雪。
   - name: ホテルメインスロープ / Hotel Main Slope
     difficulty: intermediate
+    length: 1,100m
+    maxSlope: 15°
+    note: 赤倉觀光飯店前自開業以來的代表性寬廣雪道。
+  - name: ホテルBコース / Hotel B Course
+    difficulty: intermediate
+    length: 1,200m
+    maxSlope: 17°
+    note: 坡度與雪面變化恰到好處，官方稱為最受歡迎的路線。
+  - name: ホテルCコース / Hotel C Course
+    difficulty: intermediate
     length: 1,000m
-    maxSlope: 18°
-    videoLinks:
-    - https://www.youtube.com/watch?v=FbHgahuNBoc&t=300s
-    note: 官方說明雪場主要斜面寬廣且平坦，可從 Hotel No.3 Quad Lift 山頂連續滑下 2,300m。
-  - name: チャンピオン B コース / Champion B Course
-    difficulty: advanced
+    maxSlope: 20°
+    note: 從雪場上部開始的整備雪道，適合順暢滑行。
+  - name: チャンピオンCコース / Champion C Course
+    difficulty: intermediate
     length: 800m
+    maxSlope: 10°
+    note: 通往 Champion B 與妙高高原 Sky Cable 的連絡路線。
+  - name: 女子国体コース / Joshi Kokutai Course
+    difficulty: intermediate
+    length: 1,700m
+    maxSlope: 22°
+    note: 坡度變化明顯的中級路線，上部常保留粉雪。
+  - name: ホテルAコース / Hotel A Course
+    difficulty: advanced
+    length: 900m
+    maxSlope: 23°
+    note: 非壓雪路線，可享受新雪或雪丘地形。
+  - name: チャンピオンAコース / Champion A Course
+    difficulty: advanced
+    length: 1,200m
     maxSlope: 32°
-    videoLinks:
-    - https://www.youtube.com/watch?v=lCY_86gTt9A&t=1184s
-    note: 官方說明此路線為未壓雪，有雪丘與可享受粉雪的地形，請留意下方與中央為中級者路線。
-  - name: チャンピオンビフカテッドコース / Champion Bifurcated Course
+    note: 非壓雪且為赤倉觀光最陡的路線，可從 Champion 第 3 纜車俯瞰。
+  - name: チャンピオンBコース / Champion B Course
     difficulty: advanced
-    length: 1,000m
-    maxSlope: 30°
-    note: 官方說明此路線具自然起伏，並以非壓雪營運。
-  - name: チャンピオンディスカバリーコース / Champion Discovery Course
-    difficulty: advanced
-    length: 1,000m
-    maxSlope: 35°
-    note: 官方說明此路線是未壓雪的上級者專用路線。
-  - name: チャンピオンポーラーベアコース / Champion Polar Bear Course
-    difficulty: advanced
-    length: 800m
-    maxSlope: 26°
-    note: 官方說明此路線為未壓雪路線；官方資料並列出全長 800m、最大坡度 26°。
+    length: 1,200m
+    maxSlope: 22°
+    note: 可舉辦正式競賽的長距離路線，起點可遠眺野尻湖與日本海。
 lifts:
   total: 6
 access:
@@ -148,16 +143,16 @@ access:
     steps:
     - 東京站搭乘北陸新幹線至長野站或上越妙高站。
     - 轉乘至妙高高原站後，再依官方巴士、接駁或計程車前往赤倉觀光。
-    estimatedTime: 約 3-4 小時
+    estimatedTime: 約 2 小時 30 分
     difficulty: medium
-    note: 官方 access 頁列出電車與高速巴士等交通方式，實際班次請以當季資訊為準。依轉乘方式而定。
+    note: 東京站經北陸新幹線、長野站轉信濃鐵道北信濃線至妙高高原站約 2 小時 30 分；雪季另有 AKAKAN 免費接駁巴士，2025/12/19–2026/3/22（預定）每日 8:00–16:40 運行。
     links:
     - label: Akakura Kanko Resort Access
       url: https://akr-ski.com/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 官方資訊列出可由妙高高原 IC 前往；雪季自駕需準備雪胎或雪鏈。
+    note: 東京經關越道、藤岡 JCT、上信越道至妙高高原 IC 約 3 小時；從 IC 至雪場約 8 分鐘，並設有雪場旁約 1,000 台免費停車位。雪季自駕需準備雪胎或雪鏈。
 terrainSummary:
   beginner: Hotel Beginner Course 是飯店前方的平緩初級路線。
   intermediate: 女子國體、Champion A 與 Hotel Main Slope 提供寬廣、中長距離與下山路線。

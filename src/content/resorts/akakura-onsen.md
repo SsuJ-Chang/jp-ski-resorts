@@ -34,9 +34,10 @@ links:
 contact:
   address:
     zhTw: 新潟縣妙高市赤倉溫泉
-    ja: 新潟県妙高市赤倉温泉
-    en: Niigata myoukou, akakuraonsen
+    ja: 〒949-2235 新潟県妙高市赤倉温泉
+    en: Niigata myoukou, akakuraonsen 949-2235
     googleMaps: https://maps.app.goo.gl/ZLBbHjcQ21WGhhJq8
+  phone: 255-87-2125
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/13-2026/4/5

@@ -24,43 +24,54 @@ tags:
 - tree_run
 links:
   official: https://www.lottehotel.com/arai-resort/ja.html
+  trailMapPage: https://www.lottehotel.com/arai-resort/ja/snow/ski-course/information
+  ticket: https://www.lottehotel.com/arai-resort/en/snow/ski-lift/economy-class
+  access: https://www.lottehotel.com/arai-resort/en/about/location
   weather: https://weathernews.jp/ski/spot/35494/
   googleMaps: https://maps.app.goo.gl/iNta2t4Sk8QRWhFJ8
 contact:
   address:
     zhTw: 新潟縣妙高市兩善寺 1966
-    ja: 新潟県妙高市両善寺1966
-    en: Niigata myoukou, ryouzentera1966
+    ja: 〒944-0062 新潟県妙高市両善寺1966
+    en: Niigata myoukou, ryouzentera1966 944-0062
     googleMaps: https://maps.app.goo.gl/iNta2t4Sk8QRWhFJ8
+  phone: 255-75-1100
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/14-2026/5/12
   hours: 8:30-16:00
   nightSkiingHours: 16:30-20:00
   note: 公開資料顯示有夜滑時段；實際營業日期、區域與夜滑開放日請以官方公告為準。
-  source: https://weathernews.jp/ski/spot/35494/
+  source: https://www.lottehotel.com/arai-resort/en/snow/ski-lift/economy-class
 trailMaps: []
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/35494/
-  note: 初版依公開資料整理主要票種；官方頁面若更新，請優先以 LOTTE ARAI RESORT 官方資訊為準。
+  source: https://www.lottehotel.com/arai-resort/en/snow/ski-lift/economy-class
+  note: 票價依 LOTTE ARAI RESORT 官方經濟艙票價頁整理；旺季頁面標示 2025/12/13–2026/3/22。19–49 歲為成人、50 歲以上為長者、7–18 歲為兒童，6 歲以下可於售票中心領取免費票；票種與營運期間可能依公告調整。
   plans:
+    - name: 山麓區域券
+      priceLines:
+        - 成人（19–49 歲）：¥4,500
+        - 長者（50 歲以上）：¥4,000
+        - 兒童（7–18 歲）：¥3,500
+      note: 僅適用山麓第 1、2 纜車。
     - name: 1 日券
       priceLines:
-        - 成人：¥7,500
-        - 長者：¥7,000
-        - 兒童：¥5,000
+        - 成人（19–49 歲）：¥7,500
+        - 長者（50 歲以上）：¥7,000
+        - 兒童（7–18 歲）：¥5,000
     - name: 下午券
       priceLines:
-        - 成人：¥6,300
-        - 長者：¥5,800
-        - 兒童：¥4,500
-    - name: First Class 1 日券
+        - 成人（19–49 歲）：¥6,300
+        - 長者（50 歲以上）：¥5,800
+        - 兒童（7–18 歲）：¥4,500
+      note: 11:00 起可使用。
+    - name: 2 日券
       priceLines:
-        - 成人：¥12,500
-        - 長者：¥12,000
-        - 兒童：¥8,000
+        - 成人（19–49 歲）：¥14,500
+        - 長者（50 歲以上）：¥13,500
+        - 兒童（7–18 歲）：¥9,500
 snowWeather:
   title: 樂天新井雪況天氣
   provider: Weathernews
@@ -74,8 +85,8 @@ courses:
   beginnerRatio: 35
   intermediateRatio: 40
   advancedRatio: 25
-  courseInfoPage: https://weathernews.jp/ski/spot/35494/
-  summary: 樂天新井一帶的滑雪區域依公開資料共有 14 條雪道，並以大型度假村、長雪季與粉雪取向行程聞名；詳細官方雪道資料待補。
+  courseInfoPage: https://www.lottehotel.com/arai-resort/ja/snow/ski-course/information
+  summary: LOTTE ARAI RESORT 官方雪道資訊列出 14 條主要雪道，從妙高 Long Run、Village Road 等初級長距離路線，到膳棚 Bowl、マムシガエシ等非壓雪與上級區域，適合粉雪與進階滑行。
   details:
   - name: 妙高ロングラン
     difficulty: beginner
@@ -223,7 +234,7 @@ access:
       note: 接駁與巴士資訊請以 LOTTE ARAI RESORT 官方公告與當季時刻表為準。依轉乘方式而定。
       links:
         - label: LOTTE ARAI RESORT Official
-          url: https://www.lottehotel.com/arai-resort/ja.html
+          url: https://www.lottehotel.com/arai-resort/en/about/location
   fromAirport:
     - label: 機場出發
       steps:
@@ -236,9 +247,9 @@ access:
     snowTireRequired: true
     note: 雪季自駕需準備雪胎或雪鏈；山區道路與度假村周邊可能積雪或結冰。
 terrainSummary:
-  beginner: 公開資料顯示初級比例約 35%，詳細雪道名稱與適用區域待官方資料補齊。
-  intermediate: 公開資料顯示中級比例約 40%，可作為主要巡航區域的初版參考。
-  advanced: 公開資料顯示上級比例約 25%，實際開放與安全規則請以官方公告為準。
+  beginner: 妙高 Long Run、Village Road、六本木 Road 等長距離緩坡，適合初學者與家庭巡航。
+  intermediate: Beefree、Encore、Bear Valley 等中級路線提供林間與粉雪地形變化。
+  advanced: 膳棚 Bowl、マムシガエシ、Legendary 等上級與非壓雪區域，須依官方開放狀況與安全規則滑行。
   snowboard: 雙板與雪板規則請以官方公告為準。
   powder: 以粉雪與大型度假村行程作為主要整理方向，詳細非壓雪、樹林與 freeride 規則待官方資料補齊。
 externalContent:
@@ -249,4 +260,4 @@ externalContent:
     note: Who’s TV / by Fumika Hoshino
 ---
 
-樂天新井是新潟縣的中型雪場，共有 14 條雪道，搭配 8 座纜車。雪道如 妙高ロングラン、タテガミ，初級、中級與上級路線都有配置，標籤偏向親子同行、夜滑。
+樂天新井是新潟縣妙高地區的大型度假雪場，官方主要雪道涵蓋初級長距離巡航、中級林間路線，以及膳棚 Bowl 等非壓雪與上級地形，搭配粉雪、夜滑與度假村住宿設施，適合不同程度的滑雪行程。

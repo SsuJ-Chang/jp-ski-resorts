@@ -2,7 +2,7 @@
 id: myoko-suginohara
 name:
   zhTw: 杉之原
-  ja: 妙高 杉ノ原スキー場
+  ja: 妙高杉ノ原スキー場
   en: Myoko Suginohara Ski Resort
 region: kanto-koshinetsu
 prefecture: 新潟縣
@@ -25,34 +25,34 @@ links:
   facebook: https://www.facebook.com/suginohara.fans/
   instagram: https://www.instagram.com/suginohara_official/
   trailMapPage: https://www.princehotels.co.jp/ski/myoko/winter/coursemap/
-  ticket: https://www.princehotels.co.jp/ski/myoko/winter/lift/
+  ticket: https://www.princehotels.co.jp/ski/myoko/winter/lift/#lift-fee
   access: https://www.princehotels.co.jp/ski/myoko/winter/access/
   weather: https://weathernews.jp/ski/spot/35423/
   googleMaps: https://maps.app.goo.gl/MbT4PPa4mzJfeBHY9
 contact:
   address:
     zhTw: 新潟縣妙高市杉野澤
-    ja: 新潟県妙高市杉野沢
-    en: Niigata myoukou, suginosawa
+    ja: 〒949-2113 新潟県妙高市杉野沢
+    en: Niigata myoukou, suginosawa 949-2113
     googleMaps: https://maps.app.goo.gl/MbT4PPa4mzJfeBHY9
   phone: 0255-86-6211
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/3/29
+  label: 2026-2027
+  operatingPeriod: 2026/12/19-2027/3/28
   hours: 8:30-16:30
   note: 營業期間、時間與開放範圍會受積雪與天候影響，出發前請以官方公告為準。
-  source: https://www.princehotels.co.jp/ski/myoko/winter/lift/
+  source: https://www.princehotels.co.jp/ski/myoko/winter/coursemap/
 trailMaps:
 - label: 杉之原雪道圖
   language: 日本語
-  season: 2025-2026
+  season: 2026-2027
   url: https://www.princehotels.co.jp/file.jsp?id=205779
   sourceLabel: Myoko Suginohara Official
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://www.princehotels.co.jp/ski/myoko/winter/lift/
-  note: 主要一般票種摘要；兒童（小學生以下）免費、長者為 55 歲以上，會員與早鳥等優惠請以官方頁面為準。
+  source: https://www.princehotels.co.jp/ski/myoko/winter/lift/#lift-fee
+  note: 官方票價頁目前列示 2025–2026 旺季價格；票價均含稅，小學生以下免費，長者為 55 歲以上且須出示證明。1 日券使用時間為 8:30–16:00，4 小時券自閘門通過起連續 4 小時有效。
   plans:
     - name: 1 日券
       priceLines:
@@ -82,7 +82,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://www.princehotels.co.jp/ski/myoko/winter/coursemap/
-  summary: 杉之原官方列出 16 條雪道，最大特色是從山頂到山麓最長約 8,500m 的長距離滑行，以及不同坡度的初級、中級、上級路線。
+  summary: 杉之原官方列出 16 條雪道，最長滑走距離約 8,500m、總滑走距離 18,660m，垂直落差 1,124m；從初級寬廣坡面到最大斜度 38 度的上級路線皆有配置。
   details:
   - name: しゃくなげコース / Shakunage Course
     difficulty: beginner
@@ -222,14 +222,14 @@ access:
     - 轉乘鐵道至妙高高原站後，再依官方接駁、路線巴士或計程車前往雪場。
     estimatedTime: 約 3-4 小時
     difficulty: medium
-    note: 接駁巴士與路線巴士會依雪季調整，出發前請確認官方 access 頁與當季時刻表。依轉乘方式而定。
+    note: 官方交通頁列出妙高高原站轉乘方式；接駁巴士與路線巴士會依雪季調整，出發前請確認官方 access 頁與當季時刻表。依轉乘方式而定。
     links:
     - label: Myoko Suginohara Access
       url: https://www.princehotels.co.jp/ski/myoko/winter/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 官方交通資訊列出可由上信越自動車道妙高高原 IC 前往；雪季自駕需準備雪胎或雪鏈。
+    note: 可由上信越自動車道妙高高原 IC 前往。杉之原第 1、2、3 停車場鄰近雪場且可步行抵達；平日免費，土休日一般車 ¥1,000，2026/3/16 起全日免費。雪季自駕需準備雪胎或雪鏈。
 terrainSummary:
   beginner: しゃくなげ、白樺、くるみヶ丘、スターライト等初級雪道可安排基礎練習與長距離連接。
   intermediate: 天狗おとし、パノラマ、ダイナミック與杉ノ原區域提供中級巡航與連絡路線。
