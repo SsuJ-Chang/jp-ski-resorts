@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 山形縣西村山郡西川町大字間澤字サッテロ782-8
     ja: 〒990-0703 山形県西村山郡西川町大字間沢字サッテロ782-8
-    en: Yamagata nishi, yama District nishikawa, Ooaza kansawa Aza sattero782-8 990-0703
+    en: 782-8 Ooaza kansawa Aza sattero, nishi, yama District nishikawa, Yamagata 990-0703
     googleMaps: https://maps.app.goo.gl/gPtSv5naurcaZyoq8
   phone: 0237-74-2778
 season:

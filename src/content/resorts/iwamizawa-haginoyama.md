@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 北海道岩見澤市上志文町452番地
     ja: 〒068-0836 北海道岩見沢市上志文町452番地
-    en: Hokkaido iwamizawa, uekokorozashibun, 452banchi 068-0836
+    en: 452banchi, iwamizawa, uekokorozashibun, Hokkaido 068-0836
     googleMaps: https://maps.app.goo.gl/qiFoGCYM7sjQfT8n7
   phone: 0126-44-2322
 season:

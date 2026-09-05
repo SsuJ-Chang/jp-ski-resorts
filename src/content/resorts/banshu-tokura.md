@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 兵庫縣宍粟市波賀町戶倉207
     ja: 〒671-4201 兵庫県宍粟市波賀町戸倉207
-    en: Hyogo shisou, haga, tokura207 671-4201
+    en: 207 tokura, shisou, haga, Hyogo 671-4201
     googleMaps: https://maps.app.goo.gl/zYxGoMXuUhSUBJ6T9
   phone: 0790-73-0324
 season:

@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 岩手縣八幡平市松尾寄木松川國有林
     ja: 〒028-7302 岩手県八幡平市松尾寄木松川国有林
-    en: Iwate hachimantai, matsuoyosegimatsukawakokuyuurin 028-7302
+    en: matsuoyosegimatsukawakokuyuurin, hachimantai, Iwate 028-7302
     googleMaps: https://maps.app.goo.gl/ynTUDkq5w8a3wzweA
   phone: 0195-78-3456
 season:

@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 北海道三笠市西桂澤50
     ja: 〒068-2102 北海道三笠市西桂沢50
-    en: Hokkaido mikasa, nishikatsurasawa50 068-2102
+    en: 50 nishikatsurasawa, mikasa, Hokkaido 068-2102
     googleMaps: https://maps.app.goo.gl/4HW3KQgHNKL7NpBF9
   phone: 01267-6-8235
 season:

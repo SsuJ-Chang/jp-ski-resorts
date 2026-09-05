@@ -24,7 +24,7 @@ contact:
   address:
     zhTw: 〒391-0301 長野縣茅野市北山4035-2541 地図を見る
     ja: 〒391-0301 長野県茅野市北山4035-2541 地図を見る
-    en: Nagano chino, kitayama4035-2541 chizuwomiru 391-0301
+    en: 4035-2541 kitayama, chino, Nagano 391-0301
     googleMaps: https://www.google.com/maps/search/?api=1&query=Pilatus%20Tateshina%20Snow%20Resort
   phone: 0266-67-2009
 season:

@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 兵庫縣宍粟市千種町西河内1047-218
     ja: 〒671-3233 兵庫県宍粟市千種町西河内1047-218
-    en: Hyogo shisou, chigusa, nishikawanai1047-218 671-3233
+    en: 1047-218 nishikawanai, shisou, chigusa, Hyogo 671-3233
     googleMaps: https://maps.app.goo.gl/b3Db84m2yDDyPYxQ8
   phone: 0790-76-3555
 season:

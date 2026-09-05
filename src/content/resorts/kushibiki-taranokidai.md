@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 山形縣鶴岡市たらのき代字西野469-1
     ja: 〒997-0303 山形県鶴岡市たらのき代字西野469-1
-    en: Yamagata tsuruoka, taranokidai Aza nishino469-1 997-0303
+    en: 469-1 taranokidai Aza nishino, tsuruoka, Yamagata 997-0303
     googleMaps: https://maps.app.goo.gl/BF2nMJmB5HhteXpE9
   phone: 0235-57-4488
 season:

@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 群馬縣沼田市玉原高原
     ja: 〒378-0071 群馬県沼田市玉原高原
-    en: Gunma numata, tanbarakougen 378-0071
+    en: tanbarakougen, numata, Gunma 378-0071
     googleMaps: https://maps.google.co.jp/maps?q=36.778553,139.072718
   phone: 0278-23-9311
 season:

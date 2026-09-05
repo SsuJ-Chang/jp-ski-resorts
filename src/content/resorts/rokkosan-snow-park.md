@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 兵庫縣神戸市灘区六甲山町北六甲4512-98
     ja: 〒657-0101 兵庫県神戸市灘区六甲山町北六甲4512-98
-    en: Hyogo koube, nadakurokkousan, kitarokkou4512-98 657-0101
+    en: 4512-98 kitarokkou, koube, nadakurokkousan, Hyogo 657-0101
     googleMaps: https://maps.app.goo.gl/nENWw8VvNLnghYeM7
   phone: 078-891-0366
 season:

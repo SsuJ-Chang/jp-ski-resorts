@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 青森縣南津輕郡大鰐町大字虹貝字清川 48-1
     ja: 〒038-0221 青森県南津軽郡大鰐町大字虹貝字清川48-1
-    en: Aomori minamitsugaru District oowani, Ooaza nijikai Aza kiyokawa48-1 038-0221
+    en: 48-1 Ooaza nijikai Aza kiyokawa, minamitsugaru District oowani, Aomori 038-0221
     googleMaps: https://maps.app.goo.gl/Z3MddtYo5ZYAfzat8
   phone: 0172-49-1023
 season:

@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 秋田縣鹿角市尾去澤字獅子澤13-5
     ja: 〒018-5202 秋田県鹿角市尾去沢字獅子沢13-5
-    en: Akita kazuno, okyosawa Aza shishisawa13-5 018-5202
+    en: 13-5 okyosawa Aza shishisawa, kazuno, Akita 018-5202
     googleMaps: https://maps.app.goo.gl/m2CA9BWVMjM2y5P36
   phone: 0186-23-2424
 season:

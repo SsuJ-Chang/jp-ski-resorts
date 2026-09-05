@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 北海道北広島市 Ｆビレッジ
     ja: 〒061-1116 北海道北広島市 Ｆビレッジ
-    en: Hokkaido kitahiroshima, Fbirejji 061-1116
+    en: Fbirejji, kitahiroshima, Hokkaido 061-1116
     googleMaps: https://maps.app.goo.gl/7Pzsq6hm8BbU6BCB6
 season:
   label: 2025-2026

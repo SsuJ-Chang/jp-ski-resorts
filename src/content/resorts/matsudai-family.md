@@ -24,7 +24,7 @@ contact:
   address:
     zhTw: 新潟縣十日町市松代 5265
     ja: 〒942-1526 新潟県十日町市松代5265
-    en: Niigata touka, matsushiro5265 942-1526
+    en: 5265 matsushiro, touka, Niigata 942-1526
     googleMaps: https://www.google.com/maps/search/?api=1&query=Tokamachi%20Matsudai%20Family%20Ski%20Area
   phone: 025-597-3330
 season:

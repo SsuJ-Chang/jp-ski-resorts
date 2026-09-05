@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 群馬縣吾妻郡嬬戀村大字田代1017
     ja: 〒377-1614 群馬県吾妻郡嬬恋村大字田代1017
-    en: Gunma azuma District tsumagoi, Ooaza tashiro1017 377-1614
+    en: 1017 Ooaza tashiro, azuma District tsumagoi, Gunma 377-1614
     googleMaps: https://maps.google.co.jp/maps?q=36.471114,138.429982
   phone: 0279-98-0611
 season:

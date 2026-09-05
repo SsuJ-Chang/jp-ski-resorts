@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 廣島縣山縣郡北広島町荒神原38-31
     ja: 〒731-2431 広島県山県郡北広島町荒神原38-31
-    en: Hiroshima yamagata District kitahiroshima, koujinhara38-31 731-2431
+    en: 38-31 koujinhara, yamagata District kitahiroshima, Hiroshima 731-2431
     googleMaps: https://maps.app.goo.gl/AeYUENwsbR2m2hdt8
   phone: 0826-35-0038
 season:

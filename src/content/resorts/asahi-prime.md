@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 〒390-1104 長野縣東筑摩郡朝日村大字古見306-1 地図を見る
     ja: 〒390-1104 長野県東筑摩郡朝日村大字古見306-1 地図を見る
-    en: Nagano higashichikuma District asahi, Ooaza furumi306-1 chizuwomiru 390-1104
+    en: 306-1 Ooaza furumi, higashichikuma District asahi, Nagano 390-1104
     googleMaps: https://www.google.com/maps/search/?api=1&query=Asahi%20Prime%20Ski%20Area
   phone: 0263-99-3700
 season:

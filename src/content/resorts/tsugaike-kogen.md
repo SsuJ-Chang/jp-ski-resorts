@@ -39,7 +39,7 @@ contact:
   address:
     zhTw: 長野縣北安曇郡小谷村千國乙
     ja: 〒399-9422 長野県北安曇郡小谷村大字千国乙
-    en: Nagano kitaazumi District kotani, Ooaza senkuniotsu 399-9422
+    en: Ooaza senkuniotsu, kitaazumi District kotani, Nagano 399-9422
     googleMaps: https://maps.app.goo.gl/ZEQiyW8smTGF5Zw47
   phone: 050-1809-2606
 season:

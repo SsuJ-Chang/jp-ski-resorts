@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 山梨縣笛吹市御坂町上黑駒 5321-1
     ja: 〒406-0813 山梨県笛吹市御坂町上黒駒5321-1
-    en: Yamanashi usui, misaka, uekurokoma5321-1 406-0813
+    en: 5321-1 uekurokoma, usui, misaka, Yamanashi 406-0813
     googleMaps: https://www.google.com/maps/search/?api=1&query=35.582459,138.753320
   phone: 055-264-2614
 season:

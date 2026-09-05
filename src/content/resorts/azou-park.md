@@ -26,7 +26,7 @@ contact:
   address:
     zhTw: 鳥取縣鳥取市河內1185-1
     ja: 〒680-1425 鳥取県鳥取市河内1185-1
-    en: Tottori tottori, kawauchi1185-1 680-1425
+    en: 1185-1 kawauchi, tottori, Tottori 680-1425
     googleMaps: https://maps.app.goo.gl/2FenWqwjVMxj34mB6
   phone: 0857-56-0024
 season:

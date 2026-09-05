@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 新潟縣妙高市關山
     ja: 〒949-2235 新潟県妙高市関山
-    en: Niigata myoukou, sekiyama 949-2235
+    en: sekiyama, myoukou, Niigata 949-2235
     googleMaps: https://www.google.com/maps/search/?api=1&query=Kyukamura%20Myoko%20RunRun%20Ski%20Area
   phone: 0255-82-3168
 season:

@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 北海道岩内郡岩内町野束350-4
     ja: 〒045-0024 北海道岩内郡岩内町野束350-4
-    en: Hokkaido iwanai District iwanai, nosoku350-4 045-0024
+    en: 350-4 nosoku, iwanai District iwanai, Hokkaido 045-0024
     googleMaps: https://maps.app.goo.gl/e6KeJAA2P6bKXBaYA
   phone: 0135-62-4622
 season:

@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 〒391-0301 長野縣茅野市北山3413車山高原 地図を見る
     ja: 〒391-0301 長野県茅野市北山3413車山高原 地図を見る
-    en: Nagano chino, kitayama3413kurumayamakougen chizuwomiru 391-0301
+    en: kitayama3413kurumayamakougen, chino, Nagano 391-0301
     googleMaps: https://www.google.com/maps/search/?api=1&query=Kurumayama%20Kogen%20SKYPARK%20Ski%20Area
   phone: 0266-68-2626
 season:

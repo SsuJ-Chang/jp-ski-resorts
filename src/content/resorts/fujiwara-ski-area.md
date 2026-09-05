@@ -35,7 +35,7 @@ contact:
   address:
     zhTw: 群馬縣利根郡みなかみ町藤原4957-1
     ja: 〒379-1721 群馬県利根郡みなかみ町藤原4957-1
-    en: Gunma tone District minakami, fujiwara4957-1 379-1721
+    en: 4957-1 fujiwara, tone District minakami, Gunma 379-1721
     googleMaps: https://maps.google.co.jp/maps?q=36.850800,139.066700
   phone: 0278-75-2321
 season:

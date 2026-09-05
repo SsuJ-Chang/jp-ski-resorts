@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 〒386-0507 長野縣上田市武石上本入2386-1 地図を見る
     ja: 〒386-0507 長野県上田市武石上本入2386-1 地図を見る
-    en: Nagano ueda, takeishiuemotonyuu2386-1 chizuwomiru 386-0507
+    en: 2386-1 takeishiuemotonyuu, ueda, Nagano 386-0507
     googleMaps: https://www.google.com/maps/search/?api=1&query=Takeshi%20Banshogahara%20Ski%20Area
   phone: 0268-86-2213
 season:

@@ -37,7 +37,7 @@ contact:
   address:
     zhTw: 群馬縣吾妻郡嬬恋村干俣バラギ高原
     ja: 〒377-1611 群馬県吾妻郡嬬恋村干俣バラギ高原
-    en: Gunma azuma District tsumagoi, kanmatabaragikougen 377-1611
+    en: kanmatabaragikougen, azuma District tsumagoi, Gunma 377-1611
     googleMaps: https://maps.app.goo.gl/6uFyVqFW3pcEZw2R8
   phone: 0279-96-1177
 season:

@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 廣島縣廿日市市吉和4301
     ja: 〒738-0301 広島県廿日市市吉和4301
-    en: Hiroshima hatsuka, yoshikazu4301 738-0301
+    en: 4301 yoshikazu, hatsuka, Hiroshima 738-0301
     googleMaps: https://maps.google.co.jp/maps?q=34.498547,132.143767
   phone: 0829-40-3000
 season:

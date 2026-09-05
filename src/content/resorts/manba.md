@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 兵庫縣豐岡市日高町萬場480
     ja: 〒669-5378 兵庫県豊岡市日高町万場480
-    en: Hyogo toyooka, hidaka, manba480 669-5378
+    en: 480 manba, toyooka, hidaka, Hyogo 669-5378
     googleMaps: https://maps.app.goo.gl/rBLnwjma4avePZyz9
   phone: 0796-45-0191
 season:

@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 福島縣耶麻郡豬苗代町大字蚕養字沼尻山甲2855-434
     ja: 〒969-2752 福島県耶麻郡猪苗代町大字蚕養字沼尻山甲2855-434
-    en: Fukushima yama District inawashiro, Ooaza kaikoyou Aza numajiriyamakabuto2855-434 969-2752
+    en: 2855-434 Ooaza kaikoyou Aza numajiriyamakabuto, yama District inawashiro, Fukushima 969-2752
     googleMaps: https://maps.app.goo.gl/m6Y5GpUhHYp1LVAf9
   phone: 0242-67-1250
 season:

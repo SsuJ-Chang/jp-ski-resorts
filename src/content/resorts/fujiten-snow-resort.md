@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 山梨縣南都留郡鳴澤村字富士山 8545-1
     ja: 〒401-0320 山梨県南都留郡鳴沢村字富士山8545-1
-    en: Yamanashi minamitsuru District narusawa, Aza fujisan8545-1 401-0320
+    en: 8545-1 Aza fujisan, minamitsuru District narusawa, Yamanashi 401-0320
     googleMaps: https://www.google.com/maps/search/?api=1&query=35.442203,138.687873
   phone: 0555-85-2000
 season:

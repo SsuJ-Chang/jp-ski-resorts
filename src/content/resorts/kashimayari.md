@@ -36,7 +36,7 @@ contact:
   address:
     zhTw: 長野縣大町市平 20490-4
     ja: 〒398-0001 長野県大町市平20490-4
-    en: Nagano dai, taira20490-4 398-0001
+    en: 20490-4 taira, dai, Nagano 398-0001
     googleMaps: https://maps.app.goo.gl/fE1nV7jQuTVhJgpb9
   phone: 0261-23-1231
 season:

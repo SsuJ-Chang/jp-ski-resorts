@@ -38,7 +38,7 @@ contact:
   address:
     zhTw: 兵庫縣養父市丹戶字西橫角 909-1
     ja: 〒667-1124 兵庫県養父市丹戸字西横角909−1
-    en: Hyogo youfu, tando Aza nishiyokokaku909-1 667-1124
+    en: 909-1 tando Aza nishiyokokaku, youfu, Hyogo 667-1124
     googleMaps: https://maps.app.goo.gl/pT2A6u4MW7okefse7
   phone: 079-667-8036
 season:

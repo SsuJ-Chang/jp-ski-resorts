@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 福島縣南會津郡只見町大字只見字田ノ口24番地
     ja: 〒968-0421 福島県南会津郡只見町大字只見字田ノ口24番地
-    en: Fukushima minamiaizu District tadami, Ooaza tadami Aza tanokuchi24banchi 968-0421
+    en: 24banchi Ooaza tadami Aza tanokuchi, minamiaizu District tadami, Fukushima 968-0421
     googleMaps: https://maps.app.goo.gl/QaMNn6Vyyo9S6oe17
   phone: 0241-82-2304
 season:

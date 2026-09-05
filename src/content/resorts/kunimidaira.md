@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 岩手縣奧州市衣川長塚 303
     ja: 〒023-0000 岩手県奥州市衣川長塚303番地
-    en: Iwate oushuu, kinukawanagatsuka303banchi 023-0000
+    en: 303banchi kinukawanagatsuka, oushuu, Iwate 023-0000
     googleMaps: https://maps.app.goo.gl/UaVnjsjeHjdfMYAq9
   phone: 0197-52-6611
 season:

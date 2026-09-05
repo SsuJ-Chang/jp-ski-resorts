@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 秋田縣北秋田市今泉字鳥越13-1
     ja: 〒018-3343 秋田県北秋田市今泉字鳥越13-1
-    en: Akita kitaakita, imaizumi Aza torigoe13-1 018-3343
+    en: 13-1 imaizumi Aza torigoe, kitaakita, Akita 018-3343
     googleMaps: https://maps.app.goo.gl/jWX89syhUzko3LQb9
   phone: 0186-67-2112
 season:

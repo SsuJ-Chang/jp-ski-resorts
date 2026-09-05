@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 群馬縣利根郡片品村越本2990
     ja: 〒378-0413 群馬県利根郡片品村越本2990
-    en: Gunma tone District katashina, koshimoto2990 378-0413
+    en: 2990 koshimoto, tone District katashina, Gunma 378-0413
     googleMaps: https://maps.google.co.jp/maps?q=36.811279,139.229700
   phone: 0278-58-2161
 season:

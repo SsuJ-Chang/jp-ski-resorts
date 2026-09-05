@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 山形縣東根市大字観音寺字水無山3170-164
     ja: 〒999-3723 山形県東根市大字観音寺字水無山3170-164
-    en: Yamagata higashine, Ooaza kan'onji Aza mizunashiyama3170-164 999-3723
+    en: 3170-164 Ooaza kan'onji Aza mizunashiyama, higashine, Yamagata 999-3723
     googleMaps: https://maps.app.goo.gl/pVUWyTSwfTzoeLeZ9
   phone: 0237-41-5555
 season:

@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 青森縣陸奧市大字大湊字大川守 44-5
     ja: 〒035-0096 青森県むつ市大字大湊字大川守44-5
-    en: Aomori mutsu, Ooaza oominato Aza ookawashu44-5 035-0096
+    en: 44-5 Ooaza oominato Aza ookawashu, mutsu, Aomori 035-0096
     googleMaps: https://maps.app.goo.gl/XgRxsspakMLRc3rU7
   phone: 0175-24-1881
 season:

@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 秋田縣鹿角市八幡平字熊澤外 8 國有林
     ja: 〒018-5141 秋田県鹿角市八幡平字熊沢外8国有林
-    en: Akita kazuno, hachimantai Aza kumazawasoto8kokuyuurin 018-5141
+    en: hachimantai Aza kumazawasoto8kokuyuurin, kazuno, Akita 018-5141
     googleMaps: https://maps.app.goo.gl/cWVp9oDHuau9PNVy5
   phone: 0186-31-2020
 season:

@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 北海道上川郡上川町層雲峡
     ja: 〒078-1701 北海道上川郡上川町層雲峡
-    en: Hokkaido kamikawa District kamikawa, souunkyou 078-1701
+    en: souunkyou, kamikawa District kamikawa, Hokkaido 078-1701
     googleMaps: https://maps.app.goo.gl/bHupZforoywA1JG88
   phone: 01658-5-3031
 season:

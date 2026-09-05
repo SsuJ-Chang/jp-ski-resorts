@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 新潟縣糸魚川市西飛山 1821
     ja: 〒949-1322 新潟県糸魚川市西飛山1821
-    en: Niigata itoigawa, nishihiyama1821 949-1322
+    en: 1821 nishihiyama, itoigawa, Niigata 949-1322
     googleMaps: https://www.google.com/maps/search/?api=1&query=Charmant%20Hiuchi
   phone: 025-568-2244
 season:

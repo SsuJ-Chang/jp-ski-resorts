@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 新潟縣十日町市松之山天水島 909
     ja: 〒942-1434 新潟県十日町市松之山天水島909
-    en: Niigata touka, matsunoyamatensuishima909 942-1434
+    en: 909 matsunoyamatensuishima, touka, Niigata 942-1434
     googleMaps: https://www.google.com/maps/search/?api=1&query=Matsunoyama%20Onsen%20Ski%20Area
   phone: 025-596-3133
 season:

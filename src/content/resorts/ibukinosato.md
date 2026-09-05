@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 岡山縣新見市千屋花見1336-1
     ja: 〒718-0104 岡山県新見市千屋花見1336-1
-    en: Okayama niimi, senyahanami1336-1 718-0104
+    en: 1336-1 senyahanami, niimi, Okayama 718-0104
     googleMaps: https://maps.app.goo.gl/dtJ3qZqim1K3mT4J8
   phone: 0867-77-2266
 season:

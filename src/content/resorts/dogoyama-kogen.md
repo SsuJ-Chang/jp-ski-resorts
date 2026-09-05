@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 廣島縣庄原市西城町三坂金屋子
     ja: 〒729-5611 広島県庄原市西城町三坂金屋子
-    en: Hiroshima shoubara, saijou, misakakanayago 729-5611
+    en: misakakanayago, shoubara, saijou, Hiroshima 729-5611
     googleMaps: https://maps.app.goo.gl/PaX4YsEYgSzbHrH7A
   phone: 0824-84-2105
 season:

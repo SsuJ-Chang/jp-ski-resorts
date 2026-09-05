@@ -26,7 +26,7 @@ contact:
   address:
     zhTw: 新潟縣糸魚川市大字山口 151-1
     ja: 〒949-0554 新潟県糸魚川市大字山口151-1
-    en: Niigata itoigawa, Ooaza yamaguchi151-1 949-0554
+    en: 151-1 Ooaza yamaguchi, itoigawa, Niigata 949-0554
     googleMaps: https://www.google.com/maps/search/?api=1&query=Itoigawa%20Seaside%20Valley
   phone: 025-558-2244
 season:

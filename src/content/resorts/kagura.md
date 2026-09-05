@@ -38,7 +38,7 @@ contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町三俣 742
     ja: 〒949-6211 新潟県南魚沼郡湯沢町大字三俣742
-    en: Niigata minamiuonuma District yuzawa, Ooaza mitsumata742 949-6211
+    en: 742 Ooaza mitsumata, minamiuonuma District yuzawa, Niigata 949-6211
     googleMaps: https://maps.app.goo.gl/FCzDtaTcFAKNPet79
   phone: 025-788-9221
 season:

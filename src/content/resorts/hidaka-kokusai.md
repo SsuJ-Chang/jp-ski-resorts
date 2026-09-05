@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 北海道沙流郡日高町字富岡444-1
     ja: 〒055-2315 北海道沙流郡日高町字富岡444-1
-    en: Hokkaido saru District hidaka, Aza tomioka444-1 055-2315
+    en: 444-1 Aza tomioka, saru District hidaka, Hokkaido 055-2315
     googleMaps: https://maps.app.goo.gl/EV5deHhjDHj8yvcf6
   phone: 01457-6-3667
 season:

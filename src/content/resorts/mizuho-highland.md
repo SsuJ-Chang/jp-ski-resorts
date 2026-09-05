@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 島根縣邑智郡邑南町市木6242-19
     ja: 〒697-0631 島根県邑智郡邑南町市木6242-19
-    en: Shimane ouchi District oonan, ki6242-19 697-0631
+    en: 6242-19 ki, ouchi District oonan, Shimane 697-0631
     googleMaps: https://maps.app.goo.gl/ddTgc2FLF6vonrP98
   phone: 0855-85-1111
 season:

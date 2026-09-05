@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 秋田縣鹿角市花輪字百合澤81-1
     ja: 〒018-5201 秋田県鹿角市花輪字百合沢81-1
-    en: Akita kazuno, hanawa Aza yurisawa81-1 018-5201
+    en: 81-1 hanawa Aza yurisawa, kazuno, Akita 018-5201
     googleMaps: https://maps.app.goo.gl/E12qVtkhcHegzZXc7
   phone: 0186-23-8000
 season:

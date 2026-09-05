@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 滋賀縣高島市マキノ町野口507
     ja: 〒520-1802 滋賀県高島市マキノ町野口507
-    en: Shiga takashima, makino, noguchi507 520-1802
+    en: 507 noguchi, takashima, makino, Shiga 520-1802
     googleMaps: https://maps.app.goo.gl/AvrEffFNC4DSpc9u8
   phone: 0740-28-0875
 season:

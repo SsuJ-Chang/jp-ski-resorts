@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 石川縣白山市河內町內尾
     ja: 〒920-2318 石川県白山市河内町内尾
-    en: Ishikawa hakusan, kawauchi, uchio 920-2318
+    en: uchio, hakusan, kawauchi, Ishikawa 920-2318
     googleMaps: https://maps.app.goo.gl/hRB4qDUzWBVAMe7F9
   phone: 076-273-0331
 season:

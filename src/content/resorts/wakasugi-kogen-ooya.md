@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 兵庫縣養父市大屋町若杉99-2
     ja: 〒667-0323 兵庫県養父市大屋町若杉99-2
-    en: Hyogo youfu, ooya, wakasugi99-2 667-0323
+    en: 99-2 wakasugi, youfu, ooya, Hyogo 667-0323
     googleMaps: https://maps.app.goo.gl/kzeBA7e3MvRusq538
   phone: 079-669-1576
 season:

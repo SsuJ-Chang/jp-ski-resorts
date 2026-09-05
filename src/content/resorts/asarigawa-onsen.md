@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 北海道小樽市朝里川溫泉1-394
     ja: 〒047-0154 北海道小樽市朝里川温泉1-394
-    en: Hokkaido otaru, asasatokawaonsen1-394 047-0154
+    en: 1-394 asasatokawaonsen, otaru, Hokkaido 047-0154
     googleMaps: https://maps.app.goo.gl/XVNqE6JoJdBYPuaCA
   phone: 0134-54-0101
 season:

@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 群馬縣吾妻郡嬬恋村万座温泉
     ja: 〒377-1528 群馬県吾妻郡嬬恋村万座温泉
-    en: Gunma azuma District tsumagoi, manzaonsen 377-1528
+    en: manzaonsen, azuma District tsumagoi, Gunma 377-1528
     googleMaps: https://maps.google.co.jp/maps?q=36.635703,138.506178
   phone: 0279-97-3117
 season:

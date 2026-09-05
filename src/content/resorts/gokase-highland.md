@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 宮崎縣西臼杵郡五瀨町大字鞍岡 4647-171
     ja: 〒882-1201 宮崎県西臼杵郡五ヶ瀬町大字鞍岡4647-171
-    en: Miyazaki nishiusuki District gokese, Ooaza kuraoka4647-171 882-1201
+    en: 4647-171 Ooaza kuraoka, nishiusuki District gokese, Miyazaki 882-1201
     googleMaps: https://maps.app.goo.gl/dmRxHABJ1bt8dCts7
   phone: 0982-83-2144
 season:

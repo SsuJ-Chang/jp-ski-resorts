@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 栃木縣日光市湯元温泉
     ja: 〒321-1662 栃木県日光市湯元温泉
-    en: Tochigi nikkou, yumotoonsen 321-1662
+    en: yumotoonsen, nikkou, Tochigi 321-1662
     googleMaps: https://maps.google.co.jp/maps?q=36.803592,139.419437
   phone: 0288-62-2532
 season:

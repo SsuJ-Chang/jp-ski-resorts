@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 岐阜縣高山市一之宮町 7846-1
     ja: 〒509-3505 岐阜県高山市一之宮町7846-1
-    en: Gifu kouzan, kazuyukimiya, 7846-1 509-3505
+    en: 7846-1, kouzan, kazuyukimiya, Gifu 509-3505
     googleMaps: https://maps.app.goo.gl/9F3vTmnoLjjy9UDK8
   phone: '0577532421'
 season:

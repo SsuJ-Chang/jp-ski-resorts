@@ -36,7 +36,7 @@ contact:
   address:
     zhTw: 岐阜縣郡上市高鷲町西洞 3086-1
     ja: 〒501-5305 岐阜県郡上市高鷲町西洞3086-1
-    en: Gifu District ue, takasu, nishibora3086-1 501-5305
+    en: 3086-1 nishibora, District ue, takasu, Gifu 501-5305
     googleMaps: https://maps.app.goo.gl/FLSpyawcH3hfDueq9
   phone: 0575-72-7000
 season:

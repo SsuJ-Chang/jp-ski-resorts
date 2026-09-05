@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 青森縣東津輕郡平內町大字濱子字堀替 36-1
     ja: 〒039-3331 青森県東津軽郡平内町大字浜子字堀替36-1
-    en: Aomori higashitsugaru District hiranai, Ooaza hamako Aza horikae36-1 039-3331
+    en: 36-1 Ooaza hamako Aza horikae, higashitsugaru District hiranai, Aomori 039-3331
     googleMaps: https://maps.app.goo.gl/6vpsLXNdC8zgQFeL6
   phone: 017-755-2756
 season:

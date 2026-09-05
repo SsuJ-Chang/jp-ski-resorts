@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 岐阜縣郡上市高鷲町鷲見 512
     ja: 〒501-5302 岐阜県郡上市高鷲町鷲見512
-    en: Gifu District ue, takasu, washimi512 501-5302
+    en: 512 washimi, District ue, takasu, Gifu 501-5302
     googleMaps: https://www.google.com/maps/search/?api=1&query=White%20Pia%20Takasu
   phone: 0575-72-6311
 season:

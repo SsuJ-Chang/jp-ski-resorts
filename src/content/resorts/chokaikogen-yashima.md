@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 秋田縣由利本莊市矢島町荒澤字長保田6
     ja: 〒015-0418 秋田県由利本荘市矢島町荒沢字長保田6
-    en: Akita yurihonjou, yajima, arasawa Aza nagahota6 015-0418
+    en: 6 arasawa Aza nagahota, yurihonjou, yajima, Akita 015-0418
     googleMaps: https://maps.app.goo.gl/ZJMnyzU9cGGkM6mGA
   phone: 0184-56-2182
 season:

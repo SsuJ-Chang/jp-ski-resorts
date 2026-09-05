@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 岐阜縣飛驒市神岡町伏方 150
     ja: 〒506-1154 岐阜県飛騨市神岡町伏方150
-    en: Gifu hida, kamioka, fukuhou150 506-1154
+    en: 150 fukuhou, hida, kamioka, Gifu 506-1154
     googleMaps: https://maps.app.goo.gl/6Cu2oGhFyMw7aedc8
   phone: 0578-82-0916
 season:

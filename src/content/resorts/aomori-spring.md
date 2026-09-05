@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 青森縣西津輕郡鰺澤町鰺澤高原
     ja: 〒038-2793 青森県西津軽郡鯵ヶ沢町鯵ヶ沢高原
-    en: Aomori nishitsugaru District ajikesawa, ajikesawakougen 038-2793
+    en: ajikesawakougen, nishitsugaru District ajikesawa, Aomori 038-2793
     googleMaps: https://maps.app.goo.gl/uJsajKSdcaE3beoX8
   phone: 0173-72-1011
 season:

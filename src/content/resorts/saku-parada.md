@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 〒385-0002 長野縣佐久市上平尾2066-1 地図を見る
     ja: 〒385-0002 長野県佐久市上平尾2066-1 地図を見る
-    en: Nagano saku, kamitairao2066-1 chizuwomiru 385-0002
+    en: 2066-1 kamitairao, saku, Nagano 385-0002
     googleMaps: https://www.google.com/maps/search/?api=1&query=Saku%20Ski%20Garden%20Parada
   phone: 0267-68-5116
 season:

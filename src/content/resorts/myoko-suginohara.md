@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 新潟縣妙高市杉野澤
     ja: 〒949-2113 新潟県妙高市杉野沢
-    en: Niigata myoukou, suginosawa 949-2113
+    en: suginosawa, myoukou, Niigata 949-2113
     googleMaps: https://maps.app.goo.gl/MbT4PPa4mzJfeBHY9
   phone: 0255-86-6211
 season:

@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 北海道紋別郡湧別町北兵村二区100
     ja: 〒099-6323 北海道紋別郡湧別町北兵村二区100
-    en: Hokkaido monbetsu District yuubetsu, kitahei, niku100 099-6323
+    en: 100 niku, monbetsu District yuubetsu, kitahei, Hokkaido 099-6323
     googleMaps: https://maps.app.goo.gl/aAedDmQRWWz9wbaC9
   phone: 01586-2-3111
 season:

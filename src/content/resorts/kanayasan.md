@@ -26,7 +26,7 @@ contact:
   address:
     zhTw: 新潟縣上越市大字大貫 595-2
     ja: 〒943-0893 新潟県上越市大字大貫595-2
-    en: Niigata jouetsu, Ooaza oonuki595-2 943-0893
+    en: 595-2 Ooaza oonuki, jouetsu, Niigata 943-0893
     googleMaps: https://www.google.com/maps/search/?api=1&query=Kanayasan%20Ski%20Area
   phone: 025-525-4295
 season:

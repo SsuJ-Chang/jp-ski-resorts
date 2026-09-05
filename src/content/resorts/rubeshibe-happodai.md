@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 北海道北見市留辺蘂町旭公園74番地6
     ja: 〒091-0026 北海道北見市留辺蘂町旭公園74番地6
-    en: Hokkaido kitami, ryuuhenzui, asahikouen74banchi6 091-0026
+    en: 6 asahikouen74banchi, kitami, ryuuhenzui, Hokkaido 091-0026
     googleMaps: https://maps.app.goo.gl/nQzEpQygVLqfcDQ7A
   phone: 0157-42-2750
 season:

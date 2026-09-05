@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 青森縣青森市雲谷字梨野木 63
     ja: 〒030-0133 青森県青森市雲谷字梨野木63
-    en: Aomori aomori, unkoku Aza nashinogi63 030-0133
+    en: 63 unkoku Aza nashinogi, aomori, Aomori 030-0133
     googleMaps: https://maps.app.goo.gl/av8S3nqs9DqatWCM7
   phone: 017-764-1110
 season:

@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 鳥取縣日野郡江府町御机 709-1 休暇村奧大山
     ja: 〒689-4424 鳥取県日野郡江府町御机709-1 休暇村奥大山
-    en: Tottori hino District koufu, otsukue709-1 kyuuka, okuooyama 689-4424
+    en: okuooyama, hino District koufu, otsukue709-1 kyuuka, Tottori 689-4424
     googleMaps: https://maps.app.goo.gl/fcKxYWsCQKp8bvFL6
   phone: 0859-75-2300
 season:

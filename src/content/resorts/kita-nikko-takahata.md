@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 福島縣南會津郡南会津町大桃字一ノ間々20-3
     ja: 〒967-0515 福島県南会津郡南会津町大桃字一ノ間々20-3
-    en: Fukushima minamiaizu District minamiaizu, oomomo Aza ichinokan20-3 967-0515
+    en: 20-3 oomomo Aza ichinokan, minamiaizu District minamiaizu, Fukushima 967-0515
     googleMaps: https://maps.app.goo.gl/8Kximdaw1ACr2RNc9
   phone: 0241-76-2231
 season:

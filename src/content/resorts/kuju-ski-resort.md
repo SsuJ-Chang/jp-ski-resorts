@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 大分縣玖珠郡九重町大字湯坪 612-1
     ja: 〒879-4912 大分県玖珠郡九重町大字湯坪612-1
-    en: Oita kusu District kokonoe, Ooaza yutsubo612-1 879-4912
+    en: 612-1 Ooaza yutsubo, kusu District kokonoe, Oita 879-4912
     googleMaps: https://maps.app.goo.gl/ZjshAiYq7D2e662c6
   phone: 0973-79-2200
 season:

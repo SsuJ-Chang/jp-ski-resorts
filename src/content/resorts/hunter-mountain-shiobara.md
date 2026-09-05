@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 栃木縣那須塩原市湯本塩原字前黒
     ja: 〒329-2922 栃木県那須塩原市湯本塩原字前黒
-    en: Tochigi nasushiobara, yumotoshiobara Aza maekuro 329-2922
+    en: yumotoshiobara Aza maekuro, nasushiobara, Tochigi 329-2922
     googleMaps: https://maps.google.co.jp/maps?q=36.938074,139.753566
   phone: 0287-32-4580
 season:

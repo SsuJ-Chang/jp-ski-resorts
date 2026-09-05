@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 山形縣鶴岡市田麥俣字六十里山104-5
     ja: 〒997-0532 山形県鶴岡市田麦俣字六十里山104-5
-    en: Aza Rokujuuriyama 104-5, Tamugimata, Tsuruoka, Yamagata 997-0532
+    en: 104-5 Aza Rokujuuriyama, Tamugimata, Tsuruoka, Yamagata 997-0532
     googleMaps: https://maps.app.goo.gl/v623cYU4kF4J3iu17
   phone: 0235-54-6450
 season:

@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 北海道上川郡東川町西５号北４４番地
     ja: 〒071-1405 北海道上川郡東川町西５号北４４番地
-    en: Hokkaido kamikawa District higashikawa, nishi5goukita44banchi 071-1405
+    en: 44banchi nishi5goukita, kamikawa District higashikawa, Hokkaido 071-1405
     googleMaps: https://maps.app.goo.gl/QqXUKxTmpgW14YhP8
   phone: 0166-82-5001
 season:

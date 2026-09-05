@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 新潟縣南魚沼郡湯澤町湯澤 2521
     ja: 〒949-6101 新潟県南魚沼郡湯沢町湯沢2521
-    en: Niigata minamiuonuma District yuzawa, yuzawa2521 949-6101
+    en: 2521 yuzawa, minamiuonuma District yuzawa, Niigata 949-6101
     googleMaps: https://maps.app.goo.gl/NQL945UUPKuJ4i2i7
   phone: 025-784-4440
 season:

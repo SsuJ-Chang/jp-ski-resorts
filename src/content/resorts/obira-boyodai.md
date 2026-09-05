@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 北海道留萌郡小平町字小平町535-1
     ja: 〒078-3301 北海道留萌郡小平町字小平町535-1
-    en: Hokkaido rumoi District kodaira, Aza kodaira, 535-1 078-3301
+    en: 535-1, rumoi District kodaira, Aza kodaira, Hokkaido 078-3301
     googleMaps: https://maps.app.goo.gl/VD6sEoRLntiRLXMC6
   phone: 0164-56-2244
 season:

@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 北海道亀田郡七飯町東大沼666
     ja: 〒041-1351 北海道亀田郡七飯町東大沼666
-    en: Hokkaido kameda District nanae, toudainuma666 041-1351
+    en: 666 toudainuma, kameda District nanae, Hokkaido 041-1351
     googleMaps: https://maps.app.goo.gl/nWTPU3CCX2kUhnBb9
   phone: 0138-67-3355
 season:

@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 〒389-0501 長野縣東御市新張湯の丸1270 地図を見る
     ja: 〒389-0501 長野県東御市新張湯の丸1270 地図を見る
-    en: Nagano toumi, shinchouyunomaru1270 chizuwomiru 389-0501
+    en: 1270 shinchouyunomaru, toumi, Nagano 389-0501
     googleMaps: https://www.google.com/maps/search/?api=1&query=Yunomaru%20Ski%20Area
   phone: 0268-64-0400
 season:

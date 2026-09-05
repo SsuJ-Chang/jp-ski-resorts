@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 兵庫縣養父市別宮284
     ja: 〒667-1128 兵庫県養父市別宮284
-    en: Hyogo youfu, betsumiya284 667-1128
+    en: 284 betsumiya, youfu, Hyogo 667-1128
     googleMaps: https://www.google.com/maps/search/?api=1&query=35.386003,134.566542
   phone: 079-667-8201
 season:

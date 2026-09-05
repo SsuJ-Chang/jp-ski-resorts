@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 群馬縣利根郡片品村戸倉329
     ja: 〒378-0411 群馬県利根郡片品村戸倉329
-    en: Gunma tone District katashina, tokura329 378-0411
+    en: 329 tokura, tone District katashina, Gunma 378-0411
     googleMaps: https://maps.google.co.jp/maps?q=36.851100,139.238800
   phone: 0278-58-7511
 season:

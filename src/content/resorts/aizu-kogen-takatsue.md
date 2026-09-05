@@ -27,7 +27,7 @@ contact:
   address:
     zhTw: 福島縣南會津郡南會津町高杖原 535
     ja: 〒967-0315 福島県南会津郡南会津町高杖原535
-    en: Fukushima minamiaizu District minamiaizu, takatsuehara535 967-0315
+    en: 535 takatsuehara, minamiaizu District minamiaizu, Fukushima 967-0315
     googleMaps: https://maps.app.goo.gl/S8PC247KXVTQHsZCA
   phone: 0241-78-2220
 season:

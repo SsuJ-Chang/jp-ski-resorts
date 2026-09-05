@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 岩手縣八幡平市松尾寄木 1-509-1
     ja: 〒028-7302 岩手県八幡平市松尾寄木1-509-1
-    en: Iwate hachimantai, matsuoyosegi1-509-1 028-7302
+    en: 1-509-1 matsuoyosegi, hachimantai, Iwate 028-7302
     googleMaps: https://maps.app.goo.gl/gV9JHD6gkMgoxmJY6
   phone: 0195-78-2577
 season:

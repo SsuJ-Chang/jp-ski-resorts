@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 滋賀縣高島市朽木宮前坊180-1
     ja: 〒520-1414 滋賀県高島市朽木宮前坊180-1
-    en: Shiga takashima, tochigimiyamaebou180-1 520-1414
+    en: 180-1 tochigimiyamaebou, takashima, Shiga 520-1414
     googleMaps: https://maps.app.goo.gl/1fJfkuBb994PKXw56
   phone: 0740-38-2323
 season:

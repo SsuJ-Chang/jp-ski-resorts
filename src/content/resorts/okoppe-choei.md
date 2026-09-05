@@ -32,7 +32,7 @@ contact:
   address:
     zhTw: 北海道紋別郡興部町字北興39番地の2
     ja: 〒098-1622 北海道紋別郡興部町字北興39番地の2
-    en: Hokkaido monbetsu District okoppe, Aza hokukou39banchino2 098-1622
+    en: 2 Aza hokukou39banchino, monbetsu District okoppe, Hokkaido 098-1622
     googleMaps: https://maps.app.goo.gl/hHa6fWALLzHHnfqM9
   phone: 0158-82-4000
 season:

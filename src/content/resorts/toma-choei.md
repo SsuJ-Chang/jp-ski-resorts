@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 北海道上川郡當麻町市街6区
     ja: 〒078-1300 北海道上川郡当麻町市街6区
-    en: Hokkaido kamikawa District touma, machi6ku 078-1300
+    en: machi6ku, kamikawa District touma, Hokkaido 078-1300
     googleMaps: https://maps.app.goo.gl/tG3jwCGhgqn5AqoNA
   phone: 0166-84-2698
 season:

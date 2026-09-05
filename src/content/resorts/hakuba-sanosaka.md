@@ -33,7 +33,7 @@ contact:
   address:
     zhTw: 長野縣北安曇郡白馬村神城 458
     ja: 〒399-9211 長野県北安曇郡白馬村大字神城458
-    en: Nagano kitaazumi District hakuba, Ooaza kamijou458 399-9211
+    en: 458 Ooaza kamijou, kitaazumi District hakuba, Nagano 399-9211
     googleMaps: https://maps.app.goo.gl/B7MwgR7jaQf5ZRjT6
   phone: 0261-75-2452
 season:

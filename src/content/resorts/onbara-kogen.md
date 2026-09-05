@@ -30,7 +30,7 @@ contact:
   address:
     zhTw: 岡山縣苫田郡鏡野町上齋原2037
     ja: 〒708-0601 岡山県苫田郡鏡野町上齋原2037
-    en: Okayama tomata District kagamino, uesaihara2037 708-0601
+    en: 2037 uesaihara, tomata District kagamino, Okayama 708-0601
     googleMaps: https://maps.app.goo.gl/YrkvUu4eid56W4vg9
   phone: 0868-44-2808
 season:

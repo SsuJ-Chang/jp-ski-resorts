@@ -31,7 +31,7 @@ contact:
   address:
     zhTw: 山形縣鶴岡市羽黒町手向羽黒山
     ja: 〒997-0211 山形県鶴岡市羽黒町手向羽黒山
-    en: Yamagata tsuruoka, haguro, tamukehaguroyama 997-0211
+    en: tamukehaguroyama, tsuruoka, haguro, Yamagata 997-0211
     googleMaps: https://maps.app.goo.gl/eWMwJSDAA5cLA32e8
   phone: 0235-62-4270
 season:

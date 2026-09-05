@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 秋田縣大仙市協和船岡字上庄内71-1
     ja: 〒019-2401 秋田県大仙市協和船岡字上庄内71-1
-    en: Akita daisen, kyouwafunaoka Aza ueshounai71-1 019-2401
+    en: 71-1 kyouwafunaoka Aza ueshounai, daisen, Akita 019-2401
     googleMaps: https://maps.app.goo.gl/PRim99fuRQpKq5gc9
   phone: 018-893-2050
 season:

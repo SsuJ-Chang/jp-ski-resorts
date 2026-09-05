@@ -29,7 +29,7 @@ contact:
   address:
     zhTw: 滋賀縣高島市今津町日置前
     ja: 〒520-1655 滋賀県高島市今津町日置前
-    en: Shiga takashima, imazu, hiokimae 520-1655
+    en: hiokimae, takashima, imazu, Shiga 520-1655
     googleMaps: https://maps.app.goo.gl/k5irGqxy1gCECMoa8
   phone: 0740-22-2486
 season:
