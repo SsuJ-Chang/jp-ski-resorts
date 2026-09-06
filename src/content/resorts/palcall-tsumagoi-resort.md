@@ -34,9 +34,9 @@ links:
   googleMaps: https://maps.app.goo.gl/6uFyVqFW3pcEZw2R8
 contact:
   address:
-    zhTw: 群馬縣吾妻郡嬬恋村干俣バラギ高原
-    ja: 〒377-1611 群馬県吾妻郡嬬恋村干俣バラギ高原
-    en: Kanmatabaragikougen, Azuma District Tsumagoi, Gunma 377-1611
+    zhTw: 群馬縣吾妻郡嬬戀村大字干俣茨木高原
+    ja: 〒377-1611 群馬県吾妻郡嬬恋村大字干俣バラギ高原
+    en: Baragi Kogen, Oaza Hoshimata, Tsumagoi, Agatsuma District, Gunma 377-1611
     googleMaps: https://maps.app.goo.gl/6uFyVqFW3pcEZw2R8
   phone: 0279-96-1177
 season:
@@ -46,7 +46,7 @@ season:
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34213/
 trailMaps:
-- label: Palcall 嬬戀 Resort 官方雪道資訊
+- label: Palcall 嬬戀官方雪道資訊
   language: 日本語
   season: 2025-2026
   url: https://tsumagoiskiresort.life/course-guide/
@@ -65,7 +65,7 @@ tickets:
         - 兒童：¥2,500
       note: 12/20(六) - 4/5(日) 8:00 - 16:00；IC 卡發行費已包含。若持有事前註冊的 IC 卡，通常價可再折 ¥500。可使用全雪場的纜車與吊椅；兒童（學齡前）在高中生以上監護人同行下最多 2 名免費，身心障礙手冊可享定價 5 折。各項折扣不可併用。
 snowWeather:
-  title: Palcall 嬬戀 Resort雪況天氣
+  title: Palcall 嬬戀雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34213/
   snowDepth: 0 cm
@@ -75,7 +75,7 @@ snowWeather:
 courses:
   total: 22
   courseInfoPage: https://tsumagoiskiresort.life/course-guide/
-  summary: 官方把雪場分成嬬戀區與バラギ區，共 22 條雪道；嬬戀區以 3,193m 長纜車串起約 3.5km 的初級到中級連續滑行，バラギ區則以寬幅、坡度較緩的路線為主，整體很適合想滑長距離巡航、又重視景觀與練習感的玩家。
+  summary: 官方把雪場分成嬬戀區與茨木區，共 22 條雪道；嬬戀區以 3,193m 長纜車串起約 3.5km 的初級到中級連續滑行，茨木區則以寬幅、坡度較緩的路線為主，整體很適合想滑長距離巡航、又重視景觀與練習感的玩家。
   details:
   - name: 山頂ロングランルート
     difficulty: beginner
@@ -99,18 +99,29 @@ access:
   fromTokyo:
   - label: 東京出發
     steps:
-    - 先搭新幹線到輕井澤站，再轉乘西武高原巴士往草津溫泉方向。
-    - 於萬座鹿澤口站下車後，再轉計程車前往雪場。
-    estimatedTime: 約 90 分
+    - 東京站搭乘北陸新幹線至輕井澤站。
+    - 從輕井澤站北口搭乘西武高原巴士草津溫泉行至萬座鹿澤口站，再轉計程車前往雪場。
+    estimatedTime: 約 2.5-3 小時
     difficulty: medium
-    note: 官方頁面寫明沒有雪場接駁巴士；巴士約 70 分、再轉計程車約 20 分。若直接搭計程車前往，單台約 18,000 日圓。
+    note: 雪場沒有一般送迎接駁巴士；輕井澤站至萬座鹿澤口站巴士約 70 分鐘、每人約 ¥2,000，之後計程車約 20 分鐘、單車約 ¥6,000。若從輕井澤站直接搭計程車，單車約 ¥18,000。
+    links:
+    - label: 官方アクセス
+      url: https://tsumagoiskiresort.life/access/
+  publicTransit:
+  - label: 輕井澤站轉乘
+    steps:
+    - 從輕井澤站北口搭乘西武高原巴士草津溫泉行。
+    - 於萬座鹿澤口站下車後，轉乘計程車前往 Palcall 嬬戀。
+    estimatedTime: 約 90 分鐘
+    difficulty: medium
+    note: 此時間為輕井澤站起算的巴士加計程車目安；官方頁面註明雪場沒有一般送迎接駁巴士。
     links:
     - label: 官方アクセス
       url: https://tsumagoiskiresort.life/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 冬季的パノラマライン南、北路都會封閉，請從國道144號線西部小學方向前往バラギ高原；全日免費停車。
+    note: 冬季パノラマライン南路線、北路線皆會封閉；官方建議從國道 144 號線西部小学校方向前往茨木高原。全日設有免費停車場，冬季需準備雪胎或雪鏈。
 terrainSummary:
   beginner: 嬬戀區的長距離路線與巴ラギ區的寬幅緩坡，都很適合從轉彎、控速與穩定連續滑行開始練習。
   intermediate: 官方主打的初級到中級連續滑行很強，能把多段坡面串成長距離巡航，是這座雪場最有特色的滑法之一。
@@ -127,4 +138,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/palcall-tsumagoi/
 ---
 
-群馬縣的 Palcall 嬬戀以 3,193m 長纜車串起嬬戀區與バラギ區，22 條雪道多數是初級到中級的長距離滑行，從山頂 2,100m 一路滑下能感受高海拔與開闊景觀。巴ラギ區則以寬幅緩坡、親子與新手練習為主，也很適合想把巡航滑順感練好的玩家。
+Palcall 嬬戀位在輕井澤與草津溫泉之間，3,193m 嬬戀纜車直上標高 2,100m 山頂。嬬戀區主打約 3.5km 長距離巡航，茨木區則是寬幅緩坡，可眺望淺間山與心形茨木 湖，適合想兼顧景觀、練習與高海拔雪質的滑雪者。

@@ -1,7 +1,7 @@
 ---
 id: shiga-kogen-yokoteyama-shibutoge
 name:
-  zhTw: 横手山・涉峠滑雪場
+  zhTw: 横手山・涉峠
   ja: 横手山・渋峠スキー場
   en: Yokoteyama・Shibutoge Ski Area
 region: kanto-koshinetsu

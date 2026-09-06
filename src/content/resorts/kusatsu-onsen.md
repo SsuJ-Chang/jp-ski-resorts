@@ -7,8 +7,8 @@ name:
 region: kanto-koshinetsu
 prefecture: 群馬縣
 location:
-  latitude: 36.629013
-  longitude: 138.586008
+  latitude: 36.62852870382313
+  longitude: 138.58719395432558
 elevation:
   top: 1600
   bottom: 1245
@@ -26,21 +26,23 @@ links:
   instagram: https://www.instagram.com/932onsen/
   xTwitter: https://twitter.com/snowspa932
   trailMapPage: https://www.932-onsen.com/winter/course/
+  ticket: https://www.932-onsen.com/winter/ryokin/
+  access: https://www.932-onsen.com/common/access/
   weather: https://weathernews.jp/ski/spot/34206/
-  googleMaps: https://maps.google.co.jp/maps?q=36.629013,138.586008
+  googleMaps: https://maps.app.goo.gl/bFJkkpyggPgrsnY27
 contact:
   address:
     zhTw: 群馬縣吾妻郡草津町字白根国有林158林班
     ja: 〒377-1711 群馬県吾妻郡草津町字白根国有林158林班
     en: Aza Shironekokuyuurin158rinpan, Azuma District Kusatsu, Gunma 377-1711
-    googleMaps: https://maps.google.co.jp/maps?q=36.629013,138.586008
+    googleMaps: https://maps.app.goo.gl/bFJkkpyggPgrsnY27
   phone: 0279-88-8111
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/18-2026/03/28
-  hours: 平日：8:30〜16:30 假日：8:00〜16:30 夜滑：16:30〜20:00
-  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
-  source: https://weathernews.jp/ski/spot/34206/
+  operatingPeriod: 2025/12/18-2026/03/29
+  hours: 日間纜車 8:30-16:30；夜滑 16:30-20:00（指定日期）
+  note: 夜滑於 2025/12/27-2026/3/21 的每週六及部分指定日期開放；纜車時間可能依天候與雪況調整。
+  source: https://www.932-onsen.com/winter/ryokin/
 trailMaps:
 - label: 草津溫泉 官方雪道資訊
   language: 日本語
@@ -50,37 +52,57 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/34206/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  source: https://www.932-onsen.com/winter/ryokin/
+  note: 兒童為 4 歲以上至小學生，長者／國高中生為 60 歲以上或持學生身分者，3 歲以下免費。1 回券與回數券可用至本季結束，搭乘纜車天狗需依官方規定扣券。
   plans:
-    - name: 1日券（運転開始〜17:00）
+    - name: 1 日券
       priceLines:
         - 成人：¥6,000
         - 兒童：¥2,000
-        - 長者：¥5,200
-    - name: 2日券（運転開始〜翌日17:00）
+        - 長者／國高中生：¥5,200
+      note: 纜車運行開始至 16:30。
+    - name: 2 日券
       priceLines:
         - 成人：¥11,200
         - 兒童：¥4,000
-        - 長者：¥9,700
-    - name: 時間券（4時間）
+        - 長者／國高中生：¥9,700
+      note: 纜車運行開始至翌日 16:30。
+    - name: 4 小時券
       priceLines:
         - 成人：¥5,300
         - 兒童：¥2,000
-        - 長者：¥4,700
-    - name: 夜滑券（17:00〜21:00）
+        - 長者／國高中生：¥4,700
+      note: 自購買起計 4 小時。
+    - name: 夜滑券
       priceLines:
         - 成人：¥2,000
         - 兒童：¥1,000
-        - 長者：¥2,000
-    - name: 回數券（1回券）
+        - 長者／國高中生：¥2,000
+      note: 16:30-20:00，僅限指定夜滑日期。
+    - name: 11 回數券
       priceLines:
-        - 成人：¥600
-        - 兒童：¥600
-        - 長者：¥600
-    - name: 初滑資訊：開放日購買纜車券，可獲原創貼紙與下次可用的纜車 1 日券 5 折券。
+        - 共通：¥6,000
+    - name: 1 回券
       priceLines:
-        - 請見官方公告
+        - 共通：¥600
+    - name: 開幕服務日 1 日券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥1,500
+        - 長者／國高中生：¥3,000
+      note: 2025/12/18-12/24 適用。
+    - name: 春滑 1 日券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥1,500
+        - 長者／國高中生：¥3,000
+      note: 2026/3/23-3/29 適用。
+    - name: 季票
+      priceLines:
+        - 成人：¥48,000～¥60,000
+        - 長者／國高中生：¥41,600～¥52,000
+        - 兒童：¥16,000～¥20,000
+      note: 依購買時期分級，早鳥價格較優惠。
 snowWeather:
   title: 草津溫泉雪況天氣
   provider: Weathernews
@@ -90,79 +112,111 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
-  total: 9
+  total: 10
+  beginnerRatio: 50
+  intermediateRatio: 30
+  advancedRatio: 20
   courseInfoPage: https://www.932-onsen.com/winter/course/
-  summary: 列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 草津溫泉滑雪場位於青葉山山麓，標高約 1,245～1,600m，10 條雪道以初級路線為主，最長可串接約 4,300m；雪質偏乾爽，且距離草津溫泉街約 5 分鐘車程。
   details:
-  - name: しゃくなげコース
+  - name: 家庭雪道 / ファミリーゲレンデ / Family Slope
     difficulty: beginner
-    length: 3,200m
-    maxSlope: 12°
+    length: 450m
+    maxSlope: 8°
     averageSlope: 8°
-    note: 長距離初級巡航線；官方資料並列出全長 3,200m、最大坡度 12°、平均坡度 8°。
-  - name: R292 コース
+    note: 適合初次滑雪與兒童練習的寬廣緩坡；Kids Park 另設雪上電扶梯、雪橇與玩雪設施。
+  - name: かもしか雪道 / かもしかコース / Kamoshika Course
+    difficulty: beginner
+    length: 1,600m
+    maxSlope: 8°
+    averageSlope: 6°
+    note: 適合家庭與初級者進階，彎道和貓跳較少，滑行安全順暢。
+  - name: R292 雪道 / R292コース / R292 Course
     difficulty: beginner
     length: 2,000m
     maxSlope: 8°
     averageSlope: 5°
-    note: 緩坡長距離路線；官方資料並列出全長 2,000m、最大坡度 8°、平均坡度 5°。
-  - name: ファミリーゲレンデ
+    note: 沿冬季封閉的國道 292 號滑行，可由青葉山經おなり山銜接至天狗山，串接最長約 4,300m。
+  - name: しゃくなげ雪道 / しゃくなげコース / Shakunage Course
     difficulty: beginner
-    length: 450m
-    maxSlope: 8°
+    length: 3,200m
+    maxSlope: 12°
     averageSlope: 8°
-    note: 家庭與初級練習坡；官方資料並列出全長 450m、最大坡度 8°、平均坡度 8°。
-  - name: おなり山ゲレンデ
+    note: 穿越落葉松林的寬廣長距離雪道，是草津最受家庭歡迎的初級主線之一。
+  - name: おなり山雪道 / おなり山ゲレンデ / Onariyama Slope
     difficulty: intermediate
     length: 250m
     maxSlope: 18°
     averageSlope: 8°
-    note: 中級坡；官方資料並列出全長 250m、最大坡度 18°、平均坡度 8°。
-  - name: 夏道コース
+    note: 寬廣且坡度平緩，山頂可俯瞰草津溫泉街，適合初級者進階。
+  - name: 夏道雪道 / 夏道コース / Natsumichi Course
     difficulty: intermediate
     length: 600m
     maxSlope: 15°
     averageSlope: 10°
-    note: 中級巡航路線；官方資料並列出全長 600m、最大坡度 15°、平均坡度 10°。
-  - name: 夏道チャレンジコース
+    note: 由昔日通往白根山的夏季山道而得名，適合從家庭雪道畢業後挑戰。
+  - name: 夏道挑戰雪道 / 夏道チャレンジコース / Natsumichi Challenge
     difficulty: advanced
     length: 300m
     maxSlope: 23°
     averageSlope: 20°
-    note: 夏道區挑戰線；官方資料並列出全長 300m、最大坡度 23°、平均坡度 20°。
-  - name: 青葉山第1ゲレンデ
+    note: 利用舊跳台位置形成的急斜面，適合挑戰最大 23° 的坡度。
+  - name: 青葉山第一雪場 / 青葉山第1ゲレンデ / Aobayama No. 1
     difficulty: advanced
     length: 250m
     maxSlope: 28°
     averageSlope: 21°
-    note: 青葉山側上級坡；官方資料並列出全長 250m、最大坡度 28°、平均坡度 21°。
-  - name: 青葉山第2ゲレンデ
+    note: 位於標高 1,600m 的雪場最高點，天氣晴朗時可望見富士山，並有粉雪急斜面。
+  - name: 青葉山第二雪場 / 青葉山第2ゲレンデ / Aobayama No. 2
     difficulty: advanced
     length: 360m
     maxSlope: 23°
     averageSlope: 15°
-    note: 青葉山側上級坡；官方資料並列出全長 360m、最大坡度 23°、平均坡度 15°。
-  - name: 天狗山ゲレンデ
+    note: 適合專注滑行的中高級坡面，可眺望草津溫泉街。
+  - name: 天狗山雪場 / 天狗山ゲレンデ / Tenguyama Slope
     difficulty: mixed
     length: 450m
     maxSlope: 30°
-    averageSlope: 16°
-    note: 天狗山側主坡，坡面難度混合；官方資料並列出全長 450m、最大坡度 30°、平均坡度 16°。
-  beginnerRatio: 50
-  intermediateRatio: 30
-  advancedRatio: 20
+    averageSlope: 8°
+    note: 草津主雪場，從初級到上級皆可使用；上級者可挑戰「天狗之壁」，指定日期開放夜滑。
 lifts:
-  total: 6
+  total: 7
 access:
+  fromTokyo:
+  - label: 上野／東京方向電車＋長野原草津口站巴士
+    steps:
+    - 從上野站搭乘 JR 吾妻線至長野原草津口站。
+    - 轉乘前往草津溫泉的路線巴士，在溫泉街再轉乘雪場免費接駁。
+    estimatedTime: 約 3 小時
+    difficulty: medium
+    note: 車次與巴士銜接依季節時刻表而定，免費接駁往返溫泉街與雪場。
+    links:
+    - label: 草津溫泉官方交通資訊
+      url: https://www.932-onsen.com/common/access/
+  - label: 高速巴士（上州ゆめぐり號）
+    steps:
+    - 從東京站或新宿站南口搭乘上州ゆめぐり號前往草津溫泉。
+    - 從溫泉街搭乘雪場免費接駁巴士。
+    estimatedTime: 約 4 小時
+    difficulty: easy
+    note: 另有澀谷、橫濱、大宮等地出發班次；班次與預約方式依當季公告。
+    links:
+    - label: 草津溫泉官方交通資訊
+      url: https://www.932-onsen.com/common/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：吾妻線長野原草津口駅 (25分) 車 ：練馬IC→関越道(103km)渋川伊香保IC→一般道(60km) (171分) 車 ：練馬IC→上信越道(130km)碓井軽井沢IC→一般道(55km) (189分) 1260台 平日 免費 假日 12/27-1/4限定普通車1台1000円 天狗山第四駐車場 年末年始・週末及國定假日 1,000円
+    note: 從練馬 IC 經關越道至渋川伊香保 IC，再走一般道路約 171 分鐘；也可從碓氷軽井沢 IC 經上信越道前往約 189 分鐘。雪場距草津溫泉街約 5 分鐘，天狗山第 1～6 停車場合計約 860 台，官方停車場免費；部分特定日期第 4 停車場普通車每台 ¥1,000。
+    links:
+    - label: 草津溫泉官方交通資訊
+      url: https://www.932-onsen.com/common/access/
 terrainSummary:
-  beginner: 初級雪道以 しゃくなげコース、R292 コース、ファミリーゲレンデ 為主，適合練習速度控制與穩定轉彎。
-  intermediate: 中級者可用 おなり山ゲレンデ、夏道コース 串接較長滑行或主坡巡航。
-  advanced: 進階路線包含 夏道チャレンジコース、青葉山第1ゲレンデ、青葉山第2ゲレンデ，請依當日開放狀態與雪況判斷。
-  snowboard: 雪板可全區滑行；park、非壓雪與管制區仍以現場公告為準。
+  beginner: 初級比例約 50%，しゃくなげ、かもしか、R292 與家庭雪道提供從兒童緩坡到 3,200m 長距離巡航。
+  intermediate: 中級比例約 30%，夏道與おなり山可作為初級進階，天狗山也有適合不同程度的坡面。
+  advanced: 上級比例約 20%，青葉山第一、第二雪場與夏道挑戰包含粉雪急斜面及最大 30° 的天狗之壁。
+  snowboard: 雪板可使用全區滑雪道；Kids Park 為獨立雪橇與玩雪區，不能以滑雪方式進入。
+  powder: 青葉山第一雪場與天狗山上段在降雪後可享受較乾爽的粉雪；非壓雪狀況依當日雪況而變化。
+
 externalContent:
   blogs:
   - title: 【草津溫泉住宿】草津Now Resort Hotel：滑雪、溫泉、螃蟹吃到飽
@@ -175,4 +229,4 @@ externalContent:
 
 ---
 
-草津溫泉位於群馬縣，是中小型雪場，共有9 條雪道，搭配 6 座纜車。代表路線包含 しゃくなげコース、R292 コース、ファミリーゲレンデ，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+草津溫泉滑雪場位於群馬縣青葉山山麓，最大的特色是乾爽粉雪、最長約 4,300m 的縱長滑行，以及與溫泉街相距約 5 分鐘的便利位置。從家庭緩坡、林間長線到青葉山急斜面與天狗之壁都能找到適合的挑戰，滑雪後可直接享受草津溫泉，並設有 Kids Park 與夜滑時段。

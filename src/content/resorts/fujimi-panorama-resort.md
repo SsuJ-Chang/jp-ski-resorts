@@ -28,7 +28,7 @@ contact:
   address:
     zhTw: 長野縣諏訪郡富士見町富士見 6666-703
     ja: 〒399-0211 長野県諏訪郡富士見町富士見6666-703
-    en: 6666-703 Fujimi, Suwa District Fujimi, Nagano 399-0211
+    en: 6666-703 Fujimi, Fujimi, Suwa District, Nagano 399-0211
     googleMaps: https://www.google.com/maps/search/?api=1&query=Fujimi%20Panorama%20Resort
   phone: 0266-62-5666
 season:
@@ -67,60 +67,88 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
-  total: 7
+  total: 8
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://www.fujimipanorama.com/snow/course/
-  summary: 官方課程頁列出 A-G 共 7 個主要ゲレンデ與 kids park；3km downhill 由山頂側多條中級路線串接至山麓。
+  summary: 以山頂標高 1,780m、山麓 1,050m 的落差串起 3km 本格巡航路線。總覽列為 8 條雪道，具名路線以 7 個主要ゲレンデ整理，整體為 100% 壓雪坡面。
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner
+    length: 350m
     averageSlope: 8°
-    note: 獨立於上級者雪道，寬廣且適合小朋友與初學者，旁有 kids park。
+    note: 山麓側初級緩坡，坡面寬廣，適合小朋友與初學者練習。
   - name: センターゲレンデ
     difficulty: beginner
-    averageSlope: 約14°
-    note: 適合從ファミリーゲレンデ往上銜接的緩斜面，第2リフト速度較慢。
+    length: 550m
+    averageSlope: 14°
+    note: 初級到中級銜接坡面，可從親子練習區往上延伸。
   - name: コナシゲレンデ
     difficulty: intermediate
+    length: 400m
     averageSlope: 10°
-    note: Gondola 山頂標高約 1,780m，八ヶ岳視野佳，適合 3km downhill 前段暖身。
+    note: 位於箱型纜車山頂側，是 3km 巡航前段的起點之一。
   - name: アルパインゲレンデ
     difficulty: intermediate
     length: 550m
     averageSlope: 19°
-    note: 中斜面與緩斜面組合，可練 short turn 與 long turn。
+    note: 初級到中級標示的坡面，坡度變化較明顯，適合練習轉彎節奏。
   - name: ラーチゲレンデ
     difficulty: intermediate
-    note: 由緩坡逐漸轉為中上級向斜面，3 月中旬起常設春季こぶバーン。
+    length: 600m
+    averageSlope: 21°
+    note: 中級到上級銜接路線，坡度較高，滑行節奏偏快。
   - name: シーダーゲレンデ
     difficulty: intermediate
-    note: 3km 路線後半的寬廣中斜面，帶有適度起伏，適合 cruising 與練習。
+    length: 850m
+    averageSlope: 18°
+    note: 3km 巡航後半段的中級坡面，可銜接至山麓側。
+  - name: 3km クルージングルート
+    difficulty: intermediate
+    length: 3,000m
+    averageSlope: 15°
+    note: 由コナシゲレンデ串接至シーダーゲレンデ的代表性長距離滑行路線。
   - name: リンデンゲレンデ
     difficulty: advanced
+    length: 1,600m
     maxSlope: 29°
-    note: 富士見 Panorama 最硬派的ゲレンデ，通稱リンデンの壁，官方描述為整備良好的平整一枚バーン。
+    averageSlope: 21°
+    note: 雪場最大坡度 29° 的中上級路線，也是主要挑戰坡面。
 lifts:
   total: 6
 access:
   fromTokyo:
   - label: 東京出發經富士見
     steps:
-    - 從新宿或東京方向搭 JR 中央本線到富士見站。
-    - 從富士見站搭冬季免費接駁巴士，或改搭計程車前往雪場。
-    estimatedTime: 站後約 10 分
+    - 從新宿或東京方向搭 JR 中央東線至富士見站。
+    - 從富士見站搭冬季免費接駁巴士至雪場。
+    estimatedTime: 約 2.5-3 小時
     difficulty: easy
-    note: 免費接駁巴士在冬季營業期間運行，班次有限且免預約；若班次不合適可改搭計程車。
+    note: 富士見站至雪場約 10 分鐘；公開時刻為富士見站 9:15、10:00 發車，雪場 15:00、17:00 回程。
+    links:
+    - label: 交通資訊
+      url: https://surfsnow.jp/guide/htm/r0297m.htm
+  publicTransit:
+  - label: 富士見站接駁
+    steps:
+    - 搭乘 JR 中央東線至富士見站。
+    - 轉乘免費接駁巴士，或改搭計程車前往富士見 Panorama Resort。
+    estimatedTime: 約 10 分鐘
+    difficulty: easy
+    note: 免費接駁巴士班次有限；計程車可洽アルピコタクシー。
+    links:
+    - label: 交通資訊
+      url: https://surfsnow.jp/guide/htm/r0297m.htm
   car:
     recommended: true
     snowTireRequired: true
-    note: 從中央自動車道諏訪南 IC 下交流道後約 7 分；八王子方向約 90 分、小牧方向約 150 分。停車場約 1,300 台，平假日免費。
+    note: 從中央自動車道諏訪南IC下交流道後約 7 分；八王子方向約 90 分、橫濱方向約 130 分、名古屋方向約 150 分、靜岡方向約 100 分。晴天率高但冬季仍建議準備雪胎或雪鏈。
 terrainSummary:
-  beginner: 初級約 30%，有 family slope 與兒童雪上設施。
-  intermediate: 中級約 40%，可搭配箱型纜車路線安排較長滑行。
-  advanced: 上級約 30%，可在有限雪道數中安排進階練習。
-  snowboard: 雪板可全區滑行。
+  beginner: 初級約 30%，ファミリーゲレンデ與センターゲレンデ適合基礎練習。
+  intermediate: 中級約 40%，可從山頂側一路串成 3km 壓雪巡航。
+  advanced: 上級約 30%，リンデンゲレンデ是主要挑戰坡面，最大坡度 29°。
+  snowboard: 雙板與單板比例約 50% / 50%，全區可滑單板。
 ---
 
-富士見 Panorama Resort是長野縣的中小型雪場，整理為7 條雪道，搭配 6 座纜車。雪道如 ファミリーゲレンデ、センターゲレンデ、コナシゲレンデ，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+富士見 Panorama Resort 以 3km 壓雪巡航路線為核心，山頂標高 1,780m、山麓 1,050m，能一路從コナシ滑到シーダー。初級練習坡、中級巡航與リンデン挑戰坡都有，適合想穩定練技術與享受長滑行的人。

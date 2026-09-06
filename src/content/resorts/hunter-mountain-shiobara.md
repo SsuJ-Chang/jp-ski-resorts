@@ -7,8 +7,8 @@ name:
 region: kanto-koshinetsu
 prefecture: 栃木縣
 location:
-  latitude: 36.938074
-  longitude: 139.753566
+  latitude: 36.93823927688861
+  longitude: 139.75389933912837
 elevation:
   top: 1638
   bottom: 1138
@@ -23,21 +23,23 @@ links:
   instagram: https://www.instagram.com/hunter_mountain_jpn/
   xTwitter: https://twitter.com/huntama
   trailMapPage: https://www.hunter.co.jp/winter/course/
+  ticket: https://www.hunter.co.jp/winter/ticket/#liftTicket
+  access: https://www.hunter.co.jp/winter/access/
   weather: https://weathernews.jp/ski/spot/34101/
-  googleMaps: https://maps.google.co.jp/maps?q=36.938074,139.753566
+  googleMaps: https://maps.app.goo.gl/k8ZH7xyJnRCe4YTE7
 contact:
   address:
     zhTw: 栃木縣那須塩原市湯本塩原字前黒
     ja: 〒329-2922 栃木県那須塩原市湯本塩原字前黒
     en: Yumotoshiobara Aza Maekuro, Nasushiobara, Tochigi 329-2922
-    googleMaps: https://maps.google.co.jp/maps?q=36.938074,139.753566
+    googleMaps: https://maps.app.goo.gl/k8ZH7xyJnRCe4YTE7
   phone: 0287-32-4580
 season:
   label: 2025-2026
   operatingPeriod: 2025/11/22-2026/04/23
   hours: 平日：8:30〜16:00 假日：8:00〜16:00
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
-  source: https://weathernews.jp/ski/spot/34101/
+  source: https://www.hunter.co.jp/winter/ticket/#liftTicket
 trailMaps:
 - label: Hunter Mountain 鹽原 官方雪道資訊
   language: 日本語
@@ -47,39 +49,29 @@ trailMaps:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/34101/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  source: https://www.hunter.co.jp/winter/ticket/#liftTicket
+  note: 2025-2026 票價依特定日、假日與平日區分；未就學兒童免費，兒童為小學生，長者優惠需年滿 60 歲並出示證件。回數券可多人共用，單點券依纜車種類扣點。
   plans:
-    - name: 1日券(特定日)
+    - name: 1 日券（特定日）
       priceLines:
-        - 成人：¥6,800
-        - 兒童：¥5,800
-        - 長者：¥6,300
-    - name: 1日券(假日)
+        - 大人 ¥6,800 / 兒童 ¥5,800 / 長者 ¥6,300
+    - name: 1 日券（假日）
       priceLines:
-        - 成人：¥6,500
-        - 兒童：¥5,500
-        - 長者：¥6,000
-    - name: 1日券(平日)
+        - 大人 ¥6,500 / 兒童 ¥5,500 / 長者 ¥6,000
+    - name: 1 日券（平日）
       priceLines:
-        - 成人：¥5,800
-        - 兒童：¥4,800
-        - 長者：¥5,300
-    - name: 4 小時券
+        - 大人 ¥5,800 / 兒童 ¥4,800 / 長者 ¥5,300
+    - name: 4 小時券（特定日／假日／平日）
       priceLines:
-        - 成人：¥6,500
-        - 兒童：¥5,500
-        - 長者：¥6,000
-    - name: 回數券（10 點）
+        - 大人 ¥6,500 / ¥6,200 / ¥5,500
+        - 兒童 ¥5,500 / ¥5,200 / ¥4,500
+        - 長者 ¥6,000 / ¥5,700 / ¥5,000
+    - name: 10 點回數券
       priceLines:
-        - 成人：¥5,500
-        - 兒童：¥5,500
-        - 長者：¥5,500
+        - ¥5,500（可多人共用）
     - name: 1 點券
       priceLines:
-        - 成人：¥600
-        - 兒童：¥600
-        - 長者：¥600
+        - 共通 ¥600
 snowWeather:
   title: Hunter Mountain 鹽原雪況天氣
   provider: Weathernews
@@ -91,90 +83,104 @@ snowWeather:
 courses:
   total: 12
   courseInfoPage: https://www.hunter.co.jp/winter/course/
-  summary: 列為 12 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 全 12 條雪道從初級到高級均衡配置，適合初學者、親子與進階滑雪者。可先從 West Side Street 到 Broadway 約 2,000m 的初級長滑行暖身，再搭乘纜車或 Gondola 挑戰山頂至山麓約 3,000m 的長距離下滑；Kids Park 設有雪橇專用區、Tubing 與免費休息空間，滑雪後還能前往鹽原溫泉，適合安排首都圈約 2.5 小時車程的一日滑雪。
   details:
-  - name: セサミストリート
+  - name: セサミ・ストリート / Sesame Street
     difficulty: beginner
     length: 220m
     maxSlope: 8°
     averageSlope: 5°
-    note: 初級練習坡；官方資料並列出全長 220m、最大坡度 8°、平均坡度 5°。
-  - name: セブンス・アベニュー
+    note: 可繞過 Broadway 的陡段，適合初學者安心滑行。
+  - name: セブンス・アベニュー / Seventh Avenue
     difficulty: beginner
     length: 700m
     maxSlope: 10°
     averageSlope: 7°
-    note: 初級巡航線；官方資料並列出全長 700m、最大坡度 10°、平均坡度 7°。
-  - name: ファッション・アベニュー
+    note: 初級長距離路線，適合穩定練習轉彎。
+  - name: ファッション・アベニュー / Fashion Avenue
     difficulty: beginner
     length: 380m
     maxSlope: 5°
     averageSlope: 5°
-    note: 坡度很緩的初級路線；官方資料並列出全長 380m、最大坡度 5°、平均坡度 5°。
-  - name: ウェストサイド・ストリート
+    note: 連接 Park Avenue 與 Lexington 的平緩路線，適合家庭滑行。
+  - name: ウエストサイド・ストリート / West Side Street
     difficulty: beginner
     length: 960m
     maxSlope: 15°
     averageSlope: 10°
-    note: 較長的初級巡航線；官方資料並列出全長 960m、最大坡度 15°、平均坡度 10°。
-  - name: ブロードウェイ
-    difficulty: intermediate
+    note: 連接上部雪道與 Broadway 的初學者路線，坡度穩定，適合練習。
+  - name: ブロードウェイ / Broadway
     length: 1,010m
     maxSlope: 22°
     averageSlope: 10°
-    note: 中級主線之一；官方資料並列出全長 1,010m、最大坡度 22°、平均坡度 10°。
-  - name: フォーティーセカンド・ストリート
+    difficulty: beginner
+    note: 寬廣開放的初級主線，設有雪上公園、波浪與多種道具，初學者與兒童都能使用。
+  - name: フォーティーセカンド・ストリート / 42nd Street
     difficulty: intermediate
     length: 1,000m
     maxSlope: 22°
     averageSlope: 15°
-    note: 中級主線之一；官方資料並列出全長 1,000m、最大坡度 22°、平均坡度 15°。
-  - name: レキシントン・アベニュー
+    note: 每年通常較早開放的中級路線，坡度變化較豐富。
+  - name: レキシントン・アベニュー / Lexington Avenue
     difficulty: intermediate
     length: 870m
     maxSlope: 20°
     averageSlope: 15°
-    note: 中級巡航線；官方資料並列出全長 870m、最大坡度 20°、平均坡度 15°。
-  - name: パーク・アベニュー
+    note: 具有左右扭轉地形的中級路線，部分時段會設置旗門。
+  - name: パーク・アベニュー / Park Avenue
     difficulty: intermediate
     length: 970m
     maxSlope: 20°
     averageSlope: 15°
-    note: 中級路線；官方資料並列出全長 970m、最大坡度 20°、平均坡度 15°。
-  - name: ウォール・ストリート
+    note: 寬廣且容易滑行的中級練習路線，坡度有變化但整體舒適。
+  - name: ウォール・ストリート / Wall Street
     difficulty: advanced
     length: 600m
     maxSlope: 25°
     averageSlope: 20°
-    note: 進階坡；官方資料並列出全長 600m、最大坡度 25°、平均坡度 20°。
-  - name: マディソン・アベニュー
-    difficulty: advanced
+    note: 通常較早開放的高級路線，視野開闊，可享受爽快下滑。
+  - name: マディソン・アベニュー / Madison Avenue
+    difficulty: intermediate
     length: 650m
     maxSlope: 20°
     averageSlope: 15°
-    note: 進階路線；官方資料並列出全長 650m、最大坡度 20°、平均坡度 15°。
-  - name: ニュー・マディソン
+    note: 寬廣的一面坡，最大斜度 20°，中級者可進行大幅度刻滑。
+  - name: ニュー・マディソン / New Madison
     difficulty: advanced
     length: 380m
     maxSlope: 25°
     averageSlope: 20°
-    note: 進階路線；官方資料並列出全長 380m、最大坡度 25°、平均坡度 20°。
-  - name: エフ・ディー・アール
-    difficulty: advanced
+    note: Hunter Mountain 高級主線，最大斜度 25°，從 Madison Avenue 延伸而下。
+  - name: エフ・ディー・アール / FDR
+    difficulty: intermediate
     length: 810m
     maxSlope: 25°
     averageSlope: 18°
-    note: 進階路線；官方資料並列出全長 810m、最大坡度 25°、平均坡度 18°。
+    note: 左右坡度變化豐富的競技型路線，上部在冬季中段可能設為貓跳雪道。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
 lifts:
   total: 6
 access:
+  fromTokyo:
+  - label: 那須鹽原站免費接駁巴士
+    steps:
+    - 從東京站搭乘東北新幹線至那須鹽原站。
+    - 轉乘完全預約制免費接駁巴士前往 Hunter Mountain；也可搭計程車。
+    estimatedTime: 約 1 小時 40 分鐘
+    difficulty: medium
+    note: 那須鹽原便預計於 2025/12/13-2026/3/29 運行；平日與週末時刻不同，須事前預約。
+    links:
+    - label: Hunter Mountain 官方交通資訊
+      url: https://www.hunter.co.jp/winter/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：東北新幹線那須塩原駅から免費シャトルバス(要予約)､またはタクシー (75分) 電車 ：宇都宮駅から免費シャトルバス 車 ：＜東北自動車道＞川口JCT→西那須野塩原IC→R400号→塩原町→日塩もみじライン (140分) 車 ：＜日光宇都宮道路＞宇都宮JCT→今市IC→R121号→鬼怒川温泉→日塩もみじライン (140分) 飛行機：福島空港→須賀川JCT→西那須野塩原IC→R400号→塩原町→日塩もみじライン (120分) 2000台 平日 免費 假日 1000円
+    note: 從東北自動車道西那須野鹽原 IC 約 29km，沿國道 400 號經鹽原溫泉與日塩紅葉 Line 前往；從今市 IC 約 38km，經國道 121 號與日塩紅葉 Line 前往。冬季路面可能積雪或結冰，請準備雪胎或雪鏈。停車場約 2,000 台，平日免費，週末假日與年末年始 ¥1,000，24 小時開放。
+    links:
+    - label: Hunter Mountain 官方交通資訊
+      url: https://www.hunter.co.jp/winter/access/
 terrainSummary:
   beginner: 初級雪道以 セサミストリート、セブンス・アベニュー、ファッション・アベニュー、ウェストサイド・ストリート 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 ブロードウェイ、フォーティーセカンド・ストリート、レキシントン・アベニュー、パーク・アベニュー 串接較長滑行或主坡巡航。
