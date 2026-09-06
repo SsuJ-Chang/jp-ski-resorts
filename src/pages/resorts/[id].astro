@@ -31,7 +31,7 @@ const hasExternalContent =
   (resort.data.externalContent?.vlogs?.length ?? 0) > 0
 const hasLodgingRecommendations = (resort.data.lodgingRecommendations?.length ?? 0) > 0
 const nearbyLodgingUrl = resort.data.location
-  ? `https://www.google.com/maps/search/lodging/@${resort.data.location.latitude},${resort.data.location.longitude},12z`
+  ? `https://www.google.com/maps/search/lodging/@${resort.data.location.latitude},${resort.data.location.longitude},13z`
   : undefined
 const hasRjOpinion = Boolean(resort.data.rjOpinion?.trim())
 const externalGuide = resort.data.externalGuide
@@ -914,7 +914,7 @@ const resortStructuredData = [
                   <li>
                     <div>
                       <a href={nearbyLodgingUrl} target="_blank" rel="noreferrer">
-                        透過 Google Maps 搜尋{resort.data.name.zhTw}附近住宿
+                        搜尋 {resort.data.name.zhTw} 附近住宿
                       </a>
                     </div>
                   </li>
