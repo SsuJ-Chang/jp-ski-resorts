@@ -1,15 +1,15 @@
 ---
 id: okutone-snow-park
 name:
-  zhTw: 奧利根 Snow Park
+  zhTw: 奧利根雪樂園
   ja: 奥利根スノーパーク
   en: Okutone Snow Park
 region: kanto-koshinetsu
 prefecture: 群馬縣
 skiArea: minakami
 location:
-  latitude: 36.803306
-  longitude: 139.006577
+  latitude: 36.80324843050479
+  longitude: 139.0065096252412
 elevation:
   top: 1180
   bottom: 680
@@ -24,13 +24,13 @@ links:
   instagram: https://www.instagram.com/okutone.snowpark/
   trailMapPage: https://okutone.jp/gelande/
   weather: https://weathernews.jp/ski/spot/34225/
-  googleMaps: https://maps.google.co.jp/maps?q=36.803306,139.006577
+  googleMaps: https://maps.app.goo.gl/h6APAKLGYtrmFG7j9
 contact:
   address:
-    zhTw: 群馬縣利根郡みなかみ町向山39
+    zhTw: 群馬縣利根郡水上町向山 39
     ja: 〒379-1724 群馬県利根郡みなかみ町向山39
     en: 39 Mukaiyama, Tone District Minakami, Gunma 379-1724
-    googleMaps: https://maps.google.co.jp/maps?q=36.803306,139.006577
+    googleMaps: https://maps.app.goo.gl/h6APAKLGYtrmFG7j9
   phone: 0278-72-8101
 season:
   label: 2025-2026

@@ -53,7 +53,7 @@ export const minakamiMap = {
     },
     {
       id: 'tanigawadake-tenjindaira',
-      label: '谷川岳天神平',
+      label: 'Mt. T by 星野集團',
       kind: 'resort',
       resortId: 'tanigawadake-tenjindaira',
       location: { latitude: 36.837, longitude: 138.938 },

@@ -7,8 +7,8 @@ name:
 region: kanto-koshinetsu
 prefecture: 群馬縣
 location:
-  latitude: 36.635703
-  longitude: 138.506178
+  latitude: 36.63584826515641
+  longitude: 138.50619973872872
 elevation:
   top: 1990
   bottom: 1654
@@ -26,41 +26,45 @@ links:
   instagram: https://www.instagram.com/manza_s_official/
   xTwitter: https://twitter.com/manzaspa_snow
   trailMapPage: https://www.princehotels.co.jp/ski/manza/winter/coursemap/
+  ticket: https://www.princehotels.co.jp/ski/manza/winter/lift/#lift-fee
+  access: https://www.princehotels.co.jp/ski/manza/winter/access/
   weather: https://weathernews.jp/ski/spot/34203/
-  googleMaps: https://maps.google.co.jp/maps?q=36.635703,138.506178
+  googleMaps: https://maps.app.goo.gl/bpgq1GdWfPvsXir77
 contact:
   address:
-    zhTw: 群馬縣吾妻郡嬬恋村万座温泉
+    zhTw: 〒377-1528 群馬縣吾妻郡嬬戀村萬座溫泉
     ja: 〒377-1528 群馬県吾妻郡嬬恋村万座温泉
-    en: Manzaonsen, Azuma District Tsumagoi, Gunma 377-1528
-    googleMaps: https://maps.google.co.jp/maps?q=36.635703,138.506178
+    en: Manza Onsen, Tsumagoi Village, Agatsuma District, Gunma 377-1528
+    googleMaps: https://maps.app.goo.gl/bpgq1GdWfPvsXir77
   phone: 0279-97-3117
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/03/22
+  label: 2026-2027
+  operatingPeriod: 2026/12/19-2027/03/22
   hours: 平日：8:30〜16:30（平日・週日・國定假日） 假日：8:30〜17:00（週六・年末年始・連休中日）
-  note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
-  source: https://weathernews.jp/ski/spot/34203/
+  note: 2026-2027 雪季預計於 2026/12/19 開幕；實際營業期間、開放雪道與營業時間請以官方公告為準。
+  source: https://www.princehotels.co.jp/ski/manza/winter/coursemap/
 trailMaps:
-- label: 萬座溫泉 官方雪道資訊
+- label: 萬座溫泉官方雪道資訊
   language: 日本語
-  season: 2025-2026
+  season: 2026-2027
   url: https://www.princehotels.co.jp/ski/manza/winter/coursemap/
   sourceLabel: Manza Onsen Ski Resort Official
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/34203/
-  note: 2025-2026 票價摘要；實際販售條件、日期與折扣請以官方公告為準。
+  source: https://www.princehotels.co.jp/ski/manza/winter/lift/#lift-fee
+  note: 官方票價頁目前公開的是 2025-2026 縮小營業期間的特別票價；2026-2027 票價尚待官方更新。
   plans:
-    - name: 1 日券（12/30 ~ 1/3 加收 ¥200）
+    - name: 1 日券
       priceLines:
-        - 成人：¥5,700
-        - 兒童：免費
-    - name: 4 小時券（12/30 ~ 1/3 加收 ¥200）
+        - 成人：一般 ¥3,000 / SEIBU PRINCE CLUB 會員 ¥2,800
+        - 兒童（小學生以下）：免費
+      note: 2025/12/20 ~ 2026/3/22 適用；兒童需至售票處領取專用票券。
+    - name: 1 回券
       priceLines:
-        - 成人：¥5,200
-        - 兒童：免費
+        - 成人：¥1,000
+        - 兒童（小學生以下）：免費
+      note: 2025-2026 雪季內可使用。
 snowWeather:
   title: 萬座溫泉雪況天氣
   provider: Weathernews
@@ -72,7 +76,7 @@ snowWeather:
 courses:
   total: 14
   courseInfoPage: https://www.princehotels.co.jp/ski/manza/winter/coursemap/
-  summary: 列為 14 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 萬座溫泉共有 14 條雪道，最長滑走距離 2,500m、總滑走距離 7,976m，從初級林間與全景雪道，到非壓雪粉雪區及進階挑戰坡都有配置。
   details:
   - name: B1 どうぶつの森コース
     difficulty: beginner
@@ -129,7 +133,7 @@ courses:
     averageSlope: 13°
     note: 需步行上行，官方標示為非壓雪的中級路線；官方資料並列出全長 453m、最大坡度 19°、平均坡度 13°。
   - name: D1 万座山ゲレンデ
-    difficulty: ungroomed
+    difficulty: intermediate
     length: 748m
     maxSlope: 29°
     averageSlope: 15°
@@ -164,10 +168,20 @@ courses:
 lifts:
   total: 4
 access:
+  publicTransit:
+  - label: 輕井澤站轉乘西武觀光巴士
+    steps:
+    - 從輕井澤站搭乘西武觀光巴士，經萬座・鹿澤口站前往萬座溫泉。
+    - 抵達萬座溫泉後前往萬座溫泉滑雪場。
+    difficulty: medium
+    note: 官方交通頁提供輕井澤站、萬座・鹿澤口站與萬座溫泉之間的路線巴士時刻表連結，班次請依當季公告確認。
+    links:
+    - label: 官方交通資訊
+      url: https://www.princehotels.co.jp/ski/manza/winter/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 交通資訊摘要：吾妻線万座・鹿沢口駅、タクシー (30分) 電車 ：吾妻線万座・鹿沢口駅、西武高原バス (50分) 車 ：関越自動車道 渋川伊香保IC→万座温泉 (100分) 車 ：上信越自動車道 碓氷軽井沢IC→万座温泉 (90分) 400台 平日 免費 假日 免費
+    note: 可經鬼押ハイウェー與萬座ハイウェー前往萬座溫泉，兩條道路均為收費道路。官方停車場約 400 台，免費且 24 小時可使用；冬季山路需準備雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道以 B1 どうぶつの森コース、B6 ハイクアップ A、C1 パノラマゲレンデ R、C2 パノラマゲレンデ L 為主，適合練習速度控制與穩定轉彎。
   intermediate: 中級者可用 A1 プリンスゲレンデ L、A2 プリンスゲレンデ R、B2 しゃくなげコース、B7 ハイクアップ B 串接較長滑行或主坡巡航。

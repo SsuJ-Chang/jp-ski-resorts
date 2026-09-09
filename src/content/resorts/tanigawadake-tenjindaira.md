@@ -1,7 +1,7 @@
 ---
 id: tanigawadake-tenjindaira
 name:
-  zhTw: 谷川岳天神平
+  zhTw: Mt. T by 星野集團
   ja: Mt.T by 星野リゾート
   en: Mt.T by Hoshino Resorts
 region: kanto-koshinetsu
@@ -30,56 +30,56 @@ links:
   instagram: https://www.instagram.com/mt.t_by_hoshinoresorts
   trailMapPage: https://tanigawadake-joch.com/mt-t/
   ticket: https://tanigawadake-joch.com/mt-t/
-  access: https://tanigawadake-joch.com/mt-t/
+  access: https://tanigawadake-joch.com/mt-t/route/
   weather: https://weathernews.jp/ski/spot/34202/
   googleMaps: https://maps.app.goo.gl/2X8cd4bZBwyj7Rn16
 contact:
   address:
-    zhTw: 群馬縣利根郡みなかみ町湯檜曾湯吹山國有林
+    zhTw: 〒379-1728 群馬縣利根郡水上町湯檜曾湯吹山國有林
     ja: 〒379-1728 群馬県利根郡みなかみ町湯檜曽湯吹山国有林
-    en: Yuhinokisoyusuiyamaguniyuurin, Tone District Minakami, Gunma 379-1728
+    en: Yubiso, Yubukiyama National Forest, Minakami Town, Tone District, Gunma 379-1728
     googleMaps: https://maps.app.goo.gl/2X8cd4bZBwyj7Rn16
   phone: 0278-72-3575
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/4/5
+  label: 2026-2027
+  operatingPeriod: 2026/12/19-2027/4/4
   hours: 8:30-16:30（纜車至 16:00）
-  note: 官方 Mt.T 頁與公開資料均列 2025/12/20-2026/4/5，實際開放與田尻沢コース會受積雪、雪崩風險與天候影響。
+  note: 官方 Mt.T 頁列 2026/12/19-2027/4/4，實際開放與田尻沢コース會受積雪、雪崩風險與天候影響。
   source: https://tanigawadake-joch.com/mt-t/
 trailMaps:
 - label: Mt.T 官方 Snowfield Map
   language: 日本語
-  season: 2025-2026
+  season: 2026-2027
   url: https://tanigawadake-joch.com/mt-t/
   sourceLabel: Mt.T Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://tanigawadake-joch.com/mt-t/
-  note: 官方票價包含滑雪場內外攜帶雙板或雪板搭乘 Ropeway 的使用情境，觀光與登山用途票券請改查谷川岳ヨッホ官方網站。
+  note: 攜帶雙板或雪板搭乘 Ropeway 前往滑雪場內外，均須購買滑雪票；觀光與登山用途票券不適用本區票價。
   plans:
-    - name: 1Day Pass
+    - name: 1 日券
       priceLines:
         - 成人：¥9,000
-        - 小學生：¥1,500
-      note: 適用 2025/12/20-2026/1/9 與 2026/3/1-3/9。
-    - name: Ultimate 1Day Pass
+        - 小學生：¥2,000
+      note: 成人適用 2026/12/19 ~ 2027/1/8、2027/3/1 ~ 3/9；小學生全期間 ¥2,000。
+    - name: Ultimate 1 日券
       priceLines:
-        - 成人：¥13,000
-        - 小學生：¥1,500
-      note: 適用 2026/1/10-2/28，官方標示 150 名限定且需預約。
+        - 成人：¥14,000
+        - 小學生：¥2,000
+      note: 適用 2027/1/9 ~ 2/28，限量 150 名且需預約；小學生票價全期間 ¥2,000。
     - name: Spring Pass
       priceLines:
         - 成人：¥6,000
-        - 小學生：¥1,500
-      note: 適用 2026/3/10-4/5。
+        - 小學生：¥2,000
+      note: 適用 2027/3/10 ~ 4/4；小學生票價全期間 ¥2,000。
     - name: 下午券
       priceLines:
         - 成人：¥6,000
-        - 小學生：¥1,500
-      note: 12:00 起可使用，適用 2025/12/20-2026/4/5。
+        - 小學生：¥2,000
+      note: 12:00 起可使用，適用 2026/12/19 ~ 2027/4/4；小學生票價全期間 ¥2,000。
 snowWeather:
-  title: 谷川岳天神平雪況天氣
+  title: Mt. T 雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34202/
   snowDepth: 0 cm
@@ -92,7 +92,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://tanigawadake-joch.com/mt-t/
-  summary: 官方 Mt.T 頁提供 Snowfield Map，列為 8 條雪道、4 座纜車，並強調 100% 天然雪、粉雪與起伏地形，文字可確認的重點區域包含天神峠上級區與田尻沢コース A。
+  summary: 雪場共有 8 條雪道與 4 座纜車，以 100% 天然雪、粉雪與起伏地形為特色；重點區域包含天神峠上級區與田尻沢コース A。
   details:
   - name: 天神平エリア
     difficulty: beginner
@@ -116,7 +116,7 @@ access:
     - 從上毛高原站轉乘巴士前往谷川岳 Ropeway / Mt.T。
     estimatedTime: 東京起約 2 小時
     difficulty: medium
-    note: 官方 Mt.T 頁標示首都圈最短約 2 小時，巴士班次請以谷川岳ヨッホ與交通業者公告為準。上毛高原站後約 45 分鐘。
+    note: 官方 Mt.T 頁標示新幹線與巴士從東京出發最快約 2 小時；上毛高原站後的巴士車程約 45 分鐘，班次請以當季公告為準。
     links:
     - label: Mt.T Official
       url: https://tanigawadake-joch.com/mt-t/
@@ -131,7 +131,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 可由關越道水上 IC 銜接，冬季山岳道路與停車場狀況需事先確認。
+    note: 可由關越自動車道水上 IC 前往谷川岳ヨッホ Base Plaza。冬季 1 至 5 樓停車免費、6 樓 ¥1,000；12 月至 3 月請使用雪胎或雪鏈。
 terrainSummary:
   beginner: 公開資料列整體初級比例 30%，但官方定位偏粉雪與自然地形，初學者需確認當日開放雪道。
   intermediate: 天神平與高倉山周邊提供中級動線，實際可滑範圍會受天候、風雪與雪崩風險影響。
@@ -143,4 +143,4 @@ externalContent:
   vlogs: []
 ---
 
-谷川岳天神平位於群馬縣，是中小型雪場，共有8 條雪道，搭配 4 座纜車。代表路線包含 天神平エリア、高倉山第一ペアリフトエリア、天神峠ペアリフト上級エリア，初級、中級與上級路線都有配置；標籤上偏向溫泉停留、雙板與單板。
+Mt. T by 星野集團位於群馬縣谷川岳，是由纜車連接的高山滑雪場，舊稱谷川岳天神平滑雪場。雪場以未使用人工降雪的天然雪、粉雪與豐富起伏地形聞名，適合初級至中級滑雪者；對進階玩家而言，野外滑雪地形與厚實粉雪則是主要魅力。從上毛高原站搭巴士約 50 分鐘可抵達，適合安排水上溫泉周邊的一日滑雪行程。
