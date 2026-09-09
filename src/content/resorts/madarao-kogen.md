@@ -338,6 +338,9 @@ externalContent:
   - title: 班尾高原滑雪場：日本第一滑雪YouTuber, 刻平流派創始人 IGchan @いぐっちゃん 滑遍日本後的最愛雪場！Ｉ 日本雪場介紹 Japan Resort Review Ｉ Madarao
     url: https://www.youtube.com/watch?v=9oDbDE9dFGI
     note: Uncle Perry - The Snow Sensei
+  - title: 日本滑雪新選擇！【斑尾高原/Tangram】人少少最好！｜交通、住宿、雪具租借全攻略
+    url: https://www.youtube.com/watch?v=E_LcQwp-qr8
+    note: Philip Wu 菲力•吳
   - title: "【上から下まで】斑尾高原スキー場を豪華ゲストと共に！ //Who's TV"
     url: https://www.youtube.com/watch?v=6vMAWJxnjwo
     note: Who’s TV / by Fumika Hoshino
