@@ -80,7 +80,7 @@ tickets:
         - 成人：¥70,000
         - 長者：¥60,000
 snowWeather:
-  title: 奧利根 Snow Park雪況天氣
+  title: 奧利根 Snow Park 雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34225/
   snowDepth: 0 cm
@@ -165,4 +165,4 @@ terrainSummary:
 
 ---
 
-奧利根 Snow Park在群馬縣提供9 條雪道，搭配 7 座纜車。路線包含 万治平ゲレンデ、向山ゲレンデ、かもしかコース，整體初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。
+奧利根 Snow Park 在群馬縣提供 9 條雪道，搭配 7 座纜車。路線包含 万治平ゲレンデ、向山ゲレンデ、かもしかコース，整體初級、中級與上級路線都有配置；標籤上偏向夜滑、雙板與單板。
