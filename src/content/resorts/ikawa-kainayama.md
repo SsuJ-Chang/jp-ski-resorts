@@ -21,7 +21,7 @@ contact:
     ja: 〒779-4805 徳島県三好市井川町井内西
     en: Iuchinishi, Ikawa-Cho, Miyoshi, Tokushima 779-4805
     googleMaps: https://maps.app.goo.gl/FR3miW8ZXaPb2VCf9
-  phone: 883-78-3003
+  phone: 0883-78-3003
 snowWeather:
   title: 井川腕山雪況天氣
   provider: Weathernews

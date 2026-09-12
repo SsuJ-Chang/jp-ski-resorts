@@ -34,7 +34,7 @@ contact:
     ja: 〒944-0062 新潟県妙高市両善寺1966
     en: 1966 Ryouzentera, Myoukou, Niigata 944-0062
     googleMaps: https://maps.app.goo.gl/iNta2t4Sk8QRWhFJ8
-  phone: 255-75-1100
+  phone: 0255-75-1100
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/14-2026/5/12

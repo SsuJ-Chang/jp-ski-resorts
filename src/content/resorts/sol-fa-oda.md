@@ -7,8 +7,8 @@ name:
 region: kansai-chugoku
 prefecture: 愛媛縣
 location:
-  latitude: 33.54095925169506
-  longitude: 132.83374739680153
+  latitude: 33.54098607885667
+  longitude: 132.83375812563705
 tags:
 - beginner_friendly
 - family_friendly
@@ -19,14 +19,14 @@ links:
   instagram: https://www.instagram.com/solfa.oda/
   weather: https://weathernews.jp/ski/spot/37304/
   access: https://sol-fa.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9-1/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=SOL-FA%E3%82%AA%E3%83%80%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%B2%E3%83%AC%E3%83%B3%E3%83%87
+  googleMaps: https://maps.app.goo.gl/zPhM6wW1xBSykLcG9
 contact:
   address:
     zhTw: 愛媛縣喜多郡內子町小田深山
     ja: 〒791-3524 愛媛県喜多郡内子町小田深山
     en: Odamiyama, Kita District Uchiko, Ehime 791-3524
-    googleMaps: https://maps.app.goo.gl/kTTh5qfZSVeLRpj6A
-  phone: 892-52-3232
+    googleMaps: https://maps.app.goo.gl/zPhM6wW1xBSykLcG9
+  phone: 0892-52-3232
 snowWeather:
   title: SOL-FA Oda 雪況天氣
   provider: Weathernews

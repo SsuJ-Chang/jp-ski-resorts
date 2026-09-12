@@ -36,7 +36,7 @@ contact:
     ja: 〒949-2235 新潟県妙高市赤倉温泉
     en: Akakuraonsen, Myoukou, Niigata 949-2235
     googleMaps: https://maps.app.goo.gl/ZLBbHjcQ21WGhhJq8
-  phone: 255-87-2125
+  phone: 0255-87-2125
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/13-2026/4/5

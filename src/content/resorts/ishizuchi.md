@@ -8,22 +8,22 @@ name:
 region: kansai-chugoku
 prefecture: 愛媛縣
 location:
-  latitude: 33.796551163589044
-  longitude: 133.13219615448043
+  latitude: 33.79660465870358
+  longitude: 133.1321854256449
 links:
   official: https://www.ishizuchi.com/ski/
   instagram: https://www.instagram.com/ishizuchiropeway/
   weather: https://weathernews.jp/ski/spot/37301/
   access: https://www.ishizuchi.com/ski/access
   ticket: https://www.ishizuchi.com/ski/price
-  googleMaps: https://maps.app.goo.gl/fRVSSEbUjp8b7SWB8
+  googleMaps: https://maps.app.goo.gl/VQM7k4QEmaMo1Wg3A
 contact:
   address:
-    zhTw: Tei Nishinokawa, Saijo, Ehime 793-0215
-    ja: Tei Nishinokawa, Saijo, Ehime 793-0215日本
-    en: Tei Nishinokawa, Saijo, Ehime 793-0215nippon
-    googleMaps: https://maps.app.goo.gl/kTTh5qfZSVeLRpj6A
-  phone: 897-59-0331
+    zhTw: 愛媛縣西條市西之川下谷甲81番地
+    ja: 〒793-0215 愛媛県西条市西之川下谷甲81番地
+    en: 81, Shimonoya-ko, Nishinokawa, Saijo-shi, Ehime, 793-0215
+    googleMaps: https://maps.app.goo.gl/VQM7k4QEmaMo1Wg3A
+  phone: 0897-59-0331
 snowWeather:
   title: 石鎚雪況天氣
   provider: Weathernews
