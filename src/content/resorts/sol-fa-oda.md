@@ -1,8 +1,8 @@
 ---
 id: sol-fa-oda
 name:
-  zhTw: SOL-FA Oda
-  ja: SOLFA小田スキー場
+  zhTw: SOL-FA 小田
+  ja: SOL-FA小田スキー場
   en: SOL-FA Oda Ski Gelande
 region: kansai-chugoku
 prefecture: 愛媛縣
@@ -28,7 +28,7 @@ contact:
     googleMaps: https://maps.app.goo.gl/zPhM6wW1xBSykLcG9
   phone: 0892-52-3232
 snowWeather:
-  title: SOL-FA Oda 雪況天氣
+  title: SOL-FA 小田雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/37304/
   snowDepth: 0 cm
@@ -41,7 +41,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://tw.wamazing.com/snow/articles/396
-  summary: SOL-FA Oda 共有 5 條雪道，初級 30%、中級 50%、上級 20%；最長滑行距離 1,200m、最大坡度 30 度，並設有人工降雪設備與兒童雪地遊樂區。
+  summary: SOL-FA 小田共有 5 條雪道，初級 30%、中級 50%、上級 20%；最長滑行距離 1,200m、最大坡度 30 度，並設有人工降雪設備與兒童雪地遊樂區。
   details:
     - name: 家庭雪道 / ファミリーゲレンデ
       difficulty: beginner
@@ -74,7 +74,7 @@ externalContent:
       url: https://tw.wamazing.com/snow/articles/396
   vlogs: []
 sources:
-  - label: SOL-FA Oda 官方交通
+  - label: SOL-FA 小田官方交通
     url: https://www.sol-fa.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9-1/
   - label: Wamazing SOL-FA Oda 介紹
     url: https://tw.wamazing.com/snow/articles/396
