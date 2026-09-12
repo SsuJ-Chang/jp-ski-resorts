@@ -7,8 +7,8 @@ name:
 region: kanto-koshinetsu
 prefecture: 群馬縣
 location:
-  latitude: 36.780851
-  longitude: 139.167726
+  latitude: 36.78084631679585
+  longitude: 139.16795073923424
 elevation:
   top: 1828
   bottom: 1200
@@ -23,13 +23,13 @@ links:
   xTwitter: https://x.com/ognahotaka
   trailMapPage: https://k-hotaka.jp/ogna/slope-guide/
   weather: https://weathernews.jp/ski/spot/34215/
-  googleMaps: https://maps.google.co.jp/maps?q=36.780851,139.167726
+  googleMaps: https://maps.app.goo.gl/xyR73d7sYSCJMDsz9
 contact:
   address:
     zhTw: 群馬縣利根郡片品村大字花咲字武尊山
     ja: 〒378-0408 群馬県利根郡片品村大字花咲字武尊山
     en: Ooaza Hanasaki Aza Busonyama, Tone District Katashina, Gunma 378-0408
-    googleMaps: https://maps.google.co.jp/maps?q=36.780851,139.167726
+    googleMaps: https://maps.app.goo.gl/xyR73d7sYSCJMDsz9
   phone: 0278-58-2133
 season:
   label: 2025-2026
@@ -187,4 +187,4 @@ terrainSummary:
 
 ---
 
-Ogna 武尊是群馬縣的中型雪場，整理為13 條雪道，搭配 6 座纜車。雪道如 第1ゲレンデ、ロマンス連絡コース、ロマンスコース，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。
+Ogna 武尊是群馬縣的中型雪場，整理為 13 條雪道，搭配 6 座纜車。雪道如 第1ゲレンデ、ロマンス連絡コース、ロマンスコース，初級、中級與上級路線都有配置；標籤上偏向雙板與單板。
