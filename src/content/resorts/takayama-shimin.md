@@ -28,7 +28,7 @@ contact:
     ja: 〒509-3505 岐阜県高山市一之宮町7846-1
     en: 7846-1, Kouzan, Kazuyukimiya, Gifu 509-3505
     googleMaps: https://maps.app.goo.gl/9F3vTmnoLjjy9UDK8
-  phone: '0577532421'
+  phone: 0577-53-2421
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/3/1

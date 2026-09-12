@@ -29,7 +29,7 @@ links:
   instagram: https://www.instagram.com/zao_onsen/
   weather: https://weathernews.jp/ski/spot/33501/
   ticket: https://zaomountainresort.com/chrage/
-  access: https://zaomountainresort.com/access/
+  access: https://zaomountainresort.com/parking/
   googleMaps: https://maps.app.goo.gl/ZHKC87u1K18H8H5i7
 contact:
   address:
@@ -37,14 +37,14 @@ contact:
     ja: 〒990-2301 山形県山形市蔵王温泉
     en: Zao Onsen, Yamagata, Yamagata 990-2301
     googleMaps: https://maps.app.goo.gl/ZHKC87u1K18H8H5i7
-  phone: 023-694-9328（藏王溫泉觀光協會）
+  phone: 023-694-9617
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/06-2026/04/24
-  hours: 日間 8:30-17:00（2025-2026 雪季公開資料）
-  nightSkiingHours: 17:00-21:00（2025-2026 雪季公開資料）
-  note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
-  source: https://weathernews.jp/ski/spot/33501/
+  label: 2026-2027
+  operatingPeriod: 2026/12/12-2027/5/5
+  hours: 日間 8:30-17:00
+  nightSkiingHours: 上之台雪道 17:00-21:00
+  note: 2026/12/12 為預定開場日，實際滑行可否依積雪狀況調整；4/1 起為終盤季，最長營業至 2027/5/5。
+  source: https://zaomountainresort.com/chrage/
 trailMaps:
 - label: 藏王溫泉雪道圖（繁體中文）
   language: 繁體中文
@@ -62,39 +62,44 @@ trailMaps:
   url: https://zaomountainresort.com/wp-content/uploads/2025/12/9d45f970480a76533d890b93e6826edf-scaled.jpg
   sourceLabel: Zao Onsen Ski Resort Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://zaomountainresort.com/chrage/
-  note: 官方票價依開季 / 終盤季、一般季、尖峰季、年末年始與春季分級；這裡只整理一般遊客最常用的票種，季票與 10 小時券請直接看官方頁。
+  note: 官方票價分為一般季、尖峰季、春季、開季 / 終盤季；這裡整理一般遊客最常用票種，團體、季票、10 小時券與點數券請以官方頁為準。
   plans:
     - name: 4 小時券
       priceLines:
-        - 成人、長者：¥5,300 ~ ¥7,000
-        - 兒童：¥2,700 ~ ¥3,500
-      note: 依一般季、尖峰季、年末年始與春季分級；開季 / 終盤季未提供。
+        - 成人、長者：¥5,700 ~ ¥7,400
+        - 國中以下兒童：¥2,900 ~ ¥3,700
+      note: 依一般季、尖峰季與春季分級；開季 / 終盤季未提供 4 小時券。
     - name: 1 日券
       priceLines:
-        - 成人：¥4,800 ~ ¥8,500
-        - 長者、高中生：¥5,700 ~ ¥7,600
-        - 兒童：¥2,400 ~ ¥4,300
-      note: 長者為 60 歲以上；可於上之台夜滑日使用。
+        - 成人：¥4,800 ~ ¥9,000
+        - 長者、高中生：¥6,300 ~ ¥8,100
+        - 國中以下兒童：¥2,400 ~ ¥4,500
+        - 山形縣民優惠：¥6,000 ~ ¥8,000
+      note: 成人為未滿 60 歲且非高中生 / 兒童者；長者為 60 歲以上，需出示可確認年齡的證件。1-3 日券可於夜滑營業日使用上之台夜滑。
     - name: 2 日券
       priceLines:
-        - 成人：¥12,900 ~ ¥16,900
-        - 長者、高中生：¥11,400 ~ ¥15,200
-        - 兒童：¥6,500 ~ ¥8,500
+        - 成人：¥13,900 ~ ¥17,900
+        - 長者、高中生：¥12,500 ~ ¥16,100
+        - 國中以下兒童：¥6,900 ~ ¥8,900
       note: 連續 2 日有效。
     - name: 3 日券
       priceLines:
-        - 成人：¥19,300 ~ ¥25,300
-        - 長者、高中生：¥17,100 ~ ¥22,800
-        - 兒童：¥9,700 ~ ¥12,700
+        - 成人：¥20,800 ~ ¥26,800
+        - 長者、高中生：¥18,700 ~ ¥24,100
+        - 國中以下兒童：¥10,300 ~ ¥13,300
       note: 連續 3 日有效。
     - name: 夜滑券
       priceLines:
         - 成人：¥3,000
-        - 兒童：¥1,500
-      note: 限上之台雪道，17:00 - 21:00，適用日為 2025/12/20 - 2026/3/1 每日與 2026/3/7、3/8。
+        - 國中以下兒童：¥1,500
+      note: 限上之台雪道，17:00-21:00。
+    - name: 兒童滑雪日 1 日券
+      priceLines:
+        - 國中以下兒童：¥1,000
+      note: 官方指定日期限定，夜滑也可使用。
 snowWeather:
   title: 藏王溫泉雪況天氣
   provider: Weathernews
@@ -104,12 +109,12 @@ snowWeather:
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
-  total: 26
+  total: 24
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20
-  courseInfoPage: https://zaomountainresort.com/gerende/
-  summary: 官方標示藏王溫泉有 14 個雪道區、12 條主要課程路線，初級 40%、中級 40%、上級 20%。可從樹冰高原一路串連到溫泉街，也有競賽斜面、長距離巡航與夜滑配置。
+  courseInfoPage: https://www.kankou.yamagata.yamagata.jp/zao/winter/gelande/course.html
+  summary: 藏王溫泉是東北最大級雪場，官方觀光資訊列出 11 條代表性串連路線；SurF&Snow 標示全場 24 條雪道，初級 40%、中級 40%、上級 20%，非壓雪約 20%。雪場特色是樹冰原、粉雪、溫泉街與複雜地形組合，特別適合想用一整天跨區巡航的中級以上滑雪者。
   details:
   - name: 高鳥コース / 高鳥コース
     difficulty: beginner
@@ -132,7 +137,8 @@ courses:
     note: 連接竜山雪道區與綜合 Grand 停車場的緩降路線。官方描述原本兼作越野滑雪使用，沿線穿過落葉松林，可作為較安靜的移動路線。
   - name: 樹氷原コース / 樹氷原コース
     difficulty: intermediate
-    note: 從ザンゲ坂一路經ユートピア、百萬人到橫倉一帶，官方標示可接往菖蒲沼、黑姬與大森方向，屬於變化豐富的長距離下滑主線。
+    length: 8,000m
+    note: 從ザンゲ坂一路經ユートピア、百萬人到橫倉一帶，是藏王溫泉最長代表路線；從標高 1,661m 滑到約 855m，並可接往菖蒲沼、黑姬與大森方向。
     videoLinks:
     - https://www.youtube.com/watch?v=860eRhy28oA&t=923s
     - https://www.youtube.com/watch?v=kyDWzaVnbRc&t=623s
@@ -170,32 +176,57 @@ lifts:
   total: 32
 access:
   fromTokyo:
-  - label: 東京出發經山形
+  - label: 東京出發經山形站
     steps:
-    - 從東京搭山形新幹線到山形站。
-    - 從山形站轉乘巴士前往藏王溫泉。
-    - 抵達藏王溫泉後，依住宿或滑行入口步行、接駁或搭乘當地交通移動。
-    estimatedTime: 站後約 45 分
+    - 從東京站搭乘山形新幹線到 JR 山形站，官方標示最短約 2 小時 22 分。
+    - 從 JR 山形站 1 號乘車處搭往藏王溫泉的巴士，到藏王溫泉巴士總站約 40 分。
+    - 抵達藏王溫泉後，依住宿位置或滑行入口步行，或於指定日期使用溫泉街免費接駁車移動。
+    estimatedTime: 約 3 小時 10 分以上
     difficulty: medium
-    note: 藏王溫泉範圍大，請依住宿位置、纜車站與當日巴士班次安排下車點。
+    note: 藏王溫泉範圍大，行程應先決定要從上之台、橫倉、大森、黑姬或中央一帶進出。
+    links:
+      - label: 官方交通與停車資訊
+        url: https://zaomountainresort.com/parking/
+  - label: 東京出發經仙台站
+    steps:
+    - 從東京站搭乘東北新幹線到 JR 仙台站，官方標示最短約 1 小時 29 分。
+    - 從 JR 仙台站東口 76 號乘車處搭預約制高速巴士直達藏王溫泉，或從仙台站轉山形站後再搭往藏王溫泉巴士。
+    difficulty: medium
+    note: 仙台站直達藏王溫泉高速巴士仍需確認 2026-2027 雪季最終營運日期與預約狀態。
+    links:
+      - label: 官方交通與停車資訊
+        url: https://zaomountainresort.com/parking/
   fromAirport:
   - label: 山形機場出發
     steps:
-    - 從山形機場搭乘共乘計程車、計程車或接駁交通往藏王溫泉。
-    - 抵達藏王溫泉後，依住宿或滑行入口移動。
-    estimatedTime: 約 60 分
+    - 從山形機場自駕或搭計程車，經東北中央道與縣道 21 號線前往藏王溫泉。
+    - 也可搭觀光計程車或機場接駁巴士，經 JR 山形站轉往藏王溫泉。
+    estimatedTime: 自駕約 46 分；接駁約 1 小時至 1 小時 5 分
     difficulty: medium
-    note: 共乘計程車與巴士需依當季公告與預約規則確認；若先到山形站，仍可轉乘往藏王溫泉的巴士。
+    note: 觀光計程車與機場接駁巴士需依當季公告與預約規則確認。
+    links:
+      - label: 官方交通與停車資訊
+        url: https://zaomountainresort.com/parking/
+  publicTransit:
+  - label: 藏王溫泉區內免費接駁車
+    steps:
+    - 2026-2027 雪季目前仍標示規劃中，預定 2026/12/26-2027/3/14 於特定日運行。
+    - 運行日包含年末年始每日、1-2 月部分週五週六週日與國定假日、3 月部分週末。
+    difficulty: easy
+    note: 適合在溫泉街、停車場與主要雪道入口之間移動；實際班次與停靠點需以官方當季公告為準。
+    links:
+      - label: 官方交通與停車資訊
+        url: https://zaomountainresort.com/parking/
   car:
     recommended: true
     snowTireRequired: true
-    note: 從仙台宮城 IC 經山形藏王 IC 約 66 分；從首都圈川口 JCT 經山形藏王 IC 約 288 分。冬季需準備雪胎或防滑裝備，並留意藏王溫泉內停車場位置。
+    note: 東京川口 JCT 經東北道、福島 JCT、東北中央道、山形上山 IC 與縣道 21 號線約 344km、約 4 小時 10 分；仙台村田 JCT 經山形道、山形藏王 IC 與西藏王高原線約 55km、約 51 分。P2、P4、P5、P7 於 2026/12/19-2027/3/14 的週末、國定假日與 12/28-1/3 收費 ¥1,000，平日免費；P1、P8、P3、P6 全季免費或依接駁車運行日開放。冬季需雪胎或雪鏈。
 terrainSummary:
-  beginner: 初級比例約 40%。高鳥、大平、連絡與パラダイス迂回等長距離或迴避路線，能把樹冰高原到溫泉街的移動滑成較穩定的巡航節奏。
-  intermediate: 中級比例約 40%。ザンゲ坂、樹氷原、ハーネンカム C 等路線把山頂區、中腹雪道區與下方雪道區串起來，是藏王連續滑行的骨幹。
-  advanced: 上級比例約 20%。ハーネンカム A・B、大森ジャイアント末段與黑姬系路線都有較明確的陡坡或變化段，官方也把部分區域列為代表性的挑戰斜面。
-  snowboard: 官方列有 snowboard park，雪場內也有黑姬、大森、ダイヤモンドバレー等變化型雪道區可安排不同滑行節奏。
-  powder: 上部雪道區圍繞樹冰原與林間路線，官方描述多次提到雪質穩定、可一路串連長距離下滑；粉雪表現仍以當日積雪與風況為主。
+  beginner: 初級比例約 40%。高鳥、大平、連絡與パラダイス迂回等路線可作為跨區移動與下山巡航骨幹，但藏王地形大，初學者仍應避開需要長距離連絡的時段與區域。
+  intermediate: 中級比例約 40%。ザンゲ坂、樹氷原、ハーネンカム C 等路線把山頂、樹冰原、中腹與溫泉街串起來，是藏王最有代表性的巡航體驗。
+  advanced: 上級比例約 20%。ハーネンカム A・B、大森ジャイアント末段與黑姬系路線有 32-36 度等明確陡坡或變化段，適合想在大型雪場內找挑戰的滑雪者。
+  snowboard: SurF&Snow 標示滑雪 / 單板比例約 60% / 40%，官方也列有 snowboard park；但藏王跨區有窄路、平緩連絡與天候變化，單板行程要更注意路線選擇。
+  powder: SurF&Snow 標示非壓雪約 20%；上部樹冰原、林間與黑姬、大森周邊有粉雪想像空間，但實際可滑品質仍取決於當日降雪、風況與開放狀態。
 externalContent:
   blogs:
   - title: 藏王滑雪場美食2026｜再訪三五郎小屋，巨無霸牛排、麵包濃湯超推薦
@@ -354,4 +385,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/zao-onsen/
 ---
 
-藏王溫泉位於山形縣，官方標示有 14 個雪道區與 12 條主要課程路線，從樹冰高原到溫泉街之間可以排出很長的串連滑行。路線組成同時包含高鳥、大平這類長距離巡航線，以及ハーネンカム、黑姬、大森這些較有挑戰性的斜面，再加上上之台夜滑，整體節奏很完整。
+藏王溫泉位於山形縣，是東北代表性大型雪場之一。它不是單一山腳纜車上下的簡單配置，而是由溫泉街、多個 base、樹冰原、黑姬、大森與中央高原等區塊組成，滑起來像在一座雪山城鎮裡移動。官方觀光資訊列出的代表路線可把樹冰高原一路串到溫泉街；SurF&Snow 也把它描述成雪質、降雪、複雜地形與千年溫泉共同組成的東北最大級雪場。安排時建議先決定今天要主攻「樹冰長距離巡航」、「黑姬 / 大森挑戰線」或「上之台夜滑與溫泉街」，不然很容易把時間花在跨區移動上。
