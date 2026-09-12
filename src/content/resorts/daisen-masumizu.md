@@ -24,7 +24,7 @@ links:
   access: https://www.masumizu.net/access.html
   ticket: https://www.masumizu.net/ski.html#
   weather: https://weathernews.jp/ski/spot/36907/
-  googleMaps: hhttps://maps.app.goo.gl/QWge5wdBFmtccTRv9
+  googleMaps: https://maps.app.goo.gl/QWge5wdBFmtccTRv9
 contact:
   address:
     zhTw: 鳥取縣西伯郡伯耆町大内桝水高原1069-50
