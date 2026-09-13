@@ -32,7 +32,7 @@ links:
   googleMaps: https://maps.app.goo.gl/HTDdvtnoDHrZhRLE6
 contact:
   address:
-    zhTw: 長野縣下高井郡山之內町夜間瀨大澤 12377-17
+    zhTw: 〒381-0405 長野縣下高井郡山之內町夜間瀨大澤 12377-17
     ja: 〒381-0405 長野県下高井郡山ノ内町大字夜間瀬12377-17
     en: Nagano, Shimotakai District, Yamanouchi, Yomase, Oosawa12377-17 381-0405
     googleMaps: https://maps.app.goo.gl/HTDdvtnoDHrZhRLE6

@@ -22,7 +22,7 @@ links:
   googleMaps: https://maps.app.goo.gl/zPhM6wW1xBSykLcG9
 contact:
   address:
-    zhTw: 愛媛縣喜多郡內子町小田深山
+    zhTw: 〒791-3524 愛媛縣喜多郡內子町小田深山
     ja: 〒791-3524 愛媛県喜多郡内子町小田深山
     en: Odamiyama, Kita District Uchiko, Ehime 791-3524
     googleMaps: https://maps.app.goo.gl/zPhM6wW1xBSykLcG9

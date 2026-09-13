@@ -30,7 +30,7 @@ links:
   access: http://www.onikoube.com
 contact:
   address:
-    zhTw: 宮城縣大崎市鳴子温泉鬼首字小向原9-55
+    zhTw: 〒989-6941 宮城縣大崎市鳴子温泉鬼首字小向原9-55
     ja: 〒989-6941 宮城県大崎市鳴子温泉鬼首字小向原9-55
     en: 9-55 Narukoonsenonikoube Aza Komukaihara, Oosaki, Miyagi 989-6941
     googleMaps: https://maps.app.goo.gl/ajMKqeKsNiU8naD1A

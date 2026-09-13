@@ -34,7 +34,7 @@ links:
   googleMaps: https://maps.app.goo.gl/6uFyVqFW3pcEZw2R8
 contact:
   address:
-    zhTw: 群馬縣吾妻郡嬬戀村大字干俣茨木高原
+    zhTw: 〒377-1611 群馬縣吾妻郡嬬戀村大字干俣茨木高原
     ja: 〒377-1611 群馬県吾妻郡嬬恋村大字干俣バラギ高原
     en: Baragi Kogen, Oaza Hoshimata, Tsumagoi, Agatsuma District, Gunma 377-1611
     googleMaps: https://maps.app.goo.gl/6uFyVqFW3pcEZw2R8

@@ -31,7 +31,7 @@ links:
   access: https://sanosaka.jp/access/
 contact:
   address:
-    zhTw: 長野縣北安曇郡白馬村神城 458
+    zhTw: 〒399-9211 長野縣北安曇郡白馬村神城 458
     ja: 〒399-9211 長野県北安曇郡白馬村大字神城458
     en: 458 Ooaza Kamijou, Kitaazumi District Hakuba, Nagano 399-9211
     googleMaps: https://maps.app.goo.gl/B7MwgR7jaQf5ZRjT6

@@ -28,7 +28,7 @@ links:
   googleMaps: https://maps.app.goo.gl/uJsajKSdcaE3beoX8
 contact:
   address:
-    zhTw: 青森縣西津輕郡鰺澤町鰺澤高原
+    zhTw: 〒038-2793 青森縣西津輕郡鰺澤町鰺澤高原
     ja: 〒038-2793 青森県西津軽郡鯵ヶ沢町鯵ヶ沢高原
     en: Ajikesawakougen, Nishitsugaru District Ajikesawa, Aomori 038-2793
     googleMaps: https://maps.app.goo.gl/uJsajKSdcaE3beoX8

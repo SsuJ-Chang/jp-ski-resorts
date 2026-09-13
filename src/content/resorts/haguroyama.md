@@ -28,7 +28,7 @@ links:
   access: http://www.qkamura.or.jp/haguro
 contact:
   address:
-    zhTw: 山形縣鶴岡市羽黒町手向羽黒山
+    zhTw: 〒997-0211 山形縣鶴岡市羽黒町手向羽黒山
     ja: 〒997-0211 山形県鶴岡市羽黒町手向羽黒山
     en: Tamukehaguroyama, Tsuruoka, Haguro, Yamagata 997-0211
     googleMaps: https://maps.app.goo.gl/eWMwJSDAA5cLA32e8

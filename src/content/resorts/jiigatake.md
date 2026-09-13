@@ -33,7 +33,7 @@ links:
   googleMaps: https://maps.app.goo.gl/Nrr2KAAyyocAvsHc6
 contact:
   address:
-    zhTw: 長野縣大町市平 4819
+    zhTw: 〒398-0001 長野縣大町市平 4819
     ja: 〒398-0001 長野県大町市平4819
     en: 4819 Taira, Omachi, Nagano 398-0001
     googleMaps: https://maps.app.goo.gl/Nrr2KAAyyocAvsHc6

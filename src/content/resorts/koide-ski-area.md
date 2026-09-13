@@ -25,7 +25,7 @@ links:
   access: http://www.sp-koide.org/
 contact:
   address:
-    zhTw: 新潟縣魚沼市青島 1609
+    zhTw: 〒946-0043 新潟縣魚沼市青島 1609
     ja: 〒946-0043 新潟県魚沼市青島1609
     en: 1609 Aoshima, Uonuma, Niigata 946-0043
     googleMaps: https://www.google.com/maps/search/?api=1&query=Koide%20Ski%20Area

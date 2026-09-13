@@ -33,7 +33,7 @@ links:
   googleMaps: https://maps.app.goo.gl/52rrSAw33VBqC2n96
 contact:
   address:
-    zhTw: 新潟縣妙高市關川 2457-1
+    zhTw: 〒949-2112 新潟縣妙高市關川 2457-1
     ja: 〒949-2112 新潟県妙高市関川2457-1
     en: 2457-1 Sekigawa, Myoukou, Niigata 949-2112
     googleMaps: https://maps.app.goo.gl/52rrSAw33VBqC2n96

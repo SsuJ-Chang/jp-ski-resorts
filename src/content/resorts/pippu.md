@@ -30,7 +30,7 @@ links:
   googleMaps: https://maps.app.goo.gl/zwSgteTKwX1pZBSe8
 contact:
   address:
-    zhTw: 北海道上川郡比布町北 7 線 17 號
+    zhTw: 〒078-0327 北海道上川郡比布町北 7 線 17 號
     ja: 〒078-0327 北海道上川郡比布町北7線17号
     en: 17gou Kita7sen, Kamikawa District Pippu, Hokkaido 078-0327
     googleMaps: https://maps.app.goo.gl/zwSgteTKwX1pZBSe8

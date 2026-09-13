@@ -29,7 +29,7 @@ links:
   access: https://www.kamoidake.co.jp/
 contact:
   address:
-    zhTw: 北海道歌志内市歌神95番地9
+    zhTw: 〒073-0404 北海道歌志内市歌神95番地9
     ja: 〒073-0404 北海道歌志内市歌神95番地9
     en: 9 Kashin95banchi, Utashinai, Hokkaido 073-0404
     googleMaps: https://maps.app.goo.gl/yeXpvCtsBtvanCYv6

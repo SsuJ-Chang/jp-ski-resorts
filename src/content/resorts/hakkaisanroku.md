@@ -25,7 +25,7 @@ links:
   access: https://hakkai36.com
 contact:
   address:
-    zhTw: 新潟縣南魚沼市荒金 56-1
+    zhTw: 〒949-7235 新潟縣南魚沼市荒金 56-1
     ja: 〒949-7235 新潟県南魚沼市荒金56-1
     en: 56-1 Aragane, Minamiuonuma, Niigata 949-7235
     googleMaps: https://www.google.com/maps/search/?api=1&query=Hakkaisanroku%20Ski%20Area

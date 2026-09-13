@@ -30,7 +30,7 @@ links:
   access: https://kurplazapirika.net
 contact:
   address:
-    zhTw: 北海道瀬棚郡今金町字美利河205-1
+    zhTw: 〒049-4151 北海道瀬棚郡今金町字美利河205-1
     ja: 〒049-4151 北海道瀬棚郡今金町字美利河205-1
     en: 205-1 Aza Pirika, Setana District Imagane, Hokkaido 049-4151
     googleMaps: https://maps.app.goo.gl/fLWkUwH4iDGMkast9

@@ -29,7 +29,7 @@ links:
   access: https://www.maoi-net.jp/kosodate_kyoiku/sports/sportsshisetsu/northski.html
 contact:
   address:
-    zhTw: 北海道夕張郡長沼町東6線北12番地
+    zhTw: 〒069-1317 北海道夕張郡長沼町東6線北12番地
     ja: 〒069-1317 北海道夕張郡長沼町東6線北12番地
     en: 12banchi Higashi6senkita, Yuubari District Naganuma, Hokkaido 069-1317
     googleMaps: https://maps.app.goo.gl/WuN8kJ8XsJTYWisv6

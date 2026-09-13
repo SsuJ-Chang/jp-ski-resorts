@@ -26,7 +26,7 @@ links:
   access: http://kyowasnow.net/
 contact:
   address:
-    zhTw: 秋田縣大仙市協和船岡字上庄内71-1
+    zhTw: 〒019-2401 秋田縣大仙市協和船岡字上庄内71-1
     ja: 〒019-2401 秋田県大仙市協和船岡字上庄内71-1
     en: 71-1 Kyouwafunaoka Aza Ueshounai, Daisen, Akita 019-2401
     googleMaps: https://maps.app.goo.gl/PRim99fuRQpKq5gc9

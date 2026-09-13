@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/49ABvnv1KdfM9ag27
 contact:
   address:
-    zhTw: 宮城縣刈田郡藏王町遠刈田溫泉倉石岳國有林內
+    zhTw: 〒989-0998 宮城縣刈田郡藏王町遠刈田溫泉倉石岳國有林內
     ja: 〒989-0998 宮城県刈田郡蔵王町遠刈田温泉倉石岳国有林内
     en: Tougattaonsenkuraishigakukokuyuurinnai, Karida District Zaou, Miyagi 989-0998
     googleMaps: https://maps.app.goo.gl/49ABvnv1KdfM9ag27

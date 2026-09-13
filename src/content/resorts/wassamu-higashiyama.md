@@ -28,7 +28,7 @@ links:
   access: https://twitter.com/wassamu_ski
 contact:
   address:
-    zhTw: 北海道上川郡和寒町日ノ出
+    zhTw: 〒098-0101 北海道上川郡和寒町日ノ出
     ja: 〒098-0101 北海道上川郡和寒町日ノ出
     en: Nichinoshutsu, Kamikawa District Wassamu, Hokkaido 098-0101
     googleMaps: https://maps.app.goo.gl/ebzZKZEz2VHtz88M6

@@ -28,7 +28,7 @@ links:
   access: https://weathernews.jp/ski/spot/31307/
 contact:
   address:
-    zhTw: 北海道天塩郡豐富町字溫泉
+    zhTw: 〒098-4132 北海道天塩郡豐富町字溫泉
     ja: 〒098-4132 北海道天塩郡豊富町字温泉
     en: Aza Onsen, Teshio District Houfu, Hokkaido 098-4132
     googleMaps: https://maps.app.goo.gl/op386Jx8CiQ5Vvtg7

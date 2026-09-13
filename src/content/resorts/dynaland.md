@@ -33,7 +33,7 @@ links:
   googleMaps: https://maps.app.goo.gl/72ZPG2PWHPoEReuf7
 contact:
   address:
-    zhTw: 岐阜縣郡上市高鷲町西洞 3035-2
+    zhTw: 〒501-5305 岐阜縣郡上市高鷲町西洞 3035-2
     ja: 〒501-5305 岐阜県郡上市高鷲町西洞3035-2
     en: 3035-2 Nishibora, District Ue, Takasu, Gifu 501-5305
     googleMaps: https://maps.app.goo.gl/72ZPG2PWHPoEReuf7

@@ -30,7 +30,7 @@ links:
   access: https://daikura.net/
 contact:
   address:
-    zhTw: 福島縣南會津郡田島町大字針生字昼滝山857-150
+    zhTw: 〒967-0026 福島縣南會津郡田島町大字針生字昼滝山857-150
     ja: 〒967-0026 福島県南会津郡田島町大字針生字昼滝山857-150
     en: 857-150 Ooaza Haryuu Aza Hirutakiyama, Minamiaizu District Tajima, Fukushima 967-0026
     googleMaps: https://maps.app.goo.gl/g5NqFwACMnnCjfaTA

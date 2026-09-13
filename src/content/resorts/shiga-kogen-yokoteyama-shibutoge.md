@@ -30,7 +30,7 @@ links:
   googleMaps: https://maps.app.goo.gl/E3unk2Yzh1G4GppbA
 contact:
   address:
-    zhTw: 長野縣下高井郡山之內町平穩
+    zhTw: 〒381-0401 長野縣下高井郡山之內町平穩
     ja: 〒381-0401 長野県下高井郡山ノ内町志賀高原横手
     en: Nagano, Shimotakai District, Yamanouchi, Yamanonai, Hirao 381-0401
     googleMaps: https://maps.app.goo.gl/E3unk2Yzh1G4GppbA

@@ -27,7 +27,7 @@ links:
   access: https://weathernews.jp/ski/spot/31706/
 contact:
   address:
-    zhTw: 北海道北見市若松651番地
+    zhTw: 〒090-0808 北海道北見市若松651番地
     ja: 〒090-0808 北海道北見市若松651番地
     en: 651banchi Wakamatsu, Kitami, Hokkaido 090-0808
     googleMaps: https://maps.app.goo.gl/9jed8P3QAW9QGdm5A

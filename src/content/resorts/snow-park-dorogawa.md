@@ -27,7 +27,7 @@ links:
   ticket: https://zaisanku.weebly.com/spd.html
 contact:
   address:
-    zhTw: 奈良縣吉野郡天川村洞川678-220
+    zhTw: 〒638-0431 奈良縣吉野郡天川村洞川678-220
     ja: 〒638-0431 奈良県吉野郡天川村洞川678-220
     en: 678-220 Doukawa, Yoshino District Amakawa, Nara 638-0431
     googleMaps: https://maps.app.goo.gl/XEmWdPCRMfAsQzCv5

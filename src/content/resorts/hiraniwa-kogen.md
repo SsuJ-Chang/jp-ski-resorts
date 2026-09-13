@@ -24,7 +24,7 @@ links:
   googleMaps: https://maps.app.goo.gl/mqEvfP8g937aYUqL9
 contact:
   address:
-    zhTw: 岩手縣久慈市山形町來內 20-13-1
+    zhTw: 〒028-8605 岩手縣久慈市山形町來內 20-13-1
     ja: 〒028-8605 岩手県久慈市山形町来内20-13-1
     en: 20-13-1 Rainai, Kuji, Yamagata, Iwate 028-8605
     googleMaps: https://maps.app.goo.gl/mqEvfP8g937aYUqL9

@@ -28,7 +28,7 @@ links:
   access: https://weathernews.jp/ski/spot/31509/
 contact:
   address:
-    zhTw: 北海道空知郡上富良野町東1線北27号
+    zhTw: 〒071-0521 北海道空知郡上富良野町東1線北27号
     ja: 〒071-0521 北海道空知郡上富良野町東1線北27号
     en: 27gou Higashi1senkita, Sorachi District Kamifurano, Hokkaido 071-0521
     googleMaps: https://maps.app.goo.gl/fFnEKyzbSRAfZuFb6

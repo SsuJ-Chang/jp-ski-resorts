@@ -28,7 +28,7 @@ links:
   access: http://www.izumigatake.info
 contact:
   address:
-    zhTw: 宮城縣仙台市泉区福岡字岳山
+    zhTw: 〒981-3225 宮城縣仙台市泉区福岡字岳山
     ja: 〒981-3225 宮城県仙台市泉区福岡字岳山
     en: Izumikufukuoka Aza Dakeyama, Sendai, Miyagi 981-3225
     googleMaps: https://maps.app.goo.gl/XnTWAmrcsLfoEbYBA

@@ -26,7 +26,7 @@ links:
   access: https://www.town.horonobe.lg.jp/www4/section/edu/le009f0000001go7.html
 contact:
   address:
-    zhTw: 北海道天塩郡幌延町幌延106-1
+    zhTw: 〒098-3223 北海道天塩郡幌延町幌延106-1
     ja: 〒098-3223 北海道天塩郡幌延町幌延106-1
     en: 106-1 Horonobe, Teshio District Horonobe, Hokkaido 098-3223
     googleMaps: https://maps.app.goo.gl/EtkP7cKjcoxPznUd8

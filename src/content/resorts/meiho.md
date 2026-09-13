@@ -30,7 +30,7 @@ links:
   access: https://www.meihoski.co.jp/access/
 contact:
   address:
-    zhTw: 岐阜縣郡上市明寶奧住 3447-1
+    zhTw: 〒501-4304 岐阜縣郡上市明寶奧住 3447-1
     ja: 〒501-4304 岐阜県郡上市明宝奥住3447-1
     en: 3447-1 Meihouokuzumi, District Ue, Gifu 501-4304
     googleMaps: https://maps.app.goo.gl/NT783dCsBPnwVZEd6

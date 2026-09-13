@@ -26,7 +26,7 @@ links:
   ticket: https://makinokougen.co.jp/pages/275/
 contact:
   address:
-    zhTw: 滋賀縣高島市マキノ町牧野931
+    zhTw: 〒520-1836 滋賀縣高島市マキノ町牧野931
     ja: 〒520-1836 滋賀県高島市マキノ町牧野931
     en: 931 Makino, Takashima, Makino, Shiga 520-1836
     googleMaps: https://maps.app.goo.gl/FQL2THKaHRyHHEed7

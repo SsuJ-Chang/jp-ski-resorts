@@ -23,7 +23,7 @@ links:
   googleMaps: https://maps.app.goo.gl/GuwtRWWRm3GKxTav6
 contact:
   address:
-    zhTw: 岩手縣八幡平市矢神 8-1
+    zhTw: 〒028-7603 岩手縣八幡平市矢神 8-1
     ja: 〒028-7603 岩手県八幡平市矢神8-1
     en: 8-1 Yagami, Hachimantai, Iwate 028-7603
     googleMaps: https://maps.app.goo.gl/GuwtRWWRm3GKxTav6

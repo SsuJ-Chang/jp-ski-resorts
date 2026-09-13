@@ -21,7 +21,7 @@ links:
   googleMaps: https://maps.google.co.jp/maps?q=35.768357,139.418660
 contact:
   address:
-    zhTw: 埼玉縣所沢市上山口2167
+    zhTw: 〒359-1153 埼玉縣所沢市上山口2167
     ja: 〒359-1153 埼玉県所沢市上山口2167
     en: 2167 Kamiyamaguchi, Tokorozawa, Saitama 359-1153
     googleMaps: https://maps.google.co.jp/maps?q=35.768357,139.418660

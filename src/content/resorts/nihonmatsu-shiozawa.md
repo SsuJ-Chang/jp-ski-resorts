@@ -28,7 +28,7 @@ links:
   access: http://www.tohoku-safaripark.co.jp/ski/
 contact:
   address:
-    zhTw: 福島縣二本松市鹽澤字ぐみ塚山国有林内
+    zhTw: 〒964-0086 福島縣二本松市鹽澤字ぐみ塚山国有林内
     ja: 〒964-0086 福島県二本松市塩沢字ぐみ塚山国有林内
     en: Shiozawa Aza Gumitsukayamakokuyuurinnai, Nihonmatsu, Fukushima 964-0086
     googleMaps: https://maps.app.goo.gl/9UMs6Fu2YjQuLg6HA

@@ -29,7 +29,7 @@ links:
   access: http://northernarcresort.co.jp/contents/golfski/ski.html
 contact:
   address:
-    zhTw: 北海道北見市端野町二区８２９番地
+    zhTw: 〒099-2102 北海道北見市端野町二区８２９番地
     ja: 〒099-2102 北海道北見市端野町二区８２９番地
     en: 829banchi Niku, Kitami, Tanno, Hokkaido 099-2102
     googleMaps: https://maps.app.goo.gl/18KAGkLc6DWbQ6DD9

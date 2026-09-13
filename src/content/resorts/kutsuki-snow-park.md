@@ -28,7 +28,7 @@ links:
   ticket: https://kutsuki-snowpark.com/price
 contact:
   address:
-    zhTw: 滋賀縣高島市朽木宮前坊180-1
+    zhTw: 〒520-1414 滋賀縣高島市朽木宮前坊180-1
     ja: 〒520-1414 滋賀県高島市朽木宮前坊180-1
     en: 180-1 Tochigimiyamaebou, Takashima, Shiga 520-1414
     googleMaps: https://maps.app.goo.gl/1fJfkuBb994PKXw56

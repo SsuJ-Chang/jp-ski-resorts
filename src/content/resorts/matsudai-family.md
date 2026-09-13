@@ -22,7 +22,7 @@ links:
   access: https://ski.matsudai.jp/
 contact:
   address:
-    zhTw: 新潟縣十日町市松代 5265
+    zhTw: 〒942-1526 新潟縣十日町市松代 5265
     ja: 〒942-1526 新潟県十日町市松代5265
     en: 5265 Matsushiro, Touka, Niigata 942-1526
     googleMaps: https://www.google.com/maps/search/?api=1&query=Tokamachi%20Matsudai%20Family%20Ski%20Area

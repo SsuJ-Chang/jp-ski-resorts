@@ -28,7 +28,7 @@ links:
   access: https://weathernews.jp/ski/spot/32101/
 contact:
   address:
-    zhTw: 北海道虻田郡俱知安町字旭37-1
+    zhTw: 〒044-0083 北海道虻田郡俱知安町字旭37-1
     ja: 〒044-0083 北海道虻田郡倶知安町字旭37-1
     en: 37-1 Aza Asahi, Abuta District Kutchan, Hokkaido 044-0083
     googleMaps: https://maps.app.goo.gl/Tto7yqBZZPVhY31j8

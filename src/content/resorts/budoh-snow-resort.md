@@ -24,7 +24,7 @@ links:
   access: https://snow.budoh-resorts.jp/
 contact:
   address:
-    zhTw: 新潟縣村上市蒲萄字屋敷添 338-1
+    zhTw: 〒958-0201 新潟縣村上市蒲萄字屋敷添 338-1
     ja: 〒958-0201 新潟県村上市蒲萄字屋敷添338-1
     en: 338-1 Kamadou Aza Yashikisoe, Ue, Niigata 958-0201
     googleMaps: https://www.google.com/maps/search/?api=1&query=Budoh%20Snow%20Resort

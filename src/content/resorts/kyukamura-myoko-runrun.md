@@ -26,7 +26,7 @@ links:
   access: https://www.qkamura.or.jp/myoukou/
 contact:
   address:
-    zhTw: 新潟縣妙高市關山
+    zhTw: 〒949-2235 新潟縣妙高市關山
     ja: 〒949-2235 新潟県妙高市関山
     en: Sekiyama, Myoukou, Niigata 949-2235
     googleMaps: https://www.google.com/maps/search/?api=1&query=Kyukamura%20Myoko%20RunRun%20Ski%20Area

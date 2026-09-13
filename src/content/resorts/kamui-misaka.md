@@ -24,7 +24,7 @@ links:
   googleMaps: https://www.google.com/maps/search/?api=1&query=35.582459,138.753320
 contact:
   address:
-    zhTw: 山梨縣笛吹市御坂町上黑駒 5321-1
+    zhTw: 〒406-0813 山梨縣笛吹市御坂町上黑駒 5321-1
     ja: 〒406-0813 山梨県笛吹市御坂町上黒駒5321-1
     en: 5321-1 Uekurokoma, Usui, Misaka, Yamanashi 406-0813
     googleMaps: https://www.google.com/maps/search/?api=1&query=35.582459,138.753320

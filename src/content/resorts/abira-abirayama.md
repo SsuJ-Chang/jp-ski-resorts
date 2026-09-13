@@ -29,7 +29,7 @@ links:
   ticket: https://www.town.abira.lg.jp/midokoro/shisetsu/sport/149
 contact:
   address:
-    zhTw: 北海道勇払郡安平町追分豊栄193番地
+    zhTw: 〒059-1987 北海道勇払郡安平町追分豊栄193番地
     ja: 〒059-1987 北海道勇払郡安平町追分豊栄193番地
     en: 193banchi Oiwaketoyosaka, Yuufutsu District Abira, Hokkaido 059-1987
     googleMaps: https://maps.app.goo.gl/MQ8SsQtpqjY5dpuu5

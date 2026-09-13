@@ -32,7 +32,7 @@ links:
   googleMaps: https://maps.app.goo.gl/Z3VDSpSDGPcohXWe6
 contact:
   address:
-    zhTw: 北海道旭川市神居町西丘 112
+    zhTw: 〒074-1181 北海道旭川市神居町西丘 112
     ja: 〒074-1181 北海道旭川市神居町西丘112
     en: 112 Nishioka, Asahikawa, Kamii, Hokkaido 074-1181
     googleMaps: https://maps.app.goo.gl/Z3VDSpSDGPcohXWe6

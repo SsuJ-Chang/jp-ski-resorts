@@ -25,7 +25,7 @@ links:
   access: http://www.sekionsen.jp
 contact:
   address:
-    zhTw: 新潟縣妙高市關溫泉
+    zhTw: 〒949-2235 新潟縣妙高市關溫泉
     ja: 〒949-2235 新潟県妙高市関温泉
     en: Kanonsen, Myoukou, Niigata 949-2235
     googleMaps: https://www.google.com/maps/search/?api=1&query=Myoko%20Kogen%20Seki%20Onsen%20Ski%20Area

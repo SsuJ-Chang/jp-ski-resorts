@@ -30,7 +30,7 @@ links:
   googleMaps: https://maps.app.goo.gl/maeHeLJnQ9WKSCkeA
 contact:
   address:
-    zhTw: 兵庫縣豐岡市日高町山田710
+    zhTw: 〒669-5372 兵庫縣豐岡市日高町山田710
     ja: 〒669-5372 兵庫県豊岡市日高町山田710
     en: 710 Yamada, Toyooka, Hidaka, Hyogo 669-5372
     googleMaps: https://maps.app.goo.gl/maeHeLJnQ9WKSCkeA

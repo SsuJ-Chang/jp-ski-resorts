@@ -24,7 +24,7 @@ links:
   access: http://joetsukankonavi.jp/spot.php?id=23
 contact:
   address:
-    zhTw: 新潟縣上越市大字大貫 595-2
+    zhTw: 〒943-0893 新潟縣上越市大字大貫 595-2
     ja: 〒943-0893 新潟県上越市大字大貫595-2
     en: 595-2 Ooaza Oonuki, Jouetsu, Niigata 943-0893
     googleMaps: https://www.google.com/maps/search/?api=1&query=Kanayasan%20Ski%20Area

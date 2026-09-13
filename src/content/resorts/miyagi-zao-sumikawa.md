@@ -31,7 +31,7 @@ links:
   access: http://www.zao-sumikawa.jp
 contact:
   address:
-    zhTw: 宮城縣刈田郡藏王町遠刈田温泉字倉石岳国有林内
+    zhTw: 〒989-0916 宮城縣刈田郡藏王町遠刈田温泉字倉石岳国有林内
     ja: 〒989-0916 宮城県刈田郡蔵王町遠刈田温泉字倉石岳国有林内
     en: Tougattaonsen Aza Kuraishigakukokuyuurinnai, Karida District Zaou, Miyagi 989-0916
     googleMaps: https://maps.app.goo.gl/GELzMkqntcKUoaRYA

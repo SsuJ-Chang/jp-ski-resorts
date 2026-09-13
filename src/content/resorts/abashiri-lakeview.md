@@ -27,7 +27,7 @@ links:
   ticket: https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html
 contact:
   address:
-    zhTw: 北海道網走市字呼人28-3
+    zhTw: 〒099-2421 北海道網走市字呼人28-3
     ja: 〒099-2421 北海道網走市字呼人28-3
     en: 28-3 Aza Yobito, Abashiri, Hokkaido 099-2421
     googleMaps: https://maps.app.goo.gl/FBMq4NMnkWcfGHCNA

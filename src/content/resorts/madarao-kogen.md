@@ -32,7 +32,7 @@ links:
   googleMaps: https://maps.app.goo.gl/ZLUZKogdpesADNGP7
 contact:
   address:
-    zhTw: 長野縣飯山市斑尾高原
+    zhTw: 〒389-2257 長野縣飯山市斑尾高原
     ja: 〒389-2257 長野県飯山市斑尾高原
     en: Madaraokougen, Iiyama, Nagano 389-2257
     googleMaps: https://maps.app.goo.gl/ZLUZKogdpesADNGP7

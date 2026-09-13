@@ -26,7 +26,7 @@ links:
   googleMaps: https://maps.app.goo.gl/fAkYgeZkxLVpyFxU7
 contact:
   address:
-    zhTw: 青森縣弘前市大字百澤字東岩木山國有林 32
+    zhTw: 〒036-1343 青森縣弘前市大字百澤字東岩木山國有林 32
     ja: 〒036-1343 青森県弘前市大字百沢字東岩木山国有林32
     en: 32 Ooaza Hyakuzawa Aza Higashiiwakisankokuyuurin, Hirosaki, Aomori 036-1343
     googleMaps: https://maps.app.goo.gl/fAkYgeZkxLVpyFxU7

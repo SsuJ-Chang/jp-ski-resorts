@@ -29,7 +29,7 @@ links:
   access: https://npo-onogawa.org
 contact:
   address:
-    zhTw: 山形縣米澤市小野川町字志田1881-1
+    zhTw: 〒992-0076 山形縣米澤市小野川町字志田1881-1
     ja: 〒992-0076 山形県米沢市小野川町字志田1881-1
     en: 1881-1 Aza Shida, Yonezawa, Onokawa, Yamagata 992-0076
     googleMaps: https://maps.app.goo.gl/WPQBa8C4Ps1wVi419

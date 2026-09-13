@@ -38,7 +38,7 @@ links:
   googleMaps: https://maps.app.goo.gl/fM7LETmWj14n9Mz59
 contact:
   address:
-    zhTw: 長野縣北安曇郡白馬村北城 12056
+    zhTw: 〒399-9301 長野縣北安曇郡白馬村北城 12056
     ja: 〒399-9301 長野県北安曇郡白馬村北城12056
     en: 12056 Hokujo, Hakuba, Kitaazumi District, Nagano 399-9301
     googleMaps: https://maps.app.goo.gl/fM7LETmWj14n9Mz59

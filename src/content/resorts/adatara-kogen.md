@@ -31,7 +31,7 @@ links:
   access: http://www.adatara-resort.com/
 contact:
   address:
-    zhTw: 福島縣二本松市奥岳温泉
+    zhTw: 〒964-0075 福島縣二本松市奥岳温泉
     ja: 〒964-0075 福島県二本松市奥岳温泉
     en: Okudakeonsen, Nihonmatsu, Fukushima 964-0075
     googleMaps: https://maps.app.goo.gl/V14tb4TH1aSijZFM9

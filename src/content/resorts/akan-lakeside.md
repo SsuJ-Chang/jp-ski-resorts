@@ -30,7 +30,7 @@ links:
   access: https://weathernews.jp/ski/spot/31901/
 contact:
   address:
-    zhTw: 北海道釧路市阿寒町シュリコマベツ4-4
+    zhTw: 〒085-0000 北海道釧路市阿寒町シュリコマベツ4-4
     ja: 〒085-0000 北海道釧路市阿寒町シュリコマベツ4-4
     en: 4-4 Shurikomabetsu, Kushiro, Akan, Hokkaido 085-0000
     googleMaps: https://maps.app.goo.gl/3VbcqA1RBNsTWCPa7

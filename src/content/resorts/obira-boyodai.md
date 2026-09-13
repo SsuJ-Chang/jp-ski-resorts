@@ -27,7 +27,7 @@ links:
   access: http://www.town.obira.hokkaido.jp/kanko/detail/00001389.html
 contact:
   address:
-    zhTw: 北海道留萌郡小平町字小平町535-1
+    zhTw: 〒078-3301 北海道留萌郡小平町字小平町535-1
     ja: 〒078-3301 北海道留萌郡小平町字小平町535-1
     en: 535-1, Rumoi District Kodaira, Aza Kodaira, Hokkaido 078-3301
     googleMaps: https://maps.app.goo.gl/VD6sEoRLntiRLXMC6

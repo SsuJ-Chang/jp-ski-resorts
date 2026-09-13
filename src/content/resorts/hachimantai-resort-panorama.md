@@ -28,7 +28,7 @@ links:
   googleMaps: https://maps.app.goo.gl/gV9JHD6gkMgoxmJY6
 contact:
   address:
-    zhTw: 岩手縣八幡平市松尾寄木 1-509-1
+    zhTw: 〒028-7302 岩手縣八幡平市松尾寄木 1-509-1
     ja: 〒028-7302 岩手県八幡平市松尾寄木1-509-1
     en: 1-509-1 Matsuoyosegi, Hachimantai, Iwate 028-7302
     googleMaps: https://maps.app.goo.gl/gV9JHD6gkMgoxmJY6

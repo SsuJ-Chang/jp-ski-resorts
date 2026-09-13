@@ -24,7 +24,7 @@ links:
   access: https://seasidevalley.com/
 contact:
   address:
-    zhTw: 新潟縣糸魚川市大字山口 151-1
+    zhTw: 〒949-0554 新潟縣糸魚川市大字山口 151-1
     ja: 〒949-0554 新潟県糸魚川市大字山口151-1
     en: 151-1 Ooaza Yamaguchi, Itoigawa, Niigata 949-0554
     googleMaps: https://www.google.com/maps/search/?api=1&query=Itoigawa%20Seaside%20Valley

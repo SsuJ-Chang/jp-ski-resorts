@@ -27,7 +27,7 @@ links:
   access: https://weathernews.jp/ski/spot/31606/
 contact:
   address:
-    zhTw: 北海道虻田郡喜茂別町字川上345
+    zhTw: 〒044-0223 北海道虻田郡喜茂別町字川上345
     ja: 〒044-0223 北海道虻田郡喜茂別町字川上345
     en: 345 Aza Kawakami, Abuta District Kimobetsu, Hokkaido 044-0223
     googleMaps: https://maps.app.goo.gl/yVU8fe3FF6afzaf76

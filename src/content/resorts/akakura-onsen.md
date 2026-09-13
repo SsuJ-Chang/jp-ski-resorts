@@ -32,7 +32,7 @@ links:
   googleMaps: https://maps.app.goo.gl/ZLBbHjcQ21WGhhJq8
 contact:
   address:
-    zhTw: 新潟縣妙高市赤倉溫泉
+    zhTw: 〒949-2235 新潟縣妙高市赤倉溫泉
     ja: 〒949-2235 新潟県妙高市赤倉温泉
     en: Akakuraonsen, Myoukou, Niigata 949-2235
     googleMaps: https://maps.app.goo.gl/ZLBbHjcQ21WGhhJq8

@@ -31,7 +31,7 @@ links:
   ticket: https://tohachi.jp/lift
 contact:
   address:
-    zhTw: 兵庫縣養父市別宮284
+    zhTw: 〒667-1128 兵庫縣養父市別宮284
     ja: 〒667-1128 兵庫県養父市別宮284
     en: 284 Betsumiya, Youfu, Hyogo 667-1128
     googleMaps: https://www.google.com/maps/search/?api=1&query=35.386003,134.566542

@@ -25,7 +25,7 @@ links:
   access: http://www.princehotels.co.jp/ski/hakkaisan/
 contact:
   address:
-    zhTw: 新潟縣南魚沼市八口
+    zhTw: 〒949-7121 新潟縣南魚沼市八口
     ja: 〒949-7121 新潟県南魚沼市八口
     en: Yakuchi, Minamiuonuma, Niigata 949-7121
     googleMaps: https://www.google.com/maps/search/?api=1&query=Muikamachi%20Hakkaisan

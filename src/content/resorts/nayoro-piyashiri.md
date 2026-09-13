@@ -30,7 +30,7 @@ links:
   access: https://www.nayoro.co.jp/piyashiri/top/
 contact:
   address:
-    zhTw: 北海道名寄市字日進
+    zhTw: 〒096-0066 北海道名寄市字日進
     ja: 〒096-0066 北海道名寄市字日進
     en: Aza Nisshin, Nayoro, Hokkaido 096-0066
     googleMaps: https://maps.app.goo.gl/7VsDBkRRbBML9nHw5

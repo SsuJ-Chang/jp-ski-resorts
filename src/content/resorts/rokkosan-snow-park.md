@@ -26,7 +26,7 @@ links:
   googleMaps: https://maps.app.goo.gl/nENWw8VvNLnghYeM7
 contact:
   address:
-    zhTw: 兵庫縣神戸市灘区六甲山町北六甲4512-98
+    zhTw: 〒657-0101 兵庫縣神戸市灘区六甲山町北六甲4512-98
     ja: 〒657-0101 兵庫県神戸市灘区六甲山町北六甲4512-98
     en: 4512-98 Kitarokkou, Koube, Nadakurokkousan, Hyogo 657-0101
     googleMaps: https://maps.app.goo.gl/nENWw8VvNLnghYeM7

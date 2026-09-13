@@ -34,7 +34,7 @@ links:
   access: https://sapporo-teine.com/snow/access
 contact:
   address:
-    zhTw: 北海道札幌市手稲区手稲本町593番地3
+    zhTw: 〒006-0029 北海道札幌市手稲区手稲本町593番地3
     ja: 〒006-0029 北海道札幌市手稲区手稲本町593番地3
     en: 3 593banchi, Sapporo, Teinekuteinehon, Hokkaido 006-0029
     googleMaps: https://maps.app.goo.gl/jjCosynGAtLFSMGo6

@@ -30,7 +30,7 @@ links:
   access: https://asari-ski.com/
 contact:
   address:
-    zhTw: 北海道小樽市朝里川溫泉1-394
+    zhTw: 〒047-0154 北海道小樽市朝里川溫泉1-394
     ja: 〒047-0154 北海道小樽市朝里川温泉1-394
     en: 1-394 Asasatokawaonsen, Otaru, Hokkaido 047-0154
     googleMaps: https://maps.app.goo.gl/XVNqE6JoJdBYPuaCA

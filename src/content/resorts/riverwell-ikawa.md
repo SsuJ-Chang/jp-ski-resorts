@@ -24,7 +24,7 @@ links:
   googleMaps: https://maps.app.goo.gl/BZtUmLomiRg3neVB6
 contact:
   address:
-    zhTw: 靜岡縣靜岡市葵區井川 2629-190
+    zhTw: 〒428-0504 靜岡縣靜岡市葵區井川 2629-190
     ja: 〒428-0504 静岡県静岡市葵区井川2629-190
     en: 2629-190 Aoikuikawa, Shizuoka, Shizuoka 428-0504
     googleMaps: https://maps.app.goo.gl/BZtUmLomiRg3neVB6

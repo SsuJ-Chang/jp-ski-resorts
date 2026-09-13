@@ -25,7 +25,7 @@ links:
   googleMaps: https://maps.app.goo.gl/mz4YqsEPBYWknX21A
 contact:
   address:
-    zhTw: 岩手縣花卷市鉛字中平 36-1
+    zhTw: 〒025-0252 岩手縣花卷市鉛字中平 36-1
     ja: 〒025-0252 岩手県花巻市鉛字中平36-1
     en: 36-1 Namari Aza Chuuhei, Hanamaki, Iwate 025-0252
     googleMaps: https://maps.app.goo.gl/mz4YqsEPBYWknX21A

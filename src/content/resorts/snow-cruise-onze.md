@@ -32,7 +32,7 @@ links:
   access: https://onze.jp/
 contact:
   address:
-    zhTw: 北海道小樽市春香町357番地
+    zhTw: 〒047-0265 北海道小樽市春香町357番地
     ja: 〒047-0265 北海道小樽市春香町357番地
     en: 357banchi, Otaru, Haruka, Hokkaido 047-0265
     googleMaps: https://maps.app.goo.gl/PBzzJoXahSbqGAyB9

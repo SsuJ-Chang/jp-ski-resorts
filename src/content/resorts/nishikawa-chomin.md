@@ -27,7 +27,7 @@ links:
   access: https://nishikawa.gassankk.co.jp/
 contact:
   address:
-    zhTw: 山形縣西村山郡西川町大字間澤字サッテロ782-8
+    zhTw: 〒990-0703 山形縣西村山郡西川町大字間澤字サッテロ782-8
     ja: 〒990-0703 山形県西村山郡西川町大字間沢字サッテロ782-8
     en: 782-8 Ooaza Kansawa Aza Sattero, Nishi, Yama District Nishikawa, Yamagata 990-0703
     googleMaps: https://maps.app.goo.gl/gPtSv5naurcaZyoq8

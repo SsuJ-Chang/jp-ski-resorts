@@ -30,7 +30,7 @@ links:
   access: https://weathernews.jp/ski/spot/31503/
 contact:
   address:
-    zhTw: 北海道小樽市最上2-16-15
+    zhTw: 〒047-0023 北海道小樽市最上2-16-15
     ja: 〒047-0023 北海道小樽市最上2-16-15
     en: 2-16-15 Saijou, Otaru, Hokkaido 047-0023
     googleMaps: https://maps.app.goo.gl/maJKr22GeZETZxGi9

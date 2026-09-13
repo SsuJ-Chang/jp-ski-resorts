@@ -29,7 +29,7 @@ links:
   access: https://www.urabandai-ski.jp/
 contact:
   address:
-    zhTw: 福島縣耶麻郡北鹽原村大字檜原字大府平山1170
+    zhTw: 〒969-2701 福島縣耶麻郡北鹽原村大字檜原字大府平山1170
     ja: 〒969-2701 福島県耶麻郡北塩原村大字檜原字大府平山1170
     en: 1170 Ooaza Hibara Aza Oobuhirayama, Yama District Kitashiobara, Fukushima 969-2701
     googleMaps: https://maps.app.goo.gl/7YhmgJDTPtncJ4mS7

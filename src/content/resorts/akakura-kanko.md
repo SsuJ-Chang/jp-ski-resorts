@@ -31,7 +31,7 @@ links:
   googleMaps: https://maps.app.goo.gl/9sZU7Mx1A3DhoUrj7
 contact:
   address:
-    zhTw: 新潟縣妙高市田切 216
+    zhTw: 〒949-2102 新潟縣妙高市田切 216
     ja: 〒949-2102 新潟県妙高市田切216
     en: 216 Tagiri, Myoukou, Niigata 949-2102
     googleMaps: https://maps.app.goo.gl/9sZU7Mx1A3DhoUrj7

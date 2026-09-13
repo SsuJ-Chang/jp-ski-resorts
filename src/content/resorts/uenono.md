@@ -28,7 +28,7 @@ links:
   access: https://uenono.com/
 contact:
   address:
-    zhTw: 宮城縣大崎市鳴子温泉古戸前132-159
+    zhTw: 〒989-6826 宮城縣大崎市鳴子温泉古戸前132-159
     ja: 〒989-6826 宮城県大崎市鳴子温泉古戸前132-159
     en: 132-159 Narukoonsenfurutomae, Oosaki, Miyagi 989-6826
     googleMaps: https://maps.app.goo.gl/newDWGjVUj37fEXg7

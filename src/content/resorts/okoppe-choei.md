@@ -29,7 +29,7 @@ links:
   access: http://www.town.okoppe.lg.jp/cms/section/education/shakai/nbm3tm0000001f0q.html
 contact:
   address:
-    zhTw: 北海道紋別郡興部町字北興39番地の2
+    zhTw: 〒098-1622 北海道紋別郡興部町字北興39番地の2
     ja: 〒098-1622 北海道紋別郡興部町字北興39番地の2
     en: 2 Aza Hokukou39banchino, Monbetsu District Okoppe, Hokkaido 098-1622
     googleMaps: https://maps.app.goo.gl/hHa6fWALLzHHnfqM9

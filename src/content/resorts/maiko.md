@@ -38,7 +38,7 @@ links:
   googleMaps: https://maps.app.goo.gl/Fhud7wEZeydm1uBb9
 contact:
   address:
-    zhTw: 新潟縣南魚沼市舞子 2056-108
+    zhTw: 〒949-6423 新潟縣南魚沼市舞子 2056-108
     ja: 〒949-6423 新潟県南魚沼市舞子2056-108
     en: 2056-108 Maiko, Minamiuonuma, Niigata 949-6423
     googleMaps: https://maps.app.goo.gl/Fhud7wEZeydm1uBb9

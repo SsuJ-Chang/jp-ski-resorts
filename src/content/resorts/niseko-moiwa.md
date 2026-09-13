@@ -32,7 +32,7 @@ links:
   access: https://niseko-moiwa.jp/ja/
 contact:
   address:
-    zhTw: 北海道虻田郡ニセコ町字ニセコ448
+    zhTw: 〒048-1511 北海道虻田郡ニセコ町字ニセコ448
     ja: 〒048-1511 北海道虻田郡ニセコ町字ニセコ448
     en: 448 Aza Niseko, Abuta District Niseko, Hokkaido 048-1511
     googleMaps: https://www.google.com/maps/search/?api=1&query=42.848305,140.630306

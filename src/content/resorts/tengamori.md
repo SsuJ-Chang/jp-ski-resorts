@@ -28,7 +28,7 @@ links:
   access: https://www.tengamori.com
 contact:
   address:
-    zhTw: 秋田縣橫手市増田町狙半内字天下森地内
+    zhTw: 〒019-0705 秋田縣橫手市増田町狙半内字天下森地内
     ja: 〒019-0705 秋田県横手市増田町狙半内字天下森地内
     en: Sohannai Aza Tenkamorichinai, Yokote, Masuda, Akita 019-0705
     googleMaps: https://maps.app.goo.gl/4C9WYd1nhirszkKcA

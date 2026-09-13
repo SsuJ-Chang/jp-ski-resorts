@@ -25,7 +25,7 @@ links:
   access: https://www.town.yakumo.lg.jp/soshiki/taiiku/yakumo-ski.html
 contact:
   address:
-    zhTw: 北海道二海郡八雲町春日
+    zhTw: 〒049-3127 北海道二海郡八雲町春日
     ja: 〒049-3127 北海道二海郡八雲町春日
     en: Kasuga, Futami District Yakumo, Hokkaido 049-3127
     googleMaps: https://maps.app.goo.gl/VpQWmDuP6X23RiDbA

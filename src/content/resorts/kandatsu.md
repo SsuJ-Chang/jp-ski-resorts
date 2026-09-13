@@ -29,7 +29,7 @@ links:
   googleMaps: https://maps.app.goo.gl/YcFqwn2neQoZSXvm9
 contact:
   address:
-    zhTw: 新潟縣南魚沼郡湯澤町神立 4121-2
+    zhTw: 〒949-6102 新潟縣南魚沼郡湯澤町神立 4121-2
     ja: 〒949-6102 新潟県南魚沼郡湯沢町神立4121-2
     en: 4121-2 Kandachi, Minamiuonuma District Yuzawa, Niigata 949-6102
     googleMaps: https://maps.app.goo.gl/YcFqwn2neQoZSXvm9

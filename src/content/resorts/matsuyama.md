@@ -27,7 +27,7 @@ links:
   access: http://matuyama-net.com/ski/
 contact:
   address:
-    zhTw: 山形縣酒田市土渕字大平1-6
+    zhTw: 〒999-6839 山形縣酒田市土渕字大平1-6
     ja: 〒999-6839 山形県酒田市土渕字大平1-6
     en: 1-6 Tsuchibuchi Aza Oohira, Sakata, Yamagata 999-6839
     googleMaps: https://maps.app.goo.gl/nzxxXSPznEWtWGuF6

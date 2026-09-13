@@ -24,7 +24,7 @@ links:
   googleMaps: https://maps.app.goo.gl/jziEvXTvm2YWErkv9
 contact:
   address:
-    zhTw: 福島縣喜多方市熱鹽加納町相田字北權現森甲 857-1
+    zhTw: 〒966-0108 福島縣喜多方市熱鹽加納町相田字北權現森甲 857-1
     ja: 〒966-0108 福島県喜多方市熱塩加納町相田字北権現森甲857-1
     en: 857-1 Aida Aza Kitagongenmorikabuto, Kitakata, Atsushiokanou, Fukushima 966-0108
     googleMaps: https://maps.app.goo.gl/jziEvXTvm2YWErkv9

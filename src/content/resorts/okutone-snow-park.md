@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/h6APAKLGYtrmFG7j9
 contact:
   address:
-    zhTw: 群馬縣利根郡水上町向山 39
+    zhTw: 〒379-1724 群馬縣利根郡水上町向山 39
     ja: 〒379-1724 群馬県利根郡みなかみ町向山39
     en: 39 Mukaiyama, Tone District Minakami, Gunma 379-1724
     googleMaps: https://maps.app.goo.gl/h6APAKLGYtrmFG7j9

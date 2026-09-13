@@ -28,7 +28,7 @@ links:
   googleMaps: https://maps.app.goo.gl/RqAcgRFdkDBvMVT38
 contact:
   address:
-    zhTw: 滋賀縣長浜市余呉町中河内373
+    zhTw: 〒529-0531 滋賀縣長浜市余呉町中河内373
     ja: 〒529-0531 滋賀県長浜市余呉町中河内373
     en: 373 Nakagouchi, Nagahama, Yogo, Shiga 529-0531
     googleMaps: https://maps.app.goo.gl/RqAcgRFdkDBvMVT38

@@ -30,7 +30,7 @@ links:
   googleMaps: https://maps.app.goo.gl/5YwnV3AzvypPmG6MA
 contact:
   address:
-    zhTw: 兵庫縣神崎郡神河町上小田881-146
+    zhTw: 〒679-3125 兵庫縣神崎郡神河町上小田881-146
     ja: 〒679-3125 兵庫県神崎郡神河町上小田881-146
     en: 881-146 Ueoda, Kanzaki District Kamikawa, Hyogo 679-3125
     googleMaps: https://maps.app.goo.gl/5YwnV3AzvypPmG6MA

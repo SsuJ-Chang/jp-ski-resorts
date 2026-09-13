@@ -32,7 +32,7 @@ links:
   googleMaps: https://maps.app.goo.gl/g1N9YW7AdcTsraU87
 contact:
   address:
-    zhTw: 長野縣上田市菅平高原
+    zhTw: 〒386-2204 長野縣上田市菅平高原
     ja: 〒386-2204 長野県上田市菅平高原
     en: Sugadaira Kogen, Ueda, Nagano 386-2204
     googleMaps: https://maps.app.goo.gl/g1N9YW7AdcTsraU87

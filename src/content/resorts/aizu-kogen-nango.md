@@ -29,7 +29,7 @@ links:
   googleMaps: https://maps.app.goo.gl/bw4yuCpcUykjQEQDA
 contact:
   address:
-    zhTw: 福島縣南會津郡南會津町界字湯之入 293
+    zhTw: 〒967-0631 福島縣南會津郡南會津町界字湯之入 293
     ja: 〒967-0631 南会津郡南会津町界字湯の入293
     en: Minamiaizu District Minamiaizu, Kai Aza Yunonyuu293 967-0631
     googleMaps: https://maps.app.goo.gl/bw4yuCpcUykjQEQDA

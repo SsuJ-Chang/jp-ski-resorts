@@ -26,7 +26,7 @@ links:
   access: https://nikkoyumoto-ski.com/access.html
 contact:
   address:
-    zhTw: 栃木縣日光市湯元溫泉
+    zhTw: 〒321-1662 栃木縣日光市湯元溫泉
     ja: 〒321-1662 栃木県日光市湯元温泉
     en: Yumoto Onsen, Nikko, Tochigi 321-1662
     googleMaps: https://maps.app.goo.gl/9VeJYAezST2VLN8Q9

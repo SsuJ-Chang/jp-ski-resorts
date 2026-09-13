@@ -26,7 +26,7 @@ links:
   access: https://weathernews.jp/ski/spot/32104/
 contact:
   address:
-    zhTw: 北海道標津郡標津町字古多糠
+    zhTw: 〒086-1731 北海道標津郡標津町字古多糠
     ja: 〒086-1731 北海道標津郡標津町字古多糠
     en: Aza Kotanuka, Shibetsu District Shibetsu, Hokkaido 086-1731
     googleMaps: https://maps.app.goo.gl/opwyyYQEeKVkMWQYA

@@ -31,7 +31,7 @@ links:
   access: http://jxj.co.jp
 contact:
   address:
-    zhTw: 山形縣東根市大字観音寺字水無山3170-164
+    zhTw: 〒999-3723 山形縣東根市大字観音寺字水無山3170-164
     ja: 〒999-3723 山形県東根市大字観音寺字水無山3170-164
     en: 3170-164 Ooaza Kan'Onji Aza Mizunashiyama, Higashine, Yamagata 999-3723
     googleMaps: https://maps.app.goo.gl/pVUWyTSwfTzoeLeZ9

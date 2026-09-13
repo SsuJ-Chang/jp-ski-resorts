@@ -29,7 +29,7 @@ links:
   access: https://r.goope.jp/alpas/
 contact:
   address:
-    zhTw: 秋田縣鹿角市花輪字百合澤81-1
+    zhTw: 〒018-5201 秋田縣鹿角市花輪字百合澤81-1
     ja: 〒018-5201 秋田県鹿角市花輪字百合沢81-1
     en: 81-1 Hanawa Aza Yurisawa, Kazuno, Akita 018-5201
     googleMaps: https://maps.app.goo.gl/E12qVtkhcHegzZXc7

@@ -30,7 +30,7 @@ links:
   googleMaps: https://maps.app.goo.gl/MbT4PPa4mzJfeBHY9
 contact:
   address:
-    zhTw: 新潟縣妙高市杉野澤
+    zhTw: 〒949-2113 新潟縣妙高市杉野澤
     ja: 〒949-2113 新潟県妙高市杉野沢
     en: Suginosawa, Myoukou, Niigata 949-2113
     googleMaps: https://maps.app.goo.gl/MbT4PPa4mzJfeBHY9

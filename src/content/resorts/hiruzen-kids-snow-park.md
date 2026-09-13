@@ -21,7 +21,7 @@ links:
   googleMaps: https://maps.app.goo.gl/kiPrNbkCA1iLPRNK7
 contact:
   address:
-    zhTw: 岡山縣真庭市蒜山上福田1205-281
+    zhTw: 〒717-0602 岡山縣真庭市蒜山上福田1205-281
     ja: 〒717-0602 岡山県真庭市蒜山上福田1205-281
     en: 1205-281 Hiruzenuefukuda, Maniwa, Okayama 717-0602
     googleMaps: https://maps.app.goo.gl/kiPrNbkCA1iLPRNK7

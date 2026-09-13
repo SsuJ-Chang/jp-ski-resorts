@@ -30,7 +30,7 @@ links:
   access: https://weathernews.jp/ski/spot/31215/
 contact:
   address:
-    zhTw: 北海道上川郡上川町層雲峡
+    zhTw: 〒078-1701 北海道上川郡上川町層雲峡
     ja: 〒078-1701 北海道上川郡上川町層雲峡
     en: Souunkyou, Kamikawa District Kamikawa, Hokkaido 078-1701
     googleMaps: https://maps.app.goo.gl/bHupZforoywA1JG88

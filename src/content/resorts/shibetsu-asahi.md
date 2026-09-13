@@ -26,7 +26,7 @@ links:
   access: https://www.city.shibetsu.lg.jp/gyoseisaito/kosodate_bunka_supotsu/supotsu/2/1812.html
 contact:
   address:
-    zhTw: 北海道士別市朝日町中央6656番地
+    zhTw: 〒095-0401 北海道士別市朝日町中央6656番地
     ja: 〒095-0401 北海道士別市朝日町中央6656番地
     en: 6656banchi Chuuou, Shibetsu, Asahi, Hokkaido 095-0401
     googleMaps: https://maps.app.goo.gl/um3VsVU9qQ5ipAYu9

@@ -31,7 +31,7 @@ links:
   access: http://www.aniski.jp
 contact:
   address:
-    zhTw: 秋田縣北秋田市阿仁鍵ノ滝79-5
+    zhTw: 〒018-4624 秋田縣北秋田市阿仁鍵ノ滝79-5
     ja: 〒018-4624 秋田県北秋田市阿仁鍵ノ滝79-5
     en: 79-5 Anikaginotaki, Kitaakita, Akita 018-4624
     googleMaps: https://maps.app.goo.gl/Fs3Mu6nHGNKuWWBa7

@@ -32,7 +32,7 @@ links:
   googleMaps: https://maps.app.goo.gl/krHusDmHzgSVcpbj8
 contact:
   address:
-    zhTw: 石川縣白山市尾添リ 63
+    zhTw: 〒920-2333 石川縣白山市尾添リ 63
     ja: 〒920-2333 石川県白山市尾添リ63
     en: 63 Osoeri, Hakusan, Ishikawa 920-2333
     googleMaps: https://maps.app.goo.gl/krHusDmHzgSVcpbj8

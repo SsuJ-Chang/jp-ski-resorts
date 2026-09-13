@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/BCVHr7bmAeH1Mywq9
 contact:
   address:
-    zhTw: 岡山縣真庭市蒜山本茅部644-105
+    zhTw: 〒717-0611 岡山縣真庭市蒜山本茅部644-105
     ja: 〒717-0611 岡山県真庭市蒜山本茅部644-105
     en: 644-105 Hiruzenhonkayabe, Maniwa, Okayama 717-0611
     googleMaps: https://maps.app.goo.gl/BCVHr7bmAeH1Mywq9

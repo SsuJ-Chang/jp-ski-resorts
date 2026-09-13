@@ -19,7 +19,7 @@ links:
   googleMaps: https://maps.app.goo.gl/VQM7k4QEmaMo1Wg3A
 contact:
   address:
-    zhTw: 愛媛縣西條市西之川下谷甲81番地
+    zhTw: 〒793-0215 愛媛縣西條市西之川下谷甲81番地
     ja: 〒793-0215 愛媛県西条市西之川下谷甲81番地
     en: 81, Shimonoya-ko, Nishinokawa, Saijo-shi, Ehime, 793-0215
     googleMaps: https://maps.app.goo.gl/VQM7k4QEmaMo1Wg3A

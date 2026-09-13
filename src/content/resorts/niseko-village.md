@@ -30,7 +30,7 @@ links:
   googleMaps: https://maps.app.goo.gl/HgXo1fKb9xnzCtaC7
 contact:
   address:
-    zhTw: 北海道虻田郡二世谷町東山溫泉
+    zhTw: 〒048-1592 北海道虻田郡二世谷町東山溫泉
     ja: 〒048-1592 北海道虻田郡ニセコ町東山温泉
     en: Higashiyama Onsen, Niseko, Abuta District, Hokkaido 048-1592
     googleMaps: https://maps.app.goo.gl/HgXo1fKb9xnzCtaC7

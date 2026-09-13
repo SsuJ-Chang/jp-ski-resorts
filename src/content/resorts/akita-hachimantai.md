@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/cWVp9oDHuau9PNVy5
 contact:
   address:
-    zhTw: 秋田縣鹿角市八幡平字熊澤外 8 國有林
+    zhTw: 〒018-5141 秋田縣鹿角市八幡平字熊澤外 8 國有林
     ja: 〒018-5141 秋田県鹿角市八幡平字熊沢外8国有林
     en: Hachimantai Aza Kumazawasoto8kokuyuurin, Kazuno, Akita 018-5141
     googleMaps: https://maps.app.goo.gl/cWVp9oDHuau9PNVy5

@@ -29,7 +29,7 @@ links:
   access: https://weathernews.jp/ski/spot/31403/
 contact:
   address:
-    zhTw: 北海道札幌市南区定山渓937番地先
+    zhTw: 〒061-2301 北海道札幌市南区定山渓937番地先
     ja: 〒061-2301 北海道札幌市南区定山渓937番地先
     en: Minamikujouzankei937banchisaki, Sapporo, Hokkaido 061-2301
     googleMaps: https://maps.app.goo.gl/SUdWSta3x1cw4tYy9

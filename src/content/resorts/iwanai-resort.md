@@ -29,7 +29,7 @@ links:
   access: https://iwanairesort.com
 contact:
   address:
-    zhTw: 北海道岩内郡岩内町野束350-4
+    zhTw: 〒045-0024 北海道岩内郡岩内町野束350-4
     ja: 〒045-0024 北海道岩内郡岩内町野束350-4
     en: 350-4 Nosoku, Iwanai District Iwanai, Hokkaido 045-0024
     googleMaps: https://maps.app.goo.gl/e6KeJAA2P6bKXBaYA

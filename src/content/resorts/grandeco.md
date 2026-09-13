@@ -32,7 +32,7 @@ links:
   googleMaps: https://maps.app.goo.gl/w6T1iuQBPbUjR9c38
 contact:
   address:
-    zhTw: 福島縣耶麻郡北鹽原村檜原荒砂澤山 1082-93
+    zhTw: 〒969-2701 福島縣耶麻郡北鹽原村檜原荒砂澤山 1082-93
     ja: 〒969-2701 福島県耶麻郡北塩原村檜原荒砂沢山1082-93
     en: 1082-93 Hibarakousunazawayama, Yama District Kitashiobara, Fukushima 969-2701
     googleMaps: https://maps.app.goo.gl/w6T1iuQBPbUjR9c38

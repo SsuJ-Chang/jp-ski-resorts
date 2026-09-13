@@ -24,7 +24,7 @@ links:
   googleMaps: https://maps.app.goo.gl/S8PC247KXVTQHsZCA
 contact:
   address:
-    zhTw: 福島縣南會津郡南會津町高杖原 535
+    zhTw: 〒967-0315 福島縣南會津郡南會津町高杖原 535
     ja: 〒967-0315 福島県南会津郡南会津町高杖原535
     en: 535 Takatsuehara, Minamiaizu District Minamiaizu, Fukushima 967-0315
     googleMaps: https://maps.app.goo.gl/S8PC247KXVTQHsZCA

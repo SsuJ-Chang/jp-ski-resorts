@@ -29,7 +29,7 @@ links:
   access: http://www.dynasty-resort.jp/
 contact:
   address:
-    zhTw: 北海道北広島市仁別82番4
+    zhTw: 〒061-1267 北海道北広島市仁別82番4
     ja: 〒061-1267 北海道北広島市仁別82番4
     en: 4 Hitoshibetsu82ban, Kitahiroshima, Hokkaido 061-1267
     googleMaps: https://maps.app.goo.gl/8Ui6YKVvFyFd1NiG8

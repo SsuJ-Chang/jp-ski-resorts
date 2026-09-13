@@ -36,7 +36,7 @@ links:
   access: https://weathernews.jp/ski/spot/31601/
 contact:
   address:
-    zhTw: 北海道虻田郡留寿都村字泉川13
+    zhTw: 〒048-1711 北海道虻田郡留寿都村字泉川13
     ja: 〒048-1711 北海道虻田郡留寿都村字泉川13
     en: 13 Aza Izumikawa, Rusutsu, Abuta District, Hokkaido 048-1711
     googleMaps: https://maps.app.goo.gl/9EA5BPhCVtBcC5Sz5

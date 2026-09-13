@@ -28,7 +28,7 @@ links:
   access: https://weathernews.jp/ski/spot/31104/
 contact:
   address:
-    zhTw: 北海道宗谷郡猿払村鬼志別西町238番地、及び225番地
+    zhTw: 〒098-6232 北海道宗谷郡猿払村鬼志別西町238番地、及び225番地
     ja: 〒098-6232 北海道宗谷郡猿払村鬼志別西町238番地、及び225番地
     en: 225banchi Oyobi, Souya District Sarufutsu, Onishibetsunishi, 238banchi, Hokkaido 098-6232
     googleMaps: https://maps.app.goo.gl/zUyuMveTTWEpJzNw7

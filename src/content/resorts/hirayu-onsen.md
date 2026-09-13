@@ -25,7 +25,7 @@ links:
   googleMaps: https://maps.app.goo.gl/gvCMFxUMTqBRVgM16
 contact:
   address:
-    zhTw: 岐阜縣高山市奧飛驒溫泉鄉平湯溫泉 768-1
+    zhTw: 〒506-1433 岐阜縣高山市奧飛驒溫泉鄉平湯溫泉 768-1
     ja: 〒506-1433 岐阜県高山市奥飛騨温泉郷平湯温泉768-1
     en: 768-1 Okuhidaonsensatohirayuonsen, Kouzan, Gifu 506-1433
     googleMaps: https://maps.app.goo.gl/gvCMFxUMTqBRVgM16

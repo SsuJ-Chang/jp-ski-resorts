@@ -28,7 +28,7 @@ links:
   googleMaps: https://maps.app.goo.gl/dTp8CChjDNShfeSY7
 contact:
   address:
-    zhTw: 岐阜縣郡上市高鷲町ひるがの 4670-75
+    zhTw: 〒501-5301 岐阜縣郡上市高鷲町ひるがの 4670-75
     ja: 〒501-5301 岐阜県郡上市高鷲町ひるがの4670-75
     en: 4670-75 Hirugano, District Ue, Takasu, Gifu 501-5301
     googleMaps: https://maps.app.goo.gl/dTp8CChjDNShfeSY7

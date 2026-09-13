@@ -31,7 +31,7 @@ links:
   googleMaps: https://maps.app.goo.gl/jPRfJKNS8fy8vfV89
 contact:
   address:
-    zhTw: 北海道虻田郡倶知安町字岩尾別 328-36
+    zhTw: 〒044-0082 北海道虻田郡倶知安町字岩尾別 328-36
     ja: 〒044-0082 北海道虻田郡倶知安町字岩尾別328-36
     en: 328-36 Aza Iwaobetsu, Kutchan, Abuta District, Hokkaido 044-0082
     googleMaps: https://maps.app.goo.gl/jPRfJKNS8fy8vfV89

@@ -31,7 +31,7 @@ links:
   access: https://www.numajiri-ski.jp
 contact:
   address:
-    zhTw: 福島縣耶麻郡豬苗代町大字蚕養字沼尻山甲2855-434
+    zhTw: 〒969-2752 福島縣耶麻郡豬苗代町大字蚕養字沼尻山甲2855-434
     ja: 〒969-2752 福島県耶麻郡猪苗代町大字蚕養字沼尻山甲2855-434
     en: 2855-434 Ooaza Kaikoyou Aza Numajiriyamakabuto, Yama District Inawashiro, Fukushima 969-2752
     googleMaps: https://maps.app.goo.gl/m6Y5GpUhHYp1LVAf9

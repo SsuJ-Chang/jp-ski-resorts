@@ -24,7 +24,7 @@ links:
   googleMaps: https://maps.app.goo.gl/6vpsLXNdC8zgQFeL6
 contact:
   address:
-    zhTw: 青森縣東津輕郡平內町大字濱子字堀替 36-1
+    zhTw: 〒039-3331 青森縣東津輕郡平內町大字濱子字堀替 36-1
     ja: 〒039-3331 青森県東津軽郡平内町大字浜子字堀替36-1
     en: 36-1 Ooaza Hamako Aza Horikae, Higashitsugaru District Hiranai, Aomori 039-3331
     googleMaps: https://maps.app.goo.gl/6vpsLXNdC8zgQFeL6

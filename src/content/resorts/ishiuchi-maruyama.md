@@ -42,7 +42,7 @@ links:
   googleMaps: https://maps.app.goo.gl/CV3617srRk29UdET9
 contact:
   address:
-    zhTw: 新潟縣南魚沼市石打 1699
+    zhTw: 〒949-6372 新潟縣南魚沼市石打 1699
     ja: 〒949-6372 新潟県南魚沼市石打1699
     en: 1699 Ishiuchi, Minamiuonuma, Niigata 949-6372
     googleMaps: https://maps.app.goo.gl/CV3617srRk29UdET9

@@ -23,7 +23,7 @@ links:
   access: https://azou-forest-park.com/facility#leisure
 contact:
   address:
-    zhTw: 鳥取縣鳥取市河內1185-1
+    zhTw: 〒680-1425 鳥取縣鳥取市河內1185-1
     ja: 〒680-1425 鳥取県鳥取市河内1185-1
     en: 1185-1 Kawauchi, Tottori, Tottori 680-1425
     googleMaps: https://maps.app.goo.gl/2FenWqwjVMxj34mB6

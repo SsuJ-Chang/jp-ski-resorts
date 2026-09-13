@@ -26,7 +26,7 @@ links:
   googleMaps: https://maps.app.goo.gl/VZTmLgTs9vYi3Hkt6
 contact:
   address:
-    zhTw: 山梨縣北杜市大泉町西井出 8240-1
+    zhTw: 〒407-0311 山梨縣北杜市大泉町西井出 8240-1
     ja: 〒407-0311 山梨県北杜市大泉町西井出8240-1
     en: 8240-1 Nishiishutsu, Hokuto, Ooizumi, Yamanashi 407-0311
     googleMaps: https://maps.app.goo.gl/VZTmLgTs9vYi3Hkt6

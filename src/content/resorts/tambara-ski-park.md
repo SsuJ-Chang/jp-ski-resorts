@@ -31,7 +31,7 @@ links:
   googleMaps: https://maps.app.goo.gl/1icKLJXQpP2qr3w49
 contact:
   address:
-    zhTw: 群馬縣沼田市玉原高原
+    zhTw: 〒378-0071 群馬縣沼田市玉原高原
     ja: 〒378-0071 群馬県沼田市玉原高原
     en: Tanbarakougen, Numata, Gunma 378-0071
     googleMaps: https://maps.app.goo.gl/1icKLJXQpP2qr3w49

@@ -26,7 +26,7 @@ links:
   access: http://www.tainai.info/
 contact:
   address:
-    zhTw: 新潟縣胎內市熱田坂 881-166
+    zhTw: 〒959-2823 新潟縣胎內市熱田坂 881-166
     ja: 〒959-2823 新潟県胎内市熱田坂881-166
     en: 881-166 Atsutasaka, Tainai, Niigata 959-2823
     googleMaps: https://www.google.com/maps/search/?api=1&query=Tainai%20Ski%20Area

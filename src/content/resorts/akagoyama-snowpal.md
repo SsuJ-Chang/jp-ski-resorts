@@ -25,7 +25,7 @@ links:
   ticket: https://woodypal.jp/facility/%E8%B5%A4%E5%AD%90%E5%B1%B1%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4-%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%91%E3%83%AB/
 contact:
   address:
-    zhTw: 滋賀縣長浜市余呉町中之郷260
+    zhTw: 〒529-0515 滋賀縣長浜市余呉町中之郷260
     ja: 〒529-0515 滋賀県長浜市余呉町中之郷260
     en: 260 Nakayukisato, Nagahama, Yogo, Shiga 529-0515
     googleMaps: https://maps.app.goo.gl/sFvHMxXVePnwRLwPA

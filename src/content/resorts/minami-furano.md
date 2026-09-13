@@ -30,7 +30,7 @@ links:
   access: https://www.town.minamifurano.hokkaido.jp/
 contact:
   address:
-    zhTw: 北海道空知郡南富良野町字幾寅1031
+    zhTw: 〒079-2401 北海道空知郡南富良野町字幾寅1031
     ja: 〒079-2401 北海道空知郡南富良野町字幾寅1031
     en: 1031 Aza Ikutora, Sorachi District Minamifurano, Hokkaido 079-2401
     googleMaps: https://maps.app.goo.gl/pLCZ4sfdTJCkkR2F7

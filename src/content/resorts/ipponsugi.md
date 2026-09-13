@@ -31,7 +31,7 @@ links:
   googleMaps: https://maps.app.goo.gl/NQL945UUPKuJ4i2i7
 contact:
   address:
-    zhTw: 新潟縣南魚沼郡湯澤町湯澤 2521
+    zhTw: 〒949-6101 新潟縣南魚沼郡湯澤町湯澤 2521
     ja: 〒949-6101 新潟県南魚沼郡湯沢町湯沢2521
     en: 2521 Yuzawa, Minamiuonuma District Yuzawa, Niigata 949-6101
     googleMaps: https://maps.app.goo.gl/NQL945UUPKuJ4i2i7

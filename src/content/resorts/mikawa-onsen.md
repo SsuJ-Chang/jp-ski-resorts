@@ -25,7 +25,7 @@ links:
   access: https://www.aga-info.jp/tourist-attractions/mikawa-onsen-ski-resort/
 contact:
   address:
-    zhTw: 新潟縣東蒲原郡阿賀町川口字堤之下
+    zhTw: 〒959-4618 新潟縣東蒲原郡阿賀町川口字堤之下
     ja: 〒959-4618 新潟県東蒲原郡阿賀町川口字堤ノ下
     en: Kawaguchi Aza Tsutsuminoshita, Higashikanbara District Aga, Niigata 959-4618
     googleMaps: https://www.google.com/maps/search/?api=1&query=Mikawa%20Onsen%20Ski%20Area

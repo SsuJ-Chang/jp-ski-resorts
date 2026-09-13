@@ -29,7 +29,7 @@ links:
   access: http://www.town.bifuka.hokkaido.jp
 contact:
   address:
-    zhTw: 北海道中川郡美深町字敷島347-4
+    zhTw: 〒098-2214 北海道中川郡美深町字敷島347-4
     ja: 〒098-2214 北海道中川郡美深町字敷島347-4
     en: 347-4 Aza Shikishima, Nakagawa District Bifuka, Hokkaido 098-2214
     googleMaps: https://maps.app.goo.gl/EvDBtBLdaJVBYZhLA

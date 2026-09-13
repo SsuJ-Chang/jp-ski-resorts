@@ -28,7 +28,7 @@ links:
   access: https://ryuoo.com/access/
 contact:
   address:
-    zhTw: 長野縣下高井郡山之内町夜間瀬 11700
+    zhTw: 〒381-0405 長野縣下高井郡山之内町夜間瀬 11700
     ja: 〒381-0405 長野県下高井郡山ノ内町夜間瀬11700
     en: 11700 Yakanse, Shimotakai District Yamanonai, Nagano 381-0405
     googleMaps: https://maps.app.goo.gl/2Lg8XhpSEu72orzEA

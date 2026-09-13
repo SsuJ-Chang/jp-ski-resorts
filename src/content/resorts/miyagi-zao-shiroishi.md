@@ -28,7 +28,7 @@ links:
   googleMaps: https://maps.app.goo.gl/hZVq96KcgggFWGcg9
 contact:
   address:
-    zhTw: 宮城縣白石市福岡八宮字不忘山
+    zhTw: 〒989-0733 宮城縣白石市福岡八宮字不忘山
     ja: 〒989-0733 宮城県白石市福岡八宮字不忘山
     en: Fukuokahachimiya Aza Fubouyama, Shiroishi, Miyagi 989-0733
     googleMaps: https://maps.app.goo.gl/hZVq96KcgggFWGcg9

@@ -29,7 +29,7 @@ links:
   access: https://weathernews.jp/ski/spot/31405/
 contact:
   address:
-    zhTw: 北海道札幌市中央区盤渓410
+    zhTw: 〒064-0945 北海道札幌市中央区盤渓410
     ja: 〒064-0945 北海道札幌市中央区盤渓410
     en: 410 Chuuoukubankei, Sapporo, Hokkaido 064-0945
     googleMaps: https://maps.app.goo.gl/CPkFxV9VAynRvnjq9

@@ -27,7 +27,7 @@ links:
   access: http://www.zao-sarukura.co.jp
 contact:
   address:
-    zhTw: 山形縣上山市藏王字藏王山2843-1
+    zhTw: 〒999-3113 山形縣上山市藏王字藏王山2843-1
     ja: 〒999-3113 山形県上山市蔵王字蔵王山2843-1
     en: 2843-1 Zaou Aza Zaouyama, Ueyama, Yamagata 999-3113
     googleMaps: https://maps.app.goo.gl/v13bfcBxW5HtAwRb9

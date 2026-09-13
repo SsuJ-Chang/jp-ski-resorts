@@ -29,7 +29,7 @@ links:
   googleMaps: https://www.google.com/maps/search/?api=1&query=Mt.%20Norikura%20Snow%20Resort
 contact:
   address:
-    zhTw: 長野縣松本市安曇 4294-3
+    zhTw: 〒390-1520 長野縣松本市安曇 4294-3
     ja: 〒390-1520 長野県松本市安曇4294-3
     en: 4294-3 Azumi, Matsumoto, Nagano 390-1520
     googleMaps: https://www.google.com/maps/search/?api=1&query=Mt.%20Norikura%20Snow%20Resort

@@ -28,7 +28,7 @@ links:
   access: https://www.bokujyo.com/winter/access.html
 contact:
   address:
-    zhTw: 兵庫縣美方郡新溫泉町丹土1033
+    zhTw: 〒669-6813 兵庫縣美方郡新溫泉町丹土1033
     ja: 〒669-6813 兵庫県美方郡新温泉町丹土1033
     en: 1033 Tantsuchi, Mikata District Shin'Onsen, Hyogo 669-6813
     googleMaps: https://maps.app.goo.gl/LuEpoMNDNH8eRRY7A

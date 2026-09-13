@@ -28,7 +28,7 @@ links:
   access: https://www.yukidaruma-kogen.com
 contact:
   address:
-    zhTw: 新潟縣上越市安塚區須川 4820
+    zhTw: 〒942-0534 新潟縣上越市安塚區須川 4820
     ja: 〒942-0534 新潟県上越市安塚区須川4820
     en: 4820 Yasuzukakusugawa, Jouetsu, Niigata 942-0534
     googleMaps: https://www.google.com/maps/search/?api=1&query=Cupid%20Valley

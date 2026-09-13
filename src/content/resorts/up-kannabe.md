@@ -29,7 +29,7 @@ links:
   ticket: https://www.kannabe.co.jp/charge
 contact:
   address:
-    zhTw: 兵庫縣豐岡市日高町神鍋高原59-78
+    zhTw: 〒669-5372 兵庫縣豐岡市日高町神鍋高原59-78
     ja: 〒669-5372 兵庫県豐岡市日高町神鍋高原59-78
     en: 59-78 Kaminabekougen, Toyooka, Hidaka, Hyogo 669-5372
     googleMaps: https://maps.app.goo.gl/G6PnAuqLCLWoYEpBA

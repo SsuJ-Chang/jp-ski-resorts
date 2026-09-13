@@ -31,7 +31,7 @@ links:
   access: https://www.canmore-ski.jp
 contact:
   address:
-    zhTw: 北海道上川郡東川町西５号北４４番地
+    zhTw: 〒071-1405 北海道上川郡東川町西５号北４４番地
     ja: 〒071-1405 北海道上川郡東川町西５号北４４番地
     en: 44banchi Nishi5goukita, Kamikawa District Higashikawa, Hokkaido 071-1405
     googleMaps: https://maps.app.goo.gl/QqXUKxTmpgW14YhP8

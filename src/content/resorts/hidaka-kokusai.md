@@ -28,7 +28,7 @@ links:
   access: https://www.town.hidaka.hokkaido.jp/site/ski/
 contact:
   address:
-    zhTw: 北海道沙流郡日高町字富岡444-1
+    zhTw: 〒055-2315 北海道沙流郡日高町字富岡444-1
     ja: 〒055-2315 北海道沙流郡日高町字富岡444-1
     en: 444-1 Aza Tomioka, Saru District Hidaka, Hokkaido 055-2315
     googleMaps: https://maps.app.goo.gl/EV5deHhjDHj8yvcf6

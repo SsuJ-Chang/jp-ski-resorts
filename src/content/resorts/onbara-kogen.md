@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/YrkvUu4eid56W4vg9
 contact:
   address:
-    zhTw: 岡山縣苫田郡鏡野町上齋原2037
+    zhTw: 〒708-0601 岡山縣苫田郡鏡野町上齋原2037
     ja: 〒708-0601 岡山県苫田郡鏡野町上齋原2037
     en: 2037 Uesaihara, Tomata District Kagamino, Okayama 708-0601
     googleMaps: https://maps.app.goo.gl/YrkvUu4eid56W4vg9

@@ -29,7 +29,7 @@ links:
   googleMaps: https://maps.app.goo.gl/k8ZH7xyJnRCe4YTE7
 contact:
   address:
-    zhTw: 栃木縣那須塩原市湯本塩原字前黒
+    zhTw: 〒329-2922 栃木縣那須塩原市湯本塩原字前黒
     ja: 〒329-2922 栃木県那須塩原市湯本塩原字前黒
     en: Yumotoshiobara Aza Maekuro, Nasushiobara, Tochigi 329-2922
     googleMaps: https://maps.app.goo.gl/k8ZH7xyJnRCe4YTE7

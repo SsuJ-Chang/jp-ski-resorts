@@ -29,7 +29,7 @@ links:
   access: https://www.town.shirataka.lg.jp/1350.htm
 contact:
   address:
-    zhTw: 山形縣西置賜郡白鷹町大字中山2801
+    zhTw: 〒992-0802 山形縣西置賜郡白鷹町大字中山2801
     ja: 〒992-0802 山形県西置賜郡白鷹町大字中山2801
     en: 2801 Ooaza Nakayama, Nishiokitama District Shirataka, Yamagata 992-0802
     googleMaps: https://maps.app.goo.gl/PAMUK8e1G6ymApgu8

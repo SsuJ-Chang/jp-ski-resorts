@@ -29,7 +29,7 @@ links:
   googleMaps: https://maps.app.goo.gl/JF6orPzzicF98h649
 contact:
   address:
-    zhTw: 青森縣十和田市法量字燒山 64-122
+    zhTw: 〒034-0303 青森縣十和田市法量字燒山 64-122
     ja: 〒034-0303 青森県十和田市法量字焼山64-122
     en: 64-122 Houryou Aza Takiyama, Towada, Aomori 034-0303
     googleMaps: https://maps.app.goo.gl/JF6orPzzicF98h649

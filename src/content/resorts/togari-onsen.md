@@ -29,7 +29,7 @@ links:
   googleMaps: https://www.google.com/maps/search/?api=1&query=Togari%20Onsen%20Ski%20Resort
 contact:
   address:
-    zhTw: 長野縣飯山市大字豐田 6356-2
+    zhTw: 〒389-2411 長野縣飯山市大字豐田 6356-2
     ja: 〒389-2411 長野県飯山市大字豊田6356-2
     en: 6356-2 Ooaza Toyoda, Iiyama, Nagano 389-2411
     googleMaps: https://www.google.com/maps/search/?api=1&query=Togari%20Onsen%20Ski%20Resort

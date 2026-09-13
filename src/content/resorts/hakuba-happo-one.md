@@ -40,7 +40,7 @@ links:
   googleMaps: https://maps.app.goo.gl/5QCNFQJ2BPkXSst79
 contact:
   address:
-    zhTw: 長野縣北安曇郡白馬村北城八方
+    zhTw: 〒399-9211 長野縣北安曇郡白馬村北城八方
     ja: 〒399-9211 長野県北安曇郡白馬村北城八方
     en: Kitashiro Happo, Hakuba, Kitaazumi District, Nagano 399-9211
     googleMaps: https://maps.app.goo.gl/5QCNFQJ2BPkXSst79

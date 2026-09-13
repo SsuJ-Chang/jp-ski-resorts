@@ -32,7 +32,7 @@ links:
   access: https://www.horotachi-horokanai.com/
 contact:
   address:
-    zhTw: 北海道雨竜郡幌加内町字長留内
+    zhTw: 〒074-0415 北海道雨竜郡幌加内町字長留内
     ja: 〒074-0415 北海道雨竜郡幌加内町字長留内
     en: Aza Chouryuunai, Uryuu District Horokanai, Hokkaido 074-0415
     googleMaps: https://maps.app.goo.gl/hm2Xvf7SEMdmCeBi9

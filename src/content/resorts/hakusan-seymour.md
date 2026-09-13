@@ -26,7 +26,7 @@ links:
   googleMaps: https://maps.app.goo.gl/hRB4qDUzWBVAMe7F9
 contact:
   address:
-    zhTw: 石川縣白山市河內町內尾
+    zhTw: 〒920-2318 石川縣白山市河內町內尾
     ja: 〒920-2318 石川県白山市河内町内尾
     en: Uchio, Hakusan, Kawauchi, Ishikawa 920-2318
     googleMaps: https://maps.app.goo.gl/hRB4qDUzWBVAMe7F9

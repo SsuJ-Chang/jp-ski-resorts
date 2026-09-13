@@ -26,7 +26,7 @@ links:
   googleMaps: https://maps.app.goo.gl/PGjvp1Pz5HRx2QUP7
 contact:
   address:
-    zhTw: 岐阜縣高山市丹生川町久手 447
+    zhTw: 〒506-2252 岐阜縣高山市丹生川町久手 447
     ja: 〒506-2252 岐阜県高山市丹生川町久手447
     en: 447 Kyuute, Kouzan, Nyuukawa, Gifu 506-2252
     googleMaps: https://maps.app.goo.gl/PGjvp1Pz5HRx2QUP7

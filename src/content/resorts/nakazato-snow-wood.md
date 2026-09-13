@@ -31,7 +31,7 @@ links:
   googleMaps: https://maps.app.goo.gl/XqREhKECdq9FETsh8
 contact:
   address:
-    zhTw: 新潟縣南魚沼郡湯澤町土樽 4731-2
+    zhTw: 〒949-6103 新潟縣南魚沼郡湯澤町土樽 4731-2
     ja: 〒949-6103 新潟県南魚沼郡湯沢町土樽4731-2
     en: 4131-2 Tsuchitaru, Minamiuonuma District Yuzawa, Niigata 949-6103
     googleMaps: https://maps.app.goo.gl/XqREhKECdq9FETsh8

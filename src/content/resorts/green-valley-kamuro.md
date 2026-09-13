@@ -28,7 +28,7 @@ links:
   access: https://greenvalleykamuro.com/
 contact:
   address:
-    zhTw: 山形縣最上郡金山町大字有屋1400
+    zhTw: 〒999-5401 山形縣最上郡金山町大字有屋1400
     ja: 〒999-5401 山形県最上郡金山町大字有屋1400
     en: 1400 Ooaza Ariya, Saijou District Kanayama, Yamagata 999-5401
     googleMaps: https://maps.app.goo.gl/p7veyfoX8ykv8jfAA

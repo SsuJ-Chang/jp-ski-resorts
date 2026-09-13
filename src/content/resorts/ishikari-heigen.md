@@ -30,7 +30,7 @@ links:
   access: https://www.ishikari-heigen-ski.net/liftticket
 contact:
   address:
-    zhTw: 北海道石狩郡当別町弁華別3002番地
+    zhTw: 〒061-0208 北海道石狩郡当別町弁華別3002番地
     ja: 〒061-0208 北海道石狩郡当別町弁華別3002番地
     en: 3002banchi Benhanabetsu, Ishikari District Toubetsu, Hokkaido 061-0208
     googleMaps: https://maps.app.goo.gl/PAcDDRoHyBGqx55d9

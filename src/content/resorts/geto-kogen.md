@@ -31,7 +31,7 @@ links:
   googleMaps: https://maps.app.goo.gl/4FgrBzDRsmFmqSu67
 contact:
   address:
-    zhTw: 岩手縣北上市和賀町岩崎新田
+    zhTw: 〒024-0322 岩手縣北上市和賀町岩崎新田
     ja: 〒024-0322 岩手県北上市和賀町岩崎新田
     en: Iwasakinitta, Kitakami, Waga, Iwate 024-0322
     googleMaps: https://maps.app.goo.gl/4FgrBzDRsmFmqSu67

@@ -27,7 +27,7 @@ links:
   access: https://www.town.mashike.hokkaido.jp/tourism/place/ski/index.html
 contact:
   address:
-    zhTw: 北海道增毛郡增毛町暑寒澤698-1
+    zhTw: 〒077-0216 北海道增毛郡增毛町暑寒澤698-1
     ja: 〒077-0216 北海道増毛郡増毛町暑寒沢698-1
     en: 698-1 Shokansawa, Mashike District Mashike, Hokkaido 077-0216
     googleMaps: https://maps.app.goo.gl/2hDKtLCWbHwMGXG18

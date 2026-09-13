@@ -26,7 +26,7 @@ links:
   googleMaps: https://maps.app.goo.gl/AvrEffFNC4DSpc9u8
 contact:
   address:
-    zhTw: 滋賀縣高島市マキノ町野口507
+    zhTw: 〒520-1802 滋賀縣高島市マキノ町野口507
     ja: 〒520-1802 滋賀県高島市マキノ町野口507
     en: 507 Noguchi, Takashima, Makino, Shiga 520-1802
     googleMaps: https://maps.app.goo.gl/AvrEffFNC4DSpc9u8

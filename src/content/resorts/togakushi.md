@@ -25,7 +25,7 @@ links:
   access: https://www.togakusi.com/ski/access/
 contact:
   address:
-    zhTw: 長野縣長野市戶隱 3682
+    zhTw: 〒381-4101 長野縣長野市戶隱 3682
     ja: 〒381-4101 長野県長野市戸隠3682
     en: 3682 Togakushi, Nagano, Nagano 381-4101
     googleMaps: https://maps.app.goo.gl/1bXS7oy5Uzrxyzry5

@@ -28,7 +28,7 @@ links:
   access: https://yawata191.com/access2/
 contact:
   address:
-    zhTw: 廣島縣山縣郡北広島町西八幡原
+    zhTw: 〒731-2552 廣島縣山縣郡北広島町西八幡原
     ja: 〒731-2552 広島県山県郡北広島町西八幡原
     en: Nishihachimanhara, Yamagata District Kitahiroshima, Hiroshima 731-2552
     googleMaps: https://maps.app.goo.gl/dDwENPCXNShFHUsM8

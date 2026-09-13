@@ -31,7 +31,7 @@ links:
   access: https://yubari-resort.co.jp/
 contact:
   address:
-    zhTw: 北海道夕張市末広2-4
+    zhTw: 〒068-0411 北海道夕張市末広2-4
     ja: 〒068-0411 北海道夕張市末広2-4
     en: 2-4 Suehiro, Yuubari, Hokkaido 068-0411
     googleMaps: https://maps.app.goo.gl/5m6nkTzjiYY9terP7

@@ -28,7 +28,7 @@ links:
   access: https://weathernews.jp/ski/spot/31301/
 contact:
   address:
-    zhTw: 北海道雨竜郡沼田町字高穂325
+    zhTw: 〒078-2214 北海道雨竜郡沼田町字高穂325
     ja: 〒078-2214 北海道雨竜郡沼田町字高穂325
     en: 325 Aza Takaho, Uryuu District Numata, Hokkaido 078-2214
     googleMaps: https://www.google.com/maps/search/?api=1&query=43.8187,141.9683

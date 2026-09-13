@@ -26,7 +26,7 @@ links:
   googleMaps: https://maps.app.goo.gl/yTsLjNhYMZuPDY1D8
 contact:
   address:
-    zhTw: 岐阜縣飛驒市河合町稻越 2822-4
+    zhTw: 〒509-4312 岐阜縣飛驒市河合町稻越 2822-4
     ja: 〒509-4312 岐阜県飛騨市河合町稲越2822-4
     en: 2822-4 Inakoshi, Hida, Kawai, Gifu 509-4312
     googleMaps: https://maps.app.goo.gl/yTsLjNhYMZuPDY1D8

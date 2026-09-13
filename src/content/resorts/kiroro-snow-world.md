@@ -32,7 +32,7 @@ links:
   access: https://weathernews.jp/ski/spot/31609/
 contact:
   address:
-    zhTw: 北海道余市郡赤井川村字常盤１２８−１
+    zhTw: 〒046-0593 北海道余市郡赤井川村字常盤１２８−１
     ja: 〒046-0593 北海道余市郡赤井川村字常盤１２８−１
     en: 128-1 Aza Tokiwa, Yo, District Akaigawa, Hokkaido 046-0593
     googleMaps: https://maps.app.goo.gl/jkAJyUtaZLMELuwh6

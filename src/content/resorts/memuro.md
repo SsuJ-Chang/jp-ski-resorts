@@ -26,7 +26,7 @@ links:
   access: https://www.memuro.net/administration/soshiki/miryoku/shin-arashiyama/2025-1112-1623-114.html
 contact:
   address:
-    zhTw: 北海道河西郡芽室町中美生2線42
+    zhTw: 〒082-0086 北海道河西郡芽室町中美生2線42
     ja: 〒082-0086 北海道河西郡芽室町中美生2線42
     en: 42 Nakabishou2sen, Kasai District Memuro, Hokkaido 082-0086
     googleMaps: https://maps.app.goo.gl/zF9yHJ3noz49DwQa6

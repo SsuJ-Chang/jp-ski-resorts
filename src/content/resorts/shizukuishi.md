@@ -26,7 +26,7 @@ links:
   googleMaps: https://maps.app.goo.gl/wAFD5CvmxQKAZCeR9
 contact:
   address:
-    zhTw: 岩手縣岩手郡雫石町高倉溫泉
+    zhTw: 〒020-0593 岩手縣岩手郡雫石町高倉溫泉
     ja: 〒020-0593 岩手県岩手郡雫石町高倉温泉
     en: Takakuraonsen, Iwate District Shizukuishi, Iwate 020-0593
     googleMaps: https://maps.app.goo.gl/wAFD5CvmxQKAZCeR9

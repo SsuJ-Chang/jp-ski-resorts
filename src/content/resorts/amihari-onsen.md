@@ -25,7 +25,7 @@ links:
   googleMaps: https://maps.app.goo.gl/jCavyM2Ji89HMAWi9
 contact:
   address:
-    zhTw: 岩手縣岩手郡雫石町網張溫泉
+    zhTw: 〒020-0585 岩手縣岩手郡雫石町網張溫泉
     ja: 〒020-0585 岩手県岩手郡雫石町網張温泉
     en: Amiharionsen, Iwate District Shizukuishi, Iwate 020-0585
     googleMaps: https://maps.app.goo.gl/jCavyM2Ji89HMAWi9

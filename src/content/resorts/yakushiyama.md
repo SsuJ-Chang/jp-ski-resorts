@@ -28,7 +28,7 @@ links:
   access: https://www.city.kitaakita.akita.jp/genre/kyouiku_bunka_sports/sports/sports_taiiku/p1370/yakushi
 contact:
   address:
-    zhTw: 秋田縣北秋田市今泉字鳥越13-1
+    zhTw: 〒018-3343 秋田縣北秋田市今泉字鳥越13-1
     ja: 〒018-3343 秋田県北秋田市今泉字鳥越13-1
     en: 13-1 Imaizumi Aza Torigoe, Kitaakita, Akita 018-3343
     googleMaps: https://maps.app.goo.gl/jWX89syhUzko3LQb9

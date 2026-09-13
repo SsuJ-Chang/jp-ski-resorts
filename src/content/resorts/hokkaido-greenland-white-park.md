@@ -25,7 +25,7 @@ links:
   access: http://www.h-greenland.com/
 contact:
   address:
-    zhTw: 北海道岩見澤市志文町1056番地 いわみざわ公園
+    zhTw: 〒068-0833 北海道岩見澤市志文町1056番地 いわみざわ公園
     ja: 〒068-0833 北海道岩見沢市志文町1056番地 いわみざわ公園
     en: 1056banchi Iwamizawakouen, Iwamizawa, Kokorozashibun, Hokkaido 068-0833
     googleMaps: https://maps.app.goo.gl/HTYufrLLN288vVNZ9

@@ -30,7 +30,7 @@ links:
   googleMaps: https://maps.app.goo.gl/5ug9iFgjKJ18amgVA
 contact:
   address:
-    zhTw: 岩手縣二戶郡一戶町奧中山字西田子 662-1
+    zhTw: 〒028-5134 岩手縣二戶郡一戶町奧中山字西田子 662-1
     ja: 〒028-5134 岩手県二戸郡一戸町奥中山字西田子662-1
     en: 662-1 Okunakayama Aza Nishidako, Ninohe District Ichinohe, Iwate 028-5134
     googleMaps: https://maps.app.goo.gl/5ug9iFgjKJ18amgVA

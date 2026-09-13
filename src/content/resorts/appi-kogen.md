@@ -31,7 +31,7 @@ links:
   googleMaps: https://maps.app.goo.gl/sgdnS3wCt6hqxUqz8
 contact:
   address:
-    zhTw: 岩手縣八幡平市安比高原
+    zhTw: 〒028-7395 岩手縣八幡平市安比高原
     ja: 〒028-7395 岩手県八幡平市安比高原
     en: Appi Kogen, Hachimantai, Iwate 028-7395
     googleMaps: https://maps.app.goo.gl/sgdnS3wCt6hqxUqz8

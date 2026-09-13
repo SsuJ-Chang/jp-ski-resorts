@@ -26,7 +26,7 @@ links:
   access: https://www.city.mikasa.hokkaido.jp/sightseeing/category_sp/122.html
 contact:
   address:
-    zhTw: 北海道三笠市西桂澤50
+    zhTw: 〒068-2102 北海道三笠市西桂澤50
     ja: 〒068-2102 北海道三笠市西桂沢50
     en: 50 Nishikatsurasawa, Mikasa, Hokkaido 068-2102
     googleMaps: https://maps.app.goo.gl/4HW3KQgHNKL7NpBF9

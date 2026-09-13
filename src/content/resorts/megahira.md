@@ -26,7 +26,7 @@ links:
   access: https://www.megahira.co.jp/ski/access/
 contact:
   address:
-    zhTw: 廣島縣廿日市市吉和4301
+    zhTw: 〒738-0301 廣島縣廿日市市吉和4301
     ja: 〒738-0301 広島県廿日市市吉和4301
     en: 4301 Yoshikazu, Hatsuka, Hiroshima 738-0301
     googleMaps: https://maps.google.co.jp/maps?q=34.498547,132.143767

@@ -29,7 +29,7 @@ links:
   googleMaps: https://maps.app.goo.gl/AeYUENwsbR2m2hdt8
 contact:
   address:
-    zhTw: 廣島縣山縣郡北広島町荒神原38-31
+    zhTw: 〒731-2431 廣島縣山縣郡北広島町荒神原38-31
     ja: 〒731-2431 広島県山県郡北広島町荒神原38-31
     en: 38-31 Koujinhara, Yamagata District Kitahiroshima, Hiroshima 731-2431
     googleMaps: https://maps.app.goo.gl/AeYUENwsbR2m2hdt8

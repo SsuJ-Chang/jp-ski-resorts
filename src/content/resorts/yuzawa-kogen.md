@@ -35,7 +35,7 @@ links:
   googleMaps: https://maps.app.goo.gl/Eb4W34MMfjPbRfhA7
 contact:
   address:
-    zhTw: 新潟縣南魚沼郡湯澤町湯澤 490
+    zhTw: 〒949-6101 新潟縣南魚沼郡湯澤町湯澤 490
     ja: 〒949-6101 新潟県南魚沼郡湯沢町湯沢490
     en: 490 Yuzawa, Minamiuonuma District Yuzawa, Niigata 949-6101
     googleMaps: https://maps.app.goo.gl/Eb4W34MMfjPbRfhA7

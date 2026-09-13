@@ -31,7 +31,7 @@ links:
   googleMaps: https://maps.app.goo.gl/rBLnwjma4avePZyz9
 contact:
   address:
-    zhTw: 兵庫縣豐岡市日高町萬場480
+    zhTw: 〒669-5378 兵庫縣豐岡市日高町萬場480
     ja: 〒669-5378 兵庫県豊岡市日高町万場480
     en: 480 Manba, Toyooka, Hidaka, Hyogo 669-5378
     googleMaps: https://maps.app.goo.gl/rBLnwjma4avePZyz9

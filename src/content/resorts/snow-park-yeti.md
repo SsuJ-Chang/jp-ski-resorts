@@ -26,7 +26,7 @@ links:
   googleMaps: https://maps.app.goo.gl/u4Boj4WHwEX5MZ4v8
 contact:
   address:
-    zhTw: 靜岡縣裾野市須山字藤原 2428
+    zhTw: 〒410-1231 靜岡縣裾野市須山字藤原 2428
     ja: 〒410-1231 静岡県裾野市須山字藤原2428
     en: 2428 Suyama Aza Fujiwara, Susono, Shizuoka 410-1231
     googleMaps: https://maps.app.goo.gl/u4Boj4WHwEX5MZ4v8

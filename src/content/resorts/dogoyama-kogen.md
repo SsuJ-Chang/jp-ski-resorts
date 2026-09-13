@@ -27,7 +27,7 @@ links:
   access: https://www.dogoyamakogen.com/
 contact:
   address:
-    zhTw: 廣島縣庄原市西城町三坂金屋子
+    zhTw: 〒729-5611 廣島縣庄原市西城町三坂金屋子
     ja: 〒729-5611 広島県庄原市西城町三坂金屋子
     en: Misakakanayago, Shoubara, Saijou, Hiroshima 729-5611
     googleMaps: https://maps.app.goo.gl/PaX4YsEYgSzbHrH7A

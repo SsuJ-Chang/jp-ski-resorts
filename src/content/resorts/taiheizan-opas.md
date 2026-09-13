@@ -30,7 +30,7 @@ links:
   access: http://www.theboon.net/opas/
 contact:
   address:
-    zhTw: 秋田縣秋田市仁別字蛇馬目澤111
+    zhTw: 〒010-0824 秋田縣秋田市仁別字蛇馬目澤111
     ja: 〒010-0824 秋田県秋田市仁別字蛇馬目沢111
     en: 111 Hitoshibetsu Aza Hebimanomesawa, Akita, Akita 010-0824
     googleMaps: https://maps.app.goo.gl/RA5Gp4gnxvdapPmF7

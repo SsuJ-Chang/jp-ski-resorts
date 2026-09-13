@@ -28,7 +28,7 @@ links:
   access: http://www.yonezawa-ski.co.jp
 contact:
   address:
-    zhTw: 山形縣米澤市万世町刈安字栃平道下24266-1
+    zhTw: 〒992-1121 山形縣米澤市万世町刈安字栃平道下24266-1
     ja: 〒992-1121 山形県米沢市万世町刈安字栃平道下24266-1
     en: 24266-1 Kariyasu Aza Tochitairamichishita, Yonezawa, Bansei, Yamagata 992-1121
     googleMaps: https://maps.app.goo.gl/LCvrz9sio9BVrur87

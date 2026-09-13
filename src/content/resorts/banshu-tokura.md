@@ -26,7 +26,7 @@ links:
   googleMaps: https://maps.app.goo.gl/zYxGoMXuUhSUBJ6T9
 contact:
   address:
-    zhTw: 兵庫縣宍粟市波賀町戶倉207
+    zhTw: 〒671-4201 兵庫縣宍粟市波賀町戶倉207
     ja: 〒671-4201 兵庫県宍粟市波賀町戸倉207
     en: 207 Tokura, Shisou, Haga, Hyogo 671-4201
     googleMaps: https://maps.app.goo.gl/zYxGoMXuUhSUBJ6T9

@@ -31,7 +31,7 @@ links:
   access: https://weathernews.jp/ski/spot/32103/
 contact:
   address:
-    zhTw: 北海道登別市カルルス町27番地
+    zhTw: 〒059-0553 北海道登別市カルルス町27番地
     ja: 〒059-0553 北海道登別市カルルス町27番地
     en: 27banchi, Noboribetsu, Karurusu, Hokkaido 059-0553
     googleMaps: https://maps.app.goo.gl/f7KVQ9JhcuS5D8236

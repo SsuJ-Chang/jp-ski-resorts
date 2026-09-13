@@ -33,7 +33,7 @@ links:
   googleMaps: https://maps.app.goo.gl/xGY5SC4vhhh3dKYf6
 contact:
   address:
-    zhTw: 福島縣耶麻郡豬苗代町葉山 7105
+    zhTw: 〒969-3102 福島縣耶麻郡豬苗代町葉山 7105
     ja: 〒969-3102 福島県耶麻郡猪苗代町葉山7105
     en: 7105 Hayama, Yama District Inawashiro, Fukushima 969-3102
     googleMaps: https://maps.app.goo.gl/xGY5SC4vhhh3dKYf6

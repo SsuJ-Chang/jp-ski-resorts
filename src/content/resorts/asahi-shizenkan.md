@@ -27,7 +27,7 @@ links:
   access: http://www.shizenkan.jp/winter/
 contact:
   address:
-    zhTw: 山形縣西村山郡朝日町大字白倉745-1
+    zhTw: 〒990-1574 山形縣西村山郡朝日町大字白倉745-1
     ja: 〒990-1574 山形県西村山郡朝日町大字白倉745-1
     en: 745-1 Ooaza Shirokura, Nishi, Yama District Asahi, Yamagata 990-1574
     googleMaps: https://maps.app.goo.gl/NuowQev75RCwQVEf8

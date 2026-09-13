@@ -31,7 +31,7 @@ links:
   access: https://weathernews.jp/ski/spot/32301/
 contact:
   address:
-    zhTw: 北海道亀田郡七飯町東大沼666
+    zhTw: 〒041-1351 北海道亀田郡七飯町東大沼666
     ja: 〒041-1351 北海道亀田郡七飯町東大沼666
     en: 666 Toudainuma, Kameda District Nanae, Hokkaido 041-1351
     googleMaps: https://maps.app.goo.gl/nWTPU3CCX2kUhnBb9

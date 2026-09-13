@@ -28,7 +28,7 @@ links:
   access: https://www.town.yubetsu.lg.jp/administration/culture/detail.html?content=271
 contact:
   address:
-    zhTw: 北海道紋別郡湧別町北兵村二区100
+    zhTw: 〒099-6323 北海道紋別郡湧別町北兵村二区100
     ja: 〒099-6323 北海道紋別郡湧別町北兵村二区100
     en: 100 Niku, Monbetsu District Yuubetsu, Kitahei, Hokkaido 099-6323
     googleMaps: https://maps.app.goo.gl/aAedDmQRWWz9wbaC9

@@ -28,7 +28,7 @@ links:
   access: https://www.suisyozan-ski-area.com/
 contact:
   address:
-    zhTw: 秋田縣鹿角市尾去澤字獅子澤13-5
+    zhTw: 〒018-5202 秋田縣鹿角市尾去澤字獅子澤13-5
     ja: 〒018-5202 秋田県鹿角市尾去沢字獅子沢13-5
     en: 13-5 Okyosawa Aza Shishisawa, Kazuno, Akita 018-5202
     googleMaps: https://maps.app.goo.gl/m2CA9BWVMjM2y5P36

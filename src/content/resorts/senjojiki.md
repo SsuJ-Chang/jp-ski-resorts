@@ -23,7 +23,7 @@ links:
   googleMaps: https://www.google.com/maps/search/?api=1&query=Senjojiki%20Ski%20Area%20Komagane
 contact:
   address:
-    zhTw: 長野縣駒ヶ根市赤穗 1
+    zhTw: 〒399-4117 長野縣駒ヶ根市赤穗 1
     ja: 〒399-4117 長野県駒ヶ根市赤穂1
     en: 1 Akou, Komagane, Nagano 399-4117
     googleMaps: https://www.google.com/maps/search/?api=1&query=Senjojiki%20Ski%20Area%20Komagane

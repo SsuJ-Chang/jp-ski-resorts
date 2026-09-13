@@ -25,7 +25,7 @@ links:
   googleMaps: https://www.google.com/maps/search/?api=1&query=Okutadami%20Maruyama%20Ski%20Resort
 contact:
   address:
-    zhTw: 新潟縣魚沼市湯之谷芋川字大島 1317-3
+    zhTw: 〒946-0082 新潟縣魚沼市湯之谷芋川字大島 1317-3
     ja: 〒946-0082 新潟県魚沼市湯之谷芋川字大島1317-3
     en: 1317-3 Yunotaniimokawa Aza Ooshima, Uonuma, Niigata 946-0082
     googleMaps: https://www.google.com/maps/search/?api=1&query=Okutadami%20Maruyama%20Ski%20Resort

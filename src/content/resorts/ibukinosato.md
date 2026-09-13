@@ -28,7 +28,7 @@ links:
   access: https://www.ibukinosato.co.jp/access
 contact:
   address:
-    zhTw: 岡山縣新見市千屋花見1336-1
+    zhTw: 〒718-0104 岡山縣新見市千屋花見1336-1
     ja: 〒718-0104 岡山県新見市千屋花見1336-1
     en: 1336-1 Senyahanami, Niimi, Okayama 718-0104
     googleMaps: https://maps.app.goo.gl/dtJ3qZqim1K3mT4J8

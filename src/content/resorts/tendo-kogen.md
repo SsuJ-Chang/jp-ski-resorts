@@ -28,7 +28,7 @@ links:
   access: https://tendokogen.or.jp/
 contact:
   address:
-    zhTw: 山形縣天童市大字田麦野1321
+    zhTw: 〒994-0104 山形縣天童市大字田麦野1321
     ja: 〒994-0104 山形県天童市大字田麦野1321
     en: 1321 Ooaza Tamugino, Tendou, Yamagata 994-0104
     googleMaps: https://maps.app.goo.gl/yphrx2gBLeFRm6pL6

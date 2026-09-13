@@ -29,7 +29,7 @@ links:
   access: https://www.ojiro.or.jp/access/#access01
 contact:
   address:
-    zhTw: 兵庫縣美方郡香美町小代区大谷463
+    zhTw: 〒667-1503 兵庫縣美方郡香美町小代区大谷463
     ja: 〒667-1503 兵庫県美方郡香美町小代区大谷463
     en: 463 Shoudaikuootani, Mikata District Kami, Hyogo 667-1503
     googleMaps: https://maps.app.goo.gl/LVxaDD3qskE9RupC9

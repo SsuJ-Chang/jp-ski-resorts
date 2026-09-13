@@ -35,7 +35,7 @@ links:
   googleMaps: https://maps.app.goo.gl/pT2A6u4MW7okefse7
 contact:
   address:
-    zhTw: 兵庫縣養父市丹戶字西橫角 909-1
+    zhTw: 〒667-1124 兵庫縣養父市丹戶字西橫角 909-1
     ja: 〒667-1124 兵庫県養父市丹戸字西横角909−1
     en: 909-1 Tando Aza Nishiyokokaku, Youfu, Hyogo 667-1124
     googleMaps: https://maps.app.goo.gl/pT2A6u4MW7okefse7

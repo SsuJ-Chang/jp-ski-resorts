@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/183c3hUZ45Gdhyxt6
 contact:
   address:
-    zhTw: 岐阜縣郡上市高鷲町鷲見上野 2363-395
+    zhTw: 〒501-5302 岐阜縣郡上市高鷲町鷲見上野 2363-395
     ja: 〒501-5302 岐阜県郡上市高鷲町鷲見上野2363-395
     en: 2363-395 Washimiueno, District Ue, Takasu, Gifu 501-5302
     googleMaps: https://maps.app.goo.gl/183c3hUZ45Gdhyxt6

@@ -27,7 +27,7 @@ links:
   googleMaps: https://maps.app.goo.gl/JGMomUM8eK6Cq2xq5
 contact:
   address:
-    zhTw: 群馬縣利根郡片品村東小川4658-58
+    zhTw: 〒378-0414 群馬縣利根郡片品村東小川4658-58
     ja: 〒378-0414 群馬県利根郡片品村東小川4658-58
     en: 4658-58 Higashiogawa, Tone District Katashina, Gunma 378-0414
     googleMaps: https://maps.app.goo.gl/JGMomUM8eK6Cq2xq5

@@ -36,7 +36,7 @@ links:
   access: https://www.tsugaike.gr.jp/green/access
 contact:
   address:
-    zhTw: 長野縣北安曇郡小谷村栂池高原
+    zhTw: 〒399-9422 長野縣北安曇郡小谷村栂池高原
     ja: 〒399-9422 長野県北安曇郡小谷村栂池高原
     en: Tsugaike Kogen, Otari Village, Kitaazumi District, Nagano 399-9422
     googleMaps: https://maps.app.goo.gl/ZEQiyW8smTGF5Zw47

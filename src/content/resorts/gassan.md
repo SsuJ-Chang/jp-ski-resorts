@@ -28,7 +28,7 @@ links:
   googleMaps: https://maps.app.goo.gl/BADvxkFmaTSbWmkGA
 contact:
   address:
-    zhTw: 山形縣西村山郡西川町志津姥澤
+    zhTw: 〒990-0734 山形縣西村山郡西川町志津姥澤
     ja: 〒990-0734 山形県西村山郡西川町志津姥沢
     en: Shizuubasawa, Nishi, Yama District Nishikawa, Yamagata 990-0734
     googleMaps: https://maps.app.goo.gl/BADvxkFmaTSbWmkGA

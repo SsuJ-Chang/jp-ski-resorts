@@ -32,7 +32,7 @@ links:
   googleMaps: https://www.google.com/maps/search/?api=1&query=Tanne%20no%20Mori%20Okojo%20Ski%20Area%20Shiga%20Kogen
 contact:
   address:
-    zhTw: 長野縣下高井郡山之內町平穩7148
+    zhTw: 〒381-0401 長野縣下高井郡山之內町平穩7148
     ja: 〒381-0401 長野県下高井郡山ノ内町平穏7148
     en: Hirao 7148, Yamanouchi, Shimotakai District, Nagano 381-0401
     googleMaps: https://www.google.com/maps/search/?api=1&query=Tanne%20no%20Mori%20Okojo%20Ski%20Area%20Shiga%20Kogen

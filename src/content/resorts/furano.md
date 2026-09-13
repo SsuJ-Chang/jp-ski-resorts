@@ -33,7 +33,7 @@ links:
   access: https://www.princehotels.co.jp/ski/furano/winter/access/
 contact:
   address:
-    zhTw: 北海道富良野市中御料
+    zhTw: 〒076-8511 北海道富良野市中御料
     ja: 〒076-8511 北海道富良野市中御料
     en: Nakagoryo, Furano, Hokkaido 076-8511
     googleMaps: https://maps.app.goo.gl/KgYwKSqpF74MYhAs8

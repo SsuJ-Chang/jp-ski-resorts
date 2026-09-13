@@ -24,7 +24,7 @@ links:
   access: http://makubetsu-ski.com/category/news-hg/
 contact:
   address:
-    zhTw: 北海道中川郡幕別町忠類白銀町415
+    zhTw: 〒089-1701 北海道中川郡幕別町忠類白銀町415
     ja: 〒089-1701 北海道中川郡幕別町忠類白銀町415
     en: 415, Nakagawa District Makubetsu, Chuuruihakugin, Hokkaido 089-1701
     googleMaps: https://maps.app.goo.gl/NCq1zJ2tVyfn5hGY6

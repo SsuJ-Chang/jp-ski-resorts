@@ -28,7 +28,7 @@ links:
   access: https://ski.city.yurihonjo.lg.jp/
 contact:
   address:
-    zhTw: 秋田縣由利本莊市矢島町荒澤字長保田6
+    zhTw: 〒015-0418 秋田縣由利本莊市矢島町荒澤字長保田6
     ja: 〒015-0418 秋田県由利本荘市矢島町荒沢字長保田6
     en: 6 Arasawa Aza Nagahota, Yurihonjou, Yajima, Akita 015-0418
     googleMaps: https://maps.app.goo.gl/ZJMnyzU9cGGkM6mGA

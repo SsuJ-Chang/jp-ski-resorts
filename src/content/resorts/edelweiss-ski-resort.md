@@ -29,7 +29,7 @@ links:
   googleMaps: https://maps.app.goo.gl/5dDasY8XmJaB3qzx8
 contact:
   address:
-    zhTw: 栃木縣日光市川治溫泉高原雞頂山
+    zhTw: 〒321-2612 栃木縣日光市川治溫泉高原雞頂山
     ja: 〒321-2612 栃木県日光市川治温泉高原鶏頂山
     en: Kawajionsenkougenkeichouyama, Nikkou, Tochigi 321-2612
     googleMaps: https://maps.app.goo.gl/5dDasY8XmJaB3qzx8

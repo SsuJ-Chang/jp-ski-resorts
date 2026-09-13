@@ -29,7 +29,7 @@ links:
   access: https://zao-7kashuku.jp/ski/
 contact:
   address:
-    zhTw: 宮城縣刈田郡七之宿町字侭の上129
+    zhTw: 〒989-0612 宮城縣刈田郡七之宿町字侭の上129
     ja: 〒989-0612 宮城県刈田郡七ヶ宿町字侭の上129
     en: 129 Aza Mamanoue, Karida District Shichigashuku, Miyagi 989-0612
     googleMaps: https://maps.app.goo.gl/dFAkCB8568xqHPpV6

@@ -28,7 +28,7 @@ links:
   access: https://weathernews.jp/ski/spot/31501/
 contact:
   address:
-    zhTw: 北海道岩見澤市上志文町452番地
+    zhTw: 〒068-0836 北海道岩見澤市上志文町452番地
     ja: 〒068-0836 北海道岩見沢市上志文町452番地
     en: 452banchi, Iwamizawa, Uekokorozashibun, Hokkaido 068-0836
     googleMaps: https://maps.app.goo.gl/qiFoGCYM7sjQfT8n7

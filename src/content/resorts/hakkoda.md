@@ -28,7 +28,7 @@ links:
   googleMaps: https://maps.app.goo.gl/riWeNFRsxiQXEAvS9
 contact:
   address:
-    zhTw: 青森縣青森市大字荒川字寒水澤
+    zhTw: 〒030-0188 青森縣青森市大字荒川字寒水澤
     ja: 〒030-0188 青森県青森市大字荒川字寒水沢
     en: Ooaza Arakawa Aza Kansuisawa, Aomori, Aomori 030-0188
     googleMaps: https://maps.app.goo.gl/riWeNFRsxiQXEAvS9

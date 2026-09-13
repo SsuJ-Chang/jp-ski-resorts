@@ -23,7 +23,7 @@ links:
   access: http://www.suhara-ski.com/
 contact:
   address:
-    zhTw: 新潟縣魚沼市須原 1846-13
+    zhTw: 〒946-0216 新潟縣魚沼市須原 1846-13
     ja: 〒946-0216 新潟県魚沼市須原1846-13
     en: 1846-13 Suhara, Uonuma, Niigata 946-0216
     googleMaps: https://www.google.com/maps/search/?api=1&query=Suhara%20Ski%20Area

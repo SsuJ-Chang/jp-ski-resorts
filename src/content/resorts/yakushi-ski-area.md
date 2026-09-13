@@ -25,7 +25,7 @@ links:
   access: https://yakushi-ski.com/
 contact:
   address:
-    zhTw: 新潟縣魚沼市七日市新田 643-1
+    zhTw: 〒946-0072 新潟縣魚沼市七日市新田 643-1
     ja: 〒946-0072 新潟県魚沼市七日市新田643-1
     en: 643-1 Nitta, Uonuma, Nanoka, Niigata 946-0072
     googleMaps: https://www.google.com/maps/search/?api=1&query=Yakushi%20Ski%20Area

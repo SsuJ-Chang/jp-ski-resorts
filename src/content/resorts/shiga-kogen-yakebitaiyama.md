@@ -32,7 +32,7 @@ links:
   googleMaps: https://maps.app.goo.gl/FcxA3SuDqHpM372UA
 contact:
   address:
-    zhTw: 長野縣下高井郡山之內町志賀高原燒額山
+    zhTw: 〒381-0497 長野縣下高井郡山之內町志賀高原燒額山
     ja: 〒381-0497 長野県下高井郡山ノ内町志賀高原焼額山
     en: Nagano, Kogen Yakebitaiyama, Yamanouchi, Shimotakai District, Shiga 381-0497
     googleMaps: https://maps.app.goo.gl/FcxA3SuDqHpM372UA

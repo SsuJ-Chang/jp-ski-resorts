@@ -28,7 +28,7 @@ links:
   access: https://weathernews.jp/ski/spot/31220/
 contact:
   address:
-    zhTw: 北海道上川郡當麻町市街6区
+    zhTw: 〒078-1300 北海道上川郡當麻町市街6区
     ja: 〒078-1300 北海道上川郡当麻町市街6区
     en: Machi6ku, Kamikawa District Touma, Hokkaido 078-1300
     googleMaps: https://maps.app.goo.gl/tG3jwCGhgqn5AqoNA

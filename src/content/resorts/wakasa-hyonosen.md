@@ -26,7 +26,7 @@ links:
   ticket: https://hyounosen-ski.jp/price
 contact:
   address:
-    zhTw: 鳥取縣八頭郡若桜町舂米
+    zhTw: 〒680-0728 鳥取縣八頭郡若桜町舂米
     ja: 〒680-0728 鳥取県八頭郡若桜町舂米
     en: Shoukome, Yagashira District Wakasa, Tottori 680-0728
     googleMaps: https://maps.app.goo.gl/VsunYohuimWuzPXn6

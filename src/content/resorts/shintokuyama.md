@@ -27,7 +27,7 @@ links:
   access: https://weathernews.jp/ski/spot/31216/
 contact:
   address:
-    zhTw: 北海道上川郡新得町字新得9番地
+    zhTw: 〒081-0038 北海道上川郡新得町字新得9番地
     ja: 〒081-0038 北海道上川郡新得町字新得9番地
     en: 9banchi Aza Shintoku, Kamikawa District Shintoku, Hokkaido 081-0038
     googleMaps: https://maps.app.goo.gl/9NtwWKJTw5UufEN76

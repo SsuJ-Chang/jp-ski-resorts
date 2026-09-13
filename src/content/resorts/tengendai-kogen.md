@@ -29,7 +29,7 @@ links:
   googleMaps: https://maps.app.goo.gl/2FofFbriwm6eo9Cj7
 contact:
   address:
-    zhTw: 山形縣米澤市白布溫泉天元台
+    zhTw: 〒992-1461 山形縣米澤市白布溫泉天元台
     ja: 〒992-1461 山形県米沢市白布温泉天元台
     en: Hakufuonsentengendai, Yonezawa, Yamagata 992-1461
     googleMaps: https://maps.app.goo.gl/2FofFbriwm6eo9Cj7

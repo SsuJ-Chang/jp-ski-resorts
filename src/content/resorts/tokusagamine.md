@@ -28,7 +28,7 @@ links:
   googleMaps: https://maps.app.goo.gl/kTTh5qfZSVeLRpj6A
 contact:
   address:
-    zhTw: 山口縣山口市阿東町嘉年下１１５０５−１
+    zhTw: 〒759-1602 山口縣山口市阿東町嘉年下１１５０５−１
     ja: 〒759-1602 山口県山口市阿東町嘉年下１１５０５−１
     en: 11505-1 Katoshishita, Yamaguchi, Atou, Yamaguchi 759-1602
     googleMaps: https://maps.app.goo.gl/kTTh5qfZSVeLRpj6A

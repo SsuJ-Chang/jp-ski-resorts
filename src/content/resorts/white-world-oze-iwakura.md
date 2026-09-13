@@ -31,7 +31,7 @@ links:
   googleMaps: https://maps.app.goo.gl/wyYfKg7JH1R11bnc8
 contact:
   address:
-    zhTw: 群馬縣利根郡片品村大字土出 2609
+    zhTw: 〒378-0412 群馬縣利根郡片品村大字土出 2609
     ja: 〒378-0412 群馬県利根郡片品村大字土出2609
     en: 2609 Oaza Tsuchiide, Katashina, Tone District, Gunma 378-0412
     googleMaps: https://maps.app.goo.gl/wyYfKg7JH1R11bnc8

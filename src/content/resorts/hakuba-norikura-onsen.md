@@ -33,7 +33,7 @@ links:
   googleMaps: https://maps.app.goo.gl/HETfzeCaUBxfAwZe6
 contact:
   address:
-    zhTw: 長野縣北安曇郡小谷村白馬乘鞍高原
+    zhTw: 〒399-9422 長野縣北安曇郡小谷村白馬乘鞍高原
     ja: 〒399-9422 長野県北安曇郡小谷村白馬乗鞍高原
     en: Hakuba Norikura Kogen, Otari Village, Kitaazumi District, Nagano 399-9422
     googleMaps: https://maps.app.goo.gl/HETfzeCaUBxfAwZe6
