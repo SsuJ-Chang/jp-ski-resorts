@@ -31,7 +31,7 @@ links:
   googleMaps: https://maps.app.goo.gl/EzBcfXWhJUKkwBzH7
 contact:
   address:
-    zhTw: 〒381-0401 長野縣下高井郡山之內町平穩7148
+    zhTw: 〒381-0401 長野縣下高井郡山之內町平穩 7148
     ja: 〒381-0401 長野県下高井郡山ノ内町平穏7148
     en: Hirao 7148, Yamanouchi, Shimotakai District, Nagano 381-0401
     googleMaps: https://maps.app.goo.gl/EzBcfXWhJUKkwBzH7
@@ -134,4 +134,4 @@ terrainSummary:
   snowboard: 可作為志賀高原入口側的短距離練習區。
 ---
 
-太陽谷 是志賀高原的入口，也是最早映入眼簾的雪場；鄰接丸池與蓮池，可在三個雪場間順暢移動，中級與上級雪道選擇豐富，天候不佳時也常是穩定的滑行選擇。
+太陽谷是志賀高原的入口，也是最早映入眼簾的雪場；鄰接丸池與蓮池，可在三個雪場間順暢移動，中級與上級雪道選擇豐富，天候不佳時也常是穩定的滑行選擇。
