@@ -2,7 +2,7 @@
 id: shirakabako-royal-hill
 name:
   zhTw: 白樺湖 Royal Hill
-  ja: 白樺湖ロイヤルヒル
+  ja: 白樺湖ロイヤルヒルスキー場
   en: Shirakabako Royal Hill
 region: kanto-koshinetsu
 prefecture: 長野縣
@@ -21,14 +21,14 @@ links:
   facebook: https://www.facebook.com/shirakabako.royalhill
   instagram: https://www.instagram.com/shirakabakoroyalhill
   weather: https://weathernews.jp/ski/spot/34833/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Shirakabako%20Royal%20Hill
-  access: https://www.royalhill.co.jp
+  googleMaps: https://maps.app.goo.gl/Tujez3jUmnRs4r7G6
+  access: https://surfsnow.jp/guide/htm/r0017m.htm
 contact:
   address:
-    zhTw: 〒391-0301 長野縣茅野市北山3419番地 地図を見る
-    ja: 〒391-0301 長野県茅野市北山3419番地 地図を見る
-    en: 3419banchi Kitayama, Chino, Nagano 391-0301
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Shirakabako%20Royal%20Hill
+    zhTw: 〒391-0301 長野縣茅野市北山 3419
+    ja: 〒391-0301 長野県茅野市北山3419
+    en: 3419 banchi Kitayama, Chino, Nagano 391-0301
+    googleMaps: https://maps.app.goo.gl/Tujez3jUmnRs4r7G6
   phone: 0266-68-2120
 season:
   label: 2025-2026
@@ -102,17 +102,30 @@ lifts:
   total: 3
 access:
   fromTokyo:
-  - label: 鐵道＋轉乘
+  - label: 東京經茅野站路線巴士
     steps:
-    - 從東京方向搭乘新幹線或在來線，轉乘至雪場鄰近車站。
-    - 從中央本線茅野駅搭乘巴士／計程車約 50分鐘。
+    - 從新宿或東京方向搭 JR 中央本線特急至茅野站。
+    - 從茅野站搭往白樺湖方向的巴士至雪場周邊。
+    estimatedTime: 茅野站至白樺湖約 50 分
     difficulty: medium
-    note: 時間為最近車站至雪場的交通目安，東京出發總時間需另加主要鐵道路段與轉乘等待。
-    estimatedTime: 約50分鐘
+    note: 巴士班次與下車站請依出發日的營運商時刻表確認。
+  - label: 東京經佐久平站路線巴士
+    steps:
+    - 從東京站搭北陸新幹線至佐久平站。
+    - 從佐久平站搭往白樺湖方向的巴士至雪場周邊。
+    estimatedTime: 佐久平站至白樺湖約 60 分
+    difficulty: medium
+    note: 巴士班次與下車站請依出發日的營運商時刻表確認。
+  fromAirport:
+  - label: 松本機場自駕
+    steps:
+    - 從松本機場租車或開車前往白樺湖 Royal Hill。
+    estimatedTime: 約 1 小時 10 分
+    difficulty: medium
   car:
     recommended: true
     snowTireRequired: true
-    note: 自駕可參考官方路線：東京方面より　中央道諏訪南ICより　24km (40分)；冬季需準備雪胎或防滑鏈。停車資訊：900台、平日  免費、假日  免費。
+    note: 中央道諏訪 IC 經 Venus Line 約 21km、40 分；諏訪南 IC 約 24km、40 分。上信越道佐久 IC 經國道 152 號約 40km、80 分。停車場約 900 台、全天免費；冬季請準備雪胎或雪鏈。
 terrainSummary:
   beginner: 初級雪道約 40%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 40%，適合穩定滑行與轉彎練習。
@@ -120,4 +133,6 @@ terrainSummary:
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
 ---
 
-白樺湖 Royal Hill位於長野縣，共有7 條雪道、3 座纜車，主體是可反覆換線的中型滑行配置。パノラマCコース、アルペンコース能看出主雪道之間有明確分工。如果你想在雪道數、節奏變化與實際可滑效率之間取平衡，這類配置會很實用。
+白樺湖 Royal Hill 的魅力在於緊湊但不單調的雪道設計：從初學者到進階滑雪者都有可用路線，上部還有寬廣平整的坡面。場內設有豐富的 park item 與常設饅頭練習坡，讓想練 freestyle、饅頭技巧或只是想換個滑行節奏的人，都有明確去處。
+
+它不是以超大面積取勝，而是把親子、一般巡航與進階練習放在同一座容易掌握的雪場裡。若住在白樺湖周邊，想找一座能從白天一路滑到夜間、又不必花太多時間熟悉動線的雪場，Royal Hill 很合適。

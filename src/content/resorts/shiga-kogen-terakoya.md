@@ -31,7 +31,7 @@ links:
   googleMaps: https://maps.app.goo.gl/TAFHERD7fDwVAwybA
 contact:
   address:
-    zhTw: 〒381-0401 長野縣下高井郡山之內町平穩7148
+    zhTw: 〒381-0401 長野縣下高井郡山之內町平穩 7148
     ja: 〒381-0401 長野県下高井郡山ノ内町平穏7148
     en: Hirao 7148, Yamanouchi, Shimotakai District, Nagano 381-0401
     googleMaps: https://maps.app.goo.gl/TAFHERD7fDwVAwybA
