@@ -1,14 +1,14 @@
 ---
 id: takeshi-banshogahara
 name:
-  zhTw: 武石番所ヶ原
+  zhTw: 武石番所原
   ja: 武石番所ヶ原スキー場
   en: Takeshi Banshogahara Ski Area
 region: kanto-koshinetsu
 prefecture: 長野縣
 location:
-  latitude: 36.260181
-  longitude: 138.112492
+  latitude: 36.260328036267566
+  longitude: 138.11240728465793
 elevation:
   top: 1500
   bottom: 1300
@@ -21,47 +21,64 @@ tags:
 links:
   official: https://www.ueda-rpc.or.jp/facility/banshogaharaski.html
   weather: https://weathernews.jp/ski/spot/34882/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Takeshi%20Banshogahara%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/dTKUTM82BuwFBG2J6
+  ticket: https://www.ueda-rpc.or.jp/facility/banshogaharaski.html
   access: https://www.ueda-rpc.or.jp/facility/banshogaharaski.html
 contact:
   address:
-    zhTw: 〒386-0507 長野縣上田市武石上本入2386-1 地図を見る
-    ja: 〒386-0507 長野県上田市武石上本入2386-1 地図を見る
-    en: 2386-1 Takeishiuemotonyuu, Ueda, Nagano 386-0507
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Takeshi%20Banshogahara%20Ski%20Area
+    zhTw: 〒386-0507 長野縣上田市武石上本入 2386-1
+    ja: 〒386-0507 長野県上田市武石上本入2386-1
+    en: 2386-1 Takeshi Uemotoiri, Ueda, Nagano 386-0507
+    googleMaps: https://maps.app.goo.gl/dTKUTM82BuwFBG2J6
   phone: 0268-86-2213
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/3/29
   hours: 平日 8:30〜16:00；假日 8:30〜16:00
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
-  source: https://weathernews.jp/ski/spot/34882/
+  source: https://www.ueda-rpc.or.jp/facility/banshogaharaski.html
+trailMaps:
+- label: 武石番所原雪道圖
+  language: 日本語
+  season: 2025-2026
+  url: https://www.ueda-rpc.or.jp/wp-content/uploads/2023/12/7d497301c8486ab9ad9ef6cf77116bbc.pdf
+  sourceLabel: Takeshi Banshogahara Official
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/34882/
-  note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
+  source: https://www.ueda-rpc.or.jp/facility/banshogaharaski.html
+  note: 官網最新公開的 2025-2026 雪季票價。僅收現金；一般成人以外票種須出示身分證明。未就學兒童免費，但不可單獨搭乘纜車；每月第 3 個週日為「兒童滑雪日」，小學生纜車票免費。
   plans:
     - name: 1 日券
       priceLines:
         - 成人：¥3,550
-        - 兒童：¥1,520
-        - 長者：¥2,030
-    - name: 11 回券
-      priceLines:
-        - 成人：¥2,540
-        - 兒童：¥2,030
-        - 長者：¥2,030
-    - name: 1 回券
-      priceLines:
-        - 成人：¥250
-        - 兒童：¥200
-        - 長者：¥200
+        - 上田市／練馬區居民：¥3,000
+        - 50 歲以上：¥2,030
+        - 小學生：¥1,520
     - name: 半日券
       priceLines:
         - 成人：¥2,540
+        - 上田市／練馬區居民：¥2,030
+    - name: 11 回券
+      priceLines:
+        - 成人：¥2,540
+        - 上田市／練馬區居民：¥2,030
+        - 50 歲以上：¥2,030
+        - 小學生：¥2,030
+    - name: 1 回券
+      priceLines:
+        - 成人：¥250
+        - 上田市／練馬區居民：¥200
+        - 50 歲以上：¥200
+        - 小學生：¥200
+    - name: 季票
+      priceLines:
+        - 成人：¥25,400
+        - 上田市／練馬區居民：¥20,300
+        - 50 歲以上：¥15,200
+        - 小學生：¥15,200
 snowWeather:
-  title: 武石番所ヶ原雪況預報
+  title: 武石番所原雪況預報
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34882/
   snowDepth: 0 cm
@@ -91,15 +108,15 @@ access:
   fromTokyo:
   - label: 鐵道＋轉乘
     steps:
-    - 從東京方向搭乘新幹線或在來線，轉乘至雪場鄰近車站。
-    - 從長野新幹線上田駅搭乘計程車約 60分鐘。
+    - 搭乘北陸新幹線至上田站。
+    - 自上田站轉乘計程車前往雪場，車程約 60 分鐘。
     difficulty: medium
-    note: 時間為最近車站至雪場的交通目安，東京出發總時間需另加主要鐵道路段與轉乘等待。
+    note: 官網僅提供上田站至雪場的自駕／計程車時間；東京出發總時間另加新幹線與轉乘等待。
     estimatedTime: 約60分鐘
   car:
     recommended: true
     snowTireRequired: true
-    note: 自駕可參考官方路線：上信越自動車道東部湯の丸IC下車 (50分)；冬季需準備雪胎或防滑鏈。停車資訊：100台、平日  免費、假日  免費。
+    note: 從上信越自動車道東部湯之丸 IC 下交流道後，依序走長野縣道 81 號、國道 152 號南下，再接長野縣道 62 號，約 60 分鐘。冬季請準備雪胎或防滑鏈。
 terrainSummary:
   beginner: 初級雪道約 40%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 40%，適合穩定滑行與轉彎練習。
@@ -107,4 +124,4 @@ terrainSummary:
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
 ---
 
-武石番所ヶ原是長野縣的小型雪場，整理為3 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，介紹保留在可確認的雪道數與難度比例；標籤上偏向初學者練習、親子同行。
+武石番所原是長野縣的小型雪場，整理為 3 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，介紹保留在可確認的雪道數與難度比例；標籤上偏向初學者練習、親子同行。

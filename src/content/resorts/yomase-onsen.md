@@ -7,62 +7,74 @@ name:
 region: kanto-koshinetsu
 prefecture: 長野縣
 location:
-  latitude: 36.785504
-  longitude: 138.414946
+  latitude: 36.78562715446673
+  longitude: 138.41502772883553
 elevation:
-  top: 1220
-  bottom: 740
+  top: 1215
+  bottom: 750
 tags:
 - large_ski_area
 - no_car_accessible
 - onsen
 - snowboard_friendly
 links:
-  official: http://x-jam.jp
+  official: https://x-jam.jp/
   instagram: https://www.instagram.com/yomaseonsen_ski/
   xTwitter: https://x.com/MtKOSHA
   weather: https://weathernews.jp/ski/spot/34842/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Yomase%20Onsen%20Ski%20Area
-  access: http://x-jam.jp
+  googleMaps: https://maps.app.goo.gl/8zCT49ts2NzDfXE76
+  trailMapPage: https://x-jam.jp/trail/
+  ticket: https://x-jam.jp/liftpass/
+  access: https://x-jam.jp/access/
 contact:
   address:
-    zhTw: 〒381-0405 長野縣下高井郡山ノ内町夜間瀬7078 地図を見る
-    ja: 〒381-0405 長野県下高井郡山ノ内町夜間瀬7078 地図を見る
-    en: 7078 Yakanse, Shimotakai District Yamanonai, Nagano 381-0405
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Yomase%20Onsen%20Ski%20Area
+    zhTw: 〒381-0405 長野縣下高井郡山之內町夜間瀨 7078
+    ja: 〒381-0405 長野県下高井郡山ノ内町夜間瀬7078
+    en: 7078 Yomase, Yamanouchi-machi, Shimotakai-gun, Nagano 381-0405
+    googleMaps: https://maps.app.goo.gl/8zCT49ts2NzDfXE76
   phone: 0269-33-2377
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/27-2026/3/22
-  hours: 平日 8:15〜16:20；假日 8:15〜16:20
-  note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
-  source: https://weathernews.jp/ski/spot/34842/
+  label: 2026-2027
+  operatingPeriod: 待官方公告
+  hours: 待官方公告
+  note: 官網現階段仍刊載 2025-2026 雪季資料；2026-2027 的營業期與營運時間待公告。
+  source: https://x-jam.jp/liftpass/
+trailMaps:
+- label: X-JAM 高井富士 & 夜間瀨溫泉雪道圖
+  language: 日本語
+  season: 2025-2026
+  url: https://x-jam.jp/trail/
+  sourceLabel: X-JAM Takaifuji & Yomase Onsen Official
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/34842/
-  note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
+  source: https://x-jam.jp/liftpass/
+  note: 與 X-JAM 高井富士共通票。官網目前顯示 2025-2026 雪季價格；學齡前兒童免費，長者與 G 長者購票須出示年齡證明。
   plans:
-    - name: 1 日券
+    - name: 共通 1 日券
       priceLines:
-        - 成人：¥4,900
-        - 兒童：¥2,500
-        - 長者：¥4,400
-    - name: 上午券
+        - 成人 ¥4,900、長者（50-64 歲）¥4,400、G 長者（65 歲以上）¥3,400、國小生 ¥2,500
+    - name: 共通 2 日券
       priceLines:
-        - 成人：¥3,500
-        - 兒童：¥2,000
-        - 長者：¥3,300
-    - name: 下午券
+        - 成人 ¥9,300、長者 ¥8,400、G 長者 ¥6,600、國小生 ¥4,800
+      note: 限連續 2 日使用。
+    - name: 共通 3 日券
       priceLines:
-        - 成人：¥3,500
-        - 兒童：¥2,000
-        - 長者：¥3,300
-    - name: 1 回券
+        - 成人 ¥14,000、長者 ¥12,600、G 長者 ¥9,800、國小生 ¥7,200
+      note: 限連續 3 日使用。
+    - name: 上午券（開始至 13:00）
       priceLines:
-        - 成人：¥600
-        - 兒童：¥400
-        - 長者：¥550
+        - 成人 ¥3,500、長者 ¥3,300、G 長者 ¥2,600、國小生 ¥2,000
+    - name: 下午券（12:00 至結束）
+      priceLines:
+        - 成人 ¥3,500、長者 ¥3,300、G 長者 ¥2,600、國小生 ¥2,000
+    - name: 單次券
+      priceLines:
+        - 成人 ¥600、長者 ¥550、G 長者 ¥500、國小生 ¥400
+    - name: 夜間瀨第 1、5 雙人纜車限定 1 日券
+      priceLines:
+        - 成人、長者、G 長者 ¥2,700、國小生 ¥1,000
+      note: 第 5 纜車停駛時不販售。
 snowWeather:
   title: 夜間瀨溫泉雪況預報
   provider: Weathernews
@@ -72,69 +84,80 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
-  total: 12
+  total: 13
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20
-  courseInfoPage: http://x-jam.jp
-  summary: 共 12 條雪道、4 座纜車，初級 30%、中級 50%、高級 20%。
+  courseInfoPage: https://x-jam.jp/trail/
+  summary: 共 13 條雪道、4 座纜車，最長滑走 2,000m、最大坡度 33 度；可眺望信州與善光寺平。
   details:
-  - name: 初級路線 1
+  - name: 乙女雪道 / 乙女コース
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 2
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 3
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 4
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 1
+    length: 420m
+    note: 家庭活動空間，也適合作為初學者練習坡。
+  - name: ハミングバード雪道
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 2
+    length: 550m
+    note: 自 Big Bear 分出的較緩林間雪道。
+  - name: シルバーフォックス雪道
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 3
+    length: 650m
+    note: 與 Hummingbird 並行的安靜林間雪道。
+  - name: メイプルリーフ雪道
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 4
+    length: 830m
+    note: 位於夜間瀨最南端的中級高速雪道，可欣賞良好景觀。
+  - name: ポール専用バーン
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 5
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 6
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 1
+    length: 440m
+    note: 專供旗門訓練使用，開放狀況依活動安排而定。
+  - name: チャンピオン雪道
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 2
+    length: 320m
+    maxSlope: 33deg
+    note: 位於夜間瀨山頂的非整雪 powder 坡，為全場最大坡度。
+  - name: エース雪道
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    length: 290m
+    note: 與 Champion 隔著第 3 纜車相對的 powder 雪道。
+  - name: プロムナード雪道
+    difficulty: mixed
+    length: 850m
+    note: 從夜間瀨山頂迂迴 Champion 的路線，可欣賞良好景觀。
+  - name: メインバーン
+    difficulty: mixed
+    length: 1000m
+    note: 夜間瀨代表性的一整面寬闊雪坡。
+  - name: ビッグベアー雪道
+    difficulty: mixed
+    length: 950m
+    note: 沿第 2 四人纜車的雪道，常作為比賽場地。
+  - name: かもしか雪道
+    difficulty: mixed
+    length: 450m
+    note: 官方介紹為隱藏版練習雪道。
 lifts:
   total: 4
 access:
   fromTokyo:
-  - label: 鐵道＋轉乘
+  - label: JR 長野站－湯田中－夜間瀨
     steps:
-    - 從東京方向搭乘新幹線或在來線，轉乘至雪場鄰近車站。
-    - 從長野電鉄湯田中駅搭乘計程車約 10分鐘。
+    - 從各地前往 JR 長野站，轉乘長野電鐵至湯田中站。
+    - 由湯田中站搭計程車至夜間瀨溫泉雪場。
     difficulty: medium
-    note: 時間為最近車站至雪場的交通目安，東京出發總時間需另加主要鐵道路段與轉乘等待。
-    estimatedTime: 約10分鐘
+    note: 湯田中站至夜間瀨約 5.8km、12 分鐘。
+    estimatedTime: 湯田中站起約 12 分鐘
   car:
     recommended: true
     snowTireRequired: true
-    note: 自駕可參考官方路線：関越自動車道練馬IC→上信越道(224.9km)信州中野IC→一般道路(11.6km) (186分)；冬季需準備雪胎或防滑鏈。停車資訊：300台、平日  免費、假日  免費。
+    note: 東京方向經關越道、上信越道信州中野 IC，再走志賀中野收費道路、R292、R403；約 237km、190 分鐘。冬季請備妥雪胎或雪鏈。
 terrainSummary:
-  beginner: 初級雪道約 30%，可安排暖身、基礎練習或親子滑行。
-  intermediate: 中級雪道約 50%，適合穩定滑行與轉彎練習。
-  advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
-  snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
+  beginner: 乙女雪道等初級坡面占 30%，可作為親子與初學者的練習空間。
+  intermediate: 中級雪道占 50%，包含林間雪道與最南側的 Maple Leaf 雪道。
+  advanced: Champion 與 Ace 為進階雪道；Champion 是山頂的非整雪 powder 坡，滑行前須確認雪況。
+  snowboard: 與 X-JAM 高井富士共用票券並可連通，實際可滑範圍和連絡雪道開放狀況依當日公告為準。
 ---
 
-夜間瀨溫泉位於長野縣，以12 條雪道構成中型雪場，搭配 4 座纜車。初級、中級與上級路線都有配置，描述聚焦在雪道規模與難度結構；標籤上偏向溫泉停留、雙板與單板。
+夜間瀨溫泉雪場與 X-JAM 高井富士共用票券，兩者透過連絡雪道與纜車串接。夜間瀨一側以中級坡面為主，從山頂可遠眺信州與善光寺平；最長可由 Champion、Main、乙女雪道串成 2,000m 路線。
+
+雪場的個性與高井富士的 park 取向不同：這裡有寬闊的 Main、沿四人纜車的 Big Bear，以及 Champion、Ace 等非整雪進階坡。想在同一天兼顧公園設施與景觀中斜面時，可依連絡雪道的開放狀況安排跨區滑行。

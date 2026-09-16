@@ -7,8 +7,8 @@ name:
 region: kanto-koshinetsu
 prefecture: 長野縣
 location:
-  latitude: 35.354607
-  longitude: 137.671402
+  latitude: 35.354659029575174
+  longitude: 137.67163037116447
 elevation:
   top: 1369
   bottom: 1158
@@ -20,14 +20,14 @@ tags:
 links:
   official: http://www.jibuzaka.co.jp
   weather: https://weathernews.jp/ski/spot/34829/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Jibuzaka%20Kogen%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/5xoP2qUYc3okeb199
   access: http://www.jibuzaka.co.jp
 contact:
   address:
-    zhTw: 〒395-0501 長野縣下伊那郡阿智村浪合1192 地図を見る
-    ja: 〒395-0501 長野県下伊那郡阿智村浪合1192 地図を見る
+    zhTw: 〒395-0501 長野縣下伊那郡阿智村浪合 1192
+    ja: 〒395-0501 長野県下伊那郡阿智村浪合1192
     en: 1192 Namiai, Shimoina District Achi, Nagano 395-0501
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Jibuzaka%20Kogen%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/5xoP2qUYc3okeb199
   phone: 0265-47-1111
 season:
   label: 2025-2026

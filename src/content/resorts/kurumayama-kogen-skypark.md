@@ -3,7 +3,7 @@ id: kurumayama-kogen-skypark
 name:
   zhTw: 車山高原 SKYPARK
   ja: 車山高原SKYPARKスキー場
-  en: Kurumayama Kogen SKYPARK Ski Area
+  en: Kurumayama Kogen SKYPARK
 region: kanto-koshinetsu
 prefecture: 長野縣
 location:
@@ -17,44 +17,62 @@ tags:
 - family_friendly
 - no_car_accessible
 - snowboard_friendly
+- long_run
 links:
   official: https://winter.kurumayama-skypark.com/
   facebook: https://www.facebook.com/Kurumayama1925/
   instagram: https://www.instagram.com/kurumayama_skypark/
   weather: https://weathernews.jp/ski/spot/34812/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Kurumayama%20Kogen%20SKYPARK%20Ski%20Area
-  access: https://winter.kurumayama-skypark.com/
+  googleMaps: https://maps.app.goo.gl/Bvd2uMBvNPFBH2H59
+  trailMapPage: https://winter.kurumayama-skypark.com/gelende
+  ticket: https://winter.kurumayama-skypark.com/ticket
+  access: https://winter.kurumayama-skypark.com/access
 contact:
   address:
-    zhTw: 〒391-0301 長野縣茅野市北山3413車山高原 地図を見る
-    ja: 〒391-0301 長野県茅野市北山3413車山高原 地図を見る
-    en: Kitayama3413kurumayamakougen, Chino, Nagano 391-0301
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Kurumayama%20Kogen%20SKYPARK%20Ski%20Area
+    zhTw: 〒391-0301 長野縣茅野市北山 3413
+    ja: 〒391-0301 長野県茅野市北山3413
+    en: 3413 Kitayama, Chino, Nagano 391-0301
+    googleMaps: https://maps.app.goo.gl/Bvd2uMBvNPFBH2H59
   phone: 0266-68-2626
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/13-2026/3/31
-  hours: 平日 8:30〜16:30；假日 8:30〜16:30
-  note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
-  source: https://weathernews.jp/ski/spot/34812/
-tickets:
+  label: 2026-2027
+  operatingPeriod: 預定 2026/12/12-2027/3/31（雪季期間每日營運）
+  hours: 每日 8:30-16:30
+  note: 營業日期與雪道開放狀況會受積雪、天候影響而調整，出發前請以官方公告確認。
+  source: https://winter.kurumayama-skypark.com/archives/category/info
+trailMaps:
+- label: 車山高原 SKYPARK 雪道圖
+  language: 日本語
   season: 2025-2026
+  url: https://winter.kurumayama-skypark.com/wp-content/uploads/2025/12/map-2026.jpg
+  sourceLabel: Kurumayama Kogen SKYPARK Official
+tickets:
+  season: 2026-2027
   currency: JPY
-  source: https://weathernews.jp/ski/spot/34812/
-  note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
+  source: https://winter.kurumayama-skypark.com/archives/category/info
+  note: 常規票價與網路早鳥／預售票已公告。成人、兒童與長者的原始分類以官方售票頁為準；早鳥票販售至 2026/12/31，預售票販售至 2027/3/30。
   plans:
     - name: 1 日券
       priceLines:
-        - 成人：¥5,500
+        - 常規：成人 ¥5,500、兒童 ¥3,500、長者 ¥4,500
+        - 早鳥：成人 ¥4,600、兒童 ¥3,000、長者 ¥3,800
+        - 預售：成人 ¥4,900、兒童 ¥3,200、長者 ¥4,000
     - name: 2 日券
       priceLines:
-        - 成人：¥9,000
-    - name: 半日券
+        - 常規：成人 ¥9,000、兒童 ¥6,000、長者 ¥7,500
+        - 早鳥：成人 ¥7,600、兒童 ¥5,100、長者 ¥6,300
+        - 預售：成人 ¥8,100、兒童 ¥5,400、長者 ¥6,700
+      note: 限兌換日起連續 2 日使用，不可與其他折扣併用。
+    - name: 山頂往返券
       priceLines:
-        - 成人：¥4,500
-    - name: 1 回券
+        - 常規 ¥2,500
+        - 早鳥 ¥2,100
+        - 預售 ¥2,250
+    - name: Adventure Land
       priceLines:
-        - 成人：¥1,500
+        - 常規 ¥2,500
+        - 早鳥 ¥2,100
+        - 預售 ¥2,250
 snowWeather:
   title: 車山高原 SKYPARK雪況預報
   provider: Weathernews
@@ -64,56 +82,75 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
-  total: 7
-  beginnerRatio: 50
-  intermediateRatio: 30
-  advancedRatio: 20
-  courseInfoPage: https://winter.kurumayama-skypark.com/
-  summary: 共 7 條雪道、5 座纜車，初級 50%、中級 30%、高級 20%。
+  total: 6
+  courseInfoPage: https://winter.kurumayama-skypark.com/gelende
+  summary: 共 6 條雪道，最長滑走 2,000m、最大坡度 38 度；山頂海拔 1,925m，從寬闊練習坡到非整雪的進階雪道都有配置。
   details:
-  - name: 初級路線 1
+  - name: 家庭雪道 / ファミリー
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 2
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 3
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 4
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 1
+    length: 900m
+    maxSlope: 25deg
+    averageSlope: 12deg
+    note: 標高差 140m、最大寬度 200m；官方標示為初學者、初級者雪道。
+
+  - name: Slalom 雪道 / スラローム
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 2
+    length: 600m
+    maxSlope: 28deg
+    averageSlope: 18deg
+    note: 標高差 130m、最大寬度 100m 的中級雪道。
+  - name: 托雷比安雪道 / トレビアン
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線
+    length: 650m
+    maxSlope: 28deg
+    averageSlope: 16deg
+    note: 標高差 130m、最大寬度 100m 的中級雪道。
+  - name: Venus 雪道 / ビーナス
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    length: 1000m
+    maxSlope: 35deg
+    averageSlope: 21deg
+    note: 標高差 280m、最大寬度 80m 的進階雪道；上段依雪況可能為非整雪區域。
+  - name: Sportsman 雪道 / スポーツマン
+    difficulty: advanced
+    length: 750m
+    maxSlope: 38deg
+    averageSlope: 23deg
+    note: 標高差 200m、最大寬度 100m；為全場最大坡度 38 度的進階雪道，依雪況可能為非整雪區域。
+  - name: 全景雪道 / パノラマ
+    difficulty: mixed
+    length: 2000m
+    maxSlope: 28deg
+    averageSlope: 15deg
+    note: 標高差 350m；由車山山頂延伸至家庭雪道，可眺望周邊群山。初學者可由山頂右側的迂迴雪道下滑。
 lifts:
   total: 5
 access:
   fromTokyo:
-  - label: 鐵道＋轉乘
+  - label: 東京－茅野－車山高原
     steps:
-    - 從東京方向搭乘新幹線或在來線，轉乘至雪場鄰近車站。
-    - 從中央本線茅野駅搭乘巴士約 60分鐘。
+    - 從東京方向搭乘中央本線特急至茅野站。
+    - 於茅野站轉乘開往車山高原的路線巴士，於「車山高原」站下車。
     difficulty: medium
-    note: 時間為最近車站至雪場的交通目安，東京出發總時間需另加主要鐵道路段與轉乘等待。
-    estimatedTime: 約60分鐘
+    note: 茅野站至車山高原約 60 分鐘；巴士班次請以諏訪巴士時刻表為準。
+    estimatedTime: 約 3 小時起
+  - label: 上野站直達巴士
+    steps:
+    - 從 JR 上野站公園口搭乘預約制直達巴士。
+    - 於車山高原 Skypark Hotel 前下車。
+    difficulty: easy
+    note: 官方公告自 2026/12/12 起每日 1 往返；詳細票價、時刻與預約方式請以官方後續公告確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: 自駕可參考官方路線：中央道高井戸IC→諏訪南IC(152km)→一般道路・国道152号(28.3km) (40分)；冬季需準備雪胎或防滑鏈。停車資訊：1200台、平日  免費。
+    note: 可由中央自動車道諏訪南 IC 經一般道路前往；雪場共有 5 處免費停車場，合計約 1,500 台。冬季請備妥雪胎或雪鏈。
 terrainSummary:
-  beginner: 初級雪道約 50%，可安排暖身、基礎練習或親子滑行。
-  intermediate: 中級雪道約 30%，適合穩定滑行與轉彎練習。
-  advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
-  snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
+  beginner: 家庭雪道寬達 200m，並可從全景雪道山頂接上迂迴路線，適合作為入門與練習動線。
+  intermediate: Slalom 與 Très Bien 雪道皆有最大 28 度的坡度，適合已能穩定轉彎的滑行者。
+  advanced: Venus 與 Sportsman 為進階雪道，最大坡度分別為 35 與 38 度；上段及 Sportsman 依雪況可能不整雪。
+  snowboard: 官方雪道資訊將全場定位為從初學者到進階者皆可利用的開放式寬闊雪面；實際單板開放範圍依當日公告為準。
 ---
 
-車山高原 SKYPARK 以高海拔、全開放且寬闊的坡面見長，從初學者到進階者都能在明亮開闊的環境裡滑行。雪場透過造雪設備維持從山頂到山麓的雪況穩定度，晴天時更能欣賞信州群山的遼闊景色。
+車山高原 SKYPARK 位於海拔 1,560 至 1,925m 的高原，採全開放、寬闊的雪場設計。從最長 2,000m 的全景雪道，到最大寬度 200m 的家庭雪道，初學者、家庭與想欣賞信州山景的滑行者都能安排自己的節奏；晴朗時，山頂與雪場可望見信州群山的遼闊景色。
 
-這裡適合把「看景」和「認真滑」排在同一天：初學者有較寬的練習空間，熟練者則可選擇更有坡度的路線。作為白樺湖、蓼科一帶的高原雪場代表之一，也很適合納入自駕住宿行程。
+進階滑行者可選擇最大 35 度的 Venus 與最大 38 度的 Sportsman 雪道；兩條雪道的非整雪區域則須視當日雪況審慎判斷。全場以造雪設備維持自山頂至山麓的雪況穩定度，交通可由茅野站轉乘巴士，2026-2027 雪季起也新增上野站預約制直達巴士。
