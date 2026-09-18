@@ -196,6 +196,9 @@ externalContent:
   - title: "【赤倉温泉スキー場】極上パウダー & 絶景！妙高高原の雪質を満喫 - LOVE SKISKI"
     url: https://www.youtube.com/watch?v=8s_AB4HA0y0
     note: 犬と暮らす旅人 / Love Nomad Life
+externalGuide:
+  title: 赤倉溫泉，17 條雪道串起妙高溫泉街
+  url: https://www.japowdb.com/zh-tw/resorts/akakura-onsen/
 ---
 
-赤倉溫泉位在新潟縣，滑行區由17 條雪道，搭配 14 座纜車構成。2 銀嶺第3コース / Ginrei No.3 Course、3 銀嶺第2コース / Ginrei No.2 Course、5 くまどー第1コース / Kumado No.1 Course 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+赤倉溫泉位在新潟縣，滑行區由 17 條雪道，搭配 14 座纜車構成。2 銀嶺第3コース / Ginrei No.3 Course、3 銀嶺第2コース / Ginrei No.2 Course、5 くまどー第1コース / Kumado No.1 Course 等路線能看出坡面配置，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。

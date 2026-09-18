@@ -135,6 +135,9 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs: []
+externalGuide:
+  title: 朝里川溫泉，小樽近郊的夜滑森林雪場
+  url: https://www.japowdb.com/zh-tw/resorts/asarigawa-onsen/
 ---
 
 朝里川溫泉位於北海道，是中小型雪場，共有 10 條雪道，搭配 5 座纜車。代表路線包含 パープルコース、グリーンCコース，上級路線比例明顯，坡面變化較多，標籤偏向親子同行、夜滑。
