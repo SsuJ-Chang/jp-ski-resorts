@@ -1,14 +1,14 @@
 ---
 id: kirigamine-family
 name:
-  zhTw: 霧ヶ峰 Family Gelande
+  zhTw: 霧峰高原 Family Field
   ja: ファミリーゲレンデ霧ヶ峰スキー場
-  en: Kirigamine Family Gelande
+  en: Kirigamine Family Field
 region: kanto-koshinetsu
 prefecture: 長野縣
 location:
-  latitude: 36.097667
-  longitude: 138.16068
+  latitude: 36.096991940272474
+  longitude:  138.16161598154034
 elevation:
   top: 1650
   bottom: 1600
@@ -19,14 +19,14 @@ tags:
 links:
   official: https://www.city.suwa.lg.jp/site/enjoy/4445.html
   weather: https://weathernews.jp/ski/spot/34817/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Kirigamine%20Family%20Gelande
+  googleMaps: https://maps.app.goo.gl/nT3R7LieZdTiWNuh6
   access: https://www.city.suwa.lg.jp/site/enjoy/4445.html
 contact:
   address:
-    zhTw: 〒392-0003 長野縣諏訪市上諏訪13338-1 地図を見る
-    ja: 〒392-0003 長野県諏訪市上諏訪13338-1 地図を見る
-    en: 13338-1 Kamisuwa, Suwa, Nagano 392-0003
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Kirigamine%20Family%20Gelande
+    zhTw: 〒392-0003 長野縣諏訪市上諏訪 1338-1
+    ja: 〒392-0003 長野県諏訪市上諏訪1338-1
+    en: 1338-1 Kamisuwa, Suwa, Nagano 392-0003
+    googleMaps: https://maps.app.goo.gl/nT3R7LieZdTiWNuh6
   phone: 0266-53-1664
 season:
   label: 2025-2026
@@ -61,7 +61,7 @@ tickets:
         - 兒童：¥200
         - 長者：¥200
 snowWeather:
-  title: 霧ヶ峰 Family Gelande雪況預報
+  title: 霧峰高原 Family Field 雪況預報
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34817/
   snowDepth: 0 cm
@@ -107,4 +107,4 @@ terrainSummary:
   snowboard: 單板滑行限制：一部を除いて可 ソリ遊び用ゲレンデは滑走不可。
 ---
 
-霧ヶ峰 Family Gelande位於長野縣，以3 條雪道構成小型雪場，搭配 1 座纜車。雪道配置偏初級，練習門檻較低，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、親子同行。
+霧峰高原 Family Field 位於長野縣，以 3 條雪道構成小型雪場，搭配 1 座纜車。雪道配置偏初級，練習門檻較低，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、親子同行。

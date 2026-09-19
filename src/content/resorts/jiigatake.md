@@ -39,7 +39,7 @@ contact:
     googleMaps: https://maps.app.goo.gl/Nrr2KAAyyocAvsHc6
   phone: 0261-22-0551
 season:
-  label: 2025-2026
+  label: 2026-2027
   operatingPeriod: 請以官方公告為準
   hours: 請以官方營業時間公告為準
   note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
@@ -47,14 +47,14 @@ season:
 trailMaps:
 - label: 爺岳雪場圖
   language: 日本語
-  season: 2025-2026
-  url: https://jiigatake.com/slope/
+  season: 2026-2027
+  url: https://jiigatake.com/course/
   sourceLabel: Jiigatake Snow Resort
 tickets:
   season: 2026-2027
   currency: JPY
   source: https://jiigatake.com/price/
-  note: 2026-2027 年度票價；兒童票適用 3 歲至國中生，學生須出示學生證，熟齡票適用 60 歲以上並須出示證明。
+  note: 2026-2027 年度票價；兒童票適用 3 歲至國中生，學生須出示學生證，熟齡票適用 60 歲以上並須出示證明。寵物票適用於有提供的票種。
   plans:
     - name: 1 日券
       priceLines:
@@ -103,11 +103,11 @@ snowWeather:
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
   total: 6
-  beginnerRatio: 100
+  beginnerRatio: 70
   intermediateRatio: 30
   advancedRatio: 0
   courseInfoPage: https://jiigatake.com/course/
-  summary: 爺岳是白馬地區最南端、以初學者與家庭為主的雪場。全體坡面較平緩且寬廣，主雪道與兒童區都適合第一次穿上雪具的遊客；雪場特別強調「初心者＆ファミリー向けコース」，並設有雪上電梯與兒童公園。最長的 1,500 公尺かもしかコース可讓初學者循序練習，山頂的雷鳥與ラビット則提供中級者挑戰。
+  summary: 爺岳位於白馬 Valley 最南端，以寬廣緩坡為主，是家庭與初次接觸滑雪、滑雪板旅客的入門雪場。初級雪道占 70%，主坡エコーゲレンデ視野開闊，最長約 1,500 公尺的かもしかコース可持續練習轉彎與控速；想再進階，可前往雷鳥、ラビット與ポルル等中級路線。除了滑雪，館內也設有兒童公園、雪上活動與多家滑雪、滑雪板學校。
   details:
   - name: エコーゲレンデ
     difficulty: beginner
@@ -121,6 +121,7 @@ courses:
     difficulty: beginner
     length: 1500m
     averageSlope: 13°
+    note: 雪場最長雪道，約 1,500 公尺的平緩斜度可持續滑行，適合累積基礎滑行經驗。
     videoLinks:
     - https://www.youtube.com/watch?v=Y52z_hxbCHI&t=87s
   - name: 林間コース
@@ -139,9 +140,9 @@ access:
   fromTokyo:
   - label: 東京出發
     steps:
-    - 東京站搭乘中央線與長野道方向列車前往信濃大町站。
-    - 從 JR 信濃大町站轉乘雪場接駁巴士至爺岳雪場。
-    estimatedTime: 約 3 小時
+    - JR 新宿站搭乘中央本線特急「あずさ」約 180 分鐘至松本站，再轉乘 JR 大糸線至信濃大町站。
+    - 從 JR 信濃大町站轉乘免費接駁巴士或搭計程車約 15 分鐘。
+    estimatedTime: 約 3 小時 15 分
     difficulty: medium
     note: 官方列有 JR 信濃大町站接駁巴士；班次與運行期間依當季公告為準。
     links:
@@ -150,21 +151,21 @@ access:
   fromNagoya:
   - label: 名古屋出發
     steps:
-    - 名古屋站搭乘特急信濃與在來線前往信濃大町站。
-    - 從 JR 信濃大町站轉乘雪場接駁巴士至爺岳雪場。
+    - JR 名古屋站搭乘中央本線特急「しなの」約 120 分鐘至松本站，再轉乘 JR 大糸線至信濃大町站。
+    - 從 JR 信濃大町站轉乘免費接駁巴士或搭計程車約 15 分鐘。
     estimatedTime: 約 2 小時 15 分
     difficulty: medium
-    note: 轉乘時間依特急與在來線班次而異，請依官方時刻表安排行程。
+    note: 所需時間未含松本轉乘與接駁；接駁時刻及運行期間請依官方公告安排。
     links:
     - label: Jiigatake Snow Resort Access
       url: https://jiigatake.com/access/
   car:
-    recommended: false
+    recommended: true
     snowTireRequired: true
-    note: 從松本方向經北阿爾卑斯全景道路約 50 分鐘，東京方向經中央道與長野道約 3 小時；停車場約 800 個車位且全日免費，雪季請準備雪胎或雪鏈。
+    note: 從安曇野 IC 經一般道路約 45 分鐘；官網亦列東京方向經中央、長野道約 140 分鐘後抵安曇野 IC。停車場可容納約 800 輛車且全日免費，雪季請準備雪胎或雪鏈。
 terrainSummary:
   beginner: 約 70% 為初級坡面，エコーゲレンデ、かもしかコース與林間コース坡度平緩、寬度充足；雪上電梯附近另有適合首次穿雪具兒童的練習區。
-  intermediate: 約 30% 為中級路線，雷鳥コース與ラビットコース位於雪場上部，提供較有變化的坡度與林間滑行體驗。
+  intermediate: 約 30% 為中級路線。雷鳥コース上段較有坡度，中段混合緩坡與中斜面；ラビットコース坡度變化較少，ポルルコース則適合第一次嘗試樹林滑行。
   advanced: 官方資料未設置上級雪道，最高難度為中級；實際開放範圍仍依當日雪況公告為準。
   snowboard: 雙板與雪板使用規則請以官方公告為準。
 externalContent:

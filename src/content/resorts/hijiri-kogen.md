@@ -18,49 +18,56 @@ tags:
 - no_car_accessible
 - snowboard_friendly
 links:
-  official: http://www.vill.omi.nagano.jp
+  official: https://www.vill.omi.nagano.jp/kanko/guide/enjoy/kanko66.html
   weather: https://weathernews.jp/ski/spot/34891/
   googleMaps: https://www.google.com/maps/search/?api=1&query=Hijiri%20Kogen%20Ski%20Area
-  access: http://www.vill.omi.nagano.jp
+  trailMapPage: https://www.vill.omi.nagano.jp/kanko/guide/enjoy/kanko66.html
+  ticket: https://www.vill.omi.nagano.jp/kanko/guide/enjoy/kanko66.html
+  access: https://www.vill.omi.nagano.jp/kanko/guide/enjoy/kanko66.html
 contact:
   address:
-    zhTw: 〒399-7701 長野縣東筑摩郡麻績村麻5887 地図を見る
-    ja: 〒399-7701 長野県東筑摩郡麻績村麻5887 地図を見る
-    en: 5887 Asa, Higashichikuma District Omi, Nagano 399-7701
+    zhTw: 〒399-7701 長野縣東筑摩郡麻績村麻 5889-1
+    ja: 〒399-7701 長野県東筑摩郡麻績村麻5889-1
+    en: 5889-1 Asa, Omi-mura, Higashichikuma-gun, Nagano 399-7701
     googleMaps: https://www.google.com/maps/search/?api=1&query=Hijiri%20Kogen%20Ski%20Area
-  phone: 0263-67-2145
+  phone: 0263-67-2133
 season:
   label: 2025-2026
   operatingPeriod: 2026/1/12-2026/2/27
-  hours: 平日 8:40〜16:30；假日 8:40〜16:30
+  hours: 平日、週末及國定假日 8:40〜16:30
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
-  source: https://weathernews.jp/ski/spot/34891/
+  source: https://www.vill.omi.nagano.jp/kanko/guide/enjoy/kanko66.html
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/34891/
-  note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
+  source: https://www.vill.omi.nagano.jp/kanko/guide/enjoy/kanko66.html
+  note: 官方頁面於 2026/1/12 更新；成人為高中生以上，兒童為國中生以下，長者為 60 歲以上。平日不包含 12/30 至 1/7、週末及國定假日。
   plans:
-    - name: 1日券(週末假日)
+    - name: 1 日券
       priceLines:
-        - 成人：¥3,000
-        - 兒童：¥2,000
-        - 長者：¥2,000
-    - name: 12回券(週末假日)
+        - 週末及國定假日：成人 ¥3,000、兒童 ¥2,000、長者 ¥2,000
+        - 平日：成人 ¥2,000、兒童 ¥1,000、長者 ¥2,000
+    - name: 4 小時券
       priceLines:
-        - 成人：¥2,000
-        - 兒童：¥1,500
-        - 長者：¥2,000
-    - name: 4時間券（週末假日）
+        - 週末及國定假日：成人 ¥2,000、兒童 ¥1,500、長者 ¥1,500
+        - 平日：成人 ¥1,500、兒童 ¥800、長者 ¥1,500
+    - name: 12 次券
       priceLines:
         - 成人：¥2,000
         - 兒童：¥1,500
-        - 長者：¥1,500
-    - name: 1 回券
+        - 長者：¥2,000
+      note: 平日無折扣。
+    - name: 單次券
       priceLines:
         - 成人：¥200
         - 兒童：¥150
         - 長者：¥200
+      note: 平日無折扣。
+    - name: 親子季票
+      priceLines:
+        - 成人 1 名、兒童 1 名：¥15,000
+        - 加購成人 1 名：¥10,000
+        - 加購兒童 1 名：¥7,000
 snowWeather:
   title: 聖高原雪況預報
   provider: Weathernews
@@ -74,38 +81,60 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 30
   advancedRatio: 30
-  courseInfoPage: http://www.vill.omi.nagano.jp
-  summary: 共 3 條雪道、1 座纜車，初級 40%、中級 30%、高級 30%。
+  courseInfoPage: https://www.vill.omi.nagano.jp/kanko/guide/enjoy/kanko66.html
+  summary: 聖高原滑雪場共有 3 條雪道與 1 座雙人纜車，初、中、高級雪道比例分別為 40%、30%、30%。初級 C 雪道坡度穩定，適合新手與親子；中央的 B 雪道為壓雪中級路線，上部偶有雪包；A 雪道位於雙人纜車旁，視雪況可享受新雪。
   details:
-  - name: 初級路線
+  - name: Cコース
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線
+    length: 260m
+    maxSlope: 12°
+    averageSlope: 10°
+    note: 受新手與家庭歡迎，幾乎維持固定坡度的平緩雪道，適合基礎練習。
+  - name: Bコース
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線
+    length: 270m
+    maxSlope: 22°
+    averageSlope: 17°
+    note: 位於雪場中央的壓雪雪道，上部偶有雪包，整體相對容易滑行。
+  - name: Aコース
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    length: 270m
+    maxSlope: 30°
+    averageSlope: 20°
+    note: 位於聖高原雙人纜車旁；A、B 雪道中間設有雪包坡，依雪況可享受新雪。
 lifts:
   total: 1
 access:
   fromTokyo:
-  - label: 鐵道＋轉乘
+  - label: 東京出發
     steps:
-    - 從東京方向搭乘新幹線或在來線，轉乘至雪場鄰近車站。
-    - 從篠ノ井線聖高原駅搭乘巴士約 17分鐘。
+    - 從東京搭乘北陸新幹線至長野站，轉乘篠之井線至聖高原站。
+    estimatedTime: 約 2 小時 15 分至聖高原站
     difficulty: medium
-    note: 時間為最近車站至雪場的交通目安，東京出發總時間需另加主要鐵道路段與轉乘等待。
-    estimatedTime: 約17分鐘
+    note: 村方交通頁提供至聖高原站的時間；車站至滑雪場的當季接駁或計程車安排請以雪場公告確認。
+    links:
+    - label: 麻績村交通資訊
+      url: https://www.vill.omi.nagano.jp/kanko/other/access.html
+  fromNagoya:
+  - label: 名古屋出發
+    steps:
+    - 從名古屋搭乘中央西線特急「しなの」至松本站。
+    - 從松本轉乘篠之井線往長野方向至聖高原站。
+    estimatedTime: 約 2 小時 35 分至聖高原站
+    difficulty: medium
+    note: 官方列名古屋至松本約 2 小時 5 分、松本至聖高原約 30 分；未含轉乘等候時間。
+    links:
+    - label: 麻績村交通資訊
+      url: https://www.vill.omi.nagano.jp/kanko/other/access.html
   car:
     recommended: true
     snowTireRequired: true
-    note: 自駕可參考官方路線：長野道麻績ICより (15分)；冬季需準備雪胎或防滑鏈。停車資訊：約100台、平日  免費、假日  免費。
+    note: 從東京或名古屋方向皆可由長野自動車道麻績 IC 下交流道，至聖高原約 10 分鐘。冬季請準備雪胎或雪鏈；滑雪場停車與道路狀況請於出發前向官方確認。
 terrainSummary:
   beginner: 初級雪道約 40%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 30%，適合穩定滑行與轉彎練習。
-  advanced: 高級雪道約 30%，可安排較有坡度與速度感的滑行。
-  snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
+  advanced: 高級雪道約 30%，Aコース最大坡度 30 度，A、B 之間設有雪包坡。
+  snowboard: 官方說明雪板可於全區滑行；實際開放範圍仍依當日雪況與安全管制為準。
 ---
 
-聖高原位在長野縣，雪道數為3 條，搭配 1 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。
+聖高原位於長野縣麻績村，共有 3 條短距離雪道與 1 座雙人纜車。Cコース為平緩的初級雪道，Bコース提供壓雪中級路線，Aコース則有較陡的坡度與雪包坡；適合依程度安排循序練習。
