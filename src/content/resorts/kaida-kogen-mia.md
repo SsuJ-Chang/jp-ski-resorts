@@ -7,8 +7,8 @@ name:
 region: kanto-koshinetsu
 prefecture: 長野縣
 location:
-  latitude: 35.930412
-  longitude: 137.53001
+  latitude: 35.9304952429138
+  longitude: 137.5300732
 elevation:
   top: 2120
   bottom: 1557
@@ -22,14 +22,14 @@ links:
   instagram: https://www.instagram.com/shinshukaidakogenmia/
   xTwitter: https://x.com/miaski2100
   weather: https://weathernews.jp/ski/spot/34854/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Shinshu%20Kaida%20Kogen%20MIA%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/95hSkfKDWAXM4Z6bA
   access: https://miaski-resort.com/
 contact:
   address:
-    zhTw: 〒397-0302 長野縣木曽郡木曽町開田高原西野5346-1 地図を見る
-    ja: 〒397-0302 長野県木曽郡木曽町開田高原西野5346-1 地図を見る
+    zhTw: 〒397-0302 長野縣木曽郡木曽町開田高原西野 5346-1
+    ja: 〒397-0302 長野県木曽郡木曽町開田高原西野5346-1
     en: 5346-1 Kaidakougennishino, Kiso District Kiso, Nagano 397-0302
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Shinshu%20Kaida%20Kogen%20MIA%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/95hSkfKDWAXM4Z6bA
   phone: 0264-44-1111
 season:
   label: 2025-2026
@@ -58,7 +58,7 @@ tickets:
         - 兒童：¥600
         - 長者：¥1,500
 snowWeather:
-  title: 信州開田高原 MIA雪況預報
+  title: 信州開田高原 MIA 雪況預報
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34854/
   snowDepth: 0 cm
@@ -98,7 +98,7 @@ access:
   - label: 鐵道＋轉乘
     steps:
     - 從東京方向搭乘新幹線或在來線，轉乘至雪場鄰近車站。
-    - 從中央本線木曽福島駅搭乘計程車約 40分鐘。
+    - 從中央本線木曽福島駅搭乘計程車約 40 分鐘。
     difficulty: medium
     note: 時間為最近車站至雪場的交通目安，東京出發總時間需另加主要鐵道路段與轉乘等待。
     estimatedTime: 約40分鐘
@@ -113,4 +113,4 @@ terrainSummary:
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
 ---
 
-信州開田高原 MIA是長野縣的中小型雪場，整理為6 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，介紹保留在可確認的雪道數與難度比例；標籤上偏向雙板與單板。
+信州開田高原 MIA 是長野縣的中小型雪場，整理為 6 條雪道，搭配 2 座纜車。初級、中級與上級路線都有配置，介紹保留在可確認的雪道數與難度比例；標籤上偏向雙板與單板。
