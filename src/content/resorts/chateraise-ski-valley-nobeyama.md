@@ -7,8 +7,8 @@ name:
 region: kanto-koshinetsu
 prefecture: 長野縣
 location:
-  latitude: 35.930048
-  longitude: 138.495111
+  latitude: 35.9303421809454
+  longitude: 138.49544561349342
 elevation:
   top: 1620
   bottom: 1400
@@ -19,48 +19,73 @@ tags:
 - no_car_accessible
 - snowboard_friendly
 links:
-  official: https://nobeyama.chateraiseski.jp
+  official: https://nobeyama.chateraiseski.jp/
   facebook: https://www.facebook.com/chateraiseski
   instagram: https://www.instagram.com/chateraiseski_n/
   xTwitter: https://twitter.com/chateraiseski
   weather: https://weathernews.jp/ski/spot/34840/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Chateraise%20Ski%20Valley%20Nobeyama
-  access: https://nobeyama.chateraiseski.jp
+  googleMaps: https://maps.app.goo.gl/HsQZhvtdJw4qirVD8
+  trailMapPage: https://nobeyama.chateraiseski.jp/trails/
+  ticket: https://nobeyama.chateraiseski.jp/fee/
+  access: https://nobeyama.chateraiseski.jp/access/
 contact:
   address:
-    zhTw: 〒384-1407 長野縣南佐久郡川上村御所平1841 地図を見る
-    ja: 〒384-1407 長野県南佐久郡川上村御所平1841 地図を見る
-    en: 1841 Goshotaira, Minamisaku District Kawakami, Nagano 384-1407
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Chateraise%20Ski%20Valley%20Nobeyama
+    zhTw: 〒384-1407 長野縣南佐久郡川上村御所平 1841-5
+    ja: 〒384-1407 長野県南佐久郡川上村御所平1841-5
+    en: 1841-5 Goshodaira, Kawakami-mura, Minamisaku-gun, Nagano 384-1407
+    googleMaps: https://maps.app.goo.gl/HsQZhvtdJw4qirVD8
   phone: 0267-91-1001
 season:
   label: 2025-2026
   operatingPeriod: 2025/12/20-2026/3/29
-  hours: 平日 8:30〜16:30；假日 8:30〜16:30；夜間 15:00〜18:30(1/3〜3/7の每週週六、及び特日（12/29、12/30、1/2、1/11、2/22）
-  nightSkiingHours: 15:00〜18:30(1/3〜3/7の每週週六、及び特日（12/29、12/30、1/2、1/11、2/22）
-  note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
-  source: https://weathernews.jp/ski/spot/34840/
+  hours: バレー1コース 8:30〜16:30、ホーンコース 8:30〜16:30、バレー2・3コース 8:30〜16:30、アルペンコース 10:00〜16:00
+  nightSkiingHours: 1/3 至 3/7 每週六及指定日，バレー1コース 15:00〜18:30
+  note: 初滑期間為開放日至 12/26，春滑期間自 3/16 起；營業日期、雪道與時間會依積雪、天候及場內維護調整，請以官方公告確認。
+  source: https://nobeyama.chateraiseski.jp/fee/
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/34840/
-  note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
+  source: https://nobeyama.chateraiseski.jp/fee/
+  note: 所列為 2025-2026 雪季官方一般票價。成人為高中生至 59 歲，長者為 60 歲以上，兒童為小學生及國中生，幼兒為學齡前兒童；野邊山與小海雪場的票券可共通使用，實際販售條件請以官方公告為準。
   plans:
-    - name: 1日券(全日)
+    - name: 1 日券
       priceLines:
         - 成人：¥4,800
-        - 兒童：¥3,500
         - 長者：¥3,800
-    - name: 半日券(全日)
+        - 兒童：¥3,500
+        - 幼兒：¥2,500
+      note: 8:30 至 16:30；指定夜滑日可使用至夜滑結束。
+    - name: 半日券
       priceLines:
         - 成人：¥3,800
-        - 兒童：¥2,500
         - 長者：¥2,800
+        - 兒童：¥2,500
+        - 幼兒：¥2,000
+      note: 可選上午 8:30 至 13:00、日中 10:00 至 14:00 或下午 12:00 至 16:30；指定夜滑日可使用至夜滑結束。
     - name: 夜滑券
       priceLines:
         - 成人：¥2,000
-        - 兒童：¥1,500
-        - 長者：¥1,500
+        - 長者、兒童：¥1,500
+        - 幼兒：¥1,000
+      note: 15:00 至 18:30，僅限指定夜滑日於バレー1コース使用。
+    - name: 1 回券
+      priceLines:
+        - ¥900
+    - name: 10 回券
+      priceLines:
+        - ¥8,000
+      note: 全年齡共通。
+    - name: 家庭套票
+      priceLines:
+        - A：成人 1 名＋兒童 1 名：¥7,300
+        - B：成人 1 名＋兒童 2 名：¥10,300
+        - C：成人 2 名＋兒童 1 名：¥11,600
+        - D：成人 2 名＋兒童 2 名：¥14,600
+      note: 適用週末及國定假日。
+    - name: 兒童樂園入場券
+      priceLines:
+        - ¥800
+      note: 3 歲以下免費；持 1 日券、半日券或雪季券者免費。
 snowWeather:
   title: Chateraise Ski Valley 野邊山雪況預報
   provider: Weathernews
@@ -74,44 +99,61 @@ courses:
   beginnerRatio: 50
   intermediateRatio: 30
   advancedRatio: 20
-  courseInfoPage: https://nobeyama.chateraiseski.jp
-  summary: 共 5 條雪道、3 座纜車，初級 50%、中級 30%、高級 20%。
+  courseInfoPage: https://nobeyama.chateraiseski.jp/trails/
+  summary: 正式雪道共 5 條，初級 50%、中級 30%、上級 20%；最高點 1,620m，最長可由アルペンコース接續バレー1コース滑行約 1.3km。
   details:
-  - name: 初級路線 1
+  - name: バレー1コース
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 2
+    length: 900m
+    maxSlope: 14度
+    averageSlope: 10度
+    note: 寬闊的主要初級雪道，設有波浪地形；可眺望八岳連峰，夜滑日開放至傍晚。
+  - name: バレー3コース
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 3
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線
+    length: 950m
+    maxSlope: 9度
+    averageSlope: 7度
+    note: 沿林間延伸的緩坡，雪道中段起更為開闊，設有わくわくゲレンデ兒童練習設施。
+  - name: バレー2コース
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線
+    length: 850m
+    maxSlope: 17度
+    averageSlope: 9度
+    note: 適合 carving 的中級雪道，中段可匯入中斜面，亦供活動使用。
+  - name: ホーンコース
+    difficulty: intermediate
+    length: 450m
+    maxSlope: 32度
+    averageSlope: 13度
+    note: 起滑段坡度較陡的中級雪道；視積雪狀況可能設置饅頭坡練習區。
+  - name: アルペンコース
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    length: 800m
+    maxSlope: 32度
+    averageSlope: 15度
+    note: 上段為陡坡，原則每週壓雪 2 至 3 次，部分日期可能保留未壓雪雪面；自山頂可眺望八岳與南阿爾卑斯山脈。
 lifts:
   total: 3
 access:
   fromTokyo:
-  - label: 鐵道＋轉乘
+  - label: JR 中央本線＋JR 小海線
     steps:
-    - 從東京方向搭乘新幹線或在來線，轉乘至雪場鄰近車站。
-    - 從新宿〜小淵沢経由〜小海線野辺山駅搭乘計程車約 5分鐘。
+    - 從新宿方向搭乘 JR 中央本線至小淵澤站。
+    - 轉乘 JR 小海線至野邊山站，再轉搭計程車前往雪場。
     difficulty: medium
-    note: 時間為最近車站至雪場的交通目安，東京出發總時間需另加主要鐵道路段與轉乘等待。
-    estimatedTime: 約5分鐘
+    note: 野邊山站至雪場車程約 5 分鐘，計程車單程約 ¥1,500 至 ¥1,600；如導航搜尋雪場名稱不準確，可先以野邊山站為目的地並依沿途標示前往。
+    estimatedTime: 約 5 分鐘
   car:
     recommended: true
     snowTireRequired: true
-    note: 自駕可參考官方路線：中央道長坂ICより21km (25分)；冬季需準備雪胎或防滑鏈。停車資訊：1000台、平日  免費、假日  免費。
+    note: 中央自動車道須玉 IC 經國道 141 號約 30 分鐘，或中部橫斷自動車道八千穗高原 IC 經國道 141 號約 50 分鐘，再由野邊山站方向約 5 分鐘抵達；停車場全日免費、可 24 小時進出，冬季需準備雪胎或防滑鏈。
 terrainSummary:
-  beginner: 初級雪道約 50%，可安排暖身、基礎練習或親子滑行。
-  intermediate: 中級雪道約 30%，適合穩定滑行與轉彎練習。
-  advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
-  snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
+  beginner: バレー1與バレー3為寬緩初級雪道；其中バレー3設有兒童練習設施，兒童樂園另有雪橇道與魔毯。
+  intermediate: バレー2提供適合 carving 的寬坡，ホーンコース則以起滑段較陡及自然地形變化增加挑戰。
+  advanced: アルペンコース最大坡度 32 度，上段依日期可能保留未壓雪雪面。
+  snowboard: 雪場開放雪板滑行；バレー1另設置 Rail Park 與 JOYJOY Park，實際開放狀態依當日公告為準。
 ---
 
-Chateraise Ski Valley 野邊山位於長野縣，以5 條雪道構成小型雪場，搭配 3 座纜車。初級、中級與上級路線都有配置，描述聚焦在雪道規模與難度結構；標籤上偏向初學者練習、親子同行。
+Chateraise Ski Valley 野邊山位於八岳高原，從東京方向自駕約兩個半小時即可抵達。雪場以 5 條雪道集中配置，初級路線佔一半，從寬闊的バレー1到林間緩坡的バレー3，皆可接回主要區域；中級者可在バレー2反覆練習 carving，或轉往起滑較陡、帶有自然地形的ホーンコース。想增加難度時，則可由山頂的アルペンコース一路串連バレー1，完成最長約 1.3km 的滑降。
+
+海拔 1,620m 與人工造雪讓雪況較為穩定，晴天率高也有利於眺望八岳與南阿爾卑斯山脈。雪場設有夜滑、兒童樂園、兒童練習設施與雪板 Park，並提供野邊山站短程計程車接駁與全日免費停車，適合初次上雪、親子同行及希望在短行程內交替練習與挑戰坡度的滑雪者。

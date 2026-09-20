@@ -34,7 +34,7 @@ contact:
   address:
     zhTw: 〒070-8025 北海道旭川市神居町富岡 555 番地之 2
     ja: 〒070-8025 北海道旭川市神居町富岡555番地の2
-    en: 2 Tomioka555banchino, Asahikawa, Kamii, Hokkaido 070-8025
+    en: 555-2 Tomioka, Kamui-cho, Asahikawa, Hokkaido 070-8025
     googleMaps: https://maps.app.goo.gl/nTmyZhak7GxfiuXk9
   phone: 0166-63-3232
 season:
@@ -48,40 +48,66 @@ trailMaps:
 - label: 旭川サンタプレゼントパーク マロースゲレンデ雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://toriaez-hp.jp/assets/2-1300000049/LXjxIIwUfC-1.jpg
+  url: https://www.asahikawasantapresentpark.com/cont1/main.html
   sourceLabel: Asahikawa Santa Present Park
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.asahikawasantapresentpark.com/cont1/8.html
-  note: 2025-2026 票價含稅；成人為國中生以上，兒童為兒童（小學生以下），長者（65 歲以上）出示證明可適用兒童票價。購買後不可退票或更換票種。
+  note: 2025-2026 票價含稅；成人為國中生以上至 64 歲，兒童為小學生以下及 65 歲以上，長者須出示年齡證明。購買後不可退票或更換票種。
   plans:
-    - name: 日中券
+    - name: 1 回券
       priceLines:
-        - 成人：¥4,200
-        - 兒童：¥3,300
-      note: 營業開始至 16:00 可使用。
-    - name: 5 小時券
+        - 成人、兒童：¥500
+    - name: 5 回券
       priceLines:
-        - 成人：¥3,600
+        - 成人：¥2,400
+        - 兒童：¥2,000
+    - name: 12 回券
+      priceLines:
+        - 成人：¥3,700
         - 兒童：¥3,000
     - name: 2 小時券
       priceLines:
         - 成人：¥3,000
         - 兒童：¥2,500
-    - name: 12 回券
+    - name: 5 小時券
       priceLines:
-        - 成人：¥3,700
+        - 成人：¥3,600
         - 兒童：¥3,000
+    - name: 日中券
+      priceLines:
+        - 成人：¥4,200
+        - 兒童：¥3,300
+      note: 營業開始至 16:00 可使用。
     - name: 夜滑券
       priceLines:
         - 成人：¥1,800
         - 兒童：¥1,100
       note: 16:00 起至營業結束可使用。
+    - name: 親子日中套票
+      priceLines:
+        - 成人日中券 1 張＋兒童日中券 1 張：¥6,000
+    - name: 1 個月券
+      priceLines:
+        - 成人：¥30,000
+        - 兒童：¥25,000
+      note: 購買時須附 3 個月內拍攝的正面證件照 1 張。
+    - name: 雪季券
+      priceLines:
+        - 成人：¥56,000
+        - 兒童：¥45,000
+      note: 購買時須附 3 個月內拍攝的正面證件照 1 張。
+    - name: 夜滑雪季券
+      priceLines:
+        - 成人：¥33,000
+        - 兒童：¥23,000
+      note: 僅適用夜滑營業時間，購買時須附 3 個月內拍攝的正面證件照 1 張。
     - name: Snow Escalator 專用券
       priceLines:
         - 成人、兒童：¥1,500
-      note: 10:00-15:00 可不限次數使用；一般纜車券不可使用 Snow Escalator。
+      note: 10:00 至 15:00 可不限次數使用；一般纜車券不可使用 Snow Escalator。
+
 snowWeather:
   title: 聖誕禮物公園雪況天氣
   provider: Weathernews
@@ -96,7 +122,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 10
   courseInfoPage: https://www.asahikawasantapresentpark.com/cont1/main.html
-  summary: 旭川サンタプレゼントパーク的冬季雪場為マロースゲレンデ，距離旭川市區近，官方雪場圖列 6 條雪道；可夜滑並眺望旭川市街夜景，另有獨立的免費 Kids Gerenade 與初學者用 Snow Escalator。
+  summary: 冬季雪場マロースゲレンデ共有 6 條初、中、上級雪道；距旭川市區近，可在夜滑時眺望市街夜景。另設獨立免費的キッズゲレンデ與初學者用 Snow Escalator。
   details:
   - name: センターコース
     difficulty: beginner
@@ -129,7 +155,7 @@ courses:
     maxSlope: 13°
     note: 官方雪場圖標示為上級斜面，路線沿マロースゲレンデ右側下滑。
 lifts:
-  total: 4
+  total: 3
 access:
   fromSapporo:
     - label: 札幌出發，JR 至旭川後轉乘
@@ -160,11 +186,13 @@ terrainSummary:
   beginner: 初級比例約 40%，有 350m 的 センターコース、初學者用 Snow Escalator，以及與一般雪道分離的 Kids Gerenade。
   intermediate: 中級比例約 50%，登山道、スパルタ、ブラッキー等路線可在短距離雪場內練習不同坡度。
   advanced: 上級比例約 10%，官方圖上的 グリーンコース 與 スラロームバーン 為上級斜面。
-  snowboard: 官方標示全區可 snowboard，且雪場曾舉辦 Snowboard 世界盃賽事。
+  snowboard: 官網定位為 Ski ＆ Snowboarding Area，並曾兩度舉辦 Snowboard 世界盃賽事；實際可滑區域請依當日公告確認。
   powder: 位於旭川內陸雪區，官方介紹提到世界級 snowboard 選手曾對雪質留下好評；粉雪狀況仍需視降雪與壓雪安排而定。
 externalContent:
   blogs: []
   vlogs: []
 ---
 
-聖誕禮物公園是北海道的中小型雪場，整理為6 條雪道，搭配 4 座纜車。雪道如 センターコース、登山道コース、スパルタコース，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+聖誕禮物公園的冬季雪場為マロースゲレンデ，距 JR 旭川站與市區約 15 分鐘車程。6 條雪道涵蓋從一般雪道前的緩坡練習，到登山道的 1,000m 迂迴路線與上級雪道；尚未能搭纜車的初學者可使用 Snow Escalator，雪橇、幼兒與第一次體驗者則有和一般雪道分離、免費開放的キッズゲレンデ。
+
+雪場的另一個重點是夜滑。入夜後可從坡面眺望旭川市街，並保有成人與兒童的夜滑票選擇。冬季期間也有從旭川市中心前往的道北巴士一般路線，但班次與時刻每年可能調整，出發前應確認當季公告。
