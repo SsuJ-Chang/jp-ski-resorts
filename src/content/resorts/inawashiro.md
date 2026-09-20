@@ -229,7 +229,7 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "【猪苗代スキー場】福島でリフト券が平日無料の魅力と福島で雪花火 - LOVE SKISKI"
+  - title: 【猪苗代スキー場】福島でリフト券が平日無料の魅力と福島で雪花火 - LOVE SKISKI
     url: https://www.youtube.com/watch?v=e058Kaj2SDg
     note: 犬と暮らす旅人 / Love Nomad Life
 ---

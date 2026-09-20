@@ -257,7 +257,7 @@ externalContent:
   - title: 日本關東最大滑雪場～尾瀨岩鞍滑雪場第五年回訪，春節雙滑雪團
     url: https://www.youtube.com/watch?v=zZq4RrZOa5A
     note: 艾維斯52赫茲
-  - title: "【上から下まで】ホワイトワールド尾瀬岩鞍/平昌オリンピック選手広野あさみプロと滑るよ！【TOP TO BOTTOM】 //Who's TV"
+  - title: 【上から下まで】ホワイトワールド尾瀬岩鞍/平昌オリンピック選手広野あさみプロと滑るよ！【TOP TO BOTTOM】 //Who's TV
     url: https://www.youtube.com/watch?v=1fsxp5H8OGk
     note: Who’s TV / by Fumika Hoshino
 ---

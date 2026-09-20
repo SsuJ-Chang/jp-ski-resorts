@@ -248,7 +248,7 @@ externalContent:
     url: https://natasha-traveler.tw/jkokusai-bus/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
-  - title: "広すぎて迷う！？初心者とファミリーに人気の巨大ゲレンデ｜上越国際スキー場【新潟　湯沢エリア】"
+  - title: 広すぎて迷う！？初心者とファミリーに人気の巨大ゲレンデ｜上越国際スキー場【新潟　湯沢エリア】
     url: https://www.youtube.com/watch?v=GF4AXUPHKUY
     note: Todd's Japan Ski Trip
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan

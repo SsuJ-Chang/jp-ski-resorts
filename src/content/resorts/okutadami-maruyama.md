@@ -137,10 +137,10 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "今日本で1番熱いスキー場【GWまで営業"
+  - title: 今日本で1番熱いスキー場【GWまで営業
     url: https://www.youtube.com/watch?v=WTGGuJjZ7pM
     note: Who’s TV / by Fumika Hoshino
-  - title: "奥只見丸山秘境園ついに解禁！！"
+  - title: 奥只見丸山秘境園ついに解禁！！
     url: https://www.youtube.com/watch?v=D3VaNRZka38
     note: Who’s TV / by Fumika Hoshino
 ---

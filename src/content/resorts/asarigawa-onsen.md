@@ -36,9 +36,10 @@ contact:
     googleMaps: https://maps.app.goo.gl/XVNqE6JoJdBYPuaCA
   phone: 0134-54-0101
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/13-2026/04/05"
-  hours: "平日：開放〜12月19日止9:00〜16:00 12月20日〜3月1日: 9:00〜17:00 3月2日〜關閉 9:00〜16:00 / 假日：開放〜12月19日止9:00〜16:00 12月20日〜3月1日止9:00〜17:00 3/2〜關閉: ９:00〜16:00 / 夜滑：-"
+  label: 2025-2026
+  operatingPeriod: 2025/12/13-2026/04/05
+  hours: >-
+    平日：開放〜12月19日止9:00〜16:00 12月20日〜3月1日: 9:00〜17:00 3月2日〜關閉 9:00〜16:00 / 假日：開放〜12月19日止9:00〜16:00 12月20日〜3月1日止9:00〜17:00 3/2〜關閉: ９:00〜16:00 / 夜滑：-
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/31502/
 snowWeather:
@@ -46,7 +47,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31502/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -57,71 +58,71 @@ courses:
   courseInfoPage: https://asari-ski.com/
   summary: 朝里川温泉的官方坡面介紹列出初級 2、中級 3、上級 5 個滑行區段，包含 Green C、Purple、Yellow、Red A、Red B、Orange、Tree Run Zone 等不同坡度與長度的路線。
   details:
-    - name: "パープルコース"
+    - name: パープルコース
       difficulty: beginner
-      length: "900m"
-      maxSlope: "18度"
-      averageSlope: "8度"
+      length: 900m
+      maxSlope: 18度
+      averageSlope: 8度
       note: 初級路線，距離 900m，平均斜度較緩。
-    - name: "グリーンCコース"
+    - name: グリーンCコース
       difficulty: beginner
-      length: "2,700m"
-      maxSlope: "24度"
-      averageSlope: "14度"
+      length: 2,700m
+      maxSlope: 24度
+      averageSlope: 14度
       note: 初級長距離路線，距離 2,700m，坡度數值比一般緩斜面更有變化。
-    - name: "イエローコース"
+    - name: イエローコース
       difficulty: intermediate
-      length: "1,200m"
-      maxSlope: "22度"
-      averageSlope: "14度"
+      length: 1,200m
+      maxSlope: 22度
+      averageSlope: 14度
       note: 中級路線，距離 1,200m。
-    - name: "グリーンBコース"
+    - name: グリーンBコース
       difficulty: intermediate
-      length: "1,100m"
-      maxSlope: "25度"
-      averageSlope: "13度"
+      length: 1,100m
+      maxSlope: 25度
+      averageSlope: 13度
       note: 中級路線，最大斜度 25 度。
-    - name: "レッドAコース"
+    - name: レッドAコース
       difficulty: intermediate
-      length: "700m"
-      maxSlope: "25度"
-      averageSlope: "13度"
+      length: 700m
+      maxSlope: 25度
+      averageSlope: 13度
       note: 中級路線，距離 700m。
-    - name: "グリーンAコース"
+    - name: グリーンAコース
       difficulty: advanced
-      length: "1,000m"
-      maxSlope: "36度"
-      averageSlope: "15度"
+      length: 1,000m
+      maxSlope: 36度
+      averageSlope: 15度
       note: 上級路線，最大斜度 36 度，是坡度數值較高的滑行線。
-    - name: "ブルーコース"
+    - name: ブルーコース
       difficulty: advanced
-      length: "1,200m"
-      maxSlope: "32度"
-      averageSlope: "18度"
+      length: 1,200m
+      maxSlope: 32度
+      averageSlope: 18度
       note: 上級路線，平均斜度約 18 度。
-    - name: "レッドBコース"
+    - name: レッドBコース
       difficulty: advanced
       note: 上級路線，官方坡面介紹列於上級者向け區域。
-    - name: "オレンジコース"
+    - name: オレンジコース
       difficulty: advanced
       note: 上級路線，官方坡面介紹列於上級者向け區域。
-    - name: "ツリーランゾーン"
+    - name: ツリーランゾーン
       difficulty: ungroomed
       note: 官方列於上級者向け區域，屬於樹林滑行區域，需依現場開放狀況使用。
 lifts:
   total: 5
 access:
   fromSapporo:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 鐵路：函館本線小樽駅よりバスかタクシー (30分)
-      estimatedTime: "約 30 分"
+      estimatedTime: 約 30 分
       difficulty: medium
   fromAirport:
-    - label: "機場銜接"
+    - label: 機場銜接
       steps:
         - 飛機：新千歳空港IC〜朝里IC〜一般道 (65分)
-      estimatedTime: "約 65 分"
+      estimatedTime: 約 65 分
       difficulty: medium
   car:
     recommended: true

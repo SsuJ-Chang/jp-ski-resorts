@@ -32,9 +32,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/opwyyYQEeKVkMWQYA
   phone: 0153-85-2172
 season:
-  label: "2025-2026"
-  operatingPeriod: "2026/01/05-2026/03/01"
-  hours: "平日：9:00〜16:00（2月は水・週四・週末及國定假日營業） / 假日：9:00〜16:00"
+  label: 2025-2026
+  operatingPeriod: 2026/01/05-2026/03/01
+  hours: 平日：9:00〜16:00（2月は水・週四・週末及國定假日營業） / 假日：9:00〜16:00
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/32104/
 snowWeather:
@@ -42,7 +42,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/32104/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -53,19 +53,19 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/32104/
   summary: 標津町營金山共有 5 條雪道，難度比例約初級 55%、中級 35%、進階 10%，適合依雪況與同行者程度安排滑行路線。
   details:
-    - name: "初級路線 1"
+    - name: 初級路線 1
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "初級路線 2"
+    - name: 初級路線 2
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "初級路線 3"
+    - name: 初級路線 3
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線 1"
+    - name: 中級路線 1
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線 2"
+    - name: 中級路線 2
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:

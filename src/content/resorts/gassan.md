@@ -34,13 +34,15 @@ contact:
     googleMaps: https://maps.app.goo.gl/BADvxkFmaTSbWmkGA
   phone: 0237-75-2025
 season:
-  label: '2026'
+  label: >-
+    2026
   operatingPeriod: 2026/04/10-2026/06/14
   hours: 8:00-16:30
   note: 2026 年雪季官方營業期間為 4 月 10 日至 6 月 14 日；結束日會依積雪狀況調整。雪場營業結束後只販售單次券與來回券。
   source: https://mt-gassan.com/snow/info/
 tickets:
-  season: '2026'
+  season: >-
+    2026
   currency: JPY
   source: https://mt-gassan.com/snow/info/
   note: 兒童為小學生，兒童（學齡前）免費；T-bar 以現金於乘車時支付，實際販售與折扣適用期間請以官方現場公告為準。

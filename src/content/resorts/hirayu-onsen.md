@@ -114,7 +114,7 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "岐阜の北部に隠れたパウダースポット | 朝寝坊してもパウダーが滑れるローカルゲレンデ。平湯温泉スキー場がちょうどいい。【奥飛騨】"
+  - title: 岐阜の北部に隠れたパウダースポット | 朝寝坊してもパウダーが滑れるローカルゲレンデ。平湯温泉スキー場がちょうどいい。【奥飛騨】
     url: https://www.youtube.com/watch?v=elDI5XJ49aw
     note: Todd's Japan Ski Trip
 ---

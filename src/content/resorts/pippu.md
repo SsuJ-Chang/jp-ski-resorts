@@ -183,7 +183,7 @@ externalContent:
   - title: 日本自駕滑雪Vlog ~北海道旭川周邊小雪場，比布滑雪場體驗
     url: https://www.youtube.com/watch?v=gS-q9_kizhw
     note: 艾維斯52赫茲
-  - title: "【比布スキー場】北海道の魅惑の聖地！最高の雪質と絶景を満喫 - LOVE SKISKI"
+  - title: 【比布スキー場】北海道の魅惑の聖地！最高の雪質と絶景を満喫 - LOVE SKISKI
     url: https://www.youtube.com/watch?v=OL5WzYBpFnk
     note: 犬と暮らす旅人 / Love Nomad Life
 ---

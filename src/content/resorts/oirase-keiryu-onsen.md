@@ -35,8 +35,8 @@ contact:
     googleMaps: https://maps.app.goo.gl/JF6orPzzicF98h649
   phone: 0176-74-2008
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/29-2026/03/08"
+  label: 2025-2026
+  operatingPeriod: 2025/12/29-2026/03/08
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33110/
 snowWeather:
@@ -44,7 +44,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33110/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
@@ -55,10 +55,10 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/33110/
   summary: 奧入瀨溪流溫泉可搭配溫泉住宿，雙板與雪板都可使用。共有 2 條雪道，初級 70%、中級 25%、上級 5%。
   details:
-    - name: "ファミリーゲレンデ"
+    - name: ファミリーゲレンデ
       difficulty: beginner
       note: 緩斜面中心，適合初學者與家庭練習。
-    - name: "湯の平コース"
+    - name: 湯の平コース
       difficulty: intermediate
       note: 坡度變化較多的雪道，實際開放請以當日公告為準。
 lifts:

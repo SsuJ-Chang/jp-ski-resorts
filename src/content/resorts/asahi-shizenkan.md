@@ -33,9 +33,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/NuowQev75RCwQVEf8
   phone: 0237-83-7111
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/28-2026/03/15"
-  hours: "平日：8:30〜16:30 / 假日：8:30〜16:30"
+  label: 2025-2026
+  operatingPeriod: 2025/12/28-2026/03/15
+  hours: 平日：8:30〜16:30 / 假日：8:30〜16:30
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/33513/
 snowWeather:
@@ -43,7 +43,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33513/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -54,12 +54,12 @@ courses:
   courseInfoPage: https://www.shizenkan.jp/winter-slope/
   summary: Asahi自然観スノーパーク由ユーユーゲレンデ與ファンタジーゲレンデ兩個坡面組成；ユーユー偏初級與家庭取向，ファンタジー則為中上級者取向，最大斜度約 22 度。
   details:
-    - name: "ユーユーゲレンデ"
+    - name: ユーユーゲレンデ
       difficulty: beginner
       note: 緩斜面坡面，靠近停車場、滑雪學校與纜車乘場，旁邊有しらくら広場可玩雪。
-    - name: "ファンタジーゲレンデ"
+    - name: ファンタジーゲレンデ
       difficulty: intermediate
-      maxSlope: "22度"
+      maxSlope: 22度
       note: 中上級者取向坡面，可利用ファンタジーペアリフト前往中腹，坡面變化比ユーユーゲレンデ更多。
 lifts:
   total: 2

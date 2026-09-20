@@ -33,8 +33,8 @@ contact:
     googleMaps: https://maps.app.goo.gl/cWVp9oDHuau9PNVy5
   phone: 0186-31-2020
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/11/21-2026/05/02"
+  label: 2025-2026
+  operatingPeriod: 2025/11/21-2026/05/02
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33211/
 snowWeather:
@@ -42,7 +42,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33211/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
@@ -53,27 +53,27 @@ courses:
   courseInfoPage: https://www.akihachi.jp/
   summary: 秋田八幡平是東北較早可滑的雪場之一，雪質佳，周邊也有溫泉可搭配。共有 2 條雪道，初級 40%、中級 40%、上級 20%。
   details:
-    - name: "ぶな森雪道 / ぶな森ゲレンデ"
+    - name: ぶな森雪道 / ぶな森ゲレンデ
       difficulty: mixed
-      length: "1,100m"
-      maxSlope: "24.4°"
-      averageSlope: "10.2°"
+      length: 1,100m
+      maxSlope: 24.4°
+      averageSlope: 10.2°
       note: 初級至中級取向，雪道寬且可放鬆滑行；靠纜車側較緩，中央森林側坡度較明顯。
-    - name: "トド松雪道 / トド松ゲレンデ"
+    - name: トド松雪道 / トド松ゲレンデ
       difficulty: mixed
-      length: "1,300m"
-      maxSlope: "27.0°"
-      averageSlope: "13.4°"
+      length: 1,300m
+      maxSlope: 27.0°
+      averageSlope: 13.4°
       note: 中級至上級取向，也會作為各類賽事坡面；可眺望八幡平大沼，賽事期間可能不開放一般滑行。
 lifts:
   total: 1
 access:
   fromTokyo:
-    - label: "東京出發經鹿角花輪"
+    - label: 東京出發經鹿角花輪
       steps:
         - 從東京搭東北新幹線到盛岡站，轉 JR 花輪線到鹿角花輪站。
         - 從鹿角花輪站搭乘 Dragon 號等當地巴士前往秋田八幡平。
-      estimatedTime: "站後約 50 分"
+      estimatedTime: 站後約 50 分
       difficulty: hard
       note: 鹿角花輪站後的巴士班次有限，需先確認當季運行日、時刻與回程。
   car:

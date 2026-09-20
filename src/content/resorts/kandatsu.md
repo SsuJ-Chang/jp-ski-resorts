@@ -20,7 +20,7 @@ tags:
 - powder
 - snowboard_friendly
 popularResortNote:
-  zhTw: "湯澤近郊的夜滑與多樣雪道"
+  zhTw: 湯澤近郊的夜滑與多樣雪道
 links:
   official: https://www.kandatsu.com/
   trailMapPage: https://www.kandatsu.com/course-guide/
@@ -237,10 +237,10 @@ externalContent:
     url: https://natasha-traveler.tw/kandatsu-snow-resort/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
-  - title: "大人気神立スノーリゾートの魅力とは？？"
+  - title: 大人気神立スノーリゾートの魅力とは？？
     url: https://www.youtube.com/watch?v=YW7TskuZhgU
     note: Who’s TV / by Fumika Hoshino
-  - title: "冬が来たー！神立オープン日の1番リフトに並んでみた♡"
+  - title: 冬が来たー！神立オープン日の1番リフトに並んでみた♡
     url: https://www.youtube.com/watch?v=G8rqatcEl5I
     note: Who’s TV / by Fumika Hoshino
   - title: 【日本東京🇯🇵】EP6 神立高原滑雪場❄️｜越後中里 天使格蘭帝亞酒店｜Angel Grandia 雪票自動售票機｜Burton STEP ON 單板友善雪場｜自學單板全紀錄｜♨️焼肉 さかえや

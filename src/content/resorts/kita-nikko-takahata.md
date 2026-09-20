@@ -34,9 +34,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/8Kximdaw1ACr2RNc9
   phone: 0241-76-2231
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/28-2026/03/22"
-  hours: "平日：8:30〜16:00 / 假日：8:30〜16:00"
+  label: 2025-2026
+  operatingPeriod: 2025/12/28-2026/03/22
+  hours: 平日：8:30〜16:00 / 假日：8:30〜16:00
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/33616/
 trailMaps:
@@ -50,7 +50,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33616/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -128,10 +128,10 @@ lifts:
   total: 5
 access:
   fromTokyo:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 鐵路：野岩鉄道会津田島駅始発バス (75分)
-      estimatedTime: "約 75 分"
+      estimatedTime: 約 75 分
       difficulty: medium
   car:
     recommended: true

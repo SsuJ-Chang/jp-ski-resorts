@@ -37,9 +37,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/Fs3Mu6nHGNKuWWBa7
   phone: 0186-82-3311
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/13-2026/04/26"
-  hours: "平日：8:45〜16:00 / 假日：8:45〜16:00"
+  label: 2025-2026
+  operatingPeriod: 2025/12/13-2026/04/26
+  hours: 平日：8:45〜16:00 / 假日：8:45〜16:00
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/33208/
 snowWeather:
@@ -47,7 +47,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33208/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -58,50 +58,50 @@ courses:
   courseInfoPage: https://www.aniski.jp/slope
   summary: 森吉山阿仁以ゴンドラ山頂起點的長距離林間路線為主，包含パラダイスコース、らくらくコース與サンシャインコース等初級線，以及ユートピアコース、チャレンジコース等中級變化；最長滑走可達 3,500m。
   details:
-    - name: "らくらくコース"
+    - name: らくらくコース
       difficulty: beginner
-      length: "1,500m"
-      maxSlope: "20度"
-      averageSlope: "11度"
+      length: 1,500m
+      maxSlope: 20度
+      averageSlope: 11度
       note: 從第 3 lift 上方往下滑的林間路線，坡度較緩，作為連接初級練習很方便。
-    - name: "サンシャインコース"
+    - name: サンシャインコース
       difficulty: beginner
-      length: "600m"
-      maxSlope: "15度"
-      averageSlope: "7度"
+      length: 600m
+      maxSlope: 15度
+      averageSlope: 7度
       note: 從ゴンドラ山頂站左手側滑下的初級林間路線。
-    - name: "パラダイスコース"
+    - name: パラダイスコース
       difficulty: beginner
-      length: "3,500m"
-      maxSlope: "18度"
-      averageSlope: "9度"
+      length: 3,500m
+      maxSlope: 18度
+      averageSlope: 9度
       note: 從山頂連續滑到山麓的主線，滑走距離長，可用來體驗完整高低差。
-    - name: "ユートピアコース"
+    - name: ユートピアコース
       difficulty: intermediate
-      length: "400m"
-      maxSlope: "25度"
-      averageSlope: "11度"
+      length: 400m
+      maxSlope: 25度
+      averageSlope: 11度
       note: ゴンドラ山頂下方的短中級路線，連接らくらくコース與山頂區。
-    - name: "チャレンジコース"
+    - name: チャレンジコース
       difficulty: intermediate
-      length: "700m"
-      maxSlope: "28度"
-      averageSlope: "13度"
+      length: 700m
+      maxSlope: 28度
+      averageSlope: 13度
       note: 第 3 lift 旁的中級路線，坡度變化比初級林間線更明顯。
 lifts:
   total: 3
 access:
   fromTokyo:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 鐵路：秋田内陸縦貫鉄道阿仁合駅よりタクシー (20分)
-      estimatedTime: "約 20 分"
+      estimatedTime: 約 20 分
       difficulty: medium
   fromAirport:
-    - label: "機場銜接"
+    - label: 機場銜接
       steps:
         - 飛機：大館能代空港より42ｋｍ (55分)
-      estimatedTime: "約 55 分"
+      estimatedTime: 約 55 分
       difficulty: medium
   car:
     recommended: true
@@ -114,13 +114,13 @@ terrainSummary:
   snowboard: 雪板可滑；山頂長距離林間線適合留意速度控制與接續動線。
 externalContent:
   blogs:
-    - title: "秋田阿仁滑雪場全攻略｜賞樹冰、衝鬆雪，和秋田犬一起玩耍！"
+    - title: 秋田阿仁滑雪場全攻略｜賞樹冰、衝鬆雪，和秋田犬一起玩耍！
       url: https://natasha-traveler.tw/ani-ski/
       note: 娜塔蝦的滑雪食旅手記
-    - title: "秋田︱森吉山阿仁滑雪場住宿推薦：Hotel Fusch 免費接送、餐點超好吃"
+    - title: 秋田︱森吉山阿仁滑雪場住宿推薦：Hotel Fusch 免費接送、餐點超好吃
       url: https://natasha-traveler.tw/hotel-fusch/
       note: 娜塔蝦的滑雪食旅手記
-    - title: "滑雪補助來囉！日本秋田縣滑雪教室，送免費中文滑雪課程"
+    - title: 滑雪補助來囉！日本秋田縣滑雪教室，送免費中文滑雪課程
       url: https://natasha-traveler.tw/akita-aniski/
       note: 娜塔蝦的滑雪食旅手記
   vlogs: []

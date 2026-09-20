@@ -22,7 +22,7 @@ visibility:
   status: published
   note: 北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。
 popularResortNote:
-  zhTw: "札幌市景、粉雪與冬奧雪道"
+  zhTw: 札幌市景、粉雪與冬奧雪道
 links:
   official: https://sapporo-teine.com/snow/
   facebook: https://www.facebook.com/sapporo.teine/
@@ -285,10 +285,10 @@ externalContent:
     url: https://natasha-traveler.tw/sapporo-teine-ski-resort-review/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
-  - title: "日本新手友善雪道｜北海道手稻滑雪場下集 ｜市區交通40分輕鬆到達｜奧林匹亞區雪道+相關配套詳解"
+  - title: 日本新手友善雪道｜北海道手稻滑雪場下集 ｜市區交通40分輕鬆到達｜奧林匹亞區雪道+相關配套詳解
     url: https://www.youtube.com/watch?v=NiEuTY-MVzo
     note: LeoTW沈浸滑雪
-  - title: "日本邊滑雪邊看海!?｜北海道手稻滑雪場上集 ｜札幌車站40分鐘輕鬆到達｜雪票+租借+高地區雪道詳解"
+  - title: 日本邊滑雪邊看海!?｜北海道手稻滑雪場上集 ｜札幌車站40分鐘輕鬆到達｜雪票+租借+高地區雪道詳解
     url: https://www.youtube.com/watch?v=pFw7nw1HGsA
     note: LeoTW沈浸滑雪
 externalGuide:

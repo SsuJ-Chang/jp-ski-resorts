@@ -32,8 +32,8 @@ contact:
     googleMaps: https://maps.app.goo.gl/wAFD5CvmxQKAZCeR9
   phone: 019-693-1111
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/20-2026/03/22"
+  label: 2025-2026
+  operatingPeriod: 2025/12/20-2026/03/22
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33302/
 snowWeather:
@@ -41,7 +41,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33302/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
@@ -181,16 +181,17 @@ terrainSummary:
   snowboard: 雪板可全區滑行。
 externalContent:
   blogs:
-    - title: "雫石王子飯店住宿心得︱ski in out滑雪進出、自助餐美食吃到飽、露天溫泉賞雪景"
+    - title: 雫石王子飯店住宿心得︱ski in out滑雪進出、自助餐美食吃到飽、露天溫泉賞雪景
       url: https://natasha-traveler.tw/shizukuishi-princehote/
       note: 娜塔蝦的滑雪食旅手記
-    - title: "雫石滑雪場CAT TOUR｜搭乘壓雪車上山，挑戰未壓雪雪道、鬆雪秘境(有影片)"
+    - title: 雫石滑雪場CAT TOUR｜搭乘壓雪車上山，挑戰未壓雪雪道、鬆雪秘境(有影片)
       url: https://natasha-traveler.tw/cat-tour-powder/
       note: 娜塔蝦的滑雪食旅手記
-    - title: "日本東北雫石滑雪場，漫步在雲端的粉雪天堂，搭乘壓雪車滑野雪!"
+    - title: 日本東北雫石滑雪場，漫步在雲端的粉雪天堂，搭乘壓雪車滑野雪!
       url: https://natasha-traveler.tw/shizukuishi-02/
       note: 娜塔蝦的滑雪食旅手記
-    - title: "[雫石交通]如何前往岩手縣的雫石王子飯店&雫石滑雪場?"
+    - title: >-
+        [雫石交通]如何前往岩手縣的雫石王子飯店&雫石滑雪場?
       url: https://natasha-traveler.tw/shizukuishi-01/
       note: 娜塔蝦的滑雪食旅手記
   vlogs: []

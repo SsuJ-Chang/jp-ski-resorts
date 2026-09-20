@@ -31,9 +31,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/kgJ2kPJ2qSsN2tqF6
   phone: 0152-28-2225
 season:
-  label: "2025-2026"
-  operatingPeriod: "2026/01/上旬-2026/03/上旬"
-  hours: "平日：9:30〜16:00 / 假日：9:30〜16:00 / 夜滑：18:00〜21:00(月週末及國定假日以外)"
+  label: 2025-2026
+  operatingPeriod: 2026/01/上旬-2026/03/上旬
+  hours: 平日：9:30〜16:00 / 假日：9:30〜16:00 / 夜滑：18:00〜21:00(月週末及國定假日以外)
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/31701/
 snowWeather:
@@ -41,7 +41,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31701/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -52,23 +52,23 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/31701/
   summary: Unabetsu共有 3 條雪道，難度比例約初級 30%、中級 40%、進階 30%，適合依雪況與同行者程度安排滑行路線。
   details:
-    - name: "初級路線"
+    - name: 初級路線
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線"
+    - name: 中級路線
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線"
+    - name: 上級路線
       difficulty: advanced
       note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:
   total: 1
 access:
   fromSapporo:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 鐵路：釧鋼本線知床斜里駅下車、バス (20分)
-      estimatedTime: "約 20 分"
+      estimatedTime: 約 20 分
       difficulty: medium
   car:
     recommended: true

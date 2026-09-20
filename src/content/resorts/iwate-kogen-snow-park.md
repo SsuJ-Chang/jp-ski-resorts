@@ -34,8 +34,8 @@ contact:
     googleMaps: https://maps.app.goo.gl/cTgjnrpe6TnBik946
   phone: 019-693-4000
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/13-2026/03/31"
+  label: 2025-2026
+  operatingPeriod: 2025/12/13-2026/03/31
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33309/
 snowWeather:
@@ -43,7 +43,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33309/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
@@ -54,56 +54,56 @@ courses:
   courseInfoPage: https://iwatekogen.jp/gelande/
   summary: 岩手高原戲雪公園有箱型纜車、多樣雪道配置與服務設施，並標示小學生以下可免費搭乘纜車與箱型纜車。共有 10 條雪道，初級 30%、中級 50%、上級 20%。
   details:
-    - name: "E4ゲレンデ"
+    - name: E4ゲレンデ
       difficulty: mixed
-      length: "914m"
-      maxSlope: "22°"
-      averageSlope: "12°"
-    - name: "W2ゲレンデ"
+      length: 914m
+      maxSlope: 22°
+      averageSlope: 12°
+    - name: W2ゲレンデ
       difficulty: mixed
-      length: "1,628m"
-      maxSlope: "22°"
-      averageSlope: "10°"
-    - name: "ファミリーゲレンデ"
+      length: 1,628m
+      maxSlope: 22°
+      averageSlope: 10°
+    - name: ファミリーゲレンデ
       difficulty: beginner
-      length: "655m"
-      maxSlope: "11°"
-      averageSlope: "8°"
-    - name: "W1ゲレンデ"
+      length: 655m
+      maxSlope: 11°
+      averageSlope: 8°
+    - name: W1ゲレンデ
       difficulty: intermediate
-      length: "990m"
-      maxSlope: "27°"
-      averageSlope: "15°"
-    - name: "W4ゲレンデ"
+      length: 990m
+      maxSlope: 27°
+      averageSlope: 15°
+    - name: W4ゲレンデ
       difficulty: intermediate
-      length: "1,667m"
-      maxSlope: "22°"
-      averageSlope: "11°"
-    - name: "E3ゲレンデ"
+      length: 1,667m
+      maxSlope: 22°
+      averageSlope: 11°
+    - name: E3ゲレンデ
       difficulty: intermediate
-      length: "1,297m"
-      maxSlope: "21°"
-      averageSlope: "15°"
-    - name: "E5ゲレンデ"
+      length: 1,297m
+      maxSlope: 21°
+      averageSlope: 15°
+    - name: E5ゲレンデ
       difficulty: intermediate
-      length: "1,034m"
-      maxSlope: "17°"
-      averageSlope: "7°"
-    - name: "E2ゲレンデ"
+      length: 1,034m
+      maxSlope: 17°
+      averageSlope: 7°
+    - name: E2ゲレンデ
       difficulty: intermediate
-      length: "1,339m"
-      maxSlope: "18°"
-      averageSlope: "11°"
-    - name: "W3ゲレンデ"
+      length: 1,339m
+      maxSlope: 18°
+      averageSlope: 11°
+    - name: W3ゲレンデ
       difficulty: advanced
-      length: "792m"
-      maxSlope: "25°"
-      averageSlope: "16°"
-    - name: "E1ゲレンデ"
+      length: 792m
+      maxSlope: 25°
+      averageSlope: 16°
+    - name: E1ゲレンデ
       difficulty: advanced
-      length: "559m"
-      maxSlope: "34°"
-      averageSlope: "20°"
+      length: 559m
+      maxSlope: 34°
+      averageSlope: 20°
 lifts:
   total: 7
 access:

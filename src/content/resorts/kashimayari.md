@@ -191,7 +191,7 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "【鹿島槍スキー場】暖冬で大雨のゲレンデに挑戦して大怪我 - LOVE SKISKI"
+  - title: 【鹿島槍スキー場】暖冬で大雨のゲレンデに挑戦して大怪我 - LOVE SKISKI
     url: https://www.youtube.com/watch?v=_gAzJ_-ieqI
     note: 犬と暮らす旅人 / Love Nomad Life
 ---

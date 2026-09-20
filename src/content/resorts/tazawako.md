@@ -39,9 +39,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/4NgCrm3VtVAExeQq5
   phone: 0187-46-2011
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/20-2026/03/29"
-  hours: "平日：9:00〜16:00 / 假日：8:30〜16:00"
+  label: 2025-2026
+  operatingPeriod: 2025/12/20-2026/03/29
+  hours: 平日：9:00〜16:00 / 假日：8:30〜16:00
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/33204/
 snowWeather:
@@ -49,7 +49,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33204/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -107,13 +107,13 @@ access:
       steps:
         - 鐵路：秋田新幹線田沢湖駅よりバス (30分)
         - 鐵路：秋田新幹線田沢湖駅よりタクシー (20分)
-      estimatedTime: "約 30 分"
+      estimatedTime: 約 30 分
       difficulty: medium
   fromAirport:
     - label: 機場銜接
       steps:
         - 飛機：秋田空港よりエアポートライナーで田沢湖止(2日前止に要予約018-867-7444) (105分)
-      estimatedTime: "約 105 分"
+      estimatedTime: 約 105 分
       difficulty: medium
   car:
     recommended: true

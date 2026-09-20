@@ -176,16 +176,16 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "【白馬滑雪】下・滑遍白馬村全雪場 山頂最美咖啡廳 冬奧黑線照樣下 在雪道掉東西怎麼辦！？｜日本滑雪 24-25雪季"
+  - title: 【白馬滑雪】下・滑遍白馬村全雪場 山頂最美咖啡廳 冬奧黑線照樣下 在雪道掉東西怎麼辦！？｜日本滑雪 24-25雪季
     url: https://www.youtube.com/watch?v=zWEE-WIlD84
     note: Hey! fudeze 福蝶賊
-  - title: "屋頂雪崩大場面!超好玩又沒人類的白馬雪場❄️!？還有新手兒童超平緩專區！｜白馬雪場開箱2月篇🏂｜乗鞍Norikura!"
+  - title: 屋頂雪崩大場面!超好玩又沒人類的白馬雪場❄️!？還有新手兒童超平緩專區！｜白馬雪場開箱2月篇🏂｜乗鞍Norikura!
     url: https://www.youtube.com/watch?v=JW3vMr2A5Rc
     note: YK來了
   - title: 【2025日本白馬🇯🇵】EP5 白馬乘鞍溫泉滑雪場 🗻｜自學ski 直上紅道❄️｜CP值最高雪場飯店｜Hakuba Alps Hotel ⛷️｜
     url: https://www.youtube.com/watch?v=TGFH2JcOSNc
     note: 和Ivy去旅行
-  - title: "日本低調不擁擠的隱藏雪場 | 白馬乘鞍溫泉滑雪場"
+  - title: 日本低調不擁擠的隱藏雪場 | 白馬乘鞍溫泉滑雪場
     url: https://www.youtube.com/watch?v=KRmMLnkixy0
     note: Todd's Japan Ski Trip
 externalGuide:

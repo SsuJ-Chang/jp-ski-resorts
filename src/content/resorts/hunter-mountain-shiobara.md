@@ -189,10 +189,10 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "【ハンターマウンテン】山頂から極上のパウダーと那須塩原の絶景を満喫 - LOVE SKISKI"
+  - title: 【ハンターマウンテン】山頂から極上のパウダーと那須塩原の絶景を満喫 - LOVE SKISKI
     url: https://www.youtube.com/watch?v=vQkso2rVszk
     note: 犬と暮らす旅人 / Love Nomad Life
-  - title: "【ハンターマウンテン】那須塩原の絶景と極上パウダーを満喫 - LOVE SKISKI"
+  - title: 【ハンターマウンテン】那須塩原の絶景と極上パウダーを満喫 - LOVE SKISKI
     url: https://www.youtube.com/watch?v=eCvCtd4VciU
     note: 犬と暮らす旅人 / Love Nomad Life
 ---

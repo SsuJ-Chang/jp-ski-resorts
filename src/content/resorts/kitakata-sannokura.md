@@ -30,8 +30,8 @@ contact:
     googleMaps: https://maps.app.goo.gl/jziEvXTvm2YWErkv9
   phone: 0241-36-2071
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/20-2026/03/15"
+  label: 2025-2026
+  operatingPeriod: 2025/12/20-2026/03/15
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33629/
 snowWeather:
@@ -39,7 +39,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33629/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
@@ -50,13 +50,13 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/33629/
   summary: 三之倉可俯瞰會津盆地，票價相對平實，適合家庭安排。共有 3 條雪道，初級 30%、中級 60%、上級 10%。
   details:
-    - name: "初級コース（名稱待確認）"
+    - name: 初級コース（名稱待確認）
       difficulty: beginner
       note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
-    - name: "中級コース（名稱待確認）"
+    - name: 中級コース（名稱待確認）
       difficulty: intermediate
       note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
-    - name: "上級コース（名稱待確認）"
+    - name: 上級コース（名稱待確認）
       difficulty: advanced
       note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
 lifts:

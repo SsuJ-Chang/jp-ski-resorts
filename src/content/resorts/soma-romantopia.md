@@ -31,9 +31,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/FQ49q2mn5omQVCaKA
   phone: 0172-84-2020
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/28-2026/03/08"
-  hours: "平日 10:00-17:00；假日 9:00-17:00"
+  label: 2025-2026
+  operatingPeriod: 2025/12/28-2026/03/08
+  hours: 平日 10:00-17:00；假日 9:00-17:00
   nightSkiingHours: 17:00-21:00（週一、三、五、六）
   note: 營業期間與時間為公開雪場資料；夜滑日與接駁安排請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33113/
@@ -42,7 +42,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33113/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -53,10 +53,10 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/33113/
   summary: Soma Romantopia 共有 2 條雪道與 1 座纜車，標高約 84-164m；初級 50%、中級 50%，雪板可全區滑行。
   details:
-    - name: "初級路線"
+    - name: 初級路線
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線"
+    - name: 中級路線
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:

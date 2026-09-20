@@ -186,14 +186,15 @@ externalContent:
   - title: 北海道Kiroro住宿｜Kiroro滑雪度假村美食餐廳總整理
     url: https://natasha-traveler.tw/kiroro-resort-restauran/
     note: 娜塔蝦的滑雪食旅手記
-  - title: '[北海道．Kiroro住宿]Kiroro Town吃喝玩樂一條街(Tribute Portfolio飯店)'
+  - title: >-
+      [北海道．Kiroro住宿]Kiroro Town吃喝玩樂一條街(Tribute Portfolio飯店)
     url: https://natasha-traveler.tw/kiroro-town-tribute-portfolio/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
-  - title: "【北海道滑雪】上・Kiroro 札幌國際｜粉雪爆擊 陷入JAPOW出不來｜小樽海景第一排獨棟開箱｜手稻神社 滑雪御守｜25-26雪季"
+  - title: 【北海道滑雪】上・Kiroro 札幌國際｜粉雪爆擊 陷入JAPOW出不來｜小樽海景第一排獨棟開箱｜手稻神社 滑雪御守｜25-26雪季
     url: https://www.youtube.com/watch?v=o598DlcplMk
     note: Hey! fudeze 福蝶賊
-  - title: "【キロロ】北海道の極上パウダーが楽しめるスノーリゾート - LOVE SKISKI"
+  - title: 【キロロ】北海道の極上パウダーが楽しめるスノーリゾート - LOVE SKISKI
     url: https://www.youtube.com/watch?v=cIMkaQT9ELM
     note: 犬と暮らす旅人 / Love Nomad Life
 externalGuide:

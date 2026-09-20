@@ -37,9 +37,9 @@ contact:
     googleMaps: https://www.google.com/maps/search/?api=1&query=35.386003,134.566542
   phone: 079-667-8201
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/27-2026/03/08"
-  hours: "平日：8:30〜16:40 / 假日：8:30〜16:40 / 夜滑：無"
+  label: 2025-2026
+  operatingPeriod: 2025/12/27-2026/03/08
+  hours: 平日：8:30〜16:40 / 假日：8:30〜16:40 / 夜滑：無
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/36307/
 snowWeather:
@@ -47,7 +47,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/36307/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 tickets:
@@ -169,10 +169,11 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "一日票1000台幣有找，可玩關西雙雪場｜14條超豐富雪道最全攻略｜周邊配套導覽: 雪具租賃+餐廳+兒童遊戲區｜神戶高CP值飯店推薦｜完美冬季之旅就在這"
+  - title: >-
+      一日票1000台幣有找，可玩關西雙雪場｜14條超豐富雪道最全攻略｜周邊配套導覽: 雪具租賃+餐廳+兒童遊戲區｜神戶高CP值飯店推薦｜完美冬季之旅就在這
     url: https://www.youtube.com/watch?v=sblKzgaCvFY
     note: LeoTW沈浸滑雪
-  - title: "關西也有雪況好的滑雪場？手把手教你找到它｜不再跟觀光客擠｜大推2個判斷雪況的日本網站｜用巴士套票一天內征服兩個雪場要多少錢｜初中上級14條雪道"
+  - title: 關西也有雪況好的滑雪場？手把手教你找到它｜不再跟觀光客擠｜大推2個判斷雪況的日本網站｜用巴士套票一天內征服兩個雪場要多少錢｜初中上級14條雪道
     url: https://www.youtube.com/watch?v=35zwUIzDMY4
     note: LeoTW沈浸滑雪
 sources:

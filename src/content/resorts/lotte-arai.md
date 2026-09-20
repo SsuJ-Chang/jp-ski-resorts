@@ -254,7 +254,7 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "【上から下まで】ロッテアライリゾート TOP TO BOTTOM 【スノーボード】// Who's TV"
+  - title: 【上から下まで】ロッテアライリゾート TOP TO BOTTOM 【スノーボード】// Who's TV
     url: https://www.youtube.com/watch?v=UGSvkm5EQds
     note: Who’s TV / by Fumika Hoshino
 ---

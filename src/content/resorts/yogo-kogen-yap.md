@@ -193,7 +193,7 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "【正直どう？】関西から日帰りできる穴場スキー場「余呉高原スキー場」を滑る【ヨゴコウゲンリゾート・ヤップ】"
+  - title: 【正直どう？】関西から日帰りできる穴場スキー場「余呉高原スキー場」を滑る【ヨゴコウゲンリゾート・ヤップ】
     url: https://www.youtube.com/watch?v=yv9xrcVQZoY
     note: Todd's Japan Ski Trip
 ---

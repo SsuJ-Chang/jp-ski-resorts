@@ -36,8 +36,8 @@ contact:
     googleMaps: https://maps.app.goo.gl/5ug9iFgjKJ18amgVA
   phone: 0195-35-3131
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/13-2026/03/29"
+  label: 2025-2026
+  operatingPeriod: 2025/12/13-2026/03/29
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33317/
 snowWeather:
@@ -45,7 +45,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33317/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
@@ -56,60 +56,60 @@ courses:
   courseInfoPage: https://www.okunakayamakogen.jp/winter-season/course-guide/
   summary: 奧中山高原山頂可看 360 度展望，山麓有平均 7 度的緩坡，並設有上級者向 tree run area。共有 11 條雪道，初級 30%、中級 40%、上級 30%。
   details:
-    - name: "ぶなの木"
+    - name: ぶなの木
       difficulty: advanced
-      length: "200m"
-      maxSlope: "25°"
-    - name: "はやぶさ"
+      length: 200m
+      maxSlope: 25°
+    - name: はやぶさ
       difficulty: advanced
-      length: "1,200m"
-      maxSlope: "28°"
-    - name: "つばめ"
+      length: 1,200m
+      maxSlope: 28°
+    - name: つばめ
       difficulty: advanced
-      length: "300m"
-      maxSlope: "30°"
-    - name: "やまばと"
+      length: 300m
+      maxSlope: 30°
+    - name: やまばと
       difficulty: advanced
-      length: "500m"
-      maxSlope: "30°"
-    - name: "こなゆき"
+      length: 500m
+      maxSlope: 30°
+    - name: こなゆき
       difficulty: intermediate
-      length: "1,000m"
-      maxSlope: "28°"
-    - name: "しらかば"
+      length: 1,000m
+      maxSlope: 28°
+    - name: しらかば
       difficulty: mixed
-      length: "700m"
-      maxSlope: "27°"
-    - name: "山彦"
+      length: 700m
+      maxSlope: 27°
+    - name: 山彦
       difficulty: mixed
-      length: "2,000m"
-      maxSlope: "25°"
-    - name: "ビギナー"
+      length: 2,000m
+      maxSlope: 25°
+    - name: ビギナー
       difficulty: beginner
-      length: "600m"
-      maxSlope: "10°"
-    - name: "こぐまゲレンデ"
+      length: 600m
+      maxSlope: 10°
+    - name: こぐまゲレンデ
       difficulty: beginner
-      length: "600m"
-      maxSlope: "10°"
-    - name: "かもしか"
+      length: 600m
+      maxSlope: 10°
+    - name: かもしか
       difficulty: mixed
-      length: "900m"
-      maxSlope: "20°"
-    - name: "西岳"
+      length: 900m
+      maxSlope: 20°
+    - name: 西岳
       difficulty: mixed
-      length: "2,000m"
-      maxSlope: "28°"
+      length: 2,000m
+      maxSlope: 28°
 lifts:
   total: 4
 access:
   fromTokyo:
-    - label: "東京出發經盛岡或岩手沼宮內"
+    - label: 東京出發經盛岡或岩手沼宮內
       steps:
         - 從東京搭東北、秋田新幹線到盛岡站或岩手沼宮內站。
         - 轉乘 IGR 岩手銀河鐵道到奧中山高原站。
         - 從奧中山高原站轉乘巴士前往雪場。
-      estimatedTime: "站後約 10 分"
+      estimatedTime: 站後約 10 分
       difficulty: medium
       note: 東京到盛岡約 2 小時 30 分，盛岡到奧中山高原約 40 分；也可經岩手沼宮內轉乘，請先確認鐵道與巴士班次。
   car:

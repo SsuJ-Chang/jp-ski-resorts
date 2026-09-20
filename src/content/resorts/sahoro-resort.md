@@ -139,7 +139,7 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "隱藏寶藏滑雪場，享受真正的 Japow | Sahoro佐幌滑雪場・十勝北海道"
+  - title: 隱藏寶藏滑雪場，享受真正的 Japow | Sahoro佐幌滑雪場・十勝北海道
     url: https://www.youtube.com/watch?v=MbrzL1AxMRo
     note: Todd's Japan Ski Trip
 ---

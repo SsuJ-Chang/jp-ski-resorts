@@ -33,9 +33,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/L4MiAomtUNZz2K6x7
   phone: 0158-24-7099
 season:
-  label: "2025-2026"
-  operatingPeriod: "2026/01/上旬-2026/03/中旬"
-  hours: "平日：9:00〜21:00(第1ロマンスリフト)、9:30〜日落(第2リフト) / 假日：9:00〜17:00(第1ロマンスリフト)、9:00〜日落(第2リフト)"
+  label: 2025-2026
+  operatingPeriod: 2026/01/上旬-2026/03/中旬
+  hours: 平日：9:00〜21:00(第1ロマンスリフト)、9:30〜日落(第2リフト) / 假日：9:00〜17:00(第1ロマンスリフト)、9:00〜日落(第2リフト)
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/31716/
 snowWeather:
@@ -43,7 +43,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31716/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -54,32 +54,32 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/31716/
   summary: 市營大山共有 4 條雪道，難度比例約初級 40%、中級 40%、進階 20%，適合依雪況與同行者程度安排滑行路線。
   details:
-    - name: "初級路線 1"
+    - name: 初級路線 1
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "初級路線 2"
+    - name: 初級路線 2
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線"
+    - name: 中級路線
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線"
+    - name: 上級路線
       difficulty: advanced
       note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:
   total: 2
 access:
   fromSapporo:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 鐵路：函館本線旭川駅よりバス利用 (185分)
-      estimatedTime: "約 185 分"
+      estimatedTime: 約 185 分
       difficulty: medium
   fromAirport:
-    - label: "機場銜接"
+    - label: 機場銜接
       steps:
         - 飛機：紋別空港からタクシー (10分)
-      estimatedTime: "約 10 分"
+      estimatedTime: 約 10 分
       difficulty: medium
   car:
     recommended: true

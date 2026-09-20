@@ -37,8 +37,8 @@ contact:
     googleMaps: https://maps.app.goo.gl/4FgrBzDRsmFmqSu67
   phone: 0197-65-9000
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/05-2026/05/02"
+  label: 2025-2026
+  operatingPeriod: 2025/12/05-2026/05/02
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33315/
 tickets:
@@ -138,7 +138,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33315/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
@@ -149,76 +149,76 @@ courses:
   courseInfoPage: https://www.getokogen.com/winter/01trail/index.html#course
   summary: 夏油高原積雪豐富、雪季長，有 14 條多變化雪道、集中的滑雪中心與 16 個 tree run area。共有 14 條雪道，初級 30%、中級 35%、上級 35%。
   details:
-    - name: "A1コース"
+    - name: A1コース
       difficulty: mixed
-      length: "2,120m"
-      maxSlope: "18°"
-      averageSlope: "11°"
-    - name: "A2コース"
+      length: 2,120m
+      maxSlope: 18°
+      averageSlope: 11°
+    - name: A2コース
       difficulty: intermediate
-      length: "330m"
-      maxSlope: "20°"
-      averageSlope: "13°"
-    - name: "A3コース"
+      length: 330m
+      maxSlope: 20°
+      averageSlope: 13°
+    - name: A3コース
       difficulty: advanced
-      length: "620m"
-      maxSlope: "25°"
-      averageSlope: "11°"
-    - name: "A4コース"
+      length: 620m
+      maxSlope: 25°
+      averageSlope: 11°
+    - name: A4コース
       difficulty: intermediate
-      length: "1,400m"
-      maxSlope: "25°"
-      averageSlope: "13°"
-    - name: "A5コース"
+      length: 1,400m
+      maxSlope: 25°
+      averageSlope: 13°
+    - name: A5コース
       difficulty: beginner
-      length: "610m"
-      maxSlope: "9°"
-      averageSlope: "7°"
-    - name: "A6コース"
+      length: 610m
+      maxSlope: 9°
+      averageSlope: 7°
+    - name: A6コース
       difficulty: beginner
-      length: "1,410m"
-      maxSlope: "15°"
-      averageSlope: "2°"
-    - name: "B1コース"
+      length: 1,410m
+      maxSlope: 15°
+      averageSlope: 2°
+    - name: B1コース
       difficulty: intermediate
-      length: "1,390m"
-      maxSlope: "24°"
-      averageSlope: "17°"
-    - name: "B2コース"
+      length: 1,390m
+      maxSlope: 24°
+      averageSlope: 17°
+    - name: B2コース
       difficulty: advanced
-      length: "720m"
-      maxSlope: "33°"
-      averageSlope: "17°"
-    - name: "B3コース"
+      length: 720m
+      maxSlope: 33°
+      averageSlope: 17°
+    - name: B3コース
       difficulty: advanced
-      length: "600m"
-      maxSlope: "36°"
-      averageSlope: "13°"
-    - name: "C1コース"
+      length: 600m
+      maxSlope: 36°
+      averageSlope: 13°
+    - name: C1コース
       difficulty: advanced
-      length: "1,040m"
-      maxSlope: "34°"
-      averageSlope: "17°"
-    - name: "C2コース"
+      length: 1,040m
+      maxSlope: 34°
+      averageSlope: 17°
+    - name: C2コース
       difficulty: intermediate
-      length: "970m"
-      maxSlope: "22°"
-      averageSlope: "18°"
-    - name: "C3コース"
+      length: 970m
+      maxSlope: 22°
+      averageSlope: 18°
+    - name: C3コース
       difficulty: intermediate
-      length: "1,000m"
-      maxSlope: "25°"
-      averageSlope: "17°"
-    - name: "C4コース"
+      length: 1,000m
+      maxSlope: 25°
+      averageSlope: 17°
+    - name: C4コース
       difficulty: beginner
-      length: "1,570m"
-      maxSlope: "20°"
-      averageSlope: "11°"
-    - name: "C5コース"
+      length: 1,570m
+      maxSlope: 20°
+      averageSlope: 11°
+    - name: C5コース
       difficulty: advanced
-      length: "330m"
-      maxSlope: "34°"
-      averageSlope: "21°"
+      length: 330m
+      maxSlope: 34°
+      averageSlope: 21°
 lifts:
   total: 5
 access:
@@ -250,7 +250,7 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "【夏油高原】岩手の豪雪地帯に降る極上のパウダー - LOVE SKISKI"
+  - title: 【夏油高原】岩手の豪雪地帯に降る極上のパウダー - LOVE SKISKI
     url: https://www.youtube.com/watch?v=kW9bwL3PbKo
     note: 犬と暮らす旅人 / Love Nomad Life
 externalGuide:

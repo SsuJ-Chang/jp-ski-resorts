@@ -36,9 +36,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/Mut1hKFuv2QLLHV16
   phone: 0154-66-3422
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/下旬-2026/03/上旬"
-  hours: "平日：9:00〜16:00 / 假日：9:00〜16:00"
+  label: 2025-2026
+  operatingPeriod: 2025/12/下旬-2026/03/上旬
+  hours: 平日：9:00〜16:00 / 假日：9:00〜16:00
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/31902/
 snowWeather:
@@ -46,7 +46,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31902/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -57,22 +57,22 @@ courses:
   courseInfoPage: https://www.akanroyalvalley.jp/%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3
   summary: 阿寒 Royal Valley 以 1 座纜車串接 2 條路線，初級・中級者コース寬度較大、最長滑走約 700m；另一條上級者コース為不整地，最大斜度約 30 度，旁邊另有免費そりエリア。
   details:
-    - name: "初級・中級者コース"
+    - name: 初級・中級者コース
       difficulty: mixed
-      length: "700m"
+      length: 700m
       note: 寬度較大的初級到中級者取向路線，可從山頂滑到山麓；初次練習者也可從中腹往山麓滑行。
-    - name: "上級者コース"
+    - name: 上級者コース
       difficulty: advanced
-      maxSlope: "30度"
+      maxSlope: 30度
       note: 不整地的上級者路線；全場最大斜度約 30 度。
 lifts:
   total: 1
 access:
   fromSapporo:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 鐵路：根室本線釧路駅下車、バス (40分)
-      estimatedTime: "約 40 分"
+      estimatedTime: 約 40 分
       difficulty: medium
   car:
     recommended: true

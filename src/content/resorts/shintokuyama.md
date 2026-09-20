@@ -33,9 +33,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/9NtwWKJTw5UufEN76
   phone: 0156-64-5546
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/上旬-2026/03/08"
-  hours: "平日：10:00〜16:00 / 假日：9:30〜16:00 / 夜滑：無"
+  label: 2025-2026
+  operatingPeriod: 2025/12/上旬-2026/03/08
+  hours: 平日：10:00〜16:00 / 假日：9:30〜16:00 / 夜滑：無
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/31216/
 snowWeather:
@@ -43,7 +43,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31216/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -70,7 +70,7 @@ access:
     - label: 大眾交通工具（主要車站銜接）
       steps:
         - 鐵路：根室本線新得駅下車、徒歩 (10分)
-      estimatedTime: "約 10 分"
+      estimatedTime: 約 10 分
       difficulty: medium
   car:
     recommended: true

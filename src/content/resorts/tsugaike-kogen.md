@@ -200,10 +200,10 @@ externalContent:
     url: https://natasha-traveler.tw/tsugaike-ski/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
-  - title: "【白馬滑雪】上・東京自駕到白馬 開箱獨棟住宿／諏訪湖松本城 ／五龍夜滑 栂池鐘鳴之丘｜日本滑雪 24-25雪季"
+  - title: 【白馬滑雪】上・東京自駕到白馬 開箱獨棟住宿／諏訪湖松本城 ／五龍夜滑 栂池鐘鳴之丘｜日本滑雪 24-25雪季
     url: https://www.youtube.com/watch?v=-5mvnnkeyyg
     note: Hey! fudeze 福蝶賊
-  - title: "1200公尺寬的雪道！號稱初學者的天堂!栂池Tsugaike滑雪場❄️整片都可以滑🏂｜白馬雪場開箱EP.3🏂｜VLOG☃️"
+  - title: 1200公尺寬的雪道！號稱初學者的天堂!栂池Tsugaike滑雪場❄️整片都可以滑🏂｜白馬雪場開箱EP.3🏂｜VLOG☃️
     url: https://www.youtube.com/watch?v=dld4VRDQNw8
     note: YK來了
   - title: 【2025日本白馬🇯🇵】EP4 栂池高原滑雪場🗻自學滑雪全紀錄｜新手卡粉雪大崩潰｜意外自由潛水教練出現一起滑雪🏂｜許願大成功粉雪滑雪🎄
@@ -215,7 +215,7 @@ externalContent:
   - title: 【2025日本白馬🇯🇵】EP1 栂池高原滑雪場🗻（上集）｜Hotel Sunplaza Tsugaike｜自學滑雪全紀錄｜Nagano大採購｜機場租車自駕🚌
     url: https://www.youtube.com/watch?v=IJT-BvG2lsk
     note: 和Ivy去旅行
-  - title: "白馬適合新手的雪道，高手也愛這裡 | 栂池高原滑雪場"
+  - title: 白馬適合新手的雪道，高手也愛這裡 | 栂池高原滑雪場
     url: https://www.youtube.com/watch?v=6mgaqW8hoQE
     note: Todd's Japan Ski Trip
 externalGuide:

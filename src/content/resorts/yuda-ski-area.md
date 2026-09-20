@@ -30,9 +30,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/ZZtu6sNfJxpuCwHK6
   phone: 0197-82-2410
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12 下旬-2026/03 上旬"
-  hours: "9:00-16:00"
+  label: 2025-2026
+  operatingPeriod: 2025/12 下旬-2026/03 上旬
+  hours: 9:00-16:00
   note: 營業期間與時間為公開雪場資料；積雪不足時可能調整開放日與營業範圍，請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33322/
 snowWeather:
@@ -40,7 +40,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33322/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -51,19 +51,19 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/33322/
   summary: 湯田共有 1 條雪道與 1 座纜車，標高約 265-457m；初級 40%、中級 40%、進階 20%，雪板可全區滑行。
   details:
-    - name: "初級路線"
+    - name: 初級路線
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:
   total: 1
 access:
   fromTokyo:
-    - label: "東京出發經北上、Hottoyuda"
+    - label: 東京出發經北上、Hottoyuda
       steps:
         - 從東京搭東北新幹線到北上站。
         - 從北上站轉 JR 北上線到 Hottoyuda 站。
         - 從 Hottoyuda 站轉乘巴士前往雪場。
-      estimatedTime: "Hottoyuda 站後約 15 分"
+      estimatedTime: Hottoyuda 站後約 15 分
       difficulty: medium
       note: 北上線與地方巴士班次較少，建議先確認去回程銜接。
   car:

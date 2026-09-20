@@ -34,9 +34,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/uJsajKSdcaE3beoX8
   phone: 0173-72-1011
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/13-2026/04/05"
-  hours: "8:30-15:30"
+  label: 2025-2026
+  operatingPeriod: 2025/12/13-2026/04/05
+  hours: 8:30-15:30
   note: 營業期間與時間為公開雪場資料；實際開放日、營業範圍與票價請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33103/
 snowWeather:
@@ -44,7 +44,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33103/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -57,63 +57,63 @@ courses:
   details:
     - name: Panorama Course
       difficulty: beginner
-      length: "600m"
+      length: 600m
       note: 初級路線，位於山麓側，適合作為暖身與基礎轉彎練習。
     - name: Main Line, Skyline
       difficulty: beginner
-      length: "2,980m"
+      length: 2,980m
       note: 初級長距離線，連接較高處與山麓區域。
     - name: Sunshine Course
       difficulty: beginner
-      length: "2,000m"
+      length: 2,000m
       note: 初級路線，距離較長，適合穩定練習節奏。
     - name: Family Course
       difficulty: beginner
-      length: "1,000m"
+      length: 1,000m
       note: 初級路線，名稱與定位偏家庭、練習取向。
     - name: Link Course
       difficulty: beginner
-      length: "340m"
+      length: 340m
       note: 短距離初級連絡線。
     - name: Slender Course
       difficulty: beginner
-      length: "2,000m"
+      length: 2,000m
       note: 初級路線，距離較長，可用來銜接山區滑行。
     - name: Twister Connector (Family Connector)
       difficulty: beginner
-      length: "400m"
+      length: 400m
       note: 初級連絡線，銜接 Twister 與 Family 周邊區域。
     - name: Family Connector
       difficulty: beginner
-      length: "1,220m"
+      length: 1,220m
       note: 初級連絡線，提供 Family 周邊的移動動線。
     - name: Aspen Course
       difficulty: intermediate
-      length: "1,320m"
+      length: 1,320m
       note: 中級路線，距離超過 1,000m，適合已能穩定轉彎者練習。
     - name: Aspen Connector
       difficulty: intermediate
-      length: "480m"
+      length: 480m
       note: 中級連絡線，銜接 Aspen 周邊路線。
     - name: Paradise Course
       difficulty: intermediate
-      length: "1,000m"
+      length: 1,000m
       note: 中級路線，距離 1,000m。
     - name: Wave Connector
       difficulty: intermediate
-      length: "2,100m"
+      length: 2,100m
       note: 中級連絡線，距離較長，適合串接山區動線。
     - name: Twister Course
       difficulty: advanced
-      length: "1,100m"
+      length: 1,100m
       note: 上級路線，距離 1,100m。
     - name: Diamond Course
       difficulty: advanced
-      length: "3,400m"
+      length: 3,400m
       note: 上級長距離路線，距離 3,400m，是官方表列最長的上級線。
     - name: Corkscrew Course
       difficulty: advanced
-      length: "200m"
+      length: 200m
       note: 短距離上級路線。
 lifts:
   total: 5
@@ -123,7 +123,7 @@ access:
       steps:
         - 從東京搭東北、北海道新幹線往青森方向，轉乘前往弘前站。
         - 從弘前站轉乘計程車或其他地面交通前往青森 Spring。
-      estimatedTime: "弘前站後約 55 分"
+      estimatedTime: 弘前站後約 55 分
       difficulty: medium
       note: 公開資料列出弘前站後以計程車前往；若不自駕，建議先確認雪季接駁、計程車與住宿交通方案。
   car:

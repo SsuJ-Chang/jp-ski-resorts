@@ -34,9 +34,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/Tto7yqBZZPVhY31j8
   phone: 0136-23-2743
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/25-2026/03/08"
-  hours: "平日：9:00〜16:00 / 假日：9:00〜16:00 / 夜滑：17:00〜21:00（每週火・週四）リフト最終20:45、12月は夜滑營業は行いません。火・木が休業の場合は翌日、上記以外の夜滑日:1/7"
+  label: 2025-2026
+  operatingPeriod: 2025/12/25-2026/03/08
+  hours: 平日：9:00〜16:00 / 假日：9:00〜16:00 / 夜滑：17:00〜21:00（每週火・週四）リフト最終20:45、12月は夜滑營業は行いません。火・木が休業の場合は翌日、上記以外の夜滑日:1/7
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/32101/
 snowWeather:
@@ -44,7 +44,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/32101/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -55,27 +55,27 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/32101/
   summary: 俱知安町旭丘共有 2 條雪道，難度比例約初級 50%、中級 20%、進階 30%，適合依雪況與同行者程度安排滑行路線。
   details:
-    - name: "初級路線"
+    - name: 初級路線
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線"
+    - name: 上級路線
       difficulty: advanced
       note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:
   total: 1
 access:
   fromSapporo:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 鐵路：函館本線倶知安駅下車、徒歩 (10分)
         - 鐵路：函館本線倶知安駅下車、タクシー (3分)
-      estimatedTime: "約 10 分"
+      estimatedTime: 約 10 分
       difficulty: medium
   fromAirport:
-    - label: "機場銜接"
+    - label: 機場銜接
       steps:
         - 飛機：千歳空港 (180分)
-      estimatedTime: "約 180 分"
+      estimatedTime: 約 180 分
       difficulty: medium
   car:
     recommended: true

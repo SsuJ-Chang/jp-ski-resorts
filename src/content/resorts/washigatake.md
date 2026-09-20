@@ -175,7 +175,7 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "大雪の鷲ヶ岳スキー場を大満喫！岐阜県の奥美濃で人気のスキー場を滑り尽くした！"
+  - title: 大雪の鷲ヶ岳スキー場を大満喫！岐阜県の奥美濃で人気のスキー場を滑り尽くした！
     url: https://www.youtube.com/watch?v=75FMB--Epvo
     note: Todd's Japan Ski Trip
 ---

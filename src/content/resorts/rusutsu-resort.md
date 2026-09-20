@@ -24,7 +24,7 @@ visibility:
   note: 北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。
 homeRegionExample: true
 popularResortNote:
-  zhTw: "三座山與北海道粉雪"
+  zhTw: 三座山與北海道粉雪
 links:
   official: https://rusutsu.com/rusutsu-in-winter/
   facebook: https://www.facebook.com/RusutsuResort
@@ -331,11 +331,15 @@ externalContent:
   - title: 留壽都滑雪渡假村美食特蒐！除了蟹腳吃到飽，還有這些必吃美食！
     url: https://natasha-traveler.tw/rusutsu-hotel-2/
     note: 娜塔蝦的滑雪食旅手記
-  - title: '[留壽都滑雪]吃在留壽都渡假村，6間美食餐廳攻略'
+  - title: >-
+      [留壽都滑雪]吃在留壽都渡假村，6間美食餐廳攻略
     url: https://natasha-traveler.tw/rusutsu-restauran/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
-  - title: "【北海道滑雪】下・留壽都｜逛山路線公開 這條雪道太好刷｜從早滑到晚 一日8小時23趟是什麼體驗｜神秘漢堡 Rusutsu限定啤酒｜25-26雪季"
+  - title: 【北海道滑雪｜留壽都全區路線體驗】東山・ISOLA・西山跑完｜8條雪道實測＆省錢小技巧
+    url: https://www.youtube.com/watch?v=UNhyO89Zho4
+    note: 可樂果登山小隊
+  - title: 【北海道滑雪】下・留壽都｜逛山路線公開 這條雪道太好刷｜從早滑到晚 一日8小時23趟是什麼體驗｜神秘漢堡 Rusutsu限定啤酒｜25-26雪季
     url: https://www.youtube.com/watch?v=HLs0aIU4Zsk
     note: Hey! fudeze 福蝶賊
   - title: 留壽都西山全面滑走 | Vale Rusutsu 2024追雪 acepro | 留壽都滑雪day 02
@@ -344,10 +348,10 @@ externalContent:
   - title: 2024滑雪還行嗎？ | 留壽都 Vale Rusutsu 2024 acepro | 留壽都滑雪day 01
     url: https://www.youtube.com/watch?v=ToRW8ZCl4h8
     note: 大林滑雪男子
-  - title: "3座山、37條雪道、42公里 | 留壽都滑雪度假村・北海道"
+  - title: 3座山、37條雪道、42公里 | 留壽都滑雪度假村・北海道
     url: https://www.youtube.com/watch?v=wIqiAYi-7sk
     note: Todd's Japan Ski Trip
-  - title: "【ルスツリゾート】最強寒波の北海道で極上パウダースノーを満喫 - LOVE SKISKI"
+  - title: 【ルスツリゾート】最強寒波の北海道で極上パウダースノーを満喫 - LOVE SKISKI
     url: https://www.youtube.com/watch?v=XZhXnmqylVM
     note: 犬と暮らす旅人 / Love Nomad Life
 externalGuide:

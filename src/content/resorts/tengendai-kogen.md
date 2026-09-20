@@ -35,8 +35,8 @@ contact:
     googleMaps: https://maps.app.goo.gl/2FofFbriwm6eo9Cj7
   phone: 0238-55-2236
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/11/24-2026/05/06"
+  label: 2025-2026
+  operatingPeriod: 2025/11/24-2026/05/06
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33506/
 snowWeather:
@@ -44,7 +44,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33506/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
@@ -55,18 +55,18 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/33506/
   summary: 天元台高原以長雪季與乾爽粉雪為特色，標高範圍高低落差大。共有 7 條雪道，初級 30%、中級 40%、上級 30%。
   details:
-    - name: "しらかばゲレンデ"
+    - name: しらかばゲレンデ
       difficulty: mixed
-      length: "600m"
-    - name: "つがもりゲレンデ"
+      length: 600m
+    - name: つがもりゲレンデ
       difficulty: mixed
-      length: "1,500m"
-    - name: "しゃくなげゲレンデ"
+      length: 1,500m
+    - name: しゃくなげゲレンデ
       difficulty: mixed
-      length: "850m"
-    - name: "湯の平コース"
+      length: 850m
+    - name: 湯の平コース
       difficulty: mixed
-      length: "3,000m"
+      length: 3,000m
 lifts:
   total: 3
 access:

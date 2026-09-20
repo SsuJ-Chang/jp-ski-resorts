@@ -38,19 +38,19 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/37103/
   summary: 井川腕山共有 5 條雪道與兒童練習區，初級 50%、中級 40%、上級 10%。人工造雪支援滑行，實際開放與夜滑日請以當季公告為準。
   details:
-    - name: "ちびっこゲレンデ"
+    - name: ちびっこゲレンデ
       difficulty: beginner
       note: 兒童練習與雪上遊戲區，設有移動式輸送帶；個別長度待確認。
-    - name: "ナデシココース"
+    - name: ナデシココース
       difficulty: beginner
       note: 初滑期間曾作為開放雪道；個別長度待確認。
-    - name: "メインゲレンデ"
+    - name: メインゲレンデ
       difficulty: intermediate
       note: 主雪道可從雪場上部眺望周邊山景，個別長度待確認。
-    - name: "中級コース（名稱待確認）"
+    - name: 中級コース（名稱待確認）
       difficulty: intermediate
       note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
-    - name: "上級コース（名稱待確認）"
+    - name: 上級コース（名稱待確認）
       difficulty: advanced
       note: 公開資料未列完整個別數值，名稱與開放狀態仍需依當季雪場公告確認。
 access:

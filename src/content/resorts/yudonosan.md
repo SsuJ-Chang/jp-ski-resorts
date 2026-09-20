@@ -34,13 +34,13 @@ contact:
     googleMaps: https://maps.app.goo.gl/v623cYU4kF4J3iu17
   phone: 0235-54-6450
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/06-2026/03/31"
+  label: 2025-2026
+  operatingPeriod: 2025/12/06-2026/03/31
   hours: 8:45-16:00
   note: 營業時間會依日落時間及積雪狀況調整。
   source: https://yudonosan.com/price/
 tickets:
-  season: "2025-2026"
+  season: 2025-2026
   currency: JPY
   source: https://yudonosan.com/price/
   plans:
@@ -81,7 +81,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33505/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:

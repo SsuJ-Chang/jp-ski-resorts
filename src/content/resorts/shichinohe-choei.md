@@ -31,9 +31,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/oNzj6bkmNAtnZXZB7
   phone: 0176-62-5612
 season:
-  label: "2025-2026"
-  operatingPeriod: "2026/01/10-2026/03/01"
-  hours: "9:00-16:00"
+  label: 2025-2026
+  operatingPeriod: 2026/01/10-2026/03/01
+  hours: 9:00-16:00
   nightSkiingHours: 17:00-21:00（週二至週六，依積雪調整）
   note: 營業期間與時間為公開雪場資料；夜滑可能依積雪量延期或調整，請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33109/
@@ -42,7 +42,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33109/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:

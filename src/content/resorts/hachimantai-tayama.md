@@ -29,9 +29,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/GuwtRWWRm3GKxTav6
   phone: 0195-73-2650
 season:
-  label: "2025-2026"
-  operatingPeriod: "2026/01/03-2026/03/22"
-  hours: "9:00-16:00"
+  label: 2025-2026
+  operatingPeriod: 2026/01/03-2026/03/22
+  hours: 9:00-16:00
   note: 營業期間與時間為公開雪場資料；實際開放日、營業範圍與票價請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33303/
 snowWeather:
@@ -39,7 +39,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33303/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -50,22 +50,22 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/33303/
   summary: 田山共有 2 條雪道與 2 座纜車，標高約 315-585m；初級 20%、中級 40%、進階 40%，雪板可全區滑行。
   details:
-    - name: "中級路線"
+    - name: 中級路線
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線"
+    - name: 上級路線
       difficulty: advanced
       note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:
   total: 2
 access:
   fromTokyo:
-    - label: "東京出發經田山"
+    - label: 東京出發經田山
       steps:
         - 從東京搭東北新幹線到盛岡站。
         - 從盛岡站轉 JR 花輪線到田山站。
         - 從田山站步行前往雪場。
-      estimatedTime: "田山站後約 15 分"
+      estimatedTime: 田山站後約 15 分
       difficulty: medium
       note: 也可搭盛岡－大館線高速巴士，於田山 Parking 下車後步行約 15 分；花輪線與高速巴士班次需先確認。
   car:

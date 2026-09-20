@@ -24,7 +24,7 @@ tags:
 rjOpinion: |-
   Ski-in Ski-out 是最重要的優點沒話說，湯澤離東京又近，其實滿推薦新手第一次來這裡的，簡單來說人來就好，對於家庭來說也的確很適合，飯店有提供顧小孩的服務（當然不是免費），真的超方便！比較可惜是景色比較差，還是要搭龍纜去神樂的田代才是又美雪又粉，所以來到苗場務必要搭龍纜，絕對也是賣點。但 2026 飯店本身並沒有提供方便住客去搭龍纜的方式，不會滑雪的只好走去了。
 popularResortNote:
-  zhTw: "大型度假雪場與龍纜行程"
+  zhTw: 大型度假雪場與龍纜行程
 links:
   official: https://www.princehotels.co.jp/ski/naeba/winter/
   facebook: https://www.facebook.com/SnowNaeba
@@ -315,7 +315,7 @@ externalContent:
     url: https://natasha-traveler.tw/dragondola/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
-  - title: "苗場滑雪場一路滑到晚上!到底要不要買自己的雪鞋和雪板?第一次買裝備的心得分享！滑行能力大增??｜日本苗場滑雪場Naeba｜YK🏂VLOG"
+  - title: 苗場滑雪場一路滑到晚上!到底要不要買自己的雪鞋和雪板?第一次買裝備的心得分享！滑行能力大增??｜日本苗場滑雪場Naeba｜YK🏂VLOG
     url: https://www.youtube.com/watch?v=2OSQQADrndo
     note: YK來了
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan

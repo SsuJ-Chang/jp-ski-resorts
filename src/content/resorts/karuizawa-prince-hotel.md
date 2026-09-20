@@ -166,10 +166,10 @@ externalContent:
     url: https://natasha-traveler.tw/karuizawa-ski/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
-  - title: "帶你玩轉輕井澤滑雪場：超詳細攻略！31度黑線雪道多可怕？哪些APP值得一試？雪質真的很硬嗎？"
+  - title: 帶你玩轉輕井澤滑雪場：超詳細攻略！31度黑線雪道多可怕？哪些APP值得一試？雪質真的很硬嗎？
     url: https://www.youtube.com/watch?v=vMWhSBRttyg
     note: LeoTW沈浸滑雪
-  - title: "【オープン初日】軽井沢プリンスホテルスキー場 【上から下まで】// Who's TV"
+  - title: 【オープン初日】軽井沢プリンスホテルスキー場 【上から下まで】// Who's TV
     url: https://www.youtube.com/watch?v=kdQ8KMIk8zo
     note: Who’s TV / by Fumika Hoshino
 ---

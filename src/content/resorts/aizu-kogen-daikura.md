@@ -36,9 +36,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/g5NqFwACMnnCjfaTA
   phone: 0241-64-2121
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/20-2026/03/22"
-  hours: "平日：8:30〜16:00 / 假日：8:30〜16:00 / 夜滑：無"
+  label: 2025-2026
+  operatingPeriod: 2025/12/20-2026/03/22
+  hours: 平日：8:30〜16:00 / 假日：8:30〜16:00 / 夜滑：無
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/33615/
 snowWeather:
@@ -46,7 +46,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33615/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -57,86 +57,86 @@ courses:
   courseInfoPage: https://daikura.net/skislope/
   summary: 會津高原 Daikura 共有 12 條雪道，從 800m 初學者路線、白樺與春木沢系列中級坡，到最大斜度 38 度的台鞍ゲレンデ都有；高低差與坡度變化明確，適合依能力分區練習。
   details:
-    - name: "初心者コース"
+    - name: 初心者コース
       difficulty: beginner
-      length: "800m"
-      maxSlope: "12度"
-      averageSlope: "12度"
+      length: 800m
+      maxSlope: 12度
+      averageSlope: 12度
       note: 初級路線，高低差 80m，坡度數值單純，適合作為全場入門練習線。
-    - name: "白樺アウトコース"
+    - name: 白樺アウトコース
       difficulty: beginner
-      length: "1,500m"
-      maxSlope: "15度"
-      averageSlope: "9度"
+      length: 1,500m
+      maxSlope: 15度
+      averageSlope: 9度
       note: 初級路線，滑走距離 1,500m、高低差 130m，可作為較長距離的初級練習。
-    - name: "白樺インコース"
+    - name: 白樺インコース
       difficulty: mixed
-      length: "1,200m"
-      maxSlope: "20度"
-      averageSlope: "9度"
+      length: 1,200m
+      maxSlope: 20度
+      averageSlope: 9度
       note: 初級到中級路線，滑走距離 1,200m、高低差 130m。
-    - name: "中央ゲレンデ"
+    - name: 中央ゲレンデ
       difficulty: intermediate
-      length: "600m"
-      maxSlope: "23度"
-      averageSlope: "11度"
+      length: 600m
+      maxSlope: 23度
+      averageSlope: 11度
       note: 中級路線，滑走距離 600m、高低差 80m，是中央區域的短中級坡。
-    - name: "駒止ゲレンデ"
+    - name: 駒止ゲレンデ
       difficulty: intermediate
-      length: "1,000m"
-      maxSlope: "28度"
-      averageSlope: "13度"
+      length: 1,000m
+      maxSlope: 28度
+      averageSlope: 13度
       note: 中級路線，滑走距離 1,000m、高低差 200m，坡度變化比中央區更明顯。
-    - name: "春木沢インコース"
+    - name: 春木沢インコース
       difficulty: intermediate
-      length: "1,200m"
-      maxSlope: "28度"
-      averageSlope: "12度"
+      length: 1,200m
+      maxSlope: 28度
+      averageSlope: 12度
       note: 中級路線，滑走距離 1,200m、高低差 220m。
-    - name: "春木沢アウトコース"
+    - name: 春木沢アウトコース
       difficulty: intermediate
-      length: "1,300m"
-      maxSlope: "25度"
-      averageSlope: "12度"
+      length: 1,300m
+      maxSlope: 25度
+      averageSlope: 12度
       note: 中級路線，滑走距離 1,300m、高低差 250m，是春木沢側較長的一條。
-    - name: "駒止尾根コース"
+    - name: 駒止尾根コース
       difficulty: intermediate
-      length: "1,200m"
-      maxSlope: "20度"
-      averageSlope: "7度"
+      length: 1,200m
+      maxSlope: 20度
+      averageSlope: 7度
       note: 中級路線，滑走距離 1,200m、高低差 140m，平均斜度相對平緩。
-    - name: "台鞍ゲレンデ"
+    - name: 台鞍ゲレンデ
       difficulty: advanced
-      length: "600m"
-      maxSlope: "38度"
-      averageSlope: "35度"
+      length: 600m
+      maxSlope: 38度
+      averageSlope: 35度
       note: 上級路線，最大斜度 38 度、平均斜度 35 度，是全場坡度數值最高的路線。
-    - name: "シャドーコース"
+    - name: シャドーコース
       difficulty: advanced
-      length: "270m"
-      maxSlope: "24度"
-      averageSlope: "24度"
+      length: 270m
+      maxSlope: 24度
+      averageSlope: 24度
       note: 上級路線，滑走距離 270m、高低差 120m。
-    - name: "スイングコース"
+    - name: スイングコース
       difficulty: advanced
-      length: "250m"
-      maxSlope: "28度"
-      averageSlope: "20度"
+      length: 250m
+      maxSlope: 28度
+      averageSlope: 20度
       note: 上級路線，滑走距離 250m、高低差 80m。
-    - name: "シャイングコース"
+    - name: シャイングコース
       difficulty: advanced
-      length: "260m"
-      maxSlope: "30度"
-      averageSlope: "22度"
+      length: 260m
+      maxSlope: 30度
+      averageSlope: 22度
       note: 上級路線，滑走距離 260m、高低差 100m。
 lifts:
   total: 6
 access:
   fromTokyo:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 鐵路：東武鉄道浅草駅（タクシー含む） (220分)
-      estimatedTime: "約 220 分"
+      estimatedTime: 約 220 分
       difficulty: medium
   car:
     recommended: true

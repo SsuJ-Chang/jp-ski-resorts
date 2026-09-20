@@ -34,9 +34,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/LuEpoMNDNH8eRRY7A
   phone: 0796-92-1005
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/28-2026/02/28"
-  hours: "平日：9:00〜16:40 / 假日：8:00〜16:40"
+  label: 2025-2026
+  operatingPeriod: 2025/12/28-2026/02/28
+  hours: 平日：9:00〜16:40 / 假日：8:00〜16:40
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/36319/
 trailMaps:
@@ -104,7 +104,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/36319/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -112,16 +112,16 @@ courses:
   courseInfoPage: https://www.bokujyo.com/winter/slope.html
   summary: 但馬牧場公園共有 4 條雪道，從適合初學者練習的平緩路線，到設有非壓雪區與 30° 急斜面的中高級路線都有配置。
   details:
-    - name: "樂園雪道 / パラダイスコース"
+    - name: 樂園雪道 / パラダイスコース
       difficulty: beginner
       note: 適合初學者，平緩的坡面也適合用於練習。
-    - name: "天空道路雪道 / スカイロードコース"
+    - name: 天空道路雪道 / スカイロードコース
       difficulty: intermediate
       note: 從山頂下車處往左側行進，之後分成兩條路線，其中設有非壓雪區，可享受新雪。
-    - name: "牧場雪道 / パスチャーコース"
+    - name: 牧場雪道 / パスチャーコース
       difficulty: intermediate
       note: 從山頂下車處前往展望台後方，坡面稍陡，是一條林間雪道。
-    - name: "世界雪道 / ワールドコース"
+    - name: 世界雪道 / ワールドコース
       difficulty: advanced
       maxSlope: 30°
       note: 具有 30° 急斜面，為非壓雪雪道，會自然形成雪丘，適合進階者滑行。
@@ -129,10 +129,10 @@ lifts:
   total: 1
 access:
   publicTransit:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 搭乘山陰本線至浜坂站，再轉乘巴士前往雪場（約 40 分鐘）。
-      estimatedTime: "約 40 分"
+      estimatedTime: 約 40 分
       difficulty: medium
       links:
         - label: 但馬牧場公園官方交通資訊

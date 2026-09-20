@@ -34,9 +34,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/27xHNwNCYvTxxWGB7
   phone: 0158-42-4536
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/20-2026/04/05"
-  hours: "平日：9:00〜20:00（3 月為、10:00〜20:00 詳細は、公式HPをご確認下さい） / 假日：9:00〜17:00（詳細は、公式HPをご確認下さい） / 夜滑：16:00〜20:00（夜滑營業日については公式HPをご確認下さい）"
+  label: 2025-2026
+  operatingPeriod: 2025/12/20-2026/04/05
+  hours: 平日：9:00〜20:00（3 月為、10:00〜20:00 詳細は、公式HPをご確認下さい） / 假日：9:00〜17:00（詳細は、公式HPをご確認下さい） / 夜滑：16:00〜20:00（夜滑營業日については公式HPをご確認下さい）
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/31710/
 snowWeather:
@@ -44,7 +44,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31710/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -55,38 +55,38 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/31710/
   summary: Engaru Rock Valley共有 6 條雪道，難度比例約初級 20%、中級 40%、進階 40%，適合依雪況與同行者程度安排滑行路線。
   details:
-    - name: "初級路線"
+    - name: 初級路線
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線 1"
+    - name: 中級路線 1
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線 2"
+    - name: 中級路線 2
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線 3"
+    - name: 中級路線 3
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線 1"
+    - name: 上級路線 1
       difficulty: advanced
       note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線 2"
+    - name: 上級路線 2
       difficulty: advanced
       note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:
   total: 1
 access:
   fromSapporo:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 鐵路：JR石北線遠軽駅下車、北海道北見バス遠軽ターミナル (15分)
-      estimatedTime: "約 15 分"
+      estimatedTime: 約 15 分
       difficulty: medium
   fromAirport:
-    - label: "機場銜接"
+    - label: 機場銜接
       steps:
         - 飛機：女満別空港 (80分)
-      estimatedTime: "約 80 分"
+      estimatedTime: 約 80 分
       difficulty: medium
   car:
     recommended: true

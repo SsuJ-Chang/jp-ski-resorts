@@ -375,10 +375,10 @@ externalContent:
   - title: 雪之旅|北海道滑雪gopro/富良野滑雪day 01 | A7m3 16-35GM/gopro max |A journey to snow
     url: https://www.youtube.com/watch?v=_MZSqJ44eZ4
     note: 大林滑雪男子
-  - title: "日本最著名的滑雪場完整指南 | 富良野滑雪場・北海道"
+  - title: 日本最著名的滑雪場完整指南 | 富良野滑雪場・北海道
     url: https://www.youtube.com/watch?v=akcnuU07JSw
     note: Todd's Japan Ski Trip
-  - title: "【富良野スキー場】バックカントリー & 樹氷を満喫！冬の絶景とパウダースノー - LOVE SKISKI"
+  - title: 【富良野スキー場】バックカントリー & 樹氷を満喫！冬の絶景とパウダースノー - LOVE SKISKI
     url: https://www.youtube.com/watch?v=DlDRR_f1pTA
     note: 犬と暮らす旅人 / Love Nomad Life
 externalGuide:

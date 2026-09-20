@@ -175,7 +175,7 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "【上から下まで】丸沼高原TOP TO BOTTOM 【スノーボード】// Who's TV"
+  - title: 【上から下まで】丸沼高原TOP TO BOTTOM 【スノーボード】// Who's TV
     url: https://www.youtube.com/watch?v=M6yT0I6wvSU
     note: Who’s TV / by Fumika Hoshino
 ---

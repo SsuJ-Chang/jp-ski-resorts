@@ -38,9 +38,9 @@ contact:
     googleMaps: https://www.google.com/maps/search/?api=1&query=42.848305,140.630306
   phone: 0136-59-2511
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/11/29-2026/04/05"
-  hours: "平日：8:00-16:00 / 假日：8:00-16:00"
+  label: 2025-2026
+  operatingPeriod: 2025/11/29-2026/04/05
+  hours: 平日：8:00-16:00 / 假日：8:00-16:00
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/31611/
 tickets:
@@ -177,7 +177,8 @@ tickets:
         - 長者：¥9,000
         - 學生：¥9,000
         - 小學生：¥8,000
-      note: 'Quad Lift 需 3 點，Pair Lift #1 需 2 點，Pair Lift #2 需 1 點。'
+      note: >-
+        Quad Lift 需 3 點，Pair Lift #1 需 2 點，Pair Lift #2 需 1 點。
     - name: 30 小時券
       priceLines:
         - 成人：Web ¥52,000
@@ -189,7 +190,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31611/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -200,44 +201,44 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/31611/
   summary: 二世谷 Moiwa共有 8 條雪道，難度比例約初級 30%、中級 40%、進階 30%，適合依雪況與同行者程度安排滑行路線。
   details:
-    - name: "初級路線 1"
+    - name: 初級路線 1
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "初級路線 2"
+    - name: 初級路線 2
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "初級路線 3"
+    - name: 初級路線 3
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線 1"
+    - name: 中級路線 1
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線 2"
+    - name: 中級路線 2
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線 3"
+    - name: 中級路線 3
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線 1"
+    - name: 上級路線 1
       difficulty: advanced
       note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線 2"
+    - name: 上級路線 2
       difficulty: advanced
       note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:
   total: 3
 access:
   fromSapporo:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 鐵路：函館本線ニセコ駅下車、タクシーで (15分)
-      estimatedTime: "約 15 分"
+      estimatedTime: 約 15 分
       difficulty: medium
   fromAirport:
-    - label: "機場銜接"
+    - label: 機場銜接
       steps:
         - 飛機：新千歳空港から路線バス利用 (120分)
-      estimatedTime: "約 120 分"
+      estimatedTime: 約 120 分
       difficulty: medium
   car:
     recommended: true
@@ -252,7 +253,7 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "【ニセコ】北海道の極上パウダーをモイワスキーリゾートで満喫 - LOVE SKISKI"
+  - title: 【ニセコ】北海道の極上パウダーをモイワスキーリゾートで満喫 - LOVE SKISKI
     url: https://www.youtube.com/watch?v=eLQxUZuuEYU
     note: 犬と暮らす旅人 / Love Nomad Life
 ---

@@ -31,9 +31,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/mz4YqsEPBYWknX21A
   phone: 0198-25-2711
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/23-2026/03/08"
-  hours: "9:00-16:00"
+  label: 2025-2026
+  operatingPeriod: 2025/12/23-2026/03/08
+  hours: 9:00-16:00
   note: 營業期間與時間為公開雪場資料；實際開放日、營業範圍與票價請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33306/
 snowWeather:
@@ -41,7 +41,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33306/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -52,19 +52,19 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/33306/
   summary: 花卷市鉛溫泉共有 5 條雪道與 2 座纜車，標高約 223-467m；初級 30%、中級 30%、進階 40%，雪板可全區滑行。
   details:
-    - name: "初級路線 1"
+    - name: 初級路線 1
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "初級路線 2"
+    - name: 初級路線 2
       difficulty: beginner
       note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "中級路線"
+    - name: 中級路線
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線 1"
+    - name: 上級路線 1
       difficulty: advanced
       note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: "上級路線 2"
+    - name: 上級路線 2
       difficulty: advanced
       note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:

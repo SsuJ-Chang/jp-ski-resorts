@@ -173,7 +173,7 @@ terrainSummary:
 externalContent:
   blogs: []
   vlogs:
-  - title: "美女と一緒にロマンスの神様スキー場上から下まで夢の1本！"
+  - title: 美女と一緒にロマンスの神様スキー場上から下まで夢の1本！
     url: https://www.youtube.com/watch?v=MkqOclTtNX4
     note: Who’s TV / by Fumika Hoshino
 ---

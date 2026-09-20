@@ -31,8 +31,8 @@ contact:
     googleMaps: https://maps.app.goo.gl/jCavyM2Ji89HMAWi9
   phone: 019-693-2211
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/20-2026/03/29"
+  label: 2025-2026
+  operatingPeriod: 2025/12/20-2026/03/29
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33305/
 snowWeather:
@@ -40,7 +40,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33305/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
@@ -51,43 +51,43 @@ courses:
   courseInfoPage: https://qkamura.or.jp/cms/blog/05260003/20170916200919.pdf
   summary: 網張溫泉小學生以下可免費搭乘纜車，雪道配置有樹冰中的雙子林間 Course、白樺 Slope 與雙子滑走 Course 等變化。共有 7 條雪道，初級 15%、中級 50%、上級 35%。
   details:
-    - name: "雙子林間 Course / 双子林間コース"
+    - name: 雙子林間 Course / 双子林間コース
       difficulty: beginner
-      length: "1,000m"
-      maxSlope: "10°"
-    - name: "落葉松坡 / カラマツスロープ"
+      length: 1,000m
+      maxSlope: 10°
+    - name: 落葉松坡 / カラマツスロープ
       difficulty: beginner
-      length: "600m"
-      maxSlope: "20°"
-    - name: "水楢坡 / ミズナラスロープ"
+      length: 600m
+      maxSlope: 20°
+    - name: 水楢坡 / ミズナラスロープ
       difficulty: intermediate
-      length: "1,000m"
-      maxSlope: "30°"
-    - name: "雙子滑降 Course / 双子滑降コース"
+      length: 1,000m
+      maxSlope: 30°
+    - name: 雙子滑降 Course / 双子滑降コース
       difficulty: intermediate
-      length: "850m"
-      maxSlope: "25°"
-    - name: "椴松坡 / トドマツスロープ"
+      length: 850m
+      maxSlope: 25°
+    - name: 椴松坡 / トドマツスロープ
       difficulty: intermediate
-      length: "700m"
-      maxSlope: "22°"
-    - name: "白樺坡 / 白樺スロープ"
+      length: 700m
+      maxSlope: 22°
+    - name: 白樺坡 / 白樺スロープ
       difficulty: intermediate
-      length: "1,800m"
-      maxSlope: "28°"
-    - name: "Slalom 坡面 / スラロームバーン"
+      length: 1,800m
+      maxSlope: 28°
+    - name: Slalom 坡面 / スラロームバーン
       difficulty: advanced
-      length: "1,000m"
-      maxSlope: "37°"
+      length: 1,000m
+      maxSlope: 37°
 lifts:
   total: 4
 access:
   fromTokyo:
-    - label: "東京出發經盛岡"
+    - label: 東京出發經盛岡
       steps:
         - 從東京搭東北新幹線到盛岡站。
         - 從盛岡站轉乘往網張溫泉方向的巴士前往雪場。
-      estimatedTime: "站後約 60 分"
+      estimatedTime: 站後約 60 分
       difficulty: medium
       note: 盛岡站後巴士班次需以當季時刻為準；冬季天候可能影響運行。
   car:

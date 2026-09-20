@@ -33,8 +33,8 @@ contact:
     googleMaps: https://maps.app.goo.gl/49ABvnv1KdfM9ag27
   phone: 0224-34-4001
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/12-2026/03/29"
+  label: 2025-2026
+  operatingPeriod: 2025/12/12-2026/03/29
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33404/
 snowWeather:
@@ -42,7 +42,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33404/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
@@ -55,35 +55,35 @@ courses:
   details:
     - name: ファミリーゲレンデ
       difficulty: beginner
-      length: "1,300m"
+      length: 1,300m
     - name: ダイナミックコース
       difficulty: mixed
-      length: "4,300m"
+      length: 4,300m
     - name: 石子ゲレンデ
       difficulty: mixed
-      length: "500m"
+      length: 500m
     - name: マイペースコース
       difficulty: mixed
-      length: "800m"
+      length: 800m
     - name: パノラマコース
       difficulty: mixed
-      length: "800m"
+      length: 800m
     - name: ジャンボコース
       difficulty: mixed
-      length: "1,500m"
+      length: 1,500m
     - name: 高原ゲレンデ
       difficulty: mixed
-      length: "1,000m"
+      length: 1,000m
     - name: かもしかコース
       difficulty: mixed
-      length: "800m"
+      length: 800m
     - name: チャレンジコース
       difficulty: advanced
-      length: "700m"
-      maxSlope: "35°"
+      length: 700m
+      maxSlope: 35°
     - name: ネイチャーパーク
       difficulty: ungroomed
-      length: "650m"
+      length: 650m
 lifts:
   total: 6
 access:

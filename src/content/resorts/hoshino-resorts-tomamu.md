@@ -327,7 +327,7 @@ externalContent:
   - title: 🎯讓你看看滑雪是甚麼 🏂Snowboarding in TOMAMU EP01 星野滑雪場
     url: https://www.youtube.com/watch?v=B608Ty6R-3c
     note: 大林滑雪男子
-  - title: "【星野リゾート トマム】北海道のスノーリゾートでスキーを満喫 - LOVE SKISKI"
+  - title: 【星野リゾート トマム】北海道のスノーリゾートでスキーを満喫 - LOVE SKISKI
     url: https://www.youtube.com/watch?v=1IWDU498pXc
     note: 犬と暮らす旅人 / Love Nomad Life
 externalGuide:

@@ -35,9 +35,9 @@ contact:
     googleMaps: https://maps.app.goo.gl/hHa6fWALLzHHnfqM9
   phone: 0158-82-4000
 season:
-  label: "2025-2026"
-  operatingPeriod: "2026/01/上旬-2026/03/中旬"
-  hours: "平日：9:00〜12:00、13:00〜16:00、18:00〜21:00 / 假日：9:00〜17:00 / 夜滑：18:00〜21:00"
+  label: 2025-2026
+  operatingPeriod: 2026/01/上旬-2026/03/中旬
+  hours: 平日：9:00〜12:00、13:00〜16:00、18:00〜21:00 / 假日：9:00〜17:00 / 夜滑：18:00〜21:00
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/31711/
 snowWeather:
@@ -45,7 +45,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31711/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -56,18 +56,18 @@ courses:
   courseInfoPage: https://weathernews.jp/ski/spot/31711/
   summary: 興部町營共有 1 條雪道，難度比例約初級 40%、中級 60%、進階 0%，適合依雪況與同行者程度安排滑行路線。
   details:
-    - name: "中級路線"
+    - name: 中級路線
       difficulty: intermediate
       note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
 lifts:
   total: 1
 access:
   fromSapporo:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 鐵路：宗谷本線名寄駅→バス→町営スキー場前下車→徒歩 (120分)
         - 鐵路：遠軽駅→バス→町営スキー場前下車→徒歩 (150分)
-      estimatedTime: "約 120 分"
+      estimatedTime: 約 120 分
       difficulty: medium
   car:
     recommended: true

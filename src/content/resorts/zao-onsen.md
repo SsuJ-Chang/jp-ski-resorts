@@ -311,7 +311,8 @@ externalContent:
   - title: ☃️Willie教練的放課後調教 |  藏王 滑雪 day 04 part9
     url: https://www.youtube.com/watch?v=rKQAONColVE
     note: 大林滑雪男子
-  - title: '☃️踩下坡刃 : Carving前置練習 |  藏王 滑雪 day 04 part8'
+  - title: >-
+      ☃️踩下坡刃 : Carving前置練習 |  藏王 滑雪 day 04 part8
     url: https://www.youtube.com/watch?v=DUD9yBZ8rLk
     note: 大林滑雪男子
   - title: ☃️雪道救援 |  藏王 滑雪 day 04 part7

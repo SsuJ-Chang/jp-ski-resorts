@@ -34,9 +34,9 @@ contact:
     googleMaps: https://www.google.com/maps/search/?api=1&query=43.8187,141.9683
   phone: 0164-35-1011
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/20-2026/03/01"
-  hours: "平日：10:00〜21:00；週六、週日與國定假日：10:00〜16:00；2 月 12 日至 3 月 1 日平日：16:00〜21:00、週六日與國定假日：10:00〜16:00。12 月 31 日營業至 15:00，1 月 1 日與 1 月 2 日休業。"
+  label: 2025-2026
+  operatingPeriod: 2025/12/20-2026/03/01
+  hours: 平日：10:00〜21:00；週六、週日與國定假日：10:00〜16:00；2 月 12 日至 3 月 1 日平日：16:00〜21:00、週六日與國定假日：10:00〜16:00。12 月 31 日營業至 15:00，1 月 1 日與 1 月 2 日休業。
   note: 2025-2026 雪季已結束；營業日期與時間會依積雪、天候與活動調整，出發前請確認官方公告。
   source: https://www.town.numata.hokkaido.jp/section/kyouiku/ujj7s30000001mvv.html
 snowWeather:
@@ -44,7 +44,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31301/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
@@ -61,10 +61,10 @@ lifts:
   total: 1
 access:
   fromSapporo:
-    - label: "大眾交通工具（主要車站銜接）"
+    - label: 大眾交通工具（主要車站銜接）
       steps:
         - 鐵路：留萌本線沼田駅→(バス)→月見橋停留所→(徒歩) (15分)
-      estimatedTime: "約 15 分"
+      estimatedTime: 約 15 分
       difficulty: medium
   car:
     recommended: true

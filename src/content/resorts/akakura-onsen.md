@@ -187,13 +187,13 @@ externalContent:
     url: https://natasha-traveler.tw/akakura-hotel/
     note: 娜塔蝦的滑雪食旅手記
   vlogs:
-  - title: "2026最新！日本妙高赤倉滑雪場保姆級攻略!素材又忘了備份就誤刪🥲!第二次來日本滑雪跨年｜YK🏂VLOG"
+  - title: 2026最新！日本妙高赤倉滑雪場保姆級攻略!素材又忘了備份就誤刪🥲!第二次來日本滑雪跨年｜YK🏂VLOG
     url: https://www.youtube.com/watch?v=LnicbnE1YDI
     note: YK來了
-  - title: "【妙高高原】赤倉温泉スキー場で極上のパウダーを堪能 - LOVE SKISKI"
+  - title: 【妙高高原】赤倉温泉スキー場で極上のパウダーを堪能 - LOVE SKISKI
     url: https://www.youtube.com/watch?v=EwZuRgdw8Pw
     note: 犬と暮らす旅人 / Love Nomad Life
-  - title: "【赤倉温泉スキー場】極上パウダー & 絶景！妙高高原の雪質を満喫 - LOVE SKISKI"
+  - title: 【赤倉温泉スキー場】極上パウダー & 絶景！妙高高原の雪質を満喫 - LOVE SKISKI
     url: https://www.youtube.com/watch?v=8s_AB4HA0y0
     note: 犬と暮らす旅人 / Love Nomad Life
 externalGuide:

@@ -34,8 +34,8 @@ contact:
     googleMaps: https://maps.app.goo.gl/riWeNFRsxiQXEAvS9
   phone: 017-738-0343
 season:
-  label: "2025-2026"
-  operatingPeriod: "2025/12/20-2026/05/03"
+  label: 2025-2026
+  operatingPeriod: 2025/12/20-2026/05/03
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33105/
 snowWeather:
@@ -43,7 +43,7 @@ snowWeather:
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/33105/
   snowDepth: 0 cm
-  updatedAt: "2026/4/30 09:00:00"
+  updatedAt: 2026/4/30 09:00:00
   forecast: []
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
@@ -54,33 +54,33 @@ courses:
   courseInfoPage: https://www.hakkoda-ropeway.jp/ski
   summary: 八甲田可在較長雪季中享受粉雪，雪場資料列出 5 條雪道。共有 5 條雪道，初級 20%、中級 60%、上級 20%。
   details:
-    - name: "ダイレクトコース"
+    - name: ダイレクトコース
       difficulty: mixed
-      length: "3.5km"
-      maxSlope: "30°"
-      averageSlope: "11°"
-    - name: "フォレストコース"
+      length: 3.5km
+      maxSlope: 30°
+      averageSlope: 11°
+    - name: フォレストコース
       difficulty: mixed
-      length: "5.0km"
-      maxSlope: "30°"
-      averageSlope: "8°"
+      length: 5.0km
+      maxSlope: 30°
+      averageSlope: 8°
 lifts:
   total: 3
 access:
   fromTokyo:
-    - label: "東京出發經青森"
+    - label: 東京出發經青森
       steps:
         - 從東京搭東北、北海道新幹線到新青森站，轉往青森站。
         - 從青森站搭 JR 巴士往八甲田 Ropeway 站前。
-      estimatedTime: "站後約 80 分"
+      estimatedTime: 站後約 80 分
       difficulty: medium
       note: 冬季巴士行駛時間較長，且會受道路積雪與天候影響；時刻需以當季公告為準。
   fromAirport:
-    - label: "青森機場出發"
+    - label: 青森機場出發
       steps:
         - 從青森機場搭定額計程車、計程車或包車前往八甲田 Ropeway 山麓站。
         - 抵達山麓站後依當日 Ropeway 與雪場開放狀況入場。
-      estimatedTime: "約 50 分"
+      estimatedTime: 約 50 分
       difficulty: medium
       note: 若改搭大眾運輸，通常需先進青森市區再轉 JR 巴士；冬季天候可能影響 Ropeway 運行。
   car:
