@@ -1,5 +1,5 @@
 ---
-id: snow-resort-romance-no-kamisama
+id: the-cupid-of-romance
 name:
   zhTw: The Cupid of Romance Snow Resort
   ja: スノーリゾートロマンスの神様
