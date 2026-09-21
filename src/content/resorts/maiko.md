@@ -90,6 +90,13 @@ tickets:
         - 3 點：成人、國中生、高中生 ¥2,100；小學生 ¥1,650
         - 6 點：成人、國中生、高中生 ¥4,200；小學生 ¥3,300
       note: 纜車每次 1 點、纜車吊廂每次 3 點；吊廂下行免費。
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15448
+      deadline: "2026-12-18"
+    - name: SURF & SNOW
+      url: https://surfsnow.jp/guide/htm/r0020tk.htm
+      deadline: "2026-12-18"
 snowWeather:
   title: 舞子雪況天氣
   provider: Official / Weathernews

@@ -133,6 +133,10 @@ tickets:
         - 國中生、高中生：¥1,500
         - 小學生：¥1,000
       note: 廂型纜車 1 往返，限觀光用途。
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15684
+      deadline: "2026-12-04"
 snowWeather:
   title: 夏油高原雪況天氣
   provider: Weathernews

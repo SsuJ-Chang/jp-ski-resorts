@@ -93,6 +93,10 @@ tickets:
       priceLines:
         - 成人：¥500
         - 兒童：¥400
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15324
+      deadline: "2026-12-18"
 snowWeather:
   title: 爺岳雪況天氣
   provider: Weathernews
