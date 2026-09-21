@@ -33,6 +33,14 @@ const hasLodgingRecommendations = (resort.data.lodgingRecommendations?.length ??
 const nearbyLodgingUrl = resort.data.location
   ? `https://www.google.com/maps/search/lodging/@${resort.data.location.latitude},${resort.data.location.longitude},13z`
   : undefined
+const earlyBirds = resort.data.tickets?.earlyBird ?? []
+const taiwanToday = new Intl.DateTimeFormat('sv-SE', {
+  timeZone: 'Asia/Taipei',
+  year: 'numeric',
+  month: '2-digit',
+  day: '2-digit',
+}).format(new Date())
+const availableEarlyBirds = earlyBirds.filter((item) => item.deadline >= taiwanToday)
 const hasRjOpinion = Boolean(resort.data.rjOpinion?.trim())
 const externalGuide = resort.data.externalGuide
 
@@ -703,6 +711,23 @@ const resortStructuredData = [
                 </article>
               ))}
             </div>
+            {availableEarlyBirds.length > 0 && (
+              <div class="resource-section ticket-search-resource" data-early-bird-section>
+                <h3>早鳥票</h3>
+                <ul class="resource-list">
+                  {availableEarlyBirds.map((earlyBird) => (
+                    <li data-early-bird-item data-early-bird-until={earlyBird.deadline}>
+                      <div>
+                        <a href={earlyBird.url} target="_blank" rel="noreferrer">
+                          {earlyBird.name}
+                        </a>
+                        <span>期限：{earlyBird.deadline.replaceAll('-', '/')}</span>
+                      </div>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
           </section>
         )
       }
@@ -948,4 +973,26 @@ const resortStructuredData = [
       }
     </section>
   </main>
+  <script>
+    const todayInTaiwan = new Intl.DateTimeFormat('sv-SE', {
+      timeZone: 'Asia/Taipei',
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit',
+    }).format(new Date())
+
+    document.querySelectorAll('[data-early-bird-item]').forEach((element) => {
+      const until = element.getAttribute('data-early-bird-until')
+
+      if (until && until < todayInTaiwan) {
+        element.remove()
+      }
+    })
+
+    document.querySelectorAll('[data-early-bird-section]').forEach((section) => {
+      if (!section.querySelector('[data-early-bird-item]')) {
+        section.remove()
+      }
+    })
+  </script>
 </BaseLayout>

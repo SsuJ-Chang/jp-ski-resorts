@@ -70,6 +70,10 @@ tickets:
         - 長者1日券：7,000日圓；2日券：13,500日圓
         - 中高校生1日券：5,500日圓；2日券：10,500日圓
         - 兒童1日券：3,000日圓；2日券：5,500日圓
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
 snowWeather:
   title: 志賀高原 燒額山雪況天氣
   provider: Weathernews

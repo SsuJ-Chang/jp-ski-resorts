@@ -197,6 +197,17 @@ const resorts = defineCollection({
         season: z.string(),
         currency: z.string().default('JPY'),
         source: z.url(),
+        earlyBird: z
+          .array(
+            z.object({
+              name: z.string(),
+              url: z.url(),
+              deadline: z
+                .string()
+                .regex(/^\d{4}-\d{2}-\d{2}$/, 'deadline must use YYYY-MM-DD format'),
+            }),
+          )
+          .optional(),
         note: z.string().optional(),
         plans: z.array(ticketPlanSchema).min(1),
       })

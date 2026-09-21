@@ -90,6 +90,10 @@ tickets:
         - 1 點：¥600
         - 11 點：¥6,000
       note: 四人纜車每搭乘一次扣 2 點，三人與雙人纜車每次扣 1 點；點數券限購買當季使用。
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
 snowWeather:
   title: Ski Jam 勝山雪況天氣
   provider: Weathernews

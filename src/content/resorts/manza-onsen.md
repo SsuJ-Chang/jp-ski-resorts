@@ -65,6 +65,10 @@ tickets:
         - 成人：¥1,000
         - 兒童（小學生以下）：免費
       note: 2025-2026 雪季內可使用。
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
 snowWeather:
   title: 萬座溫泉雪況天氣
   provider: Weathernews

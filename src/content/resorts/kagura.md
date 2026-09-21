@@ -84,6 +84,10 @@ tickets:
         - 成人 ¥9,800
         - 小學生以下免費
       note: 適用苗場、神樂、三俣、田代四區，包含 Dragondola。
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
 snowWeather:
   title: 神樂雪況天氣
   provider: Weathernews

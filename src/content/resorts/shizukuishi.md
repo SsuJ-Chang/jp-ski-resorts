@@ -36,6 +36,11 @@ season:
   operatingPeriod: 2025/12/20-2026/03/22
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33302/
+tickets:
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
 snowWeather:
   title: 雫石雪況天氣
   provider: Weathernews
