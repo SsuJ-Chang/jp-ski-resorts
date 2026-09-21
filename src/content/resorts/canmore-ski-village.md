@@ -42,6 +42,17 @@ season:
   hours: 平日：9:00〜20:30 / 假日：9:00〜20:30 / 夜滑：16:30〜20:30
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/31206/
+tickets:
+  earlyBird:
+    - name: 完美行【超早鳥優惠】纜車1日券
+      url: https://tw.wamazing.com/snow/items/15032
+      deadline: "2026-09-30"
+    - name: 完美行【超早鳥優惠】纜車2小時券
+      url: https://tw.wamazing.com/snow/items/15033
+      deadline: "2026-09-30"
+    - name: 完美行【超早鳥優惠】纜車3小時券
+      url: https://tw.wamazing.com/snow/items/15034
+      deadline: "2026-09-30"
 snowWeather:
   title: Canmore Ski Village 積雪與天氣
   provider: Weathernews

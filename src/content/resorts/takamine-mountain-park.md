@@ -89,6 +89,10 @@ tickets:
       priceLines:
         - 4 歲以上：¥800
       note: 預定 2026/12/22 起，9:00–16:00。
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15085
+      deadline: "2026-11-20"
 snowWeather:
   title: 高峰 Mountain Park 雪況預報
   provider: Weathernews

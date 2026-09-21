@@ -61,6 +61,13 @@ tickets:
         - 成人：¥3,000
         - 兒童：¥2,000
         - 長者：¥2,300
+  earlyBird:
+    - name: 完美行【早鳥優惠】纜車1日券
+      url: https://tw.wamazing.com/snow/items/15454
+      deadline: "2026-12-16"
+    - name: 完美行【早鳥優惠】夜間纜車券
+      url: https://tw.wamazing.com/snow/items/15455
+      deadline: "2026-12-16"
 snowWeather:
   title: Ninox Snow Park雪況預報
   provider: Weathernews

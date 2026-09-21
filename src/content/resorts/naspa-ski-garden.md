@@ -78,6 +78,10 @@ tickets:
         - 成人（國中生以上） ¥3,300
         - 兒童（小學生以下） ¥3,300
       note: 購票時須出示身心障礙證明。
+  earlyBird:
+    - name: 完美行【早鳥優惠】纜車1日券（限雙板滑雪）
+      url: https://tw.wamazing.com/snow/items/15788
+      deadline: "2026-12-23"
 snowWeather:
   title: NASPA滑雪公園雪況天氣
   provider: Official / Weathernews
