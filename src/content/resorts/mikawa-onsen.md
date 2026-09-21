@@ -1,14 +1,14 @@
 ---
 id: mikawa-onsen
 name:
-  zhTw: 三川溫泉
+  zhTw: 三川・溫泉
   ja: 三川・温泉スキー場
   en: Mikawa Onsen Ski Area
 region: kanto-koshinetsu
 prefecture: 新潟縣
 location:
-  latitude: 37.720776
-  longitude: 139.393436
+  latitude: 37.72079691145063
+  longitude: 139.39334577791072
 elevation:
   top: 416
   bottom: 120
@@ -21,14 +21,16 @@ links:
   official: https://www.town.aga.niigata.jp/kanko_rekishi/mikawa_onsenski/index.html
   facebook: https://www.facebook.com/profile.php?id=100042666105579
   weather: https://weathernews.jp/ski/spot/35450/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Mikawa%20Onsen%20Ski%20Area
-  access: https://www.aga-info.jp/tourist-attractions/mikawa-onsen-ski-resort/
+  googleMaps: https://maps.app.goo.gl/pJfn5viZMB3paaLVA
+  trailMapPage: https://www.town.aga.niigata.jp/kanko_rekishi/mikawa_onsenski/463.html
+  ticket: https://www.town.aga.niigata.jp/kanko_rekishi/mikawa_onsenski/464.html
+  access: https://www.town.aga.niigata.jp/kanko_rekishi/mikawa_onsenski/469.html
 contact:
   address:
     zhTw: 〒959-4618 新潟縣東蒲原郡阿賀町川口字堤之下
     ja: 〒959-4618 新潟県東蒲原郡阿賀町川口字堤ノ下
     en: Kawaguchi Aza Tsutsuminoshita, Higashikanbara District Aga, Niigata 959-4618
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Mikawa%20Onsen%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/pJfn5viZMB3paaLVA
   phone: 0254-99-3738
 season:
   label: 2025-2026
@@ -39,24 +41,31 @@ season:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/35450/
-  note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
+  source: https://www.town.aga.niigata.jp/kanko_rekishi/mikawa_onsenski/464.html
+  note: 票券僅收現金；學齡前兒童免費，停車免費。
   plans:
+    - name: 單次券
+      priceLines:
+        - 一般、女性、50 歲以上長者、國中小學生：¥200
+    - name: 11 次券
+      priceLines:
+        - 一般、女性、50 歲以上長者、國中小學生：¥2,000
     - name: 1 日券
       priceLines:
-        - 成人：¥3,500
-        - 兒童：¥2,000
-        - 長者：¥2,500
+        - 一般：¥3,500
+        - 女性、50 歲以上長者：¥2,500
+        - 國中小學生：¥2,000
     - name: 4 小時券
       priceLines:
-        - 成人：¥2,000
-        - 兒童：¥1,500
-        - 長者：¥2,000
-    - name: 11 回券
+        - 一般、女性、50 歲以上長者：¥2,000
+        - 國中小學生：¥1,500
+    - name: 季票
       priceLines:
-        - 共通：¥2,000
+        - 一般、女性、50 歲以上長者：¥20,000
+        - 國中小學生：¥15,000
+      note: 家庭季票 2 人 ¥30,000，第 3 人起每增加 1 人加 ¥10,000。
 snowWeather:
-  title: 三川溫泉雪況預報
+  title: 三川・溫泉雪況預報
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35450/
   snowDepth: 0 cm
@@ -65,62 +74,83 @@ snowWeather:
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
   total: 10
-  courseInfoPage: https://www.town.aga.niigata.jp/kanko_rekishi/mikawa_onsenski/index.html
-  summary: 共 10 條雪道、4 座纜車，初級 30%、中級 40%、高級 30%。
+  courseInfoPage: https://www.town.aga.niigata.jp/kanko_rekishi/mikawa_onsenski/463.html
+  summary: 共 10 條雪道、4 座纜車；雪道涵蓋初、中、高級，其中部分雪道標示為跨級難度。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
   details:
-  - name: 初級路線 1
+  - name: レークサイドゲレンデ / Lakeside
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 2
+    length: 450m
+    averageSlope: 10°
+    note: 初學者練習雪道。
+  - name: 林間コース / Forest
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 3
-    difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 1
+    length: 400m
+    averageSlope: 6°
+    note: 有急彎的初學者入門雪道。
+  - name: ロマンスコース / Romance
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 2
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 3
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 4
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 1
+    length: 500m
+    averageSlope: 20°
+    note: 穿越樹林，由和緩斜面接續至中斜面的雪道。
+  - name: ダイナミックコース / Dynamic
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 2
-    difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 3
-    difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    length: 350m
+    averageSlope: 35°
+    note: 未壓雪的野性斜面，供具實力的滑雪者挑戰。
+  - name: メインゲレンデ / Main
+    difficulty: mixed
+    length: 550m
+    averageSlope: 15°
+    note: 寬闊、無饅頭的易滑雪道，標示為初、中級者適用。
+  - name: ラビットゲレンデ / Rabbit
+    difficulty: mixed
+    length: 400m
+    averageSlope: 15°
+    note: 相對較長，適合想提升技巧的初、中級者。
+  - name: フリココース / Furiko
+    difficulty: mixed
+    length: 400m
+    averageSlope: 15°
+    note: 變化豐富、需要技巧的雪道，標示為中、高級者適用。
+  - name: からまつコース / Karamatsu
+    difficulty: mixed
+    length: 550m
+    averageSlope: 18°
+    note: 具滑行感的直線雪道，標示為中、高級者適用。
+  - name: フラワーゲレンデ / Flower（夜滑）
+    difficulty: mixed
+    length: 450m
+    averageSlope: 10°
+    note: 寬闊的初、中級者練習雪道，可夜滑。
+  - name: かもしかコース / Kamoshika
+    difficulty: mixed
+    length: 400m
+    averageSlope: 25°
+    note: 急坡、急彎的高技巧雪道，標示為中、高級者適用。
 lifts:
   total: 4
 access:
   fromTokyo:
-  - label: 新幹線＋在來線＋計程車
+  - label: 東京出發：上越新幹線＋JR 磐越西線
     steps:
-    - 從東京或新潟方向轉乘 JR 磐越西線至三川站。
-    - 從三川站搭計程車約 5 分鐘可抵達。
-    estimatedTime: 約5分鐘
-    difficulty: easy
-    note: 時間為三川站至雪場的計程車目安。
+    - 從東京搭上越新幹線至新潟站。
+    - 於新潟站轉乘 JR 磐越西線至三川站。
+    - 從三川站搭計程車約 5 分鐘，或搭巴士至川口站後步行約 10 分鐘。
+    estimatedTime: 約 3 小時
+    difficulty: medium
+    note: 三川站至雪場的計程車車資約 ¥1,500。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從三川 IC 約 40 分鐘（新潟中央 IC 出發目安），停車約 1,200 台且免費；冬季需準備雪胎。
+    note: 新潟中央 IC 至三川 IC 約 37km、30 分鐘；會津若松 IC 至三川 IC 約 57km、45 分鐘。自三川 IC 經縣道 587 號、國道 49 號、縣道 14 號至雪場約 10 分鐘；停車免費。
 terrainSummary:
-  snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-  beginner: 初級雪道約 30%，可安排暖身、基礎練習或親子滑行。
-  intermediate: 中級雪道約 40%，是主要滑行與轉彎練習區段。
-  advanced: 高級雪道約 30%，可安排較有坡度與速度感的滑行。
+  snowboard: 提供雪板租借；實際可滑範圍請以當日公告為準。
+  beginner: 湖畔、林間與 Chibikko 兒童廣場設有入門、練習用緩坡。
+  intermediate: Romance 雪道穿越樹林，從和緩斜面接續至中斜面。
+  advanced: Dynamic 雪道為未壓雪斜面；Furiko、Karamatsu 與 Kamoshika 也標示為中、高級適用。
 ---
 
-三川溫泉位在新潟縣，雪道數為10 條，搭配 4 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向親子同行、溫泉停留。
+三川・溫泉位在新潟縣阿賀町，設有 10 個滑行區與 4 座纜車。雪道從孩童與初學者的長緩坡，到平均坡度 35° 的未壓雪 Dynamic 雪道都有，並提供夜滑雪道。

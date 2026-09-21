@@ -1,14 +1,17 @@
 ---
 id: matsudai-family
 name:
-  zhTw: 十日町市松代 Family
-  ja: 十日町市まつだいファミリースキー場
+  zhTw: 松代家庭滑雪場
+  ja: 松代ファミリースキー場
   en: Tokamachi Matsudai Family Ski Area
 region: kanto-koshinetsu
 prefecture: 新潟縣
 location:
-  latitude: 37.126787
-  longitude: 138.605711
+  latitude: 37.12671899546795
+  longitude: 138.60554977791074
+elevation:
+  top: 380
+  bottom: 195
 tags:
 - beginner_friendly
 - family_friendly
@@ -18,39 +21,52 @@ tags:
 links:
   official: https://ski.matsudai.jp/
   weather: https://weathernews.jp/ski/spot/35491/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Tokamachi%20Matsudai%20Family%20Ski%20Area
-  access: https://ski.matsudai.jp/
+  googleMaps: https://maps.app.goo.gl/Cod7YdRy41xA4EgX7
+  trailMapPage: https://ski.matsudai.jp/%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%BB%E8%A8%AD%E5%82%99/
+  ticket: https://ski.matsudai.jp/%E5%88%A9%E7%94%A8%E6%96%99%E9%87%91/
+  access: https://ski.matsudai.jp/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/
 contact:
   address:
     zhTw: 〒942-1526 新潟縣十日町市松代 5265
     ja: 〒942-1526 新潟県十日町市松代5265
     en: 5265 Matsushiro, Touka, Niigata 942-1526
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Tokamachi%20Matsudai%20Family%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/Cod7YdRy41xA4EgX7
   phone: 025-597-3330
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/27-2026/3/29
+  operatingPeriod: 2025/12/20-2026/3/29
   hours: 平日 10:00-16:45；假日 9:00-16:45
-  nightSkiingHours: 18:00-20:45（預定 1/5-3/28）
+  nightSkiingHours: 18:00-20:45（預定自 2026/1/5 起）
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
-  source: https://weathernews.jp/ski/spot/35491/
+  source: https://ski.matsudai.jp/%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%BB%E8%A8%AD%E5%82%99/
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/35491/
-  note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
+  source: https://ski.matsudai.jp/%E5%88%A9%E7%94%A8%E6%96%99%E9%87%91/
+  note: 票價依官方公開資訊整理；團體票適用 10 人以上，季票請至雪場事務所辦理。
   plans:
+    - name: 單次券
+      priceLines:
+        - 共通：¥150
+    - name: 回數券（11 次）
+      priceLines:
+        - 共通：¥1,500
     - name: 1 日券
       priceLines:
-        - 成人、兒童：¥2,500
-    - name: 上午 / 下午券
+        - 共通：¥2,500
+    - name: 半日券（上午 / 下午）
       priceLines:
         - 共通：¥1,800
     - name: 夜滑券
       priceLines:
         - 共通：¥1,000
+    - name: 季票
+      priceLines:
+        - 成人：¥20,000
+        - 高中生以下：¥15,000
+      note: 3 人以上家庭或 10 人以上團體可享優惠票價，成人 ¥15,000、高中生以下 ¥10,000。
 snowWeather:
-  title: 十日町市松代 Family雪況預報
+  title: 松代家庭滑雪場雪況預報
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/35491/
   snowDepth: 0 cm
@@ -59,41 +75,41 @@ snowWeather:
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
   total: 3
-  courseInfoPage: https://ski.matsudai.jp/
-  summary: 共 3 條雪道、2 座纜車，初級 50%、中級 30%、高級 20%。
-  beginnerRatio: 50
-  intermediateRatio: 30
-  advancedRatio: 20
+  courseInfoPage: https://ski.matsudai.jp/%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%BB%E8%A8%AD%E5%82%99/
+  summary: 共 3 條雪道、2 座纜車，雪場面積 5.8ha，最長滑行距離 800m，最大坡度 24°；初、中、高級各 1 條。
+  beginnerRatio: 33
+  intermediateRatio: 34
+  advancedRatio: 33
   details:
-  - name: 初級路線
+  - name: 初級雪道
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線
+    note: 林間雪道，坡度平緩，適合初學者與親子同行。
+  - name: 中級雪道
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線
+    note: 北向寬闊雪道，整備於早晚各進行一次，適合磨練技巧。
+  - name: 高級雪道
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    note: 自第 2 纜車下站可欣賞自然全景，是雙板與雪板使用者都喜愛的雪道。
 lifts:
   total: 2
 access:
   fromTokyo:
-  - label: 新幹線＋北越急行＋計程車
+  - label: 東京出發：上越新幹線＋北越急行
     steps:
-    - 從東京搭上越新幹線至越後湯澤站，再轉北越急行至まつだい站。
-    - 從まつだい站搭計程車約 3 分鐘。
-    estimatedTime: 約3分鐘
+    - 從東京搭上越新幹線至越後湯澤站。
+    - 於越後湯澤站轉乘北越急行，至まつだい站約 45 分鐘。
+    - 從まつだい站至雪場約 2km，可搭計程車約 3 分鐘或步行約 15 分鐘。
     difficulty: easy
-    note: 時間為まつだい站至雪場的計程車目安。
+    note: 雪場位於國道 253 號沿線。
   car:
-    recommended: false
+    recommended: true
     snowTireRequired: true
-    note: 從六日町 IC 約 50 分鐘，從上越 IC 約 50 分鐘；停車約 120 台且免費。
+    note: 東京方向由六日町 IC 經國道 17、253 號約 50 分鐘；新潟方向由越後川口 IC 經國道 117、253 號約 50 分鐘；上越方向經國道 253 號約 60 分鐘。停車場可停普通車 120 台，全天免費。
 terrainSummary:
-  snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-  beginner: 初級雪道約 50%，可安排暖身、基礎練習或親子滑行。
-  intermediate: 中級雪道約 30%，是主要滑行與轉彎練習區段。
-  advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
+  snowboard: 高級雪道受到雙板與雪板使用者歡迎；實際開放範圍請以當日公告為準。
+  beginner: 林間緩坡雪道，適合初學者與親子同行。
+  intermediate: 北向寬闊雪道，每日早晚整備各一次，可用於練習技術。
+  advanced: 第 2 纜車下站可欣賞自然全景。
 ---
 
-十日町市松代 Family位在新潟縣，雪道數為3 條，搭配 2 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向初學者練習、親子同行。
+松代家庭滑雪場位在新潟縣十日町市松代，設有 3 條雪道與 2 座纜車。初、中、高級雪道各 1 條，最長滑行距離為 800m；初級林間緩坡適合親子與初學者，中級北向寬闊雪道則供技術練習。

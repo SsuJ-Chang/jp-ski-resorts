@@ -7,8 +7,8 @@ name:
 region: kanto-koshinetsu
 prefecture: 長野縣
 location:
-  latitude: 36.799595
-  longitude: 138.425031
+  latitude: 36.799873859524375
+  longitude: 138.42713238650657
 elevation:
   top: 1050
   bottom: 700
@@ -24,7 +24,7 @@ links:
   instagram: https://www.instagram.com/xjam_takaifuji/
   xTwitter: https://x.com/JamzoX
   weather: https://weathernews.jp/ski/spot/34862/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=X-JAM%20Takaifuji
+  googleMaps: https://maps.app.goo.gl/WLaBhk5NwsizjqXW7
   trailMapPage: https://x-jam.jp/trail/
   ticket: https://x-jam.jp/liftpass/
   access: https://x-jam.jp/access/
@@ -33,7 +33,7 @@ contact:
     zhTw: 〒381-0405 長野縣下高井郡山之內町夜間瀨 12713-94
     ja: 〒381-0405 長野県下高井郡山ノ内町夜間瀬12713-94
     en: 12713-94 Yomase, Yamanouchi-machi, Shimotakai-gun, Nagano 381-0405
-    googleMaps: https://www.google.com/maps/search/?api=1&query=X-JAM%20Takaifuji
+    googleMaps: https://maps.app.goo.gl/WLaBhk5NwsizjqXW7
   phone: 0269-33-6252
 season:
   label: 2026-2027
