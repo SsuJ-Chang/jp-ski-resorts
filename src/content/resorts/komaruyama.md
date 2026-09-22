@@ -86,6 +86,10 @@ tickets:
       priceLines:
         - 成人、兒童、Senior：¥1,500
       note: 需各自出示可確認為長野縣民的證件；夜滑營業時含夜滑券，並附餐廳小丸山 10% 折價券。
+  earlyBird:
+    - name: SURF & SNOW
+      url: https://surfsnow.jp/guide/htm/r0112tk.htm
+      deadline: "2026-12-18"
 snowWeather:
   title: 小丸山雪況預報
   provider: Weathernews

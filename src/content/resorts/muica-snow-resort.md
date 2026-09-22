@@ -56,6 +56,10 @@ tickets:
     - name: Snow Escalator
       priceLines:
         - 成人、兒童：¥1,000
+  earlyBird:
+    - name: SURF & SNOW
+      url: https://surfsnow.jp/guide/htm/r0039tk.htm
+      deadline: "2026-12-18"
 snowWeather:
   title: Muica Snow Resort雪況預報
   provider: Weathernews

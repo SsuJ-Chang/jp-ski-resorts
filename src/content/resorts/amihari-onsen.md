@@ -40,6 +40,9 @@ tickets:
     - name: 完美行【超早鳥7折優惠】成人纜車1日券
       url: https://tw.wamazing.com/snow/items/15053
       deadline: "2026-09-30"
+    - name: SURF & SNOW
+      url: https://surfsnow.jp/guide/htm/r0700tk.htm
+      deadline: "2026-09-30"
 snowWeather:
   title: 網張溫泉雪況天氣
   provider: Weathernews

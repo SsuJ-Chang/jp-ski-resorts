@@ -66,6 +66,13 @@ tickets:
       priceLines:
         - 成人、長者 ¥2,300
         - 兒童、學齡前兒童 ¥1,500
+  earlyBird:
+    - name: SURF & SNOW 北パラダスキー場
+      url: https://surfsnow.jp/guide/htm/r0105tk.htm
+      deadline: "2026-10-31"
+    - name: SURF & SNOW 南パラダスキー場
+      url: https://surfsnow.jp/guide/htm/r1021tk.htm
+      deadline: "2026-10-31"
 snowWeather:
   title: 佐久 Ski Garden Parada雪況預報
   provider: Weathernews

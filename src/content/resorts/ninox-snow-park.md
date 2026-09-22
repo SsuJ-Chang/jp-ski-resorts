@@ -68,6 +68,9 @@ tickets:
     - name: 完美行【早鳥優惠】夜間纜車券
       url: https://tw.wamazing.com/snow/items/15455
       deadline: "2026-12-16"
+    - name: SURF & SNOW
+      url: https://surfsnow.jp/guide/htm/r0970tk.htm
+      deadline: "2026-12-16"
 snowWeather:
   title: Ninox Snow Park雪況預報
   provider: Weathernews
