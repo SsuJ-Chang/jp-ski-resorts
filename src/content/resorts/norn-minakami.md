@@ -103,6 +103,10 @@ tickets:
       priceLines:
         - 1 回券：¥700
         - 11 回券：¥7,000
+  earlyBird:
+    - name: SURF & SNOW
+      url: https://surfsnow.jp/guide/htm/r0071tk.htm
+      deadline: "2026-12-17"
 snowWeather:
   title: Norn 水上雪況天氣
   provider: Weathernews

@@ -76,7 +76,12 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://example.com/tickets/
+  earlyBird:
+    - name: Example ticket provider
+      url: https://example.com/early-bird-tickets/
+      deadline: "2026-12-31"
   note: 主要票種摘要；完整票價、線上優惠與 IC 卡規則請以官方頁面為準。
+
   plans:
     - name: 1 日券
       priceLines:

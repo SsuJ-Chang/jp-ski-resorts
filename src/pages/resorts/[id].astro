@@ -33,6 +33,14 @@ const hasLodgingRecommendations = (resort.data.lodgingRecommendations?.length ??
 const nearbyLodgingUrl = resort.data.location
   ? `https://www.google.com/maps/search/lodging/@${resort.data.location.latitude},${resort.data.location.longitude},13z`
   : undefined
+const earlyBirds = resort.data.tickets?.earlyBird ?? []
+const taiwanToday = new Intl.DateTimeFormat('sv-SE', {
+  timeZone: 'Asia/Taipei',
+  year: 'numeric',
+  month: '2-digit',
+  day: '2-digit',
+}).format(new Date())
+const availableEarlyBirds = earlyBirds.filter((item) => item.deadline >= taiwanToday)
 const hasRjOpinion = Boolean(resort.data.rjOpinion?.trim())
 const externalGuide = resort.data.externalGuide
 
@@ -294,7 +302,7 @@ const resortStructuredData = [
 ---
 
 <BaseLayout
-  title={`${resort.data.name.zhTw} | 日本滑雪場指南`}
+  title={`${resort.data.name.zhTw}｜雪道、住宿、雪票與交通｜日本滑雪場指南`}
   description={resortDescription}
   canonicalPath={resortCanonicalPath}
   structuredData={resortStructuredData}
@@ -674,35 +682,56 @@ const resortStructuredData = [
       }
 
       {
-        resort.data.tickets && (
+        resort.data.tickets && (resort.data.tickets.plans?.length || availableEarlyBirds.length > 0) && (
           <section class="info-panel detail-panel detail-panel--wide">
             <div class="section-heading-row">
               <h2>票種</h2>
-              <a
-                href={resort.data.tickets.source}
-                target="_blank"
-                rel="noreferrer"
-                data-analytics-resource="ticket_price"
-                data-analytics-label="官方票價"
-                data-analytics-note={resort.data.tickets.note}
-              >
-                官方票價
-              </a>
+              {resort.data.tickets.source && (
+                <a
+                  href={resort.data.tickets.source}
+                  target="_blank"
+                  rel="noreferrer"
+                  data-analytics-resource="ticket_price"
+                  data-analytics-label="官方票價"
+                  data-analytics-note={resort.data.tickets.note}
+                >
+                  官方票價
+                </a>
+              )}
             </div>
             {resort.data.tickets.note && <p class="panel-note">{resort.data.tickets.note}</p>}
-            <div class="ticket-grid">
-              {resort.data.tickets.plans.map((plan) => (
-                <article class="ticket-card">
-                  <h3>{plan.name}</h3>
-                  <ul class="ticket-card__prices">
-                    {plan.priceLines.map((priceLine) => (
-                      <li>{priceLine}</li>
-                    ))}
-                  </ul>
-                  {plan.note && <small>{plan.note}</small>}
-                </article>
-              ))}
-            </div>
+            {resort.data.tickets.plans && (
+              <div class="ticket-grid">
+                {resort.data.tickets.plans.map((plan) => (
+                  <article class="ticket-card">
+                    <h3>{plan.name}</h3>
+                    <ul class="ticket-card__prices">
+                      {plan.priceLines.map((priceLine) => (
+                        <li>{priceLine}</li>
+                      ))}
+                    </ul>
+                    {plan.note && <small>{plan.note}</small>}
+                  </article>
+                ))}
+              </div>
+            )}
+            {availableEarlyBirds.length > 0 && (
+              <div class="resource-section ticket-search-resource" data-early-bird-section>
+                <h3>早鳥票</h3>
+                <ul class="resource-list">
+                  {availableEarlyBirds.map((earlyBird) => (
+                    <li data-early-bird-item data-early-bird-until={earlyBird.deadline}>
+                      <div>
+                        <a href={earlyBird.url} target="_blank" rel="noreferrer">
+                          {earlyBird.name}
+                        </a>
+                        <span>期限：{earlyBird.deadline.replaceAll('-', '/')}</span>
+                      </div>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
           </section>
         )
       }
@@ -948,4 +977,26 @@ const resortStructuredData = [
       }
     </section>
   </main>
+  <script>
+    const todayInTaiwan = new Intl.DateTimeFormat('sv-SE', {
+      timeZone: 'Asia/Taipei',
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit',
+    }).format(new Date())
+
+    document.querySelectorAll('[data-early-bird-item]').forEach((element) => {
+      const until = element.getAttribute('data-early-bird-until')
+
+      if (until && until < todayInTaiwan) {
+        element.remove()
+      }
+    })
+
+    document.querySelectorAll('[data-early-bird-section]').forEach((section) => {
+      if (!section.querySelector('[data-early-bird-item]')) {
+        section.remove()
+      }
+    })
+  </script>
 </BaseLayout>

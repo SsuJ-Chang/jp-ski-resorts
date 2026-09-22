@@ -37,6 +37,14 @@ season:
   operatingPeriod: 2025/12/12-2026/03/29
   note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
   source: https://weathernews.jp/ski/spot/33404/
+tickets:
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
+    - name: SURF & SNOW
+      url: https://surfsnow.jp/guide/htm/r0024tk.htm
+      deadline: "2026-11-30"
 snowWeather:
   title: 宮城藏王黑帽子雪況天氣
   provider: Weathernews

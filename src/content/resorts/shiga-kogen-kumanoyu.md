@@ -73,6 +73,10 @@ tickets:
       priceLines:
         - 夜間券（18:30-21:00）：成人3,000日圓 / 兒童1,500日圓
         - 早朝券（6:00-8:30）：成人2,500日圓 / 中高校生與長者2,300日圓 / 兒童1,700日圓
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15071
+      deadline: "2026-10-31"
 snowWeather:
   title: 熊之湯雪況天氣
   provider: Official

@@ -92,6 +92,13 @@ tickets:
         - 成人、熟齡：¥5,300
         - 兒童：¥2,700
       note: 季初期間 2025/12/19-12/26；春滑期間 2026/3/16-3/29。
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15135
+      deadline: "2026-12-13"
 snowWeather:
   title: 白馬岩岳雪況天氣
   provider: Weathernews

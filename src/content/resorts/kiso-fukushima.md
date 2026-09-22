@@ -98,6 +98,10 @@ tickets:
       priceLines:
         - 小學生以上：¥500
       note: 購買 1 日券、下午券或季票者可免費入場。
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15046
+      deadline: "2026-11-30"
 snowWeather:
   title: 木曾福島雪況預報
   provider: Weathernews

@@ -72,6 +72,10 @@ tickets:
     - name: 1 點券
       priceLines:
         - 共通 ¥600
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
 snowWeather:
   title: Hunter Mountain 鹽原雪況天氣
   provider: Weathernews

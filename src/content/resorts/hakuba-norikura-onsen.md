@@ -59,6 +59,10 @@ tickets:
     - name: 1 日券
       priceLines:
         - 待依 2025-2026 官網票價頁補齊
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15125
+      deadline: "2026-12-11"
 snowWeather:
   title: 白馬乘鞍溫泉雪況天氣
   provider: Weathernews

@@ -80,6 +80,13 @@ tickets:
         - 成人：¥5,900
         - 長者、國中生：¥5,000
         - 小學生：¥3,500
+  earlyBird:
+    - name: 完美行【超早鳥優惠】纜車1日券
+      url: https://tw.wamazing.com/snow/items/15364
+      deadline: "2026-09-30"
+    - name: 完美行【超早鳥優惠】纜車4小時券
+      url: https://tw.wamazing.com/snow/items/15313
+      deadline: "2026-09-30"
 snowWeather:
   title: 池之平雪況天氣
   provider: Weathernews

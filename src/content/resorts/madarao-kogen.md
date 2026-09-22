@@ -125,6 +125,10 @@ tickets:
         - 兒童（6～12 歲）：¥36,500
         - 5 歲以下：¥9,000
       note: 可使用斑尾高原與 Tangram 全部纜車；斑尾高原可夜滑，Tangram 不含夜滑，且不可改名。
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15176
+      deadline: "2026-12-11"
 snowWeather:
   title: 斑尾高原雪況天氣
   provider: Weathernews

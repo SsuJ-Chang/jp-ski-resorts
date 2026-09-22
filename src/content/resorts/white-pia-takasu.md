@@ -57,6 +57,10 @@ tickets:
         - 兒童：¥3,800
         - 長者：¥5,500
         - 國中生、高中生：¥4,500
+  earlyBird:
+    - name: SURF & SNOW
+      url: https://surfsnow.jp/guide/htm/r0194tk.htm
+      deadline: "2026-03-28"
 snowWeather:
   title: White Pia 高鷲雪況天氣
   provider: Weathernews

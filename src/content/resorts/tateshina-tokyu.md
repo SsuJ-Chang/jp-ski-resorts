@@ -88,6 +88,10 @@ tickets:
         - 兒童、長者：¥5,100
         - 幼兒：適用纜車、雪地電扶梯 2 日券票價
       note: 不可搭乘纜車。
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
 snowWeather:
   title: 蓼科東急雪況預報
   provider: Weathernews

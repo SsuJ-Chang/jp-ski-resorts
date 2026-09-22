@@ -30,7 +30,7 @@ links:
   googleMaps: https://maps.app.goo.gl/5YwnV3AzvypPmG6MA
 contact:
   address:
-    zhTw: 〒679-3125 兵庫縣神崎郡神河町上小田881-146
+    zhTw: 〒679-3125 兵庫縣神崎郡神河町上小田 881-146
     ja: 〒679-3125 兵庫県神崎郡神河町上小田881-146
     en: 881-146 Ueoda, Kanzaki District Kamikawa, Hyogo 679-3125
     googleMaps: https://maps.app.goo.gl/5YwnV3AzvypPmG6MA
@@ -85,6 +85,19 @@ tickets:
       priceLines:
         - 免費
       note: 小學未入學兒童搭乘纜車僅需支付 IC 卡押金 ¥500，歸還卡片時退還。
+  earlyBird:
+    - name: 完美行【早鳥優惠/平日】纜車1日券
+      url: https://tw.wamazing.com/snow/items/15506
+      deadline: "2026-11-30"
+    - name: 完美行【早鳥優惠/週末及國定假日】纜車1日券
+      url: https://tw.wamazing.com/snow/items/15507
+      deadline: "2026-11-30"
+    - name: 完美行【早鳥優惠/平日】纜車6小時券
+      url: https://tw.wamazing.com/snow/items/15508
+      deadline: "2026-11-30"
+    - name: 完美行【早鳥優惠/週末及國定假日】纜車6小時券
+      url: https://tw.wamazing.com/snow/items/15509
+      deadline: "2026-11-30"
 snowWeather:
   title: 峰山高原 WHITE PEAK 雪況天氣
   provider: Weathernews

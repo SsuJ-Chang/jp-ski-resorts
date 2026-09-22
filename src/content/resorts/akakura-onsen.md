@@ -77,6 +77,10 @@ tickets:
         - 長者、國中生：¥6,800
         - 兒童（小學生以下）：¥2,500
       note: 官方列為包含夜滑的 1 日票種
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15457
+      deadline: "2026-09-30"
 snowWeather:
   title: 赤倉溫泉雪況天氣
   provider: Weathernews

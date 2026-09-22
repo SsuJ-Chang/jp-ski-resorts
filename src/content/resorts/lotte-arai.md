@@ -71,6 +71,19 @@ tickets:
         - 成人（19–49 歲）：¥14,500
         - 長者（50 歲以上）：¥13,500
         - 兒童（7–18 歲）：¥9,500
+  earlyBird:
+    - name: 完美行【早鳥優惠／經濟型】纜車1日券・雙板滑雪租借套組
+      url: https://tw.wamazing.com/snow/items/15364
+      deadline: "2026-11-30"
+    - name: 完美行【早鳥優惠／升等型】纜車1日券＋雙板滑雪租借套組
+      url: https://tw.wamazing.com/snow/items/15365
+      deadline: "2026-11-30"
+    - name: 完美行【早鳥優惠／經濟型】纜車1日券＋單板滑雪租借套組
+      url: https://tw.wamazing.com/snow/items/15366
+      deadline: "2026-11-30"
+    - name: 完美行【早鳥優惠／升等型】纜車1日券＋單板滑雪租借套組
+      url: https://tw.wamazing.com/snow/items/15367
+      deadline: "2026-11-30"
 snowWeather:
   title: 樂天新井雪況天氣
   provider: Weathernews

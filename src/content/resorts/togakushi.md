@@ -77,6 +77,10 @@ tickets:
         - 成人：¥6,000
         - 兒童：¥4,000
         - 長者：¥5,000
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15707
+      deadline: "2026-11-30"
 snowWeather:
   title: 戶隱雪況預報
   provider: Weathernews

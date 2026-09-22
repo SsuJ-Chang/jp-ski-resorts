@@ -210,6 +210,7 @@ tree_run
 | `season` | 是 | string | 票價所屬雪季。 |
 | `currency` | 否 | string | 幣別，預設 `JPY`。 |
 | `source` | 是 | URL | 官方票價來源。 |
+| `earlyBird` | 否 | array | 早鳥票連結清單；每筆都必須填寫 `name`、`url`、`deadline`，期限格式為 `YYYY-MM-DD`。期限當天仍顯示，隔天起隱藏該項目。 |
 | `note` | 否 | string | 票價備註。 |
 | `plans` | 是 | array | 主要票種，至少一筆。 |
 

@@ -118,6 +118,10 @@ tickets:
       priceLines:
         - 一律：¥3,500
       note: 2026/3/23-最終營業日。
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
 snowWeather:
   title: 菅平高原 Snow Resort 雪況天氣
   provider: Weathernews

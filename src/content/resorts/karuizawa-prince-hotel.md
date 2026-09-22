@@ -59,6 +59,13 @@ tickets:
       priceLines:
         - 成人：¥9,000
         - 兒童：免費
+  earlyBird:
+    - name: 完美行【初滑早鳥優惠】纜車1日券×2張
+      url: https://tw.wamazing.com/snow/items/15566
+      deadline: "2026-10-30"
+    - name: 完美行【早鳥優惠】纜車1日券×2張
+      url: https://tw.wamazing.com/snow/items/15565
+      deadline: "2026-12-18"
 snowWeather:
   title: 輕井澤王子大飯店雪況預報
   provider: Weathernews

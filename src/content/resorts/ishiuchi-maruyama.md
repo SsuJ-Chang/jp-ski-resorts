@@ -111,6 +111,19 @@ tickets:
         - 成人：¥5,600
         - 小國中生：¥3,000
       note: 官網列為事前 Web（國內）票種。
+  earlyBird:
+    - name: 完美行【早鳥優惠】纜車1日券（全天）
+      url: https://tw.wamazing.com/snow/items/15692
+      deadline: "2026-12-14"
+    - name: 完美行【早鳥優惠】纜車2日券（全天）
+      url: https://tw.wamazing.com/snow/items/15693
+      deadline: "2026-12-14"
+    - name: 完美行【早鳥優惠】纜車1日券×3張（全天）
+      url: https://tw.wamazing.com/snow/items/15694
+      deadline: "2026-12-14"
+    - name: SURF & SNOW
+      url: https://surfsnow.jp/guide/htm/r0788tk.htm
+      deadline: "2026-12-15"
 snowWeather:
   title: 石打丸山雪況天氣
   provider: Official

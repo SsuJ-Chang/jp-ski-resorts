@@ -56,6 +56,10 @@ tickets:
         - 成人：¥5,000
         - 兒童：免費
         - 長者：¥5,000
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
 snowWeather:
   title: 六日町八海山雪況預報
   provider: Weathernews
