@@ -682,35 +682,39 @@ const resortStructuredData = [
       }
 
       {
-        resort.data.tickets && (
+        resort.data.tickets && (resort.data.tickets.plans?.length || availableEarlyBirds.length > 0) && (
           <section class="info-panel detail-panel detail-panel--wide">
             <div class="section-heading-row">
               <h2>票種</h2>
-              <a
-                href={resort.data.tickets.source}
-                target="_blank"
-                rel="noreferrer"
-                data-analytics-resource="ticket_price"
-                data-analytics-label="官方票價"
-                data-analytics-note={resort.data.tickets.note}
-              >
-                官方票價
-              </a>
+              {resort.data.tickets.source && (
+                <a
+                  href={resort.data.tickets.source}
+                  target="_blank"
+                  rel="noreferrer"
+                  data-analytics-resource="ticket_price"
+                  data-analytics-label="官方票價"
+                  data-analytics-note={resort.data.tickets.note}
+                >
+                  官方票價
+                </a>
+              )}
             </div>
             {resort.data.tickets.note && <p class="panel-note">{resort.data.tickets.note}</p>}
-            <div class="ticket-grid">
-              {resort.data.tickets.plans.map((plan) => (
-                <article class="ticket-card">
-                  <h3>{plan.name}</h3>
-                  <ul class="ticket-card__prices">
-                    {plan.priceLines.map((priceLine) => (
-                      <li>{priceLine}</li>
-                    ))}
-                  </ul>
-                  {plan.note && <small>{plan.note}</small>}
-                </article>
-              ))}
-            </div>
+            {resort.data.tickets.plans && (
+              <div class="ticket-grid">
+                {resort.data.tickets.plans.map((plan) => (
+                  <article class="ticket-card">
+                    <h3>{plan.name}</h3>
+                    <ul class="ticket-card__prices">
+                      {plan.priceLines.map((priceLine) => (
+                        <li>{priceLine}</li>
+                      ))}
+                    </ul>
+                    {plan.note && <small>{plan.note}</small>}
+                  </article>
+                ))}
+              </div>
+            )}
             {availableEarlyBirds.length > 0 && (
               <div class="resource-section ticket-search-resource" data-early-bird-section>
                 <h3>早鳥票</h3>

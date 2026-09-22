@@ -194,9 +194,9 @@ const resorts = defineCollection({
     trailMaps: z.array(trailMapSchema).optional(),
     tickets: z
       .object({
-        season: z.string(),
+        season: z.string().optional(),
         currency: z.string().default('JPY'),
-        source: z.url(),
+        source: z.url().optional(),
         earlyBird: z
           .array(
             z.object({
@@ -209,7 +209,19 @@ const resorts = defineCollection({
           )
           .optional(),
         note: z.string().optional(),
-        plans: z.array(ticketPlanSchema).min(1),
+        plans: z.array(ticketPlanSchema).min(1).optional(),
+      })
+      .refine((tickets) => !tickets.plans || Boolean(tickets.season), {
+        message: 'tickets.season is required when tickets.plans is provided',
+        path: ['season'],
+      })
+      .refine((tickets) => !tickets.plans || Boolean(tickets.source), {
+        message: 'tickets.source is required when tickets.plans is provided',
+        path: ['source'],
+      })
+      .refine((tickets) => Boolean(tickets.plans) || Boolean(tickets.earlyBird?.length), {
+        message: 'tickets must include plans or earlyBird',
+        path: ['plans'],
       })
       .optional(),
     snowWeather: snowWeatherSchema.optional(),
