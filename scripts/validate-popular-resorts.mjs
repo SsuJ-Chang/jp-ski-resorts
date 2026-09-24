@@ -14,7 +14,7 @@ const resortIds = new Set(
     .filter(Boolean),
 )
 
-const entries = [...source.matchAll(/\{\s*id:\s*'([^']+)'\s*,\s*data:\s*'([^']+)'/g)]
+const entries = [...source.matchAll(/\{\s*id:\s*'([^']+)'\s*,\s*data:\s*'([^']*)'\s*,\s*previousRank:\s*(null|\d+)\s*\}/g)]
 const errors = []
 const seenIds = new Set()
 
@@ -22,15 +22,18 @@ if (entries.length < 5) {
   console.warn(`[popular-resorts] 目前只有 ${entries.length} 筆，功能將停用。`)
 }
 
-for (const [, id, value] of entries) {
+for (const [, id, value, previousRank] of entries) {
   if (seenIds.has(id)) errors.push(`雪場 id 重複：${id}`)
   seenIds.add(id)
 
   if (!resortIds.has(id)) errors.push(`找不到對應的雪場內容：${id}`)
 
-  if (!/^\d{1,3}(?:\.\d{1,2})?$/.test(value)) {
+  if (value !== '' && !/^\d{1,3}(?:\.\d{1,2})?$/.test(value)) {
     errors.push(`data 必須是 0 到 100、最多兩位小數的字串：${id} = ${value}`)
-    continue
+  }
+
+  if (previousRank !== 'null' && Number(previousRank) < 1) {
+    errors.push(`previousRank 必須是 null 或正整數：${id} = ${previousRank}`)
   }
 
 }

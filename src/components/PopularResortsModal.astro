@@ -6,6 +6,7 @@ type PopularResort = {
   name: string
   region: string
   data: string
+  previousRank: number | null
   note?: string
 }
 
@@ -46,7 +47,29 @@ const { title, description, period, version, showData = true, autoShow = false, 
             <span class="popular-resort__name">{resort.name}</span>
             <span class="popular-resort__meta">{resort.region}{resort.note ? `・${resort.note}` : ''}</span>
           </span>
-          {showData && <span class="popular-resort__data">{resort.data}%</span>}
+          <span class:list={['popular-resort__change', {
+            'popular-resort__change--up': resort.previousRank !== null && index + 1 < resort.previousRank,
+            'popular-resort__change--down': resort.previousRank !== null && index + 1 > resort.previousRank,
+            'popular-resort__change--same': resort.previousRank !== null && index + 1 === resort.previousRank,
+            'popular-resort__change--new': resort.previousRank === null,
+          }]}
+            aria-label={resort.previousRank === null
+              ? '新進榜'
+              : index + 1 < resort.previousRank
+                ? `上升 ${resort.previousRank - (index + 1)} 名`
+                : index + 1 > resort.previousRank
+                  ? `下降 ${index + 1 - resort.previousRank} 名`
+                  : '排名不變'}
+          >
+            {resort.previousRank === null
+              ? 'NEW'
+              : index + 1 < resort.previousRank
+                ? `↑ ${resort.previousRank - (index + 1)}`
+                : index + 1 > resort.previousRank
+                  ? `↓ ${index + 1 - resort.previousRank}`
+                  : '-'}
+          </span>
+          {showData && <span class="popular-resort__data">{resort.data ? `${resort.data}%` : '—'}</span>}
         </a>
       ))}
     </div>

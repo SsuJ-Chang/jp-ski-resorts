@@ -6,6 +6,8 @@ name:
   en: Sapporo Kokusai Ski Resort
 region: hokkaido
 prefecture: 北海道
+popularResortNote:
+  zhTw: 粉雪、長距離雪道與山頂景觀兼具
 location:
   latitude: 43.07233110405179
   longitude: 141.08276104232897

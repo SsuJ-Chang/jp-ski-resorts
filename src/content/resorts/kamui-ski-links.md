@@ -6,6 +6,8 @@ name:
   en: Kamui Ski Links
 region: hokkaido
 prefecture: 北海道
+popularResortNote:
+  zhTw: 北海道北部的大型雪道與粉雪雪場
 location:
   latitude: 43.70513375276238
   longitude: 142.18710199999998

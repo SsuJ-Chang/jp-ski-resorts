@@ -6,6 +6,8 @@ name:
   en: Tsugaike Mountain Resort
 region: kanto-koshinetsu
 prefecture: 長野縣
+popularResortNote:
+  zhTw: 寬廣緩坡、粉雪與多樣化雪道
 skiArea: hakuba
 location:
   latitude: 36.74932993549222

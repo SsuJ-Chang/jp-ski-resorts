@@ -6,6 +6,8 @@ name:
   en: Zao Onsen Ski Resort
 region: tohoku
 prefecture: 山形縣
+popularResortNote:
+  zhTw: 樹冰、溫泉與經典東北雪景一次體驗
 location:
   latitude: 38.165314954041435
   longitude: 140.39526757116448

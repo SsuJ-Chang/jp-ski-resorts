@@ -50,6 +50,7 @@ const popularResortItems = popularResorts.resorts
       ...entry,
       name: resort.data.name.zhTw,
       region: regions.find((region) => region.key === resort.data.region)?.name.zhTw ?? resort.data.region,
+      previousRank: entry.previousRank,
       note: resort.data.popularResortNote?.zhTw,
     }
   })
