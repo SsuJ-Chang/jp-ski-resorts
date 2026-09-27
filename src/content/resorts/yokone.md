@@ -53,7 +53,7 @@ courses:
   intermediateRatio: 100
   advancedRatio: 0
   courseInfoPage: https://weathernews.jp/ski/spot/33532/
-  summary: 橫根共有 1 條雪道，難度比例約初級 0%、中級 100%、進階 0%，適合依雪況與同行者程度安排滑行路線。
+  summary: 橫根共有 1 條雪道，難度比例約初級 0%、中級 100%、進階 0%，中級雪道比例較高，適合依同行者程度安排分區滑行。
   details:
     - name: 中級路線
       difficulty: intermediate

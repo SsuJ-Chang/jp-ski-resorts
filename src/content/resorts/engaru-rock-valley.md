@@ -53,7 +53,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 40
   courseInfoPage: https://weathernews.jp/ski/spot/31710/
-  summary: Engaru Rock Valley共有 6 條雪道，難度比例約初級 20%、中級 40%、進階 40%，適合依雪況與同行者程度安排滑行路線。
+  summary: Engaru Rock Valley 共有 6 條雪道，難度比例約初級 20%、中級 40%、進階 40%，中高級雪道比例較高，適合有經驗的滑雪者挑戰。
   details:
     - name: 初級路線
       difficulty: beginner

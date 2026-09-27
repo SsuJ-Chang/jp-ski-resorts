@@ -69,7 +69,7 @@ snowWeather:
 courses:
   total: 17
   courseInfoPage: https://charmant-hiuchi.jp/
-  summary: 共 17 條雪道、3 座纜車，初級 30%、中級 40%、高級 30%。
+  summary: Charmant 火打滑雪場：共 17 條雪道、3 座纜車，初級 30%、中級 40%、高級 30%。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

@@ -67,7 +67,7 @@ snowWeather:
 courses:
   total: 4
   courseInfoPage: https://snow.budoh-resorts.jp/
-  summary: 共 4 條雪道、2 座纜車，初級 10%、中級 70%、高級 20%。
+  summary: Budoh Snow Resort滑雪場：共 4 條雪道、2 座纜車，初級 10%、中級 70%、高級 20%。
   beginnerRatio: 10
   intermediateRatio: 70
   advancedRatio: 20

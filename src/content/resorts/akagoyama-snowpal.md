@@ -71,7 +71,7 @@ snowWeather:
 courses:
   total: 1
   courseInfoPage: https://woodypal.jp/
-  summary: 共 1 條雪道；本資料依官方雪道頁整理主要雪道，並以公開難度比例作為總覽參考。
+  summary: 赤子山 Snowpal 滑雪場：共 1 條雪道；本資料依官方雪道頁整理主要雪道，並以公開難度比例作為總覽參考。
   details:
   - name: スノーパルゲレンデ
     difficulty: beginner

@@ -91,7 +91,7 @@ snowWeather:
 courses:
   total: 6
   courseInfoPage: https://whitebirch.co.jp/kokusai/
-  summary: 官方列出 6 條雪道：最長為 5,000m 的クロカン&チャレンジコース；メインコース與サラブレッドコース各長 1,300m。另有 100m 的スピチャレ速度測量區與 150m 的ビギナーパーク。
+  summary: 白樺高原國際滑雪場：官方列出 6 條雪道：最長為 5,000m 的クロカン&チャレンジコース；メインコース與サラブレッドコース各長 1,300m。另有 100m 的スピチャレ速度測量區與 150m 的ビギナーパーク。
   details:
   - name: ラビットコース
     difficulty: beginner

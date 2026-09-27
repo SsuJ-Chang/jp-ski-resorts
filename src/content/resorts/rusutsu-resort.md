@@ -99,7 +99,7 @@ courses:
   intermediateRatio: 32
   advancedRatio: 41
   courseInfoPage: https://rusutsu.com/trail-map/
-  summary: 留壽都由 West Mt.、East Mt. 與 Mt. Isola 三座山峰組成，設有 37 條雪道、4 座纜車與 14 座滑雪吊椅，從寬廣緩坡到陡峭非壓雪路線都有。最長的 Isola Grand 達 3,500m，並以長距離巡航、粉雪與多樣地形為特色。
+  summary: 留壽都渡假村滑雪場：留壽都由 West Mt.、East Mt. 與 Mt. Isola 三座山峰組成，設有 37 條雪道、4 座纜車與 14 座滑雪吊椅，從寬廣緩坡到陡峭非壓雪路線都有。最長的 Isola Grand 達 3,500m，並以長距離巡航、粉雪與多樣地形為特色。
   details:
   - name: ファミリーコース
     difficulty: beginner

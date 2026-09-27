@@ -78,7 +78,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://sapporo-moiwa.jp/skiareainformation/
-  summary: 札幌藻岩山在北海道人氣雪場清單列為第 18 名。共有 10 條雪道、5 座纜車，難度比例為初級 40%、中級 40%、上級 20%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
+  summary: 札幌藻岩山滑雪場：共有 10 條雪道、5 座纜車，難度比例為初級 40%、中級 40%、上級 20%。
   details:
   - name: うさぎ平コース
     difficulty: advanced

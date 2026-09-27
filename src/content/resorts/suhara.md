@@ -66,7 +66,7 @@ snowWeather:
 courses:
   total: 10
   courseInfoPage: http://www.suhara-ski.com/
-  summary: 共 10 條雪道、2 座纜車，初級 30%、中級 40%、高級 30%。
+  summary: 須原滑雪場：共 10 條雪道、2 座纜車，初級 30%、中級 40%、高級 30%。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

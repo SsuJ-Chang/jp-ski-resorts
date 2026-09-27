@@ -52,7 +52,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 35
   courseInfoPage: https://weathernews.jp/ski/spot/31216/
-  summary: 新得山共有 3 條雪道，難度比例約初級 35%、中級 30%、進階 35%，適合依雪況與同行者程度安排滑行路線。
+  summary: 新得山共有 3 條雪道，難度比例約初級 35%、中級 30%、進階 35%，難度分布多元，可依同行者程度規劃滑行區域。
   details:
     - name: 初級路線
       difficulty: beginner

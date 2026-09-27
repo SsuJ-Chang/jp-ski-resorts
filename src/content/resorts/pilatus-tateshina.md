@@ -81,7 +81,7 @@ snowWeather:
 courses:
   total: 7
   courseInfoPage: https://www.pilatus.jp/gelande/
-  summary: 共 7 條雪道，自海拔 2,240m 起滑，最長滑走距離 4,000m。由 100 人乘大型纜車直達山頂，可在日本三大阿爾卑斯山脈與八岳的雪景間長距離滑行。
+  summary: Pilatus 蓼科滑雪度假村滑雪場：共 7 條雪道，自海拔 2,240m 起滑，最長滑走距離 4,000m。由 100 人乘大型纜車直達山頂，可在日本三大阿爾卑斯山脈與八岳的雪景間長距離滑行。
   details:
   - name: もみの木コース
     difficulty: beginner

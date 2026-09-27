@@ -56,7 +56,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://weathernews.jp/ski/spot/33405/
-  summary: 宮城藏王澄川雪樂園共有 9 條雪道，難度比例約初級 40%、中級 40%、進階 20%，適合依雪況與同行者程度安排滑行路線。
+  summary: 宮城藏王澄川雪樂園共有 9 條雪道，難度比例約初級 40%、中級 40%、進階 20%，中級雪道比例較高，適合依同行者程度安排分區滑行。
   details:
     - name: 初級路線 1
       difficulty: beginner

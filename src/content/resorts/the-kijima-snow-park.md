@@ -88,7 +88,7 @@ courses:
   advancedRatio: 20
   total: 5
   courseInfoPage: https://iiyama-makinoiri.snowpark.jp/snow/slopes/
-  summary: 共 5 條雪道，以初、中級雪道為主；另有非壓雪粉雪區與競技用旗門場地，開放狀態依現場公告為準。
+  summary: The Kijima Snow Park 滑雪場：共 5 條雪道，以初、中級雪道為主；另有非壓雪粉雪區與競技用旗門場地，開放狀態依現場公告為準。
   details:
     - name: ZONE 4
       difficulty: beginner

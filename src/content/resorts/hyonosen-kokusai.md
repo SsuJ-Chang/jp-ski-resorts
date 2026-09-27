@@ -94,7 +94,7 @@ snowWeather:
 courses:
   total: 5
   courseInfoPage: https://www.hyounosen.jp/gelande/
-  summary: 官方頁面列出 5 條雪道，難度涵蓋初級至上級；其中パノラマコース為初級至中級向，ロマンス右コース則為中級至上級向。
+  summary: 冰之山國際滑雪場：雪道配置有 5 條雪道，難度涵蓋初級至上級；其中パノラマコース為初級至中級向，ロマンス右コース則為中級至上級向。
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner

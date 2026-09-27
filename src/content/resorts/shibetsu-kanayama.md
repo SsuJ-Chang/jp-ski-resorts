@@ -51,7 +51,7 @@ courses:
   intermediateRatio: 35
   advancedRatio: 10
   courseInfoPage: https://weathernews.jp/ski/spot/32104/
-  summary: 標津町營金山共有 5 條雪道，難度比例約初級 55%、中級 35%、進階 10%，適合依雪況與同行者程度安排滑行路線。
+  summary: 標津町營金山共有 5 條雪道，難度比例約初級 55%、中級 35%、進階 10%，難度分布多元，可依同行者程度規劃滑行區域。
   details:
     - name: 初級路線 1
       difficulty: beginner

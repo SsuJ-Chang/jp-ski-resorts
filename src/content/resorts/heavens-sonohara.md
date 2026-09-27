@@ -94,7 +94,7 @@ courses:
   intermediateRatio: 25
   advancedRatio: 25
   courseInfoPage: https://mt-heavens.com/pages/winter
-  summary: 正式雪道共 5 條，初級 50%、中級 25%、上級 25%；最高點 1,600m，最長滑行距離為りんどうコース約 2,000m。
+  summary: 天堂園原滑雪場：正式雪道共 5 條，初級 50%、中級 25%、上級 25%；最高點 1,600m，最長滑行距離為りんどうコース約 2,000m。
   details:
   - name: エンジェルコース
     difficulty: beginner

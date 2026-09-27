@@ -77,7 +77,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 50
   courseInfoPage: https://weathernews.jp/ski/spot/31503/
-  summary: 小樽天狗山在北海道人氣雪場清單列為第 19 名。共有 5 條雪道、1 座纜車，難度比例為初級 10%、中級 40%、上級 50%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
+  summary: 小樽天狗山滑雪場：共有 5 條雪道、1 座纜車，難度比例為初級 10%、中級 40%、上級 50%。
   details:
   - name: A ファミリーコース
     difficulty: beginner

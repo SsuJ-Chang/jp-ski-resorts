@@ -104,7 +104,7 @@ snowWeather:
 courses:
   total: 5
   courseInfoPage: https://ohana-shiga.com/
-  summary: 官方頁面列出 4 條主要雪道，另設有使用移動式步道的兒童雪地區雪道；雪道地圖並標示 4 部ロマンスリフト。
+  summary: Ohana Resort 滑雪場：雪道配置有 4 條主要雪道，另設有使用移動式步道的兒童雪地區雪道；雪道地圖並標示 4 部ロマンスリフト。
   details:
   - name: ムービングコース（ちびっこゲレンデ）
     difficulty: beginner

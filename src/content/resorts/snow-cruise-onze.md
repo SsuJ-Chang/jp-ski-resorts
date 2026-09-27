@@ -57,7 +57,7 @@ courses:
   intermediateRatio: 35
   advancedRatio: 20
   courseInfoPage: https://weathernews.jp/ski/spot/31616/
-  summary: Snow Cruise Onze共有 8 條雪道，難度比例約初級 45%、中級 35%、進階 20%，適合依雪況與同行者程度安排滑行路線。
+  summary: Snow Cruise Onze 共有 8 條雪道，難度比例約初級 45%、中級 35%、進階 20%，難度分布多元，可依同行者程度規劃滑行區域。
   details:
     - name: 初級路線 1
       difficulty: beginner

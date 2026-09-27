@@ -75,7 +75,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 30
   courseInfoPage: https://weathernews.jp/ski/spot/32103/
-  summary: Karurusu 溫泉 Sanlaiva 在北海道人氣雪場清單列為第 13 名。共有 5 條雪道、2 座纜車，難度比例為初級 42%、中級 29%、上級 29%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
+  summary: Karurusu 溫泉 Sanlaiva 滑雪場：共有 5 條雪道、2 座纜車，難度比例為初級 42%、中級 29%、上級 29%。
   details:
   - name: ファミリーゲレンデ（名稱待確認）
     difficulty: beginner

@@ -136,7 +136,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://www.moyahills.jp/winter/winter.html
-  summary: Moya Hills 共有 6 條雪道，最大滑走距離 1,800m、全場最大斜度約 31°；初級 30%、中級 40%、進階 30%，並設有夜滑區域。
+  summary: Link Station Hills 雲谷（Moya Hills）滑雪場：Moya Hills 共有 6 條雪道，最大滑走距離 1,800m、全場最大斜度約 31°；初級 30%、中級 40%、進階 30%，並設有夜滑區域。
   details:
   - name: カランツゲレンデ
     difficulty: beginner

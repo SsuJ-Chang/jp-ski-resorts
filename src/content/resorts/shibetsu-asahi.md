@@ -51,7 +51,7 @@ courses:
   intermediateRatio: 60
   advancedRatio: 20
   courseInfoPage: https://weathernews.jp/ski/spot/31218/
-  summary: 朝日共有 2 條雪道，難度比例約初級 20%、中級 60%、進階 20%，適合依雪況與同行者程度安排滑行路線。
+  summary: 朝日共有 2 條雪道，難度比例約初級 20%、中級 60%、進階 20%，中級雪道比例較高，適合依同行者程度安排分區滑行。
   details:
     - name: 初級路線
       difficulty: beginner

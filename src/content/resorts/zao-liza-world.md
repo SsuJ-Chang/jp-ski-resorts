@@ -52,7 +52,7 @@ courses:
   intermediateRatio: 43
   advancedRatio: 24
   courseInfoPage: https://weathernews.jp/ski/spot/33504/
-  summary: 藏王 Liza World共有 6 條雪道，難度比例約初級 33%、中級 43%、進階 24%，適合依雪況與同行者程度安排滑行路線。
+  summary: 藏王 Liza World 共有 6 條雪道，難度比例約初級 33%、中級 43%、進階 24%，中級雪道比例較高，適合依同行者程度安排分區滑行。
   details:
     - name: 初級路線 1
       difficulty: beginner

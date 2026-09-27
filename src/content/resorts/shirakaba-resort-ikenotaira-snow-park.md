@@ -72,7 +72,7 @@ snowWeather:
 courses:
   total: 3
   courseInfoPage: https://www.shirakabaresort.jp/snowpark/about/
-  summary: 共 3 條雪道，最長 550m、最大坡度 20 度；全雪道皆可滑雙板與單板。官方頁未列出各雪道正式名稱與難度比例。
+  summary: 白樺 Resort 池之平 Snow Park 滑雪場：共 3 條雪道，最長 550m、最大坡度 20 度；全雪道皆可滑雙板與單板。官方頁未列出各雪道正式名稱與難度比例。
 access:
   fromTokyo:
   - label: 新宿經茅野站飯店接送

@@ -99,7 +99,7 @@ snowWeather:
 courses:
   total: 4
   courseInfoPage: https://nikkoyumoto-ski.com/guide.html
-  summary: 共 4 條主要雪道，A〜C 以林間與緩坡為主，D 為熟悉基礎後可挑戰的中級入門路線；Lodge 前另有平坦寬廣區域適合小朋友與步行練習。
+  summary: 日光湯元溫泉滑雪場：共 4 條主要雪道，A〜C 以林間與緩坡為主，D 為熟悉基礎後可挑戰的中級入門路線；Lodge 前另有平坦寬廣區域適合小朋友與步行練習。
   details:
   - name: A コース
     difficulty: beginner

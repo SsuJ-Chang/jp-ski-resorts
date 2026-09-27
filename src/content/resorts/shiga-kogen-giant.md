@@ -81,7 +81,7 @@ courses:
   advancedRatio: 40
   total: 1
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/giant-ski/
-  summary: 官方資料列出 1 條雪道，涵蓋初級、中級與上級路線。
+  summary: 志賀高原 巨人滑雪場：雪道配置有 1 條雪道，涵蓋初級、中級與上級路線。
   details:
   - name: ジャイアントゲレンデ / Giant Gelende
     difficulty: advanced

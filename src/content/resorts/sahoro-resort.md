@@ -76,7 +76,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 40
   courseInfoPage: https://weathernews.jp/ski/spot/31202/
-  summary: 佐幌渡假村在北海道人氣雪場清單列為第 9 名。共有 21 條雪道、8 座纜車，難度比例為初級 30%、中級 30%、上級 40%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
+  summary: 佐幌渡假村滑雪場：共有 21 條雪道、8 座纜車，難度比例為初級 30%、中級 30%、上級 40%。
   details:
   - name: 初級ゲレンデ（名稱待確認）
     difficulty: beginner

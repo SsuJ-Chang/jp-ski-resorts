@@ -105,7 +105,7 @@ courses:
   advancedRatio: 25
   total: 8
   courseInfoPage: https://www.yuzawakogen.com/winter/gelaende/
-  summary: 高原區與山麓區共 8 條雪道，從平緩長距離巡航、雪上電扶梯入門坡，到未壓雪區與狹窄下山道皆有配置。
+  summary: 湯澤高原滑雪場：高原區與山麓區共 8 條雪道，從平緩長距離巡航、雪上電扶梯入門坡，到未壓雪區與狹窄下山道皆有配置。
   details:
     - name: 全景雪道 / パノラマコース
       difficulty: beginner

@@ -73,7 +73,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 20
   courseInfoPage: https://www.rinyu.co.jp/kurodake/ski_slope/
-  summary: 大雪山黑岳在北海道人氣雪場清單列為第 1 名。共有 2 條雪道、2 座纜車，難度比例為初級 50%、中級 30%、上級 20%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
+  summary: 大雪山黑岳滑雪場：共有 2 條雪道、2 座纜車，難度比例為初級 50%、中級 30%、上級 20%。
   details:
   - name: 黒岳スキーコース
     difficulty: mixed

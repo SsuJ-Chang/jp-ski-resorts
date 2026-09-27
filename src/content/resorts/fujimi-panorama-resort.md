@@ -79,7 +79,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://www.fujimipanorama.com/snow/course/
-  summary: 以山頂標高 1,780m、山麓 1,050m 的落差串起 3km 本格巡航路線。總覽列為 8 條雪道，具名路線以 7 個主要ゲレンデ整理，整體為 100% 壓雪坡面。
+  summary: 富士見 Panorama Resort滑雪場：以山頂標高 1,780m、山麓 1,050m 的落差串起 3km 本格巡航路線。總覽列為 8 條雪道，具名路線以 7 個主要ゲレンデ整理，整體為 100% 壓雪坡面。
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner

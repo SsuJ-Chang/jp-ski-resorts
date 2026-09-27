@@ -92,7 +92,7 @@ snowWeather:
 courses:
   total: 10
   courseInfoPage: https://edelsnow.com/information/coursemap.php
-  summary: 官方雪道圖列出 10 條雪道，從家庭與初學者緩坡，到中級巡航線及進階挑戰路線都有配置；另設 PLAY LAND BOW WOW Kids Park。
+  summary: Edelweiss滑雪場：雪道圖列出 10 條雪道，從家庭與初學者緩坡，到中級巡航線及進階挑戰路線都有配置；另設 PLAY LAND BOW WOW Kids Park。
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner

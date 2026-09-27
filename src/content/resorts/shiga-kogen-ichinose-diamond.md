@@ -82,7 +82,7 @@ courses:
   advancedRatio: 20
   total: 2
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/ichinose-diamond-ski/
-  summary: 官方資料列出 2 條雪道，涵蓋初級、中級與上級路線。
+  summary: 志賀高原一之瀨鑽石滑雪場：雪道配置有 2 條雪道，涵蓋初級、中級與上級路線。
   details:
   - name: ラビットコース / Rabbit Course
     difficulty: beginner

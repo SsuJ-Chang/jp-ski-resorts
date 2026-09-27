@@ -87,7 +87,7 @@ snowWeather:
 courses:
   total: 12
   courseInfoPage: https://www.hunter.co.jp/winter/course/
-  summary: 全 12 條雪道從初級到高級均衡配置，適合初學者、親子與進階滑雪者。可先從 West Side Street 到 Broadway 約 2,000m 的初級長滑行暖身，再搭乘纜車或 Gondola 挑戰山頂至山麓約 3,000m 的長距離下滑；Kids Park 設有雪橇專用區、Tubing 與免費休息空間，滑雪後還能前往鹽原溫泉，適合安排首都圈約 2.5 小時車程的一日滑雪。
+  summary: Hunter Mountain 鹽原滑雪場：全 12 條雪道從初級到高級均衡配置，適合初學者、親子與進階滑雪者。可先從 West Side Street 到 Broadway 約 2,000m 的初級長滑行暖身，再搭乘纜車或 Gondola 挑戰山頂至山麓約 3,000m 的長距離下滑；Kids Park 設有雪橇專用區、Tubing 與免費休息空間，滑雪後還能前往鹽原溫泉，適合安排首都圈約 2.5 小時車程的一日滑雪。
   details:
   - name: セサミ・ストリート / Sesame Street
     difficulty: beginner

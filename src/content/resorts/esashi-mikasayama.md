@@ -56,7 +56,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 30
   courseInfoPage: https://weathernews.jp/ski/spot/31102/
-  summary: 枝幸町三笠山共有 4 條雪道，難度比例約初級 40%、中級 30%、進階 30%，適合依雪況與同行者程度安排滑行路線。
+  summary: 枝幸町三笠山共有 4 條雪道，難度比例約初級 40%、中級 30%、進階 30%，難度分布多元，可依同行者程度規劃滑行區域。
   details:
     - name: 初級路線 1
       difficulty: beginner

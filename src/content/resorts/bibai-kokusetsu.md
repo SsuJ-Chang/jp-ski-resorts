@@ -52,7 +52,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 33
   courseInfoPage: https://weathernews.jp/ski/spot/31515/
-  summary: 美唄國設共有 6 條雪道，難度比例約初級 17%、中級 50%、進階 33%，適合依雪況與同行者程度安排滑行路線。
+  summary: 美唄國設共有 6 條雪道，難度比例約初級 17%、中級 50%、進階 33%，中級雪道比例較高，適合依同行者程度安排分區滑行。
   details:
     - name: 初級路線
       difficulty: beginner

@@ -50,7 +50,7 @@ snowWeather:
 courses:
   total: 1
   courseInfoPage: https://www.town.numata.hokkaido.jp/section/kyouiku/ujj7s30000001mvv.html
-  summary: ASHIMOI KANKO 高穗滑雪場官方資料記載 1 條全長約 500 公尺的雪道，初級、中級與上級滑雪者皆可使用，最大斜度 21°。
+  summary: ASHIMOI KANKO 高穗滑雪場有 1 條全長約 500 公尺的雪道，從初級到上級滑雪者皆可使用，最大斜度 21°。
   details:
     - name: 高穗滑雪場雪道
       difficulty: mixed

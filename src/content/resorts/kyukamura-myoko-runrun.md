@@ -65,7 +65,7 @@ snowWeather:
 courses:
   total: 1
   courseInfoPage: https://www.qkamura.or.jp/myoukou/
-  summary: 共 1 條雪道、1 座纜車，初級 100%。
+  summary: 休暇村妙高 RunRun 滑雪場：共 1 條雪道、1 座纜車，初級 100%。
   beginnerRatio: 100
   details:
   - name: 初級路線

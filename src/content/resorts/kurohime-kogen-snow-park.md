@@ -94,7 +94,7 @@ courses:
   intermediateRatio: 35
   advancedRatio: 20
   courseInfoPage: https://kurohime-kogen.co.jp/winter/area-guide/
-  summary: 共 13 條雪道、6 座纜車，初級 45%、中級 35%、高級 20%。主雪道從最高 1,000m、最大坡度 33° 的 Mouse 到緩和的家庭與 Snow Dog Area 路線皆有配置。
+  summary: 黑姬高原雪地公園滑雪場：共 13 條雪道、6 座纜車，初級 45%、中級 35%、高級 20%。主雪道從最高 1,000m、最大坡度 33° 的 Mouse 到緩和的家庭與 Snow Dog Area 路線皆有配置。
   details:
     - name: Dog
       difficulty: beginner

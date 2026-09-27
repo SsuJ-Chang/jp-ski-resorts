@@ -106,7 +106,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 20
   courseInfoPage: https://www.tsugaike.gr.jp/snow/gelande
-  summary: 栂池高原官方資料列出 10 條雪道，最長滑走距離 5,000m，山麓有白馬區域最大級寬幅緩坡，高海拔區與 Tsugaike Powder DBD 則適合進階與粉雪需求。
+  summary: 栂池高原雪道配置有 10 條雪道，最長滑走距離 5,000m，山麓有白馬區域最大級寬幅緩坡，高海拔區與 Tsugaike Powder DBD 則適合進階與粉雪需求。
   details:
   - name: 鐘の鳴る丘ゲレンデ / Kane-no-naruoka Slope
     difficulty: beginner

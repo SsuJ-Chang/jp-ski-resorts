@@ -91,7 +91,7 @@ snowWeather:
 courses:
   total: 6
   courseInfoPage: https://www.ojiro.or.jp/gelande/
-  summary: 列為 6 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 小代滑雪場：列為 6 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: 大谷第1ゲレンデ
     difficulty: beginner

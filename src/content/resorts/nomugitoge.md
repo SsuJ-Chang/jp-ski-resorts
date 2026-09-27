@@ -84,7 +84,7 @@ courses:
   intermediateRatio: 45
   advancedRatio: 30
   courseInfoPage: http://gakutoresort.jp/course/
-  summary: 共 12 條雪道、1 座四人纜車與 3 座雙人纜車；最高海拔 2,130m、落差 730m，雪道全長 4,000m，初級 25%、中級 45%、高級 30%。
+  summary: 信州松本野麥峠滑雪場：共 12 條雪道、1 座四人纜車與 3 座雙人纜車；最高海拔 2,130m、落差 730m，雪道全長 4,000m，初級 25%、中級 45%、高級 30%。
   details:
   - name: ファミリーゲレンデ / Family Gelande
     difficulty: beginner

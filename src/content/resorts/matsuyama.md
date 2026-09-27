@@ -52,7 +52,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 35
   courseInfoPage: https://weathernews.jp/ski/spot/33515/
-  summary: 松山共有 3 條雪道，難度比例約初級 15%、中級 50%、進階 35%，適合依雪況與同行者程度安排滑行路線。
+  summary: 松山共有 3 條雪道，難度比例約初級 15%、中級 50%、進階 35%，中級雪道比例較高，適合依同行者程度安排分區滑行。
   details:
     - name: 中級路線 1
       difficulty: intermediate

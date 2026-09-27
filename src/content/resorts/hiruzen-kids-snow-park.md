@@ -63,7 +63,7 @@ courses:
   advancedRatio: 0
   total: 1
   courseInfoPage: https://www.qkamura.or.jp/hiruzen/
-  summary: 共 1 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 蒜山 Kids Snow Park滑雪場：共 1 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: 有料エリア入場雪遊びゾーン
     difficulty: beginner

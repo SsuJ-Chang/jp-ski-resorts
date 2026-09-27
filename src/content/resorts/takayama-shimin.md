@@ -88,7 +88,7 @@ snowWeather:
 courses:
   total: 3
   courseInfoPage: https://www.city.takayama.lg.jp/shisetsu/1004139/1000043/1018844.html
-  summary: 高山市官方資料介紹位山交流廣場至蒙德烏斯公園滑雪場，特色是可眺望整座雪場的開闊視野與寬廣雪面，適合從初學者到家庭客；另設有雪地電扶梯，適合首次體驗滑雪或雪橇的遊客。
+  summary: 位山交流廣場至蒙德烏斯公園滑雪場擁有開闊視野與寬廣雪面，適合初學者與家庭客；另設雪地電扶梯，方便首次體驗滑雪或雪橇的遊客。
   details:
   - name: 林間雪道
     difficulty: mixed

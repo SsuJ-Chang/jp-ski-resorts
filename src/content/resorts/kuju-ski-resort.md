@@ -81,7 +81,7 @@ courses:
   beginnerRatio: 50
   intermediateRatio: 30
   advancedRatio: 20
-  summary: 九重森林公園位於大分縣九重町，公開資料列為 6 條雪道、3 座纜車，並設有夜滑時段；詳細雪道名稱與開放狀態仍需以官方公告確認。
+  summary: 九重森林公園位於大分縣九重町，共有 6 條雪道、3 座纜車，並設有夜滑時段；詳細雪道名稱與開放狀態仍需以官方公告確認。
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner

@@ -67,7 +67,7 @@ courses:
   intermediateRatio: 55.56
   advancedRatio: 22.22
   courseInfoPage: https://www.biwako-valley.com/w_season/openclose/
-  summary: 琵琶湖山谷官方資料列出 9 條雪道，包含適合初學者的打見與阿爾卑斯雪道、中級的全景、巨人、浪漫、動態與森林雪道，以及中上級的冠軍與蓬萊北雪道。最長雪道為冠軍雪道 1,400m，最大坡度為蓬萊北雪道 30°。
+  summary: 琵琶湖山谷雪道配置有 9 條雪道，包含適合初學者的打見與阿爾卑斯雪道、中級的全景、巨人、浪漫、動態與森林雪道，以及中上級的冠軍與蓬萊北雪道。最長雪道為冠軍雪道 1,400m，最大坡度為蓬萊北雪道 30°。
   details:
   - name: 打見雪道
     difficulty: beginner

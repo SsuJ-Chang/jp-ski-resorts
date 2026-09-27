@@ -100,7 +100,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 20
   courseInfoPage: https://nobeyama.chateraiseski.jp/trails/
-  summary: 正式雪道共 5 條，初級 50%、中級 30%、上級 20%；最高點 1,620m，最長可由アルペンコース接續バレー1コース滑行約 1.3km。
+  summary: Chateraise Ski Valley 野邊山滑雪場：正式雪道共 5 條，初級 50%、中級 30%、上級 20%；最高點 1,620m，最長可由アルペンコース接續バレー1コース滑行約 1.3km。
   details:
   - name: バレー1コース
     difficulty: beginner

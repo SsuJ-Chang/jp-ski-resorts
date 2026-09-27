@@ -74,7 +74,7 @@ courses:
   intermediateRatio: 20
   advancedRatio: 10
   courseInfoPage: https://www.city.suwa.lg.jp/site/enjoy/4445.html
-  summary: 共 3 條雪道、1 座纜車，初級 70%、中級 20%、高級 10%。
+  summary: 霧峰高原 Family Field 滑雪場：共 3 條雪道、1 座纜車，初級 70%、中級 20%、高級 10%。
   details:
   - name: 初級路線 1
     difficulty: beginner

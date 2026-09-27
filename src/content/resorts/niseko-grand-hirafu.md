@@ -96,7 +96,7 @@ courses:
   advancedRatio: 33
   total: 21
   courseInfoPage: https://www.niseko.ne.jp/en/map/grand-hirafu/
-  summary: 格蘭比羅夫是 Niseko United 核心大型區域，官方列出 21 條主要雪道，包含 Family、Holiday、Kogen 等初級線，也有 Super、Konayuki、Onsenzawa 等高難度路線。
+  summary: 二世谷格蘭比羅夫滑雪場：格蘭比羅夫是 Niseko United 核心大型區域，官方列出 21 條主要雪道，包含 Family、Holiday、Kogen 等初級線，也有 Super、Konayuki、Onsenzawa 等高難度路線。
   details:
   - name: Shirakaba
     difficulty: beginner

@@ -54,7 +54,7 @@ courses:
   intermediateRatio: 15
   advancedRatio: 5
   courseInfoPage: https://weathernews.jp/ski/spot/31614/
-  summary: 岩內共有 3 條雪道，難度比例約初級 80%、中級 15%、進階 5%，適合依雪況與同行者程度安排滑行路線。
+  summary: 岩內共有 3 條雪道，難度比例約初級 80%、中級 15%、進階 5%，初級雪道比例高，適合初學者與親子滑雪。
   details:
     - name: 初級路線 1
       difficulty: beginner

@@ -116,7 +116,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 10
   courseInfoPage: https://koumi.chateraiseski.jp/trails/
-  summary: 正式雪道共 9 條，初級 40%、中級 50%、上級 10%。ウェンゲン至ブライトホーン可串連最長約 2.5km 下坡，眺望八岳、淺間山與秩父連山。
+  summary: Chateraise Ski Valley 小海滑雪場：正式雪道共 9 條，初級 40%、中級 50%、上級 10%。ウェンゲン至ブライトホーン可串連最長約 2.5km 下坡，眺望八岳、淺間山與秩父連山。
   details:
   - name: ウェンゲン
     difficulty: beginner

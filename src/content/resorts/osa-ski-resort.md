@@ -79,7 +79,7 @@ snowWeather:
 courses:
   total: 6
   courseInfoPage: https://osaski.co.jp/course/
-  summary: 官方列出 6 條雪道，包含適合家庭與初中級者的寬廣坡面，以及最大坡度 28 度的進階雪道與非壓雪路線。
+  summary: 大佐滑雪場：官方列出 6 條雪道，包含適合家庭與初中級者的寬廣坡面，以及最大坡度 28 度的進階雪道與非壓雪路線。
   details:
   - name: プラッツ前ゲレンデハウス
     difficulty: beginner

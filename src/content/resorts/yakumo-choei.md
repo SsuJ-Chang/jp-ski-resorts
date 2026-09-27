@@ -50,7 +50,7 @@ courses:
   intermediateRatio: 34
   advancedRatio: 33
   courseInfoPage: https://weathernews.jp/ski/spot/32304/
-  summary: 八雲町營共有 3 條雪道，難度比例約初級 0%、中級 0%、進階 0%，適合依雪況與同行者程度安排滑行路線。
+  summary: 八雲町營共有 3 條雪道，難度比例約初級 0%、中級 0%、進階 0%，難度分布多元，可依同行者程度規劃滑行區域。
   details:
     - name: 雪道 1
       difficulty: mixed

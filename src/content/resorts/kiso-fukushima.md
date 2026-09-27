@@ -116,7 +116,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: http://www.kisofukushima-ski.com/
-  summary: 共 8 條雪道、4 座纜車，初級 30%、中級 50%、高級 20%。
+  summary: 木曾福島滑雪場：共 8 條雪道、4 座纜車，初級 30%、中級 50%、高級 20%。
   details:
   - name: 初級路線 1
     difficulty: beginner

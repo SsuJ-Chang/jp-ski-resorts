@@ -79,7 +79,7 @@ courses:
   beginnerRatio: 58
   intermediateRatio: 21
   advancedRatio: 21
-  summary: 共 14 條雪道、8 座纜車，以初級者路線為主，並涵蓋中級與高級路線。多樣化的雪道配置可正面眺望淺間山，且從輕井澤站南口搭乘免費接駁巴士約 1 分鐘即可抵達，適合初學者、親子與想輕鬆往返的滑雪行程。
+  summary: 輕井澤王子大飯店滑雪場：共 14 條雪道、8 座纜車，以初級者路線為主，並涵蓋中級與高級路線。多樣化的雪道配置可正面眺望淺間山，且從輕井澤站南口搭乘免費接駁巴士約 1 分鐘即可抵達，適合初學者、親子與想輕鬆往返的滑雪行程。
   details:
   - name: ファミリーコース / Family Course
     difficulty: beginner

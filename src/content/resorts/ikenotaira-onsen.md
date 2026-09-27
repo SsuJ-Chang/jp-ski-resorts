@@ -101,7 +101,7 @@ courses:
   intermediateRatio: 45
   advancedRatio: 20
   courseInfoPage: https://alpenblick-resort.com/ski
-  summary: Alpenblick 官方雪道頁列出 16 條雪道，以寬廣緩坡、長距離林間路線與樹林滑行區域為特色，並配置初級、中級與上級路線。
+  summary: 池之平滑雪場：Alpenblick 官方雪道頁列出 16 條雪道，以寬廣緩坡、長距離林間路線與樹林滑行區域為特色，並配置初級、中級與上級路線。
   details:
   - name: やまばと林間コース / Yamabato Forest Course
     difficulty: beginner

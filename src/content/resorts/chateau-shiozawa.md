@@ -67,7 +67,7 @@ snowWeather:
 courses:
   total: 7
   courseInfoPage: https://www.chateau-shiozawa.jp/
-  summary: 共 7 條雪道、4 座纜車，初級 40%、中級 40%、高級 20%。
+  summary: Chateau 鹽澤滑雪場：共 7 條雪道、4 座纜車，初級 40%、中級 40%、高級 20%。
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20

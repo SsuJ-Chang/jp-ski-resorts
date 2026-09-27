@@ -87,7 +87,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://yachiho-kogen.com/ski/course.html
-  summary: 標高 1,630〜1,830m、共 8 條雪道與 4 座雙人纜車，最長滑走距離為アゼリアコース 1,300m。整體初級 40%、中級 40%、進階 20%，以壓雪坡面為主，也有 mogul、park、粉雪時受歡迎的短陡坡與林間迂迴路線。
+  summary: 八千穗高原滑雪場：標高 1,630〜1,830m、共 8 條雪道與 4 座雙人纜車，最長滑走距離為アゼリアコース 1,300m。整體初級 40%、中級 40%、進階 20%，以壓雪坡面為主，也有 mogul、park、粉雪時受歡迎的短陡坡與林間迂迴路線。
   details:
   - name: ファミリーコース
     difficulty: beginner

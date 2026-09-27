@@ -93,7 +93,7 @@ snowWeather:
 courses:
   total: 10
   courseInfoPage: https://seasidevalley.com/gelande/
-  summary: 共 10 個滑行區域、5 座纜車，初級 30%、中級 40%、上級 30%。第 1 雪道最長 1,600m，第 6 雪道可一路滑至山麓形成最長 3,000m 長滑；第 2 雪道上級區有最大坡度 38° 的未壓雪粉雪。
+  summary: 糸魚川 Seaside Valley 滑雪場：共 10 個滑行區域、5 座纜車，初級 30%、中級 40%、上級 30%。第 1 雪道最長 1,600m，第 6 雪道可一路滑至山麓形成最長 3,000m 長滑；第 2 雪道上級區有最大坡度 38° 的未壓雪粉雪。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

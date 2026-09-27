@@ -82,7 +82,7 @@ courses:
   advancedRatio: 30
   total: 3
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/nishidateyama-ski/
-  summary: 官方資料列出 3 條雪道，涵蓋初級、中級與上級路線。
+  summary: 志賀高原西館山滑雪場：雪道配置有 3 條雪道，涵蓋初級、中級與上級路線。
   details:
   - name: 西館山初級コース / Nishidateyama Beginner Course
     difficulty: beginner

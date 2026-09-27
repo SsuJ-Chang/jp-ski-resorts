@@ -68,7 +68,7 @@ courses:
   intermediateRatio: 60
   advancedRatio: 10
   courseInfoPage: http://www.chausuyama.jp/exercise/2014022119103644.html
-  summary: 官方頁列出ファミリーゲレンデ、A・B・C コース共 4 條滑雪雪道，另有 60m そりゲレンデ；公開資料的 3 條雪道統計可能未含不定期開放或兒童練習區。
+  summary: 茶臼山高原滑雪場：官方頁列出ファミリーゲレンデ、A・B・C コース共 4 條滑雪雪道，另有 60m そりゲレンデ；公開資料的 3 條雪道統計可能未含不定期開放或兒童練習區。
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner

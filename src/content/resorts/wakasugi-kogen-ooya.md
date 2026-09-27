@@ -90,7 +90,7 @@ snowWeather:
 courses:
   total: 3
   courseInfoPage: https://ooyaski.com/ski/courses/
-  summary: 官方雪道頁列出 3 個區域，包含適合初學者的家庭雪道、兒童公園與雪橇區，以及初級至中級的寬闊主坡。
+  summary: 若杉高原大屋滑雪場：官方雪道頁列出 3 個區域，包含適合初學者的家庭雪道、兒童公園與雪橇區，以及初級至中級的寬闊主坡。
   details:
     - name: ファミリーゲレンデ
       difficulty: beginner

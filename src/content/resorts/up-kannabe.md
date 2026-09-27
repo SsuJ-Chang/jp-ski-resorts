@@ -112,7 +112,7 @@ snowWeather:
 courses:
   total: 4
   courseInfoPage: https://www.kannabe.co.jp/gelande
-  summary: 官方雪道頁面列出中央、うえ野平、北壁與みやの森 4 條主要雪道，另設中央與うえ野平兒童區；中央與みやの森屬初至中級，うえ野平適合初學者，北壁面向進階滑雪者與新雪愛好者。
+  summary: Up Kannabe 滑雪場：官方雪道頁面列出中央、うえ野平、北壁與みやの森 4 條主要雪道，另設中央與うえ野平兒童區；中央與みやの森屬初至中級，うえ野平適合初學者，北壁面向進階滑雪者與新雪愛好者。
   details:
   - name: うえ野平雪道 / うえ野平コース
     difficulty: beginner

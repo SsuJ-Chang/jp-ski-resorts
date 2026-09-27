@@ -99,7 +99,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 25
   courseInfoPage: https://ryuoo.com/winter/gelande/
-  summary: 共 20 條雪道、8 座纜車，初級 35%、中級 40%、高級 25%。山頂至山麓標高差 1,080m，最長可連續滑行約 6,000m。
+  summary: 龍王 Ski Park 滑雪場：共 20 條雪道、8 座纜車，初級 35%、中級 40%、高級 25%。山頂至山麓標高差 1,080m，最長可連續滑行約 6,000m。
   details:
   - name: 基地雪道 / ベースゲレンデ / Base Slope
     difficulty: beginner

@@ -66,7 +66,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 0
   courseInfoPage: https://weathernews.jp/ski/spot/36502/
-  summary: Snow Park 洞川共有 2 條雪道，難度比例約初級 70%、中級 30%、進階 0%，適合依雪況與同行者程度安排滑行路線。
+  summary: Snow Park 洞川共有 2 條雪道，難度比例約初級 70%、中級 30%、進階 0%，初級雪道比例高，適合初學者與親子滑雪。
   details:
     - name: 初級路線
       difficulty: beginner

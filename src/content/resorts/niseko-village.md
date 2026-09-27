@@ -96,7 +96,7 @@ courses:
   advancedRatio: 45
   total: 29
   courseInfoPage: https://www.niseko.ne.jp/en/map/village/
-  summary: Niseko Village 位於 Annupuri 與格蘭比羅夫之間，官方列出 29 條主要雪道，包含飯店側緩坡、長距離巡航線與多條樹林、非壓雪或高難度路線。
+  summary: 二世谷 Village 滑雪場：Niseko Village 位於 Annupuri 與格蘭比羅夫之間，官方列出 29 條主要雪道，包含飯店側緩坡、長距離巡航線與多條樹林、非壓雪或高難度路線。
   details:
   - name: Cruiser
     difficulty: beginner

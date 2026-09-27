@@ -86,7 +86,7 @@ snowWeather:
 courses:
   total: 5
   courseInfoPage: https://hakkai36.com/trail_map/
-  summary: 共 5 條雪道、2 座纜車；平均坡度 14°、最長滑走距離 1.05km、最大坡度 30°。
+  summary: 八海山麓滑雪場：共 5 條雪道、2 座纜車；平均坡度 14°、最長滑走距離 1.05km、最大坡度 30°。
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20

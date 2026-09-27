@@ -167,7 +167,7 @@ snowWeather:
 courses:
   total: 6
   courseInfoPage: https://karuizawa-snowpark.com/areaguide/
-  summary: 輕井澤 Snow Park 設有 6 條雪道，初級與中級路線約占八成，並有雪上電梯與兒童專用緩坡，適合親子及初次體驗者。D 雪道可欣賞淺間山景色，A 雪道則是深雪時才開放的最大 32 度挑戰坡。
+  summary: 輕井澤雪公園滑雪場：輕井澤 Snow Park 設有 6 條雪道，初級與中級路線約占八成，並有雪上電梯與兒童專用緩坡，適合親子及初次體驗者。D 雪道可欣賞淺間山景色，A 雪道則是深雪時才開放的最大 32 度挑戰坡。
   details:
   - name: 迪亞雪道 / ディアコース
     difficulty: beginner

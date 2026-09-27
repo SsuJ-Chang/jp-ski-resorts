@@ -53,7 +53,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://weathernews.jp/ski/spot/31501/
-  summary: 岩見澤萩之山市民共有 7 條雪道，難度比例約初級 30%、中級 50%、進階 20%，適合依雪況與同行者程度安排滑行路線。
+  summary: 岩見澤萩之山市民共有 7 條雪道，難度比例約初級 30%、中級 50%、進階 20%，中級雪道比例較高，適合依同行者程度安排分區滑行。
   details:
     - name: 初級路線 1
       difficulty: beginner

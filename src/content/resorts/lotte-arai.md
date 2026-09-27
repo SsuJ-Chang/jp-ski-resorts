@@ -98,7 +98,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 25
   courseInfoPage: https://www.lottehotel.com/arai-resort/ja/snow/ski-course/information
-  summary: LOTTE ARAI RESORT 官方雪道資訊列出 14 條主要雪道，從妙高 Long Run、Village Road 等初級長距離路線，到膳棚 Bowl、マムシガエシ等非壓雪與上級區域，適合粉雪與進階滑行。
+  summary: 樂天新井滑雪場：LOTTE ARAI RESORT 官方雪道資訊列出 14 條主要雪道，從妙高 Long Run、Village Road 等初級長距離路線，到膳棚 Bowl、マムシガエシ等非壓雪與上級區域，適合粉雪與進階滑行。
   details:
   - name: 妙高ロングラン
     difficulty: beginner

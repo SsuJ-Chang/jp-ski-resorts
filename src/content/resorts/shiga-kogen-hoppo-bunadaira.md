@@ -81,7 +81,7 @@ courses:
   advancedRatio: 10
   total: 1
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/hoppo-bunadaira-ski/
-  summary: 官方資料列出 1 條雪道，涵蓋初級、中級與上級路線。
+  summary: 發哺ブナ平滑雪場：雪道配置有 1 條雪道，涵蓋初級、中級與上級路線。
   details:
   - name: ブナ平ゲレンデ / Bunadaira Gelende
     difficulty: beginner

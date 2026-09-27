@@ -104,7 +104,7 @@ snowWeather:
 courses:
   total: 2
   courseInfoPage: https://kutsuki-snowpark.com/trails
-  summary: 官方雪道介紹列出 2 條主要雪道，包含 628 公尺的初級長雪道與 390 公尺的初級至中級平整雪道。
+  summary: 朽木 Snow Park 滑雪場：官方雪道介紹列出 2 條主要雪道，包含 628 公尺的初級長雪道與 390 公尺的初級至中級平整雪道。
   details:
   - name: ロマンスゲレンデ
     difficulty: beginner

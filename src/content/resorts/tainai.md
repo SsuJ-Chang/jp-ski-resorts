@@ -70,7 +70,7 @@ snowWeather:
 courses:
   total: 13
   courseInfoPage: http://www.tainai.info/
-  summary: 共 13 條雪道、7 座纜車，初級 20%、中級 70%、高級 10%。
+  summary: 胎內滑雪場：共 13 條雪道、7 座纜車，初級 20%、中級 70%、高級 10%。
   beginnerRatio: 20
   intermediateRatio: 70
   advancedRatio: 10

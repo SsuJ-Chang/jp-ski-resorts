@@ -81,7 +81,7 @@ snowWeather:
 courses:
   total: 6
   courseInfoPage: https://okukan.com/gelande/
-  summary: 奧神鍋官方頁面列出 6 個雪道項目，包含家庭、超級、浪漫、長程、非壓雪與栃之木雪道，從初學者到上級者皆有對應路線。
+  summary: 奧神鍋雪道配置有 6 個雪道項目，包含家庭、超級、浪漫、長程、非壓雪與栃之木雪道，從初學者到上級者皆有對應路線。
   details:
     - name: 家庭雪道 / ファミリーゲレンデ
       difficulty: beginner

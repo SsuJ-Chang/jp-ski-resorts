@@ -87,7 +87,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://www.saku-parada.jp/ski/index.php#gelande
-  summary: 北、南 Parada 合計 7 條雪道；斜面比例為初級 40%、中級 40%、高級 20%，最長滑走 1,366m、最大坡度 23 度。
+  summary: 佐久 Ski Garden Parada 滑雪場：北、南 Parada 合計 7 條雪道；斜面比例為初級 40%、中級 40%、高級 20%，最長滑走 1,366m、最大坡度 23 度。
   details:
   - name: 拉爾戈雪道 / ラルゴコース
     difficulty: beginner

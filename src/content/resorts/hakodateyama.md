@@ -90,7 +90,7 @@ snowWeather:
 courses:
   total: 8
   courseInfoPage: https://www.hakodateyama.com/winter/slope/
-  summary: 官方頁面列出 8 條雪道：初級 3 條、中級 3 條、上級 2 條；包含びわこビュー、ヤッホー、ICS 與スリーバレー各線，另有 SAJ 公認越野滑雪及雪鞋步行路線。
+  summary: 箱館山滑雪場：雪道配置有 8 條雪道：初級 3 條、中級 3 條、上級 2 條；包含びわこビュー、ヤッホー、ICS 與スリーバレー各線，另有 SAJ 公認越野滑雪及雪鞋步行路線。
   details:
   - name: びわこビューコース
     difficulty: beginner

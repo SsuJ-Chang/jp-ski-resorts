@@ -54,7 +54,7 @@ courses:
   intermediateRatio: 0
   advancedRatio: 0
   courseInfoPage: https://weathernews.jp/ski/spot/31619/
-  summary: 瀧野 Snow World共有 1 條雪道，難度比例約初級 0%、中級 0%、進階 0%，適合依雪況與同行者程度安排滑行路線。
+  summary: 瀧野 Snow World 共有 1 條雪道，難度比例約初級 0%、中級 0%、進階 0%，難度分布多元，可依同行者程度規劃滑行區域。
   details:
     - name: 雪道
       difficulty: mixed

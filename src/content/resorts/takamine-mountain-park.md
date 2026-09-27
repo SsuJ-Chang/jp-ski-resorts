@@ -107,7 +107,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://asama2000.com/slope.html
-  summary: 共 6 條雪道、1 座四人纜車與 3 座雙人纜車。以海拔約 2,000m 的雪質與多樣坡面為特色，從獨立初學坡、起伏巡航到寬廣單面陡坡皆有配置。
+  summary: 高峰 Mountain Park 滑雪場：共 6 條雪道、1 座四人纜車與 3 座雙人纜車。以海拔約 2,000m 的雪質與多樣坡面為特色，從獨立初學坡、起伏巡航到寬廣單面陡坡皆有配置。
   details:
   - name: BEGINNERS
     difficulty: beginner

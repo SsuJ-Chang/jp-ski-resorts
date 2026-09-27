@@ -109,7 +109,7 @@ courses:
   advancedRatio: 20
   total: 9
   courseInfoPage: https://okushigakogenresort.com/winter/ski/
-  summary: 官方目前列出 9 條主要雪道，從入口初級線、林間巡航線到代表性的 Downhill 長雪道與未壓雪急斜面都有。
+  summary: 奧志賀高原滑雪場：官方目前列出 9 條主要雪道，從入口初級線、林間巡航線到代表性的 Downhill 長雪道與未壓雪急斜面都有。
   details:
   - name: 第1雪道 / 第1ゲレンデ
     difficulty: beginner

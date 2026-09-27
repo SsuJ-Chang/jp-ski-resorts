@@ -78,7 +78,7 @@ snowWeather:
 courses:
   total: 10
   courseInfoPage: https://siratori-k.jp/swp/gelande/
-  summary: Snow Wave Park 白鳥高原官方雪場圖以 Main Courses、Panorama Tour Course、Romance Course 與 Cruising Route 為主要滑行區，另有 Back Country & Treerun Course、Powder Area、Natural Powder Point，以及 Family／Kids Area 和 2,000m 雪橇道。官方資料標示全場最長滑行距離為 2,500m，最大坡度為 30°。
+  summary: Snow Wave Park 白鳥高原以 Main Courses、Panorama Tour Course、Romance Course 與 Cruising Route 為主要滑行區，另有 Back Country & Treerun Course、Powder Area、Natural Powder Point、Family／Kids Area 和 2,000m 雪橇道；最長滑行距離 2,500m，最大坡度 30°。
   details:
   - name: Main Courses
     difficulty: beginner

@@ -84,7 +84,7 @@ snowWeather:
 courses:
   total: 6
   courseInfoPage: https://winter.kurumayama-skypark.com/gelende
-  summary: 共 6 條雪道，最長滑走 2,000m、最大坡度 38 度；山頂海拔 1,925m，從寬闊練習坡到非整雪的進階雪道都有配置。
+  summary: 車山高原 SKYPARK 滑雪場：共 6 條雪道，最長滑走 2,000m、最大坡度 38 度；山頂海拔 1,925m，從寬闊練習坡到非整雪的進階雪道都有配置。
   details:
   - name: 家庭雪道 / ファミリー
     difficulty: beginner

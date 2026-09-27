@@ -89,7 +89,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://x-jam.jp/trail/
-  summary: 共 13 條雪道、4 座纜車，最長滑走 2,000m、最大坡度 33 度；可眺望信州與善光寺平。
+  summary: 夜間瀨溫泉滑雪場：共 13 條雪道、4 座纜車，最長滑走 2,000m、最大坡度 33 度；可眺望信州與善光寺平。
   details:
   - name: 乙女雪道 / 乙女コース
     difficulty: beginner

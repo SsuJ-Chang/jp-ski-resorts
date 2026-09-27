@@ -56,7 +56,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 50
   courseInfoPage: https://asari-ski.com/
-  summary: 朝里川温泉的官方坡面介紹列出初級 2、中級 3、上級 5 個滑行區段，包含 Green C、Purple、Yellow、Red A、Red B、Orange、Tree Run Zone 等不同坡度與長度的路線。
+  summary: 朝里川溫泉滑雪場：朝里川温泉的官方坡面介紹列出初級 2、中級 3、上級 5 個滑行區段，包含 Green C、Purple、Yellow、Red A、Red B、Orange、Tree Run Zone 等不同坡度與長度的路線。
   details:
     - name: パープルコース
       difficulty: beginner

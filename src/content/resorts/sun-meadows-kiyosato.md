@@ -110,7 +110,7 @@ courses:
   intermediateRatio: 43
   advancedRatio: 13
   courseInfoPage: https://www.sunmeadows.co.jp/winter/parkguide/course/
-  summary: 以山頂 1,900m 的高原景觀為特色，雪道從寬廣平緩的初學者區，到 A、C、D 系列的中高級路線都有；E 雪道另有波浪地形，G-2 設置 Fantasy Park，並可在 Snowland 進行雪橇與玩雪活動。
+  summary: Sun Meadows 清里滑雪場：以山頂 1,900m 的高原景觀為特色，雪道從寬廣平緩的初學者區，到 A、C、D 系列的中高級路線都有；E 雪道另有波浪地形，G-2 設置 Fantasy Park，並可在 Snowland 進行雪橇與玩雪活動。
   details:
   - name: E 雪道 / Eコース
     difficulty: beginner

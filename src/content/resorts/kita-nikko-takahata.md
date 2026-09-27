@@ -59,7 +59,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 30
   courseInfoPage: https://www.takahata-ski.net/gelande/
-  summary: 北日光・高畑滑雪場共有 11 個滑雪區與雪道，包含藍色、紅色、橘色與黑色區域，從初學者練習路線到進階者挑戰路線皆有；官方頁面另列伊加雅滑雪區。
+  summary: 北日光・高畑滑雪場共有 11 個滑雪區與雪道，包含藍色、紅色、橘色與黑色區域，從初學者練習路線到進階者挑戰路線皆有；雪道資料另列伊加雅滑雪區。
   details:
     - name: 藍色內線
       difficulty: mixed

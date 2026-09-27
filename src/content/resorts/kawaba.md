@@ -129,7 +129,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://www.kawaba.co.jp/gelande/course/
-  summary: 標高 1,230～1,870m 的 12 條標準雪道，從兒童起步區、森林緩坡到人工貓跳與非壓雪專家路線都有；最長滑行距離約 3,300m，另設 OFF THE PISTE 樹林滑行區。
+  summary: 川場滑雪場：標高 1,230～1,870m 的 12 條標準雪道，從兒童起步區、森林緩坡到人工貓跳與非壓雪專家路線都有；最長滑行距離約 3,300m，另設 OFF THE PISTE 樹林滑行區。
   details:
   - name: 初學起步區 / ファーストステップゲレンデ / First Step Gelande
     difficulty: beginner

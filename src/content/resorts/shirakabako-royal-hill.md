@@ -76,7 +76,7 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20
-  summary: 共 7 條雪道、3 座纜車，初級 40%、中級 40%、高級 20%。
+  summary: 白樺湖 Royal Hill 滑雪場：共 7 條雪道、3 座纜車，初級 40%、中級 40%、高級 20%。
   details:
   - name: パノラマCコース / Panorama C Course
     difficulty: beginner

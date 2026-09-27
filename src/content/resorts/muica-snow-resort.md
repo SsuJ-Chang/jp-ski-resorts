@@ -70,7 +70,7 @@ snowWeather:
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
   total: 12
-  summary: 共 12 條雪道、4 座纜車，初級 35%、中級 40%、高級 25%。
+  summary: Muica Snow Resort 滑雪場：共 12 條雪道、4 座纜車，初級 35%、中級 40%、高級 25%。
   beginnerRatio: 35
   intermediateRatio: 40
   advancedRatio: 25

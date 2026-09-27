@@ -83,7 +83,7 @@ courses:
   advancedRatio: 40
   total: 4
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/maruike-ski/
-  summary: 官方資料列出 4 條雪道，涵蓋初級、中級與上級路線。
+  summary: 志賀高原丸池滑雪場：雪道配置有 4 條雪道，涵蓋初級、中級與上級路線。
   details:
   - name: 丸池Cコース / Maruike C Course
     difficulty: beginner

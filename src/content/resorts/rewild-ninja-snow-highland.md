@@ -77,7 +77,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://rewild-ninja-snow-highland.com/info/
-  summary: 共 10 條雪道，初級、中級、上級比例為 30%、40%、30%。最長的ゴマルコース為 1,800m，10 條路線涵蓋林間巡航、沢地形、不整地與 Park 設施。
+  summary: REWILD NINJA SNOW HIGHLAND 滑雪場：共 10 條雪道，初級、中級、上級比例為 30%、40%、30%。最長的ゴマルコース為 1,800m，10 條路線涵蓋林間巡航、沢地形、不整地與 Park 設施。
   details:
   - name: ゴマルコース
     difficulty: beginner

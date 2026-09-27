@@ -80,7 +80,7 @@ tickets:
         - 兒童：¥30,000
 courses:
   total: 3
-  summary: 共 3 條雪道，從 Ropeway 山頂站附近的初學者緩坡，到成就 A、成就 B 的中上級與上級路線都有配置；自然雪充足時，部分上部雪道可能以非壓雪狀態開放。
+  summary: 石鎚滑雪場：共 3 條雪道，從 Ropeway 山頂站附近的初學者緩坡，到成就 A、成就 B 的中上級與上級路線都有配置；自然雪充足時，部分上部雪道可能以非壓雪狀態開放。
   courseInfoPage: https://www.ishizuchi.com/ski/course
   details:
     - name: 野餐園地雪道 / ピクニック園地コース

@@ -83,7 +83,7 @@ courses:
   advancedRatio: 20
   total: 2
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/higashidateyama-ski/
-  summary: 官方資料列出 2 條雪道，涵蓋初級、中級與上級路線。
+  summary: 志賀高原東館山滑雪場：雪道配置有 2 條雪道，涵蓋初級、中級與上級路線。
   details:
   - name: 東館林間コース / Higashidateyama Forest Course
     difficulty: beginner

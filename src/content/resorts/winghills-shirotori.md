@@ -83,7 +83,7 @@ courses:
   intermediateRatio: 30.77
   advancedRatio: 38.46
   courseInfoPage: https://winghills.net/snow/coursemap/
-  summary: Winghills 白鳥度假村官方 Slope Condition 列出 13 個具備完整坡度與長度資料的滑行區域，從適合初學者的寬廣緩坡，到中級巡航雪道、進階陡坡、樹林區與 mogul 雪道都有；最長雪道為 2,400m。
+  summary: Winghills 白鳥渡假村滑雪場：Winghills 白鳥度假村官方 Slope Condition 列出 13 個具備完整坡度與長度資料的滑行區域，從適合初學者的寬廣緩坡，到中級巡航雪道、進階陡坡、樹林區與 mogul 雪道都有；最長雪道為 2,400m。
   details:
   - name: C1 天際線雪道
     difficulty: beginner

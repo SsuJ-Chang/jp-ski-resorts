@@ -72,7 +72,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://www.sapporo-kokusai.jp/slopes/
-  summary: 札幌國際在北海道人氣雪場清單列為第 7 名。共有 7 條雪道、4 座纜車，難度比例為初級 30%、中級 50%、上級 20%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
+  summary: 札幌國際滑雪場：共有 7 條雪道、4 座纜車，難度比例為初級 30%、中級 50%、上級 20%。
   details:
   - name: 林間コース
     difficulty: beginner

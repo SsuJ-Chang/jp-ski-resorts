@@ -74,7 +74,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 40
   courseInfoPage: http://akan-ski.com/course-facility/
-  summary: 阿寒湖畔在北海道人氣雪場清單列為第 6 名。共有 2 條雪道、1 座纜車，難度比例為初級 30%、中級 30%、上級 40%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
+  summary: 阿寒湖畔滑雪場：共有 2 條雪道、1 座纜車，難度比例為初級 30%、中級 30%、上級 40%。
   details:
   - name: レフトウィング
     difficulty: mixed

@@ -91,7 +91,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://www.ueda-rpc.or.jp/facility/banshogaharaski.html
-  summary: 共 3 條雪道、2 座纜車，初級 40%、中級 40%、高級 20%。
+  summary: 武石番所原滑雪場：共 3 條雪道、2 座纜車，初級 40%、中級 40%、高級 20%。
   details:
   - name: 初級路線
     difficulty: beginner

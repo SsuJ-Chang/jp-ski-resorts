@@ -90,7 +90,7 @@ snowWeather:
 courses:
   total: 9
   courseInfoPage: https://okutone.jp/gelande/
-  summary: 列為 7 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 奧利根雪樂園滑雪場：列為 7 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: 万治平ゲレンデ
     difficulty: beginner

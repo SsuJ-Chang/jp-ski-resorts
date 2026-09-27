@@ -53,7 +53,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 10
   courseInfoPage: https://weathernews.jp/ski/spot/33508/
-  summary: 天童高原共有 6 條雪道，難度比例約初級 60%、中級 30%、進階 10%，適合依雪況與同行者程度安排滑行路線。
+  summary: 天童高原共有 6 條雪道，難度比例約初級 60%、中級 30%、進階 10%，初級雪道比例高，適合初學者與親子滑雪。
   details:
     - name: 初級路線 1
       difficulty: beginner

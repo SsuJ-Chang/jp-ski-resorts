@@ -82,7 +82,7 @@ courses:
   advancedRatio: 30
   total: 1
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/tanne-ski/
-  summary: 官方資料列出 1 條雪道，涵蓋初級、中級與上級路線。
+  summary: Tanne 森林 Okojo 滑雪場：雪道配置有 1 條雪道，涵蓋初級、中級與上級路線。
   details:
   - name: タンネの森オコジョゲレンデ / Tanne no Mori Okojo Gelende
     difficulty: beginner

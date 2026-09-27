@@ -82,7 +82,7 @@ snowWeather:
 courses:
   total: 2
   courseInfoPage: https://www.ninox.co.jp
-  summary: 共 2 條雪道、2 座纜車，初級 65%、中級 35%。
+  summary: Ninox Snow Park 滑雪場：共 2 條雪道、2 座纜車，初級 65%、中級 35%。
   beginnerRatio: 65
   intermediateRatio: 35
   details:

@@ -82,7 +82,7 @@ snowWeather:
 courses:
   total: 5
   courseInfoPage: https://sites.google.com/view/tokusagaminesuki/%E7%A9%8D%E9%9B%AA%E6%83%85%E5%A0%B1
-  summary: 官方列出 5 條雪道，包含初級與雪橇區、初中級路線、林間路線、中上級路線及上級路線；目前官方雪況頁標示全部不可滑行。
+  summary: 十種峰滑雪場：官方列出 5 條雪道，包含初級與雪橇區、初中級路線、林間路線、中上級路線及上級路線；目前官方雪況頁標示全部不可滑行。
   details:
   - name: 初級・ソリゲレンデ
     difficulty: beginner

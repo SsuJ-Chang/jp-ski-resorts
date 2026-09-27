@@ -90,7 +90,7 @@ courses:
   intermediateRatio: 45
   advancedRatio: 20
   courseInfoPage: https://www.tambara.co.jp/winter/course/
-  summary: 標高 1,250～1,550m 的 8 條雪道，初級與中級路線約占八成；最長滑行距離約 2,550m，整體以寬廣緩坡、粉雪與家庭友善設施見長。
+  summary: 玉原薰衣草公園滑雪場：標高 1,250～1,550m 的 8 條雪道，初級與中級路線約占八成；最長滑行距離約 2,550m，整體以寬廣緩坡、粉雪與家庭友善設施見長。
   details:
   - name: 家庭雪道 / G ファミリーコース / Family Course
     difficulty: beginner

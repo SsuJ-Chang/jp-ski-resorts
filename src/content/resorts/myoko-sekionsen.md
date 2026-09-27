@@ -65,7 +65,7 @@ snowWeather:
 courses:
   total: 5
   courseInfoPage: http://www.sekionsen.jp
-  summary: 共 5 條雪道、2 座纜車，初級 20%、中級 50%、高級 30%。
+  summary: 妙高高原關溫泉滑雪場：共 5 條雪道、2 座纜車，初級 20%、中級 50%、高級 30%。
   beginnerRatio: 20
   intermediateRatio: 50
   advancedRatio: 30

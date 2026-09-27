@@ -71,7 +71,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 30
   courseInfoPage: https://miaski-resort.com/
-  summary: 共 6 條雪道、2 座纜車，初級 40%、中級 30%、高級 30%。
+  summary: 信州開田高原 MIA滑雪場：共 6 條雪道、2 座纜車，初級 40%、中級 30%、高級 30%。
   details:
   - name: 初級路線 1
     difficulty: beginner

@@ -58,7 +58,7 @@ courses:
   intermediateRatio: 55
   advancedRatio: 10
   courseInfoPage: https://weathernews.jp/ski/spot/33209/
-  summary: Jeunesse 栗駒共有 12 條雪道，難度比例約初級 35%、中級 55%、進階 10%，適合依雪況與同行者程度安排滑行路線。
+  summary: 青年栗駒滑雪場：Jeunesse 栗駒共有 12 條雪道，難度比例約初級 35%、中級 55%、進階 10%，中級雪道比例較高，適合依同行者程度安排分區滑行。
   details:
     - name: 初級路線 1
       difficulty: beginner

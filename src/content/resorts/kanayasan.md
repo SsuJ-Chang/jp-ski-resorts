@@ -63,7 +63,7 @@ courses:
   advancedRatio: 0
   total: 3
   courseInfoPage: http://joetsukankonavi.jp/spot.php?id=23
-  summary: 共 3 條雪道、1 座纜車，適合作為小規模滑行與練習場地。
+  summary: 金谷山滑雪場：共 3 條雪道、1 座纜車，適合作為小規模滑行與練習場地。
   details:
   - name: 雪道 1
     difficulty: mixed

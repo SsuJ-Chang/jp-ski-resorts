@@ -90,7 +90,7 @@ snowWeather:
 courses:
   total: 12
   courseInfoPage: https://www.yukidaruma-kogen.com/winter/course.html#business-information
-  summary: 共 12 條雪道，初級 35%、中級 40%、上級 25%；從ソレイユ銜接テール可滑行最長 4,000m，另有非壓雪、樹林滑行區與兒童雪樂園。
+  summary: 丘比特谷滑雪場：共 12 條雪道，初級 35%、中級 40%、上級 25%；從ソレイユ銜接テール可滑行最長 4,000m，另有非壓雪、樹林滑行區與兒童雪樂園。
   beginnerRatio: 35
   intermediateRatio: 40
   advancedRatio: 25

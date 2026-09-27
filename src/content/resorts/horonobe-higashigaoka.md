@@ -51,7 +51,7 @@ courses:
   intermediateRatio: 60
   advancedRatio: 0
   courseInfoPage: https://weathernews.jp/ski/spot/31308/
-  summary: 幌延町東丘共有 3 條雪道，難度比例約初級 40%、中級 60%、進階 0%，適合依雪況與同行者程度安排滑行路線。
+  summary: 幌延町東丘共有 3 條雪道，難度比例約初級 40%、中級 60%、進階 0%，中級雪道比例較高，適合依同行者程度安排分區滑行。
   details:
     - name: 初級路線
       difficulty: beginner

@@ -82,7 +82,7 @@ courses:
   advancedRatio: 30
   total: 4
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/terakoya-ski/
-  summary: 官方資料列出 4 條雪道，涵蓋初級、中級與上級路線。
+  summary: 志賀高原寺小屋滑雪場：雪道配置有 4 條雪道，涵蓋初級、中級與上級路線。
   details:
   - name: LIPSコース / LIPS Course
     difficulty: beginner

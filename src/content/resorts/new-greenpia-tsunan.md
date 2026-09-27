@@ -68,7 +68,7 @@ snowWeather:
 courses:
   total: 5
   courseInfoPage: https://new-greenpia.com
-  summary: 共 5 條雪道、3 座纜車，初級 40%、中級 30%、高級 30%。
+  summary: New Greenpia 津南滑雪場：共 5 條雪道、3 座纜車，初級 40%、中級 30%、高級 30%。
   beginnerRatio: 40
   intermediateRatio: 30
   advancedRatio: 30

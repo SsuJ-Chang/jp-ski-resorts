@@ -75,7 +75,7 @@ snowWeather:
 courses:
   total: 10
   courseInfoPage: https://www.town.aga.niigata.jp/kanko_rekishi/mikawa_onsenski/463.html
-  summary: 共 10 條雪道、4 座纜車；雪道涵蓋初、中、高級，其中部分雪道標示為跨級難度。
+  summary: 三川・溫泉滑雪場：共 10 條雪道、4 座纜車；雪道涵蓋初、中、高級，其中部分雪道標示為跨級難度。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30

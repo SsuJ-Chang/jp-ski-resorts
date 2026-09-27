@@ -1,7 +1,7 @@
 ---
 id: nakazato-snow-wood
 name:
-  zhTw: 中里Snow Wood
+  zhTw: 中里 Snow Wood
   ja: 中里スノーウッドスキー場
   en: Nakazato Snow Wood Ski Resort
 region: kanto-koshinetsu
@@ -70,7 +70,7 @@ courses:
   intermediateRatio: 0
   advancedRatio: 0
   courseInfoPage: https://www.angel-g.co.jp/snowinformation/ski_guide/
-  summary: 飯店正前方的 1,500m 緩坡，穿過林間後延伸至開闊山麓；坡面平順，適合初學者與親子。
+  summary: 中里 Snow Wood 滑雪場：飯店正前方的 1,500m 緩坡，穿過林間後延伸至開闊山麓；坡面平順，適合初學者與親子。
   details:
     - name: 中里 Snow Wood 滑雪場
       difficulty: beginner

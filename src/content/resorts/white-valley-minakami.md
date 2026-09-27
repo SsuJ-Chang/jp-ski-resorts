@@ -101,7 +101,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://www.whitevalley.jp/free/skislopemap
-  summary: White Valley Minakami 共有 Fantasy、White Heaven、Forest、Champion、Fighting 5 條主雪道，從 Family Slope 到 powder、中上級自然地形都有。最長滑走距離 2,000m，可由 White Heaven 接 Forest 再到 Fantasy；一般壓雪比例約 60%、非壓雪約 40%，Premium Powder Day 時上部約 90% 會作為非壓雪區開放。
+  summary: White Valley 水上滑雪場：White Valley Minakami 共有 Fantasy、White Heaven、Forest、Champion、Fighting 5 條主雪道，從 Family Slope 到 powder、中上級自然地形都有。最長滑走距離 2,000m，可由 White Heaven 接 Forest 再到 Fantasy；一般壓雪比例約 60%、非壓雪約 40%，Premium Powder Day 時上部約 90% 會作為非壓雪區開放。
   details:
   - name: ファンタジー
     difficulty: beginner

@@ -91,7 +91,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://katashinakogen.co.jp/facility/
-  summary: 片品高原官方雪道圖列出 13 條雪道，包含初級練習、中級巡航與進階雪道；另有 Snow Escalator、常設旗門課程與兒童雪上遊樂設施。雪場為滑雪專用，雪板不可滑行。
+  summary: 片品高原雪道圖列出 13 條雪道，包含初級練習、中級巡航與進階雪道；另有 Snow Escalator、常設旗門課程與兒童雪上遊樂設施。雪場為滑雪專用，雪板不可滑行。
   details:
   - name: マウンテンコース
     difficulty: beginner

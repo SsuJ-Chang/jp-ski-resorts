@@ -79,7 +79,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 0
   courseInfoPage: https://www.gokase.co.jp/ski/slope/
-  summary: 五瀨高原位於宮崎縣五瀨町，公開資料列為 2 條雪道、3 座纜車；官方雪道頁另介紹 Beginner course、Paradise Course、Dynamic Course、Snow Park 與 Family Gelande 等區域。
+  summary: 五瀨高原位於宮崎縣五瀨町，共有 2 條雪道、3 座纜車；雪道配置另有 Beginner course、Paradise Course、Dynamic Course、Snow Park 與 Family Gelande 等區域。
   details:
   - name: Beginner course
     difficulty: beginner

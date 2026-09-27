@@ -108,7 +108,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://jamresort.jp/activity-white/course-guide/
-  summary: Ski Jam 勝山官方資料列有 12 條主雪道與 3 個 Tree Run 區域，最長滑走距離 5,800m、最大斜度 37°，難度比例為初級 30%、中級 40%、上級 30%。
+  summary: Ski Jam 勝山雪道配置有 12 條主雪道與 3 個 Tree Run 區域，最長滑走距離 5,800m、最大斜度 37°，難度比例為初級 30%、中級 40%、上級 30%。
   details:
   - name: 林道コース
     difficulty: beginner

@@ -101,7 +101,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 30
   courseInfoPage: https://blanche-ski.com/winter/course/
-  summary: 正式雪道共 9 條，初級 20%、中級 50%、上級 30%。可從標高 1,807m 的山頂串連モミの木樹氷與キッズファン，完成最長約 3,700m 的初級長距離滑行。
+  summary: Blanche 高山滑雪場：正式雪道共 9 條，初級 20%、中級 50%、上級 30%。可從標高 1,807m 的山頂串連モミの木樹氷與キッズファン，完成最長約 3,700m 的初級長距離滑行。
   details:
   - name: モミの木樹氷コース
     difficulty: beginner

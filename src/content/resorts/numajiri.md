@@ -56,7 +56,7 @@ courses:
   intermediateRatio: 45
   advancedRatio: 10
   courseInfoPage: https://weathernews.jp/ski/spot/33617/
-  summary: Numajiri Ski 共有 7 條雪道，難度比例約初級 45%、中級 45%、進階 10%，適合依雪況與同行者程度安排滑行路線。
+  summary: Numajiri Ski 共有 7 條雪道，難度比例約初級 45%、中級 45%、進階 10%，中級雪道比例較高，適合依同行者程度安排分區滑行。
   details:
     - name: 初級路線 1
       difficulty: beginner

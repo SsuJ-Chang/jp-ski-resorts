@@ -94,7 +94,7 @@ courses:
   intermediateRatio: 41.67
   advancedRatio: 25
   courseInfoPage: https://www.meihoski.co.jp/gelande/
-  summary: Meiho 滑雪場官方頁面列出 12 條雪道，包含初級 4 條、中級 5 條與上級 3 條；最長的 α5000 達 5,000m，最高最大斜度為 γ800 的 38°。
+  summary: Meiho 滑雪場雪道配置有 12 條雪道，包含初級 4 條、中級 5 條與上級 3 條；最長的 α5000 達 5,000m，最高最大斜度為 γ800 的 38°。
   details:
   - name: α5000
     difficulty: beginner

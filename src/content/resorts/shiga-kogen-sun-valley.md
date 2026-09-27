@@ -83,7 +83,7 @@ courses:
   advancedRatio: 20
   total: 3
   courseInfoPage: https://shigakogen.co.jp/winter/snow-slope/sunvalley-ski/
-  summary: 官方資料列出 3 條雪道，涵蓋初級、中級與上級路線。
+  summary: 太陽谷滑雪場：雪道配置有 3 條雪道，涵蓋初級、中級與上級路線。
   details:
   - name: サンバレー初級コース / Sun Valley Beginner Course
     difficulty: beginner

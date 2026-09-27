@@ -152,7 +152,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 35
   courseInfoPage: https://sapporo-teine.com/snow/course?id=Course
-  summary: 札幌手稻在北海道人氣雪場清單列為第 8 名。共有 15 條雪道、10 座纜車，難度比例為初級 35%、中級 40%、上級 35%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
+  summary: 札幌手稻滑雪場：共有 15 條雪道、10 座纜車，難度比例為初級 35%、中級 40%、上級 35%。
   details:
   - name: HZ-1 シティビュークルーズ
     difficulty: intermediate

@@ -51,7 +51,7 @@ courses:
   intermediateRatio: 5
   advancedRatio: 5
   courseInfoPage: https://weathernews.jp/ski/spot/31210/
-  summary: 伊之澤市民共有 1 條雪道，難度比例約初級 90%、中級 5%、進階 5%，適合依雪況與同行者程度安排滑行路線。
+  summary: 伊之澤市民共有 1 條雪道，難度比例約初級 90%、中級 5%、進階 5%，初級雪道比例高，適合初學者與親子滑雪。
   details:
     - name: 初級路線
       difficulty: beginner

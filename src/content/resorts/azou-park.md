@@ -62,7 +62,7 @@ snowWeather:
 courses:
   total: 1
   courseInfoPage: https://azou-forest-park.com/facility#leisure
-  summary: 安藏公園是鳥取市河內的地方型小型雪場，公開資料列為 1 條雪道與 2 條纜車，營業日多受積雪與週末假日條件影響。
+  summary: 安藏公園是鳥取市河內的地方型小型雪場，共有 1 條雪道與 2 條纜車，營業日多受積雪與週末假日條件影響。
   details:
   - name: 雪道
     difficulty: mixed

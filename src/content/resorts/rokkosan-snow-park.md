@@ -74,7 +74,7 @@ snowWeather:
 courses:
   total: 3
   courseInfoPage: https://www.rokkosan.com/ski/beginner/ski/
-  summary: 列為 3 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 六甲山滑雪場：列為 3 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: 第1ゲレンデ
     difficulty: beginner

@@ -128,7 +128,7 @@ courses:
   intermediateRatio: 42.86
   advancedRatio: 21.43
   courseInfoPage: https://www.okuibuki.co.jp/gelande/course/
-  summary: Grand Snow Okuibuki 官方資料列出 14 個滑行與活動區域，包含適合初學者與家庭的兒童公園、初級雪道，以及中級、高級與最上級雪道。最長雪道為 1,000m，最大坡度為 Heavenly 46° 的 46°。
+  summary: 奧伊吹滑雪場：Grand Snow Okuibuki 雪道配置有 14 個滑行與活動區域，包含適合初學者與家庭的兒童公園、初級雪道，以及中級、高級與最上級雪道。最長雪道為 1,000m，最大坡度為 Heavenly 46° 的 46°。
   details:
   - name: 兒童公園
     difficulty: beginner

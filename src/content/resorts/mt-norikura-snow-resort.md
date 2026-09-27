@@ -90,7 +90,7 @@ courses:
   intermediateRatio: 45
   advancedRatio: 15
   courseInfoPage: https://www.brnorikura.jp/about.php
-  summary: 20 條雪道自海拔 2,000m 延伸至 1,500m，最大坡度 33 度，最長可由かもしか一路串連すずらん滑行 5,000m；初級、中級、上級比例為 40%、45%、15%。
+  summary: 乘鞍山滑雪度假村滑雪場：20 條雪道自海拔 2,000m 延伸至 1,500m，最大坡度 33 度，最長可由かもしか一路串連すずらん滑行 5,000m；初級、中級、上級比例為 40%、45%、15%。
   details:
   - name: すずらんコース
     difficulty: beginner

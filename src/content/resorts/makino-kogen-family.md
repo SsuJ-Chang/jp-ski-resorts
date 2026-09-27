@@ -86,7 +86,7 @@ snowWeather:
 courses:
   total: 1
   courseInfoPage: https://makinokougen.co.jp/pages/275/
-  summary: 共 1 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 牧野高原 Family 滑雪場：共 1 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner

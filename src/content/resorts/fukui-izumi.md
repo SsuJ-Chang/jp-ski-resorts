@@ -64,7 +64,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://fukuiizumi.com/gerendemap/
-  summary: 福井和泉共有 6 條雪道，最大斜度 25°，初級 30%、中級 40%、上級 30%。官方地圖另標示 Doberman Park 地形公園與 Powder エリア；各雪道長度與個別坡度未公開，實際開放狀況請以官方公告為準。
+  summary: 福井和泉共有 6 條雪道，最大斜度 25°，初級 30%、中級 40%、上級 30%。雪道圖另標示 Doberman Park 地形公園與 Powder エリア；各雪道長度與個別坡度未公開，實際開放狀況請以官方公告為準。
   details:
   - name: Paradise C / パラダイスC
     difficulty: beginner

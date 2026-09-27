@@ -53,7 +53,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 25
   courseInfoPage: https://weathernews.jp/ski/spot/33510/
-  summary: 米澤共有 8 條雪道，難度比例約初級 25%、中級 50%、進階 25%，適合依雪況與同行者程度安排滑行路線。
+  summary: 米澤共有 8 條雪道，難度比例約初級 25%、中級 50%、進階 25%，中級雪道比例較高，適合依同行者程度安排分區滑行。
   details:
     - name: 初級路線 1
       difficulty: beginner

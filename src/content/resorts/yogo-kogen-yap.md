@@ -128,7 +128,7 @@ snowWeather:
 courses:
   total: 6
   courseInfoPage: http://yogo45.co.jp/gelande-map/
-  summary: 官方頁面列出 6 條雪道，難度涵蓋初級至上級；其中バレ・ブランシュ、モンテローザ、モンブラン為初級至中級向的混合難度。
+  summary: 余吳高原渡假村 YAP 滑雪場：雪道配置有 6 條雪道，難度涵蓋初級至上級；其中バレ・ブランシュ、モンテローザ、モンブラン為初級至中級向的混合難度。
   details:
   - name: バレ・ブランシュ
     difficulty: mixed

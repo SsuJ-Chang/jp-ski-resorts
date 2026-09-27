@@ -53,7 +53,7 @@ courses:
   intermediateRatio: 20
   advancedRatio: 30
   courseInfoPage: https://weathernews.jp/ski/spot/32101/
-  summary: 俱知安町旭丘共有 2 條雪道，難度比例約初級 50%、中級 20%、進階 30%，適合依雪況與同行者程度安排滑行路線。
+  summary: 俱知安町旭丘共有 2 條雪道，難度比例約初級 50%、中級 20%、進階 30%，難度分布多元，可依同行者程度規劃滑行區域。
   details:
     - name: 初級路線
       difficulty: beginner

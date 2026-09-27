@@ -54,7 +54,7 @@ courses:
   intermediateRatio: 60
   advancedRatio: 0
   courseInfoPage: https://weathernews.jp/ski/spot/31711/
-  summary: 興部町營共有 1 條雪道，難度比例約初級 40%、中級 60%、進階 0%，適合依雪況與同行者程度安排滑行路線。
+  summary: 興部町營共有 1 條雪道，難度比例約初級 40%、中級 60%、進階 0%，中級雪道比例較高，適合依同行者程度安排分區滑行。
   details:
     - name: 中級路線
       difficulty: intermediate

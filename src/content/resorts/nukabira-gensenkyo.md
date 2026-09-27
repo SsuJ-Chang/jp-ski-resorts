@@ -75,7 +75,7 @@ courses:
   intermediateRatio: 45
   advancedRatio: 15
   courseInfoPage: https://weathernews.jp/ski/spot/32002/
-  summary: 糠平源泉鄉在北海道人氣雪場清單列為第 11 名。共有 7 條雪道、2 座纜車，難度比例為初級 40%、中級 45%、上級 15%。實際開放雪道與難度感受請以當日官方公告、積雪與天候為準。
+  summary: 糠平源泉鄉滑雪場：共有 7 條雪道、2 座纜車，難度比例為初級 40%、中級 45%、上級 15%。
   details:
   - name: ファミリーゲレンデ（名稱待確認）
     difficulty: beginner

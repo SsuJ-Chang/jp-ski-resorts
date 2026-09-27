@@ -51,7 +51,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://weathernews.jp/ski/spot/33624/
-  summary: 只見共有 1 條雪道，難度比例約初級 30%、中級 50%、進階 20%，適合依雪況與同行者程度安排滑行路線。
+  summary: 只見共有 1 條雪道，難度比例約初級 30%、中級 50%、進階 20%，中級雪道比例較高，適合依同行者程度安排分區滑行。
   details:
     - name: 中級路線
       difficulty: intermediate

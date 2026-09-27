@@ -52,7 +52,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 0
   courseInfoPage: https://www.shizenkan.jp/winter-slope/
-  summary: Asahi自然観スノーパーク由ユーユーゲレンデ與ファンタジーゲレンデ兩個坡面組成；ユーユー偏初級與家庭取向，ファンタジー則為中上級者取向，最大斜度約 22 度。
+  summary: Asahi 自然觀 Snow Park 滑雪場：Asahi自然観スノーパーク由ユーユーゲレンデ與ファンタジーゲレンデ兩個坡面組成；ユーユー偏初級與家庭取向，ファンタジー則為中上級者取向，最大斜度約 22 度。
   details:
     - name: ユーユーゲレンデ
       difficulty: beginner

@@ -78,7 +78,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 10
   courseInfoPage: https://www.yeti-resort.com/guide/#guide01
-  summary: 官方標示 YETI 有 A-D 共 4 條ゲレンデ、平均斜度 11°、最大斜度 25°，四條雪道皆可使用 ski 與 snowboard。
+  summary: Fujiyama Snow Resort Yeti 滑雪場：官方標示 YETI 有 A-D 共 4 條ゲレンデ、平均斜度 11°、最大斜度 25°，四條雪道皆可使用 ski 與 snowboard。
   details:
   - name: Aゲレンデ
     difficulty: beginner

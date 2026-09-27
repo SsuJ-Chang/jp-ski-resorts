@@ -53,7 +53,7 @@ courses:
   intermediateRatio: 20
   advancedRatio: 20
   courseInfoPage: https://weathernews.jp/ski/spot/31307/
-  summary: 豐富町溫泉共有 3 條雪道，難度比例約初級 60%、中級 20%、進階 20%，適合依雪況與同行者程度安排滑行路線。
+  summary: 豐富町溫泉共有 3 條雪道，難度比例約初級 60%、中級 20%、進階 20%，初級雪道比例高，適合初學者與親子滑雪。
   details:
     - name: 初級路線 1
       difficulty: beginner

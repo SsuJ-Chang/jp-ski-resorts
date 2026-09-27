@@ -82,7 +82,7 @@ snowWeather:
 courses:
   total: 5
   courseInfoPage: https://www.mizuhohighland.com/course/
-  summary: 列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
+  summary: 瑞穗高原滑雪場：列為 5 條雪道；本資料依官方雪道頁整理主要雪道，並以 公開難度比例作為總覽參考。
   details:
   - name: ナスターコース
     difficulty: beginner

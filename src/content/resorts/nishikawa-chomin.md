@@ -52,7 +52,7 @@ courses:
   intermediateRatio: 35
   advancedRatio: 40
   courseInfoPage: https://weathernews.jp/ski/spot/33521/
-  summary: 西川町民共有 3 條雪道，難度比例約初級 25%、中級 35%、進階 40%，適合依雪況與同行者程度安排滑行路線。
+  summary: 西川町民間澤滑雪場：西川町民共有 3 條雪道，難度比例約初級 25%、中級 35%、進階 40%，中高級雪道比例較高，適合有經驗的滑雪者挑戰。
   details:
     - name: 初級路線
       difficulty: beginner

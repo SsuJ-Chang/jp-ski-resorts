@@ -116,7 +116,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://www.tangram.jp/ski/ski/map.php
-  summary: 19 條雪道、5 座纜車，初級 30%、中級 40%、上級 30%。山麓有親子與初心者練習區，山頂與側邊則有非壓雪樹林滑行與變化坡面，最長可串聯約 2,500m。
+  summary: Tangram 滑雪廣場滑雪場：19 條雪道、5 座纜車，初級 30%、中級 40%、上級 30%。山麓有親子與初心者練習區，山頂與側邊則有非壓雪樹林滑行與變化坡面，最長可串聯約 2,500m。
   details:
     - name: 哈特蘭線 / ハートランドライン / Heartland Line
       difficulty: beginner

@@ -100,7 +100,7 @@ courses:
   intermediateRatio: 45
   advancedRatio: 30
   courseInfoPage: https://yamaboku.co.jp/course/
-  summary: 共 19 條雪道，保留自然地形的非壓雪區比例高；包含初、中級壓雪練習坡與上級非壓雪急斜面。
+  summary: YAMABOKU Wild Snow Park 滑雪場：共 19 條雪道，保留自然地形的非壓雪區比例高；包含初、中級壓雪練習坡與上級非壓雪急斜面。
   details:
     - name: D ヒルシュ
       difficulty: beginner

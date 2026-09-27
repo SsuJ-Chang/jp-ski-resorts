@@ -86,7 +86,7 @@ snowWeather:
 courses:
   total: 4
   courseInfoPage: https://bear-ski.amebaownd.com/posts/23334462
-  summary: 官方列出 4 條雪道，從適合初學與練習的 Rabbit Course，到最大坡度 26 度的 Fox Course，另設有兒童雪地遊戲區與單板公園。
+  summary: 蒜山 Bear Valley滑雪場：官方列出 4 條雪道，從適合初學與練習的 Rabbit Course，到最大坡度 26 度的 Fox Course，另設有兒童雪地遊戲區與單板公園。
   details:
   - name: Rabbit Course / ラビットコース
     difficulty: beginner

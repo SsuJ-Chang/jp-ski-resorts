@@ -96,7 +96,7 @@ courses:
   advancedRatio: 31
   total: 13
   courseInfoPage: https://www.niseko.ne.jp/en/map/annupuri/
-  summary: Annupuri 位在 Niseko United 西側，官方列出 13 條主要雪道，從 Family、Junior 等緩坡到 Challenge、Dynamic 與 Fukayuki Rinkan 等高難度路線都有。
+  summary: 二世谷 Annupuri 滑雪場：Annupuri 位在 Niseko United 西側，官方列出 13 條主要雪道，從 Family、Junior 等緩坡到 Challenge、Dynamic 與 Fukayuki Rinkan 等高難度路線都有。
   details:
   - name: Paradise
     difficulty: beginner

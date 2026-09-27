@@ -70,7 +70,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 30
   courseInfoPage: http://okutadami.co.jp/ski/gelande.html
-  summary: 官方以丸山、カモシカ、ブナ平、八崎等區域介紹雪道，部分 A-E 路線為カモシカゲレンデ內分支；以下保留官方可確認的區域與路線說明。
+  summary: 奧只見丸山滑雪場：官方以丸山、カモシカ、ブナ平、八崎等區域介紹雪道，部分 A-E 路線為カモシカゲレンデ內分支；以下保留官方可確認的區域與路線說明。
   details:
   - name: ブナ平ゲレンデ
     difficulty: beginner

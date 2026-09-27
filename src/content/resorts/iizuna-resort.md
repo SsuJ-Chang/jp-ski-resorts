@@ -106,7 +106,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://iizunaresort.com/gerende/
-  summary: 主要正式雪道共 7 條，初級 40%、中級 40%、上級 20%；最高點 1,500m，最長可由サミット接續サンシャイン、フォレスト及ファミリー滑行約 2.5km。
+  summary: 飯綱滑雪度假村滑雪場：主要正式雪道共 7 條，初級 40%、中級 40%、上級 20%；最高點 1,500m，最長可由サミット接續サンシャイン、フォレスト及ファミリー滑行約 2.5km。
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner

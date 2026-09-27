@@ -93,7 +93,7 @@ snowWeather:
 courses:
   total: 18
   courseInfoPage: https://www.oze-iwakura.co.jp/ski/slopeguide/
-  summary: 官方雪道頁列出 18 條主要滑行路線，含山麓緩坡、2,800m Milky Way、競技系國體路線、非壓雪陡坡與西山側長距離路線。難度比例以初級 30%、中級 40%、上級 30% 作為總覽參考。
+  summary: White World 尾瀨岩鞍滑雪場：官方雪道頁列出 18 條主要滑行路線，含山麓緩坡、2,800m Milky Way、競技系國體路線、非壓雪陡坡與西山側長距離路線。難度比例以初級 30%、中級 40%、上級 30% 作為總覽參考。
   details:
   - name: ファミリーコース
     difficulty: beginner

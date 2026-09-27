@@ -94,7 +94,7 @@ snowWeather:
 courses:
   total: 3
   courseInfoPage: https://www.masumizu.net/ski.html
-  summary: 官方頁面介紹 1 條約 700m 的主要雪道，另設初學者練習雪場與雪遊戲區；雪場配置 1 組纜車。
+  summary: 雪場設有 1 條約 700m 的主要雪道，另設初學者練習雪場與雪遊戲區；雪場配置 1 組纜車。
   details:
   - name: 初心者練習ゲレンデ
     difficulty: beginner

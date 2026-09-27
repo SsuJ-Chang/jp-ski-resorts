@@ -101,7 +101,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://yunomaru.co.jp/gerende/
-  summary: 共 9 條雪道、6 座纜車，初級 40%、中級 40%、高級 20%；最長為 2,300m 的 Kamoshika 林間雪道，最大坡度 25°。
+  summary: 湯之丸滑雪場：共 9 條雪道、6 座纜車，初級 40%、中級 40%、高級 20%；最長為 2,300m 的 Kamoshika 林間雪道，最大坡度 25°。
   details:
     - name: 第2ゲレンデ
       difficulty: beginner
