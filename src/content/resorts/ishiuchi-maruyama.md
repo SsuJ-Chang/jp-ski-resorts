@@ -121,7 +121,7 @@ tickets:
     - name: 完美行【早鳥優惠】纜車1日券×3張（全天）
       url: https://tw.wamazing.com/snow/items/15694
       deadline: "2026-12-14"
-    - name: SURF & SNOW
+    - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0788tk.htm
       deadline: "2026-12-15"
 snowWeather:

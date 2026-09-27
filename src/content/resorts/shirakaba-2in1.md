@@ -85,7 +85,7 @@ tickets:
         - 兒童 / 長者：¥57,600
       note: 自 2in1 雪場開放日至當季營業結束可使用。
 snowWeather:
-  title: 白樺 2in1 雪況預報
+  title: SURF&SNOW 白樺 2in1 雪場概要
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34839/
   snowDepth: 0 cm
@@ -98,7 +98,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://whitebirch.co.jp/shirakaba2in1/
-  summary: 官方頁列出 13 條命名雪道，從初級的スクールマスター、ホリデー、プレジャー，到中級的パラダイス、ヒルトップ與中上級、上級路線都有；最長為 1,800m 的ピクニックコース。官方與 SURF&SNOW 皆把白樺 2in1 定位為晴天率高、視野開闊、可與白樺高原國際共用纜車券的白樺湖周邊雪場。
+  summary: 共 13 條命名雪道，從初級的スクールマスター、ホリデー、プレジャー，到中級的パラダイス、ヒルトップ與中上級、上級路線都有；最長為 1,800m 的ピクニックコース。白樺 2in1 晴天率高、視野開闊，並可與白樺高原國際共用纜車券。
   details:
   - name: スクールマスターコース
     difficulty: beginner
@@ -179,7 +179,7 @@ terrainSummary:
   beginner: 初級約 40%，スクールマスター、ホリデー、プレジャー等短中距離路線適合暖身與基礎練習。
   intermediate: 中級約 40%，パラダイス、ヒルトップ、ラン・ラーン與最長 1,800m 的ピクニック可組合出較完整的滑行節奏。
   advanced: 上級約 20%，キャニオン為未壓雪上級路線，パッション與ラッツ・ラッツ則提供中上級坡面變化。
-  snowboard: 官方列有多條滑行路線、park item 與ちびっこパーク，SURF&SNOW 也將其作為白樺湖周邊可滑雪與單板的雪場介紹。
+  snowboard: 官方列有多條滑行路線、park item 與ちびっこパーク，相關資訊也將其作為白樺湖周邊可滑雪與單板的雪場介紹。
 externalGuide:
   title: SURF&SNOW 白樺 2in1 雪場概要
   url: https://surfsnow.jp/search/list/spl_area01.php?key=%E3%81%97%E3%82%89%E3%81%8B%E3%81%B02in1

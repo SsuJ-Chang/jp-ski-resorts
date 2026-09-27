@@ -153,7 +153,7 @@ tickets:
         - 成人：¥2,000
         - 兒童：¥1,500
   earlyBird:
-    - name: SURF & SNOW
+    - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0166tk.htm
       deadline: "2026-09-30"
 snowWeather:

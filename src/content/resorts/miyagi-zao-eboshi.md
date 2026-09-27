@@ -42,7 +42,7 @@ tickets:
     - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://tw.wamazing.com/snow/items/15083
       deadline: "2026-12-10"
-    - name: SURF & SNOW
+    - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0024tk.htm
       deadline: "2026-11-30"
 snowWeather:

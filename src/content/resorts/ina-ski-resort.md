@@ -39,13 +39,13 @@ season:
   operatingPeriod: 2025/12/20-2026/3/22
   hours: 平日 9:00〜16:00；週末及國定假日 8:30〜17:00；夜滑依日程 17:00 或 18:00〜21:00；Long Night Ski 可至 23:00
   nightSkiingHours: 平日 18:00〜21:00；週末及國定假日 17:00〜21:00；Long Night Ski 日程 17:00〜23:00
-  note: 營業期間參考長野伊那谷觀光局與 SURF&SNOW；實際營業日、夜滑日程與最終搭乘時間請以官方公告與夜滑 calendar 為準。
+  note: 營業期間參考長野伊那谷觀光局與公開資訊；實際營業日、夜滑日程與最終搭乘時間請以官方公告與夜滑 calendar 為準。
   source: https://www.inadanikankou.jp/spot/page/id%3D2287
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://inaski.com/price
-  note: 官方票價頁以圖片表格公布主要 lift ticket，以下依官方票價頁與 SURF&SNOW 2025-2026 表格整理。兒童為國中三年級以下，樂齡 為 55 歲以上且需出示證明；午後券與 Super 午後券 11:30 起販售。
+  note: 官方票價頁以圖片表格公布主要 lift ticket，以下依官方票價頁與 2025-2026 表格整理。兒童為國中三年級以下，樂齡 為 55 歲以上且需出示證明；午後券與 Super 午後券 11:30 起販售。
   plans:
     - name: 1 日券
       priceLines:
@@ -135,7 +135,7 @@ access:
     - 由小黑川 Smart IC 或伊那 IC 下交流道後前往雪場。
     estimatedTime: 約 3 小時以上
     difficulty: medium
-    note: 長野伊那谷觀光局標示小黑川 Smart IC 至雪場約 8 分鐘；SURF&SNOW 標示中央自動車道伊那 IC 約 15 分鐘。
+    note: 長野伊那谷觀光局標示小黑川 Smart IC 至雪場約 8 分鐘；資料顯示中央自動車道伊那 IC 約 15 分鐘。
   publicTransit:
   - label: 鐵道＋計程車
     steps:
@@ -151,7 +151,7 @@ terrainSummary:
   beginner: 初級約 70%，ドリームコース與わくわく☆ランド讓第一次滑雪、雪橇與親子雪地活動比較容易安排。
   intermediate: 中級約 30%，パノラマコース可串接ドリームコース成 1,200m 長距離滑行，兼具景觀與練習坡度。
   advanced: 未標示進階雪道，整體定位不是挑戰型雪場。
-  snowboard: SURF&SNOW 標示雙板 70%、snowboard 30%，各主要雪道皆可 snowboard；官方也有夜滑與 park 相關資訊。
+  snowboard: 資料顯示雙板 70%、snowboard 30%，各主要雪道皆可 snowboard；官方也有夜滑與 park 相關資訊。
   powder: 場內壓雪比例 100%，並有人工降雪機，特色不是 powder，而是穩定緩坡、親子設施與夜滑。
 externalGuide:
   title: 中央道 伊那スキーリゾート - 長野伊那谷觀光局

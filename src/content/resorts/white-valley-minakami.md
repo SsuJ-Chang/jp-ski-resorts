@@ -45,7 +45,7 @@ season:
   operatingPeriod: 2025/12/20-2026/3/15
   hours: 平日 9:00-16:00；週末及國定假日 8:30-16:15；3 月至結束 9:00-16:00
   nightSkiingHours: 無
-  note: 官方與 SurF&Snow 顯示 2025-2026 雪季已於 2026/3/15 結束；12/30-1/4 為 8:30-16:15，週三、週四為公休日但國定假日除外，實際營業時間可能因大雪、天候與日落調整。
+  note: 官方公告顯示 2025-2026 雪季已於 2026/3/15 結束；12/30-1/4 為 8:30-16:15，週三、週四為公休日但國定假日除外，實際營業時間可能因大雪、天候與日落調整。
   source: https://www.whitevalley.jp/free/price
 trailMaps:
 - label: White Valley 水上官方雪場・雪道頁
@@ -101,29 +101,29 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://www.whitevalley.jp/free/skislopemap
-  summary: 官方雪道頁列出 Fantasy、White Heaven、Forest、Champion、Fighting 5 條主雪道，從 Family Slope 到 powder、中上級自然地形都有。SurF&Snow 補充最長滑走距離為 2,000m，路線可由 White Heaven 接 Forest 再到 Fantasy；一般壓雪比例約 60%、非壓雪約 40%，Premium Powder Day 時上部約 90% 會作為非壓雪區開放。
+  summary: White Valley Minakami 共有 Fantasy、White Heaven、Forest、Champion、Fighting 5 條主雪道，從 Family Slope 到 powder、中上級自然地形都有。最長滑走距離 2,000m，可由 White Heaven 接 Forest 再到 Fantasy；一般壓雪比例約 60%、非壓雪約 40%，Premium Powder Day 時上部約 90% 會作為非壓雪區開放。
   details:
   - name: ファンタジー
     difficulty: beginner
     length: 500m
-    note: 官方標示為初級，可在 Family Slope 享受 pole burn、wave 等配置；SurF&Snow 也將它列為初學者與家庭取向雪道。
+    note: 官方標示為初級，可在 Family Slope 享受 pole burn、wave 等配置；相關資訊也將它列為初學者與家庭取向雪道。
   - name: ホワイトヘブン
     difficulty: intermediate
     length: 600m
-    note: 官方標示為中級，可在開闊景色中充分感受粉雪；SurF&Snow 將它列為中上級路線，也是約 2,000m 串接滑行的起點。
+    note: 官方標示為中級，可在開闊景色中充分感受粉雪；資料將它列為中上級路線，也是約 2,000m 串接滑行的起點。
   - name: フォレスト
     difficulty: intermediate
     length: 900m
-    note: 官方標示為中級，沿谷間滑行，可享受自己選線的樂趣；SurF&Snow 形容它是讓人想停下休息的安靜雪道。
+    note: 官方標示為中級，沿谷間滑行，可享受自己選線的樂趣；資料形容它是讓人想停下休息的安靜雪道。
   - name: チャンピオン
     difficulty: advanced
     length: 800m
-    note: 官方標示為上級，活用自然地形，即使不是新雪也能享受荒地感；SurF&Snow 將它列為適合中上級者試身手的人氣路線。
+    note: 官方標示為上級，活用自然地形，即使不是新雪也能享受荒地感；資料將它列為適合中上級者試身手的人氣路線。
   - name: ファイティング
     difficulty: advanced
     length: 1,000m
     maxSlope: 35°
-    note: 官方標示為上級，是強調自然感的高難度路線；SurF&Snow 補充最大坡度 35 度，適合進階者挑戰。
+    note: 官方標示為上級，是強調自然感的高難度路線；資料另列最大坡度 35 度，適合進階者挑戰。
 lifts:
   total: 2
 access:
@@ -175,8 +175,8 @@ terrainSummary:
   beginner: Fantasy 是主雪道中唯一明確初級路線，搭配 Family Slope 的 pole burn 與 wave，適合初學者和親子先練轉彎與速度控制。
   intermediate: White Heaven 與 Forest 是粉雪與谷間滑行的核心，中級者可串接 White Heaven → Forest → Fantasy 形成約 2,000m 的最長滑走線。
   advanced: Champion 與 Fighting 強調自然地形與荒地感，Fighting 最大坡度 35 度，適合想在小型雪場找較硬路線的進階者。
-  snowboard: SurF&Snow 標示雪板比例約 55%，官方也列出 snowboard 可滑，雪場另提供 snow drive、snow scoot 等特殊雪具租借。
-  powder: 官方雪道頁與 SurF&Snow 都強調粉雪，Premium Powder Day 會把上部約 90% 作為非壓雪區開放；實施與否以前一日官方網站與社群公告為準。
+  snowboard: 資料顯示雪板比例約 55%，官方也列出 snowboard 可滑，雪場另提供 snow drive、snow scoot 等特殊雪具租借。
+  powder: 官方雪道頁與 相關資訊都強調粉雪，Premium Powder Day 會把上部約 90% 作為非壓雪區開放；實施與否以前一日官方網站與社群公告為準。
 externalContent:
   blogs: []
   vlogs: []

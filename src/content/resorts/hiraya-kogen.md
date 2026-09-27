@@ -74,7 +74,7 @@ tickets:
       priceLines:
         - 全對象：¥200
 snowWeather:
-  title: 平谷高原雪況預報
+  title: SURF&SNOW 平谷高原雪場概要
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/44807/
   snowDepth: 0 cm
@@ -120,7 +120,7 @@ terrainSummary:
   beginner: 初級比例約 70%，Aコース、免費初心者練習區與 Snow Conveyor 讓第一次滑雪或親子練習比較好安排。
   intermediate: Bコース與 Dコース為中級，雪道配置簡單，適合反覆練習轉彎與速度控制。
   advanced: Cコース為上級，規模不大但保留一條較有坡度的滑行選項。
-  snowboard: 官方明確標示單板可全區滑行，SURF&SNOW 也將其定位為適合初學者與家庭的緩坡型雪場。
+  snowboard: 官方明確標示單板可全區滑行，相關資訊也將其定位為適合初學者與家庭的緩坡型雪場。
 externalGuide:
   title: SURF&SNOW 平谷高原雪場概要
   url: https://surfsnow.jp/guide/htm/r0863s.htm?from=news

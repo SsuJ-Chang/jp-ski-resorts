@@ -20,14 +20,14 @@ tags:
 links:
   official: http://joetsukankonavi.jp/spot.php?id=23
   weather: https://weathernews.jp/ski/spot/35427/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Kanayasan%20Ski%20Area
+  googleMaps: https://maps.app.goo.gl/G5YHq4awqBmnPaYdA
   access: http://joetsukankonavi.jp/spot.php?id=23
 contact:
   address:
     zhTw: 〒943-0893 新潟縣上越市大字大貫 595-2
     ja: 〒943-0893 新潟県上越市大字大貫595-2
     en: 595-2 Ooaza Oonuki, Jouetsu, Niigata 943-0893
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Kanayasan%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/G5YHq4awqBmnPaYdA
   phone: 025-525-4295
 season:
   label: 2025-2026
@@ -94,4 +94,4 @@ terrainSummary:
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
 ---
 
-金谷山在新潟縣提供3 條雪道，搭配 1 座纜車。僅保留已確認的規模與路線配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。
+金谷山在新潟縣提供 3 條雪道，搭配 1 座纜車。僅保留已確認的規模與路線配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。

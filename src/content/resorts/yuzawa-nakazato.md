@@ -83,7 +83,7 @@ tickets:
         - 小學生 ¥2,000
       note: 須出示身心障礙手冊；必要陪同者 1 名可享同額票價。
   earlyBird:
-    - name: SURF & SNOW
+    - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0046tk.htm
       deadline: "2026-12-18"
 snowWeather:

@@ -97,13 +97,13 @@ courses:
   intermediateRatio: 30
   advancedRatio: 20
   courseInfoPage: https://fujiwaraski.com/cource/
-  summary: 藤原是飯店前可一眼看完整體坡面的 compact 型雪場，官方主打可眺望上越國境山群、路線變化多、兒童與初學者安心。SurF&Snow 標示 10 條雪道、初級 50%、中級 30%、上級 20%，最長滑行距離 600m，雪面約 80% 壓雪、20% 非壓雪。
+  summary: 藤原是飯店前即可掌握整體坡面的 compact 型雪場，可眺望上越國境山群，並以路線變化與親子初學者友善為特色。共 10 條雪道，初級 50%、中級 30%、上級 20%，最長滑行距離 600m，雪面約 80% 壓雪、20% 非壓雪。
   details:
   - name: のんびりコース
     difficulty: beginner
     length: 280m
     averageSlope: 13°
-    note: 第 2 纜車區的代表初級路線，SurF&Snow 描述為支援雪場初體驗的寬闊緩坡，第一次搭纜車也較安心。
+    note: 第 2 纜車區的代表初級路線，資料描述為支援雪場初體驗的寬闊緩坡，第一次搭纜車也較安心。
   - name: ゆっくりコース
     difficulty: beginner
     length: 280m
@@ -116,16 +116,16 @@ courses:
     note: 初次嘗試雙板或單板的練習坡，適合兒童與雪場初體驗。
   - name: キッズパーク
     difficulty: beginner
-    note: 雪上遊樂專用區，官方介紹有雪橇等玩法；SurF&Snow 標示不開放 snowboard 滑行。
+    note: 雪上遊樂專用區，官方介紹有雪橇等玩法；資料顯示不開放 snowboard 滑行。
   - name: 木の葉隠れコース
     difficulty: intermediate
     length: 450m
     averageSlope: 18°
-    note: 第 1 纜車區初中級路線，SurF&Snow 描述為稍微進步後很適合挑戰的路線。
+    note: 第 1 纜車區初中級路線，資料描述為稍微進步後很適合挑戰的路線。
   - name: 森の探検コース
     difficulty: intermediate
     length: 300m
-    note: 第 1 纜車區初中級路線，穿梭樹林之間，官方與 SurF&Snow 都把它定位成帶有探索感的路線。
+    note: 第 1 纜車區初中級路線，穿梭樹林之間，官方資訊與其他資料都把它定位成帶有探索感的路線。
   - name: スピードチャレンジコース
     difficulty: advanced
     length: 200m
@@ -136,19 +136,19 @@ courses:
     length: 400m
     maxSlope: 23°
     averageSlope: 23°
-    note: 第 1 纜車區上級路線，SurF&Snow 描述起點就是最大坡度，是較有難度的路線。
+    note: 第 1 纜車區上級路線，資料描述起點就是最大坡度，是較有難度的路線。
   - name: 觔斗雲コース（非圧雪）
     difficulty: advanced
     length: 400m
     maxSlope: 23°
     averageSlope: 23°
-    note: 第 1 纜車區非壓雪上級路線，官方標示非壓雪，SurF&Snow 描述為適合享受新雪的路線。
+    note: 第 1 纜車區非壓雪上級路線，官方標示非壓雪，資料描述為適合享受新雪的路線。
   - name: チャレンジ林間コース
     difficulty: advanced
     length: 600m
     maxSlope: 25°
     averageSlope: 25°
-    note: 第 3 纜車區林間上級線，SurF&Snow 標示為藤原最難路線，利用自然地形滑行，最長 600m。
+    note: 第 3 纜車區林間上級線，資料顯示為藤原最難路線，利用自然地形滑行，最長 600m。
   - name: チャレンジコース
     difficulty: advanced
     length: 350m
@@ -188,8 +188,8 @@ terrainSummary:
   beginner: 初級與初中級路線占比高，のんびり、ゆっくり、キッズゲレンデ與 Kids Land 適合雪場初體驗；所有路線回到 Hotel Sunbird 前方，家族同行比較好掌握位置。
   intermediate: 木の葉隠れ、森の探検等路線提供比純緩坡更多變化，適合從煞車、轉彎進到較穩定巡航的滑雪者。
   advanced: 觔斗雲、ジャンピング、スピードチャレンジ與第 3 纜車區的チャレンジ林間 / チャレンジ提供短但明確的陡坡、非壓雪與自然地形。
-  snowboard: SurF&Snow 標示滑雪 / 單板比例約 50% / 50%，除 Kids Park 外主要雪道可 snowboard；compact 場地較適合控速練習與家族同行。
-  powder: みなかみ藤原一帶屬豪雪區，SurF&Snow 標示非壓雪約 20%；觔斗雲コース是主要新雪與非壓雪體驗路線。
+  snowboard: 資料顯示滑雪 / 單板比例約 50% / 50%，除 Kids Park 外主要雪道可 snowboard；compact 場地較適合控速練習與家族同行。
+  powder: みなかみ藤原一帶屬豪雪區，資料顯示非壓雪約 20%；觔斗雲コース是主要新雪與非壓雪體驗路線。
 ---
 
-藤原位在群馬縣みなかみ町，是一座貼著 Hotel Sunbird 的 compact 型滑雪場。它的優勢不是超長滑行，而是從飯店前就能掌握多數坡面，所有路線最後也回到飯店前，對親子、初學者或想搭配溫泉的一日行程很友善。官方主打能眺望上越國境山群、坡面平緩但路線變化足夠；SurF&Snow 補充它有 10 條雪道、最長 600m、初中級占多數，另有觔斗雲非壓雪路線可在降雪後補一點粉雪樂趣。
+藤原位在群馬縣みなかみ町，是一座貼著 Hotel Sunbird 的 compact 型滑雪場。它的優勢不是超長滑行，而是從飯店前就能掌握多數坡面，所有路線最後也回到飯店前，對親子、初學者或想搭配溫泉的一日行程很友善。官方主打能眺望上越國境山群、坡面平緩但路線變化足夠；資料另列它有 10 條雪道、最長 600m、初中級占多數，另有觔斗雲非壓雪路線可在降雪後補一點粉雪樂趣。

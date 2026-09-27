@@ -104,7 +104,7 @@ tickets:
         - 1 回券：¥700
         - 11 回券：¥7,000
   earlyBird:
-    - name: SURF & SNOW
+    - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0071tk.htm
       deadline: "2026-12-17"
 snowWeather:
@@ -121,7 +121,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://www.norn.co.jp/winter/gerande/
-  summary: Norn 水上官方雪場頁列出 5 條雪道、標高差 400m、最大坡度 30 度，C-D 可串成 2km 最長滑走距離。SurF&Snow 的ゲレンデレポート強調它離水上 IC 很近、營業時間長，週末可從早到夜滑到 22:00，是首都圈短時間衝滑與夜滑練習很實用的水上雪場。
+  summary: Norn 水上共有 5 條雪道，標高差 400m、最大坡度 30 度，C-D 可串成 2km 最長滑走距離。雪場鄰近水上 IC，營業時間長，週末可從早到夜滑到 22:00，是首都圈短時間衝滑與夜滑練習的實用選擇。
   details:
   - name: D コース
     difficulty: beginner

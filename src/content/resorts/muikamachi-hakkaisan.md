@@ -7,10 +7,10 @@ name:
 region: kanto-koshinetsu
 prefecture: 新潟縣
 location:
-  latitude: 37.107985
-  longitude: 138.977296
+  latitude: 37.10805663116197
+  longitude:  138.97787852393924
 elevation:
-  top: 1170
+  top: 1175
   bottom: 355
 tags:
 - large_ski_area
@@ -19,16 +19,18 @@ tags:
 - snowboard_friendly
 - no_car_accessible
 links:
-  official: http://www.princehotels.co.jp/ski/hakkaisan/
+  official: https://www.princehotels.com/zh-hant/ski/hakkaisan/index.html
   weather: https://weathernews.jp/ski/spot/35401/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Muikamachi%20Hakkaisan
-  access: http://www.princehotels.co.jp/ski/hakkaisan/
+  googleMaps: https://maps.app.goo.gl/dnBPrumeSi8m9STz9
+  trailMapPage: https://www.princehotels.co.jp/ski/hakkaisan/winter/coursemap/
+  ticket: https://www.princehotels.co.jp/ski/hakkaisan/winter/lift/
+  access: https://www.princehotels.co.jp/ski/hakkaisan/winter/access/
 contact:
   address:
-    zhTw: 〒949-7121 新潟縣南魚沼市八口
-    ja: 〒949-7121 新潟県南魚沼市八口
-    en: Yakuchi, Minamiuonuma, Niigata 949-7121
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Muikamachi%20Hakkaisan
+    zhTw: 〒949-7121 新潟縣南魚沼市八口 1610
+    ja: 〒949-7121 新潟県南魚沼市八口1610
+    en: 1610 Yamaguchi, Minamiuonuma, Niigata 949-7121
+    googleMaps: https://maps.app.goo.gl/dnBPrumeSi8m9STz9
   phone: 025-775-3311
 season:
   label: 2025-2026
@@ -36,26 +38,37 @@ season:
   hours: 平日 8:30-16:00；假日 8:30-16:00
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
   source: https://weathernews.jp/ski/spot/35401/
+trailMaps:
+- label: 六日町八海山雪道圖
+  language: 日本語
+  season: 2025-2026
+  url: https://www.princehotels.com/zh-hant/ski/hakkaisan/hakkaisan_map.pdf
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/35401/
-  note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
+  source: https://www.princehotels.co.jp/ski/hakkaisan/winter/lift/
+  note: 2025-2026 雪季小學生以下全日免費，但仍須在售票處領取專用票券；營運時間、票價與纜車運行狀況請以官方公告為準。
   plans:
     - name: 1 日券
       priceLines:
         - 成人：¥6,000
-        - 兒童：免費
-        - 長者：¥6,000
+        - 小學生以下：免費
     - name: 上午券
       priceLines:
         - 成人：¥5,500
-        - 長者：¥5,500
     - name: 下午券
       priceLines:
         - 成人：¥5,000
-        - 兒童：免費
-        - 長者：¥5,000
+        - 小學生以下：免費
+    - name: 八海山箱型纜車來回券
+      priceLines:
+        - 成人：¥3,000
+    - name: 八海山箱型纜車單程券
+      priceLines:
+        - 成人：¥2,000
+    - name: 纜車單次券
+      priceLines:
+        - 成人：¥800
   earlyBird:
     - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://tw.wamazing.com/snow/items/15083
@@ -70,7 +83,7 @@ snowWeather:
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
   total: 11
-  summary: 共 11 條雪道、4 座纜車，初級 30%、中級 40%、高級 30%。
+  summary: 共 11 條雪道、4 座纜車，總滑走距離 10,928m；初級 30%、中級 40%、上級 30%。山頂至山麓 5,280m 的初級長滑是主要特色，A3 另有約 3km 的中上級下坡，非壓雪區約占 40%。
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
@@ -95,7 +108,7 @@ courses:
     - https://www.youtube.com/watch?v=XfDN_hAannM&t=166s
   - name: A2 連結箱型纜車滑雪道 / ロープウェー連絡コース / Ropeway Connection Trail
     difficulty: beginner
-    length: 221m
+    length: 227m
     maxSlope: 9°
     averageSlope: 6°
     note: 從うさぎ平コース通往八海山ロープウェー的聯絡路線。
@@ -104,7 +117,7 @@ courses:
     length: 1,193m
     maxSlope: 26°
     averageSlope: 17°
-    note: 代表八海山特色的路線，中斜面與急斜面連續。
+    note: 八海山具代表性的路線，中斜面與急斜面連續；資料將其描述為約 3km 的中上級下坡路線。
     videoLinks:
     - https://www.youtube.com/watch?v=XfDN_hAannM&t=476s
   - name: C1 MAEKURA滑雪道 / 前倉コース / Maekura Trail
@@ -159,23 +172,23 @@ lifts:
   total: 4
 access:
   fromTokyo:
-  - label: 新幹線＋計程車／路線巴士
+  - label: 上越新幹線＋巴士
     steps:
-    - 從東京搭上越新幹線至浦佐站，或到六日町站轉乘。
-    - 浦佐站搭計程車約 30 分鐘；JR 六日町站搭巴士約 30 分鐘可抵達。
+    - 從東京搭上越新幹線至浦佐站，再轉乘巴士前往雪場。
+    - 也可從越後湯澤站搭上越線或北越急行線至六日町站，再前往雪場。
     estimatedTime: 約30分鐘
     difficulty: medium
-    note: 時間為最近車站至雪場的目安，東京出發需另加新幹線與轉乘時間。
+    note: 官方資料標示六日町站至雪場約 13km；東京出發需另加新幹線與轉乘時間。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從六日町 IC 約 20 分鐘，從魚沼 IC 約 35 分鐘；冬季需準備雪胎或防滑鏈。停車約 1,000 台，部分假日需付費。
+    note: 從關越自動車道六日町 IC 約 12km、平常約 20 分鐘；魚沼 IC 約 22km、約 35 分鐘；大和 Smart IC 約 17km、約 25 分鐘。冬季需準備雪胎或防滑鏈，停車場約可容納 1,000 台。
 terrainSummary:
-  snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
+  snowboard: 全區允許單板滑行；資料顯示雙板約 55%、雪板約 45%，實際可滑範圍仍需依當日開放與安全管制為準。
   beginner: 初級雪道約 30%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 40%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 30%，可安排較有坡度與速度感的滑行。
-  powder: 降雪條件好時可期待鬆雪感，實際仍需以當日開放區域與安全管制為準。
+  powder: 官方稱八海山為粉雪寶庫，上層雪道多為未壓雪；資料顯示非壓雪約 40%，實際仍需以當日開放區域與安全管制為準。
 ---
 
-六日町八海山滑雪場以象徵八海山的下山路線、起伏滑道與深雪滑道為特色，坡面變化鮮明。區內有普通滑道、地形起伏路線與深雪區，其中約 3 km 的連續陡坡很具代表性，也有約 5.5 km 的緩坡能讓初學者逐步練習。
+六日町八海山滑雪場是以粉雪、深雪與長距離滑行為特色的山岳型雪場。官方資料列出 11 條雪道與 10,928m 總滑走距離，從山頂一路滑向山麓的 A1 初級路線長達 5,280m；A3 約 3km 的中上級下坡路線，以及依降雪擴大的深雪區。搭乘全長 2,217m 的八海山箱型纜車可快速抵達上層雪道，出發前仍應確認當日開放與纜車運行狀況。

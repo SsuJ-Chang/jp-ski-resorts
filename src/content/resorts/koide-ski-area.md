@@ -7,11 +7,11 @@ name:
 region: kanto-koshinetsu
 prefecture: 新潟縣
 location:
-  latitude: 37.2282
-  longitude: 138.955285
+  latitude: 37.22821158312284
+  longitude: 138.95513953558208
 elevation:
   top: 262
-  bottom: 130
+  bottom: 100
 tags:
 - beginner_friendly
 - family_friendly
@@ -19,17 +19,23 @@ tags:
 - no_car_accessible
 - snowboard_friendly
 links:
-  official: http://www.sp-koide.org/
+  official: https://www.sp-koide.org/ski
   weather: https://weathernews.jp/ski/spot/35417/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Koide%20Ski%20Area
-  access: http://www.sp-koide.org/
+  googleMaps: https://maps.app.goo.gl/x8VQCUbtoRdKxTSa9
+  trailMapPage: https://www.sp-koide.org/ski/trail_map
+  access: https://surfsnow.jp/guide/htm/r0796m.htm
 contact:
   address:
     zhTw: 〒946-0043 新潟縣魚沼市青島 1609
     ja: 〒946-0043 新潟県魚沼市青島1609
     en: 1609 Aoshima, Uonuma, Niigata 946-0043
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Koide%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/x8VQCUbtoRdKxTSa9
   phone: 025-792-5320
+trailMaps:
+- label: 小出雪道圖
+  language: 日本語
+  season: 2025-2026
+  url: https://www.sp-koide.org/wp-content/uploads/2025/11/4f98a265cba94aa85e7f596a5d0a2518.pdf
 season:
   label: 2025-2026
   operatingPeriod: 2026/1/3-2026/3/8
@@ -65,61 +71,60 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
-  total: 6
-  summary: 共 6 個滑行區域，初級 40%、中級 40%、高級 20%。其中センター前広場偏向雪上遊樂與入門練習，其餘雪道可依程度逐步銜接。
+  total: 5
+  summary: 共 5 條正式雪道，初級 40%、中級 50%、上級 10%；最長滑走距離 1,000m、最大坡度 32°，全區以壓雪雪面為主。雪場前方另設中心前廣場，提供雪橇、雪圈與初次滑行練習。
   beginnerRatio: 40
-  intermediateRatio: 40
-  advancedRatio: 20
-  courseInfoPage: https://www.sp-koide.org/ski
+  intermediateRatio: 50
+  advancedRatio: 10
+  courseInfoPage: https://www.sp-koide.org/ski/trail_map
   details:
-  - name: センター前広場 / Center Front Plaza
-    difficulty: beginner
-    note: 滑雪中心前方的入門與雪上遊樂空間，官方說明以超初心者與親子雪橇、雪圈活動為主。
   - name: たぬきコース / Tanuki Course
     difficulty: beginner
-    note: 初級至中級取向雪道，可從第 1 pair lift 上方往中心前廣場方向滑回。
+    note: 以中心屋前的大幅迴轉為主，適合初學者暖身練習；冬季也作為夜滑雪道。
     videoLinks:
     - https://www.youtube.com/watch?v=ZiuJj1oysNI&t=297s
   - name: りすさんコース / Squirrel Course
     difficulty: beginner
-    note: 初級至中級取向雪道，從第 2 pair lift 山頂往右側滑行。
+    note: 位於第 2 纜車旁，適合初學者練習；可從見晴之湯こまみ方向前往，冬季也作為夜滑雪道。
     videoLinks:
     - https://www.youtube.com/watch?v=ZiuJj1oysNI&t=155s
   - name: きつねコース / Fox Course
     difficulty: intermediate
-    note: 中級取向雪道，從第 2 pair lift 山頂往左側滑行。
+    note: 可眺望魚沼市區的中級雪道，從第 1 纜車前往也很方便；冬季也作為夜滑雪道。
     videoLinks:
     - https://www.youtube.com/watch?v=ZiuJj1oysNI&t=370s
   - name: のうさぎコース / Rabbit Course
     difficulty: intermediate
-    note: 中級至上級取向雪道，從第 3 pair lift 山頂可往りすさんコース方向銜接。
+    length: 1,000m
+    note: 穿梭在針葉林中的林間雪道，可從第 3 纜車前往，全長約 1,000m。
     videoLinks:
     - https://www.youtube.com/watch?v=ZiuJj1oysNI&t=36s
   - name: かもしかコース / Antelope Course
     difficulty: advanced
-    note: 上級取向雪道，從第 3 pair lift 山頂往左側滑行。
+    maxSlope: 32°
+    note: 位於駒見山一帶的上級雪道，山頂可欣賞 360 度全景，適合挑戰陡斜面。
     videoLinks:
     - https://www.youtube.com/watch?v=ZiuJj1oysNI&t=225s
 lifts:
   total: 3
 access:
   fromTokyo:
-  - label: 新幹線＋步行
+  - label: 上越新幹線＋JR＋步行
     steps:
-    - 從東京搭上越新幹線至浦佐站或越後湯澤站，再轉 JR 到小出站。
-    - 從小出站步行約 15 分鐘可抵達雪場。
-    estimatedTime: 約15分鐘
+    - 從東京搭上越新幹線至浦佐站，再轉上越線至小出站。
+    - 從小出站步行約 10 分鐘、約 700m 可抵達雪場。
+    estimatedTime: 約10分鐘
     difficulty: easy
-    note: 時間為小出站至雪場的步行目安。
+    note: 以上為小出站至雪場的步行時間，東京出發需另加新幹線與轉乘時間。
   car:
     recommended: false
     snowTireRequired: true
-    note: 從魚沼 IC 約 5 分鐘，停車約 170 台且免費；冬季仍需準備雪胎。
+    note: 從關越自動車道魚沼 IC 約 3km、約 5 分鐘；堀之內 IC 約 7km、約 10 分鐘。市營停車場約 70 台，見晴之湯こまみ停車場約 100 台，皆免費；冬季仍需準備雪胎或防滑鏈。
 terrainSummary:
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-  beginner: 初級雪道約 40%，可安排暖身、基礎練習或親子滑行。
-  intermediate: 中級雪道約 40%，是主要滑行與轉彎練習區段。
-  advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
+  beginner: 初級雪道約 40%，可安排暖身、基礎練習或親子滑行；中心前廣場適合初次接觸雪上活動。
+  intermediate: 中級雪道約 50%，以きつね與のうさぎ等路線為主，可練習轉彎與林間滑行。
+  advanced: 上級雪道約 10%，かもしかコース最大坡度 32°，可挑戰較陡的斜面。
 ---
 
-小出位於新潟縣，以6 條雪道形成中小型雪場規模，搭配 3 座纜車。主要路線有 センター前広場 / Center Front Plaza、たぬきコース / Tanuki Course、りすさんコース / Squirrel Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+小出位於新潟縣魚沼市，是由 3 座雙人吊椅纜車服務的緊湊型雪場。官方雪道圖列出たぬき、りすさん、きつね、のうさぎ與かもしか 5 條正式雪道；資料另列初級 40%、中級 50%、上級 10%，並指出有最大坡度 32°的上級路線、全長 1,000m 的林間路線，以及適合家庭與初學者的平緩雪面。雪場鄰近小出站與見晴之湯こまみ，適合安排短時間滑雪或日帰り行程。

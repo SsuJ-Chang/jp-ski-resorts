@@ -8,8 +8,8 @@ region: kanto-koshinetsu
 prefecture: 新潟縣
 skiArea: myoko-kogen
 location:
-  latitude: 36.905951
-  longitude: 138.160853
+  latitude: 36.906085237590574
+  longitude: 138.1608246355822
 elevation:
   top: 1210
   bottom: 900
@@ -21,14 +21,14 @@ tags:
 links:
   official: http://www.sekionsen.jp
   weather: https://weathernews.jp/ski/spot/35437/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Myoko%20Kogen%20Seki%20Onsen%20Ski%20Area
-  access: http://www.sekionsen.jp
+  googleMaps: https://maps.app.goo.gl/bP5ipgj4YJtJdgY28
+  access: http://sekionsen.jp/access.html
 contact:
   address:
     zhTw: 〒949-2235 新潟縣妙高市關溫泉
     ja: 〒949-2235 新潟県妙高市関温泉
     en: Kanonsen, Myoukou, Niigata 949-2235
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Myoko%20Kogen%20Seki%20Onsen%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/bP5ipgj4YJtJdgY28
   phone: 0255-82-2316
 season:
   label: 2025-2026
@@ -89,17 +89,17 @@ lifts:
   total: 2
 access:
   fromTokyo:
-  - label: 北陸新幹線＋在來線＋巴士
+  - label: 北陸新幹線＋妙高はねうま線＋頸南巴士
     steps:
-    - 從東京搭北陸新幹線至上越妙高站，再轉えちごトキめき鉄道至關山站。
-    - 從關山站搭巴士約 30 分鐘。
-    estimatedTime: 約30分鐘
+    - 從東京搭北陸新幹線至上越妙高站，再轉乘えちごトキめき鐵道妙高はねうま線至關山站。
+    - 從關山站轉乘頸南巴士前往關溫泉，於關溫泉站下車；官方交通頁提供 JR 信越本線與關溫泉往返關山站的巴士時刻表。
+    estimatedTime: 關山站至關溫泉約 15 分鐘
     difficulty: medium
-    note: 時間為關山站至雪場的巴士目安，班次需事前確認。
+    note: 巴士班次依平日、週六與假日而異，請依官方時刻表安排新幹線與轉乘時間；雪場位於關溫泉站附近。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從妙高高原 IC 前往較方便；山區道路冬季需雪胎與防滑裝備。停車約 100 台，假日部分停車場需付費。
+    note: 從上信越自動車道妙高高原 IC 或中郷 IC 前往約 20 分鐘。山區道路冬季需使用雪胎並準備防滑裝備；停車約 100 台，假日部分停車場需付費。
 terrainSummary:
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
   beginner: 初級雪道約 20%，可安排暖身、基礎練習或親子滑行。

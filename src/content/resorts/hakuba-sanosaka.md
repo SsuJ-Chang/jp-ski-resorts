@@ -85,7 +85,7 @@ tickets:
     - name: 完美行
       url: https://tw.wamazing.com/snow/items/15142
       deadline: "2026-12-07"
-    - name: SURF & SNOW
+    - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0326tk.htm
       deadline: "2026-12-07"
 snowWeather:

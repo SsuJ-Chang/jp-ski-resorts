@@ -93,7 +93,7 @@ tickets:
         - 小學生：¥35,000
         - 長者：¥48,000
 snowWeather:
-  title: 戶狩溫泉雪況天氣
+  title: SURF&SNOW 戶狩溫泉雪道與地形報告
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34832/
   snowDepth: 0 cm
@@ -106,7 +106,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://togari.jp/winter/gelande/
-  summary: 官方 Features 以「自然地形中的 16 條路線」介紹戶狩溫泉；現行 field 頁則以アースドラゴン與スカイドラゴン兩區呈現雪道狀況，列有 freestyle park、mogul、powder、carving 與多條連絡路。SURF&SNOW 補充其斜面比例約為初級 40%、中級 40%、上級 20%，壓雪 65%、非壓雪 35%。
+  summary: 戶狩溫泉以自然地形中的 16 條路線為特色，現行雪道配置以アースドラゴン與スカイドラゴン兩區為主，並設有 freestyle park、mogul、powder、carving 與多條連絡路。斜面比例約為初級 40%、中級 40%、上級 20%，壓雪 65%、非壓雪 35%。
   details:
   - name: スパイクテール
     difficulty: beginner
@@ -217,8 +217,8 @@ terrainSummary:
   beginner: 初級路線約 40%，テールライン、ファングライン與多條連絡路可作為練習與區域銜接。
   intermediate: 中級路線約 40%，バックボーン、クラウドライン、アイズライン等路線兼具景觀、carving 與變化感。
   advanced: 上級約 20%，クローライン、ドラゴンヘッド與 Dragon Park 偏地形、粉雪與 freestyle 玩法。
-  snowboard: SURF&SNOW 標示滑雪與單板比例約 50% / 50%，官方也在多條路線與 park 介紹中明確提到 snowboard。
-  powder: 官方強調 100% 天然粉雪與非壓雪 DEEP POWDER，SURF&SNOW 也標示非壓雪約 35%；實際粉雪品質仍取決於當日降雪與開放狀況。
+  snowboard: 資料顯示滑雪與單板比例約 50% / 50%，官方也在多條路線與 park 介紹中明確提到 snowboard。
+  powder: 官方強調 100% 天然粉雪與非壓雪 DEEP POWDER，相關資訊也標示非壓雪約 35%；實際粉雪品質仍取決於當日降雪與開放狀況。
 externalGuide:
   title: SURF&SNOW 戶狩溫泉雪道與地形報告
   url: https://surfsnow.jp/guide/htm/r0171gc1.htm

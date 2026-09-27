@@ -104,7 +104,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://k-hotaka.jp/ogna/slope-guide/
-  summary: 官方雪道頁列出 13 條雪道、6 座雙人纜車，最高海拔 1,828m、標高差 628m。SurF&Snow 補充最長滑走距離為 3,500m、壓雪 70% 與非壓雪 30%，整體是以天然粉雪、長距離巡航與非壓雪區為特色的片品村雪場。
+  summary: 共 13 條雪道、6 座雙人纜車，最高海拔 1,828m、標高差 628m，最長滑走距離 3,500m。雪面約 70% 壓雪、30% 非壓雪，天然粉雪、長距離巡航與非壓雪區是片品村雪場的主要特色。
   details:
   - name: 第1ゲレンデ
     difficulty: beginner
@@ -135,7 +135,7 @@ courses:
     length: 400m
     maxSlope: 30°
     averageSlope: 22°
-    note: 可同時享受壓雪與非壓雪的中級雪道，降雪後也是官方與 SurF&Snow 都提到的粉雪重點路線。
+    note: 可同時享受壓雪與非壓雪的中級雪道，降雪後也是官方資訊與其他資料都提到的粉雪重點路線。
   - name: 第4ゲレンデ
     difficulty: intermediate
     length: 850m
@@ -228,8 +228,8 @@ terrainSummary:
   beginner: 第1ゲレンデ、ロマンス連絡コース、ロマンスコース與初級者迂回コース提供較平緩的練習線，其中 Romance Course 長 1,500m，適合初學者把速度控制和連續轉彎練穩。
   intermediate: Hotaka Skyway、第4ゲレンデ、第5ゲレンデ、第6ゲレンデ與大沢コース能串出長距離巡航，從高處展望、稜線到寬坡都有，適合中級者一趟內換節奏。
   advanced: Expert Course 最大坡度 32 度，Training Course 與 Wedeln Course 則偏向新雪、非壓雪與不整地；想找硬坡與粉雪感，這幾條是核心。
-  snowboard: SurF&Snow 標示雪板比例約 60%，官方也設有 Oguchan Snow Park，包含 jib、kicker 與地形 item，目標為初級到中級者。
-  powder: 官方首頁與 SurF&Snow 都強調天然粉雪與非壓雪區，非壓雪比例約 30%；降雪後的 Slalom、Training、Wedeln 一帶是資料中最值得注意的粉雪區。
+  snowboard: 資料顯示雪板比例約 60%，官方也設有 Oguchan Snow Park，包含 jib、kicker 與地形 item，目標為初級到中級者。
+  powder: 官方首頁與 相關資訊都強調天然粉雪與非壓雪區，非壓雪比例約 30%；降雪後的 Slalom、Training、Wedeln 一帶是資料中最值得注意的粉雪區。
 externalContent:
   blogs: []
   vlogs: []

@@ -35,10 +35,10 @@ season:
   operatingPeriod: 2025/10/31-2026/03/29
   hours: 10:00〜21:00（部分日期至 18:00）
   nightSkiingHours: 18:00〜21:00
-  note: 2025-2026 雪季營業期間與票券可用時間依 SURF&SNOW 公開資訊整理；實際開放日與營業時間請以官方公告為準。
+  note: 2025-2026 雪季營業期間與票券可用時間依 公開資訊整理；實際開放日與營業時間請以官方公告為準。
   source: https://surfsnow.jp/guide/htm/r0778s.htm
 trailMaps:
-- label: 狹山 SURF&SNOW 雪道資訊
+- label: 狹山 資料雪道資訊
   language: 日本語
   season: 2025-2026
   url: https://surfsnow.jp/guide/htm/r0778gc1.htm
@@ -127,7 +127,7 @@ terrainSummary:
   beginner: 坡面全長約 300m、平均坡度約 7°，加上雪上電扶梯移動，對第一次滑雪、親子練習與基本轉彎練習很友善。
   intermediate: 中級者可把它當成雪季前暖身與短時間練習場地，但雪道長度與變化有限，不適合期待長距離巡航。
   advanced: 最高坡度約 15°，地形挑戰性有限，進階者主要用途是恢復腳感或短時間訓練。
-  snowboard: SURF&SNOW 標示雙板 / 雪板皆可使用，比例約雙板 55%、雪板 45%。
+  snowboard: 資料顯示雙板 / 雪板皆可使用，比例約雙板 55%、雪板 45%。
 
 ---
 

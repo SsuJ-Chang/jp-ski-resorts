@@ -41,7 +41,7 @@ season:
   source: https://weathernews.jp/ski/spot/33618/
 tickets:
   earlyBird:
-    - name: SURF & SNOW
+    - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0333tk.htm
       deadline: "2026-12-18"
 snowWeather:

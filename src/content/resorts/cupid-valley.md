@@ -29,7 +29,7 @@ links:
   ticket: https://www.yukidaruma-kogen.com/winter/lift-rental.html#lift
 contact:
   address:
-    zhTw: 〒942-0534 日本新潟縣上越市安塚區須川4820
+    zhTw: 〒942-0534 日本新潟縣上越市安塚區須川 4820
     ja: 〒942-0534 新潟県上越市安塚区須川4820
     en: 4820 Sugawa, Yasuzuka-ku, Joetsu, Niigata 942-0534, Japan
     googleMaps: https://maps.app.goo.gl/eLsN173VuyPixqY47
@@ -76,7 +76,7 @@ tickets:
     - name: 完美行
       url: https://tw.wamazing.com/snow/items/15450
       deadline: "2026-12-18"
-    - name: SURF & SNOW
+    - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0150tk.htm
       deadline: "2026-12-18"
 snowWeather:

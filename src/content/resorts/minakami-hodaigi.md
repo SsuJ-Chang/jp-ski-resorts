@@ -102,7 +102,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://hodaigi.jp/gelande-guide/
-  summary: 群馬水上 Hodaigi 位於武尊山北坡，官方列出 16 條雪道、7 座纜車，坡面從 Family、たんぽぽ等緩坡，到第 9、成平、Downhill 等上級路線都有。SurF&Snow 的ゲレンデレポート強調這裡有高品質粉雪、自然地形、林間路線與地形公園，是水上區域內很適合反覆練線與找雪質的中型雪場。
+  summary: 群馬水上 Hodaigi 位於武尊山北坡，共有 16 條雪道與 7 座纜車，坡面從 Family、たんぽぽ等緩坡，到第 9、成平、Downhill 等上級路線都有。高品質粉雪、自然地形、林間路線與地形公園是主要特色，適合在水上區域反覆練線與找雪質。
   details:
   - name: 第2連絡コース
     difficulty: beginner
@@ -241,11 +241,11 @@ terrainSummary:
   beginner: 初級路線約 30%，ファミリーゲレンデ、たんぽぽ與各連絡雪道適合暖身、親子與基礎練習。
   intermediate: 中級路線約 40%，白樺、第 2 東、Slalom、第 5 西、Panorama、第 10 等路線適合反覆練習速度控制與巡航節奏。
   advanced: 上級路線約 30%，Eagle、Downhill、Paradise、成平與第 9 提供更長距離、陡坡與速度感，其中第 9 最大坡度達 40 度。
-  snowboard: 官方列有 Snow Park 與 Banked Slalom Course；SurF&Snow 也把它描述為自然地形與 park 可玩的雪場，單板可安排公園、地形與粉雪日。
-  powder: SurF&Snow 的ゲレンデレポート強調高品質粉雪與天然雪多；降雪後上部與進階路線較有粉雪機會，實際仍需看當日開放狀態。
+  snowboard: 官方列有 Snow Park 與 Banked Slalom Course；相關資訊也把它描述為自然地形與 park 可玩的雪場，單板可安排公園、地形與粉雪日。
+  powder: 雪場報告強調高品質粉雪與天然雪多；降雪後上部與進階路線較有粉雪機會，實際仍需看當日開放狀態。
 externalContent:
   blogs: []
   vlogs: []
 ---
 
-群馬水上 Hodaigi 位在群馬縣みなかみ町藤原，舊名常被台灣滑雪圈稱作「寶台樹」。它是一座比名字印象更硬派的中型雪場：山麓有 Family、たんぽぽ等適合初學者的緩坡，上部則有成平、Downhill、第 9 等陡坡與自然地形。SurF&Snow 的ゲレンデレポート把它的特色放在高品質粉雪、天然雪量、林間與 park 玩法；如果同行程度差異大，可以讓初學者留在山麓練習，中高級者往上部刷坡，最後再回水上溫泉區收尾。
+群馬水上 Hodaigi 位在群馬縣みなかみ町藤原，舊名常被台灣滑雪圈稱作「寶台樹」。它是一座比名字印象更硬派的中型雪場：山麓有 Family、たんぽぽ等適合初學者的緩坡，上部則有成平、Downhill、第 9 等陡坡與自然地形。雪場報告把它的特色放在高品質粉雪、天然雪量、林間與 park 玩法；如果同行程度差異大，可以讓初學者留在山麓練習，中高級者往上部刷坡，最後再回水上溫泉區收尾。
