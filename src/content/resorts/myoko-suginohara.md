@@ -81,7 +81,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://www.princehotels.co.jp/ski/myoko/winter/coursemap/
-  summary: 杉之原官方列出 16 條雪道，最長滑走距離約 8,500m、總滑走距離 18,660m，垂直落差 1,124m；從初級寬廣坡面到最大斜度 38 度的上級路線皆有配置。
+  summary: 杉之原官方列出 16 條雪道，最長滑走距離約 8,500m、總滑走距離 18,660m，垂直落差 1,124m；從初級寬廣坡面到最大斜度 38°的上級路線皆有配置。
   details:
   - name: しゃくなげコース / Shakunage Course
     difficulty: beginner

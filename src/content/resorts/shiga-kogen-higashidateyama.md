@@ -90,13 +90,13 @@ courses:
     length: 4,000m
     maxSlope: 12°
     averageSlope: 10°
-    note: 平均斜度 10 度、最大斜度 12 度。
+    note: 平均斜度 10°、最大斜度 12°。
   - name: 東館山オリンピックコース / Higashidateyama Olympic Course
     difficulty: intermediate
     length: 1,600m
     maxSlope: 36°
     averageSlope: 20°
-    note: 平均斜度 20 度、最大斜度 36 度。
+    note: 平均斜度 20°、最大斜度 36°。
 lifts:
   total: 1
 access:

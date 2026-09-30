@@ -91,15 +91,15 @@ courses:
   intermediateRatio: 30
   advancedRatio: 0
   courseInfoPage: https://snoway.jp/gelande/10202/
-  summary: 惠庭市民是 1 座纜車、2 條雪道的小型市民雪場，初級約 70%、中級約 30%，全場平均斜度約 13 度、最大斜度約 20 度；適合短時間練習、夜滑與親子雪地活動。
+  summary: 惠庭市民是 1 座纜車、2 條雪道的小型市民雪場，初級約 70%、中級約 30%，全場平均斜度約 13°、最大斜度約 20°；適合短時間練習、夜滑與親子雪地活動。
   details:
   - name: 初級者向けコース
     difficulty: beginner
     note: 由山頂往下看位在纜車一側的初級取向雪道，整體坡面較緩，適合作為練習轉彎、煞車與暖身的路線。
   - name: 中級者向けコース
     difficulty: intermediate
-    maxSlope: 20度
-    note: 由山頂往下看位在纜車另一側的中級取向雪道，短而單純，但比初級路線更有斜度變化；全場最大斜度約 20 度。
+    maxSlope: 20°
+    note: 由山頂往下看位在纜車另一側的中級取向雪道，短而單純，但比初級路線更有斜度變化；全場最大斜度約 20°。
 lifts:
   total: 1
 access:

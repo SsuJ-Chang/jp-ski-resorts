@@ -90,13 +90,13 @@ courses:
   - name: ひょうたんコース
     difficulty: advanced
     length: 1,350m
-    maxSlope: 33度
+    maxSlope: 33°
     note: 雪場最大坡度路線，從樹冰與かもしか的分岔處起滑；設有造雪機，延長可滑期間。
   - name: テクニカルバーン
     difficulty: advanced
     length: 400m
-    maxSlope: 24度
-    note: 上段坡度約 24 度，為雪場代表性的技術坡，也用於雙板與單板檢定；山頂可眺望南阿爾卑斯。
+    maxSlope: 24°
+    note: 上段坡度約 24°，為雪場代表性的技術坡，也用於雙板與單板檢定；山頂可眺望南阿爾卑斯。
   - name: 樹氷コース
     difficulty: mixed
     length: 900m
@@ -131,7 +131,7 @@ access:
 terrainSummary:
   beginner: もみの木為舒緩練習坡；獨立的兒童區分為雪橇與雙板、單板區，並設置付費 Snow Walker 動步道。
   intermediate: 石楠花與しらかば提供坡度較溫和、可練習轉彎與 carving 的雪面；積雪變化可能使石楠花形成不整地。
-  advanced: ひょうたん最大坡度 33 度，テクニカルバーン上段約 24 度，皆適合想增加坡度挑戰的滑雪者。
+  advanced: ひょうたん最大坡度 33°，テクニカルバーン上段約 24°，皆適合想增加坡度挑戰的滑雪者。
   snowboard: 全區開放單板滑行；雪場規定僅能使用具鋼邊且長度超過 60cm 的雙板或單板裝備。
 ---
 

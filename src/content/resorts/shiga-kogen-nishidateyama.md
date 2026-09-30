@@ -89,19 +89,19 @@ courses:
     length: 1,730m
     maxSlope: 18°
     averageSlope: 9°
-    note: 平均斜度 9 度、最大斜度 18 度。
+    note: 平均斜度 9°、最大斜度 18°。
   - name: 西館山高天ヶ原ゲレンデ / Nishidateyama Takamagahara Gelende
     difficulty: beginner
     length: 280m
     maxSlope: 13°
     averageSlope: 7°
-    note: 平均斜度 7 度、最大斜度 13 度。
+    note: 平均斜度 7°、最大斜度 13°。
   - name: ワールドカップコース / World Cup Course
     difficulty: intermediate
     length: 1,450m
     maxSlope: 28°
     averageSlope: 15°
-    note: 平均斜度 15 度、最大斜度 28 度。
+    note: 平均斜度 15°、最大斜度 28°。
 lifts:
   total: 4
 access:

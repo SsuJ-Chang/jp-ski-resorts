@@ -171,7 +171,7 @@ courses:
     length: 600m
     maxSlope: 32°
     averageSlope: 20°
-    note: 最大坡度 32 度的寬闊硬派坡面，官方說明適合 carving。
+    note: 最大坡度 32°的寬闊硬派坡面，官方說明適合 carving。
   - name: トレーニングコース
     difficulty: advanced
     length: 400m
@@ -227,7 +227,7 @@ access:
 terrainSummary:
   beginner: 第1ゲレンデ、ロマンス連絡コース、ロマンスコース與初級者迂回コース提供較平緩的練習線，其中 Romance Course 長 1,500m，適合初學者把速度控制和連續轉彎練穩。
   intermediate: Hotaka Skyway、第4ゲレンデ、第5ゲレンデ、第6ゲレンデ與大沢コース能串出長距離巡航，從高處展望、稜線到寬坡都有，適合中級者一趟內換節奏。
-  advanced: Expert Course 最大坡度 32 度，Training Course 與 Wedeln Course 則偏向新雪、非壓雪與不整地；想找硬坡與粉雪感，這幾條是核心。
+  advanced: Expert Course 最大坡度 32°，Training Course 與 Wedeln Course 則偏向新雪、非壓雪與不整地；想找硬坡與粉雪感，這幾條是核心。
   snowboard: 資料顯示雪板比例約 60%，官方也設有 Oguchan Snow Park，包含 jib、kicker 與地形 item，目標為初級到中級者。
   powder: 官方首頁與 相關資訊都強調天然粉雪與非壓雪區，非壓雪比例約 30%；降雪後的 Slalom、Training、Wedeln 一帶是資料中最值得注意的粉雪區。
 externalContent:

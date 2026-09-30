@@ -184,7 +184,7 @@ courses:
     length: 650m
   - name: 41 KARASAWA-LINK
     difficulty: beginner
-    note: 競技場黑道中突然急速下切的一段裸露陡坡。最大坡度達 32 度，由上往下看具有強烈的視覺懸空感，非常考驗滑雪者的腿部肌耐力。
+    note: 競技場黑道中突然急速下切的一段裸露陡坡。最大坡度達 32°，由上往下看具有強烈的視覺懸空感，非常考驗滑雪者的腿部肌耐力。
     length: 1,050m
   - name: 44 USAGI
     difficulty: beginner
@@ -231,7 +231,7 @@ courses:
     length: 1,200m
   - name: 17 CHALLENGE-39°KABE
     difficulty: intermediate
-    note: 隱藏在挑戰雪道中段的斷崖式極陡坡，最大坡度直衝 39 度。從上方往下看幾乎看不到底，極度考驗滑雪者的心理素質與雙板鋼邊的控制力。
+    note: 隱藏在挑戰雪道中段的斷崖式極陡坡，最大坡度直衝 39°。從上方往下看幾乎看不到底，極度考驗滑雪者的心理素質與雙板鋼邊的控制力。
     length: 300m
   - name: 19 UTOPIA-A
     difficulty: intermediate
@@ -251,7 +251,7 @@ courses:
     length: 3,500m
   - name: 30 HIKAGE-B
     difficulty: intermediate
-    note: 長達 3 公里、筆直且無限寬廣的純綠色大平原。坡度低於 12 度，完全沒有任何樹木或地形障礙，是全日本零基礎新手练习推坡與初學單板的最佳夢幻溫床。
+    note: 長達 3 公里、筆直且無限寬廣的純綠色大平原。坡度低於 12°，完全沒有任何樹木或地形障礙，是全日本零基礎新手练习推坡與初學單板的最佳夢幻溫床。
     length: 500m
   - name: 37 RINKAN-SHORT CUT
     difficulty: intermediate

@@ -85,7 +85,7 @@ snowWeather:
 courses:
   total: 11
   courseInfoPage: https://www.megahira.co.jp/ski/map/
-  summary: 女鹿平溫泉滑雪場：官方雪道包含全長 2,300 公尺的中心雪道、林間路線、Sky、Challenge、家庭與雪橇區；從初級緩坡到最大斜度 30 度的中高級路線皆有。
+  summary: 女鹿平溫泉滑雪場：官方雪道包含全長 2,300 公尺的中心雪道、林間路線、Sky、Challenge、家庭與雪橇區；從初級緩坡到最大斜度 30°的中高級路線皆有。
   details:
     - name: ファミリーゲレンデ
       difficulty: beginner

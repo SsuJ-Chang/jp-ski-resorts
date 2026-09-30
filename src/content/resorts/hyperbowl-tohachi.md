@@ -111,7 +111,7 @@ tickets:
 courses:
   total: 6
   courseInfoPage: https://tohachi.jp/area
-  summary: Hyper Bowl 東鉢共有 6 條雪道，從適合初學者的寬廣緩坡與林間路線，到眺望良好的中級路線及最大坡度 43 度的上級挑戰都有。
+  summary: Hyper Bowl 東鉢共有 6 條雪道，從適合初學者的寬廣緩坡與林間路線，到眺望良好的中級路線及最大坡度 43°的上級挑戰都有。
   details:
     - name: センターBコース
       difficulty: beginner

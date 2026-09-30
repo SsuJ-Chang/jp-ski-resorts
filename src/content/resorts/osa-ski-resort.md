@@ -79,44 +79,44 @@ snowWeather:
 courses:
   total: 6
   courseInfoPage: https://osaski.co.jp/course/
-  summary: 大佐滑雪場：官方列出 6 條雪道，包含適合家庭與初中級者的寬廣坡面，以及最大坡度 28 度的進階雪道與非壓雪路線。
+  summary: 大佐滑雪場：官方列出 6 條雪道，包含適合家庭與初中級者的寬廣坡面，以及最大坡度 28°的進階雪道與非壓雪路線。
   details:
   - name: プラッツ前ゲレンデハウス
     difficulty: beginner
     length: 400m
     maxSlope: 12°
     averageSlope: 10°
-    note: 適合家庭滑雪的寬廣雪道，官方列出的全長為 400m、最大坡度為 12 度、平均坡度為 10 度。
+    note: 適合家庭滑雪的寬廣雪道，官方列出的全長為 400m、最大坡度為 12°、平均坡度為 10°。
   - name: センターコース
     difficulty: beginner
     length: 400m
     maxSlope: 15°
     averageSlope: 13°
-    note: 雪場中央的主雪道，官方列出的全長為 400m、最大坡度為 15 度、平均坡度為 13 度。
+    note: 雪場中央的主雪道，官方列出的全長為 400m、最大坡度為 15°、平均坡度為 13°。
   - name: レストハウス前コース
     difficulty: intermediate
     length: 400m
     maxSlope: 19°
     averageSlope: 13°
-    note: 寬廣的單一坡面，適合初中級者，官方列出的全長為 400m、最大坡度為 19 度、平均坡度為 13 度。
+    note: 寬廣的單一坡面，適合初中級者，官方列出的全長為 400m、最大坡度為 19°、平均坡度為 13°。
   - name: チャンピオンコース
     difficulty: advanced
     length: 700m
     maxSlope: 28°
     averageSlope: 16°
-    note: 大佐最具挑戰性的雪道，官方列出的全長為 700m、最大坡度為 28 度、平均坡度為 16 度。
+    note: 大佐最具挑戰性的雪道，官方列出的全長為 700m、最大坡度為 28°、平均坡度為 16°。
   - name: ジャイアントコース
     difficulty: advanced
     length: 750m
     maxSlope: 25°
     averageSlope: 15°
-    note: 大幅右彎的動感雪道，積雪充足時會形成雪包，官方列出的全長為 750m、最大坡度為 25 度、平均坡度為 15 度。
+    note: 大幅右彎的動感雪道，積雪充足時會形成雪包，官方列出的全長為 750m、最大坡度為 25°、平均坡度為 15°。
   - name: OFF PISTE
     difficulty: ungroomed
     length: 750m
     maxSlope: 24°
     averageSlope: 16°
-    note: 非壓雪雪道，官方列出的全長為 750m、最大坡度為 24 度、平均坡度為 16 度。
+    note: 非壓雪雪道，官方列出的全長為 750m、最大坡度為 24°、平均坡度為 16°。
   beginnerRatio: 50
   intermediateRatio: 30
   advancedRatio: 20

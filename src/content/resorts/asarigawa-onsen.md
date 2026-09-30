@@ -61,45 +61,45 @@ courses:
     - name: パープルコース
       difficulty: beginner
       length: 900m
-      maxSlope: 18度
-      averageSlope: 8度
+      maxSlope: 18°
+      averageSlope: 8°
       note: 初級路線，距離 900m，平均斜度較緩。
     - name: グリーンCコース
       difficulty: beginner
       length: 2,700m
-      maxSlope: 24度
-      averageSlope: 14度
+      maxSlope: 24°
+      averageSlope: 14°
       note: 初級長距離路線，距離 2,700m，坡度數值比一般緩斜面更有變化。
     - name: イエローコース
       difficulty: intermediate
       length: 1,200m
-      maxSlope: 22度
-      averageSlope: 14度
+      maxSlope: 22°
+      averageSlope: 14°
       note: 中級路線，距離 1,200m。
     - name: グリーンBコース
       difficulty: intermediate
       length: 1,100m
-      maxSlope: 25度
-      averageSlope: 13度
-      note: 中級路線，最大斜度 25 度。
+      maxSlope: 25°
+      averageSlope: 13°
+      note: 中級路線，最大斜度 25°。
     - name: レッドAコース
       difficulty: intermediate
       length: 700m
-      maxSlope: 25度
-      averageSlope: 13度
+      maxSlope: 25°
+      averageSlope: 13°
       note: 中級路線，距離 700m。
     - name: グリーンAコース
       difficulty: advanced
       length: 1,000m
-      maxSlope: 36度
-      averageSlope: 15度
-      note: 上級路線，最大斜度 36 度，是坡度數值較高的滑行線。
+      maxSlope: 36°
+      averageSlope: 15°
+      note: 上級路線，最大斜度 36°，是坡度數值較高的滑行線。
     - name: ブルーコース
       difficulty: advanced
       length: 1,200m
-      maxSlope: 32度
-      averageSlope: 18度
-      note: 上級路線，平均斜度約 18 度。
+      maxSlope: 32°
+      averageSlope: 18°
+      note: 上級路線，平均斜度約 18°。
     - name: レッドBコース
       difficulty: advanced
       note: 上級路線，官方坡面介紹列於上級者向け區域。

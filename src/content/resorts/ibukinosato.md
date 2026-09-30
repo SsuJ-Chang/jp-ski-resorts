@@ -90,35 +90,35 @@ courses:
   intermediateRatio: 45
   advancedRatio: 20
   courseInfoPage: https://www.ibukinosato.co.jp/slopes
-  summary: IBUKINOSATO 官方列出 5 條雪道，從適合初學者的緩坡到最大坡度 30 度的 Champion Valley，並設有兒童雪地遊樂區。
+  summary: IBUKINOSATO 官方列出 5 條雪道，從適合初學者的緩坡到最大坡度 30°的 Champion Valley，並設有兒童雪地遊樂區。
   details:
   - name: 斯內基雪道 / スネーキーコース
     difficulty: beginner
     length: 400m
     averageSlope: 6°
-    note: 初學者雪道，官方列出的全長為 400m、平均坡度為 6 度。
+    note: 初學者雪道，官方列出的全長為 400m、平均坡度為 6°。
   - name: 燈飾雪道 / イルミネーションコース
     difficulty: beginner
     length: 400m
     averageSlope: 10°
-    note: 初級者雪道，官方列出的全長為 400m、平均坡度為 10 度。
+    note: 初級者雪道，官方列出的全長為 400m、平均坡度為 10°。
   - name: 中央雪道 / センターコース
     difficulty: intermediate
     length: 200m
     averageSlope: 11°
-    note: 初級者雪道，官方列出的全長為 200m、平均坡度為 11 度。
+    note: 初級者雪道，官方列出的全長為 200m、平均坡度為 11°。
   - name: 技術雪道 / テクニカルコース
     difficulty: intermediate
     length: 600m
     maxSlope: 25°
     averageSlope: 14°
-    note: 上、中級者雪道，官方列出的全長為 600m、平均坡度為 14 度、最大坡度為 25 度。
+    note: 上、中級者雪道，官方列出的全長為 600m、平均坡度為 14°、最大坡度為 25°。
   - name: 冠軍谷 / チャンピオンバレー
     difficulty: advanced
     length: 660m
     maxSlope: 30°
     averageSlope: 12°
-    note: 中、初級者雪道，官方列出的海拔範圍為 710〜850m、全長 660m、平均坡度 12 度、最大坡度 30 度。
+    note: 中、初級者雪道，官方列出的海拔範圍為 710〜850m、全長 660m、平均坡度 12°、最大坡度 30°。
 lifts:
   total: 3
 access:

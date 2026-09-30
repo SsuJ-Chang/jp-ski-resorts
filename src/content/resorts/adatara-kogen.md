@@ -61,32 +61,32 @@ courses:
     - name: E ペガサス
       difficulty: beginner
       length: 450m
-      maxSlope: 18度
-      averageSlope: 13度
+      maxSlope: 18°
+      averageSlope: 13°
       note: 初級者容易滑行的緩斜面，官方定位為適合課程練習的路線。
     - name: D ジェミニ
       difficulty: intermediate
       length: 800m
-      maxSlope: 20度
-      averageSlope: 15度
+      maxSlope: 20°
+      averageSlope: 15°
       note: 坡面寬廣、滑起來順暢，是人氣較高的路線。
     - name: A アンドロメダ
       difficulty: intermediate
       length: 700m
-      maxSlope: 23度
-      averageSlope: 14度
+      maxSlope: 23°
+      averageSlope: 14°
       note: 滑雪競技大會會使用的主雪道。
     - name: B ベガ
       difficulty: advanced
       length: 700m
-      maxSlope: 28度
-      averageSlope: 20度
+      maxSlope: 28°
+      averageSlope: 20°
       note: 有緩急切換的上級路線，需要能穩定處理坡度變化。
     - name: C アルタイル
       difficulty: mixed
       length: 600m
-      maxSlope: 28度
-      averageSlope: 18度
+      maxSlope: 28°
+      averageSlope: 18°
       note: 上部為 bumps 區，下部則接續較緩的林間路線，官方標示為初級到上級。
 lifts:
   total: 3

@@ -89,13 +89,13 @@ courses:
     length: 750m
     maxSlope: 15°
     averageSlope: 8°
-    note: 連接 Diamond 與燒額山方向的初級連絡雪道，平均斜度 8 度、最大斜度 15 度。
+    note: 連接 Diamond 與燒額山方向的初級連絡雪道，平均斜度 8°、最大斜度 15°。
   - name: かもしかコース / Kamoshika Course
     difficulty: intermediate
     length: 800m
     maxSlope: 15°
     averageSlope: 8°
-    note: 連接一之瀨 Diamond 與燒額山方向的中級連絡雪道，平均斜度 8 度、最大斜度 15 度。
+    note: 連接一之瀨 Diamond 與燒額山方向的中級連絡雪道，平均斜度 8°、最大斜度 15°。
 lifts:
   total: 1
 access:

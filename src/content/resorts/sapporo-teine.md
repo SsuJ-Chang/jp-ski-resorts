@@ -177,7 +177,7 @@ courses:
     length: 1,500m
     maxSlope: 36°
     averageSlope: 20°
-    note: 利用北海道少見的天然地形形成的林間斜面，急斜面與不整地交錯；最大斜度達 36 度，沒有回頭路，信心不足者不宜挑戰。
+    note: 利用北海道少見的天然地形形成的林間斜面，急斜面與不整地交錯；最大斜度達 36°，沒有回頭路，信心不足者不宜挑戰。
   - name: HZ-5 ナチュラル
     difficulty: beginner
     length: 4,000m

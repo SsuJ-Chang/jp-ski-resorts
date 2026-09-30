@@ -99,19 +99,19 @@ courses:
     length: 800m
     maxSlope: 16°
     averageSlope: 6°
-    note: 官方表列為初級雪道，長度 800m、平均坡度 6 度。
+    note: 官方表列為初級雪道，長度 800m、平均坡度 6°。
   - name: ダンダン畑コース
     difficulty: beginner
     length: 700m
     maxSlope: 13°
     averageSlope: 8°
-    note: 官方表列為初級雪道，長度 700m、最大坡度 13 度。
+    note: 官方表列為初級雪道，長度 700m、最大坡度 13°。
   - name: かもしかコース
     difficulty: beginner
     length: 400m
     maxSlope: 13°
     averageSlope: 7°
-    note: 官方表列為初級雪道，平均坡度 7 度。
+    note: 官方表列為初級雪道，平均坡度 7°。
   - name: おっきりこみコース
     difficulty: beginner
     length: 850m
@@ -129,7 +129,7 @@ courses:
     length: 800m
     maxSlope: 13°
     averageSlope: 6°
-    note: 官方表列為中級雪道，長度 800m、平均坡度 6 度。
+    note: 官方表列為中級雪道，長度 800m、平均坡度 6°。
   - name: トップオブみなかみコース
     difficulty: intermediate
     length: 980m
@@ -141,31 +141,31 @@ courses:
     length: 700m
     maxSlope: 23°
     averageSlope: 8°
-    note: 官方表列為中級雪道，最大坡度 23 度。
+    note: 官方表列為中級雪道，最大坡度 23°。
   - name: モンキーダンスコース
     difficulty: intermediate
     length: 300m
     maxSlope: 22°
     averageSlope: 13°
-    note: 官方表列為中級雪道，長度 300m、最大坡度 22 度。
+    note: 官方表列為中級雪道，長度 300m、最大坡度 22°。
   - name: ももんがコース
     difficulty: advanced
     length: 650m
     maxSlope: 23°
     averageSlope: 14°
-    note: 官方表列為上級雪道，平均坡度 14 度。
+    note: 官方表列為上級雪道，平均坡度 14°。
   - name: 熊ぼっこすコース
     difficulty: advanced
     length: 300m
     maxSlope: 34°
     averageSlope: 22°
-    note: 官方表列為上級雪道，最大坡度 34 度。
+    note: 官方表列為上級雪道，最大坡度 34°。
   - name: 熊つっとすコース
     difficulty: advanced
     length: 500m
     maxSlope: 30°
     averageSlope: 22°
-    note: 官方表列為上級雪道，最大坡度 30 度、平均坡度 22 度。
+    note: 官方表列為上級雪道，最大坡度 30°、平均坡度 22°。
 lifts:
   total: 4
 access:
@@ -195,7 +195,7 @@ access:
 terrainSummary:
   beginner: すいすいファミリー、ダンダン畑、かもしか與おっきりこみ等初級雪道坡度溫和，搭配親子雪上設施。
   intermediate: Grand Concourse、Top of Minakami、まさかり與モンキーダンス等中級雪道構成主要滑行動線。
-  advanced: ももんが、熊ぼっこす與熊つっとす屬官方上級雪道，其中熊ぼっこす最大坡度 34 度。
+  advanced: ももんが、熊ぼっこす與熊つっとす屬官方上級雪道，其中熊ぼっこす最大坡度 34°。
   snowboard: 官方雪場為一般雙板與雪板皆可利用，實際 park 或設施開放請依當日公告。
   powder: 上部與上級雪道在降雪後較有粉雪機會，實際雪況需依官方或公開資料公告判斷。
 externalContent:

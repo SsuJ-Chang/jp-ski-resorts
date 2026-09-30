@@ -151,7 +151,7 @@ courses:
     length: 750m
     maxSlope: 25°
     averageSlope: 15°
-    note: 中級 Slalom 路線，最大坡度到 25 度，可用來練速度控制與轉彎節奏。
+    note: 中級 Slalom 路線，最大坡度到 25°，可用來練速度控制與轉彎節奏。
   - name: 第5西コース
     difficulty: intermediate
     length: 850m
@@ -169,7 +169,7 @@ courses:
     length: 600m
     maxSlope: 20°
     averageSlope: 15°
-    note: 中級路線，官方標示平均坡度 15 度，滑行節奏比山麓緩坡更明確。
+    note: 中級路線，官方標示平均坡度 15°，滑行節奏比山麓緩坡更明確。
   - name: イーグルコース
     difficulty: advanced
     length: 700m
@@ -187,7 +187,7 @@ courses:
     length: 680m
     maxSlope: 28°
     averageSlope: 17°
-    note: 上級 Paradise 路線，最大坡度 28 度，適合安排在中上級練習段落。
+    note: 上級 Paradise 路線，最大坡度 28°，適合安排在中上級練習段落。
   - name: 成平コース
     difficulty: advanced
     length: 1,400m
@@ -199,7 +199,7 @@ courses:
     length: 650m
     maxSlope: 40°
     averageSlope: 30°
-    note: 數值上最陡的路線，最大坡度 40 度、平均坡度 30 度；適合有陡坡經驗者，並需依當日開放狀態判斷。
+    note: 數值上最陡的路線，最大坡度 40°、平均坡度 30°；適合有陡坡經驗者，並需依當日開放狀態判斷。
 lifts:
   total: 7
 access:
@@ -240,7 +240,7 @@ access:
 terrainSummary:
   beginner: 初級路線約 30%，ファミリーゲレンデ、たんぽぽ與各連絡雪道適合暖身、親子與基礎練習。
   intermediate: 中級路線約 40%，白樺、第 2 東、Slalom、第 5 西、Panorama、第 10 等路線適合反覆練習速度控制與巡航節奏。
-  advanced: 上級路線約 30%，Eagle、Downhill、Paradise、成平與第 9 提供更長距離、陡坡與速度感，其中第 9 最大坡度達 40 度。
+  advanced: 上級路線約 30%，Eagle、Downhill、Paradise、成平與第 9 提供更長距離、陡坡與速度感，其中第 9 最大坡度達 40°。
   snowboard: 官方列有 Snow Park 與 Banked Slalom Course；相關資訊也把它描述為自然地形與 park 可玩的雪場，單板可安排公園、地形與粉雪日。
   powder: 雪場報告強調高品質粉雪與天然雪多；降雪後上部與進階路線較有粉雪機會，實際仍需看當日開放狀態。
 externalContent:

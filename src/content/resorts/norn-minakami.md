@@ -121,7 +121,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://www.norn.co.jp/winter/gerande/
-  summary: Norn 水上共有 5 條雪道，標高差 400m、最大坡度 30 度，C-D 可串成 2km 最長滑走距離。雪場鄰近水上 IC，營業時間長，週末可從早到夜滑到 22:00，是首都圈短時間衝滑與夜滑練習的實用選擇。
+  summary: Norn 水上共有 5 條雪道，標高差 400m、最大坡度 30°，C-D 可串成 2km 最長滑走距離。雪場鄰近水上 IC，營業時間長，週末可從早到夜滑到 22:00，是首都圈短時間衝滑與夜滑練習的實用選擇。
   details:
   - name: D コース
     difficulty: beginner
@@ -197,7 +197,7 @@ access:
 terrainSummary:
   beginner: D Course、Base Area 與 Snowland 讓第一次滑雪、親子玩雪或課程集合很容易安排；C Course 後半也可接成穩定緩坡。
   intermediate: C 與 E Course 是主要巡航與練習線，C-D 可連成 2km 長滑，適合短時間內反覆練節奏。
-  advanced: A Course 與 B Course 上部提供 mogul、不整地與較陡坡度，A Course 最大坡度 30 度；想在小而近的雪場找硬一點的線，可以優先看這兩條。
+  advanced: A Course 與 B Course 上部提供 mogul、不整地與較陡坡度，A Course 最大坡度 30°；想在小而近的雪場找硬一點的線，可以優先看這兩條。
   snowboard: 官方標示 snowboard 全面可滑，但 A Course 可能依積雪狀況關閉；B 與 D 下部設有 Snow Park，夜滑也能玩部分 park item。
   powder: B Course 上部有不整地區域，粉雪表現仍取決於當日降雪與開放狀態；這裡更強的是交通近、營業長、可用零碎時間反覆練習。
 externalContent:

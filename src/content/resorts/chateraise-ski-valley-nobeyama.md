@@ -105,32 +105,32 @@ courses:
   - name: バレー1コース
     difficulty: beginner
     length: 900m
-    maxSlope: 14度
-    averageSlope: 10度
+    maxSlope: 14°
+    averageSlope: 10°
     note: 寬闊的主要初級雪道，設有波浪地形；可眺望八岳連峰，夜滑日開放至傍晚。
   - name: バレー3コース
     difficulty: beginner
     length: 950m
-    maxSlope: 9度
-    averageSlope: 7度
+    maxSlope: 9°
+    averageSlope: 7°
     note: 沿林間延伸的緩坡，雪道中段起更為開闊，設有わくわくゲレンデ兒童練習設施。
   - name: バレー2コース
     difficulty: intermediate
     length: 850m
-    maxSlope: 17度
-    averageSlope: 9度
+    maxSlope: 17°
+    averageSlope: 9°
     note: 適合 carving 的中級雪道，中段可匯入中斜面，亦供活動使用。
   - name: ホーンコース
     difficulty: intermediate
     length: 450m
-    maxSlope: 32度
-    averageSlope: 13度
+    maxSlope: 32°
+    averageSlope: 13°
     note: 起滑段坡度較陡的中級雪道；視積雪狀況可能設置饅頭坡練習區。
   - name: アルペンコース
     difficulty: advanced
     length: 800m
-    maxSlope: 32度
-    averageSlope: 15度
+    maxSlope: 32°
+    averageSlope: 15°
     note: 上段為陡坡，原則每週壓雪 2 至 3 次，部分日期可能保留未壓雪雪面；自山頂可眺望八岳與南阿爾卑斯山脈。
 lifts:
   total: 3
@@ -150,7 +150,7 @@ access:
 terrainSummary:
   beginner: バレー1與バレー3為寬緩初級雪道；其中バレー3設有兒童練習設施，兒童樂園另有雪橇道與魔毯。
   intermediate: バレー2提供適合 carving 的寬坡，ホーンコース則以起滑段較陡及自然地形變化增加挑戰。
-  advanced: アルペンコース最大坡度 32 度，上段依日期可能保留未壓雪雪面。
+  advanced: アルペンコース最大坡度 32°，上段依日期可能保留未壓雪雪面。
   snowboard: 雪場開放雪板滑行；バレー1另設置 Rail Park 與 JOYJOY Park，實際開放狀態依當日公告為準。
 ---
 

@@ -103,50 +103,50 @@ snowWeather:
 courses:
   total: 8
   courseInfoPage: https://www.ombara-kogen.com/ski/gelande/
-  summary: 雪場由 Panorama 與 Lakeside 兩個區域組成，共有 8 條雪道，從初級練習坡到最大坡度 28 度的上級坡均有配置。
+  summary: 雪場由 Panorama 與 Lakeside 兩個區域組成，共有 8 條雪道，從初級練習坡到最大坡度 28°的上級坡均有配置。
   details:
   - name: パノラマ第3ゲレンデ
     difficulty: beginner
     length: 270m
     averageSlope: 10°
-    note: Panorama 區最受歡迎的初學者路線，官方列出的全長為 270m、平均坡度為 10 度。
+    note: Panorama 區最受歡迎的初學者路線，官方列出的全長為 270m、平均坡度為 10°。
   - name: パノラマ第1裏
     difficulty: intermediate
     length: 460m
     averageSlope: 12°
-    note: 熟悉初級雪道後適合挑戰的中級路線，雪道寬廣，官方列出的全長為 460m、平均坡度為 12 度。
+    note: 熟悉初級雪道後適合挑戰的中級路線，雪道寬廣，官方列出的全長為 460m、平均坡度為 12°。
   - name: レイクサイド第1ゲレンデ
     difficulty: intermediate
     length: 470m
     averageSlope: 14°
-    note: Lakeside 區的平坦練習雪道，官方列出的全長為 470m、平均坡度為 14 度。
+    note: Lakeside 區的平坦練習雪道，官方列出的全長為 470m、平均坡度為 14°。
   - name: パノラマ第1表
     difficulty: advanced
     length: 330m
     averageSlope: 15°
-    note: 技術性較高的短坡，官方列出的全長為 330m、平均坡度為 15 度；2025-2026 雪季暫停滑行。
+    note: 技術性較高的短坡，官方列出的全長為 330m、平均坡度為 15°；2025-2026 雪季暫停滑行。
   - name: パノラマ第2表
     difficulty: advanced
     length: 600m
     averageSlope: 16°
     maxSlope: 27°
-    note: 恩原高原代表性路線，可欣賞景觀並體驗最大坡度 27 度，官方列出的全長為 600m、平均坡度為 16 度。
+    note: 恩原高原代表性路線，可欣賞景觀並體驗最大坡度 27°，官方列出的全長為 600m、平均坡度為 16°。
   - name: パノラマ第2裏
     difficulty: advanced
     length: 700m
     averageSlope: 12°
-    note: 緩坡轉為急坡的複合路線，官方列出的全長為 700m、平均坡度為 12 度。
+    note: 緩坡轉為急坡的複合路線，官方列出的全長為 700m、平均坡度為 12°。
   - name: レイクサイド第2表
     difficulty: advanced
     length: 490m
     averageSlope: 20°
     maxSlope: 28°
-    note: 幾乎沒有緩坡的上級路線，官方列出的全長為 490m、平均坡度為 20 度；2025-2026 雪季暫停滑行。
+    note: 幾乎沒有緩坡的上級路線，官方列出的全長為 490m、平均坡度為 20°；2025-2026 雪季暫停滑行。
   - name: レイクサイド第2裏
     difficulty: advanced
     length: 430m
     averageSlope: 16°
-    note: 急坡與緩坡交錯的複合路線，非壓雪區較多，官方列出的全長為 430m、平均坡度為 16 度；2025-2026 雪季暫停滑行。
+    note: 急坡與緩坡交錯的複合路線，非壓雪區較多，官方列出的全長為 430m、平均坡度為 16°；2025-2026 雪季暫停滑行。
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20

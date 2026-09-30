@@ -7,8 +7,8 @@ name:
 region: kanto-koshinetsu
 prefecture: 新潟縣
 location:
-  latitude: 37.162041
-  longitude: 139.245823
+  latitude: 37.162255576947594
+  longitude: 139.24593920674658
 elevation:
   top: 1242
   bottom: 735
@@ -17,18 +17,20 @@ tags:
 - snowboard_friendly
 - no_car_accessible
 links:
-  official: http://okutadami.co.jp/ski/
+  official: https://www.okutadami.co.jp/ski/
+  trailMapPage: https://www.okutadami.co.jp/ski/gelande.html
+  ticket: https://www.okutadami.co.jp/ski/price.html
   instagram: https://www.instagram.com/okutadami_shipski/
   xTwitter: https://x.com/OkutaShipski
   weather: https://weathernews.jp/ski/spot/35431/
-  access: http://www.okutadami.co.jp/ski/access3.html
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Okutadami%20Maruyama%20Ski%20Resort
+  access: https://www.okutadami.co.jp/ski/access3.html
+  googleMaps: https://maps.app.goo.gl/gBNrd9LzQgzeXBnN9
 contact:
   address:
     zhTw: 〒946-0082 新潟縣魚沼市湯之谷芋川字大島 1317-3
     ja: 〒946-0082 新潟県魚沼市湯之谷芋川字大島1317-3
     en: 1317-3 Yunotaniimokawa Aza Ooshima, Uonuma, Niigata 946-0082
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Okutadami%20Maruyama%20Ski%20Resort
+    googleMaps: https://maps.app.goo.gl/gBNrd9LzQgzeXBnN9
   phone: 025-795-2750
 season:
   label: 2025-2026
@@ -39,23 +41,56 @@ season:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/35431/
-  note: 主要票種依 2025-2026 公開雪場資料整理；完整票價、套票與長者證明規則請以官方為準。
+  source: https://www.okutadami.co.jp/ski/price.html
+  note: 票價依 2025-2026 雪季官方資料整理；長者與學生票需出示身分證明，營業日期與票價適用條件請以當季公告為準。
   plans:
     - name: 1 日券
       priceLines:
         - 成人：¥5,000
-        - 兒童：¥1,800
-        - 長者：¥4,300
-    - name: 上午券
+        - 兒童（小學生）：¥1,800
+        - 長者（55 歲以上）：¥4,300
+        - 國中、高中生：¥3,800
+    - name: AM・PM 券
       priceLines:
-        - 成人：¥3,800
-    - name: 下午券
+        - 共通：¥3,800
+      note: AM 券為開放時間至 12:30；PM 券為 12:00 至閉場。
+    - name: 11 回券
       priceLines:
-        - 成人：¥3,800
+        - 共通：¥3,800
     - name: 2 日券
       priceLines:
-        - 成人：¥8,500
+        - 共通：¥8,500
+    - name: 單次券
+      priceLines:
+        - 共通：¥380
+    - name: 一日套票
+      priceLines:
+        - 共通：¥5,800
+        - 長者（55 歲以上）：¥5,100
+      note: 含午餐券與飲料券，限當日營業時間使用。
+    - name: 長者服務日 1 日券
+      priceLines:
+        - 55 歲以上：¥3,800
+      note: 每週一至週五，國定假日與特定日除外；需出示年齡證明。
+    - name: 身心障礙者優惠 1 日券
+      priceLines:
+        - 成人：¥2,500
+        - 國中、高中生：¥2,000
+        - 兒童：¥1,000
+      note: 僅限本人，購票時需出示身心障礙證明。
+    - name: 奧只見丸山季票
+      priceLines:
+        - 成人：¥45,000
+        - 回購優惠：¥40,000
+        - 長者（55 歲以上）：¥35,000
+        - 國中、高中生：¥35,000
+        - 兒童：¥25,000
+    - name: 奧只見丸山＋藥師滑雪場共通季票
+      priceLines:
+        - 成人：¥51,000
+        - 國中、高中生：¥42,000
+        - 兒童：¥32,000
+      note: 未就學兒童可免費取得纜車券；雪上公園限購買半日券以上票種者使用。
 snowWeather:
   title: 奧只見丸山雪況天氣
   provider: Weathernews
@@ -69,23 +104,35 @@ courses:
   beginnerRatio: 40
   intermediateRatio: 30
   advancedRatio: 30
-  courseInfoPage: http://okutadami.co.jp/ski/gelande.html
-  summary: 奧只見丸山滑雪場：官方以丸山、カモシカ、ブナ平、八崎等區域介紹雪道，部分 A-E 路線為カモシカゲレンデ內分支；以下保留官方可確認的區域與路線說明。
+  courseInfoPage: https://www.okutadami.co.jp/ski/gelande.html
+  summary: 奧只見丸山滑雪場共有 10 條雪道，從適合初學者的ブナ平林間路線與山頂丸山ゲレンデ，到適合中級練習的カモシカ B、C 雪道、可眺望奧只見湖的八崎ゲレンデ，以及 A、E 等非壓雪與春季限定路線，難度與地形選擇多元。冬季可享粉雪，春季則有雪包與雪上公園，適合從初學者到進階滑雪者。
   details:
-  - name: ブナ平ゲレンデ
+  - name: ブナ平 Aコース
     difficulty: beginner
-    note: ブナ原生林中的林間路線，官方建議可供初級者練習，也適合中上級者休息滑。
+    note: 穿越ブナ原生林的林間路線，適合初級者練習，也能讓中上級者放慢節奏享受森林景觀。
     videoLinks:
     - https://www.youtube.com/watch?v=OkFyM-vlew0&t=361s
     - https://www.youtube.com/watch?v=OkFyM-vlew0&t=416s
     - https://www.youtube.com/watch?v=OkFyM-vlew0&t=782s
     - https://www.youtube.com/watch?v=OkFyM-vlew0&t=848s
     - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1504s
-  - name: カモシカゲレンデ B・Cコース
+  - name: ブナ平 Bコース
+    difficulty: mixed
+    note: 位於ブナ林間區域，路線地形自然，適合中上級者調整節奏與探索林間滑行。
+  - name: 丸山ゲレンデ
+    difficulty: mixed
+    note: 山頂景觀開闊、雪質良好，適合初中級者；春季可搭配雪上公園與地形設施練習。
+    videoLinks:
+    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=537s
+  - name: カモシカゲレンデ Bコース
     difficulty: intermediate
-    note: カモシカ主雪場中變化較多的中級練習路線。
+    note: カモシカ主雪場中地形變化較多的中級練習路線。
     videoLinks:
     - https://www.youtube.com/watch?v=OkFyM-vlew0&t=230s
+  - name: カモシカゲレンデ Cコース
+    difficulty: intermediate
+    note: 具備多樣地形變化，適合中級滑雪者練習轉彎與速度控制。
+    videoLinks:
     - https://www.youtube.com/watch?v=OkFyM-vlew0&t=920s
   - name: 八崎ゲレンデ
     difficulty: intermediate
@@ -98,17 +145,15 @@ courses:
     - https://www.youtube.com/watch?v=OkFyM-vlew0&t=145s
     - https://www.youtube.com/watch?v=OkFyM-vlew0&t=574s
     - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1303s
+  - name: カモシカゲレンデ Aコース上部
+    difficulty: advanced
+    note: カモシカゲレンデ上部的進階路段，雪況與開放範圍會依季節及現場狀況調整。
   - name: カモシカゲレンデ Eコース
     difficulty: ungroomed
     note: 春季限定開放的非壓雪路線，可享受粉雪與春季雪包。
     videoLinks:
     - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1117s
     - https://www.youtube.com/watch?v=OkFyM-vlew0&t=1370s
-  - name: 丸山ゲレンデ
-    difficulty: mixed
-    note: 山頂景觀開闊，官方介紹良質雪況受初中級者歡迎，春季可搭配 snow park。
-    videoLinks:
-    - https://www.youtube.com/watch?v=OkFyM-vlew0&t=537s
   - name: カモシカゲレンデ Dコース
     difficulty: mixed
     note: 春季限定開放，官方介紹為可享受ブナ林景觀的林間路線。
@@ -118,22 +163,22 @@ lifts:
   total: 5
 access:
   fromTokyo:
-  - label: 東京出發經浦佐
+  - label: 東京出發（新幹線與接駁）
     steps:
-    - 從東京搭上越新幹線到浦佐站。
-    - 從浦佐站東口搭完全預約制免費接駁巴士前往奧只見丸山。
-    estimatedTime: 浦佐後約 80 分
+    - 東京站搭乘上越新幹線至浦佐站。
+    - 從浦佐站東口搭乘預約制免費接駁巴士前往雪場；需於使用日前一天 15:00 前電話預約，無預約時不運行。
+    estimatedTime: 約 80 分鐘（浦佐站至雪場）
     difficulty: hard
-    note: 免費接駁巴士需於使用日前一天 15:00 前電話預約；沒有預約的日子不運行，且可能受天候與道路狀況延遲。
+    note: 接駁巴士每日僅往返一班，班次可能因天候與道路狀況調整，請於出發前確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從魚沼 IC（舊小出 IC）往奧只見方向約 35km，需行經奧只見 Silver Line 隧道路段；途中沒有加油站，建議在魚沼 IC 周邊先補給。停車場約 700 台，平日免費，週末、國定假日與特定日第 1、第 2 停車場收費。
+    note: 從關越自動車道魚沼 IC（舊小出 IC）出發，經國道 352 號與奧只見 Silver Line 前往雪場，約 35km；途中沒有加油站，請先在魚沼 IC 周邊補給。停車場約 700 台，平日免費，週末、國定假日與特定日第 1、第 2 停車場收費 ¥1,000。
 terrainSummary:
-  beginner: 初級比例約 40%，可作為春季練習與暖身路線參考。
-  intermediate: 中級與上級比例接近，適合有基礎後再安排行程。
-  advanced: 初滑り季可期待粉雪，春季可滑饅頭與林間路線。
-  powder: 天然雪 100% 與豐富積雪是 的主要特色。
+  beginner: 初級雪道約 40%，可從布納平與山頂丸山區域開始練習。
+  intermediate: 中級雪道約 30%，カモシカ B、C 等路線有較多地形變化。
+  advanced: 高級雪道約 30%，A、E 等非壓雪區域會依季節與雪況開放。
+  powder: 冬季粉雪與春季雪包皆是雪場特色；實際開放受雪況與安全管制影響。
 externalContent:
   blogs: []
   vlogs:
@@ -145,4 +190,4 @@ externalContent:
     note: Who’s TV / by Fumika Hoshino
 ---
 
-奧只見丸山是少見能分成初滑季與春季滑雪兩段享受的雪場。初滑季能體驗粉雪，春季則能感受多樣地形與保留自然起伏的滑道；從山頂還能俯瞰奧只見水庫與群山景色，是特色很鮮明的深山型雪場。
+奧只見丸山滑雪場位於新潟縣魚沼市，雪場被山岳與原生林包圍，擁有 10 條雪道與 5 座纜車。從布納平林間雪道、丸山山頂景觀雪場，到カモシカ B、C 中級路線、A 與 E 非壓雪雪道，冬季粉雪與春季雪包都各具特色；春季還有雪上公園與地形設施，並可眺望奧只見湖、尾瀨燧岳等山岳景色。

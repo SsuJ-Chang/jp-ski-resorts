@@ -101,7 +101,7 @@ snowWeather:
 courses:
   total: 17
   courseInfoPage: https://osorakan.co.jp/winter/course/
-  summary: 恐羅漢 Snow Park 滑雪場：官方雪道分布於布納坂、稗畑、立山與茅畑四個區域，另設初學者區與家庭廣場；從初級緩坡到最大斜度 38 度的進階雪道皆有涵蓋。
+  summary: 恐羅漢 Snow Park 滑雪場：官方雪道分布於布納坂、稗畑、立山與茅畑四個區域，另設初學者區與家庭廣場；從初級緩坡到最大斜度 38°的進階雪道皆有涵蓋。
   details:
     - name: 布納坂第 1 雪道 / ブナ坂第1コース
       difficulty: beginner

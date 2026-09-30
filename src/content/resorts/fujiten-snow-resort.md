@@ -89,7 +89,7 @@ courses:
   intermediateRatio: 45
   advancedRatio: 15
   courseInfoPage: https://www.fujiten.net/slopeguide/
-  summary: 富士天共設 7 條主要雪道，從適合初學者與家庭的寬廣緩坡，到最大斜度 32 度的進階下坡，並設有雪上公園、初學者練習公園與兒童雪遊樂區。多條路線可眺望富士山、河口湖與御坂山系，部分區域也提供夜間滑雪。
+  summary: 富士天共設 7 條主要雪道，從適合初學者與家庭的寬廣緩坡，到最大斜度 32°的進階下坡，並設有雪上公園、初學者練習公園與兒童雪遊樂區。多條路線可眺望富士山、河口湖與御坂山系，部分區域也提供夜間滑雪。
   details:
   - name: 家庭雪道 / ファミリーコース / Family Course
     difficulty: beginner
@@ -117,7 +117,7 @@ courses:
     length: 500m
     maxSlope: 32°
     averageSlope: 22°
-    note: 最大斜度 32 度的陡坡與貓跳地形；接續動態雪道可一路滑行約 1,500m，山頂可俯瞰河口湖與富士山。
+    note: 最大斜度 32°的陡坡與貓跳地形；接續動態雪道可一路滑行約 1,500m，山頂可俯瞰河口湖與富士山。
   - name: 下坡 WEST / ダウンヒルWEST / Downhill WEST
     difficulty: advanced
     length: 500m

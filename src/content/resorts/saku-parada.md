@@ -87,13 +87,13 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://www.saku-parada.jp/ski/index.php#gelande
-  summary: 佐久 Ski Garden Parada 滑雪場：北、南 Parada 合計 7 條雪道；斜面比例為初級 40%、中級 40%、高級 20%，最長滑走 1,366m、最大坡度 23 度。
+  summary: 佐久 Ski Garden Parada 滑雪場：北、南 Parada 合計 7 條雪道；斜面比例為初級 40%、中級 40%、高級 20%，最長滑走 1,366m、最大坡度 23°。
   details:
   - name: 拉爾戈雪道 / ラルゴコース
     difficulty: beginner
     length: 580m
     averageSlope: 5deg
-    note: 位於北 Parada，平均坡度 5 度的平緩雪道。
+    note: 位於北 Parada，平均坡度 5°的平緩雪道。
   - name: 二重奏雪道 / デュエットコース
     difficulty: beginner
     length: 450m
@@ -122,7 +122,7 @@ courses:
     length: 639m
     averageSlope: 11deg
     maxSlope: 23deg
-    note: 位於南 Parada；為全場最大坡度 23 度的雪道。
+    note: 位於南 Parada；為全場最大坡度 23°的雪道。
 lifts:
   total: 6
 access:
@@ -141,10 +141,10 @@ access:
 terrainSummary:
   beginner: 北側拉爾戈與康坦特下段、南側雪之廣場等平緩雪道，讓初學者與親子可分散安排滑行。
   intermediate: 北側的二重奏、樂章雪道具不同坡度與視野；實際開放依雪況為準。
-  advanced: 維瓦切與康坦特上段的坡度較有變化；維瓦切為最大坡度 23 度的雪道。
+  advanced: 維瓦切與康坦特上段的坡度較有變化；維瓦切為最大坡度 23°的雪道。
   snowboard: 全部雪道可滑單板；北側二重奏雪道曾規劃為雪上公園，設施配置以當日公告為準。
 ---
 
-佐久 Ski Garden Parada 由北、南兩個雪場構成，山頂可彼此連通。北側有拉爾戈、樂章、二重奏與康坦特等雪道，南側則配置維瓦切與雪之廣場；從平緩練習坡到最大 23 度的維瓦切，能依同行者程度安排路線。
+佐久 Ski Garden Parada 由北、南兩個雪場構成，山頂可彼此連通。北側有拉爾戈、樂章、二重奏與康坦特等雪道，南側則配置維瓦切與雪之廣場；從平緩練習坡到最大 23°的維瓦切，能依同行者程度安排路線。
 
 它最大的特色是南 Parada 緊鄰上信越自動車道佐久平 PA，可由 PA 搭手扶梯直接進入；北 Parada 距佐久平 Smart IC 也只約 5 分鐘。佐久平站另有雪季免費接駁巴士，交通選擇相當直接。雪後還可前往南 Parada 內的平尾溫泉「Miharashi no Yu」放鬆。

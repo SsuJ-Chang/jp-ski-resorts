@@ -86,28 +86,28 @@ snowWeather:
 courses:
   total: 4
   courseInfoPage: https://bear-ski.amebaownd.com/posts/23334462
-  summary: 蒜山 Bear Valley滑雪場：官方列出 4 條雪道，從適合初學與練習的 Rabbit Course，到最大坡度 26 度的 Fox Course，另設有兒童雪地遊戲區與單板公園。
+  summary: 蒜山 Bear Valley滑雪場：官方列出 4 條雪道，從適合初學與練習的 Rabbit Course，到最大坡度 26°的 Fox Course，另設有兒童雪地遊戲區與單板公園。
   details:
   - name: Rabbit Course / ラビットコース
     difficulty: beginner
     length: 365m
     maxSlope: 11°
-    note: 適合初學者與練習的路線，官方列出的滑行距離為 365m、最大坡度為 11 度。
+    note: 適合初學者與練習的路線，官方列出的滑行距離為 365m、最大坡度為 11°。
   - name: Bears Back Course / ベアーズバックコース
     difficulty: intermediate
     length: 700m
     maxSlope: 20°
-    note: 初級路線熟悉後可挑戰的雪道，官方列出的滑行距離為 700m、最大坡度為 20 度。
+    note: 初級路線熟悉後可挑戰的雪道，官方列出的滑行距離為 700m、最大坡度為 20°。
   - name: Rock Valley Course / ロックバレーコース
     difficulty: intermediate
     length: 850m
     maxSlope: 14°
-    note: 中級雪道，官方列出的滑行距離為 850m、最大坡度為 14 度。
+    note: 中級雪道，官方列出的滑行距離為 850m、最大坡度為 14°。
   - name: Fox Course / フォックスコース
     difficulty: advanced
     length: 400m
     maxSlope: 26°
-    note: 適合進階者挑戰的雪道，官方列出的滑行距離為 400m、最大坡度為 26 度。
+    note: 適合進階者挑戰的雪道，官方列出的滑行距離為 400m、最大坡度為 26°。
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20

@@ -142,7 +142,7 @@ courses:
     note: 如名稱所示屬挑戰型路線，官方提醒需能穩定控制速度與轉彎再進入。
   - name: 北壁
     difficulty: expert
-    note: HACHI 北代表性的高難度斜面，官方標示最大坡度 35 度，包含不整地與 mogul，適合經驗充足的滑雪者。
+    note: HACHI 北代表性的高難度斜面，官方標示最大坡度 35°，包含不整地與 mogul，適合經驗充足的滑雪者。
 lifts:
   total: 10
 access:

@@ -79,7 +79,7 @@ snowWeather:
 courses:
   total: 3
   courseInfoPage: https://www.dogoyamakogen.com/
-  summary: 道後山高原官方列出 3 條雪道，包含樹林間的全景路線、1,500m 長距離下坡，以及最大坡度 35 度的冠軍路線。
+  summary: 道後山高原官方列出 3 條雪道，包含樹林間的全景路線、1,500m 長距離下坡，以及最大坡度 35°的冠軍路線。
   details:
   - name: 下坡雪道 / ダウンヒルコース
     difficulty: intermediate
@@ -91,7 +91,7 @@ courses:
   - name: 冠軍雪道 / チャンピオンコース
     difficulty: advanced
     maxSlope: 35°
-    note: 上、中級者路線，官方標示最大坡度為 35 度，並介紹其高海拔雪質特色。
+    note: 上、中級者路線，官方標示最大坡度為 35°，並介紹其高海拔雪質特色。
 lifts:
   total: 2
 access:

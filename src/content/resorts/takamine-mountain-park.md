@@ -157,7 +157,7 @@ access:
 terrainSummary:
   beginner: BEGINNERS 是獨立且平緩的初學坡，SUNSHINE 可作為下一階段的練習路線。
   intermediate: CENTRAL 的起伏巡航與 ANTELOPE 的後段加陡，提供由穩定滑行到粉雪嘗試的中級選擇。
-  advanced: DIVING 是寬廣的單面坡，平均坡度 22 度；PANORAMA 將急坡與中坡組合為較長的中高級路線。
+  advanced: DIVING 是寬廣的單面坡，平均坡度 22°；PANORAMA 將急坡與中坡組合為較長的中高級路線。
   snowboard: 6 條雪道皆標示可使用雪板；FUN FUN PARK 是獨立的戲雪區，不開放雪板滑行。
 ---
 

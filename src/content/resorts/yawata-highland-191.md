@@ -85,14 +85,14 @@ snowWeather:
 courses:
   total: 7
   courseInfoPage: https://yawata191.com/course1/
-  summary: Yawata Highland 191 Resort 滑雪場：A 到 G 共 7 條雪道，從人工雪初級緩坡到最大斜度 31 度的上級雪道都有。
+  summary: Yawata Highland 191 Resort 滑雪場：A 到 G 共 7 條雪道，從人工雪初級緩坡到最大斜度 31°的上級雪道都有。
   details:
     - name: D コース
       difficulty: beginner
       length: 500m
       maxSlope: 18°
       averageSlope: 8°
-      note: 平均坡度 8 度的和緩初級雪道；由第 1 纜車頂端穿過第 2、3 纜車的路線。
+      note: 平均坡度 8°的和緩初級雪道；由第 1 纜車頂端穿過第 2、3 纜車的路線。
     - name: F コース
       difficulty: beginner
       length: 400m

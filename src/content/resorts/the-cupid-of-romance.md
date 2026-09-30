@@ -88,59 +88,59 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://kijimadaira-ski.com/gelande/
-  summary: 主雪道共 10 條，初級、中級、上級比例為 30%、50%、20%。雪場最大寬度達 250m，從親子緩坡到山頂 46 度未壓雪粉雪區皆有配置。
+  summary: 主雪道共 10 條，初級、中級、上級比例為 30%、50%、20%。雪場最大寬度達 250m，從親子緩坡到山頂 46°未壓雪粉雪區皆有配置。
   details:
   - name: パーフェクトコース / Perfect Course
     difficulty: beginner
     length: 750m
-    maxSlope: 17度
+    maxSlope: 17°
     note: 平緩且寬闊的初級、親子取向雪道，常用於初學者課程；AI Lift 周邊有餐廳與洗手間，右側另有兒童 Wave 與簡易 banked slalom。
   - name: ロマンスコース / Romance Course
     difficulty: beginner
     length: 650m
-    maxSlope: 13度
+    maxSlope: 13°
     note: 最接近やまびこ停車場、滑雪中心、學校與餐飲設施，常作為雙板與單板初學至中級課程使用。
   - name: ファミリーコース / Family Course
     difficulty: beginner
     length: 800m
-    maxSlope: 12度
+    maxSlope: 12°
     note: 全段為平緩坡面，適合親子與兒童初次上雪；雪道邊設有 800m 雪橇道，提供雪橇免費借用，亦可使用 Strider。
   - name: パッションコース / Passion Course
     difficulty: intermediate
     length: 1,200m
-    maxSlope: 20度
+    maxSlope: 20°
     note: 利用天然沢地形形成如 halfpipe 的左右牆面；降雪後常保留未壓雪區，可練習 banked slalom、surf ride 與地形滑行。
   - name: スカイコース / Sky Course
     difficulty: intermediate
     length: 1,200m
-    maxSlope: 20度
+    maxSlope: 20°
     note: 雪場主坡，最大寬度 250m；上段較適合中上級者，下段則適合初學者練習大迴轉、carving 與 switch turn。
   - name: シルクコース / Silk Course
     difficulty: intermediate
     length: 600m
-    maxSlope: 30度
+    maxSlope: 30°
     note: 完全未壓雪雪道，提供如絲般蓬鬆粉雪與浮遊感的滑行體驗。
   - name: アモーレコース / Amore Course
     difficulty: intermediate
     length: 540m
-    maxSlope: 26度
+    maxSlope: 26°
     note: 適合中上級者練習長迴轉與 carving；季中雪道邊可能形成饅頭，降雪時可同時選擇中央壓雪與邊緣未壓雪。
   - name: ヤマビココース / Yamabiko Course
     difficulty: intermediate
     length: 600m
-    maxSlope: 23度
+    maxSlope: 23°
     note: 雪場唯一林間雪道，需由スカイコース步行進入；適合初中級者在安靜的林間環境滑行。
   - name: パイオニアコース / Pioneer Course
     difficulty: advanced
     length: 870m
-    maxSlope: 46度
-    averageSlope: 35度
-    note: 北向山頂的未壓雪粉雪急坡，官方標示最大 46 度，設有 Beacon Check 區域，屬自行負責區域。
+    maxSlope: 46°
+    averageSlope: 35°
+    note: 北向山頂的未壓雪粉雪急坡，官方標示最大 46°，設有 Beacon Check 區域，屬自行負責區域。
   - name: ウッドランコース / Wood Run Course
     difficulty: advanced
     length: 1,300m
-    maxSlope: 46度
-    averageSlope: 20度
+    maxSlope: 46°
+    averageSlope: 20°
     note: 山頂景觀與林間滑行結合的上級雪道；設有 Beacon Check 區域，屬自行負責區域。
 lifts:
   total: 6
@@ -160,7 +160,7 @@ access:
 terrainSummary:
   beginner: パーフェクト、ロマンス與ファミリー集中於設施與親子區，另有 800m 雪橇道、免費 KIDSWEET Park 與兒童 Wave。
   intermediate: 寬達 250m 的スカイ可練習大迴轉、carving 與 switch；パッション、アモーレ與ヤマビコ則加入沢地形、饅頭與林間變化。
-  advanced: パイオニア與ウッドラン皆為自行負責區域；其中パイオニア是北向、最大 46 度的未壓雪急坡，需完成 Beacon Check。
+  advanced: パイオニア與ウッドラン皆為自行負責區域；其中パイオニア是北向、最大 46°的未壓雪急坡，需完成 Beacon Check。
   snowboard: 全區開放單板；エーアイコース設有 beginner、middle、expert 三條 park / freerun line，實際項目依積雪調整。
 externalContent:
   blogs: []
@@ -170,6 +170,6 @@ externalContent:
     note: Who’s TV / by Fumika Hoshino
 ---
 
-The Cupid of Romance Snow Resort 的特色是把寬達 250m 的主坡與山頂 46 度未壓雪急坡放在同一座雪場。初次上雪可從ロマンス、ファミリー與パーフェクト等平緩路線開始，親子同行則可安排 800m 雪橇道與免費 KIDSWEET Park；程度提升後，スカイ的寬廣壓雪面適合練大迴轉與 carving。
+The Cupid of Romance Snow Resort 的特色是把寬達 250m 的主坡與山頂 46°未壓雪急坡放在同一座雪場。初次上雪可從ロマンス、ファミリー與パーフェクト等平緩路線開始，親子同行則可安排 800m 雪橇道與免費 KIDSWEET Park；程度提升後，スカイ的寬廣壓雪面適合練大迴轉與 carving。
 
 想找自然地形時，パッション的沢壁可練 surf ride，アモーレ可在壓雪與非壓雪邊緣間切換；山頂的パイオニア與ウッドラン則留給已具雪崩裝備與自我風險判斷能力的上級者。從飯山站有每日免費接駁巴士約 20 分鐘直達，讓無車旅客也能把雪場排進北信濃或野澤溫泉周邊的滑雪行程。

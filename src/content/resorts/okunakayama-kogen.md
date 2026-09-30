@@ -54,7 +54,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://www.okunakayamakogen.jp/winter-season/course-guide/
-  summary: 奧中山高原山頂可看 360 度展望，山麓有平均 7 度的緩坡，並設有上級者向 tree run area。共有 11 條雪道，初級 30%、中級 40%、上級 30%。
+  summary: 奧中山高原山頂可看 360 度展望，山麓有平均 7°的緩坡，並設有上級者向 tree run area。共有 11 條雪道，初級 30%、中級 40%、上級 30%。
   details:
     - name: ぶなの木
       difficulty: advanced

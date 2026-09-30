@@ -89,13 +89,13 @@ courses:
     length: 600m
     maxSlope: 14°
     averageSlope: 9°
-    note: 平均斜度 9 度、最大斜度 14 度。
+    note: 平均斜度 9°、最大斜度 14°。
   - name: ダイヤモンドゲレンデ / Diamond Gelende
     difficulty: intermediate
     length: 500m
     maxSlope: 21°
     averageSlope: 12°
-    note: 平均斜度 12 度、最大斜度 21 度。
+    note: 平均斜度 12°、最大斜度 21°。
 lifts:
   total: 2
 access:

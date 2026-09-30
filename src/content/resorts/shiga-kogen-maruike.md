@@ -90,25 +90,25 @@ courses:
     length: 800m
     maxSlope: 18°
     averageSlope: 16°
-    note: 平均斜度 16 度、最大斜度 18 度。
+    note: 平均斜度 16°、最大斜度 18°。
   - name: 丸池第2ゲレンデ / Maruike No. 2 Gelende
     difficulty: beginner
     length: 200m
     maxSlope: 25°
     averageSlope: 18°
-    note: 平均斜度 18 度、最大斜度 25 度。
+    note: 平均斜度 18°、最大斜度 25°。
   - name: 丸池Bコース / Maruike B Course
     difficulty: intermediate
     length: 450m
     maxSlope: 28°
     averageSlope: 24°
-    note: 平均斜度 24 度、最大斜度 28 度。
+    note: 平均斜度 24°、最大斜度 28°。
   - name: 丸池Aコース / Maruike A Course
     difficulty: advanced
     length: 260m
     maxSlope: 32°
     averageSlope: 27°
-    note: 平均斜度 27 度、最大斜度 32 度。
+    note: 平均斜度 27°、最大斜度 32°。
 lifts:
   total: 2
 access:

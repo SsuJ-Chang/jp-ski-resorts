@@ -290,7 +290,7 @@ courses:
     difficulty: advanced
     length: 790m
     maxSlope: 36°
-    note: 最大斜度約 36 度，是菅平高原代表性的上級急斜面。
+    note: 最大斜度約 36°，是菅平高原代表性的上級急斜面。
   - name: 大松山 Alpine / 大松山アルペンコース
     difficulty: advanced
     length: 700m
@@ -412,7 +412,7 @@ access:
 terrainSummary:
   beginner: 初級雪道約 20%，奧ダボス第1初級路線可連續滑行約 1,300m，寬緩坡面適合剛開始練習。
   intermediate: 中級雪道約 60%，是全區主力，可在大範圍高原坡面、林間線與銜接線之間巡航。
-  advanced: 上級雪道約 20%，オオマツチャレンジ最大斜度約 36 度，裏太郎シーハイル也常作為技術滑行路線。
+  advanced: 上級雪道約 20%，オオマツチャレンジ最大斜度約 36°，裏太郎シーハイル也常作為技術滑行路線。
   snowboard: 全區可使用單板，壓雪比例高，另有少量非壓雪與饅頭坡可變化玩法。
 ---
 

@@ -106,56 +106,56 @@ courses:
   - name: モミの木樹氷コース
     difficulty: beginner
     length: 2100m
-    maxSlope: 12度
-    averageSlope: 8度
+    maxSlope: 12°
+    averageSlope: 8°
     note: 從山頂可眺望富士山至北阿爾卑斯山的 360 度景色，穿梭樹冰之間的招牌路線；初級者與家庭皆可滑行。
   - name: キッズファンコース
     difficulty: beginner
     length: 1600m
-    maxSlope: 10度
-    averageSlope: 7度
+    maxSlope: 10°
+    averageSlope: 7°
     note: 長距離初級坡，設有迷你旗門區與波浪區；可與モミの木樹氷串連，從山頂完成約 4km 滑行。
   - name: フェアリーコース
     difficulty: beginner
     length: 500m
-    maxSlope: 15度
-    averageSlope: 7度
+    maxSlope: 15°
+    averageSlope: 7°
     note: 第 2 停車場旁可搭第 5 雙人纜車反覆練習的初學者坡，景色與山頂區不同。
   - name: ジャイアントコース
     difficulty: intermediate
     length: 1520m
-    maxSlope: 23度
-    averageSlope: 14度
+    maxSlope: 23°
+    averageSlope: 14°
     note: 寬闊且長的坡面，適合高速大彎滑行；雖列為中級，官方提醒坡面仍有挑戰性，需注意速度。
   - name: ロマンチックコース
     difficulty: intermediate
     length: 1580m
-    maxSlope: 20度
-    averageSlope: 13度
+    maxSlope: 20°
+    averageSlope: 13°
     note: 穿越冷杉與落葉松樹冰的林間雪道，擁有連續大彎與節奏變化。
   - name: ファンタジーコース
     difficulty: intermediate
     length: 400m
-    maxSlope: 14度
-    averageSlope: 10度
+    maxSlope: 14°
+    averageSlope: 10°
     note: 寬廣、均一斜度的一面坡，適合中級者檢查動作或初級者進階，另設練習用雪包坡。
   - name: パノラマコース
     difficulty: advanced
     length: 1300m
-    maxSlope: 25度
-    averageSlope: 17度
+    maxSlope: 25°
+    averageSlope: 17°
     note: 位於上部雪場最右側的上級坡，景觀開闊；視降雪狀況可供個人或團體包場作旗門練習。
   - name: スラロームコース
     difficulty: advanced
     length: 1300m
-    maxSlope: 26度
-    averageSlope: 18度
+    maxSlope: 26°
+    averageSlope: 18°
     note: 無扭曲的一面坡，適合短彎、長彎與綜合滑行訓練，也是上級者的檢定坡。
   - name: エキスパートコース
     difficulty: advanced
     length: 600m
-    maxSlope: 30度
-    averageSlope: 18度
+    maxSlope: 30°
+    averageSlope: 18°
     note: 具自然雪包的正統上級坡，結合坡度與長度，適合挑戰雪包滑行。
 lifts:
   total: 6

@@ -102,7 +102,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://sanosaka.jp/course/
-  summary: 白馬佐野坂是白馬地區少數能一邊滑行一邊俯瞰青木湖的雪場，100% 天然雪帶來柔軟雪質。雪場各條路線寬廣，從適合初學者的緩斜面、可反覆練習的中斜面，到最大 32 度的 New Paradise 上級斜面都有；地形相對不易受強風吹襲，並設有 Snow Friends Park、移動步道與親子雪上活動。
+  summary: 白馬佐野坂是白馬地區少數能一邊滑行一邊俯瞰青木湖的雪場，100% 天然雪帶來柔軟雪質。雪場各條路線寬廣，從適合初學者的緩斜面、可反覆練習的中斜面，到最大 32°的 New Paradise 上級斜面都有；地形相對不易受強風吹襲，並設有 Snow Friends Park、移動步道與親子雪上活動。
   details:
   - name: レイクダウン・レイクビュー / Lake Down & Lake View
     difficulty: mixed

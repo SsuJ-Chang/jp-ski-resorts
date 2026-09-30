@@ -93,15 +93,15 @@ courses:
   intermediateRatio: 50
   advancedRatio: 0
   courseInfoPage: https://asahivalley.jp/winter/
-  summary: Asahi Prime滑雪場：あさひプライム共有 2 條雪道：ファミリーゲレンデ為平均斜度約 7 度的寬緩坡，スペシャルゲレンデ則約 13 度，適合從山頂一路練習小回轉，並以 SAJ 2 級為目標。
+  summary: Asahi Prime滑雪場：あさひプライム共有 2 條雪道：ファミリーゲレンデ為平均斜度約 7°的寬緩坡，スペシャルゲレンデ則約 13°，適合從山頂一路練習小回轉，並以 SAJ 2 級為目標。
   details:
   - name: ファミリーゲレンデ
     difficulty: beginner
-    averageSlope: 7度
+    averageSlope: 7°
     note: 緩和坡面，適合第一次接觸滑雪或單板滑雪者練習。
   - name: スペシャルゲレンデ
     difficulty: intermediate
-    averageSlope: 13度
+    averageSlope: 13°
     note: 適合以 SAJ 2 級為目標者，從山頂到山腳可持續練習小回轉。
 lifts:
   total: 2

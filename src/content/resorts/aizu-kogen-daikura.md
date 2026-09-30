@@ -60,79 +60,79 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://daikura.net/skislope/
-  summary: 會津高原 Daikura 共有 12 條雪道，從 800m 初學者路線、白樺與春木沢系列中級坡，到最大斜度 38 度的台鞍ゲレンデ都有；高低差與坡度變化明確，適合依能力分區練習。
+  summary: 會津高原 Daikura 共有 12 條雪道，從 800m 初學者路線、白樺與春木沢系列中級坡，到最大斜度 38°的台鞍ゲレンデ都有；高低差與坡度變化明確，適合依能力分區練習。
   details:
     - name: 初心者コース
       difficulty: beginner
       length: 800m
-      maxSlope: 12度
-      averageSlope: 12度
+      maxSlope: 12°
+      averageSlope: 12°
       note: 初級路線，高低差 80m，坡度數值單純，適合作為全場入門練習線。
     - name: 白樺アウトコース
       difficulty: beginner
       length: 1,500m
-      maxSlope: 15度
-      averageSlope: 9度
+      maxSlope: 15°
+      averageSlope: 9°
       note: 初級路線，滑走距離 1,500m、高低差 130m，可作為較長距離的初級練習。
     - name: 白樺インコース
       difficulty: mixed
       length: 1,200m
-      maxSlope: 20度
-      averageSlope: 9度
+      maxSlope: 20°
+      averageSlope: 9°
       note: 初級到中級路線，滑走距離 1,200m、高低差 130m。
     - name: 中央ゲレンデ
       difficulty: intermediate
       length: 600m
-      maxSlope: 23度
-      averageSlope: 11度
+      maxSlope: 23°
+      averageSlope: 11°
       note: 中級路線，滑走距離 600m、高低差 80m，是中央區域的短中級坡。
     - name: 駒止ゲレンデ
       difficulty: intermediate
       length: 1,000m
-      maxSlope: 28度
-      averageSlope: 13度
+      maxSlope: 28°
+      averageSlope: 13°
       note: 中級路線，滑走距離 1,000m、高低差 200m，坡度變化比中央區更明顯。
     - name: 春木沢インコース
       difficulty: intermediate
       length: 1,200m
-      maxSlope: 28度
-      averageSlope: 12度
+      maxSlope: 28°
+      averageSlope: 12°
       note: 中級路線，滑走距離 1,200m、高低差 220m。
     - name: 春木沢アウトコース
       difficulty: intermediate
       length: 1,300m
-      maxSlope: 25度
-      averageSlope: 12度
+      maxSlope: 25°
+      averageSlope: 12°
       note: 中級路線，滑走距離 1,300m、高低差 250m，是春木沢側較長的一條。
     - name: 駒止尾根コース
       difficulty: intermediate
       length: 1,200m
-      maxSlope: 20度
-      averageSlope: 7度
+      maxSlope: 20°
+      averageSlope: 7°
       note: 中級路線，滑走距離 1,200m、高低差 140m，平均斜度相對平緩。
     - name: 台鞍ゲレンデ
       difficulty: advanced
       length: 600m
-      maxSlope: 38度
-      averageSlope: 35度
-      note: 上級路線，最大斜度 38 度、平均斜度 35 度，是全場坡度數值最高的路線。
+      maxSlope: 38°
+      averageSlope: 35°
+      note: 上級路線，最大斜度 38°、平均斜度 35°，是全場坡度數值最高的路線。
     - name: シャドーコース
       difficulty: advanced
       length: 270m
-      maxSlope: 24度
-      averageSlope: 24度
+      maxSlope: 24°
+      averageSlope: 24°
       note: 上級路線，滑走距離 270m、高低差 120m。
     - name: スイングコース
       difficulty: advanced
       length: 250m
-      maxSlope: 28度
-      averageSlope: 20度
+      maxSlope: 28°
+      averageSlope: 20°
       note: 上級路線，滑走距離 250m、高低差 80m。
     - name: シャイングコース
       difficulty: advanced
       length: 260m
-      maxSlope: 30度
-      averageSlope: 22度
+      maxSlope: 30°
+      averageSlope: 22°
       note: 上級路線，滑走距離 260m、高低差 100m。
 lifts:
   total: 6
@@ -157,4 +157,4 @@ externalContent:
   vlogs: []
 ---
 
-會津高原 Daikura 位於福島縣南會津，12 條雪道從初級練習坡到最大 38 度的上級坡都有。白樺、春木沢與駒止區域各有不同長度與坡度變化，適合以一天時間分區練習。
+會津高原 Daikura 位於福島縣南會津，12 條雪道從初級練習坡到最大 38°的上級坡都有。白樺、春木沢與駒止區域各有不同長度與坡度變化，適合以一天時間分區練習。

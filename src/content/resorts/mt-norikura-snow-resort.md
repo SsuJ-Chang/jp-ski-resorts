@@ -90,7 +90,7 @@ courses:
   intermediateRatio: 45
   advancedRatio: 15
   courseInfoPage: https://www.brnorikura.jp/about.php
-  summary: 乘鞍山滑雪度假村滑雪場：20 條雪道自海拔 2,000m 延伸至 1,500m，最大坡度 33 度，最長可由かもしか一路串連すずらん滑行 5,000m；初級、中級、上級比例為 40%、45%、15%。
+  summary: 乘鞍山滑雪度假村滑雪場：20 條雪道自海拔 2,000m 延伸至 1,500m，最大坡度 33°，最長可由かもしか一路串連すずらん滑行 5,000m；初級、中級、上級比例為 40%、45%、15%。
   details:
   - name: すずらんコース
     difficulty: beginner
@@ -98,8 +98,8 @@ courses:
   - name: パラダイスコース
     difficulty: beginner
     length: 520m
-    maxSlope: 10度
-    averageSlope: 9度
+    maxSlope: 10°
+    averageSlope: 9°
     note: 位於 Rest House 正前方的緩坡，鄰近兒童樂園のりくらんど，適合初學者與親子。
   - name: ヨーデルコース
     difficulty: beginner
@@ -112,8 +112,8 @@ courses:
   - name: 夢の平コース
     difficulty: beginner
     length: 800m
-    maxSlope: 7度
-    averageSlope: 5度
+    maxSlope: 7°
+    averageSlope: 5°
     note: 寬廣平緩的雪道，可用於基礎練習與平順巡航。
   - name: 林間コース
     difficulty: beginner
@@ -123,8 +123,8 @@ courses:
   - name: スカイラブコース
     difficulty: intermediate
     length: 620m
-    maxSlope: 15度
-    averageSlope: 10度
+    maxSlope: 15°
+    averageSlope: 10°
     note: 起滑處平緩寬闊，後段轉為較窄的坡面，可一口氣滑至下方。
   - name: 木の陰コース
     difficulty: intermediate
@@ -154,13 +154,13 @@ courses:
   - name: かもしかAコース
     difficulty: advanced
     length: 600m
-    maxSlope: 28度
+    maxSlope: 28°
     note: 從かもしかリフト山頂起滑，基部海拔約 1,800m；可享受粉雪雪面。
   - name: ダウンヒルコース
     difficulty: mixed
     length: 500m
-    maxSlope: 20度
-    averageSlope: 14度
+    maxSlope: 20°
+    averageSlope: 14°
     note: 寬闊平整的坡面，適合以大迴轉方式高速滑行。
 lifts:
   total: 8

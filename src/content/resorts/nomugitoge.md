@@ -168,7 +168,7 @@ access:
 terrainSummary:
   beginner: Family Gelande 與 Bambi Gelande 提供平緩寬廣的初級坡，Bambi 區另設孩童遊戲空間。
   intermediate: 樹海、Panorama 與 Training 等路線把林間、視野與練習坡面串成中級滑行選項。
-  advanced: Expert 是平均坡度 29 度的進階陡坡；Champion 系列、Yuriwari 與峰之原等中高級路線增加起伏、急坡與未壓雪變化。
+  advanced: Expert 是平均坡度 29°的進階陡坡；Champion 系列、Yuriwari 與峰之原等中高級路線增加起伏、急坡與未壓雪變化。
   snowboard: 全部 12 條雪道皆標示可使用雪板；實際開放範圍依現場公告為準。
 ---
 

@@ -90,19 +90,19 @@ courses:
     length: 162m
     maxSlope: 15°
     averageSlope: 12°
-    note: 平均斜度 12 度、最大斜度 15 度。
+    note: 平均斜度 12°、最大斜度 15°。
   - name: サンバレーB＋メインコース / Sun Valley B + Main Course
     difficulty: intermediate
     length: 800m
     maxSlope: 25°
     averageSlope: 12°
-    note: 平均斜度 12 度、最大斜度 25 度。
+    note: 平均斜度 12°、最大斜度 25°。
   - name: サンバレーA＋白熊コース / Sun Valley A + Shirokuma Course
     difficulty: advanced
     length: 650m
     maxSlope: 30°
     averageSlope: 18°
-    note: 平均斜度 18 度、最大斜度 30 度。
+    note: 平均斜度 18°、最大斜度 30°。
 lifts:
   total: 2
 access:

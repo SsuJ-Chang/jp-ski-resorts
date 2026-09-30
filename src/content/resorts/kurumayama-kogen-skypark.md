@@ -84,7 +84,7 @@ snowWeather:
 courses:
   total: 6
   courseInfoPage: https://winter.kurumayama-skypark.com/gelende
-  summary: 車山高原 SKYPARK 滑雪場：共 6 條雪道，最長滑走 2,000m、最大坡度 38 度；山頂海拔 1,925m，從寬闊練習坡到非整雪的進階雪道都有配置。
+  summary: 車山高原 SKYPARK 滑雪場：共 6 條雪道，最長滑走 2,000m、最大坡度 38°；山頂海拔 1,925m，從寬闊練習坡到非整雪的進階雪道都有配置。
   details:
   - name: 家庭雪道 / ファミリー
     difficulty: beginner
@@ -116,7 +116,7 @@ courses:
     length: 750m
     maxSlope: 38deg
     averageSlope: 23deg
-    note: 標高差 200m、最大寬度 100m；為全場最大坡度 38 度的進階雪道，依雪況可能為非整雪區域。
+    note: 標高差 200m、最大寬度 100m；為全場最大坡度 38°的進階雪道，依雪況可能為非整雪區域。
   - name: 全景雪道 / パノラマ
     difficulty: mixed
     length: 2000m
@@ -146,11 +146,11 @@ access:
     note: 可由中央自動車道諏訪南 IC 經一般道路前往；雪場共有 5 處免費停車場，合計約 1,500 台。冬季請備妥雪胎或雪鏈。
 terrainSummary:
   beginner: 家庭雪道寬達 200m，並可從全景雪道山頂接上迂迴路線，適合作為入門與練習動線。
-  intermediate: Slalom 與 Très Bien 雪道皆有最大 28 度的坡度，適合已能穩定轉彎的滑行者。
-  advanced: Venus 與 Sportsman 為進階雪道，最大坡度分別為 35 與 38 度；上段及 Sportsman 依雪況可能不整雪。
+  intermediate: Slalom 與 Très Bien 雪道皆有最大 28°的坡度，適合已能穩定轉彎的滑行者。
+  advanced: Venus 與 Sportsman 為進階雪道，最大坡度分別為 35 與 38°；上段及 Sportsman 依雪況可能不整雪。
   snowboard: 官方雪道資訊將全場定位為從初學者到進階者皆可利用的開放式寬闊雪面；實際單板開放範圍依當日公告為準。
 ---
 
 車山高原 SKYPARK 位於海拔 1,560 至 1,925m 的高原，採全開放、寬闊的雪場設計。從最長 2,000m 的全景雪道，到最大寬度 200m 的家庭雪道，初學者、家庭與想欣賞信州山景的滑行者都能安排自己的節奏；晴朗時，山頂與雪場可望見信州群山的遼闊景色。
 
-進階滑行者可選擇最大 35 度的 Venus 與最大 38 度的 Sportsman 雪道；兩條雪道的非整雪區域則須視當日雪況審慎判斷。全場以造雪設備維持自山頂至山麓的雪況穩定度，交通可由茅野站轉乘巴士，2026-2027 雪季起也新增上野站預約制直達巴士。
+進階滑行者可選擇最大 35°的 Venus 與最大 38°的 Sportsman 雪道；兩條雪道的非整雪區域則須視當日雪況審慎判斷。全場以造雪設備維持自山頂至山麓的雪況穩定度，交通可由茅野站轉乘巴士，2026-2027 雪季起也新增上野站預約制直達巴士。

@@ -7,8 +7,8 @@ name:
 region: kanto-koshinetsu
 prefecture: 新潟縣
 location:
-  latitude: 37.103823
-  longitude: 138.224803
+  latitude: 37.10417271521015
+  longitude:  138.22492574907534
 elevation:
   top: 132
   bottom: 57
@@ -21,7 +21,7 @@ links:
   official: http://joetsukankonavi.jp/spot.php?id=23
   weather: https://weathernews.jp/ski/spot/35427/
   googleMaps: https://maps.app.goo.gl/G5YHq4awqBmnPaYdA
-  access: http://joetsukankonavi.jp/spot.php?id=23
+  access: https://surfsnow.jp/guide/htm/r0808m.htm
 contact:
   address:
     zhTw: 〒943-0893 新潟縣上越市大字大貫 595-2
@@ -81,17 +81,17 @@ access:
   - label: 新幹線＋在來線＋巴士
     steps:
     - 從東京搭北陸新幹線至上越妙高站，再轉えちごトキめき鉄道至高田站。
-    - 從高田站搭巴士並步行，約 40 分鐘可抵達。
-    estimatedTime: 約40分鐘
+    - 從高田站搭頸城巴士青田線約 10 分鐘，在金谷山入口下車後步行約 15 分鐘抵達。
+    estimatedTime: 約25分鐘（高田站起算）
     difficulty: medium
-    note: 時間為高田站至雪場的巴士與步行目安。
+    note: 也可在ヨーデル金谷前下車後步行約 10 分鐘；巴士路線與班次請於出發前確認。
   car:
     recommended: false
     snowTireRequired: true
-    note: 從上越高田 IC 約 5 分鐘，停車約 78 台且免費；冬季仍需準備雪胎。
+    note: 從上信越自動車道上越高田 IC 約 5 分鐘，停車場約 78 台且免費；冬季山區道路仍需準備雪胎。
 terrainSummary:
   beginner: 小規模雪場，適合短時間練習與親子滑行。
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
 ---
 
-金谷山在新潟縣提供 3 條雪道，搭配 1 座纜車。僅保留已確認的規模與路線配置，頁面資訊以基本規格與路線配置為主；標籤上偏向初學者練習、親子同行。
+金谷山位於新潟縣上越市，是日本滑雪發祥地之一。這座市營小型滑雪場設有 3 條具緩急變化的雪道，並規劃兒童專用雪橇區；場地緊湊、交通便利，適合初學者、親子滑雪與想順遊日本滑雪歷史景點的旅客。

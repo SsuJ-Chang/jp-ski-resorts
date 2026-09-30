@@ -111,37 +111,37 @@ courses:
   - name: ファミリーゲレンデ
     difficulty: beginner
     length: 500m
-    maxSlope: 12度
+    maxSlope: 12°
     note: 面向初學者與親子的緩坡，適合與年幼孩童一同練習。
   - name: フォレストコース
     difficulty: mixed
     length: 850m
-    maxSlope: 15度
+    maxSlope: 15°
     note: 坡度較緩、富有變化的壓雪雪道，適合初級至中級者練習。
   - name: パノラマコース
     difficulty: intermediate
     length: 1700m
-    maxSlope: 20度
+    maxSlope: 20°
     note: 全程使用天然雪、地形變化豐富的中級長距離雪道。
   - name: サンシャインゲレンデコース
     difficulty: intermediate
     length: 600m
-    maxSlope: 23度
+    maxSlope: 23°
     note: 寬約 100m 的平整壓雪整面坡，可反覆練習穩定轉彎與 carving。
   - name: スラロームコース
     difficulty: mixed
     length: 1500m
-    maxSlope: 26度
+    maxSlope: 26°
     note: 坡度與路線變化豐富的中上級雪道，也是雪場推薦路線；舉辦比賽或旗門練習時可能關閉。
   - name: アドベンチャーコース
     difficulty: advanced
     length: 850m
-    maxSlope: 32度
+    maxSlope: 32°
     note: 使用天然雪的未壓雪粉雪路線，屬場外風格雪面，降雪後可體驗新雪滑行。
   - name: サミットコース
     difficulty: advanced
     length: 500m
-    maxSlope: 28度
+    maxSlope: 28°
     note: 位於雪場最上方的天然饅頭坡雪道；天氣晴朗時可遠眺富士山。
 lifts:
   total: 3

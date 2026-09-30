@@ -7,8 +7,8 @@ name:
 region: kanto-koshinetsu
 prefecture: 新潟縣
 location:
-  latitude: 37.050967
-  longitude: 138.838408
+  latitude: 37.04959643189784
+  longitude: 138.8288484626919
 elevation:
   top: 579
   bottom: 210
@@ -18,18 +18,20 @@ tags:
 - no_car_accessible
 - snowboard_friendly
 links:
-  official: https://www.chateau-shiozawa.jp/
+  official: https://chateau-shiozawa.jp/winter/
+  trailMapPage: https://chateau-shiozawa.jp/gelande-map/
+  ticket: https://chateau-shiozawa.jp/lift-rental-price/
   facebook: https://www.facebook.com/shiozawa.ski/
   instagram: https://www.instagram.com/chateau.shiozawa/
   weather: https://weathernews.jp/ski/spot/35461/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Chateau%20Shiozawa%20Ski%20Area
-  access: https://www.chateau-shiozawa.jp/
+  googleMaps: https://maps.app.goo.gl/RmguKvyRDZMCEFii6
+  access: https://chateau-shiozawa.jp/access/
 contact:
   address:
-    zhTw: 〒949-6402 新潟縣南魚沼市吉里 1562
-    ja: 〒949-6402 新潟県南魚沼市吉里1562
-    en: 1562 Yoshisato, Minamiuonuma, Niigata 949-6402
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Chateau%20Shiozawa%20Ski%20Area
+    zhTw: 〒949-6408 新潟縣南魚沼市鹽澤 2071
+    ja: 〒949-6408 新潟県南魚沼市塩沢2071
+    en: 2071 Yoshisato, Minamiuonuma, Niigata 949-6408
+    googleMaps: https://maps.app.goo.gl/RmguKvyRDZMCEFii6
   phone: 025-782-1191
 season:
   label: 2025-2026
@@ -40,22 +42,34 @@ season:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/35461/
-  note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
+  source: https://chateau-shiozawa.jp/lift-rental-price/
+  note: 票價依 2025-2026 雪季官方價目表整理；實際販售、適用條件與營業狀況請以官方公告為準。長者為 60 歲以上，未就學兒童日歸使用免費但需出示身分證明。
   plans:
     - name: 1 日券
       priceLines:
         - 成人：¥4,500
-        - 兒童：¥3,000
-        - 長者：¥3,000
+        - 小學生：¥3,000
+        - 長者（60 歲以上）：¥3,000
     - name: 2 日券
       priceLines:
         - 成人：¥7,000
-        - 兒童：¥4,000
+        - 小學生：¥4,000
     - name: 上午券
       priceLines:
         - 成人：¥3,500
-        - 兒童：¥2,000
+        - 小學生：¥2,000
+      note: 使用時間為 8:30 至 13:00。
+    - name: 下午券
+      priceLines:
+        - 成人：¥3,000
+        - 小學生：¥2,000
+      note: 使用時間為 12:00 至 17:00。
+    - name: 親子套票
+      priceLines:
+        - 成人與小學生親子 2 人：¥6,000
+    - name: 單次券
+      priceLines:
+        - 成人、兒童：¥600
 snowWeather:
   title: Chateau 鹽澤雪況預報
   provider: Weathernews
@@ -66,53 +80,52 @@ snowWeather:
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
   total: 7
-  courseInfoPage: https://www.chateau-shiozawa.jp/
-  summary: Chateau 鹽澤滑雪場：共 7 條雪道、4 座纜車，初級 40%、中級 40%、高級 20%。
+  courseInfoPage: https://chateau-shiozawa.jp/gelande-map/
+  summary: Chateau 鹽澤滑雪場由一本杉與吉里兩個雪區組成，兩側在標高 579m 的山頂相連，設有 4 座纜車與最長 3,000m 的長距離雪道。初級雪道約 40%、中級約 40%、高級約 20%，以適度緩坡、壓雪路線與親子滑雪環境為主，也保留最高斜度 37° 的挑戰路線，適合初學者、家庭與初中級滑雪者。
   beginnerRatio: 40
   intermediateRatio: 40
   advancedRatio: 20
   details:
-  - name: 初級路線 1
+  - name: 一本杉ゲレンデ / Ipponsugi
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 2
+    note: 一本杉雪區的基礎滑行區，與吉里雪區在山頂相連。
+  - name: カモシカコース / Kamoshika
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 3
+  - name: 林間コース / 林間雪道
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 1
+    note: 適合課程使用的初中級路線，沿林間地形滑行。
+  - name: パラレルコース / Parallel
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 2
+  - name: 吉里ゲレンデ / Yoshizato
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 3
+    note: 吉里雪區的主要滑行區，設有大峰路線與多條連絡路線。
+  - name: 大峰コース / Omine
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線
+  - name: チャンピオンコース / Champion
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    length: 3,000m
+    maxSlope: 37°
+    note: 上級者向長距離路線，最長滑行距離約 3,000m。
 lifts:
   total: 4
 access:
   fromTokyo:
-  - label: 新幹線＋在來線＋計程車
-    steps:
-    - 從東京搭上越新幹線至越後湯澤站，再轉在來線至鹽澤站。
-    - 從鹽澤站搭計程車約 5 分鐘可抵達。
-    estimatedTime: 約5分鐘
-    difficulty: easy
-    note: 時間為鹽澤站至雪場的計程車目安。
+    - label: 新幹線＋在來線＋計程車
+      steps:
+        - 從東京搭上越新幹線至越後湯澤站，再轉 JR 上越線往六日町、長岡方向，於鹽澤站下車。
+        - 冬季可從越後湯澤站搭乘前往雪場的接駁巴士；鹽澤站也可安排接送。
+      estimatedTime: 轉乘與接送時間依班次及預約安排
+      difficulty: easy
+      note: 接駁與送迎僅提供住宿旅客，需事前聯絡確認；平日與國定假日不提供接送。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從鹽澤 IC 約 15 分鐘，從六日町 IC 約 15 分鐘；停車約 240 台且免費。
+    note: 從關越自動車道鹽澤石打 IC 約 6.5km、15 分鐘；依官方路線經國道 17 號與縣道前往雪場。停車約 240 台且免費。
 terrainSummary:
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
-  beginner: 初級雪道約 40%，可安排暖身、基礎練習或親子滑行。
-  intermediate: 中級雪道約 40%，是主要滑行與轉彎練習區段。
-  advanced: 高級雪道約 20%，可安排較有坡度與速度感的滑行。
+  beginner: 初級雪道約 40%，一本杉雪區、カモシカ與林間路線適合暖身、基礎練習或親子滑行。
+  intermediate: 中級雪道約 40%，吉里雪區、大峰與パラレル等路線提供主要滑行與轉彎練習區域。
+  advanced: 高級雪道約 20%，チャンピオン路線具備最高 37° 的坡度與約 3,000m 的長距離滑行。
 ---
 
-新潟縣的Chateau 鹽澤以7 條雪道，搭配 4 座纜車組成滑行區。初級、中級與上級路線都有配置，適合拿來和同區雪場比較規模；標籤上偏向初學者練習、親子同行。
+Chateau 鹽澤位於新潟縣南魚沼市，由一本杉與吉里兩個雪區組成，山頂相連後可享受最長約 3,000m 的長距離滑行。雪場以適度緩坡、壓雪路線與親子滑雪環境為特色，初級與中級雪道合計約 80%，同時保留最高斜度 37° 的チャンピオン路線，適合初學者、家庭與希望穩定練習的初中級滑雪者。

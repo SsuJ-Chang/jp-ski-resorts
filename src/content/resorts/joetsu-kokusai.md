@@ -92,7 +92,7 @@ courses:
   advancedRatio: 10
   total: 22
   courseInfoPage: https://jkokusai.co.jp/ski/gelande_course/
-  summary: 上越國際分為母親、全景、活力與森林四大區域，共 22 條雪道；最長的初級林間雪道達 6,000 公尺，另有最大坡度 38 度的未壓雪高級雪道。
+  summary: 上越國際分為母親、全景、活力與森林四大區域，共 22 條雪道；最長的初級林間雪道達 6,000 公尺，另有最大坡度 38°的未壓雪高級雪道。
   details:
   - name: Riesen Family 林間雪道 / リーゼンファミリー林間コース
     difficulty: beginner
@@ -151,7 +151,7 @@ courses:
     length: 1,000m
     maxSlope: 24°
     averageSlope: 11°
-    note: 平均坡度11度、雪質良好的雪道；週末營運。
+    note: 平均坡度11°、雪質良好的雪道；週末營運。
   - name: 當間第4迂迴雪道 / 当間第4ゲレンデ 迂回コース
     difficulty: beginner
     length: 760m
@@ -259,4 +259,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/joetsu-kokusai/
 ---
 
-上越國際滑雪場由母親、全景、活力與森林四大區域組成，22條雪道從親子練習坡到最大 38 度的未壓雪陡坡都有安排。初學者可利用長達 6 公里的家庭林間雪道從山頂滑下；進階雪友則能前往北向的全景區與週末營運的活力、森林區挑戰起伏地形。飯店前雪場另有每日夜間滑雪與兒童雪地遊樂設施。
+上越國際滑雪場由母親、全景、活力與森林四大區域組成，22條雪道從親子練習坡到最大 38°的未壓雪陡坡都有安排。初學者可利用長達 6 公里的家庭林間雪道從山頂滑下；進階雪友則能前往北向的全景區與週末營運的活力、森林區挑戰起伏地形。飯店前雪場另有每日夜間滑雪與兒童雪地遊樂設施。

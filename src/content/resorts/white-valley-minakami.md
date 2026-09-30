@@ -123,7 +123,7 @@ courses:
     difficulty: advanced
     length: 1,000m
     maxSlope: 35°
-    note: 官方標示為上級，是強調自然感的高難度路線；資料另列最大坡度 35 度，適合進階者挑戰。
+    note: 官方標示為上級，是強調自然感的高難度路線；資料另列最大坡度 35°，適合進階者挑戰。
 lifts:
   total: 2
 access:
@@ -174,7 +174,7 @@ access:
 terrainSummary:
   beginner: Fantasy 是主雪道中唯一明確初級路線，搭配 Family Slope 的 pole burn 與 wave，適合初學者和親子先練轉彎與速度控制。
   intermediate: White Heaven 與 Forest 是粉雪與谷間滑行的核心，中級者可串接 White Heaven → Forest → Fantasy 形成約 2,000m 的最長滑走線。
-  advanced: Champion 與 Fighting 強調自然地形與荒地感，Fighting 最大坡度 35 度，適合想在小型雪場找較硬路線的進階者。
+  advanced: Champion 與 Fighting 強調自然地形與荒地感，Fighting 最大坡度 35°，適合想在小型雪場找較硬路線的進階者。
   snowboard: 資料顯示雪板比例約 55%，官方也列出 snowboard 可滑，雪場另提供 snow drive、snow scoot 等特殊雪具租借。
   powder: 官方雪道頁與 相關資訊都強調粉雪，Premium Powder Day 會把上部約 90% 作為非壓雪區開放；實施與否以前一日官方網站與社群公告為準。
 externalContent:

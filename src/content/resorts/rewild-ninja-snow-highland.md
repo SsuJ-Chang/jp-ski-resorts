@@ -82,52 +82,52 @@ courses:
   - name: ゴマルコース
     difficulty: beginner
     length: 1,800m
-    maxSlope: 8度
+    maxSlope: 8°
     note: 初學者取向的林間雪道；晴天時起滑點可眺望長野市街與北阿爾卑斯，適合 1,800m 長距離巡航。
   - name: シンコウコース
     difficulty: beginner
     length: 1,600m
-    maxSlope: 15度
+    maxSlope: 15°
     note: 穿越落葉松林、可眺望根子岳；途中分岔可通往面向中級者的 G Course。
   - name: 迂回忍コース
     difficulty: beginner
     length: 1,500m
-    maxSlope: 10度
+    maxSlope: 10°
     note: 上段設有展望點；住宿於 Pension 的旅客可由此直接滑至雪場中心。
   - name: シャインコース
     difficulty: intermediate
     length: 700m
-    maxSlope: 22度
+    maxSlope: 22°
     note: 以蜿蜒的大型沢地形聞名，暱稱為振子沢；可感受左右擺動與騰空感的地形變化。
   - name: ブラックビートコース
     difficulty: intermediate
     length: 600m
-    maxSlope: 23度
+    maxSlope: 23°
     note: 寬闊的中斜面，可朝 Restaurant Mine 順暢滑行；中段可近距離看到空中浮遊の術的跳台。
   - name: ニレイコース
     difficulty: intermediate
     length: 1,200m
-    maxSlope: 22度
+    maxSlope: 22°
     note: 位於落葉松林中的中級雪道，適合想安靜欣賞景色、穩定滑行的人。
   - name: ドラゴコース
     difficulty: intermediate
     length: 900m
-    maxSlope: 22度
+    maxSlope: 22°
     note: 初中級皆可使用的寬闊雪面，亦是 REWILD Park 的入口。
   - name: アレコココース
     difficulty: advanced
     length: 800m
-    maxSlope: 26度
+    maxSlope: 26°
     note: 維護良好的單一大坡面，適合 carving；起滑點可俯瞰雪場中心與北阿爾卑斯。
   - name: リワイルドコース
     difficulty: advanced
     length: 900m
-    maxSlope: 30度
+    maxSlope: 30°
     note: 雪場最大坡度的未壓雪坡，保留饅頭雪面，適合希望挑戰自然雪況的上級者。
   - name: サスケコース
     difficulty: advanced
     length: 700m
-    maxSlope: 26度
+    maxSlope: 26°
     note: 利用自然形成、近似 halfpipe 的少見地形，是雪場代表性的地形雪道。
 lifts:
   total: 2
@@ -151,12 +151,12 @@ access:
     snowTireRequired: true
     note: 東京方向可由上田菅平 IC 經菅平口、菅平高原前往，IC 起約 24km、30 分鐘；名古屋與大阪方向可由須坂長野東 IC 經仁禮前往，IC 起約 20km、25 分鐘。免費停車場可容納 800 台車，冬季請準備雪胎或防滑鏈。
 terrainSummary:
-  beginner: ゴマル、シンコウ與迂回忍均為 1,500m 以上的林間或繞行路線，坡度最大 8 至 15 度，適合將基礎練習拉長為巡航。
+  beginner: ゴマル、シンコウ與迂回忍均為 1,500m 以上的林間或繞行路線，坡度最大 8 至 15°，適合將基礎練習拉長為巡航。
   intermediate: シャイン的振子沢、寬闊的ブラックビート、安靜的ニレイ與通往 Park 的ドラゴ，提供地形與雪面各異的中級選擇。
   advanced: アレココ適合 carving；リワイルド保留未壓雪饅頭，サスケ則以自然 halfpipe 地形增加變化。
   snowboard: 全區可使用單板；REWILD Park 配有跳台、Rail、Box、Wave 與 Bank，雙板與 snowskate 也可使用。
 ---
 
-REWILD NINJA SNOW HIGHLAND 位於峰之原高原，以 10 條節奏明確的雪道組合，將長距離林間巡航、沢地形與未壓雪坡放在同一座雪場。最長的ゴマルコース長達 1,800m、最大坡度僅 8 度，適合從容練習；想增加變化時，可轉進シャイン的振子沢、リワイルド的未壓雪饅頭，或サスケ的自然 halfpipe 地形。
+REWILD NINJA SNOW HIGHLAND 位於峰之原高原，以 10 條節奏明確的雪道組合，將長距離林間巡航、沢地形與未壓雪坡放在同一座雪場。最長的ゴマルコース長達 1,800m、最大坡度僅 8°，適合從容練習；想增加變化時，可轉進シャイン的振子沢、リワイルド的未壓雪饅頭，或サスケ的自然 halfpipe 地形。
 
 晴天時可從多條起滑點眺望長野市街、北阿爾卑斯與根子岳，官方並主打高晴天率與人工造雪設備。雪場也設有 REWILD Park，從第一次練習 Rail、Box、跳台，到重複練習技巧都能安排；無車旅客可由上田站轉乘計程車約 35 分鐘前往，適合把菅平與峰之原一帶排成兼顧巡航、地形與 Park 的滑雪行程。

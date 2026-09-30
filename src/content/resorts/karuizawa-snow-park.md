@@ -167,7 +167,7 @@ snowWeather:
 courses:
   total: 6
   courseInfoPage: https://karuizawa-snowpark.com/areaguide/
-  summary: 輕井澤雪公園滑雪場：輕井澤 Snow Park 設有 6 條雪道，初級與中級路線約占八成，並有雪上電梯與兒童專用緩坡，適合親子及初次體驗者。D 雪道可欣賞淺間山景色，A 雪道則是深雪時才開放的最大 32 度挑戰坡。
+  summary: 輕井澤雪公園滑雪場：輕井澤 Snow Park 設有 6 條雪道，初級與中級路線約占八成，並有雪上電梯與兒童專用緩坡，適合親子及初次體驗者。D 雪道可欣賞淺間山景色，A 雪道則是深雪時才開放的最大 32°挑戰坡。
   details:
   - name: 迪亞雪道 / ディアコース
     difficulty: beginner
@@ -199,7 +199,7 @@ courses:
     length: 290m
     maxSlope: 32°
     averageSlope: 20°
-    note: 僅在深雪時開放的特殊雪道，最大坡度達 32 度。
+    note: 僅在深雪時開放的特殊雪道，最大坡度達 32°。
   beginnerRatio: 30
   intermediateRatio: 50
   advancedRatio: 20
@@ -224,7 +224,7 @@ access:
 terrainSummary:
   beginner: 初級雪道包含迪亞、艾格與家庭雪道，設有雪上電梯與兒童專用區，適合初學者及親子練習。
   intermediate: 中級雪道以貝里與高麗菜雪道為主，前者適合 carving，後者設有常設旗門。
-  advanced: 杜鵑花雪道為深雪時才開放的最大 32 度特殊雪道，適合具備進階能力的滑雪者。
+  advanced: 杜鵑花雪道為深雪時才開放的最大 32°特殊雪道，適合具備進階能力的滑雪者。
   snowboard: 官方雪道資訊標示雙板與雪板皆可滑行；兒童雪道、雪上活動區與各項設施請依現場規定使用。
 sources:
   - label: 輕井澤 Snow Park 官方雪道資訊
@@ -238,4 +238,4 @@ sources:
 
 ---
 
-輕井澤 Snow Park 位於群馬縣北輕井澤，設有 6 條雪道與 3 座雙人纜車，初級與中級路線約占八成。雪上電梯、兒童專用雪道與親子雪上活動區降低初次滑行門檻；中級雪道可練習 carving，深雪時另有最大 32 度的特殊挑戰坡，適合從入門到進階的滑雪者。
+輕井澤 Snow Park 位於群馬縣北輕井澤，設有 6 條雪道與 3 座雙人纜車，初級與中級路線約占八成。雪上電梯、兒童專用雪道與親子雪上活動區降低初次滑行門檻；中級雪道可練習 carving，深雪時另有最大 32°的特殊挑戰坡，適合從入門到進階的滑雪者。

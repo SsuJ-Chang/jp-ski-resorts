@@ -7,8 +7,8 @@ name:
 region: kanto-koshinetsu
 prefecture: 新潟縣
 location:
-  latitude: 37.322705
-  longitude: 139.01618
+  latitude: 37.32278475157004
+  longitude: 139.01622589345294
 elevation:
   top: 550
   bottom: 200
@@ -17,16 +17,18 @@ tags:
 - no_car_accessible
 - snowboard_friendly
 links:
-  official: http://www.suhara-ski.com/
+  official: https://www.suhara-ski.com/
+  trailMapPage: https://www.suhara-ski.com/gelande.html#01
   weather: https://weathernews.jp/ski/spot/35457/
-  googleMaps: https://www.google.com/maps/search/?api=1&query=Suhara%20Ski%20Area
-  access: http://www.suhara-ski.com/
+  googleMaps: https://maps.app.goo.gl/dZKonXKtezRB4NrP6
+  ticket: https://surfsnow.jp/guide/htm/r0799gc2.htm
+  access: https://www.suhara-ski.com/access.html
 contact:
   address:
     zhTw: 〒946-0216 新潟縣魚沼市須原 1846-13
     ja: 〒946-0216 新潟県魚沼市須原1846-13
     en: 1846-13 Suhara, Uonuma, Niigata 946-0216
-    googleMaps: https://www.google.com/maps/search/?api=1&query=Suhara%20Ski%20Area
+    googleMaps: https://maps.app.goo.gl/dZKonXKtezRB4NrP6
   phone: 025-797-2059
 season:
   label: 2025-2026
@@ -37,24 +39,32 @@ season:
 tickets:
   season: 2025-2026
   currency: JPY
-  source: https://weathernews.jp/ski/spot/35457/
-  note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
+  source: https://surfsnow.jp/guide/htm/r0799gc2.htm
+  note: 票價依 2025-2026 雪季公開資料整理；平日優惠、營業日期與各票種適用條件請以當季公告為準。
   plans:
     - name: 1 日券
       priceLines:
-        - 成人：¥4,800
-        - 兒童：¥3,000
-        - 長者：¥4,000
-    - name: 平日優惠券
-      priceLines:
-        - 成人：¥3,800
-        - 兒童：¥3,000
-        - 長者：¥3,800
+        - 成人：週末 ¥4,800，平日優惠 ¥3,800
+        - 兒童（小學生）：¥3,000
+        - 長者：週末 ¥4,000，平日優惠 ¥3,800
+        - 國中、高中生：週末 ¥4,000，平日優惠 ¥3,800
     - name: 5 小時券
       priceLines:
         - 成人：¥3,800
-        - 兒童：¥2,300
+        - 兒童（小學生）：¥2,300
         - 長者：¥3,400
+        - 國中、高中生：¥3,400
+      note: 9:00 前購票，使用時間為 9:00 起 5 小時；9:00 後購票，自購票時間起算 5 小時。
+    - name: 2 日券
+      priceLines:
+        - 成人：¥8,400
+        - 兒童（小學生）：¥5,400
+        - 長者：¥7,200
+        - 國中、高中生：¥7,200
+    - name: 回數券
+      priceLines:
+        - 單次券：¥500
+        - 11 回券：¥5,000
 snowWeather:
   title: 須原雪況預報
   provider: Weathernews
@@ -64,58 +74,72 @@ snowWeather:
   forecast: []
   note: 雪況與預報為網站建置期間的靜態示意資料；實際積雪、天氣與營業狀態請以官方公告與當日資訊為準。
 courses:
-  total: 10
-  courseInfoPage: http://www.suhara-ski.com/
+  total: 11
+  courseInfoPage: https://www.suhara-ski.com/gelande.html#01
   summary: 須原滑雪場：共 10 條雪道、2 座纜車，初級 30%、中級 40%、高級 30%。
-  beginnerRatio: 30
-  intermediateRatio: 40
+  beginnerRatio: 20
+  intermediateRatio: 50
   advancedRatio: 30
   details:
-  - name: 初級路線 1
+  - name: ロマンスゲレンデ / Romance Slope
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 2
+    length: 500m
+    note: 從中心屋 2 樓也能一覽的平緩開闊雪道，適合家庭與初學者安心滑行。
+  - name: アルパインスーパー迂回コース / Alpine Super Detour Course
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 初級路線 3
+    length: 1,600m
+    note: 適合初學者的長距離巡航路線，回程搭乘四人纜車下行免費，滑行更安心。
+  - name: アドベンチャーサンライン / Adventure Sunline
     difficulty: beginner
-    note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 1
+    length: 250m
+    note: 從 Adventure Course 通往 Romance Slope 的連絡路線，沿途設有多個動作地形。
+  - name: アドベンチャー連絡コース / Adventure Connection Course
+    difficulty: beginner
+    length: 400m
+    note: 連接 Adventure Course 與第 1 Romance Lift 乘車處，沿途有連續上下起伏，路線變化較多。
+  - name: レクリエーションゲレンデ / Recreation Slope
+    difficulty: beginner
+    length: 70m
+    note: 可進行雪橇遊戲等雪上活動的休閒廣場。
+  - name: ジャイアントコース / Giant Course
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 2
+    length: 1,500m
+    note: 利用山脊地形的主力雪道，急緩坡交替且變化豐富；與 Romance Slope 連滑約 2,000m。
+  - name: アドベンチャーコース / Adventure Course
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 3
+    length: 650m
+    note: 寬度充裕且容易滑行，也能享受粉雪；經 Adventure Connection Course 可連接至第 3 停車場與 Romance Slope。
+  - name: アルパインコース / Alpine Course
     difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 中級路線 4
-    difficulty: intermediate
-    note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 1
+    length: 600m
+    note: 從山頂延伸的北向斜面，官方介紹其雪質優良。
+  - name: ワイルドコース / Wild Course
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 2
+    length: 200m
+    note: 位於雪場上部的非壓雪路線，可享受深雪粉雪。
+  - name: エキスパートコース / Expert Course
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-  - name: 上級路線 3
+    length: 200m
+    note: 位於雪場中央的非壓雪路線，深雪與雪丘交錯，適合體驗 mogul 滑行。
+  - name: ブリザードコース / Blizzard Course
     difficulty: advanced
-    note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+    length: 200m
+    note: 從山頂延伸的北向非壓雪路線，特色是裸露地形；會依積雪狀況等因素實施管制。
 lifts:
   total: 2
 access:
   fromTokyo:
-  - label: 新幹線＋只見線／接駁
+  - label: 東京出發（新幹線）
     steps:
-    - 從東京搭上越新幹線至浦佐站，再依行程轉乘或使用住宿者接駁。
-    - 只見線越後須原站步行約 5 分鐘；住宿者從浦佐站接駁約 35 分鐘。
-    estimatedTime: 約5分鐘
+    - 東京站搭乘上越新幹線至浦佐站，約 90 分鐘。
+    - 從浦佐站轉乘 JR 只見線至越後須原站，步行約 5 分鐘抵達。
+    estimatedTime: 約 90 分鐘至浦佐站
     difficulty: medium
-    note: 時間為越後須原站步行目安；浦佐站接駁通常限住宿者並需事前確認。
+    note: 雪場鄰近越後須原站；完整轉乘時間請依當日列車班次確認。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從魚沼 IC 約 30 分鐘，從中之島見附 IC 約 60 分鐘；停車約 300 台且免費。
+    note: 東京至須原約 3 小時 30 分鐘，新潟至須原約 1 小時 30 分鐘；從關越自動車道魚沼 IC 或堀之內 IC 約 30 分鐘，從北陸自動車道中之島見附 IC 約 60 分鐘。停車場約 300 台，免費；冬季山區道路需準備雪胎。
 terrainSummary:
   snowboard: 全區允許單板滑行；實際可滑範圍仍需依當日開放與安全管制為準。
   beginner: 初級雪道約 30%，可安排暖身、基礎練習或親子滑行。

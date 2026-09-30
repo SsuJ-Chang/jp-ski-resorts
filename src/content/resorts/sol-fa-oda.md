@@ -41,7 +41,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://tw.wamazing.com/snow/articles/396
-  summary: SOL-FA 小田共有 5 條雪道，初級 30%、中級 50%、上級 20%；最長滑行距離 1,200m、最大坡度 30 度，並設有人工降雪設備與兒童雪地遊樂區。
+  summary: SOL-FA 小田共有 5 條雪道，初級 30%、中級 50%、上級 20%；最長滑行距離 1,200m、最大坡度 30°，並設有人工降雪設備與兒童雪地遊樂區。
   details:
     - name: 家庭雪道 / ファミリーゲレンデ
       difficulty: beginner

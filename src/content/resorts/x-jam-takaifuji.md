@@ -90,7 +90,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 10
   courseInfoPage: https://x-jam.jp/trail/
-  summary: 共 13 條雪道、4 座纜車，最長滑走 2,000m、最大坡度 28 度。雪上公園最多設置 47 項設施，並透過連絡雪道與纜車銜接夜間瀨溫泉雪場。
+  summary: 共 13 條雪道、4 座纜車，最長滑走 2,000m、最大坡度 28°。雪上公園最多設置 47 項設施，並透過連絡雪道與纜車銜接夜間瀨溫泉雪場。
   details:
   - name: なんじゃこりゃ雪道
     difficulty: beginner

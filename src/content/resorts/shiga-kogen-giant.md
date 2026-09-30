@@ -88,7 +88,7 @@ courses:
     length: 1,000m
     maxSlope: 34°
     averageSlope: 20°
-    note: 平均斜度 20 度、最大斜度 34 度；FIS 認證雪道。
+    note: 平均斜度 20°、最大斜度 34°；FIS 認證雪道。
 lifts:
   total: 2
 access:
@@ -119,4 +119,4 @@ terrainSummary:
   advanced: Giant Gelende 是中央區域代表性高難度斜面。
 ---
 
-志賀高原 巨人 是全長 1,000 公尺、最大斜度 34 度的 FIS 認證雪場，陡坡與大迴轉雪道深受進階者喜愛；志賀高原山之站也可搭乘志賀高原 Resort Gondola 直達。
+志賀高原 巨人 是全長 1,000 公尺、最大斜度 34°的 FIS 認證雪場，陡坡與大迴轉雪道深受進階者喜愛；志賀高原山之站也可搭乘志賀高原 Resort Gondola 直達。

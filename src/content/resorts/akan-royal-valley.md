@@ -55,7 +55,7 @@ courses:
   intermediateRatio: 0
   advancedRatio: 50
   courseInfoPage: https://www.akanroyalvalley.jp/%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3
-  summary: 阿寒 Royal Valley 以 1 座纜車串接 2 條路線，初級・中級者コース寬度較大、最長滑走約 700m；另一條上級者コース為不整地，最大斜度約 30 度，旁邊另有免費そりエリア。
+  summary: 阿寒 Royal Valley 以 1 座纜車串接 2 條路線，初級・中級者コース寬度較大、最長滑走約 700m；另一條上級者コース為不整地，最大斜度約 30°，旁邊另有免費そりエリア。
   details:
     - name: 初級・中級者コース
       difficulty: mixed
@@ -63,8 +63,8 @@ courses:
       note: 寬度較大的初級到中級者取向路線，可從山頂滑到山麓；初次練習者也可從中腹往山麓滑行。
     - name: 上級者コース
       difficulty: advanced
-      maxSlope: 30度
-      note: 不整地的上級者路線；全場最大斜度約 30 度。
+      maxSlope: 30°
+      note: 不整地的上級者路線；全場最大斜度約 30°。
 lifts:
   total: 1
 access:
@@ -81,11 +81,11 @@ access:
 terrainSummary:
   beginner: 初級・中級者コース寬度較大，可從山頂或中腹往山麓滑行。
   intermediate: 同一條初級・中級者コース也適合已能穩定轉彎者練習長一點的滑行節奏。
-  advanced: 上級者コース為不整地，最大斜度約 30 度。
+  advanced: 上級者コース為不整地，最大斜度約 30°。
   snowboard: 全面可；單板實際可滑區域仍以現場開放為準。
 externalContent:
   blogs: []
   vlogs: []
 ---
 
-阿寒 Royal Valley 位於北海道釧路市阿寒町，1 座纜車連結寬闊的初中級路線與不整地上級路線。最長滑走約 700m、最大斜度約 30 度，規模小但坡面分明，適合短時間練習與親子雪地活動。
+阿寒 Royal Valley 位於北海道釧路市阿寒町，1 座纜車連結寬闊的初中級路線與不整地上級路線。最長滑走約 700m、最大斜度約 30°，規模小但坡面分明，適合短時間練習與親子雪地活動。

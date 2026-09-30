@@ -89,25 +89,25 @@ courses:
     length: 600m
     maxSlope: 15°
     averageSlope: 10°
-    note: 平均斜度 10 度、最大斜度 15 度。
+    note: 平均斜度 10°、最大斜度 15°。
   - name: 蓮池ジュニアコース / Hasuike Junior Course
     difficulty: beginner
     length: 500m
     maxSlope: 18°
     averageSlope: 15°
-    note: 平均斜度 15 度、最大斜度 18 度。
+    note: 平均斜度 15°、最大斜度 18°。
   - name: 蓮池Bコース / Hasuike B Course
     difficulty: intermediate
     length: 700m
     maxSlope: 16°
     averageSlope: 11°
-    note: 平均斜度 11 度、最大斜度 16 度。
+    note: 平均斜度 11°、最大斜度 16°。
   - name: ジャイアント連絡コース / Giant Connection Course
     difficulty: intermediate
     length: 240m
     maxSlope: 10°
     averageSlope: 8°
-    note: 平均斜度 8 度、最大斜度 10 度。
+    note: 平均斜度 8°、最大斜度 10°。
 lifts:
   total: 2
 access:

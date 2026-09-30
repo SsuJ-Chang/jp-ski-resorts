@@ -99,33 +99,33 @@ courses:
   - name: エンジェルコース
     difficulty: beginner
     length: 610m
-    maxSlope: 9度
-    averageSlope: 9度
+    maxSlope: 9°
+    averageSlope: 9°
     note: 寬闊平緩的初級雪道，適合初學者、基礎課程及親子滑行。
   - name: りんどうコース
     difficulty: beginner
     length: 2000m
-    maxSlope: 9度
-    averageSlope: 9度
+    maxSlope: 9°
+    averageSlope: 9°
     note: 穿越林間的初級長距離雪道，僅於有天然雪時限期開放。
   - name: ミルキーコース
     difficulty: beginner
     length: 500m
-    maxSlope: 10度
-    averageSlope: 9度
-    note: 可由第 7 纜車抵達的初級練習雪道，最大坡度 10 度，適合初學者課程。
+    maxSlope: 10°
+    averageSlope: 9°
+    note: 可由第 7 纜車抵達的初級練習雪道，最大坡度 10°，適合初學者課程。
   - name: パノラマコース
     difficulty: mixed
     length: 1070m
-    maxSlope: 21度
-    averageSlope: 17度
+    maxSlope: 21°
+    averageSlope: 17°
     note: 自雪場最高點滑下的主雪道，可眺望南阿爾卑斯山脈；平整雪面適合 carving，亦可利用迂迴路線降低難度。
   - name: トリッキーサウスコース
     difficulty: advanced
     length: 800m
-    maxSlope: 30度
-    averageSlope: 24度
-    note: 自第 2 纜車進入的上級雪道，最大坡度 30 度，適合想挑戰較陡坡面的滑雪者。
+    maxSlope: 30°
+    averageSlope: 24°
+    note: 自第 2 纜車進入的上級雪道，最大坡度 30°，適合想挑戰較陡坡面的滑雪者。
 lifts:
   total: 5
 access:
@@ -144,10 +144,10 @@ access:
 terrainSummary:
   beginner: エンジェル、りんどう及ミルキー為寬緩或林間的初級雪道，適合基礎練習；Kids World 另設雪橇、雪上甜甜圈與雪地活動區。
   intermediate: パノラマコース自標高 1,600m 延伸而下，提供平整的中斜面與山景，並可改走迂迴線降低難度。
-  advanced: トリッキーサウスコース最大坡度 30 度，是雪場主要的上級挑戰路線。
+  advanced: トリッキーサウスコース最大坡度 30°，是雪場主要的上級挑戰路線。
   snowboard: 2025-2026 雪季全雪道開放雪板滑行，並開始提供雪板裝備租借；實際開放範圍請依當日公告確認。
 ---
 
 天堂園原位於長野縣阿智村，從山麓停車場搭乘高速箱型纜車約 15 分鐘，即可抵達海拔約 1,400m 的滑雪區。雪場以五條集中的雪道配置，エンジェル、ミルキー與限期開放的りんどう為初學者提供緩坡和最長 2km 的林間滑行；パノラマコース則從海拔 1,600m 的高點展開，兼具南阿爾卑斯山景與可反覆練習 carving 的平整雪面。
 
-想挑戰坡度可前往最大 30 度的トリッキーサウスコース，親子族群則可在獨立的 Kids World 使用雪橇、雪上甜甜圈等設施。園原 IC 僅約 5 分鐘車程，滑雪後可順遊車程約 10 分鐘的晝神溫泉；雪場自 2025-2026 雪季起全區開放雪板，也開始提供雪板裝備租借。
+想挑戰坡度可前往最大 30°的トリッキーサウスコース，親子族群則可在獨立的 Kids World 使用雪橇、雪上甜甜圈等設施。園原 IC 僅約 5 分鐘車程，滑雪後可順遊車程約 10 分鐘的晝神溫泉；雪場自 2025-2026 雪季起全區開放雪板，也開始提供雪板裝備租借。

@@ -79,7 +79,7 @@ courses:
   intermediateRatio: 33
   advancedRatio: 33
   courseInfoPage: https://tonojikan.jp/tourism/akabane-snowpark/
-  summary: 赤羽根是 3 條路線的小型雪場，包含初中級取向的銀河スロープ、穿過林間的カモシカコース，以及最大斜度 30 度的カベコース；旁邊另有ちびっこ広場可玩雪橇。
+  summary: 赤羽根是 3 條路線的小型雪場，包含初中級取向的銀河スロープ、穿過林間的カモシカコース，以及最大斜度 30°的カベコース；旁邊另有ちびっこ広場可玩雪橇。
   details:
   - name: 銀河スロープ
     difficulty: beginner
@@ -89,8 +89,8 @@ courses:
     note: 穿過林間的路線，滑行感與開闊坡面不同。
   - name: カベコース
     difficulty: advanced
-    maxSlope: 30度
-    note: 上級者取向路線，最大斜度約 30 度。
+    maxSlope: 30°
+    note: 上級者取向路線，最大斜度約 30°。
 lifts:
   total: 3
 access:
@@ -101,11 +101,11 @@ access:
 terrainSummary:
   beginner: 銀河スロープ偏初級到中級者取向，適合作為主要練習坡面。
   intermediate: カモシカコース穿過林間，能在小型雪場中增加路線變化。
-  advanced: カベコース為上級者取向路線，最大斜度約 30 度。
+  advanced: カベコース為上級者取向路線，最大斜度約 30°。
   snowboard: 雪板可全區滑行，並有平日夜滑時段。
 externalContent:
   blogs: []
   vlogs: []
 ---
 
-赤羽根位於岩手縣遠野市，是 3 條路線的小型雪場。銀河スロープ偏初中級練習，カモシカコース帶有林間變化，カベコース則提供最大 30 度的短坡挑戰；平日夜滑讓練習時間更彈性。
+赤羽根位於岩手縣遠野市，是 3 條路線的小型雪場。銀河スロープ偏初中級練習，カモシカコース帶有林間變化，カベコース則提供最大 30°的短坡挑戰；平日夜滑讓練習時間更彈性。

@@ -91,25 +91,25 @@ courses:
     length: 1,000m
     maxSlope: 26°
     averageSlope: 15°
-    note: 寬廣的主雪道，平均斜度 15 度、最大斜度 26 度；上段較陡，下段較適合初學者。
+    note: 寬廣的主雪道，平均斜度 15°、最大斜度 26°；上段較陡，下段較適合初學者。
   - name: 天狗コース / Tengu Course
     difficulty: beginner
     length: 3,200m
     maxSlope: 13°
     averageSlope: 10°
-    note: 長距離初級雪道，平均斜度 10 度、最大斜度 13 度。
+    note: 長距離初級雪道，平均斜度 10°、最大斜度 13°。
   - name: パノラマコース / Panorama Course
     difficulty: intermediate
     length: 2,300m
     maxSlope: 18°
     averageSlope: 16°
-    note: 中級雪道，平均斜度 16 度、最大斜度 18 度。
+    note: 中級雪道，平均斜度 16°、最大斜度 18°。
   - name: パーフェクターコース / Perfecter Course
     difficulty: advanced
     length: 1,500m
     maxSlope: 30°
     averageSlope: 26°
-    note: 高難度雪道，平均斜度 26 度、最大斜度 30 度。
+    note: 高難度雪道，平均斜度 26°、最大斜度 30°。
 lifts:
   total: 4
 access:

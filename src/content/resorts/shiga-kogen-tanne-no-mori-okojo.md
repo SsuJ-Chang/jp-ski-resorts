@@ -89,7 +89,7 @@ courses:
     length: 500m
     maxSlope: 12°
     averageSlope: 10°
-    note: 平均斜度 10 度、最大斜度 12 度；林間雪道。
+    note: 平均斜度 10°、最大斜度 12°；林間雪道。
 lifts:
   total: 1
 access:

@@ -61,32 +61,32 @@ courses:
     - name: らくらくコース
       difficulty: beginner
       length: 1,500m
-      maxSlope: 20度
-      averageSlope: 11度
+      maxSlope: 20°
+      averageSlope: 11°
       note: 從第 3 lift 上方往下滑的林間路線，坡度較緩，作為連接初級練習很方便。
     - name: サンシャインコース
       difficulty: beginner
       length: 600m
-      maxSlope: 15度
-      averageSlope: 7度
+      maxSlope: 15°
+      averageSlope: 7°
       note: 從ゴンドラ山頂站左手側滑下的初級林間路線。
     - name: パラダイスコース
       difficulty: beginner
       length: 3,500m
-      maxSlope: 18度
-      averageSlope: 9度
+      maxSlope: 18°
+      averageSlope: 9°
       note: 從山頂連續滑到山麓的主線，滑走距離長，可用來體驗完整高低差。
     - name: ユートピアコース
       difficulty: intermediate
       length: 400m
-      maxSlope: 25度
-      averageSlope: 11度
+      maxSlope: 25°
+      averageSlope: 11°
       note: ゴンドラ山頂下方的短中級路線，連接らくらくコース與山頂區。
     - name: チャレンジコース
       difficulty: intermediate
       length: 700m
-      maxSlope: 28度
-      averageSlope: 13度
+      maxSlope: 28°
+      averageSlope: 13°
       note: 第 3 lift 旁的中級路線，坡度變化比初級林間線更明顯。
 lifts:
   total: 3

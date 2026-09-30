@@ -121,14 +121,14 @@ courses:
   - name: ウェンゲン
     difficulty: beginner
     length: 550m
-    maxSlope: 11度
-    averageSlope: 7度
+    maxSlope: 11°
+    averageSlope: 7°
     note: 期間限定營運的寬緩坡，適合在進入 B 雪道前暖身；末段分岔為通往纜車站的林間路線。
   - name: ブライトホーン
     difficulty: beginner
     length: 650m
-    maxSlope: 9度
-    averageSlope: 7度
+    maxSlope: 9°
+    averageSlope: 7°
     note: 距離長且寬廣的初級坡，設有わんぱくゲレンデ兒童設施，亦常作為課程使用。
   - name: 迂回・ホテル前
     difficulty: beginner
@@ -136,39 +136,39 @@ courses:
   - name: ラバーホーン
     difficulty: intermediate
     length: 700m
-    maxSlope: 20度
-    averageSlope: 14度
+    maxSlope: 20°
+    averageSlope: 14°
     note: 適合中級者進階的長距離整面坡，可朝秩父連山方向滑降。
   - name: ユングフラウ
     difficulty: intermediate
     length: 700m
-    maxSlope: 20度
-    averageSlope: 10度
+    maxSlope: 20°
+    averageSlope: 10°
     note: 寬闊雪道直通滑雪餐廳前方，也用於早朝營業。
   - name: メンヒ
     difficulty: intermediate
     length: 600m
-    maxSlope: 18度
-    averageSlope: 12度
+    maxSlope: 18°
+    averageSlope: 12°
     note: 緊實雪面適合 carving，右側連續自然土坡可增加立體地形變化。
   - name: H コース
     difficulty: intermediate
     length: 350m
-    maxSlope: 19度
-    averageSlope: 10度
+    maxSlope: 19°
+    averageSlope: 10°
     note: 寬廣的中斜面整面坡，利用第 4 雙人纜車可反覆進行基礎技術練習。
   - name: L コース
     difficulty: intermediate
     length: 420m
-    maxSlope: 14度
-    averageSlope: 10度
+    maxSlope: 14°
+    averageSlope: 10°
     note: 沿第 5 雙人纜車而下，帶有緩和彎道，亦可供比賽或活動包場使用。
   - name: アイガー
     difficulty: advanced
     length: 780m
-    maxSlope: 32度
-    averageSlope: 18度
-    note: 招牌上級雪道，最大坡度達 32 度，起滑段落極具落差感，僅限上級者使用。
+    maxSlope: 32°
+    averageSlope: 18°
+    note: 招牌上級雪道，最大坡度達 32°，起滑段落極具落差感，僅限上級者使用。
 lifts:
   total: 5
 access:
@@ -187,10 +187,10 @@ access:
 terrainSummary:
   beginner: ウェンゲン、ブライトホーン與迂回・ホテル前提供寬緩坡、兒童設施與飯店聯絡動線。
   intermediate: ラバーホーン、ユングフラウ、メンヒ、H、L 雪道涵蓋長整面坡、carving 雪面、寬坡與緩和彎道。
-  advanced: アイガー為最大 32 度的上級者專用招牌坡。
+  advanced: アイガー為最大 32°的上級者專用招牌坡。
   snowboard: 官方以滑雪與單板共用雪場呈現，實際可滑範圍與特殊雪具開放日請依當日公告確認。
 ---
 
-Chateraise Ski Valley 小海位於八岳高原，標高 1,780m 的自然雪加上人工造雪，讓雪季初期到春季都有穩定的雪面選擇。最長 2.5km 的下坡可由ウェンゲン一路串連至ブライトホーン；中級者可在ラバーホーン、メンヒ與 H コース依不同坡寬、雪面和地形反覆練習，アイガー則留給想挑戰 32 度陡坡的上級滑雪者。
+Chateraise Ski Valley 小海位於八岳高原，標高 1,780m 的自然雪加上人工造雪，讓雪季初期到春季都有穩定的雪面選擇。最長 2.5km 的下坡可由ウェンゲン一路串連至ブライトホーン；中級者可在ラバーホーン、メンヒ與 H コース依不同坡寬、雪面和地形反覆練習，アイガー則留給想挑戰 32°陡坡的上級滑雪者。
 
 雪場與 Chateraise Ski Valley 野邊山共享部分票券及雪季券，兩地車程約 30 分鐘。小海場內另有兒童雪場、雪橇廣場與飯店相連的動線，適合把滑雪、住宿與星空之湯的休息行程排在同一座高原渡假區。

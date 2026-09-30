@@ -118,7 +118,7 @@ courses:
     difficulty: beginner
     maxSlope: 9°
     averageSlope: 7°
-    note: 最大斜度 9 度、平均斜度 7 度，適合第一次學習滑雪或雪板。
+    note: 最大斜度 9°、平均斜度 7°，適合第一次學習滑雪或雪板。
   - name: 中央雪道 / 中央コース
     difficulty: mixed
     length: 680m

@@ -88,7 +88,7 @@ courses:
     length: 1,500m
     maxSlope: 25°
     averageSlope: 15°
-    note: 平均斜度 15 度、最大斜度 25 度；最大寬度約 160m。
+    note: 平均斜度 15°、最大斜度 25°；最大寬度約 160m。
 lifts:
   total: 2
 access:
