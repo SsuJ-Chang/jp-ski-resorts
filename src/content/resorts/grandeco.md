@@ -54,6 +54,10 @@ tickets:
   currency: JPY
   source: https://resort.en-hotel.com/grandeco/snow/ja/
   note: 主要日間票摘要；官方票價分為 pre-season、regular season 與 spring season，並依年齡與平假日區分。完整線上價格與票種請以官方頁面為準。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r1025tk.htm
+      deadline: "2026-12-11"
   plans:
     - name: Regular season 1 日券（平日）
       priceLines:

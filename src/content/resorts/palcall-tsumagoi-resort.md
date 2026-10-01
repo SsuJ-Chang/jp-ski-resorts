@@ -56,6 +56,13 @@ tickets:
   currency: JPY
   source: https://tsumagoiskiresort.life/lifttickets/
   note: 只整理 1 日券分頁內容；其他票種未收錄。
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15188
+      deadline: "2026-09-30"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0147tk.htm
+      deadline: "2026-11-30"
   plans:
     - name: 1日券（全日）
       priceLines:
@@ -64,13 +71,6 @@ tickets:
         - 網路優惠：成人 ¥5,500
         - 兒童：¥2,500
       note: 12/20(六) - 4/5(日) 8:00 - 16:00；IC 卡發行費已包含。若持有事前註冊的 IC 卡，通常價可再折 ¥500。可使用全雪場的纜車與吊椅；兒童（學齡前）在高中生以上監護人同行下最多 2 名免費，身心障礙手冊可享定價 5 折。各項折扣不可併用。
-  earlyBird:
-    - name: 完美行
-      url: https://tw.wamazing.com/snow/items/15188
-      deadline: "2026-09-30"
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0147tk.htm
-      deadline: "2026-09-30"
 snowWeather:
   title: Palcall 嬬戀雪況天氣
   provider: Weathernews

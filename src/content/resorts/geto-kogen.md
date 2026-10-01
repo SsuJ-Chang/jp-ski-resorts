@@ -46,6 +46,13 @@ tickets:
   currency: JPY
   source: https://www.getokogen.com/winter/02service/index.html#tickets
   note: 所有票券需另付 IC 卡押金 ¥500；未就學兒免費，但同樣需要至櫃檯辦理 IC 卡。身障優惠為本人票價 7 折，需出示身障手冊。
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15684
+      deadline: "2026-12-04"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0270tk.htm
+      deadline: "2026-12-04"
   plans:
     - name: 初滑 / 春滑 1 日券
       priceLines:
@@ -133,10 +140,6 @@ tickets:
         - 國中生、高中生：¥1,500
         - 小學生：¥1,000
       note: 廂型纜車 1 往返，限觀光用途。
-  earlyBird:
-    - name: 完美行
-      url: https://tw.wamazing.com/snow/items/15684
-      deadline: "2026-12-04"
 snowWeather:
   title: 夏油高原雪況天氣
   provider: Weathernews

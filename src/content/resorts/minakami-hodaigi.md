@@ -61,6 +61,10 @@ tickets:
   currency: JPY
   source: https://hodaigi.jp/lift-price/
   note: 票價依官方 2025-2026 纜車券頁整理。長者為 55 歲以上且需出示證明，國高中生需出示學生證；未就學兒童免費，但需在售票窗口領取未就學兒券。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0771tk.htm
+      deadline: "2026-12-04"
   plans:
     - name: 1 日券
       priceLines:

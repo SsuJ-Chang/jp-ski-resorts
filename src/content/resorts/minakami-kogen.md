@@ -61,6 +61,10 @@ tickets:
   currency: JPY
   source: https://www.minakami-ski.jp/price/
   note: 依官方 2025-2026 票價頁整理，未列於主要票種的住宿者優惠、套票與活動票請以官方為準。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0126tk.htm
+      deadline: "2026-12-15"
   plans:
     - name: 1 日券
       priceLines:

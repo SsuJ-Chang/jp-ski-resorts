@@ -53,6 +53,10 @@ tickets:
   currency: JPY
   source: https://fujiwaraski.com/charge/
   note: 官方票價頁標示兒童與 55 歲以上長者票價較親民；未就學兒童需家長同行，購買纜車券者可享 Hotel Sunbird 大浴場折扣。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0335tk.htm
+      deadline: "2026-12-18"
   plans:
     - name: 1 日券
       priceLines:

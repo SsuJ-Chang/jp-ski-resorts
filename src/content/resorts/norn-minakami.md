@@ -60,6 +60,10 @@ tickets:
   currency: JPY
   source: https://www.norn.co.jp/winter/lift/
   note: 票價依官方 2026-2027 營業時間・料金頁整理。成人為國中以上，兒童為小學生，長者為 55 歲以上且需證件，Master 為 70 歲以上且需證件；未就學兒童免費，但仍需領取未就學兒券。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0071tk.htm
+      deadline: "2026-12-17"
   plans:
     - name: Opening 1 日券
       priceLines:
@@ -103,10 +107,6 @@ tickets:
       priceLines:
         - 1 回券：¥700
         - 11 回券：¥7,000
-  earlyBird:
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0071tk.htm
-      deadline: "2026-12-17"
 snowWeather:
   title: Norn 水上雪況天氣
   provider: Weathernews

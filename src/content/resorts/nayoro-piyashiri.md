@@ -41,6 +41,11 @@ season:
   hours: 平日：週一至週三 9:00〜16:30 / 假日：週六、週日 9:00〜16:30 / 夜滑：週四、週五 16:30〜20:30
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/31207/
+tickets:
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0621tk.htm
+      deadline: "2027-02-28"
 snowWeather:
   title: 名寄 Piyashiri 積雪與天氣
   provider: Weathernews
