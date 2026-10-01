@@ -55,6 +55,10 @@ tickets:
   currency: JPY
   source: https://skyvalley.jp/lift
   note: 纜車券可與 Hyper Bowl 東鉢共通使用；下列為官網主要票種摘要，平日與特定日價格不同，完整規則請以官方頁面為準。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0222tk.htm
+      deadline: "2026-12-18"
   plans:
     - name: 1 日券
       priceLines:

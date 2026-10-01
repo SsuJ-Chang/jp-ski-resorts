@@ -50,6 +50,10 @@ tickets:
   currency: JPY
   source: http://yogo45.co.jp/price/
   note: 2025-2026 票價：12/29 ~ 1/4 適用週末及國定假日費率。小學生以下適用兒童票，中學生起適用成人票，長者為 60 歲以上且需出示身分證明；未就學兒童的纜車票免費。票券限當日使用，不得退款、換發或與其他折扣合併。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0014tk.htm
+      deadline: "2027-01-31"
   plans:
     - name: 平日 1 日券
       priceLines:

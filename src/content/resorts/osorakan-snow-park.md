@@ -47,6 +47,10 @@ tickets:
   currency: JPY
   source: https://osorakan.co.jp/winter/lift-ticket/
   note: IC 卡雪票需另收 ¥500押金，歸還卡片時退回。12 月 31 日至 1 月 3 日適用假日價格；7 小時券與 3 小時券僅限線上販售。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0922tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 1 日券
       priceLines:
@@ -87,10 +91,6 @@ tickets:
       priceLines:
         - 成人：¥9,900
       note: 兒童與長者不適用。
-  earlyBird:
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0922tk.htm
-      deadline: "2026-12-31"
 snowWeather:
   title: 恐羅漢 Snow Park 雪況天氣
   provider: Weathernews

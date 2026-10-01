@@ -51,6 +51,13 @@ tickets:
   currency: JPY
   source: https://jamresort.jp/activity-white/lift-ticket/
   note: 官網列有平日與特定日定價，特定日包含 12/29、12/30、1/2、1/3、1/10、1/11、2/21、2/22。購買任何纜車券另收 IC 卡押金 ¥500，還卡後退還；4 歲起需購票。
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0019tk.htm
+      deadline: "2026-12-18"
   plans:
     - name: 1 日券
       priceLines:
@@ -90,10 +97,6 @@ tickets:
         - 1 點：¥600
         - 11 點：¥6,000
       note: 四人纜車每搭乘一次扣 2 點，三人與雙人纜車每次扣 1 點；點數券限購買當季使用。
-  earlyBird:
-    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
-      url: https://tw.wamazing.com/snow/items/15083
-      deadline: "2026-12-10"
 snowWeather:
   title: Ski Jam 勝山雪況天氣
   provider: Weathernews
