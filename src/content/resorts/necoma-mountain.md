@@ -29,64 +29,79 @@ links:
   facebook: https://www.facebook.com/nekoma.mountain/
   instagram: https://www.instagram.com/nekoma.mountain/
   xTwitter: https://twitter.com/nekoma_mountain
-  trailMapPage: https://www.nekoma.co.jp/liftguide/
+  trailMapPage: https://www.nekoma.co.jp/liftguide/#status
   ticket: https://www.nekoma.co.jp/price/
   access: https://www.nekoma.co.jp/access/
   weather: https://weathernews.jp/ski/spot/33632/
   googleMaps: https://maps.app.goo.gl/S1XZSnmxPDjqgwBYA
 contact:
   address:
-    zhTw: 〒969-3302 福島縣耶麻郡磐梯町大字更科字清水平 6838-68
-    ja: 〒969-3302 福島県耶麻郡磐梯町大字更科字清水平6838-68
-    en: 6838-68 Ooaza Sarashina Aza Shimizudaira, Yama District Bandai, Fukushima 969-3302
+    zhTw: 〒969-2701 耶麻郡北鹽原村檜原猫魔山 1163
+    ja: 〒969-2701 耶麻郡北塩原村桧原猫魔山1163
+    en: 1163 Hibara Nekoma yama, Kitashiobara-mura, Yama-gun, Fukushima 969-2701
     googleMaps: https://maps.app.goo.gl/S1XZSnmxPDjqgwBYA
-  phone: 0242-74-5000
+  phone: 0241-32-3001
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/6-2026/4/19
+  label: 2026-2027
+  operatingPeriod: 北區 2026/11/28-2027/5/9；南區 2026/12/12-2027/4/4
   hours: 8:30-15:30
   nightSkiingHours: 16:30-20:00（特定日，南區 Alts Express）
-  note: 南區為舊 Alts 磐梯，北區為舊貓魔；營業日期、區域與連結纜車會依積雪調整，請以官方公告為準。
-  source: https://weathernews.jp/ski/spot/33632/
+  note: 南區為舊 Alts 磐梯，北區為舊貓魔；2027/3/27 起北區週一至週五 7:30 開始、週末及國定假日 5:55 開始，營業日期、區域與連結纜車會依積雪調整，請以官方公告為準。
+  source: https://www.nekoma.co.jp/liftguide/#status
 trailMaps:
 - label: 星野渡假村 貓魔滑雪場 雪道圖
   language: 日本語
-  season: 2025-2026
-  url: https://www.nekoma.co.jp/liftguide/
+  season: 2026-2027
+  url: https://www.nekoma.co.jp/liftguide/#map
   sourceLabel: NEKOMA Mountain Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.nekoma.co.jp/price/
-  note: 窗口票種摘要；除儲值購買外另收 IC 卡保證金 ¥500，退卡時返還。完整規則與 WEB 票價請以官方頁面為準。
+  note: 以下為官方公布的 2026-2027 一般票價；窗口票另收 IC 卡保證金 ¥500，退卡時返還。
+  earlyBird:
+    - name: 官網
+      url: https://www.nekoma.co.jp/price/
+      deadline: "2026-12-13"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0275tk.htm
+      deadline: "2026-11-03"
   plans:
     - name: 1 日券
       priceLines:
-        - 成人：¥6,300
-        - 長者：¥5,800
+        - 成人：¥6,500
+        - 長者（60 歲以上）：¥6,000
         - 國高中生：¥4,500
         - 小學生：¥3,000
-        - 兒童（學齡前）：免費
-      note: 日間營業有效，不含 first ride 與夜滑
+        - 學齡前兒童：免費
+      note: 適用全雪場纜車的日間營業，不含 First Ride 與夜滑。
     - name: 下午券
       priceLines:
-        - 成人：¥5,800
-        - 長者：¥5,300
-        - 國高中生：¥4,000
-        - 小學生：¥2,500
-        - 兒童（學齡前）：免費
-      note: 11:00-14:30，有效時段不含夜滑
-    - name: 初學者限定 1 日券
+        - 成人：¥4,900
+        - 國高中生：¥3,700
+        - 小學生：¥2,200
+        - 學齡前兒童：免費
+      note: 適用全雪場纜車的日間營業，不含夜滑。
+    - name: 初學者纜車限定 1 日券
       priceLines:
         - 成人：¥2,500
         - 小學生：¥1,500
-        - 兒童（學齡前）：免費
-      note: 僅可搭乘南區 First Chair 與北區 Friendly Cat Express
+        - 學齡前兒童：免費
+      note: 僅可搭乘南區 First Chair 與北區 Friendly Cat Express，限上述纜車運行時使用。
     - name: 夜滑券
       priceLines:
-        - 一律：¥2,500
-        - 兒童（學齡前）：免費
-      note: 16:30-20:00，夜滑營業日限定，對象纜車為南區 Alts Express
+        - 一律：¥2,700
+        - 學齡前兒童：免費
+      note: 使用時間為 16:30～20:00，限夜滑營業日及南區 Alts Express。
+    - name: 加購夜滑券
+      priceLines:
+        - 一律：¥1,000
+      note: 持當日有效的 1 日券或下午券可加購，限夜滑營業日使用。
+    - name: 南區兒童與初學者區入場券
+      priceLines:
+        - 一律：¥1,500
+        - 學齡前兒童：免費
+      note: 包含南區兒童與初學者區及雪上電扶梯；持符合條件的當日纜車券可免費入場，北區兒童區免費。
 snowWeather:
   title: 星野渡假村 貓魔滑雪場雪況天氣
   provider: Weathernews
@@ -100,21 +115,27 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
-  courseInfoPage: https://www.nekoma.co.jp/liftguide/
-  summary: 星野渡假村 貓魔滑雪場 是舊 Alts 磐梯與舊貓魔以連結纜車整合後的大型雪場，官方列出全 33 條雪道，包含南北雙區、夜滑、雪上公園、樹林滑行與粉雪區域。
+  courseInfoPage: https://www.nekoma.co.jp/liftguide/#status
+  summary: 星野渡假村 貓魔滑雪場由舊 Alts 磐梯與舊貓魔滑雪場連結而成，南北雙區共有 33 條雪道，標高 700～1,338m、最大斜度 33°、最長滑行距離 2,400m。初級 30%、中級 40%、高級 30%，從 Friendly、Peak4 等寬緩路線，到 Deep、Frozen、Black Valley 的粉雪、貓跳與樹林滑行，並配置多座雪上公園與夜滑路線，適合安排多樣化的長天數滑雪行程。
   details:
   - name: フレンドリーゲレンデ / Friendly
     difficulty: beginner
-    note: 官方說明為適合第一次滑雪的寬廣緩坡，可用初學者限定纜車券搭乘。
+    length: 900m
+    averageSlope: 7°
+    note: 寬廣緩坡，適合第一次滑雪；春季也能長時間滑行，旁設雪橇區，可使用初學者限定纜車券。
     videoLinks:
     - https://www.youtube.com/watch?v=flgiqIJr-fc&t=154s
   - name: ピーク４ / Peak4
     difficulty: beginner
-    note: 官方說明路線寬且坡度較緩，可用大彎滑行。
+    length: 980m
+    averageSlope: 10°
+    note: 路線寬且坡度較緩，適合練習大彎與地形動作。
     videoLinks:
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1007s
   - name: ズナイ２ / Zunai2
     difficulty: beginner
+    length: 700m
+    averageSlope: 10°
     note: 官方說明為抵達雪場後最先看見的雪道，適合初級者練習。
     videoLinks:
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=367s
@@ -125,70 +146,97 @@ courses:
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=707s
   - name: ホワイトバレー３ / White Valley3
     difficulty: beginner
-    note: 官方說明為通往南區深處的初級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    length: 230m
+    averageSlope: 8°
+    note: 通往南區深處的初級雪道。
     videoLinks:
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=140s
   - name: ブラックバレー３ / Black Valley3
     difficulty: beginner
+    length: 550m
+    averageSlope: 13°
     note: 官方說明是橫越急斜面的尾根路線，初級者可通過，但深入後會接近急斜面。
     videoLinks:
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1786s
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1960s
   - name: デビル1 / Devil1
     difficulty: intermediate
+    length: 800m
+    averageSlope: 17°
     note: 官方說明為寬廣舒適的中斜面，春季早朝營業時也有良好雪面。
     videoLinks:
     - https://www.youtube.com/watch?v=flgiqIJr-fc&t=613s
   - name: デビル3 / Devil3
     difficulty: intermediate
+    length: 700m
+    averageSlope: 17°
     note: 官方說明為常設公園路線，公園外也有地形變化。
     videoLinks:
     - https://www.youtube.com/watch?v=flgiqIJr-fc&t=437s
   - name: フォレスト1 / Forest1
     difficulty: intermediate
+    length: 350m
+    averageSlope: 11°
     note: 官方說明為前往 Deep 區域的路線，中段有中斜面，其餘較平緩。
     videoLinks:
     - https://www.youtube.com/watch?v=flgiqIJr-fc&t=73s
   - name: フォレスト3 / Forest3
     difficulty: intermediate
+    length: 1,100m
+    averageSlope: 15°
     note: 官方說明為森林中的澤地形路線，起點短中斜面後較容易滑行。
     videoLinks:
     - https://www.youtube.com/watch?v=flgiqIJr-fc&t=254s
   - name: エキサイト2 / Excite2
     difficulty: intermediate
+    length: 800m
+    averageSlope: 16°
     note: 官方說明起點稍陡，通過後接續中斜面，原則預定為壓雪雪道。
     videoLinks:
     - https://www.youtube.com/watch?v=flgiqIJr-fc&t=939s
   - name: ディープ2 / Deep2
     difficulty: intermediate
+    length: 1,200m
+    averageSlope: 15°
     note: 官方說明為沿尾根滑行、斜面變化明顯的路線，起點較陡需注意。
   - name: ピーク１ / Peak1
     difficulty: intermediate
+    length: 300m
+    averageSlope: 9°
     note: 官方說明為從山頂沿尾根下降、寬度稍窄的路線，需注意與前方滑行者的間距。
     videoLinks:
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1695s
   - name: ピーク２ / Peak2
     difficulty: intermediate
+    length: 350m
+    averageSlope: 19°
     note: 官方說明為景觀佳且有粉雪的隱藏路線，需要從 Frozen1 步行約 5 分鐘抵達。
   - name: フローズン１ / Frozen1
     difficulty: intermediate
+    length: 230m
+    averageSlope: 8°
     note: 官方說明為前往 Peak3 的連絡路線。
     videoLinks:
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1581s
   - name: フローズン2 / Frozen2
     difficulty: intermediate
+    length: 670m
+    averageSlope: 20°
     note: 官方說明無積雪時原則壓雪，有積雪時可享受粉雪，是可長距離巡航的路線。
     videoLinks:
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1355s
   - name: フローズン３ / Frozen3
     difficulty: intermediate
+    length: 1,050m
+    averageSlope: 10°
     note: 官方說明可穿越霧冰景觀，後段坡度較高，有中急斜面滑行感。
     videoLinks:
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1139s
   - name: ズナイ１ / Zunai1
     difficulty: intermediate
-    length: 2,000m
-    note: 官方說明為約 2km 長距離路線，也是夜滑舉辦路線。
+    length: 1,670m
+    averageSlope: 11°
+    note: 南區正面的長距離主線，與 Zunai2 串聯約 2,400m，也是夜滑路線。
     videoLinks:
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=77s
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=284s
@@ -197,17 +245,25 @@ courses:
     note: 官方說明為地形遊玩型的 Flowing Park。
   - name: バトウ２ / Batow2
     difficulty: intermediate
+    length: 800m
+    averageSlope: 16°
     note: 官方說明為彷彿滑向豬苗代湖的中急斜面。
   - name: ホワイトバレー１ / White Valley1
     difficulty: intermediate
+    length: 750m
+    averageSlope: 15°
     note: 官方說明為中級斜面，適合想做 carving 轉彎的滑行者。
     videoLinks:
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=571s
   - name: デビル2 / Devil2
     difficulty: advanced
+    length: 200m
+    averageSlope: 28°
     note: 官方說明為通往公園的急斜面，粉雪日可配合公園開放進入。
   - name: フォレスト2 / Forest2
     difficulty: advanced
+    length: 350m
+    averageSlope: 11°
     note: 官方說明為通往 Deep 的捷徑，地形會出現崖狀變化，需等積雪充分才開放。
   - name: エキサイト1 / Excite1
     difficulty: advanced
@@ -216,34 +272,52 @@ courses:
     - https://www.youtube.com/watch?v=flgiqIJr-fc&t=766s
   - name: ディープ1 / Deep1
     difficulty: advanced
+    length: 1,200m
+    averageSlope: 14°
     note: 官方說明為容易蓄積粉雪的路線，旺季會視積雪預報暫停纜車、蓄雪後再開放。
   - name: ピーク３ / Peak3
     difficulty: advanced
+    length: 570m
+    averageSlope: 13°
     note: 官方說明為南區代表性雪丘路線，降雪後粉雪可維持較久。
   - name: フローズン４ / Frozen4
     difficulty: advanced
+    length: 270m
+    averageSlope: 20°
     note: 官方說明為通往貓魔咖啡休息所的短距離急斜面。
   - name: バトウ１ / Batow1
     difficulty: expert
-    note: 官方說明為設置 Global Park 的超上級路線；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    length: 740m
+    averageSlope: 19°
+    note: 設置 Global Park 的超上級雪道，公園開放時會依活動配置調整。
   - name: ホワイトバレー２ / White Valley2
     difficulty: advanced
-    note: 官方說明滑行方向正面可看見磐梯山；目前官方來源未公開更細的全長、坡度或雪面特色描述。
+    length: 340m
+    averageSlope: 22°
+    note: 常時未壓雪的高級雪道，從四人纜車下站即可抵達，並可正面眺望磐梯山；容易形成貓跳地形。
   - name: ブラックバレー１ / Black Valley1
     difficulty: advanced
+    length: 660m
+    averageSlope: 17°
     note: 官方說明為南區急斜四兄弟之一，斜面有扭轉變化；公園設置期間會成為公園專用路線。
   - name: ブラックバレー２ / Black Valley2
     difficulty: advanced
+    length: 660m
+    averageSlope: 18°
     note: 官方說明為南區急斜四兄弟之一，另有初級者用迂迴路。
     videoLinks:
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1834s
   - name: ブラックバレー４ / Black Valley4
     difficulty: advanced
+    length: 500m
+    averageSlope: 13°
     note: 官方說明為南區急斜四兄弟之一，也稱 Alts Bahn，是寬廣平坦的急斜面。
     videoLinks:
     - https://www.youtube.com/watch?v=d5Uc9bj0M94&t=1978s
   - name: ブラックバレー５ / Black Valley5
     difficulty: expert
+    length: 270m
+    averageSlope: 20°
     note: 官方說明以象徵性岩石為特色，常時未壓雪，是接近崖面的急斜路線。
 lifts:
   total: 13
@@ -252,23 +326,37 @@ access:
     - label: 東京出發
       steps:
         - 東京站搭乘東北新幹線至郡山站。
-        - 從郡山站轉乘官方接駁巴士、路線巴士前往星野渡假村 貓魔滑雪場。
-      estimatedTime: 約 3-4 小時
+        - 從郡山站搭乘前往南區的付費接駁巴士，約 70 分鐘抵達。
+      estimatedTime: 約 2.5 小時
       difficulty: medium
-      note: 公開資料列出郡山站至雪場接駁約 70 分鐘；接駁需以官方當季資訊為準。依接駁與轉乘方式而定。
+      note: 郡山站至南區接駁巴士需預約，運行期間為 2026/12/12～2027/4/4，成人 ¥1,800、小學生 ¥900；接駁班次與預約規則請以官方公告為準。
       links:
         - label: NEKOMA Mountain Access
           url: https://www.nekoma.co.jp/access/
+  publicTransit:
+    - label: 會津若松站前往南區
+      steps:
+        - 從會津若松站前搭乘前往南區的路線巴士。
+        - 約 45 分鐘抵達南區（舊 Alts 磐梯）。
+      estimatedTime: 約 45 分鐘
+      difficulty: medium
+      note: 運行期間為 2026/12/12～2027/4/4，成人 ¥1,000、小學生 ¥500，路線巴士免預約。
+    - label: 裏磐梯住宿區前往北區
+      steps:
+        - 從裏磐梯地區主要住宿設施搭乘免費接送巴士前往北區（舊貓魔）。
+      estimatedTime: 依住宿地點而定
+      difficulty: easy
+      note: 運行期間與時刻表依季節變更，現階段請以官方公告為準；目前標示免預約。
   car:
     recommended: true
     snowTireRequired: true
-    note: 南區可由磐越自動車道磐梯河東 IC 前往，北區可由豬苗代磐梯高原 IC 前往；雪季需雪胎或雪鏈。
+    note: 南區可由磐越自動車道磐梯河東 IC 前往，北區可由豬苗代磐梯高原 IC 前往，最近交流道約 15 分鐘；雪季必須準備雪胎或雪鏈。南區停車約 2,000 台、北區約 1,000 台，停車規則依區域與日期而異。
 terrainSummary:
-  beginner: Friendly、Peak4、Zunai2、Panorama Line 等路線提供練習、景觀巡航與南北區銜接。
-  intermediate: Devil、Forest、Frozen、Zunai、Datto 與 White Valley 等中級路線構成主要巡航與地形遊玩區。
-  advanced: Excite、Deep、Peak3、Black Valley 與 Batow 等路線提供急斜面、雪丘、未壓雪與公園元素。
-  snowboard: 官方列有多座 snow park、地形公園與雪板可滑行區域，雙板與雪板規則請以官方公告為準。
-  powder: 北區 Deep 與南區 Frozen、Peak、Black Valley 周邊有粉雪、樹林與未壓雪取向路線，開放規則請以官方公告為準。
+  beginner: 初級雪道約 30%，Friendly、Peak4、Zunai2 與 Panorama Line 提供寬緩練習、景觀巡航與南北區銜接路線。
+  intermediate: 中級雪道約 40%，Devil、Forest、Frozen、Zunai、Datto 與 White Valley 等路線涵蓋壓雪巡航、地形遊玩與長距離滑行。
+  advanced: 高級雪道約 30%，Excite、Deep、Peak3、Black Valley 與 Batow 等路線提供急斜面、貓跳、未壓雪與公園元素，最大斜度達 33°。
+  snowboard: 雙板與雪板比例約各半，南北區均配置雪上公園、地形公園與兒童初學者區。
+  powder: 約 30% 為未壓雪區域，Deep、Frozen、Peak、Black Valley 與樹林滑行區可依降雪及開放狀況體驗粉雪。
 externalContent:
   blogs:
   - title: 星野磐梯山溫泉飯店，體驗「お洒落」時髦的大人感，豐盛早晚餐大滿足！
@@ -298,4 +386,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/nekoma/
 ---
 
-星野渡假村 貓魔滑雪場 位於福島縣磐梯雪區，南北面向帶來的雪況差異讓同一天行程能排出完全不同的滑感。你可以先在主雪道巡航，再把 park、林間感或積雪後的變化段落接進後半天。
+星野渡假村 貓魔滑雪場位於福島縣磐梯地區，由舊 Alts 磐梯與舊貓魔滑雪場連結而成。南北雙區共有 33 條雪道，從 Friendly、Peak4 等寬緩初級路線，到 Deep、Frozen、Black Valley 的粉雪、貓跳與樹林滑行，並配置雪上公園、兒童初學者區與夜滑路線，適合規劃多日且變化豐富的滑雪行程。
