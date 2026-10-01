@@ -2,8 +2,8 @@
 id: lotte-arai
 name:
   zhTw: 樂天新井
-  ja: ロッテアライリゾート
-  en: LOTTE ARAI RESORT
+  ja: アライマウンテンリゾート
+  en: ARAI SNOW RESORT
 region: kanto-koshinetsu
 prefecture: 新潟縣
 skiArea: myoko-kogen
