@@ -68,6 +68,10 @@ tickets:
   currency: JPY
   source: https://nozawaski.com/winter/lift_price/
   note: 官方 2026–2027 一般票價適用 2026/12/19–2027/3/28；票價均為含稅。兒童為國中生以下，未就學兒童在成人陪同下每位成人可免費帶 1 名；長者為 60 歲以上且須出示證明。IC 卡票券另需 ¥500 押金。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0028tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 1 日券
       priceLines:

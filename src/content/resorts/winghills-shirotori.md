@@ -52,6 +52,10 @@ tickets:
   currency: JPY
   source: https://winghills.net/snow/lift/
   note: 主要票種摘要，實際販售日、兒童區與其他時段券請以官方售票資訊為準。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0199tk.htm
+      deadline: "2027-03-07"
   plans:
     - name: 平日 1 日券
       priceLines:

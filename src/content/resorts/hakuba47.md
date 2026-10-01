@@ -61,6 +61,10 @@ tickets:
   currency: JPY
   source: https://www.hakuba47.co.jp/winter/ticket/lift_ticket/
   note: 2026-2027 年度 Hakuba47 與白馬五龍共通纜車票價；IC 卡保證金 ¥500 已含於票價，歸還卡片時退還。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0061tk.htm
+      deadline: "2026-12-15"
   plans:
     - name: Hakuba47 / Goryu 共通 1 日券（窗口）
       priceLines:

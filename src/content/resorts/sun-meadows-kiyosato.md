@@ -2,7 +2,7 @@
 id: sun-meadows-kiyosato
 name:
   zhTw: Sun Meadows 清里
-  ja: サンメドウズ清里 スキー場
+  ja: サンメドウズ清里スキー場
   en: Sun Meadows Kiyosato Ski Area
 region: kanto-koshinetsu
 prefecture: 山梨縣
@@ -42,6 +42,10 @@ tickets:
   currency: JPY
   source: https://www.sunmeadows.co.jp/winter/ticket/lift/#02
   note: 纜車運行時間為 8:30-16:30；預售票依平日、週末假日與特定日期分級，開幕與春季優惠另有適用期間。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0018tk.htm
+      deadline: "2027-03-27"
   plans:
     - name: 1 日券
       priceLines:

@@ -47,6 +47,10 @@ tickets:
   currency: JPY
   source: https://sakaeclub.jp/%e3%83%aa%e3%83%95%e3%83%88%e6%96%99%e9%87%91/
   note: 2026-2027 雪季票價。兒童為小學生、國中生，長者為 60 歲以上；平日季票不適用於 12/29 至 1/3。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0856tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 1 日券
       priceLines:

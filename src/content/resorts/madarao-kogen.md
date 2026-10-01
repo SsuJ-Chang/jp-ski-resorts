@@ -55,6 +55,13 @@ tickets:
   currency: JPY
   source: https://www.madarao.jp/ski/price
   note: 斑尾高原與 Tangram 全山共通券可使用兩座雪場纜車；IC 卡保證金 ¥500 另計。成人為國中生以上，兒童為 6～12 歲，長者為 55 歲以上，5 歲以下另有幼兒票。
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15176
+      deadline: "2026-12-11"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0202tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: Mountain Pass 1 日券
       priceLines:
@@ -125,10 +132,6 @@ tickets:
         - 兒童（6～12 歲）：¥36,500
         - 5 歲以下：¥9,000
       note: 可使用斑尾高原與 Tangram 全部纜車；斑尾高原可夜滑，Tangram 不含夜滑，且不可改名。
-  earlyBird:
-    - name: 完美行
-      url: https://tw.wamazing.com/snow/items/15176
-      deadline: "2026-12-11"
 snowWeather:
   title: 斑尾高原雪況天氣
   provider: Weathernews

@@ -59,6 +59,13 @@ tickets:
   season: 2026-2027
   currency: JPY
   source: https://www.tsugaike.gr.jp/snow/price
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0144tk.htm
+      deadline: "2026-11-30"
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
   plans:
     - name: 1 日券（窗口）
       priceLines:
@@ -85,13 +92,6 @@ tickets:
         - 成人：¥8,000
         - 兒童：¥5,600
       note: 初滑為開季至 12/11，春滑為 2027/3/23 至 5/5。
-  earlyBird:
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0144tk.htm
-      deadline: "2026-11-30"
-    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
-      url: https://tw.wamazing.com/snow/items/15083
-      deadline: "2026-12-10"
 snowWeather:
   title: 栂池高原雪況天氣
   provider: Weathernews

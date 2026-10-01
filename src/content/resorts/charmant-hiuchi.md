@@ -44,6 +44,10 @@ tickets:
   currency: JPY
   source: https://charmant-hiuchi.jp/price/
   note: 票價依官方公開資訊整理；票種、價格與營業時間可能依雪季及營運狀況調整，出發前請以官方公告與現場資訊為準。小人適用 3 歲至國中生，3 歲以下幼兒免費。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0782tk.htm
+      deadline: "2026-11-30"
   plans:
     - name: 1 日券
       priceLines:

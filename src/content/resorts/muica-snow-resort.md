@@ -44,6 +44,10 @@ tickets:
   currency: JPY
   source: https://www.muikamachi.com/ski/lift.php
   note: 票價依 2026-2027 雪季官方價目表整理；未就學兒童由持票家長陪同時纜車免費，實際販售、營業狀況與適用條件請以官方公告為準。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0039tk.htm
+      deadline: "2026-12-23"
   plans:
     - name: 1 日券
       priceLines:

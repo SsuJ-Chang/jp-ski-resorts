@@ -47,6 +47,10 @@ tickets:
   currency: JPY
   source: https://nobeyama.chateraiseski.jp/fee/
   note: 所列為 2025-2026 雪季官方一般票價。成人為高中生至 59 歲，長者為 60 歲以上，兒童為小學生及國中生，幼兒為學齡前兒童；野邊山與小海雪場的票券可共通使用，實際販售條件請以官方公告為準。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0106tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 1 日券
       priceLines:

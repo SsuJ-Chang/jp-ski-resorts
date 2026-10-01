@@ -54,6 +54,10 @@ tickets:
   currency: JPY
   source: https://www.komaruyama.jp/komaruyama/#page-rental
   note: 票價依官方「リフト料金」整理；兒童為 6 歲〜小學生，Senior 為 60 歲以上且需出示證明。纜車券於北志賀 Grand Hotel 纜車券售票處販售。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0851tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 1 日券
       priceLines:
@@ -86,10 +90,6 @@ tickets:
       priceLines:
         - 成人、兒童、Senior：¥1,500
       note: 需各自出示可確認為長野縣民的證件；夜滑營業時含夜滑券，並附餐廳小丸山 10% 折價券。
-  earlyBird:
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0112tk.htm
-      deadline: "2026-12-18"
 snowWeather:
   title: 小丸山雪況預報
   provider: Weathernews

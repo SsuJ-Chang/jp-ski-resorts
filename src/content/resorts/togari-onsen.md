@@ -56,6 +56,10 @@ tickets:
   currency: JPY
   source: https://togari.jp/winter/price/
   note: 兒童為小學生，國中生適用成人票價；長者為 55 歲以上，未就學兒童免費。官方頁也列有指導員資格者、身障者與介助者、季票、夜滑與團體季票等票種。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0171tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 1 日券
       priceLines:

@@ -59,6 +59,13 @@ tickets:
   currency: JPY
   source: https://www.princehotels.co.jp/ski/kagura/winter/lift/
   note: 全數為含稅價格。成人為國中生以上；小學生以下免費，但須於售票處領取專用票券。神樂票券可搭乘場內纜車、索道及神樂 Gondola，不能搭乘 Dragondola。
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0070tk.htm
+      deadline: "2026-11-15"
   plans:
     - name: 神樂區 1 日券
       priceLines:
@@ -84,10 +91,6 @@ tickets:
         - 成人 ¥9,800
         - 小學生以下免費
       note: 適用苗場、神樂、三俣、田代四區，包含 Dragondola。
-  earlyBird:
-    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
-      url: https://tw.wamazing.com/snow/items/15083
-      deadline: "2026-12-10"
 snowWeather:
   title: 神樂雪況天氣
   provider: Weathernews

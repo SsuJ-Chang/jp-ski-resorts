@@ -53,6 +53,13 @@ tickets:
   currency: JPY
   source: https://akr-ski.com/slope/#liftFee
   note: 主要票種依官方 2025-2026 票價表整理；小學生（12 歲以下）為兒童，未就學兒童免費；長者為 60 歲以上，須出示證明。票價與開放期間請以官方頁面為準。
+  earlyBird:
+    - name: 完美行【超早鳥優惠】纜車1日券
+      url: https://tw.wamazing.com/snow/items/15599
+      deadline: "2026-10-31"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0276tk.htm
+      deadline: "2026-10-31"
   plans:
     - name: 4 小時券
       priceLines:
@@ -73,13 +80,6 @@ tickets:
       priceLines:
         - 成人、國中生：¥8,500
         - 長者、兒童：¥6,800
-  earlyBird:
-    - name: 完美行【超早鳥優惠】纜車1日券
-      url: https://tw.wamazing.com/snow/items/15599
-      deadline: "2026-10-31"
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0276tk.htm
-      deadline: "2026-10-31"
 snowWeather:
   title: 赤倉觀光雪況天氣
   provider: Weathernews

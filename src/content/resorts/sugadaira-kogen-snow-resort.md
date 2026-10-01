@@ -55,6 +55,10 @@ tickets:
   currency: JPY
   source: https://sugadaira-snowresort.com/ticket/
   note: 另收 IC 卡保證金 ¥500，初次購票與部分區域購票規則以官方現場說明為準。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0108tk.htm
+      deadline: "2026-11-30"
   plans:
     - name: 全山共通 1 日券
       priceLines:

@@ -55,6 +55,13 @@ tickets:
   currency: JPY
   source: https://akakura-ski.com/
   note: 主要票種依官方 2025-2026 票價表整理；兒童（學齡前）免費，票價與販售條件請以官方頁面為準。
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15457
+      deadline: "2026-09-30"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0814tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 1 日券
       priceLines:
@@ -77,10 +84,6 @@ tickets:
         - 長者、國中生：¥6,800
         - 兒童（小學生以下）：¥2,500
       note: 官方列為包含夜滑的 1 日票種
-  earlyBird:
-    - name: 完美行
-      url: https://tw.wamazing.com/snow/items/15457
-      deadline: "2026-09-30"
 snowWeather:
   title: 赤倉溫泉雪況天氣
   provider: Weathernews

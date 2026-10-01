@@ -49,6 +49,10 @@ tickets:
   currency: JPY
   source: https://blanche-ski.com/winter/fee/
   note: 所列為 2025-2026 雪季官方一般票價，均含稅。幼兒為學齡前兒童、小學生票適用小學生、成人為國中生以上；長者為 55 至 69 歲、Gold 為 70 歲以上，購買年齡優惠票須出示證明。每月第 3 個週日，小學生以下纜車票免費。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0077tk.htm
+      deadline: "2026-11-30"
   plans:
     - name: 1 日券
       priceLines:

@@ -47,6 +47,13 @@ tickets:
   currency: JPY
   source: https://www.saku-parada.jp/ski/index.php#info
   note: 官網目前仍顯示 2025-2026 雪季票價；2026-2027 雪季的正式票價尚待公布。成人為高中生以上，長者為 60 歲以上，兒童為國小、國中生。
+  earlyBird:
+    - name: 資料北パラダスキー場
+      url: https://surfsnow.jp/guide/htm/r0105tk.htm
+      deadline: "2026-10-31"
+    - name: 資料南パラダスキー場
+      url: https://surfsnow.jp/guide/htm/r1021tk.htm
+      deadline: "2026-10-31"
   plans:
     - name: 1 日券
       priceLines:
@@ -66,13 +73,6 @@ tickets:
       priceLines:
         - 成人、長者 ¥2,300
         - 兒童、學齡前兒童 ¥1,500
-  earlyBird:
-    - name: 資料北パラダスキー場
-      url: https://surfsnow.jp/guide/htm/r0105tk.htm
-      deadline: "2026-10-31"
-    - name: 資料南パラダスキー場
-      url: https://surfsnow.jp/guide/htm/r1021tk.htm
-      deadline: "2026-10-31"
 snowWeather:
   title: 佐久 Ski Garden Parada雪況預報
   provider: Weathernews

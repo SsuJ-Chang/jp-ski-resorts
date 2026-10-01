@@ -61,6 +61,10 @@ tickets:
   currency: JPY
   source: https://iwa-ppara.com/price/
   note: 官網目前公開 2025-2026 雪季票價；夜滑結束時間平日、週日與連假最後一天為 19:00，週六為 20:00。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0298tk.htm
+      deadline: "2026-12-04"
   plans:
     - name: 下午暨夜滑入場券
       priceLines:

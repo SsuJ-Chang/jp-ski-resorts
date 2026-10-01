@@ -51,6 +51,10 @@ tickets:
   currency: JPY
   source: https://kurohime-kogen.co.jp/winter/fee-guide/
   note: 官網目前公開為 2025-2026 雪季票價。一般為國中生至 59 歲、長者為 60 歲以上、Junior 與犬隻為 3 歲至小學生及犬隻；Regular 指週末、國定假日與年末年初，weekday 指雪季平日。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0051tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 全區 3 小時券
       priceLines:

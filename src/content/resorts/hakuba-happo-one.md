@@ -62,6 +62,10 @@ tickets:
   currency: JPY
   source: https://www.happo-one.jp/ticket/
   note: 2026-2027 年度分為季初、高峰與春季價格；兒童票適用 6～17 歲，未滿 6 歲幼兒可免費搭乘纜車與雪場吊椅（需至售票處辦理）。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0142tk.htm
+      deadline: "2026-11-30"
   plans:
     - name: 季初 1 日券（12/1～12/18）
       priceLines:

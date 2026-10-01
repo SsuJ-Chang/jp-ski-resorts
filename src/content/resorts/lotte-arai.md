@@ -12,7 +12,7 @@ location:
   longitude: 138.18134829309744
 elevation:
   top: 1280
-  bottom: 329
+  bottom: 320
 tags:
 - family_friendly
 - large_ski_area
@@ -48,6 +48,22 @@ tickets:
   currency: JPY
   source: https://www.lottehotel.com/arai-resort/en/snow/ski-lift/economy-class
   note: 票價依 LOTTE ARAI RESORT 官方經濟艙票價頁整理；旺季頁面標示 2025/12/13–2026/3/22。19–49 歲為成人、50 歲以上為長者、7–18 歲為兒童，6 歲以下可於售票中心領取免費票；票種與營運期間可能依公告調整。
+  earlyBird:
+    - name: 完美行【早鳥優惠／經濟型】纜車1日券・雙板滑雪租借套組
+      url: https://tw.wamazing.com/snow/items/15364
+      deadline: "2026-11-30"
+    - name: 完美行【早鳥優惠／升等型】纜車1日券＋雙板滑雪租借套組
+      url: https://tw.wamazing.com/snow/items/15365
+      deadline: "2026-11-30"
+    - name: 完美行【早鳥優惠／經濟型】纜車1日券＋單板滑雪租借套組
+      url: https://tw.wamazing.com/snow/items/15366
+      deadline: "2026-11-30"
+    - name: 完美行【早鳥優惠／升等型】纜車1日券＋單板滑雪租借套組
+      url: https://tw.wamazing.com/snow/items/15367
+      deadline: "2026-11-30"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r1020tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 山麓區域券
       priceLines:
@@ -71,19 +87,6 @@ tickets:
         - 成人（19–49 歲）：¥14,500
         - 長者（50 歲以上）：¥13,500
         - 兒童（7–18 歲）：¥9,500
-  earlyBird:
-    - name: 完美行【早鳥優惠／經濟型】纜車1日券・雙板滑雪租借套組
-      url: https://tw.wamazing.com/snow/items/15364
-      deadline: "2026-11-30"
-    - name: 完美行【早鳥優惠／升等型】纜車1日券＋雙板滑雪租借套組
-      url: https://tw.wamazing.com/snow/items/15365
-      deadline: "2026-11-30"
-    - name: 完美行【早鳥優惠／經濟型】纜車1日券＋單板滑雪租借套組
-      url: https://tw.wamazing.com/snow/items/15366
-      deadline: "2026-11-30"
-    - name: 完美行【早鳥優惠／升等型】纜車1日券＋單板滑雪租借套組
-      url: https://tw.wamazing.com/snow/items/15367
-      deadline: "2026-11-30"
 snowWeather:
   title: 樂天新井雪況天氣
   provider: Weathernews

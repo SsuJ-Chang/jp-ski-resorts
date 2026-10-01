@@ -54,6 +54,13 @@ tickets:
   currency: JPY
   source: https://alpenblick-resort.com/ski/26-27-ticket-info#lift-ticket
   note: 官方 2026–2027 一般纜車票價均為含稅價格，另需 IC 卡押金 ¥500（歸還卡片時退還）。成人為國中生以上，長者為 60 歲以上；未就學兒童免費。
+  earlyBird:
+    - name: 完美行【超早鳥優惠】纜車1日券
+      url: https://tw.wamazing.com/snow/items/15364
+      deadline: "2026-09-30"
+    - name: 完美行【超早鳥優惠】纜車4小時券
+      url: https://tw.wamazing.com/snow/items/15313
+      deadline: "2026-09-30"
   plans:
     - name: 1 日券
       priceLines:
@@ -80,13 +87,6 @@ tickets:
         - 成人：¥5,900
         - 長者、國中生：¥5,000
         - 小學生：¥3,500
-  earlyBird:
-    - name: 完美行【超早鳥優惠】纜車1日券
-      url: https://tw.wamazing.com/snow/items/15364
-      deadline: "2026-09-30"
-    - name: 完美行【超早鳥優惠】纜車4小時券
-      url: https://tw.wamazing.com/snow/items/15313
-      deadline: "2026-09-30"
 snowWeather:
   title: 池之平雪況天氣
   provider: Weathernews

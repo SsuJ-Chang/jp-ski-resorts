@@ -59,6 +59,10 @@ tickets:
   currency: JPY
   source: https://www.hakubaescal.com/winter/tickets/lift/
   note: 2026-2027 年度共通纜車票價摘要，適用白馬五龍與 Hakuba47；線上購票、季節優惠與年齡證明規則以官方票價頁為準。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0041tk.htm
+      deadline: "2026-12-15"
   plans:
     - name: 1 日券
       priceLines:

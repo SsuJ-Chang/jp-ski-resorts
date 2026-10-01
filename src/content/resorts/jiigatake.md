@@ -55,6 +55,13 @@ tickets:
   currency: JPY
   source: https://jiigatake.com/price/
   note: 2026-2027 年度票價；兒童票適用 3 歲至國中生，學生須出示學生證，熟齡票適用 60 歲以上並須出示證明。寵物票適用於有提供的票種。
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15324
+      deadline: "2026-12-18"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0857tk.htm
+      deadline: "2026-12-18"
   plans:
     - name: 1 日券
       priceLines:
@@ -93,13 +100,6 @@ tickets:
       priceLines:
         - 成人：¥500
         - 兒童：¥400
-  earlyBird:
-    - name: 完美行
-      url: https://tw.wamazing.com/snow/items/15324
-      deadline: "2026-12-18"
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0857tk.htm
-      deadline: "2026-12-18"
 snowWeather:
   title: 爺岳雪況天氣
   provider: Weathernews

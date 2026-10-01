@@ -50,6 +50,13 @@ tickets:
   currency: JPY
   source: https://www.kumanoyu.co.jp/lift/index.html#ticket
   note: 熊之湯限定票價；成人為18至59歲、長者為60歲以上、兒童為0歲至小學生。
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15071
+      deadline: "2026-10-31"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0294tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 熊之湯限定券
       priceLines:
@@ -73,10 +80,6 @@ tickets:
       priceLines:
         - 夜間券（18:30-21:00）：成人3,000日圓 / 兒童1,500日圓
         - 早朝券（6:00-8:30）：成人2,500日圓 / 中高校生與長者2,300日圓 / 兒童1,700日圓
-  earlyBird:
-    - name: 完美行
-      url: https://tw.wamazing.com/snow/items/15071
-      deadline: "2026-10-31"
 snowWeather:
   title: 熊之湯雪況天氣
   provider: Official

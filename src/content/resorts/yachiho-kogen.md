@@ -43,6 +43,10 @@ tickets:
   currency: JPY
   source: https://yachiho-kogen.com/ski/charge.html
   note: 票價依官方頁整理；成人為 18〜49 歲，高中生 / Middle 為高中生與 50 歲以上，兒童為國中生以下，幼兒為學齡前兒童。年末年始 12/29〜1/3 適用週末及國定假日料金。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0840tk.htm
+      deadline: "2026-11-30"
   plans:
     - name: 1 日券
       priceLines:

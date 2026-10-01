@@ -45,6 +45,10 @@ tickets:
   currency: JPY
   source: https://kijimadaira-ski.com/charge/
   note: 成人為國中生以上，長者為 60 歲以上。各纜車票另收 ¥500 IC 卡保證金，歸還可再次使用的卡片時退還；學齡前兒童可於售票處領取免費票，但仍須支付 ¥500 保證金。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0027tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 下午券
       priceLines:

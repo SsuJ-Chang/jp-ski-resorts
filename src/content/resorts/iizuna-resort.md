@@ -50,6 +50,10 @@ tickets:
   currency: JPY
   source: https://iizunaresort.com/reservation/
   note: 所列為 2025-2026 雪季官方票價，週末及國定假日同價。成人為高中生至 59 歲，長者為 60 歲以上，兒童為 3 歲至國中生。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0006tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 日間 1 日券
       priceLines:

@@ -55,6 +55,10 @@ tickets:
   currency: JPY
   source: https://www.takasumountains.com/lift/
   note: TAKASU MOUNTAINS 6 雪場共通券摘要；全山共通券不含 Dynaland 夜滑，夜滑需另購夜滑券。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0231tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 6 雪場共通 1 日券
       priceLines:

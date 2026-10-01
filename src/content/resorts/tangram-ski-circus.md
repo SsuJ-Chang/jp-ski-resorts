@@ -48,6 +48,10 @@ tickets:
   currency: JPY
   source: https://www.tangram.jp/ski/ticket/ticket.php
   note: 另收 IC 卡押金 ¥500，歸還時退還。原則上搭乘纜車需穿著滑雪板或單板；野尻湖露台觀光纜車除外。夜滑僅限指定夜滑日使用。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0016tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 1日券
       priceLines:

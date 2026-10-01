@@ -49,6 +49,10 @@ tickets:
   currency: JPY
   source: http://gakutoresort.jp/facility/
   note: 官網現行公開票價。兒童為國小至高中生，長者為 60 歲以上；學齡前兒童纜車免費。10 人以上可洽詢團體優惠。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0229tk.htm
+      deadline: "2026-11-30"
   plans:
     - name: 1 日券
       priceLines:

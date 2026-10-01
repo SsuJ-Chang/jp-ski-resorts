@@ -51,6 +51,10 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://shigakogen.co.jp/winter/lift-price/
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0280tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 中央エリア 1 日券（12/20-3/31）
       priceLines:

@@ -57,6 +57,10 @@ tickets:
   currency: JPY
   source: https://jkokusai.co.jp/ski/lift/
   note: 入場券可搭乘纜車；成人為國中生以上、兒童為3歲至小學生、長者為60歲以上。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0037tk.htm
+      deadline: "2026-12-04"
   plans:
     - name: 1日入場券
       priceLines:

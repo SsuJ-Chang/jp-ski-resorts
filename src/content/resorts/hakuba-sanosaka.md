@@ -54,6 +54,13 @@ tickets:
   currency: JPY
   source: https://sanosaka.jp/lift/
   note: 2025-2026 冬季票價；成人為國中生以上，未就學兒童免費但仍需辦理纜車券。小學生 1 日券分為 A、B 兩種，B 券包含 Snow Friends Park 入場。
+  earlyBird:
+    - name: 完美行
+      url: https://tw.wamazing.com/snow/items/15142
+      deadline: "2026-12-07"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0326tk.htm
+      deadline: "2026-12-07"
   plans:
     - name: 1 日券
       priceLines:
@@ -81,13 +88,6 @@ tickets:
       priceLines:
         - 成人：¥1,500
         - 小學生：¥1,500
-  earlyBird:
-    - name: 完美行
-      url: https://tw.wamazing.com/snow/items/15142
-      deadline: "2026-12-07"
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0326tk.htm
-      deadline: "2026-12-07"
 snowWeather:
   title: 白馬佐野坂雪況天氣
   provider: Weathernews

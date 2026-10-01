@@ -55,6 +55,10 @@ tickets:
   currency: JPY
   source: https://www.park-resort.com/ski/price/
   note: 票價依官方價格頁整理，服務日與營業日期以當季公告為準；一般票價的適用資格請於購票時依現場規定確認。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0154tk.htm
+      deadline: "2026-12-13"
   plans:
     - name: 1 日券
       priceLines:

@@ -58,6 +58,10 @@ tickets:
   currency: JPY
   source: https://www.yuzawa-nakazato.com/winter/fee/
   note: 官網目前公開 2025-2026 雪季票價；未滿學齡兒童符合條件時可免費搭乘，身心障礙者可購買優惠票。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0046tk.htm
+      deadline: "2026-12-18"
   plans:
     - name: 1 日券
       priceLines:
@@ -82,10 +86,6 @@ tickets:
         - 國中生以上 ¥4,000
         - 小學生 ¥2,000
       note: 須出示身心障礙手冊；必要陪同者 1 名可享同額票價。
-  earlyBird:
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0046tk.htm
-      deadline: "2026-12-18"
 snowWeather:
   title: 湯澤中里雪況天氣
   provider: Official / Weathernews

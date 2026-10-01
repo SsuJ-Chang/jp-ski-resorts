@@ -54,6 +54,10 @@ tickets:
   currency: JPY
   source: https://okushigakogenresort.com/winter/ski/
   note: 奧志賀高原區域限定主要票種摘要；另有早朝券、單次券與 gondola 票，完整規則請以官方頁面為準。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0160tk.htm
+      deadline: "2026-11-30"
   plans:
     - name: 初滑、春季 1 日券
       priceLines:

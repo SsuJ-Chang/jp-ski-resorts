@@ -49,6 +49,10 @@ tickets:
   currency: JPY
   source: https://karuizawa-snowpark.com/ticket-rental/
   note: 票價依平日、週末及特定日區分；成人為國中生至 59 歲，兒童為 4 歲至小學生，長者為 60 歲以上，3 歲以下免費。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0166tk.htm
+      deadline: "2026-12-11"
   plans:
     - name: 平日纜車 1 日券
       priceLines:
@@ -152,10 +156,6 @@ tickets:
       priceLines:
         - 成人：¥2,000
         - 兒童：¥1,500
-  earlyBird:
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0166tk.htm
-      deadline: "2026-09-30"
 snowWeather:
   title: 輕井澤 Snow Park雪況天氣
   provider: Weathernews

@@ -50,6 +50,10 @@ tickets:
   currency: JPY
   source: https://www.takasumountains.com/lift/
   note: TAKASU MOUNTAINS 6 雪場共通券摘要；單獨券與 Sunrise 營業請以官方頁面為準。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0194tk.htm
+      deadline: "2027-03-28"
   plans:
     - name: 6 雪場共通 1 日券
       priceLines:
@@ -57,10 +61,6 @@ tickets:
         - 兒童：¥3,800
         - 長者：¥5,500
         - 國中生、高中生：¥4,500
-  earlyBird:
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0194tk.htm
-      deadline: "2026-03-28"
 snowWeather:
   title: White Pia 高鷲雪況天氣
   provider: Weathernews

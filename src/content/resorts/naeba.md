@@ -59,6 +59,13 @@ tickets:
   currency: JPY
   source: https://www.princehotels.co.jp/ski/naeba/winter/lift/
   note: 全部票價為含稅價格；成人為國中生以上，小學生以下免費但須於售票處領取專用票券。Mt. Naeba 券可通用苗場與神樂（神樂、三俣、田代）四區；8 小時券與 4 小時券不可搭乘 Dragondola 或使用神樂滑雪場。
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0047tk.htm
+      deadline: "2026-11-15"
   plans:
     - name: Mt. Naeba 共通 1 日券
       priceLines:
@@ -78,10 +85,6 @@ tickets:
       priceLines:
         - 成人：¥6,300
       note: 不可搭乘 Dragondola 或使用神樂滑雪場。
-  earlyBird:
-    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
-      url: https://tw.wamazing.com/snow/items/15083
-      deadline: "2026-12-10"
 snowWeather:
   title: 苗場雪況天氣
   provider: Weathernews
