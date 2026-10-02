@@ -103,6 +103,7 @@ shiga-kogen
 
 ```txt
 beginner_friendly
+early_bird
 family_friendly
 good_for_first_japan_trip
 large_ski_area
@@ -115,6 +116,8 @@ resort_village
 snowboard_friendly
 tree_run
 ```
+
+`early_bird` 由系統依 `tickets.earlyBird` 自動判斷；只要任一筆 `deadline` 大於或等於台灣當日日期，就會加入「早鳥」標籤，無需手動填入。
 
 `long_run` 使用規則：
 

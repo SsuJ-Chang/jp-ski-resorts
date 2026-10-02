@@ -2,6 +2,7 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro'
 import { tagLabels } from '../../../data/tags'
 import { getPublishedResorts } from '../../../utils/resortCatalog'
+import { getResortTags } from '../../../utils/resortTags'
 import { withBasePath } from '../../../utils/paths'
 
 const difficultyLabels = {
@@ -25,6 +26,7 @@ export async function getStaticPaths() {
 }
 
 const { resort } = Astro.props
+const resortTags = getResortTags(resort)
 const courseDetails = resort.data.courses?.details ?? []
 const previewCourseCount = 3
 const difficultyOrder = ['beginner', 'intermediate', 'advanced', 'expert', 'ungroomed', 'mixed'] as const
@@ -63,7 +65,7 @@ const courseGroups = difficultyOrder
       <p class="eyebrow">Course guide</p>
       <h1 id="page-title">{resort.data.name.zhTw}</h1>
       <div class="tag-list">
-        {resort.data.tags.map((tag) => (
+        {resortTags.map((tag) => (
           <span>{tagLabels[tag]}</span>
         ))}
       </div>

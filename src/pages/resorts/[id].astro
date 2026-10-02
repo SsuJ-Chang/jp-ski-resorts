@@ -9,6 +9,7 @@ import { getPublishedResorts } from '../../utils/resortCatalog'
 import { withBasePath } from '../../utils/paths'
 import { getPublishedSkiAreaMap } from '../../utils/skiAreas'
 import { getResortPrefecture } from '../../utils/resortBrowse'
+import { getResortTags } from '../../utils/resortTags'
 
 export async function getStaticPaths() {
   const resorts = await getPublishedResorts()
@@ -25,6 +26,7 @@ const region = regions.find((item) => item.key === resort.data.region)
 const prefecture = getResortPrefecture(resort)
 const publishedSkiAreas = await getPublishedSkiAreaMap()
 const skiArea = resort.data.skiArea ? publishedSkiAreas.get(resort.data.skiArea) : undefined
+const resortTags = getResortTags(resort)
 
 const hasExternalContent =
   (resort.data.externalContent?.blogs?.length ?? 0) > 0 ||
@@ -386,7 +388,7 @@ const resortStructuredData = [
         )}
       </div>
       <div class="tag-list tag-list--large" aria-label={`${resort.data.name.zhTw} tags`}>
-        {resort.data.tags.map((tag) => (
+        {resortTags.map((tag) => (
           <span>{tagLabels[tag]}</span>
         ))}
       </div>

@@ -1,5 +1,6 @@
 export const resortTags = [
   'beginner_friendly',
+  'early_bird',
   'family_friendly',
   'good_for_first_japan_trip',
   'large_ski_area',
@@ -16,6 +17,7 @@ export const resortTags = [
 export type ResortTag = (typeof resortTags)[number]
 
 export const tagLabels: Record<ResortTag, string> = {
+  early_bird: '早鳥',
   beginner_friendly: '初學友善',
   family_friendly: '親子友善',
   good_for_first_japan_trip: '第一次日本滑雪可考慮',

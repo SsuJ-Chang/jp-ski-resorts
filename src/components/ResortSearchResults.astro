@@ -5,6 +5,7 @@ import { regions } from '../data/regions'
 import { withBasePath } from '../utils/paths'
 import { getResortPrefecture } from '../utils/resortBrowse'
 import { getPublishedSkiAreaMap } from '../utils/skiAreas'
+import { getResortTags } from '../utils/resortTags'
 
 type Props = {
   resorts: ResortEntry[]
@@ -35,6 +36,7 @@ const toSearchText = (parts: Array<string | undefined>) =>
 
 <section class="resort-grid" aria-label={ariaLabel} data-resort-results data-source-area={sourceArea}>
   {resorts.map((resort) => {
+    const tags = getResortTags(resort)
     const prefecture = getResortPrefecture(resort)
     const prefectureKey = prefecture?.key ?? ''
     const region = regionByKey.get(resort.data.region)
@@ -89,7 +91,7 @@ const toSearchText = (parts: Array<string | undefined>) =>
         data-resort-prefecture={resort.data.prefecture}
         data-source-area={sourceArea}
         data-prefecture-key={prefectureKey}
-        data-tags={resort.data.tags.join(' ')}
+        data-tags={tags.join(' ')}
       >
         <div>
           <p class="resort-card__meta">
@@ -99,7 +101,7 @@ const toSearchText = (parts: Array<string | undefined>) =>
           <p>{resort.data.name.en}</p>
         </div>
         <div class="tag-list" aria-label={`${resort.data.name.zhTw} tags`}>
-          {resort.data.tags.slice(0, 4).map((tag) => (
+          {tags.slice(0, 4).map((tag) => (
             <span>{tagLabels[tag]}</span>
           ))}
         </div>

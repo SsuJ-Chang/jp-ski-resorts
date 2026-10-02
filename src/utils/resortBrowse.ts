@@ -6,6 +6,7 @@ import {
   type Prefecture,
   type PrefectureKey,
 } from '../data/prefectures'
+import { getResortTags } from './resortTags'
 import type { ResortEntry } from './resorts'
 
 export type PrefectureStat = Prefecture & {
@@ -53,7 +54,7 @@ export function getTagStats(resorts: ResortEntry[]) {
   const countByTag = new Map<ResortTag, number>()
 
   for (const resort of resorts) {
-    for (const tag of resort.data.tags) {
+    for (const tag of getResortTags(resort)) {
       countByTag.set(tag, (countByTag.get(tag) ?? 0) + 1)
     }
   }
