@@ -1,12 +1,20 @@
 ---
 type Props = {
   resortsUrl: string
+  searchIndexUrl: string
 }
 
-const { resortsUrl } = Astro.props
+const { resortsUrl, searchIndexUrl } = Astro.props
 ---
 
-<form class="site-search" data-site-search data-resorts-url={resortsUrl} role="search">
+<!-- data-search-index-url 指向建置時產生的靜態搜尋索引。 -->
+<form
+  class="site-search"
+  data-site-search
+  data-resorts-url={resortsUrl}
+  data-search-index-url={searchIndexUrl}
+  role="search"
+>
   <div class="site-search__field">
     <input
       id="site-search-input"
@@ -22,6 +30,13 @@ const { resortsUrl } = Astro.props
       </svg>
     </button>
   </div>
+  <div
+    class="search-suggestions"
+    data-search-suggestions
+    role="listbox"
+    aria-label="搜尋建議"
+    hidden
+  ></div>
   <button
     class="site-search__toggle"
     type="button"
@@ -37,47 +52,7 @@ const { resortsUrl } = Astro.props
 </form>
 
 <script>
-  const initHeaderSearch = () => {
-    for (const searchForm of document.querySelectorAll('[data-site-search]')) {
-      const form = searchForm as HTMLFormElement
-      const input = form.querySelector('input[type="search"]') as HTMLInputElement | null
-      const toggle = form.querySelector('.site-search__toggle') as HTMLButtonElement | null
-      const resortsUrl = form.dataset.resortsUrl ?? '/resorts/'
+  import initializeSiteSearch from '../scripts/siteSearch.ts'
 
-      toggle?.addEventListener('click', () => {
-        const isOpen = form.classList.toggle('site-search--open')
-        toggle.setAttribute('aria-expanded', String(isOpen))
-        toggle.setAttribute('aria-label', isOpen ? '收起搜尋' : '開啟搜尋')
-
-        if (isOpen) {
-          input?.focus()
-          return
-        }
-
-        if (input) input.value = ''
-      })
-
-      input?.addEventListener('keydown', (event) => {
-        if (event.key !== 'Enter') return
-
-        event.preventDefault()
-        form.requestSubmit()
-      })
-
-      form.addEventListener('submit', (event) => {
-        event.preventDefault()
-
-        const query = input?.value.trim() ?? ''
-        if (input) input.value = ''
-
-        window.location.assign(query ? `${resortsUrl}?q=${encodeURIComponent(query)}` : resortsUrl)
-      })
-    }
-  }
-
-  if (document.readyState === 'complete') {
-    initHeaderSearch()
-  } else {
-    window.addEventListener('load', initHeaderSearch, { once: true })
-  }
+  initializeSiteSearch()
 </script>

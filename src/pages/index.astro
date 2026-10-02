@@ -121,6 +121,7 @@ const websiteStructuredData = {
             method="get"
             data-site-search
             data-resorts-url={withBasePath('/resorts/')}
+            data-search-index-url={withBasePath('/search-index.json')}
             role="search"
             aria-label="搜尋雪場"
           >
@@ -137,6 +138,13 @@ const websiteStructuredData = {
                 <path d="M5 12h12m-5-5 5 5-5 5" />
               </svg>
             </button>
+            <div
+              class="search-suggestions"
+              data-search-suggestions
+              role="listbox"
+              aria-label="搜尋建議"
+              hidden
+            ></div>
           </form>
           <div class="home-quick-tags" aria-label="依滑雪情境快速找雪場">
             <div class="home-quick-tags__list">

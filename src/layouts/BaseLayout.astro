@@ -33,6 +33,9 @@ const {
 } = Astro.props
 const currentYear = new Date().getFullYear()
 const resortListPath = withBasePath('/resorts/')
+// Header 搜尋與首頁搜尋共用同一份靜態索引，並透過 withBasePath
+// 確保部署在子路徑時仍能找到正確 URL。
+const searchIndexPath = withBasePath('/search-index.json')
 const contactPath = withBasePath('/contact/')
 const aboutPath = withBasePath('/about/')
 const siteUrl = Astro.site ?? new URL('https://jp-resorts.rj-tw.com')
@@ -117,7 +120,9 @@ const isHomePage = Astro.url.pathname === withBasePath('/')
             <button class="site-header__popular-trigger" type="button" data-popular-open>熱門排行</button>
           )}
         </nav>
-        {showHeaderSearch && <HeaderSearch resortsUrl={resortListPath} />}
+        {showHeaderSearch && (
+          <HeaderSearch resortsUrl={resortListPath} searchIndexUrl={searchIndexPath} />
+        )}
       </div>
     </header>
     <slot />
