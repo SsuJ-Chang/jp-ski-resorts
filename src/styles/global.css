@@ -908,6 +908,7 @@ h1 {
 }
 
 .region-strip {
+  position: relative;
   display: grid;
   grid-template-columns: max-content minmax(0, 1fr);
   gap: 12px;
@@ -921,8 +922,42 @@ h1 {
   background: rgba(255, 255, 255, 0.78);
   box-shadow: 0 10px 34px rgba(23, 33, 31, 0.08);
   color: inherit;
+  isolation: isolate;
+  overflow: hidden;
   text-decoration: none;
   transform: translateX(calc(var(--index) * -8px));
+}
+
+/*
+ * 三條約 60 度的斜線切出四個區域；色彩由左側的淡色逐漸往右加深。
+ * 最右側保留明確的代表色，而非白色底；桌機 hover 卡與手機區域卡共用。
+ */
+.region-strip::before,
+.home-map-hover-card::before {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    120deg,
+    color-mix(in srgb, white 96%, var(--region-color)) 0 44%,
+    color-mix(in srgb, white 54%, var(--region-color)) 44% calc(44% + 0px),
+    color-mix(in srgb, white 87%, var(--region-color)) calc(44% + 0px) 60%,
+    color-mix(in srgb, white 54%, var(--region-color)) 60% calc(60% + 0px),
+    color-mix(in srgb, white 74%, var(--region-color)) calc(60% + 0px) 78%,
+    color-mix(in srgb, white 54%, var(--region-color)) 78% calc(78% + 0px),
+    color-mix(in srgb, white 54%, var(--region-color)) calc(78% + 0px) 100%
+  );
+  content: '';
+  opacity: 0.55;
+  pointer-events: none;
+  transition: filter 160ms ease, opacity 160ms ease;
+}
+
+.region-strip > *,
+.home-map-hover-card > * {
+  position: relative;
+  z-index: 1;
 }
 
 .region-strip__name {
@@ -961,9 +996,15 @@ h1 {
 
 .region-strip:hover,
 .region-strip:focus-visible {
-  background: rgba(255, 255, 255, 0.94);
-  outline: 2px solid rgba(29, 93, 100, 0.22);
+  background: color-mix(in srgb, var(--region-fill) 18%, white);
+  outline: 2px solid color-mix(in srgb, var(--region-color) 38%, transparent);
   outline-offset: 2px;
+}
+
+.region-strip:hover::before,
+.region-strip:focus-visible::before {
+  filter: saturate(1.12);
+  opacity: 1;
 }
 
 .region-strip__name {
@@ -980,49 +1021,42 @@ h1 {
   --region-color: #1f8a9e;
   --region-fill: #74c7d3;
   --region-fill-hover: #43adbf;
-  border-left: 6px solid var(--region-color);
 }
 
 .region-strip--snow {
   --region-color: #4b77be;
   --region-fill: #9cb8e5;
   --region-fill-hover: #6f95d3;
-  border-left: 6px solid var(--region-color);
 }
 
 .region-strip--access {
   --region-color: #d94f3d;
   --region-fill: #ee9a8e;
   --region-fill-hover: #e56f60;
-  border-left: 6px solid var(--region-color);
 }
 
 .region-strip--coast {
   --region-color: #2e9d62;
   --region-fill: #84d1a4;
   --region-fill-hover: #55b97f;
-  border-left: 6px solid var(--region-color);
 }
 
 .region-strip--alps {
   --region-color: #7c5cc4;
   --region-fill: #b7a5e2;
   --region-fill-hover: #967bd3;
-  border-left: 6px solid var(--region-color);
 }
 
 .region-strip--weekend {
   --region-color: #c8891f;
   --region-fill: #e5bf6c;
   --region-fill-hover: #d9a23b;
-  border-left: 6px solid var(--region-color);
 }
 
 .region-strip--south {
   --region-color: #c7477a;
   --region-fill: #e797b9;
   --region-fill-hover: #d96a99;
-  border-left: 6px solid var(--region-color);
 }
 
 .japan-region-map {
@@ -1058,15 +1092,18 @@ h1 {
   position: absolute;
   inset: auto 0 0 auto;
   display: grid;
+  grid-template-columns: 1fr;
+  align-content: center;
   gap: 8px;
   width: 100%;
   min-height: 86px;
   padding: 16px 18px 16px 16px;
   border: 1px solid rgba(23, 33, 31, 0.14);
-  border-left: 6px solid var(--region-color);
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.9);
   box-shadow: 0 18px 42px rgba(23, 33, 31, 0.14);
+  isolation: isolate;
+  overflow: hidden;
   opacity: 0;
   transform: translateY(8px);
   transition:
