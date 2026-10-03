@@ -98,7 +98,7 @@ const toSearchText = (parts: Array<string | undefined>) =>
             {metaParts.join(' / ')}
           </p>
           <h2>{resort.data.name.zhTw}</h2>
-          <p>{resort.data.name.en}</p>
+          <p class="resort-card__english">{resort.data.name.en}</p>
         </div>
         <div class="tag-list" aria-label={`${resort.data.name.zhTw} tags`}>
           {tags.slice(0, 4).map((tag) => (
