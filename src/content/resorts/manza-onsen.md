@@ -39,32 +39,36 @@ contact:
   phone: 0279-97-3117
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/19-2027/03/22
-  hours: 平日：8:30〜16:30（平日・週日・國定假日） 假日：8:30〜17:00（週六・年末年始・連休中日）
-  note: 2026-2027 雪季預計於 2026/12/19 開幕；實際營業期間、開放雪道與營業時間請以官方公告為準。
-  source: https://www.princehotels.co.jp/ski/manza/winter/coursemap/
+  operatingPeriod: 2026/12/19～2027/3/22
+  hours: 平日、週日與國定假日 8:30～16:30；週六、年末年始與連休中日 8:30～17:00
+  note: 2026-2027 雪季預定於 12/19 開幕；平日、週日與國定假日營業至 16:30，週六、年末年始與連休中日營業至 17:00，實際營業期間與運行狀況依官方公告調整。
+  source: https://www.princehotels.co.jp/ski/manza/winter/lift/
 trailMaps:
 - label: 萬座溫泉官方雪道資訊
   language: 日本語
   season: 2026-2027
-  url: https://www.princehotels.co.jp/ski/manza/winter/coursemap/
+  url: https://www.princehotels.co.jp/file.jsp?id=520910
   sourceLabel: Manza Onsen Ski Resort Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.princehotels.co.jp/ski/manza/winter/lift/#lift-fee
-  note: 官方票價頁目前公開的是 2025-2026 縮小營業期間的特別票價；2026-2027 票價尚待官方更新。
+  note: 2026-2027 雪季成人為國中生以上，小學生以下免費，須於售票處領取專用票券；票價均含稅，長者優惠未另列，會員可享 SEIBU PRINCE GLOBAL REWARDS 會員價。
   plans:
     - name: 1 日券
       priceLines:
-        - 成人：一般 ¥3,000 / SEIBU PRINCE CLUB 會員 ¥2,800
-        - 兒童（小學生以下）：免費
-      note: 2025/12/20 ~ 2026/3/22 適用；兒童需至售票處領取專用票券。
+        - 成人：¥6,300
+        - SEIBU PRINCE GLOBAL REWARDS 會員：¥5,800
+        - 小學生以下：免費
+      note: 小學生以下須至售票處領取專用票券。
+    - name: 4 小時券
+      priceLines:
+        - 成人：¥5,800
+        - SEIBU PRINCE GLOBAL REWARDS 會員：¥5,300
     - name: 1 回券
       priceLines:
         - 成人：¥1,000
-        - 兒童（小學生以下）：免費
-      note: 2025-2026 雪季內可使用。
+      note: 本雪季內可使用；小學生以下免費。
   earlyBird:
     - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://tw.wamazing.com/snow/items/15083
@@ -178,7 +182,7 @@ access:
     - 從輕井澤站搭乘西武觀光巴士，經萬座・鹿澤口站前往萬座溫泉。
     - 抵達萬座溫泉後前往萬座溫泉滑雪場。
     difficulty: medium
-    note: 官方交通頁提供輕井澤站、萬座・鹿澤口站與萬座溫泉之間的路線巴士時刻表連結，班次請依當季公告確認。
+    note: 官方交通頁提供輕井澤站、萬座・鹿澤口站與萬座溫泉之間的西武觀光巴士時刻表連結；班次與運行期間依當季公告確認。
     links:
     - label: 官方交通資訊
       url: https://www.princehotels.co.jp/ski/manza/winter/access/
@@ -195,4 +199,4 @@ terrainSummary:
 
 ---
 
-萬座溫泉以細緻粉雪著稱，有「粉雪萬座」的特色印象。雪場規模不算巨大，但坡面設計有緩有急、起伏分明，能讓親子與初學者安心練習，也讓中級玩家感受到節奏變化；周邊安靜的高原與溫泉氛圍也很鮮明。
+萬座溫泉以日本國內數一數二的粉雪聞名，有「粉雪萬座」之稱。整體雪場規模精巧，雪道同時具備緩坡與急坡變化，適合親子與初學者安心練習，也讓孩子在反覆滑行中快速累積進步感；粉雪、高原溫泉與適合家庭的雪上環境，構成萬座溫泉的獨特魅力。

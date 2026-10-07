@@ -37,8 +37,8 @@ contact:
   phone: 0255-86-6211
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/19-2027/3/28
-  hours: 8:30-16:30
+  operatingPeriod: 2026/12/19～2027/3/28
+  hours: 8:30～16:00
   note: 營業期間、時間與開放範圍會受積雪與天候影響，出發前請以官方公告為準。
   source: https://www.princehotels.co.jp/ski/myoko/winter/coursemap/
 trailMaps:
@@ -51,22 +51,31 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.princehotels.co.jp/ski/myoko/winter/lift/#lift-fee
-  note: 官方票價頁目前列示 2025–2026 旺季價格；票價均含稅，小學生以下免費，長者為 55 歲以上且須出示證明。1 日券使用時間為 8:30–16:00，4 小時券自閘門通過起連續 4 小時有效。
+  note: 官方票價頁目前仍列示 2025–2026 雪季價格；以下金額依官方現行頁面整理，2026–2027 新季票價待官方更新後確認。票價均含稅，小學生以下免費，長者為 55 歲以上且須出示證明。1 日券使用時間為 8:30～16:00，4 小時券自閘門通過起連續 4 小時有效。
   plans:
     - name: 1 日券
       priceLines:
         - 成人：¥8,000
+        - 會員成人：¥7,200
         - 長者、國高中生：¥7,400
+        - 會員長者、國高中生：¥6,800
       note: 8:30-16:00
     - name: 4 小時券
       priceLines:
         - 成人：¥7,200
+        - 會員成人：不適用
         - 長者、國高中生：¥6,700
+        - 會員長者、國高中生：不適用
       note: 自購票起連續 4 小時有效
     - name: 2 日券
       priceLines:
         - 成人：¥15,000
         - 長者、國高中生：¥13,800
+    - name: 點數券
+      priceLines:
+        - 3 點（空中纜車）：成人 ¥2,700 / 長者、國高中生 ¥2,400
+        - 2 點（高速纜車）：成人 ¥1,800 / 長者、國高中生 ¥1,600
+        - 1 點（纜車）：成人 ¥900 / 長者、國高中生 ¥800
 snowWeather:
   title: 杉之原雪況天氣
   provider: Weathernews
@@ -81,138 +90,90 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://www.princehotels.co.jp/ski/myoko/winter/coursemap/
-  summary: 杉之原官方列出 16 條雪道，最長滑走距離約 8,500m、總滑走距離 18,660m，垂直落差 1,124m；從初級寬廣坡面到最大斜度 38°的上級路線皆有配置。
+  summary: 杉之原共有 16 條雪道、5 條纜車與 3 座雪上公園，最長滑走距離 8,500m、總滑走距離 18,660m，高低差 1,124m；從初級寬廣坡面到最大斜度 38°的上級路線皆有配置。
   details:
-  - name: しゃくなげコース / Shakunage Course
+  - name: 杉之原連絡 / 杉ノ原連絡 / Suginohara Connection
     difficulty: beginner
-    length: 740m
+    length: 341m
     maxSlope: 15°
-    averageSlope: 8°
-    note: 官方列為初級路線；官方資料並列出全長 740m、最大坡度 15°、平均坡度 8°。
-    videoLinks:
-    - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=246s
-    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=116s
-    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=880s
-  - name: 連絡コース / Connection Course
+    averageSlope: 5°
+  - name: 公園連絡 / パーク連絡 / Park Connection
     difficulty: beginner
-    length: 1,250m
+    length: 695m
     maxSlope: 15°
+    averageSlope: 6°
+  - name: 全景雪場上部 / パノラマゲレンデ上部 / Panorama Upper
+    difficulty: beginner
+    length: 1,925m
+    maxSlope: 16°
+    averageSlope: 12°
+  - name: 全景雪場下部 / パノラマゲレンデ下部 / Panorama Lower
+    difficulty: beginner
+    length: 2,124m
+    maxSlope: 14°
     averageSlope: 8°
-    note: 官方列為初級連絡路線；官方資料並列出全長 1,250m、最大坡度 15°、平均坡度 8°。
-  - name: 白樺コース / Shirakaba Course
+  - name: 櫸木之木 R / ブナの木コースR / Buna-no-ki R
     difficulty: beginner
-    length: 1,400m
-    maxSlope: 17°
-    averageSlope: 11°
-    videoLinks:
-    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1609s
-    - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=484s
-    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=880s
-    note: 官方列為初級路線；官方資料並列出全長 1,400m、最大坡度 17°、平均坡度 11°。
-  - name: くるみヶ丘ゲレンデ / Kurumigaoka Slope
-    difficulty: beginner
-    length: 600m
-    maxSlope: 13°
-    averageSlope: 9°
-    note: 官方列為初級雪道；官方資料並列出全長 600m、最大坡度 13°、平均坡度 9°。
-  - name: スターライトゲレンデ / Starlight Slope
-    difficulty: beginner
-    length: 600m
+    length: 860m
     maxSlope: 17°
     averageSlope: 12°
-    note: 官方列為初級雪道；官方資料並列出全長 600m、最大坡度 17°、平均坡度 12°。
-  - name: しなの木コース / Shinanoki Course
+  - name: 白樺 / 白樺コース / Shirakaba
     difficulty: beginner
-    length: 450m
-    maxSlope: 17°
-    averageSlope: 12°
-    videoLinks:
-    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1368s
-    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=2312s
-    note: 官方列為初級路線；官方資料並列出全長 450m、最大坡度 17°、平均坡度 12°。
-  - name: 天狗おとし A / Tenguotoshi A
-    difficulty: intermediate
-    length: 650m
-    maxSlope: 24°
-    averageSlope: 15°
-    note: 官方列為中級路線；官方資料並列出全長 650m、最大坡度 24°、平均坡度 15°。
-  - name: パノラマゲレンデ / Panorama Slope
-    difficulty: intermediate
-    length: 1,450m
+    length: 3,255m
     maxSlope: 20°
-    averageSlope: 13°
-    videoLinks:
-    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=893s
-    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=994s
-    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=1680s
-    note: 官方列為中級雪道；官方資料並列出全長 1,450m、最大坡度 20°、平均坡度 13°。
-  - name: ダウンヒル連絡コース / Downhill Connection Course
+    averageSlope: 11°
+  - name: 家庭 R / ファミリーRコース / Family R
+    difficulty: beginner
+    length: 1,048m
+    maxSlope: 20°
+    averageSlope: 7°
+  - name: 三田原連絡初級線 / 三田原連絡ビギナーライン / Mitahara Beginner Line
+    difficulty: beginner
+    length: 896m
+    maxSlope: 12°
+    averageSlope: 6°
+  - name: 石楠花 / しゃくなげコース / Shakunage
     difficulty: intermediate
-    length: 550m
-    maxSlope: 17°
-    averageSlope: 10°
-    note: 官方列為中級連絡路線；官方資料並列出全長 550m、最大坡度 17°、平均坡度 10°。
-  - name: ダイナミックコース / Dynamic Course
+    length: 1,753m
+    maxSlope: 26°
+    averageSlope: 12°
+  - name: 下坡 / ダウンヒルコース / Downhill
     difficulty: intermediate
-    length: 1,250m
-    maxSlope: 18°
-    averageSlope: 10°
-    videoLinks:
-    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=334s
-    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=371s
-    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=116s
-    note: 官方列為中級路線；官方資料並列出全長 1,250m、最大坡度 18°、平均坡度 10°。
-  - name: ジャイアントコース / Giant Course
+    length: 315m
+    maxSlope: 30°
+    averageSlope: 17°
+  - name: 巨人 / ジャイアントコース / Giant
     difficulty: intermediate
-    length: 900m
-    maxSlope: 18°
-    averageSlope: 14°
-    videoLinks:
-    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1546s
-    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=2312s
-    note: 官方列為中級路線；官方資料並列出全長 900m、最大坡度 18°、平均坡度 14°。
-  - name: 杉ノ原連絡コース / Suginohara Connection Course
+    length: 591m
+    maxSlope: 26°
+    averageSlope: 15°
+  - name: 動態 A / ダイナミックコースA / Dynamic A
     difficulty: intermediate
-    length: 450m
-    maxSlope: 18°
-    averageSlope: 14°
-    videoLinks:
-    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=777s
-    - https://www.youtube.com/watch?v=4kOOeVcoBqA&t=437s
-    - https://www.youtube.com/watch?v=MaRkdtTmq6o&t=880s
-    note: 官方列為中級連絡路線；官方資料並列出全長 450m、最大坡度 18°、平均坡度 14°。
-  - name: 杉ノ原ゾーン / Suginohara Zone
-    difficulty: intermediate
-    length: 1,500m
+    length: 508m
     maxSlope: 17°
     averageSlope: 13°
-    note: 官方列為中級區域；官方資料並列出全長 1,500m、最大坡度 17°、平均坡度 13°。
-  - name: スーパージャイアントコース / Super Giant Course
-    difficulty: advanced
-    length: 1,000m
-    maxSlope: 38°
-    averageSlope: 16°
-    videoLinks:
-    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=31s
-    note: 官方列為上級路線；官方資料並列出全長 1,000m、最大坡度 38°、平均坡度 16°。
-  - name: ダウンヒルコース / Downhill Course
-    difficulty: advanced
-    length: 1,100m
+  - name: 動態 B / ダイナミックコースB / Dynamic B
+    difficulty: intermediate
+    length: 1,185m
+    maxSlope: 25°
+    averageSlope: 13°
+  - name: 信濃木 / しなの木コース / Shinanoki
+    difficulty: intermediate
+    length: 889m
     maxSlope: 23°
-    averageSlope: 14°
-    videoLinks:
-    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=1247s
-    note: 官方列為上級路線；官方資料並列出全長 1,100m、最大坡度 23°、平均坡度 14°。
-  - name: スーパーモーグルコース / Super Mogul Course
+    averageSlope: 12°
+  - name: 超級巨人 / スーパージャイアントコース / Super Giant
     difficulty: advanced
-    length: 500m
+    length: 950m
+    maxSlope: 38°
+    averageSlope: 17°
+  - name: 超級雪丘 / スーパーモーグルコース / Super Mogul
+    difficulty: advanced
+    length: 1,324m
     maxSlope: 32°
-    averageSlope: 25°
-    videoLinks:
-    - https://www.youtube.com/watch?v=KB5dscP0Pw4&t=521s
-    note: 官方列為上級路線；官方資料並列出全長 500m、最大坡度 32°、平均坡度 25°。
+    averageSlope: 16°
 lifts:
-  total: 4
+  total: 5
 access:
   fromTokyo:
   - label: 東京出發
@@ -228,7 +189,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 可由上信越自動車道妙高高原 IC 前往。杉之原第 1、2、3 停車場鄰近雪場且可步行抵達；平日免費，土休日一般車 ¥1,000，2026/3/16 起全日免費。雪季自駕需準備雪胎或雪鏈。
+    note: 可由上信越自動車道妙高高原 IC 前往。杉之原第 1、2、3 停車場距離雪場步行 0 分鐘；平日免費，土休日一般車 ¥1,000，2026/3/16 起全日免費。雪季自駕需準備雪胎或雪鏈。
 terrainSummary:
   beginner: しゃくなげ、白樺、くるみヶ丘、スターライト等初級雪道可安排基礎練習與長距離連接。
   intermediate: 天狗おとし、パノラマ、ダイナミック與杉ノ原區域提供中級巡航與連絡路線。
@@ -252,4 +213,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/myoko-suginohara/
 ---
 
-杉之原以約 8.5 km 的長距離寬闊滑道為代表特色，能帶來連續巡航的開放感。雪場同時規劃多條路線，從初學者到進階玩家都能依程度選擇坡面，也很重視讓孩子體驗冬季滑雪樂趣，是妙高地區具代表性的長距離雪場。
+妙高杉之原以最大滑走距離 8.5km、高低差 1,124m 的長距離寬闊雪道為核心特色，從山頂一路滑向山麓能享受充滿開放感的長程巡航。雪場另設雪上公園、饅頭坡道場與雪丘路線，從初學者到進階玩家都能找到適合自己的滑行地形。

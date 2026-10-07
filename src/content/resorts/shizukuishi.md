@@ -21,8 +21,11 @@ visibility:
   status: published
   note: 東北人氣雪場清單列入的雪場；初版以公開雪場資料與官方首頁整理。
 links:
-  official: http://www.princehotels.co.jp/ski/shizukuishi/index.html
+  official: https://www.princehotels.co.jp/ski/shizukuishi/winter/
   weather: https://weathernews.jp/ski/spot/33302/
+  trailMapPage: https://www.princehotels.co.jp/ski/shizukuishi/winter/coursemap/
+  ticket: https://www.princehotels.co.jp/ski/shizukuishi/winter/lift/
+  access: https://www.princehotels.co.jp/ski/shizukuishi/winter/access/
   googleMaps: https://maps.app.goo.gl/wAFD5CvmxQKAZCeR9
 contact:
   address:
@@ -32,11 +35,46 @@ contact:
     googleMaps: https://maps.app.goo.gl/wAFD5CvmxQKAZCeR9
   phone: 019-693-1111
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/03/22
-  note: 營業期間為 2025-2026 雪季公開資料；實際開放日、營業時間與營業範圍請以官方最新公告為準。
-  source: https://weathernews.jp/ski/spot/33302/
+  label: 2026-2027
+  operatingPeriod: 2026/12/19～2027/3/22
+  hours: 8:30～16:30 或日落
+  note: 2026-2027 雪季預定於 12/19 開始營業；一般營業時間為 8:30～16:30 或日落，實際營業期間與開放範圍依天候、日照、雪道狀況及官方公告調整。
+  source: https://www.princehotels.co.jp/ski/shizukuishi/winter/coursemap/
 tickets:
+  season: 2026-2027
+  currency: JPY
+  source: https://www.princehotels.co.jp/ski/shizukuishi/winter/lift/
+  note: 官方票價頁目前列示的票價表仍標示前一版雪季期間；以下金額依官方現行頁面整理，2026-2027 新季票價請待官方頁面更新後確認。成人為高中生以上，長者為 60 歲以上且需出示證明，小學生以下免費但須於售票處領取免費票。
+  plans:
+    - name: 雫石纜車／索道一日券
+      priceLines:
+        - SEIBU PRINCE GLOBAL REWARDS 會員成人：¥6,000
+        - SEIBU PRINCE GLOBAL REWARDS 會員長者／國中生：¥5,400
+        - 一般成人：¥6,500
+        - 一般長者／國中生：¥5,900
+      note: 使用時間為 8:30～16:30 或日落；小學生以下免費。
+    - name: 雫石纜車／索道年末年始一日券（12/27～1/4）
+      priceLines:
+        - 會員成人：¥6,200
+        - 會員長者／國中生：¥5,600
+        - 一般成人：¥6,700
+        - 一般長者／國中生：¥6,100
+      note: 使用時間為 8:30～16:30 或日落；小學生以下免費。
+    - name: 雫石纜車／索道 4 小時券
+      priceLines:
+        - 成人：¥5,900
+        - 長者／國中生：¥5,300
+      note: 自購票起連續 4 小時有效；小學生以下免費。
+    - name: 雫石纜車／索道年末年始 4 小時券（12/27～1/4）
+      priceLines:
+        - 成人：¥6,100
+        - 長者／國中生：¥5,500
+      note: 自購票起連續 4 小時有效；小學生以下免費。
+    - name: 雫石纜車單程／往返券
+      priceLines:
+        - 單程：¥1,500
+        - 往返：¥2,000
+      note: 小學生以下免費。
   earlyBird:
     - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://tw.wamazing.com/snow/items/15083
@@ -55,7 +93,7 @@ courses:
   intermediateRatio: 45
   advancedRatio: 25
   courseInfoPage: https://www.princehotels.co.jp/ski/shizukuishi/winter/coursemap/
-  summary: 雫石共有 20 條雪道與 6 座纜車，並註明小學生以下兒童纜車費免費。共有 20 條雪道，初級 30%、中級 45%、上級 25%。
+  summary: 雫石共有 20 條雪道、6 座纜車與 1 座雪上公園，從適合親子與初學者的緩坡，到 2,648m 長距離下山路線與上級急斜面皆有配置；官方也以「雪遊樂天堂」定位，適合安排多樣雪上活動。
   details:
     - name: B1 ファミリーゲレンデ
       difficulty: beginner
@@ -164,9 +202,9 @@ access:
       steps:
         - 從東京搭秋田新幹線到雫石站。
         - 從雫石站轉乘計程車或事先安排接送前往雪場。
-      estimatedTime: 站後約 20 分
+      estimatedTime: 約 20 分鐘
       difficulty: hard
-      note: 雫石站後公開資料以計程車銜接為主；請先確認回程交通與雪季接送資訊。
+      note: 官方交通頁面提供雫石王子大飯店住宿者專用免費接送巴士資訊；從雫石站前往雪場也可搭乘計程車，接送班次與預約方式依當季公告為準。
   fromAirport:
     - label: 花卷機場出發
       steps:
@@ -174,11 +212,11 @@ access:
         - 依當日道路與積雪狀況前往雫石。
       estimatedTime: 約 65 分
       difficulty: hard
-      note: 機場後公開資料以車行時間為主，不自駕時建議事先安排接送。
+      note: 花卷機場前往雫石以自駕、計程車或事先安排接送為主；不自駕時請預先確認雪季接送方式。
   car:
     recommended: true
     snowTireRequired: true
-    note: 從東北自動車道盛岡 IC 經國道 46 號約 35 分；秋田方向經仙岩隧道與國道 46 號約 120 分。冬季需準備雪胎或防滑裝備。
+    note: 從東北自動車道盛岡 IC 經國道 46 號前往雪場約 35 分鐘；秋田方向經仙岩隧道與國道 46 號約 120 分鐘。冬季需準備雪胎或防滑裝備。
 terrainSummary:
   beginner: 雫石初級雪道占 30%，可作為規劃練習坡與暖身路線時的參考；實際難度仍會受積雪與開放雪道影響。
   intermediate: 中級雪道占 45%，適合已能穩定轉彎並想安排巡航路線的滑雪者參考。
@@ -202,4 +240,4 @@ externalContent:
   vlogs: []
 ---
 
-雫石以約 4.5 km 的長距離滑道與多樣雪場設計為特色，能在天然區感受新雪與自然起伏，也有適合初級玩家練習的區域。雪場結合溫泉度假村氛圍，滑行與停留都帶有東北山岳度假的放鬆感。
+雫石是北東北屈指可數的雪上度假區，20 條雪道與雪上公園打造全年齡都能投入其中的雪遊樂天堂。從親子與初學者緩坡，到 2,648m 長距離下山路線與上級急斜面，滑行層次豐富；搭配雫石王子大飯店與溫泉度假氛圍，適合安排充實的家庭雪季假期。

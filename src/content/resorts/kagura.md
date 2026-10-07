@@ -42,23 +42,23 @@ contact:
     googleMaps: https://maps.app.goo.gl/FCzDtaTcFAKNPet79
   phone: 025-788-9221
 season:
-  label: 2025-2026
-  operatingPeriod: 神樂、三俣區 2025/11/22～2026/5/17；田代區 2025/12/20～2026/5/4
+  label: 2026-2027
+  operatingPeriod: 神樂、三俣區 2026/11/28～2027/5/16；田代區 2026/12/19～2027/5/5
   hours: 8:00～16:30
   nightSkiingHours: 無夜滑
-  note: 神樂、三俣與田代三區的營運日期不同；當日開放纜車與雪道依積雪、天候及安全狀況調整。
+  note: 神樂、三俣與田代三區的營運日期不同；當日開放纜車與雪道依積雪、天候及安全狀況調整。官方頁面標示 11 月下旬初滑至 5 月下旬春滑，實際各區日期以當季公告為準。
   source: https://www.princehotels.co.jp/ski/kagura/winter/coursemap/
 trailMaps:
 - label: 神樂雪場圖
   language: 日本語
-  season: 2025-2026
+  season: 2026-2027
   url: https://www.princehotels.co.jp/file.jsp?id=498187
   sourceLabel: Kagura Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.princehotels.co.jp/ski/kagura/winter/lift/
-  note: 全數為含稅價格。成人為國中生以上；小學生以下免費，但須於售票處領取專用票券。神樂票券可搭乘場內纜車、索道及神樂 Gondola，不能搭乘 Dragondola。
+  note: 全數為含稅價格；成人為國中生以上，小學生以下免費，但須於售票處領取專用票券。神樂票券適用神樂、三俣、田代三區，可搭乘場內纜車、索道與神樂 Gondola，不含 Dragondola。2026/11/28～2027/5/16 適用神樂雪場票價。
   earlyBird:
     - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://tw.wamazing.com/snow/items/15083
@@ -67,30 +67,31 @@ tickets:
       url: https://surfsnow.jp/guide/htm/r0070tk.htm
       deadline: "2026-11-15"
   plans:
-    - name: 神樂區 1 日券
+    - name: 神樂雪場 1 日券
       priceLines:
-        - 成人 ¥7,500
+        - 成人 ¥8,500
         - 小學生以下免費
       note: 適用神樂、三俣、田代三區，不含 Dragondola。
-    - name: 神樂區會員 1 日券
+    - name: 神樂雪場會員 1 日券
       priceLines:
-        - Seibu Prince Global Rewards 會員成人 ¥7,000
+        - Seibu Prince Global Rewards 會員成人 ¥8,000
         - 小學生以下免費
-    - name: 神樂區半日券
+      note: 僅限 Seibu Prince Global Rewards（SEIBU PRINCE CLUB）會員。
+    - name: 神樂雪場半日券
       priceLines:
-        - 上午券成人 ¥6,000、小學生以下免費
-        - 下午券成人 ¥5,500、小學生以下免費
+        - 上午券成人 ¥6,700、小學生以下免費
+        - 下午券成人 ¥6,200、小學生以下免費
       note: 上午券 8:00～13:00；下午券 11:45～16:30，11:30 起販售。
-    - name: 神樂區 2 日券
+    - name: 神樂雪場 2 日券
       priceLines:
-        - 成人 ¥14,500
+        - 成人 ¥15,500
         - 小學生以下免費
       note: 適用神樂、三俣、田代三區，不含 Dragondola。
     - name: Mt. Naeba 1 日券
       priceLines:
-        - 成人 ¥9,800
+        - 成人 ¥11,800
         - 小學生以下免費
-      note: 適用苗場、神樂、三俣、田代四區，包含 Dragondola。
+      note: 2026/12/18～2027/4/5 適用苗場、神樂、三俣、田代四區；Dragondola 預定於 2026/12/26～2027/3/22 運行期間可搭乘。
 snowWeather:
   title: 神樂雪況天氣
   provider: Weathernews
@@ -105,7 +106,7 @@ courses:
   intermediateRatio: 44
   advancedRatio: 19
   courseInfoPage: https://www.princehotels.co.jp/ski/kagura/winter/coursemap/
-  summary: 神樂、三俣與田代三區共 30 條雪道，從長距離初級巡航到海拔 1,800m 的未壓雪林間雪道皆有配置；可滑行至春季。
+  summary: 神樂、三俣與田代三區共 30 條雪道，總滑走距離約 27,690m；從初級緩坡、4,000m 林間長距離雪道，到海拔 1,800m 的未壓雪與雪包地形皆有配置。高海拔區域可自 11 月下旬滑至 5 月下旬，12 月下旬至 3 月上旬也較容易遇到粉雪。
   details:
   - name: E1 ゴンドラコース
     difficulty: beginner
@@ -366,7 +367,7 @@ access:
         - 於「神樂三俣滑雪場前」下車後步行約 1 分鐘至三俣站。
       estimatedTime: 約 1 小時 48 分鐘
       difficulty: easy
-      note: 由湯澤站前至神樂三俣滑雪場前通常約 18 分鐘；官方提供 2025/12/13～2026/3/22 的路線巴士時刻表。
+      note: 由湯澤站前至神樂三俣滑雪場前通常約 18 分鐘；官方頁面另提供 2025/12/13～2026/3/22 的路線巴士時刻表，2026-2027 班次請以當季公告為準。
       links:
         - label: 路線巴士時刻表
           url: https://www.princehotels.co.jp/ski/kagura/winter/access/pdf/bus_time01.pdf
@@ -375,7 +376,7 @@ access:
         - 關越自動車道「湯澤 IC」下交流道後，經國道 17 號前往三俣站。
       estimatedTime: 約 10 分鐘
       difficulty: easy
-      note: 從湯澤 IC 約 8km；月夜野 IC 出發約 46km、70 分鐘。三俣站停車場可停約 1,200 輛，平日免費、週末與假日每輛 ¥1,500。
+      note: 從湯澤 IC 約 8km；月夜野 IC 出發約 46km、70 分鐘。三俣站停車場可停約 1,200 輛，平日免費、週末與假日每輛 ¥1,500；田代站位於新潟縣南魚沼郡湯澤町三國 1066。
   car:
     recommended: true
     snowTireRequired: true
@@ -400,4 +401,4 @@ externalContent:
     note: MIRU tube JAPAN 【Route Guide】
 ---
 
-神樂由神樂、三俣與田代三區組成，30 條雪道從長距離初級巡航到海拔 1,800m 的未壓雪林間專家道皆有配置。神樂主雪場可利用迂迴路線讓初學者下滑；進階玩家則可挑戰深粉雪、饅頭坡與最大 32° 的田代專家雪道，感受長季營運的高山滑行。
+良質粉雪的三個區域，雪季與雪道都很長。神樂由神樂、三俣與田代三區組成，官方列有 30 條雪道、總滑走距離約 27,690m；從長距離初級巡航、4,000m 林間路線，到海拔 1,800m 的未壓雪與雪包地形皆有配置。高海拔特色讓雪季可從 11 月下旬延續至 5 月下旬，12 月下旬至 3 月上旬也較容易享受粉雪；在上越國境山景環繞下，適合安排長季滑行。

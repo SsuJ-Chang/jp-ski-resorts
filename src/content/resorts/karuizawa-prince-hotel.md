@@ -34,31 +34,54 @@ contact:
     googleMaps: https://www.google.com/maps/search/?api=1&query=Karuizawa%20Prince%20Hotel%20Ski%20Resort
   phone: 0267-42-5588
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/11/1-2026/3/31
-  hours: 平日 8:00〜17:00(11/1〜12/19は8:30〜16:30)；假日 8:00〜17:00(11/1〜12/19は8:30〜16:30)；夜間 無
-  note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
-  source: https://www.princehotels.co.jp/ski/karuizawa/winter/lift/#lift-fee
+  label: 2026-2027
+  operatingPeriod: 2026/10/31～2027/3/31
+  hours: 初滑 8:30～16:30；正式雪季與特日 8:00～17:00
+  note: 2026-2027 雪季預定於 10/31 開始；初滑期間為 10/31～12/18，正式雪季為 12/19～3/22，春季滑雪為 3/23～3/31，實際營業範圍與運行狀況依官方公告調整。
+  source: https://www.princehotels.co.jp/ski/karuizawa/winter/lift/
 trailMaps:
 - label: 輕井澤王子大飯店雪場圖
   language: 日本語
-  season: 2025-2026
+  season: 2026-2027
   url: https://www.princehotels.co.jp/file.jsp?id=460053
   sourceLabel: Karuizawa Prince Hotel Ski Resort Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.princehotels.co.jp/ski/karuizawa/winter/lift/#lift-fee
-  note: 票價為 2025-2026 雪季公開資訊整理，實際販售、年齡區分與適用條件請以官方公告與現場資訊為準。
+  note: 小學生以下全日免費，須於售票處領取免費票券；以下整理 2026-2027 官方窗口票價與會員價，均含稅。下午券自 12:00 起使用，11:30 開始販售，票券販售於營業結束前 30 分鐘截止。
   plans:
-    - name: 1 日券
+    - name: 初滑期間（2026/10/31～12/18）
       priceLines:
-        - 成人：¥10,000
-        - 兒童：免費
-    - name: 下午券
+        - 成人 1 日券：¥8,000 / 會員：¥7,500
+        - 成人下午券：¥7,000 / 會員：¥6,500
+        - 小學生以下：免費
+      note: 初滑期間營業時間為 8:30～16:30。
+    - name: 正式雪季（2026/12/19～2027/3/22）
       priceLines:
-        - 成人：¥9,000
-        - 兒童：免費
+        - 成人 1 日券：¥10,000 / 會員：¥9,500
+        - 成人下午券：¥9,000 / 會員：¥8,500
+        - 小學生以下：免費
+    - name: 特日（依官方公告日期）
+      priceLines:
+        - 成人 1 日券：¥12,000 / 會員：¥11,500
+        - 成人下午券：¥11,000 / 會員：¥10,500
+        - 小學生以下：免費
+    - name: 高特日（依官方公告日期）
+      priceLines:
+        - 成人 1 日券：¥13,000 / 會員：¥12,500
+        - 成人下午券：¥12,000 / 會員：¥11,500
+        - 小學生以下：免費
+    - name: 春季滑雪（2027/3/23～3/31）
+      priceLines:
+        - 成人 1 日券：¥8,000 / 會員：¥7,500
+        - 成人下午券：¥7,000 / 會員：¥6,500
+        - 小學生以下：免費
+    - name: 觀光纜車往返券（2026/12/19～2027/3/31）
+      priceLines:
+        - 成人一般：¥3,000 / 會員：¥2,500
+        - 小學生：¥2,000 / 會員：¥1,500
+        - 3 歲以下：免費
   earlyBird:
     - name: 完美行【初滑早鳥優惠】纜車1日券×2張
       url: https://tw.wamazing.com/snow/items/15566
@@ -79,68 +102,78 @@ courses:
   beginnerRatio: 58
   intermediateRatio: 21
   advancedRatio: 21
-  summary: 輕井澤王子大飯店滑雪場：共 14 條雪道、8 座纜車，以初級者路線為主，並涵蓋中級與高級路線。多樣化的雪道配置可正面眺望淺間山，且從輕井澤站南口搭乘免費接駁巴士約 1 分鐘即可抵達，適合初學者、親子與想輕鬆往返的滑雪行程。
+  summary: 輕井澤王子大飯店滑雪場共有 14 條雪道、8 座纜車與 3 個雪上公園，最長滑走距離 1,519m、總滑走距離 7,389m；以初級者路線為主，也涵蓋中級與最大斜度 31° 的上級路線。
   details:
-  - name: ファミリーコース / Family Course
+  - name: 栗之木雪道 / くりの木コース / Kurinoki Course
     difficulty: beginner
-    videoLinks:
-    - https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=0s
-    - https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=1012s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=475s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=525s
-  - name: プリンスゲレンデ / Prince Slope
+    length: 380m
+    maxSlope: 10°
+    averageSlope: 6°
+  - name: 王子雪道 / プリンスゲレンデ / Prince Slope
     difficulty: beginner
-    videoLinks:
-    - https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=0s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=185s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=475s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=603s
-  - name: トップクルーズ / Top Cruise
+    length: 370m
+    maxSlope: 18°
+    averageSlope: 10°
+  - name: 冷杉雪道 / もみの木コース / Mominoki Course
     difficulty: beginner
-    videoLinks:
-    - https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=608s
-    - https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=1012s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=475s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=650s
-  - name: フリーバレー / Free Valley
+    length: 260m
+    maxSlope: 14°
+    averageSlope: 9°
+  - name: 頂峰巡航 / トップクルーズ / Top Cruise
     difficulty: beginner
-    videoLinks:
-    - https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=608s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=1686s
-  - name: くりの木コース / Kurinoki Course
+    length: 1,519m
+    maxSlope: 15°
+    averageSlope: 6°
+  - name: 家庭雪道 / ファミリーコース / Family Course
     difficulty: beginner
-    videoLinks:
-    - https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=1012s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=313s
-  - name: スカイラインコース / Skyline Course
+    length: 1,010m
+    maxSlope: 14°
+    averageSlope: 9°
+  - name: 自由谷 / フリーバレー / Free Valley
+    difficulty: beginner
+    length: 210m
+    maxSlope: 15°
+    averageSlope: 9°
+  - name: 兔子山雪道 / うさぎ山コース / Usagiyama Course
+    difficulty: beginner
+    length: 290m
+    maxSlope: 12°
+    averageSlope: 7°
+  - name: 阿里艾斯卡迂迴雪道 / アリエスカ迂回コース / Arieska Bypass
+    difficulty: beginner
+    length: 600m
+    maxSlope: 14°
+    averageSlope: 9°
+  - name: 平行雪道 / パラレルコース / Parallel Course
     difficulty: intermediate
-    videoLinks:
-    - https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=0s
-  - name: 林間コース / Rinkan Course
+    length: 800m
+    maxSlope: 19°
+    averageSlope: 10°
+  - name: 全景雪道 / パノラマコース / Panorama Course
     difficulty: intermediate
-    videoLinks:
-    - https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=0s
-  - name: パノラマコース / Panorama Course
+    length: 900m
+    maxSlope: 24°
+    averageSlope: 12°
+  - name: 林間雪道 / 林間コース / Rinkan Course
     difficulty: intermediate
-    videoLinks:
-    - https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=247s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=935s
-  - name: パラレルコース / Parallel Course
-    difficulty: intermediate
-    videoLinks:
-    - https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=400s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=1127s
-  - name: スラロームバーン / Slalom Bahn
+    length: 300m
+    maxSlope: 20°
+    averageSlope: 7°
+  - name: 迴轉坡 / スラロームバーン / Slalom Bahn
     difficulty: advanced
-    videoLinks:
-    - https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=608s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=1640s
-  - name: アリエスカR・Lコース / Arieska R/L Course
+    length: 250m
+    maxSlope: 26°
+    averageSlope: 19°
+  - name: 阿里艾斯卡 R 雪道 / アリエスカ Rコース / Arieska R
     difficulty: advanced
-    videoLinks:
-    - https://www.youtube.com/watch?v=lo0WjW7zm5Y&t=858s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=1496s
-    - https://www.youtube.com/watch?v=HETq7UoqHNg&t=1578s
+    length: 230m
+    maxSlope: 29°
+    averageSlope: 18°
+  - name: 阿里艾斯卡 L 雪道 / アリエスカ Lコース / Arieska L
+    difficulty: advanced
+    length: 270m
+    maxSlope: 31°
+    averageSlope: 15°
 lifts:
   total: 8
 access:
@@ -148,14 +181,14 @@ access:
   - label: 鐵道＋轉乘
     steps:
     - 從東京方向搭乘新幹線或在來線，轉乘至雪場鄰近車站。
-    - 從北陸新幹線軽井沢駅搭乘巴士約 1分鐘。
+    - 從北陸新幹線輕井澤站南口搭乘計程車約 1 分鐘或步行約 10 分鐘。
     difficulty: medium
-    note: 時間為最近車站至雪場的交通目安，東京出發總時間需另加主要鐵道路段與轉乘等待。
-    estimatedTime: 約1分鐘
+    note: 從北陸新幹線輕井澤站南口搭乘計程車約 1 分鐘或步行約 10 分鐘；雪場與輕井澤站間另有免預約免費接駁巴士。
+    estimatedTime: 約 1 分鐘
   car:
     recommended: true
     snowTireRequired: true
-    note: 自駕可參考官方路線：上信越道長野IC→碓氷軽井沢IC(72.4km)→一般道路(13km) (74分)；冬季需準備雪胎或防滑鏈。停車資訊：800台、平日  普通車500円　バス(11人以上の車両)1,500円、假日  普通車1500円　バス(11人以上の車両)2000円（12/28〜1/3は土假日 扱い）。
+    note: 1、2 號停車場約 800 台；普通車平日 ¥1,000、週末與假日 ¥2,000，11 人以上巴士 ¥2,500，12/28～1/4 以週末假日計費。冬季自駕需準備雪胎或防滑鏈。
 terrainSummary:
   beginner: 初級雪道約 58%，可安排暖身、基礎練習或親子滑行。
   intermediate: 中級雪道約 21%，適合穩定滑行與轉彎練習。
@@ -181,4 +214,4 @@ externalContent:
     note: Who’s TV / by Fumika Hoshino
 ---
 
-輕井澤王子飯店滑雪場以人工造雪與人工降雪設備維持穩定雪量，晴天率高，整體氛圍明亮而時尚。雪場滑道配置容易掌握，也結合購物、保齡球等度假設施，適合想把輕鬆滑雪與輕井澤休閒感一起安排的旅人。
+輕井澤王子飯店滑雪場是一座在晴朗天空下展開的時尚雪場，以 8 台人工造雪機與 195 台降雪機打造穩定雪況，並可在開季同步開放 2 條雪道與 2 條纜車。初級者友善的雪道配置、較高的晴天率，以及購物、保齡球等豐富的雪後活動，讓滑雪與輕井澤度假能一次完成。

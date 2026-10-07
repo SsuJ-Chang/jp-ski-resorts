@@ -42,11 +42,11 @@ contact:
     googleMaps: https://maps.app.goo.gl/2eFoiRG62wtqabh86
   phone: 025-789-4117
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/13-2026/4/5
-  hours: 8:00-17:00；夜間營業期間延長至 20:30
+  label: 2026-2027
+  operatingPeriod: 2026/12/18～2027/4/4
+  hours: 8:00～17:00；夜間營業期間至 20:30
   nightSkiingHours: 夜間營業期間至 20:30
-  note: 初版依公開資料與官方票價頁整理，實際營業狀態請以官方公告為準。
+  note: 一般營業時間為 8:00～17:00，夜間營業期間全日延長至 20:30；各纜車與雪道開放狀況依當日公告調整。
   source: https://www.princehotels.co.jp/ski/naeba/winter/lift/
 trailMaps:
 - label: 苗場雪場圖
@@ -55,10 +55,10 @@ trailMaps:
   url: https://www.princehotels.co.jp/file.jsp?id=205769
   sourceLabel: Naeba Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.princehotels.co.jp/ski/naeba/winter/lift/
-  note: 全部票價為含稅價格；成人為國中生以上，小學生以下免費但須於售票處領取專用票券。Mt. Naeba 券可通用苗場與神樂（神樂、三俣、田代）四區；8 小時券與 4 小時券不可搭乘 Dragondola 或使用神樂滑雪場。
+  note: 全部票價為含稅價格；成人為國中生以上，小學生以下免費，但須於售票處領取專用票券。Mt. Naeba 券可通用苗場與神樂（神樂、三俣、田代）四區；8 小時券與 4 小時券不可搭乘 Dragondola，也不能使用神樂滑雪場。票價適用期間為 2026/12/18～2027/4/4。
   earlyBird:
     - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://tw.wamazing.com/snow/items/15083
@@ -69,22 +69,34 @@ tickets:
   plans:
     - name: Mt. Naeba 共通 1 日券
       priceLines:
-        - 成人：¥9,800
-        - 兒童（小學生以下）：免費
-      note: 可通用苗場與神樂（神樂、三俣、田代）四區；1 日券使用至 17:00。
+        - 成人：¥11,800
+        - 小學生以下：免費
+      note: 可通用苗場與神樂（神樂、三俣、田代）四區；一日券可使用至當日纜車營業結束。
     - name: 苗場區域 1 日券
       priceLines:
-        - 成人：¥7,800
-        - 兒童（小學生以下）：免費
-      note: 可使用至 17:00。
+        - 成人：¥9,800
+        - 小學生以下：免費
+      note: 可使用至當日纜車營業結束。
     - name: 苗場區域 8 小時券
       priceLines:
         - 成人：¥8,300
+        - 小學生以下：免費
       note: 不可搭乘 Dragondola 或使用神樂滑雪場。
     - name: 苗場區域 4 小時券
       priceLines:
         - 成人：¥6,300
+        - 小學生以下：免費
       note: 不可搭乘 Dragondola 或使用神樂滑雪場。
+    - name: Mt. Naeba 會員共通 1 日券
+      priceLines:
+        - Seibu Prince Global Rewards 會員成人：¥10,800
+        - 小學生以下：免費
+      note: 僅限 Seibu Prince Global Rewards（SEIBU PRINCE CLUB）會員，可通用苗場與神樂四區。
+    - name: 苗場區域會員 1 日券
+      priceLines:
+        - Seibu Prince Global Rewards 會員成人：¥9,000
+        - 小學生以下：免費
+      note: 僅限 Seibu Prince Global Rewards（SEIBU PRINCE CLUB）會員。
 snowWeather:
   title: 苗場雪況天氣
   provider: Weathernews
@@ -99,7 +111,7 @@ courses:
   intermediateRatio: 25
   advancedRatio: 33
   courseInfoPage: https://www.princehotels.co.jp/ski/naeba/winter/coursemap/
-  summary: 苗場官方列出 24 條雪道，分布於飯店前山麓、火打與 Dragondola 連絡區及山頂區；最長滑走距離 4,000m、總滑走距離 17,986m，並設有初級至上級與非壓雪路線。
+  summary: 苗場擁有約 134ha 的廣大雪場、24 條多樣雪道、2 座雪上公園與 3 座纜車，總滑走距離約 17,986m；高低差約 900m，從初級緩坡到上級非壓雪與地形公園都能找到適合自己的路線。
   details:
   - name: D1 第4高速リフト南側
     difficulty: beginner
@@ -286,13 +298,13 @@ access:
     steps:
     - 從東京搭上越新幹線到越後湯澤站。
     - 從越後湯澤站東口轉乘南越後觀光巴士或急行巴士前往苗場；再依目的地步行或轉乘接駁。
-    estimatedTime: 東京至越後湯澤約 90 分；車站至苗場滑雪場約 45 分，急行巴士至苗場王子飯店前再約 5 分
+    estimatedTime: 約 2 小時 20 分鐘
     difficulty: medium
-    note: 官方冬季圖示另有住宿者專用免費接駁巴士（越後湯澤站至苗場王子飯店，平常約 40 分）；班次、預約與停靠站請以當季公告為準。
+    note: 官方交通頁面提供越後湯澤站與苗場王子大飯店之間的住宿者專用接駁與路線巴士資訊；2026-2027 冬季接駁班次尚待官方公告，預約與停靠站請以當季資訊為準。
   car:
     recommended: true
     snowTireRequired: true
-    note: 關越自動車道湯澤 IC 經國道 17 號約 21km、平常約 30 分；月夜野 IC 約 33km、約 50 分。從越後湯澤站經國道 17 號約 23km、約 35 分。苗場王子飯店／苗場滑雪場停車場約 3,800 台，目前全日收費。
+    note: 苗場王子大飯店地址為新潟縣南魚沼郡湯澤町三國 202；湯澤 IC 經國道 17 號約 21km，月夜野 IC 約 33km。冬季道路可能受積雪影響，請準備雪胎或雪鏈，停車資訊依當季公告為準。
 terrainSummary:
   beginner: 飯店前、火打與筍平區域有多條初級雪道，適合家庭與住宿型行程練習。
   intermediate: 大斜面、わくわく、筍山 Skyline 等中級路線提供較長滑行距離與不同區域串聯。
@@ -348,4 +360,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/naeba/
 ---
 
-苗場是新潟代表性的大型度假雪場，滑道、住宿與娛樂設施集中，從初級巡航到較具挑戰性的坡面都有配置。雪場整體度假感強，適合想把滑雪、餐飲與住宿一起安排的旅人，也適合不同程度的同行者各自找到合適玩法。
+苗場是擁有約 900m 高低差的廣大雪上度假區，24 條雪道與雪上公園從初學者到專家都能找到適合的滑行節奏。苗場王子大飯店約有 1,200 間客房，從飯店步行即可抵達雪場，住宿、餐飲、親子活動與多彩設施集中在雪場旁；無論家庭同行或追求挑戰的滑雪者，都能安排充實的雪季假期。
