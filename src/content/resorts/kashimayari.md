@@ -40,46 +40,51 @@ contact:
     googleMaps: https://maps.app.goo.gl/fE1nV7jQuTVhJgpb9
   phone: 0261-23-1231
 season:
-  label: 2025-2026
-  operatingPeriod: 請以官方公告為準
-  hours: 請以官方營業時間公告為準
-  note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
+  label: 2026-2027
+  operatingPeriod: 2026-12-12 至 2027-03-22
+  hours: 08:30-16:00
+  note: 平日與週末假日的纜車運行時間均為 08:30-16:00；實際開放雪道與纜車仍依當日公告為準。
   source: https://www.kashimayari.net/snow/tickets/
 trailMaps:
 - label: 鹿島槍雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://www.kashimayari.net/snow/wp-content/themes/kashimayari/assets/img/fields/field_map.pdf
+  url: https://www.hakubavalley.com/cms/wp-content/uploads/2026/03/KashimayariSnowResortFamilyPark_2026.pdf
   sourceLabel: Kashimayari Snow Resort
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.kashimayari.net/snow/tickets/
-  note: 2025-2026 年度票價；IC 卡另收 ¥1,000 保證金，歸還卡片且無損壞或遺失時退還。
+  note: 2026-2027 年度票價；IC 卡另收 ¥1,000 保證金，歸還卡片且無損壞或遺失時退還。未就學兒童免費，學生票須出示學生證，官方未販售回數券與半日券。
+  earlyBird:
+    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://tw.wamazing.com/snow/items/15083
+      deadline: "2026-12-10"
   plans:
     - name: 1 日券
       priceLines:
-        - 成人：¥5,900
-        - 學生：¥4,800
-        - 兒童：¥3,300
+        - 成人：¥6,200
+        - 學生（國中生 / 高中生）：¥5,000
+        - 兒童（小學生）：¥3,500
     - name: 長野縣民優惠 1 日券
       priceLines:
         - 成人：¥4,700
         - 學生：¥3,700
         - 兒童：¥2,200
+      note: 購票時須出示載有地址的附照片身分證件。
     - name: 親子套票
       priceLines:
-        - 成人 1 名＋兒童 1 名：¥7,100
-      note: 長野縣民親子套票為成人＋兒童 1 名 ¥5,700；兒童追加 ¥2,300。
+        - 成人 1 名＋兒童 1 名：¥7,500
+      note: 每名兒童最多可搭配 3 名成人購買；追加成人 ¥5,000、兒童 ¥2,500。
+    - name: 長野縣民親子套票
+      priceLines:
+        - 成人 1 名＋兒童 1 名：¥5,700
+      note: 購票時須出示載有地址的附照片身分證件；追加成人 ¥5,000、兒童 ¥2,500。
     - name: 身心障礙優惠 1 日券
       priceLines:
-        - 成人／學生：¥4,700
+        - 成人 / 學生：¥4,700
         - 兒童：¥2,200
       note: 購票時須出示身心障礙手冊或療育手冊。
-  earlyBird:
-    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
-      url: https://tw.wamazing.com/snow/items/15083
-      deadline: "2026-12-10"
 snowWeather:
   title: 鹿島槍雪況天氣
   provider: Weathernews
@@ -94,7 +99,7 @@ courses:
   advancedRatio: 17
   total: 12
   courseInfoPage: https://www.kashimayari.net/snow/fields/
-  summary: 鹿島槍位於白馬 Valley 南側的大町市，主打滑雪與親子雪上活動兼具的 Family Park。雪場呈盆地狀，從各條路線滑下後大多會回到中央廣場，不容易迷路；初級、中級與上級雪道分區規劃，能讓不同程度的同行者各自享受滑行。除了 12 條雪道，還有 Pokémon Snow Adventure、兒童遊戲區、室內遊樂空間與親子休憩服務，適合安排全家一日遊。
+  summary: 鹿島槍共有 12 條雪道，從 400 公尺的初級練習坡到 4,100 公尺的長距離路線，初級、中級與上級地形分區清楚。中綱超級林道全長 3,000 公尺且坡度平緩，5B、5C 等路線則提供最大 35° 至 38° 的陡坡挑戰；中央區另設親子雪上活動設施。
   details:
   - name: 1A コース1：遠見グランドビューA
     difficulty: beginner
@@ -179,14 +184,50 @@ access:
     - 從信濃大町站或大町溫泉鄉搭乘雪季免費接駁巴士至鹿島槍雪場。
     estimatedTime: 約 3.5-4 小時
     difficulty: medium
-    note: 免費接駁巴士運行期間與班次依雪季公告為準；白馬地區另有付費 HV-1「おおまち号」可前往中綱雪場。
+    note: 免費接駁巴士的運行期間與班次依雪季公告為準；白馬地區另有付費 HV-1「おおまち号」可前往鹿島槍雪場。
+    links:
+    - label: Kashimayari Snow Resort Access
+      url: https://www.kashimayari.net/snow/access/
+  fromNagoya:
+  - label: 名古屋出發
+    steps:
+    - 經中央道／長野道前往安曇野 IC，距離約 188 公里。
+    - 從安曇野 IC 轉乘一般道路前往鹿島槍雪場。
+    difficulty: medium
+    links:
+    - label: Kashimayari Snow Resort Access
+      url: https://www.kashimayari.net/snow/access/
+  fromOsaka:
+  - label: 大阪出發
+    steps:
+    - 經名神／中央道／長野道前往安曇野 IC，距離約 370 公里。
+    - 從安曇野 IC 轉乘一般道路前往鹿島槍雪場。
+    difficulty: hard
+    links:
+    - label: Kashimayari Snow Resort Access
+      url: https://www.kashimayari.net/snow/access/
+  publicTransit:
+  - label: 信濃大町站／大町溫泉鄉免費接駁
+    steps:
+    - 從 JR 信濃大町站或大町溫泉鄉搭乘前往鹿島槍雪場的免費接駁巴士。
+    difficulty: easy
+    note: 免費接駁免預約；運行期間與班次依雪季公告為準。
+    links:
+    - label: Kashimayari Snow Resort Access
+      url: https://www.kashimayari.net/snow/access/
+  - label: Hakuba Valley HV-1「おおまち号」
+    steps:
+    - 從白馬地區搭乘 HV-1「おおまち号」前往鹿島槍雪場。
+    - 單程票價為成人 ¥800、兒童 ¥400。
+    difficulty: easy
+    note: 此路線免預約，班次與停靠站依官方時刻表為準。
     links:
     - label: Kashimayari Snow Resort Access
       url: https://www.kashimayari.net/snow/access/
   car:
     recommended: false
     snowTireRequired: true
-    note: 東京經安曇野 IC 約 215 公里，名古屋經安曇野 IC 約 188 公里，大阪約 370 公里。中央駐車場年末年始與週末假日收費，黑澤與中綱停車場免費；雪季請準備雪胎或雪鏈。
+    note: 東京經安曇野 IC 約 215 公里，或經長野 IC 約 203 公里；名古屋經安曇野 IC 約 188 公里，大阪約 370 公里。中央停車場年末年始（12/29-1/3）與週末假日收費 ¥1,000，黑澤與中綱停車場免費；雪季請準備雪胎或雪鏈。
 terrainSummary:
   beginner: 官方資料顯示有初級者可使用的雪道或家庭設施。
   intermediate: 可依官方雪場圖安排中級巡航路線。
@@ -200,4 +241,4 @@ externalContent:
     note: 犬と暮らす旅人 / Love Nomad Life
 ---
 
-鹿島槍位於長野縣大町市，是白馬 Valley 南側結合滑雪、親子活動與住宿的 Family Park。雪場採盆地狀配置，多數路線最後會回到中央廣場，初學者不容易迷路；從遠見 Grand View、黒沢與林道長距離路線，到 5C 等陡坡，都能依程度安排滑行。雪場另有 Pokémon Snow Adventure、兒童遊戲區與室內親子設施，適合全家一起體驗雪上活動。
+鹿島槍以冬季主題樂園概念串起滑雪與親子活動，盆地型配置讓多數雪道都能回到中央廣場，初學者較容易掌握方向。12 條雪道涵蓋寬緩初級坡、長距離巡航與陡坡挑戰，另有雪上電扶梯、雪胎滑行、Pokémon Snow Adventure 與兒童遊樂設施，適合全家共享雪山行程。

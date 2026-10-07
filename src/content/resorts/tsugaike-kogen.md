@@ -45,10 +45,10 @@ contact:
   phone: 050-1809-2606
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/12-2027/3/22
+  operatingPeriod: 滑走可能日-2027/5/7（1 日券窗口販售自 2026/12/12 起；依積雪狀況調整）
   hours: 8:00-17:00
   nightSkiingHours: 無夜滑
-  note: 初版依公開資料與官方票價頁整理，春滑與實際開放請以官方公告為準。
+  note: 官方雪道頁標示滑走可能日至 2027/5/7，實際開放雪道、纜車與春季營業會依積雪、天候及設備狀況調整；2026-2027 雪季取消夜滑。
   source: https://www.tsugaike.gr.jp/snow/price
 trailMaps:
 - label: 栂池高原雪場圖
@@ -59,13 +59,14 @@ tickets:
   season: 2026-2027
   currency: JPY
   source: https://www.tsugaike.gr.jp/snow/price
+  note: 2026-2027 官方票價包含窗口券、WEB 早割與取消保障選項；IC 票或季票另收保證金，未滿 6 歲兒童由成人陪同時可免費。2026-2027 雪季不提供夜滑券。
   earlyBird:
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0144tk.htm
+    - name: 早割 1 日券（取消保障なし）
+      url: https://www.tsugaike.gr.jp/snow/price
       deadline: "2026-11-30"
-    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
-      url: https://tw.wamazing.com/snow/items/15083
-      deadline: "2026-12-10"
+    - name: 早割午餐套票（取消保障なし）
+      url: https://www.tsugaike.gr.jp/snow/price
+      deadline: "2026-11-30"
   plans:
     - name: 季票（通常券）
       priceLines:
@@ -73,18 +74,40 @@ tickets:
         - 長者（60 歲以上）：¥89,700
         - 小學生：¥66,900
       note: 販售期間為 2026/12/1 起；成人為國中生以上，未滿 6 歲兒童免費。
+    - name: 季票早割（取消保障なし）
+      priceLines:
+        - 成人：¥67,000
+        - 長者（60 歲以上）：¥61,000
+        - 小學生：¥50,200
+      note: 販售期間 2026/9/1-11/30；換票時另收 ¥500 保證金，歸還季票後退款。
+    - name: 季票早割（附取消保障）
+      priceLines:
+        - 成人：¥73,700
+        - 長者（60 歲以上）：¥67,100
+        - 小學生：¥55,220
+      note: 販售期間 2026/9/1-11/30；可於 2027/1/31 前取消，退款為無保障早割價格的 80%。
+    - name: 早割 1 日券（取消保障なし）
+      priceLines:
+        - 成人：¥6,500
+        - 小學生：¥4,600
+      note: 販售期間 2026/9/1-11/30，2026/12/1 起為通常 1 日券窗口價。
+    - name: 早割午餐套票（取消保障なし）
+      priceLines:
+        - 成人：¥7,500
+        - 小學生：¥5,700
+      note: 含 ¥1,200 午餐券；販售期間 2026/9/1-11/30。
     - name: 1 日券（窗口）
       priceLines:
         - 成人：¥9,800
         - 小學生：¥7,000
         - 長者（60 歲以上）：¥8,000
-      note: 窗口販售期間為 2026/12/12-2027/3/22；國中生與高中生可購買青年票 ¥8,000，須出示學生證。
+      note: 窗口販售期間為 2026/12/12-2027/3/22；WEB 充值券販售期間為 2026/12/1-2027/3/22。國中生與高中生可購買青年票 ¥8,000，須出示學生證。
     - name: 2 日券（連續使用）
       priceLines:
         - 成人：¥17,400
         - 小學生：¥12,200
         - 長者（60 歲以上）：¥14,300
-      note: 僅限連續 2 日使用；窗口販售至 2027/3/21。
+      note: 僅限連續 2 日使用；窗口販售至 2027/3/21，國中生與高中生青年 2 日券為 ¥14,300。
     - name: 上午券／下午券
       priceLines:
         - 成人：¥7,800
@@ -111,6 +134,16 @@ tickets:
         - 成人：¥10,800（網路票；窗口通常價 ¥11,000）
         - 小學生：¥8,000（網路票；窗口通常價 ¥8,200）
       note: 含 ¥1,200 午餐券；販售期間為 2026/12/12-2027/3/22。
+    - name: 身心障礙 1 日券
+      priceLines:
+        - 成人：¥6,500
+        - 小學生：¥3,800
+      note: 需出示身心障礙手冊等證明，同伴 1 名可享同項優惠；不提供 WEB 票。
+    - name: 身心障礙 2 日券
+      priceLines:
+        - 成人：¥11,100
+        - 小學生：¥6,300
+      note: 需連續 2 日使用，需出示身心障礙手冊等證明；不提供 WEB 票。
 snowWeather:
   title: 栂池高原雪況天氣
   provider: Weathernews
@@ -125,7 +158,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 20
   courseInfoPage: https://www.tsugaike.gr.jp/snow/gelande
-  summary: 栂池高原雪道配置有 10 條雪道，最長滑走距離 5,000m，山麓有白馬區域最大級寬幅緩坡，高海拔區與 Tsugaike Powder DBD 則適合進階與粉雪需求。
+  summary: 栂池高原是白馬區域的大型雪場，標高 800～1,704 公尺、標高差 904 公尺，共有 10 條雪道，最長滑走距離 5,000 公尺、最大斜度 35°。山麓鐘の鳴る丘擁有超過 1,200 公尺寬的緩坡，適合初學者與家庭；栂の森、馬の背、Champion 與 Tsugaike Powder DBD 則提供高海拔天然雪、陡坡與粉雪體驗。
   details:
   - name: 鐘の鳴る丘ゲレンデ / Kane-no-naruoka Slope
     difficulty: beginner
@@ -209,10 +242,32 @@ access:
     links:
     - label: Tsugaike Mountain Resort Access
       url: https://www.tsugaike.gr.jp/green/access
+  fromOsaka:
+  - label: 大阪出發
+    steps:
+    - 大阪站搭乘東海道新幹線至名古屋站，再轉乘特急信濃至松本站。
+    - 從松本站搭乘 JR 大糸線至南小谷站，再轉乘村營巴士至栂池高原。
+    estimatedTime: 約 5 小時
+    difficulty: hard
+    note: 大阪與栂池高原間也有季節性高速巴士；鐵路、巴士與雪季班次請依當季時刻表確認。
+    links:
+    - label: Tsugaike Mountain Resort Access
+      url: https://www.tsugaike.gr.jp/green/access
+  publicTransit:
+  - label: 白馬站／八方巴士站轉乘
+    steps:
+    - 搭乘白馬－栂池高原路線巴士至栂池高原。
+    - 也可由南小谷站搭乘村營巴士至栂池高原。
+    estimatedTime: 依班次而定
+    difficulty: easy
+    note: 栂池高原、白馬岩岳與八方尾根之間提供期間限定免費三山接駁，限當日使用相關雪場或度假設施的旅客。
+    links:
+    - label: 栂池高原交通與停車場
+      url: https://www.tsugaike.gr.jp/green/access
   car:
     recommended: false
     snowTireRequired: true
-    note: 官方列出的自駕路線可由長野 IC、安曇野 IC 或糸魚川 IC 前往。中央停車場約 300 台、¥500／日，第 2 停車場約 200 台免費，另有栂池住宿旅客專用停車場；冬季請準備雪胎或雪鏈。
+    note: 官方列出的自駕路線可由長野 IC、安曇野 IC 或糸魚川 IC 前往。中央停車場約 300 台、¥500／日（6:00-18:00），第 2 停車場約 200 台免費，栂池住宿旅客專用停車場約 30 台；雪場整體停車容量約 1,500 台，冬季請準備雪胎或雪鏈。
 externalContent:
   blogs:
   - title: 白馬滑雪︱栂池高原滑雪場住宿推薦2026，地點超好的6間栂池飯店&背包客住宿
@@ -251,4 +306,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/tsugaike-kogen/
 ---
 
-栂池高原以寬闊雪場與度假設施更新為特色，適合孩子與初學者安心玩雪。滑雪後可以在 Eve 纜車終點大廳周邊休息放鬆，場內也有敲鐘滑坡、動感走廊等親子設施，並擴大粉雪區，讓不同程度玩家都能找到玩法。
+栂池高原背倚 3,000 公尺級北阿爾卑斯，山麓有寬達 1,200 公尺的大緩斜面，適合親子與初學者安心練習。搭乘全長 4 公里的纜車可前往高處，享受約 5 公里長距離滑行；粉雪區、兒童區、長雪季與 SNOW WOW! 雪上遊樂設施，讓不同程度都能找到玩法。
