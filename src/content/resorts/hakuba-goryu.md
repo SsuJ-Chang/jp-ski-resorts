@@ -50,9 +50,9 @@ trailMaps:
   url: https://www.hakubavalley.com/cms/wp-content/uploads/2025/11/25-26_%E6%97%A5%E8%8B%B1%E4%B8%A6%E8%A8%98.pdf
   sourceLabel: Hakuba Goryu Official
 - label: 白馬五龍 & Hakuba47 雪道圖（日文）
-  language: 日文
+  language: 日本語
   season: 2025-2026
-  url: https://www.hakubavalley.com/cms/wp-content/uploads/2025/11/25-26_%E6%97%A5%E8%8B%B1%E4%B8%A6%E8%A8%98.pdf
+  url: https://www.hakubaescal.com/winter/common/pdf/gelande/gelandemap2025.pdf
   sourceLabel: Hakuba Goryu Official
 tickets:
   season: 2026-2027
