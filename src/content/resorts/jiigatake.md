@@ -40,21 +40,21 @@ contact:
   phone: 0261-22-0551
 season:
   label: 2026-2027
-  operatingPeriod: 請以官方公告為準
-  hours: 請以官方營業時間公告為準
-  note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
+  operatingPeriod: 2026-2027 雪季，日期待官方公布
+  hours: 待官方公布
+  note: 指定官方票價頁目前僅公布 2026-27 年度價格，尚未列出雪季起訖日與每日營業時段。
   source: https://jiigatake.com/price/
 trailMaps:
 - label: 爺岳雪場圖
   language: 日本語
   season: 2026-2027
-  url: https://jiigatake.com/course/
+  url: https://www.hakubavalley.com/cms/wp-content/uploads/2025/10/25-26_%E7%88%BA%E3%82%AC%E5%B2%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4_%E3%82%B2%E3%83%AC%E3%83%B3%E3%83%87%E3%83%9E%E3%83%83%E3%83%97_%E5%8D%98%E7%8B%AC_v01.jpg
   sourceLabel: Jiigatake Snow Resort
 tickets:
   season: 2026-2027
   currency: JPY
   source: https://jiigatake.com/price/
-  note: 2026-2027 年度票價；兒童票適用 3 歲至國中生，學生須出示學生證，熟齡票適用 60 歲以上並須出示證明。寵物票適用於有提供的票種。
+  note: 2026-2027 年度票價；兒童適用 3 歲至國中生，學生須出示學生證，長者適用 60 歲以上並須出示證明。寵物票僅提供一日券、半日券、10 次回數券與單次券。
   earlyBird:
     - name: 完美行
       url: https://tw.wamazing.com/snow/items/15324
@@ -66,24 +66,24 @@ tickets:
     - name: 1 日券
       priceLines:
         - 成人：¥5,500
-        - 兒童／寵物：¥3,300
-        - 學生／熟齡：¥4,500
+        - 兒童 / 寵物：¥3,300
+        - 學生 / 長者：¥4,500
     - name: 平日 1 日券
       priceLines:
         - 成人：¥4,900
         - 兒童：¥2,900
-        - 學生、熟齡：¥3,900
+        - 學生 / 長者：¥3,900
     - name: 半日券
       priceLines:
         - 成人：¥4,000
-        - 兒童：¥2,500
-        - 學生、熟齡：¥3,300
+        - 兒童 / 寵物：¥2,500
+        - 學生 / 長者：¥3,300
       note: 上午時段 8:30～12:30，下午時段 12:00～16:00。
     - name: 2 日券
       priceLines:
         - 成人：¥9,000
-        - 兒童／寵物：¥5,500
-        - 學生／熟齡：¥7,000
+        - 兒童：¥5,500
+        - 學生 / 長者：¥7,000
     - name: 夜間券
       priceLines:
         - 成人：¥3,800
@@ -94,12 +94,21 @@ tickets:
         - 成人 1 名＋兒童 2 名：¥8,800
     - name: 回數券（10 次）
       priceLines:
-        - 成人：¥4,000
+        - 成人 / 寵物：¥4,000
         - 兒童：¥3,000
     - name: 單次券
       priceLines:
-        - 成人：¥500
+        - 成人 / 寵物：¥500
         - 兒童：¥400
+    - name: 障礙者折扣券
+      priceLines:
+        - 成人：¥3,300
+        - 兒童：¥1,700
+    - name: 通常季票
+      priceLines:
+        - 成人：¥50,000
+        - 兒童：¥27,000
+        - 學生 / 長者：¥42,000
 snowWeather:
   title: 爺岳雪況天氣
   provider: Weathernews
@@ -114,7 +123,7 @@ courses:
   intermediateRatio: 30
   advancedRatio: 0
   courseInfoPage: https://jiigatake.com/course/
-  summary: 爺岳位於白馬 Valley 最南端，以寬廣緩坡為主，是家庭與初次接觸滑雪、滑雪板旅客的入門雪場。初級雪道占 70%，主坡エコーゲレンデ視野開闊，最長約 1,500 公尺的かもしかコース可持續練習轉彎與控速；想再進階，可前往雷鳥、ラビット與ポルル等中級路線。除了滑雪，館內也設有兒童公園、雪上活動與多家滑雪、滑雪板學校。
+  summary: 爺岳雪場共有 6 條雪道，初級 70%、中級 30%，最長滑行距離 1,500 公尺，平均坡度 13°、最大坡度 28°。寬廣的一枚緩斜面エコーゲレンデ與かもしかコース適合初學者，雷鳥、ラビット與ポルル則提供中級者更多坡度與林間變化。
   details:
   - name: エコーゲレンデ
     difficulty: beginner
@@ -166,10 +175,30 @@ access:
     links:
     - label: Jiigatake Snow Resort Access
       url: https://jiigatake.com/access/
+  publicTransit:
+  - label: 信濃大町站／大町溫泉鄉免費接駁
+    steps:
+    - 抵達 JR 信濃大町站或大町溫泉鄉後，轉乘爺岳雪場免費接駁巴士。
+    - 也可從信濃大町站搭計程車前往雪場。
+    estimatedTime: 約 15 分
+    difficulty: easy
+    note: 接駁時刻表與運行期間依官方當季公告為準。
+    links:
+    - label: 爺岳官方交通資訊
+      url: https://jiigatake.com/access/
+  - label: Hakuba Valley 接駁巴士
+    steps:
+    - 搭乘 Hakuba Valley 白馬至大町間接駁巴士。
+    - 依時刻表在爺岳雪場站下車。
+    difficulty: easy
+    note: 此接駁為付費服務，班次與停靠站依官方時刻表為準。
+    links:
+    - label: 爺岳官方交通資訊
+      url: https://jiigatake.com/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 從安曇野 IC 經一般道路約 45 分鐘；官網亦列東京方向經中央、長野道約 140 分鐘後抵安曇野 IC。停車場可容納約 800 輛車且全日免費，雪季請準備雪胎或雪鏈。
+    note: 從安曇野 IC 經一般道路約 45 分鐘；東京方向由八王子 IC 至安曇野 IC 約 140 分鐘後再行 45 分鐘，名古屋方向由小牧 IC 至安曇野 IC 約 150 分鐘後再行 45 分鐘。冬季道路請準備雪胎或雪鏈。
 terrainSummary:
   beginner: 約 70% 為初級坡面，エコーゲレンデ、かもしかコース與林間コース坡度平緩、寬度充足；雪上電梯附近另有適合首次穿雪具兒童的練習區。
   intermediate: 約 30% 為中級路線。雷鳥コース上段較有坡度，中段混合緩坡與中斜面；ラビットコース坡度變化較少，ポルルコース則適合第一次嘗試樹林滑行。
@@ -183,4 +212,4 @@ externalContent:
   vlogs: []
 ---
 
-爺岳位於長野縣，頁面以已整理的雪場基本資料為主。若雪道細節來源不足，內文只保留可確認的資訊，不另外延伸形容。
+爺岳雪場以寬廣、視野良好的緩斜面為主，初級雪道約佔 70%，適合家庭與初次滑雪者建立信心。上部設有安靜的林間中斜面，晴天可眺望安曇野；山麓兒童區另有雪上遊具，讓小朋友不搭纜車也能安心享受雪地活動。

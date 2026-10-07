@@ -46,27 +46,42 @@ contact:
     googleMaps: https://maps.app.goo.gl/5QCNFQJ2BPkXSst79
   phone: 0261-72-3066
 season:
-  label: 2025-2026
-  operatingPeriod: 原定 2025/12/1-2026/5/6；實際滑雪營業 2025/12/6-2026/4/19
-  hours: 一般日間約 8:00-16:00，實際依當日纜車公告與天候調整
-  note: 官方原訂 2026/5/6 前營業，但因融雪導致安全維持困難，2025-2026 雪季滑雪與雪板營業於 2026/4/19 提前結束；4/20-5/6 僅保留八方 Alpine Line 觀光 / 登山用途。
-  source: https://www.happo-one.jp/news/38164/
+  label: 2026-2027
+  operatingPeriod: 2026/12/1-2027/5/5（票券適用期間；實際開放依雪況與纜車運行公告）
+  hours: 上午券為開放至 12:00，下午券為 12:00 至關閉；每日關閉時間依季節與天候調整
+  note: 2026-2027 票價頁將 12/1-12/18 列為季初、12/19-3/22 列為高峰期、3/23-5/5 列為春季；積雪、風況或雪崩管理可能延後開放或停止部分纜車。
+  source: https://www.happo-one.jp/ticket/
 trailMaps:
 - label: 白馬八方尾根雪場圖
   language: 日本語
   season: 2025-2026
-  url: https://www.happo-one.jp/wp2019/wp-content/themes/happo-one2020/img/info/pamphlet/2025-2026/course_map.pdf
+  url: https://www.hakubavalley.com/cms/wp-content/uploads/2025/11/2025-2026%E3%82%B2%E3%83%AC%E3%83%B3%E3%83%87%E3%83%9E%E3%83%83%E3%83%97-QR%E7%84%A1%E3%81%97.pdf
   sourceLabel: Hakuba Happo-one Snow Resort
 tickets:
   season: 2026-2027
   currency: JPY
   source: https://www.happo-one.jp/ticket/
-  note: 2026-2027 年度分為季初、高峰與春季價格；兒童票適用 6～17 歲，未滿 6 歲幼兒可免費搭乘纜車與雪場吊椅（需至售票處辦理）。
+  note: 2026-2027 年度分為季初、高峰與春季價格；兒童票適用 6～17 歲，未滿 6 歲幼兒免費（需與本人及身分證明一同至售票處辦理）。線上票須事先購買，非連續日票不可由多人同日共用。
   earlyBird:
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0142tk.htm
+    - name: MyNumber 早割 1 日券
+      url: https://www.happo-one.jp/ticket/
       deadline: "2026-11-30"
   plans:
+    - name: MyNumber 早割（線上限定）
+      priceLines:
+        - 1 日券：¥6,400
+        - 1 日券＋¥1,500 餐券套票：¥7,500
+        - 2 日券：¥12,600
+        - 3 日券：¥18,300
+        - 4 日券：¥24,000
+        - 6 日券：¥36,000
+        - 8 日券：¥48,000
+        - 10 日券：¥60,000
+      note: 販售期間 2026/10/1-11/30；需持 MyNumber 卡，使用期間 2026/12/19-2027/5/5。
+    - name: 早割 2 日券（線上限定）
+      priceLines:
+        - 成人：¥16,600
+      note: 2026/12/19-2027/5/5 可使用，非連續日；不限定地區且無兒童、熟齡票種。
     - name: 季初 1 日券（12/1～12/18）
       priceLines:
         - 成人：¥6,400
@@ -96,11 +111,25 @@ tickets:
         - 成人：¥4,900
         - 兒童：¥2,450
       note: 限名木山第 2、名木山第 3、白樺第 1、白樺第 2、咲花第 2、咲花第 3 與咲花北尾根纜車。
+    - name: 八方初學者 2 日券
+      priceLines:
+        - 成人：¥9,800
+        - 兒童：¥4,900
+      note: 限定使用初學者區域的指定纜車，非全山票。
     - name: 春季 1 日券（3/23～5/5）
       priceLines:
         - 成人：¥6,400
         - 兒童：¥3,200
         - 熟齡：¥6,000
+    - name: 春季 2 日券（非連續日）
+      priceLines:
+        - 成人：¥12,800
+        - 兒童：¥6,400
+    - name: 山麓纜車單程券
+      priceLines:
+        - 成人：¥800
+        - 兒童：¥800
+      note: 限名木山第 2、名木山第 3、白樺第 1、白樺第 2、咲花第 2、咲花第 3 等山麓纜車。
 snowWeather:
   title: 白馬八方尾根雪況天氣
   provider: Weathernews
@@ -115,7 +144,7 @@ courses:
   intermediateRatio: 50
   advancedRatio: 20
   courseInfoPage: https://www.happo-one.jp/gelande/
-  summary: 白馬八方尾根是日本代表性的國際山岳型雪場，曾是 1998 年長野冬季奧運競賽場地。山頂標高 1,831 公尺，可眺望白馬三山、五龍岳與妙高山等北阿爾卑斯群峰；16 條雪道涵蓋初級練習坡、中級長距離巡航，以及兎平、黑菱與奧運競賽路線等上級地形，最長可滑 8,000 公尺。
+  summary: 白馬八方尾根是 1998 年長野冬季奧運競賽場地，滑走面積約 220 公頃，標高 760～1,831 公尺。16 條雪道涵蓋初級練習坡、中級長距離巡航、兎平與黑菱不整地，以及奧運競賽路線；從リーゼングラート經黑菱、Skyline 滑至咲花的最長路線約 8,000 公尺，可眺望白馬三山、五龍岳與北阿爾卑斯群峰。
   details:
   - name: リーゼンスラロームコース
     difficulty: intermediate
@@ -232,10 +261,10 @@ access:
     - 從白馬八方巴士總站步行或轉乘村內 / 雪場接駁至 Gondola Adam、名木山或咲花入口。
     estimatedTime: 約 3-4 小時
     difficulty: medium
-    note: 官方 access 頁提供東京、名古屋、大阪、新潟、金澤、札幌、福岡等出發地入口；雪季接駁與巴士班次需以當季時刻表為準。依新幹線與巴士銜接而定。
+    note: 也可由新宿搭特急梓至松本，再轉 JR 大糸線與路線巴士；雪季巴士與接駁班次依當季時刻表為準。
     links:
-    - label: Hakuba Happo-one Snow Resort Access
-      url: https://www.happo-one.jp/access/
+    - label: 東京出發交通
+      url: https://www.happo-one.jp/access/tokyo
   fromNagoya:
   - label: 名古屋出發
     steps:
@@ -244,10 +273,10 @@ access:
     - 從白馬站轉乘巴士或計程車至白馬八方尾根各入口。
     estimatedTime: 約 3.5-4.5 小時
     difficulty: medium
-    note: 依大糸線與巴士銜接而定，雪季班次需以當季時刻表為準。
+    note: 官方路線為特急信濃、JR 大糸線與路線巴士；實際時間依列車及巴士銜接而定。
     links:
-    - label: Hakuba Happo-one Snow Resort Access
-      url: https://www.happo-one.jp/access/
+    - label: 名古屋出發交通
+      url: https://www.happo-one.jp/access/nagoya
   fromOsaka:
   - label: 大阪出發
     steps:
@@ -256,18 +285,29 @@ access:
     - 從白馬站轉乘巴士或計程車至白馬八方尾根各入口。
     estimatedTime: 約 4.5-5.5 小時
     difficulty: medium
-    note: 實際時間依新幹線、特急與大糸線班次銜接而定，雪季請依官方時刻表安排行程。
+    note: 可由新大阪經名古屋、松本轉乘；大阪也有經金澤、糸魚川的替代路線，冬季連絡巴士是否運行需查當季公告。
     links:
-    - label: Hakuba Happo-one Snow Resort Access
+    - label: 大阪出發交通
+      url: https://www.happo-one.jp/access/osaka
+  publicTransit:
+  - label: 白馬站轉乘路線巴士
+    steps:
+    - 搭乘 JR 大糸線至白馬站。
+    - 轉乘路線巴士至白馬八方巴士總站，再步行或接駁至各入口。
+    estimatedTime: 依班次而定
+    difficulty: easy
+    note: 班次依季節調整；可先確認長野-白馬線、猿倉線與白馬大町地區巴士資訊。
+    links:
+    - label: 白馬八方尾根交通總覽
       url: https://www.happo-one.jp/access/
   car:
     recommended: false
     snowTireRequired: true
-    note: 雪季自駕需準備雪胎或雪鏈；官方列出雪場周邊停車場與道路狀況入口，尖峰日建議先確認停車與接駁。
+    note: 雪場附近 6 處免費停車場合計約 1,100 台；Gondola 附近另有 A～C 3 處收費停車場，每日 ¥1,000。冬季除雪期間 18:00-翌日 6:00 禁止停車，全年禁止車中泊；雪季請使用雪胎或雪鏈。
 terrainSummary:
-  beginner: 初級比例約 30%，白樺、咲花與黑菱林道等路線可用來練基本轉彎與長距離下滑；但下部部分區域仍可能有中級斜度，初學者要看當日開放狀態。
+  beginner: 初級比例約 30%，白樺、咲花與黑菱林道等路線可用來練基本轉彎與長距離下滑；白樺下部仍有中級斜面，初學者要依當日開放狀態選擇路線。
   intermediate: 中級比例約 50%，Riesen Slalom、Panorama、Skyline 等路線是主力巡航區，適合已能穩定控制速度的人安排一日滑行。
-  advanced: 上級比例約 20%，兎平、黑菱、展望與不整地區域有較大斜度、饅頭與粉雪地形，天候差或能見度低時難度會明顯提高。
+  advanced: 上級比例約 20%，兎平、黑菱、展望與奧運路線有最高 37° 的斜度、饅頭與粉雪地形；天候差或能見度低時難度會明顯提高。
   snowboard: 官方統計滑雪 / 雪板比例約 60% / 40%；山體大、移動距離長，雪板使用者需留意林道與緩斜連絡路的速度維持。
   powder: 山頂與兎平、黑菱一帶降雪後有粉雪與不整地條件，但八方也有 backcountry 出入口，離開管理區需登山計畫與安全裝備。
 externalContent:
@@ -287,4 +327,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/hakuba-happo-one/
 ---
 
-白馬八方尾根以壯闊山景與大落差滑行聞名，能在北阿爾卑斯景色中感受長距離下滑的開闊感。雪場保留山岳地形與白馬在地山村氛圍，滑道從寬闊巡航到較具挑戰性的坡面都有，是白馬代表性的山岳型雪場。
+白馬八方尾根是 1998 年長野冬季奧運競賽場地，滑走面積約 220 公頃、標高 760～1,831 公尺，最長滑行距離約 8 公里。16 條雪道從初級練習坡、中級長距離巡航到兎平、黑菱不整地與奧運競賽路線，呈現白馬代表性的山岳地形與北阿爾卑斯景觀。

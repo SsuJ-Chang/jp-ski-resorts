@@ -37,39 +37,45 @@ contact:
     googleMaps: https://maps.app.goo.gl/nmXj91twuVNhCuzd6
   phone: 0261-75-2101
 season:
-  label: 2025-2026
-  operatingPeriod: 雪場營業開始至 2026/5/6（或雪場關閉為止）
-  hours: 2026/3/31 前票務中心 7:45-17:00、2026/4/1-5/6 為 8:00-16:45
-  nightSkiingHours: 18:00-21:30（夜滑票 17:30 起販售）
-  note: 實際開放範圍與時間會依雪況調整，出發前請確認官方公告。
+  label: 2026-2027
+  operatingPeriod: 開季至 2027-05-06（雪場營業結束為止）
+  hours: 一般纜車約 08:00-16:30；Toomi 週末與假日另有 07:00 起的日出營業
+  nightSkiingHours: 18:00-21:30（IIMORI 最晚至 21:20）
+  note: 2026-2027 雪季的開季日期與各纜車實際運行時間仍會依積雪、天候與當日開放狀態調整。
   source: https://www.hakubaescal.com/winter/tickets/lift/
 trailMaps:
 - label: 白馬五龍 & Hakuba47 雪道圖（英文）
   language: 英文
   season: 2025-2026
-  url: https://www.hakubaescal.com/winter-en/common/pdf/gelande/gelandemap2025.pdf
+  url: https://www.hakubavalley.com/cms/wp-content/uploads/2025/11/25-26_%E6%97%A5%E8%8B%B1%E4%B8%A6%E8%A8%98.pdf
   sourceLabel: Hakuba Goryu Official
 - label: 白馬五龍 & Hakuba47 雪道圖（日文）
   language: 日文
   season: 2025-2026
-  url: https://www.hakubaescal.com/winter/common/pdf/gelande/gelandemap2025.pdf
+  url: https://www.hakubavalley.com/cms/wp-content/uploads/2025/11/25-26_%E6%97%A5%E8%8B%B1%E4%B8%A6%E8%A8%98.pdf
   sourceLabel: Hakuba Goryu Official
 tickets:
   season: 2026-2027
   currency: JPY
   source: https://www.hakubaescal.com/winter/tickets/lift/
-  note: 2026-2027 年度共通纜車票價摘要，適用白馬五龍與 Hakuba47；線上購票、季節優惠與年齡證明規則以官方票價頁為準。
+  note: 2026-2027 年度白馬五龍與 Hakuba47 共通纜車票價；新購 IC 卡票另含 ¥500 保證金，歸還卡片時退還。青年票適用 13-22 歲，僅限窗口購買並須出示附照片身分證件。
   earlyBird:
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0041tk.htm
       deadline: "2026-12-15"
   plans:
-    - name: 1 日券
+    - name: 線上充值 1 日券
+      priceLines:
+        - 成人（23-64 歲）：¥8,200
+        - 長者（65-79 歲）：¥7,700
+        - 兒童（6-12 歲）：¥3,600
+      note: 適用於既有 IC 卡的線上充值；青年票僅限窗口販售。
+    - name: 1 日券（新購）
       priceLines:
         - 成人：¥9,500
         - 長者：¥9,000
         - 兒童：¥4,300
-      note: 當日 17:00 前有效
+      note: 青年（13-22 歲）僅限窗口販售；票券限當季使用。
     - name: 2 日券
       priceLines:
         - 成人：¥17,500
@@ -80,26 +86,19 @@ tickets:
         - 成人：¥25,000
         - 長者：¥24,500
         - 兒童：¥11,300
-      note: 雪季內任選 2 日有效
-    - name: 半日券
+    - name: 特別折扣 1 日券（開季～12/15、3/15～閉場）
       priceLines:
         - 成人：¥8,500
-        - 兒童：¥3,900
-      note: 開始營業至 13:00，或 12:00 至結束營業
+        - 長者：¥8,500
+        - 兒童：¥3,800
+      note: 青年票僅限窗口販售；實際適用日期依雪季公告為準。
     - name: 夜滑券
       priceLines:
         - 成人：¥6,500
+        - 長者：¥6,500
+        - 青年：¥4,000
         - 兒童：¥3,000
-      note: Toomi Slope 與 Iimori Slope，18:00-21:30
-    - name: 特別折扣 1 日券（開季～12/15、3/15～閉鎖）
-      priceLines:
-        - 成人：¥8,500
-        - 兒童：¥3,800
-    - name: 五龍夜滑券
-      priceLines:
-        - 成人：¥6,500
-        - 兒童：¥3,000
-      note: Toomi 與 Iimori 雪道夜間營業時使用；夜滑券不可線上加值。
+      note: 適用 Toomi 與 IIMORI 夜滑區域；夜滑時段約 18:00-21:30，票券不可線上充值。
 snowWeather:
   title: 白馬五龍雪況天氣
   provider: Weathernews
@@ -113,7 +112,7 @@ courses:
   intermediateRatio: 25
   advancedRatio: 25
   courseInfoPage: https://www.hakubaescal.com/winter/gelande/course/
-  summary: 白馬五龍與 Hakuba47 共通滑雪區共有 24 條雪道，從初級與親子緩坡、TOOMI／IIMORI 夜滑，到高海拔展望、非壓雪與上級路線，適合規劃白馬滑雪與多日行程。
+  summary: 白馬五龍與 Hakuba47 共通滑雪區共有 24 條雪道，涵蓋初級與親子緩坡、TOOMI／IIMORI 夜滑、高海拔展望、非壓雪與上級路線。五龍本區可從緩斜長坡一路延伸至阿爾卑斯平，適合在同一張共通票中安排不同程度的滑行。
   details:
   - name: ソフトクリームコース / Soft Cream Course
     difficulty: beginner
@@ -291,11 +290,51 @@ access:
     - 也可從新宿搭特急 Azusa 到白馬站，約 4 小時，再銜接接駁巴士或計程車。
     estimatedTime: 約 2 小時 40 分～5 小時
     difficulty: medium
-    note: 五龍、IIMORI 與 Hakuba47 之間有免費三角接駁巴士；Hakuba Valley 接駁亦設有白馬五龍站牌，營運期間與班次依雪季公告為準。
+    note: 東京方向自駕約 4 小時；五龍、IIMORI 與 Hakuba47 之間有免費三角接駁巴士，營運期間與班次依雪季公告為準。
+    links:
+    - label: Hakuba Goryu Official Access
+      url: https://www.hakubaescal.com/winter/access/
+  fromNagoya:
+  - label: 名古屋出發
+    steps:
+    - 搭乘 JR 特急「しなの」前往白馬站，約 3 小時 30 分。
+    - 從白馬站轉乘接駁巴士或計程車前往白馬五龍。
+    estimatedTime: 約 3 小時 30 分
+    difficulty: medium
+    links:
+    - label: Hakuba Goryu Official Access
+      url: https://www.hakubaescal.com/winter/access/
+  fromOsaka:
+  - label: 大阪出發
+    steps:
+    - 搭乘特急與北陸新幹線經敦賀、長野，再轉乘長野站至白馬五龍的路線巴士。
+    estimatedTime: 約 4 小時 50 分
+    difficulty: hard
+    links:
+    - label: Hakuba Goryu Official Access
+      url: https://www.hakubaescal.com/winter/access/
+  publicTransit:
+  - label: 白馬五龍／IIMORI／Hakuba47 免費三角接駁
+    steps:
+    - 依雪季接駁時刻表，在白馬五龍、IIMORI 與 Hakuba47 三個雪區之間轉乘。
+    difficulty: easy
+    note: 免費接駁的運行期間與班次依當季官方公告為準。
+    links:
+    - label: Hakuba Goryu Official Access
+      url: https://www.hakubaescal.com/winter/access/
+  - label: Hakuba Valley 接駁巴士
+    steps:
+    - 搭乘 Hakuba Valley 接駁巴士，在白馬五龍站下車。
+    - 持 Hakuba Valley 纜車票可免費搭乘；未持票時單程成人 ¥800、兒童 ¥400。
+    difficulty: easy
+    note: 班次與運行期間依官方接駁時刻表為準。
+    links:
+    - label: Hakuba Goryu Official Access
+      url: https://www.hakubaescal.com/winter/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 東京方向約 4 小時，可由長野道安曇野 IC 或上信越道長野 IC 方向進入；富山方向經糸魚川 IC 約 2 小時。11 月底至 3 月底必須使用雪胎，停車場禁止夜間停車與車宿。
+    note: 東京方向約 4 小時，可由長野道安曇野 IC 或上信越道長野 IC 方向進入；富山方向經糸魚川 IC 約 2 小時，大阪方向約 5 小時 30 分。11 月底至 3 月底必須使用雪胎，停車場禁止夜間停車與車宿。
   rjOpinion: |-
     非自駕建議：
     1. 成田機場搭 **Skyliner** 到**京城上野**。
@@ -331,4 +370,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/hakuba-goryu-47/
 ---
 
-白馬五龍由 ALPS、TOOMI、IIMORI 等區域組成，雪季長，滑道類型包含比賽路線、貓跳、snow park 與兒童滑道。雪場每天進行整雪維護，從初學者、親子到想挑戰不同地形的玩家，都能在同一座雪場裡找到合適區域。
+白馬五龍由 ALPS、TOOMI、IIMORI 三個區域組成，並與 Hakuba47 共用 24 條雪道。ALPS 以高海拔雪質與北阿爾卑斯景觀見長，TOOMI 與 IIMORI 提供寬闊緩坡、兒童區與夜間滑行；比賽坡、貓跳、非壓雪與雪地公園則讓進階玩家能在同一張共通票中找到不同地形。
