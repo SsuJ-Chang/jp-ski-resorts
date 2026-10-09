@@ -44,69 +44,71 @@ contact:
     googleMaps: https://maps.app.goo.gl/gHpyTXkkacTJhz7RA
   phone: 025-787-3211
 season:
-  label: 2025-2026
-  operatingPeriod: 2025 年 12 月 20 日～2026 年 3 月 29 日
+  label: 2026-2027
+  operatingPeriod: 2026/12/19-2027/3/28（預定）
   hours: 日間 8:00～17:00；有夜滑營業日時營業至 19:00 或 20:00
-  nightSkiingHours: 2025 年 12 月 20 日～2026 年 3 月 28 日，平日、週日與連休最終日至 19:00，週六至 20:00
-  note: 營業期間、時間與開放範圍會受積雪與天候影響，3 月 29 日沒有夜滑營業。
+  nightSkiingHours: 2026/12/19-2027/3/27；平日、週日與連休最終日至 19:00，週六至 20:00
+  note: 3/28 不設夜滑；營業期間、時間與開放範圍可能依積雪與天候調整。
   source: https://iwa-ppara.com/price/
 trailMaps:
 - label: 岩原雪場圖
   language: 日本語
-  season: 2025-2026
-  url: https://iwa-ppara.com/wp-content/uploads/2024/10/gelandemap_2024.jpg
+  season: 2026-2027
+  url: https://iwa-ppara.com/gelande/
   sourceLabel: Iwappara Ski Resort
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://iwa-ppara.com/price/
-  note: 官網目前公開 2025-2026 雪季票價；夜滑結束時間平日、週日與連假最後一天為 19:00，週六為 20:00。
-  earlyBird:
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0298tk.htm
-      deadline: "2026-12-04"
+  note: 夜滑結束時間平日、週日與連假最後一天為 19:00，週六為 20:00；3/28 不設夜滑。
   plans:
     - name: 下午暨夜滑入場券
       priceLines:
         - 成人（國中生以上） ¥4,500
-        - Junior（3 歲至小學生） ¥2,800
-        - Master（60 歲以上） ¥3,500
+        - 兒童（3 歲至小學生） ¥2,800
+        - 長者（60 歲以上） ¥3,500
       note: 13:00 起至夜滑結束。
     - name: 1 日入場券
       priceLines:
         - 成人（國中生以上） ¥5,500
-        - Junior（3 歲至小學生） ¥3,500
-        - Master（60 歲以上） ¥4,300
+        - 兒童（3 歲至小學生） ¥3,500
+        - 長者（60 歲以上） ¥4,300
       note: 8:00～17:00。
     - name: 1 日入場券＋夜滑
       priceLines:
         - 成人（國中生以上） ¥5,800
-        - Junior（3 歲至小學生） ¥3,800
-        - Master（60 歲以上） ¥4,600
+        - 兒童（3 歲至小學生） ¥3,800
+        - 長者（60 歲以上） ¥4,600
       note: 8:00 起至夜滑結束。
     - name: 2 日入場券
       priceLines:
         - 成人（國中生以上） ¥8,800
-        - Junior（3 歲至小學生） ¥5,600
-        - Master（60 歲以上） ¥6,800
+        - 兒童（3 歲至小學生） ¥5,600
+        - 長者（60 歲以上） ¥6,800
       note: 8:00 起至第二天 17:00。
     - name: 2 日入場券＋夜滑
       priceLines:
         - 成人（國中生以上） ¥9,200
-        - Junior（3 歲至小學生） ¥6,000
-        - Master（60 歲以上） ¥7,200
+        - 兒童（3 歲至小學生） ¥6,000
+        - 長者（60 歲以上） ¥7,200
       note: 8:00 起至第二天夜滑結束。
     - name: 3 日入場券
       priceLines:
         - 成人（國中生以上） ¥11,500
-        - Junior（3 歲至小學生） ¥7,300
-        - Master（60 歲以上） ¥9,000
+        - 兒童（3 歲至小學生） ¥7,300
+        - 長者（60 歲以上） ¥9,000
       note: 8:00 起至第三天 17:00。
+    - name: 3 日入場券＋夜滑
+      priceLines:
+        - 成人（國中生以上） ¥12,000
+        - 兒童（3 歲至小學生） ¥7,800
+        - 長者（60 歲以上） ¥9,500
+      note: 8:00 起至第三天夜滑結束。
     - name: 夜滑入場券
       priceLines:
         - 成人（國中生以上） ¥1,500
-        - Junior（3 歲至小學生） ¥1,000
-        - Master（60 歲以上） ¥1,000
+        - 兒童（3 歲至小學生） ¥1,000
+        - 長者（60 歲以上） ¥1,000
       note: 17:00 起至夜滑結束。
     - name: 單次入場券
       priceLines:
@@ -126,7 +128,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 20
   courseInfoPage: https://iwa-ppara.com/gelande/
-  summary: 全 20 條雪道，整體難度配置約為初級 40%、中級 40%、上級 20%；初級與中級路線占比高，另有最大斜度 35° 的上級與未整雪路線。特色是寬廣緩坡與家庭、初學者友善的雪場配置。
+  summary: 20 條雪道以長距離與寬闊坡面為特色，初級、中級、上級約占 40%、40%、20%；除初級者可串接約 4,000m 的長滑，亦有最大坡度 35° 的急斜面、非壓雪與蘑菇坡。
   details:
   - name: 1 メインバーン
     difficulty: beginner
@@ -175,7 +177,7 @@ courses:
     averageSlope: 12°
     note: 寬廣緩坡，可與山頂起點的 16、20、3、8、10 串接，形成約 4,000m 的初級者連續滑行路線。
   - name: 9 テラスコース
-    difficulty: beginner
+    difficulty: intermediate
     length: 400m
     maxSlope: 18°
     averageSlope: 12°
@@ -232,13 +234,13 @@ courses:
     averageSlope: 18°
     note: 會用於徽章檢定的練習路線，平日可能以未整雪呈現，假日多為整雪；條件合適時也可能形成饅頭坡。
   - name: 7 パノラマコース
-    difficulty: intermediate
+    difficulty: beginner
     length: 220m
     videoLinks:
     - https://www.youtube.com/watch?v=HVeWkz-Zkdk&t=546s
     maxSlope: 18°
     averageSlope: 12°
-    note: 起滑段較平緩，能俯瞰度假公寓群；後段與フロントコース合流，坡度變化時要留意速度。
+    note: 起滑段平緩、可俯瞰度假公寓群；後段與フロントコース合流，坡度開始變化。
   - name: 10 フロントコース
     difficulty: intermediate
     length: 400m
@@ -299,26 +301,35 @@ lifts:
   total: 9
 access:
   fromTokyo:
-    - label: 東京站
+    - label: 東京搭新幹線與免費接駁
       steps:
         - 東京站搭乘上越新幹線至越後湯澤站
-        - 由越後湯澤站搭乘接駁車或接駁巴士前往雪場
-      estimatedTime: 約 1 小時 40 分鐘
+        - 由越後湯澤站東口搭乘免費接駁巴士前往雪場
+      estimatedTime: 約 1.5 小時
       difficulty: easy
-      note: 接駁車班次與預約方式依官方交通頁及當季公告。
+      note: 週末、國定假日與 12/28-1/1 提供不需預約的定期接駁；車站東口出站後沿拱廊步行至巴士站。
       links:
         - label: 岩原滑雪場交通資訊
           url: https://iwa-ppara.com/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 關越自動車道湯澤 IC 出口後依指示前往雪場。平日停車免費；週末與年末年始指定期間部分停車區需付費或事前預約。
+    note: 關越自動車道湯澤 IC 出口後依指示前往雪場。平日全停車場免費；週末、國定假日與 12/28-1/1 的 P1、P2 停車場收費，P2 可預約。
 terrainSummary:
   beginner: 寬廣緩坡是岩原主要特色，ワイドバーン、メインバーン、クルーズコース等路線適合初學者練習與長距離滑行。
   intermediate: 中級路線分布在前山、西側與山頂繞行區，フロントコース、ウエストコース、スカイコース等適合練習轉彎節奏與速度控制。
   advanced: ジャイアントコース與テクニカルコース最大斜度 35°，部分上部或雪況可呈現未整雪、深雪與饅頭坡條件。
   snowboard: 整體滑行者組成約雙板 60%、單板 40%，寬坡與中級路線對單板也相對友善。
   powder: 未整雪與饅頭坡比例雖不高，但ジャイアント、テクニカル、ナチュラル等路線在新雪後有粉雪與不整地練習空間。
+sources:
+  - label: 岩原滑雪場雪票與營業時間
+    url: https://iwa-ppara.com/price/
+  - label: 岩原滑雪場雪道資訊
+    url: https://iwa-ppara.com/gelande/
+  - label: 岩原滑雪場交通資訊
+    url: https://iwa-ppara.com/access/
+  - label: SURF&SNOW 岩原滑雪場指南
+    url: https://surfsnow.jp/guide/htm/r0298gc1.htm
 externalContent:
   blogs:
   - title: 岩原滑雪場攻略2026，雪道平緩、滑雪新手練功首選！岩原滑雪場特色、交通、票價、美食介紹
@@ -329,4 +340,4 @@ externalContent:
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=344s
     note: MIRU tube JAPAN 【Route Guide】
 ---
-岩原滑雪場擁有 20 條滑道，從寬闊緩坡、初學者長距離路線，到不整地、粉雪與貓跳地形都相當完整。夜滑時段可在開闊主斜面與指定滑道持續練習，適合家庭初學者與想挑戰陡坡的進階滑雪者。
+岩原的 20 條雪道以「長與寬」為核心特色：最大寬度 200m 的主雪場鋪展在谷川連峰前，初、中級各占四成，能從山頂串接 4,000m 的初級長滑。除了平整寬坡，也有最大 35° 的急斜面、自然 bank、非壓雪與蘑菇坡；一家同行能各自挑選難度，進階滑行者也有明確挑戰。
