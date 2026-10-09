@@ -106,6 +106,9 @@ terrainSummary:
   intermediate: 中級雪道約 50%，是主要滑行與轉彎練習區段。
   advanced: 高級雪道約 30%，可安排較有坡度與速度感的滑行。
   powder: 降雪條件好時可期待鬆雪感，實際仍需以當日開放區域與安全管制為準。
+externalGuide:
+  title: 關溫泉，妙高豪雪與深粉雪愛好者的秘境
+  url: https://www.japowdb.com/zh-tw/resorts/seki-onsen/
 ---
 
 妙高高原關溫泉位於新潟縣妙高高原，重點在雪量與自然雪面的厚度感，不是單靠雪道數取勝的雪場。若碰上降雪後的好日子，主線與側邊段落都會比一般壓雪巡航更有存在感。

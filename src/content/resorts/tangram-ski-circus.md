@@ -267,6 +267,9 @@ terrainSummary:
   intermediate: 中級雪道約 40%，可在展望型路線與銜接線之間自由串聯。
   advanced: 高級雪道約 30%，包含非壓雪、樹林滑行與斜度較強的挑戰路線。
   snowboard: 全區適合單板；主線、樹林滑行與地形變化區能提供很完整的玩法。
+externalGuide:
+  title: Tangram 滑雪廣場，與斑尾連滑的北信州粉雪度假雪場
+  url: https://www.japowdb.com/zh-tw/resorts/tangram-ski-circus/
 ---
 
 Tangram 滑雪廣場與ホテルタングラム相連，19 條雪道從親子練習線到非壓雪樹林滑行都有。山麓適合輕鬆回場與初學者練習，山頂與側邊則保留較有坡度的長線與深雪路線，整體很適合住宿型滑行。

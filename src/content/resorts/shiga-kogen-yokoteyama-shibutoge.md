@@ -1,7 +1,7 @@
 ---
 id: shiga-kogen-yokoteyama-shibutoge
 name:
-  zhTw: 横手山・涉峠
+  zhTw: 横手山・澀峠
   ja: 横手山・渋峠スキー場
   en: Yokoteyama・Shibutoge Ski Area
 region: kanto-koshinetsu
@@ -50,7 +50,7 @@ tickets:
   season: 2025-2026
   currency: JPY
   source: https://yokoteyama2307.com/price/
-  note: 橫手山・涉峠滑雪場區域票價，兒童為小學生，長者為60歲以上，中高校生為12至18歲。
+  note: 橫手山・澀峠滑雪場區域票價，兒童為小學生，長者為60歲以上，中高校生為12至18歲。
   plans:
     - name: 旺季區域券（12/20-3/31）
       priceLines:
@@ -74,7 +74,7 @@ tickets:
         - 中高校生：1日6,300日圓 / 2日12,100日圓 / 3日17,900日圓
         - 兒童：1日4,000日圓 / 2日7,500日圓 / 3日11,000日圓
 snowWeather:
-  title: 橫手山雪況天氣
+  title: 橫手山・澀峠雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34804/
   snowDepth: 0 cm
@@ -87,7 +87,7 @@ courses:
   advancedRatio: 15
   total: 6
   courseInfoPage: https://yokoteyama2307.com/course/
-  summary: 橫手山・涉峠滑雪場最高標高2,307公尺，是日本滑雪場中標高最高的雪場之一，雪季可延續至5月下旬。晴天可眺望北阿爾卑斯，並能一路滑行約4,000公尺下坡至熊之湯。
+  summary: 橫手山・澀峠滑雪場最高標高2,307公尺，是日本滑雪場中標高最高的雪場之一，雪季可延續至5月下旬。晴天可眺望北阿爾卑斯，並能一路滑行約4,000公尺下坡至熊之湯。
   details:
   - name: 海和雪道 / 海和ゲレンデ / Kaiwa Slope
     difficulty: intermediate
@@ -157,6 +157,9 @@ externalContent:
   - title: 【日本自由行】EP2 熊之湯滑雪場❄️志賀高原最長距離！熊之湯滑到橫手山⛄一之瀨到熊之湯！雪道、山景全紀錄！交通攻略！長電巴士！
     url: https://www.youtube.com/watch?v=cac22zGaG9c
     note: 和Ivy去旅行
+externalGuide:
+  title: 橫手山・澀峠，日本最高海拔雪道與壯闊雲海
+  url: https://www.japowdb.com/zh-tw/resorts/shiga-kogen-yokoteyama-shibutoge/
 ---
 
-橫手山・涉峠滑雪場位於志賀高原最高處，山頂標高達2,307公尺，是日本標高最高的滑雪場之一。雪季可延續至5月下旬，晴天能眺望北阿爾卑斯與志賀高原群山。六條雪道涵蓋初學者緩坡、中級長距離滑降，以及未壓雪急斜面；從山頂一路滑向熊之湯，最大落差可達約4,000公尺，適合想體驗高山粉雪與長距離滑行的雪友。
+橫手山・澀峠滑雪場位於志賀高原最高處，山頂標高達2,307公尺，是日本標高最高的滑雪場之一。雪季可延續至5月下旬，晴天能眺望北阿爾卑斯與志賀高原群山。六條雪道涵蓋初學者緩坡、中級長距離滑降，以及未壓雪急斜面；從山頂一路滑向熊之湯，最大落差可達約4,000公尺，適合想體驗高山粉雪與長距離滑行的雪友。

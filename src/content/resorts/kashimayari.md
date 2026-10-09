@@ -239,6 +239,9 @@ externalContent:
   - title: 【鹿島槍スキー場】暖冬で大雨のゲレンデに挑戦して大怪我 - LOVE SKISKI
     url: https://www.youtube.com/watch?v=_gAzJ_-ieqI
     note: 犬と暮らす旅人 / Love Nomad Life
+externalGuide:
+  title: 鹿島槍，結合家庭設施與進階地形的雪場
+  url: https://www.japowdb.com/zh-tw/resorts/kashimayari/
 ---
 
 鹿島槍以冬季主題樂園概念串起滑雪與親子活動，盆地型配置讓多數雪道都能回到中央廣場，初學者較容易掌握方向。12 條雪道涵蓋寬緩初級坡、長距離巡航與陡坡挑戰，另有雪上電扶梯、雪胎滑行、Pokémon Snow Adventure 與兒童遊樂設施，適合全家共享雪山行程。

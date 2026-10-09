@@ -191,7 +191,9 @@ externalContent:
   - title: 白馬人才會來的秘境滑雪場❄️!適合新手嗎?唯一能看火車和又能看湖的雪場!默念口訣挑戰黑線蘑菇道｜白馬雪場開箱EP.4🏂｜
     url: https://www.youtube.com/watch?v=aRGLOokZ6wQ
     note: YK來了
-
+externalGuide:
+  title: 白馬佐野坂，湖畔景色與悠閒滑行的選擇
+  url: https://www.japowdb.com/zh-tw/resorts/hakuba-sanosaka/
 ---
 
 白馬佐野坂被森林包圍，可一邊滑行一邊欣賞青木湖與白馬山景。10 條雪道以緩坡至中斜面為主，兼有進階急斜面，從雪上遊戲、親子練習到完整滑行都能安排；天然雪與開放感十足的場景，讓不同程度的旅客都能享受白馬冬季。
