@@ -48,46 +48,50 @@ contact:
     googleMaps: https://maps.app.goo.gl/CV3617srRk29UdET9
   phone: 025-783-2222
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/19～2026/4/5
+  label: 2026-2027
+  operatingPeriod: 2026/12/18-2027/4/4（預定）
   hours: 8:30～17:00
-  nightSkiingHours: 2025/12/27～2026/2/28 每日、至 2026/3/28 為止的週五與週六 16:00～20:00
-  note: ハツカ石口、北口預計開放至 2026/3/29；ハツカ石區夜滑僅週六營業至 2026/3/7。營業期間、時間與開放範圍仍會受積雪與天候影響。
+  nightSkiingHours: 2026/12/26-2027/2/27 每日，之後預定至 3 月中旬的週五、週六 16:00-20:00
+  note: ハツカ石口、北口與ハツカ石區夜滑資訊尚在準備中；營業期間、時間與開放範圍可能依積雪與天候調整。
   source: https://ishiuchi.or.jp/winter/price/
 trailMaps:
 - label: 石打丸山雪場圖
   language: 日本語
-  season: 2025-2026
+  season: 2026-2027
   url: https://ishiuchi.or.jp/winter/wp/wp-content/uploads/2025/12/25-26_ysl%EF%BC%86ishiuchi_%E3%83%9E%E3%83%83%E3%83%97.pdf
   sourceLabel: Ishiuchi Maruyama Ski Resort
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://ishiuchi.or.jp/winter/price/
-  note: 主要票種依 2025-2026 官網基本票種整理；事前 Web 票需於使用日前一天前購入，部分票種採變動價格。小國中生為 6 ~ 15 歲，長者為 長者（65 歲以上），未就學兒為 4 ~ 6 歲。
+  note: 事前 Web 票最遲須於使用前一日購買；國內事前 Web 票採變動價格。小國中生為 6 ~ 15 歲，長者為 65 歲以上，未就學兒為 4 ~ 6 歲。
   plans:
     - name: 彈性時間 1 日券（8.5 小時）
       priceLines:
         - 成人 事前 Web（國內）：¥5,200 ~ ¥6,800
-        - 成人 事前 Web（一般）：¥7,400
-        - 成人 窗口：¥7,900
+        - 成人 事前 Web（一般）：¥8,000
+        - 成人 窗口：¥8,500
         - 小國中生 事前 Web（國內）：¥2,800 ~ ¥3,600
         - 小國中生 事前 Web（一般）：¥4,000
         - 小國中生 窗口：¥4,200
-        - 長者 窗口：¥6,700
+        - 長者 窗口：¥6,800
         - 未就學兒：¥1,500
     - name: All-day 1 日券
       priceLines:
-        - 成人 事前 Web（國內）：¥8,300
-        - 成人 窗口：¥8,700
-        - 小國中生 事前 Web（國內）：¥4,400
-        - 小國中生 窗口：¥4,600
-        - 長者 窗口：¥7,400
+        - 成人 事前 Web（國內）：¥5,700 ~ ¥7,500
+        - 成人 事前 Web（一般）：¥8,800
+        - 成人 窗口：¥9,400
+        - 小國中生 事前 Web（國內）：¥3,100 ~ ¥4,000
+        - 小國中生 事前 Web（一般）：¥4,400
+        - 小國中生 窗口：¥4,700
+        - 長者 窗口：¥7,600
         - 未就學兒：¥1,500
     - name: 4 小時券
       priceLines:
-        - 成人：¥6,300
-        - 小國中生：¥3,200
+        - 成人 事前 Web（國內）：¥4,000 ~ ¥6,500
+        - 成人 窗口：¥6,500
+        - 小國中生 事前 Web（國內）：¥2,200 ~ ¥2,800
+        - 小國中生 窗口：¥3,200
         - 長者 窗口：¥5,300
     - name: 夜滑券
       priceLines:
@@ -99,34 +103,31 @@ tickets:
     - name: 2 日券
       priceLines:
         - 成人 事前 Web（國內）：¥9,700 ~ ¥12,700
-        - 成人 事前 Web（一般）：¥14,100
-        - 成人 窗口：¥14,800
-        - 小國中生 事前 Web（國內）：¥5,100 ~ ¥6,700
+        - 成人 事前 Web（一般）：¥14,500
+        - 成人 窗口：¥15,300
+        - 小國中生 事前 Web（國內）：¥5,200 ~ ¥6,700
         - 小國中生 事前 Web（一般）：¥7,400
         - 小國中生 窗口：¥7,800
         - 長者 窗口：¥12,600
         - 未就學兒：¥2,800
+    - name: 3 日券
+      priceLines:
+        - 成人 事前 Web（國內）：¥13,700 ~ ¥18,000
+        - 成人 事前 Web（一般）：¥20,500
+        - 成人 窗口：¥21,600
+        - 小國中生 事前 Web（國內）：¥7,400 ~ ¥9,500
+        - 小國中生 事前 Web（一般）：¥10,600
+        - 小國中生 窗口：¥11,100
+        - 長者 窗口：¥17,800
+        - 未就學兒：¥4,000
     - name: 家庭券
       priceLines:
         - 成人：¥5,600
         - 小國中生：¥3,000
-      note: 官網列為事前 Web（國內）票種。
-  earlyBird:
-    - name: 完美行【早鳥優惠】纜車1日券（全天）
-      url: https://tw.wamazing.com/snow/items/15692
-      deadline: "2026-12-14"
-    - name: 完美行【早鳥優惠】纜車2日券（全天）
-      url: https://tw.wamazing.com/snow/items/15693
-      deadline: "2026-12-14"
-    - name: 完美行【早鳥優惠】纜車1日券×3張（全天）
-      url: https://tw.wamazing.com/snow/items/15694
-      deadline: "2026-12-14"
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0788tk.htm
-      deadline: "2026-12-15"
+      note: 僅提供國內事前 Web 購買。
 snowWeather:
   title: 石打丸山雪況天氣
-  provider: Official
+  provider: 石打丸山
   url: https://ishiuchi.or.jp/winter/ski/lift-course/
   snowDepth: 0 cm
   updatedAt: 2026/4/30 09:00:00
@@ -138,7 +139,7 @@ courses:
   advancedRatio: 10
   total: 27
   courseInfoPage: https://ishiuchi.or.jp/winter/ski/lift-course/
-  summary: 石打丸山共有27條雪道，從寬闊初級坡、樹林長距離滑道，到非壓雪陡坡都有；另設有雪地公園、樹林滑行區與可銜接GALA湯澤的雪道網絡。
+  summary: 27 條雪道自山頂扇狀延伸至中央、北口與ハツカ石三個入口，從寬緩家庭坡、樹林長滑到非壓雪急坡皆有配置；另設地形公園、樹林滑行區與可銜接 GALA 湯澤的雪道網絡。
   details:
   - name: 1 メルヘンコース
     difficulty: beginner
@@ -340,8 +341,19 @@ terrainSummary:
   beginner: 山麓與ハツカ石側有多條短距離或寬緩路線，例如グリーン、林間、北丸山ファミリー、ハツカ石ファミリー等。
   intermediate: 中央、觀光與ハツカ石之間可用尾根、ザイラー、クルーザー等路線串接，適合安排一整天巡航。
   advanced: 山頂ゲレンデ與高處非壓雪路線坡度較大，開放狀況會依天候、積雪與安全判斷調整。
-  snowboard: 官方 snow park 包含 500m 主 park、Beginner Park 與 GungHo Monster Pipe，並標示可供滑雪者與 snowboard 玩家使用。
-  powder: 官方 tree run 頁面列出 2 個 tree run 區與 5 個非壓雪區，雪後可期待天然雪，但需依入口、巡邏與安全公告開放。
+  snowboard: 場內設有 500m 主 park、Beginner Park 與 GungHo Monster Pipe，可供雙板與單板玩家使用。
+  powder: 共有 2 個樹林滑行區與 5 個非壓雪區，雪後可體驗天然雪地形；開放範圍依入口與安全管理調整。
+sources:
+  - label: 石打丸山雪票與營業時間
+    url: https://ishiuchi.or.jp/winter/price/
+  - label: 石打丸山纜車與雪道資訊
+    url: https://ishiuchi.or.jp/winter/ski/lift-course/
+  - label: 石打丸山交通資訊
+    url: https://ishiuchi.or.jp/winter/access/
+  - label: 石打丸山雪場介紹
+    url: https://ishiuchi.or.jp/winter/about/
+  - label: SURF&SNOW 石打丸山滑雪場指南
+    url: https://surfsnow.jp/guide/htm/r0788gc1.htm
 externalContent:
   blogs:
   - title: 石打丸山滑雪場攻略2026，雪道介紹，住宿、交通、美食、滑雪教練課推薦，ptt/dcard推薦
@@ -365,4 +377,4 @@ externalContent:
     note: MIRU tube JAPAN 【Route Guide】
 ---
 
-石打丸山是歷史悠久的大型雪場，寬闊場域中配置多樣滑道，適合不同年齡與程度的玩家享受雪上活動。雪場內也有多種類型餐飲空間，滑行之外能保有休息與補給選擇，整體是湯澤周邊很具代表性的綜合型雪場。
+石打丸山自 1949 年開業，236ha 的雪域自山頂扇狀延伸至中央、北口與ハツカ石三個入口。27 條雪道涵蓋寬緩家庭坡、4,000m 長距離巡航、非壓雪急坡與樹林滑行，並設有分級地形公園；面向魚沼平野與越後群山的開闊視野，讓不同程度的滑行節奏能在同一座山上成立。

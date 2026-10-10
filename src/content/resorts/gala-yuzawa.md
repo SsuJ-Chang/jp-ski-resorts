@@ -33,10 +33,10 @@ links:
   threads: https://www.threads.net/@galayuzawa_official
   xTwitter: https://twitter.com/GALA_yuzawa
   trailMapPage: https://gala.co.jp/winter/gelande/
-  trailMapPdf: https://gala.co.jp/winter/cmsw/wp-content/uploads/2025/11/3a2fd628ce100e195c916f805d12f38d.pdf
+  trailMapPdf: https://gala.co.jp/winter/img/gelande/course_map.pdf
   snowReport: https://gala.co.jp/winter/gelande/
   liftStatus: https://gala.co.jp/winter/gelande/
-  ticket: https://gala.co.jp/winter/charges/
+  ticket: https://gala.co.jp/winter/hours-pricing/
   access: https://gala.co.jp/winter/access/
   weather: https://weathernews.jp/ski/spot/35430/
   googleMaps: https://maps.app.goo.gl/MMxfPdgES98YL3VL9
@@ -48,61 +48,43 @@ contact:
     googleMaps: https://maps.app.goo.gl/MMxfPdgES98YL3VL9
   phone: 050-1807-3243
 season:
-  label: 2025-2026
-  operatingPeriod: 觀光營業 2025/12/13-2025/12/19，滑雪場營業 2025/12/20-2026/4/17，觀光營業 2026/4/18-2026/5/6
-  hours: 通常雪道 8:00-16:30，春季雪道 8:30-16:00
-  note: 2025-2026 雪季已在 2026/4/17 結束滑雪營業；2026/4/6 起為春季營業，僅中央區域開放，實際開放範圍仍會受積雪與天候影響。
-  source: https://gala.co.jp/winter/charges/
+  label: 2026-2027
+  operatingPeriod: 觀光營業 2026/12/12-12/18，滑雪場營業 2026/12/19-2027/5/5；4/6 起為春季營業，僅中央區域開放
+  hours: 票務櫃台 7:30-17:10；Ski Center 8:00-17:00；廂型纜車與 Barouche 8:30-16:30
+  note: 2026-2027 雪季南區全面暫停營業；4/18-5/6 為觀光營業，雪道滑行於 4/17 結束。
+  source: https://gala.co.jp/winter/hours-pricing/
 trailMaps:
 - label: GALA湯澤雪場圖
   language: 日本語
-  season: 2025-2026
-  url: https://gala.co.jp/winter/cmsw/wp-content/uploads/2025/11/3a2fd628ce100e195c916f805d12f38d.pdf
+  season: 2026-2027
+  url: https://gala.co.jp/winter/img/gelande/course_map.pdf
   sourceLabel: GALA Yuzawa Snow Resort Course Map
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
-  source: https://gala.co.jp/winter/charges/
-  note: 主要票種依 2025-2026 公開資訊整理；線上購票通常較便宜，未滿 2 歲免費，兒童（學齡前）需由成人陪同。
+  source: https://gala.co.jp/winter/hours-pricing/
+  note: 學齡前兒童由一名成人帶同時，前兩名免費；第三名起以小學生票價計。
   plans:
-    - name: 廂型纜車 + 纜車 1 日券
+    - name: 廂型纜車 + 纜車券
       priceLines:
-        - 成人：¥7,300
-        - 成人：線上 ¥6,800
-        - 小學生：¥3,000
-        - 小學生：線上 ¥2,800
-      note: 包含 GALA 湯澤站往返雪場的廂型纜車、場內纜車與 Yuzawa Snow Link 連絡 Ropeway。
-    - name: 廂型纜車 + 纜車 2 日券
-      priceLines:
-        - 成人：¥12,000
-        - 成人：線上 ¥11,000
-        - 小學生：¥4,500
-        - 小學生：線上 ¥4,300
-      note: 需連續 2 日使用。
-    - name: 廂型纜車 + 纜車 4 小時券
+        - 成人：¥8,000
+        - 成人：線上 ¥7,500
+        - 小學生：¥4,000
+        - 小學生：線上 ¥3,500
+      note: 包含廂型纜車與場內纜車。
+    - name: 廂型纜車 + Barouche 券
       priceLines:
         - 成人：¥6,500
-        - 成人：線上 ¥6,000
-        - 小學生：¥2,400
-        - 小學生：線上 ¥2,200
-      note: 從首次通過閘門起 4 小時內有效，未使用完畢不可跨日。
-    - name: 春季 1 日券
+        - 成人：線上 ¥5,500
+        - 小學生：¥3,500
+        - 小學生：線上 ¥3,000
+      note: 包含廂型纜車與 Barouche 纜車。
+    - name: 4 小時券
       priceLines:
-        - 成人：¥6,300
-        - 成人：線上 ¥5,800
-        - 小學生：¥2,500
-        - 小學生：線上 ¥2,300
-      note: 限春季營業期間使用。
-    - name: 觀光廂型纜車來回券
-      priceLines:
-        - 成人：¥3,500
-        - 小學生：¥1,000
-      note: 僅供觀光搭乘廂型纜車往返。
-    - name: 觀光廂型纜車 + Barouche 觀光纜車券
-      priceLines:
-        - 成人：¥5,000
-        - 小學生：¥2,500
-      note: 包含廂型纜車與觀光纜車 Barouche。
+        - 成人：¥7,500
+        - 成人：線上 ¥7,000
+        - 小學生：¥3,500
+        - 小學生：線上 ¥3,000
 snowWeather:
   title: GALA湯澤雪況天氣
   provider: Weathernews
@@ -116,8 +98,8 @@ courses:
   beginnerRatio: 35
   intermediateRatio: 45
   advancedRatio: 20
-  courseInfoPage: https://gala.co.jp/winter/course/
-  summary: GALA湯澤由中央、北、南與下山雪道組成，官方列 16 條雪道，難度比例為初級 35%、中級 45%、上級 20%；最長滑走距離為下山コース ファルコン 2,500m。
+  courseInfoPage: https://gala.co.jp/winter/gelande/#section04
+  summary: 中央、北、南三區與下山雪道合計 16 條路線，初級占 35%、中級占 45%、上級占 20%；最長為下山コース ファルコン 2,500m。2026-2027 雪季南區全面暫停。
   details:
   - name: C1 メロディ / Melody
     difficulty: beginner
@@ -174,16 +156,16 @@ courses:
     - https://www.youtube.com/watch?v=vxT0r069KSE&t=505s
   - name: S2 バットマン / Batman
     difficulty: intermediate
-    length: 530m
-    note: 連絡中央區與南區的雪道，沿線可看到與中央區不同的景色。
+    length: 450m
+    note: 連絡中央區與南區的雪道，沿線可看到與中央區不同的景色。2026-2027 雪季南區全面暫停。
     videoLinks:
     - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=841s
     - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=1481s
   - name: S1 イライザ / Eliza
     difficulty: intermediate
-    length: 1,000m
+    length: 1,050m
     maxSlope: 24°
-    note: 整備過的 S 字高速雪面，可用於自由滑行與 carving。
+    note: 整備過的 S 字高速雪面，可用於自由滑行與 carving。2026-2027 雪季南區全面暫停。
     videoLinks:
     - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=916s
     - https://www.youtube.com/watch?v=n9uTg14y_2A&t=967s
@@ -224,7 +206,7 @@ courses:
     - https://www.youtube.com/watch?v=U72zlDHe2F8&t=1163s
     - https://www.youtube.com/watch?v=vxT0r069KSE&t=902s
   - name: C5 グルノーブル / Grenoble
-    difficulty: mixed
+    difficulty: intermediate
     length: 750m
     maxSlope: 23°
     note: 從 GALA 標高最高一帶開始的急斜面；春季容易形成 bumps，起點視野開闊。
@@ -235,17 +217,17 @@ courses:
     - https://www.youtube.com/watch?v=vxT0r069KSE&t=95s
   - name: S3 260万ダラー / $2,600,000
     difficulty: advanced
-    length: 920m
+    length: 1,500m
     maxSlope: 32°
-    note: 非壓雪硬派雪道，降雪後可滑粉雪與自然 bumps，可能因積雪狀況關閉。
+    note: 非壓雪雪道，降雪後可滑粉雪與自然 bumps。2026-2027 雪季南區全面暫停。
     videoLinks:
     - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=1002s
     - https://www.youtube.com/watch?v=n9uTg14y_2A&t=1126s
   - name: S4/S5 ブロンコ / Bronco
     difficulty: advanced
-    length: 700m
+    length: 850m
     maxSlope: 30°
-    note: 上段與下段分段，會接入 260万ダラー；降雪時可滑粉雪，晴天時可遇到自然 bumps。
+    note: 非壓雪雪道，從蘑菇入門至進階者都能因應地形變化滑行。2026-2027 雪季南區全面暫停。
     videoLinks:
     - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=1208s
     - https://www.youtube.com/watch?v=IaD2DEbzV9o&t=1394s
@@ -275,11 +257,11 @@ access:
     snowTireRequired: true
     note: 湯澤 I.C. 約 3km、約 5 分鐘，鹽澤石打 I.C. 約 6km、約 13 分鐘；停車場約 400 台、全天免費，但雪季自駕仍需雪胎或雪鏈。
 terrainSummary:
-  beginner: 中央區與北區有多條迂迴與緩坡路線，初級比例約 35%，可從較平緩雪道累積滑行距離。
-  intermediate: 中級比例約 45%，可串聯中央、北區與南區連絡雪道，另有多條寬面或長距離巡航路線。
-  advanced: 南區以 260万ダラー、ブロンコ等非壓雪路線為主，北區的スーパースワン最大斜度達 33°。
-  snowboard: 雙板與單板皆可使用；ローマンホリデー下段會銜接 Snow Park 練習區。
-  powder: 降雪後可在非壓雪與較陡路線尋找粉雪，但開放狀況會受積雪、天候與安全管制影響。
+  beginner: 中央與北區有緩坡、林間迂迴路線與練習區，初級雪道占 35%。
+  intermediate: 中級雪道占 45%，有寬廣整地坡、可練高速轉彎的單一坡面，以及 2,500m 下山巡航。
+  advanced: スーパースワン最大斜度達 33°；南區另有 260万ダラー與ブロンコ等非壓雪地形。
+  snowboard: 雙板與單板皆可使用；ローマンホリデー下段銜接設有小型跳台與箱型道具的 Snow Park。
+  powder: 降雪後可在スーパースワン及南區非壓雪雪道體驗粉雪與自然 bumps。
 externalContent:
   blogs:
   - title: GALA湯澤滑雪場2026攻略︱滑雪教練帶你玩~滑雪新手最愛，美食交通詳細介紹
@@ -292,6 +274,13 @@ externalContent:
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
     note: MIRU tube JAPAN 【Route Guide】
+sources:
+  - label: GALA 湯澤營業時間與票價
+    url: https://gala.co.jp/winter/hours-pricing/
+  - label: GALA 湯澤雪道
+    url: https://gala.co.jp/winter/gelande/#section04
+  - label: GALA 湯澤雪道資料
+    url: https://surfsnow.jp/guide/htm/r0001gc1.htm
 ---
 
-GALA 湯澤以覆蓋粉雪的山上雪場為核心，搭配多條坡度不同的滑道，初學者也能逐步找到適合自己的節奏。南區以自然雪為主，並有一路滑回滑雪中心的下山動線；雪場內也結合租賃、休憩與溫泉設施，是機能完整的度假型雪場。
+GALA 湯澤從中央與北區的緩坡、林間迂迴線，一路延伸至 2,500m 的ファルコン下山路線；初、中級雪道合計占八成，能循序累積滑行距離。中央區有寬廣的エンターテイメント與山頂グルノーブル，北區則可選擇自然地形、Snow Park 與最大 33° 的スーパースワン；三區不同坡度與視野，讓同團各自安排滑行節奏。

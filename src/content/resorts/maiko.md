@@ -46,60 +46,52 @@ contact:
 season:
   label: 2026-2027
   operatingPeriod: 2026/12/19 起（預定）
-  hours: 依各纜車營運時間公告
-  note: 2026-2027 雪季預定於 12 月 19 日開幕；官網現行細節多仍為上一季資訊。
+  hours: 依纜車而異；平日約 8:30-16:45、週末及國定假日約 8:00-17:00
+  nightSkiingHours: 2026/12/29-2027/1/1 每日、1/2-3/13 的週六日；週六及 1/10 為 15:30-20:00，週日與 12/29-1/1 為 15:30-19:00
+  note: 夜滑僅限舞子區，平日與國定假日不營業；各纜車可能依天候與雪況調整。
   source: https://www.maiko-resort.com/winter/lift.html
 trailMaps:
 - label: 舞子雪場圖
   language: 日本語
-  season: 2025-2026
+  season: 2026-2027
   url: https://www.maiko-resort.com/winter/gelande.html
   sourceLabel: Maiko Snow Resort
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.maiko-resort.com/winter/lift.html
-  note: 2026-2027 票價尚未公告；以下為官網目前刊載的 2025-2026 雪季票價。學齡前兒童由付費成人陪同可免費搭乘（每位成人最多 2 名）。
+  note: 學齡前兒童由付費成人陪同可免費搭乘纜車，每位成人最多 2 名。
   plans:
     - name: 1 日券
       priceLines:
-        - 成人 ¥7,000
-        - 國中生、高中生 ¥6,000
-        - 小學生 ¥3,500
+        - 成人 ¥7,300
+        - 國中生、高中生 ¥6,300
+        - 小學生 ¥3,600
     - name: 連續多日券
       priceLines:
-        - 2 日：成人 ¥12,000；國中生、高中生 ¥10,300；小學生 ¥6,300
-        - 3 日：成人 ¥16,800；國中生、高中生 ¥14,400；小學生 ¥8,900
-        - 4 日：成人 ¥21,400；國中生、高中生 ¥18,300；小學生 ¥11,300
-        - 5 日：成人 ¥25,800；國中生、高中生 ¥22,000；小學生 ¥13,500
-        - 6 日：成人 ¥30,000；國中生、高中生 ¥25,500；小學生 ¥15,500
-        - 7 日：成人 ¥34,000；國中生、高中生 ¥28,800；小學生 ¥17,300
+        - 2 日：成人 ¥13,300；國中生、高中生 ¥11,300；小學生 ¥6,600
+        - 3 日：成人 ¥19,100；國中生、高中生 ¥16,100；小學生 ¥9,400
+        - 4 日：成人 ¥24,700；國中生、高中生 ¥20,700；小學生 ¥12,000
+        - 5 日：成人 ¥30,100；國中生、高中生 ¥25,100；小學生 ¥14,400
     - name: 5 小時券
       priceLines:
-        - 成人 ¥6,500
-        - 國中生、高中生 ¥5,500
-        - 小學生 ¥3,300
+        - 成人 ¥6,800
+        - 國中生、高中生 ¥5,800
+        - 小學生 ¥3,400
     - name: 夜滑券
       priceLines:
-        - 成人 ¥2,200
-        - 國中生、高中生 ¥1,700
+        - 成人 ¥2,300
+        - 國中生、高中生 ¥1,800
         - 小學生 ¥1,200
-      note: 夜滑日期與時間依官網公告；2025-2026 為指定日期與週末夜間開放。
+      note: 僅限舞子區夜滑時段使用。
     - name: 點數券
       priceLines:
         - 3 點：成人、國中生、高中生 ¥2,100；小學生 ¥1,650
         - 6 點：成人、國中生、高中生 ¥4,200；小學生 ¥3,300
       note: 纜車每次 1 點、纜車吊廂每次 3 點；吊廂下行免費。
-  earlyBird:
-    - name: 完美行
-      url: https://tw.wamazing.com/snow/items/15448
-      deadline: "2026-12-18"
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0020tk.htm
-      deadline: "2026-12-18"
 snowWeather:
   title: 舞子雪況天氣
-  provider: Official / Weathernews
+  provider: 舞子 / Weathernews
   url: https://www.maiko-resort.com/winter/gelande.html
   snowDepth: 0 cm
   updatedAt: 2026/4/30 09:00:00
@@ -113,7 +105,7 @@ courses:
   courseInfoPage: https://www.maiko-resort.com/winter/gelande.html
   summary: 由舞子、長峰與奧添地三個區域組成，擁有全長約 6,000m 的長距離初級滑道，也有樹林地形、陡坡與不整地可選擇。
   details:
-    - name: O3 奧添地 Run Run／奥添地ランラン
+    - name: O3 奧添地ランランコース
       difficulty: beginner
       length: 1,000m
       maxSlope: 10°
@@ -167,10 +159,13 @@ courses:
       maxSlope: 8°
       averageSlope: 7°
       note: 靠近舞子住宿區的長距離平緩滑道。
+    - name: M25 森のステージ
+      difficulty: beginner
+      note: 善用森林地形穿梭的滑道，途中設有樹屋「マウンテンクルーソー」。
     - name: M26 Melody Line／メロディーライン
       difficulty: beginner
       note: 位於 Paradise 旁，設有會發出旋律的鐘聲裝置。
-    - name: N3 長峰 Run Run／長峰ランラン
+    - name: N3 長峰ランラン
       difficulty: beginner
       length: 5,000m
       maxSlope: 9°
@@ -283,10 +278,20 @@ access:
     snowTireRequired: true
     note: 關越自動車道鹽澤石打 IC 出口後約 1 分鐘可達。平日與週日停車免費；週六、年末年始及指定國定假日為每區 ¥1,000。
 terrainSummary:
-  beginner: 官方資料顯示有初級者可使用的雪道或家庭設施。
-  intermediate: 可依官方雪場圖安排中級巡航路線。
-  advanced: 較高難度路線需依官方雪場圖與當日開放狀態確認。
-  snowboard: 雙板與雪板使用規則請以官方公告為準。
+  beginner: 奧添地至長峰的ランランコース、舞子區的寬緩坡與兩座兒童雪樂園，構成循序練習的動線。
+  intermediate: 中級路線分布於三個區域，從放射狀寬坡到可大迴轉的長峰坡面都有選擇。
+  advanced: Champion 最大坡度 32°，奧添地與長峰另有非壓雪、蘑菇與條件開放的 off-piste 地形。
+  snowboard: 全區支援單板滑行；另設 MAIKO SNOW PARK「GARDEN」與入門向 HIKE UP PARK。
+  powder: 奧添地的 Gun Gun、Zoku Zoku 與長峰 off-piste 區在降雪後可體驗粉雪與自然不整地。
+sources:
+  - label: 舞子 Snow Resort 纜車票與營運時間
+    url: https://www.maiko-resort.com/winter/lift.html
+  - label: 舞子 Snow Resort 雪道資訊
+    url: https://www.maiko-resort.com/winter/gelande.html
+  - label: 舞子 Snow Resort 交通資訊
+    url: https://www.maiko-resort.com/winter/access.html
+  - label: SURF&SNOW 舞子 Snow Resort 指南
+    url: https://surfsnow.jp/guide/htm/r0020gc1.htm
 externalContent:
   blogs:
   - title: 越後湯澤‧舞子高原滑雪場2026攻略，ski in/out、適合新手和親子滑雪
@@ -298,4 +303,4 @@ externalContent:
     note: MIRU tube JAPAN 【Route Guide】
 ---
 
-舞子 Snow Resort 由舞子、長峰與奧添地三區組成，提供 26 條滑道與全長約 6,000m 的長距離下滑路線。初學者可在寬闊緩坡循序練習，中高階者則能選擇陡坡、不整地與降雪後的粉雪地形；從越後湯澤站亦有接駁車可抵達。
+舞子由奧添地、長峰、舞子三區組成，26 條雪道順著山勢延展，從山頂可沿最長約 6,000m 的ランランコース緩緩下山。初、中級雪道合計占八成，寬坡與循序漸進的路線讓不同程度的同行者各自安排；同時保留最大 32° 的短陡坡、非壓雪區、樹林滑行與地形公園，讓技術滑行也有變化。
