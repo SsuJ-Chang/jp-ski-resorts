@@ -50,6 +50,10 @@ tickets:
   season: 2026-2027
   currency: JPY
   source: https://www.kandatsu.com/price/
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0083tk.htm
+      deadline: "2026-12-10"
   plans:
     - name: 1 日券（平日）
       priceLines:
