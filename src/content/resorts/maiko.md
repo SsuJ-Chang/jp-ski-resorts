@@ -118,36 +118,50 @@ courses:
       maxSlope: 10°
       averageSlope: 6°
       note: 位於奧添地區的平緩長距離滑道，是全長約 6,000m 連續下滑路線的一部分。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=2035s
     - name: O5 Run Run／ルンルン
       difficulty: beginner
       length: 300m
       maxSlope: 12°
       averageSlope: 10°
       note: 纜車吊廂下站前方的短距離暖身滑道。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=1823s
     - name: O7 Raku Raku／ラクラク
       difficulty: beginner
       length: 400m
       maxSlope: 9°
       averageSlope: 6°
       note: 前往奧添地四人與雙人纜車的平緩路線。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=3671s
     - name: M19 Paradise／パラダイス
       difficulty: beginner
       length: 760m
       maxSlope: 15°
       averageSlope: 10°
       note: 舞子區的主要寬闊滑道，適合初學者與中階者練習轉彎。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=352s
     - name: M20 Kinder／キンダー
       difficulty: beginner
       length: 930m
       maxSlope: 10°
       averageSlope: 8°
       note: 寬闊且坡度平緩的長距離初級滑道。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=117s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=900s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=1164s
     - name: M21 Easy／イージー
       difficulty: beginner
       length: 300m
       maxSlope: 9°
       averageSlope: 7°
       note: 連續起伏地形的短距離初級滑道。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=352s
     - name: M22 Bambi／バンビ
       difficulty: beginner
       length: 1,430m
@@ -160,24 +174,34 @@ courses:
       maxSlope: 7°
       averageSlope: 6°
       note: 可銜接舞子停車場一帶的平緩滑道。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=4473s
     - name: M24 Romance／ロマンス
       difficulty: beginner
       length: 830m
       maxSlope: 8°
       averageSlope: 7°
       note: 靠近舞子住宿區的長距離平緩滑道。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=1164s
     - name: M25 森のステージ
       difficulty: beginner
       note: 善用森林地形穿梭的滑道，途中設有樹屋「マウンテンクルーソー」。
     - name: M26 Melody Line／メロディーライン
       difficulty: beginner
       note: 位於 Paradise 旁，設有會發出旋律的鐘聲裝置。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=117s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=900s
     - name: N3 長峰ランラン
       difficulty: beginner
       length: 5,000m
       maxSlope: 9°
       averageSlope: 6°
       note: 自奧添地一路滑下的長距離初級路線，串連全長約 6,000m 的下滑體驗。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=1638s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=2556s
     - name: N12 Choi Choi／チョイチョイ
       difficulty: beginner
       length: 700m
@@ -190,36 +214,49 @@ courses:
       maxSlope: 23°
       averageSlope: 13°
       note: 寬闊放射狀的中斜面，熟悉犁式轉彎的初學者也可挑戰。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=2035s
     - name: O6 Sui Sui／スイスイ
       difficulty: intermediate
       length: 500m
       maxSlope: 20°
       averageSlope: 10°
       note: 自纜車吊廂山頂出發，可經繞道銜接初級滑道。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=1823s
     - name: O8 San San／サンサン
       difficulty: intermediate
       length: 300m
       maxSlope: 13°
       averageSlope: 10°
       note: 位於右側、寬度充足的中級滑道。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=3671s
     - name: M13 Dolphin／ドルフィン
       difficulty: intermediate
       length: 1,370m
       maxSlope: 29°
       averageSlope: 11°
       note: 沒有初級繞道路線；降雪後可享受較深的積雪。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=627s
     - name: M15 Bronze／ブロンズ
       difficulty: intermediate
       length: 500m
       maxSlope: 18°
       averageSlope: 14°
       note: 可眺望景色的中斜面，夜間可欣賞夜景；合流處須留意。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=117s
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=1164s
     - name: M16 Gold／ゴールド
       difficulty: intermediate
       length: 180m
       maxSlope: 27°
       averageSlope: 22°
       note: 人氣中級斜面，降雪後與形成不整地時各有不同滑行感受。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=900s
     - name: M17 Silver／シルバー
       difficulty: intermediate
       length: 300m
@@ -232,24 +269,32 @@ courses:
       maxSlope: 18°
       averageSlope: 9°
       note: 曾舉辦比賽的中級滑道。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=484s
     - name: N9 Gin Gin／ギンギン
       difficulty: intermediate
       length: 670m
       maxSlope: 22°
       averageSlope: 15°
       note: 位於日照較短區域，積雪狀態通常較佳；下段左彎處須注意。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=3903s
     - name: N11 Byun Byun／ビュンビュン
       difficulty: intermediate
       length: 800m
       maxSlope: 17°
       averageSlope: 10°
       note: 寬闊中斜面，適合大幅度 carving，但須控制速度。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=3903s
     - name: O1 Gun Gun／グングン
       difficulty: advanced
       length: 820m
       maxSlope: 24°
       averageSlope: 15°
       note: 中央為不整地練習區，右側較少不整地；降雪後有粉雪地形。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=2284s
     - name: O2 Zoku Zoku／ゾクゾク
       difficulty: advanced
       length: 410m
@@ -262,6 +307,8 @@ courses:
       maxSlope: 32°
       averageSlope: 30°
       note: 舞子區最具挑戰性的陡坡，滑行狀況受天候影響。
+      videoLinks:
+        - https://www.youtube.com/watch?v=KewGVrs_lb4&t=627s
     - name: N10 Gan Gan／ガンガン
       difficulty: advanced
       length: 800m
