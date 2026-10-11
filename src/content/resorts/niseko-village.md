@@ -23,7 +23,7 @@ links:
   instagram: https://www.instagram.com/nisekovillage/
   trailMapPage: https://www.niseko.ne.jp/en/map/village/
   trailMapPdf: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
-  ticket: https://www.niseko.ne.jp/en/lift/
+  ticket: https://www.niseko-village.com/ja/white/lift-passes/
   access: https://www.niseko.ne.jp/en/niseko-access/
   weather: https://weathernews.jp/ski/spot/31605/
   liftStatus: https://www.niseko.ne.jp/en/niseko-lift-status/
@@ -37,23 +37,37 @@ contact:
   phone: 0136-44-2211
 season:
   label: 2026-2027
-  operatingPeriod: 2026/11/28 開幕延期-2027/4/4，實際依官方公告調整
-  hours: 8:30-16:30，依官方當日營業公告為準
-  nightSkiingHours: 2026/12/12-2027/3/22，夜滑時間依官方公告調整
-  note: 2026-2027 營業期間採 Niseko United 官方票券頁資訊；雪道細節採官方 2025-2026 區域雪道頁與全山地圖。
-  source: https://www.niseko.ne.jp/en/lift/
+  operatingPeriod: 2026/11/28-2027/4/4
+  hours: 日間 8:30-16:30
+  nightSkiingHours: 2026/12/12-2027/3/22，16:00-19:00
+  note: 夜滑票於一般季與旺季販售；各纜車營運可能依雪況調整。
+  source: https://www.niseko-village.com/ja/white/lift-passes/
 trailMaps:
-- label: Niseko United 2025-2026 全山雪場圖
+- label: Niseko United 全山雪場圖（日文）
+  language: 日本語
+  season: 2026-2027
+  url: https://cdn.hanazononiseko.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0ErIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6cec5c930fd853016eba0e63282bb5ee2d758c8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdERG9MWm05eWJXRjBPZ2xxY0dWbk9oUnpZVzF3YkdsdVoxOW1ZV04wYjNKSklnbzBPakk2TUFZNkJrVlVPZ3B6ZEhKcGNGUTZEbWx1ZEdWeWJHRmpaVWtpQ1VwUVJVY0dPd2hVT2c5amIyeHZjbk53WVdObFNTSUpjMUpIUWdZN0NGUTZESEYxWVd4cGRIbHBWVG9VY21WemFYcGxYM1J2WDJ4cGJXbDBXd2RwQWtBR2FRSkFCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--00af911dca67b1e1e9227acf33d706adb97ce918/2026-27_NU_Trail-Map_%E5%85%A8%E5%B1%B1JA.jpg?_gl=1*67bssu*_gcl_au*MTExNzgyNzAxMC4xNzkxNjAzOTcy
+  sourceLabel: Niseko United Official
+- label: Niseko United 全山雪場圖（英文）
   language: English
-  season: 2025-2026
-  url: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
+  season: 2026-2027
+  url: https://cdn.hanazononiseko.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0UrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--367f3fcbb2a865596ff827dc0347e4b01d056909/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdERG9MWm05eWJXRjBPZ2xxY0dWbk9oUnpZVzF3YkdsdVoxOW1ZV04wYjNKSklnbzBPakk2TUFZNkJrVlVPZ3B6ZEhKcGNGUTZEbWx1ZEdWeWJHRmpaVWtpQ1VwUVJVY0dPd2hVT2c5amIyeHZjbk53WVdObFNTSUpjMUpIUWdZN0NGUTZESEYxWVd4cGRIbHBWVG9VY21WemFYcGxYM1J2WDJ4cGJXbDBXd2RwQWtBR2FRSkFCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--00af911dca67b1e1e9227acf33d706adb97ce918/2026-27_NU_Trail-Map_%E5%85%A8%E5%B1%B1EN.jpg?_gl=1*gcho0m*_gcl_au*MTExNzgyNzAxMC4xNzkxNjAzOTcy
   sourceLabel: Niseko United Official
 tickets:
   season: 2026-2027
   currency: JPY
-  source: https://www.niseko.ne.jp/en/lift/
-  note: Niseko United All Mountain Pass 主要 1 日券摘要；多日券、點數券、線上限定 50 小時券與夜滑有效規則請以官方頁面為準。
+  source: https://www.niseko-village.com/ja/white/lift-passes/
+  note: 可選 Niseko Village 單區券或 Niseko United 全山共通券；全山券可使用四座雪場。
   plans:
+    - name: Niseko Village 單區 1 日券
+      priceLines:
+        - 旺季：成人 ¥10,700；長者 / 國中生 ¥9,100；小學生 ¥6,500
+        - 一般季：成人 ¥10,200；長者 / 國中生 ¥8,700；小學生 ¥6,200
+        - 早季 / 春季：成人 ¥7,200；長者 / 國中生 ¥6,200；小學生 ¥4,400
+    - name: Niseko Village 夜滑券
+      priceLines:
+        - 旺季：成人 ¥3,600；長者 / 國中生 ¥3,100；小學生 ¥2,200
+        - 一般季：成人 ¥3,400；長者 / 國中生 ¥2,900；小學生 ¥2,100
     - name: Peak Season 全山 1 日券
       priceLines:
         - 成人：¥13,500

@@ -23,7 +23,7 @@ links:
   official: https://www.grand-hirafu.jp/en/
   trailMapPage: https://www.niseko.ne.jp/en/map/grand-hirafu/
   trailMapPdf: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
-  ticket: https://www.niseko.ne.jp/en/lift/
+  ticket: https://www.grand-hirafu.jp/snow/tickets/?stt_lang=ja
   access: https://www.niseko.ne.jp/en/niseko-access/
   weather: https://weathernews.jp/ski/spot/31605/
   liftStatus: https://www.niseko.ne.jp/en/niseko-lift-status/
@@ -37,11 +37,11 @@ contact:
   phone: 0136-22-0109
 season:
   label: 2026-2027
-  operatingPeriod: 2026/11/28 開幕延期-2027/5/5，實際依官方公告調整
-  hours: 8:30-16:30，依官方當日營業公告為準
-  nightSkiingHours: 2026/12/12-2027/3/22，夜滑時間依官方公告調整
-  note: 2026-2027 營業期間採 Niseko United 官方票券頁資訊；雪道細節採官方 2025-2026 區域雪道頁與全山地圖。
-  source: https://www.niseko.ne.jp/en/lift/
+  operatingPeriod: 2026/11/28-2027/5/5
+  hours: 日間營運依各纜車公告
+  nightSkiingHours: 2026/12/12-2027/3/22，16:00-19:00
+  note: .Base 售票處營運至 5/5；山麓各售票處與纜車的日期不同。
+  source: https://www.grand-hirafu.jp/snow/tickets/?stt_lang=ja
 trailMaps:
 - label: Niseko United 2025-2026 全山雪場圖
   language: English
@@ -51,9 +51,16 @@ trailMaps:
 tickets:
   season: 2026-2027
   currency: JPY
-  source: https://www.niseko.ne.jp/en/lift/
-  note: Niseko United All Mountain Pass 主要 1 日券摘要；多日券、點數券、線上限定 50 小時券與夜滑有效規則請以官方頁面為準。
+  source: https://www.grand-hirafu.jp/snow/tickets/?stt_lang=ja
+  note: 可選 Grand Hirafu + HANAZONO 共通券或 Niseko United 全山共通券；全山券可使用四座雪場。
   plans:
+    - name: Grand Hirafu + HANAZONO 共通 1 日券
+      priceLines:
+        - 旺季：成人 ¥12,500；長者 / 國中生 ¥10,600；兒童 ¥7,500
+        - 一般季：成人 ¥11,600；長者 / 國中生 ¥9,900；兒童 ¥7,000
+        - 早季 / 春季：成人 ¥7,800；長者 / 國中生 ¥6,600；兒童 ¥4,700
+        - 最終季：成人 ¥5,300；長者 / 國中生 ¥4,200；兒童 ¥2,900
+      note: 線上購買另有折扣；可使用 Grand Hirafu 與 HANAZONO，不包含 Annupuri、Niseko Village。
     - name: Peak Season 全山 1 日券
       priceLines:
         - 成人：¥13,500
