@@ -170,7 +170,13 @@ body.popular-resorts-open {
   display: grid;
   width: 36px;
   height: 36px;
+  min-width: 36px;
+  min-height: 36px;
+  padding: 0;
+  aspect-ratio: 1;
   place-items: center;
+  appearance: none;
+  -webkit-appearance: none;
   border: 1px solid rgba(23, 33, 31, 0.16);
   border-radius: 50%;
   background: transparent;
