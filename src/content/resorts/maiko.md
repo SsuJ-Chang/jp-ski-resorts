@@ -61,6 +61,13 @@ tickets:
   currency: JPY
   source: https://www.maiko-resort.com/winter/lift.html
   note: 學齡前兒童由付費成人陪同可免費搭乘纜車，每位成人最多 2 名。
+  earlyBird:
+    - name: 纜車1日券
+      url: https://tw.wamazing.com/snow/items/15448
+      deadline: "2026-12-18"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0020tk.htm
+      deadline: "2026-12-18"
   plans:
     - name: 1 日券
       priceLines:

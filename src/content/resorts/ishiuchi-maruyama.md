@@ -65,6 +65,19 @@ tickets:
   currency: JPY
   source: https://ishiuchi.or.jp/winter/price/
   note: 事前 Web 票最遲須於使用前一日購買；國內事前 Web 票採變動價格。小國中生為 6 ~ 15 歲，長者為 65 歲以上，未就學兒為 4 ~ 6 歲。
+  earlyBird:
+    - name: 纜車1日券（全天）
+      url: https://tw.wamazing.com/snow/items/15692
+      deadline: "2026-12-14"
+    - name: 纜車2日券（全天）
+      url: https://tw.wamazing.com/snow/items/15693
+      deadline: "2026-12-14"
+    - name: 纜車1日券×3張（全天）
+      url: https://tw.wamazing.com/snow/items/15694
+      deadline: "2026-12-14"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0788tk.htm
+      deadline: "2026-12-15"
   plans:
     - name: 彈性時間 1 日券（8.5 小時）
       priceLines:
