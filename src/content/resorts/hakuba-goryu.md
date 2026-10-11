@@ -10,6 +10,9 @@ skiArea: hakuba
 location:
   latitude: 36.66300154003418
   longitude: 137.8366479059021
+elevation:
+  top: 1676
+  bottom: 750
 tags:
 - beginner_friendly
 - night_skiing
