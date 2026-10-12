@@ -10,6 +10,9 @@ skiArea: niseko
 location:
   latitude: 42.861780727367844
   longitude: 140.69823653558217
+elevation:
+  top: 1200
+  bottom: 260
 tags:
 - powder
 - large_ski_area
@@ -21,10 +24,10 @@ tags:
 - tree_run
 links:
   official: https://www.grand-hirafu.jp/en/
-  trailMapPage: https://www.niseko.ne.jp/en/map/grand-hirafu/
+  trailMapPage: https://www.niseko.ne.jp/ja/map/grand-hirafu/
   trailMapPdf: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
   ticket: https://www.grand-hirafu.jp/snow/tickets/?stt_lang=ja
-  access: https://www.niseko.ne.jp/en/niseko-access/
+  access: https://www.grand-hirafu.jp/green/access/
   weather: https://weathernews.jp/ski/spot/31605/
   liftStatus: https://www.niseko.ne.jp/en/niseko-lift-status/
   googleMaps: https://maps.app.goo.gl/5VL3MPUEhUWrajTM6
@@ -60,7 +63,7 @@ tickets:
         - 一般季：成人 ¥11,600；長者 / 國中生 ¥9,900；兒童 ¥7,000
         - 早季 / 春季：成人 ¥7,800；長者 / 國中生 ¥6,600；兒童 ¥4,700
         - 最終季：成人 ¥5,300；長者 / 國中生 ¥4,200；兒童 ¥2,900
-      note: 線上購買另有折扣；可使用 Grand Hirafu 與 HANAZONO，不包含 Annupuri、Niseko Village。
+      note: 線上購買另有折扣；可使用 Grand Hirafu 與 HANAZONO，不包含 Annupuri、二世谷渡假村。
     - name: Peak Season 全山 1 日券
       priceLines:
         - 成人：¥13,500
@@ -98,179 +101,183 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
-  beginnerRatio: 48
-  intermediateRatio: 19
-  advancedRatio: 33
-  total: 21
-  courseInfoPage: https://www.niseko.ne.jp/en/map/grand-hirafu/
-  summary: 二世谷格蘭比羅夫滑雪場：格蘭比羅夫是 Niseko United 核心大型區域，官方列出 21 條主要雪道，包含 Family、Holiday、Kogen 等初級線，也有 Super、Konayuki、Onsenzawa 等高難度路線。
+  beginnerRatio: 41
+  intermediateRatio: 27
+  advancedRatio: 32
+  total: 22
+  courseInfoPage: https://surfsnow.jp/guide/htm/r0148gc1.htm
+  summary: Grand Hirafu 有 22 條雪道，從山麓的 Family 緩坡、Holiday 等長距離初中級路線，到上部的非壓雪、饅頭與陡坡都有；最長可串連 Dynamic、Holiday 與山麓纜車線滑行 5,300m。
   details:
   - name: Shirakaba
     difficulty: beginner
     length: 945m
     maxSlope: 20°
     averageSlope: 13°
-    note: 官方雪道資料列為初級路線，全長 945m、最大坡度 20°、平均坡度 13°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 全長 945m、平均坡度 13° 的初級雪道。
   - name: Rinkan
-    difficulty: beginner
+    difficulty: mixed
     length: 780m
     maxSlope: 17°
     averageSlope: 14°
-    note: 官方雪道資料列為初級路線，全長 780m、最大坡度 17°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 初級至中級皆可滑行的 780m 林間路線，平均坡度 14°。
   - name: Beginners Access
     difficulty: beginner
     length: 342m
     maxSlope: 20°
     averageSlope: 14°
-    note: 官方雪道資料列為初級路線，全長 342m、最大坡度 20°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 342m 的初級者迂迴路線，平均坡度 14°。
   - name: Green
-    difficulty: beginner
+    difficulty: mixed
     length: 840m
     maxSlope: 25°
     averageSlope: 14°
-    note: 官方雪道資料列為初級路線，全長 840m、最大坡度 25°、平均坡度 14°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 初級至中級路線，全長 840m、平均坡度 14°。
   - name: Holiday
-    difficulty: beginner
+    difficulty: mixed
     length: 2,883m
     maxSlope: 19°
     averageSlope: 9°
-    note: 官方雪道資料列為初級路線，全長 2,883m、最大坡度 19°、平均坡度 9°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 全長 2,883m 的初級至中級長距離路線，平均坡度 9°。
   - name: Boyo
     difficulty: beginner
     length: 700m
     maxSlope: 20°
     averageSlope: 11°
-    note: 官方雪道資料列為初級路線，全長 700m、最大坡度 20°、平均坡度 11°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 全長 700m、平均坡度 11° 的初級雪道。
   - name: Kogen
     difficulty: beginner
     length: 595m
     maxSlope: 16°
     averageSlope: 10°
-    note: 官方雪道資料列為初級路線，全長 595m、最大坡度 16°、平均坡度 10°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 595m 的初級雪道，平均坡度 10°。
   - name: King Area Access Pass
     difficulty: beginner
     length: 300m
     maxSlope: 10°
     averageSlope: 4°
-    note: 官方雪道資料列為初級路線，全長 300m、最大坡度 10°、平均坡度 4°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: King Area 的 300m 連絡通路，平均坡度僅 4°。
   - name: Sennoki
-    difficulty: beginner
+    difficulty: mixed
     length: 1,080m
     maxSlope: 30°
     averageSlope: 10°
-    note: 官方雪道資料列為初級路線，全長 1,080m、最大坡度 30°、平均坡度 10°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 初級至中級路線，全長 1,080m、平均坡度 10°。
   - name: Family
     difficulty: beginner
     length: 750m
     maxSlope: 17°
     averageSlope: 7°
-    note: 官方雪道資料列為初級路線，全長 750m、最大坡度 17°、平均坡度 7°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 位於山麓、全長 750m 的緩坡，平均坡度 7°。
   - name: Center
     difficulty: intermediate
     length: 900m
     maxSlope: 25°
     averageSlope: 12°
-    note: 官方雪道資料列為中級路線，全長 900m、最大坡度 25°、平均坡度 12°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 全長 900m、平均坡度 12° 的中級雪道。
   - name: Furiko
-    difficulty: intermediate
+    difficulty: mixed
     length: 460m
     maxSlope: 30°
     averageSlope: 20°
-    note: 官方雪道資料列為中級路線，全長 460m、最大坡度 30°、平均坡度 20°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
-  - name: Kokutai & Ni-Kabe
-    difficulty: intermediate
+    note: 中級至上級雪道，全長 460m、平均坡度 20°。
+  - name: Kokutai
+    difficulty: mixed
     length: 1,100m
     maxSlope: 34°
     averageSlope: 18°
-    note: 官方雪道資料列為中級路線，全長 1,100m、最大坡度 34°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 中級至上級雪道，全長 1,100m、平均坡度 18°。
+  - name: Ni-Kabe
+    difficulty: advanced
+    note: 第 2 の壁，上級坡段。
   - name: Alpen
     difficulty: intermediate
     length: 814m
     maxSlope: 28°
     averageSlope: 15°
-    note: 官方雪道資料列為中級路線，全長 814m、最大坡度 28°、平均坡度 15°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 全長 814m、平均坡度 15° 的中級雪道。
   - name: Large
     difficulty: advanced
     length: 650m
     maxSlope: 32°
     averageSlope: 19°
-    note: 官方雪道資料列為上級路線，全長 650m、最大坡度 32°、平均坡度 19°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 森林限界以上的開闊坡面；天氣晴朗時可遠眺羊蹄山至噴火灣，全長 650m、平均坡度 19°。
   - name: Dynamic
     difficulty: advanced
     length: 530m
     maxSlope: 30°
     averageSlope: 18°
-    note: 官方雪道資料列為上級路線，全長 530m、最大坡度 30°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 全長 530m、平均坡度 18° 的上級雪道，可與 Holiday 等路線串連成長距離滑行。
   - name: Jumbo
-    difficulty: advanced
+    difficulty: mixed
     length: 1,200m
     maxSlope: 34°
     averageSlope: 17°
-    note: 官方雪道資料列為上級路線，全長 1,200m、最大坡度 34°、平均坡度 17°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 中級至上級雪道，全長 1,200m、平均坡度 17°。
   - name: Super
     difficulty: advanced
     length: 1,220m
     maxSlope: 35°
     averageSlope: 18°
-    note: 官方雪道資料列為上級路線，全長 1,220m、最大坡度 35°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 全長 1,220m、平均坡度 18° 的上級雪道。
   - name: Konayuki
     difficulty: advanced
     length: 403m
     maxSlope: 37°
     averageSlope: 21°
-    note: 官方雪道資料列為上級路線，全長 403m、最大坡度 37°、平均坡度 21°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 403m 的上級短坡，平均坡度 21°。
   - name: Miharashi
     difficulty: advanced
     length: 880m
     maxSlope: 32°
     averageSlope: 18°
-    note: 官方雪道資料列為上級路線，全長 880m、最大坡度 32°、平均坡度 18°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 全長 880m、平均坡度 18° 的上級雪道。
   - name: Onsenzawa
     difficulty: advanced
     length: 268m
     maxSlope: 40°
     averageSlope: 16°
-    note: 官方雪道資料列為上級路線，全長 268m、最大坡度 40°、平均坡度 16°；官方未提供更細的雪面特色描述時，保留為官方數值摘要。
+    note: 最大坡度 40° 的上級短坡，全長 268m。
 lifts:
-  total: 10
+  total: 11
 access:
   fromSapporo:
-    - label: 札幌站／札幌市區直達巴士
+    - label: 札幌市區自駕／租車
       steps:
-        - 札幌站北口或真駒內站搭乘前往二世谷的季節性直達巴士。
-        - 在 Hirafu 下車，步行或轉乘住宿接駁前往格蘭比羅夫。
-      estimatedTime: 約 3 小時
+        - 從札幌市區租車或自駕前往 Grand Hirafu。
+        - 抵達 Hirafu Welcome Center 或山麓停車場後，依行程前往纜車或周邊設施。
+      estimatedTime: 約 1 小時 45 分 - 2 小時
       difficulty: medium
-      note: 直達巴士為季節性服務，需依營運公司規定預約；官方時刻表顯示抵達格蘭比羅夫 約 3 小時。
+      note: 經中山峠的一般道路約 2 小時；走高速經仁木 I.C. 約 1 小時 45 分。冬季山路須使用雪胎，並留意道路與天候狀況。
       links:
-        - label: Niseko United 官方交通資訊
-          url: https://www.niseko.ne.jp/en/niseko-access/
+        - label: Grand Hirafu 交通資訊
+          url: https://www.grand-hirafu.jp/green/access/
   fromAirport:
-    - label: 新千歲機場直達巴士
+    - label: 新千歲機場自駕／JR＋巴士
       steps:
-        - 新千歲機場搭乘前往二世谷的季節性直達巴士。
-        - 在 Hirafu 下車，步行或轉乘住宿接駁前往格蘭比羅夫。
-      estimatedTime: 約 3.5 小時
+        - 自駕可經國道 276 號與美笛峠前往 Grand Hirafu。
+        - 搭大眾運輸時，搭 JR 經札幌、小樽前往倶知安站，再轉乘計程車或巴士前往山麓。
+      estimatedTime: 約 2 小時 5 分 / 3 小時 30 分
       difficulty: medium
-      note: Niseko United 官方時刻表以 Hirafu 為下車點；班次與營運期間依雪季調整。
+      note: 自駕約 2 小時 5 分；搭 JR 至倶知安站後，計程車約 15 分、巴士約 20 分。
       links:
-        - label: Niseko United 官方交通資訊
-          url: https://www.niseko.ne.jp/en/niseko-access/
+        - label: Grand Hirafu 交通資訊
+          url: https://www.grand-hirafu.jp/green/access/
   fromTokyo:
-    - label: 新千歲機場／倶知安站轉乘
+    - label: 飛抵新千歲後經倶知安站轉乘
       steps:
-        - 抵達新千歲機場後，搭乘機場巴士或電車前往倶知安站。
-        - 從倶知安站轉乘巴士前往格蘭比羅夫。
-      estimatedTime: 倶知安站後約 20 分
+        - 從東京羽田機場飛抵新千歲機場約 1 小時 30 分。
+        - 抵達後可自駕，或搭 JR 經札幌、小樽前往倶知安站。
+        - 從倶知安站可搭計程車或區域巴士前往 Hirafu Welcome Center 與 Grand Hirafu 山麓。
+      estimatedTime: 飛行約 1 小時 30 分 + 後續約 2-3.5 小時
       difficulty: medium
-      note: Japan Ski Guide 列出的新千歲機場至倶知安站約 2 小時 25 分，未包含候車時間。
+      note: 從新千歲機場自駕約 2 小時 5 分；搭 JR 與巴士或計程車約 3 小時 30 分。
       links:
-        - label: Japan Ski Guide 交通資訊
-          url: https://japan-skiguide.com/guide/htm/r0148tws.htm
+        - label: Grand Hirafu 交通資訊
+          url: https://www.grand-hirafu.jp/green/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 從札幌經國道 230 號、喜茂別町與國道 276／5 號前往，距離約 92km。雪季山路需使用雪胎或雪鏈。
+    note: 札幌經一般道路約 2 小時，高速約 1 小時 45 分；新千歲機場經美笛峠約 2 小時 5 分。雪季請使用雪胎或雪鏈。
 terrainSummary:
   beginner: Family、Holiday、Kogen 與 Hirafu 山麓一帶提供二世谷最主要的初級與夜滑動線之一。
   intermediate: Center、Furiko、Kokutai & Ni-Kabe、Alpen 支撐核心山腰滑行。

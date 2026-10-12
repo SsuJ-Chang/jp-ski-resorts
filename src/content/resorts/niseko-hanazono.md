@@ -25,7 +25,7 @@ links:
   official: https://hanazononiseko.com/en/winter
   facebook: https://www.facebook.com/Hanazononiseko
   instagram: https://www.instagram.com/hanazononiseko/
-  trailMapPage: https://hanazononiseko.com/ja/winter/resort/courses
+  trailMapPage: https://www.niseko.ne.jp/ja/map/hanazono/
   trailMapPdf: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
   ticket: https://hanazononiseko.com/ja/winter/resort/lift-tickets
   access: https://hanazononiseko.com/ja/winter/resort/access
@@ -73,7 +73,7 @@ tickets:
         - 一般季：成人 ¥11,600；長者 / 國中生 ¥9,900；兒童 ¥7,000
         - 早季 / 春季：成人 ¥7,800；長者 / 國中生 ¥6,600；兒童 ¥4,700
         - 最終季：成人 ¥5,300；長者 / 國中生 ¥4,200；兒童 ¥2,900
-      note: 線上購買另有折扣；可使用 Grand Hirafu 與 HANAZONO，不包含 Annupuri、Niseko Village。
+      note: 線上購買另有折扣；可使用 Grand Hirafu 與 HANAZONO，不包含 Annupuri、二世谷渡假村。
     - name: Peak Season 全山 1 日券
       priceLines:
         - 成人：¥13,500
@@ -166,7 +166,7 @@ courses:
     maxSlope: 26°
     averageSlope: 13°
     note: 返回 HANAZONO Base Center 的路線之一，整體寬度充足，可一路順暢滑回山腳。
-  - name: Hanazono Park
+  - name: Stomping Ground
     difficulty: intermediate
     length: 624m
     maxSlope: 25°
@@ -232,7 +232,7 @@ access:
     note: 從北海道主要城市開車約 2-2.5 小時；雪道行駛務必使用雪胎，並留意天候與道路資訊。導航可使用 Mapcode 398 504 798*71。
 terrainSummary:
   beginner: Mango Salad、Juicy Fruit 與 Renraku 提供 HANAZONO 側的主要緩坡與連絡選擇。
-  intermediate: Silver Dream 是長距離滑行主線，Crystal Garden、Parallel、Stairway to Heaven、羊蹄 Sunset 與 Hanazono Park 帶來坡度、地形與 park 的變化。
+  intermediate: Silver Dream 是長距離滑行主線，Crystal Garden、Parallel、Stairway to Heaven、羊蹄 Sunset 與 Stomping Ground 帶來坡度、地形與 park 的變化。
   advanced: Legend of Shinya 是最大坡度 30° 的非壓雪路線，適合熟悉深雪滑行的進階者。
   snowboard: 地形公園與長距離滑行線明確，適合和 Hirafu 一起安排。
   powder: 非壓雪雪面與樹林滑行區域須配合當日開放狀況，並遵守 Niseko Rules。

@@ -1,7 +1,7 @@
 ---
 id: niseko-village
 name:
-  zhTw: 二世谷 Village
+  zhTw: 二世谷渡假村
   ja: ニセコビレッジスキーリゾート
   en: Niseko Village Ski Resort
 region: hokkaido
@@ -10,6 +10,9 @@ skiArea: niseko
 location:
   latitude: 42.84693070345555
   longitude: 140.68449982578917
+elevation:
+  top: 1170
+  bottom: 280
 tags:
 - powder
 - resort_village
@@ -21,10 +24,10 @@ links:
   official: https://www.niseko-village.com/en/white/
   facebook: https://www.facebook.com/nisekovillage/
   instagram: https://www.instagram.com/nisekovillage/
-  trailMapPage: https://www.niseko.ne.jp/en/map/village/
+  trailMapPage: https://www.niseko.ne.jp/ja/map/village/
   trailMapPdf: https://www.niseko.ne.jp/en/wp-content/uploads/2020/08/2025-2026_WEBMAP_EG-1.pdf
   ticket: https://www.niseko-village.com/ja/white/lift-passes/
-  access: https://www.niseko.ne.jp/en/niseko-access/
+  access: https://www.niseko-village.com/ja/nisekovillage/access/
   weather: https://weathernews.jp/ski/spot/31605/
   liftStatus: https://www.niseko.ne.jp/en/niseko-lift-status/
   googleMaps: https://maps.app.goo.gl/HgXo1fKb9xnzCtaC7
@@ -43,7 +46,12 @@ season:
   note: 夜滑票於一般季與旺季販售；各纜車營運可能依雪況調整。
   source: https://www.niseko-village.com/ja/white/lift-passes/
 trailMaps:
-- label: Niseko United 全山雪場圖（日文）
+- label: 二世谷渡假村雪場圖
+  language: 日本語
+  season: 2026-2027
+  url: https://www.niseko-village.com/ja/wp-content/uploads/2025/11/2025-26NV-SKI-MAP.pdf
+  sourceLabel: Niseko United Official
+- label: Niseko Village 全山雪場圖（日文）
   language: 日本語
   season: 2026-2027
   url: https://cdn.hanazononiseko.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0ErIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6cec5c930fd853016eba0e63282bb5ee2d758c8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdERG9MWm05eWJXRjBPZ2xxY0dWbk9oUnpZVzF3YkdsdVoxOW1ZV04wYjNKSklnbzBPakk2TUFZNkJrVlVPZ3B6ZEhKcGNGUTZEbWx1ZEdWeWJHRmpaVWtpQ1VwUVJVY0dPd2hVT2c5amIyeHZjbk53WVdObFNTSUpjMUpIUWdZN0NGUTZESEYxWVd4cGRIbHBWVG9VY21WemFYcGxYM1J2WDJ4cGJXbDBXd2RwQWtBR2FRSkFCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--00af911dca67b1e1e9227acf33d706adb97ce918/2026-27_NU_Trail-Map_%E5%85%A8%E5%B1%B1JA.jpg?_gl=1*67bssu*_gcl_au*MTExNzgyNzAxMC4xNzkxNjAzOTcy
@@ -57,14 +65,14 @@ tickets:
   season: 2026-2027
   currency: JPY
   source: https://www.niseko-village.com/ja/white/lift-passes/
-  note: 可選 Niseko Village 單區券或 Niseko United 全山共通券；全山券可使用四座雪場。
+  note: 可選二世谷渡假村單區券或 Niseko United 全山共通券；全山券可使用四座雪場。
   plans:
-    - name: Niseko Village 單區 1 日券
+    - name: 二世谷渡假村單區 1 日券
       priceLines:
         - 旺季：成人 ¥10,700；長者 / 國中生 ¥9,100；小學生 ¥6,500
         - 一般季：成人 ¥10,200；長者 / 國中生 ¥8,700；小學生 ¥6,200
         - 早季 / 春季：成人 ¥7,200；長者 / 國中生 ¥6,200；小學生 ¥4,400
-    - name: Niseko Village 夜滑券
+    - name: 二世谷渡假村夜滑券
       priceLines:
         - 旺季：成人 ¥3,600；長者 / 國中生 ¥3,100；小學生 ¥2,200
         - 一般季：成人 ¥3,400；長者 / 國中生 ¥2,900；小學生 ¥2,100
@@ -97,7 +105,7 @@ tickets:
         - 長者（65 歲以上）：¥5,400
       note: 2027/4/5-5/5
 snowWeather:
-  title: 二世谷 Village 雪況天氣
+  title: 二世谷渡假村雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/31605/
   snowDepth: 0 cm
@@ -109,8 +117,8 @@ courses:
   intermediateRatio: 38
   advancedRatio: 45
   total: 29
-  courseInfoPage: https://www.niseko.ne.jp/en/map/village/
-  summary: 二世谷 Village 滑雪場：Niseko Village 位於 Annupuri 與格蘭比羅夫之間，官方列出 29 條主要雪道，包含飯店側緩坡、長距離巡航線與多條樹林、非壓雪或高難度路線。
+  courseInfoPage: https://www.niseko.ne.jp/ja/map/village/
+  summary: 二世谷渡假村位於 Annupuri 與格蘭比羅夫之間，官方列出 29 條主要雪道，包含飯店側緩坡、長距離巡航線與多條樹林、非壓雪或高難度路線。
   details:
   - name: Cruiser
     difficulty: beginner
@@ -243,42 +251,42 @@ lifts:
   total: 8
 access:
   fromSapporo:
-    - label: 札幌站／札幌市區直達巴士
+    - label: 札幌自駕／JR 轉接駁
       steps:
-        - 札幌站北口或真駒內站搭乘前往二世谷的季節性直達巴士。
-        - 在 Hilton Niseko Village 下車，步行進入 Niseko Village。
-      estimatedTime: 約 3.5 小時
+        - 自駕可經國道 230 號前往 Niseko Village。
+        - 搭 JR 時，由札幌站經小樽前往倶知安站，再轉乘 Niseko Village Shuttle、巴士或計程車。
+      estimatedTime: 約 2 小時（自駕）
       difficulty: medium
-      note: 官方時刻表列有札幌與 Niseko Village 的直達班次，需依營運公司規定預約。
+      note: 札幌至小樽的 Airport 快速約 32 分，小樽至倶知安的普通列車約 90 分；倶知安站轉乘接駁巴士單程約 25 分。
       links:
-        - label: Niseko United 官方交通資訊
-          url: https://www.niseko.ne.jp/en/niseko-access/
+        - label: Niseko Village 交通資訊
+          url: https://www.niseko-village.com/ja/nisekovillage/access/
   fromAirport:
-    - label: 新千歲機場直達巴士
+    - label: 新千歲機場冬季直達巴士／自駕
       steps:
-        - 新千歲機場搭乘前往二世谷的季節性直達巴士。
-        - 在 Hilton Niseko Village 下車。
-      estimatedTime: 約 3 小時
-      difficulty: medium
-      note: Niseko United 官方時刻表列出新千歲機場至 Niseko Village 的直達停靠點；班次依雪季調整。
+        - 冬季可預約 Niseko Snow Express 或 Resort Liner 前往二世谷。
+        - 自駕可經國道 276 號前往 Niseko Village。
+      estimatedTime: 約 2 小時 35 分（巴士）
+      difficulty: easy
+      note: Niseko Snow Express 的新千歲機場至二世谷車程約 2 小時 35 分；自駕約 110km、約 2 小時。直達巴士運行日與預約方式依雪季公告。
       links:
-        - label: Niseko United 官方交通資訊
-          url: https://www.niseko.ne.jp/en/niseko-access/
+        - label: Niseko Village 交通資訊
+          url: https://www.niseko-village.com/ja/nisekovillage/access/
   fromTokyo:
-    - label: 新千歲機場／倶知安站轉乘
+    - label: 飛抵新千歲後轉乘
       steps:
-        - 抵達新千歲機場後，搭乘機場巴士或電車前往倶知安站。
-        - 從倶知安站轉乘巴士或計程車前往 Niseko Village。
-      estimatedTime: 倶知安站後約 30 分
+        - 從東京搭機抵達新千歲機場。
+        - 選擇冬季直達巴士、自駕，或搭 JR 經札幌／小樽至倶知安站後轉乘接駁。
+      estimatedTime: 新千歲機場後約 2-3.5 小時
       difficulty: medium
-      note: Niseko Village 位於二世谷町，最後一段交通請依住宿接駁與當季巴士安排。
+      note: 從倶知安站至 Niseko Village 可搭接駁巴士、路線巴士或計程車；計程車車程約 30 分。
       links:
-        - label: Niseko United 官方交通資訊
-          url: https://www.niseko.ne.jp/en/niseko-access/
+        - label: Niseko Village 交通資訊
+          url: https://www.niseko-village.com/ja/nisekovillage/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 從札幌經國道 230 號、喜茂別町前往 Niseko Village，距離約 97km。雪季山路需使用雪胎或雪鏈。
+    note: 新千歲機場經國道 276 號約 110km、約 2 小時；札幌經國道 230 號約 97km、約 2 小時。停車免費，導航可使用 Mapcode 398 352 348*02；雪季請使用雪胎或雪鏈。
 terrainSummary:
   beginner: 飯店側有 Cruiser、Banzai、Shakey Knees 與 Final Fling 等緩坡動線。
   intermediate: Dabesa、Junkyard、Namara 等中級線可銜接村落與山腰。
@@ -299,5 +307,4 @@ externalGuide:
   title: 二世谷聯合：四座山，887 公頃，今天該去哪裡滑？
   url: https://www.japowdb.com/zh-tw/resorts/niseko-united/
 ---
-
-二世谷 Village 位於北海道，是大型雪場，共有 29 條雪道，搭配 8 座纜車。代表路線包含 Cruiser、Banzai，初級、中級與上級路線都有配置，標籤偏向親子同行、夜滑。
+二世谷 Village 的 30 條雪道穿梭在原生林間，四座度假飯店可直接連接雪場。從最長 5,500m 的粉雪長距離巡航、山林地形與最大 35° 的陡坡，到適合新手熟悉節奏的緩坡都有；住在雪場旁，就能把森林滑行與度假村生活排進同一天。
