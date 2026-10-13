@@ -25,7 +25,7 @@ links:
   facebook: https://www.facebook.com/akakan.ski/
   instagram: https://www.instagram.com/akakurakanko_ski_sky/
   trailMapPage: https://akr-ski.com/slope/#courseIntroduction
-  ticket: https://akr-ski.com/slope/#liftFee
+  ticket: https://akr-ski.com/slope/
   access: https://akr-ski.com/access/
   weather: https://weathernews.jp/ski/spot/35411/
   googleMaps: https://maps.app.goo.gl/9sZU7Mx1A3DhoUrj7
@@ -37,11 +37,11 @@ contact:
     googleMaps: https://maps.app.goo.gl/9sZU7Mx1A3DhoUrj7
   phone: 0255-87-2503
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/19-2026/5/6
-  hours: Sky Cable 8:30-15:45；纜車 8:30-16:00（部分纜車至 15:45）
-  note: 營業期間、時間與開放範圍會受積雪與天候影響，出發前請以官方公告為準。
-  source: https://akr-ski.com/slope/#liftOperationStatus
+  label: 2026-2027
+  operatingPeriod: 2026/12/19-2027/5/5
+  hours: 8:30-16:00（纜車依種類略有不同）
+  note: 妙高高原 Skycable 8:30-15:45；3、5 號纜車自準備完成後至 15:45，其他主要纜車至 16:00。
+  source: https://akr-ski.com/slope/
 trailMaps:
 - label: 赤倉觀光雪道圖
   language: 日本語
@@ -49,37 +49,26 @@ trailMaps:
   url: https://akr-ski.com/slope/#slopeMap
   sourceLabel: Akakura Kanko Resort Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
-  source: https://akr-ski.com/slope/#liftFee
-  note: 主要票種依官方 2025-2026 票價表整理；小學生（12 歲以下）為兒童，未就學兒童免費；長者為 60 歲以上，須出示證明。票價與開放期間請以官方頁面為準。
-  earlyBird:
-    - name: 完美行【超早鳥優惠】纜車1日券
-      url: https://tw.wamazing.com/snow/items/15599
-      deadline: "2026-10-31"
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0276tk.htm
-      deadline: "2026-10-31"
+  source: https://akr-ski.com/slope/
   plans:
-    - name: 4 小時券
+    - name: 度假村 1 日券
       priceLines:
-        - 成人：¥5,400
-        - 長者、國中生：¥4,500
-        - 兒童、身心障礙者：¥3,800
-    - name: 赤倉觀光 1 日券
+        - 成人 ¥7,000；國中生 / 長者 ¥6,000；兒童 ¥5,200
+      note: 適用開幕日-2027/3/22。
+    - name: 度假村 4 小時券
       priceLines:
-        - 成人：¥7,000
-        - 長者、國中生：¥6,000
-        - 兒童、身心障礙者：¥5,200
-    - name: 赤倉觀光 2 日券
+        - 成人 ¥5,400；國中生 / 長者 ¥4,500；兒童 ¥3,800
+      note: 適用開幕日-2027/3/22；首次通過閘門起連續 4 小時。
+    - name: 春季 1 日券
       priceLines:
-        - 成人：¥12,300
-        - 長者、國中生：¥9,900
-        - 兒童、身心障礙者：¥8,700
-    - name: 赤倉全山共通 1 日券
+        - 成人 ¥4,000；國中生 / 長者 ¥3,500；兒童 ¥2,500
+      note: 適用 2027/3/23-5/5。
+    - name: 赤倉觀光 + 赤倉溫泉共通 1 日券
       priceLines:
-        - 成人、國中生：¥8,500
-        - 長者、兒童：¥6,800
+        - 成人 / 國中生 ¥10,000；長者 / 兒童 ¥8,000
+      note: 適用開幕日-2027/3/22。
 snowWeather:
   title: 赤倉觀光雪況天氣
   provider: Weathernews
@@ -145,20 +134,19 @@ lifts:
   total: 6
 access:
   fromTokyo:
-  - label: 東京出發
-    steps:
-    - 東京站搭乘北陸新幹線至長野站或上越妙高站。
-    - 轉乘至妙高高原站後，再依官方巴士、接駁或計程車前往赤倉觀光。
-    estimatedTime: 約 2 小時 30 分
-    difficulty: medium
-    note: 東京站經北陸新幹線、長野站轉信濃鐵道北信濃線至妙高高原站約 2 小時 30 分；雪季另有 AKAKAN 免費接駁巴士，2025/12/19–2026/3/22（預定）每日 8:00–16:40 運行。
-    links:
-    - label: Akakura Kanko Resort Access
-      url: https://akr-ski.com/access/
+    - label: 北陸新幹線經長野、妙高高原站
+      steps:
+        - 東京站搭北陸新幹線至長野站，轉信濃鐵道北信濃線至妙高高原站。
+        - 雪季搭 AKAKAN 免費接駁或市營巴士前往雪場。
+      estimatedTime: 約 2.5 小時
+      difficulty: easy
+      links:
+        - label: 赤倉觀光交通資訊
+          url: https://akr-ski.com/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 東京經關越道、藤岡 JCT、上信越道至妙高高原 IC 約 3 小時；從 IC 至雪場約 8 分鐘，並設有雪場旁約 1,000 台免費停車位。雪季自駕需準備雪胎或雪鏈。
+    note: 妙高高原 I.C. 至雪場約 8 分；雪場旁有 1,000 個免費停車位，雪季請使用雪胎或雪鏈。
 terrainSummary:
   beginner: Hotel Beginner Course 是飯店前方的平緩初級路線。
   intermediate: 女子國體、Champion A 與 Hotel Main Slope 提供寬廣、中長距離與下山路線。
@@ -181,5 +169,4 @@ externalGuide:
   title: 赤倉觀光，妙高山麓的經典飯店雪場
   url: https://www.japowdb.com/zh-tw/resorts/akakura-kanko/
 ---
-
-赤倉觀光位於新潟縣，是中小型雪場，共有 8 條雪道，搭配 6 座纜車。代表路線包含 ホテルビギナーコース、女子国体コース，初級、中級與上級路線都有配置，標籤偏向初學者練習、親子同行。
+赤倉觀光以飯店前的寬闊主斜面與上部非壓雪線為主軸，9 條雪道橫跨新手緩坡、整備巡航與競技級長坡。兩條非壓雪雪道讓粉雪日更有變化，從山頂可俯瞰野尻湖與日本海；搭乘 Skycable 上山後，能把飯店區與 Champion 區串成完整的一日路線。

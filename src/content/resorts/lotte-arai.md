@@ -63,7 +63,7 @@ tickets:
       deadline: "2026-11-30"
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r1020tk.htm
-      deadline: "2026-12-31"
+      deadline: "2026-11-30"
   plans:
     - name: 山麓區域券
       priceLines:

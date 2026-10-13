@@ -39,10 +39,10 @@ contact:
     googleMaps: https://maps.app.goo.gl/52rrSAw33VBqC2n96
 season:
   label: 2026-2027
-  operatingPeriod: 官方尚未公告 2026-2027 營業期間
+  operatingPeriod: 預計自 2026 年 12 月 19 日起；結束日期尚未公布
   hours: 8:30-16:00
-  note: 2026-2027 票券已公布，但官方尚未在票價頁公布完整營業期間；營業時間與開放範圍會受積雪與天候影響，出發前請以官方公告為準。
-  source: https://alpenblick-resort.com/ski/26-27-ticket-info#lift-ticket
+  note: 纜車預定每日 8:30-16:00 運行；實際營運期間、時間與開放範圍可能依積雪及天候調整。
+  source: https://alpenblick-resort.com/ski/26-27-ticket-info
 trailMaps:
 - label: 池之平雪道圖
   language: 日本語
@@ -52,8 +52,8 @@ trailMaps:
 tickets:
   season: 2026-2027
   currency: JPY
-  source: https://alpenblick-resort.com/ski/26-27-ticket-info#lift-ticket
-  note: 官方 2026–2027 一般纜車票價均為含稅價格，另需 IC 卡押金 ¥500（歸還卡片時退還）。成人為國中生以上，長者為 60 歲以上；未就學兒童免費。
+  source: https://alpenblick-resort.com/ski/26-27-ticket-info
+  note: 以下一般纜車票價均含稅，另收可退還的 IC 卡押金 ¥500。年齡以 2026 年 12 月 19 日開幕日為準；未就學兒童免費。
   earlyBird:
     - name: 完美行【超早鳥優惠】纜車1日券
       url: https://tw.wamazing.com/snow/items/15364
@@ -61,32 +61,45 @@ tickets:
     - name: 完美行【超早鳥優惠】纜車4小時券
       url: https://tw.wamazing.com/snow/items/15313
       deadline: "2026-09-30"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0168tk.htm
+      deadline: "2026-12-18"
   plans:
     - name: 1 日券
       priceLines:
         - 成人：¥7,400
-        - 長者、國中生：¥6,200
+        - 長者（60 歲以上）／國中生：¥6,200
         - 小學生：¥4,400
-    - name: My Number 1 日券
+    - name: My Number 優惠 1 日券
       priceLines:
         - 成人：¥6,900
-        - 長者、國中生：¥5,800
+        - 長者（60 歲以上）／國中生：¥5,800
         - 小學生：¥4,100
+      note: 須出示實體 My Number 卡，限 Kayaba 雪場站售票處辦理。
     - name: 2 日券
       priceLines:
         - 成人：¥13,300
-        - 長者、國中生：¥11,300
+        - 長者（60 歲以上）／國中生：¥11,300
         - 小學生：¥7,900
     - name: 3 日券
       priceLines:
         - 成人：¥18,800
-        - 長者、國中生：¥15,900
+        - 長者（60 歲以上）／國中生：¥15,900
         - 小學生：¥11,200
     - name: 4 小時券
       priceLines:
         - 成人：¥5,900
-        - 長者、國中生：¥5,000
+        - 長者（60 歲以上）／國中生：¥5,000
         - 小學生：¥3,500
+    - name: My Number 優惠 4 小時券
+      priceLines:
+        - 成人：¥5,400
+        - 長者（60 歲以上）／國中生：¥4,500
+        - 小學生：¥3,200
+    - name: 回數券
+      priceLines:
+        - 1 次：成人 ¥800／長者、國中生 ¥600／小學生 ¥400
+        - 5 次：成人 ¥3,600／長者、國中生 ¥2,700／小學生 ¥1,800
 snowWeather:
   title: 池之平雪況天氣
   provider: Weathernews
@@ -100,15 +113,15 @@ courses:
   beginnerRatio: 35
   intermediateRatio: 45
   advancedRatio: 20
-  courseInfoPage: https://alpenblick-resort.com/ski
-  summary: 池之平滑雪場：Alpenblick 官方雪道頁列出 16 條雪道，以寬廣緩坡、長距離林間路線與樹林滑行區域為特色，並配置初級、中級與上級路線。
+  courseInfoPage: https://alpenblick-resort.com/ski#_guide
+  summary: 全區共有 16 條雪道，初中級合計占 80%。以寬達約 400m、延伸約 3km 的開闊緩坡為核心，並有樹林滑行、非壓雪區與雪上公園。
   details:
   - name: やまばと林間コース / Yamabato Forest Course
     difficulty: beginner
     length: 1,300m
     averageSlope: 16°
     maxSlope: 20°
-    note: 官方列為初級林間雪道；官方資料列出全長 1,300m、平均 16°、最大 20°。
+    note: 穿過林間的初級雪道，適合以較從容的節奏練習轉彎與巡航。
     videoLinks:
     - https://www.youtube.com/watch?v=KEAamblTuXo&t=345s
   - name: カラマツコース / Karamatsu Course
@@ -116,7 +129,7 @@ courses:
     length: 900m
     averageSlope: 19°
     maxSlope: 21°
-    note: 官方列為初級路線；官方資料列出全長 900m、平均 19°、最大 21°。影片章節中前後各出現一次。
+    note: 全長 900m 的初級路線，可與周邊緩坡串連滑行。
     videoLinks:
     - https://www.youtube.com/watch?v=KEAamblTuXo&t=953s
     - https://www.youtube.com/watch?v=KEAamblTuXo&t=1804s
@@ -125,91 +138,15 @@ courses:
     length: 1,100m
     averageSlope: 18°
     maxSlope: 20°
-    note: 官方列為初級路線；官方資料列出全長 1,100m、平均 18°、最大 20°。
+    note: 寬闊的初級長距離雪道，保有充足空間練習基本動作。
     videoLinks:
     - https://www.youtube.com/watch?v=KEAamblTuXo&t=1745s
-  - name: カヤバコース / Kayaba Course
-    difficulty: intermediate
-    length: 900m
-    averageSlope: 18°
-    maxSlope: 20°
-    note: 官方列為中級路線，並標示為閉鎖中；官方資料列出全長 900m、平均 18°、最大 20°。
-  - name: レイクビューコース / Lake View Course
-    difficulty: intermediate
-    length: 900m
-    averageSlope: 20°
-    maxSlope: 24°
-    note: 官方列為中級路線；官方資料列出全長 900m、平均 20°、最大 24°。
-    videoLinks:
-    - https://www.youtube.com/watch?v=KEAamblTuXo&t=1621s
-  - name: やまばとコース / Yamabato Course
-    difficulty: intermediate
-    length: 500m
-    averageSlope: 20°
-    maxSlope: 23°
-    note: 官方列為中級路線；官方資料列出全長 500m、平均 20°、最大 23°。
-    videoLinks:
-    - https://www.youtube.com/watch?v=KEAamblTuXo&t=232s
-  - name: クワッドコース / Quad Course
-    difficulty: intermediate
-    length: 1,420m
-    averageSlope: 23°
-    maxSlope: 26°
-    note: 官方列為中級路線；官方資料列出全長 1,420m、平均 23°、最大 26°。
-    videoLinks:
-    - https://www.youtube.com/watch?v=KEAamblTuXo&t=197s
-  - name: 頂（イタダキ） / Itadaki Course
-    difficulty: advanced
-    length: 200m
-    averageSlope: 24°
-    maxSlope: 27°
-    note: 官方列為上級路線；官方資料列出全長 200m、平均 24°、最大 27°。
-    videoLinks:
-    - https://www.youtube.com/watch?v=KEAamblTuXo&t=125s
-  - name: ヤッホーコース / Yahho Course
-    difficulty: intermediate
-    length: 1,200m
-    averageSlope: 20°
-    maxSlope: 25°
-    note: 官方列為中級路線；官方資料列出全長 1,200m、平均 20°、最大 25°。
-    videoLinks:
-    - https://www.youtube.com/watch?v=KEAamblTuXo&t=439s
-  - name: クワッドツリーランコース / Quad Tree Run Course
-    difficulty: intermediate
-    length: 300m
-    averageSlope: 22°
-    maxSlope: 24°
-    note: 官方列為中級樹林滑行路線；官方資料列出全長 300m、平均 22°、最大 24°。
-    videoLinks:
-    - https://www.youtube.com/watch?v=KEAamblTuXo&t=1501s
-  - name: ガッシュタイナーコース / Gasteiner Course
-    difficulty: intermediate
-    length: 1,800m
-    averageSlope: 20°
-    maxSlope: 26°
-    note: 官方列為中級路線；官方資料列出全長 1,800m、平均 20°、最大 26°。
-    videoLinks:
-    - https://www.youtube.com/watch?v=KEAamblTuXo&t=713s
-  - name: サイドツリーコース / Side Tree Course
-    difficulty: intermediate
-    length: 250m
-    averageSlope: 23°
-    maxSlope: 27°
-    note: 官方列為中級樹林滑行路線；官方資料列出全長 250m、平均 23°、最大 27°。
-  - name: アルペンダイナミック / Alpine Dynamic Course
-    difficulty: advanced
-    length: 250m
-    averageSlope: 25°
-    maxSlope: 29°
-    note: 官方列為上級路線；官方資料列出全長 250m、平均 25°、最大 29°。
-    videoLinks:
-    - https://www.youtube.com/watch?v=KEAamblTuXo&t=597s
   - name: ハッピーゲレンデ / Happy Slope
     difficulty: beginner
     length: 1,400m
     averageSlope: 8°
     maxSlope: 21°
-    note: 官方列為初級雪道；官方資料列出全長 1,400m、平均 8°、最大 21°。
+    note: 平均坡度和緩的 1,400m 初級雪道，適合反覆練習。
     videoLinks:
     - https://www.youtube.com/watch?v=KEAamblTuXo&t=878s
   - name: ドリームコース / Dream Course
@@ -217,15 +154,91 @@ courses:
     length: 1,100m
     averageSlope: 7°
     maxSlope: 11°
-    note: 官方列為初級路線；官方資料列出全長 1,100m、平均 7°、最大 11°。
+    note: 坡度平緩的初級長線，可作為初學者的長距離巡航選擇。
     videoLinks:
     - https://www.youtube.com/watch?v=KEAamblTuXo&t=622s
+  - name: カヤバコース / Kayaba Course
+    difficulty: intermediate
+    length: 900m
+    averageSlope: 18°
+    maxSlope: 20°
+    note: 900m 的中級雪道；目前標示為關閉，開放狀態依當日公告。
+  - name: レイクビューコース / Lake View Course
+    difficulty: intermediate
+    length: 900m
+    averageSlope: 20°
+    maxSlope: 24°
+    note: 中級巡航雪道，可眺望野尻湖一帶景色。
+    videoLinks:
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=1621s
+  - name: やまばとコース / Yamabato Course
+    difficulty: intermediate
+    length: 500m
+    averageSlope: 20°
+    maxSlope: 23°
+    note: 全長 500m 的中級路線，能與上方雪道搭配規劃滑行。
+    videoLinks:
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=232s
+  - name: クワッドコース / Quad Course
+    difficulty: intermediate
+    length: 1,420m
+    averageSlope: 23°
+    maxSlope: 26°
+    note: 由四人纜車服務的 1,420m 中級雪道，具較長的連續坡段。
+    videoLinks:
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=197s
+  - name: ヤッホーコース / Yahho Course
+    difficulty: intermediate
+    length: 1,200m
+    averageSlope: 20°
+    maxSlope: 25°
+    note: 全長 1,200m 的中級雪道，是可延續巡航節奏的路線。
+    videoLinks:
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=439s
+  - name: クワッドツリーランコース / Quad Tree Run Course
+    difficulty: intermediate
+    length: 300m
+    averageSlope: 22°
+    maxSlope: 24°
+    note: 位於樹林間的中級短線，提供不同於開闊坡面的滑行感受。
+    videoLinks:
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=1501s
+  - name: ガッシュタイナーコース / Gasteiner Course
+    difficulty: intermediate
+    length: 1,800m
+    averageSlope: 20°
+    maxSlope: 26°
+    note: 全長 1,800m 的中級長距離路線，可接續其他雪道延長滑行。
+    videoLinks:
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=713s
+  - name: サイドツリーコース / Side Tree Course
+    difficulty: intermediate
+    length: 250m
+    averageSlope: 23°
+    maxSlope: 27°
+    note: 250m 的中級樹林滑行路線，坡度較集中。
+  - name: 頂（イタダキ） / Itadaki Course
+    difficulty: advanced
+    length: 200m
+    averageSlope: 24°
+    maxSlope: 27°
+    note: 全長 200m 的上級短坡，適合熟悉較陡坡度的滑行者。
+    videoLinks:
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=125s
+  - name: アルペンダイナミック / Alpine Dynamic Course
+    difficulty: advanced
+    length: 250m
+    averageSlope: 25°
+    maxSlope: 29°
+    note: 坡度較陡的上級短線，可與周邊中級路線組合規劃。
+    videoLinks:
+    - https://www.youtube.com/watch?v=KEAamblTuXo&t=597s
   - name: カナメゲレンデ / Kaname Slope
     difficulty: advanced
     length: 470m
     averageSlope: 23°
     maxSlope: 26°
-    note: 官方列為上級雪道；官方資料列出全長 470m、平均 23°、最大 26°。
+    note: 非壓雪的自行負責區域，須自行步行上坡，並攜帶雪崩安全裝備。
     videoLinks:
     - https://www.youtube.com/watch?v=KEAamblTuXo&t=1333s
 lifts:
@@ -234,24 +247,24 @@ access:
   fromTokyo:
   - label: 東京出發
     steps:
-    - 東京站搭乘北陸新幹線至長野站或上越妙高站。
-    - 轉乘至妙高高原站後，依官方接駁、路線巴士或計程車前往池之平溫泉區。
+    - 搭乘北陸新幹線至長野站或上越妙高站，轉乘至妙高高原站。
+    - 冬季可由妙高高原站搭乘每日接駁巴士前往度假村各設施。
     estimatedTime: 約 3-4 小時
     difficulty: medium
-    note: 官方交通頁提供度假村地址與地圖；電車、接駁與巴士班次會依雪季調整，請以官方 access 頁與當季時刻表為準。
+    note: 冬季接駁服務約自 12 月中旬至 3 月 15 日運行；3 月 20 至 22 日另有特別運行，實際時刻與停靠站請查看當季班表。
     links:
     - label: Alpenblick Resort Access
       url: https://alpenblick-resort.com/access
   car:
     recommended: true
     snowTireRequired: true
-    note: 官方交通頁提供度假村地址與地圖；雪季自駕需準備雪胎或雪鏈，實際路況請依當日道路公告。
+    note: 自駕導航請輸入「ホテルアルペンブリック」。雪季應備妥雪胎或雪鏈，並留意當日道路狀況。
 terrainSummary:
-  beginner: やまばと林間、ガッシュタイナー、カヤバ與しらかばカプセルペア等路線提供初級練習與林間巡航。
-  intermediate: Quad、Yahoo、Alpenblick 與樹林滑行路線構成主要中級區域。
-  advanced: Alpenblick、Dream、しらかば三條上級路線提供較陡與較長距離的滑行選擇。
-  snowboard: 官方列有公園專用路線與多條寬廣雪道，雙板與雪板規則請以官方公告為準。
-  powder: 樹林滑行路線與高海拔區域在新雪後較有粉雪行程彈性，實際開放請以官方公告為準。
+  beginner: 寬廣緩坡與 Happy、Dream 等初級長線，讓初學者可在開闊空間反覆練習。
+  intermediate: Quad、Gasteiner、Yahho 等中級路線可串連為長距離巡航，也有樹林間的變化路線。
+  advanced: Itadaki、Alpine Dynamic 與 Kaname 集中提供較陡短坡及非壓雪滑行選擇。
+  snowboard: 全區可使用單板；另設有雪上公園，配置跳台、箱體與鐵桿等設施。
+  powder: Quad Tree Run、Side Tree 與 Kaname 等區域帶來樹林及非壓雪的滑行變化。
 externalContent:
   blogs:
   - title: 妙高高原滑雪住宿推薦｜Hotel Alpen Blick心得，池之平滑雪場Ski in /out
@@ -266,4 +279,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/ikenotaira-onsen/
 ---
 
-池之平以開闊坡面與自然景觀為特色，良好雪質讓滑行感受更輕快。雪場擁有寬廣滑坡與大型戲雪樂園，也結合妙高高原啤酒與黑褐色原湯溫泉等在地休閒元素，適合想把滑雪、玩雪與溫泉一起安排的旅人。
+池之平溫泉位於妙高山山麓，以寬約 400m、延伸約 3km 的開闊緩坡為主，16 條雪道中初中級占 80%。從適合練習的寬廣坡面，到可眺望野尻湖的巡航線、樹林滑行與非壓雪區，能依程度安排不同節奏；雪上公園與獨立的兒童戲雪區，也讓家庭與同伴能各自享受雪地時光。
