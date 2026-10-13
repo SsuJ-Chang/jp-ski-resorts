@@ -21,13 +21,13 @@ tags:
 - snowboard_friendly
 - tree_run
 links:
-  official: https://resort.en-hotel.com/grandeco/snow/ja/
+  official: https://grandecoresort.co.jp/snow/
   facebook: https://www.facebook.com/En-Resort-Grandeco-125932050405440
   instagram: https://www.instagram.com/en_resort_grandeco_official/
   xTwitter: https://x.com/grandeco
-  trailMapPage: https://resort.en-hotel.com/grandeco/snow/ja/
-  ticket: https://resort.en-hotel.com/grandeco/snow/ja/
-  access: https://resort.en-hotel.com/grandeco/snow/ja/
+  trailMapPage: https://grandecoresort.co.jp/snow/course/
+  ticket: https://grandecoresort.co.jp/snow/ticket/
+  access: https://grandecoresort.co.jp/snow/access/
   weather: https://weathernews.jp/ski/spot/33609/
   googleMaps: https://maps.app.goo.gl/w6T1iuQBPbUjR9c38
 contact:
@@ -38,45 +38,56 @@ contact:
     googleMaps: https://maps.app.goo.gl/w6T1iuQBPbUjR9c38
   phone: 0241-32-2530
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/11/22-2026/4/19
+  label: 2026-2027
+  operatingPeriod: 2026/11/21-2027/4/11
   hours: 8:30-16:00
-  note: 官方票價頁分為 pre-season、regular season 與 spring season；營業期間與開放範圍會依積雪調整。
-  source: https://resort.en-hotel.com/grandeco/snow/ja/
+  note: 2026-2027 雪季分為 Pre-season（11/21-12/11）、On-season（12/12-3/22）與 Spring season（3/23-4/11），纜車運行時間可能依天候、降雪與日落時間調整。
+  source: https://grandecoresort.co.jp/snow/course/
 trailMaps:
 - label: Grandeco 雪道圖
   language: 日本語
-  season: 2025-2026
+  season: 2026-2027
   url: https://grandecoresort.co.jp/wp-content/themes/snow/assets/images/course/GRANDECO_map.pdf
   sourceLabel: Grandeco Snow Resort Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
-  source: https://resort.en-hotel.com/grandeco/snow/ja/
-  note: 主要日間票摘要；官方票價分為 pre-season、regular season 與 spring season，並依年齡與平假日區分。完整線上價格與票種請以官方頁面為準。
-  earlyBird:
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r1025tk.htm
-      deadline: "2026-12-11"
+  source: https://grandecoresort.co.jp/snow/ticket/
+  note: 2026-2027 雪季票價依季節、平假日與年齡區分；線上事前購買一般票可再折價 ¥500。
   plans:
-    - name: Regular season 1 日券（平日）
+    - name: Pre-season 1 日券（11/21-12/11）
       priceLines:
-        - 成人：¥5,900
-        - 長者：¥5,500
-        - 青少年：¥4,900
-        - 兒童：¥4,100
-      note: Regular season 平日票價摘要
-    - name: Regular season 1 日券（週末假日）
+        - 成人：¥4,300
+        - 兒童：¥3,000
+        - 長者：¥3,800
+      note: 週末與平日同價。
+    - name: On-season 1 日券（平日）
       priceLines:
-        - 成人：¥6,500
-        - 長者：¥6,100
-        - 青少年：¥5,500
-        - 兒童：¥4,500
-      note: Regular season 週末與假日票價摘要
-    - name: Pre-season / Spring 1 日券
+        - 成人：¥4,300
+        - 兒童：¥3,000
+        - 長者：¥3,800
+      note: 2026/12/26-2027/1/3 年末年始按週末與假日票價計算。
+    - name: On-season 1 日券（週末與假日）
       priceLines:
-        - 一律：¥4,300
-      note: Pre-season 與 Spring season 的一般 1 日券摘要
+        - 成人：¥5,500
+        - 兒童：¥3,800
+        - 長者：¥4,800
+    - name: Spring season 1 日券（3/23-4/11）
+      priceLines:
+        - 成人：¥4,300
+        - 兒童：¥3,000
+        - 長者：¥3,800
+      note: 週末與平日同價。
+    - name: On-season 午後券（週末與假日 11:30 起）
+      priceLines:
+        - 成人：¥4,400
+        - 兒童：¥3,200
+        - 長者：¥4,000
+    - name: 單次乘車券
+      priceLines:
+        - 四人座纜車：¥900
+        - 觀光纜車往返：¥2,500
+        - 登山纜車往返：¥3,000
 snowWeather:
   title: Grandeco雪況天氣
   provider: Weathernews
@@ -88,33 +99,28 @@ snowWeather:
 courses:
   total: 11
   beginnerRatio: 40
-  intermediateRatio: 40
-  advancedRatio: 20
-  courseInfoPage: https://resort.en-hotel.com/grandeco/snow/ja/
-  summary: Grandeco 位於裏磐梯區域，官方列出 11 條雪道與連絡道路，最大斜度最高 33°，並有樹林、粉雪與緩坡長距離路線。
+  intermediateRatio: 45
+  advancedRatio: 15
+  courseInfoPage: https://grandecoresort.co.jp/snow/course/
+  summary: Grandeco 位於裏磐梯區域，11 條雪道涵蓋 4,500m 長距離巡航、白樺林間、粉雪與常設雪丘，最高坡度 33°。
   details:
   - name: Forest
     difficulty: beginner
-    length: 750m
-    maxSlope: 20°
-    averageSlope: 10°
-    note: 官方說明為初級路線，雪道沿線有白樺與林間景觀。
+    length: 1,500m
+    maxSlope: 10°
+    note: 穿越深邃森林並通往山麓中心，適合初學者與家庭。
     videoLinks:
     - https://www.youtube.com/watch?v=MHJDzZwTc74&t=363s
     - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=987s
     - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1241s
   - name: Hotel Road
     difficulty: beginner
-    length: 1,000m
-    maxSlope: 10°
-    averageSlope: 5°
-    note: 官方列為可連接飯店的緩坡道路型路線；官方資料並列出全長 1,000m、最大坡度 10°、平均坡度 5°。
+    note: 連接 Grandeco 飯店的道路型路線。
   - name: Main Street
     difficulty: beginner
-    length: 1,800m
-    maxSlope: 18°
-    averageSlope: 8°
-    note: 官方列為初級主線路線；官方資料並列出全長 1,800m、最大坡度 18°、平均坡度 8°。
+    length: 2,500m
+    maxSlope: 23°
+    note: 從標高 1,400m 開始的主要長距離路線，入口可眺望磐梯山與豬苗代湖。
     videoLinks:
     - https://www.youtube.com/watch?v=MHJDzZwTc74&t=776s
     - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=366s
@@ -122,65 +128,55 @@ courses:
     - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1081s
   - name: Road to Powder
     difficulty: intermediate
-    length: 1,000m
-    maxSlope: 25°
-    averageSlope: 20°
-    note: 官方列為通往粉雪區域的道路型路線；官方資料並列出全長 1,000m、最大坡度 25°、平均坡度 20°。
+    note: 通往 Powder 雪道的連絡路線，具探險感。
   - name: The View
     difficulty: intermediate
-    length: 2,000m
-    maxSlope: 24°
-    averageSlope: 13°
-    note: 官方說明此路線可從山頂長距離巡航，並可欣賞磐梯山與裏磐梯景觀。
+    length: 450m
+    maxSlope: 25°
+    note: 可欣賞磐梯山與裏磐梯湖沼群景色的起伏中級路線。
     videoLinks:
     - https://www.youtube.com/watch?v=MHJDzZwTc74&t=558s
     - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=692s
   - name: Alpen
     difficulty: intermediate
-    length: 850m
-    maxSlope: 26°
-    averageSlope: 11°
-    note: 官方列為中級路線；官方資料並列出全長 850m、最大坡度 26°、平均坡度 11°。
+    length: 400m
+    maxSlope: 23°
+    note: 競速愛好者取向的斜坡，適合中級以上滑雪者。
     videoLinks:
     - https://www.youtube.com/watch?v=MHJDzZwTc74&t=344s
     - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=904s
   - name: Powder
     difficulty: intermediate
-    length: 600m
-    maxSlope: 19°
-    averageSlope: 12°
+    length: 700m
+    maxSlope: 26°
     videoLinks:
     - https://www.youtube.com/watch?v=MHJDzZwTc74&t=173s
-    note: 官方列為粉雪取向路線；官方資料並列出全長 600m、最大坡度 19°、平均坡度 12°。
+    note: 享受天然新雪與多變地形的粉雪路線。
   - name: Fall Line
     difficulty: intermediate
-    length: 450m
-    maxSlope: 21°
-    averageSlope: 12°
-    note: 官方列為沿最大傾斜方向滑行的路線；官方資料並列出全長 450m、最大坡度 21°、平均坡度 12°。
+    length: 200m
+    maxSlope: 33°
+    note: 將急斜坡整備為壓雪面，降雪後也可能形成壓雪上的粉雪。
     videoLinks:
     - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1555s
-  - name: Center 33
-    difficulty: advanced
-    length: 450m
-    maxSlope: 33°
-    averageSlope: 18°
-    note: 官方列為最大斜度 33° 的上級路線；官方資料並列出全長 450m、最大坡度 33°、平均坡度 18°。
+  - name: Tree
+    difficulty: beginner
+    length: 1,300m
+    maxSlope: 22°
+    note: 穿越美麗山毛櫸林，適合以樹木作為轉彎參考並練習連續轉彎。
   - name: The Rock
     difficulty: advanced
-    length: 450m
-    maxSlope: 30°
-    averageSlope: 20°
-    note: 官方列為上級路線；官方資料並列出全長 450m、最大坡度 30°、平均坡度 20°。
+    length: 1,400m
+    maxSlope: 28°
+    note: 以三座象徵性岩石為地標的長距離多變地形路線。
     videoLinks:
     - https://www.youtube.com/watch?v=MHJDzZwTc74&t=438s
     - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=202s
   - name: Free Ride
     difficulty: advanced
-    length: 650m
-    maxSlope: 30°
-    averageSlope: 15°
-    note: 官方列為 freeride 取向路線，實際開放與規則請依官方公告；官方資料並列出全長 650m、最大坡度 30°、平均坡度 15°。
+    length: 450m
+    maxSlope: 28°
+    note: 常設雪丘與不定期非壓雪雪面，適合進階技術練習。
     videoLinks:
     - https://www.youtube.com/watch?v=FQUsZ2ABDtU&t=1453s
 lifts:
@@ -190,24 +186,24 @@ access:
     - label: 東京出發
       steps:
         - 東京站搭乘東北新幹線至郡山站。
-        - 轉乘 JR 磐越西線至豬苗代站，或依官方資訊轉乘高速巴士、接駁。
-        - 從豬苗代、裏磐梯方向前往 Grandeco。
+        - 轉乘 JR 磐越西線至豬苗代站。
+        - 於豬苗代站搭乘 Grandeco 免費接駁車至雪場，冬季班次需前一天 17:00 前預約。
       estimatedTime: 約 3.5-4.5 小時
       difficulty: medium
-      note: 裏磐梯區域冬季接駁與巴士班次有限，出發前請確認官方交通資訊。依接駁與轉乘方式而定。
+      note: 冬季接駁車於 2026/11/28-2027/4/11 運行，從豬苗代站至雪場約 45 分鐘；需前一天 17:00 前預約，額滿即止。
       links:
         - label: Grandeco Official
-          url: https://resort.en-hotel.com/grandeco/snow/ja/
+          url: https://grandecoresort.co.jp/snow/access/
   car:
     recommended: true
     snowTireRequired: true
-    note: 可由豬苗代磐梯高原 IC 往裏磐梯方向前往；雪季需雪胎或雪鏈。
+    note: 可由磐越自動車道豬苗代磐梯高原 IC 前往，車程約 30 分鐘；雪季需雪胎或雪鏈。平日停車免費，週末、假日與 12/29-1/3 普通車每台 ¥1,000，飯店住客全年免費。
 terrainSummary:
   beginner: Main Street、Forest 與 Hotel Road 提供初級長距離與緩坡路線。
   intermediate: The View、Alpen、Powder、Fall Line 與 Road to Powder 組成中級巡航與粉雪連接路線。
-  advanced: Center 33、The Rock 與 Free Ride 提供較陡坡度與 freeride 取向滑行。
+  advanced: The Rock、Freeride 與 Fall Line 提供長距離、多變地形、雪丘與陡坡挑戰。
   snowboard: 雙板與雪板皆可使用，詳細 freeride 與 tree run 規則請以官方公告為準。
-  powder: Powder、Road to Powder、Free Ride 與高海拔區域在新雪後較有粉雪行程彈性。
+  powder: Powder、Road to Powder 與 Freeride 在新雪後可享受粉雪或非壓雪地形。
 externalContent:
   blogs:
   - title: EN Resort Grandeco飯店住宿心得︱ski in/out 滑雪進出，車站免費接送，精緻度假飯店
@@ -222,4 +218,4 @@ externalContent:
   vlogs: []
 ---
 
-Grandeco是福島縣的中型雪場，整理為 11 條雪道，搭配 5 座纜車。雪道如 Forest、Hotel Road、Main Street，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+Grandeco 位於裏磐梯高原，擁有 11 條雪道、1 座高速纜車與 3 座四人座高速罩棚纜車。從 2,500m 的 Main Street、山毛櫸林間的 Tree，到 Powder、The Rock 與 33° 的 Fall Line，兼具長距離巡航、粉雪、多變地形與進階挑戰；山頂可眺望磐梯山與裏磐梯湖沼群。

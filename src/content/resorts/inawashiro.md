@@ -26,7 +26,7 @@ links:
   facebook: https://www.facebook.com/snowparadise.iNAWASHiRO
   instagram: https://www.instagram.com/inawashiro_ski/
   xTwitter: https://twitter.com/inawashiro_ski
-  trailMapPage: https://www.inawashiro-ski.com/gelande/
+  trailMapPage: https://www.inawashiro-ski.com/gelande/#gelande01
   ticket: https://www.inawashiro-ski.com/lift/
   access: https://www.inawashiro-ski.com/access/
   weather: https://weathernews.jp/ski/spot/33602/
@@ -39,44 +39,57 @@ contact:
     googleMaps: https://maps.app.goo.gl/xGY5SC4vhhh3dKYf6
   phone: 0242-62-5100
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/19-2026/3/22
+  label: 2026-2027
+  operatingPeriod: 2026/12/18-2027/3/22
   hours: 8:30-16:30
-  nightSkiingHours: 16:00-22:00（特定日期）
-  note: 營業期間、夜滑日期與開放範圍會依積雪與天候調整，出發前請以官方公告為準。
-  source: https://weathernews.jp/ski/spot/33602/
+  nightSkiingHours: 16:00-22:00（2026/12/19-2027/3/13 的週六與指定日期）
+  note: 2026-2027 雪季預定 2026/12/18 至 2027/3/22；夜滑安排於 2026/12/19 至 2027/3/13 的週六及指定日期，雲海早滑則預定於 2027/1/24 至 3/7 的每週日。實際營運可能受雪況影響。
+  source: https://www.inawashiro-ski.com/lift/
 trailMaps:
 - label: 豬苗代雪道圖
   language: 日本語
-  season: 2025-2026
+  season: 2026-2027
   url: https://www.inawashiro-ski.com/gelande/
   sourceLabel: Inawashiro Ski Resort Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.inawashiro-ski.com/lift/
-  note: 主要訪客票種摘要；官方也提供 Inawashiro Ski Club 會員價格，完整規則與期間限定票請以官方頁面為準。
+  note: 2026-2027 雪季票價；未就學兒童可免費搭乘但仍需領取票券，會員票另有平日免費與假日折扣。
   plans:
     - name: 1 日券
       priceLines:
-        - 成人：¥6,600
-        - 小學生：¥3,200
-      note: 訪客窗口票價
+        - 訪客成人：¥6,600
+        - 訪客小學生：¥3,200
+        - 會員平日：成人／小學生 免費
+        - 會員週末與假日：成人 ¥3,300／小學生 ¥1,600
+      note: 會員票的平日免費優惠不適用於 2026/12/26-2027/1/3，該期間按週末與假日計算。
     - name: 4 小時券
       priceLines:
-        - 成人：¥5,600
-        - 小學生：¥2,700
-      note: 訪客窗口票價
-    - name: 夜滑券
+        - 訪客成人：¥5,600
+        - 訪客小學生：¥2,700
+      note: 自購買時起連續使用 4 小時。
+    - name: 夜滑券（16:00-22:00）
       priceLines:
-        - 成人：¥7,200
-        - 小學生：¥3,600
-      note: 訪客窗口票價，夜滑營業日限定
-    - name: 一日券 + 夜滑券
+        - 訪客成人：¥7,200
+        - 訪客小學生：¥3,600
+        - 會員成人：¥3,600
+        - 會員小學生：¥1,800
+      note: 2026/12/19-2027/3/13 的週六與指定日期開放。
+    - name: 雪花火夜滑券（13:45-19:00）
       priceLines:
-        - 成人：¥10,200
-        - 小學生：¥5,000
-      note: 訪客窗口票價
+        - 訪客成人：¥3,600
+        - 訪客小學生：¥1,800
+        - 會員成人：¥1,800
+        - 會員小學生：¥900
+      note: 雪花火活動日限定。
+    - name: 雲海早滑券
+      priceLines:
+        - 訪客成人：¥3,600
+        - 訪客小學生：¥1,800
+        - 會員成人：¥1,800
+        - 會員小學生：¥900
+      note: 2027/1/24-3/7 每週日 6:30-8:30，於 Minero 區第 1 纜車開放。
 snowWeather:
   title: 豬苗代雪況天氣
   provider: Weathernews
@@ -90,129 +103,111 @@ courses:
   beginnerRatio: 50
   intermediateRatio: 35
   advancedRatio: 15
-  courseInfoPage: https://www.inawashiro-ski.com/gelande/
-  summary: 豬苗代滑雪場官方列出 18 條雪道，從中央區、葉山區到 Minero 區可眺望豬苗代湖，並有夜滑與多條中上級路線。
+  courseInfoPage: https://www.inawashiro-ski.com/gelande/#gelande01
+  summary: 18 條雪道分布於 Sky、Base 與 Minero 三個區域，從寬廣初學坡面到全國大賽使用的高難度路線皆有，部分高處雪道在降雪後可享受非壓雪粉雪。
   details:
+  - name: 葉山コース / Hayama Course
+    difficulty: beginner
+    maxSlope: 12°
+    averageSlope: 8°
+    note: 寬度約 20-25m，坡度平緩，適合初學練習。
+  - name: 聖火リレーゲレンデ / Torch Relay Slope
+    difficulty: beginner
+    maxSlope: 14°
+    averageSlope: 11°
+    note: 寬度約 80-110m，坡面開闊。
   - name: ささ平コース / Sasadaira Course
     difficulty: beginner
-    length: 570m
-    maxSlope: 12°
-    averageSlope: 10°
-    note: 官方列出全長 570m、平均 10°、最大 12°。
-  - name: 葉山ゲレンデ / Hayama Slope
-    difficulty: beginner
-    length: 250m
-    maxSlope: 10°
-    averageSlope: 8°
-    note: 官方列出全長 250m、平均 8°、最大 10°。
-  - name: 聖火リレーコース / Torch Relay Course
-    difficulty: beginner
-    length: 700m
-    maxSlope: 10°
-    averageSlope: 8°
-    note: 官方列出全長 700m、平均 8°、最大 10°。
+    maxSlope: 14°
+    averageSlope: 11°
+    note: 寬度約 30m，適合穩定練習與巡航。
   - name: 東ゲレンデ / East Slope
     difficulty: beginner
-    length: 470m
-    maxSlope: 14°
-    averageSlope: 10°
-    note: 官方列出全長 470m、平均 10°、最大 14°。
-  - name: 西ゲレンデ / West Slope
-    difficulty: beginner
-    length: 250m
-    maxSlope: 12°
-    averageSlope: 9°
-    note: 官方列出全長 250m、平均 9°、最大 12°。
+    maxSlope: 15°
+    averageSlope: 11°
+    note: 寬度約 30-120m，路線寬廣。
   - name: 中央ゲレンデ / Central Slope
     difficulty: beginner
-    length: 400m
-    maxSlope: 12°
+    maxSlope: 14°
     averageSlope: 10°
-    note: 官方列出全長 400m、平均 10°、最大 12°。
-  - name: ふりこ坂コース / Furiko-zaka Course
-    difficulty: intermediate
-    length: 700m
-    maxSlope: 27°
-    averageSlope: 14°
-    note: 官方列出全長 700m、平均 14°、最大 27°。
-  - name: 林間コース / Forest Course
-    difficulty: intermediate
-    length: 1,300m
-    maxSlope: 25°
-    averageSlope: 16°
-    note: 官方列出全長 1,300m、平均 16°、最大 25°。
-  - name: 中央ライン / Central Line
-    difficulty: intermediate
-    length: 870m
-    maxSlope: 22°
-    averageSlope: 14°
-    note: 官方列出全長 870m、平均 14°、最大 22°。
-  - name: ミネロイーストコース / Minero East Course
-    difficulty: intermediate
-    length: 950m
-    maxSlope: 22°
-    averageSlope: 14°
-    note: 官方列出全長 950m、平均 14°、最大 22°。
+    note: 寬度約 140-200m，為基地區的寬闊雪道。
+  - name: 西ゲレンデ / West Slope
+    difficulty: beginner
+    maxSlope: 13°
+    averageSlope: 10°
+    note: 寬度約 120-160m，可使用雪橇等非滑雪器材。
   - name: ミネロセントラルコース / Minero Central Course
     difficulty: intermediate
-    length: 900m
-    maxSlope: 20°
-    averageSlope: 14°
-    note: 官方列出全長 900m、平均 14°、最大 20°。
-  - name: ミネロウエストコース / Minero West Course
+    maxSlope: 14°
+    averageSlope: 12°
+    note: Minero 區中級路線，寬度約 30-50m。
+  - name: ミネロイーストコース / Minero East Course
     difficulty: intermediate
-    length: 830m
     maxSlope: 22°
     averageSlope: 14°
-    note: 官方列出全長 830m、平均 14°、最大 22°。
+    note: Minero 區具速度感的中級路線，寬度約 30-50m。
+  - name: ミネロウエストコース上部 / Minero West Upper Course
+    difficulty: intermediate
+    maxSlope: 22°
+    averageSlope: 14°
+    note: Minero West 上段路線，寬度約 30-50m。
+  - name: ミネロウエストコース下部 / Minero West Lower Course
+    difficulty: intermediate
+    maxSlope: 22°
+    averageSlope: 14°
+    note: Minero West 下段路線，寬度約 30-50m。
+  - name: 中央ライン / Central Line
+    difficulty: intermediate
+    maxSlope: 22°
+    averageSlope: 14°
+    note: 寬度約 20-50m，連接中央區的中級路線。
   - name: お馬返しゲレンデ / Omagaeshi Slope
     difficulty: intermediate
-    length: 500m
-    maxSlope: 18°
-    averageSlope: 14°
-    note: 官方列出全長 500m、平均 14°、最大 18°。
+    maxSlope: 27°
+    averageSlope: 18°
+    note: 寬度約 140-180m，坡面寬廣但坡度變化較明顯。
+  - name: 林間コース / Forest Course
+    difficulty: intermediate
+    maxSlope: 25°
+    averageSlope: 16°
+    note: 林間路線，寬度約 20-50m。
   - name: 国体コース / National Sports Festival Course
     difficulty: advanced
-    length: 620m
-    maxSlope: 28°
+    maxSlope: 34°
     averageSlope: 19°
-    note: 官方列出全長 620m、平均 19°、最大 28°。
+    note: 降雪後上段可形成非壓雪粉雪，為高難度路線。
   - name: 天の庭コース / Ten-no-niwa Course
     difficulty: advanced
-    length: 540m
     maxSlope: 30°
     averageSlope: 25°
-    note: 官方列出全長 540m、平均 25°、最大 30°。
-  - name: 赤埴大回転コース / Akahani Giant Slalom Course
+    note: 坡度集中且具挑戰性，寬度約 30-50m。
+  - name: ふりこ坂コース / Furiko-zaka Course
     difficulty: advanced
-    length: 1,050m
-    maxSlope: 24°
-    averageSlope: 15°
-    note: 官方列出全長 1,050m、平均 15°、最大 24°。
+    maxSlope: 27°
+    averageSlope: 25°
+    note: 寬度約 80m，坡度較陡。
   - name: 東坂コース / Higashizaka Course
     difficulty: advanced
-    length: 1,100m
-    maxSlope: 32°
-    averageSlope: 19°
-    note: 官方列出全長 1,100m、平均 19°、最大 32°。
-  - name: 大沢回転コース / Osawa Slalom Course
+    maxSlope: 34°
+    averageSlope: 28°
+    note: 寬度約 30-50m，屬於陡峭路線。
+  - name: 大沢回転バーン / Osawa Slalom Run
     difficulty: advanced
-    length: 1,300m
-    maxSlope: 32°
-    averageSlope: 15°
-    note: 官方列出全長 1,300m、平均 15°、最大 32°。
+    maxSlope: 42°
+    averageSlope: 35°
+    note: 寬度約 35-50m，為雪場最陡峭的競技取向路線。
 lifts:
   total: 8
 access:
   fromTokyo:
   - label: 東京出發
     steps:
-    - 東京站搭乘東北新幹線至郡山站。
-    - 轉乘 JR 磐越西線至豬苗代站。
-    - 從豬苗代站搭乘官方接駁、路線巴士或計程車前往雪場。
+    - 東京站搭乘東北新幹線至郡山站，約 1 小時 30 分鐘。
+    - 轉乘 JR 磐越西線至豬苗代站，約 40 分鐘。
+    - 從豬苗代站搭乘免費接駁車至雪場，車程約 15 分鐘。
     estimatedTime: 約 3 小時
     difficulty: medium
-    note: 官方 access 頁列出豬苗代站可銜接接駁交通；班次與期間請以當季時刻表為準。依轉乘方式而定。
+    note: 免費接駁車於 2026/12/18-2027/3/22 雪季營運，豬苗代站往返班次免預約；其他郡山、福島、新潟等地接駁路線需事前預約。
     links:
     - label: Inawashiro Ski Resort Access
       url: https://www.inawashiro-ski.com/access/
@@ -221,9 +216,9 @@ access:
     snowTireRequired: true
     note: 可由磐越自動車道豬苗代磐梯高原 IC 前往；雪季自駕需準備雪胎或雪鏈。
 terrainSummary:
-  beginner: 聖火リレー、ささ平、葉山、中央與東西ゲレンデ等路線提供山麓練習與親子滑行空間。
-  intermediate: 林間、中央ライン與 Minero 三條主要路線提供中級巡航與豬苗代湖景觀。
-  advanced: 國體、天の庭、赤埴大回転、東坂與大沢回転提供較高坡度與競技取向路線。
+  beginner: 葉山、聖火リレー、ささ平、中央與東西ゲレンデ等寬闊路線適合初學練習與親子滑行。
+  intermediate: 林間、中央ライン與 Minero 區多條路線提供中級巡航與速度感。
+  advanced: 國體、天の庭、ふりこ坂、東坂與大沢回転等路線提供陡坡與競技取向挑戰。
   snowboard: 雙板與雪板皆可使用，詳細公園與裝備規則請以官方公告為準。
   powder: 高處與林間區在新雪後較有粉雪行程彈性，實際開放請以官方雪況為準。
 externalContent:
@@ -234,4 +229,4 @@ externalContent:
     note: 犬と暮らす旅人 / Love Nomad Life
 ---
 
-豬苗代位於磐梯山與豬苗代湖周邊的自然環境中，滑道設計多樣，能讓初學者到進階玩家都找到適合的路線。雪場整體以開闊景色與不同坡面變化為特色，滑行時能感受到湖景、山景與東北高原雪場的清爽氛圍。
+東北福島的絕景・豬苗代滑雪場位於磐梯朝日國立公園內，座落於磐梯山與拉姆薩爾公約登錄地豬苗代湖之間。Sky、Base 區以寬廣雪道與親子友善設施為主，Minero 區則有全國大賽使用的高難度名物路線；18 條雪道從初學緩坡到非壓雪粉雪與陡坡競技地形，適合不同程度的滑雪者。
