@@ -31,23 +31,23 @@ contact:
     googleMaps: https://maps.app.goo.gl/X85n8ApRvfZz5Vo8A
   phone: 026-258-3673
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/3/29
+  label: 2026-2027
+  operatingPeriod: 2026/12/19-2027/3/28
   hours: 8:30〜16:30
-  nightSkiingHours: 16:30〜20:00
-  note: 夜滑僅限指定夜滑日，第 3 纜車為主要夜間營運索道。
+  nightSkiingHours: 16:30〜20:00（第 3 四人座纜車，指定日期）
+  note: 2026-2027 雪季預定 2026/12/19 開始至 2027/3/28；兒童遊樂區預定 12/12 開始。夜滑安排於 12/27-1/3、1/10 與 1/11。
   source: https://www.tangram.jp/ski/ticket/ticket.php
 trailMaps:
   - label: Tangram 滑雪廣場雪道圖
     language: 日本語
-    season: 2025-2026
-    url: https://www.tangram.jp/ski/ski/images/map/map.jpg
+    season: 2026-2027
+    url: https://www.tangram.jp/ski/ski/map.php
     sourceLabel: Tangram Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.tangram.jp/ski/ticket/ticket.php
-  note: 另收 IC 卡押金 ¥500，歸還時退還。原則上搭乘纜車需穿著滑雪板或單板；野尻湖露台觀光纜車除外。夜滑僅限指定夜滑日使用。
+  note: 另收 IC 卡押金 ¥500，歸還時退還；原則上搭乘纜車需穿著滑雪板或單板，野尻湖露台觀光纜車除外。夜滑僅限指定日期使用。
   earlyBird:
     - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://tw.wamazing.com/snow/items/15083
@@ -56,29 +56,28 @@ tickets:
       url: https://surfsnow.jp/guide/htm/r0016tk.htm
       deadline: "2026-12-31"
   plans:
-    - name: 1日券
+    - name: Tangram 1 日券
       priceLines:
-        - 成人：¥6,500
-        - 長者（55 歲以上）：¥6,000
+        - 成人：¥7,000
+        - 長者（55 歲以上）：¥6,500
+        - 小學生：¥4,500
+      note: 部分指定日期延長營業至 18:00。
+    - name: Tangram 4 小時券
+      priceLines:
+        - 成人：¥6,000
+        - 長者（55 歲以上）：¥5,500
         - 小學生：¥4,200
-      note: 不可夜滑。
-    - name: 4小時券
-      priceLines:
-        - 成人：¥5,500
-        - 長者（55 歲以上）：¥5,000
-        - 小學生：¥3,700
-      note: 自閘門通過起連續 4 小時，可夜滑。
-    - name: 兒童（學齡前）共通券
+      note: 自閘門通過起連續 4 小時。
+    - name: 兒童共通券（未就學兒童）
       priceLines:
         - 兒童（學齡前）：¥1,000
       note: 僅兒童（學齡前）可用，不可夜滑。
-    - name: 回數券 1 回
+    - name: 單次乘車券
       priceLines:
-        - ¥700
-      note: 可夜滑。
+        - ¥800
     - name: 回數券 11 回
       priceLines:
-        - ¥7,000
+        - ¥8,000
       note: 雪季內有效，可夜滑。
     - name: 夜滑券
       priceLines:
@@ -94,16 +93,16 @@ tickets:
         - 長者（55 歲以上）：¥50,000
         - 小學生：¥30,000
       note: 可夜滑。
-    - name: 斑尾高原共通1日券
+    - name: 斑尾全山共通 1 日券
       priceLines:
-        - 成人：¥8,500
-        - 長者（55 歲以上）：¥8,000
-        - 小學生：¥5,500
-      note: 販售期間為 12/20 ～ 3/22（預定），不可夜滑。
+        - 成人：¥9,000
+        - 長者：¥8,500
+        - 小學生：¥6,000
+      note: 販售期間預定為 12/19-3/22；無共通 4 小時券。
     - name: 野尻湖露台觀光纜車（1往返）
       priceLines:
-        - 成人、長者（55 歲以上）：¥1,500
-        - 兒童（小學生以下）：¥1,200
+        - 成人、長者（55 歲以上）：¥1,600
+        - 兒童（小學生以下）：¥1,300
       note: 可不穿雪具搭乘第 5 纜車。
 snowWeather:
   title: Tangram 滑雪廣場雪況預報
@@ -223,19 +222,19 @@ access:
     - label: 東京出發轉乘
       steps:
         - 東京→北陸新幹線→長野站或飯山站。
-        - 長野站可轉乘預約制接駁巴士，飯山站可轉乘路線巴士。
+        - 長野站可轉乘預約制 Tangram 巴士，飯山站可轉乘免預約路線巴士。
       difficulty: medium
-      note: 長野站接駁巴士需前一日 17:00 前預約；飯山站與黑姫站則可改搭路線巴士。
+      note: 長野站接駁巴士需前一日 17:00 前預約；飯山站與黑姫站可搭乘免預約路線巴士。
       estimatedTime: 約2.5〜3.5小時
       links:
         - label: 官方交通
-          url: https://www.tangram.jp/ski/access/
+          url: https://www.tangram.jp/ski/
   publicTransit:
     - label: 長野站接駁巴士
       steps:
         - 長野站東口ユメリアバスパーク→タングラム斑尾。
       difficulty: medium
-      note: 事前預約制，住宿旅客可優先利用。
+      note: 長野站至 Tangram 斑尾線需事前預約，首頁交通資訊列為住宿旅客接駁選項。
       estimatedTime: 約70分鐘
       links:
         - label: 官方交通
@@ -244,7 +243,7 @@ access:
       steps:
         - しなの鉄道黑姫站→タングラム斑尾。
       difficulty: easy
-      note: 免預約，黑姫站前有多班次可銜接。
+      note: 黑姫站至 Tangram 斑尾線免預約。
       estimatedTime: 約25分鐘
       links:
         - label: 官方交通
@@ -253,7 +252,7 @@ access:
       steps:
         - JR飯山站→タングラム斑尾。
       difficulty: medium
-      note: 免預約，可銜接北陸新幹線。
+      note: 飯山站至 Tangram 斑尾線免預約，可銜接北陸新幹線。
       estimatedTime: 約45分鐘
       links:
         - label: 官方交通
@@ -261,7 +260,7 @@ access:
   car:
     recommended: true
     snowTireRequired: true
-    note: 上信越自動車道信濃町IC、妙高高原IC 皆約 20 分。冬季需準備雪胎或防滑鏈，停車場約 1,000 台。
+    note: 東京方向由上信越自動車道信濃町 IC 前往約 10 公里；新潟、金澤方向由妙高高原 IC 前往約 10 公里。冬季需準備雪胎或防滑鏈。
 terrainSummary:
   beginner: 初級雪道約 30%，山麓有連貫滑行與練習線，適合暖身與親子滑行。
   intermediate: 中級雪道約 40%，可在展望型路線與銜接線之間自由串聯。

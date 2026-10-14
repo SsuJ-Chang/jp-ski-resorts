@@ -25,8 +25,8 @@ links:
   facebook: https://www.facebook.com/dynaland/
   instagram: https://www.instagram.com/dynaland01/
   xTwitter: https://twitter.com/dynaland
-  trailMapPage: https://www.dynaland.co.jp/gelande/
-  ticket: https://www.takasumountains.com/lift/
+  trailMapPage: https://www.dynaland.co.jp/gelande/#map
+  ticket: https://www.dynaland.co.jp/charge/
   access: https://www.dynaland.co.jp/access/
   snowReport: https://www.dynaland.co.jp/condition/
   liftStatus: https://www.dynaland.co.jp/condition/
@@ -39,39 +39,58 @@ contact:
     googleMaps: https://maps.app.goo.gl/72ZPG2PWHPoEReuf7
   phone: 0575-72-6636
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/6-2026/3/29，實際依積雪與官方公告調整
+  label: 2026-2027
+  operatingPeriod: 2026/12/19-2027/3/28
   hours: 平日 8:00-16:30；週末及國定假日 6:00-16:30
-  nightSkiingHours: 18:00-23:00
-  source: https://www.takasumountains.com/ski/
+  nightSkiingHours: 18:00-23:00（2026/12/26-2027/3/21，12/31與1/1除外）
+  note: 2026-2027 雪季預定 2026/12/19 開始至 2027/3/28；16:30-18:00 為雪道整備時段。
+  source: https://www.dynaland.co.jp/charge/
 trailMaps:
 - label: 高鷲滑雪公園 / Dynaland 雪場圖
   language: Japanese
-  season: 2025-2026
-  url: https://www.dynaland.co.jp/gelande/
+  season: 2026-2027
+  url: https://www.dynaland.co.jp/assets/img/gelande/map25-26.jpg
   sourceLabel: Dynaland Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
-  source: https://www.takasumountains.com/lift/
-  note: TAKASU MOUNTAINS 6 雪場共通券摘要；全山共通券不含 Dynaland 夜滑，夜滑需另購夜滑券。
-  earlyBird:
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0231tk.htm
-      deadline: "2026-12-31"
+  source: https://www.dynaland.co.jp/charge/
+  note: 以下為票價頁目前列示的票種與價格，已套用至 2026-2027 雪季資料；IC 卡另收 ¥500 押金，歸還時退還。夜滑需使用夜滑相關票券。
   plans:
-    - name: 6 雪場共通 1 日券
+    - name: 高鷲滑雪公園／Dynaland 共通 1 日券
       priceLines:
-        - 成人：¥6,500
-        - 兒童：¥3,800
-        - 長者：¥5,500
-        - 國中生、高中生：¥4,500
-    - name: 6 雪場共通 2 日券
+        - 成人：¥6,400
+        - 4 歲～小學生：¥2,400
+        - 國中生～18 歲：¥4,200
+        - 60 歲以上：平日 ¥4,800／週末假日 ¥5,400
+      note: 平日 8:00-16:30，週末假日 6:00-16:30；年末年始 12/29-1/3 按週末假日計算。
+    - name: 高鷲滑雪公園／Dynaland 共通 2 日券
       priceLines:
-        - 成人：¥11,800
-        - 兒童：¥6,900
-        - 長者：¥10,500
-        - 國中生、高中生：¥8,500
+        - 成人：¥10,600
+      note: 不含夜滑。
+    - name: Dynaland 單獨 1 日券
+      priceLines:
+        - 成人：¥5,900
+      note: 僅限 Dynaland 區域。
+    - name: 午後＋夜滑券
+      priceLines:
+        - 成人：¥5,700
+        - 兒童：¥2,000
+      note: 12:00-23:00，最終搭乘時間 22:30。
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥3,900
+        - 兒童：¥1,400
+      note: 18:00-23:00，最終搭乘時間 22:30。
+    - name: 晚間夜滑券
+      priceLines:
+        - 成人：¥2,500
+        - 兒童：¥1,200
+      note: 21:00-23:00，20:50 開始販售。
+    - name: Dynaland 單獨家庭券
+      priceLines:
+        - 成人 1 名＋兒童 1 名：¥6,800
+      note: 不可升級為共通券。
 snowWeather:
   title: Dynaland 雪況天氣
   provider: Weathernews
@@ -81,12 +100,12 @@ snowWeather:
   forecast: []
   note: 雪況顯示沿用建站期間的靜態佔位資料；出發前請以官方即時雪況為準。
 courses:
-  total: 18
+  total: 20
   beginnerRatio: 40
   intermediateRatio: 32
   advancedRatio: 28
-  courseInfoPage: https://www.dynaland.co.jp/gelande/
-  summary: Dynaland 官方標示 18 條 course、最長 3,200m，特色是早朝、夜滑、park、長距離中級線與高鷲滑雪公園跨區動線。
+  courseInfoPage: https://www.dynaland.co.jp/gelande/#map
+  summary: Dynaland 擁有約 20 條雪道，最長 3,200m，初級 40%、中級 32%、上級 28%；除長距離巡航、夜滑與雪上樂園外，還有未壓雪樹林路線與高鷲滑雪公園的跨區動線。
   details:
   - name: パラダイスAコース / Paradise A Course
     difficulty: beginner
@@ -154,6 +173,12 @@ courses:
     maxSlope: 25°
     averageSlope: 17°
     note: 從 Alpha / Gamma 下車點接回 Paradise A 的短線，急緩、粉雪與地形變化明確。
+  - name: パラダイスツリーラン / Paradise Tree Run
+    difficulty: intermediate
+    length: 200m
+    maxSlope: 14°
+    averageSlope: 12°
+    note: 從 Paradise A 進入的未壓雪樹林路線，為五個樹林區中較容易的入門路線。
   - name: スカイラインBコース / Skyline B Course
     difficulty: intermediate
     length: 2,400m
@@ -190,6 +215,12 @@ courses:
     maxSlope: 32°
     averageSlope: 22°
     note: Challenge B 旁的高難度線，從 Beta Liner 可進入。
+  - name: チャレンジツリーラン / Challenge Tree Run
+    difficulty: advanced
+    length: 600m
+    maxSlope: 35°
+    averageSlope: 21°
+    note: 樹林區中的超高難度路線，僅在積雪條件充足時開放。
   - name: スカイラインAコース / Skyline A Course
     difficulty: advanced
     length: 2,200m
@@ -216,7 +247,7 @@ terrainSummary:
   intermediate: Downhill 與 Skyline B 是長距離巡航主軸，夜滑也以 Downhill 為核心。
   advanced: Challenge B、Challenge C、Skyline A 與 Kamichu 系列是主要高難度坡面。
   snowboard: park、夜滑與 terrain 變化多，適合 snowboarder 安排全天到夜間行程。
-  powder: 官方有多處 tree run area，需依積雪與開放狀態進入。
+  powder: Paradise Tree Run、Challenge Tree Run 等未壓雪樹林區在降雪後可提供粉雪地形。
 externalContent:
   vlogs:
   - title: 【日本中部】EP3名古屋自由行｜滑雪價格｜租裝備價格｜西日本最大雪場🗻｜高鷲滑雪場⛷｜Dynaland Snow Park❄️｜自學單板🏂｜ホテルヴィラモンサン飯店｜Action3📸｜
@@ -224,4 +255,4 @@ externalContent:
     note: 和Ivy去旅行
 ---
 
-Dynaland 是西日本規模很大的雪場之一，與鄰近高鷲滑雪公園串連後山域更完整。場內約 20 條滑道涵蓋初級到進階玩家，充分利用地形變化，餐廳、租賃與課程等機能也齊全，是高鷲地區代表性的綜合型雪場。
+Dynaland 是西日本規模最大的雪場之一，擁有約 20 條雪道，從 3,200m 的 Paradise A 長距離初級線、長距離巡航與夜滑主軸，到 Challenge B 等最大 38° 的高難度路線皆有。雪場另設多個樹林滑行區、雪上樂園與親子雪地活動，並可與鄰近高鷲滑雪公園串聯，適合安排從白天一路滑到夜間的行程。
