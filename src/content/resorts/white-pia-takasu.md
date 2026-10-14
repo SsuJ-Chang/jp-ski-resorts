@@ -10,6 +10,9 @@ skiArea: takasu-mountains
 location:
   latitude: 35.9560036202049
   longitude: 136.93482165582236
+elevation:
+  top: 1405
+  bottom: 1050
 tags:
 - beginner_friendly
 - family_friendly
@@ -21,8 +24,8 @@ links:
   facebook: https://www.facebook.com/whitepia/
   instagram: https://www.instagram.com/whitepiatakasu/
   xTwitter: https://twitter.com/whitepia_takasu
-  trailMapPage: https://whitepia.jp/gerende/
-  ticket: https://www.takasumountains.com/lift/
+  trailMapPage: https://whitepia.jp/gerende/#course
+  ticket: https://whitepia.jp/liftticket/
   access: https://whitepia.jp/access/
   snowReport: https://whitepia.jp/operation/
   liftStatus: https://whitepia.jp/operation/
@@ -35,32 +38,55 @@ contact:
     googleMaps: https://www.google.com/maps/search/?api=1&query=White%20Pia%20Takasu
   phone: 0575-72-6311
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/11 中旬-2026/3 下旬，實際依積雪與官方公告調整
-  hours: 全日 8:00-16:30；Sunrise 營業 7:00 起
-  source: https://www.takasumountains.com/ski/
+  label: 2026-2027
+  operatingPeriod: 2026/11/28-2027/3/28
+  hours: 全日 8:00-16:00；早朝加價可 6:00 起滑
+  source: https://whitepia.jp/liftticket/
 trailMaps:
 - label: White Pia 高鷲雪場圖
   language: Japanese
   season: 2025-2026
-  url: https://whitepia.jp/gerende/
+  url: https://whitepia.jp/gerende/#map
   sourceLabel: White Pia Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.takasumountains.com/lift/
-  note: TAKASU MOUNTAINS 6 雪場共通券摘要；單獨券與 Sunrise 營業請以官方頁面為準。
-  earlyBird:
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0194tk.htm
-      deadline: "2027-03-28"
+  note: 單獨券一般可使用 8:00-16:00；早朝滑行需在換票時加價 ¥2,000，自 6:00 起滑。每張 IC 卡另收 ¥500 保證金，退卡時退回。
   plans:
-    - name: 6 雪場共通 1 日券
+    - name: White Pia 單獨 1 日券
       priceLines:
-        - 成人：¥6,500
-        - 兒童：¥3,800
-        - 長者：¥5,500
-        - 國中生、高中生：¥4,500
+        - 成人（國中生以上）：¥5,600
+        - 兒童（小學生）：¥2,200
+        - 長者（60 歲以上）：¥4,500
+        - 幼童（3 歲至小學生未滿）：¥1,000
+    - name: Washitopia 共通 1 日券
+      priceLines:
+        - 成人：¥6,400
+        - 兒童：¥2,500
+        - 長者：¥5,000
+      note: 可使用 White Pia 與鷲岳；山頂往來需購買共通券。
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 1 日券
+      priceLines:
+        - 成人 / ¥6,500
+        - 兒童（小學生以下） / ¥3,800
+        - 銀髮族（60 歲以上） / ¥5,500
+        - 中高生（13～18 歲） / ¥4,500
+      note: 僅限通過閘門當日有效，可在高鷲滑雪公園、Dynaland、鷲岳、White Pia 高鷲與蛭野高原購買；郡上ヴァカンス村可使用但不販售。需另付 IC 卡押金 ¥500，退卡時可退款。夜滑不適用，Dynaland 與鷲岳需另購夜滑券。
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 2 日券
+      priceLines:
+        - 成人 / ¥11,800
+        - 兒童（小學生以下） / ¥6,900
+        - 銀髮族（60 歲以上） / ¥10,500
+        - 中高生（13～18 歲） / ¥8,500
+      note: 整個雪季有效，可跨日使用；適用 6 個高鷲地區雪場。需另付 IC 卡押金 ¥500，退卡時可退款。夜滑不適用，Dynaland 與鷲岳需另購夜滑券。
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 3 日券
+      priceLines:
+        - 成人 / ¥17,100
+        - 兒童（小學生以下） / ¥10,000
+        - 銀髮族（60 歲以上） / ¥15,500
+        - 中高生（13～18 歲） / ¥12,800
+      note: 整個雪季有效，可跨日使用；適用 6 個高鷲地區雪場。需另付 IC 卡押金 ¥500，退卡時可退款。夜滑不適用，Dynaland 與鷲岳需另購夜滑券。
 snowWeather:
   title: White Pia 高鷲雪況天氣
   provider: Weathernews
@@ -74,11 +100,11 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
-  courseInfoPage: https://whitepia.jp/gerende/
-  summary: White Pia 高鷲官方標示 13 條 course、最長 2,600m，特色是熊手型 course layout、山頂展望、mogul、freestyle park 與鷲岳共通動線。
+  courseInfoPage: https://whitepia.jp/gerende/#course
+  summary: White Pia 高鷲有 13 條雪道，最長滑走 2,600m，位於鷲岳北向斜面，雪質與積雪條件穩定；場內有 360° 山頂展望、mogul、freestyle park、新雪路線與多條難度分明的雪道。
   details:
   - name: ブラックベア / Black Bear
-    difficulty: beginner
+    difficulty: mixed
     note: 下部為初級路線，Top season 中可接 Center Way，形成緩斜度動線；上部 Black Bear 則為上級路線。
   - name: センターウェイ / Center Way
     difficulty: beginner
@@ -135,8 +161,8 @@ terrainSummary:
   beginner: Black Bear 下部、Center Way、Center C、Panorama Way 與 Snake Street 是主要緩坡動線。
   intermediate: Center A/B、Star、Swing、Skip 提供中級與 mogul 練習銜接。
   advanced: Diving、Dancing、Jumping 與 Black Bear 上部是主要上級線。
-  snowboard: freestyle park、mogul 與多分岐地形讓 snowboarder 有不少玩法。
-  powder: 官方重點較偏地形與展望，粉雪狀況需看當日公告。
+  snowboard: freestyle park、mogul 與多分岐地形讓 snowboarder 有不少玩法；整體滑雪／單板比例約為 30%／70%。
+  powder: 非壓雪區約占 25%，另有新雪路線與上級難度雪道；實際開放依當日雪況調整。
 ---
 
-岐阜縣的White Pia 高鷲共有13 條雪道，搭配 4 座纜車，包含 ブラックベア / Black Bear、センターウェイ / Center Way、センターC / Center C 等路線。初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+White Pia 高鷲位於北向斜面，雪質與積雪條件穩定，13 條雪道最長可滑 2,600m。山頂可眺望大日岳與白山連峰，場內同時配置初級緩坡、mogul、freestyle park、新雪路線與上級難關；即使不滑雪，也能透過展望與雪地健行感受山景。

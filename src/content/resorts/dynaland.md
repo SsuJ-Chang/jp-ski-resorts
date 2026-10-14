@@ -10,6 +10,9 @@ skiArea: takasu-mountains
 location:
   latitude: 35.990352034523184
   longitude: 136.87055655767102
+elevation:
+  top: 1430
+  bottom: 983
 tags:
 - beginner_friendly
 - family_friendly
@@ -54,8 +57,12 @@ trailMaps:
 tickets:
   season: 2026-2027
   currency: JPY
-  source: https://www.dynaland.co.jp/charge/
+  source: https://www.takasumountains.com/lift/
   note: 以下為票價頁目前列示的票種與價格，已套用至 2026-2027 雪季資料；IC 卡另收 ¥500 押金，歸還時退還。夜滑需使用夜滑相關票券。
+  earlyBird:
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0231tk.htm
+      deadline: "2026-12-31"
   plans:
     - name: 高鷲滑雪公園／Dynaland 共通 1 日券
       priceLines:
@@ -91,6 +98,27 @@ tickets:
       priceLines:
         - 成人 1 名＋兒童 1 名：¥6,800
       note: 不可升級為共通券。
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 1 日券
+      priceLines:
+        - 成人 / ¥6,500
+        - 兒童（小學生以下） / ¥3,800
+        - 銀髮族（60 歲以上） / ¥5,500
+        - 中高生（13～18 歲） / ¥4,500
+      note: 僅限通過閘門當日有效，可在高鷲滑雪公園、Dynaland、鷲岳、White Pia 高鷲與蛭野高原購買；郡上ヴァカンス村可使用但不販售。需另付 IC 卡押金 ¥500，退卡時可退款。夜滑不適用，Dynaland 與鷲岳需另購夜滑券。
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 2 日券
+      priceLines:
+        - 成人 / ¥11,800
+        - 兒童（小學生以下） / ¥6,900
+        - 銀髮族（60 歲以上） / ¥10,500
+        - 中高生（13～18 歲） / ¥8,500
+      note: 整個雪季有效，可跨日使用；適用 6 個高鷲地區雪場。需另付 IC 卡押金 ¥500，退卡時可退款。夜滑不適用，Dynaland 與鷲岳需另購夜滑券。
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 3 日券
+      priceLines:
+        - 成人 / ¥17,100
+        - 兒童（小學生以下） / ¥10,000
+        - 銀髮族（60 歲以上） / ¥15,500
+        - 中高生（13～18 歲） / ¥12,800
+      note: 整個雪季有效，可跨日使用；適用 6 個高鷲地區雪場。需另付 IC 卡押金 ¥500，退卡時可退款。夜滑不適用，Dynaland 與鷲岳需另購夜滑券。
 snowWeather:
   title: Dynaland 雪況天氣
   provider: Weathernews
@@ -255,4 +283,4 @@ externalContent:
     note: 和Ivy去旅行
 ---
 
-Dynaland 是西日本規模最大的雪場之一，擁有約 20 條雪道，從 3,200m 的 Paradise A 長距離初級線、長距離巡航與夜滑主軸，到 Challenge B 等最大 38° 的高難度路線皆有。雪場另設多個樹林滑行區、雪上樂園與親子雪地活動，並可與鄰近高鷲滑雪公園串聯，適合安排從白天一路滑到夜間的行程。
+Dynaland 是西日本最大級的 18 條雪道雪場，從 Paradise A 等長距離巡航線，到 Challenge B 等高難度坡面都有配置。飯店與溫泉緊鄰雪場，場內另有夜滑、樹林滑行、雪上樂園與親子活動，適合把滑行、休息與雪地玩樂安排在同一趟旅程。

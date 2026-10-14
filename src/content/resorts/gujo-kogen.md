@@ -19,11 +19,11 @@ tags:
 - no_car_accessible
 - onsen
 links:
-  official: https://www.gujyokogen-hotel.com/
+  official: http://www.gujyokogen-hotel.com/
   trailMapPage: https://www.takasumountains.com/ski/
   ticket: https://www.takasumountains.com/lift/
   access: https://www.takasu.gr.jp/access/
-  snowReport: https://www.gujyokogen-hotel.com/
+  snowReport: http://www.gujyokogen-hotel.com/
   googleMaps: https://maps.app.goo.gl/183c3hUZ45Gdhyxt6
 contact:
   address:
@@ -50,12 +50,27 @@ tickets:
   source: https://www.takasumountains.com/lift/
   note: TAKASU MOUNTAINS 6 雪場共通券可在郡上高原使用，但官方說明郡上高原不販售共通券；完整單獨券請以飯店現地公告為準。
   plans:
-    - name: 6 雪場共通 1 日券
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 1 日券
       priceLines:
-        - 成人：¥6,500
-        - 兒童：¥3,800
-        - 長者：¥5,500
-        - 國中生、高中生：¥4,500
+        - 成人 / ¥6,500
+        - 兒童（小學生以下） / ¥3,800
+        - 銀髮族（60 歲以上） / ¥5,500
+        - 中高生（13～18 歲） / ¥4,500
+      note: 可在郡上ヴァカンス村使用，但本雪場不販售；可於高鷲滑雪公園、Dynaland、鷲岳、White Pia 高鷲與蛭野高原購買。僅限通過閘門當日有效，需另付 IC 卡押金 ¥500，退卡時可退款。夜滑不適用。
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 2 日券
+      priceLines:
+        - 成人 / ¥11,800
+        - 兒童（小學生以下） / ¥6,900
+        - 銀髮族（60 歲以上） / ¥10,500
+        - 中高生（13～18 歲） / ¥8,500
+      note: 可跨日使用，適用 6 個高鷲地區雪場；本雪場可使用但不販售。需另付 IC 卡押金 ¥500，退卡時可退款，夜滑不適用。
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 3 日券
+      priceLines:
+        - 成人 / ¥17,100
+        - 兒童（小學生以下） / ¥10,000
+        - 銀髮族（60 歲以上） / ¥15,500
+        - 中高生（13～18 歲） / ¥12,800
+      note: 可跨日使用，適用 6 個高鷲地區雪場；本雪場可使用但不販售。需另付 IC 卡押金 ¥500，退卡時可退款，夜滑不適用。
 snowWeather:
   title: 郡上高原雪況天氣
   provider: Weathernews
@@ -100,4 +115,4 @@ terrainSummary:
   snowboard: 規模小、坡度溫和，適合練習但不適合追求多變地形。
 ---
 
-郡上高原位於岐阜縣，以3 條雪道形成小型雪場規模，搭配 2 座纜車。主要路線有 郡上高原メインゲレンデ（官方未公開逐條名稱），雪道配置偏初級，練習門檻較低；標籤上偏向初學者練習、親子同行。
+郡上ヴァカンス村是面向家庭與初學者的小型雪場，3 條雪道以緩坡練習為主，正面可眺望白山連峰。場內有直結雪場的住宿、溫泉與餐飲設施，適合親子輕鬆玩雪，也適合想避開大型雪場人潮的滑雪行程。

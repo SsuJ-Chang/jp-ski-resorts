@@ -10,6 +10,9 @@ skiArea: takasu-mountains
 location:
   latitude: 35.99838703995597
   longitude: 136.87735065767106
+elevation:
+  top: 1550
+  bottom: 600
 tags:
 - beginner_friendly
 - family_friendly
@@ -24,7 +27,7 @@ links:
   facebook: https://www.facebook.com/takasusnowpark/
   instagram: https://www.instagram.com/takasu_snowpark/
   xTwitter: https://x.com/takasu_snowpark
-  trailMapPage: https://www.takasu.gr.jp/gelande/
+  trailMapPage: https://www.takasu.gr.jp/gelande/?stt_lang=ja
   ticket: https://www.takasumountains.com/lift/
   access: https://www.takasu.gr.jp/access/
   snowReport: https://www.takasu.gr.jp/condition/
@@ -47,7 +50,7 @@ trailMaps:
 - label: 高鷲滑雪公園 / Dynaland 雪場圖
   language: Japanese
   season: 2025-2026
-  url: https://www.takasu.gr.jp/gelande/
+  url: https://www.takasu.gr.jp/assets/img/gelande/map25-26.jpg
   sourceLabel: Takasu Snow Park Official
 tickets:
   season: 2025-2026
@@ -59,25 +62,27 @@ tickets:
       url: https://surfsnow.jp/guide/htm/r0212tk.htm
       deadline: "2026-12-31"
   plans:
-    - name: 6 雪場共通 1 日券
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 1 日券
       priceLines:
-        - 成人：¥6,500
-        - 兒童：¥3,800
-        - 長者：¥5,500
-        - 國中生、高中生：¥4,500
-      note: 通過 gate 當日有效。
-    - name: 6 雪場共通 2 日券
+        - 成人 / ¥6,500
+        - 兒童（小學生以下） / ¥3,800
+        - 銀髮族（60 歲以上） / ¥5,500
+        - 中高生（13～18 歲） / ¥4,500
+      note: 僅限通過閘門當日有效，可在高鷲滑雪公園、Dynaland、鷲岳、White Pia 高鷲與蛭野高原購買；郡上ヴァカンス村可使用但不販售。需另付 IC 卡押金 ¥500，退卡時可退款。夜滑不適用，Dynaland 與鷲岳需另購夜滑券。
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 2 日券
       priceLines:
-        - 成人：¥11,800
-        - 兒童：¥6,900
-        - 長者：¥10,500
-        - 國中生、高中生：¥8,500
-    - name: 6 雪場共通 3 日券
+        - 成人 / ¥11,800
+        - 兒童（小學生以下） / ¥6,900
+        - 銀髮族（60 歲以上） / ¥10,500
+        - 中高生（13～18 歲） / ¥8,500
+      note: 整個雪季有效，可跨日使用；適用 6 個高鷲地區雪場。需另付 IC 卡押金 ¥500，退卡時可退款。夜滑不適用，Dynaland 與鷲岳需另購夜滑券。
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 3 日券
       priceLines:
-        - 成人：¥17,100
-        - 兒童：¥10,000
-        - 長者：¥15,500
-        - 國中生、高中生：¥12,800
+        - 成人 / ¥17,100
+        - 兒童（小學生以下） / ¥10,000
+        - 銀髮族（60 歲以上） / ¥15,500
+        - 中高生（13～18 歲） / ¥12,800
+      note: 整個雪季有效，可跨日使用；適用 6 個高鷲地區雪場。需另付 IC 卡押金 ¥500，退卡時可退款。夜滑不適用，Dynaland 與鷲岳需另購夜滑券。
 snowWeather:
   title: 高鷲滑雪公園雪況天氣
   provider: Weathernews
@@ -91,8 +96,8 @@ courses:
   beginnerRatio: 42
   intermediateRatio: 30
   advancedRatio: 28
-  courseInfoPage: https://www.takasu.gr.jp/gelande/
-  summary: 高鷲滑雪公園官方列出 13 條 course，最長滑走 4,900m，山頂可與 Dynaland 往來，特色是大型寬坡、長距離巡航、park 與 tree run。
+  courseInfoPage: https://www.takasu.gr.jp/gelande/?stt_lang=ja
+  summary: 高鷲滑雪公園官方列出 13 條雪道，最長滑走可達 4,900m，並可與鄰接的 Dynaland 串聯。雪道從山頂長距離緩坡、寬廣中斜面到最大 40° 的未壓雪與饅頭斜面都有，另設 park 與 tree run 區域。
   details:
   - name: バンブーコース / Bamboo Course
     difficulty: beginner
@@ -178,21 +183,22 @@ access:
   fromNagoya:
   - label: 名古屋出發高速巴士與接駁
     steps:
-    - 從名鐵巴士中心搭高速巴士到「高速蛭野高原」。
-    - 轉乘 Takasu Snow Shuttle Bus 大日岳 LINE 前往高鷲滑雪公園。
-    estimatedTime: 約 2.5-3 小時
+    - 可從名古屋搭乘岐阜巴士直達「蛭野高原滑雪場」站，車程約 2 小時 29 分。
+    - 也可搭乘白川鄉線至「高速蛭野高原」站，再轉乘 Takasu Snow Shuttle 前往雪場。
+    - 回程搭乘接駁時，需依官方指示使用蛭野高原服務區上行線巴士站。
+    estimatedTime: 約 2-3 小時
     difficulty: medium
-    note: 也可利用名古屋直行日歸 tour bus；免費接駁有季節與班次限制，回程需確認上行線巴士站。
+    note: 名古屋另有直行日歸 tour bus；高速巴士與免費接駁的運行期間、班次及上下車位置依官方安排。
   car:
     recommended: true
     snowTireRequired: true
-    note: 官方頁面標示東海北陸自動車道高鷲 IC 起約 10 分；冬季需雪胎與雪道駕駛準備。
+    note: 官方交通頁標示東海北陸自動車道高鷲 IC 起約 10 分鐘；冬季需雪胎與雪道駕駛準備。
 terrainSummary:
-  beginner: Bamboo 與 Beginners 可組成長距離緩坡動線，適合從山頂慢慢滑回 base。
-  intermediate: Diamond 與 Gold 是主要中級練習線，兼具寬度與地形變化。
-  advanced: Champion、Technical、Exciting B 等高難度線坡度明確，粉雪日與未壓雪時難度更高。
-  snowboard: park、half pipe、bank 與長距離寬坡對 snowboarder 友善。
-  powder: 官方設有 tree run area，但 course 外禁止滑行，需依官方開放狀態進入。
+  beginner: Bamboo 與 Beginners 可組成全長 4,900m 的長距離緩坡動線，山頂也能沿迂迴路線滑回中腹。
+  intermediate: Diamond 與 Gold 是主要中級練習線，前者為北向谷狀主雪道，後者則是較窄且坡度變化明顯的支線。
+  advanced: Champion、Technical、Exciting B 等高難度線坡度明確，包含最大 40° 的未壓雪與饅頭斜面。
+  snowboard: 官方設有 park、half pipe、bank 與 THE WAVE X，並以寬廣長距離雪道支援單板滑行。
+  powder: Panorama、Super 與 Technical 等路線的官方介紹提到天然雪、降雪後粉雪或未壓雪特色；tree run 區域以外禁止滑出雪道。
 externalContent:
   vlogs:
   - title: 【日本中部】EP3名古屋自由行｜滑雪價格｜租裝備價格｜西日本最大雪場🗻｜高鷲滑雪場⛷｜Dynaland Snow Park❄️｜自學單板🏂｜ホテルヴィラモンサン飯店｜Action3📸｜
@@ -203,4 +209,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/takasu-snow-park/
 ---
 
-高鷲滑雪公園位於岐阜縣，以13 條雪道形成中型雪場規模，搭配 4 座纜車。主要路線有 バンブーコース / Bamboo Course、ビギナーズコース / Beginners Course、ダイヤモンドコース / Diamond Course，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+高鷲滑雪公園是西日本最大級的雪上度假區，從粉雪與長距離巡航，到初次滑雪體驗都能找到適合的路線。最長 4,900m 的滑行動線串起初級至上級雪道，並配置 park、half pipe、bank 與 tree run，適合親子入門，也適合安排一整天的地形挑戰。

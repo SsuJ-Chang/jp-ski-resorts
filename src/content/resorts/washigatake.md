@@ -10,6 +10,9 @@ skiArea: takasu-mountains
 location:
   latitude: 35.9433789918715
   longitude: 136.91974512883547
+elevation:
+  top: 1350
+  bottom: 910
 tags:
 - family_friendly
 - night_skiing
@@ -21,7 +24,7 @@ links:
   instagram: https://www.instagram.com/washigatake5105/
   xTwitter: https://twitter.com/washigatake
   trailMapPage: https://ski.washigatake.jp/gelande/
-  ticket: https://www.takasumountains.com/lift/
+  ticket: https://ski.washigatake.jp/charge/#charge01
   access: https://ski.washigatake.jp/access/
   snowReport: https://ski.washigatake.jp/condition/
   liftStatus: https://ski.washigatake.jp/condition/
@@ -35,32 +38,89 @@ contact:
   phone: 0575-72-5105
 season:
   label: 2025-2026
-  operatingPeriod: 2025/11/21-2026/4/6，實際依積雪與官方公告調整
+  operatingPeriod: 2025/11/21-2026/4/7，實際依積雪與官方公告調整
   hours: 全日 8:00-16:30
-  nightSkiingHours: 週六限定夜滑，指定日 16:00-22:30
-  source: https://www.takasumountains.com/ski/
+  nightSkiingHours: 夜滑 16:00-22:30；2 月每週六為全夜營業，6:00 至隔日 22:30
+  source: https://ski.washigatake.jp/charge/#charge01
 trailMaps:
 - label: 鷲岳 course map
   language: Japanese
   season: 2025-2026
-  url: https://ski.washigatake.jp/gelande/
+  url: https://ski.washigatake.jp/assets/img/gelande/washitopia.pdf
   sourceLabel: Washigatake Official
 tickets:
   season: 2025-2026
   currency: JPY
   source: https://www.takasumountains.com/lift/
-  note: TAKASU MOUNTAINS 6 雪場共通券摘要；全山共通券不含鷲岳夜滑。
+  note: 各券另收 IC 卡押金 ¥500；早朝、夜滑與全夜營業需購買對應票券，指定營業日以官方行事曆為準。
   earlyBird:
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0224tk.htm
       deadline: "2026-12-31"
   plans:
-    - name: 6 雪場共通 1 日券
+    - name: 鷲岳 1 日券
       priceLines:
-        - 成人：¥6,500
-        - 兒童：¥3,800
-        - 長者：¥5,500
-        - 國中生、高中生：¥4,500
+        - 成人（國中生以上）：¥5,500
+        - 兒童（小學生）：¥2,200
+        - 長者（60 歲以上）：¥4,000
+        - 中高中生：¥3,900
+      note: 8:00-16:30。
+    - name: 鷲岳 5 小時券
+      priceLines:
+        - 成人：¥4,700
+        - 兒童：¥2,000
+        - 長者：¥3,700
+      note: 自首次通過 gate 起計 5 小時。
+    - name: 早朝 1 日券
+      priceLines:
+        - 成人：¥6,000
+        - 兒童：¥2,500
+        - 長者：¥4,500
+        - 中高中生：¥4,400
+      note: 6:00-16:30。
+    - name: 親子券（成人 1 名＋兒童 1 名）
+      priceLines:
+        - ¥6,500
+      note: 8:00-16:30，兒童限小學生；不可升級為共通券。
+    - name: 鷲岳午後暨夜滑券
+      priceLines:
+        - 成人：¥4,900
+        - 兒童：¥2,200
+        - 長者：¥3,900
+      note: 12:00-22:30，限夜滑營業日。
+    - name: 鷲岳夜滑券
+      priceLines:
+        - 成人：¥3,500
+        - 兒童：¥1,200
+        - 長者：¥2,800
+      note: 16:00-22:30，限夜滑營業日。
+    - name: 鷲岳全夜券
+      priceLines:
+        - 成人：¥5,200
+        - 兒童：¥2,200
+        - 長者：¥3,700
+      note: 16:00 至隔日 6:00，限全夜營業日。
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 1 日券
+      priceLines:
+        - 成人 / ¥6,500
+        - 兒童（小學生以下） / ¥3,800
+        - 銀髮族（60 歲以上） / ¥5,500
+        - 中高生（13～18 歲） / ¥4,500
+      note: 僅限通過閘門當日有效，可在高鷲滑雪公園、Dynaland、鷲岳、White Pia 高鷲與蛭野高原購買；郡上ヴァカンス村可使用但不販售。需另付 IC 卡押金 ¥500，退卡時可退款。夜滑不適用，Dynaland 與鷲岳需另購夜滑券。
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 2 日券
+      priceLines:
+        - 成人 / ¥11,800
+        - 兒童（小學生以下） / ¥6,900
+        - 銀髮族（60 歲以上） / ¥10,500
+        - 中高生（13～18 歲） / ¥8,500
+      note: 整個雪季有效，可跨日使用；適用 6 個高鷲地區雪場。需另付 IC 卡押金 ¥500，退卡時可退款。夜滑不適用，Dynaland 與鷲岳需另購夜滑券。
+    - name: TAKASU MOUNTAINS 6 雪場共通券 / 3 日券
+      priceLines:
+        - 成人 / ¥17,100
+        - 兒童（小學生以下） / ¥10,000
+        - 銀髮族（60 歲以上） / ¥15,500
+        - 中高生（13～18 歲） / ¥12,800
+      note: 整個雪季有效，可跨日使用；適用 6 個高鷲地區雪場。需另付 IC 卡押金 ¥500，退卡時可退款。夜滑不適用，Dynaland 與鷲岳需另購夜滑券。
 snowWeather:
   title: 鷲岳雪況天氣
   provider: Weathernews
@@ -75,7 +135,7 @@ courses:
   intermediateRatio: 40
   advancedRatio: 30
   courseInfoPage: https://ski.washigatake.jp/gelande/
-  summary: 鷲岳官方列出 13 條 course，最長 3,500m，特色是高鷲 IC 附近的便利交通、寬大名物坡面、park 與週六指定日夜滑。
+  summary: 鷲岳有 13 條雪道，最長滑走 3,500m，核心特色是最大寬度 400m 的寬廣坡面、初級至上級的均衡配置，以及約 1,200m、30 多項設施的雪上樂園；另有夜滑與全夜營業。
   details:
   - name: ノースウェイコース / North Way Course
     difficulty: beginner
@@ -161,11 +221,11 @@ access:
   fromNagoya:
   - label: 名古屋出發高速巴士與接駁
     steps:
-    - 從名鐵巴士中心搭高速巴士到「高速蛭野高原」。
-    - 轉乘 Takasu Snow Shuttle Bus 鷲岳 LINE 前往鷲岳。
-    estimatedTime: 約 2.5-3 小時
+    - 從名鐵巴士中心搭岐阜巴士前往「高速蛭野高原」，車程約 1 小時 40 分。
+    - 在蛭野高原服務區巴士站轉乘免費 Takasu Snow Shuttle 的鷲岳路線。
+    estimatedTime: 約 2-3 小時
     difficulty: medium
-    note: 也可利用名古屋出發的預約制 tour bus；免費接駁有季節與班次限制，需確認上下車站與回程班次。
+    note: 也可利用名古屋出發的預約制 tour bus；官方接駁路線另連結 White Pia、蛭野高原與高鷲地區，運行期間及班次依官方安排。
   car:
     recommended: true
     snowTireRequired: true
@@ -174,7 +234,7 @@ terrainSummary:
   beginner: North Way、Eagle 與 Panorama 提供從山頂或中段迂迴的初級路線。
   intermediate: Rabbit、Buna-Daira、Attack 與 Rinkan 有林間、天然雪與坡度變化。
   advanced: Paradise、North Barn、Parallel、Ridge 是主要高難度線。
-  snowboard: park 與寬大坡面適合 snowboarder；夜滑需另看指定日與夜滑券。
+  snowboard: 約 1,200m 的 park 配置超過 30 項設施，從初學者到進階玩家都能使用；夜滑需另看指定日與夜滑券。
   powder: 林間與天然雪 course 會受降雪與開放狀態影響。
 externalContent:
   blogs: []
@@ -184,4 +244,4 @@ externalContent:
     note: Todd's Japan Ski Trip
 ---
 
-鷲岳的滑道配置均衡，包含約 400 m 寬的超寬滑道在內共有 13 條路線，多數為容易滑行的中坡。場內也有約 1,200 m 的主題滑道，配置 20 多個專項設施，對兒童與年輕玩家都很有吸引力。
+鷲岳是以最大寬度 400m 寬廣坡面為特色的 13 條雪道雪場，初級至上級路線配置均衡。場內有約 1,200m、30 多項設施的雪上樂園，以及住宿、溫泉、餐飲與兒童雪遊區；從親子初學、單板玩法到夜間滑行，都能在同一座雪場完成。
