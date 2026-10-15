@@ -64,6 +64,10 @@ tickets:
   currency: JPY
   source: https://gala.co.jp/winter/hours-pricing/
   note: 學齡前兒童由一名成人帶同時，前兩名免費；第三名起以小學生票價計。
+  earlyBird:
+    - name: 官網一日券（數量限制）
+      url: https://gala.co.jp/winter/information/lifttickethayawarisale20261015/
+      deadline: "2026-11-30"
   plans:
     - name: 廂型纜車 + 纜車券
       priceLines:
