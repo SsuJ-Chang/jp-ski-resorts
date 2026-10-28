@@ -29,12 +29,12 @@ links:
   xTwitter: https://x.com/NisekoMoiwaSki1
   weather: https://weathernews.jp/ski/spot/31611/
   googleMaps: https://www.google.com/maps/search/?api=1&query=42.848305,140.630306
-  access: https://niseko-moiwa.jp/ja/
+  access: https://niseko-moiwa.jp/ja/about-moiwa/#about-moiwa-access
 contact:
   address:
-    zhTw: 〒048-1511 北海道虻田郡ニセコ町字ニセコ448
+    zhTw: 〒048-1511 北海道虻田郡二世谷町字二世谷 448
     ja: 〒048-1511 北海道虻田郡ニセコ町字ニセコ448
-    en: 448 Aza Niseko, Abuta District Niseko, Hokkaido 048-1511
+    en: 448 Aza Niseko, Niseko, Abuta District, Hokkaido 048-1511
     googleMaps: https://www.google.com/maps/search/?api=1&query=42.848305,140.630306
   phone: 0136-59-2511
 season:
@@ -43,6 +43,12 @@ season:
   hours: 平日：8:00-16:00 / 假日：8:00-16:00
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/31611/
+trailMaps:
+- label: 二世谷 Moiwa 雪道圖
+  language: 日本語
+  season: 2023-2024
+  url: https://niseko-moiwa.jp/wp-content/themes/moiwa-ja/images/slopemap.pdf
+  sourceLabel: Niseko Moiwa Ski Resort Official
 tickets:
   season: 2025-2026
   currency: JPY
@@ -198,64 +204,86 @@ courses:
   beginnerRatio: 30
   intermediateRatio: 40
   advancedRatio: 30
-  courseInfoPage: https://weathernews.jp/ski/spot/31611/
-  summary: 二世谷 Moiwa 共有 8 條雪道，難度比例約初級 30%、中級 40%、進階 30%，中級雪道比例較高，適合依同行者程度安排分區滑行。
+  courseInfoPage: https://niseko-moiwa.jp/ja/slope/#slope-map
+  summary: 二世谷 Moiwa 官方雪道頁列出 8 條路線，總滑走距離 6,000m；從 400m 初學者路線、2,000m 展望長坡，到非壓雪的 Giant Run、Expert Run 與白樺樹林粉雪路線都有。
   details:
-    - name: 初級路線 1
+    - name: Fairy Tale / 妖精の森コース
       difficulty: beginner
-      note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 初級路線 2
+      length: 400m
+      note: 適合初學者的平緩壓雪路線，親子也能在此滑行。
+    - name: Family Run / ファミリーコース
       difficulty: beginner
-      note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 初級路線 3
-      difficulty: beginner
-      note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 中級路線 1
+      length: 2,000m
+      note: 初學者路線，但依選擇的滑行線可遇到急緩坡變化、樹林滑行與粉雪。
+    - name: Forest Run / 林間コース
       difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 中級路線 2
+      length: 600m
+      note: 壓雪林間路線，可在自然環境中滑行，也適合作為林間滑行入門。
+    - name: Sky Slope / スカイコース
       difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 中級路線 3
+      length: 2,000m
+      note: 壓雪展望路線，可眺望羊蹄山，官方頁面標示全長約 2,000m。
+    - name: Main Burn / メインバーン
       difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 上級路線 1
+      length: 1,200m
+      note: 壓雪寬闊雪面，曾作為各類比賽場地，從山麓中心小屋即可望見。
+    - name: Giant Run / ジャイアントコース
       difficulty: advanced
-      note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 上級路線 2
+      length: 600m
+      averageSlope: 24°
+      note: 山頂右側開始的上級非壓雪區，平均斜度 24°以上，上段較陡且狹窄。
+    - name: Expert Run / エキスパートコース
       difficulty: advanced
-      note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+      length: 800m
+      note: 起伏地形會隨季節變化，部分期間採非壓雪狀態。
+    - name: Shirakaba Slope / 白樺コース
+      difficulty: advanced
+      length: 白樺A 500m / 白樺B 500m
+      note: 穿梭白樺林間的非壓雪樹林路線，可享受粉雪滑行。
 lifts:
   total: 3
 access:
   fromSapporo:
-    - label: 大眾交通工具（主要車站銜接）
+    - label: 札幌自駕
       steps:
-        - 鐵路：函館本線ニセコ駅下車、タクシーで (15分)
-      estimatedTime: 約 15 分
+        - 札幌出發，經中山峠、真狩與國道 230 號前往雪場。
+      estimatedTime: 約 2 小時
       difficulty: medium
   fromAirport:
     - label: 機場銜接
       steps:
-        - 飛機：新千歳空港から路線バス利用 (120分)
-      estimatedTime: 約 120 分
+        - 新千歲機場搭乘前往留壽都、二世谷地區的巴士，於甘露之森站下車，再搭計程車約 3 分鐘或步行約 15 分鐘。
+      estimatedTime: 約 3 小時
+      difficulty: medium
+  publicTransit:
+    - label: JR 轉乘計程車
+      steps:
+        - 新千歲機場至二世谷站約 3 小時，札幌站至二世谷站約 2.5 小時；抵達二世谷站後搭計程車約 10 分鐘。
+      estimatedTime: 約 3 小時 10 分
       difficulty: medium
   car:
     recommended: true
     snowTireRequired: true
-    note: 自駕參考：自駕：札幌北ICからR230号経由 (120分)。停車場：250台 / 平日 免費 / 假日 免費。冬季山路需準備雪胎或雪鏈。
+    note: 新千歲機場經美笛峠、喜茂別與國道 276 號約 2 小時，札幌經中山峠與國道 230 號約 2 小時；免費停車場可容納約 250 台車。冬季山路需準備雪胎或雪鏈。
 terrainSummary:
-  beginner: 初級比例約 30%，可作為暖身、親子同行或初訪時的主要安排。
-  intermediate: 中級比例約 40%，適合已能穩定轉彎的滑雪者串接主要雪道。
-  advanced: 進階比例約 30%，建議視當日積雪與壓雪狀況選擇。
-  snowboard: 全面可；單板實際可滑區域仍以現場開放為準。
-  powder: ○ / シラカバコースは起伏に富んだ地形と程よい感覚のツリーランが楽しめる。どこからエントリーするかは自分次第。自分のお気に入りのラインを見つけてください。；粉雪與非壓雪區域會受天候與管理狀態影響。
+  beginner: Fairy Tale 與 Family Run 提供 400m 與 2,000m 的初學者路線，Family Run 也包含坡度與樹林地形變化。
+  intermediate: Forest Run、Sky Slope 與 Main Burn 以壓雪為主，包含 600m 林間路線、2,000m 展望長坡與寬闊主雪面。
+  advanced: Giant Run、Expert Run 與 Shirakaba Slope 為非壓雪或部分非壓雪路線，包含上級急斜面、起伏地形與白樺樹林粉雪。
+  snowboard: 從初學者壓雪坡到非壓雪樹林地形皆有配置，應依能力選擇路線並遵守 Niseko Rules。
+  powder: Shirakaba Slope 是白樺林間的非壓雪粉雪路線；場外滑行須由指定閘門進出並遵守 Niseko Rules。
 externalContent:
   blogs: []
   vlogs:
   - title: 【ニセコ】北海道の極上パウダーをモイワスキーリゾートで満喫 - LOVE SKISKI
     url: https://www.youtube.com/watch?v=eLQxUZuuEYU
     note: 犬と暮らす旅人 / Love Nomad Life
+sources:
+  - label: 二世谷 Moiwa 官方雪道資訊
+    url: https://niseko-moiwa.jp/ja/slope/#slope-map
+  - label: 二世谷 Moiwa 官方交通資訊
+    url: https://niseko-moiwa.jp/ja/about-moiwa/#about-moiwa-access
+  - label: SURF&SNOW 二世谷 Moiwa 雪場介紹
+    url: https://surfsnow.jp/search/list/spl_area01.php?key=%E3%83%8B%E3%82%BB%E3%82%B3%E3%83%A2%E3%82%A4%E3%83%AF%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88
 ---
 
-二世谷 Moiwa 位於北海道二世谷雪區，規模不算最大，但樹林感和雪面變化很集中，滑起來比地圖數字更有個性。它適合把一天重心放在雪況判斷與自然地形，而不是單純追求串區里程。
+二世谷 Moiwa 位於北海道二世谷地區，設有 8 條雪道，總滑走距離 6,000m。雪道從 Fairy Tale 與 Family Run 等初學者路線，到 Sky Slope 的 2,000m 展望長坡，以及 Giant Run、Expert Run、白樺樹林等非壓雪粉雪地形都有，適合在自然景觀與多變雪面中滑行。
