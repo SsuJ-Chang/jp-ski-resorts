@@ -61,11 +61,8 @@ tickets:
   source: https://www.tsugaike.gr.jp/snow/price
   note: 2026-2027 官方票價包含窗口券、WEB 早割與取消保障選項；IC 票或季票另收保證金，未滿 6 歲兒童由成人陪同時可免費。2026-2027 雪季不提供夜滑券。
   earlyBird:
-    - name: 早割 1 日券（取消保障なし）
-      url: https://www.tsugaike.gr.jp/snow/price
-      deadline: "2026-11-30"
-    - name: 早割午餐套票（取消保障なし）
-      url: https://www.tsugaike.gr.jp/snow/price
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0144tk.htm
       deadline: "2026-11-30"
   plans:
     - name: 季票（通常券）
