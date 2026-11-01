@@ -276,9 +276,10 @@ body.popular-resorts-open {
   align-self: center;
   color: #56665f;
   font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   font-weight: 800;
   white-space: nowrap;
+  transform: translateX(6px);
 }
 
 .popular-resort__change {
@@ -286,10 +287,11 @@ body.popular-resorts-open {
   min-width: 52px;
   color: #6b7280;
   font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   font-weight: 800;
   text-align: right;
   white-space: nowrap;
+  transform: translateX(-6px);
 }
 
 .popular-resort__change--up { color: #c2413b; }
@@ -312,7 +314,6 @@ body.popular-resorts-open {
 
 .popular-resort--rank-1 .popular-resort__rank { font-size: 1.5rem; }
 .popular-resort--rank-1 .popular-resort__name { font-size: 1.08rem; }
-.popular-resort--rank-1 .popular-resort__data { font-size: 1.38rem; }
 
 .popular-resort--rank-2 {
   border-color: rgba(55, 126, 160, 0.5);
@@ -326,7 +327,6 @@ body.popular-resorts-open {
 
 .popular-resort--rank-2 .popular-resort__rank { font-size: 1.35rem; }
 .popular-resort--rank-2 .popular-resort__name { font-size: 1.04rem; }
-.popular-resort--rank-2 .popular-resort__data { font-size: 1.28rem; }
 
 .popular-resort--rank-3 {
   border-color: rgba(63, 137, 119, 0.5);
@@ -340,7 +340,6 @@ body.popular-resorts-open {
 
 .popular-resort--rank-3 .popular-resort__rank { font-size: 1.28rem; }
 .popular-resort--rank-3 .popular-resort__name { font-size: 1.02rem; }
-.popular-resort--rank-3 .popular-resort__data { font-size: 1.22rem; }
 
 @keyframes popular-resorts-enter {
   from { opacity: 0; transform: translateY(12px) scale(0.98); }
@@ -355,17 +354,14 @@ body.popular-resorts-open {
   .popular-resort { grid-template-columns: 44px minmax(0, 1fr) 52px 52px; gap: 10px; padding: 6px 2px 5px; }
   .popular-resort__rank { width: 44px; }
   .popular-resort__meta { font-size: 0.7rem; }
-  .popular-resort__data { font-size: 1rem; }
-  .popular-resort__change { min-width: 44px; font-size: 1rem; }
+  .popular-resort__data { font-size: 1rem; transform: translateX(-4px);}
+  .popular-resort__change { min-width: 44px; font-size: 1rem; transform: translateX(-16px);}
   .popular-resort--rank-1 .popular-resort__rank { font-size: 1.3rem; }
   .popular-resort--rank-1 .popular-resort__name { font-size: 1.03rem; }
-  .popular-resort--rank-1 .popular-resort__data { font-size: 1.2rem; }
   .popular-resort--rank-2 .popular-resort__rank { font-size: 1.2rem; }
   .popular-resort--rank-2 .popular-resort__name { font-size: 1rem; }
-  .popular-resort--rank-2 .popular-resort__data { font-size: 1.12rem; }
   .popular-resort--rank-3 .popular-resort__rank { font-size: 1.16rem; }
   .popular-resort--rank-3 .popular-resort__name { font-size: 0.98rem; }
-  .popular-resort--rank-3 .popular-resort__data { font-size: 1.08rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {
