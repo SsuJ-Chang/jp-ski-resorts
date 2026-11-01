@@ -112,7 +112,7 @@ const isHomePage = Astro.url.pathname === withBasePath('/')
         <span>日本滑雪場指南</span>
       </a>
       <div class="site-header__actions">
-        <nav class="site-header__nav" aria-label="Primary navigation">
+        <nav class="site-header__nav" id="site-header-nav" aria-label="主要導覽">
           <a href={withBasePath('/')}>首頁</a>
           <a href={resortListPath}>滑雪場</a>
           <a href={withBasePath('/ski-areas/')}>雪場區域</a>
@@ -123,6 +123,21 @@ const isHomePage = Astro.url.pathname === withBasePath('/')
         {showHeaderSearch && (
           <HeaderSearch resortsUrl={resortListPath} searchIndexUrl={searchIndexPath} />
         )}
+        <button
+          class="site-header__menu-toggle"
+          type="button"
+          aria-label="開啟選單"
+          aria-expanded="false"
+          aria-controls="site-header-nav"
+          data-menu-toggle
+        >
+          <svg class="site-header__menu-icon--open" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M4 7h16M4 12h16M4 17h16" />
+          </svg>
+          <svg class="site-header__menu-icon--close" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M5 5l14 14M19 5 5 19" />
+          </svg>
+        </button>
       </div>
     </header>
     <slot />
@@ -162,6 +177,7 @@ const isHomePage = Astro.url.pathname === withBasePath('/')
     <BackToTopButton />
     <script>
       import '../scripts/deferredEnhancements.ts'
+      import '../scripts/mobileHeader.ts'
     </script>
   </body>
 </html>
