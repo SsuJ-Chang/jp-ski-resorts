@@ -1485,6 +1485,11 @@ h1 {
     color 180ms ease;
 }
 
+/* Keep the personal-site globe aligned with the resort official-site link color. */
+.contact-link--website {
+  color: #1d5d64;
+}
+
 .contact-link:hover {
   border-color: rgba(29, 93, 100, 0.38);
   color: #12464d;

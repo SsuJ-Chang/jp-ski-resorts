@@ -68,7 +68,7 @@ const contactStructuredData = {
     <section class="contact-link-list" aria-label="聯絡方式列表">
       {contactLinks.map((link) => (
         <a
-          class="contact-link"
+          class:list={['contact-link', { 'contact-link--website': link.icon === 'website' }]}
           href={link.href}
           aria-label={link.label}
           title={link.label}
@@ -113,9 +113,9 @@ const contactStructuredData = {
             )}
             {link.icon === 'website' && (
               <>
-                <circle cx="12" cy="12" r="8.5" />
-                <path d="M3.5 12h17" />
-                <path d="M12 3.5c2.3 2.3 3.5 5.2 3.5 8.5s-1.2 6.2-3.5 8.5c-2.3-2.3-3.5-5.2-3.5-8.5s1.2-6.2 3.5-8.5Z" />
+                <circle cx="12" cy="12" r="9" />
+                <path d="M3 12h18" />
+                <path d="M12 3c2.4 2.5 3.6 5.5 3.6 9s-1.2 6.5-3.6 9c-2.4-2.5-3.6-5.5-3.6-9S9.6 5.5 12 3Z" />
               </>
             )}
           </svg>
