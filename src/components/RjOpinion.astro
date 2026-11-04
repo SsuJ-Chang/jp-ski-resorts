@@ -111,6 +111,7 @@ const html = await renderMarkdownFragment(text)
     toggle.addEventListener('click', () => {
       root.dataset.expanded = 'true'
       root.dataset.collapsible = 'false'
+      contentWrap.style.maxHeight = ''
       toggle.setAttribute('aria-expanded', 'true')
       toggle.remove()
     })
