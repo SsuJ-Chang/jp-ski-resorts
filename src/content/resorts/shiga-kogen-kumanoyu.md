@@ -51,7 +51,7 @@ tickets:
   source: https://www.kumanoyu.co.jp/lift/index.html#ticket
   note: 熊之湯限定票價；成人為18至59歲、長者為60歲以上、兒童為0歲至小學生。
   earlyBird:
-    - name: 完美行
+    - name: 【完美行 WAmazing】【使用QR Code取票】志賀高原熊之湯滑雪場區域限定纜車1日券
       url: https://tw.wamazing.com/snow/items/15071
       deadline: "2026-10-31"
     - name: SURF&SNOW

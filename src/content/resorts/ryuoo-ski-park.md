@@ -45,7 +45,7 @@ tickets:
   source: https://ryuoo.com/winter/price_w/
   note: 成人為國中生以上、兒童為 4 歲以上、長者為 65 歲以上；IC 卡押金 ¥500 於退卡時退還。夜滑依指定日期營業。
   earlyBird:
-    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+    - name: 【完美行 WAmazing】【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://tw.wamazing.com/snow/items/15083
       deadline: "2026-12-10"
     - name: SURF&SNOW

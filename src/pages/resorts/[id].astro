@@ -42,7 +42,9 @@ const taiwanToday = new Intl.DateTimeFormat('sv-SE', {
   month: '2-digit',
   day: '2-digit',
 }).format(new Date())
-const availableEarlyBirds = earlyBirds.filter((item) => item.deadline >= taiwanToday)
+const availableEarlyBirds = earlyBirds
+  .filter((item) => item.deadline >= taiwanToday)
+  .sort((a, b) => Number(/wamazing\.com/i.test(b.url)) - Number(/wamazing\.com/i.test(a.url)))
 const hasRjOpinion = Boolean(resort.data.rjOpinion?.trim())
 const externalGuide = resort.data.externalGuide
 

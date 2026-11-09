@@ -56,7 +56,7 @@ tickets:
   source: https://www.madarao.jp/ski/price
   note: 斑尾高原與 Tangram 全山共通券可使用兩座雪場纜車；IC 卡保證金 ¥500 另計。成人為國中生以上，兒童為 6～12 歲，長者為 55 歲以上，5 歲以下另有幼兒票。
   earlyBird:
-    - name: 完美行
+    - name: 【完美行 WAmazing】【早鳥優惠】Mountain Pass 1日券
       url: https://tw.wamazing.com/snow/items/15176
       deadline: "2026-12-11"
     - name: SURF&SNOW

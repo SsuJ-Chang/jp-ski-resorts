@@ -83,10 +83,10 @@ tickets:
         - 小學生：¥2,000 / 會員：¥1,500
         - 3 歲以下：免費
   earlyBird:
-    - name: 完美行【初滑早鳥優惠】纜車1日券×2張
+    - name: 【完美行 WAmazing】【初滑早鳥優惠】纜車1日券×2張
       url: https://tw.wamazing.com/snow/items/15566
       deadline: "2026-10-30"
-    - name: 完美行【早鳥優惠】纜車1日券×2張
+    - name: 【完美行 WAmazing】【早鳥優惠】纜車1日券×2張
       url: https://tw.wamazing.com/snow/items/15565
       deadline: "2026-12-18"
 snowWeather:

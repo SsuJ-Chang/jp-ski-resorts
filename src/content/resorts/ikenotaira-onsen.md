@@ -55,10 +55,10 @@ tickets:
   source: https://alpenblick-resort.com/ski/26-27-ticket-info
   note: 以下一般纜車票價均含稅，另收可退還的 IC 卡押金 ¥500。年齡以 2026 年 12 月 19 日開幕日為準；未就學兒童免費。
   earlyBird:
-    - name: 完美行【超早鳥優惠】纜車1日券
+    - name: 【完美行 WAmazing】【超早鳥優惠】纜車1日券
       url: https://tw.wamazing.com/snow/items/15364
       deadline: "2026-09-30"
-    - name: 完美行【超早鳥優惠】纜車4小時券
+    - name: 【完美行 WAmazing】【超早鳥優惠】纜車4小時券
       url: https://tw.wamazing.com/snow/items/15313
       deadline: "2026-09-30"
     - name: SURF&SNOW

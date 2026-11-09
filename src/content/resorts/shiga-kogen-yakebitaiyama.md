@@ -55,10 +55,10 @@ tickets:
   source: https://www.princehotels.co.jp/ski/shiga/winter/lift/
   note: 小學生以下全日免費，須於售票處領取免費季節票。以下整理 2026-2027 官方窗口票價，均含稅；長者為 60 歲以上，中高校生需出示年齡證明，SEIBU PRINCE GLOBAL REWARDS 會員可享會員價。
   earlyBird:
-    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+    - name: 【完美行 WAmazing】【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://tw.wamazing.com/snow/items/15083
       deadline: "2026-12-10"
-    - name: 完美行
+    - name: 【完美行 WAmazing】【早鳥優惠】燒額山區域纜車1日券
       url: https://tw.wamazing.com/snow/items/15257
       deadline: "2026-12-06"
     - name: SURF&SNOW

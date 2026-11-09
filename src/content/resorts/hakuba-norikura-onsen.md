@@ -89,7 +89,7 @@ tickets:
         - 長者（60 歲以上）：¥52,670
       note: 未使用且於 2027/1/31 前申請可取消，退款為通常季票價格的 80%。
   earlyBird:
-    - name: 完美行
+    - name: 【完美行 WAmazing】【早鳥優惠】共通纜車1日券
       url: https://tw.wamazing.com/snow/items/15125
       deadline: "2026-12-11"
 snowWeather:

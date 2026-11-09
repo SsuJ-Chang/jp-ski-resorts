@@ -57,7 +57,7 @@ tickets:
   source: https://tsumagoiskiresort.life/lifttickets/
   note: 只整理 1 日券分頁內容；其他票種未收錄。
   earlyBird:
-    - name: 完美行
+    - name: 【完美行 WAmazing】【11月早鳥優惠】纜車1日券
       url: https://tw.wamazing.com/snow/items/15188
       deadline: "2026-09-30"
     - name: SURF&SNOW

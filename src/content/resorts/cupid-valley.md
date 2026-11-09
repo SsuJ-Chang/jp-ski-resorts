@@ -47,7 +47,7 @@ tickets:
   source: https://www.yukidaruma-kogen.com/winter/lift-rental.html#lift
   note: 票券販售至日間 15:45、夜滑 19:45；未就學兒童每位保護者可帶 1 名免費，身心障礙手冊持有人 1 日券半價。
   earlyBird:
-    - name: 完美行
+    - name: 【完美行 WAmazing】【早鳥優惠】纜車1日券
       url: https://tw.wamazing.com/snow/items/15450
       deadline: "2026-12-18"
     - name: SURF&SNOW

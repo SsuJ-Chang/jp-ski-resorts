@@ -62,7 +62,7 @@ tickets:
   source: https://www.maiko-resort.com/winter/lift.html
   note: 學齡前兒童由付費成人陪同可免費搭乘纜車，每位成人最多 2 名。
   earlyBird:
-    - name: 纜車1日券
+    - name: 【完美行 WAmazing】纜車1日券
       url: https://tw.wamazing.com/snow/items/15448
       deadline: "2026-12-18"
     - name: SURF&SNOW

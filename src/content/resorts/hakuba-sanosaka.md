@@ -55,7 +55,7 @@ tickets:
   source: https://sanosaka.jp/lift/
   note: 成人為國中生以上，學齡前兒童免費但仍需辦理纜車券；網路票價另列，Snow Friends Park 票券依使用的纜車票種類有不同入場規則。
   earlyBird:
-    - name: 完美行
+    - name: 【完美行 WAmazing】【早鳥優惠】纜車1日券
       url: https://tw.wamazing.com/snow/items/15142
       deadline: "2026-12-07"
     - name: SURF&SNOW

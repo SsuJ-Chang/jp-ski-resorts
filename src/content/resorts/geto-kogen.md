@@ -47,7 +47,7 @@ tickets:
   source: https://www.getokogen.com/winter/02service/index.html#tickets
   note: 所有票券需另付 IC 卡押金 ¥500；未就學兒免費，但同樣需要至櫃檯辦理 IC 卡。身障優惠為本人票價 7 折，需出示身障手冊。
   earlyBird:
-    - name: 完美行
+    - name: 【完美行 WAmazing】【WAsnow】早鳥優惠成人纜車1日券※於Pickup Box（自動售票機）兌換
       url: https://tw.wamazing.com/snow/items/15684
       deadline: "2026-12-04"
     - name: SURF&SNOW

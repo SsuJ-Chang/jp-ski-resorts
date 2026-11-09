@@ -61,10 +61,10 @@ tickets:
   source: https://iwatake-mountain-resort.com/winter/rates
   note: 官方頁目前列出 2025-2026 冬季票價；購買 IC 票另收 ¥1,000 保證金，歸還票卡後退款。兒童為小學生，熟齡為 60 歲以上、高齡熟齡為 70 歲以上，優惠票需出示證明。
   earlyBird:
-    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+    - name: 【完美行 WAmazing】【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://tw.wamazing.com/snow/items/15083
       deadline: "2026-12-10"
-    - name: 完美行
+    - name: 【完美行 WAmazing】【早鳥優惠】纜車1日券
       url: https://tw.wamazing.com/snow/items/15135
       deadline: "2026-12-13"
     - name: SURF&SNOW

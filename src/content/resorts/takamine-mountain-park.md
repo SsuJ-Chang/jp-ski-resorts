@@ -90,7 +90,7 @@ tickets:
         - 4 歲以上：¥800
       note: 預定 2026/12/22 起，9:00–16:00。
   earlyBird:
-    - name: 完美行
+    - name: 【完美行 WAmazing】【早鳥優惠】成人纜車1日券
       url: https://tw.wamazing.com/snow/items/15085
       deadline: "2026-11-20"
 snowWeather:

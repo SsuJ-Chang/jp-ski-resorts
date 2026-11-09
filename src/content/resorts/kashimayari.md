@@ -57,7 +57,7 @@ tickets:
   source: https://www.kashimayari.net/snow/tickets/
   note: 2026-2027 年度票價；IC 卡另收 ¥1,000 保證金，歸還卡片且無損壞或遺失時退還。未就學兒童免費，學生票須出示學生證，官方未販售回數券與半日券。
   earlyBird:
-    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+    - name: 【完美行 WAmazing】【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://tw.wamazing.com/snow/items/15083
       deadline: "2026-12-10"
   plans:

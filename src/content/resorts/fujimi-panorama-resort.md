@@ -43,7 +43,7 @@ tickets:
   source: https://weathernews.jp/ski/spot/34836/
   note: 主要票種依 2025-2026 公開雪場資料整理；兒童（學齡前）、開幕期間優惠與完整票價請以官方為準。
   earlyBird:
-    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+    - name: 【完美行 WAmazing】【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://tw.wamazing.com/snow/items/15083
       deadline: "2026-12-10"
     - name: SURF&SNOW

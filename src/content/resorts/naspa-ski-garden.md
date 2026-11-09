@@ -57,7 +57,7 @@ tickets:
   source: https://www.naspa.co.jp/ski/lift/
   note: 以下為官方目前公布的 2026-2027 雪季票價；NASPA New Otani 住宿旅客可享纜車券服務，但夜間快速滑行需另購票。
   earlyBird:
-    - name: 完美行【早鳥優惠】纜車1日券（限雙板滑雪）
+    - name: 【完美行 WAmazing】【早鳥優惠】纜車1日券（限雙板滑雪）
       url: https://tw.wamazing.com/snow/items/15788
       deadline: "2026-12-23"
     - name: SURF&SNOW

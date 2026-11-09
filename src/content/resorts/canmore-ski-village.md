@@ -44,13 +44,13 @@ season:
   source: https://weathernews.jp/ski/spot/31206/
 tickets:
   earlyBird:
-    - name: 完美行【超早鳥優惠】纜車1日券
+    - name: 【完美行 WAmazing】【超早鳥優惠】纜車1日券
       url: https://tw.wamazing.com/snow/items/15032
       deadline: "2026-09-30"
-    - name: 完美行【超早鳥優惠】纜車2小時券
+    - name: 【完美行 WAmazing】【超早鳥優惠】纜車2小時券
       url: https://tw.wamazing.com/snow/items/15033
       deadline: "2026-09-30"
-    - name: 完美行【超早鳥優惠】纜車3小時券
+    - name: 【完美行 WAmazing】【超早鳥優惠】纜車3小時券
       url: https://tw.wamazing.com/snow/items/15034
       deadline: "2026-09-30"
 snowWeather:

@@ -56,7 +56,7 @@ tickets:
   source: https://akakura-ski.com/
   note: 主要票種依官方 2025-2026 票價表整理；兒童（學齡前）免費，票價與販售條件請以官方頁面為準。
   earlyBird:
-    - name: 完美行
+    - name: 【完美行 WAmazing】【11月早鳥優惠】纜車1日券
       url: https://tw.wamazing.com/snow/items/15457
       deadline: "2026-09-30"
     - name: SURF&SNOW

@@ -37,7 +37,7 @@ season:
   source: https://weathernews.jp/ski/spot/33305/
 tickets:
   earlyBird:
-    - name: 完美行【超早鳥7折優惠】成人纜車1日券
+    - name: 【完美行 WAmazing】【超早鳥7折優惠】成人纜車1日券
       url: https://tw.wamazing.com/snow/items/15053
       deadline: "2026-09-30"
     - name: SURF&SNOW

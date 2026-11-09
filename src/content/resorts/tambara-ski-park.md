@@ -54,7 +54,7 @@ tickets:
   source: https://surfsnow.jp/guide/htm/r0170gc2.htm
   note: 成人為國中生以上，兒童為小學生，學齡前兒童為 4 歲以上未就學兒童；長者須年滿 60 歲並出示證件。
   earlyBird:
-    - name: 完美行【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+    - name: 【完美行 WAmazing】【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://tw.wamazing.com/snow/items/15083
       deadline: "2026-12-10"
     - name: SURF&SNOW

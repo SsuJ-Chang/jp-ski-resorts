@@ -86,16 +86,16 @@ tickets:
         - 免費
       note: 小學未入學兒童搭乘纜車僅需支付 IC 卡押金 ¥500，歸還卡片時退還。
   earlyBird:
-    - name: 完美行【早鳥優惠/平日】纜車1日券
+    - name: 【完美行 WAmazing】【早鳥優惠/平日】纜車1日券
       url: https://tw.wamazing.com/snow/items/15506
       deadline: "2026-11-30"
-    - name: 完美行【早鳥優惠/週末及國定假日】纜車1日券
+    - name: 【完美行 WAmazing】【早鳥優惠/週末及國定假日】纜車1日券
       url: https://tw.wamazing.com/snow/items/15507
       deadline: "2026-11-30"
-    - name: 完美行【早鳥優惠/平日】纜車6小時券
+    - name: 【完美行 WAmazing】【早鳥優惠/平日】纜車6小時券
       url: https://tw.wamazing.com/snow/items/15508
       deadline: "2026-11-30"
-    - name: 完美行【早鳥優惠/週末及國定假日】纜車6小時券
+    - name: 【完美行 WAmazing】【早鳥優惠/週末及國定假日】纜車6小時券
       url: https://tw.wamazing.com/snow/items/15509
       deadline: "2026-11-30"
 snowWeather:
