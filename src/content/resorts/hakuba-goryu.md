@@ -29,7 +29,7 @@ links:
   instagram: https://www.instagram.com/hakubagoryuofficial/
   trailMapPage: https://www.hakubaescal.com/winter/gelande/course/
   trailMapPdf: https://www.hakubaescal.com/winter/common/pdf/gelande/gelandemap2025.pdf
-  ticket: https://www.hakubaescal.com/winter/tickets/lift/
+  ticket: https://www.hakubagoryu.jp/ski/pricing/lift-tickets/
   access: https://www.hakubaescal.com/winter/access/
   googleMaps: https://maps.app.goo.gl/nmXj91twuVNhCuzd6
 contact:
@@ -49,19 +49,19 @@ season:
 trailMaps:
 - label: 白馬五龍 & Hakuba47 雪道圖（英文）
   language: 英文
-  season: 2025-2026
-  url: https://www.hakubavalley.com/cms/wp-content/uploads/2025/11/25-26_%E6%97%A5%E8%8B%B1%E4%B8%A6%E8%A8%98.pdf
+  season: 2026-2027
+  url: https://www.hakubagoryu.jp/wp/wp-content/uploads/2026/10/342137c0adfef59f1c7a0a2a14633dfe.pdf
   sourceLabel: Hakuba Goryu Official
 - label: 白馬五龍 & Hakuba47 雪道圖（日文）
   language: 日本語
-  season: 2025-2026
-  url: https://www.hakubaescal.com/winter/common/pdf/gelande/gelandemap2025.pdf
+  season: 2026-2027
+  url: https://www.hakubagoryu.jp/wp/wp-content/uploads/2026/10/2de59d0c48dc7993a922021766874672.pdf
   sourceLabel: Hakuba Goryu Official
 tickets:
   season: 2026-2027
   currency: JPY
-  source: https://www.hakubaescal.com/winter/tickets/lift/
-  note: 2026-2027 年度白馬五龍與 Hakuba47 共通纜車票價；新購 IC 卡票另含 ¥500 保證金，歸還卡片時退還。青年票適用 13-22 歲，僅限窗口購買並須出示附照片身分證件。
+  source: https://www.hakubagoryu.jp/ski/pricing/lift-tickets/
+  note: 白馬五龍與 Hakuba47 共通纜車票價；所有列示價格均含 IC 卡 ¥500 保證金，歸還卡片時退還。青年票適用 13-22 歲，僅限窗口購買並須出示附照片身分證件。
   earlyBird:
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0041tk.htm
@@ -73,35 +73,51 @@ tickets:
         - 長者（65-79 歲）：¥7,700
         - 兒童（6-12 歲）：¥3,600
       note: 適用於既有 IC 卡的線上充值；青年票僅限窗口販售。
-    - name: 1 日券（新購）
+    - name: 線上新購 1 日券
       priceLines:
-        - 成人：¥9,500
-        - 長者：¥9,000
-        - 兒童：¥4,300
+        - 成人（23-64 歲）：¥9,500
+        - 長者（65-79 歲）：¥9,000
+        - 兒童（6-12 歲）：¥4,300
       note: 青年（13-22 歲）僅限窗口販售；票券限當季使用。
-    - name: 2 日券
+    - name: 線上新購 2 日券
       priceLines:
-        - 成人：¥17,500
-        - 長者：¥17,000
-        - 兒童：¥7,800
-    - name: 3 日券
+        - 成人（23-64 歲）：¥17,500
+        - 長者（65-79 歲）：¥17,000
+        - 兒童（6-12 歲）：¥7,800
+      note: 青年票僅限窗口販售，價格為 ¥11,500。
+    - name: 線上新購 3 日券
       priceLines:
-        - 成人：¥25,000
-        - 長者：¥24,500
-        - 兒童：¥11,300
-    - name: 特別折扣 1 日券（開季～12/15、3/15～閉場）
+        - 成人（23-64 歲）：¥25,000
+        - 長者（65-79 歲）：¥24,500
+        - 兒童（6-12 歲）：¥11,300
+      note: 青年票僅限窗口販售，價格為 ¥16,500。
+    - name: 初滑 1 日券（窗口，開季～12/15）
       priceLines:
-        - 成人：¥8,500
-        - 長者：¥8,500
+        - 成人 / 長者：¥9,000
+        - 青年：¥6,500
+        - 兒童：¥4,000
+    - name: 春滑 1 日券（線上新購，3/15～閉場）
+      priceLines:
+        - 成人 / 長者：¥8,500
         - 兒童：¥3,800
-      note: 青年票僅限窗口販售；實際適用日期依雪季公告為準。
+      note: 青年票僅限窗口販售，價格為 ¥6,500。
+    - name: 半日券（窗口）
+      priceLines:
+        - 成人 / 長者：¥8,500
+        - 青年：¥6,500
+        - 兒童：¥3,900
+      note: 上午券為開場～13:00，下午券為 12:00～閉場。
     - name: 夜滑券
       priceLines:
-        - 成人：¥6,500
-        - 長者：¥6,500
+        - 成人（23-64 歲） / 長者（65-79 歲）：¥6,500
         - 青年：¥4,000
         - 兒童：¥3,000
-      note: 適用 Toomi 與 IIMORI 夜滑區域；夜滑時段約 18:00-21:30，票券不可線上充值。
+      note: 適用 Toomi 與 IIMORI 夜滑區域；夜滑時段為 18:00-21:30，票券不可線上充值，亦不可使用日間券或 Hakuba Valley 全山共通券。
+    - name: 春季夜滑券（3/8 起）
+      priceLines:
+        - 成人 / 長者：¥2,500
+        - 青年 / 兒童：¥1,500
+      note: 販售至夜滑營業結束；票券不可線上充值。
 snowWeather:
   title: 白馬五龍雪況天氣
   provider: Weathernews

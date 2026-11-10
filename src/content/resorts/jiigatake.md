@@ -40,10 +40,10 @@ contact:
   phone: 0261-22-0551
 season:
   label: 2026-2027
-  operatingPeriod: 2026-2027 雪季，日期待官方公布
+  operatingPeriod: 2026 年 12 月 11 日預計全面開放；若雪況允許，目標於 12 月上旬預先開放
   hours: 待官方公布
-  note: 指定官方票價頁目前僅公布 2026-27 年度價格，尚未列出雪季起訖日與每日營業時段。
-  source: https://jiigatake.com/price/
+  note: 官方目前僅公告預計全面開放日與可能的預先開放時程；每日營業時段及雪季結束日仍待公告。
+  source: https://www.instagram.com/p/Def4oXjGtg0/
 trailMaps:
 - label: 爺岳雪場圖
   language: 日本語
@@ -53,8 +53,8 @@ trailMaps:
 tickets:
   season: 2026-2027
   currency: JPY
-  source: https://jiigatake.com/price/
-  note: 2026-2027 年度票價；兒童適用 3 歲至國中生，學生須出示學生證，長者適用 60 歲以上並須出示證明。寵物票僅提供一日券、半日券、10 次回數券與單次券。
+  source: https://www.instagram.com/p/DdAQzIPk-Nm/?img_index=2
+  note: 2026-2027 年度票價；兒童適用 3 歲至國中生，學生須出示學生證，長者適用 60 歲以上並須出示證明。寵物票僅提供一日券、半日券、10 次回數券與單次券；季票早鳥與居民優惠的販售條件待官方另行公告。
   earlyBird:
     - name: 【完美行 WAmazing】【早鳥優惠】纜車1日券
       url: https://tw.wamazing.com/snow/items/15324
@@ -75,9 +75,9 @@ tickets:
         - 學生 / 長者：¥3,900
     - name: 半日券
       priceLines:
-        - 成人：¥4,000
-        - 兒童 / 寵物：¥2,500
-        - 學生 / 長者：¥3,300
+        - 成人：¥4,900
+        - 兒童 / 寵物：¥2,900
+        - 學生 / 長者：¥3,900
       note: 上午時段 8:30～12:30，下午時段 12:00～16:00。
     - name: 2 日券
       priceLines:

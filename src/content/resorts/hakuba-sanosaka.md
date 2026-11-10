@@ -16,6 +16,7 @@ elevation:
 tags:
 - beginner_friendly
 - family_friendly
+- night_skiing
 - no_car_accessible
 - powder
 - snowboard_friendly
@@ -39,9 +40,9 @@ contact:
 season:
   label: 2026-2027
   operatingPeriod: 2026/12/18-2027/3/22
-  hours: 待官方公布
-  nightSkiingHours: 無夜滑
-  note: 官方目前公布 2026-27 冬季預定營業期間；每日纜車營業時段與實際開放狀況請以官方公告為準。
+  hours: 日間纜車營業時段待官方公布
+  nightSkiingHours: 2026/12/29-2027/2/28，17:30-21:30；週五、週六至 22:30
+  note: 官方目前公布 2026-27 冬季預定營業期間；夜滑自 2026/12/29 起於 Carving Slope 開放，使用第 6 Pair Lift，實際營業可能受積雪、天候與整備影響。
   source: https://sanosaka.jp/lift/
 trailMaps:
 - label: 白馬佐野坂雪場圖
@@ -53,7 +54,7 @@ tickets:
   season: 2026-2027
   currency: JPY
   source: https://sanosaka.jp/lift/
-  note: 成人為國中生以上，學齡前兒童免費但仍需辦理纜車券；網路票價另列，Snow Friends Park 票券依使用的纜車票種類有不同入場規則。
+  note: 成人為國中生以上，學齡前兒童免費但仍需辦理纜車券；網路票價另列，Snow Friends Park 票券依使用的纜車票種類有不同入場規則。夜滑期間另有夜滑券與夜滑季票。
   earlyBird:
     - name: 【完美行 WAmazing】【早鳥優惠】纜車1日券
       url: https://tw.wamazing.com/snow/items/15142
@@ -104,6 +105,16 @@ tickets:
         - 成人：¥1,000
         - 小學生：¥1,000
       note: 使用 5 小時券、3 小時券、回數券或 Hakuba Valley 共通券時適用。
+    - name: 夜滑券
+      priceLines:
+        - 成人：¥3,800
+        - 小學生：¥1,000
+      note: 夜滑期間可使用；營業時間為 17:30-21:30，週五、週六至 22:30。
+    - name: 夜滑季票
+      priceLines:
+        - 成人：¥28,000
+        - 小學生：¥8,000
+      note: 夜滑期間使用；雪場開放後開始販售。
 snowWeather:
   title: 白馬佐野坂雪況天氣
   provider: Weathernews

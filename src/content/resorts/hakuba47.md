@@ -26,13 +26,13 @@ tags:
 - snowboard_friendly
 - tree_run
 links:
-  official: https://www.hakuba47.co.jp/winter/
+  official: https://hakuba47.co.jp/ja/
   facebook: https://www.facebook.com/HKB47official
   instagram: https://www.instagram.com/hakuba47wintersportspark/
   xTwitter: https://twitter.com/Hakuba_47
   trailMapPage: https://www.hakuba47.co.jp/winter/area/info/
   ticket: https://www.hakuba47.co.jp/winter/ticket/lift_ticket/
-  access: https://www.hakuba47.co.jp/winter/access/
+  access: https://hakuba47.co.jp/ja/getting-here/
   weather: https://www.hakuba47.co.jp/winter/area/info/
   snowReport: https://www.hakuba47.co.jp/winter/en/condition/
   liftStatus: https://www.hakuba47.co.jp/winter/en/condition/
@@ -53,8 +53,8 @@ season:
 trailMaps:
 - label: Hakuba 47雪場圖
   language: 日本語
-  season: 2022-2023
-  url: https://www.hakubavalley.com/cms/wp-content/uploads/2026/01/25-26_47.pdf
+  season: 2026-2027
+  url: https://hakuba47.co.jp/ja/wp-content/uploads/sites/2/2026/10/Map_JA.pdf
   sourceLabel: Hakuba 47 Winter Sports Park
 tickets:
   season: 2026-2027
