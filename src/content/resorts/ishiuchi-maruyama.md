@@ -388,6 +388,9 @@ externalContent:
   - title: 【4K.越後湯沢駅】各スキー場へ行くバスのりばをご案内‼︎【神立舞子石打丸山苗場プリンスホテルシャトルバス発着所|スノボ】EchigoYuzawa Sta. Bus Terminal.Japan
     url: https://www.youtube.com/watch?v=ft3WpoC95rU&t=411s
     note: MIRU tube JAPAN 【Route Guide】
+externalGuide:
+  title: 石打丸山，4,000 公尺長滑道與魚沼平野全景
+  url: https://www.japowdb.com/zh-tw/resorts/ishiuchi-maruyama/
 ---
 
-石打丸山自 1949 年開業，236ha 的雪域自山頂扇狀延伸至中央、北口與ハツカ石三個入口。27 條雪道涵蓋寬緩家庭坡、4,000m 長距離巡航、非壓雪急坡與樹林滑行，並設有分級地形公園；面向魚沼平野與越後群山的開闊視野，讓不同程度的滑行節奏能在同一座山上成立。
+石打丸山自 1949 年開業，236 公頃的雪域自山頂扇狀延伸至中央、北口與ハツカ石三個入口。27 條雪道涵蓋寬緩家庭坡、4,000m 長距離巡航、非壓雪急坡與樹林滑行，並設有分級地形公園；面向魚沼平野與越後群山的開闊視野，讓不同程度的滑行節奏能在同一座山上成立。
