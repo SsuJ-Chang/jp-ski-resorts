@@ -111,7 +111,7 @@ courses:
   intermediateRatio: 25
   advancedRatio: 33
   courseInfoPage: https://www.princehotels.co.jp/ski/naeba/winter/coursemap/
-  summary: 苗場擁有約 134ha 的廣大雪場、24 條多樣雪道、2 座雪上公園與 3 座纜車，總滑走距離約 17,986m；高低差約 900m，從初級緩坡到上級非壓雪與地形公園都能找到適合自己的路線。
+  summary: 苗場擁有約 134 公頃的廣大雪場、24 條多樣雪道、2 座雪上公園與 3 座纜車，總滑走距離約 17,986m；高低差約 900m，從初級緩坡到上級非壓雪與地形公園都能找到適合自己的路線。
   details:
   - name: D1 第4高速リフト南側
     difficulty: beginner
