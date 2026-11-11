@@ -43,6 +43,16 @@ const canonicalUrl = new URL(canonicalPath ?? Astro.url.pathname, siteUrl).toStr
 const siteName = '日本滑雪場指南'
 const socialImageUrl = new URL(withBasePath('/images/og-image.png'), siteUrl).toString()
 const socialImageAlt = '日本滑雪場指南'
+// JSON-LD is inserted into a raw script block. Escape HTML-significant
+// characters so content values cannot terminate the block and inject markup.
+const structuredDataJson = structuredData
+  ? JSON.stringify(structuredData)
+      .replaceAll('<', '\\u003c')
+      .replaceAll('>', '\\u003e')
+      .replaceAll('&', '\\u0026')
+      .replaceAll('\u2028', '\\u2028')
+      .replaceAll('\u2029', '\\u2029')
+  : undefined
 const publishedResorts = isPopularResortsEnabled ? await getPublishedResorts() : []
 const popularResortItems = popularResorts.resorts
   .map((entry) => {
@@ -93,8 +103,8 @@ const isHomePage = Astro.url.pathname === withBasePath('/')
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={socialImageUrl} />
     <meta name="twitter:image:alt" content={socialImageAlt} />
-    {structuredData && (
-      <script type="application/ld+json" is:inline set:html={JSON.stringify(structuredData)} />
+    {structuredDataJson && (
+      <script type="application/ld+json" is:inline set:html={structuredDataJson} />
     )}
     <GoogleAnalytics />
   </head>

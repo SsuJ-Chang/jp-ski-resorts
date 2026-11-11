@@ -19,6 +19,16 @@ const matchesHostname = (value: string, domains: string[]) => {
   return domains.some((domain) => hostname === domain || hostname.endsWith(`.${domain}`))
 }
 
+// Content URLs are rendered as links. Restrict them to web protocols so a
+// content edit cannot introduce javascript:, data:, or other executable URLs.
+const httpUrl = z.url().refine(
+  (value) => {
+    const protocol = new URL(value).protocol
+    return protocol === 'http:' || protocol === 'https:'
+  },
+  { message: 'URL must use http or https.' },
+)
+
 const socialLinkDomains = [
   'facebook.com',
   'fb.com',
@@ -31,13 +41,12 @@ const socialLinkDomains = [
 ]
 
 const socialUrlSchema = (domains: string[], label: string) =>
-  z.url().refine((value) => matchesHostname(value, domains), {
+  httpUrl.refine((value) => matchesHostname(value, domains), {
     message: `${label} link must use an official ${label} domain.`,
   })
 
 const linkSchema = z.object({
-  official: z
-    .url()
+  official: httpUrl
     .refine((value) => !matchesHostname(value, socialLinkDomains), {
       message: 'Official website must not use a social media domain.',
     })
@@ -47,19 +56,19 @@ const linkSchema = z.object({
   threads: socialUrlSchema(['threads.net'], 'Threads').optional(),
   xTwitter: socialUrlSchema(['x.com', 'twitter.com'], 'X/Twitter').optional(),
   youtube: socialUrlSchema(['youtube.com', 'youtu.be'], 'YouTube').optional(),
-  googleMaps: z.url().optional(),
-  trailMapPage: z.url().optional(),
-  trailMapPdf: z.url().optional(),
-  weather: z.url().optional(),
-  snowReport: z.url().optional(),
-  liftStatus: z.url().optional(),
-  ticket: z.url().optional(),
-  access: z.url().optional(),
+  googleMaps: httpUrl.optional(),
+  trailMapPage: httpUrl.optional(),
+  trailMapPdf: httpUrl.optional(),
+  weather: httpUrl.optional(),
+  snowReport: httpUrl.optional(),
+  liftStatus: httpUrl.optional(),
+  ticket: httpUrl.optional(),
+  access: httpUrl.optional(),
 })
 
 const namedLinkSchema = z.object({
   title: z.string(),
-  url: z.url(),
+  url: httpUrl,
   note: z.string().optional(),
 })
 
@@ -67,7 +76,7 @@ const trailMapSchema = z.object({
   label: z.string(),
   language: z.string(),
   season: z.string().optional(),
-  url: z.url(),
+  url: httpUrl,
   sourceLabel: z.string().optional(),
 })
 
@@ -82,7 +91,7 @@ const textOrNumberSchema = z.union([z.string(), z.number()])
 const snowWeatherSchema = z.object({
   title: z.string(),
   provider: z.string().optional(),
-  url: z.url(),
+  url: httpUrl,
   snowDepth: z.string().optional(),
   updatedAt: z.string().optional(),
   forecast: z
@@ -104,7 +113,7 @@ const courseDetailSchema = z.object({
   length: z.string().optional(),
   maxSlope: z.string().optional(),
   averageSlope: z.string().optional(),
-  videoLinks: z.array(z.url()).optional(),
+  videoLinks: z.array(httpUrl).optional(),
   note: z.string().optional(),
 })
 
@@ -118,7 +127,7 @@ const accessRouteSchema = z.object({
     .array(
       z.object({
         label: z.string(),
-        url: z.url(),
+        url: httpUrl,
       }),
     )
     .optional(),
@@ -135,7 +144,7 @@ const externalContentSchema = z.object({
 
 const externalGuideSchema = z.object({
   title: z.string(),
-  url: z.url(),
+  url: httpUrl,
 })
 
 const skiAreaExternalContentSchema = externalContentSchema.extend({
@@ -176,7 +185,7 @@ const resorts = defineCollection({
           zhTw: z.string(),
           ja: z.string(),
           en: z.string().optional(),
-          googleMaps: z.url(),
+          googleMaps: httpUrl,
         }),
         phone: z.string().optional(),
       })
@@ -188,7 +197,7 @@ const resorts = defineCollection({
         hours: z.string().optional(),
         nightSkiingHours: z.string().optional(),
         note: z.string().optional(),
-        source: z.url().optional(),
+        source: httpUrl.optional(),
       })
       .optional(),
     trailMaps: z.array(trailMapSchema).optional(),
@@ -196,12 +205,12 @@ const resorts = defineCollection({
       .object({
         season: z.string().optional(),
         currency: z.string().default('JPY'),
-        source: z.url().optional(),
+        source: httpUrl.optional(),
         earlyBird: z
           .array(
             z.object({
               name: z.string(),
-              url: z.url(),
+              url: httpUrl,
               deadline: z
                 .string()
                 .regex(/^\d{4}-\d{2}-\d{2}$/, 'deadline must use YYYY-MM-DD format'),
@@ -255,7 +264,7 @@ const resorts = defineCollection({
         beginnerRatio: z.number().optional(),
         intermediateRatio: z.number().optional(),
         advancedRatio: z.number().optional(),
-        courseInfoPage: z.url().optional(),
+        courseInfoPage: httpUrl.optional(),
         summary: z.string().optional(),
         details: z.array(courseDetailSchema).optional(),
       })
