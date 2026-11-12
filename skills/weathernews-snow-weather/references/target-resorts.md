@@ -1,0 +1,416 @@
+# Default resort IDs for the `更新雪況天氣` workflow
+
+<!-- Generated from src/content/resorts/*.md. Keep resort IDs in sync with content entries. -->
+<!-- The trailing comment is the resort name.zhTw value used for human review. -->
+
+## 北海道 (hokkaido)
+
+- abashiri-lakeview # 網走 Lake View
+- abira-abirayama # 安平町安平山
+- akan-lakeside # 阿寒湖畔
+- akan-royal-valley # 阿寒 Royal Valley
+- asahikawa-santa-present-park # 聖誕禮物公園
+- asarigawa-onsen # 朝里川溫泉
+- ashimoi-kanko-takaho # Numatacho 高穗
+- bibai-kokusetsu # 美唄國設
+- bifuka # 美深
+- canmore-ski-village # Canmore Ski Village
+- churui-shiroganedai # 白銀台
+- daisetsuzan-kurodake # 大雪山黑岳
+- dynasty-ski-resort # Dynasty Ski Resort
+- engaru-rock-valley # Engaru Rock Valley
+- eniwa-citizen # 惠庭市民
+- esashi-mikasayama # 枝幸町三笠山
+- f-village-snow-park # F VILLAGE Snow Park
+- furano # 富良野
+- fus-snow-area # Fu's snow area
+- greenpia-onuma # Greenpia 大沼
+- hakodate-nanae-snow-park # 函館七飯 Snow Park
+- hidaka-kokusai # 日高國際
+- hinode # 日之出
+- hokkaido-greenland-white-park # 北海道 Greenland White Park
+- horonobe-higashigaoka # 幌延町東丘
+- horotachi # Horotachi
+- hoshino-resorts-tomamu # 星野渡假村 Tomamu
+- imakane-pirika # 今金町 Pirika
+- inosawa-citizen # 伊之澤市民
+- ishikari-heigen # 石狩平原
+- iwamizawa-haginoyama # 岩見澤萩之山市民
+- iwanai-resort # 岩內
+- kamoidake-kokusai # Kamoidake 國際
+- kamui-ski-links # 神居
+- karurusu-onsen-sanlaiva # Karurusu 溫泉 Sanlaiva
+- katsurazawa-kokusetsu # 桂澤國設
+- kiroro-snow-world # Kiroro Snow World
+- kita-naganuma # 北長沼
+- kutchan-asahigaoka # 俱知安町旭丘
+- mashike-shokanbetsudake # 增毛町暑寒別岳
+- memuro # Memuro
+- minami-furano # 國設南富良野
+- monbetsu-oyama # 市營大山
+- mount-racey # 夕張 Mount Racey
+- nakayama-toge # 中山峠
+- nayoro-piyashiri # 名寄 Piyashiri
+- niseko-annupuri # 二世谷 Annupuri
+- niseko-grand-hirafu # 二世谷格蘭比羅夫
+- niseko-hanazono # 二世谷 HANAZONO
+- niseko-moiwa # 二世谷 Moiwa
+- niseko-village # 二世谷渡假村
+- northern-arc-resort # Northern Arc Resort
+- nukabira-gensenkyo # 糠平源泉鄉
+- obira-boyodai # 小平町望洋台
+- okoppe-choei # 興部町營
+- orofure # Orofure
+- otaru-tenguyama # 小樽天狗山
+- otoifuji # 音威富士
+- pippu # 比布
+- rubeshibe-happodai # 八方台
+- rusutsu-resort # 留壽都渡假村
+- sahoro-resort # 佐幌渡假村
+- sapporo-bankei # 札幌盤溪
+- sapporo-kokusai # 札幌國際
+- sapporo-moiwayama # 札幌藻岩山
+- sapporo-teine # 札幌手稻
+- sarufutsu-village # 猿拂村營
+- shari-unabetsu # Unabetsu
+- shibetsu-asahi # 朝日
+- shibetsu-hinata # 士別市日向
+- shibetsu-kanayama # 標津町營金山
+- shintokuyama # 新得山
+- snow-cruise-onze # Snow Cruise Onze
+- takino-snow-world # 瀧野 Snow World
+- takinoue-sakuragaoka # 櫻丘
+- toma-choei # 當麻山
+- toyotomi-onsen # 豐富町溫泉
+- wakamatsu-citizen # 北見若松市民
+- wakkanai-komadori # 稚內市 Komadori
+- wassamu-higashiyama # 和寒東山
+- yakumo-choei # 八雲町營
+- yubetsu-gokazan # 湧別町五鹿山
+
+## 東北 (tohoku)
+
+- adatara-kogen # 安達太良高原
+- aizu-kogen-daikura # 會津高原 Daikura
+- aizu-kogen-nango # 會津高原南鄉
+- aizu-kogen-takatsue # 會津高原高杖
+- akabane-ski-area # 赤羽根
+- akita-hachimantai # 秋田八幡平
+- amihari-onsen # 網張溫泉
+- ani # 森吉山阿仁
+- aomori-spring # 青森 Spring
+- appi-kogen # 安比高原
+- asahi-shizenkan # Asahi 自然觀 Snow Park
+- chokaikogen-yashima # 鳥海高原矢島
+- daisen-kyowa # 協和
+- daisen-ohdai # 大台
+- fairyland-kaneyama # Fairyland 金山
+- gassan # 月山
+- geto-kogen # 夏油高原
+- grandeco # Grandeco
+- green-valley-kamuro # Green Valley 神室
+- hachimantai-resort-panorama # 八幡平渡假村全景
+- hachimantai-resort-shimokura # 八幡平渡假村下倉
+- hachimantai-tayama # 田山
+- haguroyama # 羽黑山
+- hakkoda # 八甲田
+- hanagasa-kogen # 花笠高原
+- hanamaki-namari-onsen # 鉛溫泉
+- hanawa # 花輪
+- hiranai-yogoshiyama # 夜越山
+- hiraniwa-kogen # 平庭高原
+- inawashiro # 豬苗代
+- iwakiyama-hyakuzawa # 岩木山百澤
+- iwate-kogen-snow-park # 岩手高原戲雪公園
+- izumigatake # 泉岳
+- jeunesse-kurikoma # 青年栗駒
+- jungle-jungle # 黑伏高原 Snow Park Jungle Jungle
+- kita-nikko-takahata # 北日光・高畑
+- kitakata-sannokura # 三之倉
+- kunimidaira # 國見平
+- kushibiki-taranokidai # 櫛引 Taranokidai
+- listel-ski-fantasia # 利時達豬苗代
+- matsuyama # 松山
+- minowa # 豬苗代箕輪
+- miyagi-zao-eboshi # 宮城藏王黑帽子
+- miyagi-zao-shichikashuku # 宮城藏王七宿
+- miyagi-zao-shiroishi # 宮城藏王白石
+- miyagi-zao-sumikawa # 宮城藏王澄川雪樂園
+- mogami-akakura-onsen # 最上赤倉溫泉
+- moya-hills # Link Station Hills 雲谷（Moya Hills）
+- mutsu-kamafuseyama # 釜臥山
+- necoma-mountain # 星野渡假村 貓魔滑雪場
+- nihonmatsu-shiozawa # 二本松鹽澤
+- nishikawa-chomin # 西川町民間澤
+- numajiri # 沼尻
+- oirase-keiryu-onsen # 奧入瀨溪流溫泉
+- okunakayama-kogen # 奧中山高原
+- onikoube # Onikoube
+- onogawa-onsen # 小野川溫泉
+- owani-onsen # 大鰐溫泉
+- shichinohe-choei # 七戶町營
+- shirataka-choei # 白鷹町營
+- shizukuishi # 雫石
+- soma-romantopia # Soma Romantopia
+- spring-valley-sendai-izumi # Spring Valley 仙台泉
+- suisyozan-family # 水晶山
+- tadami # 只見
+- taiheizan-opas # 太平山 Opas
+- tazawako # 田澤湖
+- tendo-kogen # 天童高原
+- tengamori # 天下森
+- tengendai-kogen # 天元台高原
+- uenono # 上野野
+- urabandai # 裏磐梯
+- yakushiyama # 藥師山
+- yokone # 橫根
+- yonezawa # 米澤
+- yuda-ski-area # 湯田
+- yudonosan # 湯殿山
+- zao-liza-world # 藏王 Liza World
+- zao-onsen # 藏王溫泉
+- zao-sarukura # 藏王猿倉
+
+## 關東／甲信越 (kanto-koshinetsu)
+
+- akakura-kanko # 赤倉觀光
+- akakura-onsen # 赤倉溫泉
+- asahi-prime # Asahi Prime
+- blanche-takayama # Blanche 高山
+- budoh-snow-resort # Budoh Snow Resort
+- charmant-hiuchi # Charmant 火打
+- chateau-shiozawa # Chateau 鹽澤
+- chateraise-ski-valley-koumi # Chateraise Ski Valley 小海
+- chateraise-ski-valley-nobeyama # Chateraise Ski Valley 野邊山
+- cupid-valley # 丘比特谷
+- edelweiss-ski-resort # Edelweiss
+- fujimi-kogen # 富士見高原
+- fujimi-panorama-resort # 富士見 Panorama Resort
+- fujiten-snow-resort # 富士天
+- fujiwara-ski-area # 藤原
+- gala-yuzawa # GALA湯澤
+- hakkaisanroku # 八海山麓
+- hakuba-cortina # 白馬Cortina
+- hakuba-goryu # 白馬五龍
+- hakuba-happo-one # 白馬八方尾根
+- hakuba-iwatake # 白馬岩岳
+- hakuba-norikura-onsen # 白馬乘鞍溫泉
+- hakuba-sanosaka # 白馬佐野坂
+- hakuba47 # Hakuba 47
+- heavens-sonohara # 天堂園原
+- hijiri-kogen # 聖高原
+- hiraya-kogen # 平谷高原
+- hunter-mountain-shiobara # Hunter Mountain 鹽原
+- iizuna-resort # 飯綱滑雪度假村
+- ikenotaira-onsen # 池之平
+- ina-ski-resort # 伊那 Ski Resort
+- ipponsugi # 一本杉
+- ishiuchi-maruyama # 石打丸山
+- itoigawa-seaside-valley # 糸魚川 Seaside Valley
+- iwappara # 岩原
+- jibuzaka-kogen # 治部坂高原
+- jiigatake # 爺岳
+- joetsu-kokusai # 上越國際
+- kagura # 神樂
+- kaida-kogen-mia # 信州開田高原 MIA
+- kamui-misaka # Kamui Misaka
+- kanayasan # 金谷山
+- kandatsu # 神立高原
+- karuizawa-prince-hotel # 輕井澤王子大飯店
+- karuizawa-snow-park # 輕井澤雪公園
+- kashimayari # 鹿島槍
+- katashina-kogen # 片品高原
+- kawaba # 川場
+- kazawa-snow-area # 鹿澤 Snow Area
+- kirigamine-family # 霧峰高原 Family Field
+- kiso-fukushima # 木曾福島
+- koide-ski-area # 小出
+- komagane-kogen # 駒根高原
+- komaruyama # 小丸山
+- kurohime-kogen-snow-park # 黑姬高原雪地公園
+- kurumayama-kogen-skypark # 車山高原 SKYPARK
+- kusatsu-onsen # 草津溫泉
+- kyukamura-myoko-runrun # 休暇村妙高 RunRun
+- lotte-arai # 樂天新井
+- madarao-kogen # 斑尾高原
+- maiko # 舞子
+- manza-onsen # 萬座溫泉
+- marunuma-kogen # 丸沼高原
+- matsudai-family # 松代家庭滑雪場
+- matsunoyama-onsen # 松之山溫泉
+- mikawa-onsen # 三川・溫泉
+- minakami-hodaigi # 群馬水上 Hodaigi
+- minakami-kogen # 水上高原
+- mt-norikura-snow-resort # 乘鞍山滑雪度假村
+- muica-snow-resort # Muica Snow Resort
+- muikamachi-hakkaisan # 六日町八海山
+- myoko-sekionsen # 妙高高原關溫泉
+- myoko-suginohara # 杉之原
+- naeba # 苗場
+- nakazato-snow-wood # 中里 Snow Wood
+- naspa-ski-garden # NASPA滑雪公園
+- new-greenpia-tsunan # New Greenpia 津南
+- nikko-yumoto-onsen # 日光湯元溫泉
+- ninox-snow-park # Ninox Snow Park
+- nomugitoge # 信州松本野麥峠
+- norn-minakami # Norn 水上
+- nozawa-onsen # 野澤溫泉
+- ogna-hotaka # Ogna 武尊
+- okutadami-maruyama # 奧只見丸山
+- okutone-snow-park # 奧利根雪樂園
+- ontake-ski-area # 御嶽
+- palcall-tsumagoi-resort # Palcall 嬬戀
+- pilatus-tateshina # Pilatus 蓼科滑雪度假村
+- rewild-ninja-snow-highland # REWILD NINJA SNOW HIGHLAND
+- ryuoo-ski-park # 龍王 Ski Park
+- sakae-club # 榮俱樂部
+- saku-parada # 佐久 Ski Garden Parada
+- sayama-ski # 狹山
+- senjojiki # 中央阿爾卑斯千疊敷
+- shiga-kogen-giant # 志賀高原 巨人
+- shiga-kogen-hasuike # 志賀高原蓮池
+- shiga-kogen-higashidateyama # 志賀高原東館山
+- shiga-kogen-hoppo-bunadaira # 發哺ブナ平
+- shiga-kogen-ichinose-diamond # 志賀高原一之瀨鑽石
+- shiga-kogen-ichinose-family # 志賀高原一之瀨家庭
+- shiga-kogen-ichinose-yamanokami # 志賀高原一之瀨山之神
+- shiga-kogen-kumanoyu # 熊之湯
+- shiga-kogen-maruike # 志賀高原丸池
+- shiga-kogen-nishidateyama # 志賀高原西館山
+- shiga-kogen-okushiga-kogen # 奧志賀高原
+- shiga-kogen-sun-valley # 太陽谷
+- shiga-kogen-takamagahara-mammoth # 志賀高原高天原長毛象
+- shiga-kogen-tanne-no-mori-okojo # Tanne 森林 Okojo
+- shiga-kogen-terakoya # 志賀高原寺小屋
+- shiga-kogen-yakebitaiyama # 燒額山
+- shiga-kogen-yokoteyama-shibutoge # 横手山・澀峠
+- shirakaba-2in1 # 白樺 2in1
+- shirakaba-kogen-kokusai # 白樺高原國際
+- shirakaba-resort-ikenotaira-snow-park # 白樺 Resort 池之平 Snow Park
+- shirakabako-royal-hill # 白樺湖 Royal Hill
+- snow-park-oze-tokura # Snow Park 尾瀨戶倉
+- sugadaira-kogen-snow-resort # 菅平高原
+- suhara # 須原
+- sun-meadows-kiyosato # Sun Meadows 清里
+- tainai # 胎內
+- takamine-mountain-park # 高峰 Mountain Park
+- takayanagi-garuru # 高柳 Garuru
+- takeshi-banshogahara # 武石番所原
+- tambara-ski-park # 玉原薰衣草公園
+- tangram-ski-circus # Tangram 滑雪廣場
+- tanigawadake-tenjindaira # Mt. T by 星野集團
+- tateshina-tokyu # 蓼科東急
+- the-cupid-of-romance # The Cupid of Romance Snow Resort
+- the-kijima-snow-park # The Kijima Snow Park
+- togakushi # 戶隱
+- togari-onsen # 戶狩溫泉
+- tsugaike-kogen # 栂池高原
+- white-valley-minakami # White Valley 水上
+- white-world-oze-iwakura # White World 尾瀨岩鞍
+- x-jam-takaifuji # X-JAM 高井富士
+- yabuhara-kogen # 藪原高原
+- yachiho-kogen # 八千穗高原
+- yakushi-ski-area # 藥師
+- yamaboku-wild-snow-park # YAMABOKU Wild Snow Park
+- yomase-onsen # 夜間瀨溫泉
+- yunomaru # 湯之丸
+- yuzawa-kogen # 湯澤高原
+- yuzawa-nakazato # 湯澤中里
+- yuzawa-park # 湯澤公園
+
+## 北陸 (hokuriku)
+
+- awasuno # Awasuno
+- fukui-izumi # 福井和泉
+- hakusan-ichirino-onsen # 白山一里野溫泉
+- hakusan-seymour # 白山千丈溫泉 Seymour
+- imajo-365 # 今庄 365
+- iox-arosa # IOX-AROSA
+- kanazawa-iozen # 金澤市營醫王山
+- kuzuryu # 九頭龍
+- nanao-korosa # 七尾 Korosa
+- okuradake-kogen # 大倉岳高原
+- shinbo-family # 新保 Family
+- skijam-katsuyama # Ski Jam 勝山
+- taira # Taira
+- takanbo # Takanbo
+- tateyama-sanroku # 立山山麓
+- tonami-yumenotaira # 礪波夢之平
+- unazuki-onsen # 宇奈月溫泉
+- ushidake-onsen # 牛岳溫泉
+
+## 中部 (chubu)
+
+- chausuyama-kogen # 茶臼山高原
+- dynaland # Dynaland
+- fujiyama-snow-resort-yeti # Fujiyama Snow Resort Yeti
+- gozaisho # 御在所
+- gujo-kogen # 郡上高原
+- hida-hounokidaira # 飛驒 Hounoki Daira
+- hida-kawai # 飛驒河合
+- hida-nagareha # 飛驒流葉
+- hida-takayama # 飛驒高山
+- hirayu-onsen # 平湯溫泉
+- hirugano-kogen # 蛭野高原
+- meiho # Meiho
+- riverwell-ikawa # Riverwell 井川
+- snow-wave-park-shiratori-kogen # Snow Wave Park 白鳥高原
+- takasu-snow-park # 高鷲滑雪公園
+- takayama-shimin # 高山市民
+- washigatake # 鷲岳
+- white-pia-takasu # White Pia 高鷲
+- winghills-shirotori # Winghills 白鳥渡假村
+
+## 關西／中國 (kansai-chugoku)
+
+- akagoyama-snowpal # 赤子山 Snowpal
+- azou-park # 安藏公園
+- banshu-tokura # 播州戶倉
+- biwako-valley # 琵琶湖山谷
+- chikusa-kogen # 千種高原
+- daisen-masumizu # 大山桝水高原 Snow Park
+- daisen-white-resort # 大山白色度假村
+- dogoyama-kogen # 道後山高原
+- grand-snow-okuibuki # 奧伊吹
+- hachi-kogen # HACHI 高原
+- hachikita-kogen # HACHI 北高原
+- hakodateyama # 箱館山
+- hiroshima-kenmin-no-mori # 廣島縣民之森
+- hiruzen-bear-valley # 蒜山 Bear Valley
+- hiruzen-kids-snow-park # 蒜山 Kids Snow Park
+- hyonosen-kokusai # 冰之山國際
+- hyperbowl-tohachi # Hyper Bowl 東鉢
+- ibukinosato # IBUKINOSATO
+- ikawa-kainayama # 井川腕山
+- ishizuchi # 石鎚
+- kagamiganaru # 鏡ヶ成
+- kotobiki-forest-park # 琴引 Forest Park
+- kutsuki-snow-park # 朽木 Snow Park
+- makino-kogen-family # 牧野高原 Family
+- manba # 神鍋高原萬場
+- megahira # 女鹿平溫泉
+- mineyama-kogen-white-peak # 峰山高原 WHITE PEAK
+- mizuho-highland # 瑞穗高原
+- ohana-resort # Ohana Resort
+- ojiro # 小代
+- oku-kannabe # 奧神鍋
+- onbara-kogen # 恩原高原
+- osa-ski-resort # 大佐
+- osorakan-snow-park # 恐羅漢 Snow Park
+- rokkosan-snow-park # 六甲山
+- skyvalley # Sky Valley
+- snow-park-dorogawa # Snow Park 洞川
+- sol-fa-oda # SOL-FA 小田
+- tajima-bokujyo-koen # 但馬牧場公園
+- tokusagamine # 十種峰
+- up-kannabe # Up Kannabe
+- wakasa-hyonosen # 若櫻冰之山
+- wakasugi-kogen-ooya # 若杉高原大屋
+- yawata-highland-191 # Yawata Highland 191 Resort
+- yogo-kogen-yap # 余吳高原渡假村 YAP
+
+## 九州 (kyushu)
+
+- gokase-highland # 五瀨高原
+- kuju-ski-resort # 九重森林公園
+
