@@ -48,7 +48,7 @@ tickets:
   note: 所有票券需另付 IC 卡押金 ¥500；未就學兒免費，但同樣需要至櫃檯辦理 IC 卡。身障優惠為本人票價 7 折，需出示身障手冊。
   earlyBird:
     - name: 【完美行 WAmazing】【WAsnow】早鳥優惠成人纜車1日券※於Pickup Box（自動售票機）兌換
-      url: https://tw.wamazing.com/snow/items/15684
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15684
       deadline: "2026-12-04"
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0270tk.htm

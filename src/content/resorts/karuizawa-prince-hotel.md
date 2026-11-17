@@ -87,7 +87,7 @@ tickets:
       url: https://tw.wamazing.com/snow/items/15566
       deadline: "2026-10-30"
     - name: 【完美行 WAmazing】【早鳥優惠】纜車1日券×2張
-      url: https://tw.wamazing.com/snow/items/15565
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15565
       deadline: "2026-12-18"
 snowWeather:
   title: 輕井澤王子大飯店雪況預報

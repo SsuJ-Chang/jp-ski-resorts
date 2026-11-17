@@ -58,7 +58,7 @@ tickets:
   note: 2026-2027 雪季票價依初滑、通常期與春季滑雪分級；成人為一般成人，長者為 60 歲以上且需出示證明，小學生以下免費但須於售票處領取免費票。一般一日券使用至日落或當日營業結束，春季一日券使用時間為 9:00～16:00。
   earlyBird:
     - name: 【完美行 WAmazing】【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
-      url: https://tw.wamazing.com/snow/items/15083
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15083
       deadline: "2026-12-10"
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0118tk.htm

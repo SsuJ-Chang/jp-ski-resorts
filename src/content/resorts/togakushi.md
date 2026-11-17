@@ -48,7 +48,7 @@ tickets:
   note: 主要票種依官方 2026-2027 雪季票價整理；高中生以上為成人，中學生以下為兒童，滿 60 歲以上為長者。未就學兒童免費，但需另付發行手續費。
   earlyBird:
     - name: 【完美行 WAmazing】【早鳥優惠】纜車1日券
-      url: https://tw.wamazing.com/snow/items/15707
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15707
       deadline: "2026-11-30"
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0034tk.htm

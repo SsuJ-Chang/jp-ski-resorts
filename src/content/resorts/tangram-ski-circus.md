@@ -50,7 +50,7 @@ tickets:
   note: 另收 IC 卡押金 ¥500，歸還時退還；原則上搭乘纜車需穿著滑雪板或單板，野尻湖露台觀光纜車除外。夜滑僅限指定日期使用。
   earlyBird:
     - name: 【完美行 WAmazing】【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
-      url: https://tw.wamazing.com/snow/items/15083
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15083
       deadline: "2026-12-10"
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0016tk.htm

@@ -91,7 +91,7 @@ tickets:
       note: 預定 2026/12/22 起，9:00–16:00。
   earlyBird:
     - name: 【完美行 WAmazing】【早鳥優惠】成人纜車1日券
-      url: https://tw.wamazing.com/snow/items/15085
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15085
       deadline: "2026-11-20"
 snowWeather:
   title: 高峰 Mountain Park 雪況預報

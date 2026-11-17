@@ -48,7 +48,7 @@ tickets:
   note: 票券販售至日間 15:45、夜滑 19:45；未就學兒童每位保護者可帶 1 名免費，身心障礙手冊持有人 1 日券半價。
   earlyBird:
     - name: 【完美行 WAmazing】【早鳥優惠】纜車1日券
-      url: https://tw.wamazing.com/snow/items/15450
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15450
       deadline: "2026-12-18"
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0150tk.htm

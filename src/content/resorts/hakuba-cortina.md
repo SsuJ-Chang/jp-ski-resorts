@@ -90,7 +90,7 @@ tickets:
       note: 2027/1/31 前未使用可申請取消，退款為通常季票價格的 80%。
   earlyBird:
     - name: 【完美行 WAmazing】【早鳥優惠】共通纜車1日券
-      url: https://tw.wamazing.com/snow/items/15125
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15125
       deadline: "2026-12-11"
 snowWeather:
   title: 白馬Cortina雪況天氣

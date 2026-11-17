@@ -63,7 +63,7 @@ tickets:
   note: 學齡前兒童由付費成人陪同可免費搭乘纜車，每位成人最多 2 名。
   earlyBird:
     - name: 【完美行 WAmazing】纜車1日券
-      url: https://tw.wamazing.com/snow/items/15448
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15448
       deadline: "2026-12-18"
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0020tk.htm

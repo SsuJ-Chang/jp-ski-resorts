@@ -57,7 +57,7 @@ tickets:
   note: 成人為國中生以上，學齡前兒童免費但仍需辦理纜車券；網路票價另列，Snow Friends Park 票券依使用的纜車票種類有不同入場規則。夜滑期間另有夜滑券與夜滑季票。
   earlyBird:
     - name: 【完美行 WAmazing】【早鳥優惠】纜車1日券
-      url: https://tw.wamazing.com/snow/items/15142
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15142
       deadline: "2026-12-07"
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0326tk.htm

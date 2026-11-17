@@ -53,7 +53,7 @@ tickets:
   note: 票價依官方料金案内頁整理，成人為一般成人，兒童為小學生，長者為 60 歲以上且需證件。纜車券不退費、不取消、不重發；部分券種可能另收 ¥500 保證金，退還 key ticket 時返還。學齡前兒童纜車 1 日券免費但可能需保證金，Snow Escalator 仍需付費。
   earlyBird:
     - name: 【完美行 WAmazing】【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
-      url: https://tw.wamazing.com/snow/items/15083
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15083
       deadline: "2026-12-10"
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0774tk.htm

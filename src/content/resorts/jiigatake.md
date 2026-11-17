@@ -57,7 +57,7 @@ tickets:
   note: 2026-2027 年度票價；兒童適用 3 歲至國中生，學生須出示學生證，長者適用 60 歲以上並須出示證明。寵物票僅提供一日券、半日券、10 次回數券與單次券；季票早鳥與居民優惠的販售條件待官方另行公告。
   earlyBird:
     - name: 【完美行 WAmazing】【早鳥優惠】纜車1日券
-      url: https://tw.wamazing.com/snow/items/15324
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15324
       deadline: "2026-12-18"
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0857tk.htm
