@@ -10,6 +10,9 @@ skiArea: yuzawa
 location:
   latitude: 36.94039492786586
   longitude: 138.80389573558216
+elevation:
+  top: 1170
+  bottom: 370
 mapDisplay:
   showOnRegionGuide: true
   labelPriority: 2
@@ -24,7 +27,7 @@ tags:
 - snowboard_friendly
 - onsen
 links:
-  official: https://www.yuzawakogen.com/winter/
+  official: https://www.yuzawakogen.com/winter/snow_experience/
   facebook: https://www.facebook.com/yuzawakogen
   instagram: https://www.instagram.com/yuzawakogen/
   xTwitter: https://twitter.com/yuzawakogen
@@ -41,19 +44,19 @@ contact:
     googleMaps: https://maps.app.goo.gl/Eb4W34MMfjPbRfhA7
   phone: 025-784-3326
 season:
-  label: 2025-2026
-  operatingPeriod: 高原區 2025/12/13～2026/4/5；山麓區 2025/12/20～2026/3/29
-  hours: 纜車 8:30～16:50；高原纜車 8:40 首班，上行末班 16:20
+  label: 2026-2027
+  operatingPeriod: 高原區 2026/12/18～2027/4/4；山麓區預定 2026/12/26～2027/3/28
+  hours: 高原纜車 8:40～16:40，上行末班 16:20、下行末班 16:50；山麓區家庭雙人纜椅 8:30～16:50
   note: 高原纜車通常於每小時 00、20、40 分上下行同時運行。營運範圍可能因天候與積雪調整。
   source: https://www.yuzawakogen.com/winter/tickets/
 trailMaps:
 - label: 湯澤高原雪場圖
   language: 日本語 / English
-  season: 2025-2026
-  url: https://www.yuzawakogen.com/wordpress/wp-content/uploads/2024/12/241202win_map.jpg
+  season: 2026-2027
+  url: https://www.yuzawakogen.com/wordpress/wp-content/uploads/2026/11/2026-27-course-map.png
   sourceLabel: Yuzawa Kogen Ski Resort
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.yuzawakogen.com/winter/tickets/
   note: 全數為含稅價格。成人為國中生以上，兒童為小學生，銀髮為 65 歲以上；纜車乘車券可搭乘湯澤高原纜車，並可於營運期間進入玩雪公園。
@@ -66,28 +69,33 @@ tickets:
       priceLines:
         - 成人 ¥4,200
         - 兒童 ¥2,500
-        - 銀髮 ¥3,700
-      note: 適用 12/13～12/19、3/30～4/5，僅限當日窗口販售。
+        - 銀髮 ¥3,800
+      note: 適用 12/18、3/29～4/4，僅限當日窗口販售。
     - name: 旺季 1 日券
       priceLines:
-        - 事前網路：成人 ¥5,000 ~ ¥6,400、兒童 ¥3,000 ~ ¥3,200
-        - 當日窗口：成人 ¥6,900、兒童 ¥3,500、銀髮 ¥5,800
-      note: 適用 12/20～3/29。
+        - 事前網路：成人 ¥5,000 ~ ¥6,800、兒童 ¥3,000 ~ ¥3,200
+        - 當日窗口：成人 ¥7,500、兒童 ¥3,500、銀髮 ¥6,000
+      note: 適用 12/19～3/28。
     - name: 4 小時券
       priceLines:
-        - 成人 ¥5,200
+        - 成人 ¥5,400
         - 兒童 ¥3,000
-        - 銀髮 ¥4,400
+        - 銀髮 ¥4,500
       note: 自購買當日首次通過閘門起，於營業時間內有效 4 小時。
     - name: 2 日券
       priceLines:
-        - 事前網路：成人 ¥9,000 ~ ¥10,500、兒童 ¥6,000
-        - 當日窗口：成人 ¥11,000、兒童 ¥6,200、銀髮 ¥9,500
-      note: 適用 12/20～3/29。
+        - 事前網路：成人 ¥9,000 ~ ¥11,500、兒童 ¥6,000
+        - 當日窗口：成人 ¥12,000、兒童 ¥6,200、銀髮 ¥10,000
+      note: 適用 12/19～3/28。
     - name: 幼兒 1 日券
       priceLines:
         - 事前網路 ¥1,600
         - 當日窗口 ¥1,800
+      note: 適用 4～6 歲未就學兒童。
+    - name: 幼兒 2 日券
+      priceLines:
+        - 事前網路 ¥3,000
+        - 當日窗口 ¥3,200
       note: 適用 4～6 歲未就學兒童。
     - name: 季票
       priceLines:
@@ -161,15 +169,15 @@ courses:
       note: 連接高原區與山麓區的下山雪道；因雪道較窄而定位為高級者向，入口可眺望南魚沼市方向景色。
 access:
   fromTokyo:
-    - label: 越後湯澤站接駁
+    - label: 越後湯澤站步行或接駁
       steps:
         - 搭乘 JR 上越新幹線至「越後湯澤站」。
-        - 冬季可轉乘官方免費接駁巴士，串聯 NASPA、湯澤高原、GALA 湯澤與石打丸山。
+        - 從車站西口步行約 10 分鐘抵達雪場。
       difficulty: easy
-      note: 接駁巴士僅可於指定站點上下車，路線與到站時間會受道路及天候影響。
+      note: 東京搭新幹線至越後湯澤約 70 分鐘。四雪場接駁巴士由車站東口出發，每次乘車 ¥100，預定 2026/12/24～2027/3/22 運行；新雪季時刻表尚未公布。
       links:
-        - label: 2025-2026 冬季免費接駁巴士時刻表
-          url: https://www.yuzawakogen.com/wordpress/wp-content/uploads/2025/12/130023_4c_bus-web.pdf
+        - label: 官方交通資訊
+          url: https://www.yuzawakogen.com/winter/area_guide/
 terrainSummary:
   beginner: 五條初級雪道涵蓋長距離巡航、迂迴雪道、山麓緩坡與雪上電扶梯入門區。
   intermediate: Kisuge 是最寬闊的主要坡面，下段設有未壓雪區。
