@@ -75,6 +75,39 @@ tickets:
     - name: 【完美行 WAmazing】纜車1日券×3張（全天）
       url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15694
       deadline: "2026-12-14"
+    - name: 【完美行 WAmazing】兒童纜車1日券（全天）
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15695
+      deadline: "2027-02-27"
+    - name: 【完美行 WAmazing】纜車1日券（全天）
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15696
+      deadline: "2027-02-27"
+    - name: 【完美行 WAmazing】纜車2日券（全天）
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15697
+      deadline: "2027-02-27"
+    - name: 【完美行 WAmazing】纜車3日券（全天）
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F17100
+      deadline: "2027-02-27"
+    - name: 【完美行 WAmazing】纜車4日券（全天）
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F17101
+      deadline: "2027-02-27"
+    - name: 【完美行 WAmazing】纜車5日券（全天）
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F17102
+      deadline: "2027-02-27"
+    - name: 【完美行 WAmazing】【3月限定】纜車1日券（全天）
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F17103
+      deadline: "2027-03-27"
+    - name: 【完美行 WAmazing】【平日成人限定】雙板或單板滑雪租借・纜車1日券（全天）
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F17104
+      deadline: "2027-02-27"
+    - name: 【完美行 WAmazing】【平日成人限定】雙板或單板滑雪租借・纜車2日券（全天）
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F17105
+      deadline: "2027-03-27"
+    - name: 【完美行 WAmazing】【平日成人限定】雙板或單板滑雪租借・纜車3日券（全天）
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F17106
+      deadline: "2027-02-27"
+    - name: 【完美行 WAmazing】【3月平日成人限定】雙板或單板滑雪租借・纜車1日券（全天）
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F17107
+      deadline: "2027-03-25"
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0788tk.htm
       deadline: "2026-12-15"

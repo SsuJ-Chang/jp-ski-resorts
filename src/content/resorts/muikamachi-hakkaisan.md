@@ -48,6 +48,16 @@ tickets:
   currency: JPY
   source: https://www.princehotels.co.jp/ski/hakkaisan/winter/lift/
   note: 官方票價頁目前仍標示 2025-2026 雪季；以下金額依官方現行頁面整理，2026-2027 新季票價待官方更新後確認。小學生以下全日免費，但仍須在售票處領取專用票券；上午券為營業開始至 12:30，下午券為 12:00 至營業結束。
+  earlyBird:
+    - name: 【完美行 WAmazing】【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15083
+      deadline: "2026-12-10"
+    - name: 【完美行 WAmazing】纜車1日券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F17021
+      deadline: "2027-03-28"
+    - name: SURF&SNOW
+      url: https://surfsnow.jp/guide/htm/r0044tk.htm
+      deadline: "2026-12-17"
   plans:
     - name: 1 日券
       priceLines:
@@ -70,13 +80,6 @@ tickets:
     - name: 纜車單次券
       priceLines:
         - 成人：¥800
-  earlyBird:
-    - name: 【完美行 WAmazing】【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
-      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15083
-      deadline: "2026-12-10"
-    - name: SURF&SNOW
-      url: https://surfsnow.jp/guide/htm/r0044tk.htm
-      deadline: "2026-12-17"
 snowWeather:
   title: 六日町八海山雪況預報
   provider: Weathernews

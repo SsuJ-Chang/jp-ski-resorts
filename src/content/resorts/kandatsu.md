@@ -51,6 +51,9 @@ tickets:
   currency: JPY
   source: https://www.kandatsu.com/price/
   earlyBird:
+    - name: 【完美行 WAmazing】【早鳥優惠】纜車1日券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F16993
+      deadline: "2026-12-10"
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0083tk.htm
       deadline: "2026-12-10"

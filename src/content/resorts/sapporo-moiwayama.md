@@ -48,6 +48,46 @@ tickets:
   currency: JPY
   source: https://weathernews.jp/ski/spot/31406/
   note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
+  earlyBird:
+    - name: 【完美行 WAmazing】全套雙板滑雪套組・纜車5小時券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15103
+      deadline: "2027-03-11"
+    - name: 【完美行 WAmazing】雙板滑雪・滑雪服・纜車5小時券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15104
+      deadline: "2027-03-11"
+    - name: 【完美行 WAmazing】雙板滑雪・纜車5小時券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15105
+      deadline: "2027-03-11"
+    - name: 【完美行 WAmazing】【往返真駒內站・ 附來回接駁服務】纜車5小時券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15109
+      deadline: "2027-03-14"
+    - name: 【完美行 WAmazing】【往返真駒內站・ 附來回接駁服務】全套雙板滑雪套組・纜車5小時券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15110
+      deadline: "2027-03-11"
+    - name: 【完美行 WAmazing】【往返真駒內站・ 附來回接駁服務】雙板滑雪・滑雪服・纜車5小時券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15111
+      deadline: "2027-03-11"
+    - name: 【完美行 WAmazing】【往返真駒內站・ 附來回接駁服務】雙板滑雪・纜車5小時券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15112
+      deadline: "2027-03-11"
+    - name: 【完美行 WAmazing】纜車1日券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F16969
+      deadline: "2027-03-14"
+    - name: 【完美行 WAmazing】纜車5小時券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F16970
+      deadline: "2027-03-14"
+    - name: 【完美行 WAmazing】纜車3小時券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F16971
+      deadline: "2027-03-14"
+    - name: 【完美行 WAmazing】纜車20小時券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F16972
+      deadline: "2027-03-14"
+    - name: 【完美行 WAmazing】夜間纜車券（16時起）
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F16973
+      deadline: "2027-03-14"
+    - name: 【完美行 WAmazing】夜間纜車券（18時起）
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F16974
+      deadline: "2027-03-14"
   plans:
     - name: 1 日券
       priceLines:

@@ -57,6 +57,10 @@ tickets:
   currency: JPY
   source: https://www.yuzawakogen.com/winter/tickets/
   note: 全數為含稅價格。成人為國中生以上，兒童為小學生，銀髮為 65 歲以上；纜車乘車券可搭乘湯澤高原纜車，並可於營運期間進入玩雪公園。
+  earlyBird:
+    - name: 【完美行 WAmazing】【早鳥優惠】1日券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F17109
+      deadline: "2026-12-17"
   plans:
     - name: 初滑 / 春季 1 日券
       priceLines:

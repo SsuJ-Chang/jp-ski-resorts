@@ -63,6 +63,9 @@ tickets:
     - name: 【完美行 WAmazing】【限量 5,000 張｜最多 66 折特惠價】22 座滑雪場共通纜車 1 日券
       url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F15083
       deadline: "2026-12-10"
+    - name: 【完美行 WAmazing】【預售】纜車1日券
+      url: https://af-wamazing.catsys.jp/c5e3c193y273353e/cl/?bId=e1f9P296&bannerNum=LB&param3=https%3A%2F%2Ftw.wamazing.com%2Fsnow%2Fitems%2F16294
+      deadline: "2027-05-15"
     - name: SURF&SNOW
       url: https://surfsnow.jp/guide/htm/r0070tk.htm
       deadline: "2026-11-15"
