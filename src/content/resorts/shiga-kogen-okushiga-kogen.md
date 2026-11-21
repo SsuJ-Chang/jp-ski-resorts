@@ -39,7 +39,7 @@ contact:
   phone: 0269-34-2225
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/13-2026/5/3
+  operatingPeriod: 2025/12/13～2026/5/3
   hours: 平日 8:30-16:00；週末與國定假日 8:00-16:00
   note: 積雪量、天候與營運安排可能調整，請以官方公告為準。
   source: https://okushigakogenresort.com/winter/ski/

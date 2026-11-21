@@ -38,7 +38,7 @@ contact:
   phone: 0269-34-2241
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/6-2026/5/6，實際依各區積雪與纜車公告調整
+  operatingPeriod: 2025/12/6～2026/5/6，實際依各區積雪與纜車公告調整
   hours: 9:00-16:30
   source: https://shigakogen-ski.or.jp/winter/ticket/
 trailMaps:

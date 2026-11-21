@@ -33,7 +33,7 @@ contact:
   phone: 0265-44-2311
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/3/22
+  operatingPeriod: 2025/12/20～2026/3/22
   hours: 全日 8:30〜16:30
   note: 營業期間與時間會依積雪、天候及場內維護調整；實際開放雪道請以官方公告確認。
   source: https://mt-heavens.com/pages/winter

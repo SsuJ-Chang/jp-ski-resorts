@@ -41,7 +41,7 @@ contact:
   phone: 0279-96-1177
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/15-2026/04/05
+  operatingPeriod: 2025/12/15～2026/04/05
   hours: 平日：8:00〜16:00 （週三：サンライズゴンドラ 6:00〜） 假日：6:30〜16:00(週末及國定假日・年末年始) 夜滑：無
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://weathernews.jp/ski/spot/34213/

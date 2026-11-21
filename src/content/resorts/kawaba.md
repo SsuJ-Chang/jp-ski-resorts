@@ -36,7 +36,7 @@ contact:
   phone: 0278-52-3346
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/06-2026/04/19
+  operatingPeriod: 2025/12/06～2026/04/19
   hours: 旺季平日 8:30-16:00；週末／假日 8:00-16:00；初滑期間 8:30-16:00
   note: 纜車運行時間可能因天候、積雪與日落時間調整，特定日依官方公告為準。
   source: https://www.kawaba.co.jp/lift-prices/

@@ -39,7 +39,7 @@ contact:
   phone: 0261-75-2452
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/18-2027/3/22
+  operatingPeriod: 2026/12/18～2027/3/22
   hours: 日間纜車營業時段待官方公布
   nightSkiingHours: 2026/12/29-2027/2/28，17:30-21:30；週五、週六至 22:30
   note: 官方目前公布 2026-27 冬季預定營業期間；夜滑自 2026/12/29 起於 Carving Slope 開放，使用第 6 Pair Lift，實際營業可能受積雪、天候與整備影響。

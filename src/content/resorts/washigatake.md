@@ -38,7 +38,7 @@ contact:
   phone: 0575-72-5105
 season:
   label: 2026-2027
-  operatingPeriod: 2026/11/21-2027/3/28，實際依積雪與官方公告調整
+  operatingPeriod: 2026/11/21～2027/3/28，實際依積雪與官方公告調整
   hours: 全日 8:00-16:30
   nightSkiingHours: 夜滑 16:00-22:30；2 月每週六為全夜營業，6:00 至隔日 22:30
   source: https://ski.washigatake.jp/charge/#charge01

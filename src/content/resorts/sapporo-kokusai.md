@@ -43,7 +43,7 @@ contact:
   phone: 011-598-4511
 season:
   label: 2026-2027
-  operatingPeriod: 2026/11/20-2027/5/5
+  operatingPeriod: 2026/11/20～2027/5/5
   hours: 一般季：9:00〜17:00（12/31、1/1 營業至 15:00）；春滑季：9:00〜16:00
   note: 一般季為 2026/11/20〜2027/3/31，春滑季為 2027/4/1〜5/5；營業時間可能因雪況等因素調整。
   source: https://www.sapporo-kokusai.jp/tw/slopes/#time

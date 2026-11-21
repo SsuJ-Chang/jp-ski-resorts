@@ -34,7 +34,7 @@ contact:
   phone: 0265-48-2100
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/3/15
+  operatingPeriod: 2025/12/20～2026/3/15
   hours: 平日 8:30-16:00，週末與國定假日 8:00-16:30
   note: 2025-2026 雪季起每週三公休；年末年始、天候、積雪與場內整備可能調整營業內容，出發前請以官方公告為準。
   source: https://hiraya-kougen.com/winter/index.php

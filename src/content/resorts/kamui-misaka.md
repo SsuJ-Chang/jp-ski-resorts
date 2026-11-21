@@ -33,7 +33,7 @@ contact:
   phone: 055-264-2614
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/13-2026/3/29
+  operatingPeriod: 2025/12/13～2026/3/29
   hours: 9:00〜16:30
   note: 2025-2026 雪季營業期間依 公開資訊整理；實際開放日與營業時間請以官方公告為準。
   source: https://surfsnow.jp/guide/htm/r0325s.htm

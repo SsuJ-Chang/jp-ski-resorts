@@ -45,7 +45,7 @@ contact:
   phone: 050-1809-2606
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/1-2027/5/7
+  operatingPeriod: 2026/12/1～2027/5/7
   hours: 8:00-17:00
   nightSkiingHours: 無夜滑
   note: 官方雪道頁標示滑走可能日至 2027/5/7，實際開放雪道、纜車與春季營業會依積雪、天候及設備狀況調整；2026-2027 雪季取消夜滑。

@@ -42,7 +42,7 @@ contact:
   phone: 025-782-1028
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/12-2027/4/4（予定）
+  operatingPeriod: 2026/12/12～2027/4/4（予定）
   hours: 8:00-21:00（夜間17:00-21:00）
   note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
   source: https://jkokusai.co.jp/ski/lift/

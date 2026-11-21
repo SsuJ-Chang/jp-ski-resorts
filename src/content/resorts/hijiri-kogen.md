@@ -33,7 +33,7 @@ contact:
   phone: 0263-67-2133
 season:
   label: 2025-2026
-  operatingPeriod: 2026/1/12-2026/2/27
+  operatingPeriod: 2026/1/12～2026/2/27
   hours: 平日、週末及國定假日 8:40〜16:30
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
   source: https://www.vill.omi.nagano.jp/kanko/guide/enjoy/kanko66.html

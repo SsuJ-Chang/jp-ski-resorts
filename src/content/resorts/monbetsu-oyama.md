@@ -34,7 +34,7 @@ contact:
   phone: 0158-24-7099
 season:
   label: 2025-2026
-  operatingPeriod: 2026/01/上旬-2026/03/中旬
+  operatingPeriod: 2026/01/上旬～2026/03/中旬
   hours: 平日：9:00〜21:00(第1ロマンスリフト)、9:30〜日落(第2リフト) / 假日：9:00〜17:00(第1ロマンスリフト)、9:00〜日落(第2リフト)
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://weathernews.jp/ski/spot/31716/

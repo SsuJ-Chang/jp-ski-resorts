@@ -38,7 +38,7 @@ contact:
   phone: 0255-87-2503
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/19-2027/5/5
+  operatingPeriod: 2026/12/19～2027/5/5
   hours: 8:30-16:00（纜車依種類略有不同）
   note: 妙高高原 Skycable 8:30-15:45；3、5 號纜車自準備完成後至 15:45，其他主要纜車至 16:00。
   source: https://akr-ski.com/slope/

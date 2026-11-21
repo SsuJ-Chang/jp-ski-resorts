@@ -33,7 +33,7 @@ contact:
   phone: 0195-78-3456
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/03/22
+  operatingPeriod: 2025/12/20～2026/03/22
   hours: 8:40-16:00
   nightSkiingHours: 無
   note: 營業期間與時間為公開雪場資料；下倉與 Panorama 共通票券，實際開放雪道與營業範圍請以官方最新公告為準。

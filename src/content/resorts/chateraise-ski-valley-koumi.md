@@ -35,7 +35,7 @@ contact:
   phone: 0267-93-2537
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/15-2026/3/25
+  operatingPeriod: 2025/12/15～2026/3/25
   hours: 全日 8:30〜16:30
   note: 早朝營業指定日第 4 雙人纜車自 7:15 起運行；實際營運會依積雪、天候與場內維護調整，請以官方公告確認。
   source: https://koumi.chateraiseski.jp/fee/lift/

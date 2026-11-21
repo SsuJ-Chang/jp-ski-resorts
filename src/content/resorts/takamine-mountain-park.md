@@ -33,7 +33,7 @@ contact:
   phone: 0267-23-1714
 season:
   label: 2026-2027
-  operatingPeriod: 2026/11/21-2027/4/18
+  operatingPeriod: 2026/11/21～2027/4/18
   hours: 平日 8:30〜16:00；週末及國定假日 8:30〜16:00
   note: 官方公告的預定營業日期；各雪道開放日與實際營運會依積雪與天候調整，出發前請確認官方公告。
   source: https://asama2000.com/slope.html

@@ -34,7 +34,7 @@ contact:
   phone: 0266-68-2100
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/19-2027/3/31
+  operatingPeriod: 2026/12/19～2027/3/31
   hours: 8:30-16:30（最終搭乘）
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
   source: https://www.shirakabaresort.jp/snowpark/about/

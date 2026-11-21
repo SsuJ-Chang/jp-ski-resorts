@@ -43,7 +43,7 @@ contact:
   phone: 025-787-3301
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/3/29
+  operatingPeriod: 2025/12/20～2026/3/29
   hours: 8:30-16:30
   note: 營業期間、時間與開放範圍會受積雪與天候影響，請以官方公告為準。
   source: https://www.yuzawa-nakazato.com/winter/fee/

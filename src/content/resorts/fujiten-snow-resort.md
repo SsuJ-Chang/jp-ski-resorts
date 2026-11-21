@@ -35,7 +35,7 @@ contact:
   phone: 0555-85-2000
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/13-2026/4/1
+  operatingPeriod: 2025/12/13～2026/4/1
   hours: 平日 8:30-17:00；假日 8:30-17:00
   nightSkiingHours: 16:00-21:30（特定日期）
   note: 營業期間與夜間滑雪日期會受天候影響；平日、週末假日與特定日的營業時間不同，請以官方公告為準。

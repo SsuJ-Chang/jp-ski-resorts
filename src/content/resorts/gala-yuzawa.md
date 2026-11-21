@@ -49,7 +49,7 @@ contact:
   phone: 050-1807-3243
 season:
   label: 2026-2027
-  operatingPeriod: 觀光營業 2026/12/12-12/18，滑雪場營業 2026/12/19-2027/5/5；4/6 起為春季營業，僅中央區域開放
+  operatingPeriod: 觀光營業 2026/12/12～12/18，滑雪場營業 2026/12/19～2027/5/5；4/6 起為春季營業，僅中央區域開放
   hours: 票務櫃台 7:30-17:10；Ski Center 8:00-17:00；廂型纜車與 Barouche 8:30-16:30
   note: 2026-2027 雪季南區全面暫停營業；4/18-5/6 為觀光營業，雪道滑行於 4/17 結束。
   source: https://gala.co.jp/winter/hours-pricing/

@@ -37,7 +37,7 @@ contact:
   phone: 0238-28-2511
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/03/22
+  operatingPeriod: 2025/12/20～2026/03/22
   hours: 8:30-16:45
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://www.yonezawa-ski.co.jp/price.html#link01

@@ -36,7 +36,7 @@ contact:
   phone: 0264-48-2240
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/12-2027/4/4（預定）
+  operatingPeriod: 2026/12/12～2027/4/4（預定）
   hours: 卡拉松 Pair、第 5 Quad 8:30〜16:00；第 7 Quad 9:00〜15:45
   note: 營業期間、纜車運行與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
   source: https://ontakeskijo.com/season-pricing/

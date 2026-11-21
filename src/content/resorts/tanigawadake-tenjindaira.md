@@ -42,7 +42,7 @@ contact:
   phone: 0278-72-3575
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/19-2027/4/4
+  operatingPeriod: 2026/12/19～2027/4/4
   hours: 8:30-16:30（纜車至 16:00）
   note: 官方 Mt.T 頁列 2026/12/19-2027/4/4，實際開放與田尻沢コース會受積雪、雪崩風險與天候影響。
   source: https://tanigawadake-joch.com/mt-t/

@@ -35,7 +35,7 @@ contact:
   phone: 025-773-3311
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/24-2027/3/28
+  operatingPeriod: 2026/12/24～2027/3/28
   hours: 平日 8:30-16:00；假日 8:30-16:00
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
   source: https://www.muikamachi.com/ski/course.php

@@ -40,7 +40,7 @@ contact:
   phone: 0242-66-4111
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20 ~ 2026/03/22
+  operatingPeriod: 2025/12/20～2026/03/22
   hours: 8:30-16:30
   note: 票價頁目前標示為 2025-2026 季；纜車營業時間可能依天候與活動調整，Royal Christi 本季不提供夜間滑雪。
   source: https://www.listel-inawashiro.jp/snow_season/price.php#lift-tickets

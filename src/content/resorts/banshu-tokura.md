@@ -33,7 +33,7 @@ contact:
   phone: 0790-73-0324
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/30-2026/03/01
+  operatingPeriod: 2025/12/30～2026/03/01
   hours: 播州戶倉第 1 雙人纜車 8:30〜17:00 / 高丸三人纜車 8:30〜16:30 / 見晴雙人纜車 9:00〜16:00
   note: 2025-2026 營業期間摘要；實際開放日與營業時間請以官方公告為準。
   source: https://ooyaski.com/bantoku/price/

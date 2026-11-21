@@ -42,7 +42,7 @@ contact:
   phone: 0575-72-7000
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/6-2026/4/26，實際依積雪與官方公告調整
+  operatingPeriod: 2025/12/6～2026/4/26，實際依積雪與官方公告調整
   hours: 全日 8:00-16:30
   note: 官方 TAKASU MOUNTAINS 頁面列出 2025-2026 預定營業期間與基本資料。
   source: https://www.takasumountains.com/ski/

@@ -35,7 +35,7 @@ contact:
   phone: 0268-64-0400
 season:
   label: 2026-2027
-  operatingPeriod: 2026/11/21-2027/4/4
+  operatingPeriod: 2026/11/21～2027/4/4
   hours: 8:30〜16:30
   note: 營業期間與時間會依積雪、天候及場內維護調整，出發前請以官方公告確認。
   source: https://yunomaru.co.jp/2026/08/19/2026-2027%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3%e3%83%aa%e3%83%95%e3%83%88%e6%96%99%e9%87%91/

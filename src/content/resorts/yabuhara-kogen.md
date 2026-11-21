@@ -34,7 +34,7 @@ contact:
   phone: 0264-36-1622
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/19-2027/3/28
+  operatingPeriod: 2026/12/19～2027/3/28
   hours: 8:30〜16:30；12/31 前為 8:30〜16:00
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
   source: https://www.yabuhara-kogen.jp/charge/

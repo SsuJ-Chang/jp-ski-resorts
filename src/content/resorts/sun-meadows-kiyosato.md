@@ -33,7 +33,7 @@ contact:
   phone: 0551-48-4111
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/13-2026/4/5
+  operatingPeriod: 2025/12/13～2026/4/5
   hours: 中心館 8:00-17:00；纜車 8:30-16:30
   note: 營業期間與時間可能依積雪、天候與整備狀況調整，出發前請確認官方公告。
   source: https://www.sunmeadows.co.jp/winter/ticket/lift/#02

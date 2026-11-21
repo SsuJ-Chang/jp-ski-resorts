@@ -39,7 +39,7 @@ contact:
   phone: 0575-72-6311
 season:
   label: 2026-2027
-  operatingPeriod: 2026/11/28-2027/3/28
+  operatingPeriod: 2026/11/28～2027/3/28
   hours: 全日 8:00-16:00；早朝加價可 6:00 起滑
   source: https://whitepia.jp/liftticket/
 trailMaps:

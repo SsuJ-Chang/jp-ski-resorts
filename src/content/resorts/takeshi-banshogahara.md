@@ -33,7 +33,7 @@ contact:
   phone: 0268-86-2213
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/3/29
+  operatingPeriod: 2025/12/20～2026/3/29
   hours: 平日 8:30〜16:00；假日 8:30〜16:00
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
   source: https://www.ueda-rpc.or.jp/facility/banshogaharaski.html

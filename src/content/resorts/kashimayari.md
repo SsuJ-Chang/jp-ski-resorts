@@ -41,7 +41,7 @@ contact:
   phone: 0261-23-1231
 season:
   label: 2026-2027
-  operatingPeriod: 2026-12-12 至 2027-03-22
+  operatingPeriod: 2026-12-12～2027-03-22
   hours: 08:30-16:00
   note: 平日與週末假日的纜車運行時間均為 08:30-16:00；實際開放雪道與纜車仍依當日公告為準。
   source: https://www.kashimayari.net/snow/tickets/

@@ -36,7 +36,7 @@ contact:
   phone: 0265-73-8855
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/3/22
+  operatingPeriod: 2025/12/20～2026/3/22
   hours: 平日 9:00〜16:00；週末及國定假日 8:30〜17:00；夜滑依日程 17:00 或 18:00〜21:00；Long Night Ski 可至 23:00
   nightSkiingHours: 平日 18:00〜21:00；週末及國定假日 17:00〜21:00；Long Night Ski 日程 17:00〜23:00
   note: 營業期間參考長野伊那谷觀光局與公開資訊；實際營業日、夜滑日程與最終搭乘時間請以官方公告與夜滑 calendar 為準。

@@ -39,7 +39,7 @@ contact:
   phone: 0279-88-8111
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/18-2026/03/29
+  operatingPeriod: 2025/12/18～2026/03/29
   hours: 日間纜車 8:30-16:30；夜滑 16:30-20:00（指定日期）
   note: 夜滑於 2025/12/27-2026/3/21 的每週六及部分指定日期開放；纜車時間可能依天候與雪況調整。
   source: https://www.932-onsen.com/winter/ryokin/

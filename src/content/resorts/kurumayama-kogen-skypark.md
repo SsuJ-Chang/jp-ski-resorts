@@ -36,7 +36,7 @@ contact:
   phone: 0266-68-2626
 season:
   label: 2026-2027
-  operatingPeriod: 預定 2026/12/12-2027/3/31（雪季期間每日營運）
+  operatingPeriod: 預定 2026/12/12～2027/3/31（雪季期間每日營運）
   hours: 每日 8:30-16:30
   note: 營業日期與雪道開放狀況會受積雪、天候影響而調整，出發前請以官方公告確認。
   source: https://winter.kurumayama-skypark.com/archives/category/info

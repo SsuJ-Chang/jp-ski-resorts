@@ -40,7 +40,7 @@ contact:
   phone: 0242-67-1250
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/19 ~ 2027/03/22
+  operatingPeriod: 2026/12/19～2027/03/22
   hours: 8:30-16:00
   note: 週一公休；國定假日、年末年初期間除外。實際營業內容可能依積雪與天候調整。
   source: https://www.numajiri-ski.jp/price.html#price

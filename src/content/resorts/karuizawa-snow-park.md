@@ -34,7 +34,7 @@ contact:
   phone: 0279-84-1227
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/12-2027/03/31
+  operatingPeriod: 2026/12/12～2027/03/31
   hours: 平日：9:00〜16:20 假日：8:30〜16:30
   note: 目前官方交通頁公布的免費接駁巴士運行期間為 2026/12/12 ~ 2027/3/31；雪場實際營業日與開放設施請以當季公告為準。
   source: https://karuizawa-snowpark.com/access/

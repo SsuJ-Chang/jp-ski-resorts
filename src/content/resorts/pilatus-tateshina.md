@@ -33,7 +33,7 @@ contact:
   phone: 0266-67-2009
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/13-2026/4/5
+  operatingPeriod: 2025/12/13～2026/4/5
   hours: 9:00-16:00
   note: 營業期間、纜車與雪道開放時間會依日落、天候、積雪及場內維護調整，出發前請以官方公告確認。
   source: https://www.pilatus.jp/price/

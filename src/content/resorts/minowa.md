@@ -35,7 +35,7 @@ contact:
   phone: 0242-23-4188
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/03 ~ 2027/03/22（預定）
+  operatingPeriod: 2026/12/03～2027/03/22（預定）
   hours: 纜車運行時間未定
   note: B、C 兩條高速四人纜車的運行時間尚未公布；夜間滑雪不營運。售票中心與租借中心為 8:00-17:00，餐廳為 10:00-15:30。
   source: https://www.inawashiro-minowa.com/business/

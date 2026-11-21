@@ -40,7 +40,7 @@ contact:
   phone: 0261-82-2236
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/12-2027/3/29（官方預定）
+  operatingPeriod: 2026/12/12～2027/3/29（官方預定）
   hours: 日間 8:30-16:30；特定日夜滑 17:00-21:00
   note: 官方預定 2026/12/12 開季至 2027/3/29；夜滑期間為 12/26-1/2、1/10，以及 1 月與 2 月的週六，營業內容可能依天候與運行狀況調整。
   source: https://www.hgp.co.jp/cortina/ski/charge/

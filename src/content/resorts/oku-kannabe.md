@@ -37,7 +37,7 @@ contact:
   phone: 0796-45-0510
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/28-2026/03/15
+  operatingPeriod: 2025/12/28～2026/03/15
   hours: 依纜車及營運安排而異，官方頁面提供各設備當日運行資訊。
   note: 2025-2026 營業期間摘要；實際開放日與營業時間請以官方公告為準。
   source: https://okukan.com/price/

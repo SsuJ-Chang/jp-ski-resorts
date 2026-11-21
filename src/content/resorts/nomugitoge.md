@@ -34,7 +34,7 @@ contact:
   phone: 0263-79-2246
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/18-待官方公告
+  operatingPeriod: 2026/12/18～待官方公告
   hours: 平日 9:00〜16:00；週末及國定假日、年末年初 8:30〜16:00
   note: 官網已公告預定於 2026/12/18 開放；結束日期與實際營運依積雪、天候及場內維護調整，出發前請以官方公告確認。
   source: http://gakutoresort.jp/course/

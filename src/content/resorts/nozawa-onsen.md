@@ -52,7 +52,7 @@ contact:
   phone: 0269-85-3166
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/19-2027/3/28
+  operatingPeriod: 2026/12/19～2027/3/28
   hours: 8:30-16:30；春季部分期間 8:10-16:00
   nightSkiingHours: 17:00-20:00
   note: 2025-2026 冬季營業期間依官方票價頁與雪道狀態頁整理；每日開放雪道與纜車請以官網即時狀態為準。

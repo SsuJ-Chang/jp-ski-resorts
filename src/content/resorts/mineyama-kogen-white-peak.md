@@ -37,7 +37,7 @@ contact:
   phone: 0790-34-1900
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/27-2026/03/15
+  operatingPeriod: 2025/12/27～2026/03/15
   hours: 依票種及夜滑營業日而異，最早 8:00 開始，最晚營業至 21:00。
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://mineyama-kogen-resort.com/price/#navspwallet

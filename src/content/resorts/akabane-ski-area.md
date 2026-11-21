@@ -33,7 +33,7 @@ contact:
   phone: 0198-65-3343
 season:
   label: 2025-2026
-  operatingPeriod: 2026/01/14-2026/02/27
+  operatingPeriod: 2026/01/14～2026/02/27
   hours: 9:00-16:30
   nightSkiingHours: 17:00-20:45（平日）
   note: 營業期間與時間為公開雪場資料；夜滑與營業日可能依積雪狀況調整，請以官方最新公告為準。

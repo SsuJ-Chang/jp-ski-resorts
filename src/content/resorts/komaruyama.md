@@ -38,7 +38,7 @@ contact:
   phone: 0269-33-6621
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12 中旬-2026/3/29
+  operatingPeriod: 2025/12 中旬～2026/3/29
   hours: 8:00〜17:00
   nightSkiingHours: 17:00〜20:00（19:45 最終搭乘）
   note: 營業期間參考 tenki.jp；纜車營業時間與夜滑可能依日期、天候與場內狀況調整，出發前請以官方公告確認。

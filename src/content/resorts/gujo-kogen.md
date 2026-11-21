@@ -34,7 +34,7 @@ contact:
   phone: 0575-73-2206
 season:
   label: 2025-2026
-  operatingPeriod: 2026/1/5-2026/3/15，實際依官方公告調整
+  operatingPeriod: 2026/1/5～2026/3/15，實際依官方公告調整
   hours: 8:30-16:00
   note: 官方飯店英文首頁列出 2026 年營業期間；TAKASU MOUNTAINS 區域頁仍保留 2024-2025 摘要資訊。
   source: https://www.gujyokogen-hotel.com/en/

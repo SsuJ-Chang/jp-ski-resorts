@@ -40,7 +40,7 @@ contact:
   phone: 0136-22-0109
 season:
   label: 2026-2027
-  operatingPeriod: 2026/11/28-2027/5/5
+  operatingPeriod: 2026/11/28～2027/5/5
   hours: 日間營運依各纜車公告
   nightSkiingHours: 2026/12/12-2027/3/22，16:00-19:00
   note: .Base 售票處營運至 5/5；山麓各售票處與纜車的日期不同。

@@ -36,7 +36,7 @@ contact:
   phone: 0263-93-2645
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/12-2027/4/4
+  operatingPeriod: 2026/12/12～2027/4/4
   hours: 平日 8:45-16:30、假日 8:45-16:30
   note: 營業日、雪道與纜車運行會依積雪、天候及場內維護調整，請以官方公告為準。
   source: https://www.brnorikura.jp/news/90/

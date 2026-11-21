@@ -36,7 +36,7 @@ contact:
   phone: 0265-83-4000
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/28-2026/3/1
+  operatingPeriod: 2025/12/28～2026/3/1
   hours: 平日、週末及國定假日 8:30〜16:00
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
   source: https://komaganeski.com/price/

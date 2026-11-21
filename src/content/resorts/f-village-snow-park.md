@@ -31,7 +31,7 @@ contact:
     googleMaps: https://maps.app.goo.gl/7Pzsq6hm8BbU6BCB6
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/01-2026/02/末
+  operatingPeriod: 2025/12/01～2026/02/末
   hours: 10:00-16:00
   note: 2025-2026 雪季官方公告於 2/28 結束營業；各活動區會依積雪與現場狀況調整開放。
   source: https://shorefield.jp/fv-snowpark/

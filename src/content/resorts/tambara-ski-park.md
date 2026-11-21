@@ -38,7 +38,7 @@ contact:
   phone: 0278-23-9311
 season:
   label: 2025-2026
-  operatingPeriod: 2026/11/28-2027/05/05
+  operatingPeriod: 2026/11/28～2027/05/05
   hours: 初滑 11/28-12/11 8:30-15:30；旺季平日 12/12-4/4 8:30-16:00／特定日 8:00-16:00；春滑 4/5-4/25 8:00-15:30；GW 7:30-15:00
   note: 特定日包含週末、國定假日與年末年初；營業時間會依積雪與現場狀況調整。
   source: https://www.tambara.co.jp/winter/information/

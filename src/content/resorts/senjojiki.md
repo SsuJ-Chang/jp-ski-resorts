@@ -32,7 +32,7 @@ contact:
   phone: 0265-83-3107
 season:
   label: 2025-2026
-  operatingPeriod: 2026/4 中旬-2026/5 下旬
+  operatingPeriod: 2026/4 中旬～2026/5 下旬
   hours: 依駒岳 Ropeway 與路線巴士時刻表營運
   note: 官方標示千疊敷為標高 2,612m 的春季高山滑雪區，T-bar lift 是否設置仍在檢討中；營業、可滑範圍與 Ropeway 運行會受積雪、強風與天候大幅影響，出發前務必確認官方公告與運行狀態。
   source: https://www.chuo-alps.com/ski/

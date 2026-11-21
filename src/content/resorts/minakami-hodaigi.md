@@ -46,7 +46,7 @@ contact:
   phone: 0278-75-2557
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/13-2026/3/29
+  operatingPeriod: 2025/12/13～2026/3/29
   hours: 8:30-16:30
   note: 營業期間與時間依 2025-2026 公開資料整理；實際開放日、各纜車運行與雪道開放會受天候與積雪影響。
   source: https://hodaigi.jp/lift-price/

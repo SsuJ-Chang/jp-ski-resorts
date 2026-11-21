@@ -35,7 +35,7 @@ contact:
   phone: 0164-35-1011
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/03/01
+  operatingPeriod: 2025/12/20～2026/03/01
   hours: 平日：10:00〜21:00；週六、週日與國定假日：10:00〜16:00；2 月 12 日至 3 月 1 日平日：16:00〜21:00、週六日與國定假日：10:00〜16:00。12 月 31 日營業至 15:00，1 月 1 日與 1 月 2 日休業。
   note: 2025-2026 雪季已結束；營業日期與時間會依積雪、天候與活動調整，出發前請確認官方公告。
   source: https://www.town.numata.hokkaido.jp/section/kyouiku/ujj7s30000001mvv.html

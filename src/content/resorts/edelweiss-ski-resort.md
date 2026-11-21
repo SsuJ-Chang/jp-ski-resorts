@@ -36,7 +36,7 @@ contact:
   phone: 0288-78-0786
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/03/31
+  operatingPeriod: 2025/12/20～2026/03/31
   hours: 平日：8:30〜16:10 假日：8:30〜16:10
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://edelsnow.com/information/coursemap.php

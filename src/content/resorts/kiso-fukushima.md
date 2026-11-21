@@ -32,7 +32,7 @@ contact:
   phone: 0264-27-6021
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/19-2027/3/22
+  operatingPeriod: 2026/12/19～2027/3/22
   hours: 第 1、4 纜車 8:30-16:30；第 2 纜車 8:40-16:20；第 3 纜車 9:00-16:00
   note: 第 4 纜車除 1/4、1/11、1/12、2/22、3/22 外，每週一停駛；營業時間可能因天候調整。
   source: https://kisofukushima-ski.com/service/

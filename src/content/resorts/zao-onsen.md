@@ -42,7 +42,7 @@ contact:
   phone: 023-694-9617
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/12-2027/5/5
+  operatingPeriod: 2026/12/12～2027/5/5
   hours: 日間 8:30-17:00
   nightSkiingHours: 上之台雪道 17:00-21:00
   note: 2026/12/12 為預定開場日，實際滑行可否依積雪狀況調整；4/1 起為終盤季，最長營業至 2027/5/5。

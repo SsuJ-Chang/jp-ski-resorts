@@ -34,7 +34,7 @@ contact:
   phone: 0152-48-2550
 season:
   label: 2025-2026
-  operatingPeriod: 2026/01/16-2026/03/13
+  operatingPeriod: 2026/01/16～2026/03/13
   hours: 平日：10:00〜21:00 / 假日：9:00〜21:00(週六)/9:00〜17:00(週日) / 夜滑：17:00〜21:00
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://www.city.abashiri.hokkaido.jp/soshiki/28/1271.html

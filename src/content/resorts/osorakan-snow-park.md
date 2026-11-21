@@ -33,7 +33,7 @@ contact:
   phone: 0826-28-7007
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/27-2026/03/29
+  operatingPeriod: 2025/12/27～2026/03/29
   hours: 8:00-17:00
   source: https://osorakan.co.jp/winter/
 trailMaps:

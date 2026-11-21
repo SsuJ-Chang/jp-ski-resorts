@@ -43,7 +43,7 @@ contact:
   phone: 0136-46-3111
 season:
   label: 2026-2027
-  operatingPeriod: 2026/11/28-2027/3/31
+  operatingPeriod: 2026/11/28～2027/3/31
   hours: 平日：9:00〜20:00 ※季票始めと3/31は17:00止 假日：9:00〜20:00 ※季票始めと3/31は17:00止 夜滑：16:00〜20:00
   note: 營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。
   source: https://rusutsu.com/winter-lift-tickets/

@@ -38,7 +38,7 @@ trailMaps:
   url: https://www.sp-koide.org/wp-content/uploads/2025/11/4f98a265cba94aa85e7f596a5d0a2518.pdf
 season:
   label: 2025-2026
-  operatingPeriod: 2026/1/3-2026/3/8
+  operatingPeriod: 2026/1/3～2026/3/8
   hours: 平日 9:00-16:30；假日 9:00-17:00
   nightSkiingHours: 17:00-20:00（1-3 月每週六）
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。

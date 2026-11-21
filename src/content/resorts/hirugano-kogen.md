@@ -38,7 +38,7 @@ contact:
   phone: 0575-73-2311
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/26-2026/3/22，實際依積雪與官方公告調整
+  operatingPeriod: 2025/12/26～2026/3/22，實際依積雪與官方公告調整
   hours: 平日 8:30-16:30；週末、國定假日及年末年始 8:00-16:30
   source: https://www.hiruganokogen.com/price/
 trailMaps:

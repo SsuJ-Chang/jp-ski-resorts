@@ -33,7 +33,7 @@ contact:
   phone: 0267-55-6868
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/6-2026/4/10
+  operatingPeriod: 2025/12/6～2026/4/10
   hours: 12/13-3/29 為 8:30-16:30，初滑與春滑期間為 9:00-15:00
   note: 2025-2026 雪季已於 2026/4/10 結束；官方公告 2026-2027 雪季預定 2026 年 11 月中旬開放，確定日期與票價需待官方更新。
   source: https://whitebirch.co.jp/shirakaba2in1/

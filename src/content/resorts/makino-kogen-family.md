@@ -33,7 +33,7 @@ contact:
   phone: 0740-27-0936
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/28-2026/02/28
+  operatingPeriod: 2025/12/28～2026/02/28
   hours: 平日：8:00〜17:00 / 假日：8:00〜17:00
   note: 2025-2026 雪季已結束。
   source: https://makinokougen.co.jp/pages/275/

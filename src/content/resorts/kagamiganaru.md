@@ -36,7 +36,7 @@ contact:
   phone: 0859-75-2300
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/3/29
+  operatingPeriod: 2025/12/20～2026/3/29
   hours: 9:00-16:30
   note: 休暇村奥大山是住宿與設施名稱，實際雪場名稱為鏡ヶ成スキー場；本 entry 作為唯一公開的雪場資料。
   source: https://www.qkamura.or.jp/daisen/ski/

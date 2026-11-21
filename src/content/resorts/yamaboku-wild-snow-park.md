@@ -35,7 +35,7 @@ contact:
   phone: 026-274-5959
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/3/15
+  operatingPeriod: 2025/12/20～2026/3/15
   hours: 平日 9:00〜16:00；假日 8:30〜16:30；夜間 無
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
   source: https://weathernews.jp/ski/spot/34885/

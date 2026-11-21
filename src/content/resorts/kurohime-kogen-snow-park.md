@@ -36,7 +36,7 @@ contact:
   phone: 026-255-3171
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/27-2026/3/22
+  operatingPeriod: 2025/12/27～2026/3/22
   hours: 8:00〜17:00
   note: 官網目前公開的票價資訊為 2025-2026 雪季；下一雪季的營業日期與票價尚待官方公告。營業期間與時間會依積雪、天候與場內維護調整。
   source: https://kurohime-kogen.co.jp/winter/fee-guide/

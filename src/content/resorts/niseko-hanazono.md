@@ -41,7 +41,7 @@ contact:
   phone: 0136-23-0103
 season:
   label: 2026-2027
-  operatingPeriod: 2026/11/28-2027/4/11
+  operatingPeriod: 2026/11/28～2027/4/11
   hours: 日間營運依各纜車公告
   nightSkiingHours: 2026/12/12-2027/3/22，16:00-19:00
   note: HANAZONO 夜滑與各纜車營運依雪況調整。

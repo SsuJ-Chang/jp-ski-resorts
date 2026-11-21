@@ -38,7 +38,7 @@ contact:
   phone: 079-669-1576
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/27-2026/03/08
+  operatingPeriod: 2025/12/27～2026/03/08
   hours: 票券販售及租借：8:00〜17:00 / 1 號纜車（週末及假日）：9:00〜16:40 / 2、3 號纜車：8:30〜16:40
   note: 2025-2026 營業期間摘要；實際開放日、營業時間與夜滑日請以官方公告為準。
   source: https://ooyaski.com/ski/lift-tickets/

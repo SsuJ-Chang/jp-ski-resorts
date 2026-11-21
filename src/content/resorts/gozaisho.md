@@ -30,7 +30,7 @@ contact:
   phone: 059-392-2261
 season:
   label: 2025-2026
-  operatingPeriod: 2026/1/10-2026/3/15
+  operatingPeriod: 2026/1/10～2026/3/15
   hours: 纜車 9:00-16:00；滑雪纜車 9:30-15:30
   note: 無夜滑；雪場位於御在所岳山上，需另行搭乘纜車上山，營業時間可能依天候調整。
   source: https://weathernews.jp/ski/spot/35301/

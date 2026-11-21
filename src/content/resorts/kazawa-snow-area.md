@@ -34,7 +34,7 @@ contact:
   phone: 0279-98-0611
 season:
   label: 2026-2027
-  operatingPeriod: 2026/11/21-2027/04/07
+  operatingPeriod: 2026/11/21～2027/04/07
   hours: 平日：8:30〜16:00 / 假日：8:00〜16:00
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: http://www.kazawa.com/snow/eigyou.html

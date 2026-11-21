@@ -45,7 +45,7 @@ contact:
   phone: 0261-72-2474
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/19-2026/3/29
+  operatingPeriod: 2025/12/19～2026/3/29
   hours: 依每日纜車運行公告；官方票價頁未固定列出冬季纜車時段
   note: 官方票價頁目前仍標示 2025-2026 冬季營業期間為 2025/12/19-2026/3/29；課程與纜車狀態頁的時間會隨季節、雪況與天候調整，下一季票價尚未在該頁公布。
   source: https://iwatake-mountain-resort.com/winter/rates

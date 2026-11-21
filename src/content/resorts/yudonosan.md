@@ -35,7 +35,7 @@ contact:
   phone: 0235-54-6450
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/06-2026/03/31
+  operatingPeriod: 2025/12/06～2026/03/31
   hours: 8:45-16:00
   note: 營業時間會依日落時間及積雪狀況調整。
   source: https://yudonosan.com/price/

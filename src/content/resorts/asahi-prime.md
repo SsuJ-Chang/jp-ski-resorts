@@ -36,7 +36,7 @@ contact:
   phone: 0263-99-3700
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/3/8
+  operatingPeriod: 2025/12/20～2026/3/8
   hours: 9:00〜16:00
   note: 官網目前顯示的最新雪季為 2025-2026，已於 2026 年 3 月 8 日結束營運；下一雪季的日期與營業時間請以官方公告為準。
   source: https://asahivalley.jp/winter/

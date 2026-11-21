@@ -35,7 +35,7 @@ contact:
   phone: 0278-58-2161
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/24-2027/03/28
+  operatingPeriod: 2026/12/24～2027/03/28
   hours: 平日：8:30〜16:15（2 月以後至 16:30） / 假日：8:00〜16:15（2 月以後至 16:30）
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
   source: https://katashinakogen.co.jp/facility/

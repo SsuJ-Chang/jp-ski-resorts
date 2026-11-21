@@ -34,7 +34,7 @@ contact:
   phone: 0268-69-2232
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/13-2026/3/29
+  operatingPeriod: 2025/12/13～2026/3/29
   hours: 平日 8:30〜16:00；週末及國定假日 8:00〜16:30
   note: 各纜車的最終運轉時間不同，且營業日期與時間會依積雪、天候調整；出發前請以官方公告確認。
   source: https://blanche-ski.com/winter/today/

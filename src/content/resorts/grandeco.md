@@ -39,7 +39,7 @@ contact:
   phone: 0241-32-2530
 season:
   label: 2026-2027
-  operatingPeriod: 2026/11/21-2027/4/11
+  operatingPeriod: 2026/11/21～2027/4/11
   hours: 8:30-16:00
   note: 2026-2027 雪季分為 Pre-season（11/21-12/11）、On-season（12/12-3/22）與 Spring season（3/23-4/11），纜車運行時間可能依天候、降雪與日落時間調整。
   source: https://grandecoresort.co.jp/snow/course/

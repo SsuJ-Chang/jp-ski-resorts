@@ -34,7 +34,7 @@ contact:
     googleMaps: https://maps.app.goo.gl/2Lg8XhpSEu72orzEA
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/06-2026/04/05
+  operatingPeriod: 2025/12/06～2026/04/05
   hours: 日間 8:15-17:00；夜滑 17:00-20:00（週六與指定營業日可至 21:00）
   nightSkiingHours: 17:00-20:00（週六與指定營業日可至 21:00）
   note: 營業期間與時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。

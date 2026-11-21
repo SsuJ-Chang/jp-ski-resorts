@@ -42,7 +42,7 @@ contact:
   phone: 079-667-8036
 season:
   label: 2026-2027
-  operatingPeriod: 12 月下旬 ~ 4 月第一個星期日左右（預定）
+  operatingPeriod: 12 月下旬～4 月第一個星期日左右（預定）
   hours: 雪場纜車 8:30-16:50 / 週末及國定假日 8:00-16:50
   note: 各纜車運行時間可能不同，請參閱雪場資訊中的 HACHI 纜車資訊。
   source: https://www.hachi-hachikita.co.jp/hachi/

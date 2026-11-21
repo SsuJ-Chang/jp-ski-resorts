@@ -34,7 +34,7 @@ contact:
   phone: 0267-88-3866
 season:
   label: 2025-2026
-  operatingPeriod: 2025/11/30-2026/4/5
+  operatingPeriod: 2025/11/30～2026/4/5
   hours: 平日 8:45〜16:15；週末及國定假日 8:30〜16:30
   note: 營業期間、營業時間與開放雪道可能依積雪、天候與活動調整，出發前請以官方公告確認。
   source: https://surfsnow.jp/guide/htm/r0840s.htm

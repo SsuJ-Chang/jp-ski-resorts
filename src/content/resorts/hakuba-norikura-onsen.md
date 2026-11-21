@@ -40,7 +40,7 @@ contact:
   phone: 0261-82-2821
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/12-2027/4/4（3/22-4/4 僅若栗側營業）
+  operatingPeriod: 2026/12/12～2027/4/4（3/22～4/4 僅若栗側營業）
   hours: 8:00-16:30 左右，依纜車與當日運行公告調整
   note: 官方預定 2026/12/12 開季、2027/4/4 結束；若栗第 3 高速雙人纜車等部分纜車有不同時段，積雪與天候也可能影響開放。
   source: https://www.hakunori.com/ticket/

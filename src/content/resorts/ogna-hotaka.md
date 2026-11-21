@@ -36,7 +36,7 @@ contact:
   phone: 0278-58-2133
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/25-2026/3/22
+  operatingPeriod: 2025/12/25～2026/3/22
   hours: 平日 8:30-16:00；週末及國定假日 8:00-16:00
   note: 官方 2026/3/23 公告 2025-2026 雪季已於 2026/3/22 結束；營業期間與時間可能依天候、積雪與雪道狀況調整。
   source: https://k-hotaka.jp/ogna/

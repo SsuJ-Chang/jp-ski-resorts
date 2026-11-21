@@ -33,7 +33,7 @@ contact:
   phone: 0266-62-5666
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/4/5
+  operatingPeriod: 2025/12/20～2026/4/5
   hours: 平日 8:30-16:30、假日 8:00-16:30
   note: 營業期間與開放雪道會依積雪、天候與官方公告調整。
   source: https://weathernews.jp/ski/spot/34836/

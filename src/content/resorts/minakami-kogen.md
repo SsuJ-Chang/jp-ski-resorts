@@ -46,7 +46,7 @@ contact:
   phone: 0278-75-2222
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/19-2026/4/5
+  operatingPeriod: 2025/12/19～2026/4/5
   hours: 平日 8:30-16:30，週六、連休初日與中日 8:00-17:00，週日、假日與連休最終日 8:00-16:30
   note: 官方票價頁列 2025/12/19-2026/4/5 預定營業，一般 1 日券期間為 2025/12/27-2026/3/29，開場與 final week 有不同票價。
   source: https://www.minakami-ski.jp/price/

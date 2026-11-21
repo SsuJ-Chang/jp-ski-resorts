@@ -36,7 +36,7 @@ contact:
   phone: 0269-82-3434
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/13-2026/4/5
+  operatingPeriod: 2025/12/13～2026/4/5
   hours: 8:00-16:30
   note: 營業期間、纜車與雪道開放時間會依積雪、天候與場內維護調整，出發前請以官方公告確認。
   source: https://kijimadaira-ski.com/charge/

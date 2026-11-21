@@ -39,7 +39,7 @@ contact:
   phone: 050-3662-8715
 season:
   label: 2026-2027
-  operatingPeriod: 2026-2027 2026/12/20-
+  operatingPeriod: 2026-2027 2026/12/20～
   hours: 平日：9:00〜16:00 假日：9:00〜16:00 夜滑：16:00〜21:00
   note: 2026-2027 營業日期尚待官方確認；目前公布的營業時間為 2025-2026 雪季資料，實際營運受積雪與天候影響。
   source: https://sapporo-moiwa.jp/skiareainformation/

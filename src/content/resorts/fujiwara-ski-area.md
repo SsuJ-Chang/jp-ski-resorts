@@ -38,7 +38,7 @@ contact:
   phone: 0278-75-2321
 season:
   label: 2025-2026
-  operatingPeriod: 2025/12/20-2026/03/30
+  operatingPeriod: 2025/12/20～2026/03/30
   hours: 8:30-16:45
   note: 官方票價頁標示無夜滑；營業期間沿用 2025-2026 公開資料，實際開放日與營業時間請以官方最新公告為準。
   source: https://fujiwaraski.com/charge/

@@ -33,7 +33,7 @@ contact:
   phone: 078-891-0366
 season:
   label: 2026-2027
-  operatingPeriod: 2026/12/05-2027/03/07
+  operatingPeriod: 2026/12/05～2027/03/07
   hours: 通常營業日：9:00 ~ 17:00；週末與假日：9:00 ~ 20:00；部分日期提前開門：8:00 ~ 20:00；無夜間營業日：9:00 ~ 17:00
   note: 2026/12/05 因夜間包場活動僅營業至 17:00；Snow Land 使用時間為 9:00 ~ 17:00，實際營業日與時段請以官方營業行事曆為準。
   source: https://www.rokkosan.com/ski/information/?yr=2026&month=8
