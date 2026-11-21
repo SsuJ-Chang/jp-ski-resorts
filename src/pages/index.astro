@@ -22,7 +22,7 @@ const skiAreas = await getPublishedSkiAreas()
 const resortCount = resorts.length
 const homeQuickTags: Array<{
   tag: ResortTag
-  tone: 'learn' | 'trip' | 'powder'
+  tone: 'learn' | 'trip' | 'powder' | 'early_bird'
 }> = [
   {
     tag: 'beginner_friendly',
@@ -35,6 +35,10 @@ const homeQuickTags: Array<{
   {
     tag: 'powder',
     tone: 'powder',
+  },
+  {
+    tag: 'early_bird',
+    tone: 'early_bird',
   },
 ]
 const regionExampleLimit = 2

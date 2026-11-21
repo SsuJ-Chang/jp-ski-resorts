@@ -833,6 +833,12 @@ h1 {
   --chip-shadow: rgba(65, 142, 181, 0.12);
 }
 
+.home-quick-tag--early_bird {
+  --chip-bg: rgba(255, 231, 238, 0.86);
+  --chip-border-hover: rgba(181, 74, 112, 0.32);
+  --chip-shadow: rgba(190, 92, 125, 0.12);
+}
+
 .home-quick-tag:hover,
 .home-quick-tag:focus-visible {
   background: rgba(255, 255, 255, 0.92);
