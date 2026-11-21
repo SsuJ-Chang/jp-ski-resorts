@@ -134,10 +134,38 @@ snowWeather:
   title: 白馬八方尾根雪況天氣
   provider: Weathernews
   url: https://weathernews.jp/ski/spot/34810/
-  snowDepth: 0 cm
-  updatedAt: 2026/4/30 09:00:00
-  forecast: []
-  note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
+  snowDepth: 190 cm
+  updatedAt: 2026/11/21
+  forecast:
+    - date: 11/21(土)
+      weather: 雪
+      low: -2°C
+      high: 1°C
+    - date: 11/22(日)
+      weather: 雪 / 陰
+      low: -5°C
+      high: 1°C
+    - date: 11/23(月)
+      weather: 晴 / 陰
+      low: -7°C
+      high: 6°C
+    - date: 11/24(火)
+      weather: 雪
+      low: -3°C
+      high: 5°C
+    - date: 11/25(水)
+      weather: 陰 / 雪
+      low: -5°C
+      high: 4°C
+    - date: 11/26(木)
+      weather: 晴 / 陰
+      low: -6°C
+      high: 9°C
+    - date: 11/27(金)
+      weather: 晴 / 陰
+      low: -3°C
+      high: 10°C
+  note: 積雪量為 11/21 查詢紀錄，來源未提供觀測時間；天氣預報資料標示於 11/11 更新，可能過時，請以最新資訊為準。
 courses:
   total: 16
   beginnerRatio: 30
