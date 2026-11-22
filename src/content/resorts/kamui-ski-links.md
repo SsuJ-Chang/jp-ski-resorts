@@ -40,11 +40,11 @@ contact:
     googleMaps: https://maps.app.goo.gl/Z3VDSpSDGPcohXWe6
   phone: 0166-72-2311
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/13～2026/3/31
-  hours: 全日 9:00-17:00
+  label: 2026-2027
+  operatingPeriod: 2026/12/11～2027/4/11
+  hours: 全日 9:00～17:00（前一雪季資料，待確認）
   nightSkiingHours: 無夜滑
-  note: 官方首頁公告 2025-2026 雪季營業預定期間與營業時間、實際營業狀況請以官方本日營業內容為準。
+  note: 2026-2027 營業日期待官方確認；目前官方頁面仍顯示前一雪季的營業期間與時間。
   source: https://www.kamui-skilinks.com/
 trailMaps:
 - label: 神居滑雪場雪場圖
@@ -52,10 +52,10 @@ trailMaps:
   url: https://www.kamui-skilinks.com/pdf_data/coursemap2024.pdf
   sourceLabel: Kamui Ski Links Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
   source: https://www.kamui-skilinks.com/guide/
-  note: 官方票價頁說明自動 IC gate 另收 IC 卡押金 ¥500，退卡時退還、價格皆含稅。
+  note: 另收 IC 卡押金 ¥500，退卡時退還；長者為 65 歲以上，小學生票適用 12 歲以下或小學生。未就學兒童免費，仍需支付卡片押金。
   plans:
     - name: 1 日券
       priceLines:
@@ -73,13 +73,19 @@ tickets:
         - 成人：¥4,300
         - 長者：¥3,800
         - 小學生：¥1,400
-      note: 搭乘 箱型纜車 單次使用 3 點。
+      note: 搭乘廂型纜車單次使用 3 點。
     - name: 20 小時券
       priceLines:
         - 成人：¥20,000
         - 長者：¥18,000
         - 小學生：¥7,200
       note: 雪季內以 1 小時為單位使用，不能多人分用。
+    - name: 追加 5 小時券
+      priceLines:
+        - 成人：¥5,000
+        - 長者：¥4,500
+        - 小學生：¥1,800
+      note: 僅限 20 小時券持有人於同一雪季追加購買。
 snowWeather:
   title: 神居雪況天氣
   provider: Weathernews
@@ -170,7 +176,7 @@ courses:
     difficulty: intermediate
     length: 1,100m
     maxSlope: 26°
-    note: 連接山頂、第 5 pair 纜車 與 箱型纜車 方向的壓雪路線、官方提醒注意第 5 pair 纜車 結束時間。
+    note: 連接山頂、第 5 雙人纜椅與廂型纜車方向的壓雪路線，需留意第 5 雙人纜椅的結束時間。
   - name: スラロームバーン / Slalom
     difficulty: intermediate
     length: 1,100m
@@ -244,10 +250,10 @@ access:
   - label: 旭川機場出發
     steps:
     - 旭川機場出發
-    - 可搭預約制機場接駁車至神居滑雪場
+    - 可確認當季是否提供預約制機場接駁車至神居滑雪場
     estimatedTime: 約 60 分鐘
     difficulty: easy
-    note: 官方公告 2025/12/20-2026/3/31 營業期間每日運行，但需於前一日 17:00 前預約。
+    note: 官網目前列出 2025-2026 雪季機場接駁資料，需於前一日 17:00 前預約並以信用卡預付；2026-2027 班次與條件待確認。
     links:
     - label: 官方交通資訊
       url: https://www.kamui-skilinks.com/accsess/
@@ -257,6 +263,7 @@ access:
     - 搭乘道北巴士快速 Santa Links 線至終點神居滑雪場
     estimatedTime: 約 40 分鐘
     difficulty: easy
+    note: 官方時刻表目前為 2025-2026 雪季資料，新雪季路線與班次待確認。
     links:
     - label: 官方交通資訊
       url: https://www.kamui-skilinks.com/accsess/
@@ -335,4 +342,4 @@ externalContent:
     note: 大林滑雪男子
 ---
 
-神居位於北海道，是大型雪場，共有 26 條雪道，搭配 6 座纜車。代表路線包含 ちびっこ、レッスン，初級、中級與上級路線都有配置，標籤偏向初學者練習、親子同行。
+神居位於北海道旭川近郊，擁有寬廣的壓雪坡面、國際滑雪總會認證賽道與林間粉雪區。全場 26 條雪道涵蓋初學者緩坡到上級未壓雪路線，並有從山頂延伸至山麓、長約 4,000 公尺的初級路線。Gold 主線坡面寬闊，適合不同程度的滑雪者安排練習與長距離滑行。

@@ -21,12 +21,13 @@ tags:
 - powder
 - snowboard_friendly
 links:
-  official: https://www.town.pippu.hokkaido.jp/ski/top.html
+  official: https://pippu.ski/
   facebook: https://www.facebook.com/pippuski
+  instagram: https://www.instagram.com/pippuski/
   xTwitter: https://twitter.com/pippuski
-  trailMapPage: https://www.town.pippu.hokkaido.jp/ski/course.html
-  ticket: https://www.town.pippu.hokkaido.jp/ski/lift.html
-  access: https://www.town.pippu.hokkaido.jp/ski/access.html
+  trailMapPage: https://pippu.ski/course/
+  ticket: https://pippu.ski/lift/
+  access: https://pippu.ski/access/
   googleMaps: https://maps.app.goo.gl/zwSgteTKwX1pZBSe8
 contact:
   address:
@@ -36,25 +37,34 @@ contact:
     googleMaps: https://maps.app.goo.gl/zwSgteTKwX1pZBSe8
   phone: 0166-85-3056
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/13～2026/3/22
-  hours: 9:00-16:00
-  nightSkiingHours: 16:00-20:30
-  note: 夜滑營業至 2 月底、12/31 營業至 16:00，1/1 自 10:00 開始。
-  source: https://www.town.pippu.hokkaido.jp/ski/lift.html
-trailMaps: []
+  label: 2026-2027
+  operatingPeriod: 2026-2027 雪季營業期間待確認
+  hours: 第 2 纜椅 9:00～16:00；第 6 纜椅至 15:45，繩索纜車至 15:30。
+  nightSkiingHours: 16:00～20:30
+  note: 夜滑及繩索纜車營業至 2 月底；3/22 為季票有效期限，雪場結束日期待確認。
+  source: https://pippu.ski/lift/
+trailMaps:
+  - label: 比布雪道圖
+    language: 日本語
+    season: 2024-2025
+    url: https://pippu.ski/wp/wp-content/uploads/2026/05/pippu_panfu2024-scaled.jpg
+    sourceLabel: Pippu Ski Resort
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
-  source: https://www.town.pippu.hokkaido.jp/ski/lift.html
-  note: 主要票種摘要，完整規則請以官方頁面為準。
+  source: https://pippu.ski/lift/
+  note: 一般票價成人為國中生至 64 歲，兒童為小學生以下，長者為 65 歲以上；1 日券及夜滑券附遊湯比布入浴券。
   plans:
     - name: 1 日券（附入浴券）
       priceLines:
         - 成人：¥3,800
         - 兒童：¥2,800
         - 長者：¥2,800
-      note: 9:00-16:00。
+      note: 9:00～16:00。
+    - name: 家庭 1 日券
+      priceLines:
+        - 成人 1 名及兒童 1 名：¥4,500
+      note: 兒童票不含入浴券，適用 9:00～16:00。
     - name: 4 小時券
       priceLines:
         - 成人：¥3,000
@@ -67,7 +77,7 @@ tickets:
       priceLines:
         - 成人：¥1,200
         - 兒童：¥1,000
-      note: 16:00-20:30。
+      note: 16:00～20:30，營業至 2 月底。
 snowWeather:
   title: 比布雪況天氣
   provider: Weathernews
@@ -84,60 +94,60 @@ courses:
   courseInfoPage: https://pippu.ski/course/
   summary: 比布滑雪場位於道北，擁有 9 條雪道，從初學者到進階滑雪者都可利用、可眺望上川盆地與大雪山連峰。
   details:
-  - name: 草莓雪道 ストロベリーコース
+  - name: 草莓雪道 / ストロベリーコース
     difficulty: beginner
     length: 2,200m
     maxSlope: 20°
     averageSlope: 10°
-    note: 全場最長巡航雪道，沿途能飽覽上川盆地絕景。前半段平緩，後半段帶點微幅坡度，兩側富有天然雪牆地形（Bank），對單板 Regular 玩家來說是切牆盪來盪去的滑行天堂，非常適合新手與各層級玩家享受長途巡航。
-  - name: 家庭雪道 ファミリーコース
+    note: 可眺望比布町與上川盆地的長距離雪道，起點平緩，末段坡度較大。
+  - name: 家庭雪道 / ファミリーコース
     difficulty: beginner
     length: 2,000m
     maxSlope: 20°
     averageSlope: 13°
-    note: 位於雪場右側、寬敞且極其和緩的超長巡航路線。非常適合初學者與親子家庭攜手共滑，能一邊欣賞大雪山連峰美景，一邊毫無壓力地在超長距離中安心練習 S 轉彎基本功。
-  - name: 河童雪道 カッパコース
+    note: 位於雪場右側的長距離緩坡，適合初學者與家庭滑行。
+  - name: 河童雪道 / カッパコース
     difficulty: beginner
     length: 600m
     maxSlope: 16°
     averageSlope: 10°
-    note: 位於雪場正下方的寬闊緩坡，是小朋友與入門新手的熱門練習大本營。本雪道同時開放夜間滑雪（夜滑），夜間燈光照明良好、視野開闊，是晚上續排練功最安心的首選。
-  - name: 銀色雪道 シルバーコース
+    note: 適合兒童與初學者的雪道，提供夜滑。
+  - name: 初學者雪道 / ビギナーコース
+    difficulty: beginner
+    length: 400m
+    maxSlope: 8°
+    averageSlope: 8°
+    note: 初學者及家庭可使用的雪道，設有雪地公園。
+  - name: 銀色雪道 / シルバーコース
     difficulty: intermediate
-    length: 800m
-    maxSlope: 22°
+    length: 700m
+    maxSlope: 25°
     averageSlope: 14°
-    note: 初級想進階中級的安心練習區。坡度循序漸進，能讓玩家在無壓力的狀態下適應地形與不平整雪況。本雪道為雪場唯二開放夜間滑雪的路線，適合晚上想要挑戰帶有坡度、練動作的中級玩家。
-  - name: 鑽石雪道 ダイヤモンドコース
+    note: 適合初學者及中級者練習的雪道，官方標示不可夜滑。
+  - name: 鑽石雪道 / ダイヤモンドコース
     difficulty: intermediate
     length: 1,500m
     maxSlope: 20°
     averageSlope: 16°
-    note: 坡度適中且穩定，被官方譽為能讓滑雪狂熱者身心愉悅的雪道。位置緊鄰第 3 纜車下方，兩側經常保有未壓過的鬆雪，非常適合拿來練習在「壓雪與粉雪」之間來回切換噴雪的滑法。
-  - name: 活力雪道 ダイナミックコース
+    note: 平均斜度 16° 的中級雪道。
+  - name: 活力雪道 / ダイナミックコース
     difficulty: intermediate
     length: 1,800m
     maxSlope: 25°
     averageSlope: 16°
-    note: 寬幅極大的開放式滑道（Open Barn），地形起伏豐富。清晨壓雪後像精緻的壓雪麵條，寬敞到會讓人失去速度感，提供極佳的視野與空間，非常適合中上級玩家在此飆速、大腳 carving。
-  - name: 黃金雪道 ゴールデンコース
+    note: 上段為地形多變的急斜面，可體驗競技滑行。
+  - name: 黃金雪道 / ゴールデンコース
     difficulty: advanced
     length: 1,200m
-    maxSlope: 33°
+    maxSlope: 30°
     averageSlope: 20°
-    note: 從山頂直衝而下的急斜面雪道，由高處往下看極具視覺震撼。雪道上佈滿了狂野且不規則的天然雪丘（Moguls 饅頭地形），非常考驗連續轉彎的技術以及玩家過人的腳力。
-  - name: 深雪・行家雪道 深雪・ベテランコース
-    difficulty: ungroomed
+    note: 含饅頭地形的上級急斜面，部分區域不可夜滑。
+  - name: 深雪・行家雪道 / 深雪・ベテランコース
+    difficulty: advanced
     length: 1,300m
     maxSlope: 36°
     averageSlope: 20°
-    note: 全場最陡、地形起伏與落差最大的強悍高難度黑道。屬於未整地雪道，在大雪過後的粉雪日（粉雪 Day），這裡會瞬間變成當地極限專家與粉雪愛好者第一時間衝上去搶衝 First Track 的深雪天堂。
-  - name: 初學者雪道 ビギナーコース
-    difficulty: mixed
-    length: 400m
-    maxSlope: 8°
-    averageSlope: 8°
-    note: 全場最平緩的極緩坡雪道，完全不會有速度失控的恐懼感，極度適合零經驗新手第一趟練習。此外，雪場的單雙板特技公園（Snow Park）也設置於此區域，供玩家嘗試小跳台或道具。
+    note: 有饅頭地形、落差與深雪的上級雪道。
 lifts:
   total: 3
 access:
@@ -188,4 +198,4 @@ externalContent:
     note: 犬と暮らす旅人 / Love Nomad Life
 ---
 
-比布位於北海道，是中小型雪場，共有9 條雪道，搭配 3 座纜車。代表路線包含 草莓雪道 ストロベリーコース、家庭雪道 ファミリーコース、河童雪道 カッパコース，初級、中級與上級路線都有配置；標籤上偏向初學者練習、親子同行。
+比布滑雪場位於北海道比布町的北嶺山，從山頂可眺望大雪山連峰與上川盆地。全場有 9 條雪道，包含適合初學者與家庭的長距離緩坡、中級競技坡面，以及帶有饅頭地形和深雪的上級路線。河童雪道提供夜滑，草莓雪道全長約 2,200 公尺，可沿途欣賞盆地景色。

@@ -23,14 +23,15 @@ visibility:
   status: published
   note: 北海道人氣排行榜前 20 名雪場；資料以公開雪場資料與官方網站整理。
 links:
-  official: http://www.snowtomamu.jp
+  official: https://www.snowtomamu.jp/winter/ski/
   facebook: https://www.facebook.com/tomamu.hokkaido
   instagram: https://www.instagram.com/hoshinoresorts.tomamu/
   xTwitter: https://twitter.com/snowtomamu
   googleMaps: https://maps.app.goo.gl/TXwYdNH7iwwSB1pq7
   weather: https://weathernews.jp/ski/spot/31201/
-  ticket: https://weathernews.jp/ski/spot/31201/
-  access: https://weathernews.jp/ski/spot/31201/
+  ticket: https://www.snowtomamu.jp/winter/ski/ticket/
+  access: https://www.snowtomamu.jp/winter/access/
+  trailMapPage: https://www.snowtomamu.jp/winter/ski/ski-slope/
 contact:
   address:
     zhTw: 〒079-2204 北海道勇払郡占冠村字中トマム
@@ -39,33 +40,49 @@ contact:
     googleMaps: https://maps.app.goo.gl/TXwYdNH7iwwSB1pq7
   phone: 0167-58-1111
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/1～2026/4/5
-  hours: 平日：8:45〜15:30（2024年12月26日〜2025年3月31日期間限定 8:45〜） 假日：8:45〜15:30（2024年12月26日〜2025年3月31日期間限定 8:45〜） 夜滑：15:30〜18:00（2024年12月26日〜2025年3月31日）
-  note: 營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。
-  source: https://weathernews.jp/ski/spot/31201/
-  nightSkiingHours: 15:30〜18:00（2024年12月26日〜2025年3月31日）
+  label: 2026-2027
+  operatingPeriod: 2026/12/1～2027/4/5
+  hours: 纜車約 8:45～16:30；各設施時間與營業日期不同。
+  note: 4/1～4/5 僅部分纜車營運；營運狀況會受積雪與天候影響。
+  source: https://www.snowtomamu.jp/winter/ski/ski-slope/
+  nightSkiingHours: 15:00～18:00（2026/12/26～2027/3/31）
+trailMaps:
+- label:  星野渡假村 Tomamu 雪道圖
+  language: 日文
+  season: 2026-2027
+  url: https://www.snowtomamu.jp/assets/ski/pdf/areamap/map2627-jp-02.pdf
+  sourceLabel: Hoshino Resorts TOMAMU Ski Area Official
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
-  source: https://weathernews.jp/ski/spot/31201/
-  note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
+  source: https://www.snowtomamu.jp/winter/ski/ticket/
+  note: 窗口成人為 12～59 歲，兒童為 7～11 歲，長者為 60 歲以上；6 歲以下免費，須攜同兒童至票務櫃台辦理。網路票成人適用 12 歲以上。
   plans:
     - name: 1 日券
       priceLines:
-        - 成人：¥8,000
-        - 兒童：¥6,000
-        - 長者：¥7,500
+        - 網路：成人 ¥9,200、兒童 ¥7,200
+        - 窗口：成人 ¥9,500、兒童 ¥7,500、長者 ¥9,000
     - name: 4 小時券
       priceLines:
-        - 成人：¥7,000
-        - 兒童：¥5,500
-        - 長者：¥6,500
-    - name: Tomatomo 1 日券
+        - 網路：成人 ¥7,200、兒童 ¥5,400
+        - 窗口：成人 ¥7,500、兒童 ¥5,700、長者 ¥7,000
+      note: 自通過閘門起連續 4 小時有效。
+    - name: 初滑 / 春季 1 日券
       priceLines:
         - 成人：¥5,000
         - 兒童：¥2,500
+      note: 適用 2026/12/1～12/20 或 2027/3/29～4/5。
+    - name: 北海道居民 Tomatomo 1 日券
+      priceLines:
+        - 首次購買：成人 ¥5,000、兒童 ¥2,500
+        - 再次購買：成人 ¥4,500、兒童 ¥2,300
+      note: 首次需至窗口出示居住證明並購買 IC 卡；再次購買價格為線上票價。
+    - name: 午後 15 點券
+      priceLines:
+        - 成人：¥5,500
+        - 兒童：¥4,000
         - 長者：¥5,000
+      note: 窗口販售，適用 2026/12/26～2027/3/31 的 15:00～18:00。
 snowWeather:
   title: 星野渡假村 Tomamu雪況天氣
   provider: Weathernews
@@ -76,111 +93,141 @@ snowWeather:
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
   total: 29
-  beginnerRatio: 30
-  intermediateRatio: 40
-  advancedRatio: 30
-  courseInfoPage: https://weathernews.jp/ski/spot/31201/
-  summary: 星野渡假村 Tomamu滑雪場：共有 29 條雪道、6 座纜車，難度比例為初級 30%、中級 40%、上級 30%。
+  beginnerRatio: 38
+  intermediateRatio: 48
+  advancedRatio: 14
+  courseInfoPage: https://www.snowtomamu.jp/winter/ski/ski-slope/
+  summary: 全場 29 條雪道包括 1 條初心、10 條初級、14 條中級及 4 條上級雪道，最長滑行距離約 4,200m。
   details:
   - name: プラチナベル
     difficulty: beginner
     length: 650m
+    maxSlope: 16°
     averageSlope: 4°
   - name: シルバーベル
     difficulty: beginner
     length: 3,300m
+    maxSlope: 10°
     averageSlope: 4°
   - name: クネクネフォレスト
     difficulty: beginner
     length: 1,400m
+    maxSlope: 13°
     averageSlope: 8°
-  - name: ビギナースチョイス
+  - name: ビギナーズチョイス
     difficulty: beginner
     length: 900m
+    maxSlope: 7°
     averageSlope: 5°
+  - name: 森の迷路
+    difficulty: beginner
+    length: 250m
+    maxSlope: 9°
+    averageSlope: 4°
   - name: ロードトゥゴンドラ
     difficulty: beginner
     length: 520m
+    maxSlope: 10°
     averageSlope: 8°
   - name: サンシャイン
     difficulty: beginner
     length: 1,600m
-    averageSlope: 13°
-  - name: ハローニポ
+    maxSlope: 13°
+    note: 官方標示最大斜度 13°、平均斜度 17°，兩者有矛盾，平均斜度待確認。
+  - name: ハローニポコース
     difficulty: beginner
     length: 710m
+    maxSlope: 9°
     averageSlope: 7°
-  - name: 森の迷路
-    difficulty: beginner
-    length: 250m
-    averageSlope: 4°
   - name: ホタルストリート
     difficulty: beginner
     length: 250m
+    maxSlope: 12°
     averageSlope: 7°
   - name: フェアリーウッズ
     difficulty: beginner
     length: 710m
+    maxSlope: 15°
     averageSlope: 9°
   - name: パインロード
     difficulty: beginner
     length: 220m
+    maxSlope: 9°
     averageSlope: 6°
   - name: ドラゴンリッジ
     difficulty: intermediate
     length: 840m
+    maxSlope: 32°
     averageSlope: 20°
   - name: ショートストーリー
     difficulty: intermediate
     length: 150m
+    maxSlope: 20°
     averageSlope: 15°
   - name: シルキーウェイ
     difficulty: intermediate
     length: 510m
+    maxSlope: 28°
+    averageSlope: 15°
+  - name: ナチュラルテレイン
+    difficulty: intermediate
+    length: 480m
+    maxSlope: 21°
     averageSlope: 15°
   - name: パノラマリッジ
     difficulty: intermediate
     length: 790m
+    maxSlope: 18°
     averageSlope: 10°
   - name: アスペンバーン
     difficulty: intermediate
     length: 370m
+    maxSlope: 25°
     averageSlope: 15°
-  - name: ナスターコース
+  - name: ナスタ−コース
     difficulty: intermediate
     length: 850m
+    maxSlope: 25°
     averageSlope: 12°
   - name: エキシビジョン
     difficulty: intermediate
     length: 1,500m
+    maxSlope: 28°
     averageSlope: 18°
   - name: ハイウェイコースター
     difficulty: intermediate
     length: 1,450m
+    maxSlope: 28°
     averageSlope: 18°
   - name: ジェミニ
     difficulty: intermediate
     length: 540m
+    maxSlope: 23°
     averageSlope: 15°
   - name: ヴィーナス
     difficulty: intermediate
     length: 540m
+    maxSlope: 23°
     averageSlope: 15°
   - name: ムーンシャイン
     difficulty: intermediate
     length: 130m
+    maxSlope: 26°
     averageSlope: 18°
-  - name: ナチュラルテレイン
+  - name: フリーウェイ
     difficulty: intermediate
-    length: 480m
-    averageSlope: 15°
-  - name: バードウォッチャー（アカゲラの森）
+    length: 400m
+    maxSlope: 20°
+    averageSlope: 16°
+  - name: バードウォッチャー(アカゲラの森）
     difficulty: intermediate
     length: 160m
+    maxSlope: 15°
     averageSlope: 12°
   - name: グローリー
     difficulty: advanced
     length: 520m
+    maxSlope: 25°
     averageSlope: 20°
   - name: ノーグラビティ
     difficulty: advanced
@@ -190,15 +237,13 @@ courses:
   - name: ノーススター
     difficulty: advanced
     length: 500m
+    maxSlope: 30°
     averageSlope: 22°
   - name: グランプリZ
     difficulty: advanced
     length: 450m
+    maxSlope: 26°
     averageSlope: 21°
-  - name: フリーウェイ
-    difficulty: advanced
-    length: 400m
-    averageSlope: 16°
 lifts:
   total: 6
 access:
@@ -209,29 +254,29 @@ access:
         - 從 Tomamu 站搭乘星野渡假村免費接駁巴士約 5 分鐘。
       estimatedTime: 約 1 小時 45 分
       difficulty: easy
-      note: Japan Ski Guide 列出的札幌站至 Tomamu 站約 1 小時 40 分，需再銜接接駁巴士。
+      note: Tomamu 站僅停靠特急列車，座位均需預約；接駁至 The Tower 約 5 分鐘、RISONARE Tomamu 約 10 分鐘。
       links:
         - label: Tomamu 官方交通資訊
-          url: https://www.snowtomamu.jp/winter/
+          url: https://www.snowtomamu.jp/winter/access/
   fromAirport:
     - label: 新千歲機場出發
       steps:
-        - 從新千歲機場搭 JR 至 Tomamu 站。
+        - 從新千歲機場搭 JR 並轉乘特急列車至 Tomamu 站。
         - 從 Tomamu 站搭乘免費接駁巴士前往 Resort。
       estimatedTime: 約 1 小時 35 分
       difficulty: easy
-      note: Tomamu 官方提供機場與車站接駁資訊，班次需依住宿與當季公告確認。
+      note: 列車與接駁班次依當季公告確認；Tomamu 站僅停靠全車指定席的特急列車。
       links:
         - label: Tomamu 官方交通資訊
-          url: https://www.snowtomamu.jp/winter/
+          url: https://www.snowtomamu.jp/winter/access/
   car:
     recommended: true
     snowTireRequired: true
     note: 從 Tomamu IC 下交流道後接一般道路前往 Resort；十勝清水／音更帶廣方向約 1 小時，札幌方向約 2 小時，新千歲機場自駕約 1.5 小時。雪季需使用雪胎或雪鏈。
 terrainSummary:
-  beginner: 初級雪道佔 30%，可作為安排練習與暖身的參考。
-  intermediate: 中級雪道佔 40%，適合已能穩定轉彎的滑雪者參考。
-  advanced: 上級雪道佔 30%，進階路線請依當日雪況與官方管制判斷。
+  beginner: 初心及初級雪道共 11 條，包含 Silver Bell 與 Beginner's Choice 長距離路線。
+  intermediate: 14 條中級雪道涵蓋壓雪坡面、林間及未壓雪路線。
+  advanced: 4 條上級雪道包含最大斜度 35° 的 No Gravity。
   snowboard: 雪板可滑行。
   powder: 北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。
 externalContent:
@@ -335,4 +380,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/tomamu/
 ---
 
-星野渡假村 Tomamu 是北海道的大型雪場，共有 29 條雪道，搭配 6 座纜車。雪道如 プラチナベル、シルバーベル，初級、中級與上級路線都有配置，標籤偏向夜滑、雙板與單板。
+星野渡假村 Tomamu 位於北海道內陸，寒冷氣候孕育輕盈乾燥的粉雪。雪場共有 29 條雪道與 6 座纜車，從初學者緩坡到上級者雪道皆有配置，適合不同程度的大人與小孩。Silver Bell 串接 Beginner's Choice 最長可滑行約 4,200 公尺，另有林間路線及未壓雪區域可探索。

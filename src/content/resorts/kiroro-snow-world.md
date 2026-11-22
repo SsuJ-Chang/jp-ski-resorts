@@ -28,8 +28,9 @@ links:
   xTwitter: https://twitter.com/KIRORO_RESORT
   googleMaps: https://maps.app.goo.gl/jkAJyUtaZLMELuwh6
   weather: https://weathernews.jp/ski/spot/31609/
-  ticket: https://weathernews.jp/ski/spot/31609/
-  access: https://weathernews.jp/ski/spot/31609/
+  ticket: https://www.kiroro.co.jp/ja/lift_price/
+  access: https://www.kiroro.co.jp/ja/access-winter/
+  trailMapPage: https://www.kiroro.co.jp/ja/guide_map/
 contact:
   address:
     zhTw: 〒046-0593 北海道余市郡赤井川村字常盤１２８−１
@@ -38,33 +39,48 @@ contact:
     googleMaps: https://maps.app.goo.gl/jkAJyUtaZLMELuwh6
   phone: 0135-34-7171
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/6～2026/5/3
-  hours: 平日：纜車開始運行 9:00 ※結束時間依時期變動 假日：纜車開始運行 9:00 ※結束時間依時期變動 夜滑：16:00〜19:00(夜滑營業日はキロロHPでご確認下さい。）
-  note: 營業期間、營業時間與票價為 2025-2026 雪季公開資料；實際營運會受積雪、天候與官方公告影響。
-  source: https://weathernews.jp/ski/spot/31609/
-  nightSkiingHours: 16:00〜19:00(夜滑營業日はキロロHPでご確認下さい。）
+  label: 2026-2027
+  operatingPeriod: 2026/11/28～2027/5/5
+  hours: 纜車約 9:00 起運行，結束時間依時期及設施而異。
+  note: 營業期間為預定日期，營運會受積雪、天候與官方公告影響。
+  source: https://www.kiroro.co.jp/ja/lift_price/
+  nightSkiingHours: 16:00～19:00，營業日依官方公告
+trailMaps:
+  - label: Kiroro 雪道圖
+    language: 日文
+    season: 2026-2027
+    url: https://www.kiroro.co.jp/wp-content/uploads/2026/10/map_260730_ja2.jpg
+    sourceLabel: Kiroro Resort
 tickets:
-  season: 2025-2026
+  season: 2026-2027
   currency: JPY
-  source: https://weathernews.jp/ski/spot/31609/
-  note: 主要票種摘要取自公開雪場資料；實際販售條件、優惠、IC 卡或保證金請以官方最新公告為準。
+  source: https://www.kiroro.co.jp/ja/lift_price/
+  note: 以下為官方一般票價；另收 IC 卡保證金 ¥500，退卡時退還。兒童為 6～12 歲，青少年為 13～18 歲，長者為 65 歲以上；5 歲以下由監護人陪同免費，但仍需支付卡片保證金。
   plans:
-    - name: 1 日券（另需卡片保證金 ¥500）
+    - name: 1 日券 / 旺季（12/12 ~ 4/11）
       priceLines:
-        - 成人：¥8,800
-        - 兒童：¥4,800
-        - 長者：¥7,700
-    - name: 4 小時券（另需卡片保證金 ¥500）
+        - 成人：¥9,200
+        - 長者 / 青少年：¥8,000
+        - 兒童：¥5,500
+    - name: 1 日券 / 初滑及春季（11/28 ~ 12/11、4/12 ~ 5/5）
       priceLines:
-        - 成人：¥7,400
-        - 兒童：¥3,900
-        - 長者：¥6,600
+        - 成人：¥5,800
+        - 長者 / 青少年：¥5,400
+        - 兒童：¥3,800
+    - name: 4 小時券 / 旺季（12/12 ~ 4/11）
+      priceLines:
+        - 成人：¥7,800
+        - 長者 / 青少年：¥7,000
+        - 兒童：¥4,100
+    - name: 4 小時券 / 初滑及春季（11/28 ~ 12/11、4/12 ~ 5/5）
+      priceLines:
+        - 成人：¥5,500
+        - 長者 / 青少年：¥5,100
+        - 兒童：¥3,500
     - name: 夜滑券
       priceLines:
-        - 成人：¥2,900
-        - 兒童：¥1,900
-        - 長者：¥2,900
+        - 成人 / 長者 / 青少年：¥3,000
+        - 兒童：¥2,000
 snowWeather:
   title: Kiroro Snow World雪況天氣
   provider: Weathernews
@@ -75,56 +91,127 @@ snowWeather:
   note: 雪況與天氣會隨季節、營運狀況與天候快速變動，出發前請以雪場當季公告與最新天氣資訊為準。
 courses:
   total: 23
-  beginnerRatio: 37
-  intermediateRatio: 37
-  advancedRatio: 26
-  courseInfoPage: https://weathernews.jp/ski/spot/31609/
-  summary: Kiroro Snow World 滑雪場：共有 23 條雪道、9 座纜車，難度比例為初級 37%、中級 37%、上級 26%。
+  beginnerRatio: 14
+  intermediateRatio: 44
+  advancedRatio: 42
+  courseInfoPage: https://www.kiroro.co.jp/ja/guide_map/
+  summary: 全場 23 條雪道分布於朝里、余市、長峰及中央區，最長路線約 4,050m，另設林間滑行區。
   details:
-  - name: Family Course
+  - name: 朝里第 1-A / 朝里第1-A
     difficulty: beginner
-  - name: Center Link
+    length: 710m
+    maxSlope: 10.3°
+    averageSlope: 6.6°
+  - name: 朝里第 1-B / 朝里第1-B
     difficulty: beginner
-  - name: Center Course A
+    length: 650m
+    maxSlope: 14.6°
+    averageSlope: 7.2°
+  - name: 長峰第 1 / 長峰第1
     difficulty: beginner
-  - name: Center Course B
-    difficulty: intermediate
-  - name: Center Course C
-    difficulty: intermediate
-  - name: Nagamine Course 1
+    length: 1,900m
+    maxSlope: 15.3°
+    averageSlope: 6.3°
+  - name: 余市第 2-A / 余市第2-A
     difficulty: beginner
-  - name: Nagamine Course 2-A
-    difficulty: intermediate
-  - name: Nagamine Course 2-B
-    difficulty: intermediate
-  - name: Nagamine Course 2-C
-    difficulty: intermediate
-  - name: Yoichi Course 1-A
+    length: 500m
+    maxSlope: 14.0°
+    averageSlope: 8.7°
+  - name: 家庭雪道 / ファミリーコース
     difficulty: beginner
-  - name: Yoichi Course 1-B
+    length: 250m
+    maxSlope: 6.6°
+    averageSlope: 6.2°
+  - name: Gateway 雪道 / ゲートウェイコース
+    difficulty: beginner
+    length: 900m
+    maxSlope: 7.0°
+    averageSlope: 5.0°
+  - name: 朝里動態雪道 / 朝里ダイナミック
     difficulty: intermediate
-  - name: Yoichi Course 2-A
+    length: 4,050m
+    maxSlope: 23.9°
+    averageSlope: 12.5°
+  - name: 朝里全景雪道 / 朝里パノラマ
     difficulty: intermediate
-  - name: Yoichi Course 2-B
+    length: 2,500m
+    maxSlope: 16.0°
+    averageSlope: 6.7°
+  - name: 長峰第 2-A / 長峰第2-A
     difficulty: intermediate
-  - name: Asari Panorama Course
+    length: 1,000m
+    maxSlope: 25.4°
+    averageSlope: 18.2°
+  - name: 長峰第 2-C / 長峰第2-C
     difficulty: intermediate
-  - name: Asari Course 1-A
+    length: 1,150m
+    maxSlope: 23.2°
+    averageSlope: 15.8°
+  - name: 余市第 1-A / 余市第1-A
     difficulty: intermediate
-  - name: Asari Course 1-B
+    length: 1,950m
+    maxSlope: 25.7°
+    averageSlope: 10.0°
+  - name: 余市第 1-B / 余市第1-B
     difficulty: intermediate
-  - name: Asari Course 2-A
+    length: 2,050m
+    maxSlope: 25.4°
+    averageSlope: 9.5°
+  - name: 中央 A / センターA
     difficulty: intermediate
-  - name: Asari Course 2-B
+    length: 1,150m
+    maxSlope: 23.4°
+    averageSlope: 11.8°
+  - name: 中央 B / センターB
+    difficulty: intermediate
+    length: 1,250m
+    maxSlope: 21.3°
+    averageSlope: 11.0°
+  - name: Expert A / エキスパートA
     difficulty: advanced
-  - name: Asari Course 2-C
+    length: 3,500m
+    maxSlope: 34.6°
+    averageSlope: 9.2°
+  - name: Expert B / エキスパートB
     difficulty: advanced
-  - name: Asari Dynamic Course
+    length: 3,800m
+    maxSlope: 34.6°
+    averageSlope: 10.7°
+  - name: 朝里第 2-A / 朝里第2-A
     difficulty: advanced
-  - name: Asari Expert A Course
+    length: 1,250m
+    maxSlope: 27.2°
+    averageSlope: 11.3°
+  - name: 朝里第 2-B / 朝里第2-B
     difficulty: advanced
-  - name: Asari Expert B Course
+    length: 1,150m
+    maxSlope: 33.7°
+    averageSlope: 12.5°
+  - name: 朝里第 2-C / 朝里第2-C
     difficulty: advanced
+    length: 1,100m
+    maxSlope: 36.8°
+    averageSlope: 14.0°
+  - name: 長峰第 2-B / 長峰第2-B
+    difficulty: advanced
+    length: 1,100m
+    maxSlope: 23.2°
+    averageSlope: 16.6°
+  - name: 余市第 2-B / 余市第2-B
+    difficulty: advanced
+    length: 400m
+    maxSlope: 27.5°
+    averageSlope: 10.3°
+  - name: 中央 C / センターC
+    difficulty: advanced
+    length: 1,450m
+    maxSlope: 26.6°
+    averageSlope: 9.8°
+  - name: 中央連絡道 / センターリンク
+    difficulty: advanced
+    length: 600m
+    maxSlope: 25.0°
+    averageSlope: 15.0°
 lifts:
   total: 9
 access:
@@ -135,10 +222,10 @@ access:
         - 抵達 Kiroro Resort 後步行至雪場。
       estimatedTime: 約 1.5-2 小時
       difficulty: easy
-      note: Kiroro 的接駁方案與班次依雪季公告，部分住宿與滑雪巴士需預約。
+      note: 札幌滑雪巴士預定 2026/12/10～2027/4/11 運行，小樽路線依不同期間提供班次；請事先查詢並預約。
       links:
         - label: Kiroro 官方交通資訊
-          url: https://www.kiroro.co.jp/en/access/
+          url: https://www.kiroro.co.jp/ja/access-winter/
   fromAirport:
     - label: 新千歲機場出發
       steps:
@@ -146,18 +233,18 @@ access:
         - 抵達 Kiroro Resort 後步行至雪場。
       estimatedTime: 約 2 小時
       difficulty: easy
-      note: 也可先到小樽再銜接交通；機場直達班次依雪季運行。
+      note: 也可搭 JR 至小樽築港站，再轉乘計程車或租車；機場直達班次依雪季運行，請事先預約。
       links:
         - label: Kiroro 官方交通資訊
-          url: https://www.kiroro.co.jp/en/access/
+          url: https://www.kiroro.co.jp/ja/access-winter/
   car:
     recommended: true
     snowTireRequired: true
     note: 從札樽道朝里 IC 自駕約 30 分鐘，小樽市區約 45 分鐘，新千歲機場約 90 分鐘。雪季山路需使用雪胎或雪鏈。
 terrainSummary:
-  beginner: 初級雪道佔 37%，可作為安排練習與暖身的參考。
-  intermediate: 中級雪道佔 37%，適合已能穩定轉彎的滑雪者參考。
-  advanced: 上級雪道佔 26%，進階路線請依當日雪況與官方管制判斷。
+  beginner: 初級路線包含家庭雪道、長峰第 1 與朝里第 1 等緩坡。
+  intermediate: 中級雪道涵蓋朝里全景、長峰及中央區路線。
+  advanced: 朝里 Expert、余市與長峰部分路線列為上級，亦有林間滑行區。
   snowboard: 雪板可滑行。
   powder: 北海道雪場的積雪與雪質會隨季節與天候變動，粉雪與未壓雪滑行請依官方開放狀態判斷。
 externalContent:
@@ -202,4 +289,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/kiroro-snow-world/
 ---
 
-Kiroro Snow World 是北海道的大型雪場，共有 23 條雪道，搭配 9 座纜車。雪道如 Family Course、Center Link，初級、中級與上級路線都有配置，標籤偏向夜滑、雙板與單板。
+Kiroro Snow World 位於北海道，以豐沛降雪與粉雪聞名。全場設有 23 條雪道及 9 座纜車，從家庭緩坡、長距離巡航到陡坡與林間滑行區都有配置。朝里、余市與長峰各有不同坡面，初學者至進階滑雪者都能依程度安排路線，最長滑行距離約 4,050 公尺。
