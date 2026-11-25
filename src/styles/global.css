@@ -3425,19 +3425,25 @@ h1 {
   .site-search__field {
     position: absolute;
     top: calc(100% + 8px);
-    right: 0;
+    /* Match the home search's 16px viewport gutters. */
+    right: calc(50% - 50vw + 16px);
     background: #f7f8f3;
     box-shadow: 0 18px 42px rgba(23, 33, 31, 0.18);
   }
 
+  /* Keep focused inputs at least 16px to prevent iOS auto-zoom. */
+  .site-search__field input {
+    font-size: max(16px, 1rem);
+  }
+
   .site-search--open .site-search__field {
-    width: min(420px, calc(100vw - 24px));
+    width: calc(100vw - 32px);
   }
 
   .site-search .search-suggestions {
     top: calc(100% + 58px);
-    right: 0;
-    width: min(420px, calc(100vw - 24px));
+    right: calc(50% - 50vw + 16px);
+    width: calc(100vw - 32px);
     background: #f7f8f3;
   }
 
