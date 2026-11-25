@@ -30,7 +30,7 @@ links:
   xTwitter: https://twitter.com/tazawakoski
   weather: https://weathernews.jp/ski/spot/33204/
   googleMaps: https://maps.app.goo.gl/4NgCrm3VtVAExeQq5
-  access: https://www.tazawako-ski.com
+  access: https://www.tazawako-ski.com/acc/
 contact:
   address:
     zhTw: 〒014-1201 秋田縣仙北市田澤湖生保内字下高野73-2
@@ -39,11 +39,46 @@ contact:
     googleMaps: https://maps.app.goo.gl/4NgCrm3VtVAExeQq5
   phone: 0187-46-2011
 season:
-  label: 2025-2026
-  operatingPeriod: 2025/12/20～2026/03/29
-  hours: 平日：9:00〜16:00 / 假日：8:30〜16:00
+  label: 2026-2027
+  operatingPeriod: 2026/12/19～2027/03/28
+  hours: 主要四人座纜車平日 9:00〜16:00，週末、國定假日及跨年期間 8:30〜16:00
   note: 營業日期與時間會依積雪、天候與活動調整；出發前請確認官方公告。
-  source: https://weathernews.jp/ski/spot/33204/
+  source: https://www.tazawako-ski.com/lif/
+trailMaps:
+- label: 田澤湖雪道圖
+  language: 日本語
+  season: 2026-2027
+  url: https://www.tazawako-ski.com/ger/
+  sourceLabel: Tazawako Ski Resort Official
+tickets:
+  season: 2026-2027
+  currency: JPY
+  source: https://www.tazawako-ski.com/lif/
+  note: 票價含稅。長者優惠適用 60 歲以上。學齡前兒童免費，但須由家長陪同搭乘，並與家長一起至售票處領票。單次券搭乘四人座纜車須使用 2 次份額。
+  plans:
+    - name: 5 小時券
+      priceLines:
+        - 成人 ¥5,300
+        - 60 歲以上 ¥4,400
+        - 國中生、高中生 ¥3,400
+      note: 官方未列小學生 5 小時券價格。
+    - name: 1 日券
+      priceLines:
+        - 成人 ¥5,800
+        - 60 歲以上 ¥4,800
+        - 國中生、高中生 ¥3,600
+        - 小學生 ¥1,900
+    - name: 單次券
+      priceLines:
+        - 成人、60 歲以上、國中生、高中生、小學生均為 ¥500
+    - name: 季票
+      priceLines:
+        - 成人 ¥65,000
+        - 60 歲以上 ¥55,000
+        - 70 歲以上 ¥30,000
+        - 高中生 ¥30,000
+        - 國中生 ¥25,000
+        - 小學生 ¥15,000
 snowWeather:
   title: 田澤湖 積雪與天氣
   provider: Weathernews
@@ -55,76 +90,124 @@ snowWeather:
 courses:
   total: 13
   beginnerRatio: 30
-  intermediateRatio: 40
-  advancedRatio: 30
-  courseInfoPage: https://weathernews.jp/ski/spot/33204/
-  summary: 田澤湖共有 13 條雪道，難度比例約初級 30%、中級 40%、進階 30%，中級雪道比例較高，適合依同行者程度安排分區滑行。
+  intermediateRatio: 30
+  advancedRatio: 40
+  courseInfoPage: https://www.tazawako-ski.com/cou/
+  summary: 共 13 條雪道，從寬敞緩坡、俯瞰田澤湖的國體雪道，到最大坡度 38° 的水澤冠軍雪道，兼具湖景滑行與深雪地形。
   details:
-    - name: 初級路線 1
+    - name: かもしかコース
       difficulty: beginner
-      note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 初級路線 2
+      length: 1,100m
+      maxSlope: 22°
+      note: 坡度 13°〜22°，雪道寬敞，具有適度緩坡。
+    - name: かもしかジュニアコース
       difficulty: beginner
-      note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 初級路線 3
+      length: 1,200m
+      maxSlope: 20°
+      note: 坡度 15°〜20°，坡度變化較少，有時會設置旗門。
+    - name: 水沢コース
       difficulty: beginner
-      note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 初級路線 4
+      length: 1,000m
+      maxSlope: 20°
+      note: 坡度 10°〜20°，寬敞雪道適合初學者與滑雪課程。
+    - name: 白樺コース
       difficulty: beginner
-      note: 目前僅能確認此雪場包含初級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 中級路線 1
+      length: 1,600m
+      maxSlope: 20°
+      note: 坡度 10°〜20°，寬敞雪道適合初學課程，也受到家庭旅客歡迎。
+    - name: かもしか林間コース
       difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 中級路線 2
+      length: 650m
+      maxSlope: 25°
+      note: 坡度 15°〜25°，路幅較窄且起伏豐富。
+    - name: 駒ケ岳第2コース
       difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 中級路線 3
+      length: 1,100m
+      maxSlope: 27°
+      note: 坡度 18°〜27°，緩坡與陡坡適度交替。
+    - name: 国体コース
       difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 中級路線 4
+      length: 1,600m
+      maxSlope: 33°
+      note: 坡度 27°〜33°，可俯瞰田澤湖的長雪道，有時會設置旗門。
+    - name: ぎんれいユートピアコース
       difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 中級路線 5
-      difficulty: intermediate
-      note: 目前僅能確認此雪場包含中級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 上級路線 1
+      length: 750m
+      maxSlope: 25°
+      note: 坡度 18°〜25°，緩陡變化豐富，有時會設置旗門。
+    - name: 黒森山コース
       difficulty: advanced
-      note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 上級路線 2
+      length: 550m
+      maxSlope: 33°
+      note: 坡度 27°〜33°，可體驗壓雪、新雪與深雪，也是自由式滑雪雪上技巧世界盃的比賽雪道。
+    - name: 駒ケ岳第3コース
       difficulty: advanced
-      note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 上級路線 3
+      length: 650m
+      maxSlope: 28°
+      note: 坡度 25°〜28°，越往下路幅越寬，可享受 carving，有時以新雪狀態開放。
+    - name: ぎんれい第2コース
       difficulty: advanced
-      note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
-    - name: 上級路線 4
+      length: 700m
+      maxSlope: 32°
+      note: 坡度 25°〜32°，路幅寬敞，受到進階滑雪者歡迎。
+    - name: ぎんれいパラダイスコース
       difficulty: advanced
-      note: 目前僅能確認此雪場包含上級滑行比例；正式雪道名稱、長度與坡度待後續以官方雪道圖補齊。
+      length: 600m
+      maxSlope: 34°
+      note: 坡度 25°〜34°，可享受新雪與深雪的粉雪雪道。
+    - name: 水沢チャンピオンコース
+      difficulty: advanced
+      length: 1,000m
+      maxSlope: 38°
+      note: 坡度 25°〜38°，是雪場最陡的雪道，可體驗深雪雙板與雪板滑行。
 lifts:
   total: 6
 access:
   fromTokyo:
-    - label: 大眾交通工具（主要車站銜接）
+    - label: 東京出發，秋田新幹線轉路線巴士
       steps:
-        - 鐵路：秋田新幹線田沢湖駅よりバス (30分)
-        - 鐵路：秋田新幹線田沢湖駅よりタクシー (20分)
-      estimatedTime: 約 30 分
+        - 東京站搭乘秋田新幹線至田澤湖站（田沢湖駅）
+        - 轉乘羽後交通路線巴士前往雪場
+      estimatedTime: 田澤湖站起巴士約 30 分鐘，不含新幹線與轉乘等待
       difficulty: medium
+      links:
+        - label: 官方交通資訊
+          url: https://www.tazawako-ski.com/acc/
+  publicTransit:
+    - label: 田澤湖站轉乘巴士或計程車
+      steps:
+        - 抵達秋田新幹線田澤湖站
+        - 轉乘羽後交通路線巴士，或搭乘計程車前往雪場
+      estimatedTime: 巴士約 30 分鐘、計程車約 20 分鐘
+      difficulty: easy
+      note: 路線巴士班次請於出發前向羽後交通確認。
+      links:
+        - label: 羽後交通
+          url: https://ugokotsu.co.jp/
+        - label: 官方交通資訊
+          url: https://www.tazawako-ski.com/acc/
   fromAirport:
-    - label: 機場銜接
+    - label: 秋田機場共乘計程車（須預約，當季營運待確認）
       steps:
-        - 飛機：秋田空港よりエアポートライナーで田沢湖止(2日前止に要予約018-867-7444) (105分)
-      estimatedTime: 約 105 分
+        - 向秋田 Airport Liner 確認角館、田澤湖、乳頭溫泉鄉路線當季是否停靠雪場，並完成預約
+        - 由秋田機場搭乘共乘計程車前往田澤湖雪場
       difficulty: medium
+      note: 官方交通頁註記須於前一天 12:00 前預約，但所附時刻表標示為 2019 年資料。當季班次、車程、費用及預約期限請向營運單位重新確認，電話 018-867-7444。
+      links:
+        - label: 官方交通資訊
+          url: https://www.tazawako-ski.com/acc/
+        - label: 秋田 Airport Liner
+          url: http://akita.airportliner.net/jp/
   car:
     recommended: true
     snowTireRequired: true
-    note: 自駕參考：自駕：仙台宮城ICより東北道(179.7km)のち盛岡ICより一般道(49km) (210分)；自駕：川口JCTより東北道(512.1km)のち盛岡ICより一般道(49km) (510分)。停車場：2800台 / 平日 免費 / 假日 免費。冬季山路需準備雪胎或雪鏈。
+    note: 從東北自動車道盛岡交流道經國道 46 號約 1 小時，從秋田自動車道協和交流道經國道 46 號約 1 小時 30 分鐘。免費停車場約 2,800 台。冬季山路需準備雪胎或雪鏈。
 terrainSummary:
-  beginner: 初級比例約 30%，可作為暖身、親子同行或初訪時的主要安排。
-  intermediate: 中級比例約 40%，適合已能穩定轉彎的滑雪者串接主要雪道。
-  advanced: 進階比例約 30%，建議視當日積雪與壓雪狀況選擇。
-  snowboard: 全面可；單板實際可滑區域仍以現場開放為準。
-  powder: ○ / ツリーランコースで非圧雪ゾーンも楽しめます。；粉雪與非壓雪區域會受天候與管理狀態影響。
+  beginner: 初級雪道約占 30%，水澤與白樺雪道路幅寬敞，適合初學課程與家庭同行。
+  intermediate: 中級雪道約占 30%，可選擇緩陡交替的駒岳第 2 雪道，或在國體雪道俯瞰田澤湖。
+  advanced: 進階雪道約占 40%，包含黑森山競賽雪道與最大坡度 38° 的水澤冠軍雪道。
+  snowboard: 兼有寬敞中緩坡、雪上公園與深雪地形，雪板玩家可依程度選擇路線，實際開放以現場公告為準。
+  powder: 未壓雪地形約占 40%，ぎんれいパラダイス與水澤冠軍雪道可體驗新雪、深雪，滑行條件依當日積雪與開放狀況而定。
 externalContent:
   blogs:
     - title: 【日本田澤湖滑雪番外篇】Cat Tour搭乘壓雪車，挑戰秘境鬆雪滑道
@@ -142,4 +225,4 @@ externalGuide:
   url: https://www.japowdb.com/zh-tw/resorts/tazawako/
 ---
 
-田澤湖位在秋田縣，雪道數為13 條，搭配 6 座纜車。初級、中級與上級路線都有配置，這裡先呈現已整理的滑行配置；標籤上偏向親子同行、溫泉停留。
+田澤湖位於秋田縣仙北市，從雪道可眺望田澤湖，湖景是滑行途中的一大特色。全區共有 13 條雪道與 6 座纜車，從寬敞的中緩坡，到饅頭坡、深雪與雪上公園，提供不同程度滑雪者多樣的地形選擇。初學者可利用水澤與白樺雪道練習，進階滑雪者則能探索黑森山、ぎんれいパラダイス與水澤冠軍等雪道。滑雪後也能搭配周邊乳頭溫泉鄉等天然溫泉，安排日歸泡湯行程。
